@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5fb900782a7cddaf",
+        "id": "e35365689dbd4196",
         "type": "tabs",
         "children": [
           {
-            "id": "f7275e09abb30b42",
+            "id": "2bd01e24cabe4916",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "HH Oneshot Brutte Brutte Cose/.obsidian/core-plugins.json",
+                "bFile": "HH Oneshot Brutte Brutte Cose/.obsidian/core-plugins.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: core-plugins.json  (Working Tree)"
             }
           }
         ]
@@ -187,6 +191,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f7275e09abb30b42",
-  "lastOpenFiles": []
+  "active": "2bd01e24cabe4916",
+  "lastOpenFiles": [
+    "EVENTI.md",
+    "IL DEBITORE.md",
+    "CONTRATTI.md"
+  ]
 }
