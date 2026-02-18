@@ -11,14 +11,12 @@
             "id": "8517c81d5fe9b479",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "CONTRATTI.md",
-                "mode": "source",
-                "source": false
+                "file": "images/fight_1.png"
               },
-              "icon": "lucide-file",
-              "title": "CONTRATTI"
+              "icon": "lucide-image",
+              "title": "fight_1"
             }
           }
         ]
@@ -192,10 +190,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8517c81d5fe9b479",
+  "active": "92ca3f1fbbf0ba63",
   "lastOpenFiles": [
-    "EVENTI.md",
+    "images/Contatore BBC.png",
+    "images/Cottage.png",
+    "images/fight_1.png",
     "CONTRATTI.md",
+    "EVENTI.md",
     "APPUNTI SESSIONI.md",
     "IL DEBITORE.md",
     "LE 4 FATE.md",
