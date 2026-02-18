@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "c8c3c8e809040c7d",
+        "id": "1d3a6cd898dbdc33",
         "type": "tabs",
         "children": [
           {
-            "id": "6ced12e654c787f5",
+            "id": "8517c81d5fe9b479",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "image",
               "state": {
-                "aFile": "HH Oneshot Brutte Brutte Cose/.obsidian/workspace.json",
-                "bFile": "HH Oneshot Brutte Brutte Cose/.obsidian/workspace.json",
-                "aRef": ""
+                "file": "images/fight_1.png"
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "icon": "lucide-image",
+              "title": "fight_1"
             }
           }
         ]
@@ -154,12 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "CONTRATTI.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of CONTRATTI"
             }
           },
           {
@@ -177,7 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 422.5
+    "width": 216.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,23 +190,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0992d1f7bb748257",
+  "active": "92ca3f1fbbf0ba63",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "images/Contatore BBC.png",
+    "images/Cottage.png",
+    "images/fight_1.png",
     "CONTRATTI.md",
-    "NOTE VARIE.md",
-    "LE 4 FATE.md",
-    "MECCANICHE.md",
-    "IL DEBITORE.md",
     "EVENTI.md",
     "APPUNTI SESSIONI.md",
-    "images/Finale brutto.png",
-    "images/fight_1.png",
-    "images/Cottage.png",
-    "images/Contatore BBC.png",
-    "images/fight_2.png",
-    "images/Orologio.png",
-    "images/Mappa.png",
-    "images"
+    "IL DEBITORE.md",
+    "LE 4 FATE.md",
+    "NOTE VARIE.md",
+    "MECCANICHE.md",
+    "Untitled.base",
+    "Untitled 1.base"
   ]
 }
