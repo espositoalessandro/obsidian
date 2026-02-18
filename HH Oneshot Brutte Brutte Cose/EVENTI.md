@@ -24,6 +24,8 @@ Alla fine dei 4 ricordi, le fate si troveranno nella tasca una chiave ciascuno p
 
 ### FASE 2: Il rapimento di Madelaine
 
+Le 4 fate trovano la porta aperta con un lungo e buio corridoio. Alla fine del corridoio arrivano in un luogo semi-spettrale che riconoscono avere la forma di una città un po' trasandata (sarà Unter). Dovranno combattere lì contro 4 omini ombrosi: sono le parti coscienti delle 4 fate che cercano di risalire a galla?
+
 Le 4 fate dovranno organizzare il rapimento della sorella del Debitore, Madelaine, che useranno poi per togliere di mezzo la sorella di Serelya, **Victoire**.
 Il piano non è ucciderla ma far si che il Debitore la rapisca e la porti giù in Cantina, dove poi dovrà assicurarsi che resti per sempre.
 
@@ -32,6 +34,8 @@ Il Debitore, Julien, viene da Unter, di cui Victoria è innamorata. Hanno una re
 Iniziare il ricordo con Serelya che sta illustrando al gruppo come, qualora lei divenisse Marchesa, la posizione che ricoprirebbe sarebbe comoda per tutti quanti.
 
 ### FASE 3:  Il ritorno del Debitore
+
+Inserire anche qui combattimento con 
 
 Il Debitore adesca Iscandre per le strade, dicendogli che ha informazioni molto interessanti riguardo la strana scomparsa della Marchesa anni prima. All'inizio Iscandre lo guarda scettico, ma quando il Debitore afferma di conoscere anche l'oscuro segreto dell'attuale Marchesa Serelya, Iscandre va in panico. Tutto ciò che il Debitore chiede in cambio è un tetto sopra la testa. In preda al panico, Iscandre gli concede un vecchio cottage che aveva avuto come prezzo in uno dei suoi vecchi contratti.
 
