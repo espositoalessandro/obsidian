@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1d3a6cd898dbdc33",
+        "id": "c8c3c8e809040c7d",
         "type": "tabs",
         "children": [
           {
-            "id": "8517c81d5fe9b479",
+            "id": "6ced12e654c787f5",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "split-diff-view",
               "state": {
-                "file": "images/fight_1.png"
+                "aFile": "HH Oneshot Brutte Brutte Cose/.obsidian/workspace.json",
+                "bFile": "HH Oneshot Brutte Brutte Cose/.obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-image",
-              "title": "fight_1"
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
             }
           }
         ]
@@ -152,13 +154,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CONTRATTI.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of CONTRATTI"
+              "title": "Outline"
             }
           },
           {
@@ -176,7 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 216.5
+    "width": 422.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,19 +191,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "92ca3f1fbbf0ba63",
+  "active": "0992d1f7bb748257",
   "lastOpenFiles": [
-    "images/Contatore BBC.png",
-    "images/Cottage.png",
+    "conflict-files-obsidian-git.md",
+    "images/fight_2.png",
     "images/fight_1.png",
+    "images/Orologio.png",
+    "images/Mappa.png",
+    "images/Finale brutto.png",
+    "images/Cottage.png",
+    "images/Contatore BBC.png",
+    "images",
     "CONTRATTI.md",
-    "EVENTI.md",
-    "APPUNTI SESSIONI.md",
-    "IL DEBITORE.md",
-    "LE 4 FATE.md",
     "NOTE VARIE.md",
+    "LE 4 FATE.md",
     "MECCANICHE.md",
-    "Untitled.base",
-    "Untitled 1.base"
+    "IL DEBITORE.md",
+    "EVENTI.md",
+    "APPUNTI SESSIONI.md"
   ]
 }
