@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e35365689dbd4196",
+        "id": "1d3a6cd898dbdc33",
         "type": "tabs",
         "children": [
           {
-            "id": "2bd01e24cabe4916",
+            "id": "8517c81d5fe9b479",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "HH Oneshot Brutte Brutte Cose/.obsidian/core-plugins.json",
-                "bFile": "HH Oneshot Brutte Brutte Cose/.obsidian/core-plugins.json",
-                "aRef": ""
+                "file": "CONTRATTI.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: core-plugins.json  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "CONTRATTI"
             }
           }
         ]
@@ -154,12 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "CONTRATTI.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of CONTRATTI"
             }
           },
           {
@@ -177,7 +178,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 616.5
+    "width": 216.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,10 +192,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2bd01e24cabe4916",
+  "active": "8517c81d5fe9b479",
   "lastOpenFiles": [
     "EVENTI.md",
+    "CONTRATTI.md",
+    "APPUNTI SESSIONI.md",
     "IL DEBITORE.md",
-    "CONTRATTI.md"
+    "LE 4 FATE.md",
+    "NOTE VARIE.md",
+    "MECCANICHE.md",
+    "Untitled.base",
+    "Untitled 1.base"
   ]
 }

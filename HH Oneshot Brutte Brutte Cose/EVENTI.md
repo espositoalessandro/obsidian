@@ -16,10 +16,9 @@ Verranno mostrati 4 ricordi, uno per ogni Fata, che suggeriranno il quadro gener
 - Gauthier è nel suo studio ed un cadetto arriva da lui con una lettera sigillata. La lettera è completamente anonima, presenta solo un sigillo di ceralacca nero senza alcun tipo di marchio sopra. Aprendola, si scopre che la lettera è stata scritta dalla Marchesa Serelya e chiede una promozione per il ragazzo di fronte a causa di sue "nobili gesta". 
 - Gauthier dovrà richiedere l'approvazione del Generale.
 ##### Ricordo 4: Serelya
-
 - Serelya è in stanza con Victorie e stanno parlando. Victorie le racconta della sua relazione con il Debitore, Julien. Serelya è scioccata dalla rivelazione, ma piano piano nel suo cervello nasce un'idea.
 - Le 3 fate si ritrovano fuori una locanda. Sono state invitate da Serelya per discutere di un "affare interessante". Devono entrare dentro e chiedere della stanza 33. 
-- Una volta entrati tutti nella stanza, troveranno Serelya ed un tipo ad attenderle. Serelya darà loro il benvenuto e lascerà al suo avvocato Gustave il compito di illustrare il suo piano. Serelya dovrà convincere le 3 fate ad accettare.
+- Una volta entrati tutti nella stanza, troveranno Serelya ed un tipo ad attenderle. Serelya darà loro il benvenuto e lascerà al suo avvocato Frederic il compito di illustrare il suo piano. Serelya dovrà convincere le 3 fate ad accettare.
 
 Alla fine dei 4 ricordi, le fate si troveranno nella tasca una chiave ciascuno per aprire il cofanetto che hanno sul comodino della propria camera. Non avranno alcun ricordo delle lettere che avevano aperto.
 
