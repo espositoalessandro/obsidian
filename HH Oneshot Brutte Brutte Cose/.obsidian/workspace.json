@@ -11,12 +11,10 @@
             "id": "8517c81d5fe9b479",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "images/fight_1.png"
-              },
-              "icon": "lucide-image",
-              "title": "fight_1"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -176,7 +174,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 216.5
+    "width": 447.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,17 +188,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8517c81d5fe9b479",
+  "active": "0992d1f7bb748257",
   "lastOpenFiles": [
     "images/fight_2.png",
     "images/fight_1.png",
-    "images/Cottage.png",
-    "images/Contatore BBC.png",
+    "images/Orologio.png",
     "images/Mappa.png",
     "images/Finale brutto.png",
+    "images/Cottage.png",
+    "images/Contatore BBC.png",
+    "images",
+    "APPUNTI SESSIONI.md",
     "CONTRATTI.md",
     "EVENTI.md",
-    "APPUNTI SESSIONI.md",
     "IL DEBITORE.md",
     "LE 4 FATE.md",
     "NOTE VARIE.md",
