@@ -49,4 +49,4 @@ Il Debitore irrompe nella stanza mentre Serelya sta conversando con Victoire. La
 
 A questo punto le dinamiche saranno chiare a tutti e le fate dovranno decidere tra l'affrontare le BBC oppure firmare il Contratto di Dissoluzione e quindi risolvere tutti i contratti violati, affrontando però le probabilissime conseguenze del loro gesto. 
 
-IDEA: le ombre che i 4 combattono nei ricordi precedenti 
+IDEA: le ombre che i 4 combattono nei ricordi precedenti in realtà saranno le 4 fate che nel presente dovranno impedire alle fate del passato di fare cose brutte (?) elaborare
