@@ -21,16 +21,15 @@ Verranno mostrati 4 ricordi, uno per ogni Fata, che suggeriranno il quadro gener
 - Una volta entrati tutti nella stanza, troveranno Serelya ed un tipo ad attenderle. Serelya darà loro il benvenuto e lascerà al suo avvocato Frederic il compito di illustrare il suo piano. Serelya dovrà convincere le 3 fate ad accettare.
 
 Alla fine dei 4 ricordi, le fate si troveranno nella tasca una chiave ciascuno per aprire il cofanetto che hanno sul comodino della propria camera. Non avranno alcun ricordo delle lettere che avevano aperto.
+Nel cofanetto troveranno i 4 timbri che loro usano per stipulare i contratti. Senza quel timbro il contratto non è valido.
+### FASE 2: L'ascesa al potere di Serelya
 
-### FASE 2: Il rapimento di Madelaine
-
-Le 4 fate dovranno organizzare il rapimento della sorella del Debitore, Madelaine, che useranno poi per togliere di mezzo la sorella di Serelya, **Victoire**.
-Il piano non è ucciderla ma far si che il Debitore la rapisca e la porti giù in Cantina, dove poi dovrà assicurarsi che resti per sempre.
-
-Il Debitore, Julien, viene da Unter, di cui Victoria è innamorata. Hanno una relazione clandestina (una marchesa ed un povero non possono mai stare insieme) e solo Serelya lo sa. Ha una sorella di nome Madelaine, a cui tiene molto.
-
-Iniziare il ricordo con Serelya che sta illustrando al gruppo come, qualora lei divenisse Marchesa, la posizione che ricoprirebbe sarebbe comoda per tutti quanti.
-
+Da poco la Marchesa è venuta a mancare, è giunto il momento di nominare il nuovo capofamiglia. Ovviamente il titolo passerà automaticamente alla sorella di Serelya, Victoire.
+Le 4 fate dovranno invece cercare di portare Serelya al ruolo di marchesa.
+Possono:
+- Usare Julien (che ha una sorellina) 
+- Usare la violenza con Victoire
+- Convincere direttamente Victoire
 ### FASE 3:  Il ritorno del Debitore
 
 Il Debitore adesca Iscandre per le strade, dicendogli che ha informazioni molto interessanti riguardo la strana scomparsa della Marchesa anni prima. All'inizio Iscandre lo guarda scettico, ma quando il Debitore afferma di conoscere anche l'oscuro segreto dell'attuale Marchesa Serelya, Iscandre va in panico. Tutto ciò che il Debitore chiede in cambio è un tetto sopra la testa. In preda al panico, Iscandre gli concede un vecchio cottage che aveva avuto come prezzo in uno dei suoi vecchi contratti.
