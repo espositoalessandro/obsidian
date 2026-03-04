@@ -20,6 +20,16 @@
               "icon": "lucide-file",
               "title": "2026-03-03"
             }
+          },
+          {
+            "id": "1a224d723f28b778",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ]
       }
@@ -196,8 +206,8 @@
   },
   "active": "4efc24e7cb980f9d",
   "lastOpenFiles": [
-    "Appunti sessione/2026-02-22.md",
     "Appunti sessione/2026-03-03.md",
+    "Appunti sessione/2026-02-22.md",
     "Welcome.md",
     "Appunti sessione"
   ]
