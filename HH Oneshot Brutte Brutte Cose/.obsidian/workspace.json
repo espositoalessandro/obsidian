@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2c9ef3be41236e06",
+        "id": "d23f599b71ad9547",
         "type": "tabs",
         "children": [
           {
-            "id": "c875c50a9c8b953d",
+            "id": "7e525d1f12742d61",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -154,12 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "CONTRATTI.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of CONTRATTI"
             }
           },
           {
@@ -177,7 +178,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 422.5
+    "width": 392.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,23 +192,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c875c50a9c8b953d",
+  "active": "7e525d1f12742d61",
   "lastOpenFiles": [
-    "CONTRATTI.md",
-    "EVENTI.md",
-    "APPUNTI SESSIONI.md",
-    "images/fight_2.png",
     "images/fight_1.png",
+    "images/fight_2.png",
+    "EVENTI.md",
     "images/Orologio.png",
     "images/Mappa.png",
     "images/Finale brutto.png",
     "images/Cottage.png",
     "images/Contatore BBC.png",
     "images",
-    "conflict-files-obsidian-git.md",
-    "NOTE VARIE.md",
+    "APPUNTI SESSIONI.md",
+    "CONTRATTI.md",
+    "IL DEBITORE.md",
     "LE 4 FATE.md",
+    "NOTE VARIE.md",
     "MECCANICHE.md",
-    "IL DEBITORE.md"
+    "Untitled.base",
+    "Untitled 1.base"
   ]
 }

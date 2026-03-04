@@ -30,12 +30,16 @@ Possono:
 - Usare Julien (che ha una sorellina) 
 - Usare la violenza con Victoire
 - Convincere direttamente Victoire
+
+Combatteranno contro 4 ombre
 ### FASE 3:  Il ritorno del Debitore
 
 Il Debitore adesca Iscandre per le strade, dicendogli che ha informazioni molto interessanti riguardo la strana scomparsa della Marchesa anni prima. All'inizio Iscandre lo guarda scettico, ma quando il Debitore afferma di conoscere anche l'oscuro segreto dell'attuale Marchesa Serelya, Iscandre va in panico. Tutto ciò che il Debitore chiede in cambio è un tetto sopra la testa. In preda al panico, Iscandre gli concede un vecchio cottage che aveva avuto come prezzo in uno dei suoi vecchi contratti.
 
 Nel momento in cui le fate firmano, le loro ali subito raggrinziscono. Nel panico, le 4 fate si riuniscono per discutere di una lettera che hanno ricevuto. La lettera spiega che se vogliono risolvere il loro "problema", dovranno andare in questo luogo, da sole. Giunte in questo luogo (il cottage) verranno stordite e addormentate.
 ### FASE 4: Il passato di Serelya
+
+Combattimento con le 4 ombre?
 
 Serelya non riesce a togliersi dalla mente il fatto che il Debitore le sia familiare. A questo punto si aprirà la porta della cantina del cottage, in cui troveranno un pugnale ancora insanguinato. A questo punto mostrare il flashback di Serelya.
 
@@ -44,3 +48,5 @@ Il Debitore irrompe nella stanza mentre Serelya sta conversando con Victoire. La
 ### EPILOGO
 
 A questo punto le dinamiche saranno chiare a tutti e le fate dovranno decidere tra l'affrontare le BBC oppure firmare il Contratto di Dissoluzione e quindi risolvere tutti i contratti violati, affrontando però le probabilissime conseguenze del loro gesto. 
+
+IDEA: le ombre che i 4 combattono nei ricordi precedenti 
