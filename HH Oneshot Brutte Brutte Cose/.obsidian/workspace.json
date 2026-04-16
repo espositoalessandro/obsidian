@@ -11,14 +11,14 @@
             "id": "7e525d1f12742d61",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "HH Oneshot Brutte Brutte Cose/.obsidian/workspace.json",
-                "bFile": "HH Oneshot Brutte Brutte Cose/.obsidian/workspace.json",
-                "aRef": ""
+                "file": "APPUNTI SESSIONI.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "APPUNTI SESSIONI"
             }
           }
         ]
