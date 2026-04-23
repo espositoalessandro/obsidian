@@ -1,37 +1,56 @@
 {
   "main": {
-    "id": "f8b1960acb33b0ec",
+    "id": "a0233cf3ee4b0845",
     "type": "split",
     "children": [
       {
-        "id": "397ed9f7bd49aa02",
+        "id": "27cf1e7a20e79ed7",
         "type": "tabs",
         "children": [
           {
-            "id": "4ddfa5b615d29523",
+            "id": "a7f56bb1c6c84333",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Lore/La Terza Era.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "La Terza Era"
+            }
+          },
+          {
+            "id": "661f3dbdc67eee03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "La Magia.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "La Magia"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "9a4b194553420f2c",
+    "id": "2e712449ca09080d",
     "type": "split",
     "children": [
       {
-        "id": "0638faa3f2ed0781",
+        "id": "4b39cf710e719ab1",
         "type": "tabs",
         "children": [
           {
-            "id": "d9326c85d94e70f8",
+            "id": "0988cbb3b664f0b3",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +63,7 @@
             }
           },
           {
-            "id": "184b422a2f1d48f7",
+            "id": "37f481be24b98f8c",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +80,7 @@
             }
           },
           {
-            "id": "ae14ad6ee0fe1425",
+            "id": "9999250b3250b87d",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -74,23 +93,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "5d2bedf83ebedf7c",
+    "id": "d8477fc81d21a2cc",
     "type": "split",
     "children": [
       {
-        "id": "0aaff19f3eb3d195",
+        "id": "805e216f579a55bc",
         "type": "tabs",
         "children": [
           {
-            "id": "137bf95873bc9f76",
+            "id": "8e9ce23bbfa72424",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Appunti sessione/2026-02-22.md",
+                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,25 +119,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2026-02-22"
+              "title": "Backlinks for Welcome"
             }
           },
           {
-            "id": "66ae7db05ae674b7",
+            "id": "170cca6f7f91f7fa",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Appunti sessione/2026-02-22.md",
+                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2026-02-22"
+              "title": "Outgoing links from Welcome"
             }
           },
           {
-            "id": "5406c3cb976f33d5",
+            "id": "224087afd6a0eb18",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,7 +152,7 @@
             }
           },
           {
-            "id": "2603771100fd78b8",
+            "id": "fa9772412cda4120",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -147,22 +166,22 @@
             }
           },
           {
-            "id": "be7f4aabfe3b04c5",
+            "id": "e4e7823774307ac2",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Appunti sessione/2026-02-22.md",
+                "file": "Welcome.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-02-22"
+              "title": "Outline of Welcome"
             }
           },
           {
-            "id": "b7717f6746284bb8",
+            "id": "1589b7cd38a3fb05",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -176,7 +195,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,15 +209,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d9326c85d94e70f8",
+  "active": "661f3dbdc67eee03",
   "lastOpenFiles": [
-    "Appunti sessione/2026-02-22.md",
-    "Appunti sessione/2026-03-03.md",
-    "Appunti sessione/2026-03-12.md",
-    "Appunti sessione/2026-03-24.md",
-    "Appunti sessione/2026-04-16.md",
-    "Pasted image 20260324215042.png",
-    "Welcome.md",
-    "Appunti sessione"
+    "Lore/La Terza Era.md",
+    "La Magia.md",
+    "Lore/La Seconda Era.md",
+    "Lore/La Prima Era.md",
+    "Le Terre Orientali.md",
+    "Lore"
   ]
 }
