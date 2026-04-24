@@ -25,5 +25,5 @@ Per farlo c'è bisogno di una fonte energetica. Nel tempo si sono sviluppati div
 
 **Chierico**: molto simile al Warlock, solo che le anomalie per incanalare il potere sono meno caotiche e gli permettono di muoversi più liberamente e seminare meno distruzione. Piuttosto che subire la trama, ci entra in risonanza. 
 
-**Paladino**: piega la trama con un particolare giuramento in Jothun. Insieme al mago, è l'unica classe magica non innata. Viene addestrato da piccolo per capire il concetto della trama e poi crea una sorta di "frusta magica" caricando la trama attorno a lui di energia attraverso il giuramento. 
-Tale giuramento fornisce energia al paladino attingendola dai futuri distrutti e da possibilità perse.
+**Paladino**: piega la trama con un particolare giuramento in Jothun. Viene addestrato da piccolo per capire il concetto della trama e poi crea una sorta di "frusta magica" caricando la trama attorno a lui di energia attraverso il giuramento. 
+Tale giuramento fornisce energia al paladino attingendola dai futuri distrutti e da possibilità di scelte perse.
