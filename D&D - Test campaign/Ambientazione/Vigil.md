@@ -11,6 +11,7 @@ A turno, ogni anno cambia un membro dei 4 seggi, quindi ogni seggio ha durata di
 Ogni seggio ha egual potere, ogni membro può proporre nuove leggi che vengono sottoposte all'approvazione del concilio tramite votazione per maggioranza. L'abrogazione di eventuali leggi necessita invece dell'approvazione unanime del concilio.
 Il Seggio Neutrale non può presentare proposte di legge e non può votare per le proposte abrogative. Può votare solamente in caso di stallo (2 favorevoli e 2 contrari) per una proposta di legge.
 Separato dal Concilio Supremo, vi è la Corte Suprema di Giustizia, organo giurisdizionale presieduto da 3 magistrati Elfi. I tre Magistrati hanno il compito di assicurarsi che le leggi vengano rispettate e che le proposte governative effettuate dal Concilio siano concordi con le leggi ancora in atto. A loro risponde direttamente il Corpo di Gendarmeria, milizia locale di Vigil atta unicamente per tutelare le leggi della città. Il Corpo di Gendarmeria conta membri di ogni razza senza distinzione alcuna.
+Vigil non ha carceri, esistono solo tre tipi di punizioni: multe per i reati meno gravi, trasferimento in un distretto più esterno o esilio per i reato più gravi. L'omicidio è punito direttamente con l'esilio eterno.
 Il Concilio si riunisce una volta a settimana per discutere e prendere eventualmente decisioni relative alla gestione della città.  
 
 DISPOSIZIONE URBANISTICA

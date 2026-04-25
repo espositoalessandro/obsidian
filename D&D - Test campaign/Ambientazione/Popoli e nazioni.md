@@ -26,3 +26,10 @@ Dalla caduta dei Draghi, i nani cominciarono a sfruttare anche le ricchezze dell
 ##### **DRAGONIDI**
 Diretti discendenti dei Draghi Metallici antichi, hanno ereditato il carattere individualista dai loro antenati e lo hanno unito al bisogno comunitario degli Umani. Vivono in piccoli gruppi tra i monti Dovahdrah e sono molto legati al concetto della guida del più forte. Le loro tribù sono quasi sempre guidate dal più valoroso dei loro guerrieri, che in ogni momento può essere sfidato e sostituito.
 Sono una razza fiera e raramente predisposta alla socialità. Tuttavia dopo lo scontro della Piana delle Lacrime, molti Dragonidi furono convinti della necessità di espandere le loro alleanze e si trasferirono volentieri a Vigil, dove comunque tendono a stare nelle loro comunità. Non sono un popolo belligerante, conoscono fin troppo bene i costi delle guerre, ma non si tirano mai indietro se sfidati o minacciati.
+
+##### **TIEFLING**
+Umanoidi esposti per troppo tempo all'influenza di un Portale sul piano infernale. Il loro aspetto fisico li ha resi temuti ed evitati dalla maggior parte delle altre razze, soprattutto dagli umani. 
+Dopo questi, sono la razza più popolosa del continente. Hanno mantenuto la maggior parte del carattere e delle inclinazioni dagli umani, anche se alcuni dicono che la loro lussuria è decisamente "figlia del diavolo".
+
+##### **UMANI**
+La razza più diffusa del continente che ha plasmato l'attuale situazione geopolitica. Da essi derivano Dragonidi, Tiefling, Mezz'elfi, Mezz'orchi e tutte le altre razze "ibride" che popolano le Terre Orientali.

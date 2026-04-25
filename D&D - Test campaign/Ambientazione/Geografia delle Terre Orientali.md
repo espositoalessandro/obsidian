@@ -12,6 +12,7 @@ Parte terminante della stessa catena montuosa dei Monti Dovahdrah, separati dal 
 
 COLLI NEBBIOSI
 Territorio più variegato della regione, con colline nebbiose, foreste e pianure coltivabili. Qui sorgono la maggior parte delle città umane, tra cui la capitale Haverford.
+Un tempo, al posto della zona dove si erge la capitale, sorgeva una florida foresta. Gli umani l'hanno quasi rasa al suolo per costruire i loro insediamenti
 
 LANDE CREMISI
 **Carnëanóri** (lande rosse)
@@ -20,6 +21,7 @@ Territorio desertico, con picchi rocciosi fatti principalmente di arenaria, da u
 PIANA DELLE LACRIME
 **Nierëva Pélor** (pianura delle lacrime)
 Territorio che è stato inabitato per molto tempo, teatro di innumerevoli scontri e battaglie. Territorio prevalentemente pianeggiante con qualche collina, segnato da innumerevoli crateri, cicatrici delle antiche battaglie tra draghi. Qui sorge la città di Vigil, simbolo di alleanza e pace tra i vari popoli delle Terre Orientali. Questa è la regione in cui è possibile trovare più razze.
+Un tempo questa regione era ricca di foreste, tuttavia lo scontro tra i Draghi ha completamente cambiato il panorama. Immediatamente dopo la guerra, la Piana era una distesa di terra e alberi bruciati, profondi crateri aria irrespirabile. Con gli anni la vegetazione ha ripreso il sopravvento, ma le foreste non sono mai tornate.
 
 ISOLE DI ZAFFIRO
 **Toli Endya** (Isole di Mezzo)
