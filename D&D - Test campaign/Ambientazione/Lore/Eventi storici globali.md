@@ -26,13 +26,16 @@
 - **236** -> I Nani tornano in superficie
 - **251** -> Prima rotta commerciale tra Elfi e Nani
 - **253** -> Fondazione di Dûr-Kazath
-- **513** -> Guerra tra Umani e Tiefling
-- **535** -> Seconda guerra tra Umani e Tiefling
-- **540** -> Fondazione di Zar'Eth
-- **802** -> Fondazione di Haverford
 - **1214** -> Scomparsa dell'ultimo Drago Metallico
-- **1452** -> Scontro tra Umani e Draconiani
+- **1245** -> Primo scontro tra Umani e Tiefling
+- **1501** -> Secondo scontro tra Umani e Tiefling
+- **1612** -> Fondazione di Zar'eth
+- **1723** -> Fondazione di Haverford e dell'Impero dell'Aquila Bianca
+- **1852** -> Scontro tra Umani e Draconiani
+- **1991** -> Inizio Guerra dei Diavoli tra Umani e Tiefling
+- **2048** -> Fine Guerra dei Diavoli
 - **2241** -> Re Cassian Whitlock sale al trono
+- **2243** -> Inizio campagna di espansione degli Umani
 - **2249** -> Gli Elfi uniscono i popoli contro gli umani
 - **2250** -> Inizio Battaglia delle Quattro Armate
 - **2258** -> Uccisione di re Cassian, sconfitta degli umani
