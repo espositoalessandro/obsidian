@@ -1,0 +1,10 @@
+Durante gli scontri con i Draghi, in particolar modo durante la Guerra dei Cieli Squarciati, gli Elfi - creature da sempre state molto sensibili alla Trama - osservarono come questa non avvolgesse il mondo in un'unica superficie uniforme. Vi erano zone, più o meno ampie, dove il tessuto della trama era o più spesso oppure più blando
+Sono state trovate alcune zone dove il più semplice incantesimo produceva effetti indesiderati talvolta devastanti. Altre zone, invece, in cui neanche il più potente incantatore riusciva ad evocare il più semplice degli incantesimi. 
+Gli Elfi hanno cominciato a riferirsi con "vuoti" alle zone in cui la trama era meno densa e con "crepe" alle zone di maggior concentrazione.
+Si è osservato come i vuoti siano zone che appaiono spesso in prossimità delle crepe. Quindi la teoria corrente è che dove ci sono addensamenti, le zone più rade sono la conseguenza di una sorta di spostamento della Trama. 
+Vigil è un esempio di come gli Elfi abbiano usato quest'idea: sotto la città è presente una delle più grandi crepe che siano conosciute. La città esiste esattamente al confine tra la crepa e il vuoto circostante, quindi lì la magia è sufficientemente stabile, ma sui bordi del cratere quasi non funziona. Si pensa sia una forma di protezione Elfica, ma in realtà è una conseguenza della guerra.
+Col tempo, gli Elfi hanno scoperto che le crepe non sono eventi naturali, ma sono conseguenze di incantesimi particolarmente potenti.
+
+Le crepe più dense si comportano quasi come un buco nero: distorcono violentemente lo spazio-tempo arrivando a creare anche connessioni con altri Piani d'Esistenza.
+
+Inoltre, la Trama tende a riequilibrarsi col tempo. Le grandi crepe presenti nella Piana delle Lacrime, nelle Lande Cremisi, tra le Colline Fairridge e tra i Monti Dovahdrah aprirono letteralmente portali tra Piani alla fine della Seconda Era, ma ora nella Terza era sono solo punti estremamente densi di trama, molto meno imponenti di come erano in origine.

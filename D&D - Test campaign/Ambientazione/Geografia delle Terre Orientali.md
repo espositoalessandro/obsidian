@@ -1,6 +1,6 @@
 
 TUNDRA VENTOSA:
-Súreringa Nórë (terra del vento gelido)
+**Súreringa Nórë** (terra del vento gelido)
 Landa desolata, estremamente inospitale e priva di insediamenti significativi. Per lo più abitata da popolazioni nomadi. 
 
 MONTI DOVAHDRAH:
@@ -8,9 +8,10 @@ I monti più alti della regione. Ospitano il vulcano di Yolvahriin, il monte pi�
 Originariamente questo territorio era cosparso di nidi di drago, ora per lo più ci vivono i loro discendenti in insediamenti poco accessibili (principalmente Dragonidi e Koboldi).
 
 PICCHI D'ACCIAIO
-Parte terminante della stessa catena montuosa dei Monti Dovahdrah, separati dal fiume Azak. Sono leggermente più piccoli e caratterizzati da chiari toni di rosso, dovuti all'alto contenuto di ferro delle rocce. Al termine della vallata del fiume Azak, sorge la capitale nanica Dur-Kazath. Diverse razze popolano la zona, ma i più diffusi sono i nani.
+Parte terminante della stessa catena montuosa dei Monti Dovahdrah, separati dal fiume Azak. Sono leggermente più piccoli e caratterizzati da chiari toni di rosso, dovuti all'alto contenuto di ferro delle rocce. Al termine della vallata del fiume Azak, sorge la città nanica Dur-Kazath, l'unica città in superficie dei Nani.
+Diverse razze popolano la zona, ma i più diffusi sono i nani.
 
-COLLI NEBBIOSI
+COLLINE FAIRRIDGE
 Territorio più variegato della regione, con colline nebbiose, foreste e pianure coltivabili. Qui sorgono la maggior parte delle città umane, tra cui la capitale Haverford.
 Un tempo, al posto della zona dove si erge la capitale, sorgeva una florida foresta. Gli umani l'hanno quasi rasa al suolo per costruire i loro insediamenti
 
@@ -25,7 +26,7 @@ Un tempo questa regione era ricca di foreste, tuttavia lo scontro tra i Draghi h
 
 ISOLE DI ZAFFIRO
 **Toli Endya** (Isole di Mezzo)
-Floride isole nel Mare di Mezzo. Abitate esclusivamente dalla popolazione elfica, con la loro capitale Ael'Thorién. Sono ricce di vegetazione e sorgenti d'acqua, ma assai poco si sa di queste terre.
+Floride isole nel Mare di Mezzo. Abitate esclusivamente dalla popolazione elfica, con la loro capitale Ael'Thorién. Sono ricche di vegetazione e sorgenti d'acqua, ma assai poco si sa di queste terre.
 
 ALTOPIANO ETERNO
 **Oiranóri** (Terre eterne)

@@ -1,0 +1,5 @@
+![[Pasted image 20260426213232.png|271]]![[Pasted image 20260426213853.png|271]]
+![[Pasted image 20260426214258.png|320]] ![[Pasted image 20260426214303.png|274]]
+Non si sa esattamente quando sia nato, ma ha cominciato a farsi notare dalla fine della Prima Era. Il Culto venera i Draghi come espressione del Caos vs Ordine. In particolare, ritengono di essere emissari del Caos e servono esclusivamente i Draghi Cromatici.
+In particolare, venerano Tiamat come divinità suprema e il loro simbolo - una corona a 5 punte con i 5 colori delle sue teste - ne è un chiaro riferimento.
+È un culto estremamente segreto e riservato, è estremamente difficile entrarne a far parte e spesso i membri sono semplicemente figli di altri membri, generati al solo scopo di perseguire i piani del Culto: far in modo che i Draghi Cromatici tornino sul piano materiale.
