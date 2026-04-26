@@ -16,12 +16,14 @@ Una delle razze più antiche ed influenti del continente. Plasmarono con i Dragh
 Sono immortali e danno molto valore alla vita, in ogni sua forma. Eruditi, si dilettano in ogni arte e non hanno eguali in doti magiche. Hanno una forte inclinazione al controllo e alla supervisione, tratto che trova espressione nell'attuale governo di Vigil.
 In genere non amano convivere con altre popolazioni, che spesso guardano dall'alto in basso - ad eccezione dei Draghi Puri. 
 Vivono nelle ricchezze della terra delle Isole di Zaffiro e non accettano nessun estraneo nelle loro terre. Ben pochi di loro si avventurano nel continente, ma non è impossibile trovare un Elfo nelle Terre Orientali.
+Il loro governo è gestito dal Consiglio degli Anziani: i 5 membri più antichi degli Elfi ne fanno parte. l'Elfo più antico presiede il consiglio. 
 
 ##### **NANI**
 La razza più schiva delle terre orientali. Nessuno sa esattamente da dove siano venuti o da quanto tempo siano lì, ma anche loro hanno vissuto gli orrori della Guerra trai Draghi. In quei tempi vivevano nelle profondità delle montagne e quasi mai venivano osservati in superficie.
 Sono quasi totalmente incuranti dell'andamento del mondo superficiale e concentrano le loro attenzioni quasi esclusivamente sul loro popolo.
 Fu molto difficile per gli Elfi convincere i Nani a partecipare al concilio di Vigil, tuttavia capirono che sapere cosa stesse accadendo nel mondo poteva in effetti giovare alla sicurezza del popolo Nanico.
 Dalla caduta dei Draghi, i nani cominciarono a sfruttare anche le ricchezze della superficie e costruiriono la loro prima città Nanica che non fosse sotterranea. Dur-Kazath, o città dell'acciaio, è il loro crocevia commerciale con altre popolazioni. Probabilmente l'unica città nanica in cui altre razze abbiano mai messo piede. Nessuno sa dove siano le altre città o come raggiungerle. 
+I Nani si dividono in diversi clan ed il loro governo è una monarchia ereditaria. Il Re dei Nani governa tutto il popolo e gestisce direttamente i clan.
 
 ##### **DRAGONIDI**
 Diretti discendenti dei Draghi Metallici antichi, hanno ereditato il carattere individualista dai loro antenati e lo hanno unito al bisogno comunitario degli Umani. Vivono in piccoli gruppi tra i monti Dovahdrah e sono molto legati al concetto della guida del più forte. Le loro tribù sono quasi sempre guidate dal più valoroso dei loro guerrieri, che in ogni momento può essere sfidato e sostituito.
@@ -30,6 +32,10 @@ Sono una razza fiera e raramente predisposta alla socialità. Tuttavia dopo lo s
 ##### **TIEFLING**
 Umanoidi esposti per troppo tempo all'influenza di un Portale sul piano infernale. Il loro aspetto fisico li ha resi temuti ed evitati dalla maggior parte delle altre razze, soprattutto dagli umani. 
 Dopo questi, sono la razza più popolosa del continente. Hanno mantenuto la maggior parte del carattere e delle inclinazioni dagli umani, anche se alcuni dicono che la loro lussuria è decisamente "figlia del diavolo".
+Il loro popolo è convinto che il loro sia un dono offertogli dal piano infernale e credono che l'Avernus sia la loro Terra Promessa. Venerano tutto ciò che riguarda il piano infernale e su questo culto hanno basato il loro governo. 
+Il loro organo di governo centrale è composto da un gruppo di 4 Anziane Sagge, quindi un governo matriarcale, che decide praticamente tutto. Sono loro stesse ad eleggere un membro quando questi viene meno, e nominano anche una figura centrale chiamata Alta Guida. L'Alta Guida è una figura separata dalle 4 Anziane e rappresenta il massimo esponente religioso che si interfaccia direttamente col popolo. Non ha tuttavia alcun reale potere politico, solo una fortissima influenza religiosa sui fedeli. Il culto religioso, chiamato Culto del Fuoco Eterno, è il principale organo esecutivo, dove l'ordine in città è gestito dai cultisti stessi.
 
 ##### **UMANI**
 La razza più diffusa del continente che ha plasmato l'attuale situazione geopolitica. Da essi derivano Dragonidi, Tiefling, Mezz'elfi, Mezz'orchi e tutte le altre razze "ibride" che popolano le Terre Orientali.
+Nel corso della Seconda Era, gli umani si riunirono attorno ad un unico Imperatore. Col tempo, il suo regno prese il soprannome "Impero dell'Aquila Bianca" ed ebbe mire sempre più espansionistiche. Dopo la sconfitta alla fine della Seconda Era nella guerra delle 4 fazioni, gli umani si ritrovarono senza una guida, decimati e soprattutto in preda ad una violenta guerra civile interna. I restanti membri dell'esercito volevano approfittare della situazione per prendere il potere con un colpo di stato, ma il popolo era stanco marcio di essere ignorato in funzione di continue campagne militari. Verso la fine della Seconda Era, la fazione popolare vinse la guerra civile. 
+Venne così indetta la prima grande Repubblica del continente orientale.

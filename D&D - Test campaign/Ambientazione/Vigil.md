@@ -1,30 +1,43 @@
-![[Pasted image 20260423181610.png|229]]![[5a91031f-ad13-4a5e-ab1a-c9340ac55580.png|344]]
+![[Pasted image 20260423181610.png|229]]![[936079b5-46bb-4484-8946-c757d1a54226.png|395]]
 
 Città stato creata come simbolo di comunione delle razze delle terre orientali. L'araldica descrive proprio come le 4 popolazioni si siano unite dalle ceneri della guerra, rappresentando la città come una fenice al centro d 4 frecce, simbolo dei 4 ponti di Vigil.
 
 Vigil sorge nel cratere più grande ed imponente della Piana delle Lacrime, ancora una volta a simboleggiare la rinascita dal dolore delle guerre. 
 
 GOVERNO
+Vigil è una città-stato completamente indipendente ed autonoma. Il potere legislativo è affidato al Concilio Supremo, il potere giudiziario alla Corte Suprema di Giustizia mentre il potere esecutivo è esercitato dal Custode, comandante del Corpo di Gendarmeria, che opera sotto l’autorità della Corte Suprema di Giustizia.
 
 Il Concilio Supremo è l'organo di governo della città. È presieduto da 4 membri (uno per razza: Umani, Tiefling, Draconiani e Nani) più il Seggio Neutrale degli Elfi.
 A turno, ogni anno cambia un membro dei 4 seggi, quindi ogni seggio ha durata di 4 anni. Le elezioni per il membro del concilio sono gestite dai singoli popoli nel modo che più loro gradiscono. Il Seggio Neutrale invece non ha scadenza.
 Ogni seggio ha egual potere, ogni membro può proporre nuove leggi che vengono sottoposte all'approvazione del concilio tramite votazione per maggioranza. L'abrogazione di eventuali leggi necessita invece dell'approvazione unanime del concilio.
 Il Seggio Neutrale non può presentare proposte di legge e non può votare per le proposte abrogative. Può votare solamente in caso di stallo (2 favorevoli e 2 contrari) per una proposta di legge.
-Separato dal Concilio Supremo, vi è la Corte Suprema di Giustizia, organo giurisdizionale presieduto da 3 magistrati Elfi. I tre Magistrati hanno il compito di assicurarsi che le leggi vengano rispettate e che le proposte governative effettuate dal Concilio siano concordi con le leggi ancora in atto. A loro risponde direttamente il Corpo di Gendarmeria, milizia locale di Vigil atta unicamente per tutelare le leggi della città. Il Corpo di Gendarmeria conta membri di ogni razza senza distinzione alcuna.
-Vigil non ha carceri, esistono solo tre tipi di punizioni: multe per i reati meno gravi, trasferimento in un distretto più esterno o esilio per i reato più gravi. L'omicidio è punito direttamente con l'esilio eterno.
 Il Concilio si riunisce una volta a settimana per discutere e prendere eventualmente decisioni relative alla gestione della città.  
 
-DISPOSIZIONE URBANISTICA
+Separato dal Concilio Supremo, vi è la Corte Suprema di Giustizia, organo giurisdizionale presieduto da 3 Magistrati Elfi. I tre Magistrati hanno il compito di assicurarsi che le leggi vengano rispettate e che le proposte governative effettuate dal Concilio siano concordi con le leggi ancora in atto.
+Vigil non ha carceri, esistono solo tre tipi di punizioni: multe per i reati meno gravi, trasferimento in un distretto più esterno o esilio per i reato più gravi. L'omicidio è punito direttamente con l'esilio eterno.
+Ogni Magistrato gestisce individualmente i crimini minori, tuttavia l'esilio eterno di un cittadino richiede l'approvazione di almeno 2 dei Magistrati.
+I Magistrati hanno anche il potere di bloccare le leggi del Concilio se ritengono che queste vadano in contrasto con altre leggi. In questo caso, occorre l'unanimità dei tre Magistrati.
+A loro risponde direttamente il Custode, capo del Corpo di Gendarmeria, milizia locale di Vigil atta unicamente per tutelare le leggi della città. Il Corpo di Gendarmeria conta membri di ogni razza senza distinzione alcuna. Il Custode è nominato dal Concilio tra gli ufficiali di rango più alto della Gendarmeria e confermato dalla Magistratura e può appartenere a qualsiasi razza. Il Custode gode di autonomia operativa nell’applicazione delle leggi e non è soggetto all’intervento diretto dei Magistrati nelle decisioni sul campo, salvo in caso di violazione manifesta delle leggi vigenti.
 
-La città è divisa in 4 distretti, i 3 più esterni sono a loro volta divisi in 4 quadranti (nordest, nordovest, sudest, sudovest). Al centro del Distretto Centrale si erge il Palazzo del Concilio.
+
+DISPOSIZIONE URBANISTICA
+La città sorge all'interno di un enorme cratere con pareti pressoché verticali alte più di 60 metri. Diverse cascate adornano i contorni del cratere. Vigil è costruita su un rialzo di terra al centro e si trova praticamente su livello dell'acqua. La città è circondata da un lago d'acqua dolce che riempie il cratere.
+La città è collegata alla sommità del cratere con 4 Ponti Cardinali di pietra bianca disposti nei 4 punti cardinali. Visto che il lembo di terra su cui sorge Vigil è circa 50 metri più basso della superficie del cratere, alle estremità dei ponti vi sono delle grosse piattaforme in grado di essere alzate ed abbassate per favorire l'entrata in città. Sono presenti anche delle stazioni sulla sommità del cratere in prossimità dei 4 ponti dove la piattaforma arriva.
+La città è divisa in 4 distretti circolari concentrici, separati da imponenti mura. I 3 più esterni sono a loro volta divisi in 4 quadranti (nordest, nordovest, sudest, sudovest), divisi dalle Vie Cardinali, grandi ed imponenti stradoni lastricati di pietra bianca che portano al centro della città creando una linea continuativa con i 4 Ponti Cardinali. Al centro del Distretto Centrale si erge il Palazzo del Concilio.
 Più ci si avvicina al centro, più i Distretti sono curati e più aumenta il ceto sociale di chi ci vive.
-C'è anche una differenza nei distretti stessi: più ci si allontana dalle strade principali (quelle ai 4 punti cardinali), più aumenta il degrado.
+C'è anche una differenza nei distretti stessi: più ci si allontana dalle Vie Cardinali, più aumenta il degrado abitativo.
 
 Il Distretto 3 Sud-Est fu quasi interamente raso al suolo in un incendio circa nel 236 della Terza Era. Il governo non stanziò subito i fondi per le ricostruzioni e si venne a creare una baraccopoli. Col tempo ci furono diversi tentativi di smantellare le abitazioni abusive ma nessuno risolse completamente il problema. Ad oggi quel distretto è vittima di un abuso edilizio senza freni dove in generale la qualità della vita è molto più bassa rispetto al resto della città. Col tempo è diventato il centro della malavita e le guardie cittadine sono sempre più restie a farci ronde. 
 
-POPOLAZIONE
+Nel primo Distretto, vivono quasi esclusivamente ricchi e nobili esponenti di ogni razza. Nel quadrante sud-ovest è invece situato il palazzo della Corte Suprema di Giustizia, dove i Magistrati svolgono i loro compiti. Di fianco ci sono invece le strutture del Corpo di Gendarmeria. 
 
+Il Distretto Centrale non contiene abitazioni, ma ospita invece il Parco di Vigil, la Grande Biblioteca ed il Campus Accademico. Al suo centro sorge il Palazzo del Concilio, un'imponente struttura di pietra bianca che ospita l'organo di governo centrale.
+
+POPOLAZIONE
 Vigil è la città più variegata in termini di razze di tutto il Continente. Non solo le 5 razze principali, ma anche Halfling, Gnomi, Mezzelfi, Mezzorchi e altre varietà Elfiche (Elfi dei boschi o Drow). 
-I pochi Elfi che vivono a Vigil, hanno quasi tutti dimora nel Distretto Centrale o al più nel Distretto 1. 
-Nel Distretto Centrale vivono ricchi, nobili o membri del Concilio.
 I Nani sono la popolazione più scarna che vive a Vigil. Spesso ci sono stati anni in cui solo l'attuale membro del Concilio e la sua famiglia vivevano in città. 
+
+
+ESPONENTI IMPORTANTI
+
+Custode di Vigil: 

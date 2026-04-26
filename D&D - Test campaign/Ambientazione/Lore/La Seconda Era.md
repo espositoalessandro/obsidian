@@ -8,7 +8,7 @@ Tra i Monti Zulvaar invece, la cicatrice magica presente nella zona era pregna d
 Questi eventi avvennero nel corso di secoli, intanto i Draghi Metallici rimasti perdevano sempre più potere e si ritrovarono spesso messi alle strette dalla nuova popolazione dei Draconiani che prendeva sempre più piede sui Monti Zulvaar, finché non scomparvero definitivamente.
 
 Intanto gli Umani si diffusero rapidamente nelle zone dei Colli Nebbiosi e fondarono la loro capitale ad Haverford. Nella loro espansione, si trovarono spesso in conflitto sia con i Tiefling che con i Draconiani.
-Con l'ascesa al potere di un re particolarmente guerrafondaio ed espansionista, gli Umani cominciarono ad invadere le altre terre, forti dei propri numeri e delle proprie tecnologie.
+Con l'ascesa al potere di un re particolarmente guerrafondaio ed espansionista, re Cassian Whitlock, gli Umani cominciarono ad invadere le altre terre, forti dei propri numeri e delle proprie tecnologie.
 
 Gli Elfi, che erano rimasti in disparte ad osservare finora, nel temere che un'altra feroce razza prendesse potere nelle Terre Orientali, decisero di intervenire.
 Convinsero Draconiani e Tiefling ad allearsi contro l'avversario umano, pur non prendendo parte direttamente alla guerra, e lasciarono che le 4 fazioni di scontrassero in campo aperto nella Piana delle Lacrime, testimone ancora una volta di una feroce battaglia. 
