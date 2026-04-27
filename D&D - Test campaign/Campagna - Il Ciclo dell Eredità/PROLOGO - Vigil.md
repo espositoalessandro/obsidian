@@ -6,15 +6,15 @@ Gli elfi, nel veder comparire dei Diavoli, sono incredibilmente sospettosi e anc
 Quindi si rivolgono ai due membri del party per un aiuto, poiché gli Elfi non possono intervenire direttamente a Vigil per legge e non vogliono smuovere troppo le acque muovendo la Gendarmeria.
 #### **Cosa sta realmente succedendo**
 i Figli di Chronos hanno scoperto Vigil è nata prevalentemente per nascondere un'enorme crepa nella Trama, dovuta allo scontro tra Dovraxis e il misterioso Drago Metallico. 
-Stanno sfruttando quel collegamento per aprire un portale verso l'Avernus e comunicare direttamente con Tiamat per ripristinare in qualche m odo i Draghi Cromatici.
+Hanno mandato lì un capo cultista, Vargan -nemesi di [[Party#DRAKHTAR VARKHAZ - Barbaro, Draconiano|Drakhtar]]- per investigare.
+Stanno sfruttando quel collegamento per aprire un portale verso l'Avernus e comunicare direttamente con Tiamat per ripristinare in qualche modo i Draghi Cromatici.
 Il Culto cercherà di far ricadere la colpa sui Tiefling, seminando indizi contro di loro.
 #### **PROGRESSIONE**
-- Primo incontro con i Diavoli. C'è una vittima a terra, un membro della gendarmeria, ma non sembra morto per mano dei Diavoli: ha diverse ferite da taglio e le manca una ciocca di capelli (hook per Drakhtar).
-- Il Magistrato li assolda per indagare. Chiede di non far parola con nessuno di questa vicenda.
-- Iniziano le indagini. Il Custode di Vigil riporta che l'unica cosa che affligge Vigil ultimamente sono dei ladri specializzati in gioiellerie. Se il party dovesse indagare, troverà tracce di sangue rosso scuro in una delle gioiellerie rapinate. Un'ulteriore indagine, rivelerà che è sangue di Tiefling.
+- Primo incontro con i Diavoli. C'è una vittima a terra, un membro della gendarmeria, ma non sembra morto per mano dei Diavoli: ha diverse ferite da taglio e le manca una ciocca di capelli (hook per [[Party#DRAKHTAR VARKHAZ - Barbaro, Draconiano|Drakhtar]]).
+- Vengono intercettati da [[Vigil#ESPONENTI#**Custode di Vigil** |Mira]], che li porta nella sede della Gendarmeria per discutere dell'accaduto. Mentre parlano, un [[Vigil#ESPONENTI#**Magistrato 1 **|Magistrato]] entra improvvisamente, chiedendo di conferire in privato. Li assolda per indagare. Chiede di non far parola con nessuno di questa vicenda.
+- Iniziano le indagini. Mira riporta che l'unica cosa che affligge Vigil ultimamente sono dei ladri specializzati in gioiellerie. Se il party dovesse indagare, troverà tracce di sangue rosso scuro in una delle gioiellerie rapinate. Un'ulteriore indagine, rivelerà che è sangue di Tiefling.
 - Movente dei Tiefling: in questo momento c'è una forte discordia tra Tiefling ed Umani in città. I Tiefling accusano gli umani di aver appiccato l'incendio che ha distrutto il loro distretto, gli umani attribuiscono l'incidente alla loro natura infernale.
-- EVENTO: Il Culto riconosce segni in Vayn di Draghi Metallici e lo vuole uccidere/catturare: imboscata al party.
-- 
+- EVENTO: Il Culto riconosce segni in [[Party#VAYN DAWNMERE - Stregone discendenza Draconica, Mezzelfo|Vayn]] di Draghi Metallici e lo vuole uccidere/catturare: imboscata al party e cattura. [[Party#DRAKHTAR VARKHAZ - Barbaro, Draconiano|Drakhtar]] è in prigione e vede la sua nemesi.
 
 ![[8d098c74-ed34-4f19-9003-0b1fb9cca0ce.png]]
 
