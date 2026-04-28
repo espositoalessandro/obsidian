@@ -65,9 +65,8 @@ Forte, stoica, intollerante verso la debolezza. Vede con estremo disprezzo l'att
 ##### **Seggio Neutro:**
 - **Dräesil**, 117esimo anno in carica
 - Mago lv. 14, 1071 anni
-
 ##### **Magistrato 1:** 
-- **Mathìen**, 23esimo anno in carica
+- **Màthien**, 23esimo anno in carica
 - Paladino giuramento di Vendetta lv. 9, 762 anni
 ##### **Magistrato 2:** 
 - **Néa**, 34esimo anno in carica
