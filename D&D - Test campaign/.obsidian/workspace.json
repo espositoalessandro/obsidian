@@ -35,7 +35,8 @@
               "title": "Vigil"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -208,12 +209,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1fcd149e9bacd314",
+  "active": "2bfe459b0ce3d5b1",
   "lastOpenFiles": [
+    "Campagna - Il Ciclo dell Eredità/PROLOGO - Vigil.md",
     "Campagna - Il Ciclo dell Eredità/Party.md",
+    "Ambientazione/Popoli e nazioni.md",
+    "Ambientazione/Vigil.md",
     "Campagna - Il Ciclo dell Eredità/Idee campagna.md",
     "Campagna - Il Ciclo dell Eredità/Elìas.md",
-    "Campagna - Il Ciclo dell Eredità/PROLOGO - Vigil.md",
     "Files/8d098c74-ed34-4f19-9003-0b1fb9cca0ce.png",
     "Files/936079b5-46bb-4484-8946-c757d1a54226.png",
     "Files/Pasted image 20260423181610.png",
@@ -223,9 +226,7 @@
     "Files/Pasted image 20260426214303.png",
     "Files/Pasted image 20260427151825.png",
     "Ambientazione/NOMI.md",
-    "Ambientazione/Vigil.md",
     "Schede NPC/Esponenti di Vigil.md",
-    "Ambientazione/Popoli e nazioni.md",
     "Ambientazione/I Figli di Chronos.md",
     "Ambientazione/La Magia.md",
     "Ambientazione/Lore/Eventi storici globali.md",
