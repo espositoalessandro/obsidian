@@ -10,6 +10,7 @@ Hanno mandato lì un capo cultista, Vargan -nemesi di [[Party#DRAKHTAR VARKHAZ -
 Stanno sfruttando quel collegamento per aprire un portale verso l'Avernus e comunicare direttamente con Tiamat per ripristinare in qualche modo i Draghi Cromatici.
 Il Culto cercherà di far ricadere la colpa sui Tiefling, seminando indizi contro di loro.
 #### **PROGRESSIONE**
+- Vayn, Drakthar e Elìas si incontrano per la prima volta in una taverna. Delle urla all'esterno attirano la loro attenzione.
 - Primo incontro con i Diavoli. C'è una vittima a terra, un membro della gendarmeria, ma non sembra morto per mano dei Diavoli: ha diverse ferite da taglio e le manca una ciocca di capelli (hook per [[Party#DRAKHTAR VARKHAZ - Barbaro, Draconiano|Drakhtar]]).
 - Vengono intercettati da [[Vigil#ESPONENTI#**Custode di Vigil** |Mira]], che li porta nella sede della Gendarmeria per discutere dell'accaduto. Mentre parlano, un [[Vigil#ESPONENTI#**Magistrato 1 **|Magistrato]] entra improvvisamente, chiedendo di conferire in privato. Li assolda per indagare. Chiede di non far parola con nessuno di questa vicenda.
 - Iniziano le indagini. Mira riporta che l'unica cosa che affligge Vigil ultimamente sono dei ladri specializzati in gioiellerie. Se il party dovesse indagare, troverà tracce di sangue rosso scuro in una delle gioiellerie rapinate. Un'ulteriore indagine, rivelerà che è sangue di Tiefling.

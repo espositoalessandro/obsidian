@@ -44,10 +44,18 @@ Ma prima… devi dimostrare di essere degno anche solo di arrivare fino a lui.
 Drakhtar è seduto al bancone della locanda, è sera. Finora le sue ricerche a Vigil hanno prodotto pochi risultati. I Draconiani del luogo non hanno idea di chi sia Vargan e nessuno ha visto stranieri in giro. Frustrato e nervoso, cerca conforto in un grosso boccale di birra.
 "Sembri molto arrabbiato"
 Drakthar si gira e vede un giovane ragazzo con ricci biondi, occhi nocciola, smilzo e con abiti non molto nobili: una rozza camicia di lino e dei pantaloni marroni. Ha in mano un vassoio, quindi deduce che sia il cameriere.
-"Perché ti sembro arrabbiato?" risponde brusco.
+"Perché, ti sembro arrabbiato?" risponde brusco.
+Il giovane annusa l'aria per un istante.
 "Il tuo odore. Il mio naso dice che tu sei arrabbiato"
-"Beh il mio naso dice invece che non sono affari tuoi"
-"Mh. Antipatico, forse mi sono sbagliato"
+Drakthar lo fissa per un attimo, seccato dall'invasività della domanda.
+"Beh, il mio naso invece dice che non sono affari tuoi"
+"Mh.. no, mi sa che tu non hai un buon olfatto. Io sento che presto il tuo stato d'animo sarà importante per me in qualche maniera, però non capisco come..."
+Il giovane continua a guardare Drakthar con l'espressione di chi non capisce cosa gli è stato appena detto.
+"Se continui a scocciarmi, presto lo capirai"
+"Mh, io-"
+"ELIAAAAS, il tavolo 3 sta aspettando da mezz'ora, piantala di perdere tempo"
+L'urlo arrivava da dietro il bancone da un locandiere alquanto impaziente.
+Il giovane non sembrava minimamente toccato dalla minaccia e allontanandosi continua a guardare Drakthar con quell'espressione curiosa. 
 Detto ciò, si gira col suo vassoio e torna a servire altri tavoli.
 Un po' seccato, Drakhtar torna alla sua birra e ai suoi pensieri.
 
