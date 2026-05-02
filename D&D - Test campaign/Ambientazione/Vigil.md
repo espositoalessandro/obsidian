@@ -17,7 +17,7 @@ Separato dal Concilio Supremo, vi è la Corte Suprema di Giustizia, organo giuri
 Vigil non ha carceri, esistono solo tre tipi di punizioni: multe per i reati meno gravi, trasferimento in un distretto più esterno o esilio per i reato più gravi. L'omicidio è punito direttamente con l'esilio eterno.
 Ogni Magistrato gestisce individualmente i crimini minori, tuttavia l'esilio eterno di un cittadino richiede l'approvazione di almeno 2 dei Magistrati.
 I Magistrati hanno anche il potere di bloccare le leggi del Concilio se ritengono che queste vadano in contrasto con altre leggi. In questo caso, occorre l'unanimità dei tre Magistrati.
-A loro risponde direttamente il Custode, capo del Corpo di Gendarmeria, milizia locale di Vigil atta unicamente per tutelare le leggi della città. Il Corpo di Gendarmeria conta membri di ogni razza ad eccezione degli Elfi. Il Custode è nominato dal Concilio tra gli ufficiali di rango più alto della Gendarmeria e confermato dalla Magistratura e può appartenere a qualsiasi razza. Il Custode gode di autonomia operativa nell’applicazione delle leggi e non è soggetto all’intervento diretto dei Magistrati nelle decisioni sul campo, salvo in caso di violazione manifesta delle leggi vigenti.
+A loro risponde direttamente il Custode, capo del Corpo di Gendarmeria, milizia locale di Vigil atta unicamente per tutelare le leggi della città. Il Corpo di Gendarmeria conta membri di ogni razza ad eccezione degli Elfi. Il Custode è nominato dal Concilio tra gli ufficiali di rango più alto della Gendarmeria e può appartenere a qualsiasi razza. Il Custode gode di autonomia operativa nell’applicazione delle leggi e non è soggetto all’intervento diretto dei Magistrati nelle decisioni sul campo, salvo in caso di violazione manifesta delle leggi vigenti.
 
 ### DISPOSIZIONE URBANISTICA
 La città sorge all'interno di un enorme cratere con pareti pressoché verticali alte più di 60 metri. Diverse cascate adornano i contorni del cratere. Vigil è costruita su un rialzo di terra al centro e si trova praticamente su livello dell'acqua. La città è circondata da un lago d'acqua dolce che riempie il cratere.
@@ -35,6 +35,15 @@ Il Distretto Centrale non contiene abitazioni, ma ospita invece il Parco di Vigi
 ### POPOLAZIONE
 Vigil è la città più variegata in termini di razze di tutto il Continente. Non solo le 5 razze principali, ma anche Halfling, Gnomi, Mezzelfi, Mezzorchi e altre varietà Elfiche (Elfi dei boschi o Drow). 
 I Nani sono la popolazione più scarna che vive a Vigil. Spesso ci sono stati anni in cui solo l'attuale membro del Concilio e la sua famiglia vivevano in città. 
+
+### TENSIONI POLITICHE
+Ci sono diversi punti di attrito tra le varie razze, e di conseguenza con i relativi esponenti:
+Umani e Tiefling sono due razze con antiche discordie e cercano sempre di limitarsi la crescita e l'influenza a vicenda.
+I Nani non hanno interesse verso le altre razze. Non sono molto tolleranti verso gli umani, ma hanno buoni rapporti con Elfi e Draconiani. 
+Gli umani hanno rapporti neutri con i Nani e negativi con Tiefling e Draconiani. Non vedono bene la presenza degli Elfi. Tuttavia, la razza umana è molto più influente delle altre nella Piana delle Lacrime.
+I Tiefling hanno buoni rapporti con i Draconiani.
+Gli Elfi stanno accumulando sempre più discordia nei loro confronti. Umani e Tiefling lamentano della loro presenza troppo importante e vorrebbero eliminare la legge per cui i Magistrati possono essere solo Elfi. Draconiani e Nani invece, rispettano la saggezza degli Elfi e ritengono necessaria la loro presenza.
+
 
 ### ESPONENTI
 
@@ -64,13 +73,13 @@ Burbero, molto nazionalista, il classico Nano molto "vecchia scuola".
 Forte, stoica, intollerante verso la debolezza. Vede con estremo disprezzo l'attuale reggente del Seggio Umano. Ha il corpo segnato da cicatrici. In particolare, una le divide il volto in due in diagonale passando per l'occhio destro - che non ha più.
 ##### **Seggio Neutro:**
 - **Dräesil**, 117esimo anno in carica
-- Mago lv. 14, 1071 anni
+- Mago lv. 14, 1271 anni
 ##### **Magistrato 1:** 
 - **Màthien**, 23esimo anno in carica
-- Paladino giuramento di Vendetta lv. 9, 762 anni
+- Paladino giuramento di Vendetta lv. 9, 662 anni
 ##### **Magistrato 2:** 
 - **Néa**, 34esimo anno in carica
 - Stregone lv. 10, 812 anni
 ##### **Magistrato 3:**
 - **Gàlendril**, 40esimo anno in carica
-- Druido lv. 11, 903 anni
+- Druido lv. 11, 803 anni

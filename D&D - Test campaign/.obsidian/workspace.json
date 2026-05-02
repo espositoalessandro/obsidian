@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "27cf1e7a20e79ed7",
+        "id": "13ebef3b3be94e35",
         "type": "tabs",
         "children": [
           {
-            "id": "b384c68b0a0581b1",
+            "id": "2bfe459b0ce3d5b1",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Files/Pasted image 20260423181610.png"
+                "file": "Campagna - Il Ciclo dell Eredità/PROLOGO - Vigil.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260423181610"
+              "icon": "lucide-file",
+              "title": "PROLOGO - Vigil"
             }
           }
         ]
@@ -76,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300.5046920776367
   },
   "right": {
     "id": "d8477fc81d21a2cc",
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "Campagna - Il Ciclo dell Eredità/PROLOGO - Vigil.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks for PROLOGO - Vigil"
             }
           },
           {
@@ -111,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "Campagna - Il Ciclo dell Eredità/PROLOGO - Vigil.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links from PROLOGO - Vigil"
             }
           },
           {
@@ -154,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Files/Pasted image 20260423181610.png",
+                "file": "Campagna - Il Ciclo dell Eredità/PROLOGO - Vigil.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Pasted image 20260423181610"
+              "title": "Outline of PROLOGO - Vigil"
             }
           },
           {
@@ -178,7 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 228.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,50 +194,39 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1589b7cd38a3fb05",
+  "active": "2bfe459b0ce3d5b1",
   "lastOpenFiles": [
-    "Files/Pasted image 20260427151825.png",
+    "Ambientazione/Vigil.md",
+    "Campagna - Il Ciclo dell Eredità/PROLOGO - Vigil.md",
+    "Campagna - Il Ciclo dell Eredità/Idee campagna.md",
+    "Campagna - Il Ciclo dell Eredità/Party.md",
     "Campagna - Il Ciclo dell Eredità/Schede NPC/Prologo - Nemici.md",
     "Campagna - Il Ciclo dell Eredità/Schede NPC/Esponenti di Vigil.md",
-    "Campagna - Il Ciclo dell Eredità/Schede NPC",
     "Campagna - Il Ciclo dell Eredità/Elìas.md",
-    "Ambientazione/NOMI.md",
-    "Schede NPC/Prologo - Nemici.md",
-    "Schede NPC/Esponenti di Vigil.md",
-    "Schede NPC",
-    "Pasted image 20260427151825.png",
-    "Files/Pasted image 20260426214303.png",
-    "Files/Pasted image 20260426214258.png",
-    "Files/Pasted image 20260426213853.png",
-    "Files/Pasted image 20260426213232.png",
-    "Files/936079b5-46bb-4484-8946-c757d1a54226.png",
+    "Ambientazione/Popoli e nazioni.md",
     "Files/8d098c74-ed34-4f19-9003-0b1fb9cca0ce.png",
-    "Campagna - Il Ciclo dell Eredità/Party.md",
-    "Campagna - Il Ciclo dell Eredità/PROLOGO - Vigil.md",
-    "Campagna - Il Ciclo dell Eredità/Aurelion-Elìas.md",
-    "Ambientazione/Lore/La Seconda Era.md",
+    "Files/936079b5-46bb-4484-8946-c757d1a54226.png",
+    "Files/Pasted image 20260423181610.png",
+    "Files/Pasted image 20260426213232.png",
+    "Files/Pasted image 20260426213853.png",
+    "Files/Pasted image 20260426214258.png",
+    "Files/Pasted image 20260426214303.png",
+    "Files/Pasted image 20260427151825.png",
+    "Ambientazione/NOMI.md",
+    "Ambientazione/I Figli di Chronos.md",
+    "Ambientazione/La Magia.md",
+    "Ambientazione/Lore/Eventi storici globali.md",
     "Ambientazione/Lore/La Terza Era.md",
     "Ambientazione/Lore/La Prima Era.md",
-    "Ambientazione/Lore/Eventi storici globali.md",
-    "Ambientazione/Vigil.md",
-    "Ambientazione/Lore",
-    "Ambientazione/Popoli e nazioni.md",
+    "Ambientazione/Lore/La Seconda Era.md",
     "Ambientazione/Le crepe nella Trama.md",
-    "Ambientazione/La Magia.md",
-    "Ambientazione/I Figli di Chronos.md",
+    "Campagna - Il Ciclo dell Eredità/Schede NPC",
+    "Files/Pasted image 20260426213249.png",
     "Ambientazione/Geografia delle Terre Orientali.md",
-    "Ambientazione",
     "Files/5a91031f-ad13-4a5e-ab1a-c9340ac55580.png",
-    "Vigil.md",
-    "Campagna - Il Ciclo dell Eredità/Capitoli.md",
-    "Campagna - Il Ciclo dell Eredità/Idee campagna.md",
-    "Le Terre Orientali.md",
-    "La Magia.md",
-    "conflict-files-obsidian-git.md",
-    "Lore",
-    "Files/Pasted image 20260423181610.png",
-    "Files",
+    "Ambientazione",
     "Campagna - Il Ciclo dell Eredità",
-    "Files/Pasted image 20260423181625.png"
+    "Files",
+    "Ambientazione/Lore"
   ]
 }

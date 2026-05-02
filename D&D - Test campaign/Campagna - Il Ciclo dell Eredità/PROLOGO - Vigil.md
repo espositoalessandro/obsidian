@@ -12,12 +12,18 @@ Stanno sfruttando quel collegamento per aprire un portale verso l'Avernus e comu
 La fuoriuscita di Diavoli non era prevista dai Cultisti, però hanno deciso di sfruttare la cosa: seminando un po' di caos possono agire più indisturbati, quindi seminano indizi contro i Tiefling.
 Il Culto cercherà di far ricadere la colpa sui Tiefling, seminando indizi contro di loro.
 #### **PROGRESSIONE**
-- Vayn, Drakthar e Elìas si incontrano per la prima volta in una taverna. Delle urla all'esterno attirano la loro attenzione.
-- Primo incontro con i Diavoli. C'è una vittima a terra, un membro della gendarmeria, ma non sembra morto per mano dei Diavoli: ha diverse ferite da bruciatura (che indirizzerebbe verso i Tiefling) ma le manca una ciocca di capelli (hook per [[Party#DRAKHTAR VARKHAZ - Barbaro, Draconiano|Drakhtar]]).
-- Vengono intercettati da [[Vigil#ESPONENTI#**Custode di Vigil** |Mira]], che li porta nella sede della Gendarmeria per discutere dell'accaduto. Mentre parlano, un [[Vigil#ESPONENTI#**Magistrato 1 **|Magistrato]] entra improvvisamente, chiedendo di conferire in privato. Li assolda per indagare. Chiede di non far parola con nessuno di questa vicenda.
-- Iniziano le indagini. Mira riporta che l'unica cosa che affligge Vigil ultimamente sono dei ladri specializzati in gioiellerie. Se il party dovesse indagare, troverà tracce di sangue rosso scuro in una delle gioiellerie rapinate. Un'ulteriore indagine, rivelerà che è sangue di Tiefling.
+- Vayn, Drakthar e Elìas si incontrano per la prima volta in una taverna. Piove. Delle urla all'esterno attirano la loro attenzione. Escono e vedono una guardia morta ai piedi delle mura, sul retro della locanda. 
+- Primo incontro con i Diavoli. C'è una vittima a terra, un membro della gendarmeria.
+- Vengono intercettati da [[Vigil#ESPONENTI#**Custode di Vigil** |Mira]], che li porta nella sede della Gendarmeria per discutere dell'accaduto. Mentre parlano, un [[Vigil#ESPONENTI#**Magistrato 1 **|Magistrato]] entra improvvisamente, chiedendo di conferire in privato. Chiede di non far parola con nessuno di questa vicenda. Mira non è per niente convinta e chiede aiuto al party. Non vuole coinvolgere la gendarmeria perché non si fida dei Magistrati.
+- Iniziano le indagini. Attualmente ci sono diversi problemi che affliggono Vigil: incursioni alle carovane di cibo dalle fattorie, operai scomparsi nelle fogne e furti alle gioiellerie.
+- INCURSIONI ALLE CAROVANE: aggressioni di banditi frequenti sulla strada Est per Wicklow e Barrisdale. Catena di approvvigionamento di cibo principale sia perché ci sono 3 fattorie, sia perché taglia l'accesso alla città portuale di Portree. 
+- FURTI ALLE GIOIELLERIE: alcuni mercanti del Distretto 2 hanno riportato furti importanti di gemme e pietre preziose.
+- OPERAI SCOMPARSI: sotto Vigil vi è un complesso sistema idrico e fognario. Diversi operai dediti a controlli sono scomparsi.
+
+
 - Movente dei Tiefling: in questo momento c'è una forte discordia tra Tiefling ed Umani in città. I Tiefling accusano gli umani di aver appiccato l'incendio che ha distrutto il loro distretto, gli umani attribuiscono l'incidente alla loro natura infernale.
-- EVENTO: Il Culto riconosce segni in [[Party#VAYN DAWNMERE - Stregone discendenza Draconica, Mezzelfo|Vayn]] di Draghi Metallici e lo vuole uccidere/catturare: imboscata al party e cattura. [[Party#DRAKHTAR VARKHAZ - Barbaro, Draconiano|Drakhtar]] è in prigione e vede la sua nemesi.
+- EVENTO: Mira ha trovato informazioni su Vargan. 
+- EVENTO: Il Culto riconosce segni in [[Party#VAYN DAWNMERE - Stregone discendenza Draconica, Mezzelfo|Vayn]] di Draghi Metallici e lo vuole uccidere/catturare: imboscata al party e cattura. [[Party#DRAKHTAR VARKHAZ - Barbaro, Draconiano|Drakhtar]] è imprigionato e vede la sua nemesi.
 
 ![[8d098c74-ed34-4f19-9003-0b1fb9cca0ce.png]]
 
