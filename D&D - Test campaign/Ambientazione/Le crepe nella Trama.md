@@ -7,4 +7,6 @@ Col tempo, gli Elfi hanno scoperto che le crepe non sono eventi naturali, ma son
 
 Le crepe più dense si comportano quasi come un buco nero: distorcono violentemente lo spazio-tempo arrivando a creare anche connessioni con altri Piani d'Esistenza.
 
-Inoltre, la Trama tende a riequilibrarsi col tempo. Le grandi crepe presenti nella Piana delle Lacrime, nelle Lande Cremisi, tra le Colline Fairridge e tra i Monti Dovahdrah aprirono letteralmente portali tra Piani alla fine della Seconda Era, ma ora nella Terza era sono solo punti estremamente densi di trama, molto meno imponenti di come erano in origine.
+Inoltre, la Trama tende a riequilibrarsi col tempo. Le grandi crepe presenti nella Piana delle Lacrime, nelle Lande Cremisi, tra le Colline Fairridge e tra i Monti Dovahdrah aprirono letteralmente portali tra Piani alla fine della Seconda Era, ma ora nella Terza era sono solo punti estremamente densi di trama, meno imponenti di come erano in origine.
+
+Tuttavia, questo ha comunque spinto gli Elfi a provare forte paura nei confronti di forti dispiegamenti magici. Per questo sono intervenuti nel confitto con gli Umani prima che ci fosse un'escalation e per questo non intervengono loro direttamente: alcuni stregoni elfici sono abbastanza temibili da poter affrontare i Draghi, ma il loro dispiegamento rischierebbe di provocare nuove fratture nella Trama.

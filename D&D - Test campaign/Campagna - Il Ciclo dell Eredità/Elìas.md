@@ -1,5 +1,4 @@
-![[Pasted image 20260427151825.png|274]]
-
+![[Pasted image 20260427151825.png|274]]![[982f20d4-da84-457d-8d17-9428b1bf3b39 1.png|273]]
 - Drago giovane o antico?
 - Sa di essere un drago?
 - Perché è vivo?

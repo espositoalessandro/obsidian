@@ -20,7 +20,6 @@ Il Culto cercherà di far ricadere la colpa sui Tiefling, seminando indizi contr
 - FURTI ALLE GIOIELLERIE: alcuni mercanti del Distretto 2 hanno riportato furti importanti di gemme e pietre preziose.
 - OPERAI SCOMPARSI: sotto Vigil vi è un complesso sistema idrico e fognario. Diversi operai dediti a controlli sono scomparsi.
 
-
 - Movente dei Tiefling: in questo momento c'è una forte discordia tra Tiefling ed Umani in città. I Tiefling accusano gli umani di aver appiccato l'incendio che ha distrutto il loro distretto, gli umani attribuiscono l'incidente alla loro natura infernale.
 - EVENTO: Mira ha trovato informazioni su Vargan. 
 - EVENTO: Il Culto riconosce segni in [[Party#VAYN DAWNMERE - Stregone discendenza Draconica, Mezzelfo|Vayn]] di Draghi Metallici e lo vuole uccidere/catturare: imboscata al party e cattura. [[Party#DRAKHTAR VARKHAZ - Barbaro, Draconiano|Drakhtar]] è imprigionato e vede la sua nemesi.

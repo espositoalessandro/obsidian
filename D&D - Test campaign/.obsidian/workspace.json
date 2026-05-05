@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campagna - Il Ciclo dell Eredità/PROLOGO - Vigil.md",
+                "file": "Ambientazione/Lore/Eventi storici globali.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PROLOGO - Vigil"
+              "title": "Eventi storici globali"
+            }
+          },
+          {
+            "id": "e8cdd7d5cae0a068",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ambientazione/Lore/Genesi.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Genesi"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,15 +209,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2bfe459b0ce3d5b1",
+  "active": "e8cdd7d5cae0a068",
   "lastOpenFiles": [
-    "Ambientazione/Vigil.md",
+    "Ambientazione/Lore/Eventi storici globali.md",
+    "Ambientazione/Lore/Genesi.md",
+    "Untitled.md",
+    "Ambientazione/I Figli di Chronos.md",
     "Campagna - Il Ciclo dell Eredità/PROLOGO - Vigil.md",
+    "Campagna - Il Ciclo dell Eredità/Elìas.md",
+    "982f20d4-da84-457d-8d17-9428b1bf3b39 1.png",
+    "982f20d4-da84-457d-8d17-9428b1bf3b39.png",
     "Campagna - Il Ciclo dell Eredità/Idee campagna.md",
     "Campagna - Il Ciclo dell Eredità/Party.md",
-    "Campagna - Il Ciclo dell Eredità/Schede NPC/Prologo - Nemici.md",
     "Campagna - Il Ciclo dell Eredità/Schede NPC/Esponenti di Vigil.md",
-    "Campagna - Il Ciclo dell Eredità/Elìas.md",
+    "Campagna - Il Ciclo dell Eredità/Schede NPC/Prologo - Nemici.md",
+    "Ambientazione/Geografia delle Terre Orientali.md",
+    "Ambientazione/La Magia.md",
+    "Ambientazione/Le crepe nella Trama.md",
+    "Ambientazione/NOMI.md",
+    "Ambientazione/Vigil.md",
     "Ambientazione/Popoli e nazioni.md",
     "Files/8d098c74-ed34-4f19-9003-0b1fb9cca0ce.png",
     "Files/936079b5-46bb-4484-8946-c757d1a54226.png",
@@ -212,18 +237,10 @@
     "Files/Pasted image 20260426214258.png",
     "Files/Pasted image 20260426214303.png",
     "Files/Pasted image 20260427151825.png",
-    "Ambientazione/NOMI.md",
-    "Ambientazione/I Figli di Chronos.md",
-    "Ambientazione/La Magia.md",
-    "Ambientazione/Lore/Eventi storici globali.md",
     "Ambientazione/Lore/La Terza Era.md",
     "Ambientazione/Lore/La Prima Era.md",
     "Ambientazione/Lore/La Seconda Era.md",
-    "Ambientazione/Le crepe nella Trama.md",
     "Campagna - Il Ciclo dell Eredità/Schede NPC",
-    "Files/Pasted image 20260426213249.png",
-    "Ambientazione/Geografia delle Terre Orientali.md",
-    "Files/5a91031f-ad13-4a5e-ab1a-c9340ac55580.png",
     "Ambientazione",
     "Campagna - Il Ciclo dell Eredità",
     "Files",
