@@ -1,0 +1,11 @@
+ Vayn, Drakthar e Elìas si incontrano per la prima volta in una taverna. Piove. Delle urla all'esterno attirano la loro attenzione. Escono e vedono una guardia morta ai piedi delle mura, sul retro della locanda. 
+- Primo incontro con i Demoni. C'è una vittima a terra, un membro della gendarmeria.
+- Incontro: un Quasit: combattono solo Drakthar e Vayn, Elìas li cura ma è nascosto tra la folla. Casta "protezione dal bene e dal male" su Drakhtar.
+- Vengono intercettati da [[Vigil#ESPONENTI#**Custode di Vigil** |Mira]], che li porta nella sede della Gendarmeria per discutere dell'accaduto. Mentre parlano, un [[Vigil#ESPONENTI#**Magistrato 1 **|Magistrato]] entra improvvisamente, chiedendo di conferire in privato. Chiede di non far parola con nessuno di questa vicenda. Mira non è per niente convinta e chiede aiuto al party. Non vuole coinvolgere la gendarmeria perché non si fida dei Magistrati.
+- Iniziano le indagini. Attualmente ci sono diversi problemi che affliggono Vigil: incursioni alle carovane di cibo dalle fattorie, operai scomparsi nelle fogne e furti alle gioiellerie.
+- Finito il discorso con Mira, sulla strada del ritorno vengono attaccati da due (o 4 a seconda delle condizioni del party) cultisti. 
+- I cultisti hanno il tatuaggio della tribù di Vargan (hook per Drakhtar)
+
+- INCURSIONI ALLE CAROVANE: aggressioni di banditi frequenti sulla strada Est per Wicklow e Barrisdale. Catena di approvvigionamento di cibo principale sia perché ci sono 3 fattorie, sia perché taglia l'accesso alla città portuale di Portree. 
+- FURTI ALLE GIOIELLERIE: alcuni mercanti del Distretto 2 hanno riportato furti importanti di gemme e pietre preziose.
+- OPERAI SCOMPARSI: sotto Vigil vi è un complesso sistema idrico e fognario. Diversi operai dediti a controlli sono scomparsi.

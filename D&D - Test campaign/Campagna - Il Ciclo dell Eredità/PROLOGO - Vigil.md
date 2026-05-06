@@ -8,8 +8,8 @@ Quindi si rivolgono ai due membri del party per un aiuto, poiché gli Elfi non p
 #### **Cosa sta realmente succedendo**
 i Figli di Chronos hanno scoperto Vigil è nata prevalentemente per nascondere un'enorme crepa nella Trama, dovuta allo scontro tra Dovraxis e il misterioso Drago Metallico. 
 Hanno mandato lì un capo cultista, Vargan -nemesi di [[Party#DRAKHTAR VARKHAZ - Barbaro, Draconiano|Drakhtar]]- per investigare.
-Stanno sfruttando quel collegamento per aprire un portale verso l'Avernus e comunicare direttamente con Tiamat per ripristinare in qualche modo i Draghi Cromatici.
-La fuoriuscita di Diavoli non era prevista dai Cultisti, però hanno deciso di sfruttare la cosa: seminando un po' di caos possono agire più indisturbati, quindi seminano indizi contro i Tiefling.
+Il Culto vuole sfruttare quella crepa per far cadere Vigil, simbolo di Ordine (i cultisti venerano il Caos).
+La crepa sotto Vigil è debolmente collegata al piano abissale,
 Il Culto cercherà di far ricadere la colpa sui Tiefling, seminando indizi contro di loro.
 #### **PROGRESSIONE**
 - Vayn, Drakthar e Elìas si incontrano per la prima volta in una taverna. Piove. Delle urla all'esterno attirano la loro attenzione. Escono e vedono una guardia morta ai piedi delle mura, sul retro della locanda. 
