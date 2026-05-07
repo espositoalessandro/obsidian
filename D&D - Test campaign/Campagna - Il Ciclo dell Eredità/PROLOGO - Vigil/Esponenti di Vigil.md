@@ -8,8 +8,10 @@ Piena di spirito, non esita a fare commenti che a volte ignorano l'etichetta, pe
 
 ##### **Seggio Umano:** 
 - **Mathias** McGandres, primo anno in carica
-- Artefice lv. 6, 34 anni.
-Diplomatico di mestiere, il classico topo da biblioteca che conosce le leggi a memoria. È uno dei consiglieri più giovani, e molti ritengono non abbia la spina dorsale per presiedere un seggio così delicato. Tuttavia crede molto nell'ideale di Vigil e fa il possibile per sostenere i suoi valori
+- Artefice lv. 6, 54 anni.
+![[Pasted image 20260507121619.png|263]]
+Diplomatico di mestiere, il classico topo da biblioteca che conosce le leggi a memoria. È uno dei consiglieri più giovani, e molti ritengono non abbia la spina dorsale per presiedere un seggio così delicato. Tuttavia crede molto nell'ideale di Vigil e fa il possibile per sostenere i suoi valori.
+
 ##### **Seggio Nanico:** 
 - **Rorik**, del Clan Kanrak, secondo anno in carica.
 - Guerriero lv. 8 , 432 anni
