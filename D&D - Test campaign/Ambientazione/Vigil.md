@@ -13,8 +13,8 @@ Ogni seggio ha egual potere, ogni membro può proporre nuove leggi che vengono s
 Il Seggio Neutrale non può presentare proposte di legge e non può votare per le proposte abrogative. Può votare solamente in caso di stallo (2 favorevoli e 2 contrari) per una proposta di legge.
 Il Concilio si riunisce una volta a settimana per discutere e prendere eventualmente decisioni relative alla gestione della città.  
 
-Separato dal Concilio Supremo, vi è la Corte Suprema di Giustizia, organo giurisdizionale presieduto da 3 Magistrati Elfi. I tre Magistrati hanno il compito di assicurarsi che le leggi vengano rispettate e che le proposte governative effettuate dal Concilio siano concordi con le leggi ancora in atto.
-Vigil non ha carceri, esistono solo tre tipi di punizioni: multe per i reati meno gravi, trasferimento in un distretto più esterno o esilio per i reato più gravi. L'omicidio è punito direttamente con l'esilio eterno.
+Separato dal Concilio Supremo, vi è la Corte Suprema di Giustizia, organo giurisdizionale presieduto da 3 Magistrati Elfi. I tre Magistrati hanno il compito di assicurarsi che le leggi vengano rispettate e che le proposte governative effettuate dal Concilio siano concordi con le leggi ancora in atto. Il Seggio Neutrale elegge i 3 Magistrati in totale autonomia.
+Vigil non ha carceri, esistono solo due tipi di punizioni: multe per i reati meno gravi o esilio temporaneo/eterno per i reato più gravi. L'omicidio è punito direttamente con l'esilio eterno.
 Ogni Magistrato gestisce individualmente i crimini minori, tuttavia l'esilio eterno di un cittadino richiede l'approvazione di almeno 2 dei Magistrati.
 I Magistrati hanno anche il potere di bloccare le leggi del Concilio se ritengono che queste vadano in contrasto con altre leggi. In questo caso, occorre l'unanimità dei tre Magistrati.
 A loro risponde direttamente il Custode, capo del Corpo di Gendarmeria, milizia locale di Vigil atta unicamente per tutelare le leggi della città. Il Corpo di Gendarmeria conta membri di ogni razza ad eccezione degli Elfi. Il Custode è nominato dal Concilio tra gli ufficiali di rango più alto della Gendarmeria e può appartenere a qualsiasi razza. Il Custode gode di autonomia operativa nell’applicazione delle leggi e non è soggetto all’intervento diretto dei Magistrati nelle decisioni sul campo, salvo in caso di violazione manifesta delle leggi vigenti.
@@ -43,43 +43,3 @@ I Nani non hanno interesse verso le altre razze. Non sono molto tolleranti verso
 Gli umani hanno rapporti neutri con i Nani e negativi con Tiefling e Draconiani. Non vedono bene la presenza degli Elfi. Tuttavia, la razza umana è molto più influente delle altre nella Piana delle Lacrime.
 I Tiefling hanno buoni rapporti con i Draconiani.
 Gli Elfi stanno accumulando sempre più discordia nei loro confronti. Umani e Tiefling lamentano della loro presenza troppo importante e vorrebbero eliminare la legge per cui i Magistrati possono essere solo Elfi. Draconiani e Nani invece, rispettano la saggezza degli Elfi e ritengono necessaria la loro presenza.
-
-
-### ESPONENTI
-
-##### **Custode di Vigil**: 
-- **Mira**, del Clan Lathrak, quinto anno in carica.
-- Ladro lv. 4, 154 anni.
-Donna, primo nano Custode di Vigil della storia, una persona piena di spirito.
-È molto più interessata al mondo esterno rispetto alla media dei Nani. Vive a Vigil da ormai 62 anni e milita nella Gendarmeria da circa 30.
-Piena di spirito, non esita a fare commenti che a volte ignorano l'etichetta, personalità molto pratica. 
-
-##### **Seggio Umano:** 
-- **Mathias** McGandres, primo anno in carica
-- Artefice lv. 6, 34 anni.
-Diplomatico di mestiere, il classico topo da biblioteca che conosce le leggi a memoria. È uno dei consiglieri più giovani, e molti ritengono non abbia la spina dorsale per presiedere un seggio così delicato.
-##### **Seggio Nanico:** 
-- **Rorik**, del Clan Kanrak, secondo anno in carica.
-- Guerriero lv. 8 , 432 anni
-Burbero, molto nazionalista, il classico Nano molto "vecchia scuola". 
-È figlio di una corrente di pensiero attuale nel regno dei Nani secondo cui l'apertura ai popoli esterni è più un male che un bene. Tuttavia l'andamento della popolazione negli ultimi anni è di forte apertura. Qualcuno potrebbe definirlo un "momento nostalgico".
-##### **Seggio Tiefling:**
-- **Bel'veth**, alta Sacerdotessa Infernale, terzo anno in carica
-- Paladino giuramento di Devozione lv. 9, 75 anni
- Rigida, autoritaria ed estremamente fedele.
-##### **Seggio Draconiano:** 
-- **Ygril**, della Tribù Akrox, quarto anno in carica.
-- Monaco lv 8, 55 anni.
-Forte, stoica, intollerante verso la debolezza. Vede con estremo disprezzo l'attuale reggente del Seggio Umano. Ha il corpo segnato da cicatrici. In particolare, una le divide il volto in due in diagonale passando per l'occhio destro - che non ha più.
-##### **Seggio Neutro:**
-- **Dräesil**, 117esimo anno in carica
-- Mago lv. 14, 1271 anni
-##### **Magistrato 1:** 
-- **Màthien**, 23esimo anno in carica
-- Paladino giuramento di Vendetta lv. 9, 662 anni
-##### **Magistrato 2:** 
-- **Néa**, 34esimo anno in carica
-- Stregone lv. 10, 812 anni
-##### **Magistrato 3:**
-- **Gàlendril**, 40esimo anno in carica
-- Druido lv. 11, 803 anni
