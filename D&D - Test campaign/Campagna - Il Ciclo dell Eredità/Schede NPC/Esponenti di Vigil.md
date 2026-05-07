@@ -1,23 +1,39 @@
 ### **Mira, Custode di Vigil**
-Ladro lv.4
-_Nano, neutrale buono_
-
-**CA** 16 (armatura borchiata)  
-**PF** 65 (13d8+39)  
+Guerriero lv.4, Neutrale Buono
+**CA** 18 (Armatura a piastre)  
+**PF** 42 (4d10 + 16)  
 **Velocità** 25 ft
 
-**FOR** 8 | **DES** 18 | **COS** 16 | **INT** 10 | **SAG** 14 | **CAR** 14
-**Tiri Salvezza** Des +6, Sag +5  
-**Abilità** Furtività +8, Percezione +4, Intuizione +4, Indagare +2  
-**Sensi** scurovisione 18 m
-#### 🔪 Tratti
-**Attacco Furtivo (1/Turno).** +3d6 danni extra se ha vantaggio o alleato vicino.  
-**Azione Scaltra.** Dash/Disengage/Nascondersi come azione bonus.  
-**Mente della Gendarmeria.** Vantaggio a Percezione e Indagare in ambiente urbano.
-#### ⚔️ Azioni
-**Multiattacco.** 2 attacchi  
-**Rapier.** +7 a colpire, 1d8+4 perforante  
-**Balestra a mano.** +7, 1d6+4
+| FOR     | DES     | COS     | INT    | SAG     | CAR     |
+| ------- | ------- | ------- | ------ | ------- | ------- |
+| 16 (+3) | 10 (+0) | 18 (+4) | 8 (-1) | 14 (+2) | 10 (+0) |
+
+**Tiri Salvezza** For +5, Cos +6  
+**Abilità** Atletica +5, Intuizione +4, Percezione +4, Indagare +2, Persuasione +3  
+**Sensi** Scurovisione 18 m, Percezione passiva 14  
+**Bonus Competenza** +2
+#### Azioni
+
+**Second Wind (1/Short Rest):*
+Come azione bonus, recupera `1d10+4` PF.
+
+**Action Surge (1/Short Rest)**
+Può effettuare un’azione aggiuntiva nel suo turno.
+##### Battle Master Maneuvers (4d8)
+CD manovre: **13**
+Conosce 3 manovre:
+- **Commanding presence** → d8 aggiuntivo a intimidazione/persuasione.
+- **Trip Attack** → tenta di buttare a terra il bersaglio. (TS STR)
+- **Menacing Attack** → intimorisce il bersaglio (TS WIS).
+#### Attacchi
+
+**Ascia da guerra** - Cleave Mastery (attacco altra creatura entro gittata)
+_Attacco con arma da mischia:_ +5 a colpire, portata 1,5 m, un bersaglio.  
+**Colpito:** `1d12+3` danni taglienti.
+
+**Balestra a mano** - Vex Mastery (vantaggio a prossimo tiro per colpire)
+_Attacco con arma a distanza:_ +4 a colpire, gittata 24/96 m.  
+**Colpito:** `1d6` danni perforanti.
 
 ---
 ### **Mathias, Seggio Umano**

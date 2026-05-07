@@ -225,8 +225,7 @@ Sebastian
 Leon  
 Elias  
 Dorian  
-Julian  
-Edwin  
+Julian    
 Robert  
 Hugh  
 Walter  
