@@ -4,7 +4,7 @@
 ![[Pasted image 20260507155826.png|299]]
 Donna, primo nano Custode di Vigil della storia, una persona piena di spirito.
 È molto più interessata al mondo esterno rispetto alla media dei Nani. Vive a Vigil da ormai 62 anni e milita nella Gendarmeria da circa 30.
-Piena di spirito, non esita a fare commenti che a volte ignorano l'etichetta, personalità molto pratica. 
+Piena di spirito, non esita a fare commenti che a volte ignorano l'etichetta, personalità molto pratica.
 Fu eletta per votazione di Edwin, Bel'veth e Ygril. Rorik, nonostante fosse della stessa razza, si oppose.
 ##### **Seggio Umano:** 
 - **Edwin** de Gandres, primo anno in carica
