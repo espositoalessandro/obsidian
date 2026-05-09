@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b384c68b0a0581b1",
+            "id": "dd935d6327c709a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,20 +19,6 @@
               },
               "icon": "lucide-file",
               "title": "1 - 2026-05-08"
-            }
-          },
-          {
-            "id": "dd935d6327c709a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campagna - Il Ciclo dell Eredità/PROLOGO - Vigil/Esponenti di Vigil.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Esponenti di Vigil"
             }
           }
         ]
@@ -208,15 +194,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b384c68b0a0581b1",
+  "active": "dd935d6327c709a2",
   "lastOpenFiles": [
-    "Ambientazione/NOMI.md",
-    "Campagna - Il Ciclo dell Eredità/Sessioni/1 - 2026-05-08.md",
     "Campagna - Il Ciclo dell Eredità/PROLOGO - Vigil/Esponenti di Vigil.md",
+    "Campagna - Il Ciclo dell Eredità/Elìas.md",
+    "Campagna - Il Ciclo dell Eredità/Party.md",
+    "Campagna - Il Ciclo dell Eredità/Tema generale della campagna.md",
+    "Campagna - Il Ciclo dell Eredità/Sessioni/1 - 2026-05-08.md",
+    "Ambientazione/NOMI.md",
     "Ambientazione/Vigil.md",
     "Campagna - Il Ciclo dell Eredità/PROLOGO - Vigil/Tensioni politiche.md",
     "Campagna - Il Ciclo dell Eredità/Schede NPC/Esponenti di Vigil.md",
-    "Campagna - Il Ciclo dell Eredità/Elìas.md",
     "Campagna - Il Ciclo dell Eredità/PROLOGO - Vigil/Incipit.md",
     "Files/936079b5-46bb-4484-8946-c757d1a54226.png",
     "Files/982f20d4-da84-457d-8d17-9428b1bf3b39.png",
@@ -231,14 +219,12 @@
     "Campagna - Il Ciclo dell Eredità/PROLOGO - Vigil",
     "Ambientazione/Popoli e nazioni.md",
     "Campagna - Il Ciclo dell Eredità/Schede NPC/Prologo - Nemici.md",
-    "Campagna - Il Ciclo dell Eredità/Tema generale della campagna.md",
     "Campagna - Il Ciclo dell Eredità/Sessioni",
     "Ambientazione/Lore/Genesi.md",
     "Campagna - Il Ciclo dell Eredità/Schede NPC",
     "Schede NPC/Prologo - Nemici.md",
     "Schede NPC/Esponenti di Vigil.md",
     "Schede NPC",
-    "Campagna - Il Ciclo dell Eredità/Party.md",
     "Campagna - Il Ciclo dell Eredità/Aurelion-Elìas.md",
     "Ambientazione/Lore/La Seconda Era.md",
     "Ambientazione/Lore/La Terza Era.md",
