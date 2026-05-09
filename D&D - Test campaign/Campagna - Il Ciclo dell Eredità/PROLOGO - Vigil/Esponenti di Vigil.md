@@ -1,5 +1,5 @@
 ##### **Custode di Vigil**: 
-- **Mira**, del Clan Lathrak, quinto anno in carica.
+- **Mira**, del Clan Lathrak, 8 anni in carica.
 - Guerriero lv. 4, 154 anni.
 ![[Pasted image 20260507155826.png|299]]
 Donna, primo nano Custode di Vigil della storia, una persona piena di spirito.

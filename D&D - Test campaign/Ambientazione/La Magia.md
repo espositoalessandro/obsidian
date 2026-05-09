@@ -21,9 +21,9 @@ Per farlo c'è bisogno di una fonte energetica. Nel tempo si sono sviluppati div
 
 **Bardi**: utilizzano l'energia naturale che è racchiusa nelle emozioni. La musica è ciò che smuove le emozioni più di ogni arte, quindi la usano per incanalare energia nelle parole di potere.
 
-**Warlock**: sono sottomessi a particolari forme di anomalie della trama. Tali anomalie sembrano quasi avere volontà propria e manipolano alcuni individui incanalando potere tramite essi.
+**Warlock**: sono nati con una sensibilità naturale alle crepe nella Trama. Hanno avuto un'interazione con essa ed un contatto con uno dei Piani Esterni attraverso la crepa. Sono stati influenzati e godono di poteri di natura divina
 
-**Chierico**: molto simile al Warlock, solo che le anomalie per incanalare il potere sono meno caotiche e gli permettono di muoversi più liberamente e seminare meno distruzione. Piuttosto che subire la trama, ci entra in risonanza. 
+**Chierico**: simile al Warlock, ma i piani Esterni con cui sono entrati in contatto sono meno caotici e tendono meno ad influenzare. Una divinità benigna è entrata in contatto con loro e gli ha conferito poteri.
 
 **Paladino**: piega la trama con un particolare giuramento in Jothun. Viene addestrato da piccolo per capire il concetto della trama e poi crea una sorta di "frusta magica" caricando la trama attorno a lui di energia attraverso il giuramento. 
 Tale giuramento fornisce energia al paladino attingendola dai futuri distrutti e da possibilità di scelte perse.
