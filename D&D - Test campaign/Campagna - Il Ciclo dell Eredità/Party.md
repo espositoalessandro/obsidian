@@ -1,4 +1,4 @@
-# VAYN DAWNMERE - Stregone discendenza Draconica, Elfo
+# VAYN DAWNMERE - Stregone, Elfo
 
 ### ORIGINE
 Vayn nasce nelle Isole di Zaffiro, ma le lascia a diciotto anni, non per scelta sua. I suoi genitori decisero di abbandonare le isole in fretta e senza spiegazioni convincenti, portandolo con sé a Vigil.
@@ -19,10 +19,12 @@ Non è una certezza. È un sospetto che lo disturba proprio perché non riesce a
 ### Idee per la campagna:
 verso la seconda metà della Seconda era, i restanti draghi metallici si confusero tra gli Elfi e cominciarono a dar vita ad una nuova discendenza. 
 I Draghi Metallici hanno tramandato molte conoscenze nella famiglia di Vayn. Attualmente sono gli ultimi Elfi ad avere ancora sangue di Draghi Puri nelle vene.
-Vayn è un discendente di una delle stirpi draconiche, ma perché in lui sorge il potere dei draghi? I genitori sapevano e lo hanno incitato a cercare informazioni su Ilyrion. Perché?
-Cosa c'è nel contenitore che gli hanno lasciato? è davvero un contenitore? Come si apre?
-Potrebbe esserci il filatterio di Ilyrion, che in punto di morte ha deciso di proseguire la sua vita per il bene della terra.
-Chi ha rapito i suoi genitori? Sono stati stesso gli Elfi o i Cultisti? Perché Mira non ne sa nulla?
+La famiglia di Vayn si tramanda un particolare contenitore di fattura elfica e draconica.
+Nel contenitore c'è il filatterio di Ilyrion, che in punto di morte ha deciso di proseguire la sua vita per il bene della terra.
+Sul contenitore sono incise delle rune in draconico antico, lingua attualmente perduta che solo pochi saggi elfici -e ovviamente i draghi- conoscono.
+I genitori di Vayn furono rapiti, i Magistrati si occuparono personalmente del caso e cancellarono i ricordi di Mira con un Modify Memory.
+Alcuni Elfi fanno parte dei Figli di Chronos. Hanno avuto accesso ad alcune conoscenze nelle Isole di Zaffiro, e hanno individuato l'ultima linea di sangue di Ilyrion. Tuttavia, non sapevano dell'esistenza di Vayn, visto che i genitori sono scappati che che il loro figlio fosse notato.
+Verranno usati per il riturale di evocazione dei Draghi Cromatici.
 
 ### Hook del prologo
 Vayn è intento a studiare nella Biblioteca di Vigil. Completamente assorto nei libri, non si accorge che di fronte a lui è seduto da ormai diversi minuti un giovane ragazzo smilzo, con ricci biondi e occhi nocciola che lo osserva con attenzione. Aveva abiti decisamente poco nobili, una camicia rozza e dei pantaloni marroni. 
