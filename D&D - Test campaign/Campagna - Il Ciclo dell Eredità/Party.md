@@ -1,13 +1,13 @@
-#### VAYN DAWNMERE - Stregone discendenza Draconica, Elfo
+# VAYN DAWNMERE - Stregone discendenza Draconica, Elfo
 
-ORIGINE
+### ORIGINE
 Vayn nasce nelle Isole di Zaffiro, ma le lascia a diciotto anni, non per scelta sua. I suoi genitori decisero di abbandonare le isole in fretta e senza spiegazioni convincenti, portandolo con sé a Vigil.
 Qualcosa li aveva spaventati. Qualcosa legato a lui. A Vigil visse con loro per quattro anni, studiando all'Accademia di Vigil la storia delle Terre Orientali con voracità, questa conoscenza gli fa capire che l’unico modo per evitare che la storia si ripeti sia la collaborazione tra tutte le razze .
 Poi, un giorno, rientrò a casa e trovò la porta sfondata, i genitori spariti, un oggetto sconosciuto sul pavimento e una nota scritta in modo concitato, la grafia troppo alterata per riconoscerla, l'inchiostro scuro che sembrava sangue. Una parola: Ilyrion.
 Aveva letto quel nome diverse volte mentre studiava la storia delle Terre Orientali ma non aveva mai capito bene chi fosse. Nei due anni successivi ha cercato riferimenti a quel nome ovunque, finché non ha scoperto di chi si trattasse: il capo tribù dei Draghi Metallici, vecchio quanto la Prima Era e che combatté insieme ai suoi antenati Elfi, però a parte queste informazioni non c’erano altri dettagli nei libri all’interno del tempio che potessero aiutarlo a capire cosa fosse successo ai suoi genitori.
 Da quel momento, decide di mettersi in viaggio per cercare nuove informazioni su Ilyrion e tracce dei suoi genitori
 
-LA TEORIA DELLA DISCENDENZA
+#### LA TEORIA DELLA DISCENDENZA
 Gli Stregoni nascono con una predisposizione naturale alla percezione della Trama e delle energie tettoniche. Sono intuitivamente in grado di entrare in sintonia con un oggetto o concetto e di pronunciare parole in Jothun per influenzare la realtà attorno ad esso senza anni di studio formale, ma con una sintonia istintiva che nessun Mago può replicare.
 Per Vayn questa predisposizione non è casuale. Gli elfi percepivano la Trama con una sensibilità innata, affinata attraverso millenni nelle Isole di Zaffiro: fu proprio questa sensibilità a permettere loro di forgiare lo Jothun insieme ai draghi. I draghi, dal canto loro, manipolavano la Trama con una potenza bruta che gli elfi impararono a canalizzare in forma. Nel sangue di Vayn scorrono entrambe le eredità e qualcosa in lui percepisce la Trama in modo che nemmeno lui sa ancora spiegare del tutto.
 
@@ -16,12 +16,15 @@ Studiando la storia dei Draghi Metallici e la Guerra dei Cieli Squarciati, Vayn 
 Non è una certezza. È un sospetto che lo disturba proprio perché non riesce a chiuderlo. Il fuoco che produce è dorato. Specifico. Non il calore generico del potere draconico che permea i Monti Dovah, qualcosa di più preciso, più antico.
 ![[Pasted image 20260506203911.png|192]]
 
-**idee per collegare:**
+### Idee per la campagna:
 verso la seconda metà della Seconda era, i restanti draghi metallici si confusero tra gli Elfi e cominciarono a dar vita ad una nuova discendenza. 
+I Draghi Metallici hanno tramandato molte conoscenze nella famiglia di Vayn. Attualmente sono gli ultimi Elfi ad avere ancora sangue di Draghi Puri nelle vene.
 Vayn è un discendente di una delle stirpi draconiche, ma perché in lui sorge il potere dei draghi? I genitori sapevano e lo hanno incitato a cercare informazioni su Ilyrion. Perché?
-Cosa c'è nel contenitore che gli hanno lasciato? è davvero un contenitore?
+Cosa c'è nel contenitore che gli hanno lasciato? è davvero un contenitore? Come si apre?
+Potrebbe esserci il filatterio di Ilyrion, che in punto di morte ha deciso di proseguire la sua vita per il bene della terra.
+Chi ha rapito i suoi genitori? Sono stati stesso gli Elfi o i Cultisti? Perché Mira non ne sa nulla?
 
-**Hook del prologo**
+### Hook del prologo
 Vayn è intento a studiare nella Biblioteca di Vigil. Completamente assorto nei libri, non si accorge che di fronte a lui è seduto da ormai diversi minuti un giovane ragazzo smilzo, con ricci biondi e occhi nocciola che lo osserva con attenzione. Aveva abiti decisamente poco nobili, una camicia rozza e dei pantaloni marroni. 
 "Serve qualcosa?" sbotta Vayn seccato, a cui non piace per niente essere interrotto mentre è concentrato sugli studi.
 "Oh ciao! Stavo cominciando a pensare fossi cieco... però poi mi chiedevo come facessi a leggere"
@@ -37,7 +40,9 @@ Con la sua immagine impressa nella mente, Vayn si alza di scatto dal letto, madi
 Giunto il giorno, ritorna alla Biblioteca per chiedere alla libraia che controlla gli accessi se avesse idea di chi fosse quel ragazzo. "Oh, Elìas? È un ragazzo così gentile, a volte mi dà una mano a sistemare i volumi più pesanti che la gente lascia sui tavoli. Non so bene dove abiti, ma una volta mi disse che la sera lavora alla locanda del Vecchio Tobia, nel terzo distretto sud ovest". 
 Vayn passa la giornata nuovamente sui libri. Giunta la sera, si avvia verso la locanda.
 
-#### DRAKHTAR VARKHAZ - Barbaro, Draconiano
+# DRAKHTAR VARKHAZ - Barbaro, Draconiano
+
+#### Backstory
 Sei nato per guidare. Figlio di Rhazgor Varkhaz, capo del tuo clan, sei cresciuto in una cultura in cui la forza era l’unica verità. Tra montagne ostili e terre selvagge, il rispetto si conquistava con il sangue e si perdeva con un solo errore.
 Il giorno in cui tuo padre fu sfidato da Khorvath il Senza Catene, tutto cambiò. Davanti al clan riunito, lo scontro fu rapido e brutale. Tuo padre cadde. E con lui cadde il tuo destino.
 Non fu tradimento, né inganno. Fu legge.
@@ -56,6 +61,14 @@ Ora le voci ti hanno condotto a Vigil. Si dice che Vargan il Cinereo operi in qu
 Non sei qui per vendetta cieca. Sei qui per dimostrare che non sei più lo stesso.
 Un giorno affronterai Khorvath.
 Ma prima… devi dimostrare di essere degno anche solo di arrivare fino a lui.
+
+#### Collegamenti con la campagna
+Raramente le tribù dei Draconiani si mischiano con gli affari degli altri popoli delle Terre Orientali. Rhazgor, tuttavia, era un capo progressista e aperto. Sognava in grande, di unificare le tribù dei monti Dovah in un unico grande regno.
+Quel sogno non era condiviso da tutti, soprattutto da Khorvath, uno dei suoi capitani più brutali.
+Tenuto prigioniero da una tribù nemica per mesi assieme a due suoi sottoposti, Tharla e Zarvek, non si sa come ma tornò pregno del sangue dei suoi nemici e conquistò il titolo di "Senza Catene".
+Qualcosa però era cambiato in lui. Sembrò distaccato e taciturno nei mesi a seguire, finché -a sorpresa di tutti- sfidò il Rhazgor per il ruolo di capotribù. E vinse.
+I capitani di Rhazgor, tuttavia, non accettarono di buon grado il campo di guida, poiché Khorvath sostituì tutti i fedeli del vecchio capo con capitani esterni alla tribù. Tharla e Zarvek si unirono a lui, e per questo furono chiamati traditori e spezzagiuramenti. 
+Seguì una feroce guerra interna, ma i capitani fedeli a Rhazgor non ebbero speranze contro la sete di sangue dei fedeli di Zarvek, che ora regna incontrollato ed incontestato su tutta la tribù.
 
 **Hook del prologo**
 Drakhtar è seduto al bancone della locanda in cui alloggia, è sera e fuori c'è una forte pioggia. 
