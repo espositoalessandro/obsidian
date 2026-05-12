@@ -22,10 +22,10 @@ I Draghi Metallici hanno tramandato molte conoscenze nella famiglia di Vayn. Att
 La famiglia di Vayn si tramanda un particolare contenitore di fattura elfica e draconica.
 Nel contenitore c'è il filatterio di Ilyrion, che in punto di morte ha deciso di proseguire la sua vita per il bene della terra.
 Sul contenitore sono incise delle rune in draconico antico, lingua attualmente perduta che solo pochi saggi elfici -e ovviamente i draghi- conoscono.
+- Cosa c'è scritto sopra?
 I genitori di Vayn furono rapiti, i Magistrati si occuparono personalmente del caso e cancellarono i ricordi di Mira con un Modify Memory.
 Alcuni Elfi fanno parte dei Figli di Chronos. Hanno avuto accesso ad alcune conoscenze nelle Isole di Zaffiro, e hanno individuato l'ultima linea di sangue di Ilyrion. Tuttavia, non sapevano dell'esistenza di Vayn, visto che i genitori sono scappati che che il loro figlio fosse notato.
 Verranno usati per il riturale di evocazione dei Draghi Cromatici.
-
 ### Hook del prologo
 Vayn è intento a studiare nella Biblioteca di Vigil. Completamente assorto nei libri, non si accorge che di fronte a lui è seduto da ormai diversi minuti un giovane ragazzo smilzo, con ricci biondi e occhi nocciola che lo osserva con attenzione. Aveva abiti decisamente poco nobili, una camicia rozza e dei pantaloni marroni. 
 "Serve qualcosa?" sbotta Vayn seccato, a cui non piace per niente essere interrotto mentre è concentrato sugli studi.
@@ -72,7 +72,9 @@ Qualcosa però era cambiato in lui. Sembrò distaccato e taciturno nei mesi a se
 I capitani di Rhazgor, tuttavia, non accettarono di buon grado il campo di guida, poiché Khorvath sostituì tutti i fedeli del vecchio capo con capitani esterni alla tribù. Tharla e Zarvek si unirono a lui, e per questo furono chiamati traditori e spezzagiuramenti. 
 Seguì una feroce guerra interna, ma i capitani fedeli a Rhazgor non ebbero speranze contro la sete di sangue dei fedeli di Zarvek, che ora regna incontrollato ed incontestato su tutta la tribù.
 
-**Hook del prologo**
+Khorvath fu avvicinato dai cultisti durante la sua prigionia nella tribù nemica. Lo persuasero con la loro visione delle cose, consci che molto caos albergava nel suo animo, e lo aiutarono a fuggire conferendogli nuovo potere.
+Tornato alla sua tribù, cominciò a notare gli atteggiamenti che ora definiva come "controllanti" di Rhazgor e infine decise di agire.
+#### Hook del prologo
 Drakhtar è seduto al bancone della locanda in cui alloggia, è sera e fuori c'è una forte pioggia. 
 È arrivato in città da pochi giorni, ma le sue ricerche a Vigil hanno prodotto pochi risultati. I Draconiani del luogo non hanno idea di chi sia Vargan e nessuno ha visto stranieri in giro. Frustrato e nervoso, cerca conforto in un grosso boccale di birra.
 "Sembri molto ...arrabbiato. No, frustrato?"

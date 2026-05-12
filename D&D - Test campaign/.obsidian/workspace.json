@@ -11,14 +11,14 @@
             "id": "39bc862c1a36d4fc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Campagna - Il Ciclo dell Eredità/Elìas.md",
-                "mode": "source",
-                "source": false
+                "aFile": "D&D - Test campaign/Campagna - Il Ciclo dell Eredità/Party.md",
+                "bFile": "D&D - Test campaign/Campagna - Il Ciclo dell Eredità/Party.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Elìas"
+              "icon": "diff",
+              "title": "Diff: Party  (Working Tree)"
             }
           }
         ]
@@ -196,6 +196,7 @@
   },
   "active": "39bc862c1a36d4fc",
   "lastOpenFiles": [
+    "Ambientazione/Vigil.md",
     "Campagna - Il Ciclo dell Eredità/Party.md",
     "Campagna - Il Ciclo dell Eredità/Elìas.md",
     "Campagna - Il Ciclo dell Eredità/Tema generale della campagna.md",
@@ -221,7 +222,6 @@
     "Ambientazione/NOMI.md",
     "Campagna - Il Ciclo dell Eredità/PROLOGO - Vigil",
     "Campagna - Il Ciclo dell Eredità/Sessioni/1 - 2026-05-09.md",
-    "Ambientazione/Vigil.md",
     "2026-05-06.md",
     "Campagna - Il Ciclo dell Eredità/PROLOGO - Vigil.md",
     "Ambientazione/Lore/Genesi.md",
