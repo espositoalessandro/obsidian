@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "212d9f0b81fedc4a",
+        "id": "a1215a8ea0231f25",
         "type": "tabs",
         "children": [
           {
-            "id": "39bc862c1a36d4fc",
+            "id": "566d486793ce8220",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "D&D - Test campaign/Campagna - Il Ciclo dell Eredità/Party.md",
-                "bFile": "D&D - Test campaign/Campagna - Il Ciclo dell Eredità/Party.md",
-                "aRef": ""
+                "file": "Campagna - Il Ciclo dell Eredità/PROLOGO - Vigil/Scaletta eventi.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Party  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Scaletta eventi"
             }
           }
         ]
@@ -194,17 +194,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "39bc862c1a36d4fc",
+  "active": "566d486793ce8220",
   "lastOpenFiles": [
-    "Ambientazione/Vigil.md",
+    "Campagna - Il Ciclo dell Eredità/PROLOGO - Vigil/Tensioni politiche.md",
+    "Campagna - Il Ciclo dell Eredità/PROLOGO - Vigil/Scaletta eventi.md",
+    "Campagna - Il Ciclo dell Eredità/PROLOGO - Vigil/Incipit.md",
+    "Campagna - Il Ciclo dell Eredità/PROLOGO - Vigil/Esponenti di Vigil.md",
+    "Campagna - Il Ciclo dell Eredità/Sessioni/2 - 2026-05-15.md",
+    "Campagna - Il Ciclo dell Eredità/Sessioni/1 - 2026-05-08.md",
     "Campagna - Il Ciclo dell Eredità/Party.md",
     "Campagna - Il Ciclo dell Eredità/Elìas.md",
+    "Ambientazione/Vigil.md",
     "Campagna - Il Ciclo dell Eredità/Tema generale della campagna.md",
-    "Campagna - Il Ciclo dell Eredità/PROLOGO - Vigil/Incipit.md",
-    "Campagna - Il Ciclo dell Eredità/PROLOGO - Vigil/Tensioni politiche.md",
-    "Campagna - Il Ciclo dell Eredità/PROLOGO - Vigil/Esponenti di Vigil.md",
     "Ambientazione/I Figli di Chronos.md",
-    "Campagna - Il Ciclo dell Eredità/Sessioni/1 - 2026-05-08.md",
     "Campagna - Il Ciclo dell Eredità/Schede NPC/Esponenti di Vigil.md",
     "Ambientazione/La Magia.md",
     "Campagna - Il Ciclo dell Eredità/Schede NPC/Prologo - Nemici.md",
@@ -232,7 +234,6 @@
     "Ambientazione/Lore/Eventi storici globali.md",
     "Ambientazione/Lore/La Prima Era.md",
     "Ambientazione/Geografia delle Terre Orientali.md",
-    "Ambientazione/Le crepe nella Trama.md",
     "Campagna - Il Ciclo dell Eredità/Schede NPC",
     "Ambientazione",
     "Campagna - Il Ciclo dell Eredità",
