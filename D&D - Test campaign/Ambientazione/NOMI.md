@@ -210,8 +210,7 @@ Grathok
 Alaric  
 Cedric  
 Rowan  
-Edric  
-Thomas  
+Edric    
 William  
 Henry  
 Arthur  
@@ -239,8 +238,7 @@ Peter
 
 #### Femminili
 Eliza  
-Clara  
-Anna  
+Clara    
 Margaret  
 Isabella  
 Catherine  
