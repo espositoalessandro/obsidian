@@ -26,6 +26,3 @@ Qualche notte dopo, Helena la portò lontano da casa, in un vecchio mulino abban
 Al figlio, Helena raccontò che la povera Anne aveva subito uno shock troppo forte dall'evento e che morì nella notte.
 Thomas non riuscì a credere all'accaduto e rimase molto taciturno da allora, conservando il pupazzetto di Anne come ultimo ricordo.
 
-All'arrivo del party, Thomas ha 20 anni. Quattro anni sono passati dall'evento, ma a causa del fatto che i cultisti hanno riaperto la crepa sotto Vigil, la banshee ha acquisito potere e forma corporea più importanti, attirando altre forme di non-morti.
-Una ghast, infatti, ha preso dimora lungo le strade del villaggio e sta facendo razzie di carovane mandando gruppi di ghoul.
-La banshee si manifesta solo di notte, ma può essere evocata di giorno portando qualcosa di significato sul luogo della sua morte (l'orsacchiotto, Thomas oppure Helena)
