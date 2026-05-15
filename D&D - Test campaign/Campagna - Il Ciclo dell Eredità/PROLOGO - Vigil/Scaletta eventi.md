@@ -1,7 +1,6 @@
 
 - **Primo incontro con Mira**, spiega i problemi della città (fogne, rapine e assalti alle carovane) (1) 
-- **Indagine sulla strada per Wicklow**, si scopre che c'è una banda di mercenari assoldata da qualcuno per saccheggiare le carovane di cibo. Troveranno una lettera con ordini di rubare X quantità di cibo, da trasportare "col solito metodo via fiume". (2-3)
-- **Problemi a Wicklow**: gli abitanti lamentano apparizioni strane nei campi di figure spettrali. Una banshee è comparsa nel villaggio e sta attirando bestie di ogni tipo: un ghast si è insidiato in una caverna vicino la strada, spingendo dei ghoul ad attaccare le carovane.
+- **Problemi a Wicklow**: gli abitanti lamentano apparizioni strane nei campi di figure spettrali. Una banshee è comparsa nel villaggio e sta attirando bestie di ogni tipo: un ghast si è insidiato in una caverna vicino la strada, spingendo dei ghoul ad attaccare le carovane. (2-3)
 - **Indagine nelle fogne**, il party troverà molti demoni in giro per le fogne. Improvvisamente subiranno l'imboscata di un enorme gruppo di cultisti e verranno portati in uno dei loro avamposti nascosto nelle fogne. Al loro risveglio, Vargan sarà lì e parlerà con loro. (2-3)
 - **Opzionali** (1-2)
 - Se non è Màthien a parlare della crepa, **sarà Mira** a voler organizzare una spedizione per ripulire le fogne e scoprire la provenienza delle bestie
@@ -26,3 +25,6 @@ Qualche notte dopo, Helena la portò lontano da casa, in un vecchio mulino abban
 Al figlio, Helena raccontò che la povera Anne aveva subito uno shock troppo forte dall'evento e che morì nella notte.
 Thomas non riuscì a credere all'accaduto e rimase molto taciturno da allora, conservando il pupazzetto di Anne come ultimo ricordo.
 
+
+#### I demoni nelle fogne
+I cultisti hanno trovato la Crepa sotto Vigil e stanno cercando di compiere un rituale per aprire un portale con l'Abisso e far sprofondare Vigil nel caos. Il rituale si basa sull'accumulare molta densità magica per forzare la piega già esistente incanalando magia in delle gemme. La situazione continuerà a peggiorare finché il rituale non verrà interrotto.
