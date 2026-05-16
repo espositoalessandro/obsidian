@@ -208,7 +208,7 @@ Grathok
 
 #### Maschili
 Alaric  
-Cedric  
+Cedric  - tipo alla locanda che ha nominato "maledizione"
 Rowan  
 Edric    
 William  
@@ -216,16 +216,15 @@ Henry
 Arthur  
 Gareth  
 Roland  
-Marcus  
+Marcus  - mercante di Vigil
 Lucian  
 Victor  
 Adrian  
 Sebastian  
-Leon  
-Elias  
+Leon    
 Dorian  
 Julian    
-Robert  
+Robert  - locandiere di Wicklow
 Hugh  
 Walter  
 Simon  
@@ -249,7 +248,7 @@ Amelia
 Victoria  
 Beatrice  
 Helena  
-Sophia  
+Sophia  - moglie di Cedric del villaggio di Wicklow
 Iris  
 Diana  
 Lucia  
