@@ -28,3 +28,9 @@ Thomas non riuscì a credere all'accaduto e rimase molto taciturno da allora, co
 
 #### I demoni nelle fogne
 I cultisti hanno trovato la Crepa sotto Vigil e stanno cercando di compiere un rituale per aprire un portale con l'Abisso e far sprofondare Vigil nel caos. Il rituale si basa sull'accumulare molta densità magica per forzare la piega già esistente incanalando magia in delle gemme. La situazione continuerà a peggiorare finché il rituale non verrà interrotto.
+
+#### Party va nelle fogne
+
+L'apertura della Grande Crepa ha causato un'intensa fuoriuscita di demoni che per ora sono rimasti confinati nelle fogne. Molti Shadow Demon albergano i dotti fognari nascosti nell'oscurità delle tubature. Per riuscire a combatterli, il party potrà scappare e cercare un Driftglobe in città. Altrimenti restano nelle fogne fino al TPK for all I care. 
+Per procurarsi il globo di luce, dovranno chiedere aiuto all'Accademia di Vigil, 
+

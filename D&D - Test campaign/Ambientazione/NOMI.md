@@ -207,8 +207,11 @@ Grathok
 ### Umani
 
 #### Maschili
+Marcus  - mercante di Vigil
+Cedric  - tipo alla locanda di Wicklow che ha nominato "maledizione"
+Thomas - fratellastro della banshee di Wicklow
+Robert  - locandiere di Wicklow
 Alaric  
-Cedric  - tipo alla locanda che ha nominato "maledizione"
 Rowan  
 Edric    
 William  
@@ -216,7 +219,6 @@ Henry
 Arthur  
 Gareth  
 Roland  
-Marcus  - mercante di Vigil
 Lucian  
 Victor  
 Adrian  
@@ -224,7 +226,6 @@ Sebastian
 Leon    
 Dorian  
 Julian    
-Robert  - locandiere di Wicklow
 Hugh  
 Walter  
 Simon  
@@ -236,6 +237,9 @@ Nicholas
 Peter
 
 #### Femminili
+Sophia  - moglie di Cedric del villaggio di Wicklow
+Helena - Madre di Thomas, assassina di Anne
+Anne - Vittima del villaggio di Wicklow diventata banshee
 Eliza  
 Clara    
 Margaret  
@@ -248,7 +252,6 @@ Amelia
 Victoria  
 Beatrice  
 Helena  
-Sophia  - moglie di Cedric del villaggio di Wicklow
 Iris  
 Diana  
 Lucia  
