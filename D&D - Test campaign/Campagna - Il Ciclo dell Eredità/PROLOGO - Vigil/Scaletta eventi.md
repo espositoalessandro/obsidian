@@ -11,7 +11,6 @@ OPZIONALI/CONDIZIONALI:
 - Màthien, uno dei magistrati, vorrà parlare con il party per aiutarli e chiedere aiuto a sua volta. Potrà dare indicazioni sui genitori scomparsi di Vayn. Potrebbe essere lui a rivelare della Crepa sotto Vigil.
 - Il Seggio Draconico vuole parlare con Drakthar e con Vayn. Ygril sta cercando di capire se la presenza degli Elfi sia effettivamente un bene o un male per la città.'
 
-
 #### La Banshee di Wicklow
 Wicklow è un piccolissimo villaggio agrario che vive dei suoi raccolti e del commercio con Vigil e con Portree. Cultura e civiltà sono ben lontane da questa realtà.
 Successe che nacque una bambina, Anne, che cominciò a manifestare strani poteri magici. La magia fuori dalle città è molto temuta, quindi i genitori tentarono di tenerla nascosta, dicendo che fosse troppo fragile per affrontare il mondo esterno. 
@@ -25,10 +24,11 @@ Qualche notte dopo, Helena la portò lontano da casa, in un vecchio mulino abban
 Al figlio, Helena raccontò che la povera Anne aveva subito uno shock troppo forte dall'evento e che morì nella notte.
 Thomas non riuscì a credere all'accaduto e rimase molto taciturno da allora, conservando il pupazzetto di Anne come ultimo ricordo.
 
-
-
 #### Assalto alle carovane
 La presenza della Banshee ha attirato creature non morte di ogni tipo nella zona. Nello specifico, una ghast si è insediata vicino la strada principale che porta a Vigil.
+La ghast controlla un manipolo di ghoul che hanno completamente distrutto un gruppo di contrabbandieri che aveva il proprio covo in quelle caverne.
+I contrabbandieri lavoravano con i cultisti di Vigil, vendendo loro scorte di ogni genere trasportate via fiume nelle fogne. Ultimamente però i contrabbandieri si erano venduti come mercenari per cifre più grosse: i cultisti gli hanno chiesto di predare la via e svuotare ogni carovana del cibo. 
+Purtroppo in una delle incursioni, un mercante fu ucciso e il suo cadavere lasciato a marcire poco lontano dalla strada. Questo attirò i ghoul e la ghast.
 
 #### I demoni nelle fogne
 I cultisti hanno trovato la Crepa sotto Vigil e stanno cercando di compiere un rituale per aprire un portale con l'Abisso e far sprofondare Vigil nel caos. Il rituale si basa sull'accumulare molta densità magica per forzare la piega già esistente incanalando magia in delle gemme. La situazione continuerà a peggiorare finché il rituale non verrà interrotto.

@@ -24,7 +24,7 @@ Nel contenitore c'è il filatterio di Ilyrion, che in punto di morte ha deciso d
 Sul contenitore sono incise delle rune in draconico antico, lingua attualmente perduta che solo pochi saggi elfici -e ovviamente i draghi- conoscono.
 - Cosa c'è scritto sopra?
 I genitori di Vayn furono rapiti, i Magistrati si occuparono personalmente del caso e cancellarono i ricordi di Mira con un Modify Memory.
-Alcuni Elfi fanno parte dei Figli di Chronos. Hanno avuto accesso ad alcune conoscenze nelle Isole di Zaffiro, e hanno individuato l'ultima linea di sangue di Ilyrion. Tuttavia, non sapevano dell'esistenza di Vayn, visto che i genitori sono scappati che che il loro figlio fosse notato.
+Alcuni Elfi fanno parte dei Figli di Chronos. Hanno avuto accesso ad alcune conoscenze nelle Isole di Zaffiro, e hanno individuato l'ultima linea di sangue di Ilyrion. Tuttavia, non sapevano dell'esistenza di Vayn, visto che i genitori sono scappati prima che il loro figlio fosse notato.
 Verranno usati per il riturale di evocazione dei Draghi Cromatici.
 ### Hook del prologo
 Vayn è intento a studiare nella Biblioteca di Vigil. Completamente assorto nei libri, non si accorge che di fronte a lui è seduto da ormai diversi minuti un giovane ragazzo smilzo, con ricci biondi e occhi nocciola che lo osserva con attenzione. Aveva abiti decisamente poco nobili, una camicia rozza e dei pantaloni marroni. 
