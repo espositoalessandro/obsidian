@@ -1,4 +1,4 @@
-
+  
 Elfi: la loro immortalità li ha resi incapaci di far andare avanti la storia come semplici osservatori. Il loro terrore per il caos dei Draghi li ha resi ossessionati dal controllo.
 
 I draghi lo sanno bene, lo hanno capito. Per questo hanno deciso di nascondere la loro eredità. Mimetizzati tra gli elfi, hanno dato origine a linee di sangue misto, in cui il potere  risiede latente nelle nuove generazioni. 
