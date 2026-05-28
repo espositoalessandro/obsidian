@@ -29,7 +29,7 @@ La presenza della Banshee ha attirato creature non morte di ogni tipo nella zona
 La ghast controlla un manipolo di ghoul che hanno completamente distrutto un gruppo di contrabbandieri che aveva il proprio covo in quelle caverne.
 I contrabbandieri lavoravano con i cultisti di Vigil, vendendo loro scorte di ogni genere trasportate via fiume nelle fogne. Ultimamente però i contrabbandieri si erano venduti come mercenari per cifre più grosse: i cultisti gli hanno chiesto di predare la via e svuotare ogni carovana del cibo. 
 Purtroppo in una delle incursioni, un mercante fu ucciso e il suo cadavere lasciato a marcire poco lontano dalla strada. Questo attirò i ghoul e la ghast.
-
+Il capo dei contrabbandieri - Darren - non era un cuor di leone. Quando vide l'arrivo dei ghoul, si sigillò nella sala principale assieme ad alcuni suoi sottoposti. Questi cominciarono a provare un forte risentimento nei confronti del capo, che aveva lasciato i suoi uomini fuori a morire e chiuso dentro altri di loro, destinati a morire lo stesso, e per questo lo uccisero. Tornò come Wight per vendicarsi di loro, ma il suo coraggio restò quello di prima. 
 #### I demoni nelle fogne
 I cultisti hanno trovato la Crepa sotto Vigil e stanno cercando di compiere un rituale per aprire un portale con l'Abisso e far sprofondare Vigil nel caos. Il rituale si basa sull'accumulare molta densità magica per forzare la piega già esistente incanalando magia in delle gemme. La situazione continuerà a peggiorare finché il rituale non verrà interrotto.
 
