@@ -38,8 +38,8 @@ Uno dei Saggi elfici. Fu uno dei promotori dell'alleanza contro gli umani, che v
 Nato con un potere che non riusciva a controllare, immediatamente sottomesso e controllato dal sistema elfico. Non è mai stato convinto dei loro metodi, ma li segue ciecamente perché li vede come unica verità. L'unico motivo per cui è stato scelto come uno dei Magistrati, è fare in modo che Nèa e Gàlendril potessero controllarlo da vicino, ogni giorno, lontani dalle Isole di Zaffiro.
 ##### **Magistrato 2:** 
 - **Néa**, 238esimo anno in carica
-- Paladino lv. 9, 612 anni
+- Chierico lv. 9, 612 anni
 ##### **Magistrato 3:**
 - **Gàlendril**, 240esimo anno in carica
-- Guerriero lv. 9, 623 anni
+- Mago lv. 9, 623 anni
 ![[Pasted image 20260507102020.png]]
