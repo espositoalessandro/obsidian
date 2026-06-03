@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "96f177f5b353d9f5",
+        "id": "27cf1e7a20e79ed7",
         "type": "tabs",
         "children": [
           {
-            "id": "3dfce034319eda63",
+            "id": "dd935d6327c709a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5046920776367
+    "width": 300
   },
   "right": {
     "id": "d8477fc81d21a2cc",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campagna - Il Ciclo dell Eredità/PROLOGO - Vigil.md",
+                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for PROLOGO - Vigil"
+              "title": "Backlinks for Welcome"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campagna - Il Ciclo dell Eredità/PROLOGO - Vigil.md",
+                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from PROLOGO - Vigil"
+              "title": "Outgoing links from Welcome"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campagna - Il Ciclo dell Eredità/PROLOGO - Vigil.md",
+                "file": "Files/Pasted image 20260423181610.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of PROLOGO - Vigil"
+              "title": "Outline of Pasted image 20260423181610"
             }
           },
           {
@@ -180,7 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 228.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,49 +194,51 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3dfce034319eda63",
+  "active": "dd935d6327c709a2",
   "lastOpenFiles": [
-    "Campagna - Il Ciclo dell Eredità/Sessioni/1 - 2026-05-08.md",
     "Campagna - Il Ciclo dell Eredità/Sessioni/2 - 2026-05-15.md",
     "Campagna - Il Ciclo dell Eredità/Sessioni/3 - 2026-05-28.md",
-    "Campagna - Il Ciclo dell Eredità/Tema generale della campagna.md",
+    "Campagna - Il Ciclo dell Eredità/Sessioni/1 - 2026-05-08.md",
+    "Files/f2d519b7-57c3-458a-8895-f158a9fc856b.png",
+    "Files/Pasted image 20260527160915.png",
+    "Campagna - Il Ciclo dell Eredità/Sessioni/3 - 2026-05-22.md",
+    "Ambientazione/NOMI.md",
+    "Campagna - Il Ciclo dell Eredità/PROLOGO - Vigil/Scaletta eventi.md",
     "Campagna - Il Ciclo dell Eredità/PROLOGO - Vigil/Esponenti di Vigil.md",
-    "Campagna - Il Ciclo dell Eredità/PROLOGO - Vigil/Incipit.md",
+    "Campagna - Il Ciclo dell Eredità/Elìas.md",
+    "Campagna - Il Ciclo dell Eredità/Party.md",
+    "Campagna - Il Ciclo dell Eredità/Tema generale della campagna.md",
+    "Ambientazione/Vigil.md",
     "Campagna - Il Ciclo dell Eredità/PROLOGO - Vigil/Tensioni politiche.md",
     "Campagna - Il Ciclo dell Eredità/Schede NPC/Esponenti di Vigil.md",
-    "Campagna - Il Ciclo dell Eredità/Schede NPC/Prologo - Nemici.md",
-    "Campagna - Il Ciclo dell Eredità/PROLOGO - Vigil/Scaletta eventi.md",
-    "Ambientazione/I Figli di Chronos.md",
-    "Campagna - Il Ciclo dell Eredità/Party.md",
-    "Campagna - Il Ciclo dell Eredità/Elìas.md",
-    "Files/Pasted image 20260527160915.png",
+    "Campagna - Il Ciclo dell Eredità/PROLOGO - Vigil/Incipit.md",
     "Files/936079b5-46bb-4484-8946-c757d1a54226.png",
-    "Files/f2d519b7-57c3-458a-8895-f158a9fc856b.png",
     "Files/982f20d4-da84-457d-8d17-9428b1bf3b39.png",
     "Files/8d098c74-ed34-4f19-9003-0b1fb9cca0ce.png",
-    "Files/Pasted image 20260426213232.png",
-    "Files/Pasted image 20260426213853.png",
-    "Files/Pasted image 20260426214258.png",
-    "Files/Pasted image 20260426214303.png",
-    "Files/Pasted image 20260423181610.png",
-    "Untitled.md",
-    "Ambientazione/NOMI.md",
-    "Ambientazione/Vigil.md",
-    "Ambientazione/La Magia.md",
-    "Ambientazione/Popoli e nazioni.md",
+    "Files/Pasted image 20260507155826.png",
+    "Files/Pasted image 20260507134752.png",
+    "Files/Pasted image 20260507133923.png",
+    "Files/Pasted image 20260507132858.png",
+    "Files/Pasted image 20260507132442.png",
     "Campagna - Il Ciclo dell Eredità/PROLOGO - Vigil",
-    "Campagna - Il Ciclo dell Eredità/Sessioni/1 - 2026-05-09.md",
-    "2026-05-06.md",
-    "Campagna - Il Ciclo dell Eredità/PROLOGO - Vigil.md",
-    "Ambientazione/Lore/Genesi.md",
-    "Ambientazione/Lore/La Terza Era.md",
-    "Ambientazione/Lore/La Seconda Era.md",
-    "Untitled 1.md",
+    "Ambientazione/Popoli e nazioni.md",
+    "Campagna - Il Ciclo dell Eredità/Schede NPC/Prologo - Nemici.md",
     "Campagna - Il Ciclo dell Eredità/Sessioni",
+    "Ambientazione/Lore/Genesi.md",
     "Campagna - Il Ciclo dell Eredità/Schede NPC",
+    "Schede NPC/Prologo - Nemici.md",
+    "Schede NPC/Esponenti di Vigil.md",
+    "Schede NPC",
+    "Campagna - Il Ciclo dell Eredità/Aurelion-Elìas.md",
+    "Ambientazione/Lore/La Seconda Era.md",
+    "Ambientazione/Lore/La Terza Era.md",
+    "Ambientazione/Lore/La Prima Era.md",
+    "Ambientazione/Lore/Eventi storici globali.md",
+    "Ambientazione/Lore",
+    "Ambientazione/Le crepe nella Trama.md",
     "Ambientazione",
-    "Campagna - Il Ciclo dell Eredità",
+    "Lore",
     "Files",
-    "Ambientazione/Lore"
+    "Campagna - Il Ciclo dell Eredità"
   ]
 }
