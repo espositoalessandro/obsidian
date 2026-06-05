@@ -5,29 +5,12 @@ Quindi si rivolgono ai due membri del party per un aiuto, poiché gli Elfi non p
 #### **Cosa sta realmente succedendo**
 i Figli di Chronos hanno scoperto Vigil è nata prevalentemente per nascondere un'enorme crepa nella Trama, dovuta allo scontro tra Dovraxis e il misterioso Drago Metallico. 
 Hanno mandato lì un capo cultista, Vargan -nemesi di [[Party#DRAKHTAR VARKHAZ - Barbaro, Draconiano|Drakhtar]]- per investigare.
-Il Culto vuole sfruttare quella crepa per far cadere Vigil, simbolo di Ordine (i cultisti venerano il Caos).
-La crepa sotto Vigil è debolmente collegata al piano abissale,
-Il Culto cercherà di far ricadere la colpa sui Tiefling, seminando indizi contro di loro.
-
-- Movente dei Tiefling: in questo momento c'è una forte discordia tra Tiefling ed Umani in città. I Tiefling accusano gli umani di aver appiccato l'incendio che ha distrutto il loro distretto, gli umani attribuiscono l'incidente alla loro natura infernale.
-- EVENTO: Mira ha trovato informazioni su Vargan. 
-- EVENTO: Il Culto riconosce segni in [[Party#VAYN DAWNMERE - Stregone discendenza Draconica, Mezzelfo|Vayn]] di Draghi Metallici e lo vuole uccidere/catturare: imboscata al party e cattura. [[Party#DRAKHTAR VARKHAZ - Barbaro, Draconiano|Drakhtar]] è imprigionato e vede la sua nemesi.
+Il Culto vuole sfruttare quella crepa per far cadere Vigil, simbolo di Ordine (i cultisti venerano il Caos). Un complesso dispositivo arcano è stato piazzato sotto la crepa: accumulando energia, la incanala direttamente nella crepa, aumentando la densità della trama al centro e favorendo l'apertura di un portale. La crepa sotto Vigil è debolmente collegata al piano abissale.
 
 ![[8d098c74-ed34-4f19-9003-0b1fb9cca0ce.png]]
 
 
-### Indizi
+FINALI POSSIBILI:
 
-##### Fuorvianti verso i Tiefling
-Sangue Tiefling
-Ferite da bruciatura
-Diavoli in giro per la città
-Malcontento tra i Tiefling
-(EVENTO) Imboscata di Diavoli
-##### Neutri:
-Odore di zolfo
-##### Incriminanti per il culto
-Ciocca mancante di capelli (trofeo dei Draconiani)
-Le gemme rubate sono solo di 5 tipi: rubini, zaffiri, smeraldi, ossidiana, quarzo
-Trovano un oggetto: anello, maschera o stemma
-(EVENTO) Imboscata dei cultisti
+- La crepa viene scoperta in tempo. Draesil scopre l'entità del danno e capisce che non ha altra scelta se non intervenire. Con un complicato rituale, cerca di placare la Trama
+- La crepa non viene scoperta in tempo, oppure Draesil non riesce ad intervenire in tempo: Vigil viene quasi interamente inghiottita dal portale creatosi, conservando solo il quarto distretto e parte del terzo. Gli Elfi imparano il prezzo del segreto.
