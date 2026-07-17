@@ -2,10 +2,7 @@
 
 È un giovane ragazzo orfano di Vigil. 
 
-
-
 - Drago giovane o antico?
-- Sa di essere un drago?
 - Perché è vivo?
 - Chi sa della sua esistenza?
 
@@ -17,3 +14,4 @@ Gli Elfi sanno che Aethirion è ancora vivo, ma non hanno idea di quale forma ab
 
 Aethirion ha "bloccato" la sua trasformazione in umano, vincolando la sua forma ed il suo potere ad una reliquia nascosta sulle Isole di Zaffiro. Finché quella reliquia resta nascosta e al sicuro, Aethirion non può tornare ad essere un Drago. 
 Nessun incantesimo può rivelare la vera forma di Elìas, neanche "vedere il vero", finché la reliquia è separata dal suo portatore.
+Il contenitore di Vayn potrebbe contenere la chiave per accedere al nascondiglio della reliquia.

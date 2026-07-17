@@ -15,4 +15,4 @@ Gli Araldi godono di poteri particolari legati ad ognuno dei 5 elementi dei Drag
 - Araldo Primordiale (bianco)
 
 Più si sale di livello nella gerarchia, più potere viene concesso. Il loro è uno dei pochi casi in cui il potere viene effettivamente concesso da una divinità, Chronos.
-Il potere viene concesso solo al Sommo Sacerdote, l'unico che riesce a comunicare direttamente con la divinità 
+Il potere viene concesso solo al Sommo Sacerdote, l'unico che riesce a comunicare direttamente con la divinità, che ha la possibilità di conferire potere anche agli Araldi.

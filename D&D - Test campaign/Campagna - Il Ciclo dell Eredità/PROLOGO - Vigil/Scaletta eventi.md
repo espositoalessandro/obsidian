@@ -1,10 +1,10 @@
 
-- **Primo incontro con Mira**, spiega i problemi della città (fogne, rapine e assalti alle carovane) (1) 
-- **Problemi a Wicklow**: gli abitanti lamentano apparizioni strane nei campi di figure spettrali. Una banshee è comparsa nel villaggio e sta attirando bestie di ogni tipo: un ghast si è insidiato in una caverna vicino la strada, spingendo dei ghoul ad attaccare le carovane. (2)
-- **Indagine nelle fogne**, il party troverà molti demoni in giro per le fogne. Improvvisamente subiranno l'imboscata di un enorme gruppo di cultisti e verranno portati in uno dei loro avamposti nascosto nelle fogne. Al loro risveglio, Vargan sarà lì e parlerà con loro. (2-3)
-- **Opzionali** (1-2)
+- ~~**Primo incontro con Mira**~~, spiega i problemi della città (fogne, rapine e assalti alle carovane) 
+- ~~**Problemi a Wicklow**~~: gli abitanti lamentano apparizioni strane nei campi di figure spettrali. Una banshee è comparsa nel villaggio e sta attirando bestie di ogni tipo: un ghast si è insidiato in una caverna vicino la strada, spingendo dei ghoul ad attaccare le carovane.
+- **Il fragile equilibrio di Vigil**: una mossa sbagliata, una rivelazione di troppo e la città potrebbe piombare nel caos. I Tiefling potrebbero insorgere se pressati ancora. Oppure umani e tiefling potrebbero allearsi contro elfi e nani, con i draconiani in bilico.
+- **Trappola a Drakhtar**: Vargan sa che Drakthar è in città e lo sta cercando. Lo inviterà a risolvere la faccenda tra loro, senza creare scompiglio in città, all'esterno del cratere. In realtà, sarà una trappola.
 - Se non è Màthien a parlare della crepa, **sarà Mira** a voler organizzare una spedizione per ripulire le fogne e scoprire la provenienza delle bestie
-- **Dungeon Finale** (1-2)
+- **Dungeon Finale** 
 
 OPZIONALI/CONDIZIONALI:
 - Se il party rimuove il Modify Memories a Mira, che scopre di essere stata incantata e riferisce l'accaduto al Concilio. Aumentano fortemente le tensioni con gli Elfi, il seggio Draconiano sembra in bilico sulla fiducia.
@@ -34,7 +34,12 @@ Il capo dei contrabbandieri - Darren - non era un cuor di leone. Quando vide l'a
 I cultisti hanno trovato la Crepa sotto Vigil e stanno cercando di compiere un rituale per aprire un portale con l'Abisso e far sprofondare Vigil nel caos. Il rituale si basa sull'accumulare molta densità magica per forzare la piega già esistente incanalando magia in delle gemme. La situazione continuerà a peggiorare finché il rituale non verrà interrotto.
 
 #### Party va nelle fogne
-
 L'apertura della Grande Crepa ha causato un'intensa fuoriuscita di demoni che per ora sono rimasti confinati nelle fogne. Molti Shadow Demon albergano i dotti fognari nascosti nell'oscurità delle tubature. Per riuscire a combatterli, il party potrà scappare e cercare un Driftglobe in città. Altrimenti restano nelle fogne fino al TPK for all I care. 
 Per procurarsi il globo di luce, dovranno chiedere aiuto all'Accademia di Vigil, 
 
+#### Tensioni a Vigil 
+I Tiefling sono già spinti all'esasperazione e ad un passo dal ribellarsi contro i continui attentati e minacce da parte delle altre razze. 
+Al crescere della città e delle identità delle varie razze, cresce anche l'insofferenza verso il controllo elfico.
+Gli umani disprezzano i Tiefling, ma condividono con loro il sentimento contro la forte presenza degli elfi.
+I Nani sono forti e storici sostenitori degli elfi e Rorik è un rappresentate molto tradizionalista.
+I Draconiani sono la razza più in bilico. Rispettano la potenza e l'ordine fornito dagli Elfi, ma non pensano che siano indispensabili

@@ -1,6 +1,6 @@
 # VAYN DAWNMERE - Stregone, Elfo
 
-### ORIGINE
+#### Backstory
 Vayn nasce nelle Isole di Zaffiro, ma le lascia a diciotto anni, non per scelta sua. I suoi genitori decisero di abbandonare le isole in fretta e senza spiegazioni convincenti, portandolo con sé a Vigil.
 Qualcosa li aveva spaventati. Qualcosa legato a lui. A Vigil visse con loro per quattro anni, studiando all'Accademia di Vigil la storia delle Terre Orientali con voracità, questa conoscenza gli fa capire che l’unico modo per evitare che la storia si ripeti sia la collaborazione tra tutte le razze .
 Poi, un giorno, rientrò a casa e trovò la porta sfondata, i genitori spariti, un oggetto sconosciuto sul pavimento e una nota scritta in modo concitato, la grafia troppo alterata per riconoscerla, l'inchiostro scuro che sembrava sangue. Una parola: Ilyrion.
@@ -16,7 +16,7 @@ Studiando la storia dei Draghi Metallici e la Guerra dei Cieli Squarciati, Vayn 
 Non è una certezza. È un sospetto che lo disturba proprio perché non riesce a chiuderlo. Il fuoco che produce è dorato. Specifico. Non il calore generico del potere draconico che permea i Monti Dovah, qualcosa di più preciso, più antico.
 ![[Pasted image 20260506203911.png|192]]
 
-### Idee per la campagna:
+#### Collegamenti:
 verso la seconda metà della Seconda era, i restanti draghi metallici si confusero tra gli Elfi e cominciarono a dar vita ad una nuova discendenza. 
 I Draghi Metallici hanno tramandato molte conoscenze nella famiglia di Vayn. Attualmente sono gli ultimi Elfi ad avere ancora sangue di Draghi Puri nelle vene.
 La famiglia di Vayn si tramanda un particolare contenitore di fattura elfica e draconica.
@@ -26,7 +26,7 @@ Sul contenitore sono incise delle rune in draconico antico, lingua attualmente p
 I genitori di Vayn furono rapiti, i Magistrati si occuparono personalmente del caso e cancellarono i ricordi di Mira con un Modify Memory.
 Alcuni Elfi fanno parte dei Figli di Chronos. Hanno avuto accesso ad alcune conoscenze nelle Isole di Zaffiro, e hanno individuato l'ultima linea di sangue di Ilyrion. Tuttavia, non sapevano dell'esistenza di Vayn, visto che i genitori sono scappati prima che il loro figlio fosse notato.
 Verranno usati per il riturale di evocazione dei Draghi Cromatici.
-### Hook del prologo
+#### Hook del prologo
 Vayn è intento a studiare nella Biblioteca di Vigil. Completamente assorto nei libri, non si accorge che di fronte a lui è seduto da ormai diversi minuti un giovane ragazzo smilzo, con ricci biondi e occhi nocciola che lo osserva con attenzione. Aveva abiti decisamente poco nobili, una camicia rozza e dei pantaloni marroni. 
 "Serve qualcosa?" sbotta Vayn seccato, a cui non piace per niente essere interrotto mentre è concentrato sugli studi.
 "Oh ciao! Stavo cominciando a pensare fossi cieco... però poi mi chiedevo come facessi a leggere"
@@ -45,26 +45,42 @@ Vayn passa la giornata nuovamente sui libri. Giunta la sera, si avvia verso la l
 # DRAKHTAR VARKHAZ - Barbaro, Draconiano
 
 #### Backstory
-Sei nato per guidare. Figlio di Rhazgor Varkhaz, capo del tuo clan, sei cresciuto in una cultura in cui la forza era l’unica verità. Tra montagne ostili e terre selvagge, il rispetto si conquistava con il sangue e si perdeva con un solo errore.
-Il giorno in cui tuo padre fu sfidato da Khorvath il Senza Catene, tutto cambiò. Davanti al clan riunito, lo scontro fu rapido e brutale. Tuo padre cadde. E con lui cadde il tuo destino.
-Non fu tradimento, né inganno. Fu legge.
-Aveva perso.
-E secondo la legge del tuo popolo… meritava di cadere.
-Non hai cercato vendetta quel giorno. Perché sapevi che Khorvath aveva ragione: era più forte.
-Ma la guerra che seguì divise il clan. Capitani e guerrieri presero posizione: Zarvek il Traditore, che aprì le porte al nemico; Thalra la Spezzagiuramenti, che voltò le spalle al tuo sangue; e altri ancora, i cui nomi porti con te come un giuramento non detto.
-Il tuo esilio non è stato una fuga. È stato legge.
-Come figlio del capo caduto, non avevi più diritto a restare. Non eri ancora abbastanza forte per reclamare ciò che era tuo. Hai accettato il verdetto. E sei andato via.
-Da allora hai venduto la tua forza: mercenario, predone, guerriero tra equipaggi che solcano mari senza legge. Ogni battaglia è stata una prova. Ogni nemico, un giudizio.
-Non sei mai fuggito da uno scontro. Ma una volta… non sei stato all’altezza.
+Ma la guerra che seguì divise il clan. Capitani e guerrieri presero posizione: Zarvek il Traditore, che aprì le porte al nemico; Thalra la Spezzagiuramenti, che voltò le spalle al tuo sangue; e altri ancora, i cui nomi porti con te come un giuramento non detto. In quel caos, Draven — che si era schierato apertamente contro Khorvath, l’unico a impugnare la lama per il nome di vostro padre anche dopo la sua caduta — scomparve. Nessuno lo vide cadere. Nessuno trovò il suo corpo. Solo silenzio, e voci contrastanti su dove fosse finito: prigioniero, disertore, morto in qualche burrone senza nome. Non hai mai avuto una risposta.
+
+Il tuo esilio non è stato una fuga.
+È stato legge.
+
+Come figlio del capo caduto, non avevi più diritto a restare. Non eri ancora abbastanza forte per reclamare ciò che era tuo — e senza Draven al tuo fianco, quella verità pesava più di ogni altra cosa.
+
+Hai accettato il verdetto.
+E sei andato via, portando con te due debiti: uno di sangue verso Khorvath, uno di ricerca verso un fratello che forse è ancora vivo da qualche parte, e che ti ha dato tutto senza mai chiedere nulla in cambio.
+
+Da allora hai venduto la tua forza: mercenario, predone, guerriero tra equipaggi che solcano mari senza legge. Ogni battaglia è stata una prova. Ogni nemico, un giudizio. Ma ogni porto, ogni volto nuovo, è stato anche una domanda silenziosa: hai visto un uomo che si chiama Draven?
+
+Non sei mai fuggito da uno scontro.
+Ma una volta… non sei stato all’altezza.
+
 Hai affrontato uno dei capitani di Khorvath: Vargan il Cinereo.
-E hai perso. Non ti ha ucciso. Non perché non potesse. Ma perché non eri degno di essere ucciso.
-Questo è il tuo peso. Non la sconfitta. Ma il giudizio.
+E hai perso.
+
+Non ti ha ucciso.
+Non perché non potesse.
+Ma perché non eri degno di essere ucciso.
+
+Questo è il tuo peso.
+Non la sconfitta.
+Ma il giudizio.
+
 Ora le voci ti hanno condotto a Vigil. Si dice che Vargan il Cinereo operi in queste terre, lontano dal suo signore.
-Non sei qui per vendetta cieca. Sei qui per dimostrare che non sei più lo stesso.
+
+Non sei qui per vendetta cieca.
+Sei qui per dimostrare che non sei più lo stesso — e per seguire ogni traccia, ogni voce, ogni indizio che possa condurti a tuo fratello, ovunque il destino lo abbia portato.
+
 Un giorno affronterai Khorvath.
 Ma prima… devi dimostrare di essere degno anche solo di arrivare fino a lui.
+E non smetterai mai di cercare chi, per primo, ti ha creduto degno di vivere.
 
-#### Collegamenti con la campagna
+#### Collegamenti
 Raramente le tribù dei Draconiani si mischiano con gli affari degli altri popoli delle Terre Orientali. Rhazgor, tuttavia, era un capo progressista e aperto. Sognava in grande, di unificare le tribù dei monti Dovah in un unico grande regno.
 Quel sogno non era condiviso da tutti, soprattutto da Khorvath, uno dei suoi capitani più brutali.
 Tenuto prigioniero da una tribù nemica per mesi assieme a due suoi sottoposti, Tharla e Zarvek, non si sa come ma tornò pregno del sangue dei suoi nemici e conquistò il titolo di "Senza Catene".
