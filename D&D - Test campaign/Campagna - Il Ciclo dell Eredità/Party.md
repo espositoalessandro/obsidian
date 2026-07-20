@@ -20,7 +20,7 @@ Non è una certezza. È un sospetto che lo disturba proprio perché non riesce a
 verso la seconda metà della Seconda era, i restanti draghi metallici si confusero tra gli Elfi e cominciarono a dar vita ad una nuova discendenza. 
 I Draghi Metallici hanno tramandato molte conoscenze nella famiglia di Vayn. Attualmente sono gli ultimi Elfi ad avere ancora sangue di Draghi Puri nelle vene.
 La famiglia di Vayn si tramanda un particolare contenitore di fattura elfica e draconica.
-Nel contenitore c'è il filatterio di Ilyrion, che in punto di morte ha deciso di proseguire la sua vita per il bene della terra.
+Nel contenitore è presente la chiave per aprire il nascondiglio del filatterio di Aethirion.
 Sul contenitore sono incise delle rune in draconico antico, lingua attualmente perduta che solo pochi saggi elfici -e ovviamente i draghi- conoscono.
 - Cosa c'è scritto sopra?
 I genitori di Vayn furono rapiti, i Magistrati si occuparono personalmente del caso e cancellarono i ricordi di Mira con un Modify Memory.
