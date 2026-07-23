@@ -9,8 +9,9 @@ Il Culto vuole sfruttare quella crepa per far cadere Vigil, simbolo di Ordine (i
 
 ![[8d098c74-ed34-4f19-9003-0b1fb9cca0ce.png]]
 
+Il rituale che sta venendo effettuato sotto Vigil, in realtà, non riguarda solo quella specifica Crepa. In tutte le Terre Orientali è stato installato una Runa di Risonanza (un dispositivo arcano in grado di replicare un incantesimo in ogni luogo in cui viene piazzato) su alcune specifiche Crepe più instabili. Se il rituale avesse successo, non sarebbe solo Vigil a piombare nel caos.
 
 FINALI POSSIBILI:
 
 - La crepa viene scoperta in tempo. Draesil scopre l'entità del danno e capisce che non ha altra scelta se non intervenire. Con un complicato rituale, cerca di placare la Trama
-- La crepa non viene scoperta in tempo, oppure Draesil non riesce ad intervenire in tempo: Vigil viene quasi interamente inghiottita dal portale creatosi, conservando solo il quarto distretto e parte del terzo. Gli Elfi imparano il prezzo del segreto.
+- La crepa non viene scoperta in tempo, oppure Draesil non riesce ad intervenire in tempo: Vigil viene quasi interamente inghiottita dal portale creatosi, conservando solo il quarto distretto e parte del terzo. Gli Elfi imparano il prezzo del segreto. Le Terre Orientali piombano nel caos.

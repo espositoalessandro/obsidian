@@ -2,6 +2,7 @@
 - ~~**Primo incontro con Mira**~~, spiega i problemi della città (fogne, rapine e assalti alle carovane) 
 - ~~**Problemi a Wicklow**~~: gli abitanti lamentano apparizioni strane nei campi di figure spettrali. Una banshee è comparsa nel villaggio e sta attirando bestie di ogni tipo: un ghast si è insidiato in una caverna vicino la strada, spingendo dei ghoul ad attaccare le carovane.
 - **Il fragile equilibrio di Vigil**: una mossa sbagliata, una rivelazione di troppo e la città potrebbe piombare nel caos. I Tiefling potrebbero insorgere se pressati ancora. Oppure umani e tiefling potrebbero allearsi contro elfi e nani, con i draconiani in bilico.
+- **La prova di Màthien**: prima di affidarsi al party, il magistrato vorrà testare le capacità del gruppo. Li invierà sulle tracce di un branco di Gnoll, solo per scoprire che vicino Newtonmore si cela un pericolo ben più grande. Un'altra Crepa, seppur più piccola, sta venendo amplificata da uno strano congegno arcano. Diversi Gnoll popolano l'area nei dintorni e hanno costruito un piccolo villaggio fortificato per difendere quello che per loro è un luogo sacro. 
 - **Trappola a Drakhtar**: Vargan sa che Drakthar è in città e lo sta cercando. Lo inviterà a risolvere la faccenda tra loro, senza creare scompiglio in città, all'esterno del cratere. In realtà, sarà una trappola.
 - Se non è Màthien a parlare della crepa, **sarà Mira** a voler organizzare una spedizione per ripulire le fogne e scoprire la provenienza delle bestie
 - **Dungeon Finale** 
