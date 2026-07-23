@@ -1,3 +1,4 @@
+![[Piana delle lacrime.jpg]]
 Il party si ritrova coinvolto in un incidente a Vigil. Di notte sentono le urla di alcune persone che stanno venendo attaccate da alcuni Diavoli. Il party interviene per salvarli e una volta finito lo scontro, il Custode di Vigil si presenta sul luogo dell'accaduto. Poterà il party in caserma per capire bene cosa sia successo ed offrire i suoi ringraziamenti, ma nel mezzo della conversazione uno dei tre Magistrati entra in caserma e insiste nel voler parlare con i due in privato.
 Gli elfi, nel veder comparire dei Diavoli, sono incredibilmente sospettosi e anche spaventati, perché conoscono le implicazioni. I magistrati vorrebbero evitare di imporre un livello di allerta troppo elevato per non seminare il caos... e non trovarsi nella situazione di dover rivelare verità che preferirebbero restassero monopolio degli Elfi. 
 

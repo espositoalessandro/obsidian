@@ -1,5 +1,5 @@
 ![[Pasted image 20260423181610.png|229]]![[936079b5-46bb-4484-8946-c757d1a54226.png|395]]
-
+![[Vigil.jpg]]
 Città stato creata come simbolo di comunione delle razze delle terre orientali. L'araldica descrive proprio come le 4 popolazioni si siano unite dalle ceneri della guerra, rappresentando la città come una fenice al centro d 4 frecce, simbolo dei 4 ponti di Vigil.
 
 Vigil sorge nel cratere più grande ed imponente della Piana delle Lacrime, ancora una volta a simboleggiare la rinascita dal dolore delle guerre. 

@@ -1,4 +1,4 @@
-
+![[Terre Orientali.jpg]]
 TUNDRA VENTOSA:
 **Súreringa Nórë** (terra del vento gelido)
 Landa desolata, estremamente inospitale e priva di insediamenti significativi. Per lo più abitata da popolazioni nomadi. 
