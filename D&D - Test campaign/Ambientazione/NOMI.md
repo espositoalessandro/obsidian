@@ -211,10 +211,10 @@ Marcus  - mercante di Vigil
 Cedric  - tipo alla locanda di Wicklow che ha nominato "maledizione"
 Thomas - fratellastro della banshee di Wicklow
 Robert  - locandiere di Wicklow
+Rowan  - Amico di William, abitava alla fattoria distrutta
+William  - Cacciatore trovato sulla strada per Newtonmore
 Alaric  
-Rowan  
 Edric    
-William  
 Henry  
 Arthur  
 Gareth  
