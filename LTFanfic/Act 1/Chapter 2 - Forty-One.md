@@ -289,7 +289,7 @@ Taiga's mouth moved before he could stop it. Caleb glanced up once. Taiga pointe
 
 “That's good.”
 
-Caleb ate another pea. After a few seconds he added
+Caleb ate another pea. After a few seconds he added:
 
 “You look less tense.”
 
@@ -416,19 +416,27 @@ If.
 
 “Locker eighteen.”
 
-Taiga took the clothes. The shirt had his surname printed across the back. He paused. Only briefly. Then folded it into his bag. It was just equipment. Five minutes later he was standing in the locker room surrounded by approximately twenty men who had apparently never experienced embarrassment in their lives. Shirts came off. Shorts changed. Someone was shouting about fantasy football. Someone else was playing music from a phone.
+Taiga took the clothes. The shirt had his surname printed across the back. He paused. Only briefly. Then folded it into his bag. It was just equipment. Five minutes later he was standing in the locker room surrounded by approximately twenty men who had apparently never experienced embarrassment in their lives. Shirts came off. Shorts changed. Someone was playing music from a phone.
 
-Two players were arguing over whether a woman named Jenna had actually broken up with somebody named Marcus. Taiga learned more about Marcus's relationship in ninety seconds than he wanted to know about anybody.
+Near the middle benches, Enzo Rosario was conducting an argument about whether a woman named Jenna had actually broken up with somebody named Marcus. Taiga learned more about Marcus's relationship in ninety seconds than he wanted to know about anybody.
 
-“I'm telling you,” one player said, pulling on his socks. “She said ‘I need space.’”
+“I'm telling you, ‘I need space’ is not automatically a breakup,” Enzo declared, pulling on one sock. “It could be a tactical withdrawal. A cooling period. A dramatic second act.”
 
-“That is a breakup.”
+Gav Brennan, lacing his boots opposite him, didn't look up. “It's a breakup.”
 
-“It is not necessarily a breakup.”
+“You have no romance in your body.”
 
-“Bro, if a woman tells you she needs space, she's already mentally moving furniture into an apartment without you.”
+“She asked him not to call her.”
 
-Several people laughed. Taiga found locker eighteen. He changed quickly. A voice behind him said:
+“That is evidence. It is not a verdict.”
+
+From the end of the bench, Scott Pierce said, “He's single.”
+
+Enzo pointed at him. “Thank you, Oracle of Delphi. Beautiful contribution.”
+
+Scott went back to taping two fingers together.
+
+Taiga found locker eighteen. He changed quickly. A voice behind him said:
 
 “Forty-one\!”
 
@@ -438,7 +446,7 @@ Taiga looked over. Leo was already dressed, blond hair held back by a thin band.
 
 “Very observant.”
 
-Leo grinned: “I know, right.”
+Leo grinned. “I know, right.”
 
 Taiga expected something else. Nothing came. Leo turned immediately to answer a teammate calling his name. Taiga tied his cleats. The locker beside his belonged to Aaron, one of the players from tryouts. Aaron arrived late, half-dressed and carrying a banana in his mouth.
 
@@ -468,13 +476,15 @@ Maybe soccer players were tolerable. In controlled quantities.
 
 ---
 
-Official training was considerably worse than tryouts. Tryouts had been about proving he could play. Training was about learning how many kinds of playing he had never had to think about. 
+Official training was considerably worse than tryouts. Tryouts had been about proving he could play. Training was about learning how many kinds of playing he had never had to think about.
 
-“Shape\!”
+“SHAPE\!”
 
-The first team moved almost before the word finished. Taiga followed. Mercer stood near midfield with a ball beneath one shoe. Around him, the names from the roster were becoming actual people. Pierce in goal. Walsh and Carter at center-back. Ellis on the right. Bennett on the left. Brennan deeper in midfield. Romero beside him. Rosario wide right. Mendez central. Price up front. Cole, another winger, with the second group. Taiga still had to translate half of them in his head.
+The first team moved almost before Scott's voice finished crossing the field. Two seconds later Mercer echoed the correction from midfield, but by then Walsh and Carter had already shifted.
 
-Mercer pointed to Walsh and Carter.
+Taiga followed. Around him, the names from the roster were becoming actual people. Pierce in goal. Walsh and Carter at center-back. Ellis on the right. Bennett on the left. Brennan deeper in midfield. Romero beside him. Rosario wide right. Mendez central. Price up front. Cole, another winger, with the second group. Taiga still had to translate half of them in his head.
+
+Mercer stopped the ball beneath one shoe and pointed to Walsh and Carter.
 
 “Center-backs. Their first job is protecting the middle in front of Pierce. Ellis and Bennett are fullbacks: defenders on the outside, but when we have the ball they can move forward and give us width.”
 
@@ -482,7 +492,9 @@ Aaron Bennett lifted a hand toward Taiga.
 
 “That's me. Try not to occupy my entire workplace.”
 
-Taiga looked at him. “No promises.” A few people laughed. Mercer continued.
+Taiga looked at him. “No promises.”
+
+Aaron grinned. A few people laughed. Mercer continued.
 
 “Brennan is the six today.”
 
@@ -502,7 +514,9 @@ That, at least, sounded reasonable. They started with buildup from the back. Wal
 
 “Akatora. Five yards in.”
 
-Taiga moved. Mercer asked, “Why?” Taiga looked behind him. Bennett had started forward from left-back.
+Taiga moved. Mercer asked, “Why?”
+
+Taiga looked behind him. Bennett had started forward from left-back.
 
 “To leave the outside lane for Bennett.”
 
@@ -510,7 +524,7 @@ Taiga moved. Mercer asked, “Why?” Taiga looked behind him. Bennett had start
 
 Aaron jogged past.
 
-“I do appreciate congratulations though.”
+“I do appreciate congratulations, though.”
 
 Mercer ignored him. Play resumed. Thirty seconds later:
 
@@ -526,13 +540,21 @@ Taiga's ears heated.
 
 “So do that next time.”
 
-The corrections were infuriating because none of them were vague. He could not even argue properly. The patterns made sense when Mercer froze the field. Then the ball moved, ten people moved with it, and the solution became a different solution. Technical mistakes Taiga understood. A bad touch was a bad touch. Tactical mistakes felt like being wrong about a question he had not realized anyone had asked. They reset. Walsh to Brennan. Taiga checked over his shoulder before the pass.
+The corrections were infuriating because none of them were vague. He could not even argue properly. The patterns made sense when Mercer froze the field. Then the ball moved, ten people moved with it, and the solution became a different solution. Technical mistakes Taiga understood. A bad touch was a bad touch. Tactical mistakes felt like being wrong about a question he had not realized anyone had asked.
 
-Bennett already moving. His marker watching the ball. Taiga stepped inside. Brennan found him. One touch back. Bennett ran beyond. Return pass outside. Cross. Price finished first time. Mercer pointed once at Taiga.
+They reset. Walsh to Brennan. Taiga checked over his shoulder before the pass.
+
+Bennett already moving. His marker watching the ball. Taiga stepped inside. Brennan found him. One touch back. Bennett ran beyond. Return pass outside. Cross. Price finished first time.
+
+Mercer pointed once at Taiga.
 
 “That's the picture.”
 
-No celebration. No speech. Good. They did it again. And again. Then from the other side. Then with defenders allowed to break the pattern. That was when everything became difficult again. During the water break, Theo Walsh dropped onto the grass near Taiga and started retaping one shin guard.
+As they jogged back, Gav passed close enough to say, “Same check next time. Don't wait for Mercer to freeze it.”
+
+Taiga nodded once. Useful. Annoying, but useful.
+
+They did it again. And again. Then from the other side. Then with defenders allowed to break the pattern. That was when everything became difficult again. During the water break, Theo Walsh dropped onto the grass near Taiga and started retaping one shin guard.
 
 “You'll stop hearing the position names eventually.”
 
@@ -550,7 +572,11 @@ Walsh shrugged. “Depends how stubborn you are.”
 
 “Great.”
 
-From two yards away Malik Carter said, “He's fucked, then.” Taiga looked over. Carter was tying his boot, expression completely neutral. Walsh laughed. Taiga smiled despite himself. The scrimmage was faster. Price kept demanding earlier crosses. Ellis talked constantly from right-back.
+From two yards away Malik Carter said, “He's fucked, then.”
+
+Taiga looked over. Carter was tying his boot, expression completely neutral. Walsh laughed. Taiga smiled despite himself.
+
+The scrimmage was faster. Price kept demanding earlier crosses. Ellis talked constantly from right-back.
 
 “Rosario, stay wide.”
 
@@ -558,23 +584,41 @@ From two yards away Malik Carter said, “He's fucked, then.” Taiga looked ove
 
 “Carter, step.”
 
-Scott Pierce was louder than all of them from goal.
+Scott was louder than all of them from goal.
 
-“WALSH, LEFT SHOULDER.”
+“WALSH, LEFT SHOULDER\!”
 
-“BENNETT, TUCK IN.”
+“BENNETT, TUCK IN\!”
 
-“SECOND BALL.”
+“SECOND BALL\!”
 
-Off the field, Scott seemed almost allergic to unnecessary words. In goal, apparently, he became an air-traffic controller. Nate Kim, the reserve goalkeeper working the opposite end, was quieter until Price put one over the bar.
+Off the field, Scott had contributed four words to an argument that Enzo had somehow stretched across most of the locker room. In goal, apparently, he became an air-traffic controller.
+
+Enzo was loud in an entirely different direction.
+
+“PRICE, BACK POST\! I AM NOT CROSSING DINNER TO AN EMPTY TABLE\!”
+
+“Just hit it earlier\!” Price shouted back.
+
+“ARRIVE FOR YOUR MEAL\!”
+
+“ROSARIO, PLAY\!” Scott barked from thirty yards away.
+
+Enzo immediately played.
+
+Nate Kim, the reserve goalkeeper working the opposite end, was quieter until Price put one over the bar.
 
 “Thank you,” Nate called. “I was getting bored.”
 
-Price raised both middle fingers while jogging back. Taiga received near the sideline. Looked up too late. Carter nicked it away.
+Price raised both middle fingers while jogging back.
+
+Taiga received near the sideline. Looked up too late. Carter nicked it away.
 
 “Fuck.”
 
-He chased. Didn't get there. Twenty seconds later the other group had a shot. Pierce caught it and immediately yelled, “RESET.” Taiga jogged back. Leo passed him on the way.
+He chased. Didn't get there. Twenty seconds later the other group had a shot. Scott caught it and immediately yelled, “RESET\!”
+
+Taiga jogged back. Leo passed him on the way.
 
 “Check before it comes. You keep finding the defender after you've already got the ball.”
 
@@ -582,7 +626,23 @@ He said it quickly, then turned to call for the next restart. Taiga wanted to be
 
 ---
 
-After training, the locker room was even louder. Someone had won a bet. Taiga didn't know what the bet was. It apparently justified screaming. He showered quickly, changed and left before anybody could decide the developmental players needed to participate in whatever ritual involved slapping lockers. Outside, evening had settled over campus. His body hurt. His head hurt more. Not from training. From thinking. He checked his phone. Three messages. One from the scholarship office.
+After training, the locker room was even louder. Someone had won a bet. Taiga didn't know what the bet was. It apparently justified screaming.
+
+Enzo was still arguing with three people at once while pulling a shirt over his head.
+
+“Scott. Tell them that tackle on Leo was a foul.”
+
+Scott, who had spent the previous forty minutes shouting instructions at everybody within hearing distance, sat two lockers down drying his hair with a towel.
+
+“No.”
+
+“You were in the other goal.”
+
+“Still no.”
+
+Enzo put a hand to his chest as if betrayed on a constitutional level. Scott went back to his towel.
+
+Taiga showered quickly, changed and left before anybody could decide the developmental players needed to participate in whatever ritual involved slapping lockers. Outside, evening had settled over campus. His body hurt. His head hurt more. Not from training. From thinking. He checked his phone. Three messages. One from the scholarship office.
 
 One from Keitaro. One from Caleb. Caleb's said:
 
@@ -678,7 +738,7 @@ Caleb's entire expression changed. Not dramatically. Just— Opened.
 
 Maya had curly hair and a university sweatshirt Taiga didn't recognize.
 
-“Oh, You're eating.”
+“Oh, you're eating.”
 
 “Yeah, I am.”
 
@@ -720,7 +780,9 @@ Maya laughed. Caleb swallowed.
 
 “That was also mentioned.”
 
-Taiga stared. Maya said, “He likes you.” Caleb looked at the phone.
+Taiga stared. Maya said, “He likes you.”
+
+Caleb looked at the phone.
 
 “That is not a quotation.”
 
@@ -924,7 +986,9 @@ She left. Taiga remained seated for several seconds. Then muttered:
 
 ---
 
-He did not go to office hours. Thursday morning, he considered it. Thursday afternoon, he opened the professor's booking page. Then closed it. He understood the feedback. He didn't need someone to explain it. He simply needed to do better. That was easier. At soccer training that evening, he was terrible. Not objectively terrible. Objectively average. Which felt worse. He misplaced two passes during warm-up. Then Mercer put him in a possession drill where he lost the ball repeatedly.
+He did not go to office hours. Thursday morning, he considered it. Thursday afternoon, he opened the professor's booking page. Then closed it. He understood the feedback. He didn't need someone to explain it. He simply needed to do better. That was easier.
+
+At soccer training that evening, he was terrible. Not objectively terrible. Objectively average. Which felt worse. He misplaced two passes during warm-up. Then Mercer put him in a possession drill where he lost the ball repeatedly.
 
 “Forty-one, scan\!”
 
@@ -974,29 +1038,53 @@ He tossed it to Taiga.
 
 “Play what's there.”
 
-Then walked away. Taiga stared after him. He hated good advice. Good advice was difficult to dismiss. They reset. Next pass came. Taiga checked. One touch back. Again. Space. Turn. Pass.
+Then walked away. Taiga stared after him. He hated good advice. Good advice was difficult to dismiss.
 
-By the end of the drill, he had stopped wanting to murder anything. During the water break, Aaron dropped onto the grass beside him.
+They reset. Next pass came. Taiga checked. One touch back. Again. Space. Turn. Pass.
 
-“Coach likes you.”
+Gav received the next ball from him, returned it first time and said, “There. Keep the possession boring for a minute.”
+
+Taiga frowned. “Boring?”
+
+“Until you stop arguing with it.”
+
+Then Gav moved away for the next pass.
+
+By the end of the drill, Taiga had stopped wanting to murder anything. When training opened back into shape, Scott's voice immediately started carrying from the goal again.
+
+“CARTER, STEP\!”
+
+“BENNETT, INSIDE\!”
+
+“TAIGA, TRACK HIM\!”
+
+At the water break, Gav passed behind Taiga on his way to the bottles.
+
+“Mercer doesn't stop a drill that many times for somebody he's given up on.”
+
+Taiga looked over.
+
+Gav shrugged. “Means he thinks you'll fix it.”
+
+That was apparently the entire speech. Gav took his bottle and walked back toward midfield.
+
+Aaron dropped onto the grass beside Taiga a moment later.
+
+“He does like you, by the way.”
 
 Taiga drank.
 
 “People keep saying that.”
 
-“He does.”
+Aaron nodded toward Gav. “See? Independent verification. Very scientific.”
 
-“He just told me to stop punishing a ball.”
+“He just told me to stop arguing with possession.”
 
-Aaron laughed.
+“That sounds like you.”
 
-“That’s his way to show affection.”
+“Fuck you.”
 
-Taiga looked toward Mercer.
-
-“He needs therapy.”
-
-“Everyone here needs therapy.”
+Aaron smiled and stretched one leg out in front of him.
 
 A girl from the women's team walked past the sideline carrying a mesh bag of balls. Aaron immediately sat straighter.
 
@@ -1024,7 +1112,9 @@ She nodded toward Aaron.
 
 “Good.”
 
-She continued walking. Aaron watched her. Taiga said, “That went well.”
+She continued walking. Aaron watched her.
+
+Taiga said, “That went well.”
 
 “She's obsessed with me.”
 
@@ -1032,23 +1122,21 @@ She continued walking. Aaron watched her. Taiga said, “That went well.”
 
 “Passion is complicated.”
 
-Taiga laughed. From across the field, Leo shouted:
+Taiga laughed.
 
-“Aaron\! Stop flirting and get over here\!”
+From across the field, Enzo shouted:
 
-Aaron stood.
+“BENNETT\! FLIRT ON YOUR OWN TIME\! WE'RE AGING OVER HERE\!”
 
-“See?”
+Aaron stood and spread his hands toward Taiga.
 
-Taiga frowned.
-
-“See what?”
-
-“Reputation.”
+“See? Reputation.”
 
 “That was not the lesson.”
 
-Aaron jogged away. Taiga stayed by his bottle another few seconds. Leo was already talking to someone else. He hadn't spoken directly to Taiga once that practice. Taiga did not care. Why would he? But he noticed anyway. Why? Useless information. They were teammates. Barely. There were twenty-something people here. Taiga finished drinking and returned to the drill.
+Aaron jogged away. Taiga stayed by his bottle another few seconds. Leo was already talking to someone else. He hadn't spoken directly to Taiga once that practice. With twenty-something players on the field, there was no reason he should have. Taiga still noticed.
+
+He finished drinking and returned to the drill.
 
 ---
 
@@ -1154,11 +1242,13 @@ A pause.
 
 “Yes.”
 
-The woman said, “Already?” Caleb hesitated. Taiga could almost see calculation happening.
+The woman said, “Already?”
+
+Caleb hesitated. Taiga could almost see calculation happening.
 
 “Yeah,” Taiga said. “Gotta go early to library tomorrow.”
 
-Caleb looked at him. They didn’t. Taiga stared back. The woman shrugged.
+Caleb looked at him. They didn't. Taiga stared back. The woman shrugged.
 
 “Okay. Nice meeting you.”
 
@@ -1166,7 +1256,7 @@ Caleb looked at him. They didn’t. Taiga stared back. The woman shrugged.
 
 They left. The hallway door closed behind them. Noise dropped by half. Caleb exhaled. Taiga walked toward the stairs. After several seconds:
 
-“We don’t have any library appointments tomorrow.”
+“We don't have any library appointments tomorrow.”
 
 “I know.”
 
@@ -1206,7 +1296,7 @@ Taiga immediately felt uncomfortable.
 
 “Good.”
 
-Caleb opened the door. 
+Caleb opened the door.
 
 They went inside. Caleb turned off the overhead light immediately and switched on the small lamp by his desk instead. Taiga hadn't realized how much better the room looked without the fluorescent ceiling light until then. Caleb sat. Removed his shoes. Silence settled. Taiga sat at his own desk. Opened his laptop. After a minute Caleb said:
 
@@ -1564,9 +1654,8 @@ For now. Taiga closed the calendar. Then opened the soccer roster. Main squad fi
 
 **41 — Akatora, Taiga**
 
-He read it. Once. No checking for errors. No wondering if somebody had clicked the wrong box. No calculating how many people had failed so he could succeed. 
+He read it. Once. No checking for errors. No wondering if somebody had clicked the wrong box. No calculating how many people had failed so he could succeed.
 
 He just looked. Then closed the page.
 
 ---
-
