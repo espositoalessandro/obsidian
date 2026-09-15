@@ -596,19 +596,21 @@ Friday arrived with too much free time. General Chemistry ended at twelve. Taiga
 
 At 3:17, he was in room 317 reading three pages of Political Institutions for the fourth time without absorbing them. At 3:21, the Apollo group chat lit up.
 
-**Enzo:** 7pm agora landing. nobody make me wait
+**Enzo:** 6:25 central. platform 3. nobody make me wait
 
 **Gav:** You are always the last person.
 
 **Enzo:** false and defamatory
 
-**Scott:** 7:10
+**Scott:** 6:32 train?
 
-**Enzo:** why
+**Enzo:** yes
 
-**Scott:** Train arrives 7:08.
+**Scott:** Gets to Agora at 7:08.
 
-**Enzo:** fine 7:10
+**Enzo:** exactly. planning
+
+**Gav:** Scott just planned it for you.
 
 Aaron reacted with a thumbs-up. Leo:
 
@@ -648,19 +650,9 @@ At 4:44, he opened it again.
 
 “Fuck.”
 
-He messaged Scott privately.
+He opened the Apollo chat. The plan had not changed. 6:25. Central. Platform three.
 
-**Taiga:** you taking the 6:32 from campus?
-
-Scott replied a minute later.
-
-**Scott:** Yes. Central. Platform 3.
-
-Taiga stared at the message, then typed:
-
-**Taiga:** i'll meet you there
-
-**Scott:** Okay.
+Taiga stared at the time, then set an alarm for 6:05.
 
 There. Decision made.
 
@@ -680,11 +672,13 @@ Aaron straightened.
 
 “Apparently.”
 
-Gav glanced at the departure board.
+Gav glanced at the clock.
 
-“Enzo's going to make his own rule about nobody waiting for him.”
+“Five says Enzo arrives at exactly six twenty-five and calls that early.”
 
-“Obviously,” Aaron said.
+Aaron looked toward the stairs.
+
+“I'm not taking that bet.”
 
 Leo and Enzo came down the stairs a minute later, Enzo talking before either of them reached the platform.
 
@@ -702,9 +696,13 @@ Enzo saw the others.
 
 Gav looked at the clock.
 
-“We were waiting for the train.”
+“Six twenty-five.”
 
-“Same thing emotionally.”
+“Early.”
+
+“You made the time.”
+
+“Still early emotionally.”
 
 Leo laughed, then noticed Taiga.
 
@@ -1855,4 +1853,3 @@ Taiga turned off his own lamp. Dark. Outside, somebody crossed the courtyard lau
 Taiga rolled over. The Arcadia card sat in the drawer. Credits remaining. Enough for another game.
 
 ---
-
