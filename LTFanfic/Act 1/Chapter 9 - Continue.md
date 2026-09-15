@@ -1118,7 +1118,7 @@ Taiga looked up.
 
 Leo looked over.
 
-"Sick!"
+“Sick!”
 
 Enzo pointed a fry at him.
 
@@ -1146,7 +1146,7 @@ Gav smiled.
 
 “It's literally a spreadsheet.”
 
-Enzo looked around for support. None came. 
+Enzo looked around for support. None came.
 Conversation moved to majors. Sofia studied physiotherapy. Aaron was in business. Gav's coursework leaned toward biology because he was considering sports medicine, though he hadn't decided. Scott was doing mathematics. That surprised Taiga less than it should have. Scott had the energy of someone who would enjoy equations because they did not require conversation. Mia said, “Leo, tell them your inspirational reason for choosing Computer Science.” Leo looked up from his food.
 
 “I don't have one.”
@@ -1211,15 +1211,81 @@ Leo laughed. “That sounds like a you problem.”
 
 “It becomes a me problem at international scale.”
 
-Taiga turned
+Taiga turned toward them.
 
-"You're from Santo Domingo?"
+“You're both from Santo Domingo?”
 
-Leo said, "Yep, we both went to the same high school"
+Leo nodded. “Yeah. Same school, too. Same team for a while.”
 
-""
+Enzo raised a hand. “Important correction: I was on the team first.”
 
-Olympus was full of people from somewhere else. Campus made it easy to forget that. Mia's phone buzzed. She checked the message. Sofia noticed her expression. Leo glanced over and then away again. Taiga caught it.
+Leo looked at him. “By three months.”
+
+“Seniority is seniority.”
+
+Taiga glanced between them. Their familiarity had always been obvious. He had just assumed it started at Olympus.
+
+“So you both decided to come here together?”
+
+“No,” Leo said. “We both applied. He found out he got in first, and when my acceptance came through he sent me about fifty messages.”
+
+“Forty-two,” Enzo said.
+
+Leo turned. “You counted?”
+
+“I have records.”
+
+Gav looked up from his plate. “Of course you do.”
+
+Enzo ignored him.
+
+“We arrived independently at the same excellent decision.”
+
+“You spent the entire month before we left telling everyone you were going to become internationally famous,” Leo said.
+
+“Still possible.”
+
+“Technically.”
+
+Taiga smiled.
+
+“Your families are still there?”
+
+“Yeah,” Leo said. “Mine are.”
+
+“Mine too,” Enzo added. “And they talk. Constantly. That's the problem.”
+
+Taiga frowned. “What problem?”
+
+Enzo pointed at Leo with the fry still in his hand.
+
+“If he lands in Santo Domingo and my mother hears it from his mother before she hears it from me, somehow I am responsible.”
+
+Leo laughed. “You're making it sound like a diplomatic incident.”
+
+“It becomes one.”
+
+“That explains the six voice notes,” Taiga said.
+
+“Exactly.” Enzo looked vindicated. “Finally, someone understands the stakes.”
+
+Leo shook his head.
+
+“So you go back on breaks?” Taiga asked.
+
+“Usually,” Leo said. “When flights make sense. It's not exactly somewhere you go for two days.”
+
+“Which is why,” Enzo said, “if he goes home and I don't, my mother will ask why Leo loves his family more than I love mine.”
+
+Leo laughed again. “She has never said that.”
+
+“She could.”
+
+“That is not the same thing.”
+
+Olympus was full of people from somewhere else. Campus made it easy to forget that. Leo and Enzo had settled into it so completely that Taiga had never stopped to think about how far away their version of home actually was, or that the shorthand between them belonged to years before any of the people at this table knew them.
+
+Mia's phone buzzed. She checked the message. Sofia noticed her expression. Leo glanced over and then away again. Taiga caught it.
 
 “What?”
 
@@ -1559,33 +1625,9 @@ Leo looked over.
 
 “What about me?”
 
-“You already knew Enzo and Gav and Scott before classes started?”
+“You said Enzo was the one person you already knew. What about Gav and Scott?”
 
-“Enzo, yeah.”
-
-Taiga frowned.
-
-“Before preseason?”
-
-“Way before. Same school back home. Same team for a while too.”
-
-That explained several things at once.
-
-“The two of you chose the same university?”
-
-Leo smiled.
-
-“Not as a package deal. We both applied here. He found out before I did and sent me approximately fifty messages.”
-
-“That sounds like him.”
-
-“He also spent the last month before we left telling everybody he was going to become internationally famous.”
-
-“Also sounds like him.”
-
-Leo looked toward the dark window.
-
-“Gav and Scott were preseason. Aaron too. Campus was half empty, so the team became most of the people I knew for a while.”
+“Preseason. Aaron too. Campus was half empty, so the team became most of the people I knew for a while.”
 
 “Three weeks was enough?”
 
