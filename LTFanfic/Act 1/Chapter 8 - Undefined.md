@@ -246,15 +246,7 @@ Taiga looked at the fake dataset.
 
 “Against my will.”
 
-Rao heard enough to look toward them.
-
-“Mr. Akatora, if your soccer career fails, apparently the system has plans for you.”
-
-The room laughed. Taiga felt heat climb into his ears.
-
-“Great.”
-
-Rao smiled and continued. The rest of the lecture stayed firmly in ordinary territory. Lists. Maps. Sets. When each made sense. Why a set was useful when the only question was whether something had already appeared. Why using a map did not automatically make code “better.” Why maintaining the same information in two places could create more bugs than it solved. Rao put two implementations on screen. One scanned a list of club registrations every time someone asked which clubs a student had joined.
+Rao continued. The rest of the lecture stayed firmly in ordinary territory. Lists. Maps. Sets. When each made sense. Why a set was useful when the only question was whether something had already appeared. Why using a map did not automatically make code “better.” Why maintaining the same information in two places could create more bugs than it solved. Rao put two implementations on screen. One scanned a list of club registrations every time someone asked which clubs a student had joined.
 
 The other built a map from student ID to clubs first.
 
@@ -482,7 +474,7 @@ Taiga ignored that.
 
 “Low eighties, I think. He lost points because he duplicated a bunch of code instead of making a helper.”
 
-That sounded much more believable than the Leo Taiga had started constructing in his head from soccer. Good at things. Not magically good at everything. Mia looked toward the clock.
+That sounded much more believable than the Leo Taiga had started constructing in his head from soccer. Mia looked toward the clock.
 
 “I have class. Are you going to the CS mixer Friday?”
 
@@ -498,13 +490,13 @@ Taiga frowned.
 
 “You finished.”
 
-“I added context.”
+“I can add context.”
 
 “Still no.”
 
 Mia shrugged.
 
-“Fair enough.”
+“As you wish.”
 
 She started away. Then turned.
 
@@ -782,7 +774,7 @@ Professor Chen walked past. She glanced at Taiga's page.
 
 “Good.”
 
-She moved on. Taiga corrected the sign. The strange part was that he didn't dislike Calculus. He liked the exactness. He liked when a messy description collapsed into a constraint he could manipulate. But he didn't think about it after class. Computer Science followed him around. He had gone to sleep Tuesday thinking about graphs. That seemed relevant.
+She moved on. Taiga corrected the sign. The strange part was that he didn't dislike Calculus. He liked the exactness. He liked when a messy description collapsed into a constraint he could manipulate. But he didn't think about it after class. Computer Science followed him around. He had gone to sleep Tuesday thinking about references. That seemed relevant.
 
 ---
 
@@ -866,7 +858,7 @@ She scrolled.
 
 “They both happen in the same function.”
 
-“That isn't what I asked.”
+“Doesn't mean it can't happen.”
 
 Taiga frowned. She had a point. He disliked that immediately. Lina continued, “Also, this is the thing Rao warned about. Same information twice.”
 
@@ -942,7 +934,7 @@ Rao nodded.
 
 “Good reason.”
 
-Taiga liked it. By the end of lab, his tests passed again. So did Lina's. Neither of them had become computer scientists in the process. They had simply broken fewer things than they started with.
+Taiga liked it. By the end of lab, his tests passed again. So did Lina's.
 
 ---
 
@@ -966,7 +958,7 @@ She looked at his laptop.
 
 Mia smiled.
 
-“Character development.”
+“Sounds like character development.”
 
 “Shut up.”
 
