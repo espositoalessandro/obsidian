@@ -242,37 +242,11 @@ Aaron tried to hide how pleased he was with maybe. He failed. Taiga looked away 
 
 Leo was tying his bootlaces together before putting them in his bag.
 
-“Yeah, I'm in.”
+“Mh? Yeah, I'm in.”
 
 “Mia?”
 
 “Ask Mia yourself.”
-
-“I don't have her number.”
-
-Leo looked up.
-
-“You absolutely have her number.”
-
-“I lost the contact.”
-
-“How do you lose a contact?”
-
-“I renamed her.”
-
-“To what?”
-
-Enzo paused. Nobody moved. Leo narrowed his eyes.
-
-“What did you rename her?”
-
-“That's not important.”
-
-“It is now.”
-
-Gav sighed.
-
-“Can we finish stretching?”
 
 Mercer walked past.
 
@@ -542,10 +516,6 @@ Hunter smiled.
 
 A pause. Hunter's expression changed. Not dramatically. He looked at something off-screen. Then said, “Are you actually coming?” Taiga frowned.
 
-“To the exhibition?”
-
-“Yeah.”
-
 “I put it in the calendar.”
 
 “That doesn't answer the question.”
@@ -606,7 +576,7 @@ At 3:17, he was in room 317 reading three pages of Political Institutions for th
 
 **Enzo:** why
 
-**Scott:** Train arrives 7:08.
+**Scott:** Train arrives 7:20.
 
 **Enzo:** fine 7:10
 
