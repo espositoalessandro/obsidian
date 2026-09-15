@@ -1078,7 +1078,7 @@ Caleb looked over. “Why?”
 
 Taiga thought about it.
 
-“Don't have to talk to any of them.”
+“I don't have to talk to any of them here.”
 
 Maya took another bite of cake. “That helps.”
 
@@ -1110,7 +1110,7 @@ Taiga checked. Sixty-four pages. Maya laughed. Taiga looked at her.
 
 “You looked so peaceful for almost an entire day.”
 
-“University remembered I exist.”
+“Apparently, university remembered that I exist.”
 
 ---
 

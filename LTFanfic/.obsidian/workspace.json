@@ -50,49 +50,77 @@
             }
           },
           {
-            "id": "bfa37b15fd68f1af",
+            "id": "2a2d14748e2d0d7b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bibles/Writing rules.md",
+                "file": "Act 1/Chapter 8 - Undefined.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Writing rules"
+              "title": "Chapter 8 - Undefined"
             }
           },
           {
-            "id": "4490bfc96e7a07b1",
+            "id": "80b7b40f710e6e95",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Act 2.md",
+                "file": "Act 1/Chapter 9 - Continue.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Act 2"
+              "title": "Chapter 9 - Continue"
             }
           },
           {
-            "id": "d8ae90479fa606c4",
+            "id": "3f9f9264d4341db9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Act 4.md",
+                "file": "Act 1/Chapter 10 - Five Pieces.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Act 4"
+              "title": "Chapter 10 - Five Pieces"
+            }
+          },
+          {
+            "id": "a930eaf04bf27116",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Act 1/Chapter 11 - Selected.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chapter 11 - Selected"
+            }
+          },
+          {
+            "id": "3dfb218328b0c9f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Act 1/Chapter 12 - Baseline.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chapter 12 - Baseline"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -170,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Act 4.md",
+                "file": "Act 1/Chapter 12 - Baseline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +217,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Act 4.md",
+                "file": "Act 1/Chapter 12 - Baseline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -232,7 +260,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Act 4.md",
+                "file": "Act 1/Chapter 12 - Baseline.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -270,18 +298,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c7f5406e547e887c",
+  "active": "3dfb218328b0c9f4",
   "lastOpenFiles": [
+    "Act 1/Chapter 11 - Selected.md",
+    "Act 1/Chapter 12 - Baseline.md",
+    "Act 1/Chapter 10 - Five Pieces.md",
+    "Act 1/Chapter 9 - Continue.md",
+    "Act 1/Chapter 8 - Undefined.md",
+    "Act 1/Chapter 7 - Outside.md",
+    "Act 4.md",
     "Act 2.md",
     "Act 3.md",
-    "Act 4.md",
     "Bibles/Writing rules.md",
     "Bibles/Romance progression.md",
     "Bibles/Canon Lore.md",
     "Bibles/Characters.md",
     "Bibles/Classes.md",
     "Bibles",
-    "Act 1/Chapter 7 - Outside.md",
     "Act 1/Chapter 6 - Review.md",
     "Act 1/Chapter 5 - First Start.md",
     "Act 1/Chapter 4 - Margins.md",
