@@ -586,11 +586,7 @@ Aaron reacted with a thumbs-up. Leo:
 
 **Leo:** see you there
 
-Sofia:
-
 **Sofia:** finishing at 6:30. maybe 7:30
-
-Mia:
 
 **Mia:** i'll meet you at arcadia
 
@@ -988,7 +984,7 @@ Taiga looked over.
 
 “You finished sixth.”
 
-Taiga followed him. Obviously. The machine had two plastic rifles mounted to a cabinet, giant screen, generic city-under-attack premise. Enzo was already there. He handed Leo one gun. Then saw Taiga.
+Taiga followed him. The machine had two plastic rifles mounted to a cabinet, giant screen, generic city-under-attack premise. Enzo was already there. He handed Leo one gun. Then saw Taiga.
 
 “Oh, perfect. Teams.”
 
@@ -1118,21 +1114,11 @@ Mia covered her face. Taiga laughed. Food arrived. The table got quieter for sev
 
 Taiga looked up.
 
-“How do you know already?”
-
-“You told me Saturday.”
-
-“I told you I submitted it.”
-
-“And then?”
-
 “Approved Monday.”
 
 Leo looked over.
 
-“Nice.”
-
-“Thanks.”
+"Sick!"
 
 Enzo pointed a fry at him.
 
@@ -1160,7 +1146,8 @@ Gav smiled.
 
 “It's literally a spreadsheet.”
 
-Enzo looked around for support. None came. Conversation moved to majors. Sofia studied physiotherapy. Aaron was in business. Gav's coursework leaned toward biology because he was considering sports medicine, though he hadn't decided. Scott was doing mathematics. That surprised Taiga less than it should have. Scott had the energy of someone who would enjoy equations because they did not require conversation. Mia said, “Leo, tell them your inspirational reason for choosing Computer Science.” Leo looked up from his food.
+Enzo looked around for support. None came. 
+Conversation moved to majors. Sofia studied physiotherapy. Aaron was in business. Gav's coursework leaned toward biology because he was considering sports medicine, though he hadn't decided. Scott was doing mathematics. That surprised Taiga less than it should have. Scott had the energy of someone who would enjoy equations because they did not require conversation. Mia said, “Leo, tell them your inspirational reason for choosing Computer Science.” Leo looked up from his food.
 
 “I don't have one.”
 
@@ -1206,8 +1193,6 @@ Taiga smiled.
 
 Leo paused for maybe half a second. Then smiled.
 
-“Yeah. I was.”
-
 Mia pointed at him.
 
 “See? Inspirational.”
@@ -1216,7 +1201,7 @@ Mia pointed at him.
 
 Taiga looked back at his food. Thankfully, Aaron changed the subject by asking whether anyone had plans for the break after finals. Then the conversation became travel. Sofia was going home. Gav too. Scott's family lived far enough away that he hadn't decided whether flights were worth it for the short break. Enzo wanted to organize something in Mythokos before everyone left. Leo said he might go home for part of it but hadn't booked anything.
 
-Enzo looked over. “Santo Domingo?”
+Enzo looked over. “You're going back to Santo Domingo?”
 
 “Probably. Depends what flights look like.”
 
@@ -1226,7 +1211,15 @@ Leo laughed. “That sounds like a you problem.”
 
 “It becomes a me problem at international scale.”
 
-Taiga listened. Olympus was full of people from somewhere else. Campus made it easy to forget that. Mia's phone buzzed. She checked the message. Sofia noticed her expression. Leo glanced over and then away again. Taiga caught it.
+Taiga turned
+
+"You're from Santo Domingo?"
+
+Leo said, "Yep, we both went to the same high school"
+
+""
+
+Olympus was full of people from somewhere else. Campus made it easy to forget that. Mia's phone buzzed. She checked the message. Sofia noticed her expression. Leo glanced over and then away again. Taiga caught it.
 
 “What?”
 
