@@ -334,7 +334,13 @@ Evan, jogging back into position, shook his head.
 
 “I was showing you outside.”
 
-Taiga looked. He had been. Fuck. Mercer said, “Again.” Taiga reset. The next repetition went better. Not good. Better. After twenty minutes Taiga was irritated enough that every correction felt like an accusation. He knew where that mood could take him now. Knowing did not make it disappear. It simply meant he could watch himself having it. Excellent. He received another pass. Bad touch. Ball rolled two feet too far. Leo stepped in from the opposing side and poked it away.
+Taiga looked. He had been. Fuck. Mercer said, “Again.” Taiga reset.
+
+From the goal behind them, Scott's voice cut through the rain.
+
+“BENNETT, INSIDE! CARTER, STEP! DON'T LET HIM TURN!”
+
+The next repetition went better. Not good. Better. After twenty minutes Taiga was irritated enough that every correction felt like an accusation. He knew where that mood could take him now. Knowing did not make it disappear. It simply meant he could watch himself having it. Excellent. He received another pass. Bad touch. Ball rolled two feet too far. Leo stepped in from the opposing side and poked it away.
 
 Taiga swore. Leo carried on with the drill. Taiga tracked back. Next sequence. Again. By the end of training his socks were wet, his right hip hurt, and he wanted to throw something. Mercer dismissed the group.
 
@@ -404,7 +410,7 @@ Mercer looked at him. Taiga sighed.
 
 “I know.”
 
-This time he meant it slightly more. He went inside. The locker room was loud. Enzo had apparently discovered a video of Scott missing a catch at practice six months ago and was replaying it for anyone who would look. Scott sat on the bench, entirely unbothered.
+This time he meant it slightly more. He went inside. The locker room was loud. Enzo had apparently discovered a video of Scott missing a catch at practice six months ago and was replaying it for anyone who would look. Scott sat on the bench, towel around his shoulders, entirely unbothered.
 
 “The sun was in my eyes.”
 
@@ -414,6 +420,20 @@ Scott looked at him.
 
 “Then I have no defense.”
 
+Enzo replayed it again.
+
+“LOOK AT THIS. OUR LAST LINE OF DEFENSE.”
+
+Scott reached for his shirt.
+
+“Still saved the rebound.”
+
+Gav nodded. “He did.”
+
+Enzo lowered the phone slightly.
+
+“That is not the point of the video.”
+
 Leo laughed. Taiga went to his locker. No one asked about his training. He changed. Normal noise. Normal bodies. Normal arguments. At some point Leo passed behind him carrying a towel, slowed, and nodded toward Taiga's locker.
 
 “For what it's worth, the right side feels completely backwards at first. I hated it the first few times Mercer put me there. Every touch feels like you're opening the wrong door, and then you start thinking about which foot you're using, which somehow makes it even worse.”
@@ -422,7 +442,7 @@ Taiga looked over. Leo grinned.
 
 “Very inspiring, I know. But it does stop feeling stupid eventually.”
 
-Then he kept walking toward the showers before Taiga could decide whether that required an answer. Just information, delivered at approximately three times the necessary word count. Apparently that was Leo's version of restraint. Taiga looked back at his locker. Right side did suck. Useful contribution. Marginal. Fine.
+Then he kept walking toward the showers. Taiga looked back at his locker. Right side did suck. Useful contribution.
 
 ---
 
@@ -664,17 +684,11 @@ Taiga thought.
 
 Maya smiled. Taiga frowned.
 
-“Say it.”
-
-Keitaro laughed.
-
-“I'm allowed to think before I answer.”
-
-“Then answer.”
+“What?”
 
 “He sounds like you.”
 
-Taiga stared. Caleb said, “That was also my conclusion.”
+Caleb nodded. “That was also my conclusion.”
 
 “Both of you can go fuck yourselves.”
 
@@ -1016,7 +1030,7 @@ Then Leo's eyes dropped to the shirt. For one second. Maybe less.
 
 “Also, green looks really good on you. Like, seriously. Good choice.”
 
-Taiga's brain stopped. Aaron had just said almost the same thing; apparently the universe had opinions about his shirt.
+Taiga forgot what he'd been doing with the zipper on his bag.
 
 “Caleb picked it.”
 
@@ -1166,21 +1180,7 @@ Taiga looked at the bouquet. “Hunter's going to die.”
 
 Natsumi had also packed a folding vase because, apparently, he planned for flowers as carefully as Caleb planned trains.
 
-Hiro asked about his shoulder. Natsumi said the physio thought the tightness was fatigue and had kept him out of butterfly for the week.
-
-“Good,” Hiro said. “Shoulder stuff is awful.”
-
-“You're his mother now?” Taiga asked.
-
-“I understand repetitive-use injuries. Culinary school is ninety percent standing and thirty percent wrist pain.”
-
-“That is one hundred and twenty percent.”
-
-“Exactly.”
-
-Natsumi laughed. He had a meet coming up and had started helping once a week with a beginner swim clinic through university recreation.
-
-“You're teaching now?” Taiga asked.
+“You're teaching now?” Taiga asked later when Natsumi mentioned the beginner swim clinic.
 
 “Assisting.”
 
@@ -1366,7 +1366,9 @@ Hunter looked amused.
 
 “Because I thought this was where the speech about transition started.”
 
-Hunter groaned immediately. Hunter groaned. “Marlowe already did that for me.”
+Hunter groaned immediately.
+
+“Marlowe already did that for me.”
 
 “What'd she say?”
 
@@ -1972,7 +1974,7 @@ Keitaro shrugged.
 
 “Then throw it away.”
 
-Taiga looked at the card. Hunter's name was there in small print. He put it in his bag. Keitaro smiled. Taiga caught the collective glance.
+Taiga looked at the card. Hunter's name was there in small print. He put it in his bag. Keitaro smiled. Taiga caught the glance.
 
 “Absolutely not.”
 
@@ -1981,10 +1983,6 @@ Hiro grinned.
 “We didn't say anything\!”
 
 “That's the problem. You're coordinating silently now.”
-
-“With what?”
-
-“Caleb.”
 
 Keitaro laughed quietly so he wouldn't wake Hiro. Then his phone buzzed. He checked it.
 
@@ -2120,4 +2118,3 @@ The exhibition card sat beside the Camp Buddy photo and above the Apollo fixture
 
 Taiga looked at them until his eyes started to close. Hunter had put five pieces on a wall; everybody had come, looked, talked, and gone back to the lives they were building.
 Taiga had come back to Olympus.
-
