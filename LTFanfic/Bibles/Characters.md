@@ -72,7 +72,7 @@ Leo is:
 
 He remembers small details people tell him and often follows up later.
 
-He is not effortlessly extroverted. Act II establishes that his social battery can run out: at crowded events he may disappear for several minutes simply because he needs silence. He comes from a loud home environment, so total silence can also feel strange to him.
+Leo genuinely enjoys crowds and social situations, but his social battery can still run out. Act II establishes a **private reset habit**: when a crowded event becomes too much, he may slip away alone for about five minutes to get silence and then return. This is **not common knowledge** at Apollo. Taiga learns it only because he accidentally finds Leo alone on the balcony, and Leo explicitly asks him not to tell anyone. Other characters should not recognize, anticipate, tease, or knowingly accommodate this habit unless Leo later chooses to tell them. He comes from a loud home environment, so total silence can also feel strange to him.
 
 Academically, he is competent but not pristine:
 - he writes code that works before it becomes elegant;
@@ -109,7 +109,7 @@ He should **not** default to:
 
 ## Revision direction
 Act III–IV should repeatedly expose the Leo already established in Acts I–II:
-- social fatigue after long group days;
+- occasional private five-minute resets / social fatigue after long group days, **without making him crowd-averse or making the habit common knowledge**;
 - saying yes to too many things;
 - getting snappier when depleted;
 - occasional bad planning;
