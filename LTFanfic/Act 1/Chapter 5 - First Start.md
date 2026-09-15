@@ -180,7 +180,9 @@ He stopped. The list was divided into starters and substitutes. Taiga scanned. G
 
 **LW — 41 AKATORA**
 
-He read it again. Starter. Not expected thirty minutes. Not development. Start. His stomach gave one hard drop. Aaron appeared beside him.
+He read it again. Starter. Not expected thirty minutes. Not development. Start. His stomach gave one hard drop.
+
+Aaron appeared beside him.
 
 “Oh, shit.”
 
@@ -236,9 +238,27 @@ Taiga looked at him with disgust. Aaron laughed.
 
 “So what?”
 
-Aaron shook his head.
+From behind them, Gav said, “Usually 4-2-3-1. Right-back likes to step early.”
 
-“You're insane.”
+Taiga turned.
+
+Gav was halfway through the door, training bag over one shoulder.
+
+“You remember that?” Aaron asked.
+
+“He kicked me twice.”
+
+“That would do it.”
+
+Gav looked at Taiga. “Don't let him turn it into a strength contest. He wants that.”
+
+“Got it.”
+
+Gav nodded and went inside.
+
+Aaron looked after him, then back at Taiga.
+
+“See? Actual scouting department.”
 
 Taiga took a photo of the sheet.
 
@@ -250,31 +270,23 @@ Inside the locker room, people were changing. Leo was standing near his locker w
 
 “—I'm telling you, if you put pineapple on it after baking, that's different.”
 
-“That is still pineapple on pizza.”
+Evan stared at him. “That is still pineapple on pizza.”
 
 “No, because then it's basically garnish.”
 
-Evan looked offended.
-
 “That's worse.”
 
-Leo pointed at him.
+From the next row, Enzo joined without invitation.
 
-“You eat tuna salad from a can.”
+“Pineapple is innocent. The real crime is people putting chicken on pizza and pretending it belongs there.”
 
-“That is food.”
+Leo pointed at him. “Finally. A man of culture.”
 
-“It smells like cat food.”
+Evan looked between them. “You both need supervision.”
 
 Leo spotted Taiga.
 
-“Hey, forty-one. Important question.”
-
-Taiga stopped beside his locker.
-
-“What?”
-
-“Pineapple on pizza.”
+“Hey, forty-one. Important question. Pineapple on pizza.”
 
 “No.”
 
@@ -294,27 +306,47 @@ Leo looked at him.
 
 “Growth.”
 
-Evan threw a sock at him. Leo caught it against his chest, laughed, and threw it back. Taiga opened his locker. Leo seemed to generate noise just by standing somewhere. Usually without being obnoxious about it. He knew when to pull back if someone wasn't interested. If people gave him space, though, he filled it.  
-Suddenly, his phone buzzed. With a really annoying ringtone, obviously.  
-Taiga noticed the screen “Mia”. He looked away. Not his business.  
-Leo panicked
+Enzo raised both arms. “This team has no ideological consistency.”
 
-“OH SHIT” 
+Scott, sitting two lockers down and taping his fingers, said, “Good.”
 
-Then answered frantically
+Enzo turned. “You can't just drop one word into a constitutional crisis and leave.”
 
-“Right\! Sorry. Culinary ethics hijacked the meeting. Evan has bad opinions of food. No, no, I know I promised I didn’t forget.”
+Scott kept taping.
 
-Leo paused, listening.
+“I can.”
+
+Taiga laughed under his breath and opened his locker.
+
+Leo's phone buzzed. He looked at the screen and froze.
+
+“Oh, shit.”
+
+“Mia?” Enzo asked immediately.
+
+Leo answered before anyone else could say anything.
+
+“Right! Sorry. Culinary ethics hijacked the meeting. No, no, I know I promised I didn't forget.”
+
+He listened, then started pacing one shoe on, one shoe off.
 
 “The library printer on two is dead, and engineering is stupidly far from here, so don't do that. Jonah has lab access in the CS building. I'll message him. If he's still there, he can let you in.”
 
-Then he grinned
+Then he grinned.
 
-“You owe me another dinner”  
-   
-Leo locked his phone and went back to tying his shoe, already arguing with Evan about whether tuna qualified as an emergency food. Taiga changed. Leo's energy could look chaotic from the outside. Underneath it, he apparently knew exactly which building had a working printer and who would still be there at five-thirty.   
-Noted.
+“You owe me another dinner.”
+
+He locked the phone and went back to tying his shoe.
+
+Enzo looked at him. “You negotiate favors like organized crime.”
+
+“Networking.”
+
+“Extortion.”
+
+“Community.”
+
+Taiga changed while the argument moved on without him.
 
 ---
 
@@ -354,7 +386,9 @@ Mercer raised an eyebrow. Taiga sighed.
 
 Training began. For the first half hour, Taiga played normally. Then they switched into eleven-versus-eleven shape. Saturday starters wore yellow bibs. Taiga pulled one over his shirt. Something about the color changed the entire session. Stupid. It was fabric. The same field. Same teammates. Same coach. But now every mistake seemed to have context.
 
-Saturday. He received wide. Tried to beat Evan. Lost the ball. Next possession, he tried again. Lost it again. Mercer blew the whistle.
+Saturday.
+
+He received wide. Tried to beat Evan. Lost the ball. Next possession, he tried again. Lost it again. Mercer blew the whistle.
 
 “Akatora.”
 
@@ -402,10 +436,17 @@ Taiga looked at him.
 
 “Do you have a death wish?”
 
-Evan smiled.  
-The drill restarted. Ball came. Evan closed. Taiga checked inside. Midfielder free. Pass. Run. Return ball. Now Evan was turned. Taiga accelerated around him. Not spectacular. Just correct. Evan caught up and shouldered him. Taiga stayed upright. Cross. Cleared. Mercer shouted:
+Evan smiled.
 
-“Better\!”
+The drill restarted. Ball came. Evan closed. Taiga checked inside. Midfielder free. Pass. Run. Return ball. Now Evan was turned. Taiga accelerated around him. Not spectacular. Just correct. Evan caught up and shouldered him. Taiga stayed upright. Cross. Cleared.
+
+From the far end, Scott's voice tore across the field.
+
+“RESET! BENNETT, GET BACK IN! CARTER, STEP!”
+
+Mercer shouted:
+
+“Better!”
 
 Taiga jogged back. Evan said beside him:
 
@@ -420,6 +461,16 @@ Taiga jogged back. Evan said beside him:
 “I was mostly surprised you listened.”
 
 Taiga looked at him. Evan laughed and peeled away.
+
+Gav passed them on the way back into shape.
+
+“Same picture Saturday. Don't wrestle if the inside pass is free.”
+
+Taiga nodded.
+
+“Yeah.”
+
+Then play restarted.
 
 ---
 
@@ -691,7 +742,7 @@ Taiga clicked his tongue. Keitaro smiled.
 
 “Tell him statistically he survives every exam.”
 
-“I will. Goodbye Taiga\! And good luck with your match”
+“I will. Goodbye Taiga! And good luck with your match.”
 
 “Yeah. Later.”
 
@@ -1051,19 +1102,23 @@ Of course. Taiga checked the time again. 10:16. Still four hours and forty-four 
 
 ---
 
-By 2:28, Taiga was in the reserve locker room. He had followed Caleb's advice without admitting it. Bag under bench. Training top. Tape left wrist. Boots last. Water bottle filled. Warm-up at 2:35. Mercer talk at 2:50. Tunnel at 2:57. Kickoff at three. Around him, teammates talked normally. That was offensive. How could Aaron be arguing about a movie when they were about to play? How could Evan be scrolling through his phone? How could the goalkeeper be eating half a banana?
+By 2:28, Taiga was in the reserve locker room. He had followed Caleb's advice without admitting it. Bag under bench. Training top. Tape left wrist. Boots last. Water bottle filled. Warm-up at 2:35. Mercer talk at 2:50. Tunnel at 2:57. Kickoff at three.
+
+Around him, teammates talked normally. That was offensive. Aaron was arguing about a movie. Evan was scrolling through his phone. Enzo was trying to convince Gav that Northbridge's away kit looked “like wet cement.” Scott sat near the end of the bench eating half a banana and saying absolutely nothing.
 
 Taiga tied his left boot. Untied it. Retied.
 
 “Boot betrayed you?”
 
-Taiga looked up. Leo was two lockers away. He wasn't starting. Mercer had him listed on the bench, likely because he'd played heavy first-team minutes the weekend before. Taiga said:
+Taiga looked up. Leo was two lockers away. He wasn't starting. Mercer had him listed on the bench, likely because he'd played heavy first-team minutes the weekend before.
 
 “No.”
 
 “You've tied that one three times.”
 
-Taiga looked at the boot. Had he? Leo smiled. Not smug. Just amused.
+Taiga looked at the boot. Had he?
+
+Leo smiled. Not smug. Just amused.
 
 “Nervous?”
 
@@ -1079,13 +1134,29 @@ Taiga loosened the lace.
 
 “A little.”
 
-Leo sat and began taping one ankle. Around them, the locker room remained noisy. He called across to Aaron:
+Leo sat and began taping one ankle. Around them, the locker room remained noisy.
+
+Enzo pointed across at Scott's banana. “You know we have actual food, right?”
+
+Scott looked at him.
+
+“Yes.”
+
+“Then why are you eating half a banana like a Victorian invalid?”
+
+Scott took another bite.
+
+“Works.”
+
+Enzo looked offended on principle.
+
+Leo called across to Aaron:
 
 “Did you bring the speaker?”
 
 Aaron shouted back:
 
-“Evan did\!”
+“Evan did!”
 
 “Evan's music is terrible.”
 
@@ -1145,7 +1216,9 @@ Leo stood and bounced once on the balls of his feet.
 
 “That doesn't improve it.”
 
-Leo grinned. Then Mercer entered. The room changed instantly. Leo sat. Conversation died. Taiga looked at his boots. One thing at a time.
+Leo grinned. Then Mercer entered. The room changed instantly. Conversation died.
+
+Taiga looked at his boots. One thing at a time.
 
 ---
 
@@ -1155,25 +1228,79 @@ No foul. Taiga stayed upright. Barely.
 
 “Welcome,” the defender said.
 
-Taiga looked at him. He could have responded. Didn't. Play continued. Five minutes. One touch. One pass. He remembered Leo's advice. Simple. Receive. Inside. Move. Again. Receive. Back. Move. Third time. Fullback stepped. Taiga cut inside. Space. He carried the ball ten yards before passing. Nothing happened. Perfect. His breathing changed. Suddenly this was a game again. Not an examination. Northbridge pressed high. Olympus played through it. Taiga made a run. Didn't get the ball.
+Taiga looked at him. He could have responded. Didn't. Play continued.
 
-Again. Didn't get it. Third time, pass came. He attacked the right-back. This time he didn't try to outrun him outside. Stopped. Cut inside. The defender adjusted. Taiga slipped the ball down the line to Olympus's overlapping fullback. Cross. Cleared. The match grew. Noise appeared at the edges. Mercer shouting. Teammates calling. Studs on turf. Someone in the stand yelling. Taiga stopped hearing individual things. Twenty minutes. Still 0–0. Then he made the mistake. Olympus had possession near midfield.
+From Olympus's goal, Scott's voice never stopped.
 
-Taiga dropped to receive. Checked shoulder. One defender. He took the ball on his back foot. Could lay it inside. Could pass backward. Saw space forward. Turned. The right-back anticipated. Stole it. Taiga reacted instantly. Chased. Northbridge countered. Three passes. Cross. Goal. 0–1. Taiga stopped near midfield. His stomach went hollow. The scorer ran toward the corner. Northbridge bench shouted. Taiga stared. His mistake. Not entirely. There had been forty yards and three defenders after it.
+“BENNETT, TUCK!”
 
-Didn't matter. His mistake. He clenched his jaw. *Fix it.* The urge arrived like a physical command. Get the ball. Do something. Now. Mercer shouted from the sideline:
+“CARTER, LEFT!”
 
-“Akatora\!”
+“SECOND BALL!”
 
-Taiga looked over. Mercer pointed at his head. Nothing else. Taiga knew what he meant. Don't. Don't do the thing. He breathed through his nose. Walked back into position. The right-back glanced at him.
+“FORTY-ONE, TRACK!”
+
+Taiga tracked.
+
+Five minutes. One touch. One pass. He remembered Leo's advice. Simple. Receive. Inside. Move. Again. Receive. Back. Move. Third time. Fullback stepped. Taiga cut inside. Space. He carried the ball ten yards before passing. Nothing happened. Perfect. His breathing changed. Suddenly this was a game again. Not an examination.
+
+Northbridge pressed high. Olympus played through it. Taiga made a run. Didn't get the ball.
+
+Again. Didn't get it. Third time, pass came. He attacked the right-back. This time he didn't try to outrun him outside. Stopped. Cut inside. The defender adjusted. Taiga slipped the ball down the line to Olympus's overlapping fullback. Cross. Cleared.
+
+The match grew. Noise appeared at the edges. Mercer shouting. Teammates calling. Studs on turf. Someone in the stand yelling. Scott organizing everything behind them.
+
+Twenty minutes. Still 0–0.
+
+Then Taiga made the mistake.
+
+Olympus had possession near midfield. Taiga dropped to receive. Checked shoulder. One defender. He took the ball on his back foot. Could lay it inside. Could pass backward. Saw space forward. Turned. The right-back anticipated. Stole it.
+
+Taiga reacted instantly. Chased. Northbridge countered. Three passes. Cross. Goal.
+
+0–1.
+
+Taiga stopped near midfield. His stomach went hollow. The scorer ran toward the corner. Northbridge bench shouted. Taiga stared.
+
+His mistake. Not entirely. There had been forty yards and three defenders after it.
+
+Didn't matter. His mistake.
+
+He clenched his jaw.
+
+*Fix it.*
+
+The urge arrived like a physical command. Get the ball. Do something. Now.
+
+Mercer shouted from the sideline:
+
+“Akatora!”
+
+Taiga looked over. Mercer pointed at his head. Nothing else. Taiga knew what he meant.
+
+Don't.
+
+He breathed through his nose. Walked back into position.
+
+From behind him, Scott shouted:
+
+“RESET! NEXT ONE!”
+
+Not comfort. Not blame. Just the game continuing.
+
+The right-back glanced at Taiga.
 
 “You good?”
 
-Taiga looked at him. Unexpected question.
-
 “Yeah.”
 
-The defender nodded. Whistle. Restart. Taiga did absolutely nothing special for the next four minutes. That might have been the hardest thing he'd done all afternoon. Simple pass. Press. Track runner. Another simple pass. Then a tackle. Then a run. The mistake remained. But it stopped growing. By halftime, still 0–1. Taiga walked to the bench drenched in sweat. Mercer met him halfway.
+The defender nodded. Whistle. Restart.
+
+Taiga did absolutely nothing special for the next four minutes. That might have been the hardest thing he'd done all afternoon. Simple pass. Press. Track runner. Another simple pass. Then a tackle. Then a run. The mistake remained. But it stopped growing.
+
+By halftime, still 0–1.
+
+Taiga walked to the bench drenched in sweat. Mercer met him halfway.
 
 “What happened on the goal?”
 
@@ -1185,13 +1312,11 @@ Taiga swallowed.
 
 “I had the inside pass.”
 
-“That's good.”
+“Good. Drink.”
 
-Taiga waited for more. Mercer pointed toward the bench.
+Taiga sat.
 
-“Drink.”
-
-Taiga sat. Aaron handed him water.
+Aaron handed him water.
 
 “You're fine.”
 
@@ -1205,82 +1330,91 @@ Taiga drank.
 
 “Yeah.”
 
-Taiga looked at him. Aaron shrugged.
+Aaron shrugged. “Both happened.”
 
-“Both things happened.”
+Before Taiga could answer, Gav crouched in front of the tactics board beside Mercer.
 
-Taiga almost laughed. Apparently everyone at Olympus had joined a conspiracy. Leo dropped into the empty spot beside him. He was smiling, energized despite not playing yet.
+“Their six stopped following when Taiga came inside,” Gav said, pointing. “He's watching the ball. If we keep the fullback wide, that pocket's open.”
 
-“You finally got inside him around thirty-five.”
+Mercer nodded once.
 
-Taiga frowned.
+Leo dropped into the empty spot beside Taiga, already energized by the idea.
 
-“What?”
+“That's what I was seeing. The right-back keeps waiting for you outside.”
 
-“The right-back. You kept trying to run outside. He's waiting for it.”
+Taiga looked between them.
 
-“I know.”
+Gav tapped the board. “Pull him out. Then come off the line. Don't force the first touch forward.”
 
-“No, I mean after the goal. You started checking inside before receiving.”
+Leo traced the run with one finger. “And if their six switches on, bounce it back and go again. He's lazy after the first movement.”
 
-Taiga drank again. Leo was talking with his hands now, tracing imaginary lines in the air.
+“Curly guy?” Taiga asked.
 
-“If you pull him two steps wider and come into the half-space, their midfielder doesn't track you properly. I was watching. He's lazy as hell.”
+Leo grinned. “Red boots. See? Now we're speaking the same language.”
 
-“Which midfielder?”
+Mercer called everyone in.
 
-“Number six. The guy with the hair.”
+Gav stood. “Simple first. Then hurt them.”
 
-Taiga stared at the field.
+Leo slapped Taiga lightly on the shoulder as he got up.
 
-“They all have hair.”
+“See? Professional advice.”
 
-Leo laughed.
+Taiga looked at him. “Yours was about touching paint.”
 
-“Okay, fair. Curly guy. Red boots.”
-
-Taiga found him.
-
-“Oh, right.”
-
-“That's exactly it.”
-
-Mercer called them in. Leo stood.
-
-“Also, stop trying to murder yourself over the goal. We need one.”
-
-Taiga looked up.
-
-“That sounded very inspirational.”
-
-Leo grinned.
-
-“I know, right?”
-
-Then he bounced away toward the huddle, clapping Aaron on the back and nearly colliding with the assistant coach because he was looking the wrong direction. Taiga watched for half a second. Then stood.
+“Also professional.”
 
 ---
 
-He stayed on for the second half. That surprised him. Mercer could have substituted him. Didn't. Olympus equalized in the fifty-sixth minute from a corner. Taiga wasn't involved. He celebrated anyway. At sixty-five, Mercer sent Leo on as the ten, behind the striker. He immediately began shouting.
+He stayed on for the second half. That surprised him. Mercer could have substituted him. Didn't.
 
-“Higher\! Higher\! Come on\!”
+Olympus equalized in the fifty-sixth minute from a corner. Taiga wasn't involved. He celebrated anyway.
 
-He clapped at the fullback. Pointed. Pressed. Called for the ball. Lost it. Chased it. Won a throw. Turned toward the bench with both arms raised like he'd accomplished something magnificent. Aaron shouted:
+At sixty-five, Mercer sent Leo on as the ten, behind the striker. He immediately began shouting.
 
-“THROW-IN OF THE YEAR\!”
+“Higher! Higher! Come on!”
 
-Leo bowed. The stand laughed. Taiga shook his head, smiling. Idiot.   
-The match opened up. Northbridge tired. Taiga noticed number six stopped tracking. Leo had been right. At seventy minutes, Taiga drifted inside. Right-back followed halfway. Number six looked toward the ball. Taiga kept moving. Pass came through midfield. Taiga received between lines. Turned. For once, there was time. Leo was sprinting on the opposite side. Center-forward checking short. Fullback overlapping left. Too many choices. Taiga saw the easiest one.
+He clapped at the fullback. Pointed. Pressed. Called for the ball. Lost it. Chased it. Won a throw. Turned toward the bench with both arms raised like he'd accomplished something magnificent.
 
-Played forward into the striker. Continued his run. Return ball. Now right-back was behind him. Taiga entered the box. Goalkeeper shifted. Shoot? Angle tight. He saw Leo arriving far post. Crossed low. Defender got a foot. Ball changed direction. Leo adjusted. Hit it first time. Goal. 2–1. The sound from the Olympus bench exploded. Leo ran toward the corner, arms out. Taiga stopped for half a second. Assist? Technically maybe. Deflection. Whatever. Leo turned mid-run and saw him.
+Aaron shouted:
+
+“THROW-IN OF THE YEAR!”
+
+Leo bowed.
+
+Enzo, warming up nearby, added, “BUILD THE STATUE!”
+
+The stand laughed. Taiga shook his head, smiling.
+
+Idiot.
+
+The match opened up. Northbridge tired. Taiga noticed number six stopped tracking. Leo and Gav had been right.
+
+At seventy minutes, Taiga drifted inside. Right-back followed halfway. Number six looked toward the ball. Taiga kept moving. Pass came through midfield. Taiga received between lines. Turned.
+
+For once, there was time.
+
+Leo was sprinting on the opposite side. Center-forward checking short. Fullback overlapping left. Too many choices. Taiga saw the easiest one.
+
+Played forward into the striker. Continued his run. Return ball. Now right-back was behind him. Taiga entered the box. Goalkeeper shifted. Shoot? Angle tight. He saw Leo arriving far post. Crossed low. Defender got a foot. Ball changed direction. Leo adjusted. Hit it first time.
+
+Goal.
+
+2–1.
+
+The Olympus bench exploded.
+
+Leo ran toward the corner, arms out. Taiga stopped for half a second. Assist? Technically maybe. Deflection. Whatever.
+
+Leo turned mid-run and saw him.
 
 Pointed.
 
-“TAIGA\!”
+“TAIGA!”
 
-Then he changed direction and ran straight back toward him. Taiga barely had time to react before Leo jumped into him. An arm around his shoulders.
+Then changed direction and ran straight back toward him. Taiga barely had time to react before Leo jumped into him. An arm around his shoulders.
 
-“THAT'S IT\!”
+“THAT'S IT!”
 
 Taiga laughed despite himself.
 
@@ -1288,21 +1422,29 @@ Taiga laughed despite himself.
 
 “Fuck you, that was beautiful.”
 
-Aaron arrived from the bench somehow. Then Evan. Then three others. People hitting shoulders. Shouting. Taiga got swallowed by bodies. For a few seconds there was no room to think about anything except noise and sweat and somebody's elbow against his back. Then Mercer was yelling:
+Aaron arrived from the bench somehow. Then Evan. Then three others. Enzo came last and nearly flattened all of them from behind.
 
-“GET BACK IN SHAPE\!”
+“WE HAVE CREATED FOOTBALL!”
 
-Everyone scattered. Leo jogged beside him. Still smiling.
+“Get off!” somebody shouted.
+
+For a few seconds there was no room to think about anything except noise and sweat and somebody's elbow against his back.
+
+Then Scott's voice tore through the celebration from thirty yards away.
+
+“GET BACK! SHAPE!”
+
+Mercer echoed him a second later.
+
+Everyone scattered.
+
+Leo jogged beside Taiga. Still smiling.
 
 “Nice ball.”
-
-Taiga breathed hard.
 
 “Yeah. Good finish.”
 
 “See? We can be civilized.”
-
-Taiga looked over.
 
 “Don't ruin it.”
 
@@ -1310,7 +1452,13 @@ Leo laughed and sprinted away.
 
 ---
 
-Olympus won 2–1. Taiga played eighty-two minutes. When Mercer finally substituted him, his legs barely worked. He walked off to applause from approximately thirty people. Not exactly a stadium roar. Still. Caleb was in the stand. Taiga saw him immediately. Maya beside him. Caleb raised one hand. No jumping. No screaming. Just a hand. Taiga smiled. Then caught himself smiling and looked away. Aaron saw.
+Olympus won 2–1. Taiga played eighty-two minutes. When Mercer finally substituted him, his legs barely worked. He walked off to applause from approximately thirty people. Not exactly a stadium roar. Still.
+
+Caleb was in the stand. Taiga saw him immediately. Maya beside him. Caleb raised one hand. No jumping. No screaming. Just a hand.
+
+Taiga smiled. Then caught himself smiling and looked away.
+
+Aaron saw.
 
 “That’s your roommate?”
 
@@ -1322,13 +1470,13 @@ Olympus won 2–1. Taiga played eighty-two minutes. When Mercer finally substitu
 
 Aaron laughed.
 
-“That is supportive in his language.”
-
-Maybe.
+“That counts.”
 
 ---
 
-In the locker room afterward, Taiga sat for a long time before showering. His body had that strange post-match heaviness where every movement felt delayed. Socks off. Tape off. Shirt. Shorts. He had a bruise beginning on one hip from Northbridge's right-back. Evan walked past.
+In the locker room afterward, Taiga sat for a long time before showering. His body had that strange post-match heaviness where every movement felt delayed. Socks off. Tape off. Shirt. Shorts. He had a bruise beginning on one hip from Northbridge's right-back.
+
+Evan walked past.
 
 “First start.”
 
@@ -1360,19 +1508,51 @@ Taiga looked at him. Evan shrugged.
 
 He was right. Taiga hated that.
 
-“Maybe. I don't know.”
-
-Evan nodded.
+“Maybe.”
 
 “Good game.”
 
 “...Thanks.”
 
-Evan left. Taiga sat another minute. Then showers. Most people had already gone. He took his usual stall. Water hot. Head down. His muscles gradually loosened. Someone entered the stall opposite. Leo. Again. Apparently they had synchronized hygiene now. Taiga did not find that funny. Leo pulled his shirt off first. Then shorts. Taiga looked away automatically. Not dramatically. Just basic locker-room etiquette. Then Leo turned around to hang his towel. Taiga's eyes betrayed him once.
+Evan left.
 
-Same result as before. Lean waist. Strong thighs. That stupidly round ass. Taiga looked at the shampoo bottle. Immediately. The label said **SPORT MINT ACTIVE**. He had read it four times now. Across the aisle, Leo turned the shower on.
+Scott walked past a moment later carrying his gloves under one arm.
 
-They showered in silence for a while. Taiga preferred it. Then Leo said:
+“Next one was clean.”
+
+Taiga looked up.
+
+“What?”
+
+“After the goal. First pass.”
+
+Then Scott kept walking.
+
+Taiga stared after him.
+
+Apparently that was a compliment.
+
+He sat another minute. Then showers.
+
+Most people had already gone. He took his usual stall. Water hot. Head down. His muscles gradually loosened.
+
+Someone entered the stall opposite. Leo. Again. Apparently they had synchronized hygiene now. Taiga did not find that funny.
+
+Leo pulled his shirt off first. Then shorts. Taiga looked away automatically. Not dramatically. Just basic locker-room etiquette. Then Leo turned around to hang his towel. Taiga's eyes betrayed him once.
+
+Same result as before.
+
+Lean waist. Strong thighs. That stupidly round ass.
+
+Taiga looked at the shampoo bottle. Immediately.
+
+The label said **SPORT MINT ACTIVE**. He had read it four times now.
+
+Across the aisle, Leo turned the shower on.
+
+They showered in silence for a while. Taiga preferred it.
+
+Then Leo said:
 
 “I saw you got support today.”
 
@@ -1384,9 +1564,9 @@ Taiga looked toward the frosted panel.
 
 “Yeah, my roommate and his girlfriend.”
 
-“That’s nice\! I remember him, he opened me the dorm room when I forgot the keys.”
+“That’s nice! I remember him. He opened Apollo for me when I forgot my card.”
 
-“Yeah he mentioned that to me.”
+“Yeah, he mentioned that.”
 
 “Good to know I made an impression.”
 
@@ -1396,33 +1576,35 @@ Taiga looked toward the frosted panel.
 
 “That’s a low bar. And it wasn’t actually a compliment.”
 
-“It was to me\! By the way, he looked like he wanted to be anywhere else.”
+“It was to me.”
 
 Taiga smiled.
 
-“That’s just his face.”
-
-Leo laughed.
+Leo rinsed shampoo from his hair.
 
 “Does he like soccer?”
 
-“No, he doesn't.”
+“No.”
 
 “Then why'd he come?”
 
-Taiga rinsed soap from his shoulder.
-
 “Because I asked.”
 
-Simple answer. It felt oddly good. Leo said:
+Simple answer.
 
-“That's even nicer.”
+Leo nodded.
+
+“That's nice.”
 
 “Yeah.”
 
-Taiga shut off the water. Stepped out. Wrapped the towel around himself. Leo's curtain opened a few seconds later. Taiga was pulling on underwear when Leo came out, towel low around his hips, hair dripping. Taiga looked once. Then pulled on his shirt. Leo didn't seem aware. He was talking while drying his hair.
+Taiga shut off the water. Stepped out. Wrapped the towel around himself.
 
-“Some people are going to get food. I think Aaron's trying to convince Sofia to come, which means he'll spend forty minutes pretending he's not trying to sit next to her.”
+Leo's curtain opened a few seconds later. Taiga was pulling on underwear when Leo came out, towel low around his hips, hair dripping. Taiga looked once. Then pulled on his shirt.
+
+Leo was talking while drying his hair.
+
+“Enzo's organizing food. Tacos, I think. Aaron's trying to convince Sofia to come, which means he'll spend forty minutes pretending he's not trying to sit next to her.”
 
 Taiga put on his shirt.
 
@@ -1430,59 +1612,25 @@ Taiga put on his shirt.
 
 Leo paused.
 
-“Uh…”
-
-He counted on his fingers.
-
-“Me. Aaron. Evan. Mia. Sofia maybe. Enzo. Possibly Scott.”
-
-“That's seven.”
-
-“Possibly six.”
+“Uh… eight? Maybe seven.”
 
 “Still a lot.”
 
 Leo shrugged.
 
-“I guess? It’s a rather normal group size.”
+“Fair. But it's not a party. We eat, Enzo declares something illegal about food, Scott says four words, then everyone leaves.”
 
-Leo paused.
+Taiga snorted.
 
-“Do people scare you that much?”
+“That does sound accurate.”
 
-“They don’t scare me, they annoy me.”
+Leo looked at him.
 
-“So you’ll keep avoiding them?”
+“Come once. If you hate it, you never have to do it again.”
 
-“That’s how I’ve survived so far.”
+Taiga hesitated.
 
-Leo paused again.
-
-“You didn’t seem annoyed by your roommate, though.”
-
-Taiga considered.
-
-“Okay. Most of them.”
-
-“That’s an improvement.”
-
-“That doesn’t mean anything, though.”
-
-“I wasn’t implying. Just… come once?”
-
-Taiga didn’t expect that. Leo sounded like he actually wanted Taiga there.
-
-“I already see you guys three times per week.”
-
-“Then what’s a couple of hours more?”
-
-Taiga hesitated.   
-Leo spotted that immediately.
-
-“If you hate it, you can always come back home and never try again.”
-
-Taiga considered. Actually considered. Somehow Leo made it under his skin. Which annoyed him.  
-He was tired. Caleb and Maya were outside somewhere. He could just go back. But six wasn't forty. And he was hungry enough to eat furniture.
+He was tired. Caleb and Maya were outside somewhere. He could just go back. But seven wasn't forty. And he was hungry enough to eat furniture.
 
 “Where exactly?”
 
@@ -1494,15 +1642,33 @@ Taiga immediately knew which place.
 
 “All right, fine.”
 
-Leo smiled.
-
 “Cool.”
 
-He went back to drying his hair.
+No victory lap. Leo just went back to drying his hair.
 
 ---
 
-It ended up being eight people. Taiga almost turned around. Then he saw the tables outside and realized they could spread out. Fine. He sat at one end beside Evan. Sofia sat across from Aaron. Aaron looked far too pleased about this. Leo took a seat beside Taiga. Mia arrived late, carrying her laptop. Leo immediately pointed.
+It ended up being eight people. Taiga almost turned around. Then he saw the tables outside and realized they could spread out. Fine.
+
+Enzo had somehow taken control of two tables before everyone even arrived.
+
+“Forty-one! Here. Strategic seating.”
+
+Taiga stopped. “What does that mean?”
+
+“It means if Aaron sits across from Sofia, he will stop pretending this dinner is not about Sofia.”
+
+Aaron, behind him, said, “I can hear you.”
+
+“That is intentional.”
+
+Sofia laughed and sat wherever she wanted.
+
+Taiga took a seat at one end beside Evan. Gav sat across from him. Scott took the far corner and immediately started reading the menu in silence.
+
+Leo dropped into the chair beside Taiga. Mia arrived late, carrying her laptop.
+
+Leo immediately pointed.
 
 “No.”
 
@@ -1540,7 +1706,25 @@ Leo raised both hands.
 
 “That's better.”
 
-Mia sat across from Leo and Taiga, then put the laptop under her chair. Leo smiled triumphantly. Then his phone buzzed. He checked it. His expression changed.
+Mia sat and put the laptop under her chair.
+
+Enzo watched this, scandalized.
+
+“We have rules now? I wasn't consulted.”
+
+Gav opened a sauce packet. “That's why they work.”
+
+Enzo stared at him. “Betrayal from leadership.”
+
+Scott said, without looking up, “Order food.”
+
+Enzo pointed at him. “See? Tyranny.”
+
+Scott kept reading.
+
+The food arrived.
+
+Leo's phone buzzed. He checked it. His expression changed.
 
 “Oh, shit.”
 
@@ -1562,23 +1746,15 @@ Leo checked the time. 7:11.
 
 “Oh, shit.”
 
-Mia exhaled
+Enzo slapped the table. “THE CALENDAR HAS CLAIMED ANOTHER VICTIM.”
+
+Mia exhaled.
 
 “I thought it was tomorrow.”
 
 Leo covered his face.
 
 “Okay, that's bad.”
-
-Taiga smiled.
-
-“Very organized.”
-
-“Shut up.”
-
-Mia said: 
-
-“What are you going to do now?”
 
 Aaron said:
 
@@ -1592,37 +1768,41 @@ Aaron started laughing. Mia said:
 
 “Oh my God.”
 
-Leo looked genuinely horrified for approximately two seconds. Then he grinned.
+Sofia leaned back. “You are impossible.”
 
-“Okay. Good news.”
+Gav asked, “What time did you tell Gabe?”
 
-Sofia raised an eyebrow.
+“Eight.”
 
-“There is no good news.”
+“What time did you tell Jonah?”
 
-“I have discovered that time is a finite resource.”
+“Six-thirty.”
+
+Gav looked at the clock.
+
+“So you've already missed one and you're about to be late to the other.”
+
+Leo pointed at him. “This is why I don't come to you for emotional support.”
 
 Scott said:
 
-“You're an idiot.”
+“Good choice.”
 
-Leo pointed.
+Everyone laughed.
 
-“Constructive feedback only.”
-
-Everyone laughed. Then Leo's phone buzzed again. He looked.
+Leo's phone buzzed again. He looked.
 
 “Gabe.”
 
-Leo answered immediately.
+He stood and answered immediately.
 
-“Hey\! Happy birthday\!”
+“Hey! Happy birthday!”
 
-He stood and walked a few feet away. Still smiling. Still talking. Taiga watched without meaning to. Leo gestured with one hand while apologizing. From what Taiga could hear, he was trying to rearrange his entire evening in real time. Movie night first. Birthday after. Apparently something else Sunday morning. Mia leaned toward Taiga.
+He walked a few feet away, already apologizing and rebuilding his evening in real time.
+
+Mia leaned toward Taiga.
 
 “He does this constantly.”
-
-Taiga looked at her.
 
 “What?”
 
@@ -1638,11 +1818,11 @@ Mia laughed.
 
 “You'd have to ask him.”
 
-Taiga watched Leo for another second. 
+Taiga watched Leo for another second.
 
 “Must be hard for you to keep up with him.”
 
-Mia frowned 
+Mia frowned.
 
 “Why me, specifically?”
 
@@ -1656,59 +1836,51 @@ Mia looked at him as if he had just said the most ridiculous thing in the world.
 
 Taiga felt his ears getting red.
 
-“Oh, sorry. Team was talking about you two getting dinner, so I assumed.”
+“Oh. Team was talking about you two getting dinner, so I assumed.”
 
-Mia glanced toward Enzo with a very angry look.
+Mia glanced toward Enzo.
 
-“That’s your fault.”
+Enzo, somehow aware of being implicated from three seats away, raised both hands.
 
-“Hey, not my fault Leo gets provoked so easily\!”
+“I report facts. What people do with them is beyond my jurisdiction.”
 
-Mia turned back to Taiga, exhaling.
+Mia turned back to Taiga.
 
-Mia sighed. “No, we’re not dating. We became friends because we share some classes. Plus, I think he’s not into girls. Luckily for me, I’m safe.”
+“No, we're not dating. We became friends because we share some classes. Plus, I think he's not into girls. Luckily for me, I'm safe.”
 
-Not dating. Noted. Maybe not into girls. Also noted.  
-Taiga became even redder.
+Not dating. Maybe not into girls.
 
-“Okay, too much information?”
+Taiga nodded once.
 
-“Just wanted to clear any remaining doubt. If rumors concerning something between me and Leo start to spread, I might not survive.”
+“Got it.”
 
-“Okay, sorry.”
+Mia looked at him for a second, then mercifully moved on.
 
-“Don’t be, Enzo should. Anyways, what about you?”
+“What about you? Anyone?”
 
-“What about me?”
-
-Mia lowered her voice.
-
-“Are you with someone?”
+Taiga looked at her.
 
 “Why do you ask?”
 
-“It’s called casual conversation. People do it generally. But I understand if it’s private.”
+“Casual conversation. But you can also tell me to mind my business.”
 
-Taiga was very tempted to say that it was. Then he remembered what Leo said. *Give us a chance*.
+Taiga considered.
 
-“I’m not dating anyone.”
+“I'm not dating anyone.”
 
-“Anyone on the radar though? Lots of pretty girls here on campus.”
+Mia nodded.
 
-Taiga didn’t answer immediately. Mia continued
+“Fair enough.”
 
-“And boys, of course.”
+Then Sofia asked her something about a class, and the conversation moved away before Taiga had to provide anything else.
 
-Now his face was definitely red.  
-He couldn’t bring himself to answer immediately.  
-Mia chuckled, but let him off the hook.  
-Eventually, Leo returned.
+Leo returned.
 
 “Okay. Solved.”
 
-Scott said:
+Scott looked up.
 
-“How exactly?”
+“How?”
 
 “Movie setup until eight-thirty. Birthday after.”
 
@@ -1730,13 +1902,33 @@ Leo smiled.
 
 “Not today.”
 
-Dinner continued. The conversation moved constantly. Not every sentence was funny. Mostly it was ordinary. Aaron talked about Sofia's match. Sofia corrected almost every detail. Evan complained about a statistics professor. Mia told a story about her roommate accidentally sending a private voice message to a class group. Scott argued that campus housing should allow electric kettles. Taiga contributed here and there. Nobody demanded more. At one point the conversation split into three smaller ones.
+Dinner continued. The conversation moved constantly. Not every sentence was funny. Mostly it was ordinary.
 
-Taiga ended up talking to Evan about Northbridge. Evan explained how the right-back had been baiting him into wide runs. Taiga listened. Then Sofia leaned over and asked:
+Aaron talked about Sofia's match. Sofia corrected almost every detail. Evan complained about a statistics professor. Mia told a story about her roommate accidentally sending a private voice message to a class group. Enzo declared the salsa “cowardly” and requested something hotter. Scott argued that campus housing should allow electric kettles, using fewer words than everyone else used to disagree with him. Gav mostly listened, occasionally correcting facts or dragging a conversation back when Enzo sent it somewhere useless.
+
+Taiga contributed here and there. Nobody demanded more.
+
+At one point the conversation split into three smaller ones.
+
+Taiga ended up talking to Evan about Northbridge. Evan explained how the right-back had been baiting him into wide runs.
+
+“You beat him when you stopped treating the sideline like the only direction available,” Evan said.
+
+Taiga nodded. “Gav said the same thing before training.”
+
+“Then maybe listen to both of us and save Mercer some blood pressure.”
+
+Across from them, Gav heard his name.
+
+“I don't care who gets credit if he stops running into the fullback.”
+
+Taiga flipped him off. Gav smiled into his drink.
+
+Then Sofia leaned over.
 
 “You're new to organized soccer, right?”
 
-“Yeah, I am.”
+“Yeah.”
 
 “How new?”
 
@@ -1744,33 +1936,19 @@ Taiga ended up talking to Evan about Northbridge. Evan explained how the right-b
 
 She stared.
 
-“Are you serious?”
+“Seriously?”
 
-Taiga immediately disliked the surprise.
+Taiga's shoulders tightened automatically.
 
-“Yeah.”
+Sofia noticed.
 
-Sofia seemed to notice.
-
-“I'm not saying that like you were bad.”
+“I'm not saying you were bad. I thought you'd played club.”
 
 Taiga relaxed a little.
 
-“I know.”
-
-“I thought you'd played club.”
-
-“No.”
-
-“What did you play?”
-
-“Whatever was around. School. Camp. Friends.”
-
-Sofia nodded.
+“No. School. Camp. Friends.”
 
 “That explains the way you defend.”
-
-Taiga frowned.
 
 “What does that mean?”
 
@@ -1784,8 +1962,6 @@ She took a drink.
 
 “You don't always need to win the ball. Sometimes just force them somewhere.”
 
-Taiga thought about it.
-
 “Mercer keeps saying that.”
 
 “He's right.”
@@ -1796,13 +1972,25 @@ Sofia smiled.
 
 “You hate that.”
 
-Taiga laughed.
-
 “Usually.”
 
-Suddenly, Leo tapped his shoulder:
+Enzo leaned across from farther down the table.
 
-Taiga turned. Leo pointed at him.
+“Do not listen to defenders. Their entire philosophy is fear.”
+
+Sofia looked at him.
+
+“You play winger.”
+
+“Exactly. Freedom.”
+
+Gav said, “You tracked back forty yards today.”
+
+Enzo pointed at him. “Under protest.”
+
+Taiga laughed.
+
+Then Leo tapped his shoulder.
 
 “Mia says her repo is trying to kill her.”
 
@@ -1816,11 +2004,11 @@ Taiga raised his eyebrows.
 
 “Sounds terrible. Also, not surprising.”
 
-“Precisely!”
+“Precisely.”
 
-Then he turned back to Mia 
+Leo turned back to Mia.
 
-“So tomorrow we’ll go ghostbusting your repo.”
+“So tomorrow we'll go ghostbusting your repo.”
 
 Mia gave him a look.
 
@@ -1830,9 +2018,9 @@ Mia gave him a look.
 
 Leo looked at Taiga.
 
-“Right. Sorry. I skipped an important step there. Do you *want* to look at it tomorrow? You can also say no and I will tell Mia she has to face the consequences of her own commits.”
+“Right. Sorry. Skipped a step. Do you want to look at it tomorrow? You can say no and Mia can face the consequences of her own commits.”
 
-Taiga considered. Again, actually considered. Somehow, this time the answer was easier.
+Taiga considered.
 
 “Yeah, I can look.”
 
@@ -1844,15 +2032,15 @@ Mia frowned.
 
 Leo grinned.
 
-“Great. Look at that. Consent-based debugging.”
+“Great. Consent-based debugging.”
 
 Taiga pointed at him.
 
 “You're making it worse.”
 
-“Probably, yeah.”
+“Probably.”
 
-Scott, two seats down, checked the time.
+Scott checked the time.
 
 “Mendez. Movie setup.”
 
@@ -1868,17 +2056,27 @@ Mia said, “You booked dinner and setup back-to-back again.”
 
 “That is how calendars work.”
 
-“No, that's how *numbers* work.”
+“No, that's how numbers work.”
 
 Leo was already standing and shoving his chair in.
 
 “I can make it. Ten-minute walk, six if I commit crimes against pedestrian etiquette.”
 
-“Please don't.”
+Scott said, “Seven.”
 
-“I said *if*.”
+Leo looked at him. “What?”
 
-He slung his bag over one shoulder, pointed at Taiga and Mia.
+“Fastest I've done it.”
+
+Everyone stared.
+
+Enzo slowly pointed at Scott. “There is lore.”
+
+Scott picked up his drink.
+
+“No.”
+
+Leo laughed, slung his bag over one shoulder and pointed at Taiga and Mia.
 
 “Tomorrow. Repo exorcism. Text me if the plan changes.”
 
@@ -1890,7 +2088,9 @@ Then at everyone else:
 
 “Then tell him time is socially constructed.”
 
-Leo headed off at a fast walk—not running, but close enough that the distinction was mostly legal. Sofia watched him go.
+Leo headed off at a fast walk—not running, but close enough that the distinction was mostly legal.
+
+Sofia watched him go.
 
 “He does that to himself.”
 
@@ -1898,8 +2098,23 @@ Mia nodded.
 
 “Every week.”
 
-Taiga smiled. Public Leo made more sense now. Taiga still did not understand him. But the brightness wasn't effortless in the way Taiga had initially assumed. It was fast. Always moving. Always another person, class, practice, favor, plan. The difference was that Leo usually kept the whole ridiculous machine running. Mostly by knowing too many people and apparently believing twenty minutes was a reasonable amount of time between opposite sides of campus.   
-Taiga wasn't sure why he found that interesting. Maybe because it was the exact opposite of how he generally behaves. Maybe because everyone had seemed so complete when he'd first arrived. Olympus students. Soccer players. People with plans. People who knew what they were doing. Five weeks in, the truth looked less impressive and more useful. Everyone was improvising. Some people were simply louder about it.
+Enzo took one of Leo's abandoned fries.
+
+“Natural selection.”
+
+Gav slapped his hand away. “That's his.”
+
+“He has left the territory.”
+
+“He's coming back.”
+
+“Possession requires presence.”
+
+Scott said, “Thief.”
+
+Enzo put the fry back.
+
+Taiga smiled.
 
 ---
 
@@ -1971,7 +2186,9 @@ He dropped it into Taiga's laundry basket. Taiga sat on his own bed. Maya recove
 
 “Was it actually good?”
 
-Taiga thought. Dinner. People talking. Leo trying to fit three hours of life into two. Sofia giving him defensive advice. Aaron being Aaron. Mia being invasive. Just food after a match.
+Taiga thought. Dinner. People talking. Enzo turning sauce into politics. Scott saying almost nothing and somehow still participating. Gav cutting through nonsense. Sofia giving him defensive advice. Evan talking football. Aaron being Aaron. Mia being invasive. Leo trying to fit three hours of life into two.
+
+Just food after a match.
 
 “Yeah,” he said.
 
@@ -1985,7 +2202,7 @@ Caleb turned.
 
 “You're not going to say anything about me admitting I had a good time?”
 
-“No, I'm not.”
+“No.”
 
 “Why not?”
 
@@ -2021,7 +2238,11 @@ Maya kicked his chair. Caleb looked at her.
 
 “You deserved it.”
 
-Taiga lay back on his bed. His legs ached. His shoulder hurt. The bruise on his hip had darkened. Tomorrow he would probably wake up feeling like he'd been hit by a truck. Worth it. His phone buzzed. Camp Buddy group. Keitaro.
+Taiga lay back on his bed. His legs ached. His shoulder hurt. The bruise on his hip had darkened. Tomorrow he would probably wake up feeling like he'd been hit by a truck.
+
+Worth it.
+
+His phone buzzed. Camp Buddy group. Keitaro.
 
 **Keitaro:** RESULT???
 
@@ -2033,9 +2254,16 @@ Then, after a second:
 
 **Taiga:** started. 82 mins. assist.
 
-He watched the typing indicators appear. All of them. At once. He already knew what was coming. Hiro would overreact. Keitaro would send hearts. Hunter would say something sincere enough to make Taiga uncomfortable. Natsumi would congratulate him properly. Yoichi would call him Messi and then immediately insult his height. Taiga put the phone face down. Let it buzz. He'd read them in a minute. For now the room was warm.
+He watched the typing indicators appear. All of them. At once. He already knew what was coming. Hiro would overreact. Keitaro would send hearts. Hunter would say something sincere enough to make Taiga uncomfortable. Natsumi would congratulate him properly. Yoichi would call him Messi and then immediately insult his height.
 
-Maya and Caleb were arguing quietly about whether a bridge could be aesthetically ugly but structurally elegant. Rain had started again outside. His boots were drying near the radiator. His first start was over. He had made a mistake that led to a goal. He had not fixed it immediately. He had played another fifty minutes. They had won. Taiga lay there and let them be true.
+Taiga put the phone face down. Let it buzz. He'd read them in a minute.
+
+For now the room was warm.
+
+Maya and Caleb were arguing quietly about whether a bridge could be aesthetically ugly but structurally elegant. Rain had started again outside. His boots were drying near the radiator.
+
+His first start was over. He had made a mistake that led to a goal. He had not fixed it immediately. He had played another fifty minutes. They had won.
+
+Taiga lay there and let them be true.
 
 ---
-
