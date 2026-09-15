@@ -1600,7 +1600,7 @@ Leo raised one hand.
 
 “Working on it.”
 
-Taiga offered a hand. Leo grabbed it. Taiga pulled. Leo's palm was cold. His grip stronger than expected. Up. Simple. Then Leo looked at Taiga's shirt.
+Taiga offered a hand. Leo grabbed it. Taiga pulled. Leo's palm was cold. His grip stronger than expected. Then Leo looked at Taiga's shirt.
 
 “You're covered.”
 
@@ -1718,15 +1718,11 @@ Taiga smiled.
 
 Hiro appeared in the group chat long enough to call him a nerd. Eduard declared that the group finally had somebody qualified to repair whatever Lee did to their router; Lee responded with a technical defense of the router incident that somehow made him sound guiltier.
 
-No one treated the declaration like a permanent identity.
-
 Taiga looked back at the form. Computer Science was simply the subject whose next courses he had already saved before anyone asked him to. That seemed like enough information.
 
 He pressed **Submit**.
 
 **PROGRAM DECLARATION SUBMITTED**
-
-He stared at the confirmation number, then sent a screenshot to the group. Congratulations arrived in different forms: Keitaro's heart, Hiro's abuse, Natsumi reminding him that changing direction later would not make this choice wrong, and Lee observing that Taiga's “disproportionate irritation with inefficient systems” appeared professionally relevant.
 
 Taiga messaged Caleb.
 
@@ -1754,21 +1750,8 @@ Then:
 
 Fair.
 
-Lina claimed partial ownership of the grade because she had found one bug. Mia celebrated the final one-map design. Leo, apparently informed by Mia, sent:
-
-**Leo:** 88 nice  
-**Leo:** i got 82  
-**Taiga:** duplicated filter?  
-**Leo:** duplicated filter :(  
-**Leo:** rao wrote “you have already solved this problem once”  
-**Taiga:** deserved  
-**Leo:** cruel  
-**Leo:** congrats on cs btw  
-**Taiga:** thanks
-
-Leo reacted with a sun emoji.
-
-Taiga put the phone down. Eighty-eight. A bug Lina had found. A design he had simplified because somebody else had a point. None of that made him want the subject less.
+Lina claimed partial ownership of the grade because she had found one bug. Mia celebrated the final one-map design. 
+Eighty-eight. A bug Lina had found. A design he had simplified because somebody else had a point.
 
 He opened Political Institutions instead. Computer Science could wait until Monday. For once, it did.
 
