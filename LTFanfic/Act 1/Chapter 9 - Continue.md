@@ -1473,27 +1473,15 @@ Taiga frowned.
 
 “You told Mia you couldn't help with something Saturday because you had a train.”
 
-“When exactly?”
-
-“Thursday.”
-
 Taiga thought. Right. Mia had asked if he could look at a weird test issue after lab.
 
 “Hunter's exhibition.”
 
-“The camp friend?”
+“Hunter?”
 
-Taiga looked at him.
-
-“Yeah.”
+"One of my camp friends, he's in a art school"
 
 Leo nodded.
-
-“The art-school one.”
-
-Again. He remembered. Taiga had mentioned Hunter enough. Probably.
-
-“Yeah.”
 
 “What kind of art?”
 
@@ -1533,7 +1521,8 @@ Leo paused.
 
 “That might count as self-harm.”
 
-Taiga laughed. Then the conversation kept going. Leo asked how Taiga knew Hunter. Taiga said camp. Obviously. Leo asked whether all the people in the group chat were from the same camp. Mostly. Then Taiga had to explain that Camp Buddy wasn't exactly the kind of place where everybody spent all year together. Summer meant everybody returned for a month; the rest of the year scattered them across schools, work, art programs, whatever lives they had outside the cabins.
+Taiga laughed. Then the conversation kept going. Leo asked lots of stuff about camp and his friends. 
+Taiga told him about having been there for two summers in a row and after the second, he stayed a bit more to help.
 
 Leo listened. Actually listened. No constant interruption. Just occasional questions.
 
@@ -1541,47 +1530,41 @@ Leo listened. Actually listened. No constant interruption. Just occasional quest
 
 Taiga laughed.
 
-“No, I wasn't.”
+“No, not exactly”
 
 “That sounded emphatic.”
 
-“Yoichi and I spent a long time trying to kill each other.”
+“On my first term, I only knew Eduard, Lee and a couple of others. Yoichi and Natsumi were also there, but we didn't talk much. This summer however, things changed.”
 
 Leo's eyebrows rose.
 
-“Literally?”
+“How so?”
 
-“No.”
+Taiga took a long breath before answering
 
-“Okay, then.”
+“I'm not going into details, let's just say I was not in my best mindset.”
 
-“For the most part.”
+Leo waited
 
-Leo stared. Taiga smiled.
+"Term started. I was always with Lee and Eduard. Then, Keitaro and Hiro joined a few weeks later on."
 
-“I'm joking.”
+Taiga stopped one second, then continued
 
-“I genuinely couldn't tell.”
+"Let's just say that me and Keitaro didn't exactly see things eye to eye back then. We spent almost the entire term fighting over stupid shits. By then, Keitaro had already become friends with Natsumi, Hunter and somehow Yoichi."
 
-“That makes it better.”
+Again, Leo didn't interrupt him. He gave him time.
 
-He told him about Yoichi. Not everything. A small story. One summer afternoon when Yoichi had decided he could repair a broken canoe rack faster than Taiga, refused help, dropped half of it into mud and then blamed the ground. Leo laughed.
+"Somehow, things worked out in the end, and I managed to become friends with all of them."
 
-“He sounds like Enzo.”
+Leo stared for a couple of second.
 
-“No. Enzo talks more.”
+"Okay, I won't pretend that I caught every passage, but I think I have the big picture set in place."
 
-“That's terrifying.”
+Taiga went silent for a second.
 
-“And Yoichi's meaner.”
+"I owe Keitaro very much"
 
-“Friend?”
-
-Taiga looked at the dark glass. His reflection looked back.
-
-“Yeah.”
-
-The word came easily now. Leo nodded. Then Taiga mentioned Keitaro. That became harder to summarize.
+“He sounds like a very good friend.”
 
 “He's—”
 
@@ -1634,8 +1617,6 @@ Taiga nodded. That he understood. Leo continued.
 “Preseason was weird, though. Enzo was the one familiar thing, and everything else was new. I had this plan where I was going to look calm and professional and not talk too much.”
 
 Taiga stared.
-
-“You?”
 
 “I know. Completely unrealistic.”
 
@@ -1713,7 +1694,7 @@ Leo nodded.
 
 “I do.”
 
-“Use it.”
+“Then why don't you use it?”
 
 Leo smiled.
 
@@ -1769,23 +1750,13 @@ Taiga changed shirt. His phone vibrated. Apollo group chat. Enzo had posted phot
 
 **Enzo:** ARCADIA VICTORY NIGHT
 
-Gav:
-
 **Gav:** You won two games.
-
-Enzo:
 
 **Enzo:** most important two
 
-Scott:
-
 **Scott:** I won racing.
 
-Enzo:
-
 **Enzo:** nobody remembers second-order details
-
-Scott:
 
 **Scott:** The results are in the photo.
 
@@ -1793,15 +1764,9 @@ Aaron posted the photo of Sofia destroying him at basketball. Sofia reacted with
 
 **Mia:** julian says roberto is ugly
 
-Enzo:
-
 **Enzo:** who the fuck is julian
 
-The chat exploded. Taiga laughed. Caleb looked over.
-
-“Soccer?”
-
-“Yeah.”
+The chat exploded. Taiga laughed. 
 
 Taiga scrolled. There was the shooter photo. Leo leaning forward beside him. Taiga's shoulder almost against Leo's. Both focused on the screen. Taiga saved it, then the group shot, Scott looking dead, Aaron losing at basketball, Enzo holding the shark.
 
