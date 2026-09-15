@@ -370,8 +370,6 @@ Taiga looked at him.
 
 “I know.”
 
-The fact that Leo said it without making anything out of it made Taiga relax before he noticed he had been prepared not to.
-
 His phone buzzed beside the laptop. Athletics. He looked at the notification immediately.
 
 **DEVELOPMENTAL REVIEW — THURSDAY 17:30**
@@ -778,55 +776,55 @@ Taiga had training first, which made the entire session feel fake. Everyone else
 
 By the end of warm-up, he had internally constructed a case both for and against his continued existence on the roster.
 
-Aaron fell into step beside him during a recovery run.
+Evan fell into step beside him during a recovery run.
 
-“You've got the review today, right?”
+“Review today?”
 
 Taiga looked over. “How does everybody know?”
 
-“There's a schedule on the locker-room board.”
+“Schedule's on the locker-room board.”
 
 “Oh. Right.”
 
-Aaron laughed. “You're going to be fine.”
+Evan glanced at him. “You look worse now than when Mercer threw you out of the grid.”
 
-“You don't know that.”
+“Helpful.”
 
-“No, but you started Saturday and played eighty minutes. Mercer isn't exactly subtle when he thinks somebody's useless.”
+“I'm serious. Stop reading every whistle like a verdict.”
 
-Taiga glanced toward the coach. Mercer was currently shouting at a midfielder. Fair.
+Taiga gave him a look.
 
-Aaron continued, less joking now. “You've gotten a lot better, man. First week you were basically sprinting toward whatever moved. Now you occasionally sprint in the correct direction.”
+Evan continued, matter-of-fact. “First week, you chased the ball, the man, and sometimes whatever happened to move nearest you. Now I can actually show you outside and trust you not to launch yourself at my first touch.”
 
-Taiga stared.
+“That started almost nice.”
 
-“That started nice.”
+“It is nice.” Evan shrugged. “You've gotten better. A lot. Doesn't mean Mercer is about to put you in the Champions League.”
 
-“It was nice. I added context.”
+“I wasn't expecting that.”
 
-“Your support needs work.”
+“Good. Then quit looking like you're awaiting sentencing.”
 
-“I'll put it on my review.”
+They reached the line.
 
-They reached the line. Leo was already there talking to Evan and Enzo.
+Aaron was already there with Leo and Enzo.
 
 “You were absolutely offside,” Leo said.
 
-“I was not.”
+Enzo put a hand to his chest. “I reject the accusation. The defender stepped into *my* run. That is entrapment.”
 
-“You were behind the center-back before Gav even passed.”
+“That is not how offside works.”
 
-“That is a tactical interpretation.”
+“It should be.”
 
-Enzo looked at Taiga and Aaron as they approached.
+Enzo spotted Taiga and Evan approaching.
 
-“Tell him.”
+“Forty-one. Senior witness. Tell him.”
 
 Taiga stopped. “Tell him what?”
 
-“That if the defender is stepping up while I start my run, I'm not offside.”
+“That the fullback sabotaged an otherwise beautiful action.”
 
-Leo stared at him. “That is not what happened.”
+Leo stared at him. “He was behind the center-back before Gav even passed.”
 
 Taiga looked between them.
 
@@ -838,7 +836,7 @@ Leo pointed at him. “Thank you. Neutral witness.”
 
 Mercer blew the whistle.
 
-“Unless the four of you are planning to litigate this, move.”
+“Unless the five of you are planning to litigate this, move.”
 
 The group split into position work. For most of training, Leo did what he always did. Called for the ball. Talked. Encouraged people. Argued briefly with Enzo about a run. Listened immediately when Mercer corrected his starting position, then did it correctly the next time.
 
@@ -847,6 +845,10 @@ During an eleven-versus-eleven sequence, Taiga drifted too wide. Leo called from
 “Forty-one, come in two!”
 
 Taiga moved inside. The passing lane opened. Ball came. One touch. Return. Leo spun away from pressure and switched play.
+
+From behind them, Scott's voice carried from goal.
+
+“CARTER, STEP! BENNETT, TUCK! KEEP THE LINE!”
 
 Mercer shouted, “Good!”
 
@@ -1154,7 +1156,25 @@ Taiga laughed.
 
 Mercer entered before Leo could answer.
 
-On the field, the jokes disappeared into instructions. Leo checked constantly, corrected Enzo's run once, then accepted Gav correcting his own defensive angle two minutes later without arguing.
+On the field, the jokes disappeared into instructions. Scott became the loudest person in the session almost immediately.
+
+“CARTER, STEP!”
+
+“ELLIS, DROP!”
+
+“SECOND BALL!”
+
+Enzo shouted almost as much, but never about the same things.
+
+“LEO, IF YOU STEAL MY RUN AGAIN I AM FILING PAPERWORK!”
+
+“Make a better run!” Leo shouted back.
+
+Gav ignored both of them until Leo's defensive angle opened a lane through midfield.
+
+“Leo. Two steps inside.”
+
+Leo moved without argument.
 
 Mercer stopped an eleven-versus-eleven sequence.
 
@@ -1176,15 +1196,15 @@ Mercer nodded. “And if none of those happen?”
 
 Play restarted.
 
-Ten minutes later Leo passed Taiga during a stoppage.
+Ten minutes later Evan passed Taiga during a stoppage.
 
-“You got it.”
+“Didn't have to yell at you once.”
 
-“Eventually.”
+“Give it time.”
 
-“Still got it.”
+Evan grinned. “Progress.”
 
-Then he was gone again.
+Then he moved off to reset.
 
 At the end of training, Taiga stayed to collect cones because he was closest when Mercer asked. Leo was loading balls into the equipment cart.
 
@@ -1192,15 +1212,9 @@ At the end of training, Taiga stayed to collect cones because he was closest whe
 
 “News travels fast.”
 
-“Aaron told half the House. Congrats, though. I mean it.”
+“Enzo announced it to half the House. Congrats, though. I mean it.”
 
 “Thanks.”
-
-“You looked tense all week.”
-
-Taiga glanced over. “Was it that obvious?”
-
-“A little.”
 
 They pushed the cart toward storage.
 
@@ -1359,4 +1373,3 @@ Leo jogged back toward the clinic before Taiga could say anything else. The kid 
 Taiga picked up his bag.
 
 Behind him, Leo was still arguing with an eleven-year-old about the rules.
-
