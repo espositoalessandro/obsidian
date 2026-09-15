@@ -1544,7 +1544,7 @@ Taiga took a long breath before answering
 
 “I'm not going into details, let's just say I was not in my best mindset.”
 
-Leo waited
+Leo waited.
 
 "Term started. I was always with Lee and Eduard. Then, Keitaro and Hiro joined a few weeks later on."
 
@@ -1552,23 +1552,25 @@ Taiga stopped one second, then continued
 
 "Let's just say that me and Keitaro didn't exactly see things eye to eye back then. We spent almost the entire term fighting over stupid shits. By then, Keitaro had already become friends with Natsumi, Hunter and somehow Yoichi."
 
-Again, Leo didn't interrupt him. He gave him time.
+Again, Leo didn't interrupt him.
 
-"Somehow, things worked out in the end, and I managed to become friends with all of them."
+"Somehow, things worked out in the end and I managed to become friends with all of them."
 
 Leo stared for a couple of second.
 
-"Okay, I won't pretend that I caught every passage, but I think I have the big picture set in place."
+"Okay, I won't pretend that I grasped every passage, but I think I have the big picture set in place."
 
-Taiga went silent for a second.
+"Deal with it."
 
-"I owe Keitaro very much"
+Leo smiled. Taiga went silent for a second.
+
+"I owe Keitaro very much."
 
 “He sounds like a very good friend.”
 
 “He's—”
 
-Taiga stopped. Leo waited.
+Taiga stopped. 
 
 “Annoying.”
 
@@ -1676,7 +1678,7 @@ Taiga smiled. Leo laughed.
 
 “Okay. I had fun. Better?”
 
-“Sure, why not.”
+“Better.”
 
 “You?”
 
@@ -1685,8 +1687,6 @@ Taiga looked toward the residence path.
 “Yeah.”
 
 Leo nodded.
-
-“Cool.”
 
 “Night, forty-one.”
 
@@ -1702,7 +1702,7 @@ Leo smiled.
 
 Taiga felt something small and stupid in his stomach.
 
-“Good night.”
+“Night.”
 
 Leo headed toward Apollo. Taiga walked the other way.
 
