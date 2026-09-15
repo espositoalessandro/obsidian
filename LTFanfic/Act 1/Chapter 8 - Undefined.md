@@ -1826,21 +1826,33 @@ Taiga laughed quietly.
 
 **Leo:** cruel
 
-Taiga put the phone down.
+A moment later, another message appeared.
 
-It buzzed again almost immediately.
+**Leo:** at least registry's over
+**Leo:** until data structures finds a worse way to ruin our week
 
-**Leo:** you sticking with cs then?
+Taiga looked at that one for a second.
 
-His hand stopped.
+**Taiga:** you already looked at data structures?
 
-A week ago, he would have answered *I don't know*. Yesterday, maybe the same.
+**Leo:** mia sent me the course page
+**Leo:** apparently planning ahead builds character
 
-Now there was a confirmation number sitting somewhere in the university system.
+Taiga smiled.
 
-Taiga picked the phone back up.
+**Taiga:** i'm taking it next semester
 
-**Taiga:** actually declared it today
+The reply came quickly.
+
+**Leo:** same
+
+Taiga's thumb stayed over the keyboard.
+
+He could have left it there.
+
+Instead:
+
+**Taiga:** actually declared cs today
 
 Nothing happened for several seconds.
 
