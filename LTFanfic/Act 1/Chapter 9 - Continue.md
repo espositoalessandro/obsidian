@@ -1,4 +1,3 @@
-
 The first thing Taiga noticed about his Calculus midterm was the number.
 
 **84**
@@ -56,12 +55,6 @@ Taiga sank lower. Lina's shoulders moved. He turned.
 “If you laugh, I'll throw your paper away.”
 
 “I am not laughing.”
-
-“You are shaking.”
-
-“Temperature.”
-
-“You brought gloves.”
 
 Chen looked toward them.
 

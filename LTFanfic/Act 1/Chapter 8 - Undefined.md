@@ -1823,7 +1823,6 @@ There was a longer pause.
 Taiga laughed quietly.
 
 **Taiga:** deserved
-
 **Leo:** cruel
 
 A moment later, another message appeared.
@@ -1848,10 +1847,6 @@ The reply came quickly.
 
 Taiga's thumb stayed over the keyboard.
 
-He could have left it there.
-
-Instead:
-
 **Taiga:** actually declared cs today
 
 Nothing happened for several seconds.
@@ -1872,20 +1867,13 @@ The typing indicator appeared.
 **Leo:** welcome officially then 😂
 
 Taiga read the messages twice.
-
-There was no reason for Leo to sound that pleased.
-
-It wasn't his major. It wasn't his decision. They weren't even in the same section.
-
-Still, another message arrived.
+He didn't expect Leo to sound that pleased.
 
 **Leo:** that's genuinely really cool
 **Leo:** we're gonna have so many of the same classes later
 
 Taiga's thumb hovered above the keyboard.
-
 *We're.*
-
 He ignored that.
 
 **Taiga:** assuming you stop duplicating filters
@@ -1899,12 +1887,9 @@ Taiga smiled.
 
 **Taiga:** thanks
 
-Leo reacted to the message with a sun.
-
+Leo reacted to the message with a heart.
 Taiga looked at it for a second.
-
 Then another.
-
 Finally he locked the phone and put it beside the laptop.
 
 Eighty-eight. A bug Lina had found. A design he had simplified because somebody else had a point. A major he had chosen because, when everything else was stripped away, he wanted the next classes.
