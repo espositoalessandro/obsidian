@@ -1271,9 +1271,9 @@ Leo laughed. “You're making it sound like a diplomatic incident.”
 
 Leo shook his head.
 
-“So you go back on breaks?” Taiga asked.
+“So you go back on break?” Taiga asked.
 
-“Usually,” Leo said. “When flights make sense. It's not exactly somewhere you go for two days.”
+“Depends,” Leo said. “When flights make sense. It's not exactly somewhere you go for two days.”
 
 “Which is why,” Enzo said, “if he goes home and I don't, my mother will ask why Leo loves his family more than I love mine.”
 
@@ -1345,25 +1345,17 @@ Gav said, “For good reason.” The table laughed. Mia explained just enough to
 
 “That's friendship.”
 
-Taiga smiled. The conversation moved again. Ten minutes later, Leo stopped contributing to it. Not dramatically. He finished eating, rubbed one thumb against the condensation on his glass and let Enzo and Aaron argue across him without joining in. Enzo noticed first.
+Taiga smiled. The conversation moved again. Ten minutes later, Leo stopped contributing to it. He finished eating, rubbed one thumb against the condensation on his glass and let Enzo and Aaron argue across him without joining in. Enzo noticed first.
 
 “You good?”
 
 Leo nodded.
 
-“Yeah. Just loud in here.”
+“Yeah. Just need the bathroom.”
 
-He stood.
+He stood. Enzo shifted his chair so Leo could pass.
 
-“I'm going outside for five minutes before we leave.”
-
-Nobody made a thing of it. Enzo shifted his chair so Leo could pass.
-
-“Text if we move.”
-
-“Will do.”
-
-Leo disappeared toward the outer terrace. Mia kept explaining why Julian changing restaurants three times was not romantic spontaneity. By the time the bill came, Leo was back. Quieter than before. Fine. The conversation moved again. Nothing lingered.
+Leo disappeared. Mia kept explaining why Julian changing restaurants three times was not romantic spontaneity. By the time the bill came, Leo was back. Quieter than before. Fine. The conversation moved again. Nothing lingered.
 
 ---
 
