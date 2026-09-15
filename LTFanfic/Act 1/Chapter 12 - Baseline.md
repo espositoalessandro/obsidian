@@ -300,13 +300,17 @@ The class laughed. Taiga crossed out one line. Lina saw.
 
 After class, Taiga had twenty minutes before lunch. He spent nineteen of them implementing breadth-first search. The queue was obvious once he saw it. At minute twenty-one, his phone buzzed.
 
-**Aaron:** you coming or what
+**Gav:** meeting at one. you still in academic?
 
-Taiga looked at the time. 12:39. Training meeting at one.
+Taiga looked at the time. 12:39.
 
 “Fuck.”
 
-He saved. Lina, still two seats away, looked over.
+He typed:
+
+**Taiga:** leaving now
+
+Then saved. Lina, still two seats away, looked over.
 
 “I thought you had soccer.”
 
@@ -352,7 +356,15 @@ Mercer waited.
 
 “Again.”
 
-They reset. Next repetition, Taiga checked before the pass. Fullback moving. He came inside. Ball went wide. Mercer said nothing. After ninety minutes, everyone moved into finishing. Taiga's legs were heavy. Senior players rotated back into the same group. Leo ended up two places ahead of him. He turned while waiting and said, “Okay, I have a question, and I need you to answer honestly because Enzo has already betrayed science.” Taiga breathed through his nose.
+They reset. Next repetition, Taiga checked before the pass. Fullback moving. He came inside. Ball went wide. Mercer said nothing. After ninety minutes, everyone moved into finishing. Scott took the first-team goal and became impossible to ignore.
+
+“SECOND BALL!”
+
+“KEEP THE LINE!”
+
+“BENNETT, INSIDE!”
+
+Taiga's legs were heavy. Senior players rotated back into the same group. Leo ended up two places ahead of him. He turned while waiting and said, “Okay, I have a question, and I need you to answer honestly because Enzo has already betrayed science.” Taiga breathed through his nose.
 
 “What?”
 
@@ -398,23 +410,13 @@ Taiga turned.
 
 “Die.”
 
-Leo laughed. Again. After training, the squad sheet went up. Taiga knew it would. He did not hurry. He showered first. Changed. Retied his shoes because the left one felt wrong. Put his wet kit into the laundry bag. Aaron was already by the door when Taiga reached the corridor. There were six people around the sheet. Taiga stopped several feet away. Waited. Nobody moved quickly enough. Finally Enzo stepped aside. Taiga looked.
+Leo laughed. Again. After training, the squad sheet went up. Taiga knew it would. He did not hurry. He showered first. Changed. Retied his shoes because the left one felt wrong. Put his wet kit into the laundry bag. There were six people around the sheet when Taiga reached the corridor. He stopped several feet away. Waited. Nobody moved quickly enough. Finally Enzo stepped aside. Taiga looked.
 
 **AWAY — HELIOS TECH**
 
-Starting eleven. Bench. He scanned once. Then again. No forty-one. Development players traveling: Two names. Neither his. His stomach dropped with such stupid efficiency that for half a second he thought he'd missed something. He read the whole sheet again. Still no. Aaron stood beside him now.
+Starting eleven. Bench. He scanned once. Then again. No forty-one. Development players traveling: Two names. Neither his. His stomach dropped with such stupid efficiency that for half a second he thought he'd missed something. He read the whole sheet again. Still no.
 
-“Hey.”
-
-Taiga looked over. Aaron's expression was neutral. Not pity. Aaron looked over.
-
-“Then don't.”
-
-Aaron nodded.
-
-“Okay, then.”
-
-He left. Taiga looked at the sheet one more time. Saturday had apparently not changed Tuesday. Which was logical. Obviously. One ten-minute appearance did not mean permanent selection. He knew that. Coach Mercer had never said that. Leo had never said that. Nobody had said that. Taiga had simply— Nothing. He walked toward the locker room. Mercer was coming the other direction carrying cones. Taiga nearly kept walking. Then stopped.
+Saturday had apparently not changed Tuesday. Which was logical. Obviously. One ten-minute appearance did not mean permanent selection. He knew that. Coach Mercer had never said that. Leo had never said that. Nobody had said that. Taiga had simply— Nothing. He walked toward the locker room. Mercer was coming the other direction carrying cones. Taiga nearly kept walking. Then stopped.
 
 “Coach.”
 
@@ -770,6 +772,8 @@ Leo:
 
 **Leo:** you screamed “shoot” when i was 30 meters away
 
+Enzo:
+
 **Enzo:** VISION
 
 Taiga typed before thinking:
@@ -906,7 +910,7 @@ Taiga paused. He had mentioned the assignment once. Maybe Saturday. Or film. He 
 
 **Leo:** oh fuck that one
 
-**Leo:** don't track station only, track station \+ current line or it lies to you
+**Leo:** track station + current line or it lies to you
 
 Taiga stopped walking. He stared at the message. That was exactly the problem he had spent twenty minutes circling.
 
@@ -926,23 +930,11 @@ Taiga put the phone away. Station plus current line. Annoyingly useful. Again.
 
 ---
 
-Thursday film began without Leo. Taiga noticed before sitting down. The room was quieter. Enzo was there. Gav. Scott. Aaron. Evan near the back. Taiga took his usual chair. Aaron sat beside him. Taiga opened his notebook. Waited. Mercer was not there yet. Enzo was trying to balance Roberto the stuffed shark on the projector shelf. Gav told him not to. Scott ate something from a plastic container. Still no Leo. Taiga looked at the door.
+Thursday film began without Leo. Taiga noticed before sitting down. The room was quieter. Enzo was there. Gav. Scott. Aaron. Evan near the back. Taiga took his usual chair. Opened his notebook. Waited. Mercer was not there yet. Enzo was trying to balance Roberto the stuffed shark on the projector shelf. Gav told him not to. Scott ate something from a plastic container. Still no Leo. Taiga looked at the door.
 
 Then, before considering whether the question needed to exist, asked:
 
 “Where's Mendez?”
-
-Aaron looked over.
-
-“CS thing.”
-
-Taiga nodded.
-
-“What CS thing?”
-
-Aaron shrugged.
-
-“Presentation? Lab? He was complaining about it.”
 
 Enzo turned from Roberto.
 
@@ -968,7 +960,7 @@ Gav looked over.
 
 “That's good.”
 
-Mercer entered. Conversation ended. Taiga opened his notes. Only then did he realize he had asked twice. Mercer dimmed the lights. Helios footage appeared. Taiga looked at the screen. Leo appeared within thirty seconds. Of course. Mercer froze the play.
+Mercer entered. Conversation ended. Taiga opened his notes. Mercer dimmed the lights. Helios footage appeared. Leo appeared within thirty seconds. Of course. Mercer froze the play.
 
 “Mendez isn't here, so we can insult him freely.”
 
@@ -998,7 +990,7 @@ Taiga wrote it down. Mercer had said it. Obviously. The rest of film moved betwe
 
 By the end, he had nearly forgotten Leo was missing. Nearly. Film ended at seven-oh-eight. Players started leaving. Taiga remained seated long enough to finish one line.
 
-**If RB steps early, bounce inside \+ go behind. Don't force 1v1 just because space looks open.**
+**If RB steps early, bounce inside + go behind. Don't force 1v1 just because space looks open.**
 
 The door opened. Leo came in carrying a laptop under one arm, backpack hanging from one shoulder, expression somewhere between triumph and attempted homicide.
 
@@ -1110,7 +1102,7 @@ Taiga looked at him. Leo laughed.
 
 Taiga stopped packing. Leo kept going, because Leo always kept going.
 
-“And the stupid part was nobody had actually changed anything. Coach hadn't promised me the next match. I hadn't suddenly gotten worse. It was just—once I'd been there, not being there felt different than before I'd ever been there. Like the empty space had a shape now.”
+“And the stupid part was nobody had actually changed anything. Coach hadn't promised me the next match. I hadn't suddenly gotten worse. It was just—once I'd been there, not being there felt different than before I'd ever been there.”
 
 Taiga looked at him. Leo's voice had slowed slightly. Not polished. Still Leo. Then he smiled.
 
@@ -1146,33 +1138,23 @@ Leo looked offended.
 
 Taiga shook his head. Leo hopped off the table.
 
-“But yeah. It sucks. Then it stops sucking. Then you get picked again or you don't, and eventually the first selection becomes a thing that happened instead of proof that every future squad has to include you.”
+“But yeah. It sucked for a while. Then I got picked again.”
 
 Taiga nodded.
 
-“That sounds suspiciously healthy.”
+“That sounds more believable.”
 
-“I've had time to rewrite the story.”
+“Thank you. I edited out the wisdom.”
 
-“Meaning?”
-
-“At the time I was unbearable.”
-
-“More than now?”
+“Much better.”
 
 Leo put a hand over his chest.
 
-“Okay, wow. I came here after surviving academic warfare and chose vulnerability, and this is what I get.”
+“See? Growth.”
 
-“You started it.”
+“Fuck off.”
 
-“I absolutely did not.”
-
-“You called yourself unbearable.”
-
-“Past Leo. Different person. Current Leo is delightful.”
-
-Taiga laughed. They left the film room at the same time. The lounge was quieter than usual. A few people studied at tables. Someone from track was asleep on a couch with headphones on. Roberto had returned to the bookshelf. Leo stopped at the kitchen.
+They left the film room at the same time. The lounge was quieter than usual. A few people studied at tables. Someone from track was asleep on a couch with headphones on. Roberto had returned to the bookshelf. Leo stopped at the kitchen.
 
 “Food?”
 
@@ -1202,7 +1184,7 @@ Taiga laughed.
 
 “It is absolutely the first step toward a refrigerator map.”
 
-They walked downstairs. Outside, the cold hit immediately. Leo shoved both hands into his jacket pockets. His hair was still flattened strangely on one side from whatever he'd done in the CS lab. Taiga noticed. Because it looked stupid. Obviously. Leo talked the entire way to the dining hall. Mostly about the project. Mateo had apparently apologized. Priya had saved the demo. The professor had asked exactly one question about the feature Leo least wanted to explain.
+They walked downstairs. Outside, the cold hit immediately. Leo shoved both hands into his jacket pockets. His hair was still flattened strangely on one side from whatever he'd done in the CS lab. Taiga noticed because it looked stupid. Leo talked the entire way to the dining hall. Mostly about the project. Mateo had apparently apologized. Priya had saved the demo. The professor had asked exactly one question about the feature Leo least wanted to explain.
 
 At one point Leo reenacted the projector failure with enough physical commitment that he nearly walked off the path. Taiga caught the back of his jacket without thinking.
 
@@ -1666,7 +1648,7 @@ Leo closed his eyes.
 
 “Okay. That's not broken. That's Excel being emotionally committed to dates.”
 
-Mia said, without looking up, “Don't help him.”
+Mia said, without looking up, “Leave him to suffer.”
 
 “I have to. Look at him.”
 
@@ -1698,12 +1680,6 @@ Taiga looked around.
 
 “Yes.”
 
-Nora covered a laugh badly. Taiga looked at her.
-
-“That counts as commentary.”
-
-“I know.”
-
 “That is not encouragement.”
 
 “It absolutely is with Leo.”
@@ -1722,11 +1698,7 @@ Taiga narrowed his eyes.
 
 “Nothing important.”
 
-“You said it like Nora.”
-
-“I don't know Nora.”
-
-“Exactly. Bad sign.”
+“Bad answer.”
 
 Mia laughed and returned to her laptop. Taiga checked his tests again. All green. He should submit. He did not. One more look. Then submit. The portal confirmed.
 
@@ -1752,43 +1724,15 @@ Leo stared. Taiga sighed.
 
 “That's good.”
 
+Mia nodded once.
+
 “There we go.”
 
-Taiga gave her a warning look. Nora raised her coffee.
+Taiga gave her a warning look.
 
-“I am observing respectfully.”
+“You've known me for two months.”
 
-“You don't know how.”
-
-Nora gestured toward him with the cup.
-
-“There. You're cataloguing again.”
-
-Leo laughed.
-
-“Wait, is this a known thing?”
-
-Mia slowly looked up.
-
-“Did you just become Caleb?”
-
-Taiga pointed at her.
-
-“Take that back.”
-
-Leo looked between them.
-
-“Wait, is this a known thing? Do I need the lore?”
-
-“No.”
-
-Mia said, “His roommate catalogs expressions.”
-
-“I do not need the lore.”
-
-“You asked.”
-
-“I have learned from my mistake.”
+“Long enough.”
 
 Leo dragged a chair backward with one foot and sat at the end of Taiga's table for no apparent reason.
 
@@ -1896,7 +1840,7 @@ Taiga said, “Community.” Leo pointed at him while standing.
 
 “I always do.”
 
-He went back to Enzo. Taiga watched for approximately half a second. Then looked at his screen. Assignment submitted. Nothing else to do. He opened Calculus instead. This was what university did to people.
+He went back to Enzo. Taiga looked at his screen. Assignment submitted. Nothing else to do. He opened Calculus instead. This was what university did to people.
 
 ---
 
@@ -1904,7 +1848,7 @@ At six-thirty, Taiga left Apollo. Leo was still there. Enzo's spreadsheet had ap
 
 His legs were tired in the satisfying way. Seventy-two minutes. Not first team. Not promotion. Not a failure. Just football. His phone buzzed. Mercer. Not a message. Training update.
 
-**MONDAY — DEVELOPMENT \+ FIRST TEAM COMBINED — 16:00**
+**MONDAY — DEVELOPMENT + FIRST TEAM COMBINED — 16:00**
 
 Taiga stared at it. His stomach moved automatically. Possibility. Selection. Next thing. He almost opened the Athletics page. Then stopped. Monday was two days away. Nothing existed there yet. He put the phone back in his pocket. Room 317 was warm when he entered. Caleb sat at his desk. Maya was on video call, arguing with him about whether the west-corridor transit proposal had underestimated induced demand. Taiga dropped his bag. Maya saw him.
 
