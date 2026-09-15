@@ -366,27 +366,33 @@ The athletic complex sat between the Residential Zone and the dining hall, and T
 
 The pitch stretched bright green beneath the late-afternoon sun. Small stands rose on either side. Beyond them, the glass-fronted athletics center reflected the sky. A team was training. Taiga leaned against the fence. Just for a minute. He had always liked sports. Not in the statistical, encyclopedic way some people did. He couldn't name every player in every league or remember championship tables from six years ago. He liked movement. Competition. Physical problems. Run faster. React sooner. Hit harder. Win the ball. Things the body could answer without needing an emotional committee meeting. A player near midfield received a pass, turned and accelerated between two defenders. Taiga's attention shifted. Blond. Not especially tall. Actually, smaller than several of the others. He had a strip of white sunscreen across his nose that made him look faintly ridiculous.
 
- Then he touched the ball. The ridicule disappeared. First touch forward. Defender closed. The blond player shifted left. Defender followed. The ball snapped back through the space between his feet. Taiga straightened.
+Then he touched the ball. The ridicule disappeared. First touch forward. Defender closed. The blond player shifted left. Defender followed. The ball snapped back through the space between his feet. Taiga straightened.
 
 “Oh, that's filthy.”
 
-The blond guy accelerated past him. A second defender stepped. One touch. Pass. Return. Shot. Net. Several players shouted. The blond threw both arms up and yelled something Taiga couldn't make out. Then, instead of jogging calmly back into position, he ran backward while arguing with one of his teammates about whether the pass had been late.
+The blond guy accelerated past him. A second defender stepped. One touch. Pass. Return. Shot. Net. Several players shouted. The blond threw both arms up and yelled something Taiga couldn't make out. Then, instead of jogging calmly back into position, he ran backward while arguing with two teammates about whether the pass had been late.
 
-“You were standing still\!” somebody shouted.
+“You were standing still\!” one of them shouted.
 
 “I was *creating suspense\!*”
 
-“You were offside\!”
+“You were offside too,” the other said, already jogging back into shape.
 
 “That is a separate issue\!”
 
-Taiga snorted. The guy laughed so loudly Taiga could hear it from the fence. A coach blew the whistle.
+The first teammate threw both hands up. “It is literally the same issue\!”
 
-“MENDEZ, IF YOU'RE DONE HOSTING A PODCAST—”
+Taiga snorted. The blond guy laughed so loudly Taiga could hear it from the fence. A coach blew the whistle.
 
-“Sorry, Coach\!”
+“MENDEZ, ROSARIO, IF YOU'RE DONE HOSTING A PODCAST—”
 
-He was still smiling when he turned back toward the drill. Taiga watched another minute. Then two. The blond—Mendez, apparently—never seemed still. He called for the ball, clapped for teammates, talked through drills, congratulated someone after a good tackle and immediately started another argument about whether somebody had cheated during a finishing competition. Very good. But annoying. Taiga pushed away from the fence. He had watched enough. A sign beside the gate caught his eye.
+“Sorry, Coach\!” the blond called.
+
+“Why am I in this?” Rosario protested.
+
+“Because you're still talking.”
+
+The blond was still smiling when he turned back toward the drill. Taiga watched another minute. Then two. Mendez, apparently, never seemed still. He called for the ball, clapped for teammates, talked through drills, congratulated someone after a good tackle and immediately started another argument about whether somebody had cheated during a finishing competition. Very good. But annoying. Taiga pushed away from the fence. He had watched enough. A sign beside the gate caught his eye.
 
 **OLYMPUS MEN'S SOCCER**
 
@@ -615,27 +621,29 @@ Fine. Whatever. He considered leaving. Not seriously. Mostly seriously. A whistl
 
 “Freshmen, bring it in\!”
 
-The coaches gathered them near midfield. Current players were scattered around the pitch helping set up cones and goals. Taiga spotted Mendez immediately because Mendez was standing on top of a ball while talking to two teammates with both hands.
+The coaches gathered them near midfield. Current players were scattered around the pitch helping set up cones and goals. Taiga spotted Mendez immediately because Mendez was standing on top of a ball while talking to two teammates with both hands. One was Rosario, the loud teammate from yesterday; the other was the calmer midfielder who had ended the argument by simply walking back into position.
 
-“How are you balancing on that?”
+“How are you balancing on that?” Rosario asked.
 
 “I have excellent core stability.”
 
-“You almost fell three seconds ago.”
+The midfielder glanced over. “You almost fell three seconds ago.”
 
 “That was a controlled descent.”
 
-“You screamed.”
+“You screamed,” Rosario said.
 
 “I was communicating.”
 
-One of the teammates kicked the ball out from under him. Mendez jumped down, laughing, and chased him for three steps before a coach shouted:
+Rosario kicked the ball out from under him. Mendez jumped down, laughing, and chased him for three steps before a coach shouted:
 
-“Mendez\!”
+“Mendez\! Rosario\! If you have energy for this, you have energy for cones\!”
 
 “Working\!”
 
-He jogged toward the drill station. Taiga looked away. The universe would apparently never give him an interesting person who was quiet. Coach Mercer introduced himself. Forties. Compact. Sun-browned. Voice carrying across the field without apparent effort. He explained the tryout structure. Warm-up. Passing. Ball control. Small-sided games. Fitness. Scrimmage. No bullshit. Taiga liked him immediately. The first fifteen minutes went well. Running was running. Taiga was fast. Not the fastest. That annoyed him. Close, though.
+Rosario picked up a stack without any visible urgency. “See? Teamwork.”
+
+Taiga looked away. The universe would apparently never give him an interesting person who was quiet. Coach Mercer introduced himself. Forties. Compact. Sun-browned. Voice carrying across the field without apparent effort. He explained the tryout structure. Warm-up. Passing. Ball control. Small-sided games. Fitness. Scrimmage. No bullshit. Taiga liked him immediately. The first fifteen minutes went well. Running was running. Taiga was fast. Not the fastest. That annoyed him. Close, though.
 
 His endurance held. Passing was less comfortable. The ball moved harder and faster than it did in casual games. His first trap bounced farther than intended. Not terrible. Sloppy. He clicked his tongue. Second repetition. Better. Third. Cleaner. Fourth. Fine. He could learn. Dribbling was worse.
 
@@ -713,7 +721,7 @@ Taiga walked away. He hated him.
 
 ---
 
-He did not actually hate him. Hating people was simple. Mendez was merely irritating. There was a difference. A very important difference. Taiga decided this afte\\	1r Leo stole the ball from him again during a small-sided match and then, five minutes later, ended up on his team. Leo never stopped talking. Not constantly to Taiga. To everyone.
+He did not actually hate him. Hating people was simple. Mendez was merely irritating. There was a difference. A very important difference. Taiga decided this after Leo stole the ball from him again during a small-sided match and then, five minutes later, ended up on his team. Leo never stopped talking. Not constantly to Taiga. To everyone.
 
 “Man on\!”
 
@@ -733,7 +741,9 @@ Taiga drove into it. Defender approaching. Another closing right. Two seconds. P
 
 “Move.”
 
-He kept possession. Penalty area. Goalkeeper shifted. Taiga shot. Too central. Saved.
+He kept possession. Penalty area. Goalkeeper shifted. Taiga shot. Too central. Saved cleanly. The keeper was already shouting at his back line before Taiga finished swearing.
+
+“LEFT SIDE, STEP\! RESET\!”
 
 “Fuck\!”
 
@@ -982,11 +992,19 @@ One of them nodded immediately. Taiga did too, half a second later. Mercer notic
 
 “Good start. It does not mean ‘stand next to the touchline and wait for the ball.’ Your job changes depending on what the fullback does.”
 
-He pointed behind Taiga, where another player stood deeper on the same side.
+Mercer pointed behind Taiga.
+
+“Bennett. Show him.”
+
+A current player stepped into the deeper wide position. Mercer continued.
 
 “That is the fullback. Defender first. When we have the ball, he can come forward outside you. That run is an overlap.”
 
-The fullback jogged past the mannequin to demonstrate. Mercer moved Taiga two steps inward.
+Bennett jogged past the mannequin to demonstrate. As he passed Taiga, he said, “Try not to run into me.”
+
+“Stay out of my way.”
+
+Bennett grinned and kept moving. Mercer moved Taiga two steps inward.
 
 “If he goes outside, you usually do not occupy the same strip of grass. Come inside. Make the defender choose. Follow you and the overlap is free. Stay with the overlap and you can receive inside.”
 
@@ -1000,7 +1018,7 @@ A couple of players laughed. Taiga did too.
 
 “No. Football would be much easier if every answer was always.” Mercer stepped back. “Read the defender. Read your fullback. Read where the ball is. The diagram gives you options, not permission to stop thinking.”
 
-That part Taiga liked less. They started. First repetition: the fullback went. Taiga stayed wide. Whistle.
+That part Taiga liked less. They started. First repetition: Bennett went. Taiga stayed wide. Whistle.
 
 “Akatora.”
 
@@ -1018,7 +1036,7 @@ Taiga frowned.
 
 “You moved because you remembered a rule. I need you to move because you saw something.”
 
-Heat climbed his neck. Third repetition. He checked over his shoulder first. Fullback starting high. Defender watching him. Central midfielder already occupying the inside lane. Taiga held width for another second. Then the midfielder dropped, the lane opened, and Taiga stepped into it. Pass inside. One touch. Fullback around him. Return ball outside. Clean. Mercer said, “Better,” and was already resetting the drill. Good. They ran it from the other side and everything became backwards.
+Heat climbed his neck. Third repetition. He checked over his shoulder first. Bennett starting high. Defender watching him. Central midfielder already occupying the inside lane. Taiga held width for another second. Then the midfielder dropped, the lane opened, and Taiga stepped into it. Pass inside. One touch. Bennett around him. Return ball outside. Clean. Mercer said, “Better,” and was already resetting the drill. Good. They ran it from the other side and everything became backwards.
 
 Taiga wanted to murder geometry. Later came pressing. That word he knew. The details were worse. Mercer put a ball at the center-back's feet.
 
@@ -1038,7 +1056,9 @@ Mercer blew the whistle before Taiga could answer.
 
 “Because Brennan and Romero are waiting there. We want the pass he thinks is safe.”
 
-Taiga looked toward the two central players Mercer had indicated. Gav Brennan gave him a small nod. Isaac Romero tapped two fingers against his temple. Read it. Fine. They reset.
+Gav Brennan lifted one hand. “Show him inside. If he takes the safe pass, we're already there.”
+
+Isaac Romero tapped two fingers against his temple. Read it. Fine. Taiga nodded. They reset.
 
 By the sixth repetition Taiga could feel the structure rather than recite it. Then the scrimmage began and the structure immediately became less polite. Players moved before he expected them to. Passing lanes existed for half a second. A correct position became wrong when somebody else made a different decision. He lost the ball six times. Won it five. Created one assist after beating the right-back and cutting the ball toward Jordan Price, the striker, who finished first time.
 
@@ -1046,7 +1066,13 @@ Price pointed at Taiga while jogging back.
 
 “Do that again.”
 
-Taiga almost told him to fuck off. Then realized it was probably praise. He missed an easy shot ten minutes later badly enough that he intended to remember it at three in the morning for the next decade. Under the stadium lights, the coaches gathered everybody at midfield. Final selections would be emailed the following afternoon. Thank you for coming. That was it. Taiga picked up his bag with his stomach tied into a knot.
+Taiga almost told him to fuck off. Then realized it was probably praise. He missed an easy shot ten minutes later, sending it straight at the goalkeeper Mercer had called Pierce. Pierce caught it without moving.
+
+“WALSH, STEP\! BENNETT, TUCK IN\!”
+
+Then, quieter as Taiga ran past, “Far corner was open.”
+
+Taiga intended to remember both the miss and the comment at three in the morning for the next decade. Under the stadium lights, the coaches gathered everybody at midfield. Final selections would be emailed the following afternoon. Thank you for coming. That was it. Taiga picked up his bag with his stomach tied into a knot.
 
 Waiting was worse than failure. Failure, at least, was information.
 
@@ -1219,4 +1245,3 @@ Taiga glanced down. His leg had stopped bouncing.
 
 Taiga smiled faintly. The campus still felt too big and too loud, but for the first time since arriving, one place on the map felt slightly less theoretical.  
 Monday. Six o'clock. Athletics complex. His name on the roster. For now.
-
