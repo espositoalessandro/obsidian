@@ -673,9 +673,71 @@ There. Decision made.
 
 ---
 
+Taiga reached platform three at 6:24. Scott was already there, sitting on a bench with his bag between his shoes. Gav stood nearby reading something on his phone. Aaron was leaning against one of the columns.
+
+Scott looked up first.
+
+“Hey.”
+
+“Hey.”
+
+Aaron straightened.
+
+“So the probability resolved.”
+
+“Apparently.”
+
+Gav glanced at the departure board.
+
+“Enzo's going to make his own rule about nobody waiting for him.”
+
+“Obviously,” Aaron said.
+
+Leo and Enzo came down the stairs a minute later, Enzo talking before either of them reached the platform.
+
+“I'm telling you, she said she'd bring it.”
+
+“She said she'd meet us there,” Leo said. “Those are different statements.”
+
+“Same practical outcome.”
+
+“No, because you need the charger before your phone dies.”
+
+Enzo saw the others.
+
+“Excellent. Nobody abandoned me.”
+
+Gav looked at the clock.
+
+“We were waiting for the train.”
+
+“Same thing emotionally.”
+
+Leo laughed, then noticed Taiga.
+
+“Oh, hey. You came.”
+
+“Looks like it.”
+
+Leo was in jeans, a dark jacket and white sneakers instead of an Apollo training kit. Taiga had seen him in normal clothes before. Obviously. Still, soccer consumed so much of their contact that seeing him without athletic gear always required a tiny recalibration.
+
+He looked good.
+
+The 6:32 arrived on time. They boarded together and found seats across two facing rows. Enzo spent the first ten minutes trying to convince Gav that Roberto was a better name for a future pet than for a hypothetical child. Aaron joined only to make the argument worse. Scott put his earbuds in. Leo checked the Arcadia page and announced that the bowling lanes were already booked until nine.
+
+“Good,” Gav said. “One fewer thing Enzo can turn into a tournament.”
+
+“I can turn anything into a tournament.”
+
+“That is the problem.”
+
+Taiga sat by the window and listened while campus gave way to the denser center of Olympus City.
+
+At 7:08, exactly as Scott had said, the train reached the Agora station.
+
 Olympus City's Agora looked less like a shopping center and more like somebody had attempted to build an indoor district. Three levels. Glass roof. Escalators crossing over open space. Stores packed along broad walkways beneath enormous signs. Food smells from six directions. Music. Digital advertising. People. Too many people.
 
-Taiga stopped after they entered. Scott kept walking three steps before noticing.
+Taiga stopped after they entered.
 
 “This is horrible.”
 
@@ -685,69 +747,31 @@ Scott looked around.
 
 “That's one word for it.”
 
-“You came voluntarily.”
+Aaron grinned.
 
-Taiga looked at him.
+“You've been here fourteen seconds.”
+
+“That's enough.”
+
+“You came voluntarily.”
 
 “Temporary insanity.”
 
-Scott's mouth moved slightly. Maybe a smile.
+Leo laughed. Enzo checked his phone.
 
-The main landing opened beneath an enormous directory display. Enzo stood under it with Gav and Aaron. Enzo checked his phone theatrically as Taiga and Scott approached.
+“Mia's already inside.”
 
-“Seven-ten.”
+“Did she bring—” Leo started.
 
-Scott checked the station clock.
+“Yes. She has my charger.”
 
-“Seven-nine.”
+Gav looked at Enzo.
 
-“That's acceptable.”
+“So you did confirm it.”
 
-Gav nodded at Taiga.
+“Eventually.”
 
-“You came.”
-
-“Apparently so.”
-
-Aaron grinned.
-
-“Look at that.”
-
-“Don't.”
-
-“I didn't say anything.”
-
-Taiga gave him a look. Aaron laughed.
-
-Leo arrived from the opposite side of the landing a minute later, in jeans, a dark jacket and white sneakers instead of an Apollo training kit. Taiga had seen him in normal clothes before. Obviously. Still, soccer consumed so much of their contact that seeing him without athletic gear always required a tiny recalibration.
-
-He looked good.
-
-Leo smiled when he reached them.
-
-“Hey.”
-
-Enzo looked behind him.
-
-“No Mia?”
-
-“Meeting us inside.”
-
-“Did she bring—”
-
-“Yes, she has your charger.”
-
-“I wasn't asking that.”
-
-Gav looked at him.
-
-“What were you asking?”
-
-Enzo paused.
-
-“Nothing important.”
-
-Leo laughed. Taiga looked at Enzo.
+Taiga shook his head.
 
 “You people have a charger economy.”
 
@@ -771,17 +795,13 @@ Enzo bought group cards at a kiosk. Taiga objected.
 
 “I can buy my own.”
 
-“You can transfer credits.”
+“Six or more get the bulk rate.”
 
-“Why did you buy mine?”
+“There are six of us.”
 
-“Because there was a discount at six cards.”
+Enzo pointed toward the entrance. Mia stood there holding up a hand.
 
-“There are five of us.”
-
-Enzo pointed toward the entrance. Mia stood there holding up a sixth hand.
-
-“Six.”
+“Seven.”
 
 Taiga looked at Enzo.
 
@@ -807,7 +827,7 @@ Nobody listened.
 
 ---
 
-The first game was racing. This was a mistake. Enzo chose it because there were six linked seats. Taiga took one. Leo sat two machines away. Mia between them. Gav and Scott on the far side. Aaron on Taiga's left. Vehicle selection appeared. Taiga chose something fast. Obviously. Aaron looked over.
+The first game was racing. This was a mistake. Enzo chose it because there were enough linked seats for all of them. Taiga took one. Leo sat two machines away. Mia between them. Gav and Scott on the far side. Aaron on Taiga's left. Enzo took the last seat. Vehicle selection appeared. Taiga chose something fast. Obviously. Aaron looked over.
 
 “That car has terrible handling.”
 
@@ -825,7 +845,7 @@ Aaron started laughing.
 
 “Shut up.”
 
-Enzo was already first. Scott second. Leo fourth. Mia rammed Leo into a barrier. He shouted, “That was deliberate\!”
+Enzo was already first. Scott second. Leo fifth. Mia rammed Leo into a barrier. He shouted, “That was deliberate\!”
 
 “You were in my lane.”
 
@@ -845,7 +865,7 @@ Taiga recovered. Next corner. Better. Then Aaron hit him.
 
 “I'm going to review your face.”
 
-Leo laughed from the other side. The race became less about winning and more about ruining specific people. Taiga finished fifth. Fifth. Out of six. He stared at the results. Enzo first. Scott second. Gav third. Leo fourth. Taiga fifth. Aaron sixth. Aaron looked over.
+Leo laughed from the other side. The race became less about winning and more about ruining specific people. Taiga finished sixth. Out of seven. He stared at the results. Enzo first. Scott second. Gav third. Mia fourth. Leo fifth. Taiga sixth. Aaron seventh. Aaron looked over.
 
 “I blame you.”
 
@@ -867,7 +887,7 @@ Scott looked at the wheel.
 
 “It seemed fine.”
 
-Taiga stared at him. Scott had barely spoken during the race and apparently destroyed all of them.
+Taiga stared at him. Scott had barely spoken during the race and apparently destroyed almost all of them.
 
 “You play this?”
 
@@ -1005,7 +1025,7 @@ Taiga looked over.
 
 “My honor is fine.”
 
-“You finished fifth.”
+“You finished sixth.”
 
 Taiga followed him. Obviously. The machine had two plastic rifles mounted to a cabinet, giant screen, generic city-under-attack premise. Enzo was already there. He handed Leo one gun. Then saw Taiga.
 
@@ -1341,13 +1361,13 @@ Enzo groaned.
 
 “That does not help.”
 
-Mia stayed with Enzo because she wanted to look at one of the stores before it closed. Sofia and Aaron took a different line toward her residence. That left Gav, Scott, Leo and Taiga walking toward the station. Gav peeled away first when his connection appeared on the departure board.
+Mia stayed with Enzo because she wanted to look at one of the stores before it closed. Sofia and Aaron took a different line toward her residence. Gav's connection left from another platform, so he split off at the departure board.
 
 “Monday.”
 
 “Yeah,” Leo said.
 
-Scott raised one hand. Taiga nodded. The train arrived. They boarded. Four seats together. Taiga took the window. Scott opposite him. Leo beside Scott. The carriage hummed out of the Agora station. For several minutes, nobody spoke. Scott had earbuds in. Leo looked through photographs from the arcade on his phone. Taiga watched city lights pass. Then Leo made a sound. Not quite a laugh.
+Scott raised one hand. Taiga nodded. That left Scott, Leo and Taiga for the 10:24 back toward campus. The train arrived. They boarded. Four seats together. Taiga took the window. Scott opposite him. Leo beside Scott. The carriage hummed out of the Agora station. For several minutes, nobody spoke. Scott had earbuds in. Leo looked through photographs from the arcade on his phone. Taiga watched city lights pass. Then Leo made a sound. Not quite a laugh.
 
 “What?”
 
@@ -1419,7 +1439,7 @@ Leo smiled.
 
 Taiga looked at him.
 
-“You finished fourth in racing.”
+“You finished fifth in racing.”
 
 “Yeah, because I'm honest about my limitations.”
 
