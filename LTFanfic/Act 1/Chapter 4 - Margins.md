@@ -1024,13 +1024,11 @@ Leo's face brightened.
 
 Enzo slapped a hand against the tile. “He called you skinny and you turned it into a scouting report.”
 
-“He understands football.”
-
-“He is better built than you. Of course you respect his opinion.”
+“He is better built than you. Of course I respect his opinion.”
 
 Taiga froze for half a second.
 
-Leo looked at Enzo. “That made even less sense.”
+Enzo looked at Leo. “That made even less sense.”
 
 “It made perfect sense. I refuse to explain it to people without vision.”
 
@@ -1106,8 +1104,8 @@ Leo laughed once.
 
 “It sounds healthy. Whether I actually manage it every time is another question.”
 
-Taiga looked over again.
-
+Taiga didn't answer immediately. He lost himself in his thoughts for a while.
+Then looked over again.
 His attention dipped a little too far.
 
 “Floor's that interesting?”
@@ -1118,11 +1116,13 @@ Taiga looked up. Leo's mouth had gone crooked.
 
 “Sure.”
 
+He could feel his face starting to redden.
+
 “About the mistakes.”
 
 Leo held the look for another second, then let him have it.
 
-“Of course.”
+“Alright.”
 
 “Shut up.”
 
@@ -1160,7 +1160,7 @@ Then:
 - Mia Harper  
 - Anne Anderson
 
-Taiga looked at the other tables on the screen but didn't find another Mendez. So Leo wasn't actually Leo. Or not legally, anyway.
+Taiga looked at the other tables on the screen but didn't find another Mendez. So Leo wasn't actually Leo. Or not legally, anyway. That seemed obvious now that he thought about it.
 
 Then he read the next name.
 

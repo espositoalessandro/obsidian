@@ -1016,7 +1016,7 @@ He reached for her notebook. She pulled it away, laughing. Across the room, the 
 
 Leo was carrying a laptop under one arm and a Starbuffs cup. He saw Mia. Then Taiga. His expression brightened.
 
-“Hey.”
+“Forty-one!.”
 
 Taiga nodded.
 
@@ -1112,7 +1112,7 @@ Leo leaned back.
 
 “What?”
 
-“Mia said you were going to hate it.”
+“You've started destroying my codebase and my pride.”
 
 “I don't hate it.”
 
@@ -1158,7 +1158,7 @@ Taiga laughed.
 
 “Two points on the last assignment for the same thing, so I'm trying not to make it a tradition.”
 
-Not gifted. Not incompetent. Just a student. Leo looked at Taiga's screen.
+Leo looked at Taiga's screen.
 
 “What'd you do?”
 
@@ -1584,7 +1584,7 @@ Taiga wiped water from his face.
 
 Aaron beside him laughed. Taiga ignored him. Leo was on the other side of the drill, hair soaked flat against his forehead. He looked ridiculous. Less blond. More drowned. Still smiling. The ball came. Taiga checked shoulder. Received. Inside pass. Moved. Return. Leo pressed from behind. Taiga shielded. Leo got a toe in. Ball escaped. Taiga chased. Leo chased too. They collided shoulder to shoulder. Taiga stayed up. Leo didn't. He went down on the wet grass and slid almost two meters.
 
-Taiga stopped. For half a second there was silence. Then Leo started laughing. Not polite laughter. Full-body, stupid laughter while lying in mud. Taiga looked at him.
+Taiga stopped. For half a second there was silence. Then Leo started laughing while lying in mud. Taiga looked at him.
 
 “You okay?”
 
