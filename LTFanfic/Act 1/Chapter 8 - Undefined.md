@@ -1764,7 +1764,141 @@ Then:
 
 Fair.
 
-Lina claimed partial ownership of the grade because she had found one bug. Mia celebrated the final one-map design. 
-Eighty-eight. A bug Lina had found. A design he had simplified because somebody else had a point.
+Lina claimed partial ownership of the grade because she had found one bug. Mia celebrated the final one-map design.
 
-He opened Political Institutions instead. Computer Science could wait until Monday. For once, it did.
+Taiga was still looking at the eighty-eight when his phone buzzed again.
+
+Unknown number.
+
+He almost ignored it.
+
+Then the preview appeared.
+
+**Unknown:** hey, leo here
+**Unknown:** took your number from the soccer group chat, hope that's alright
+
+Taiga stared at the screen.
+
+For some reason, that required more processing than it should have.
+
+Everyone's number was in the team chat. Leo having his number was not strange. Leo choosing to use it separately apparently was.
+
+Taiga opened the conversation.
+
+**Taiga:** yeah it's fine
+
+The typing indicator appeared almost immediately.
+
+Stopped.
+
+Appeared again.
+
+**Leo:** cool
+**Leo:** grades came out for rao right?
+**Leo:** how'd yours go?
+
+Taiga looked at the eighty-eight still open on his laptop.
+
+**Taiga:** 88
+
+Three dots.
+
+**Leo:** oh shit
+**Leo:** nice
+
+Another message followed before Taiga could answer.
+
+**Leo:** i got 82 :(
+
+Taiga smiled.
+
+**Taiga:** duplicated filter?
+
+There was a longer pause.
+
+**Leo:** i hate that you knew
+**Leo:** yes
+**Leo:** rao wrote “you have already solved this problem once”
+
+Taiga laughed quietly.
+
+**Taiga:** deserved
+
+**Leo:** cruel
+
+Taiga put the phone down.
+
+It buzzed again almost immediately.
+
+**Leo:** you sticking with cs then?
+
+His hand stopped.
+
+A week ago, he would have answered *I don't know*. Yesterday, maybe the same.
+
+Now there was a confirmation number sitting somewhere in the university system.
+
+Taiga picked the phone back up.
+
+**Taiga:** actually declared it today
+
+Nothing happened for several seconds.
+
+Then:
+
+**Leo:** WAIT
+**Leo:** seriously??
+
+Taiga frowned at the sudden capitalization.
+
+**Taiga:** yes
+
+The typing indicator appeared.
+
+**Leo:** dude that's awesome
+**Leo:** holy shit
+**Leo:** welcome officially then 😂
+
+Taiga read the messages twice.
+
+There was no reason for Leo to sound that pleased.
+
+It wasn't his major. It wasn't his decision. They weren't even in the same section.
+
+Still, another message arrived.
+
+**Leo:** that's genuinely really cool
+**Leo:** we're gonna have so many of the same classes later
+
+Taiga's thumb hovered above the keyboard.
+
+*We're.*
+
+He ignored that.
+
+**Taiga:** assuming you stop duplicating filters
+
+The answer came almost instantly.
+
+**Leo:** wow
+**Leo:** i try to celebrate you and this is what i get
+
+Taiga smiled.
+
+**Taiga:** thanks
+
+Leo reacted to the message with a sun.
+
+Taiga looked at it for a second.
+
+Then another.
+
+Finally he locked the phone and put it beside the laptop.
+
+Eighty-eight. A bug Lina had found. A design he had simplified because somebody else had a point. A major he had chosen because, when everything else was stripped away, he wanted the next classes.
+
+And apparently Leo Mendez was excited about it.
+
+He opened Political Institutions instead. Computer Science could wait until Monday.
+
+For once, it did.
