@@ -798,7 +798,7 @@ She turned her laptop. Her registry worked. Mostly. The problem was withdrawals.
 
 “You thought it.”
 
-“Maybe. I don't know.”
+“Maybe.”
 
 He leaned closer.
 
@@ -1016,7 +1016,7 @@ He reached for her notebook. She pulled it away, laughing. Across the room, the 
 
 Leo was carrying a laptop under one arm and a Starbuffs cup. He saw Mia. Then Taiga. His expression brightened.
 
-“Forty-one!.”
+“Forty-one!”
 
 Taiga nodded.
 
@@ -1200,7 +1200,7 @@ Mia closed her laptop.
 
 Enzo appeared at the door.
 
-“Booth acquired\!”
+“Booth acquired!”
 
 Mia started packing. Leo closed his laptop. Taiga remained seated. Leo looked at him.
 
@@ -1576,7 +1576,15 @@ Usually.
 
 Soccer training Saturday morning was wet. Rain had started at seven and never committed to becoming heavy enough to cancel anything. The pitch shone. Every slide tackle became a transportation method. Mercer loved it. Of course.
 
-“BALL MOVES FASTER\! THINK FASTER\!”
+“BALL MOVES FASTER! THINK FASTER!”
+
+From goal, Scott was even louder.
+
+“CARTER, STEP!”
+
+“BENNETT, INSIDE!”
+
+“LEAVE IT, GAV!”
 
 Taiga wiped water from his face.
 
@@ -1656,9 +1664,9 @@ Leo sighed.
 
 “I know. Rao and Mia have both explained this tragedy to me.”
 
-Taiga smiled. Leo looked over. Taiga shook his head.
+Taiga smiled. Leo looked over.
 
-“No, say it.”
+“You look very pleased with yourself.”
 
 “You're learning.”
 
@@ -1666,7 +1674,13 @@ Leo stared. Then shoved Taiga lightly with one shoulder.
 
 “Fuck off.”
 
-Taiga laughed. Mercer called them back before the conversation could become anything else. Easy. At the end of training, Leo left with Enzo and Gav. Taiga left with Aaron. Computer Science stayed where it belonged. One thing among several.
+Taiga laughed. Mercer called them back before the conversation could become anything else.
+
+At the end of training, people scattered in several directions. Enzo was trying to convince Gav that rain justified ordering lunch instead of walking to The Oyster. Scott disappeared toward the locker room without joining either side. Aaron got trapped beside Mercer while the coach corrected something from the final drill. Leo headed inside still arguing with Enzo about whether delivery counted as laziness.
+
+Taiga shouldered his bag and walked back toward Residential on his own.
+
+Computer Science stayed where it belonged. One thing among several.
 
 ---
 
@@ -1754,4 +1768,3 @@ Lina claimed partial ownership of the grade because she had found one bug. Mia c
 Eighty-eight. A bug Lina had found. A design he had simplified because somebody else had a point.
 
 He opened Political Institutions instead. Computer Science could wait until Monday. For once, it did.
-

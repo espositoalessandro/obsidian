@@ -422,7 +422,15 @@ Mercer tapped his pen against the desk. “Can we finish before breakfast?”
 
 Forty-five minutes became fifty-eight.
 
-Afterward Taiga intended to leave, but Aaron said, “We're eating,” and Taiga followed him into the House kitchen before deciding why. Gav heated leftovers. Enzo found frozen pizza and proved that fitting two trays into one oven did not mean both would cook.
+Afterward Taiga intended to leave. Enzo was already halfway into the House kitchen.
+
+“Food. I refuse to let film review be the last thing that happens to me today.”
+
+Gav looked at the clock. “It lasted fifty-eight minutes.”
+
+“Exactly. An ordeal.”
+
+Taiga ended up following them into the kitchen before deciding why. Gav heated leftovers. Enzo found frozen pizza and proved that fitting two trays into one oven did not mean both would cook.
 
 Twenty minutes later Taiga sat with Gav and Scott eating a slice cold in the middle.
 
@@ -474,7 +482,7 @@ Conversation moved through classes, training and Enzo trying to recruit people f
 
 “I have friends.”
 
-Leo looked over. Enzo said, “Also not a hobby.”
+Enzo said, “Also not a hobby.”
 
 Taiga considered throwing crust at him.
 
