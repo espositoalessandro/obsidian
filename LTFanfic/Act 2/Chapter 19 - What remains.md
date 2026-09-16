@@ -590,11 +590,11 @@ He had walked Leo across campus, apologized, sat down and announced there was so
 
 Leo waited. No joke, no rescue.
 
-Taiga stared at his hands. “Last summer.”
+Taiga stared at his hands. “The summer before last.”
 
 Leo’s expression shifted slightly. Taiga rubbed his thumb across one knuckle.
 
-“I went back to Camp Buddy because I’d fucked things up the year before.”
+“I went back to Camp Buddy because I’d fucked things up the summer before.”
 
 Leo said nothing.
 
