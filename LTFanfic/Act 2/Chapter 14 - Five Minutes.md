@@ -6,9 +6,9 @@ The first month of university had stretched itself into approximately a year and
 
 Camp Buddy did not have that problem. It already fit.
 
-The cabins still smelled like wood and old detergent when the heat came on. The dining hall still had one table that rocked unless somebody folded a napkin under the left leg. The path to the lake still turned to mud after rain in exactly the same places, and Yuki still treated Taiga returning as evidence that she had personally manifested him through force of will.
+The cabins still smelled like wood and old detergent when the heat came on. The mess hall still had one table that rocked unless somebody folded a napkin under the left leg. The path to the lake still turned to mud after rain in exactly the same places, and Yuki still treated Taiga returning as evidence that she had personally manifested him through force of will.
 
-The first day was quiet, though not empty. Camp Buddy was never completely empty anymore. Yoshinori and Aiden were there most days; Yuri came and went according to a schedule only Yuri seemed capable of understanding; Goro appeared whenever something administrative needed approving, correcting or disapproving of. Yoichi, obviously, was simply there, moving between the maintenance shed, the lodge and whatever had broken most recently as though winter had converted him into part of the grounds.
+The first day was quiet, though not empty. Camp Buddy was never completely empty. Yoshinori and Aiden were there most days; Yuri came and went according to a schedule only Yuri seemed capable of understanding; Goro appeared whenever something administrative needed approving, correcting or disapproving of. Yoichi, obviously, was simply there, moving between the maintenance shed, the lodge and whatever had broken most recently as though winter had converted him into part of the grounds.
 
 There were no scouts running between cabins, though. No whistles, no shouting from the lake, no breakfast line, no doors slamming because somebody had forgotten a towel. Winter made the place feel like backstage after the audience had gone home.
 
