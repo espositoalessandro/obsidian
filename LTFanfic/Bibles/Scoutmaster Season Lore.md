@@ -14,6 +14,7 @@ The project deliberately uses **no canonical Scoutmaster Season romance route**.
 - No route-ending relationship status should be assumed.
 - Shared plot events, setting history, non-romantic backstory, and route-independent character relationships may be used.
 - A non-romantic historical fact revealed inside one route may be adopted when it describes events that predate the route split and does not conflict with the other route. Such facts are marked below where useful.
+- A non-romantic post-project outcome may also be adopted when the extracted script repeats the same outcome across both romance-route ending blocks.
 
 ---
 
@@ -35,7 +36,8 @@ The CSV contains dialogue from multiple branches and endings without route label
 
 - repeated or clearly shared facts are safest;
 - romance-specific outcomes must not be generalized;
-- a statement from a route ending is not automatically route-neutral just because it appears in the corpus.
+- a statement from a route ending is not automatically route-neutral just because it appears in the corpus;
+- when the same non-romantic outcome is duplicated across both romance-route ending blocks, Olympus may preserve it without deciding which romance occurred.
 
 ---
 
@@ -52,9 +54,11 @@ For Olympus, the following broad sequence is canon:
 7. The project lasts **more than half a year**, extending through winter and toward the next summer term.
 8. Taiga and Yoichi remain materially involved during the project; the old scout group also returns to help during the winter.
 9. The expansion is completed before the next summer term.
-10. Olympus continuity extends Taiga’s stay until he has spent roughly a year tied to Camp Buddy before leaving for college.
+10. Lloyd and Darius choose to remain at Camp Buddy, apply as scoutmasters, and continue their professional work through their own design consultancy.
+11. Olympus continuity treats those applications as successful: Lloyd and Darius are part of Camp Buddy’s scoutmaster staff by the following summer.
+12. Olympus continuity extends Taiga’s stay until he has spent roughly a year tied to Camp Buddy before leaving for college.
 
-The exact Goro-route and Aiden-route endings are **not** part of this timeline.
+The exact Goro-route and Aiden-route romances are **not** part of this timeline.
 
 ---
 
@@ -159,6 +163,29 @@ The guiding practical problem is capacity: Camp Buddy expects substantially more
 - Was already skilled at carpentry when he was a scout.
 - Works with Lloyd on the new facilities and the construction workforce.
 - Teaches practical building and repair skills to others, including Taiga.
+
+### Lloyd and Darius after the project
+
+Their post-project direction is unusually safe to preserve despite appearing in ending material because the same non-romantic outcome is repeated in both romance-route ending blocks of the extracted script.
+
+The script establishes that:
+
+- Lloyd says he and Darius loved being back at Camp Buddy so much that they do not want to leave;
+- Lloyd says, **“Dar and I plan to apply as scoutmasters”**;
+- Darius explains that they enjoyed teaching Taiga and Yoichi during the project and want to share their knowledge with the rest of the scouts;
+- Darius says they are ready for a change of pace from full-time construction work;
+- they still intend to remain professionally active by starting their own design / construction consultancy;
+- Lloyd names the consultancy **D-L-Do**, short for “Darius and Lloyd will do it all for you.”
+
+The source dialogue says they **plan to apply**, rather than explicitly showing the administrative acceptance process.
+
+For Olympus continuity, that final step is adopted:
+
+> **Lloyd and Darius are accepted as scoutmasters and remain on Camp Buddy’s staff from the following summer onward, while also running D-L-Do on the side.**
+
+This does not select either Yoshinori romance route. It preserves a shared non-romantic ending outcome.
+
+Their ongoing staff role also means Taiga’s relationship with the two men who taught him carpentry does not end with the renovation project. During Taiga’s third summer, they are fellow Camp Buddy staff / mentors rather than visiting contractors.
 
 ## Hyunjin “Jin” Choi
 
@@ -480,6 +507,8 @@ The game directly proves:
 
 The final extension — Taiga remaining through the next summer before college — is the Olympus continuity choice.
 
+During that third summer, Olympus also treats Lloyd and Darius as active scoutmasters, consistent with their repeated ending plan to remain at Camp Buddy and apply for the role.
+
 ## 12.2 Emotional logic
 
 Taiga’s year should not be framed as:
@@ -570,9 +599,11 @@ Do not lock these into Olympus unless explicitly decided later:
 - Aiden’s route-dependent culinary-school outcome;
 - Goro’s route-dependent retirement / leadership-transfer outcome;
 - Yoshinori becoming camp president as a consequence of a specific route;
-- the exact post-project employment status of Lloyd, Darius, Hyunjin, or Emilia where endings diverge;
+- the exact post-project employment status of Hyunjin or Emilia where endings diverge;
 - reopening Camp Buddy’s old branches as an accomplished future event;
 - any Good / Perfect / Bad / Worst Ending as the “real” ending.
+
+Lloyd and Darius are intentionally **not** on this unresolved list. Their decision to remain and seek scoutmaster roles is repeated across both romance-route ending blocks, and Olympus adopts their successful transition into those roles.
 
 ---
 
@@ -582,6 +613,6 @@ For Olympus:
 
 > **Scoutmaster Season happened. Its romance route did not.**
 
-The renovation, sponsorship, project team, old Camp Buddy history, Taiga and Yoichi’s volunteer work, winter reunion, and successful modernization of Camp Buddy are real.
+The renovation, sponsorship, project team, old Camp Buddy history, Taiga and Yoichi’s volunteer work, winter reunion, Lloyd and Darius remaining as scoutmasters, and successful modernization of Camp Buddy are real.
 
 The novel is free to build Taiga’s college transition on those shared events without deciding whether Yoshinori chose Goro or Aiden.
