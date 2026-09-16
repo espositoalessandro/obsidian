@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Act 1/Chapter 12 - Baseline.md",
+                "file": "Act 2/Chapter 16 - Simple.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 12 - Baseline"
+              "title": "Chapter 16 - Simple"
             }
           }
         ]
@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 228.59299087524414
   },
   "right": {
     "id": "6d9715a9d542104a",
@@ -201,34 +201,35 @@
   },
   "active": "59cd03884ccda333",
   "lastOpenFiles": [
+    "Act 2/Chapter 15 - Default.md",
+    "Act 2/Chapter 14 - Five Minutes.md",
+    "Act 2/Chapter 13 - Unscheduled.md",
+    "Act 1/Chapter 4 - Margins.md",
+    "Act 1/Chapter 5 - First Start.md",
+    "Act 3.md",
+    "Act 2/Chapter 19 - What remains.md",
+    "Act 2/Chapter 17 - Thin Air.md",
+    "Act 2/Chapter 18 - Fallout.md",
+    "Act 2/Chapter 20 - What Remains.md",
+    "Act 2/Chapter 16 - Simple.md",
+    "Act 1/Chapter 6 - Review.md",
+    "Act 1/Chapter 7 - Outside.md",
+    "Act 1/Chapter 2 - Forty-One.md",
     "Act 1/Chapter 12 - Baseline.md",
     "Act 1/Chapter 11 - Selected.md",
     "Act 1/Chapter 10 - Five Pieces.md",
-    "Act 1/Chapter 9 - Continue.md",
-    "Act 2/Chapter 15 - Default.md",
-    "Act 2/Chapter 14 - Five Minutes.md",
-    "conflict-files-obsidian-git.md",
-    "Act 2/Chapter 13 - Unscheduled.md",
-    "Act 2",
     "Act 1/Chapter 8 - Undefined.md",
-    "Act 1/Chapter 4 - Margins.md",
-    "Bibles/Classes.md",
+    "Act 1/Chapter 9 - Continue.md",
+    "Act 1/Chapter 3 - Noise.md",
     "Act 1/Chapter 1 - A Mistake.md",
-    "Act 1/Chapter 7 - Outside.md",
+    "conflict-files-obsidian-git.md",
+    "Act 2",
+    "Bibles/Classes.md",
     "Act 4.md",
     "Act 2.md",
-    "Act 3.md",
     "Bibles/Writing rules.md",
-    "Bibles/Romance progression.md",
-    "Bibles/Canon Lore.md",
-    "Bibles/Characters.md",
     "Bibles",
-    "Act 1/Chapter 6 - Review.md",
-    "Act 1/Chapter 5 - First Start.md",
-    "Act 1/Chapter 2 - Forty-One.md",
-    "Act 1/Chapter 3 - Noise.md",
     "Untitled.base",
-    "Act 1",
-    "Welcome.md"
+    "Act 1"
   ]
 }
