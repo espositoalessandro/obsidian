@@ -229,7 +229,7 @@ Taiga shook his head and followed him onto the train.
 
 The carriage was almost empty. Normally Central line trains at four-thirty contained enough students to make standing a negotiation, but today there were twelve people in the entire car. Leo sat by the window while Taiga took the seat opposite, and snow streaked past the glass as Leo checked his Oracle.
 
-“My mother has asked whether my train tomorrow is still running three times.”
+“My mother has asked whether my flight tomorrow is still on three times.”
 
 “Is it?”
 
@@ -538,61 +538,155 @@ Leo pointed at him. “You are now legally involved in the lie.”
 
 “I am absolutely not.”
 
-Leo answered anyway. “Hi!”
+Leo answered anyway.
 
-His voice changed—not dramatically, just softer somehow while remaining unmistakably Leo. Taiga looked away because listening felt intrusive, which did not stop him from hearing half the conversation.
+“Hola, mami.”
 
-“Yes, tomorrow. I checked. No, it's not cancelled. Yes, I have the ticket. Mom, I sent you the ticket.”
+Taiga looked at him.
 
-A pause.
+It wasn't just the language. Leo's whole rhythm changed with it. He spoke faster, softer, words running into each other in a way Taiga had never heard from him before.
 
-“I know it snowed. I am currently very aware of the snow.”
+“Sí, mañana. Ya revisé. No, el vuelo no está cancelado. Sí, tengo el boleto.” Leo closed his eyes briefly. “Mami, ya te mandé el boleto.”
 
-Taiga drank his coffee. Leo looked at him and silently mouthed *don't*.
+A woman's voice came through the speaker, quick and warm and much too fast for Taiga to follow. He caught one word only because he already knew it.
+
+“Julio...”
+
+Leo sighed.
+
+“Sí, ya sé que nevó. Créeme, estoy viendo la nieve ahora mismo.”
+
+Taiga drank his coffee. Leo looked at him and raised one warning finger.
 
 Taiga smiled into the cup.
 
-“Yes, I'm wearing the scarf.”
+“Sí, tengo la bufanda puesta.”
 
 A longer pause. Leo looked down at it.
 
-“Yes, that scarf.”
+“Sí, esa.”
 
 Another pause.
 
-“No, she will not be offended. Why would I lie about wearing a scarf?”
+“No, no se va a ofender. ¿Y por qué yo iba a mentir con una bufanda?”
 
 Taiga nearly choked. Leo turned away.
 
-“Okay. Yes. I ate.”
+“Sí, comí.”
 
 Taiga raised an eyebrow, and Leo kicked his shoe lightly.
 
-“Stop.”
+“Cállate.”
 
-A voice came through the speaker loudly enough that Taiga could hear the tone but not the words.
+“I didn't say anything.”
 
-Leo sighed. “Yes, I know. I'll be there tomorrow afternoon. Tell everybody I said hi. No, don't wake anyone up when I get in. I have keys.”
+Leo covered the bottom of the phone with one hand. “Your face did.”
+
+The voice on the other end grew louder for several seconds. Leo sighed.
+
+“Sí, ya sé. Llego mañana por la tarde. Dile a todos que les mando saludos. No, no despiertes a nadie cuando llegue. Tengo llaves.”
 
 Another pause.
 
-“I know.”
-
 His expression softened.
 
-“Love you too.”
+“Yo también te quiero.”
 
-Then, after another beat: “Yes. Bye. Bye, Mom. You can hang up. Mom.”
+Then, after another beat, “Sí. Chao. Chao, mami. Puedes colgar.”
 
-Leo lowered the Oracle and stared at the call, which remained connected.
+He waited.
 
-“Mom.”
+“Mami.”
 
-Finally it ended.
+Finally the call ended.
 
 Taiga laughed.
 
 Leo leaned back against the bench. “This is my future.”
+
+Taiga looked at him for another second.
+
+“What?”
+
+“You sound different.”
+
+Leo glanced over. “In Spanish?”
+
+“Yeah.”
+
+“Well. That's usually what happens when you change languages.”
+
+“Not that, idiot. You talk faster.”
+
+Leo smiled. “My mother talks faster. It's survival.”
+
+Taiga considered that.
+
+“I understood snow.”
+
+“Excellent.”
+
+“And scarf.”
+
+“Two words. Practically fluent.”
+
+“And you told me to shut up.”
+
+Leo's smile widened. “Three.”
+
+Taiga looked at him. “Your English is really good.”
+
+Leo blinked.
+
+“That sounded weirdly surprised.”
+
+“I thought you were from here when I met you.”
+
+“Seriously?”
+
+“Yeah.”
+
+Leo seemed disproportionately pleased by that. “Okay, I'm taking that as a compliment.”
+
+“It was.”
+
+“Me and Enzo went to a bilingual school. I've been learning English since I was a kid.” He shrugged. “School, movies, games, the internet. By the time we came here, the hard part wasn't really English anymore. It was speaking it all day without my brain deciding at six in the afternoon that it had completed its contractual obligations.”
+
+Taiga smiled. “You barely have an accent.”
+
+“I absolutely have an accent.”
+
+“Barely.”
+
+“Wait until I'm tired.”
+
+“What happens?”
+
+“It stops behaving.”
+
+Taiga laughed.
+
+Leo took a more cautious drink of his chocolate. “Enzo says after midnight I lose about twenty percent of my consonants.”
+
+“That explains why I can't understand either of you after parties.”
+
+“That has other causes.”
+
+“Alcohol.”
+
+“I was going to say environmental factors.”
+
+“Alcohol.”
+
+Leo sighed. “You have no imagination.”
+
+Taiga looked down at his coffee, still smiling.
+
+There was something strange about hearing Leo speak Spanish. Not strange in a bad way. Just another piece of him that had apparently been there the whole time, invisible until somebody called from home.
+
+Leo bumped his shoe against Taiga's.
+
+“Anyway. My mother has confirmed that I possess a ticket, food, keys and the scarf my sister gave me, so international travel may now proceed.”
 
 “You told her you were packing.”
 
@@ -602,7 +696,7 @@ Leo leaned back against the bench. “This is my future.”
 
 “I can pack later.”
 
-“You have a morning train.”
+“You have a morning flight.”
 
 “Eleven-twenty.”
 
@@ -610,7 +704,7 @@ Leo leaned back against the bench. “This is my future.”
 
 “Exactly.”
 
-Leo took a more cautious drink, then glanced at Taiga. “Your family like that?”
+Leo took another drink, then glanced at Taiga. “Your family like that?”
 
 Taiga looked down at his coffee. “No.”
 
@@ -756,7 +850,7 @@ They left Central Park at seven-thirty, by which point the snow had won. The pat
 
 Leo stopped beneath one of the lamps and looked up. “Okay, I know this is stupid because snow is objectively inconvenient, but this is fucking great.”
 
-Taiga shoved his hands into his coat pockets. “You're going to say that until your train gets cancelled.”
+Taiga shoved his hands into his coat pockets. “You're going to say that until your flight gets cancelled.”
 
 “If that happens, I'm blaming you.”
 
