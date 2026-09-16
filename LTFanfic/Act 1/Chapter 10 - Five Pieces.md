@@ -68,7 +68,7 @@ Taiga opened his mouth. Closed it. He had asked after Hunter sent a photograph f
 
 “I'll figure it out.”
 
-Caleb nodded. Taiga ate. After a minute Caleb said, “Maya thinks black jeans and the dark green shirt.” Taiga slowly looked up.
+Caleb nodded. Taiga ate. After a minute Caleb said, “Maya thinks black jeans and the red shirt.” Taiga slowly looked up.
 
 “You told Maya?”
 
@@ -196,29 +196,9 @@ Class ended. Nora shoved her notes into her bag.
 
 “You're gone Saturday, right?”
 
-Taiga looked over.
-
-“How do you know?”
-
-“You said no to lunch because you had a train.”
-
-“That was yesterday.”
-
-“Yes. I possess memory.”
-
-Apparently everyone did.
-
 “Hunter's exhibition.”
 
-“The charcoal guy.”
-
-Taiga paused.
-
-“The what?”
-
-“You showed me the picture.”
-
-Right. At Starbuffs weeks ago, Hunter had sent one of the work-in-progress shots while Nora was sitting there.
+“The charcoal guy?.”
 
 “Yeah.”
 
@@ -233,16 +213,6 @@ Taiga looked at her.
 “You know. Hunter has art. Your journalist friend carries a camera everywhere. The orange one cooks.”
 
 “Hiro.”
-
-“I know his name.”
-
-“You called him the orange one.”
-
-“You call my sister law school.”
-
-“That is different.”
-
-“It is not.”
 
 Taiga packed his notebook. Nora continued.
 
@@ -288,9 +258,11 @@ Taiga stared.
 
 “You absolutely do.”
 
-They reached the stairs. Nora added, “Also Oliver is fine.” Taiga looked at her.
+They reached the stairs. Taiga said, “How's Oliver?.” Nora looked at him.
 
-“The cone?”
+"Oh, he's fine."
+
+“Why the cone then?”
 
 “Ear infection. He scratched himself raw because apparently discomfort requires violence.”
 
@@ -310,7 +282,7 @@ She showed him anyway. Oliver looked furious in a blue plastic cone. Taiga laugh
 
 ---
 
-Tuesday training was bad. Not catastrophic. Bad. Taiga's first touch kept getting away from him. The field was slick from morning rain, but that excuse only lasted until everyone else managed to control the same ball. Mercer moved him from the left wing to the right halfway through a positional drill. Taiga disliked it immediately. His body wanted the touch inside on his preferred foot. The angle changed. The passing lane looked wrong.
+Tuesday training was bad. Taiga's first touch kept getting away from him. The field was slick from morning rain, but that excuse only lasted until everyone else managed to control the same ball. Mercer moved him from the left wing to the right halfway through a positional drill. Taiga disliked it immediately. His body wanted the touch inside on his preferred foot. The angle changed. The passing lane looked wrong.
 
 He received one ball with his back too square, tried to turn, and Evan took it cleanly.
 
@@ -340,13 +312,13 @@ From the goal behind them, Scott's voice cut through the rain.
 
 “BENNETT, INSIDE! CARTER, STEP! DON'T LET HIM TURN!”
 
-The next repetition went better. Not good. Better. After twenty minutes Taiga was irritated enough that every correction felt like an accusation. He knew where that mood could take him now. Knowing did not make it disappear. It simply meant he could watch himself having it. Excellent. He received another pass. Bad touch. Ball rolled two feet too far. Leo stepped in from the opposing side and poked it away.
+The next repetition went better. Not good. Better. After twenty minutes Taiga was irritated enough that every correction felt like an accusation. He received another pass. Bad touch. Ball rolled two feet too far. Leo stepped in from the opposing side and poked it away.
 
 Taiga swore. Leo carried on with the drill. Taiga tracked back. Next sequence. Again. By the end of training his socks were wet, his right hip hurt, and he wanted to throw something. Mercer dismissed the group.
 
 “Recovery tomorrow. Film Thursday. Akatora.”
 
-Taiga stopped. Of course. Everyone else continued toward the locker room. Mercer waited until the space cleared enough.
+Taiga stopped. Everyone else continued toward the locker room. Mercer waited until the space cleared enough.
 
 “You hated the right.”
 
@@ -378,15 +350,30 @@ Taiga frowned.
 
 “So I need to use my left more.”
 
-“And then?”
+He nodded. Then added
 
-“Stop deciding the position is stupid because I'm bad at it.”
+“Stop deciding the position is stupid because you're bad at it.”
 
-Mercer's mouth moved. Almost a smile. Taiga regretted saying it.
+Taiga looked at Mercer, ready to snap. Words rose into his mouth. Then, for a split second, he thought about it. He wasn't judging. He just said the objective truth. That hurt even more.
+It took him all his self control to try and digest those words into a somewhat useful critic. Still that *you're bad at it* burned hot inside his stomach.
+He looked down. Took two long breathes. Mercer didn't move. His gaze didn't leave him.
+Taiga slowly nodded.
 
-“You said it, not me.”
+After a few seconds, Mercer put a hand on Taiga's shoulder. Taiga froze and looked him into the eyes.
 
-“Fuck.”
+“That was on me.”
+
+Taiga was speechless. Was Mercer actually apologizing...?
+
+"Doesn't mean it wasn't true."
+
+"Yes. It was. And you've managed to somehow process that. That is good progress."
+
+Taiga looked at him, surprised. Mercer continued
+
+"Very good progress." 
+
+Taiga swore he had seen the faintest sign of a smile.
 
 Mercer pointed toward the building.
 
@@ -402,9 +389,7 @@ Taiga paused.
 
 “Because a winger who can only solve one side is easy to defend.”
 
-Fair. Fair. Taiga nodded. He started away. Mercer added, “Bad session doesn't erase the last month.” Taiga stopped. The exact sentence he did not want.
-
-“I know.”
+Fair. Taiga nodded. He started away. Mercer added, “Bad session doesn't erase the last month.” Taiga stopped. The exact sentence he did not want.
 
 Mercer looked at him. Taiga sighed.
 
@@ -434,15 +419,17 @@ Enzo lowered the phone slightly.
 
 “That is not the point of the video.”
 
-Leo laughed. Taiga went to his locker. No one asked about his training. He changed. Normal noise. Normal bodies. Normal arguments. At some point Leo passed behind him carrying a towel, slowed, and nodded toward Taiga's locker.
+Leo laughed. Taiga went to his locker. No one asked him anything. Maybe his face was a sufficient warning. At some point Leo passed behind him carrying a towel, slowed, and nodded toward Taiga's locker.
 
 “For what it's worth, the right side feels completely backwards at first. I hated it the first few times Mercer put me there. Every touch feels like you're opening the wrong door, and then you start thinking about which foot you're using, which somehow makes it even worse.”
 
-Taiga looked over. Leo grinned.
+Taiga slowly looked over. Leo grinned.
 
 “Very inspiring, I know. But it does stop feeling stupid eventually.”
 
 Then he kept walking toward the showers. Taiga looked back at his locker. Right side did suck. Useful contribution.
+
+Although, that made him feel sightly better.
 
 ---
 
@@ -470,7 +457,7 @@ Caleb looked down.
 
 “Yes.”
 
-Taiga put his bag down. The dark green shirt hung from his closet door. Caleb looked at it. Then at Taiga. Taiga pointed.
+Taiga put his bag down. The red shirt hung from his closet door. Caleb looked at it. Then at Taiga. Taiga pointed.
 
 “No.”
 
@@ -482,7 +469,7 @@ Taiga put his bag down. The dark green shirt hung from his closet door. Caleb lo
 
 “Yes.”
 
-“The green one?”
+“This one?”
 
 “Yes.”
 
@@ -504,7 +491,7 @@ Taiga changed clothes. Five minutes later Maya called. Caleb answered on his lap
 
 Taiga lifted one hand from his desk. Maya looked past Caleb.
 
-“Did he choose the green shirt?”
+“Did he choose the red shirt?”
 
 Taiga turned.
 
@@ -526,7 +513,7 @@ Caleb said, “You asked whether black jeans were too casual.”
 
 Maya smiled.
 
-“The green is good.”
+“The red is good.”
 
 “You haven't seen it.”
 
@@ -574,7 +561,7 @@ Caleb looked up.
 
 Taiga opened his mouth. Then realized Caleb had never really asked.
 
-“Lives there.”
+“He lives there.”
 
 Maya leaned closer to the screen.
 
@@ -594,7 +581,7 @@ Caleb frowned.
 
 Maya laughed. Taiga continued.
 
-“He helps the three scoutmasters—Yoshinori, Aiden, and Yuri. Repairs, equipment, grounds, animals, whatever breaks. Goro still runs the camp as president, but if something needs carrying, fixing, feeding, chasing or swearing at, it somehow ends up becoming Yoichi's problem. He stayed after summer and then just... kept staying.”
+“He helps the scoutmasters. Repairs, equipment, grounds, whatever breaks. Goro still runs the camp as president, but if something needs carrying, fixing, feeding, chasing or swearing at, it somehow ends up becoming Yoichi's problem. He stayed after summer and then just... kept staying.”
 
 Caleb nodded.
 
@@ -620,7 +607,7 @@ Taiga looked at her.
 
 That made more sense aloud than it had when Keitaro first told him months ago. Keitaro had always carried a camera. Had always written everything down. Had always been annoyingly interested in what other people were doing. Journalism was basically turning several of his worst habits into coursework.
 
-“Hiro's in culinary school.”
+“Hiro's in culinary school, same college.”
 
 Maya smiled.
 
@@ -646,25 +633,19 @@ Caleb said, “That also tracks.” Taiga looked at him.
 
 “And he likes swimming.”
 
-Taiga stared.
+Maya asked, “When was the last time you saw all of them in person?”
 
-“How do you know that?”
-
-“You told Maya he beat everyone at camp.”
-
-Taiga had no memory of this. His own mouth was a security risk. Maya asked, “When was the last time you saw all of them in person?”
-
-“Summer.”
+“End of summer.”
 
 “How long?”
 
 Taiga counted.
 
-“Two months.”
+“One month and something.”
 
 “That's not that long.”
 
-“No.”
+“It's a summer camp term, not a dorm.”
 
 It felt longer. He did not miss them constantly. Olympus had filled the space aggressively. Classes. Soccer. Caleb. Nora. People. But the idea of Keitaro physically occupying a room rather than a rectangle on a screen suddenly felt strange. Maya said, “Hunter's probably nervous.”
 
@@ -714,7 +695,8 @@ Scott said, “He is not obstructing anything.” Gav looked at Scott.
 
 “You're enabling him.”
 
-Scott shrugged. Taiga smiled. Leo sat two rows ahead beside Aaron. He spent most of the session taking notes. Once, Enzo whispered something and Leo shook his head without looking away from the screen. After film, Taiga went back to the dorm alone. He did Calculus. Then laundry. Then Yoichi called. Not messaged. Called. That alone was suspicious. Taiga answered on video. Yoichi appeared under fluorescent lighting with a wooden wall behind him. A familiar wooden wall.
+Scott shrugged. Taiga smiled. Leo sat two rows ahead beside Aaron. He spent most of the session taking notes. Once, Enzo whispered something and Leo shook his head without looking away from the screen. After film, Taiga went back to the dorm alone. He did Calculus. Then laundry. 
+Then Yoichi called. That alone was suspicious. Taiga answered on video. Yoichi appeared under fluorescent lighting with a wooden wall behind him. A familiar wooden wall.
 
 Taiga squinted.
 
@@ -750,9 +732,9 @@ Yoichi clicked his tongue.
 
 “Saturday. The Twinkerbell thing.”
 
-“You can't come.”
+“What about it.”
 
-“Yeah. I fucking noticed.”
+“Nothing. You know I can't fucking come.”
 
 “Hunter knows?”
 
@@ -764,7 +746,7 @@ Yoichi reached for something off-screen. Metal clanged against metal.
 
 “What are you doing?”
 
-“Inventorying this crap because apparently I committed some horrible crime in a past life.”
+“Inventorying this crap.”
 
 He turned the camera. Shelves. Ropes. Lanterns. Old life jackets. Two paddles. A box marked **DOCK HARDWARE**. Camp Buddy in the off-season looked wrong without scouts moving through it. Too clean. Too empty.
 
@@ -842,7 +824,7 @@ Taiga smiled.
 
 “He's literally studying photojournalism.”
 
-“Exactly\! I want normal fucking pictures, not a sad chair in a corner with dramatic lighting.”
+“That's why. I want normal fucking pictures, not a sad chair in a corner with dramatic lighting.”
 
 Taiga laughed.
 
@@ -876,11 +858,9 @@ Taiga looked at him.
 
 “I absolutely will.”
 
-“Dynamite.”
+“Fuck you.”
 
 “Asshole.”
-
-“Try me.”
 
 Taiga smiled. They talked another ten minutes. Yoichi complained that Aiden wanted two sections of dock replaced before summer even though, according to Yoichi, the boards were “fine if people stopped stomping around like fucking elephants.” Taiga pointed out that scouts were professionally qualified to stomp around like idiots. Yoichi admitted this was true, although only after blaming Hiro personally for at least twelve percent of historical dock damage. Then movement appeared behind him. A shoulder first.
 
@@ -954,17 +934,13 @@ Taiga frowned.
 
 “Shut up.”
 
-“Didn't say it was bad.”
-
-“You're still talking.”
-
 Yoichi grinned. There. The call ended three minutes later. Taiga lay back. For a second he pictured Camp Buddy without summer. Empty cabins. Yuki following Yoichi between buildings. Yoshinori moving between the office and the grounds with a clipboard. Aiden arguing with contractors. Yuri somewhere off-site doing whatever Yuri considered a normal errand, which probably meant returning with twice as much as she'd left for. Goro still presiding over all of it. Yoichi swearing at dock boards in the middle.
 
 It suited him strangely well. He'd chosen the one place where staying meant something. Taiga didn't tell him that. Obviously.
 
 ---
 
-Saturday morning training finished at eleven-forty. Taiga had planned for twelve. Mercer had planned for whenever Mercer felt like it. This created a problem. Taiga showered fast. Changed. Packed his training gear badly. The dark green shirt wrinkled inside the garment sleeve he'd carried to House Apollo like an idiot. He went into one of the bathroom stalls to change again because putting on actual clothes in the middle of a soccer locker room felt more ridiculous than nudity somehow.
+Saturday morning training finished at eleven-forty. Taiga had planned for twelve. Mercer had planned for whenever Mercer felt like it. Taiga showered fast. Changed. Packed his training gear badly. The red shirt wrinkled inside the garment sleeve he'd carried to House Apollo like an idiot. He went into one of the bathroom stalls to change again because putting on actual clothes in the middle of a soccer locker room felt more ridiculous than nudity somehow.
 
 When he came out, Aaron looked at him. Then the shirt. Then back at him.
 
@@ -998,9 +974,9 @@ Aaron stared.
 
 “That's good.”
 
-Aaron walked away, shaking his head. Taiga looked at himself in the locker mirror. Dark green. Black jeans. Clean shoes. Fine. Human. He packed the training kit properly this time. At the exit, he nearly walked into Leo. Leo stepped aside fast enough to avoid a collision.
+Aaron walked away, shaking his head. Taiga looked at himself in the locker mirror. Red. Black jeans. Clean shoes. Fine. Human. He packed the training kit properly this time. At the exit, he nearly walked into Leo. Leo stepped aside fast enough to avoid a collision.
 
-“Whoa—okay, sorry. For a second I thought I walked into the wrong locker room. Look at you, actual shirt and everything.”
+“Whoa—okay, sorry. For a second I thought I walked into the wrong locker room. Look at you!”
 
 Taiga stared.
 
@@ -1008,11 +984,7 @@ Taiga stared.
 
 Leo laughed.
 
-“Yeah, obviously\! I meant you're dressed like you're going somewhere that doesn't smell like wet socks. Where are you headed?”
-
-He glanced at the garment sleeve Taiga was stuffing into his bag.
-
-“Wait, is that the art exhibition? Your friend Hunter's thing?”
+“Yeah, obviously\! I meant you're dressed like you're going somewhere that doesn't smell like wet socks. Bet Hunter's gonna appreciate!”
 
 He remembered.
 
@@ -1028,7 +1000,7 @@ Taiga smiled despite himself.
 
 Then Leo's eyes dropped to the shirt. For one second. Maybe less.
 
-“Also, green looks really good on you. Like, seriously. Good choice.”
+“Also, red looks really good on you. Like, seriously. Good choice.”
 
 Taiga forgot what he'd been doing with the zipper on his bag.
 
@@ -1042,7 +1014,7 @@ Leo grinned.
 
 “Yeah, I figured you wouldn't.”
 
-Someone called Leo from down the hallway. Enzo. Of course. Leo turned his head.
+Someone called Leo from down the hallway. Leo turned his head.
 
 “I'm coming\! Give me two seconds\!”
 
@@ -1050,7 +1022,7 @@ Then back to Taiga.
 
 “Have fun, though. And tell Hunter congrats from the random soccer guy he's never met, which I'm sure will mean absolutely nothing to him.”
 
-“Will do.”
+Taiga snorted, “Will do.”
 
 Leo lifted a hand as he started away.
 
@@ -1058,11 +1030,9 @@ Leo lifted a hand as he started away.
 
 “Yeah.”
 
-Taiga walked away. Train. He had a train.
-
 ---
 
-The trip took an hour and twelve minutes. Keitaro and Hiro boarded at the third stop. Taiga knew exactly when they would because Keitaro had sent the itinerary twice, but when the doors opened and Keitaro actually stepped into the carriage, Taiga still stared for half a second.
+Keitaro and Hiro boarded at the 6th stop. Taiga knew exactly when they would because Keitaro had sent the itinerary twice, but when the doors opened and Keitaro actually stepped into the carriage, Taiga still stared for half a second.
 
 “Taiga\! There you are. Hiro was convinced we were boarding at the opposite end.”
 
@@ -1198,7 +1168,7 @@ Taiga smiled. They were all infected.
 
 The train entered the art district with everyone talking over one another again. Different schools, different lives, same noise. That part, at least, had survived.
 
-Hunter's art school occupied a converted industrial building with huge windows and concrete floors. Taiga hated it immediately. Not the building. The people. Too many people dressed better than him. He looked down at the green shirt. Keitaro looked down at the shirt, then back at him.
+Hunter's art school occupied a converted industrial building with huge windows and concrete floors. Taiga hated it immediately. Not the building. The people. Too many people dressed better than him. He looked down at the red shirt. Keitaro looked down at the shirt, then back at him.
 
 “Stop.”
 
@@ -1230,7 +1200,7 @@ Keitaro lifted the camera bag.
 
 “Unfortunately, yes.”
 
-Natsumi smiled. Taiga considered leaving. Then Hunter appeared. Everything else stopped mattering. He came through the gallery doorway quickly, scanning the crowd. Not timid. Nervous. Different. He wore black trousers and a cream shirt with the sleeves rolled once at the wrist. No paint stains. Hair tied properly for once. When he saw them, his shoulders dropped. Not all the way. Enough.
+Natsumi smiled. Taiga considered leaving. Then Hunter appeared. He came through the gallery doorway quickly, scanning the crowd. Nervous. He wore black trousers and a cream shirt with the sleeves rolled once at the wrist. No paint stains. Hair tied properly for once. When he saw them, his shoulders dropped.
 
 “You guys actually made it. S-Sorry, that sounded like I thought you wouldn't. I knew you were coming, I just... I've been looking at the door every thirty seconds like an idiot.”
 
@@ -1380,7 +1350,7 @@ Taiga stared. Hunter held the expression for two seconds. Then both started laug
 
 ---
 
-Hunter had friends here. Of course he did. Taiga knew this intellectually. Still, seeing it was strange. A woman named Elena appeared and hugged Hunter from the side while complaining that somebody had moved her artist statement half an inch. A tall guy named Miles asked Hunter whether Marlowe had finally stopped telling him to “let the material breathe.” Hunter introduced Taiga and the others without hesitation.
+Hunter had friends here. Seeing it was strange. A woman named Elena appeared and hugged Hunter from the side while complaining that somebody had moved her artist statement half an inch. A tall guy named Miles asked Hunter whether Marlowe had finally stopped telling him to “let the material breathe.” Hunter introduced Taiga and the others without hesitation.
 
 “These are my Camp Buddy people—Taiga, Keitaro, Hiro, Natsumi, Eduard and Lee. They're the ones I was telling you about.”
 
@@ -1416,7 +1386,7 @@ Miles said, “I counted seven.” Hunter stared at both of them.
 
 Taiga smiled. There. Hunter in his own place. Arguing. Being teased. Knowing where everything was. People calling his name from across the room. A professor touching his shoulder while saying something about the placement of labels. He wasn't the quiet boy from camp transplanted into art school. He had grown around the place. Taiga liked that. It also made him feel slightly irrelevant. Not bad. Just— Hunter did not need them to make the exhibition real.
 
-They were there because he wanted them there. Different thing. Better thing. Eduard had already found three people whose clothes he wanted to discuss and one painting whose frame he considered a personal attack. Lee was reading every artist statement. Not skimming. Reading. At Hunter's corridor piece, he adjusted his glasses and stood there long enough that Hunter eventually noticed.
+They were there because he wanted them there. Different thing. Better thing. Eduard had already found three people whose clothes he wanted to discuss and one painting whose frame he considered a personal attack. Lee was reading every artist statement. At Hunter's corridor piece, he adjusted his glasses and stood there long enough that Hunter eventually noticed.
 
 “What?”
 
@@ -1572,7 +1542,7 @@ Keitaro smiled faintly.
 
 “I think that's allowed. New things can be good and still feel strange for a while.”
 
-“Brochure.”
+“Brochure speech again.”
 
 “Oh, come on.”
 
@@ -1586,7 +1556,7 @@ Yoichi video-called at seven-oh-five. Hunter was trapped in conversation with Pr
 
 “No hello?”
 
-“Hi. Now quit wasting time and show me the damn wall.”
+“No. Now quit wasting time and show me the damn wall.”
 
 Taiga turned the phone camera. He walked slowly. First room. Crowd. Student sections. Second room. Hunter's wall.
 
@@ -1732,9 +1702,9 @@ Hunter's expression softened.
 
 Yoichi made a face like the sentence had physically inconvenienced him.
 
-“Yeah, yeah. Send me a picture of Yuki before this gets emotional.”
+“Yeah, yeah. Yuki wanted to say hi.”
 
-Hunter smiled wider. Yoichi turned the camera immediately. Yuki was still asleep under the chair, one ear folded wrong. Hunter made a soft, helpless sound.
+Hunter smiled wider. Yoichi turned the camera. Yuki was still asleep under the chair, one ear folded wrong. Hunter made a soft, helpless sound.
 
 “Oh my God. Look at her.”
 
@@ -1834,7 +1804,7 @@ Taiga stared. “Were you in my room?”
 
 “No. I just know you.”
 
-“Creepy.”
+“Creep.”
 
 Hunter asked what came next semester.
 
@@ -1870,19 +1840,11 @@ Leo came up once when Hiro saw an arcade picture.
 
 “Leo.”
 
-“Soccer Leo?”
-
-“Yes.”
-
-“The Computer Science one too?”
-
-“Yes.”
-
 Hiro grinned. “College really said you only get one blond.”
 
 “How many Leos do you think I know?”
 
-“I don't know. My class has three Sofias.”
+“I don't know. My class has three Claras.”
 
 “Your school is cursed.”
 
@@ -1946,7 +1908,7 @@ Keitaro looked down at Hiro and carefully tucked the cup into the seat pocket.
 
 “Months of training. He can fall asleep holding basically anything, so at this point I automatically check his hands before the train starts moving.”
 
-“You're not married yet.”
+“You're not even married yet.”
 
 “I don't think marriage unlocks advanced spill-prevention techniques, Taiga.”
 
@@ -1977,12 +1939,6 @@ Keitaro shrugged.
 Taiga looked at the card. Hunter's name was there in small print. He put it in his bag. Keitaro smiled. Taiga caught the glance.
 
 “Absolutely not.”
-
-Hiro grinned.
-
-“We didn't say anything\!”
-
-“That's the problem. You're coordinating silently now.”
 
 Keitaro laughed quietly so he wouldn't wake Hiro. Then his phone buzzed. He checked it.
 
@@ -2042,7 +1998,7 @@ Hiro closed his eyes again. Taiga laughed.
 
 ---
 
-Taiga reached Olympus just after midnight. The campus gate looked different after being gone all day—not dramatic, just familiar. Same path lamps. Same University Center windows. His bag held training gear, the green exhibition shirt, Hunter's card and one pastry Hiro had forced on him for “breakfast.”
+Taiga reached Olympus just after midnight. The campus gate looked different after being gone all day. Same path lamps. Same University Center windows. His bag held training gear, the green exhibition shirt, Hunter's card and one pastry Hiro had forced on him for “breakfast.”
 
 House Apollo had spent the evening making Roberto the stuffed shark an assistant coach. Taiga smiled at the group chat and put the phone away.
 
