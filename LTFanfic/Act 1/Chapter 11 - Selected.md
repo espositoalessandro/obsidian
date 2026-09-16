@@ -25,38 +25,26 @@ Caleb stirred his oatmeal.
 Taiga's phone vibrated again. Camp Buddy group.
 
 **Hunter:** okay. i did it.
-
-Then, before anybody could ask what *it* meant:
-
 **Hunter:** i submitted the hallway piece to the regional show. i feel slightly sick now, so if anyone needs me i'll be pretending i didn't.
 
 Keitaro answered first. Obviously.
 
-**Keitaro:** YES. Good. I'm really glad you sent it before you had another twelve hours to convince yourself not to. And for the record, feeling sick after submitting something does not retroactively make submitting it a bad idea.
+**Keitaro:** YES. Good. I'm really glad you sent it before you had another twelve hours to convince yourself not to. 
+**Keitaro:** for the record, feeling sick after submitting something does not retroactively make submitting it a bad idea.
 
 Hiro appeared three seconds later.
 
 **Hiro:** HUNTER\!\!\!
-
 **Hiro:** HOLY SHIT OKAY I KNOW I'M NOT SUPPOSED TO SWEAR FOR YOU SO I'LL SWEAR *AT* THE SITUATION
-
 **Hiro:** YOU DID IT\!\!\!
 
 **Hunter:** that is not how swearing works 😭
 
-Natsumi:
-
 **Natsumi:** Congratulations, Hunter. Submitting it was the part you could control. Now please eat breakfast before you spend the entire morning refreshing your email.
-
-Hunter:
 
 **Hunter:** I wasn't going to do that.
 
-Natsumi:
-
 **Natsumi:** You replied in nine seconds.
-
-Yoichi:
 
 **Yoichi:** told you to send it
 
@@ -64,11 +52,7 @@ Yoichi:
 
 **Yoichi:** if they reject it they're idiots
 
-Keitaro:
-
 **Keitaro:** That is not necessarily how juried exhibitions work.
-
-Yoichi:
 
 **Yoichi:** didn't ask camera boy
 
@@ -98,7 +82,7 @@ Taiga stared. Caleb ate oatmeal. The bastard never forgot anything inconvenient.
 
 **Taiga:** good. now stop staring at your email
 
-Hunter reacted with a heart. Taiga immediately regretted participating in society. He locked the phone. Caleb said, “What happened?”
+Hunter reacted with a heart. Taiga immediately regretted participating in society. He locked the phone. Caleb said, “How did?”
 
 “Hunter submitted something.”
 
@@ -176,7 +160,7 @@ Nora whispered, “There. Ruined.” Taiga smiled. Hall saw.
 
 “Mr. Akatora, since you look unusually pleased with the prospect of institutional conflict, start us off.”
 
-Fuck. The room looked toward him. Not all eighty people. Enough. Taiga's pulse moved once, hard. Then steadied. He said, “The obvious answer is that courts aren't supposed to be making policy. They're checking whether policy fits rules that were already adopted at a higher level.” Hall nodded.
+Fuck. The room looked toward him. Taiga's pulse moved once, hard. Then steadied. He said, “The obvious answer is that courts aren't supposed to be making policy. They're checking whether policy fits rules that were already adopted at a higher level.” Hall nodded.
 
 “And the problem with that answer?”
 
@@ -277,10 +261,6 @@ Nora stopped. Taiga stopped too.
 “Into what?”
 
 “Maybe. I don't know.”
-
-“It means maybe.”
-
-“You literally put lunch with me into your calendar now.”
 
 “I have soccer Thursday.”
 
@@ -384,8 +364,6 @@ Taiga's stomach tightened.
 
 “I know.”
 
-“Of course you do.”
-
 Mercer looked at the clipboard.
 
 “Cole's carrying a hamstring issue. Nothing serious, but he's limited this week. Duarte's suspended.”
@@ -407,10 +385,6 @@ Mercer waited. Taiga tried again.
 “First team.”
 
 “That is what matchday squad means.”
-
-“I know what it means.”
-
-“Then why are you repeating me?”
 
 Taiga closed his mouth. Mercer almost smiled. Almost.
 
@@ -444,20 +418,15 @@ Taiga looked down at the grass. First team. Saturday. Home. Westlake.
 
 “That's difficult enough for you.”
 
-“Fuck.”
-
 Mercer pointed toward the building.
 
 “Go shower.”
 
 Taiga took two steps. Then stopped.
 
-“Coach.”
+“Thanks, coach.”
 
 Mercer looked over.
-
-“Thanks.”
-
 The word felt strange. Mercer nodded once.
 
 “Be ready Saturday.”
@@ -514,7 +483,7 @@ Gav, changing at the next row, said, “He absolutely gets to say it that way. H
 
 “I know.”
 
-Leo appeared from behind a locker door, hair damp from the shower and towel over one shoulder.
+Leo rushed from behind a locker door, with still some shampoo on his hair, holding a towel around the waist. One flip flop missing.
 
 “Wait, Mercer called you up?”
 
@@ -524,7 +493,7 @@ Taiga looked over.
 
 Leo's entire face lit.
 
-“Oh, fuck yeah. That's huge. Yes, I know you're on the bench. It still counts. You got picked.”
+“Oh, fuck yeah. That's huge! You got picked.”
 
 Taiga stared.
 
@@ -532,9 +501,7 @@ Taiga stared.
 
 “I can ruin that.”
 
-Enzo pointed at Leo.
-
-“There he is.”
+Enzo groaned, “There he is.”
 
 Leo continued.
 
@@ -558,7 +525,7 @@ Taiga folded his training shirt.
 
 “You're assuming I play.”
 
-“I'm explaining what happens if you do.”
+“I'm telling you what happens if you do.”
 
 “I know.”
 
@@ -566,7 +533,16 @@ Leo smiled.
 
 “Good. Then congratulations.”
 
-He turned back to his locker. Life continued. Aaron bent down beside the bench and picked up a sock.
+He approached his locker.
+Taiga looked at him
+
+"You still have shampoo in your hair"
+
+"Oh shit, right I rushed while I was rinsing"
+
+He turned back to the showers.
+
+Aaron bent down beside the bench and picked up a sock.
 
 “Is this yours?”
 
@@ -588,9 +564,7 @@ Tuesday morning, the equipment manager handed him a black garment bag. Taiga sta
 
 “Yeah.”
 
-“Then take it.”
-
-Taiga did. Inside: Warm-up top. Match shorts. Socks. Travel jacket. A first-team home shirt.
+Taiga took it. Inside: Warm-up top. Match shorts. Socks. Travel jacket. A first-team home shirt.
 
 **41**
 
@@ -598,57 +572,28 @@ Still forty-one. Changing the number would have felt dishonest. The surname acro
 
 “Report Saturday at eleven-thirty. Team meal noon. Meeting one. Warm-up two-ten.”
 
-“Kickoff three.”
-
-The manager looked at him.
-
-“Yes.”
-
-“I know.”
-
-“That's good.”
-
 Taiga put the credential into his bag. He did not photograph the shirt. That would have been embarrassing. He made it all the way outside before photographing the shirt. For documentation. Obviously. He sent it to nobody. Then, after thirty seconds, sent it to the Camp Buddy group. Hiro responded so quickly Taiga suspected he did not attend class anymore.
 
 **Hiro:** WHAT IS THAT
-
 **Hiro:** TAIGA IS THAT FIRST TEAM
-
-Keitaro:
 
 **Keitaro:** Wait. Is that for Saturday??
 
-Hunter:
-
 **Hunter:** oh my god
-
-Natsumi:
 
 **Natsumi:** Congratulations\! Is this your first selection with the senior squad?
 
-Yoichi:
-
 **Yoichi:** took long enough redhead
-
-Taiga typed:
 
 **Taiga:** bench. maybe no minutes. calm down
 
-Hiro:
-
 **Hiro:** NO ❤️
 
-Keitaro:
-
 **Keitaro:** We can be calm and still think this is a big deal. Those things are not mutually exclusive.
-
-Yoichi:
 
 **Yoichi:** speak for yourself
 
 **Yoichi:** SCORE OR DON'T COME BACK
-
-Natsumi:
 
 **Natsumi:** Please ignore him. Being selected at all is meaningful, and if you do play, you don't need to turn your first appearance into a test of your entire future.
 
@@ -656,15 +601,9 @@ Taiga stared. Then:
 
 **Taiga:** all of you are banned from psychology
 
-Hunter:
-
 **Hunter:** I was trying to decide how to phrase it 😭
 
-Taiga:
-
 **Taiga:** that is already too much thought
-
-Hunter:
 
 **Hunter:** ...maybe a little
 
@@ -757,10 +696,6 @@ Taiga waited.
 “That's correct.”
 
 He waited more. Rao smiled faintly.
-
-“Growth.”
-
-“Absolutely not.”
 
 Lina laughed so hard she had to cover her mouth. Rao moved on. Taiga stared at his code. Then at the match credential peeking from the front pocket of his bag. Two unrelated things. He needed unrelated things. Otherwise Saturday would consume the entire week.
 
@@ -968,7 +903,7 @@ Taiga was at his desk.
 
 “Hey.”
 
-“Tomorrow.”
+“Big day tomorrow.”
 
 Taiga closed his eyes.
 
@@ -978,31 +913,9 @@ Keitaro laughed.
 
 “I was going to ask what time.”
 
-“You know what time.”
+“Three. Where's Hiro?”
 
-“Three.”
-
-“Then why ask?”
-
-“Conversation.”
-
-“That seems inefficient.”
-
-“Caleb is ruining you.”
-
-From the other side of room 317, Caleb said, “I heard that.” Keitaro laughed harder.
-
-“Hi, Caleb.”
-
-Caleb lifted one hand without looking away from his laptop. Taiga adjusted the phone.
-
-“Where's Hiro?”
-
-“Kitchen lab ran late. He sent me three messages about a sauce and then stopped answering, so I assume he is either cooking or dead.”
-
-“He'd message you while dead.”
-
-“Probably, yeah.”
+“Kitchen lab ran late. He sent me three messages about a sauce and then stopped answering, so I assume he is cooking.”
 
 Keitaro's expression softened. Taiga caught it.
 
@@ -1046,7 +959,9 @@ Keitaro laughed.
 
 Keitaro laughed. They talked about other things. On purpose. Hunter still had no answer from the regional show because obviously twenty-four hours was not how juries worked. Hiro had an exam Monday and had decided this violated natural law. Natsumi had a swim meet next week. Yoichi had apparently spent two hours arguing with Aiden about whether a broken storage latch needed replacing or “just needed people to stop yanking it like idiots.”
 
-Keitaro had a photo assignment involving public space and had taken fifty-seven photographs of one bus stop. Taiga said that sounded deranged. Keitaro agreed. By the time they hung up, Saturday had become tomorrow again rather than the only day in history. Taiga put the phone down. Caleb said, “Your bag is already packed.” Taiga looked over.
+Keitaro had a photo assignment involving public space and had taken fifty-seven photographs of one bus stop. Taiga said that sounded deranged. Keitaro agreed. 
+By the time they hung up, Saturday had become tomorrow again rather than the only day in history. Taiga put the phone down. 
+Caleb said, “Your bag is already packed.” Taiga looked over.
 
 “So what?”
 
@@ -1111,9 +1026,6 @@ Taiga drank coffee. Caleb watched him for a second. Then:
 “Of course.”
 
 At 10:58 Taiga left. Two minutes early. Reasonable. The walk to House Apollo took twelve minutes. He knew that. He had timed it accidentally by existing. The building looked the same. That was offensive. Same doors. Same sun emblem. Same trophy cases. Same lounge. Inside the locker room, his shirt hung at locker eighteen. First-team shirt. Forty-one. Taiga stopped. Then Aaron bumped his shoulder passing behind him.
-
-“Move.”
-
 Taiga stepped aside automatically. Aaron looked at the shirt. Then at Taiga.
 
 “Looks good.”
@@ -1160,9 +1072,9 @@ Leo saw Taiga. His expression brightened.
 
 “I'm trying to help.”
 
-“Try differently.”
+“You're failing.”
 
-Leo laughed and moved to his locker. Team meal at noon. Chicken. Rice. Vegetables. Food designed by someone who hated surprise. Taiga appreciated it. At 12:57 they moved into the film room. Mercer put the lineup on screen. Mendez starting left. Rosario central. Brennan in midfield. Pierce in goal. Bennett bench. Akatora bench. Nothing changed. Still, seeing his surname under **SUBSTITUTES** made his stomach drop. Mercer spoke for fifteen minutes. Press triggers. Set pieces. Westlake transition.
+Leo laughed and moved to his locker. They moved into the film room. Mercer put the lineup on screen. Mendez starting left. Rosario central. Brennan in midfield. Pierce in goal. Bennett bench. Akatora bench. Nothing changed. Still, seeing his surname under **SUBSTITUTES** made his stomach drop. Mercer spoke for fifteen minutes. Press triggers. Set pieces. Westlake transition.
 
 Then:
 
@@ -1174,7 +1086,9 @@ Taiga wrote that down. Aaron looked over.
 
 “Shut up.”
 
-At two-ten they warmed. The stadium had more people than Taiga expected. Not thousands and thousands. Enough. Students in the near stand. Families. House colors. Noise flattening into one body. Taiga had played reserve matches with parents behind fences and teammates yelling from benches. The announcer read the starting lineup. Leo's name got a cheer. Enzo's too. Gav. Scott. Taiga's did not get read. Excellent. He did not want his name read. Probably. Kickoff. Taiga sat between Aaron and a second-year defender named Malik.
+At two-ten they warmed. The stadium had more people than Taiga expected. Not thousands and thousands. Enough. Students in the near stand. Families. House colors. Noise flattening into one body. Taiga had played reserve matches with parents behind fences and teammates yelling from benches. 
+Suddenly a speaker started welcoming everyone. Taiga's stomach felt weird. Of course there was an announcer for an official match. 
+The announcer read the starting lineup. Leo's name got a cheer. Enzo's too. Gav. Scott. Taiga's did not get read. Excellent. He did not want his name read. Probably. Kickoff. Taiga sat between Aaron and a second-year defender named Malik.
 
 The first five minutes moved too fast even from the bench. Westlake pressed high. Apollo broke once. Leo got isolated against number two. Exactly the defender from film. He did not attack immediately. Played inside. Moved. Got it back. Number two turned. Leo accelerated outside. Cross. Cleared. Information becoming movement. Taiga leaned forward.
 
@@ -1202,19 +1116,13 @@ At minute seventeen, Westlake scored. Corner. Second ball. Deflection. Scott got
 
 Taiga stood with the bench before realizing he had stood. Aaron slapped his shoulder.
 
-“Sit down, first-team superstar.”
-
-“Fuck you.”
-
-They sat. 1–1. Halftime. Locker room. Mercer adjusted shape. Taiga listened. Nobody spoke to him. Second half. Minute fifty-three. Still 1–1. Minute sixty. Mercer sent two substitutes to warm. Not Taiga. He knew this could happen. Leo had told him. Mercer had told him. Taiga had told himself. It still felt like being left out of a room he was already inside. He watched. Minute sixty-seven. Apollo scored. Gav won the ball. Quick pass. Enzo through.
+1–1. Halftime. Locker room. Mercer adjusted shape. Taiga listened. Nobody spoke to him. Second half. Minute fifty-three. Still 1–1. Minute sixty. Mercer sent two substitutes to warm. Not Taiga. He knew this could happen. Leo had told him. Mercer had told him. Taiga had told himself. It still felt like being left out of a room he was already inside. He watched. Minute sixty-seven. Apollo scored. Gav won the ball. Quick pass. Enzo through.
 
 2–1. Westlake pushed higher. Space behind number two widened. Taiga saw it. Of course he saw it now. He had spent the week seeing it. Minute seventy-four. Mercer turned.
 
-“Akatora. Warm.”
+“Akatora. Warm up.”
 
-Taiga's entire body went cold. Then hot. He stood. Aaron slapped his back.
-
-“Go.”
+Taiga's entire body went cold. Then hot. He stood. 
 
 Taiga jogged down the line. Warm-up. Jog. Open hips. Short accelerations. He tried not to watch Mercer. Watched Mercer. Minute seventy-seven. Nothing. Minute seventy-nine. Westlake substitution. Nothing. Minute eighty. Mercer called.
 
@@ -1254,11 +1162,11 @@ Taiga stared.
 
 “I used them.”
 
-Leo grinned and crossed out. Taiga crossed in. The field changed size. Immediately. From the bench it had been geometry. Inside it, everything was closer and faster and louder. First action. Ball on the right. Taiga held width. Westlake shifted. Switch coming. He checked shoulder. Number two three yards away. Ball arrived. Simple. Inside to Gav. Move. Return didn't come. Fine. He ran anyway. Second action. Press. Center-back to fullback. Taiga went. Too early? No.
+Leo grinned, gently slapped Taiga's shoulder and crossed out. Taiga crossed in. The field changed size. Immediately. From the bench it had been geometry. Inside it, everything was closer and faster and louder. First action. Ball on the right. Taiga held width. Westlake shifted. Switch coming. He checked shoulder. Number two three yards away. Ball arrived. Simple. Inside to Gav. Move. Return didn't come. Fine. He ran anyway. Second action. Press. Center-back to fullback. Taiga went. Too early? No.
 
 Pass backward. Third. Long ball. He misjudged it. Ball bounced over his foot and out. Fuck. The sound in his head got louder than the stadium. Stupid. Basic. He turned. Mercer shouted from the sideline.
 
-“Next\!”
+“NEXT\!”
 
 One word. Taiga breathed. Next. Westlake throw. He tracked. Defended. Ball recovered. Five minutes left plus stoppage. Apollo did not need him to become a hero. That was difficult information. He forced himself to accept it.
 
@@ -1306,16 +1214,6 @@ Taiga liked that sentence. Mercer looked around.
 
 “Recovery Monday. Film Tuesday.”
 
-Then his eyes landed on Taiga.
-
-“Akatora.”
-
-Taiga's stomach still reacted.
-
-“Yes?”
-
-“That's good.”
-
 Mercer left. Taiga stared at the door. Enzo yelled, “SPEECH.” Taiga turned.
 
 “No.”
@@ -1328,7 +1226,7 @@ Mercer left. Taiga stared at the door. Enzo yelled, “SPEECH.” Taiga turned.
 
 Gav said, “Please do not encourage him.” Leo came out of the shower with a towel around his waist, hair dripping everywhere.
 
-“Wait, he wants a speech? Oh, absolutely. I want to hear Taiga thank the academy for nine minutes and one foul won.”
+“I want a speech too! I want to hear Taiga thank the academy for nine minutes and one foul won.”
 
 “Twelve,” Aaron said.
 
@@ -1458,9 +1356,9 @@ Taiga laughed.
 
 Taiga froze for half a second. The phrase landed oddly close to something Keitaro would say. Leo apparently noticed his expression.
 
-“Okay, that sounded terrible. I mean I knew he wanted a reaction, not that I'm some genius of human behavior. I once thought my cousin was mad at me for three days and it turned out he had tonsillitis.”
+“Okay, that sounded almost nice. I mean I knew he wanted a reaction, not that I'm some genius of human behavior. I once thought my cousin was mad at me for three days and it turned out he had tonsillitis.”
 
-Taiga laughed harder. There. Better. Leo kept talking. Of course. About Westlake. About the first time he'd played that defender. About Enzo's pizza betrayal. About a ridiculous programming assignment Mia had apparently solved using one function so ugly that Leo described it as “technically alive and legally concerning.” Taiga listened. Not all of it. Enough. At some point Leo asked:
+Taiga laughed harder. There. Better. Leo kept talking. Of course. About Westlake. About the first time he'd played that defender. About Enzo's pizza betrayal. About a ridiculous programming assignment Mia had apparently solved using one function so ugly that Leo described it as “technically alive and legally concerning.” Taiga listened. That surprised him. At some point Leo asked:
 
 “You staying for the game?”
 
@@ -1494,7 +1392,7 @@ Taiga smiled.
 
 Taiga stared. Leo looked proud.
 
-“Growth.”
+“I know. Growth.”
 
 “That's the easiest no in human history.”
 
@@ -1518,14 +1416,6 @@ Leo pointed at himself.
 
 Then he left. Taiga watched him nearly walk into a chair while answering somebody behind him. He corrected at the last second and kept going.
 
-Scott looked over.
-
-“He does that a lot.”
-
-“Walk into furniture?”
-
-“Almost.”
-
 Taiga laughed and went back to his pizza.
 
 ---
@@ -1534,49 +1424,28 @@ He left Apollo at seven-eleven. The time happened to be glowing on the lobby clo
 
 **Keitaro:** YOU PLAYED
 
-Taiga stopped walking. Hiro:
+Taiga stopped walking.
 
 **Hiro:** HE PLAYED????
-
 **Hiro:** WHY DID NO ONE TELL ME I WAS IN LAB
-
-Keitaro:
 
 **Keitaro:** 81st minute\! Olympus won 2-1\!
 
-Natsumi:
-
-**Natsumi:** Congratulations, Taiga\! How did it feel?
-
-Yoichi:
+**Natsumi:** That's great!
 
 **Yoichi:** score?
 
-Keitaro:
-
 **Keitaro:** He was on for ten minutes, Yoichi.
-
-Yoichi:
 
 **Yoichi:** sounds like an excuse
 
-Hunter:
-
 **Hunter:** congratulations\!\! i'm sorry, i don't know what the statistics mean, but the page says you completed four of five passes. is that good?
-
-Eduard:
 
 **Eduard:** I understood approximately none of that page, but your name is on the first-team result and therefore I am choosing celebration.
 
-Lee:
-
 **Lee:** Four completed passes out of five attempts is an eighty-percent completion rate. The sample is obviously too small to infer much, but the appearance itself is the relevant event.
 
-Eduard:
-
 **Eduard:** See? He can make anything romantic if you let him talk long enough.
-
-Lee:
 
 **Lee:** That was not romantic.
 
@@ -1598,48 +1467,30 @@ That was his first-team career. Eight touches. Four completed passes. One ugly h
 
 **Taiga:** didn't die
 
-Hiro:
-
 **Hiro:** THAT IS NOT ENOUGH INFORMATION
-
 **Hiro:** DID YOU TOUCH THE BALL
 
-Taiga:
+**Hunter:** That sounded weird
 
 **Taiga:** apparently eight times
 
-Hiro:
-
 **Hiro:** EIGHT TIMES\!\!\!\!
-
-Taiga:
 
 **Taiga:** why are you excited about the number eight
 
-Hiro:
-
 **Hiro:** BECAUSE LAST WEEK THE NUMBER WAS ZERO
 
-Taiga stopped. Fuck. That was annoyingly good. Keitaro:
+Taiga stopped. Fuck. That was annoyingly good. 
 
 **Keitaro:** Hiro accidentally made a very good point.
 
-Hiro:
-
 **Hiro:** ACCIDENTALLY???
-
-Natsumi:
 
 **Natsumi:** I agree with the point, though perhaps not the volume. Eight touches is eight more than your previous first-team appearance, because you did not have one. That seems worth acknowledging.
 
-Hunter:
-
 **Hunter:** also one clearance\! i looked up what that is 😅
 
-Yoichi:
-
 **Yoichi:** no goal
-
 **Yoichi:** fraud
 
 Taiga smiled so hard he had to look away from nobody. He typed:
@@ -1686,7 +1537,7 @@ Maya closed the laptop halfway.
 
 “Did you win?”
 
-“Yeah, I did.”
+“Yeah, we did.”
 
 “Did you play well?”
 
@@ -1774,11 +1625,7 @@ Taiga was already typing.
 
 **Taiga:** knew it
 
-Hunter:
-
 **Hunter:** you absolutely did not know it
-
-Taiga:
 
 **Taiga:** let me have this
 
@@ -1792,7 +1639,6 @@ Taiga smiled. Caleb glanced at him. Taiga grabbed the pillow. Caleb was already 
 
 Taiga threw it anyway. Caleb caught it. Maya laughed. The credential stayed on the wall. Ten minutes. Eight touches. One clearance. Hunter got into the regional show.
 
-Saturday had apparently decided to be useful. Taiga sat on the bed and looked at the corkboard. Camp Buddy. Olympus. Art. Soccer. Things that had nothing to do with one another except that, somehow, they were all his now. He still did not know what any of it became next. For once, that did not feel like an emergency.
-
----
+Saturday had apparently decided to be ...useful. 
+Taiga sat on the bed and looked at the corkboard. Camp Buddy. Olympus. Art. Soccer. Things that had nothing to do with one another except that, somehow, they were all his now. He still did not know what any of it became next. For once, that did not feel like an emergency.
 

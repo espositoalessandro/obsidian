@@ -112,19 +112,8 @@ Professor Hall entered before Taiga could construct a legally sufficient reason 
 
 **FOUR OF FIVE**
 
-Taiga reached over and crossed it out. She wrote it again underneath. Hall looked up from the front.
-
-“Am I interrupting something academically useful?”
-
-“Yes,” Nora said.
-
-“No,” Taiga said.
-
-Hall looked between them.
-
-“Excellent. Then whatever it is will survive fifty minutes.”
-
-He turned to the board. Taiga looked at Nora. She whispered, “One clearance.” He kicked her chair. Not hard. Unfortunately.
+Taiga reached over and crossed it out. She wrote it again underneath. 
+He kicked her chair. Not hard. Unfortunately.
 
 ---
 
