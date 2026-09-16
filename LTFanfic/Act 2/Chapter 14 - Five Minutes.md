@@ -8,11 +8,11 @@ Camp Buddy did not have that problem. It already fit.
 
 The cabins still smelled like wood and old detergent when the heat came on. The mess hall still had one table that rocked unless somebody folded a napkin under the left leg. The path to the lake still turned to mud after rain in exactly the same places, and Yuki still treated Taiga returning as evidence that she had personally manifested him through force of will.
 
-The first day was quiet, though not empty. Camp Buddy was never completely empty. Yoshinori and Aiden were there most days; Yuri came and went according to a schedule only Yuri seemed capable of understanding; Goro appeared whenever something administrative needed approving, correcting or disapproving of. Yoichi, obviously, was simply there, moving between the maintenance shed, the lodge and whatever had broken most recently as though winter had converted him into part of the grounds.
+The first day was quiet, though not empty. Camp Buddy was never completely empty. Yoshinori and Aiden were there most days; Yuri came and went according to a schedule only Yuri seemed capable of understanding; Goro appeared whenever something administrative needed approving, correcting or disapproving of. Yoichi, obviously, was simply there too, usually somewhere between the lodge and the tree line—or gone entirely because he'd taken Yuki into the woods without telling anyone.
 
 There were no scouts running between cabins, though. No whistles, no shouting from the lake, no breakfast line, no doors slamming because somebody had forgotten a towel. Winter made the place feel like backstage after the audience had gone home.
 
-Taiga liked it more than he expected. He helped Yoichi replace a cracked latch on one of the storage buildings, spent an afternoon with Yoshinori going through old equipment that apparently needed to be sorted into three categories—usable, repairable and “absolutely not, Taiga, that rope is older than you are”—and walked Yuki until Yuki decided snow was edible and had to be physically discouraged. At night, the lodge was quiet enough that the heating pipes became noticeable.
+Taiga liked it more than he expected. He helped Aiden replace a cracked latch on one of the storage buildings, spent an afternoon with Yoshinori going through old equipment that apparently needed to be sorted into three categories—usable, repairable and “absolutely not, Taiga, that rope is older than you are”—and walked Yuki until Yuki decided snow was edible and had to be physically discouraged. At night, the lodge was quiet enough that the heating pipes became noticeable.
 
 Then Keitaro and Hiro arrived, and quiet ended immediately.
 
@@ -442,7 +442,7 @@ Yuri leaned around her father's shoulder. “Oh! The little cookie sign! I remem
 
 Hiro immediately forgot to be offended by Yoshinori. “I can do them better now.”
 
-Taiga believed him. Hunter could probably redraw the campfire circle without erasing every second line. Hiro could make fundraiser cookies that belonged in an actual bakery. Natsumi could teach someone to swim instead of simply being the best person in the water. Keitaro could take a photograph and know why it worked. Yoichi knew which boards on the dock needed replacing before anybody stepped through one.
+Taiga believed him. Hunter could probably redraw the campfire circle without erasing every second line. Hiro could make fundraiser cookies that belonged in an actual bakery. Natsumi could teach someone to swim instead of simply being the best person in the water. Keitaro could take a photograph and know why it worked. Yoichi knew which boards on the dock creaked, which ones flexed and which ones were actually rotten.
 
 Yoshinori handed Taiga the second stack of blankets without checking whether he knew where they went, and Taiga took them.
 
