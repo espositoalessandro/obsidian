@@ -293,7 +293,7 @@ Leo pointed at him. “Okay, don't use the Caleb voice on me.”
 
 “No, there's a specific version where you become aggressively reasonable and it's terrible.”
 
-Taiga smiled. “You signed up for three things on the same day.”
+Taiga snorted, “You signed up for three things on the same day.”
 
 “Two things. The third one is flexible.”
 
@@ -315,7 +315,7 @@ Taiga shook his head, smiling. He looked through the window. Snow had started st
 
 ---
 
-Central Park had been converted into something aggressively seasonal. Lights wrapped every tree along the main path, temporary wooden stalls formed two rows beside the lawn, and a giant illuminated arch announced **OLYMPUS WINTER WEEK** as if winter required branding. Music played from somewhere near the fountain, which had itself been turned off and covered in lights, while the rink occupied the broad plaza beyond it.
+Central Park had been converted into something aggressively seasonal. Lights wrapped every tree along the main path, temporary wooden stalls formed two rows beside the lawn, and a giant illuminated arch announced **WINTER WEEK** as if winter required branding. Music played from somewhere near the fountain, which had itself been turned off and covered in lights, while the rink occupied the broad plaza beyond it.
 
 There were more people than Taiga expected: families, students, children moving at dangerous speeds, couples trying to skate while holding hands and mostly getting in everybody else's way.
 
@@ -367,7 +367,7 @@ Taiga looked at him. “What?”
 
 Taiga stared at him until Leo smiled brightly and stood.
 
-“Come on.”
+“Come on!”
 
 The first thirty seconds were humiliating, although not because Taiga fell. Falling would at least have provided a clear event. Instead he stepped onto the ice and immediately discovered that every movement his body normally used to stop itself from sliding was now wrong. His ankles felt unstable, and the rink barrier became the most trustworthy object in Olympus City.
 
@@ -375,15 +375,15 @@ Leo pushed away beside him with much more confidence than four previous skating 
 
 “Okay. Bend your knees a little.”
 
-“I know.”
+Taiga tried
 
 “You are standing like somebody put a weapon against your spine.”
 
-“I said I know.”
+“I'm trying not to fall.”
 
 “Push sideways, not backward.”
 
-Taiga tried. He moved approximately one meter and stopped badly.
+Taiga tried again. He moved approximately one meter and stopped badly.
 
 Leo clapped once. “Beautiful.”
 
@@ -395,7 +395,7 @@ Leo clapped once. “Beautiful.”
 
 “Different surface.”
 
-The next push was better. A child passed him at roughly highway speed, and Taiga watched her disappear around the curve.
+The next push was better. A child passed him at roughly highway speed, and Taiga watched her disappear around the curve with a depressed face.
 
 “That child is six.”
 
@@ -443,15 +443,13 @@ Taiga laughed. “That's not skating.”
 
 A teenager cut across between them. Leo looked sideways, and Taiga saw the collision before he did.
 
-“Leo.”
+“Watch out!”
 
 Leo turned back too late. He twisted to avoid the teenager, but his skate caught awkwardly and one arm windmilled.
 
 Taiga moved on instinct and grabbed him around the waist. Leo had already lost his balance when Taiga reached him, which ended up pulling both of them on the ground.
 
-For one second, everything stopped.
-
-Leo was lying on the ice on his back. One of Taiga's hands left his waist just in time to stop him from hitting Leo with his own head. 
+Leo fell on the ice on his back. Taiga was on top of him. One of his hands left his waist just in time to stop him from hitting Leo with his own head. 
 Leo's hands were clinging on Taiga's jacket, pulling him towards him.
 They were close enough that Taiga could see the darker ring around Leo's irises and three snowflakes melting in his hair, their breath turning white between them.
 
@@ -460,9 +458,9 @@ Leo stared at him. His mouth opened, but nothing came out.
 He could feel his own ears starting to acquire more heat than necessary.
 That, more than anything, made Taiga move. 
 
-“Well, that was embarassing.”
+“Well, that was embarrassing.”
 
-Taiga didn't answer immediately. He glanced at Leo and  saw that his cheeks were a bit more colored than the usual.
+Taiga didn't answer immediately. He glanced at Leo and saw that his cheeks were a bit more colored than the usual.
 
 "...Yeah."
 
@@ -480,7 +478,7 @@ Leo pushed himself up. “I think I've reached my humiliation quota.”
 
 “You were showing off.”
 
-“Those can overlap.”
+“Teaching requires demonstration.”
 
 They completed another lap, and then another. Taiga got better. Leo stopped skating backward, although Taiga did not mention it.
 
@@ -508,7 +506,7 @@ They carried the drinks toward a row of benches under strings of lights. Snow ha
 
 “You watched them pour it.”
 
-“I believed in cooling.”
+“I believed in thermodynamics.”
 
 “You waited six seconds.”
 
@@ -548,16 +546,11 @@ It wasn't just the language. Leo's whole rhythm changed with it. He spoke faster
 
 “Sí, mañana. Ya revisé. No, el vuelo no está cancelado. Sí, tengo el boleto.” Leo closed his eyes briefly. “Mami, ya te mandé el boleto.”
 
-A woman's voice came through the speaker, quick and warm and much too fast for Taiga to follow. He caught one word only because he already knew it.
-
-“Julio...”
-
 Leo sighed.
 
 “Sí, ya sé que nevó. Créeme, estoy viendo la nieve ahora mismo.”
 
 Taiga drank his coffee. Leo looked at him and raised one warning finger.
-
 Taiga smiled into the cup.
 
 “Sí, tengo la bufanda puesta.”
@@ -570,17 +563,15 @@ Another pause.
 
 “No, no se va a ofender. ¿Y por qué yo iba a mentir con una bufanda?”
 
-Taiga nearly choked. Leo turned away.
+Leo glanced at Taiga while he said it, then turned slightly away.
 
 “Sí, comí.”
 
-Taiga raised an eyebrow, and Leo kicked his shoe lightly.
+His tone shifted into the patient, mildly resigned cadence of somebody answering a familiar question.
+Taiga looked over.
+Leo nudged his shoe with one foot and kept listening.
 
-“Cállate.”
-
-“I didn't say anything.”
-
-Leo covered the bottom of the phone with one hand. “Your face did.”
+“Sí, mami. Ya sé.”
 
 The voice on the other end grew louder for several seconds. Leo sighed.
 
@@ -630,10 +621,6 @@ Taiga considered that.
 
 “Two words. Practically fluent.”
 
-“And you told me to shut up.”
-
-Leo's smile widened. “Three.”
-
 Taiga looked at him. “Your English is really good.”
 
 Leo blinked.
@@ -668,22 +655,20 @@ Taiga laughed.
 
 Leo took a more cautious drink of his chocolate. “Enzo says after midnight I lose about twenty percent of my consonants.”
 
-“That explains why I can't understand either of you after parties.”
+“What about him?”
 
-“That has other causes.”
+"Enzo? Mmmm"
 
-“Alcohol.”
+Leo looked up, thinking
 
-“I was going to say environmental factors.”
+"I'd say thirty-five percent."
 
-“Alcohol.”
+"Very specific."
 
-Leo sighed. “You have no imagination.”
+"You have just turned that into a challenge."
 
 Taiga looked down at his coffee, still smiling.
-
 There was something strange about hearing Leo speak Spanish. Not strange in a bad way. Just another piece of him that had apparently been there the whole time, invisible until somebody called from home.
-
 Leo bumped his shoe against Taiga's.
 
 “Anyway. My mother has confirmed that I possess a ticket, food, keys and the scarf my sister gave me, so international travel may now proceed.”
@@ -704,45 +689,17 @@ Leo bumped his shoe against Taiga's.
 
 “Exactly.”
 
-Leo took another drink, then glanced at Taiga. “Your family like that?”
+Leo took another drink, then glanced at Taiga. “Your family like that?” 
 
 Taiga looked down at his coffee. “No.”
 
 Leo waited.
 
-“Not really a thing,” Taiga added.
+“Much more quiet,” Taiga added.
 
-Leo nodded once. “Okay.”
+Leo nodded once. “Sounds adequate. You going there after camp?”
 
-Taiga looked at him. “You can ask.”
-
-Leo blinked. “What?”
-
-“If you want.”
-
-Leo looked at the cup between his hands for a moment before asking, “Camp Buddy's kind of that for you, right?”
-
-Taiga exhaled. “Sort of.”
-
-“That's why you're going there for part of break.”
-
-“Yeah.”
-
-Leo nodded. “That's cool.”
-
-Taiga watched the snow fall beyond the lights. “Yoshinori gave me somewhere to stay when I needed it. Aiden too. Yuri. Goro. Everybody, eventually.” He smiled slightly. “Yoichi would deny being part of that if you asked him.”
-
-“Obviously.”
-
-“He stayed there too.”
-
-“You said.”
-
-“He's there year-round. Half the time nobody knows where he is because he's wandered into the woods with Yuki.”
-
-Leo smiled. “That actually makes sense for him and I've never met him.”
-
-“It barely makes sense when you have.”
+"Yeah."
 
 They sat quietly for several seconds before Leo broke it, naturally.
 
@@ -770,7 +727,7 @@ Taiga waited.
 
 “Sometimes.”
 
-“You could stop.”
+“You could take a break.”
 
 Leo laughed. “You really like that solution.”
 
@@ -782,19 +739,37 @@ Leo laughed. “You really like that solution.”
 
 Leo turned toward him. “Okay. What did you do between Camp Buddy ending and Olympus?”
 
-Taiga stared at the market. “Avoided making decisions, mostly.”
+Taiga stared at the market. “I've actually lived there for a while.”
 
 Leo raised an eyebrow. Taiga smiled.
 
-“Summer was... intense.”
+“Last year's summer term was... intense.”
 
 “Yeah. You mentioned that.”
 
-He had, on the train. Somehow, the fact that Leo remembered warmed his stomach.
+“Right. After it ended, I wanted to give something back. Camp was in bad financial state. Luckily we managed to have a fundraising and eventually even a sponsor.”
 
-“After it ended, I wanted to give something back. Term finished in late July, so I stayed through August. Then September.”
+"Woah, how did you get a sponsor?"
+
+"Keitaro had a journal, somehow some famous writer read that and decided to publish it. Revenue helped fund camp's renovations."
+
+"I'm guessing this is the ultra compressed version of the story."
+
+Taiga snorted, "Yeah, it is."
 
 Leo waited.
+
+"Anyways, I stayed the whole off-season year to help. Me and Yoichi. Although, he's version of 'helping' is debatable."
+
+They both chuckled.
+
+"Couple of weird adult dramas later, camp was bigger than before. This summer's term was absurd. It was my third term, and I had never seen the camp so filled up."
+
+"Sounds like a perfect ending."
+
+"Yeah. For the camp, it was. For me? I dunno."
+
+"What do you mean?"
 
 “At first it was easy. Everyone else left and started talking about what came next. School. Work. Whatever. I just... stayed.”
 
@@ -804,7 +779,8 @@ Taiga looked down at his coffee. A few people passed in front of them, carrying 
 
 “What changed?”
 
-Taiga laughed once.
+Taiga noticed that he didn't ask what happened.
+He laughed once.
 
 “Scoutmasters. Keitaro. Somehow Yoichi.”
 
@@ -818,7 +794,7 @@ Leo nodded.
 
 “I think that was the difference. I wanted to stay too. Just... not for the same reason.”
 
-“You still belong there.”
+“But you still belong there.”
 
 “Yeah.” Taiga rubbed his thumb along the edge of the cup. “That's not the problem. I just realized belonging there didn't mean I had to make it the rest of my life.”
 
