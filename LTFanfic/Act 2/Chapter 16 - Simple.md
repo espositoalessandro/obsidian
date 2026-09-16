@@ -2,37 +2,23 @@ Owen began Tuesday’s lab by ruining everything.
 
 “New rule.”
 
-Forty people ignored him.
-
-Owen raised his voice.
+Forty people ignored him. Owen raised his voice.
 
 “New rule.”
 
-Thirty-seven people continued ignoring him.
+Thirty-seven people continued ignoring him, but Leo stopped talking, which got Taiga’s attention.
 
-Leo stopped talking.
+Owen waited until the room settled. “For the next three labs, no repeat partners.”
 
-That got Taiga’s attention.
+Leo turned slowly. Taiga looked at him.
 
-Owen waited until the room settled.
-
-“For the next three labs, no repeat partners.”
-
-Leo turned slowly.
-
-Taiga looked at him.
-
-Owen continued.
-
-“You are all getting too comfortable with the same person. In an actual development environment, you don’t get to choose who wrote the code you inherit.”
+Owen continued. “You are all getting too comfortable with the same person. In an actual development environment, you don’t get to choose who wrote the code you inherit.”
 
 Somebody near the back said, “Unfortunately.”
 
 “Exactly.”
 
-Leo leaned toward Taiga.
-
-“This is authoritarian.”
+Leo leaned toward Taiga. “This is authoritarian.”
 
 “It’s a lab.”
 
@@ -40,15 +26,11 @@ Leo leaned toward Taiga.
 
 “Owen is looking at you.”
 
-Leo looked toward the front.
-
-Owen was, in fact, looking directly at him.
+Leo looked toward the front. Owen was, in fact, looking directly at him.
 
 “Mr. Mendez.”
 
-Leo smiled.
-
-“Love the policy.”
+Leo smiled. “Love the policy.”
 
 “Move.”
 
@@ -56,15 +38,11 @@ Leo smiled.
 
 He picked up his laptop with the solemnity of someone being forcibly relocated by the state and went two rows over.
 
-Mia dropped into the empty seat beside Taiga.
-
-“Hi.”
+Mia dropped into the empty seat beside Taiga. “Hi.”
 
 “Hey.”
 
-She set down her laptop.
-
-“Hash tables.”
+She set down her laptop. “Hash tables.”
 
 “Finally.”
 
@@ -76,27 +54,17 @@ She set down her laptop.
 
 They started.
 
-Mia was good.
-
-Not good in the same way Leo was good.
-
-Leo attacked code like it had personally challenged him.
-
-Mia read first, asked questions, then wrote exactly what she meant. No unnecessary movement. No dramatic declarations. No calling an array a “little guy” when it behaved correctly.
+Mia was good, though not in the same way Leo was good. Leo attacked code like it had personally challenged him; Mia read first, asked questions, then wrote exactly what she meant. No unnecessary movement. No dramatic declarations. No calling an array a “little guy” when it behaved correctly.
 
 Taiga appreciated this.
 
-Twenty minutes in, Mia pointed at one function.
-
-“You’re going to make a helper.”
+Twenty minutes in, Mia pointed at one function. “You’re going to make a helper.”
 
 “Yes.”
 
 “Leo complains about that, right?”
 
-Taiga looked at her.
-
-“How do you know?”
+Taiga looked at her. “How do you know?”
 
 “You two argued about helpers for an entire lab.”
 
@@ -104,51 +72,29 @@ Taiga looked at her.
 
 “Everyone heard that.”
 
-Mia scrolled down.
+Mia scrolled down. “I’m not saying he’s right. I’m saying if you build another federal agency, I’m leaving.”
 
-“I’m not saying he’s right. I’m saying if you build another federal agency, I’m leaving.”
-
-Taiga stared.
-
-“He told you.”
+Taiga stared. “He told you.”
 
 “He tells everyone.”
 
 “Of course he fucking does.”
 
-Across the room, Leo looked over as if summoned.
+Across the room, Leo looked over as if summoned. His eyebrows lifted; Taiga gave him the finger; Leo grinned and went back to Rachel’s screen.
 
-His eyebrows lifted.
-
-Taiga gave him the finger.
-
-Leo grinned and went back to Rachel’s screen.
-
-Mia tapped the function with one fingernail.
-
-“Helper. Singular.”
+Mia tapped the function with one fingernail. “Helper. Singular.”
 
 “Fine.”
 
-They finished fifteen minutes early.
-
-Mia ran the tests again.
-
-All green.
+They finished fifteen minutes early. Mia ran the tests again and got all green.
 
 “Okay.”
 
 “Okay.”
 
-She started packing.
+She started packing while Taiga looked toward Leo’s row. Leo and Rachel were still debugging, their screen red.
 
-Taiga looked toward Leo’s row.
-
-Leo and Rachel were still debugging. Their screen showed red.
-
-Mia stood.
-
-“Coffee?”
+Mia stood. “Coffee?”
 
 “I’ll wait.”
 
@@ -156,23 +102,13 @@ Mia stood.
 
 “Yeah.”
 
-She left.
-
-Taiga opened the assignment notes.
-
-Read one paragraph.
-
-Then another.
-
-Leo swore quietly from across the room.
+She left. Taiga opened the assignment notes and read one paragraph, then another. Leo swore quietly from across the room.
 
 Thirty seconds later, Taiga’s Oracle buzzed.
 
 **Leo:** do not leave
 
-Taiga looked over.
-
-Leo was staring at his screen with the expression of a man whose house had been condemned.
+Taiga looked over. Leo was staring at his screen with the expression of a man whose house had been condemned.
 
 **Taiga:** wasn't planning to
 
@@ -184,9 +120,7 @@ Taiga put the Oracle down and kept reading.
 
 ---
 
-Rachel left seven minutes later.
-
-Leo arrived at Taiga’s desk with his laptop under one arm.
+Rachel left seven minutes later. Leo arrived at Taiga’s desk with his laptop under one arm.
 
 “That was humiliating.”
 
@@ -198,23 +132,11 @@ Leo arrived at Taiga’s desk with his laptop under one arm.
 
 “Collision handling.”
 
-Taiga held out his hand.
+Taiga held out his hand, and Leo gave him the laptop. Linear probing. One edge case.
 
-Leo gave him the laptop.
+Taiga pointed. “You increment before checking wraparound.”
 
-Linear probing.
-
-One edge case.
-
-Taiga pointed.
-
-“You increment before checking wraparound.”
-
-Leo stared.
-
-Then slapped a hand over his face.
-
-“Oh, fuck off.”
+Leo stared, then slapped a hand over his face. “Oh, fuck off.”
 
 “That’s the bug.”
 
@@ -226,23 +148,13 @@ Then slapped a hand over his face.
 
 “You’re an idiot.”
 
-Leo dropped into Mia’s old chair.
+Leo dropped into Mia’s old chair. Taiga turned the laptop back around, and Leo changed the line himself. Tests passed.
 
-Taiga turned the laptop back around.
-
-Leo changed the line himself.
-
-Tests passed.
-
-He leaned back.
-
-“Okay. Fine. I feel better.”
+He leaned back. “Okay. Fine. I feel better.”
 
 “You needed me to tell you your modulo was in the wrong place?”
 
-Leo closed the laptop.
-
-“Maybe I needed coffee.”
+Leo closed the laptop. “Maybe I needed coffee.”
 
 “Then say coffee.”
 
@@ -254,165 +166,71 @@ They left.
 
 ---
 
-The problem with Leo having a bad practice was that at first nobody realized Leo was having a bad practice.
+The problem with Leo having a bad practice was that at first nobody realized Leo was having a bad practice. He still talked, still ran, still shouted for the ball, still congratulated Enzo after a clean finish and told Scott his save was disgusting in a positive way.
 
-He still talked.
+The football kept leaving his foot wrong: first touch too long, pass behind the runner, cross overhit, then another. Then he tried to fix all of it at once, which made it worse.
 
-Still ran.
+Taiga noticed during the possession drill. Leo received from Gav near the touchline. He should have played backward; instead he turned into pressure, tried to slip between two defenders and lost the ball.
 
-Still shouted for the ball.
+Mercer blew the whistle. “Mendez.”
 
-Still congratulated Enzo after a clean finish and told Scott his save was disgusting in a positive way.
-
-The football kept leaving his foot wrong.
-
-First touch too long.
-
-Pass behind the runner.
-
-Cross overhit.
-
-Then another.
-
-Then he tried to fix all of it at once.
-
-That made it worse.
-
-Taiga noticed during the possession drill.
-
-Leo received from Gav near the touchline. He should have played backward. Instead he turned into pressure, tried to slip between two defenders and lost the ball.
-
-Mercer blew the whistle.
-
-“Mendez.”
-
-Leo stopped.
-
-“Yeah?”
+Leo stopped. “Yeah?”
 
 “Simple.”
 
-Leo nodded.
+Leo nodded. “Got it.”
 
-“Got it.”
-
-They reset.
-
-Thirty seconds later, he tried a first-time diagonal pass through a window that had existed approximately one second earlier.
+They reset. Thirty seconds later, he tried a first-time diagonal pass through a window that had existed approximately one second earlier.
 
 Intercepted.
 
-Evan collected it and played back inside.
+Evan collected it and played back inside. “Take the touch first, Mendez.”
 
-“Take the touch first, Mendez.”
+Leo lifted a hand. “Yeah.”
 
-Leo lifted a hand.
-
-“Yeah.”
-
-Next possession, another ball came into him too fast. His touch bounced half a meter farther than he wanted.
-
-Enzo jogged past.
+Next possession, another ball came into him too fast and his touch bounced half a meter farther than he wanted. Enzo jogged past.
 
 “Bro, the ball owes you money or something?”
 
 “Not now.”
 
-Enzo’s expression changed.
-
-Leo closed his eyes.
+Enzo’s expression changed. Leo closed his eyes.
 
 “Sorry. That was shitty.”
 
-Enzo bumped his shoulder once.
+Enzo bumped his shoulder once. “Then stop being shitty.”
 
-“Then stop being shitty.”
+Leo laughed, barely. “Working on it.”
 
-Leo laughed, barely.
-
-“Working on it.”
-
-Practice continued.
-
-Taiga had his own work, but the pattern was obvious now. Leo was arriving at decisions before the ball arrived. Trying to solve the next pass before controlling the current one.
-
-Every mistake made him play quicker.
-
-Every quicker decision created another mistake.
+Practice continued. Taiga had his own work, but the pattern was obvious now: Leo was arriving at decisions before the ball arrived, trying to solve the next pass before controlling the current one. Every mistake made him play quicker, and every quicker decision created another mistake.
 
 By the end of the scrimmage, Mercer pulled him out.
 
 “Mendez. Two minutes.”
 
-Leo came off, grabbed water and watched.
+Leo came off, grabbed water and watched. A minute later Mercer put him back in, and Leo played simple: one touch, two, back, across, run, receive, release. Nothing spectacular. Nothing broke.
 
-A minute later Mercer put him back in.
-
-Leo played simple.
-
-One touch.
-
-Two.
-
-Back.
-
-Across.
-
-Run.
-
-Receive.
-
-Release.
-
-Nothing spectacular.
-
-Nothing broke.
-
-Practice ended.
-
-People stretched.
-
-Mercer gave them Thursday’s schedule.
-
-Taiga was taking off his bib when Enzo called across to Leo.
+Practice ended. People stretched, Mercer gave them Thursday’s schedule, and Taiga was taking off his bib when Enzo called across to Leo.
 
 “Good practice.”
 
-Leo looked at him.
-
-Enzo smiled.
+Leo looked at him. Enzo smiled.
 
 “For everybody except you.”
 
-Leo shoved him.
-
-“Fuck you.”
+Leo shoved him. “Fuck you.”
 
 “Better.”
 
 ---
 
-The locker room was loud.
+The locker room was loud. Leo changed two benches over, talking to Gav about some assignment, and by the time Taiga packed his bag and stood, Leo was already gone.
 
-Leo changed two benches over, talking to Gav about some assignment. By the time Taiga packed his bag and stood, Leo was already gone.
+Taiga left through the side doors into cold air and early evening. The sky was already dark. At the first intersection, he saw Leo sitting on the low concrete wall beside the vending machines outside the training complex.
 
-Taiga left through the side doors.
+Alone. Not hiding. Not the balcony. Just sitting there with his elbows on his knees and an unopened bottle of water between his hands.
 
-Cold air.
-
-Early evening.
-
-The sky was already dark.
-
-At the first intersection, he saw Leo sitting on the low concrete wall beside the vending machines outside the training complex.
-
-Alone.
-
-Not hiding. Not the balcony. Just sitting there with his elbows on his knees and an unopened bottle of water between his hands.
-
-Taiga walked over.
-
-Leo looked up.
+Taiga walked over. Leo looked up.
 
 “Hey.”
 
@@ -426,25 +244,17 @@ Leo looked up.
 
 “Then what are you doing?”
 
-Leo looked at the bottle.
-
-“Being annoyed.”
+Leo looked at the bottle. “Being annoyed.”
 
 “Okay.”
 
-Taiga sat beside him.
-
-Leo glanced over.
+Taiga sat beside him. Leo glanced over.
 
 “You don’t have to.”
 
 “I know.”
 
-Traffic moved beyond the Sports Zone.
-
-Somewhere behind the building, a maintenance cart beeped while reversing.
-
-Leo lasted forty seconds.
+Traffic moved beyond the Sports Zone, and somewhere behind the building a maintenance cart beeped while reversing. Leo lasted forty seconds.
 
 “Everyone keeps doing the thing.”
 
@@ -454,19 +264,11 @@ Leo lasted forty seconds.
 
 “It was.”
 
-Leo looked at him.
-
-Taiga continued.
+Leo looked at him. Taiga continued.
 
 “And you were shit.”
 
-Silence.
-
-Then Leo laughed.
-
-Actually laughed.
-
-He bent forward and covered his face.
+Silence. Then Leo laughed—actually laughed—and bent forward to cover his face.
 
 “Thank you.”
 
@@ -480,9 +282,7 @@ He bent forward and covered his face.
 
 “Four passes.”
 
-Leo looked offended.
-
-“Fuck you.”
+Leo looked offended. “Fuck you.”
 
 “Four.”
 
@@ -494,23 +294,15 @@ Leo looked offended.
 
 “It was supposed to be.”
 
-Leo pointed at him.
+Leo pointed at him. “You see why I like you?”
 
-“You see why I like you?”
-
-Taiga paused.
-
-Leo kept going.
+Taiga paused. Leo kept going.
 
 “You don’t do the fake reassurance thing.”
 
-Taiga looked toward the road.
+Taiga looked toward the road. “You were trying to fix the mistake before it happened.”
 
-“You were trying to fix the mistake before it happened.”
-
-Leo frowned.
-
-“What?”
+Leo frowned. “What?”
 
 “Your first touch.”
 
@@ -522,9 +314,7 @@ Leo frowned.
 
 “No. You were already looking at the second pass.”
 
-Leo stared at him.
-
-Taiga mimed the movement with one hand.
+Leo stared at him. Taiga mimed the movement with one hand.
 
 “Every time the ball came in, your head was up before you had it under control. Then the touch went long. Then you got pissed and tried to play faster.”
 
@@ -544,9 +334,7 @@ Leo was quiet.
 
 “Then shut up.”
 
-Leo smiled and finally opened the water.
-
-After a drink, he said, “I hate being bad at things I know I’m good at.”
+Leo smiled and finally opened the water. After a drink, he said, “I hate being bad at things I know I’m good at.”
 
 Taiga looked over.
 
@@ -564,13 +352,9 @@ Taiga looked over.
 
 “Fair.”
 
-Taiga thought.
+Taiga thought. “When something should be easy, I make it harder.”
 
-“When something should be easy, I make it harder.”
-
-Leo’s mouth twitched.
-
-“Federal agency.”
+Leo’s mouth twitched. “Federal agency.”
 
 “Shut up.”
 
@@ -578,19 +362,13 @@ Leo’s mouth twitched.
 
 “I’m leaving.”
 
-Leo caught the sleeve of Taiga’s jacket.
+Leo caught the sleeve of Taiga’s jacket. “Sorry. Go.”
 
-“Sorry. Go.”
-
-Taiga stayed.
-
-Leo let go.
+Taiga stayed, and Leo let go.
 
 “If I know something, I start thinking I should know all of it,” Taiga said. “Then I make the problem bigger than it is.”
 
-Leo nodded slowly.
-
-“Yeah.”
+Leo nodded slowly. “Yeah.”
 
 “So maybe you did the same thing.”
 
@@ -600,9 +378,7 @@ Leo nodded slowly.
 
 “Debatable.”
 
-Taiga smiled.
-
-Leo looked toward the dark practice fields.
+Taiga smiled. Leo looked toward the dark practice fields.
 
 “Simple.”
 
@@ -628,9 +404,7 @@ Leo laughed again.
 
 ---
 
-They walked back together.
-
-At the split near Central Park, Leo stopped.
+They walked back together. At the split near Central Park, Leo stopped.
 
 “I’m going that way.”
 
@@ -638,9 +412,7 @@ At the split near Central Park, Leo stopped.
 
 “Right.”
 
-Leo adjusted his backpack strap.
-
-“Thanks.”
+Leo adjusted his backpack strap. “Thanks.”
 
 “For what?”
 
@@ -658,13 +430,9 @@ Leo adjusted his backpack strap.
 
 “Yeah.”
 
-Taiga shrugged.
+Taiga shrugged. “Then fix it Thursday.”
 
-“Then fix it Thursday.”
-
-Leo smiled.
-
-“Bossy.”
+Leo smiled. “Bossy.”
 
 “Go home.”
 
@@ -672,9 +440,7 @@ Leo smiled.
 
 “Night.”
 
-Leo walked away.
-
-After twenty meters, Taiga’s Oracle buzzed.
+Leo walked away. After twenty meters, Taiga’s Oracle buzzed.
 
 **Leo:** btw if i play like shit thursday you are legally required to lie to me
 
@@ -698,29 +464,9 @@ Taiga locked the Oracle and kept walking.
 
 ---
 
-Thursday, Leo played better.
+Thursday, Leo played better. Not magically and not perfectly—he misplaced a cross in the first ten minutes and swore loud enough for Mercer to hear—but he controlled the ball before trying to solve the universe. Two touches, sometimes three. He stopped forcing the second pass before the first one existed.
 
-Not magically.
-
-Not perfectly.
-
-He misplaced a cross in the first ten minutes and swore loud enough for Mercer to hear.
-
-But he controlled the ball before trying to solve the universe.
-
-Two touches.
-
-Sometimes three.
-
-He stopped forcing the second pass before the first one existed.
-
-Taiga saw it.
-
-Across the field, Leo pointed at him once.
-
-Taiga gave him the finger.
-
-Mercer shouted at both of them to pay attention.
+Taiga saw it. Across the field, Leo pointed at him once; Taiga gave him the finger; Mercer shouted at both of them to pay attention.
 
 ---
 
@@ -734,23 +480,13 @@ Nobody answered.
 
 Leo whispered, “We’re conserving resources.”
 
-Taiga opened his laptop.
-
-Owen connected to the display.
+Taiga opened his laptop while Owen connected to the display.
 
 “Partner restrictions are done. Choose whoever. Today we’re doing trees.”
 
-Chairs moved.
+Chairs moved. Leo moved his chair, Taiga shifted his laptop between them, and Owen started explaining binary search trees.
 
-Leo moved his chair.
-
-Taiga shifted his laptop between them.
-
-Owen started explaining binary search trees.
-
-Leo leaned closer.
-
-“Okay. Simple.”
+Leo leaned closer. “Okay. Simple.”
 
 “What?”
 
@@ -766,6 +502,4 @@ Leo leaned closer.
 
 “It is now.”
 
-Leo laughed.
-
-They started.
+Leo laughed, and they started.

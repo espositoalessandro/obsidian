@@ -1,52 +1,22 @@
 Monday was worse because nothing was wrong.
 
-Olympus still existed.
-
-Classes started on time.
-
-The dining hall served eggs that tasted exactly as mediocre as they had on Thursday.
-
-Somebody had left a bicycle chained to the wrong side of the rack outside Central.
-
-The weather was cold without being interesting.
+Olympus still existed. Classes started on time. The dining hall served eggs that tasted exactly as mediocre as they had on Thursday. Somebody had left a bicycle chained to the wrong side of the rack outside Central. The weather was cold without being interesting.
 
 Everything continued.
 
 Taiga hated it.
 
-He woke at seven-forty to Caleb’s third alarm.
+He woke at seven-forty to Caleb’s third alarm. The first was apparently decorative, the second existed to prepare Caleb emotionally for the third, and the third was the one that mattered.
 
-The first was apparently decorative.
+Normally Taiga would have said so. Today he stared at the ceiling.
 
-The second existed to prepare Caleb emotionally for the third.
-
-The third was the one that mattered.
-
-Normally Taiga would have said so.
-
-Today he stared at the ceiling.
-
-Caleb killed the alarm and sat up.
-
-“You’re awake.”
+Caleb killed the alarm and sat up. “You’re awake.”
 
 “No.”
 
-Caleb started his routine.
+Caleb started his routine: bathroom, water, window, desk.
 
-Bathroom.
-
-Water.
-
-Window.
-
-Desk.
-
-Taiga checked his Oracle.
-
-Three group notifications.
-
-A message from Keitaro from yesterday afternoon.
+Taiga checked his Oracle. Three group notifications and a message from Keitaro from yesterday afternoon.
 
 **Keitaro:** Hope the exchange went well! The mountain campus looked beautiful in the picture you sent.
 
@@ -54,13 +24,9 @@ Then, later:
 
 **Keitaro:** You’re probably on the bus. Message me when you get home if you’re not too tired.
 
-Taiga had not replied.
+Taiga had not replied. There was no message from Leo.
 
-No message from Leo.
-
-He put the Oracle down.
-
-Caleb looked over.
+He put the Oracle down. Caleb looked over.
 
 “Recovery at four?”
 
@@ -70,9 +36,7 @@ Caleb looked over.
 
 “Fine.”
 
-Caleb paused.
-
-Taiga stared.
+Caleb paused. Taiga stared.
 
 “What?”
 
@@ -84,147 +48,65 @@ Caleb left five minutes later without asking anything else.
 
 ---
 
-Data Structures lecture was at ten.
+Data Structures lecture was at ten. Leo was already there in the same row, two chairs farther over than usual.
 
-Leo was already there.
-
-Same row.
-
-Two chairs farther over than usual.
-
-Taiga stopped at the aisle.
-
-Leo looked up.
+Taiga stopped at the aisle. Leo looked up.
 
 “Hey.”
 
 “Hey.”
 
-Taiga took his usual seat.
+Taiga took his usual seat, leaving two empty chairs between them.
 
-Two empty chairs remained between them.
+Professor Rao entered. Graphs, traversal, breadth-first, depth-first. Taiga wrote notes. Leo wrote notes.
 
-Professor Rao entered.
+At one point Rao made a joke about recursive functions calling themselves into therapy. Leo laughed. Taiga nearly turned, then kept looking forward.
 
-Graphs.
+When lecture ended, they reached the aisle at the same time and both stopped.
 
-Traversal.
-
-Breadth-first.
-
-Depth-first.
-
-Taiga wrote notes.
-
-Leo wrote notes.
-
-At one point Rao made a joke about recursive functions calling themselves into therapy.
-
-Leo laughed.
-
-Taiga nearly turned.
-
-He kept looking forward.
-
-When lecture ended, they reached the aisle at the same time.
-
-Both stopped.
-
-Leo gestured.
-
-“You go.”
+Leo gestured. “You go.”
 
 Taiga went.
 
-Halfway down the stairs:
-
-“Taiga.”
+Halfway down the stairs, Leo called, “Taiga.”
 
 He turned too quickly.
 
-Leo held out a pen.
+Leo held out a pen. “You dropped this.”
 
-“You dropped this.”
-
-Taiga took it.
-
-“Thanks.”
+Taiga took it. “Thanks.”
 
 “Yeah.”
 
-Leo went the other way.
-
-Taiga stood there until someone behind him said, “Can you move?”
+Leo went the other way. Taiga stood there until someone behind him said, “Can you move?”
 
 He moved.
 
 ---
 
-Recovery training should not have been difficult.
+Recovery training should not have been difficult: light mobility, low-intensity work, small possession, no conditioning.
 
-Light mobility.
-
-Low-intensity work.
-
-Small possession.
-
-No conditioning.
-
-The locker room before training was normal enough to be offensive.
-
-Enzo complained about his calves.
-
-Scott explained why they hurt.
-
-Enzo regretted asking.
-
-Aaron came in later than usual and changed quietly.
-
-Leo arrived two minutes after him, said something to Scott and laughed.
+The locker room before training was normal enough to be offensive. Enzo complained about his calves, Scott explained why they hurt, and Enzo regretted asking. Aaron came in later than usual and changed quietly. Leo arrived two minutes after him, said something to Scott and laughed.
 
 Normal.
 
 Mercer called them out.
 
-During possession, Taiga and Leo ended up in the same square once.
+During possession, Taiga and Leo ended up in the same square once. Five versus two. Fast enough that nobody had time to think.
 
-Five versus two.
+Gav to Leo. Leo to Enzo. Enzo to Taiga. Taiga back to Leo.
 
-Fast enough that nobody had time to think.
-
-Gav to Leo.
-
-Leo to Enzo.
-
-Enzo to Taiga.
-
-Taiga back to Leo.
-
-One touch.
-
-Clean.
+One touch. Clean.
 
 Leo called, “Turn.”
 
-Taiga turned.
-
-Played.
+Taiga turned and played.
 
 Leo said, “Yep.”
 
-Then the ball went out.
+Then the ball went out. Whistle. Reset. The space returned.
 
-Whistle.
-
-Reset.
-
-The space returned.
-
-After training, Mercer held Aaron back.
-
-Leo left with Gav.
-
-Enzo asked Taiga if he was going to dinner.
+After training, Mercer held Aaron back. Leo left with Gav, while Enzo asked Taiga if he was going to dinner.
 
 “No.”
 
@@ -240,21 +122,17 @@ Enzo stared.
 
 “Fuck off.”
 
-Enzo smiled slightly.
-
-“Okay.”
+Enzo smiled slightly. “Okay.”
 
 Taiga left.
 
-He was halfway across the athletic complex when he heard:
+He was halfway across the athletic complex when he heard his name.
 
 “Taiga.”
 
 Aaron.
 
-Taiga kept walking.
-
-Aaron caught up.
+Taiga kept walking. Aaron caught up.
 
 “Can I talk to you?”
 
@@ -262,71 +140,51 @@ Aaron caught up.
 
 “Okay.”
 
-Aaron kept walking beside him.
-
-Taiga stopped.
+Aaron kept walking beside him. Taiga stopped.
 
 “I said no.”
 
-Aaron stopped too.
-
-“I need to say something.”
+Aaron stopped too. “I need to say something.”
 
 “I don’t care.”
 
 “I know.”
 
-Taiga’s expression sharpened.
-
-Aaron corrected himself.
+Taiga’s expression sharpened. Aaron corrected himself.
 
 “Right. Sorry.”
 
-Students passed behind them.
-
-Aaron took a breath.
+Students passed behind them. Aaron took a breath.
 
 “I was out of line.”
 
-Taiga laughed once.
-
-“That’s your big revelation?”
+Taiga laughed once. “That’s your big revelation?”
 
 “No.”
 
 “Then hurry up.”
 
-Aaron’s jaw tightened.
-
-“All weekend I felt like I was failing in public. Hale kept changing things. Mercer wouldn’t rescue me. I wasn’t sleeping. Every correction felt like everybody could see I didn’t know what I was doing.”
+Aaron’s jaw tightened. “All weekend I felt like I was failing in public. Hale kept changing things. Mercer wouldn’t rescue me. I wasn’t sleeping. Every correction felt like everybody could see I didn’t know what I was doing.”
 
 “Not my problem.”
 
 “No.” Aaron nodded. “It wasn’t.”
 
-Taiga waited.
-
-Aaron looked at the pavement.
+Taiga waited. Aaron looked at the pavement.
 
 “And I made it yours.”
 
 That stopped him.
 
-Aaron continued.
-
-“I was pissed. You hit exactly where it hurt, and I wanted to hit back harder.”
+Aaron continued. “I was pissed. You hit exactly where it hurt, and I wanted to hit back harder.”
 
 “So you dragged Leo into it.”
 
 “Yeah.”
 
-Aaron looked up.
+Aaron looked up. “I’d noticed you two were around each other a lot. That was it. I didn’t know what it meant. I still don’t. I knew bringing it up would get a reaction, so I did.”
 
-“I’d noticed you two were around each other a lot. That was it. I didn’t know what it meant. I still don’t. I knew bringing it up would get a reaction, so I did.”
-
-Taiga’s hands curled.
-
-Aaron saw it.
+Taiga’s hands curled. Aaron saw it.
 
 “It was fucked.”
 
@@ -334,25 +192,15 @@ Silence.
 
 “I’m sorry.”
 
-No speech after it.
+No speech after it. No defense.
 
-No defense.
-
-Taiga wanted to say something cruel.
-
-Something specific enough to land.
-
-He could.
-
-That was the problem.
+Taiga wanted to say something cruel, something specific enough to land. He could. That was the problem.
 
 He swallowed it.
 
 “I’m still fucking angry.”
 
-Aaron nodded.
-
-“Yeah.”
+Aaron nodded. “Yeah.”
 
 “I don’t forgive you.”
 
@@ -360,29 +208,17 @@ Aaron nodded.
 
 “I don’t know if I will.”
 
-Aaron’s face tightened.
+Aaron’s face tightened. “Okay.”
 
-“Okay.”
+Taiga looked away, then asked, “What did Mercer say?”
 
-Taiga looked away.
-
-Then:
-
-“What did Mercer say?”
-
-Aaron blinked.
-
-“That I’m an adult and he shouldn’t have to explain why humiliating teammates is bad for team cohesion.”
+Aaron blinked. “That I’m an adult and he shouldn’t have to explain why humiliating teammates is bad for team cohesion.”
 
 “That sounds like him.”
 
 “Pretty much word for word.”
 
-A small piece of the old friendship sat there between them.
-
-Damaged.
-
-Still recognizable.
+A small piece of the old friendship sat there between them, damaged but still recognizable.
 
 Aaron said, “I owe Leo an apology too.”
 
@@ -390,13 +226,9 @@ Aaron said, “I owe Leo an apology too.”
 
 Aaron nodded.
 
-Taiga started walking.
+Taiga started walking. Aaron did not follow.
 
-Aaron did not follow.
-
-After ten steps, Taiga stopped.
-
-“Aaron.”
+After ten steps, Taiga stopped. “Aaron.”
 
 “Yeah?”
 
@@ -404,13 +236,7 @@ After ten steps, Taiga stopped.
 
 “I won’t.”
 
-Taiga turned.
-
-Aaron held his gaze.
-
-No joke.
-
-No challenge.
+Taiga turned. Aaron held his gaze. No joke. No challenge.
 
 “Okay.”
 
@@ -420,15 +246,7 @@ But not nothing.
 
 ---
 
-Caleb was at his desk when Taiga returned.
-
-Economics textbook.
-
-Headphones around his neck.
-
-Spreadsheet open.
-
-Normal Caleb environment.
+Caleb was at his desk when Taiga returned, surrounded by an Economics textbook, headphones around his neck and an open spreadsheet. Normal Caleb environment.
 
 Taiga dropped his bag.
 
@@ -440,51 +258,35 @@ Taiga dropped his bag.
 
 “Not hungry.”
 
-Caleb looked at him.
-
-Taiga pointed.
+Caleb looked at him. Taiga pointed.
 
 “Don’t.”
 
 Caleb turned back to the monitor.
 
-Taiga sat on his bed and checked his Oracle.
+Taiga sat on his bed and checked his Oracle. Nothing from Leo. He put it down.
 
-Nothing from Leo.
+A minute later Caleb said, “Something happened.”
 
-He put it down.
-
-A minute later, Caleb said, “Something happened.”
-
-Taiga looked over.
-
-“That is not a question.”
+Taiga looked over. “That is not a question.”
 
 “No.”
 
 “Good.”
 
-Caleb kept reading.
-
-Taiga lasted thirty seconds.
+Caleb kept reading. Taiga lasted thirty seconds.
 
 “Aaron said something at Pinetree.”
 
-Caleb looked over.
-
-“About?”
+Caleb looked over. “About?”
 
 “Me and Leo.”
 
-Caleb waited.
-
-Taiga rubbed both hands over his face.
+Caleb waited. Taiga rubbed both hands over his face.
 
 “He was pissed. He said we’re always together. Then I lost it.”
 
-Caleb nodded once.
-
-“Okay.”
+Caleb nodded once. “Okay.”
 
 “And Leo followed me outside.”
 
@@ -498,47 +300,31 @@ Another pause.
 
 “Eventually.”
 
-Taiga looked at the floor.
+Taiga looked at the floor. “I said I didn’t need him following me.”
 
-“I said I didn’t need him following me.”
-
-Caleb was quiet.
-
-Then: “Do you want him to keep leaving you alone?”
+Caleb was quiet, then asked, “Do you want him to keep leaving you alone?”
 
 Taiga looked up.
 
-Simple question.
-
-Annoying question.
+Simple question. Annoying question.
 
 “No.”
 
-Caleb nodded.
-
-“That seems useful.”
+Caleb nodded. “That seems useful.”
 
 “Fuck you.”
 
 “Okay.”
 
-Taiga lay back and covered his face with one arm.
+Taiga lay back and covered his face with one arm. Caleb returned to the spreadsheet.
 
-Caleb returned to the spreadsheet.
-
-No diagnosis.
-
-No explanation.
+No diagnosis. No explanation.
 
 That helped.
 
 ---
 
-Maya arrived at seven with takeout.
-
-She looked at Taiga once, then at Caleb.
-
-Caleb shook his head slightly.
+Maya arrived at seven with takeout. She looked at Taiga once, then at Caleb. Caleb shook his head slightly.
 
 Good.
 
@@ -546,11 +332,7 @@ Nobody asked.
 
 Taiga ate because food had been placed within reach and refusing would require more effort.
 
-At eight-thirty, he opened Keitaro’s chat.
-
-Stared.
-
-Then called.
+At eight-thirty, he opened Keitaro’s chat, stared at it, then called.
 
 Keitaro answered from his dorm room wearing a sweatshirt and the expression of someone who had been studying.
 
@@ -560,21 +342,15 @@ Keitaro answered from his dorm room wearing a sweatshirt and the expression of s
 
 A pause.
 
-Keitaro smiled faintly.
-
-“You look terrible.”
+Keitaro smiled faintly. “You look terrible.”
 
 “Good start.”
 
 “Sorry.”
 
-Taiga sat against the wall.
+Taiga sat against the wall. “Remember when I told you about Leo?”
 
-“Remember when I told you about Leo?”
-
-Keitaro’s expression changed.
-
-“Yeah.”
+Keitaro’s expression changed. “Yeah.”
 
 “There was a thing at the exchange.”
 
@@ -594,9 +370,7 @@ Keitaro winced.
 
 “Followed.”
 
-Keitaro went still for half a beat.
-
-Taiga caught it.
+Keitaro went still for half a beat. Taiga caught it.
 
 “Don’t.”
 
@@ -604,37 +378,23 @@ Taiga caught it.
 
 “Your face did.”
 
-Keitaro exhaled.
+Keitaro exhaled. “Okay. What happened?”
 
-“Okay. What happened?”
-
-Taiga looked away.
-
-“I told him he was making it worse.”
+Taiga looked away. “I told him he was making it worse.”
 
 “How?”
 
 “By being there.”
 
-Keitaro’s eyes dropped.
-
-Taiga knew before he said anything.
+Keitaro’s eyes dropped. Taiga knew before he said anything.
 
 “No.”
 
-Keitaro looked up.
-
-“You remember.”
+Keitaro looked up. “You remember.”
 
 “Unfortunately.”
 
-Camp Buddy.
-
-The dock.
-
-Taiga telling Keitaro to leave.
-
-Keitaro not leaving.
+Camp Buddy. The dock. Taiga telling Keitaro to leave. Keitaro not leaving.
 
 Taiga’s jaw tightened.
 
@@ -648,9 +408,7 @@ Keitaro said, “You did that to me too.”
 
 “I’m talking about what you did.”
 
-Taiga looked away.
-
-Keitaro continued carefully.
+Taiga looked away. Keitaro continued carefully.
 
 “You kept trying to make me leave. Then you got angrier when I didn’t.”
 
@@ -658,9 +416,7 @@ Keitaro continued carefully.
 
 “Yes.”
 
-Taiga looked back.
-
-Keitaro nodded.
+Taiga looked back. Keitaro nodded.
 
 “It was. I’m not comparing Leo to me. I’m saying I remember you telling me to go away when you wanted everything to stop.”
 
@@ -670,13 +426,9 @@ Taiga’s throat tightened.
 
 Keitaro added, “And eventually you asked me to stay.”
 
-There it was.
+There it was. Memory, not instruction.
 
-Memory, not instruction.
-
-Taiga rubbed a hand over his face.
-
-“He left.”
+Taiga rubbed a hand over his face. “He left.”
 
 “Because you asked him to.”
 
@@ -686,9 +438,7 @@ Taiga rubbed a hand over his face.
 
 “He’s leaving me alone.”
 
-Keitaro waited.
-
-Taiga glared at the screen.
+Keitaro waited. Taiga glared at the screen.
 
 “What?”
 
@@ -700,11 +450,7 @@ Another pause.
 
 Then Taiga said, “I don’t want him to.”
 
-Keitaro nodded.
-
-No smile.
-
-No revelation.
+Keitaro nodded. No smile. No revelation.
 
 “Okay.”
 
@@ -712,19 +458,13 @@ No revelation.
 
 “You don’t have to decide everything tonight.”
 
-Taiga looked at him.
-
-Keitaro shrugged.
+Taiga looked at him. Keitaro shrugged.
 
 “But you probably know whether he deserved what you said.”
 
-Taiga’s jaw tightened.
+Taiga’s jaw tightened. “No.”
 
-“No.”
-
-Keitaro waited.
-
-Taiga looked down.
+Keitaro waited. Taiga looked down.
 
 “He didn’t.”
 
@@ -746,19 +486,11 @@ Taiga looked down.
 
 “It would sound terrible coming out of you.”
 
-Taiga almost laughed.
-
-“Fuck you.”
+Taiga almost laughed. “Fuck you.”
 
 Keitaro smiled.
 
-They spoke for another ten minutes about everything except Leo.
-
-Hiro’s kitchen lab.
-
-Hunter sending photographs of a sculpture he hated.
-
-Yoichi refusing a group call because everybody had “annoying faces.”
+They spoke for another ten minutes about everything except Leo: Hiro’s kitchen lab, Hunter sending photographs of a sculpture he hated, Yoichi refusing a group call because everybody had “annoying faces.”
 
 Then Keitaro yawned.
 
@@ -772,23 +504,15 @@ Then Keitaro yawned.
 
 “And now I’m hanging up.”
 
-Keitaro smiled.
+Keitaro smiled. “I’m glad you called.”
 
-“I’m glad you called.”
-
-Taiga looked away.
-
-“Yeah.”
+Taiga looked away. “Yeah.”
 
 “Night.”
 
 “Night.”
 
-The call ended.
-
-Taiga stared at the black screen.
-
-Then opened Leo’s chat.
+The call ended. Taiga stared at the black screen, then opened Leo’s chat.
 
 He typed nothing.
 
@@ -800,29 +524,15 @@ Tuesday lab was worse than lecture because seats mattered.
 
 Owen said, “Pair up.”
 
-Chairs moved.
+Chairs moved. Taiga did not. Leo did not either.
 
-Taiga did not.
-
-Leo did not either.
-
-For one second they looked at each other across the gap.
-
-Then Rachel dropped into the seat beside Leo.
-
-Mia took the one beside Taiga.
+For one second they looked at each other across the gap. Then Rachel dropped into the seat beside Leo, and Mia took the one beside Taiga.
 
 “Trees again,” she said.
 
 “Apparently.”
 
-They worked.
-
-Mia talked about code.
-
-Only code.
-
-Taiga appreciated her more than usual.
+They worked. Mia talked about code—only code—and Taiga appreciated her more than usual.
 
 Halfway through, his Oracle buzzed.
 
@@ -830,65 +540,37 @@ Aaron.
 
 **Aaron:** apologized to leo. said what i needed to say. left it there.
 
-Taiga read it once.
+Taiga read it once and locked the screen.
 
-Locked the screen.
+Mia pointed at his function. “You’re doing the ministry thing again.”
 
-Mia pointed at his function.
-
-“You’re doing the ministry thing again.”
-
-Taiga looked down.
-
-He had, in fact, created three helpers for a problem that needed one.
+Taiga looked down. He had, in fact, created three helpers for a problem that needed one.
 
 “Fuck.”
 
-Mia smiled.
+Mia smiled. “Welcome back.”
 
-“Welcome back.”
+Across the room, Leo laughed at something Rachel said. Taiga looked once, then back at the code.
 
-Across the room, Leo laughed at something Rachel said.
-
-Taiga looked once.
-
-Then back at the code.
-
-After lab, people packed.
-
-Mia left first.
-
-Rachel followed.
-
-Taiga zipped his bag.
-
-Leo stood at the next table.
+After lab, people packed. Mia left first. Rachel followed. Taiga zipped his bag while Leo stood at the next table.
 
 For a second neither moved.
 
 Taiga said, “Leo.”
 
-Leo looked over.
-
-Taiga’s mouth went dry.
+Leo looked over. Taiga’s mouth went dry.
 
 “Can we talk?”
 
-Leo’s expression changed.
-
-Careful again.
+Leo’s expression changed. Careful again.
 
 “Now?”
 
-Taiga looked around the lab.
-
-People still everywhere.
+Taiga looked around the lab. People still everywhere.
 
 “No.”
 
-Leo nodded.
-
-“After film?”
+Leo nodded. “After film?”
 
 “Yeah.”
 
@@ -896,77 +578,37 @@ A pause.
 
 “Okay.”
 
-That was all.
-
-Taiga left before he could ruin it.
+That was all. Taiga left before he could ruin it.
 
 ---
 
-Taiga opened his mouth.
-
-Nothing came out.
+Taiga opened his mouth. Nothing came out.
 
 Fantastic.
 
-He had walked Leo across campus.
+He had walked Leo across campus, apologized, sat down and announced there was something bad he had never told him. Now his throat had apparently resigned.
 
-Apologized.
+Leo waited. No joke, no rescue.
 
-Sat down.
+Taiga stared at his hands. “Last summer.”
 
-Announced there was something bad he had never told him.
-
-And now his throat had apparently resigned.
-
-Leo waited.
-
-No joke.
-
-No rescue.
-
-Taiga stared at his hands.
-
-“Last summer.”
-
-Leo’s expression shifted slightly.
-
-Taiga rubbed his thumb across one knuckle.
+Leo’s expression shifted slightly. Taiga rubbed his thumb across one knuckle.
 
 “I went back to Camp Buddy because I’d fucked things up the year before.”
 
 Leo said nothing.
 
-“I had a reputation already. Angry. Fighting. Acting like I didn’t give a shit about anything.”
+“I had a reputation already. Angry. Fighting. Acting like I didn’t give a shit about anything.” Taiga looked away. “Which was bullshit.”
 
-Taiga looked away.
-
-“Which was bullshit.”
-
-The park around them remained normal.
-
-People crossed the path twenty meters away.
-
-Somebody rode past on a bicycle.
-
-A dog barked near Central.
+The park around them remained normal. People crossed the path twenty meters away. Somebody rode past on a bicycle. A dog barked near Central.
 
 “I went back because I wanted to fix it.”
 
-Leo nodded slowly.
-
-Taiga continued before he could stop.
+Leo nodded slowly. Taiga continued before he could stop.
 
 “Keitaro showed up.”
 
-Leo knew the name.
-
-Calls.
-
-Messages.
-
-Photographs.
-
-Camp stories.
+Leo knew the name from calls, messages, photographs, camp stories.
 
 “He and Hiro came together. Keitaro was easy with people. He listened. Helped. Remembered shit people said. Everybody liked him.”
 
@@ -980,31 +622,19 @@ Leo’s eyebrows lifted.
 
 “That makes it better.”
 
-Taiga looked at him.
-
-The joke had escaped before Leo could stop it.
-
-For one second, something familiar existed between them.
+Taiga looked at him. The joke had escaped before Leo could stop it, and for one second something familiar existed between them.
 
 “Asshole.”
 
-Leo almost smiled.
-
-Then the seriousness returned.
+Leo almost smiled. Then the seriousness returned.
 
 “I thought he was fake.”
 
 “Was he?”
 
-“No.”
+“No.” Immediate. “That was the problem.”
 
-Immediate.
-
-“That was the problem.”
-
-Taiga looked at the ground.
-
-“He got accepted too fast. Goro trusted him. Everybody trusted him. I could do something right and still feel like people were waiting for the part where I ruined it.”
+Taiga looked at the ground. “He got accepted too fast. Goro trusted him. Everybody trusted him. I could do something right and still feel like people were waiting for the part where I ruined it.”
 
 Leo did not interrupt.
 
@@ -1012,9 +642,7 @@ Leo did not interrupt.
 
 “How?”
 
-Taiga breathed.
-
-“There was a picture of Goro.”
+Taiga breathed. “There was a picture of Goro.”
 
 “Camp president.”
 
@@ -1028,15 +656,11 @@ Taiga breathed.
 
 “Not relevant.”
 
-Leo nodded once.
-
-“Fair.”
+Leo nodded once. “Fair.”
 
 “I used it to frame Keitaro.”
 
-Leo stopped moving.
-
-“What?”
+Leo stopped moving. “What?”
 
 “I set it up so it looked like he was responsible.”
 
@@ -1046,27 +670,17 @@ Leo stopped moving.
 
 “Why?”
 
-Taiga looked at him.
-
-“Because I wanted everybody to see him the way I did.”
+Taiga looked at him. “Because I wanted everybody to see him the way I did.”
 
 Leo absorbed that.
 
 “I thought if Goro got pissed enough, Keitaro would get kicked out.”
 
-Leo stared.
-
-“You were trying to get him expelled from camp.”
+Leo stared. “You were trying to get him expelled from camp.”
 
 “Yes.”
 
-The word sat between them.
-
-Leo looked away.
-
-Taiga waited.
-
-Then continued.
+The word sat between them. Leo looked away. Taiga waited, then continued.
 
 “The others figured it out. Eventually I got caught.”
 
@@ -1074,27 +688,19 @@ Then continued.
 
 “Not intentionally.”
 
-Leo closed his eyes briefly.
-
-“Oh, fuck.”
+Leo closed his eyes briefly. “Oh, fuck.”
 
 “Yeah.”
 
 “What did Keitaro do?”
 
-Taiga looked at his hands again.
-
-“Not what I wanted.”
+Taiga looked at his hands again. “Not what I wanted.”
 
 “What did you want?”
 
-Taiga stayed quiet too long.
+Taiga stayed quiet too long. Leo did not let him off.
 
-Leo did not let him off.
-
-Taiga exhaled.
-
-“I wanted him to hate me.”
+Taiga exhaled. “I wanted him to hate me.”
 
 Leo’s face went still.
 
@@ -1104,21 +710,15 @@ Leo’s face went still.
 
 “Because then I’d be right.”
 
-Taiga wished the sentence had stayed inside.
-
-Too late.
+Taiga wished the sentence had stayed inside. Too late.
 
 “If he hated me, I could tell myself I’d been right not to trust him.”
 
-Leo looked down.
-
-“Did he?”
+Leo looked down. “Did he?”
 
 “No.”
 
-Taiga laughed once, almost angry at the memory.
-
-“He kept trying to understand.”
+Taiga laughed once, almost angry at the memory. “He kept trying to understand.”
 
 “That sounds like Keitaro.”
 
@@ -1130,47 +730,31 @@ Taiga laughed once, almost angry at the memory.
 
 “He asks follow-up questions through a phone like his life depends on it.”
 
-Taiga almost smiled.
-
-“Yeah.”
+Taiga almost smiled. “Yeah.”
 
 Then it disappeared.
 
 “He wouldn’t give me what I wanted. So I kept pushing.”
 
-Leo looked at him.
+Leo looked at him. “What happened?”
 
-“What happened?”
+Taiga swallowed. “Keitaro had a journal.”
 
-Taiga swallowed.
-
-“Keitaro had a journal.”
-
-Leo nodded slowly.
-
-“The one you guys rebuilt?”
+Leo nodded slowly. “The one you guys rebuilt?”
 
 Taiga looked at him sharply.
 
 “You told me once everybody made him another one.”
 
-Right.
+Right. Sanitized version.
 
-Sanitized version.
+Taiga looked away. “Yeah.”
 
-Taiga looked away.
-
-“Yeah.”
-
-Leo understood before Taiga said it.
-
-“Taiga.”
+Leo understood before Taiga said it. “Taiga.”
 
 “I burned it.”
 
-Silence.
-
-Real silence.
+Silence. Real silence.
 
 “I took it. Pictures, notes, everything.”
 
@@ -1178,35 +762,23 @@ Leo stared at him.
 
 “And I burned it.”
 
-Leo looked down.
+Leo looked down. Taiga forced himself to wait.
 
-Taiga forced himself to wait.
+Then Leo asked, “Why?”
 
-Then Leo asked:
-
-“Why?”
-
-Taiga laughed once.
-
-“I wanted to hurt him.”
+Taiga laughed once. “I wanted to hurt him.”
 
 The words came out flat.
 
 “He still wouldn’t become what I needed him to be, so I found the thing that mattered most and destroyed it.”
 
-Leo’s jaw tightened.
+Leo’s jaw tightened. “That’s fucked up.”
 
-“That’s fucked up.”
-
-Taiga nodded.
-
-“Yeah.”
+Taiga nodded. “Yeah.”
 
 No defense.
 
-Leo looked at him.
-
-“What happened after?”
+Leo looked at him. “What happened after?”
 
 “Eduard slapped me.”
 
@@ -1214,35 +786,25 @@ Leo looked at him.
 
 “Another camper.”
 
-Leo frowned immediately.
-
-“That’s not okay.”
+Leo frowned immediately. “That’s not okay.”
 
 “I deserved it.”
 
 “No.”
 
-Taiga looked at him.
-
-Leo’s voice stayed firm.
+Taiga looked at him. Leo’s voice stayed firm.
 
 “What you did was fucked. Him hitting you is a different thing.”
 
 Taiga looked away.
 
-Fine.
-
-He could accept separate categories.
+Fine. He could accept separate categories.
 
 “Keitaro still didn’t leave.”
 
 Leo waited.
 
-“Eventually everybody helped rebuild the journal. Not the same one. We couldn’t replace everything.”
-
-Taiga rubbed his hands together.
-
-“I remembered some of it. Other people remembered pieces. We used mine as the replacement.”
+“Eventually everybody helped rebuild the journal. Not the same one. We couldn’t replace everything.” Taiga rubbed his hands together. “I remembered some of it. Other people remembered pieces. We used mine as the replacement.”
 
 Leo was quiet.
 
@@ -1254,41 +816,23 @@ Leo was quiet.
 
 “Yeah.”
 
-Taiga looked at him.
+Taiga looked at him. “That’s kind of the point.”
 
-“That’s kind of the point.”
-
-Leo frowned slightly.
-
-Taiga struggled for the sentence.
+Leo frowned slightly. Taiga struggled for the sentence.
 
 “We fixed what we could. It didn’t make what I did disappear.”
 
 Leo nodded.
 
-For a while neither spoke.
+For a while neither spoke. Taiga had expected relief after telling him. There was none. Just exhaustion.
 
-Taiga had expected relief after telling him.
+Leo finally asked, “Why are you telling me this now?”
 
-There was none.
-
-Just exhaustion.
-
-Leo finally asked:
-
-“Why are you telling me this now?”
-
-Taiga looked at the pavement.
-
-“Because Saturday felt familiar.”
+Taiga looked at the pavement. “Because Saturday felt familiar.”
 
 Leo did not move.
 
-“I told Keitaro to leave too.”
-
-Taiga’s mouth twisted.
-
-“A lot.”
+“I told Keitaro to leave too. A lot.”
 
 Leo watched him.
 
@@ -1302,19 +846,13 @@ Leo watched him.
 
 “Mostly that I’m an asshole.”
 
-Leo’s mouth twitched.
-
-“Professional assessment.”
+Leo’s mouth twitched. “Professional assessment.”
 
 “Apparently.”
 
-Taiga breathed.
+Taiga breathed. “He reminded me that eventually I stopped trying to decide for him.”
 
-“He reminded me that eventually I stopped trying to decide for him.”
-
-Leo’s expression tightened slightly.
-
-Taiga forced himself to continue.
+Leo’s expression tightened slightly. Taiga forced himself to continue.
 
 “I did that to you Saturday.”
 
@@ -1322,25 +860,13 @@ Taiga forced himself to continue.
 
 “I decided that because Aaron noticed something, you being there was the problem. Then I told you to leave before you could decide anything yourself.”
 
-Leo looked away.
-
-Taiga’s throat tightened.
+Leo looked away. Taiga’s throat tightened.
 
 “I’m sorry.”
 
-Leo stayed quiet for several seconds.
+Leo stayed quiet for several seconds, then said, “I believe you.”
 
-Then:
-
-“I believe you.”
-
-Taiga looked at him.
-
-Leo’s face was tired.
-
-Still hurt.
-
-Not closed.
+Taiga looked at him. Leo’s face was tired, still hurt, not closed.
 
 “That doesn’t mean I’m not angry.”
 
@@ -1348,23 +874,15 @@ Not closed.
 
 “And I’m not doing that again.”
 
-Taiga frowned.
+Taiga frowned. “What?”
 
-“What?”
-
-“Saturday.”
-
-Leo rubbed both palms against his jeans.
-
-“If you tell me you need space, I’ll give you space.”
+“Saturday.” Leo rubbed both palms against his jeans. “If you tell me you need space, I’ll give you space.”
 
 Taiga nodded.
 
 “But if you’re angry because somebody else said something about us, don’t turn around and make me pay for it.”
 
-The sentence landed cleanly.
-
-Taiga looked down.
+The sentence landed cleanly. Taiga looked down.
 
 “Okay.”
 
@@ -1372,49 +890,27 @@ Taiga looked down.
 
 “I know.”
 
-Leo exhaled.
+Leo exhaled. “And don’t tell me I’m making something worse just by caring whether you’re okay.”
 
-“And don’t tell me I’m making something worse just by caring whether you’re okay.”
+Taiga swallowed. “Okay.”
 
-Taiga swallowed.
+Another silence. Leo looked toward the path, and Taiga looked too.
 
-“Okay.”
+No labels arrived. No question about what they were.
 
-Another silence.
+Good. Taiga could barely survive the conversation they were already having.
 
-Leo looked toward the path.
+After a while, he asked, “Do you regret Pinetree?”
 
-Taiga looked too.
-
-No labels arrived.
-
-No question about what they were.
-
-Good.
-
-Taiga could barely survive the conversation they were already having.
-
-After a while, he asked:
-
-“Do you regret Pinetree?”
-
-Leo looked over.
-
-“What part?”
+Leo looked over. “What part?”
 
 “The trail.”
 
-Leo considered.
+Leo considered. “No.”
 
-“No.”
+Taiga nodded. “The rink?”
 
-Taiga nodded.
-
-“The rink?”
-
-Leo stared at him.
-
-Taiga realized what he had asked.
+Leo stared at him. Taiga realized what he had asked.
 
 “Forget it.”
 
@@ -1428,19 +924,9 @@ Taiga realized what he had asked.
 
 “You were holding my waist.”
 
-Taiga’s face heated instantly.
+Taiga’s face heated instantly. “Fuck you.”
 
-“Fuck you.”
-
-Leo laughed.
-
-Actual laughter.
-
-Short and surprised.
-
-Taiga stared.
-
-Leo covered his mouth.
+Leo laughed—actual laughter, short and surprised. Taiga stared while Leo covered his mouth.
 
 “Sorry.”
 
@@ -1448,33 +934,21 @@ Leo covered his mouth.
 
 “No.”
 
-For a few seconds, the old rhythm returned.
-
-Then quiet again.
+For a few seconds, the old rhythm returned. Then quiet again.
 
 Better quiet.
 
-Leo looked at him.
+Leo looked at him. “I don’t regret it.”
 
-“I don’t regret it.”
+Taiga looked away. “Okay.”
 
-Taiga looked away.
+Leo leaned forward with his elbows on his knees. “We’re still not fine.”
 
-“Okay.”
-
-Leo leaned forward with his elbows on his knees.
-
-“We’re still not fine.”
-
-Taiga nodded.
-
-“Yeah.”
+Taiga nodded. “Yeah.”
 
 “But I don’t want to stop talking to you.”
 
-Taiga looked at him too quickly.
-
-Leo smiled faintly.
+Taiga looked at him too quickly. Leo smiled faintly.
 
 “Relax.”
 
@@ -1490,9 +964,7 @@ Leo smiled faintly.
 
 “Not even top ten based on the last forty minutes.”
 
-Taiga stared.
-
-Leo winced.
+Taiga stared. Leo winced.
 
 “That was dark.”
 
@@ -1500,35 +972,23 @@ Leo winced.
 
 “It was funny.”
 
-Leo looked surprised.
-
-Taiga shrugged.
+Leo looked surprised. Taiga shrugged.
 
 The warmth faded but did not disappear.
 
-Taiga looked at his hands.
-
-“If you need space now, take it.”
+Taiga looked at his hands. “If you need space now, take it.”
 
 Leo watched him.
 
-Taiga continued before he could lose the nerve.
-
 “I mean it. I’m not going to decide what you’re supposed to do because I’m scared of the answer.”
 
-Leo’s expression changed.
-
-Taiga hated how exposed the sentence felt.
+Leo’s expression changed. Taiga hated how exposed the sentence felt.
 
 Good.
 
-Leo nodded.
+Leo nodded. “Okay.”
 
-“Okay.”
-
-Taiga looked at him.
-
-“That’s it?”
+Taiga looked at him. “That’s it?”
 
 “What do you want, paperwork?”
 
@@ -1538,43 +998,27 @@ Taiga looked at him.
 
 Taiga laughed once.
 
-Leo stood.
+Leo stood. “I’m going back.”
 
-“I’m going back.”
-
-Taiga’s chest tightened automatically.
-
-He did nothing with it.
+Taiga’s chest tightened automatically. He did nothing with it.
 
 “Okay.”
 
-Leo put his hands in his coat pockets.
+Leo put his hands in his coat pockets. “You coming?”
 
-“You coming?”
-
-Taiga looked toward House Apollo.
-
-Then toward his own dorm.
+Taiga looked toward House Apollo, then toward his own dorm.
 
 “No.”
 
-Leo nodded.
+Leo nodded. “Okay.”
 
-“Okay.”
-
-Not hurt.
-
-Not test.
-
-Just answer.
+Not hurt. Not test. Just answer.
 
 Taiga stood too.
 
 Leo said, “Thanks for telling me.”
 
-Taiga looked away.
-
-“Yeah.”
+Taiga looked away. “Yeah.”
 
 “I mean it.”
 
@@ -1588,19 +1032,13 @@ Taiga looked away.
 
 “Night.”
 
-Leo walked toward Apollo.
-
-Taiga turned the other way.
+Leo walked toward Apollo. Taiga turned the other way.
 
 ---
 
-Caleb was asleep when Taiga returned.
+Caleb was asleep when Taiga returned. Or pretending.
 
-Or pretending.
-
-Taiga entered quietly, changed and got into bed.
-
-He opened Keitaro’s chat.
+Taiga entered quietly, changed and got into bed. Then he opened Keitaro’s chat.
 
 **Taiga:** told him
 
@@ -1620,19 +1058,13 @@ Then:
 
 **Taiga:** fuck you
 
-Keitaro reacted with a heart.
-
-Taiga stared at it.
+Keitaro reacted with a heart. Taiga stared at it.
 
 “Idiot.”
 
-From the dark, Caleb said:
+From the dark, Caleb said, “You’re smiling.”
 
-“You’re smiling.”
-
-Taiga nearly threw the Oracle.
-
-“Are you fucking awake?”
+Taiga nearly threw the Oracle. “Are you fucking awake?”
 
 “Yes.”
 
@@ -1654,167 +1086,73 @@ Wednesday was ordinary.
 
 That was new.
 
-Taiga went to class.
+Taiga went to class, read and ate lunch with Mia. She talked about a repository disaster involving a missing branch and did not ask about Leo.
 
-Read.
-
-Ate lunch with Mia.
-
-She talked about a repository disaster involving a missing branch and did not ask about Leo.
-
-Training returned to normal intensity.
-
-Aaron was there.
-
-Leo was there.
-
-Everyone was there.
+Training returned to normal intensity. Aaron was there. Leo was there. Everyone was there.
 
 The team did not collapse.
 
-Before training, Aaron passed Taiga near the equipment room.
-
-They both stopped.
-
-Neither looked happy about it.
+Before training, Aaron passed Taiga near the equipment room. They both stopped. Neither looked happy about it.
 
 Aaron said, “Hey.”
 
-Taiga nodded.
-
-“Hey.”
+Taiga nodded. “Hey.”
 
 That was all.
 
-During training, Mercer rotated Taiga and Leo onto the same side for one drill.
-
-The ball came to Taiga.
-
-Leo moved.
+During training, Mercer rotated Taiga and Leo onto the same side for one drill. The ball came to Taiga. Leo moved.
 
 Window.
 
-Pinetree flashed through Taiga’s head.
+Pinetree flashed through Taiga’s head. He played the pass anyway, immediate.
 
-He played the pass anyway.
-
-Immediate.
-
-Leo received in stride.
-
-One touch.
-
-Cross.
-
-Jordan Price finished at the near post.
+Leo received in stride. One touch. Cross. Jordan Price finished at the near post.
 
 “Again!” Mercer shouted.
 
-Leo looked back at Taiga.
-
-Taiga nodded once.
-
-Leo nodded back.
-
-They reset.
+Leo looked back at Taiga. Taiga nodded once; Leo nodded back. They reset.
 
 ---
 
 Thursday Data Structures lab.
 
-Taiga arrived first.
+Taiga arrived first. Same row, same seat. He opened his laptop while the chair beside him remained empty.
 
-Same row.
+Students entered. Mia waved from two rows ahead. Rachel sat near the aisle. Owen argued with the projector.
 
-Same seat.
-
-He opened his laptop.
-
-The chair beside him remained empty.
-
-Students entered.
-
-Mia waved from two rows ahead.
-
-Rachel sat near the aisle.
-
-Owen argued with the projector.
-
-Leo walked in mid-sentence.
-
-“—if one elevator is broken, nine o’clock becomes philosophical.”
+Leo walked in mid-sentence. “—if one elevator is broken, nine o’clock becomes philosophical.”
 
 Rachel laughed.
 
-Leo reached the row.
-
-Saw Taiga.
-
-Saw the empty chair.
+Leo reached the row, saw Taiga, then saw the empty chair.
 
 “Taken?”
 
 “No.”
 
-Leo sat.
+Leo sat, leaving normal space between them, and pulled out his laptop.
 
-Normal space.
-
-He pulled out his laptop.
-
-Owen finally fixed the projector.
-
-“Today we’re doing rotations.”
+Owen finally fixed the projector. “Today we’re doing rotations.”
 
 Leo whispered, “Authoritarian.”
 
-Taiga looked at him.
+Taiga looked at him. “Shut up.”
 
-“Shut up.”
-
-Leo smiled.
+Leo smiled. “Morning.”
 
 “Morning.”
 
-“Morning.”
+They worked carefully at first. Technically. Leo proposed a structure, Taiga disagreed, Leo defended it, Taiga found a bug, Leo called him insufferable, Taiga called the code criminal.
 
-They worked.
+Ten minutes. Fifteen.
 
-Carefully at first.
+The old rhythm returned by degrees. Not identical.
 
-Technically.
-
-Leo proposed a structure.
-
-Taiga disagreed.
-
-Leo defended it.
-
-Taiga found a bug.
-
-Leo called him insufferable.
-
-Taiga called the code criminal.
-
-Ten minutes.
-
-Fifteen.
-
-The old rhythm returned by degrees.
-
-Not identical.
-
-At forty minutes, Leo’s rotation function failed.
-
-He stared at the screen.
-
-Taiga looked.
+At forty minutes, Leo’s rotation function failed. He stared at the screen. Taiga looked.
 
 “Base case.”
 
-Leo closed his eyes.
-
-“No.”
+Leo closed his eyes. “No.”
 
 “Yes.”
 
@@ -1822,31 +1160,19 @@ Leo closed his eyes.
 
 “You forgot null.”
 
-Taiga pointed.
+Taiga pointed. Leo stared.
 
-Leo stared.
+Then: “Fuck.”
 
-Then:
-
-“Fuck.”
-
-Taiga smiled.
-
-Leo caught it.
+Taiga smiled. Leo caught it.
 
 “Coffee after?”
 
-The question was almost casual.
+The question was almost casual. Almost.
 
-Almost.
+Taiga looked at the time. “I have twenty minutes.”
 
-Taiga looked at the time.
-
-“I have twenty minutes.”
-
-Leo nodded.
-
-“Enough.”
+Leo nodded. “Enough.”
 
 “Yeah.”
 
@@ -1854,55 +1180,29 @@ They finished the lab.
 
 ---
 
-The coffee kiosk was crowded.
+The coffee kiosk was crowded. Leo ordered something with too much milk; Taiga ordered black coffee. They stood outside because every table was full.
 
-Leo ordered something with too much milk.
-
-Taiga ordered black coffee.
-
-They stood outside because every table was full.
-
-For a while they talked about the assignment.
-
-Then Mercer.
-
-Then Enzo claiming the Pinetree loss had been caused by “mountain propaganda.”
-
-Nothing important.
+For a while they talked about the assignment, then Mercer, then Enzo claiming the Pinetree loss had been caused by “mountain propaganda.” Nothing important.
 
 That was the important part.
 
-Leo’s Oracle buzzed.
-
-He looked down.
-
-Then started laughing.
+Leo’s Oracle buzzed. He looked down and started laughing.
 
 “What?” Taiga asked.
 
-Leo turned the screen around.
-
-A pigeon stood on top of a parking meter with one foot tucked up, looking furious at the world.
-
-Mia had sent it to the CS group.
+Leo turned the screen around. A pigeon stood on top of a parking meter with one foot tucked up, looking furious at the world. Mia had sent it to the CS group.
 
 **Mia:** taiga-coded
 
-Taiga stared.
+Taiga stared. “Fuck her.”
 
-“Fuck her.”
-
-Leo laughed harder.
-
-“It does look angry.”
+Leo laughed harder. “It does look angry.”
 
 “It’s a pigeon.”
 
 “That is not a defense.”
 
-Taiga took out his Oracle.
-
-Leo watched.
+Taiga took out his Oracle. Leo watched.
 
 “What are you doing?”
 
@@ -1910,11 +1210,7 @@ Taiga forwarded the picture back to Leo privately.
 
 **Taiga:** you
 
-Leo’s phone buzzed in his hand.
-
-He looked at the message.
-
-Then at Taiga.
+Leo’s phone buzzed in his hand. He looked at the message, then at Taiga.
 
 “Coward. That bird has dignity.”
 
