@@ -54,9 +54,8 @@ For Olympus, the following broad sequence is canon:
 7. The project lasts **more than half a year**, extending through winter and toward the next summer term.
 8. Taiga and Yoichi remain materially involved during the project; the old scout group also returns to help during the winter.
 9. The expansion is completed before the next summer term.
-10. Lloyd and Darius choose to remain at Camp Buddy, apply as scoutmasters, and continue their professional work through their own design consultancy.
-11. Olympus continuity treats those applications as successful: Lloyd and Darius are part of Camp Buddy’s scoutmaster staff by the following summer.
-12. Olympus continuity extends Taiga’s stay until he has spent roughly a year tied to Camp Buddy before leaving for college.
+10. Lloyd and Darius choose to remain at Camp Buddy, become scoutmasters, and continue professional work through their own design consultancy.
+11. Olympus continuity extends Taiga’s stay until he has spent roughly a year tied to Camp Buddy before leaving for college.
 
 The exact Goro-route and Aiden-route romances are **not** part of this timeline.
 
@@ -175,13 +174,12 @@ The script establishes that:
 - Darius explains that they enjoyed teaching Taiga and Yoichi during the project and want to share their knowledge with the rest of the scouts;
 - Darius says they are ready for a change of pace from full-time construction work;
 - they still intend to remain professionally active by starting their own design / construction consultancy;
-- Lloyd names the consultancy **D-L-Do**, short for “Darius and Lloyd will do it all for you.”
+- Lloyd names the consultancy **D-L-Do**, short for “Darius and Lloyd will do it all for you”;
+- shortly afterward Lloyd celebrates, **“Awesome! We got the job, Dar!”**, then immediately jokes about being **“SCOUTGRANDMASTER LLOYD.”**
 
-The source dialogue says they **plan to apply**, rather than explicitly showing the administrative acceptance process.
+Taken together, the duplicated ending dialogue confirms the transition rather than merely proposing it:
 
-For Olympus continuity, that final step is adopted:
-
-> **Lloyd and Darius are accepted as scoutmasters and remain on Camp Buddy’s staff from the following summer onward, while also running D-L-Do on the side.**
+> **Lloyd and Darius remain at Camp Buddy as scoutmasters while also running D-L-Do on the side.**
 
 This does not select either Yoshinori romance route. It preserves a shared non-romantic ending outcome.
 
@@ -507,7 +505,7 @@ The game directly proves:
 
 The final extension — Taiga remaining through the next summer before college — is the Olympus continuity choice.
 
-During that third summer, Olympus also treats Lloyd and Darius as active scoutmasters, consistent with their repeated ending plan to remain at Camp Buddy and apply for the role.
+Lloyd and Darius being scoutmasters during that third summer is source-supported by the shared ending material; only Taiga’s decision to stay through that entire summer is the Olympus extension.
 
 ## 12.2 Emotional logic
 
@@ -603,7 +601,7 @@ Do not lock these into Olympus unless explicitly decided later:
 - reopening Camp Buddy’s old branches as an accomplished future event;
 - any Good / Perfect / Bad / Worst Ending as the “real” ending.
 
-Lloyd and Darius are intentionally **not** on this unresolved list. Their decision to remain and seek scoutmaster roles is repeated across both romance-route ending blocks, and Olympus adopts their successful transition into those roles.
+Lloyd and Darius are intentionally **not** on this unresolved list. Their decision to remain, apply as scoutmasters, and then celebrate getting the job is repeated across both romance-route ending blocks.
 
 ---
 
