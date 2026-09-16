@@ -136,19 +136,19 @@ Taiga smiled.
 
 A second later:
 
-**Leo:** snow
+**Leo:** anyways, there's snow
 
 Taiga looked out the window. White had started gathering on the courtyard grass.
 
 **Taiga:** yes that is what happens in winter
 
-**Leo:** CENTRAL PARK HAS THE RINK OPEN
+**Leo:** central park has the rink open
 
 There was a seasonal rink in the city park. Taiga knew because Nora had mentioned it twice and because an advertisement had occupied half the Central Station wall since November, although he had never seriously considered going.
 
 **Taiga:** congratulations to central park
 
-**Leo:** come with me
+**Leo:** come with me?
 
 Taiga read that twice. Before he answered, another message appeared.
 
@@ -213,17 +213,17 @@ Leo grabbed one end and held it out. “My sister gave it to me two years ago be
 
 “She calls it gold. It is not gold. Gold does not make drivers slow down because they think a warning sign escaped.”
 
-Taiga laughed. “How old is she?”
+Taiga laughed. “How old is she?”  
 
-Leo's eyes lit up. “See? Now we're exchanging personal information.”
+Leo’s eyes lit up. “See? Now we’re exchanging personal information.”  
 
-“The scarf, idiot.”
+“Your sister, idiot.”  
 
-“Oh. Two years.”
+“The scarf’s two years old.”  
 
-“That's not what I asked.”
+Taiga stared at him.  
 
-“You had your chance.”
+Leo smiled. “That’s all you’re getting.”
 
 Taiga shook his head and followed him onto the train.
 
