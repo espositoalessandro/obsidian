@@ -738,7 +738,7 @@ Taiga watched the snow fall beyond the lights. “Yoshinori gave me somewhere to
 
 “You said.”
 
-“He's there year-round now. Helps with whatever needs doing.”
+“He's there year-round. Helps with whatever needs doing.”
 
 Leo smiled. “That actually makes sense for him and I've never met him.”
 
@@ -778,63 +778,63 @@ Leo laughed. “You really like that solution.”
 
 “Does it?”
 
-“Yes.”
+“I dunno.”
 
 Leo turned toward him. “Okay. What did you do between Camp Buddy ending and Olympus?”
 
-Taiga frowned. “You know that.”
+Taiga stared at the market. “I avoided decisions.”
 
-“I know you stayed around camp through cleanup. I don't know what that actually looked like.”
+Leo raised an eyebrow. Taiga smiled.
 
-“Work.”
+"That's actually one way of putting it. This summer's term was... intense."
 
-“How much?”
+"Yeah, you mentioned that"
 
-Taiga opened his mouth, then stopped.
+He did, on the train. Somehow, the fact that Leo remembered warmed his stomach.
 
-Leo's smile appeared slowly. “Right.”
+"Yeah, but that made me realize even more how much the camp meant to me. I wanted to do something in return. Term ended in late July, so I stayed throughout August and mid September."
 
-“Fuck you.”
+Leo waited.
 
-“You were busy every day.”
+"Although, when all my friends left and start telling me what they were planning to do afterward, something changed."
 
-“They needed help.”
+Taiga exhaled
 
-“And maybe you needed the work.”
+"I lately understood that what made me choose to stay is that it felt like I owed to the camp. For what I had done during the term."
 
-Taiga looked away. “That sounds suspiciously like analysis.”
+"What made you understand that?"
 
-“It was one sentence. Caleb would have charts.”
+Taiga laughed once
 
-“Fair.”
+"Scoutmasters. And Keitaro. And somehow Yoichi."
 
-Taiga drank some coffee before answering. “Staying busy at camp was easier.”
+"Okay, last part me interested."
 
-Leo's laughter faded. “After summer ended?”
+Taiga now actually laughed.
 
-“Yeah.” Taiga looked at the park instead of him. “Cleanup. Repairs. Packing equipment. Yoshinori always had something that needed doing before I left for Olympus. Fix this. Move that. Cook. Clean. Whatever.”
+"Yoichi has been living there since he was a kid. I got to see the difference from owing and actually belonging."
 
-“Easier than what?”
+"Makes sense."
 
-“Deciding.”
+"Eventually, I realized that I didn't belong there in the way Yoichi did. Wanting to dedicate my life to Camp Buddy was coming more from a place of guilt. That became clearer by the end of August."
 
-Taiga rubbed one thumb against the cup. “What came next. If I was useful, I didn't have to sit there figuring out what else I was supposed to be.”
+"What made you apply for Olympus then?"
 
-Leo stayed quiet for a moment, then nodded. “Yeah. I get that.”
+"Nothing. I didn't. Scoutmaster Yoshinori did. Camp sponsor told him that this college had a reasonable scholarship program. He wrote, like, eleven page for the recommendation letter."
 
-Taiga glanced over.
+"That's a strong résumé."
 
-“Different version,” Leo said, gesturing with the cup. “But if something's happening, I don't have to decide what I'm doing next either. I just do the thing.”
+"Yeah. Anyway, somehow I got accepted and I spent half of September deciding whether to actually come or not. I ended up choosing to give it a chance."
 
-“Your version involves more calendars.”
+Leo looked at him with a smile.
 
-“Several.”
+"Is it paying off?"
 
-“That's worse.”
+Taiga stared back for a couple of seconds. Then looked at the ground. 
 
-“Rude.”
+"Maybe."
 
-Leo took another drink and made a face. “Finally. Drinkable.”
+Leo smiled. Then took another drink and made a face. “Finally. Drinkable.”
 
 “Congratulations.”
 
