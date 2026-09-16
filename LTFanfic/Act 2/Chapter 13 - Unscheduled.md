@@ -782,57 +782,87 @@ Leo laughed. “You really like that solution.”
 
 Leo turned toward him. “Okay. What did you do between Camp Buddy ending and Olympus?”
 
-Taiga stared at the market. “I basically avoided decisions.”
+Taiga stared at the market. “Avoided making decisions, mostly.”
 
 Leo raised an eyebrow. Taiga smiled.
 
-"That's actually one way of putting it. This summer's term was... intense."
+“Summer was... intense.”
 
-"Yeah, you mentioned that"
+“Yeah. You mentioned that.”
 
-He did, on the train. Somehow, the fact that Leo remembered warmed his stomach.
+He had, on the train. Somehow, the fact that Leo remembered warmed his stomach.
 
-"Yeah, but that made me realize even more how much the camp meant to me. I wanted to do something in return. Term ended in late July, so I stayed throughout August and mid September."
+“After it ended, I wanted to give something back. Term finished in late July, so I stayed through August. Then September.”
 
 Leo waited.
 
-"Although, when all my friends left and start telling me what they were planning to do afterward, something changed."
+“At first it was easy. Everyone else left and started talking about what came next. School. Work. Whatever. I just... stayed.”
 
-Taiga exhaled
+“Because you wanted to?”
 
-"I lately understood that what made me choose to stay is that it felt like I owed to the camp. For what I had done during the term."
+Taiga looked down at his coffee.
 
-"What made you understand that?"
+“I thought so.”
 
-Taiga laughed once
+A few people passed in front of them, carrying paper bags from the market stalls.
 
-"Scoutmasters. And Keitaro. And somehow Yoichi."
+“Later I figured out some of it was because I felt like I owed the camp. For what happened during the term.”
 
-"Okay, last part me interested."
+“What changed?”
 
-Taiga now actually laughed.
+Taiga laughed once.
 
-"Yoichi has been living there since he was a kid. I got to see the difference from owing and actually belonging."
+“Scoutmasters. Keitaro. Somehow Yoichi.”
 
-"Makes sense."
+Leo turned toward him. “Okay, now I'm interested.”
 
-"Eventually, I realized that I didn't belong there in the way Yoichi did. Wanting to dedicate my life to Camp Buddy was coming more from a place of guilt. That became clearer by the end of August."
+Taiga laughed properly this time.
 
-"What made you apply for Olympus then?"
+“Yoichi's been living there since he was a kid. He does half the maintenance, sleeps there, complains about everyone, whatever. And he's not there because he thinks he has to pay anybody back. He just wants to be there.”
 
-"Nothing. I didn't. Scoutmaster Yoshinori did. Camp sponsor told him that this college had a reasonable scholarship program. He wrote, like, eleven page for the recommendation letter."
+Leo nodded.
 
-"That's a strong résumé."
+“I think that was the difference. I wanted to stay too. Just... not for the same reason.”
 
-"Yeah. Anyway, somehow I got accepted and I spent half of September deciding whether to actually come or not. I ended up choosing to give it a chance."
+“You still belong there.”
+
+“Yeah.” Taiga rubbed his thumb along the edge of the cup. “That's not the problem. I just realized belonging there didn't mean I had to make it the rest of my life.”
+
+Leo stayed quiet for a moment.
+
+“What made you apply for Olympus then?”
+
+“I didn't. Not at first. Yoshinori found it. One of the camp sponsors told him Olympus had a decent scholarship program, and he put the application in front of me.”
+
+“And?”
+
+“I ignored it for eleven days.”
+
+Leo laughed. “Of course you did.”
+
+“Keitaro threatened to fill it out himself. So I did it before he could.”
+
+“That worked?”
+
+“Apparently. Yoshinori wrote, like, an eleven-page recommendation letter.”
+
+“That's not a recommendation letter. That's a biography.”
+
+Taiga snorted.
+
+“Then essays, interview, all that. Somehow I got accepted, and I spent half of September deciding whether I was actually coming.”
+
+“And then?”
+
+“I gave it a chance.”
 
 Leo looked at him with a smile.
 
-"Is it paying off?"
+“Is it paying off?”
 
-Taiga stared back for a couple of seconds. Then looked at the ground. 
+Taiga stared back for a couple of seconds. Then he looked at the ground.
 
-"Maybe."
+“Maybe.”
 
 Leo smiled. Then took another drink and made a face. “Finally. Drinkable.”
 
