@@ -114,7 +114,7 @@ Caleb looked back at his food.
 
 Taiga drank coffee. The problem was that Caleb had evidence. Too much of it. Taiga had chosen Foundations of Computer Science because it sounded useful. That had been the official explanation. The unofficial explanation was that he already knew enough programming not to start from zero.
 
-He had taught himself bits of code over the years whenever there was something he wanted a computer to do. Small scripts. A few web projects. Enough JavaScript and Python to be comfortable opening an unfamiliar file without immediately wanting to die. Enough Git to understand what Mia had done to her repository and, with some digging, help undo it. That did not make him an expert.
+He had taught himself bits of code over the years whenever there was something he wanted a computer to do. Small scripts. A few web projects. Then Jin came back to Camp Buddy as a scout during Taiga's third summer. They had met during the renovation, but coding had never really come up; Jin had been busy with the camp's systems, Taiga mostly with the physical work. That summer it did. Jin discovered Taiga knew just enough to be dangerous and, over a few slow afternoons, showed him the parts he had mostly been brute-forcing on his own: cleaner Python, Git that went beyond treating commits like save points, how to read somebody else's code before changing it, how to debug without randomly poking at things until something worked. Taiga kept going from there. By the time Olympus started, he knew enough JavaScript and Python to be comfortable opening an unfamiliar file without immediately wanting to die, and enough Git to understand what Mia had done to her repository and, with some digging, help undo it. That did not make him an expert.
 
 The placement assessment during summer orientation had made that very clear. He had done well on the practical sections and then hit several questions about things he had only ever used without knowing the proper names for them. Still, it had been enough to skip the absolute-beginner programming class. Efficient. Then Professor Rao had started taking ordinary things Taiga thought he understood and showing him the parts he had been getting away with not understanding.
 
@@ -217,7 +217,6 @@ Then she turned.
 Lina whispered, “Promising.” Rao displayed ten lines of code. Two variables. One list. A function call. The class stared.
 
 “Tell me what this prints.”
-
 Hands went up. Someone near the front answered. Rao shook her head. Another answer. Also wrong. Taiga looked at the two variables. Both assigned from the same original list. The function appended through one name. He knew the result. Then hesitated. Because last week he would have said the second list stayed unchanged. That had been exactly the kind of mistake Rao was talking about. He raised his hand. Rao nodded.
 
 “Akatora.”
@@ -437,7 +436,6 @@ Taiga looked at his notebook. Two maps was option one. Crossed out. Technically.
 Mia leaned against the wall.
 
 “You meeting Leo at training later?”
-
 “Probably, yeah.”
 
 “He's in Rao too, different section.”
@@ -657,7 +655,6 @@ She opened the prerequisite map.
 “You chose them.”
 
 Taiga looked at the grid. That was true. Fall had happened almost by accident. A little of everything because he hadn't known what direction he wanted. The spring schedule looked much less accidental. Park built a draft.
-
 Monday and Wednesday were fine. Tuesday looked hostile. Thursday included a chemistry lab that ate most of the afternoon. Friday morning only. Taiga stared at it.
 
 “Why is every good section on Tuesday?”
@@ -877,7 +874,6 @@ Lina clicked a test. Then added a malformed withdrawal record between two valid 
 “That was somehow worse.”
 
 Taiga looked at the code again. He had written the bug by trying to be clever and creating two things to maintain.
-
 “Fuck.”
 
 Lina laughed.
@@ -1097,7 +1093,6 @@ Leo nodded.
 “Yeah.”
 
 “Different section, right?”
-
 “Monday morning.”
 
 “Tuesday afternoon.”
@@ -1317,7 +1312,6 @@ Caleb looked confused.
 “That is not the same as giving her a title.”
 
 Maya smiled through the screen.
-
 “Do I need to leave this conversation?”
 
 “No.”
@@ -1537,7 +1531,6 @@ Daniel, two seats over, said, “We lost two.” Priya held up the rubric.
 “That is one underlying mistake.”
 
 “That is not how points work.”
-
 Marcus leaned across the aisle.
 
 “I personally think numbers should stop after two decimals.”
@@ -1757,7 +1750,6 @@ Professor Rao posted feedback on the club-registry assignment a few minutes late
 His eyes went immediately to the missing twelve.
 
 **Good handling of repeated and malformed events. Tests are thoughtful. Your first design maintained the same relationship in two places, which increased the number of ways updates could become inconsistent. The final version is clearer.**
-
 Then:
 
 **Be careful returning mutable internal collections directly. You fixed this, but the original bug is exactly why we spent Monday talking about aliasing.**
