@@ -198,7 +198,7 @@ Class ended. Nora shoved her notes into her bag.
 
 “Hunter's exhibition.”
 
-“The charcoal guy?.”
+“The charcoal guy?”
 
 “Yeah.”
 
@@ -258,9 +258,9 @@ Taiga stared.
 
 “You absolutely do.”
 
-They reached the stairs. Taiga said, “How's Oliver?.” Nora looked at him.
+They reached the stairs. Taiga said, “How's Oliver?” Nora looked at him.
 
-"Oh, he's fine."
+“Oh, he's fine.”
 
 “Why the cone then?”
 
@@ -350,30 +350,35 @@ Taiga frowned.
 
 “So I need to use my left more.”
 
-He nodded. Then added
+Mercer nodded. Then he added,
 
 “Stop deciding the position is stupid because you're bad at it.”
 
-Taiga looked at Mercer, ready to snap. Words rose into his mouth. Then, for a split second, he thought about it. He wasn't judging. He just said the objective truth. That hurt even more.
-It took him all his self control to try and digest those words into a somewhat useful critic. Still that *you're bad at it* burned hot inside his stomach.
-He looked down. Took two long breathes. Mercer didn't move. His gaze didn't leave him.
+Taiga looked at Mercer, ready to snap. Words rose into his mouth. Then, for a split second, he thought about it. He wasn't judging. He had just stated the objective truth. That hurt even more.
+
+It took all his self-control to turn those words into something resembling useful criticism. Still, that *you're bad at it* burned hot in his stomach.
+
+He looked down. Took two long breaths. Mercer didn't move. His gaze didn't leave him.
+
 Taiga slowly nodded.
 
-After a few seconds, Mercer put a hand on Taiga's shoulder. Taiga froze and looked him into the eyes.
+After a few seconds, Mercer put a hand on Taiga's shoulder. Taiga froze and looked him in the eyes.
 
 “That was on me.”
 
-Taiga was speechless. Was Mercer actually apologizing...?
+Taiga was speechless. Was Mercer actually apologizing?
 
-"Doesn't mean it wasn't true."
+“Doesn't mean it wasn't true.”
 
-"Yes. It was. And you've managed to somehow process that. That is good progress."
+Taiga swallowed. “Yeah. It was.”
 
-Taiga looked at him, surprised. Mercer continued
+Mercer nodded. “And you managed to process that instead of snapping at me. That's good progress.”
 
-"Very good progress." 
+Taiga looked at him, surprised.
 
-Taiga swore he had seen the faintest sign of a smile.
+“Very good progress.”
+
+Taiga could have sworn he saw the faintest hint of a smile.
 
 Mercer pointed toward the building.
 
@@ -429,7 +434,7 @@ Taiga slowly looked over. Leo grinned.
 
 Then he kept walking toward the showers. Taiga looked back at his locker. Right side did suck. Useful contribution.
 
-Although, that made him feel sightly better.
+Although, that made him feel slightly better.
 
 ---
 
@@ -695,7 +700,8 @@ Scott said, “He is not obstructing anything.” Gav looked at Scott.
 
 “You're enabling him.”
 
-Scott shrugged. Taiga smiled. Leo sat two rows ahead beside Aaron. He spent most of the session taking notes. Once, Enzo whispered something and Leo shook his head without looking away from the screen. After film, Taiga went back to the dorm alone. He did Calculus. Then laundry. 
+Scott shrugged. Taiga smiled. Leo sat two rows ahead beside Aaron. He spent most of the session taking notes. Once, Enzo whispered something and Leo shook his head without looking away from the screen. After film, Taiga went back to the dorm alone. He did Calculus. Then laundry.
+
 Then Yoichi called. That alone was suspicious. Taiga answered on video. Yoichi appeared under fluorescent lighting with a wooden wall behind him. A familiar wooden wall.
 
 Taiga squinted.
@@ -732,7 +738,7 @@ Yoichi clicked his tongue.
 
 “Saturday. The Twinkerbell thing.”
 
-“What about it.”
+“What about it?”
 
 “Nothing. You know I can't fucking come.”
 
@@ -984,13 +990,11 @@ Taiga stared.
 
 Leo laughed.
 
-“Yeah, obviously\! I meant you're dressed like you're going somewhere that doesn't smell like wet socks. Bet Hunter's gonna appreciate!”
-
-He remembered.
+“Yeah, obviously\! I meant you're dressed like you're going somewhere that doesn't smell like wet socks. Hunter's exhibition?”
 
 “Yeah.”
 
-“Oh, nice\! Damn, that's today already? I hope it goes well. I mean, I assume having a room full of strangers stare at your work is either really cool or absolute psychological warfare, but hopefully the first one.”
+“Oh, right\! Damn, that's today already? I hope it goes well. I mean, I assume having a room full of strangers stare at your work is either really cool or absolute psychological warfare, but hopefully the first one.”
 
 Taiga smiled despite himself.
 
@@ -1022,7 +1026,7 @@ Then back to Taiga.
 
 “Have fun, though. And tell Hunter congrats from the random soccer guy he's never met, which I'm sure will mean absolutely nothing to him.”
 
-Taiga snorted, “Will do.”
+Taiga snorted. “Will do.”
 
 Leo lifted a hand as he started away.
 
@@ -1032,7 +1036,7 @@ Leo lifted a hand as he started away.
 
 ---
 
-Keitaro and Hiro boarded at the 6th stop. Taiga knew exactly when they would because Keitaro had sent the itinerary twice, but when the doors opened and Keitaro actually stepped into the carriage, Taiga still stared for half a second.
+Keitaro and Hiro boarded at the sixth stop. Taiga knew exactly when they would because Keitaro had sent the itinerary twice, but when the doors opened and Keitaro actually stepped into the carriage, Taiga still stared for half a second.
 
 “Taiga\! There you are. Hiro was convinced we were boarding at the opposite end.”
 
@@ -1100,7 +1104,11 @@ Hiro nodded. “We've told him.”
 
 Taiga stared. “Who taught you that word?”
 
-Two stops later, Eduard entered in a cream coat and sunglasses despite being indoors. Lee followed with a messenger bag and the expression of someone already carrying responsibility for several objects that were not his.
+The train entered the art district with the three of them talking over one another again. Different schools, different lives, same noise. That part, at least, had survived.
+
+Hunter's art school occupied a converted industrial building with huge windows and concrete floors. Taiga hated it immediately. Not the building. The people. Too many people dressed better than him.
+
+Eduard and Lee were already outside the entrance. Eduard wore a cream coat and sunglasses despite being in the shade. Lee had a messenger bag and the expression of someone already carrying responsibility for several objects that were not his.
 
 Taiga looked at Eduard. “You're going to an art show, not a fashion funeral.”
 
@@ -1140,7 +1148,7 @@ Hiro stared. “Was that a compliment?”
 
 Eduard patted Lee's arm. “He's improving.”
 
-Natsumi joined near the art district wearing a university swim jacket, hair still damp, flowers in one hand.
+Natsumi arrived from the other end of the block while they were still near the entrance, wearing a university swim jacket, hair still damp, flowers in one hand.
 
 “Recovery session ran long,” he said. “And the florist near the station charges criminal prices on Saturdays.”
 
@@ -1150,7 +1158,7 @@ Taiga looked at the bouquet. “Hunter's going to die.”
 
 Natsumi had also packed a folding vase because, apparently, he planned for flowers as carefully as Caleb planned trains.
 
-“You're teaching now?” Taiga asked later when Natsumi mentioned the beginner swim clinic.
+“You're teaching now?” Taiga asked when Natsumi mentioned the beginner swim clinic.
 
 “Assisting.”
 
@@ -1166,9 +1174,7 @@ A pause.
 
 Taiga smiled. They were all infected.
 
-The train entered the art district with everyone talking over one another again. Different schools, different lives, same noise. That part, at least, had survived.
-
-Hunter's art school occupied a converted industrial building with huge windows and concrete floors. Taiga hated it immediately. Not the building. The people. Too many people dressed better than him. He looked down at the red shirt. Keitaro looked down at the shirt, then back at him.
+He looked down at the red shirt. Keitaro looked down at the shirt, then back at him.
 
 “Stop.”
 
@@ -1376,7 +1382,7 @@ Too late. Elena said, “Hunter was losing his mind Tuesday. He'd moved the pape
 
 “It was six, and two of those were because the tape kept peeling off the wall. That should not count as indecision.”
 
-“Elena said, “Eight.”
+Elena said, “Eight.”
 
 “Six.”
 
@@ -1954,7 +1960,7 @@ Taiga looked up.
 
 Keitaro showed him. Hunter:
 
-**Marlowe says I should submit "Threshold" to the regional review and I hate that she titled it in the email like it's already famous**
+**Marlowe says I should submit \"Threshold\" to the regional review and I hate that she titled it in the email like it's already famous**
 
 Taiga stared.
 
@@ -1998,7 +2004,7 @@ Hiro closed his eyes again. Taiga laughed.
 
 ---
 
-Taiga reached Olympus just after midnight. The campus gate looked different after being gone all day. Same path lamps. Same University Center windows. His bag held training gear, the green exhibition shirt, Hunter's card and one pastry Hiro had forced on him for “breakfast.”
+Taiga reached Olympus just after midnight. The campus gate looked different after being gone all day. Same path lamps. Same University Center windows. His bag held training gear, the red exhibition shirt, Hunter's card and one pastry Hiro had forced on him for “breakfast.”
 
 House Apollo had spent the evening making Roberto the stuffed shark an assistant coach. Taiga smiled at the group chat and put the phone away.
 
@@ -2073,4 +2079,5 @@ Taiga threw the pillow. Caleb caught it without looking.
 The exhibition card sat beside the Camp Buddy photo and above the Apollo fixture list: three pieces of paper that would have had nothing to do with one another two months ago. Now they shared a corkboard.
 
 Taiga looked at them until his eyes started to close. Hunter had put five pieces on a wall; everybody had come, looked, talked, and gone back to the lives they were building.
+
 Taiga had come back to Olympus.
