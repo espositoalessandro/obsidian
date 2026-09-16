@@ -8,11 +8,33 @@ Camp Buddy did not have that problem. It already fit.
 
 The cabins still smelled like wood and old detergent when the heat came on. The mess hall still had one table that rocked unless somebody folded a napkin under the left leg. The path to the lake still turned to mud after rain in exactly the same places, and Yuki still treated Taiga returning as evidence that she had personally manifested him through force of will.
 
-The first day was quiet, though not empty. Camp Buddy was never completely empty. Yoshinori and Aiden were there most days; Yuri came and went according to a schedule only Yuri seemed capable of understanding; Goro appeared whenever something administrative needed approving, correcting or disapproving of. Yoichi, obviously, was simply there too, usually somewhere between the lodge and the tree line—or gone entirely because he'd taken Yuki into the woods without telling anyone.
+The first day was quiet, though not empty. Camp Buddy was never completely empty. Yoshinori and Aiden were there most days; Yuri came and went according to a schedule only Yuri seemed capable of understanding; Goro appeared whenever something administrative needed approving, correcting or disapproving of. Lloyd and Darius were there too. After months of knowing them as Architect Sirius and Foreman Najjar, Taiga still found it vaguely ridiculous that they were Scoutmasters Lloyd and Darius now. Neither of them seemed to find the transition especially complicated. Lloyd treated scoutmastering like another project he had enthusiastically volunteered for; Darius treated it like somebody had handed him a new list of things that needed building. Yoichi, obviously, was simply there too, usually somewhere between the lodge and the tree line—or gone entirely because he'd taken Yuki into the woods without telling anyone.
 
 There were no scouts running between cabins, though. No whistles, no shouting from the lake, no breakfast line, no doors slamming because somebody had forgotten a towel. Winter made the place feel like backstage after the audience had gone home.
 
 Taiga liked it more than he expected. He helped Aiden replace a cracked latch on one of the storage buildings, spent an afternoon with Yoshinori going through old equipment that apparently needed to be sorted into three categories—usable, repairable and “absolutely not, Taiga, that rope is older than you are”—and walked Yuki until Yuki decided snow was edible and had to be physically discouraged. At night, the lodge was quiet enough that the heating pipes became noticeable.
+
+On the second morning, Lloyd spotted him crossing past the maintenance shed and waved both arms like Taiga might otherwise fail to notice him from ten feet away.
+
+“Taiga! Perfect timing! Our aspiring carpenter returns!”
+
+Darius was beside him with a toolbox open at his feet. “He got back yesterday, Lloyd.”
+
+“I know! I'm welcoming him professionally.” Lloyd held out a screwdriver.
+
+Taiga looked at it. “By giving me work?”
+
+“Exactly!”
+
+Darius pointed toward one of the shed doors. The top hinge had started pulling away from the frame. “It'll take five minutes.”
+
+“You're both scoutmasters now,” Taiga said.
+
+Lloyd put a hand to his chest. “Scoutmasters can believe in practical education!”
+
+Darius shrugged. “And hinges.”
+
+Taiga took the screwdriver.
 
 Then Keitaro and Hiro arrived, and quiet ended immediately.
 
