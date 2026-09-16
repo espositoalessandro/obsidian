@@ -1197,7 +1197,7 @@ Eduard put a hand to his chest. “You remembered me.”
 
 Hiro looked delighted. Eduard wanted to know whether Taiga had opened the clothing links he sent. Lee supplied an unsolicited estimate of Taiga's response rate. Yoichi laughed. Taiga considered ending the call and decided that would only encourage them.
 
-Eventually the conversation drifted away from him. Hunter had studio work. Natsumi had a group assignment. Hiro had a lecturer at war with readable slides. Yoichi was calling from Camp Buddy during a maintenance break. Eduard and Lee argued about something cosmetic that became, somehow, an argument about evidence. Caleb returned to his desk.
+Eventually the conversation drifted away from him. Hunter had studio work. Natsumi had a group assignment. Hiro had a lecturer at war with readable slides. Yoichi was calling from Camp Buddy after spending most of the afternoon somewhere in the woods with Yuki. Eduard and Lee argued about something cosmetic that became, somehow, an argument about evidence. Caleb returned to his desk.
 
 People left one at a time. Keitaro stayed last.
 
