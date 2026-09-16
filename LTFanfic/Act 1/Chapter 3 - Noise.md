@@ -785,39 +785,47 @@ Taiga paused.
 
 “Psh. You answered.”
 
-Yoichi rotated the phone the right way. Behind him was a maintenance shed Taiga recognized immediately: white wall, metal shelving, the old pegboard Aiden had reorganized four times and never successfully kept organized. Taiga frowned.
+Yoichi rotated the phone the right way. Behind him was darkness, trees and the weak cone of a flashlight pointed at the ground. Yuki's ears appeared at the bottom of the frame for half a second before disappearing again.
 
-“You're at camp.”
+Taiga frowned.
+
+“You're in the woods.”
 
 “No shit.”
 
+“At eleven at night.”
+
+“So?”
+
 “What are you doing?”
 
-“Working.”
+“Walking.”
 
-“With what?”
+“With Yuki.”
 
-Yoichi shifted the camera. A disassembled wheelbarrow occupied the bench behind him.
+“Wow. College made you smart.”
 
-“Yoshinori wants this piece of shit fixed before the weekend group comes in. Buttcheeks says buy a new one. Goro says the old one is ‘perfectly serviceable.’ Guess who gets to find out.”
+Taiga smiled despite himself.
 
-“That thing was broken last summer.”
+“Shouldn't you be at camp?”
 
-“Yeah. Because campers destroy everything.”
+“I am at camp.”
 
-“You're a camper.”
+“You know what I mean.”
 
-“Only in summer.”
+Yoichi clicked his tongue and turned the camera. Through the trees, Taiga could just make out one of the Camp Buddy lights farther downhill.
 
-“Still helping all three scoutmasters?”
+“Yoshinori wanted help stacking chairs in the lodge.”
 
-“Unfortunately. Sheriff Brokeback does schedules, Buttcheeks makes food and starts projects, Crazy Lady appears with shit nobody asked for, and somehow I end up carrying it.”
+“And you left.”
 
-“Sounds efficient.”
+“They're chairs. They already know how to stand.”
 
-“Fuck you.”
+“That isn't how chairs work.”
 
-A dog barked somewhere outside. Yoichi's head turned automatically.
+“Works enough.”
+
+Yuki barked somewhere ahead. Yoichi immediately looked away from the camera.
 
 “How’s Yuki?”
 
@@ -851,7 +859,7 @@ Taiga closed his eyes.
 
 “The reason you called.”
 
-“I called because this wheelbarrow is boring.”
+“I called because walking around here alone gets boring.”
 
 “And yet somehow we're here.”
 
@@ -889,7 +897,15 @@ Caleb looked over.
 
 “Fuck you both.”
 
-Yoichi laughed. For a while they talked about nothing important. Yoichi complained that Aiden had ordered lumber before measuring the shed door. Taiga complained about soccer positioning. Yoichi told him that if a coach had to yell the same thing four times he was probably being an idiot. Taiga told him to repair his prehistoric wheelbarrow.
+Yoichi laughed. For a while they talked about nothing important. Taiga complained about soccer positioning. Yoichi complained that Aiden had tried to make him help unload lumber that afternoon and had somehow interpreted Yoichi disappearing for three hours as “avoiding work.”
+
+“You were avoiding work.”
+
+“I was with Yuki.”
+
+“That does not make it less true.”
+
+“Fuck you.”
 
 Eventually Yoichi went quieter.
 
@@ -899,7 +915,7 @@ Taiga looked at the screen.
 
 “How exactly?”
 
-Yoichi kicked something out of frame.
+Yoichi kicked at something out of frame. Leaves shifted under his shoe.
 
 “Everyone’s coming back different.”
 
@@ -907,7 +923,7 @@ Yoichi kicked something out of frame.
 
 “Yeah. That's why I notice, dumbass.”
 
-Taiga understood. Camp Buddy itself stayed put. The people did not. Hunter had art school. Natsumi had swimming and classes. Keitaro and Hiro had their own schedules, classes and romantic life. Taiga had Olympus. Yoichi had somehow become one of the people keeping camp running between summers.
+Taiga understood. Camp Buddy itself stayed put. The people did not. Hunter had art school. Natsumi had swimming and classes. Keitaro and Hiro had their own schedules, classes and romantic life. Taiga had Olympus. Yoichi still had the camp, the woods around it and Yuki. Not a job. Just home.
 
 “Keitaro's already planning the reunion,” Taiga said.
 
@@ -925,15 +941,13 @@ Taiga smiled.
 
 “Not that much.”
 
-There. That was as close to sentiment as either of them needed. A voice called faintly from outside the shed.
+There. That was as close to sentiment as either of them needed. Yuki barked again, farther away this time.
 
-“Yoichi\!”
+Yoichi turned immediately.
 
-Yoshinori. Yoichi shouted back:
+“Yuki\!”
 
-“YEAH, I HEARD YOU\!”
-
-Then to Taiga:
+Then back to Taiga.
 
 “Gotta go. Later, Dynamite.”
 
