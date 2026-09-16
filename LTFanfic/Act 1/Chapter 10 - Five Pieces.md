@@ -550,7 +550,7 @@ Maya eventually said, “Taiga?” He looked over.
 
 Taiga shook his head.
 
-“He's stuck at camp.”
+“He's staying at camp.”
 
 “At Camp Buddy?”
 
@@ -576,7 +576,7 @@ Maya leaned closer to the screen.
 
 “He works there?”
 
-“More or less.”
+“Not really.”
 
 Caleb frowned.
 
@@ -586,13 +586,13 @@ Caleb frowned.
 
 Maya laughed. Taiga continued.
 
-“He helps the scoutmasters. Repairs, equipment, grounds, whatever breaks. Goro still runs the camp as president, but if something needs carrying, fixing, feeding, chasing or swearing at, it somehow ends up becoming Yoichi's problem. He stayed after summer and then just... kept staying.”
+“He's just... there. Camp Buddy's home. He helps if something actually matters, but give him a chore and he'll disappear into the woods with Yuki until everybody stops looking for him.”
 
 Caleb nodded.
 
-“That sounds like a job.”
+“That sounds less like a job.”
 
-“Don't tell him.”
+“Exactly.”
 
 Maya smiled.
 
@@ -748,43 +748,49 @@ Yoichi clicked his tongue.
 
 Yoichi reached for something off-screen. Metal clanged against metal.
 
-“Fuck. Who put these in here?”
+“Fuck. Where'd they put it?”
 
 “What are you doing?”
 
-“Inventorying this crap.”
+“Looking for a flashlight.”
 
 He turned the camera. Shelves. Ropes. Lanterns. Old life jackets. Two paddles. A box marked **DOCK HARDWARE**. Camp Buddy in the off-season looked wrong without scouts moving through it. Too clean. Too empty.
 
-“Why are you doing inventory now?”
+“Why?”
 
-“Buttcheeks wants the shed counted before the lumber delivery. Sheriff Brokeback's stuck with the roof guy at the lodge, Yuri's off-site until this afternoon, and Goro went to check the other property. So guess who gets to count forty-seven fucking carabiners.”
+“Mine died.”
 
-Taiga smiled.
+“Of course it did.”
 
-“So you're in charge.”
+“Fuck you.”
 
-“No, I'm not.”
+Yoichi opened another cabinet. Yuki followed him from one side of the shed to the other.
 
-“You just listed every adult who isn't available.”
+Taiga watched him for a second. “You could still come Saturday.”
 
-“Yoshinori's here.”
+Yoichi clicked his tongue.
 
-“Where exactly?”
+“Whole day on trains. I'm not leaving Yuki with somebody else that long.”
 
-“Main office last I checked. And even if he wasn't, I'm not in charge. I'm counting shit.”
+“Yoshinori's there.”
 
-“So you're in charge of the shit.”
+“She's my dog.”
 
-Yoichi stared into the camera.
+Fair. Taiga smiled.
 
-“Start calling me Scoutmaster and I'll block you.”
+“Hunter knows you wanted to.”
 
-“Scoutmaster Yoichi.”
+“Didn't say he didn't.”
 
-“Eat my ass.”
+Yoichi found the flashlight, smacked it against his palm twice and got a weak beam.
 
-Taiga laughed. Yoichi propped the phone against a shelf. Yuki sat beside him. For the next minute Yoichi sorted carabiners while talking about absolutely nothing important. One missing tent-stake set. A cracked paddle somebody had put back instead of throwing away. Climbing rope in the wrong bin. A lantern that, according to Yoichi, had been broken since “before dinosaurs learned taxes.” Taiga listened. Then Yoichi said, without looking at the camera:
+“Piece of shit.”
+
+“That fixed it.”
+
+“Obviously.”
+
+He propped the phone against a shelf and started checking the batteries.
 
 “I wanted to go, y'know.”
 
@@ -792,21 +798,7 @@ There. Taiga nodded.
 
 “I know.”
 
-“Roof thing couldn't move. Then Yuri needed the truck tomorrow, and somebody has to be here when the lumber shows up, and—whatever. It's annoying.”
-
-“Hunter knows you wanted to.”
-
-“Didn't say he didn't.”
-
-Taiga watched him shove a bundle of cord into the correct box with unnecessary force.
-
-“You've complained about the roof three times.”
-
-“Because the roof guy's an idiot.”
-
-“Sure, why not.”
-
-Yoichi looked up. Taiga kept staring.
+Yoichi looked away.
 
 “Don't do the Frogboy thing.”
 
@@ -818,7 +810,7 @@ Yoichi looked up. Taiga kept staring.
 
 “Yeah. True.”
 
-Yoichi went back to the shelf. A few seconds passed.
+A few seconds passed.
 
 “Take pictures.”
 
@@ -868,7 +860,7 @@ Taiga looked at him.
 
 “Asshole.”
 
-Taiga smiled. They talked another ten minutes. Yoichi complained that Aiden wanted two sections of dock replaced before summer even though, according to Yoichi, the boards were “fine if people stopped stomping around like fucking elephants.” Taiga pointed out that scouts were professionally qualified to stomp around like idiots. Yoichi admitted this was true, although only after blaming Hiro personally for at least twelve percent of historical dock damage. Then movement appeared behind him. A shoulder first.
+Taiga smiled. They talked another ten minutes. Yoichi complained that Aiden had been talking about replacing two sections of dock before summer even though, according to Yoichi, the boards were “fine if people stopped stomping around like fucking elephants.” Taiga pointed out that scouts were professionally qualified to stomp around like idiots. Yoichi admitted this was true, although only after blaming Hiro personally for at least twelve percent of historical dock damage. Then movement appeared behind him. A shoulder first.
 
 Then Yoshinori leaned into frame.
 
@@ -914,13 +906,17 @@ Taiga opened his eyes. Absolutely not touching that sentence.
 
 “Don't you have a roof?”
 
-“I do, unfortunately. I only came in here because Yoichi's inventory sheet has been sitting on the printer for twenty minutes.”
+“I do, unfortunately. I only came in here because Aiden has been looking for Yoichi for the last twenty minutes.”
 
 Yoichi looked toward the ceiling.
 
-“I was getting it.”
+“Tell Buttcheeks I'm dead.”
 
-“Of course you were.” Yoshinori looked back at Taiga. “Enjoy the exhibition on Saturday. Please congratulate Hunter for me, and tell him Yuri and Aiden send their congratulations too. Goro does as well, although he used significantly fewer words.”
+“He asked you to help unload two boxes.”
+
+“Exactly.”
+
+Yoshinori sighed, but he was smiling when he looked back at Taiga. “Enjoy the exhibition on Saturday. Please congratulate Hunter for me, and tell him Yuri and Aiden send their congratulations too. Goro does as well, although he used significantly fewer words.”
 
 “I can imagine.”
 
@@ -940,7 +936,7 @@ Taiga frowned.
 
 “Shut up.”
 
-Yoichi grinned. There. The call ended three minutes later. Taiga lay back. For a second he pictured Camp Buddy without summer. Empty cabins. Yuki following Yoichi between buildings. Yoshinori moving between the office and the grounds with a clipboard. Aiden arguing with contractors. Yuri somewhere off-site doing whatever Yuri considered a normal errand, which probably meant returning with twice as much as she'd left for. Goro still presiding over all of it. Yoichi swearing at dock boards in the middle.
+Yoichi grinned. There. The call ended three minutes later. Taiga lay back. For a second he pictured Camp Buddy without summer. Empty cabins. Yuki following Yoichi between buildings. Yoshinori moving between the office and the grounds with a clipboard. Aiden arguing with contractors. Yuri somewhere off-site doing whatever Yuri considered a normal errand, which probably meant returning with twice as much as she'd left for. Goro still presiding over all of it. Yoichi disappearing past the tree line with Yuki whenever somebody mentioned chores.
 
 It suited him strangely well. He'd chosen the one place where staying meant something. Taiga didn't tell him that. Obviously.
 
@@ -1692,7 +1688,7 @@ Hunter laughed.
 
 Yoichi looked away from the screen.
 
-“Couldn't come. Roof guy showed up late, lumber's tomorrow, whole thing got fucked.”
+“Couldn't come. Wasn't leaving Yuki all day just to spend half of it on trains.”
 
 Hunter's expression softened.
 
