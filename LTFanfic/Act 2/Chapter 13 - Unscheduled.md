@@ -739,48 +739,67 @@ Leo laughed. “You really like that solution.”
 
 Leo turned toward him. “Okay. What did you do between Camp Buddy ending and Olympus?”
 
-Taiga stared at the market. “I've actually lived there for a while.”
+Taiga stared at the market. “Stayed there.”
 
-Leo raised an eyebrow. Taiga smiled.
+Leo raised an eyebrow.
 
-“Last year's summer term was... intense.”
+“For the whole year?”
 
-“Yeah. You mentioned that.”
+“Pretty much.” Taiga smiled. “After that summer, Yoichi and I stayed on as full-time volunteers.”
 
-“Right. After it ended, I wanted to give something back. Camp was in bad financial state. Luckily we managed to have a fundraising and eventually even a sponsor.”
+“Seriously?”
 
-"Woah, how did you get a sponsor?"
+“Yeah. Camp was broke, everybody was trying to keep it alive, and I wanted to give something back.”
 
-"Keitaro had a journal, somehow some famous writer read that and decided to publish it. Revenue helped fund camp's renovations."
+Leo watched him over the rim of his cup. “Full-time volunteer sounds suspiciously like a job without money.”
 
-"I'm guessing this is the ultra compressed version of the story."
+“That is exactly what it was.”
 
-Taiga snorted, "Yeah, it is."
+Leo laughed.
 
-Leo waited.
+“Then Keitaro's journal got published.”
 
-"Anyways, I stayed the whole off-season year to help. Me and Yoichi. Although, he's version of 'helping' is debatable."
+“The camp journal?”
 
-They both chuckled.
+“Yeah. Clermont Publishing turned it into a book. Somehow it became a bestseller.”
 
-"Couple of weird adult dramas later, camp was bigger than before. This summer's term was absurd. It was my third term, and I had never seen the camp so filled up."
+Leo lowered his cup. “Somehow?”
 
-"Sounds like a perfect ending."
+“Don't ask me. Keitaro gave his royalties back to the camp, and the guy who owned the publishing company ended up sponsoring a whole expansion.”
 
-"Yeah. For the camp, it was. For me? I dunno."
+Leo stared at him.
 
-"What do you mean?"
+“I'm guessing this is the ultra-compressed version of the story.”
+
+“Very.”
+
+“So you stayed for the construction.”
+
+“Yeah. Me and Yoichi. We were supposed to help with whatever needed doing.” Taiga shrugged. “I learned enough carpentry to stop being completely useless. We built new cabins, a function hall, upgraded half the place. By winter it looked like a construction site.”
+
+“And you just... stayed through all of that?”
+
+“Yeah.”
+
+“Then summer came back around?”
+
+Taiga nodded. “One more term. Place was packed. More scouts than I'd ever seen there.”
+
+Leo smiled. “Sounds like it worked.”
+
+“For the camp? Yeah.” Taiga looked down at his coffee. “For me, it took longer.”
+
+“What do you mean?”
 
 “At first it was easy. Everyone else left and started talking about what came next. School. Work. Whatever. I just... stayed.”
 
-Taiga looked down at his coffee. A few people passed in front of them, carrying paper bags from the market stalls.
+A few people passed in front of them carrying paper bags from the market stalls.
 
-“Later I figured out some of it was because I felt like I owed the camp. For what happened during the term.”
+“Part of me thought I owed the camp. For what happened that summer.”
 
-“What changed?”
+Leo didn't ask what happened. He only said, “And the rest?”
 
-Taiga noticed that he didn't ask what happened.
-He laughed once.
+Taiga laughed once.
 
 “Scoutmasters. Keitaro. Somehow Yoichi.”
 
@@ -788,21 +807,29 @@ Leo turned toward him. “Okay, now I'm interested.”
 
 Taiga laughed properly this time.
 
-“Yoichi's been living there since he was a kid. Half the time he disappears into the woods, dodges whatever chore somebody tries to give him, complains about everyone, whatever. And he's not there because he thinks he has to pay anybody back. He just wants to be there.”
+“Yoichi's been living there since he was a kid. Half the time he disappears into the woods, dodges whatever chore somebody tries to give him, complains about everyone, whatever. But he's not there because he thinks he owes anybody. He just wants to be there.”
 
 Leo nodded.
 
-“I think that was the difference. I wanted to stay too. Just... not for the same reason.”
+“And then there were people like Lloyd and Darius. They'd been scouts there years ago, left, built whole lives somewhere else, then came back to help rebuild the place.” Taiga rubbed his thumb along the edge of the cup. “I think eventually that got through my head.”
+
+“What did?”
+
+“That leaving doesn't mean it stops being yours.”
+
+Leo stayed quiet.
+
+“I wanted to stay too,” Taiga added. “Just... not because I had to.”
 
 “But you still belong there.”
 
-“Yeah.” Taiga rubbed his thumb along the edge of the cup. “That's not the problem. I just realized belonging there didn't mean I had to make it the rest of my life.”
+“Yeah.” Taiga looked toward the rink. “That's not the problem. I just realized belonging there didn't mean I had to make it the rest of my life.”
 
 Leo stayed quiet for a moment.
 
 “What made you apply for Olympus then?”
 
-“I didn't. Not at first. Yoshinori found it. The camp sponsor told him Olympus had a decent scholarship program, and he put the application in front of me.”
+“I didn't. Not at first. The camp sponsor mentioned Olympus had a decent scholarship program, and Yoshinori put the application in front of me.”
 
 “And?”
 
@@ -820,7 +847,7 @@ Leo laughed. “Of course you did.”
 
 Taiga snorted.
 
-“Then essays, interview, all that. Somehow I got accepted, and I spent half of September deciding whether I was actually coming.”
+“Then essays, interview, all that. Somehow I got accepted, and I spent weeks deciding whether I was actually coming.”
 
 “And then?”
 
