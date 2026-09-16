@@ -1230,19 +1230,19 @@ Caleb kept sleeping.
 
 Taiga bit the inside of his cheek and kept quiet.
 
-As he was reaching his climax, he turned on the back and raised his shirt.
-God that would be a really bad moment for Caleb to wake up.
+As he neared his climax, he rolled onto his back and pulled up his shirt.
+God, that would be a really bad moment for Caleb to wake up.
 
-Taiga bit the hem of the shirt to keep it raised and continued stroking his dick. Harder. Faster.
-Right before cumming, he rapidly kicked his blanket with his feet. Barely in time.
-He closed his eyes and made a muffled "UGH" sound, his teeth biting hard into his shirt.
-His whole body arched upward, as he started shooting.
-His first bursts reached his chest, then his abdomen. 
-Eventually, the rest slowly dripping from his hand. 
+Taiga bit the hem of his shirt to keep it raised and continued stroking his dick. Harder. Faster.
+Right before cumming, he kicked the blanket away. Barely in time.
+He closed his eyes and made a muffled “ugh” sound, biting hard into his shirt.
+His whole body arched upward as he started shooting.
+The first bursts reached his chest, then his abdomen.
+Eventually, the rest slowly dripped from his hand.
 
 Taiga glanced at Caleb. Nothing. Thank God.
 
-He started catching up his breath again. 
+He started catching his breath again.
 
 Then nothing.
 
@@ -1250,7 +1250,7 @@ Dark room. Caleb breathing. The clock now read 2:44.
 
 Taiga stared at the ceiling, finally releasing his shirt from his teeth, breathing heavily.
 
-“Fuck” he whispered.
+“Fuck,” he whispered.
 
 He stayed still until his breathing settled, then slipped out of bed, cleaned himself up in the bathroom and returned as quietly as possible. Caleb never moved.
 
