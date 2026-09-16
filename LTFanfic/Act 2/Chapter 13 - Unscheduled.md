@@ -782,7 +782,7 @@ Leo laughed. “You really like that solution.”
 
 Leo turned toward him. “Okay. What did you do between Camp Buddy ending and Olympus?”
 
-Taiga stared at the market. “I avoided decisions.”
+Taiga stared at the market. “I basically avoided decisions.”
 
 Leo raised an eyebrow. Taiga smiled.
 
