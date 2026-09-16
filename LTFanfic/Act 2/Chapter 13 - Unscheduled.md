@@ -738,7 +738,7 @@ Taiga watched the snow fall beyond the lights. “Yoshinori gave me somewhere to
 
 “You said.”
 
-“He's there year-round. Helps with whatever needs doing.”
+“He's there year-round. Half the time nobody knows where he is because he's wandered into the woods with Yuki.”
 
 Leo smiled. “That actually makes sense for him and I've never met him.”
 
@@ -812,7 +812,7 @@ Leo turned toward him. “Okay, now I'm interested.”
 
 Taiga laughed properly this time.
 
-“Yoichi's been living there since he was a kid. He does half the maintenance, sleeps there, complains about everyone, whatever. And he's not there because he thinks he has to pay anybody back. He just wants to be there.”
+“Yoichi's been living there since he was a kid. Half the time he disappears into the woods, dodges whatever chore somebody tries to give him, complains about everyone, whatever. And he's not there because he thinks he has to pay anybody back. He just wants to be there.”
 
 Leo nodded.
 
