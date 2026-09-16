@@ -611,7 +611,7 @@ Caleb returned to the spreadsheet. Taiga smiled despite himself. The annoyance r
 
 ---
 
-Wednesday evening, Taiga made it until six-forty-three before checking the Helios Tech score. This was twenty-three minutes after kickoff. A respectable amount of restraint. Probably. He was in the library with Nora. Not studying together. Technically. They had simply ended up at the same table because Nora had sent:
+Wednesday evening, Taiga made it until seven-twenty-three before checking the Helios Tech score. This was twenty-three minutes after kickoff. A respectable amount of restraint. Probably. He was in the library with Nora. Not studying together. Technically. They had simply ended up at the same table because Nora had sent:
 
 **Nora:** library?
 
@@ -623,7 +623,7 @@ Which apparently constituted planning now. Nora was reading judicial review case
 
 **HELIOS TECH 0 — 0 OLYMPUS**
 
-21:11. Nora looked up without moving her head.
+23:11. Nora looked up without moving her head.
 
 “You checked.”
 
@@ -727,11 +727,13 @@ Taiga opened his mouth. Nothing. Nora smiled. He pointed at her book.
 
 “More quietly.”
 
-She laughed. At six-fifty-eight, the score changed. 
+She laughed. At seven-thirty-eight, Taiga refreshed the page again. The score had changed.
 
 **HELIOS TECH 0 — 1 OLYMPUS**
 
-38' — Mendez Of course. He clicked the event. There was a short text description.
+38' — Mendez
+
+Of course. He clicked the event. There was a short text description.
 
 **Mendez receives wide left, cuts inside and finishes low beyond goalkeeper from edge of area.**
 
@@ -753,26 +755,7 @@ Taiga locked the screen.
 
 “You did.”
 
-Taiga looked at his code. The partition boundaries had become significantly more interesting. At halftime, Leo sent a message to the Apollo group.
-
-**Leo:** if enzo takes credit for that pass from the bench i am filing a formal complaint
-
-**Enzo:** I CREATED THE EMOTIONAL CONDITIONS
-
-**Leo:** you screamed “shoot” when i was 30 meters away
-
-**Enzo:** THAT'S CALLED VISION
-
-Taiga typed before thinking:
-
-**Taiga:** good shot good result
-
-Three dots appeared immediately.
-
-**Leo:** HOLY SHIT THE FRAMEWORK RETURNS
-**Leo:** thank you professor akatora
-
-Taiga smiled. Nora said nothing. That was suspicious. 
+Taiga looked at his code. The partition boundaries had become significantly more interesting.
 
 ---
 
@@ -890,14 +873,13 @@ Taiga paused.
 
 **Taiga:** better
 
-**Leo:** can I consider that progress?
+**Leo:** can i consider that progress?
 
 **Taiga:** fuck you
 
 **Leo:** 😂❤️
 
-Taiga stared several seconds on that last emoji.
-Then Leo continued
+Taiga stared at that last emoji for several seconds. Then Leo continued.
 
 **Leo:** hope you didn't spend the whole night staring at the match page
 
@@ -1083,7 +1065,7 @@ Leo sat on the edge of the table.
 
 Leo nodded. Then he looked at Taiga for a second.
 
-“You sure you okay about yesterday?”
+“You sure you're okay about yesterday?”
 
 Taiga shrugged.
 
@@ -1209,54 +1191,51 @@ Taiga let go. Leo laughed.
 
 “I choose how I receive it.”
 
-They kept walking. For once, Leo went quiet. Not for long. Maybe ten seconds. 
+They kept walking. For once, Leo went quiet. Not for long. Maybe ten seconds.
 
-"Do you mind if I get a little bit emotional?"
+“Do you ever look back?”
 
-"Yes."
+“What do you mean?”
 
-"Cool! Do you ever look back from time to time?"
+“You know, at where you started.”
 
-"What do you mean?"
+“Point is?”
 
-"You know, back to where you came from."
+“Like, look at you. Just a couple of months ago you never played organized football. Now you're making a drama about not being selected for the first team.”
 
-"Point is?"
+“That sounds insulting.”
 
-"Like, look at you. Just a couple of months ago you never played organized football. Now you're making a drama about not being selected first squad."
-
-"That sounds insulting."
-
-"It is not! You were basically collapsing while waiting for Mercer's review. Then you were collapsing for first reserve march. Then you were... no, you actually collapsed maybe, for your first first team minutes."
+“It is not! You were basically collapsing while waiting for Mercer's review. Then you were collapsing before your first reserve match. Then you were—no, actually, you might have genuinely collapsed before your first-team minutes.”
 
 Taiga looked at him.
 
-"Collapsing from one step to another."
+“Collapsing from one step to another.”
 
-Leo laughted
+Leo laughed.
 
-"It's progress!"
+“It's progress!”
 
 Taiga smiled.
 
-"Do you remember our first 1v1? You actually started out pretty good, almost got over me."
+“Do you remember our first one-on-one? You actually started out pretty well. Almost got past me.”
 
-"If I knew I could send you flying that easy, I'd have been more physical."
+“If I'd known I could send you flying that easily, I'd have been more physical.”
 
-"Okay. Wow. I was trying to be supportive and I got you regretting not being violent."
+“Okay. Wow. I was trying to be supportive and I got you regretting not being violent.”
 
-"You asked for it."
+“You asked for it.”
 
-"For the record, it happened one time. And there was mud everywhere."
+“For the record, that happened once. And there was mud everywhere.”
 
-"Sounds like an excuse."
+“Sounds like an excuse.”
 
-"Sounds like taking advantage of a poor skinny guy."
+“Sounds like taking advantage of a poor skinny guy.”
 
-"Advantage is advantage."
+“Advantage is advantage.”
 
-Leo laughted. He pulled his hands out of his pockets, linked them behind his neck and tipped his face toward the sky. For a brief moment, they just kept walking in silence. 
-Then Leo said, this time with a somehow softer voice
+Leo laughed. He pulled his hands out of his pockets, linked them behind his neck and tipped his face toward the sky. For a brief moment, they just kept walking in silence.
+
+Then Leo said, his voice softer this time:
 
 “You know what's weird? For me, at the beginning of the semester you were basically just a pissed-off guy standing outside the fence. Now sometimes I forget there was a version of Olympus where you weren't here yet.”
 
@@ -1264,7 +1243,7 @@ Taiga looked at him.
 
 “What do you mean?”
 
-Leo glanced over. For half a second, his expression did something Taiga couldn't place. Then he smiled. 
+Leo glanced over. For half a second, his expression did something Taiga couldn't place. Then he smiled.
 
 “Nothing. Just... I got so used to you being around that looking back when you weren't here feels weird.”
 
@@ -1278,11 +1257,11 @@ Taiga felt something shifting in his stomach. He looked down, but didn't answer.
 
 “I still don't get what you mean.”
 
-Leo paused for a second
+Leo paused for a second.
 
 “Actually, neither do I.”
 
-That answer was unexpected. Also because Leo said that with a strange uncertainty in his voice. 
+That answer was unexpected. Partly because Leo said it with a strange uncertainty in his voice.
 
 Before Taiga could ask more, they reached the dining hall. The walk had already taken longer than it should have because Leo apparently knew half the campus. A guy in an Apollo track jacket had called his name near the crossing. Leo had answered without breaking stride. Two girls outside the University Center had waved. Leo had waved back with both hands because one was apparently insufficient. Someone on a bicycle had shouted, “Nice goal\!”
 
@@ -1298,9 +1277,9 @@ Leo pulled out his phone. Then he looked at Taiga.
 
 “Go in. I'll catch up.”
 
-Taiga glanced.
+Taiga nodded.
 
-"Yeah".
+“Yeah.”
 
 Taiga went inside. He grabbed a tray. The sentence came back while he was reaching for a glass. *Sometimes I forget there was a version of Olympus where you weren't here yet.* Taiga stopped with his hand halfway toward it. Why the fuck was he replaying that? Leo said weird shit constantly. He'd spent the last ten minutes describing a projector malfunction like a near-death experience. Taiga took the glass.
 
@@ -1527,7 +1506,7 @@ Taiga changed. His phone buzzed inside the locker. Camp Buddy. Natsumi had finis
 **Hunter:** congratulations\!\! 😊
 
 **Yoichi:** didn't drown
-**Yoichi:** proud 
+**Yoichi:** proud
 
 There was a pause. Then:
 
@@ -1561,9 +1540,9 @@ Taiga stared. Keitaro:
 **Taiga:** thanks
 **Taiga:** also congrats for your swimming
 
-**Natsumi:** Thank you Taiga.
+**Natsumi:** Thank you, Taiga.
 
-Taiga put the phone away. 
+Taiga put the phone away.
 
 ---
 
