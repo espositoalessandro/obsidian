@@ -1521,8 +1521,9 @@ Leo paused.
 
 “That might count as self-harm.”
 
-Taiga laughed. Then the conversation kept going. Leo asked lots of stuff about camp and his friends. 
-Taiga told him about having been there for two summers in a row and after the second, he stayed a bit more to help.
+Taiga laughed. Then the conversation kept going. Leo asked lots of stuff about camp and his friends.
+
+Taiga told him he'd spent three summers at Camp Buddy. The second was the one where everything changed; afterward, he and Yoichi stayed through the off-season to help rebuild the place, and by the third summer the camp was bigger and full again.
 
 Leo listened. Actually listened. No constant interruption. Just occasional questions.
 
@@ -1534,7 +1535,7 @@ Taiga laughed.
 
 “That sounded emphatic.”
 
-“On my first term, I only knew Eduard, Lee and a couple of others. Yoichi and Natsumi were also there, but we didn't talk much. This summer however, things changed.”
+“On my first term, I only knew Eduard, Lee and a couple of others. Yoichi and Natsumi were also there, but we didn't talk much. That second summer, though, things changed.”
 
 Leo's eyebrows rose.
 
@@ -1570,7 +1571,7 @@ Leo smiled. Taiga went silent for a second.
 
 “He's—”
 
-Taiga stopped. 
+Taiga stopped.
 
 “Annoying.”
 
@@ -1766,7 +1767,7 @@ Aaron posted the photo of Sofia destroying him at basketball. Sofia reacted with
 
 **Enzo:** who the fuck is julian
 
-The chat exploded. Taiga laughed. 
+The chat exploded. Taiga laughed.
 
 Taiga scrolled. There was the shooter photo. Leo leaning forward beside him. Taiga's shoulder almost against Leo's. Both focused on the screen. Taiga saved it, then the group shot, Scott looking dead, Aaron losing at basketball, Enzo holding the shark.
 
