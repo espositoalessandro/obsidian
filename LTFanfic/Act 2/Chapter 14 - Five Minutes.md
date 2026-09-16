@@ -1,4 +1,4 @@
-Three weeks at Camp Buddy passed faster than the first three weeks at Olympus had.
+The week at Camp Buddy passed faster than the first week at Olympus had.
 
 That seemed unfair.
 
@@ -10,7 +10,7 @@ Camp Buddy already fit.
 
 The cabins still smelled like wood and old detergent when the heat came on. The dining hall still had one table that rocked unless somebody folded a napkin under the left leg. The path to the lake still turned to mud after rain in exactly the same places. Yuki still treated Taiga returning as evidence that she had personally manifested him through force of will.
 
-The first few days were quiet.
+The first day was quiet.
 
 Not empty.
 
@@ -324,7 +324,7 @@ Normality resumed.
 
 ---
 
-The reunion lasted four days.
+They had one week.
 
 That was enough time for everybody to rediscover old habits they had apparently not lost.
 
@@ -1562,7 +1562,7 @@ Then the car left.
 
 The camp became quiet again.
 
-Taiga stayed five more days.
+Taiga stayed until the end of the week.
 
 He helped around camp.
 
@@ -1572,7 +1572,7 @@ He walked Yuki.
 
 He argued with Yoichi.
 
-He got occasional messages from Nora complaining about her family, from Caleb reporting that Maya had beaten him at a board game he claimed involved no meaningful strategy, and from Leo, who sent photographs without context often enough that Taiga stopped asking why.
+Over the week, he got occasional messages from Nora complaining about her family, from Caleb reporting that Maya had beaten him at a board game he claimed involved no meaningful strategy, and from Leo, who sent photographs without context often enough that Taiga stopped asking why.
 
 A broken mug.
 
@@ -1594,7 +1594,7 @@ Leo sent:
 
 No calls. No dramatic conversations. Just messages.
 
-Then January sixth arrived, and Taiga stood on the platform with one suitcase, one backpack and Yuki attempting to climb onto the train with him.
+At the end of the week, Taiga stood on the platform with one suitcase, one backpack and Yuki attempting to climb onto the train with him.
 
 “Absolutely not.”
 
@@ -1662,7 +1662,9 @@ Taiga let him.
 
 ---
 
-Olympus looked smaller when he came back.
+The remaining two weeks of break passed with family.
+
+When Taiga returned to Olympus, it looked smaller.
 
 Not physically.
 
