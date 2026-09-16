@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Act 1/Chapter 4 - Margins.md",
+                "file": "Act 2/Chapter 13 - Unscheduled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 4 - Margins"
+              "title": "Chapter 13 - Unscheduled"
             }
           }
         ]
@@ -41,9 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false,
-                "showSearch": false,
-                "searchQuery": ""
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -201,14 +199,14 @@
   },
   "active": "59cd03884ccda333",
   "lastOpenFiles": [
+    "Act 2/Chapter 14 - Five Minutes.md",
+    "Act 1/Chapter 12 - Baseline.md",
+    "Act 1/Chapter 4 - Margins.md",
     "Act 2/Chapter 17 - Thin Air.md",
     "Act 2/Chapter 16 - Simple.md",
     "Act 2/Chapter 15 - Default.md",
-    "Act 2/Chapter 14 - Five Minutes.md",
     "Act 2/Chapter 13 - Unscheduled.md",
-    "Act 1/Chapter 12 - Baseline.md",
     "Act 2/Chapter 19 - What remains.md",
-    "Act 1/Chapter 4 - Margins.md",
     "Act 1/Chapter 5 - First Start.md",
     "Act 3.md",
     "Act 2/Chapter 18 - Fallout.md",

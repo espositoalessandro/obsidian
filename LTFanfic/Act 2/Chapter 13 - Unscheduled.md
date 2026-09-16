@@ -146,22 +146,6 @@ Then he looked at Taiga.
 
 “I know.”
 
-“The refrigerator is on setting three.”
-
-“I know.”
-
-“Do not turn it to four.”
-
-“Why would I?”
-
-“The back-left section freezes liquids.”
-
-“I know.”
-
-Caleb paused.
-
-Taiga waited.
-
 Then Caleb said, “Have a good break.”
 
 Something about the sentence felt strangely formal.
@@ -189,10 +173,6 @@ Half the room immediately looked emptier.
 Taiga disliked that for approximately ten minutes.
 
 Then he enjoyed having the room to himself.
-
-Both things could apparently be true.
-
-Annoying.
 
 Now snow collected along the grass as he crossed toward the Residential Zone.
 
@@ -342,8 +322,6 @@ Before he answered, another message appeared.
 
 Taiga laughed.
 
-Political Institutions had damaged everyone.
-
 **Taiga:** i have to pack
 
 **Leo:** how long does that take
@@ -361,7 +339,6 @@ Maybe thirty if he had to decide what not to bring.
 Then:
 
 **Leo:** 4:10 central station
-
 **Leo:** if you don't come i will respect your decision and complain about it forever
 
 Taiga looked at the suitcase.
@@ -374,7 +351,7 @@ He typed:
 
 **Taiga:** 4:15
 
-Leo reacted with six sun emojis.
+**Leo:** ☀️☀️☀️☀️☀️☀️
 
 ---
 
