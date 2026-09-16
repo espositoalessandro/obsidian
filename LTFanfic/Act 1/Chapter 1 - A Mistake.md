@@ -65,7 +65,7 @@ Taiga had known about the roommate for months. Forms. Emails. A housing question
 
 The room was better than expected, which still meant small: two beds, two desks, two wardrobes and a window over the quad. The right side had boxes, a cactus and a framed basketball jersey. The left side was empty. His.
 
-For a moment he stood there with his suitcase upright beside him. New school. New room. Nobody here knew what he'd been like last summer, or how much work it had taken to stop treating every irritation like an attack. He could arrive as—
+For a moment he stood there with his suitcase upright beside him. New school. New room. Nobody here knew what he'd been like the summer before last, or how much work the year after it had taken. He could arrive as—
 
 His phone buzzed.
 
@@ -135,7 +135,7 @@ Hiro looked appalled. “Then fix that first. Also, roommate. Did you meet him?�
 
 Keitaro laughed. Hiro pointed at the screen. “Fine. Eat something first, then report hot college guys.”
 
-Everybody's lives had moved so quickly after camp. Hunter was at art school. Natsumi had classes and swim training. Yoichi had stayed near Camp Buddy. Keitaro was studying journalism. Hiro had somehow turned food into coursework.
+Everybody's lives had moved in different directions after that first summer. Hunter was at art school. Natsumi had classes and swim training. Yoichi was still at Camp Buddy. Keitaro was studying journalism. Hiro had somehow turned food into coursework. Taiga had stayed too, long after most of them left.
 
 Olympus had started months earlier, when Yoshinori put the application in front of him and Taiga laughed. The application sat unopened for eleven days. Keitaro threatened to fill it in for him. Taiga told him to fuck off, then completed it that night. The scholarship essays and interview had been worse, but Yoshinori's recommendation had come from someone who knew Taiga long before one difficult summer could become a convenient redemption story.
 
@@ -338,7 +338,7 @@ Taiga shrugged. Caleb returned to arranging books. A while later Taiga pulled a 
 
 “You work there?”
 
-“Used to. Sort of.”
+“Did. Sort of.”
 
 Caleb waited. Taiga expected the usual follow-up. Where? How long? What did you do? Was it fun? Nothing came. Caleb simply nodded and went back to his desk. Taiga looked at him for another second. Interesting.
 
@@ -505,11 +505,11 @@ Taiga almost smiled.
 
 “A little.”
 
-“I spent summers at camp.”
+“I spent the last year fixing cabins at a summer camp.”
 
 “Taiga.”
 
-“Right. I also spent part of the last one being a complete asshole. Strong résumé.”
+“Right. Full-time volunteer. Very prestigious.”
 
 Keitaro did not rush to contradict him. Instead he asked:
 
@@ -531,7 +531,7 @@ Taiga frowned.
 
 “No.”
 
-“He knew you before last summer. He knew the difficult parts too. He still wrote it.”
+“He knew you before any of that. He knew the difficult parts too. He still wrote it.”
 
 “That's biased.”
 
