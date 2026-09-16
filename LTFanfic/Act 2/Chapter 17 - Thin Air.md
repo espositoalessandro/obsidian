@@ -586,7 +586,7 @@ Taiga stood beside the dark field until the cold got through his coat. Aaron’s
 
 The rink. The lab. Coffee. The balcony. Leo beside him on the bus. Leo following him into the snow.
 
-Taiga started walking, not toward the lodge at first but along the service path until the trail lights ended. Pine and cold and dark water that was not there flashed through his head anyway. Camp Buddy. Keitaro refusing to leave years ago.
+Taiga started walking, not toward the lodge at first but along the service path until the trail lights ended. Pine and cold and dark water that was not there flashed through his head anyway. Camp Buddy. Keitaro refusing to leave that summer.
 
 Taiga turned around and went back.
 
