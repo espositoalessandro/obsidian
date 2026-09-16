@@ -255,7 +255,7 @@ Leo smiled and typed something. After a moment he looked up again. “You going 
 
 “What?”
 
-“Camp Buddy. I know what a summer camp looks like in theory, but every time you talk about yours it sounds like a small country run by six people and one angry dog.”
+“Camp Buddy. I know what a summer camp looks like in theory, but every time you talk about yours it sounds like a small country run by four people and one angry dog.”
 
 Taiga laughed. “That's not completely wrong.”
 
@@ -267,11 +267,9 @@ Taiga laughed. “That's not completely wrong.”
 
 Taiga stared at him for a second before laughing hard enough that the woman two seats away looked over.
 
-Leo pointed. “Exactly! Yoichi was right.”
-
 “Yoichi said the same thing.”
 
-“I know. He has vision.”
+“He has vision.”
 
 “Don't tell him that.”
 
@@ -313,7 +311,7 @@ The train slowed. Leo glanced outside before looking back at him. “Also, sayin
 
 “My evidence is that I'm here.”
 
-Taiga looked through the window instead. Snow had started sticking to the rooftops.
+Taiga shook his head, smiling. He looked through the window. Snow had started sticking to the rooftops.
 
 ---
 
@@ -341,11 +339,11 @@ Leo stopped. “Never?”
 
 “No.”
 
-“You worked at a camp.”
+“You were at a camp.”
 
 “In summer.”
 
-“Oh.”
+“Fair.”
 
 Taiga looked at him. “What?”
 
@@ -353,7 +351,7 @@ Taiga looked at him. “What?”
 
 “Because your brain is damaged.”
 
-“Probably.” Leo tightened his skate. “I've done it like... four times.”
+“Probably.” Leo tightened his skate. “Well, I've done it like... four times.”
 
 “That's your qualification?”
 
@@ -449,29 +447,32 @@ A teenager cut across between them. Leo looked sideways, and Taiga saw the colli
 
 Leo turned back too late. He twisted to avoid the teenager, but his skate caught awkwardly and one arm windmilled.
 
-Taiga moved on instinct and grabbed him around the waist. Momentum handled the rest badly: Leo hit the barrier with his back, not particularly hard, and Taiga hit Leo much harder than he intended.
+Taiga moved on instinct and grabbed him around the waist. Leo had already lost his balance when Taiga reached him, which ended up pulling both of them on the ground.
 
 For one second, everything stopped.
 
-Taiga's left hand was flattened against the barrier beside Leo's shoulder while his right arm remained around Leo's waist. Leo had one hand gripping Taiga's upper arm and the other pressed against his chest. They were close enough that Taiga could see the darker ring around Leo's irises and three snowflakes melting in his hair, their breath turning white between them.
+Leo was lying on the ice on his back. One of Taiga's hands left his waist just in time to stop him from hitting Leo with his own head. 
+Leo's hands were clinging on Taiga's jacket, pulling him towards him.
+They were close enough that Taiga could see the darker ring around Leo's irises and three snowflakes melting in his hair, their breath turning white between them.
 
 Leo stared at him. His mouth opened, but nothing came out.
 
-That, more than anything, made Taiga move. He let go too quickly and his skate shifted underneath him, forcing Leo to catch his sleeve.
+He could feel his own ears starting to acquire more heat than necessary.
+That, more than anything, made Taiga move. 
 
-“Careful.”
+“Well, that was embarassing.”
 
-“I'm fine.”
+Taiga didn't answer immediately. He glanced at Leo and  saw that his cheeks were a bit more colored than the usual.
 
-“I know.”
+"...Yeah."
 
-Neither of them moved for another second. Then Leo looked past him at the teenager already halfway around the rink.
+They stayed sit on the ice. Neither of them moved for another second. Then Leo looked past him at the teenager already halfway around the rink.
 
-“Okay. I nearly murdered a minor.”
+“Okay. I was nearly murdered by a minor.”
 
 Taiga laughed before he could stop himself.
 
-Leo pushed away from the barrier. “I think I've reached my humiliation quota.”
+Leo pushed himself up. “I think I've reached my humiliation quota.”
 
 “You were the one moving backward.”
 
@@ -519,7 +520,7 @@ They carried the drinks toward a row of benches under strings of lights. Snow ha
 
 Leo blew across the cup. For a while they watched people move through the market, their coats touching occasionally at the shoulder because the bench was narrow.
 
-Then Leo's Oracle rang. He looked at the screen and grimaced.
+Then Leo's phone rang. He looked at the screen and grimaced.
 
 “Oh, shit.”
 
