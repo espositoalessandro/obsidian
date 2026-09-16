@@ -798,13 +798,7 @@ Leo waited.
 
 “At first it was easy. Everyone else left and started talking about what came next. School. Work. Whatever. I just... stayed.”
 
-“Because you wanted to?”
-
-Taiga looked down at his coffee.
-
-“I thought so.”
-
-A few people passed in front of them, carrying paper bags from the market stalls.
+Taiga looked down at his coffee. A few people passed in front of them, carrying paper bags from the market stalls.
 
 “Later I figured out some of it was because I felt like I owed the camp. For what happened during the term.”
 
@@ -832,7 +826,7 @@ Leo stayed quiet for a moment.
 
 “What made you apply for Olympus then?”
 
-“I didn't. Not at first. Yoshinori found it. One of the camp sponsors told him Olympus had a decent scholarship program, and he put the application in front of me.”
+“I didn't. Not at first. Yoshinori found it. The camp sponsor told him Olympus had a decent scholarship program, and he put the application in front of me.”
 
 “And?”
 
@@ -975,33 +969,3 @@ Leo narrowed his eyes. “That sounded too easy.”
 Leo laughed. “Night!”
 
 He walked away. Taiga watched until he reached the next path, then turned toward Residence.
-
----
-
-Room 317 was still strangely silent when Taiga returned. He turned on the desk lamp, and Caleb's side remained perfectly arranged despite Caleb being several hundred kilometers away. The tiny cactus sat on the windowsill. Taiga looked at the suitcase, which remained unpacked.
-
-“Fuck.”
-
-He started throwing things in: shirts, jeans, underwear, Camp Buddy hoodie, chargers, laptop. Twenty-seven minutes later, the suitcase was zipped.
-
-Leo had been right about the packing time. Unacceptable.
-
-Taiga's Oracle buzzed.
-
-**Leo:** made it back without falling
-
-Then:
-
-**Leo:** streak continues
-
-**Taiga:** nobody asked
-
-Leo reacted with a sun.
-
-Taiga put the Oracle on the desk, turned off the lamp and got into bed. For a while all he could hear was the heating pipes and snow tapping softly against the window.
-
-Then the rink returned without permission: Leo against the barrier, one hand on Taiga's chest, and the brief, impossible silence before either of them moved.
-
-Taiga rolled onto his other side.
-
-“Fuck.”
