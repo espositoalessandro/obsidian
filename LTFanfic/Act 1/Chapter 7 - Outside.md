@@ -888,7 +888,7 @@ Maya sat beside Taiga. “Was Camp Buddy like this?”
 
 “You were a counselor?”
 
-“Scout.”
+“Scout. Then I stayed on as a volunteer.”
 
 Maya asked what he actually did there.
 
