@@ -1134,9 +1134,133 @@ Leo laughed and reached for the shower handle.
 
 ---
 
+At 2:17 that night, Taiga woke up hard.
+
+For several seconds he lay still, staring into the dark and trying to work out what had pulled him awake.
+
+Then his brain supplied the answer.
+
+White tile.
+
+Running water.
+
+Leo turning beneath the shower.
+
+Taiga shut his eyes.
+
+“Fuck.”
+
+The word barely made sound.
+
+Across the room, Caleb did not move. His blanket rose and fell with slow, regular breaths. The digital clock beside his bed cast a faint blue rectangle across the wall.
+
+Taiga rolled onto his side, facing away from him.
+
+This was stupid.
+
+He had seen naked men before. Camp showers existed. Yoichi had once made privacy seem like a personal insult. He had seen Leo naked before, too.
+
+None of this qualified as new information.
+
+His body apparently disagreed.
+
+Taiga pulled the blanket higher and waited for the problem to resolve itself.
+
+It did not.
+
+Instead, the shower came back in pieces.
+
+Leo's shoulders when he'd turned around. Water running down the narrow line of his back. His waist. The glance Taiga had absolutely not needed to take lower down.
+
+*Floor's that interesting?*
+
+That crooked smile afterward.
+
+Taiga pressed his face into the pillow.
+
+Great.
+
+He tried thinking about the match instead. Aaron's goal. Mercer's comment. The run before the cutback. Useful things. Football things.
+
+Leo had been in those too.
+
+Of course he had.
+
+Another minute passed.
+
+Caleb slept through six alarms most mornings. Taiga had watched an entire electronic ecosystem scream at him while he remained mostly unconscious.
+
+He looked over his shoulder anyway.
+
+Nothing.
+
+“This is fucking ridiculous,” he whispered.
+
+No response.
+
+Fine.
+
+Taiga turned back toward the wall and slipped one hand beneath the blanket.
+
+Every tiny movement suddenly sounded enormous. Fabric shifting. Mattress springs. His own breathing. He stopped when Caleb moved, but Caleb only rolled farther toward the wall and went still again.
+
+Taiga waited.
+
+Then continued.
+
+He tried, briefly, not to think about anyone in particular.
+
+That lasted maybe ten seconds.
+
+His mind gave him Leo again with insulting precision: wet hair pushed back from his forehead, water on his chest, the easy way he'd stood there talking as if being completely naked in front of Taiga were the least interesting thing happening in the room.
+
+Then lower.
+
+Taiga's breath caught.
+
+Fuck it.
+
+He stopped trying to replace the image.
+
+Leo laughing. Leo turning. The shape of him from behind. That stupid round ass Taiga had already noticed once and apparently had not forgotten. The open showers had left nowhere useful to look, and his memory had apparently kept considerably more than he wanted to admit.
+
+His pace quickened.
+
+Caleb kept sleeping.
+
+Taiga bit the inside of his cheek and kept quiet.
+
+A few minutes later, the tension broke hard enough that his whole body tightened beneath the blanket.
+
+Then nothing.
+
+Dark room. Caleb breathing. The clock now read 2:24.
+
+Taiga stared at the wall.
+
+“Well,” he whispered.
+
+That was apparently all he had.
+
+He stayed still until his breathing settled, then slipped out of bed, cleaned himself up in the bathroom and returned as quietly as possible. Caleb never moved.
+
+Back under the blanket, embarrassment arrived now that the physical problem was gone.
+
+Taiga refused to do anything with it.
+
+He'd been horny. He'd seen an attractive guy naked a few hours earlier. His brain had used what was available.
+
+That was it.
+
+He was not holding an investigation at two-thirty in the fucking morning.
+
+Taiga turned the pillow over, closed his eyes and went back to sleep.
+
+---
+
 Monday brought the first General Chemistry lab session. Taiga had disliked the laboratory before anything happened in it. Goggles fogged. Gloves made his hands feel clumsy. The benches were too crowded. Every bottle had three labels, two hazard symbols and a warning written as if somebody in a previous year had attempted to drink it.
 
-He looked around and saw a familiar blond head. Leo was sitting next to a girl and talking. Taiga didn't bother making him aware of his presence.
+He looked around and saw a familiar blond head. A small, private wave of embarrassment arrived with the recognition. Taiga ignored it. Leo was sitting next to a girl and talking. Taiga didn't bother making him aware of his presence.
 
 Professor Dalia Hassan handled the lecture course. The lab belonged mostly to Seth Miller, a graduate assistant who began every session by saying, “I know you are all adults,” and then describing a new way adults had injured themselves. Today he stood at the front beside four trays of glassware.
 
