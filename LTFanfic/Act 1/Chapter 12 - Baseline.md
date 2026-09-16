@@ -195,25 +195,13 @@ He knew about the match. Everyone did. He also knew the squad would probably be 
 
 ---
 
-Foundations of Computer Science introduced graphs on Tuesday. Taiga liked them immediately. This was suspicious. Professor Rao drew six circles on the board and connected them with lines.
+Foundations of Computer Science moved from binary search into Quicksort on Tuesday. Taiga liked it immediately. This was suspicious. Professor Rao wrote eight numbers across the board, circled one in the middle and drew a line beneath the list.
 
-“Before anyone says it, no, this is not a chart.”
+“Pick a pivot. Put the smaller values on one side, the larger values on the other. Then do the same thing again.”
 
-Someone near the front lowered a hand. Rao looked satisfied.
+Lina whispered, “Oh no.”
 
-“A graph is a set of vertices and edges. Nodes and connections, if you prefer language designed by people who enjoy clarity.”
-
-Lina whispered, “Shots fired.” Taiga wrote **vertex \= node** in the margin. Rao continued.
-
-“Computer science has several traditions dedicated to giving ordinary ideas new vocabulary and then becoming angry when beginners use the ordinary vocabulary.”
-
-A few people laughed. She put up a campus map. Buildings became nodes. Paths became edges.
-
-“Shortest path.”
-
-Taiga leaned forward. Lina saw.
-
-“Oh no.”
+Taiga looked over.
 
 “What?”
 
@@ -223,23 +211,43 @@ Taiga leaned forward. Lina saw.
 
 “You've been leaning forward for ten minutes.”
 
-Taiga sat back. Rao changed slides. A directed graph now represented course prerequisites. Some arrows formed clean chains. One cluster formed a cycle. Rao pointed.
+Taiga sat back. Rao changed slides. The same list appeared after one partition step, pivot fixed between two unsorted halves.
 
-“What is wrong?”
+“This is the important part. We did not sort the list. We put one value where it belongs and reduced the problem into smaller versions of itself.”
 
-Taiga raised his hand before thinking. Rao nodded.
+Taiga wrote **partition + recurse** in the margin.
 
-“Akatora.”
+Rao continued.
 
-“Course A requires B, B requires C, and C requires A. Nobody can enter the sequence.”
+“Average case?”
 
-“Exactly. The curriculum has become self-protecting.”
+A hand near the front went up.
 
-Lina whispered, “Academia achieved consciousness.” Taiga smiled. The assignment appeared twenty minutes later.
+“O of n log n.”
 
-**ASSIGNMENT 8 — TRANSIT NETWORK**
+“And worst case?”
 
-Load a simplified rail network. Represent stations and connections. Find reachable stations. Find the minimum number of transfers between two points. Detect disconnected components. Taiga opened the starter file. The dataset was small. Ugly enough to be interesting. Lina looked over. Taiga caught it immediately.
+“O of n squared.”
+
+“Why?”
+
+Rao drew an already sorted list and chose the first element as pivot. Taiga saw it before she finished the arrows.
+
+“Because every partition gives you one empty side and one side with everything else,” he said.
+
+Rao looked over.
+
+“Exactly. Congratulations. You have reinvented a linked list using recursion and spite.”
+
+Lina whispered, “Academia achieved violence.” Taiga smiled.
+
+The assignment appeared twenty minutes later.
+
+**ASSIGNMENT 8 — SORTING BENCHMARK**
+
+Implement Quicksort. Compare it with insertion sort on random, already sorted, reverse-sorted and duplicate-heavy inputs. Record the behavior. Explain why pivot choice matters. Do not use the language's built-in sort for the implementation.
+
+Taiga opened the starter file. The dataset was small. Ugly enough to be interesting. Lina looked over. Taiga caught it immediately.
 
 “No commentary.”
 
@@ -255,7 +263,7 @@ He hadn't moved.
 
 “Notes.”
 
-“It says `adjacency map?`”
+“It says `pivot strategy?`”
 
 “That is a note.”
 
@@ -265,19 +273,19 @@ He hadn't moved.
 
 Rao said from the front:
 
-“And because several of you are already trying to engineer the London Underground, the assignment has fourteen stations.”
+“And because several of you are already trying to publish a sorting library, the assignment needs one Quicksort implementation.”
 
 Lina slowly turned toward Taiga. He kept his eyes forward. Rao added:
 
-“If your solution requires a framework, a database, or a design document longer than the code, I will personally delete something.”
+“If your solution requires a framework, a strategy hierarchy or a design document longer than the code, I will personally delete something.”
 
 The class laughed. Taiga crossed out one line. Lina saw.
 
-“Was that a class?”
+“Was that an interface?”
 
 “No.”
 
-“It looked like a class.”
+“It looked like an interface.”
 
 “Mind your business.”
 
@@ -287,7 +295,7 @@ The class laughed. Taiga crossed out one line. Lina saw.
 
 “Same thing.”
 
-After class, Taiga had twenty minutes before lunch. He spent nineteen of them implementing breadth-first search. The queue was obvious once he saw it. At minute twenty-one, his phone buzzed.
+After class, Taiga had twenty minutes before lunch. He spent nineteen of them writing the partition step and the recursive calls. The first sample sorted correctly. Then the second. At minute twenty-one, his phone buzzed.
 
 **Gav:** meeting at one. you still in academic?
 
@@ -503,7 +511,7 @@ Then he walked away. Taiga stood in the corridor. His baseline moved. Great. Now
 
 ---
 
-Six minutes later, Caleb looked over. This was because Caleb was a problem. Taiga returned to room 317 at six-twenty. Dropped his bag. Sat at his desk. Opened the transit assignment. Caleb was doing something with a spreadsheet. Taiga wrote a function. Deleted it. Wrote it again. The queue implementation was fine. His test failed because he had marked a station visited too late and added it twice. Easy. Fix. Run. Passed. Nothing improved. Caleb said, “You're typing harder.”
+Six minutes later, Caleb looked over. This was because Caleb was a problem. Taiga returned to room 317 at six-twenty. Dropped his bag. Sat at his desk. Opened the sorting assignment. Caleb was doing something with a spreadsheet. Taiga ran the tests. Random data passed. Sorted data passed. Reverse-sorted passed. The duplicate-heavy case did not. He traced the partition once. Then again. Equal values kept landing in a recursive range that did not shrink the way he expected. Easy. Probably. Nothing improved. Caleb said, “You're typing harder.”
 
 Taiga stopped.
 
@@ -517,7 +525,7 @@ Taiga stopped.
 
 “Then shut up.”
 
-Caleb looked at him. Taiga stared at the screen. Three seconds. Five. Then Caleb returned to the spreadsheet. Taiga ran the tests again. All green. Still annoyed. He opened another test case. Disconnected station. Passed. Caleb said, without looking over:
+Caleb looked at him. Taiga stared at the screen. Three seconds. Five. Then Caleb returned to the spreadsheet. Taiga ran the tests again. Same failure. Still annoyed. He opened the partition function. Caleb said, without looking over:
 
 “You weren't selected tomorrow.”
 
@@ -611,7 +619,7 @@ And Taiga had replied:
 
 **Taiga:** fourth floor
 
-Which apparently constituted planning now. Nora was reading judicial review cases. Taiga was supposed to be finishing the transit assignment. Instead, the athletics live page sat minimized behind his editor. He opened it.
+Which apparently constituted planning now. Nora was reading judicial review cases. Taiga was supposed to be finishing the sorting assignment. Instead, the athletics live page sat minimized behind his editor. He opened it.
 
 **HELIOS TECH 0 — 0 OLYMPUS**
 
@@ -641,7 +649,7 @@ Taiga frowned.
 
 “Still.”
 
-Nora returned to the case. Taiga looked at his code. One function remained. Minimum transfers. He already had shortest path by stops. Transfers required tracking lines as part of the state. Slightly more interesting. He started sketching it. Five minutes later Nora said:
+Nora returned to the case. Taiga looked at his code. One ugly case remained. The Quicksort worked on random values and distinct values. Duplicate-heavy input could still leave a block of values equal to the pivot bouncing through recursive calls that should have been finished already. He started sketching the ranges again. Five minutes later Nora said:
 
 “You could just watch the game.”
 
@@ -749,7 +757,7 @@ Taiga locked the screen.
 
 “You did.”
 
-Taiga looked at his code. The queue had become significantly more interesting. At halftime, Leo sent a message to the Apollo group.
+Taiga looked at his code. The partition boundaries had become significantly more interesting. At halftime, Leo sent a message to the Apollo group.
 
 **Leo:** if enzo takes credit for that pass from the bench i am filing a formal complaint
 
@@ -783,7 +791,7 @@ Taiga smiled. Nora said nothing. That was suspicious. He looked over. She was re
 
 ---
 
-Olympus won two-nil. Leo's goal remained the first. Taiga watched the second half while pretending to debug transfers. Both things happened. This was called efficiency. At nine, Nora closed her laptop.
+Olympus won two-nil. Leo's goal remained the first. Taiga watched the second half while pretending to debug Quicksort. Both things happened. This was called efficiency. At nine, Nora closed her laptop.
 
 “I have reached the point where every court appears wrong in a different font.”
 
@@ -891,15 +899,15 @@ Leo:
 
 Then:
 
-**Leo:** how's the transit thing going
+**Leo:** how's the sorting thing going
 
 Taiga paused. He had mentioned the assignment once. Maybe Saturday. Or film. He didn't remember.
 
-**Taiga:** done except transfer path
+**Taiga:** done except duplicates
 
 **Leo:** oh fuck that one
 
-**Leo:** track station + current line or it lies to you
+**Leo:** split less / equal / greater and don't recurse through the equal block
 
 Taiga stopped walking. He stared at the message. That was exactly the problem he had spent twenty minutes circling.
 
@@ -915,7 +923,7 @@ Taiga smiled.
 
 **Leo:** bus is moving too fast for death right now maybe later
 
-Taiga put the phone away. Station plus current line. Annoyingly useful. Again.
+Taiga put the phone away. Less, equal, greater. Annoyingly useful. Again.
 
 ---
 
@@ -1613,7 +1621,7 @@ House Apollo was full of laptops by five. Finals had apparently defeated athleti
 
 “Study room's warmer.”
 
-This was true. So Taiga stayed. Not socializing. Studying near people. Different. He took a corner of a long table and opened the transit assignment. Final tests. Everything passed except one transfer case. Taiga frowned. Station plus current line. He had done that. The path was correct. Transfer count wrong by one. He traced the state. Initial boarding. Fuck. He was counting the first line as a transfer. Easy. Fix. Passed. He leaned back. Done.
+This was true. So Taiga stayed. Not socializing. Studying near people. Different. He took a corner of a long table and opened the sorting assignment. Final tests. Everything passed except one descending-order case. The Quicksort itself was fine. The validation helper was not: it used `<` where it needed `<=`, so equal neighboring values were being flagged as out of order. Easy. Fix. Passed. He leaned back. Done.
 
 Across the room, Enzo said:
 
@@ -1729,13 +1737,13 @@ Leo dragged a chair backward with one foot and sat at the end of Taiga's table f
 
 “Finished.”
 
-“The transit thing?”
+“The sorting thing?”
 
 “Yeah.”
 
-“Transfers?”
+“Duplicates?”
 
-“Station plus line.”
+“Less, equal, greater.”
 
 Leo pointed.
 
@@ -1870,4 +1878,3 @@ Maya replied through the speakers:
 Taiga sat at his desk. Opened Calculus. The first problem was related rates. Of course. He picked up a pencil. He started again.
 
 ---
-
