@@ -6,13 +6,13 @@ That felt suspicious.
 
 Finals had consumed the previous nine days with enough efficiency that most of them barely survived as separate memories.
 
-Statistics happened.
+Calculus happened.
 
 Political Institutions happened.
 
-Writing Seminar required a revision memo that Taiga wrote, hated, rewrote and eventually submitted five minutes before he could convince himself to change it again.
+General Chemistry required a lab write-up that Taiga wrote, hated, rewrote and eventually submitted five minutes before he could convince himself to change it again.
 
-Foundations of Computer Science ended with a final that contained one graph problem, one recursion problem and a question about aliasing that Professor Rao had almost certainly included because she enjoyed watching half the class rediscover old trauma.
+Foundations of Computer Science ended with a final that contained one Quicksort problem, one recursion problem and a question about aliasing that Professor Rao had almost certainly included because she enjoyed watching half the class rediscover old trauma.
 
 Soccer continued around all of it.
 
