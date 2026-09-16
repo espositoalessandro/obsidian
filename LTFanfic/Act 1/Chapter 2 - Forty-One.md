@@ -1579,7 +1579,7 @@ Taiga laughed. They took laundry downstairs. The machines were nearly full. Taig
 
 That evening, Hiro forced the Camp Buddy group into a call because seven separate schedules apparently offended him.
 
-The conversation moved quickly enough that nobody had time to turn Taiga's first two weeks into an interview. Hunter complained about a professor telling him to “let the material breathe.” Natsumi had an early swim session. Yoichi was outside a convenience store during a maintenance break at Camp Buddy. Eduard was doing one eye while talking; Lee sat beside him with a textbook open and corrected two of Eduard's claims without looking up.
+The conversation moved quickly enough that nobody had time to turn Taiga's first two weeks into an interview. Hunter complained about a professor telling him to “let the material breathe.” Natsumi had an early swim session. Yoichi was outside a convenience store near Camp Buddy, having apparently wandered off again. Eduard was doing one eye while talking; Lee sat beside him with a textbook open and corrected two of Eduard's claims without looking up.
 
 Hiro asked how Olympus was going.
 
