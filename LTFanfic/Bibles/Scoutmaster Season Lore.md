@@ -1,422 +1,578 @@
 # Scoutmaster Season — Lore Bible
 ## Route-Neutral Continuity Reference
 
-This file collects the **route-neutral lore from _Camp Buddy: Scoutmaster Season_** that is relevant to the Olympus fanfic.
+This file is the Olympus fanfic’s working reference for **_Camp Buddy: Scoutmaster Season_**.
 
-Its purpose is to answer:
+Its job is to answer:
 
-> **What happened at Camp Buddy after the original game, before Taiga began college?**
+> **What happened at Camp Buddy between the original game and Taiga beginning college?**
 
-This is deliberately **not a romance-route bible**.
+The project deliberately uses **no canonical Scoutmaster Season romance route**.
 
-For Olympus continuity:
-- **no Yoshinori/Goro romance is canonical**;
-- **no Yoshinori/Aiden romance is canonical**;
-- route-exclusive romantic conclusions should not be imported into the novel unless the project explicitly changes this rule later;
-- shared/common events, setting history, renovation events, character history, and route-independent relationships are the material we want to preserve.
-
----
-
-# 1. Source Status
-
-This bible is currently based on:
-- officially published descriptions of _Scoutmaster Season_;
-- public game chronology / walkthrough material;
-- public reference material and story summaries;
-- project decisions made for the Olympus fanfic.
-
-A direct extracted **Scoutmaster Season dialogue / voiceline corpus is forthcoming**.
-
-Once that corpus exists, direct dialogue should outrank external summaries when details conflict.
-
-Until then, distinguish carefully between:
-
-### Shared / strongly supported game canon
-Material clearly presented as part of the game's common setting, chronology, history, cast, or off-season renovation premise.
-
-### Route-dependent material
-Events whose exact outcome depends on choosing Goro or Aiden.
-
-### Olympus continuity additions
-Choices made specifically for this novel. These are canon for the fanfic even when the game itself leaves the matter open.
+- No Yoshinori/Goro romance is canon.
+- No Yoshinori/Aiden romance is canon.
+- No route-ending relationship status should be assumed.
+- Shared plot events, setting history, non-romantic backstory, and route-independent character relationships may be used.
+- A non-romantic historical fact revealed inside one route may be adopted when it describes events that predate the route split and does not conflict with the other route. Such facts are marked below where useful.
 
 ---
 
-# 2. Canon Policy for Scoutmaster Season
+# 1. Source Priority
 
-The Olympus fanfic treats _Scoutmaster Season_ as a **real continuation of the original Camp Buddy summer**, but strips away the requirement to select one of its two romance routes.
+Primary source:
 
-The working model is:
+1. `ScoutmasterSeasonScript.csv` — direct extracted game dialogue.
 
-- the original Camp Buddy summer happened;
-- Camp Buddy survived;
-- the off-season redevelopment / expansion happened;
-- Yoshinori, Goro, Aiden, Yuri, Taiga, Yoichi, and the renovation team participated in the shared events relevant to that project;
-- the project continued for many months and extended into winter;
-- Camp Buddy emerged rebuilt and better prepared for the future;
-- no definitive Yoshinori/Goro or Yoshinori/Aiden romantic outcome is assumed.
+Secondary sources may be used only when the script does not contain enough context:
 
-If a later chapter needs an event that appears only inside one romance route, check the dialogue corpus before adopting it. Prefer extracting the **route-neutral fact underneath the event** rather than importing the romance framing.
+2. Official BLits material.
+3. Public walkthrough chronology / developer material.
+4. Community summaries.
 
----
+If an external summary conflicts with the extracted script, **the script wins**.
 
-# 3. The Basic Premise
+The CSV contains dialogue from multiple branches and endings without route labels. Therefore:
 
-_Scoutmaster Season_ takes place after the original Camp Buddy game, during the camp's off-season.
-
-Camp Buddy is no longer facing immediate closure. Instead, the central practical problem becomes its future.
-
-The camp enters a substantial **renovation / redevelopment / expansion project**. This is not merely cosmetic repair. The project concerns what Camp Buddy should become after surviving the crisis of the original game and how it can continue operating without repeating earlier mistakes.
-
-The renovation therefore functions on two levels:
-
-1. **Physical reconstruction**
-   - repairing and improving the property;
-   - reopening or expanding usable areas;
-   - preparing the camp for future seasons;
-   - dealing with the practical demands of construction and maintenance.
-
-2. **Historical / emotional reconstruction**
-   - revisiting why Camp Buddy was created;
-   - confronting mistakes made during its earlier growth;
-   - reconnecting the current camp with people from its first generation;
-   - deciding what Camp Buddy should mean to the people who remain attached to it.
-
-This second layer is especially important for Taiga's Olympus backstory.
+- repeated or clearly shared facts are safest;
+- romance-specific outcomes must not be generalized;
+- a statement from a route ending is not automatically route-neutral just because it appears in the corpus.
 
 ---
 
-# 4. Camp Buddy's Earlier History
+# 2. Route-Free Canon Policy
 
-_Scoutmaster Season_ expands the history of Camp Buddy considerably.
+For Olympus, the following broad sequence is canon:
 
-## 4.1 Goro and Yuri
+1. The original Camp Buddy summer ends.
+2. Taiga and Yoichi **stay at Camp Buddy as full-time volunteers**.
+3. Camp Buddy enters its off-season.
+4. The fundraising success from the previous term is followed by William Clermont’s sponsorship.
+5. Clermont Inc. launches a major renovation / expansion project.
+6. Lloyd Sirius, Darius Najjar, Hyunjin Choi, Emilia Komarova, and a professional construction workforce become involved.
+7. The project lasts **more than half a year**, extending through winter and toward the next summer term.
+8. Taiga and Yoichi remain materially involved during the project; the old scout group also returns to help during the winter.
+9. The expansion is completed before the next summer term.
+10. Olympus continuity extends Taiga’s stay until he has spent roughly a year tied to Camp Buddy before leaving for college.
 
-Camp Buddy ultimately grows out of **Goro's relationship with Yuri**.
-
-A formative camping experience with Yuri helped inspire Goro to create the camp. The camp therefore began not as an abstract business venture but as something deeply personal: a place intended to give young people the kind of happiness, growth, and connection that Goro saw camping provide.
-
-This history matters because it explains why Goro's attachment to Camp Buddy can become so rigid. To him, the camp is bound up with family, purpose, responsibility, and personal legacy.
-
----
-
-## 4.2 The First Generation
-
-Yoshinori belonged to Camp Buddy's earliest generation of campers.
-
-Other people connected to that early generation later return during the redevelopment project, including figures such as:
-- Lloyd Sirius;
-- Darius Najjar;
-- Emilia Komarova.
-
-Their return gives the renovation a generational quality: former campers come back as adults with professional skills and help reconstruct the place that shaped them.
-
-For Olympus continuity, this is an important recurring Camp Buddy theme:
-
-> People can leave Camp Buddy, build lives elsewhere, and still remain connected enough to return when the place needs them.
-
-That principle should also inform Taiga's relationship with the camp after he leaves for college.
+The exact Goro-route and Aiden-route endings are **not** part of this timeline.
 
 ---
 
-## 4.3 Yoshinori's Long-Term Bond with Camp Buddy
+# 3. How the Expansion Is Funded
 
-Yoshinori became deeply attached to Camp Buddy during his own youth and eventually returned as a scoutmaster.
+## 3.1 The previous fundraiser
 
-His adult role at the camp is therefore the fulfillment of a much older connection rather than a random job choice.
+The original scout group’s fundraising effort remains part of the background.
 
-The exact romantic outcome of _Scoutmaster Season_ is irrelevant to Olympus continuity, but Yoshinori's **commitment to Camp Buddy itself** is shared background and should remain intact.
+Direct script references establish that:
+
+- the camp ran a fundraising campaign during the previous term;
+- a tech-savvy scout uploaded a promotional video for that campaign;
+- the money still covers miscellaneous improvement costs during the off-season.
+
+The fundraiser helps stabilize Camp Buddy, but it is **not the whole source of the Scoutmaster Season expansion budget**.
+
+## 3.2 Keitaro’s book
+
+William Clermont’s publishing company publishes a book called **_Greatest Memories_** based on Mr. Nagame’s work from the previous term.
+
+The script explicitly establishes that:
+
+- the book has been on shelves and online stores for over a month when William discusses the expansion;
+- William calls it the company’s most outstanding release and later one of its bestselling novels in a long time;
+- foreign-language translations are already being prepared;
+- William says the book’s story and the publicity around Camp Buddy helped convince him to support the camp;
+- Keitaro is offered a percentage of sales and declines it;
+- William pools Keitaro’s royalties into Camp Buddy’s sponsorship.
+
+Important distinction:
+
+> **The expansion sponsorship is not simply Keitaro’s book money.**
+
+William explicitly says the expansion funding is a **separate investment**, with Keitaro’s royalties added alongside it.
+
+This replaces the looser earlier idea that “a famous writer found Keitaro’s journal and funded the renovations.”
+
+## 3.3 William Clermont
+
+William is the major outside sponsor behind the redevelopment.
+
+He:
+
+- runs / owns a publishing company associated with Clermont Inc.;
+- has an existing connection to Camp Buddy through his son Felix;
+- says Camp Buddy helped Felix become more active and sociable;
+- sees the success of _Greatest Memories_ as both proof of public interest and an opportunity to invest in the camp;
+- offers Camp Buddy a full sponsorship intended to last for years;
+- hires professional contractors and specialists rather than expecting the camp’s small staff to perform the expansion alone.
+
+William remains a sponsor / business ally in route-free continuity. Do not import route-specific offers concerning Aiden or Goro as automatic canon.
 
 ---
 
-## 4.4 Aiden's Early Connection
+# 4. Expansion Scope
 
-Aiden's history with Camp Buddy also predates his adult scoutmaster role.
+William consults the **Federation of Unified Camping Boy Scouts (FUCBoyS)** about how Camp Buddy should be upgraded.
 
-His father, André, was connected to the camp as a cook, and Aiden spent time there when younger. His later return therefore belongs to the same broader pattern of people whose lives take them away from Camp Buddy and eventually bring them back.
+The resulting project is substantially larger than simple repairs.
 
-Again, Olympus adopts the **historical connection**, not a Yoshinori/Aiden romance ending.
+Directly stated project goals include:
 
----
+- expanding into the annex area beside the existing camp;
+- building **additional cabins**;
+- building new facilities;
+- a proposed **function hall**;
+- technology integration;
+- gear upgrades;
+- a revised curriculum with additional safety considerations;
+- modernizing Camp Buddy’s administration and infrastructure for a larger future intake.
 
-# 5. Goro's Earlier Overexpansion
+The physical site plan specifically places:
 
-One of the most useful pieces of sequel lore is that Camp Buddy's deterioration was not simply the result of bad luck or temporary neglect.
+- additional cabins on the eastern side of the expansion area;
+- the proposed function hall on the western side.
 
-Goro had previously allowed the camp to **grow beyond what could realistically be maintained**.
+The project also continues earlier work refurbishing old, run-down cabins.
 
-After members of the earlier generation moved on, Goro continued investing heavily in Camp Buddy. The camp became larger and more demanding than its available people and resources could sustainably support.
-
-This helps explain the state of the camp in the original game:
-- more infrastructure than the current operation can comfortably maintain;
-- areas that are underused, closed, or deteriorating;
-- a president whose fear of losing the camp makes him increasingly controlling;
-- a system that needs more than superficial repairs.
-
-The Scoutmaster Season project should therefore not be described as simply "making the camp bigger."
-
-The better framing is:
-
-> **rebuild Camp Buddy without repeating the mistake of growth for growth's sake.**
-
-The future of the camp depends on making it sustainable as well as physically improved.
+The guiding practical problem is capacity: Camp Buddy expects substantially more scouts in the next term and needs enough space and infrastructure to support them.
 
 ---
 
-# 6. The Renovation / Expansion Team
-
-The project brings in people whose skills and histories connect the camp's past to its future.
+# 5. Project Team
 
 ## Lloyd Sirius
-- Former Camp Buddy camper / part of the older generation tied to the camp's history.
-- Returns as an adult professional.
-- Works as an **architect** in connection with the redevelopment.
-- Embodies the idea of a camper leaving, building a career, and later bringing that expertise back to Camp Buddy.
+
+- Camp Buddy alumnus.
+- Explicitly part of the **very first batch of Camp Buddy scouts**.
+- Returns as **Architect Sirius / lead architect**.
+- Applies for the project with Darius after seeing that Clermont Inc. is recruiting for Camp Buddy.
+- Says his architectural style was influenced by his time at camp, especially rustic and cozy design.
+- Handles the design side of the new structures and works closely with Darius.
+- Teaches construction/design skills to the camp staff and Taiga.
 
 ## Darius Najjar
-- Also connected to Camp Buddy's earlier generation.
-- Returns as an adult working in construction.
-- Functions as a **construction foreman / practical construction lead** for the redevelopment.
-- Alongside Lloyd, turns the camp's history into literal reconstruction work.
 
-## Hyunjin Choi
-- Part of the new project team.
-- Connected to the more technical side of the redevelopment.
-- Public reference material identifies him with programming / technical work.
-- His exact responsibilities should be checked against the direct dialogue corpus once available before writing highly specific technical details.
+- Camp Buddy alumnus.
+- Explicitly part of the **very first batch of Camp Buddy scouts**.
+- Returns as **Foreman Najjar / lead foreman**.
+- Has construction and carpentry expertise.
+- Was already skilled at carpentry when he was a scout.
+- Works with Lloyd on the new facilities and the construction workforce.
+- Teaches practical building and repair skills to others, including Taiga.
+
+## Hyunjin “Jin” Choi
+
+- Programmer / technical specialist sent in connection with Clermont Inc.
+- Not part of the old Camp Buddy generation.
+- Modernizes the camp’s technology.
+
+Directly established work includes:
+
+- replacing / upgrading the camp office computer;
+- teaching staff basic computer troubleshooting;
+- upgrading internet access;
+- setting up security cameras and their network;
+- relaunching the Camp Buddy website;
+- adding online scout enrollment;
+- adding online job applications;
+- building / maintaining a database for camp records;
+- working on the camp’s blog and later technology integrations.
+
+By winter he says another batch of cameras is planned for spring after the expansion site is finished.
 
 ## Emilia Komarova
-- Connected to Camp Buddy's earlier generation.
-- Returns as an adult during the redevelopment storyline.
-- Has important ties to the project's outside interests and becomes involved in conflict surrounding the future of Camp Buddy.
-- Her exact route-specific actions and conclusions should not be generalized until verified against the dialogue corpus.
 
-## William Clermont
-- Wealthy outside backer / sponsor connected to the redevelopment.
-- Represents external money, opportunity, and influence entering Camp Buddy's future.
-- His involvement makes the rebuilding project possible on a scale the existing staff could not easily manage alone.
-- Where his proposals differ between routes, Olympus should preserve only the shared fact that he is materially involved in the camp's redevelopment and future planning.
+- Former Camp Buddy scout / alumnus from the older generation.
+- She knew Yoshinori and Yuri during their scout years.
+- Clermont Inc. sends her as the project **inspector / quality-assurance manager**.
+- She functions as a bridge between Clermont Inc. and Camp Buddy and aggressively monitors deadlines, departments, and quality.
 
----
+The story later establishes that Emilia **falsified her credentials to obtain the inspector position**.
 
-# 7. Timeline and Duration
+Her behavior causes major conflict inside the project. She eventually admits that much of her hostility came from bitterness, insecurity, and desperation surrounding her own life after Camp Buddy.
 
-The crucial continuity point is that _Scoutmaster Season_ does **not** portray the renovation as a project lasting only a few weeks.
+For Olympus, Emilia’s non-romantic redemption and reconciliation can exist as background. Do not tie it to either Yoshinori romance route.
 
-The game's explicit day structure stretches across many months.
+### First-generation precision
 
-Public chronology includes:
-- an opening sequence during the first several days;
-- later events around **Day 77**;
-- winter / Christmas-period material around the low 80s;
-- a far-later **Day 221** epilogue in at least one ending structure.
+The script explicitly names the following as the **very first batch of Camp Buddy scouts**:
 
-The exact Day 221 scene may be ending-dependent, so Olympus should not treat every detail of that epilogue as universal.
+- Yoshinori
+- Yuri
+- Aiden
+- Lloyd
+- Darius
 
-However, the chronology strongly establishes the broader fact that the events of _Scoutmaster Season_ cover a **long off-season period measured in months**, not merely several weeks.
-
-This makes a long post-original-game stay for Taiga entirely compatible with the sequel's scale.
+Emilia is definitely a former scout and part of their old social world, but the extracted line naming the “very first batch” does **not** include her. Do not casually state that she was in that exact first batch unless another direct source confirms it.
 
 ---
 
-# 8. Taiga and Yoichi During the Off-Season
+# 6. Camp Buddy’s Early History
 
-Taiga and Yoichi remain materially involved with Camp Buddy after the original summer.
+These facts are world-history material. Some of the deeper explanations are revealed inside character routes, but they describe events long before the Scoutmaster Season romance split and are compatible with route-free continuity.
 
-They are not merely visitors appearing for a cameo. They participate in the camp's off-season life and are still present well into the renovation period.
+## 6.1 Goro and Yuri
 
-Later winter material continues to place them at Camp Buddy.
+Goro explains that Camp Buddy ultimately grew out of his relationship with Yuri.
 
-A heavy-snow sequence is especially useful as continuity evidence: Taiga and Yoichi are involved when the camp needs major snow clearing, and members of the old scout group are contacted / return to help.
+When Yuri was young, home life was difficult. Goro began spending more time with her and took her camping. They discovered a shared love of adventure, and Goro wanted that experience to become something lasting.
 
-For Olympus purposes, this establishes several safe principles:
+He saved money and eventually created Camp Buddy.
 
-- Taiga **did not immediately abandon Camp Buddy** after the original game;
-- he remained connected to its staff and physical upkeep;
-- he spent meaningful off-season time working around Yoichi;
-- the original scout group remained reachable and willing to return when Camp Buddy needed help;
-- Camp Buddy continued functioning as a social home even after the original summer ended.
+The first term was therefore the realization of a shared Goro/Yuri dream rather than merely a commercial venture.
+
+## 6.2 The first term
+
+The direct script identifies:
+
+- Goro as the scoutmaster of the first term;
+- Yoshinori, Yuri, Aiden, Lloyd, and Darius as members of the first batch.
+
+They later take very different adult paths, making Lloyd and Darius returning as professionals especially important: Camp Buddy is literally being rebuilt by adults who once attended it as young scouts.
+
+## 6.3 Earlier expansion and branches
+
+After the first term, Goro continued expanding Camp Buddy until there were multiple branches.
+
+Dialogue from Goro, Yuri, and Emilia establishes that:
+
+- Goro eventually managed several branches;
+- Yuri at one point relocated to help manage another branch;
+- the other branches were later closed;
+- Goro’s management during that period became unsustainable and emotionally unhealthy.
+
+The deepest explanation for Goro’s motives is route-revealed, so Olympus should use the **historical fact** without importing the romantic framing around his later decisions.
+
+The Scoutmaster Season project is therefore not Camp Buddy’s first experience with expansion. That history is one reason characters are wary of repeating old mistakes.
+
+## 6.4 Aiden and André
+
+Aiden’s connection to Camp Buddy also goes back to the first generation.
+
+André worked at Camp Buddy as a cook. Aiden became involved at camp and helped in the kitchen.
+
+After the first term, André’s illness worsened. Goro offered continued support, but André and Aiden ultimately left the camp. André later died.
+
+This is non-romantic historical background even though much of the detailed explanation is surfaced through Aiden-focused material.
 
 ---
 
-# 9. Taiga and Yoichi — Relationship Policy
+# 7. Project Timeline — Direct Script Anchors
 
-_Scoutmaster Season_ gives Taiga and Yoichi substantial shared off-season presence and enough chemistry for other characters / fans to notice their dynamic.
+The direct script gives a much firmer duration than the earlier web-based “Day 77 / Day 221” shorthand.
 
-Olympus continuity adopts the **friendship / working relationship**, not a romance.
+## Project start
 
-Their post-Camp-Buddy dynamic should be treated as:
-- surprisingly durable;
+- The story is explicitly in the **off-season**.
+- Goro says the expansion project has been underway for **less than a week** near the beginning.
+- Taiga says time has been slow during the off-season and that he has been waiting for something to work on.
+- Professional workers begin arriving immediately after the sponsorship plans are approved.
+
+## First weeks
+
+Yoshinori describes several weeks of work:
+
+- construction moves rapidly under a tight schedule;
+- frameworks for new cabins become visible;
+- Hyunjin works on the website, internet, security, and digital administration;
+- Goro handles legal / sponsorship work;
+- Yuri assists the administrative side;
+- staff and construction responsibilities become increasingly formalized.
+
+## Roughly two months in
+
+William later says he is reviewing the project after **the last two months**.
+
+At this point:
+
+- preliminary goals have been achieved;
+- winter weather is becoming a safety concern;
+- the team is given a short break / team-building trip;
+- winter scheduling becomes a major issue.
+
+## Winter
+
+A major snowstorm / blizzard disrupts the camp.
+
+The old scouts return to help clear the snow.
+
+Yoshinori explicitly says he called **Yoichi and Taiga**, and that the rest of the gang came along.
+
+Taiga says:
+
+- they came to help clear the snow;
+- he had tried to invite Eduard and Lee as well, but both were busy;
+- he has already learned design and carpentry from Lloyd and Darius;
+- he feels very different from who he was **half a year ago** and credits the people at Camp Buddy for giving him another chance.
+
+William later brings snow blowers as additional sponsorship support.
+
+Once conditions stabilize, work continues through the rest of winter.
+
+## Spring / completion
+
+Dialogue describes:
+
+- snow thawing with spring approaching;
+- construction and technology work continuing toward completion;
+- the project ultimately reaching formal completion after **months of hard work**;
+- a ribbon-cutting celebration;
+- several weeks of relative quiet afterward while everyone waits for the scouts to return;
+- summer being “right around the corner.”
+
+One late line summarizes the duration particularly well: the team had been extremely busy for **over half a year**.
+
+Therefore the safe continuity conclusion is:
+
+> **Scoutmaster Season covers most of an off-season, from shortly after the previous summer term through winter and into the approach of the next summer term.**
+
+The old web-based Day 221 estimate is no longer necessary for Olympus continuity.
+
+---
+
+# 8. Taiga During Scoutmaster Season
+
+This is the most important section for the Olympus novel.
+
+## 8.1 His status is explicit
+
+Yoshinori introduces Taiga and Yoichi to Hyunjin as:
+
+> scouts who **“stayed on as full-time volunteers.”**
+
+This is stronger than the previous assumption that Taiga simply remained around the camp informally.
+
+Taiga himself later says:
+
+> “We’re not scouts right now, we work here just like y’all!”
+
+Use **full-time volunteer** as the precise source status. In casual Olympus dialogue, Taiga can still naturally say that he “worked at Camp Buddy.”
+
+## 8.2 He wants to contribute
+
+Early in the project Taiga says the off-season has been slow and that he has been waiting for something to work on.
+
+This supports the idea that he does not stay merely because he has nowhere else to go. He actively wants responsibility.
+
+## 8.3 He learns construction skills
+
+Taiga directly says that:
+
+- he has learned design and carpentry from Lloyd and Darius;
+- he has a lot to learn about building;
+- he wants to learn more repairs because the skills will be useful around camp;
+- he helps Lloyd and Darius build an arch;
+- he is enthusiastic about woodworking.
+
+This gives Olympus concrete material for what Taiga actually did during the renovation.
+
+He was not just carrying boxes in the background. He acquired practical building / repair skills.
+
+## 8.4 His redemption is still active
+
+During the winter sequence Taiga says:
+
+- he feels very different from who he was half a year earlier;
+- he owes that change to everyone at Camp Buddy giving him another chance;
+- he recognizes the value of people being willing to let past mistakes go.
+
+This is excellent grounding for the Olympus interpretation that the renovation year becomes the practical continuation of Taiga’s redemption.
+
+## 8.5 His old friendships continue
+
+Taiga says that even though everyone has become busy with their own lives, he still finds time to catch up with **Eduard and Lee**.
+
+During the snowstorm he tries to invite them to help, but they are unavailable that day.
+
+This supports keeping Eduard and Lee in Taiga’s wider adult social world rather than treating them as characters who vanished after the original game.
+
+---
+
+# 9. Taiga and Yoichi
+
+Taiga and Yoichi both stay on as full-time volunteers.
+
+Their Scoutmaster Season dynamic is:
+
+- highly familiar;
 - argumentative;
-- familiar;
-- built through months of working around each other;
-- capable of mutual trust without becoming sentimental.
+- practical;
+- mutually embedded in the same daily camp life;
+- much closer than two people who simply happened to attend the same summer term.
 
-They can have the energy of two people who complain constantly while nevertheless knowing exactly how the other works.
+Taiga repeatedly ends up supervising, correcting, or cleaning up after Yoichi, while still choosing to work and socialize with him.
 
-Do **not** turn this into:
-- a past romance;
-- an unrequited crush unless later source material explicitly demands one and the project deliberately adopts it;
-- a hidden alternate love story competing with Leo.
+For Olympus:
 
-Their importance is that Taiga left Camp Buddy with **real friendships**, not that every intense relationship in his life must become romantic.
+- they are friends / coworkers;
+- months of shared off-season life make their familiarity credible;
+- they can irritate each other constantly without the relationship being hostile;
+- there is **no canonical Taiga/Yoichi romance**;
+- do not create an ex-boyfriend or hidden-crush history unless the project deliberately changes this later.
 
----
-
-# 10. The Old Scout Group After Summer
-
-The original group does not cease to exist when the first game ends.
-
-Keitaro, Hiro, Hunter, Natsumi, Yoichi, and Taiga remain part of an ongoing social network, even when not all of them are physically living at Camp Buddy.
-
-The winter snow-clearing material is particularly useful for Olympus because it demonstrates a believable post-camp pattern:
-
-- some people remain at / near the camp;
-- others move on with ordinary life;
-- the group can still be called back together;
-- returning to Camp Buddy does not require permanently living there.
-
-This should be the model for later Olympus references to Taiga's old friends.
-
-Camp Buddy is a place they can **return to**, not a place every member of the group must remain trapped inside for continuity to function.
+Their relationship is useful precisely because Taiga needs meaningful bonds that are **not all romantic**.
 
 ---
 
-# 11. Route-Neutral Themes Worth Preserving
+# 10. The Old Scout Group After the Original Summer
 
-Even without choosing Goro or Aiden, several major themes from _Scoutmaster Season_ are highly useful to the novel.
+The old group remains socially connected after the term ends.
 
-## 11.1 Rebuilding something does not mean restoring it exactly as it was
+The winter sequence demonstrates a useful pattern:
 
-The camp survives because people are willing to change it.
+- Taiga and Yoichi are still based at Camp Buddy;
+- Keitaro, Hiro, Hunter, and Natsumi can return when help is needed;
+- Eduard and Lee are still in Taiga’s orbit even when they cannot attend;
+- the group’s lives are starting to diverge, but the friendships persist.
 
-Physical reconstruction and emotional growth happen together.
+Camp Buddy therefore becomes a place people **return to**, not a place everyone must permanently inhabit.
 
-## 11.2 People can leave without rejecting Camp Buddy
-
-Several characters have lives elsewhere and still return.
-
-Leaving is not betrayal.
-
-## 11.3 Staying is meaningful only if it is a choice
-
-Camp Buddy attracts people who genuinely want to invest in it, but the sequel repeatedly contrasts attachment to the camp with opportunities outside it.
-
-Olympus should preserve that tension without adopting either romance route's final answer.
-
-## 11.4 The camp belongs to more than one generation
-
-Goro's generation, Yoshinori's generation, Taiga's generation, and future campers all overlap.
-
-No single person should carry the entire institution forever.
-
-## 11.5 Camp Buddy can be "home" without being someone's entire future
-
-This is the most important Scoutmaster Season idea for Taiga.
-
-He can love the camp, help rebuild it, remain emotionally connected to it, and still eventually choose another life.
+That should remain the model for Olympus.
 
 ---
 
-# 12. Olympus Continuity — Taiga's Post-Game Year
+# 11. What the Project Actually Changes
 
-This section is **fanfic canon**, not a claim that the game explicitly says Taiga stayed exactly one full year.
+By the end of the renovation, Camp Buddy has materially changed.
 
-## 12.1 Working decision
+Safe direct-script changes include:
 
-After the original Camp Buddy summer:
+- expanded physical capacity;
+- additional cabins;
+- new facilities / function-hall plans;
+- repaired older infrastructure;
+- a modern website;
+- online enrollments and staff applications;
+- a digital records database;
+- internet access;
+- a security-camera network;
+- more formal administrative systems;
+- upgraded gear;
+- new / revised activity and safety planning.
 
-1. Taiga stays at Camp Buddy instead of immediately leaving.
-2. He becomes involved in the Scoutmaster Season renovation / redevelopment period.
-3. He remains there through autumn and winter.
-4. He continues helping as the work progresses into the following spring / summer.
-5. He leaves only when Camp Buddy is substantially back on its feet and the project has reached a natural endpoint for him.
-6. He then begins college as a **20-year-old freshman**.
+The camp expects enough new scouts that the old capacity would not have been sufficient.
 
-The game itself strongly supports a many-month stay.
-
-The extension from that many-month canon period to **approximately one year** is an Olympus continuity choice.
-
----
-
-## 12.2 Why Taiga stays
-
-Taiga's decision should not be framed primarily as punishment or debt repayment.
-
-He stays because, after the events of the original game, Camp Buddy has become important to him.
-
-There is also a powerful symbolic layer:
-
-> Taiga spends much of the original story contributing to Camp Buddy's destruction, then spends the following year helping physically rebuild it.
-
-This should remain subtext most of the time rather than something characters repeatedly explain aloud.
-
-He is not performing a formal penance.
-
-He is simply choosing to help.
+Do not describe the project as simply “fixing up the old camp.” It is a genuine modernization and expansion.
 
 ---
 
-## 12.3 Why Taiga eventually leaves
+# 12. Olympus Continuity — Taiga’s Gap Year
 
-Taiga should **not** conclude after a few weeks that Camp Buddy was a mistake or that he does not want to be there.
+The following is **fanfic canon**, not a verbatim statement from the game.
 
-The stronger continuity is:
+## 12.1 Duration
 
-> He genuinely likes being there. He eventually realizes that loving Camp Buddy does not require staying forever.
+Olympus adopts this timeline:
 
-By the time he leaves:
-- the renovation has given him routine and responsibility;
-- he has repaired relationships;
-- he has spent months working beside people rather than fighting them;
-- he has seen old campers return with adult lives and careers of their own;
-- he has watched Camp Buddy become capable of continuing without him.
+- Taiga finishes the original Camp Buddy summer.
+- He stays on as a full-time volunteer during Scoutmaster Season.
+- He remains through the autumn / winter renovation period.
+- He continues helping as the expansion approaches completion in spring.
+- He stays connected through the following summer term.
+- He then leaves for college and begins freshman year at **20**.
 
-The meaningful question therefore changes from:
+The game directly proves:
 
-> "Do I actually want to stay here?"
+- Taiga stays into the off-season;
+- he is a full-time volunteer;
+- he is still present during winter;
+- the renovation itself occupies **over half a year** and runs toward the next summer.
 
-into:
+The final extension — Taiga remaining through the next summer before college — is the Olympus continuity choice.
 
-> "Now that I don't have to run away and I don't have to stay, what do I want next?"
+## 12.2 Emotional logic
 
-His answer is college.
+Taiga’s year should not be framed as:
 
-That makes leaving Camp Buddy an act of growth rather than rejection.
+> “I tried staying at Camp Buddy for a month and realized it wasn’t for me.”
+
+The stronger version is:
+
+> **He genuinely wanted to stay, helped rebuild the camp, and eventually learned that belonging there did not require making it his entire future.**
+
+There are two motives inside his decision to stay:
+
+1. **He wants to give something back.**
+2. **Some of that desire is still mixed with guilt over what happened during the original term.**
+
+The renovation gives him time to separate those motives.
+
+By the end, Camp Buddy is no longer somewhere he remains because he owes it a debt. It is somewhere he loves and can choose to leave.
+
+That is the emotional bridge into Olympus.
+
+## 12.3 Symbolic value
+
+Keep this mostly as subtext:
+
+> Taiga spent part of the original story helping damage Camp Buddy socially and emotionally; he spends the following off-season helping rebuild it physically.
+
+The symbolism works because nobody needs to announce it.
+
+## 12.4 College
+
+Leaving Camp Buddy is not another rejection.
+
+It is one of the first major decisions Taiga makes from a relatively stable place:
+
+- the camp is safe;
+- the renovation is successful;
+- his relationships survive;
+- people no longer need him to “make up” for his past;
+- he can leave without running away.
+
+College becomes the answer to:
+
+> **What do I want next?**
+
+rather than:
+
+> **Where can I escape to?**
 
 ---
 
-# 13. Implications for Olympus Chapters
+# 13. Implications for Chapter 13
 
-Any chapter discussing Taiga's gap between Camp Buddy and college should assume:
+The Chapter 13 conversation with Leo should use this continuity.
 
-- he spent roughly a year helping with the camp's redevelopment;
-- he experienced at least one autumn and winter there after the original summer;
-- he worked closely enough with Yoichi for their friendship to become established beyond the first game;
-- he became familiar with the returning redevelopment team;
-- Camp Buddy was functioning again by the time he chose to move on;
-- his choice to attend college came **after** this extended period, not after only a month of uncertainty.
+Safe details for Taiga to summarize conversationally:
 
-In particular, Taiga's explanation to Leo about why he left Camp Buddy should eventually be revised around this distinction:
+- the camp had serious money / reputation problems after the previous term;
+- the scouts had already run a fundraiser;
+- Keitaro’s writing became the published book _Greatest Memories_;
+- the book’s success helped attract / justify William Clermont’s sponsorship;
+- the sponsorship launched a major expansion;
+- Taiga and Yoichi stayed as full-time volunteers;
+- Taiga learned practical construction and repair skills;
+- the project lasted through the off-season and winter;
+- the rebuilt camp was substantially larger / more modern by the end;
+- Taiga ultimately chose college even though Camp Buddy still felt like home.
 
-> **Camp Buddy was somewhere he wanted to be. It just was not the only place he wanted his life to go.**
+Avoid saying:
 
-Do not over-explain this in prose. Let the year of renovation make that meaning credible.
+- that a famous writer randomly discovered Keitaro’s journal;
+- that book revenue alone paid for the entire renovation;
+- that Taiga was a paid employee unless Olympus explicitly changes his status;
+- that Taiga stopped wanting to be at Camp Buddy after only a month;
+- that either Yoshinori romance route happened.
+
+Taiga does **not** need to explain all the project mechanics to Leo. The bible holds the details so his dialogue can remain compressed and human.
 
 ---
 
-# 14. Deliberately Unresolved
+# 14. Deliberately Non-Canonical / Unresolved
 
-Until the extracted Scoutmaster Season dialogue is available, keep the following flexible:
+Do not lock these into Olympus unless explicitly decided later:
 
-- the exact month in which every major renovation milestone occurs;
-- the precise construction / technical responsibilities of Hyunjin;
-- route-specific details surrounding Emilia and Clermont;
-- which late-game scenes are genuinely common to both routes;
-- the exact final living / employment arrangements of Lloyd, Darius, Hyunjin, and Emilia;
-- any implication that Yoshinori ends the story romantically attached to Goro or Aiden.
-
-These should be filled in from direct game material later rather than guessed from summaries.
+- Yoshinori/Goro romance;
+- Yoshinori/Aiden romance;
+- marriage / engagement outcomes from either route;
+- Aiden’s route-dependent culinary-school outcome;
+- Goro’s route-dependent retirement / leadership-transfer outcome;
+- Yoshinori becoming camp president as a consequence of a specific route;
+- the exact post-project employment status of Lloyd, Darius, Hyunjin, or Emilia where endings diverge;
+- reopening Camp Buddy’s old branches as an accomplished future event;
+- any Good / Perfect / Bad / Worst Ending as the “real” ending.
 
 ---
 
@@ -424,8 +580,8 @@ These should be filled in from direct game material later rather than guessed fr
 
 For Olympus:
 
-> **Scoutmaster Season happened, but no Scoutmaster Season romance route is canon.**
+> **Scoutmaster Season happened. Its romance route did not.**
 
-The redevelopment, history, shared character relationships, and long off-season timeline are real.
+The renovation, sponsorship, project team, old Camp Buddy history, Taiga and Yoichi’s volunteer work, winter reunion, and successful modernization of Camp Buddy are real.
 
-Yoshinori/Goro and Yoshinori/Aiden remain **unresolved / non-canonical possibilities** and must not be treated as established history.
+The novel is free to build Taiga’s college transition on those shared events without deciding whether Yoshinori chose Goro or Aiden.
