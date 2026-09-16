@@ -70,11 +70,12 @@ Primary job:
 - establish Taiga at Olympus;
 - build ordinary university life;
 - introduce academics, soccer, friends, campus geography, and independence;
-- make Leo one important person among many rather than the immediate plot center.
+- make Leo one important person among many rather than the immediate plot center;
+- allow Taiga's body to react to Leo before Taiga is willing to treat that reaction as meaningful.
 
 Romance progression:
 
-> attention → ambiguity
+> attention → bodily anomaly → ambiguity
 
 ## Act II — Boundaries
 Chapters 13–20.
@@ -94,8 +95,8 @@ Romance progression:
 Chapters 21–31.
 
 Primary job:
-- make Taiga consciously recognize physical attraction;
-- destroy physical neutrality;
+- make Taiga consciously recognize that his physical attraction to Leo is persistent rather than an isolated bodily reaction;
+- destroy his ability to compartmentalize that attraction as meaningless;
 - let ambiguous touch become intentional possibility;
 - bring Leo into Camp Buddy, Taiga's emotionally loaded old home;
 - reintroduce Kieran and old romantic history;
@@ -107,7 +108,7 @@ Primary job:
 
 Romance progression:
 
-> attraction → ambiguity of intent → invitation → displacement → jealousy → honesty → mutual recognition → deliberate intimacy
+> recognition → ambiguity of intent → invitation → displacement → jealousy → honesty → mutual recognition → deliberate intimacy
 
 ---
 
@@ -118,6 +119,7 @@ By Chapter 12:
 - Taiga has built a life at Olympus independent of romance.
 - Leo has become increasingly noticeable through repeated ordinary contact.
 - Taiga retains trivial information about Leo before he understands why.
+- Chapter 4 establishes an isolated sexual response after the academy's open showers: Taiga masturbates while replaying Leo's body, then dismisses the event as situational rather than treating it as evidence of an ongoing attraction.
 - the relationship is important before it is interpretable.
 
 Core result:
@@ -144,11 +146,15 @@ Core result:
 # 4. Chapter 21 — Blind Spot
 
 Core movement:
-**physical attraction becomes conscious.**
+**physical attraction becomes consciously undeniable.**
 
-Taiga begins noticing Leo's body in ways he can no longer explain as ordinary teammate awareness.
+Taiga has already had an isolated sexual reaction to Leo in Chapter 4 and successfully filed it away as a situational physical event.
 
-The attraction becomes undeniable in locker-room/shower context.
+In Chapter 21, that explanation stops working.
+
+Taiga begins noticing Leo's body repeatedly in ordinary contexts where nudity is not the cause, and the attraction becomes persistent enough that he can no longer quarantine it as one weird night months earlier.
+
+The locker-room/shower context brings the old pattern back into focus and forces recognition rather than creating attraction from nothing.
 
 This does not create a relationship decision.
 
@@ -156,7 +162,7 @@ It changes the kind of uncertainty.
 
 Core result:
 
-> Physical neutrality ends.
+> Physical deniability ends.
 
 ---
 
