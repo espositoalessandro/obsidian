@@ -47,10 +47,16 @@ Taiga starts Olympus undecided about his major. His first-semester schedule shou
 - functions;
 - recursion;
 - references / aliasing;
-- introductory data structures;
-- basic graphs;
+- arrays / lists and simple collections;
+- searching and introductory sorting algorithms;
+- binary search;
+- insertion sort and Quicksort at an introductory level;
+- asymptotic complexity at a basic level;
 - decomposition;
 - choosing a representation rather than merely making code run.
+
+### Continuity boundary
+Formal graph representations and graph algorithms are **not** part of Taiga's fall Foundations course in the story. Trees, graphs, BFS / DFS and shortest-path material belong to **Data Structures in spring**, after Taiga has declared Computer Science.
 
 ### Taiga's profile in the course
 - Fast at implementation.
@@ -184,6 +190,7 @@ By spring, Taiga has chosen Computer Science. The schedule should therefore beco
 - Natural place for assignments, labs, debugging, group work, and ordinary time together.
 
 ### Useful subject matter
+- linked lists;
 - stacks and queues;
 - trees;
 - hash tables;
