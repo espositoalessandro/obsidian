@@ -217,6 +217,7 @@ Then she turned.
 Lina whispered, “Promising.” Rao displayed ten lines of code. Two variables. One list. A function call. The class stared.
 
 “Tell me what this prints.”
+
 Hands went up. Someone near the front answered. Rao shook her head. Another answer. Also wrong. Taiga looked at the two variables. Both assigned from the same original list. The function appended through one name. He knew the result. Then hesitated. Because last week he would have said the second list stayed unchanged. That had been exactly the kind of mistake Rao was talking about. He raised his hand. Rao nodded.
 
 “Akatora.”
@@ -436,6 +437,7 @@ Taiga looked at his notebook. Two maps was option one. Crossed out. Technically.
 Mia leaned against the wall.
 
 “You meeting Leo at training later?”
+
 “Probably, yeah.”
 
 “He's in Rao too, different section.”
@@ -655,6 +657,7 @@ She opened the prerequisite map.
 “You chose them.”
 
 Taiga looked at the grid. That was true. Fall had happened almost by accident. A little of everything because he hadn't known what direction he wanted. The spring schedule looked much less accidental. Park built a draft.
+
 Monday and Wednesday were fine. Tuesday looked hostile. Thursday included a chemistry lab that ate most of the afternoon. Friday morning only. Taiga stared at it.
 
 “Why is every good section on Tuesday?”
@@ -874,6 +877,7 @@ Lina clicked a test. Then added a malformed withdrawal record between two valid 
 “That was somehow worse.”
 
 Taiga looked at the code again. He had written the bug by trying to be clever and creating two things to maintain.
+
 “Fuck.”
 
 Lina laughed.
@@ -1093,6 +1097,7 @@ Leo nodded.
 “Yeah.”
 
 “Different section, right?”
+
 “Monday morning.”
 
 “Tuesday afternoon.”
@@ -1312,6 +1317,7 @@ Caleb looked confused.
 “That is not the same as giving her a title.”
 
 Maya smiled through the screen.
+
 “Do I need to leave this conversation?”
 
 “No.”
@@ -1531,6 +1537,7 @@ Daniel, two seats over, said, “We lost two.” Priya held up the rubric.
 “That is one underlying mistake.”
 
 “That is not how points work.”
+
 Marcus leaned across the aisle.
 
 “I personally think numbers should stop after two decimals.”
@@ -1750,6 +1757,7 @@ Professor Rao posted feedback on the club-registry assignment a few minutes late
 His eyes went immediately to the missing twelve.
 
 **Good handling of repeated and malformed events. Tests are thoughtful. Your first design maintained the same relationship in two places, which increased the number of ways updates could become inconsistent. The final version is clearer.**
+
 Then:
 
 **Be careful returning mutable internal collections directly. You fixed this, but the original bug is exactly why we spent Monday talking about aliasing.**
