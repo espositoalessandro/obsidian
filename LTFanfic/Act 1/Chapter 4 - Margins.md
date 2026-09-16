@@ -1134,7 +1134,7 @@ Leo laughed and reached for the shower handle.
 
 ---
 
-At 2:17 that night, Taiga woke up hard.
+At 2:17 that night, Taiga woke up.
 
 For several seconds he lay still, staring into the dark and trying to work out what had pulled him awake.
 
@@ -1230,17 +1230,27 @@ Caleb kept sleeping.
 
 Taiga bit the inside of his cheek and kept quiet.
 
-A few minutes later, the tension broke hard enough that his whole body tightened beneath the blanket.
+As he was reaching his climax, he turned on the back and raised his shirt.
+God that would be a really bad moment for Caleb to wake up.
+
+Taiga bit the hem of the shirt to keep it raised and continued stroking his dick. Harder. Faster.
+Right before cumming, he rapidly kicked his blanket with his feet. Barely in time.
+He closed his eyes and made a muffled "UGH" sound, his teeth biting hard into his shirt.
+His whole body arched upward, as he started shooting.
+His first bursts reached his chest, then his abdomen. 
+Eventually, the rest slowly dripping from his hand. 
+
+Taiga glanced at Caleb. Nothing. Thank God.
+
+He started catching up his breath again. 
 
 Then nothing.
 
-Dark room. Caleb breathing. The clock now read 2:24.
+Dark room. Caleb breathing. The clock now read 2:44.
 
-Taiga stared at the wall.
+Taiga stared at the ceiling, finally releasing his shirt from his teeth, breathing heavily.
 
-“Well,” he whispered.
-
-That was apparently all he had.
+“Fuck” he whispered.
 
 He stayed still until his breathing settled, then slipped out of bed, cleaned himself up in the bathroom and returned as quietly as possible. Caleb never moved.
 
