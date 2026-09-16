@@ -2,51 +2,29 @@ Taiga discovered Leo was in his Data Structures lab because Leo said his name at
 
 “Taiga!”
 
-Half the room looked up.
-
-Taiga closed his eyes.
+Half the room looked up. Taiga closed his eyes.
 
 Of course.
 
-He turned.
-
-Leo stood in the doorway with his backpack hanging from one shoulder, yellow scarf half-unwrapped and an expression of genuine delight on his face.
+He turned. Leo stood in the doorway with his backpack hanging from one shoulder, yellow scarf half-unwrapped and an expression of genuine delight on his face.
 
 “What?”
 
 “You’re in this lab?”
 
-Taiga looked around.
+Taiga looked around, then at the room number projected above the board, then back at Leo. “No. I broke in.”
 
-Then at the room number projected above the board.
-
-Then back at Leo.
-
-“No. I broke in.”
-
-Leo laughed and started down the aisle.
-
-“No, seriously. I thought you were in Patel’s Thursday section.”
+Leo laughed and started down the aisle. “No, seriously. I thought you were in Patel’s Thursday section.”
 
 “That’s lecture.”
 
-“Oh.”
-
-Leo stopped.
-
-Thought.
-
-Then pointed at him.
-
-“Right. Labs are shared.”
+“Oh.” Leo stopped, thought, then pointed at him. “Right. Labs are shared.”
 
 “Apparently.”
 
 “This is excellent.”
 
-Taiga stared.
-
-“For you?”
+Taiga stared. “For you?”
 
 “For both of us.”
 
@@ -54,13 +32,9 @@ Taiga stared.
 
 “I know enough.”
 
-Leo dropped into the empty chair beside him.
+Leo dropped into the empty chair beside him. Taiga had chosen the seat on the end of a row because it had good sightlines, a power outlet and nobody sitting directly to his left.
 
-Taiga had chosen the seat on the end of a row because it had good sightlines, a power outlet and nobody sitting directly to his left.
-
-Leo pulled out his laptop.
-
-“Okay. This is already better.”
+Leo pulled out his laptop. “Okay. This is already better.”
 
 “What was wrong before?”
 
@@ -70,23 +44,15 @@ Leo pulled out his laptop.
 
 “I know people. Different thing.”
 
-Taiga looked at him.
-
-Leo paused.
+Taiga looked at him. Leo paused.
 
 “Okay, fine, I know like six people in this room. But not *properly*.”
 
-A girl two rows ahead turned around.
+A girl two rows ahead turned around. “Hi, Leo.”
 
-“Hi, Leo.”
+Leo lifted one hand. “Hey, Rachel.”
 
-Leo lifted one hand.
-
-“Hey, Rachel.”
-
-Taiga waited.
-
-Leo looked back at him.
+Taiga waited. Leo looked back at him.
 
 “That proves nothing.”
 
@@ -94,23 +60,13 @@ Leo looked back at him.
 
 “It doesn’t.”
 
-The teaching assistant walked to the front.
+The teaching assistant walked to the front. His name was Owen; Taiga knew this because Owen had sent three announcements during the previous week, each one longer than the lab assignment itself.
 
-His name was Owen.
+He connected his Oracle to the display. “Good morning. Today we’re doing linked structures.”
 
-Taiga knew this because Owen had sent three announcements during the previous week, each one longer than the lab assignment itself.
+Several people groaned. Leo whispered, “Cowards.”
 
-He connected his Oracle to the display.
-
-“Good morning. Today we’re doing linked structures.”
-
-Several people groaned.
-
-Leo whispered, “Cowards.”
-
-Taiga looked over.
-
-“You like linked lists?”
+Taiga looked over. “You like linked lists?”
 
 “I like anything people complain about before trying.”
 
@@ -118,17 +74,11 @@ Taiga looked over.
 
 “It’s gotten me this far.”
 
-Owen continued.
+Owen continued. “You’ll work in pairs.”
 
-“You’ll work in pairs.”
+Leo turned immediately. “Pair?”
 
-Leo turned immediately.
-
-“Pair?”
-
-Taiga looked at his face.
-
-“You’re way too pleased about this.”
+Taiga looked at his face. “You’re way too pleased about this.”
 
 “Because I don’t have to gamble on strangers.”
 
@@ -140,35 +90,15 @@ Taiga looked at his face.
 
 “Until it works.”
 
-Taiga opened the starter repository.
-
-“Fine.”
+Taiga opened the starter repository. “Fine.”
 
 Leo grinned and moved his laptop between them.
 
-Owen displayed the task.
+Owen displayed the task: implement a singly linked list. Insert. Remove. Search. Reverse. Write tests. Explain complexity.
 
-Implement a singly linked list.
+Taiga scanned the requirements. Simple.
 
-Insert.
-
-Remove.
-
-Search.
-
-Reverse.
-
-Write tests.
-
-Explain complexity.
-
-Taiga scanned the requirements.
-
-Simple.
-
-Leo leaned toward the screen.
-
-“Okay, that’s not bad.”
+Leo leaned toward the screen. “Okay, that’s not bad.”
 
 “Don’t say that before reading edge cases.”
 
@@ -184,25 +114,15 @@ Leo leaned toward the screen.
 
 Owen said from the front, “It is not.”
 
-Several people laughed.
+Several people laughed, and Leo put one hand over his heart. “Betrayed by authority.”
 
-Leo put one hand over his heart.
-
-“Betrayed by authority.”
-
-They started.
-
-For the first ten minutes, it went well.
+They started. For the first ten minutes, it went well.
 
 Then Taiga wrote a helper.
 
-Leo looked over.
+Leo looked over. “Why?”
 
-“Why?”
-
-Taiga kept typing.
-
-“Because remove and insert both need traversal.”
+Taiga kept typing. “Because remove and insert both need traversal.”
 
 “Yeah, but they need different things from traversal.”
 
@@ -214,9 +134,7 @@ Taiga kept typing.
 
 “It’s suspicious.”
 
-Taiga turned.
-
-“What does that mean?”
+Taiga turned. “What does that mean?”
 
 “It means you built a little government department where a loop would’ve worked.”
 
@@ -230,27 +148,17 @@ Taiga turned.
 
 “Exactly.”
 
-Leo leaned closer.
+Leo leaned closer. “It finds three things.”
 
-“It finds three things.”
+Taiga stared. “That is not the same.”
 
-Taiga stared.
-
-“That is not the same.”
-
-Leo smiled.
-
-“You’re doing the architecture thing again.”
+Leo smiled. “You’re doing the architecture thing again.”
 
 “What architecture thing?”
 
 “The thing where you build for the version of the assignment that exists in an alternate universe with six hundred thousand linked lists and regulatory oversight.”
 
-Taiga looked at the code.
-
-Then at Leo.
-
-“You duplicated the traversal.”
+Taiga looked at the code, then at Leo. “You duplicated the traversal.”
 
 “Twice.”
 
@@ -272,21 +180,15 @@ Then at Leo.
 
 Taiga laughed.
 
-Owen looked toward them.
-
-“Everything okay?”
+Owen looked toward them. “Everything okay?”
 
 “Yes,” Taiga said.
 
 Leo said, “We’re negotiating governance.”
 
-Owen stared.
+Owen stared, then kept walking.
 
-Then kept walking.
-
-Taiga looked at Leo.
-
-“You’re an idiot.”
+Taiga looked at Leo. “You’re an idiot.”
 
 “Yeah, but my list works.”
 
@@ -302,33 +204,19 @@ Taiga looked at Leo.
 
 “It is now.”
 
-They both ran the suite.
+They both ran the suite. Taiga’s failed one case; Leo’s failed two.
 
-Taiga’s failed one case.
+Leo slapped the desk once. “Fuck.”
 
-Leo’s failed two.
-
-Leo slapped the desk once.
-
-“Fuck.”
-
-Taiga smiled.
-
-“Skill issue.”
+Taiga smiled. “Skill issue.”
 
 “Shut up.”
 
 “What happened?”
 
-Leo opened the failure.
+Leo opened the failure. Reverse on an empty list. He had dereferenced `head.next`.
 
-Reverse on an empty list.
-
-He had dereferenced `head.next`.
-
-Taiga pointed.
-
-“You assumed head exists.”
+Taiga pointed. “You assumed head exists.”
 
 “Yes, thank you, the computer already told me.”
 
@@ -336,67 +224,25 @@ Taiga pointed.
 
 “Your test failed too.”
 
-Taiga opened his.
+Taiga opened his. Remove after duplicate values. His helper had returned the first match.
 
-Remove after duplicate values.
+Leo looked, then looked again, then smiled slowly. “Oh.”
 
-His helper had returned the first match.
-
-Leo looked.
-
-Then looked again.
-
-Then smiled slowly.
-
-“Oh.”
-
-Taiga saw it coming.
-
-“Choose your next sentence carefully.”
+Taiga saw it coming. “Choose your next sentence carefully.”
 
 “You built a federal agency and it arrested the wrong node.”
 
-Taiga laughed hard enough that the person in front of them turned around.
-
-“Fuck you.”
+Taiga laughed hard enough that the person in front of them turned around. “Fuck you.”
 
 Leo looked delighted.
 
-They fixed both.
+They fixed both, then the next bug, then another. By the end of the hour, the assignment passed—not elegantly, not badly, but as a compromise. Taiga kept the helper but narrowed what it returned, while Leo removed one duplicated traversal and kept the other.
 
-Then the next bug.
+Owen checked their screen. “Good. Complexity notes?”
 
-Then another.
+Taiga pointed. Owen read, nodded and said, “Fine,” before moving on.
 
-By the end of the hour, the assignment passed.
-
-Not elegantly.
-
-Not badly.
-
-A compromise.
-
-Taiga kept the helper but narrowed what it returned.
-
-Leo removed one duplicated traversal and kept the other.
-
-Owen checked their screen.
-
-“Good. Complexity notes?”
-
-Taiga pointed.
-
-Owen read.
-
-Then nodded.
-
-“Fine.”
-
-He moved on.
-
-Leo leaned back.
-
-“See? Perfect system.”
+Leo leaned back. “See? Perfect system.”
 
 “We argued for forty minutes.”
 
@@ -408,19 +254,11 @@ Leo leaned back.
 
 “That also isn’t—”
 
-Leo raised one finger.
+Leo raised one finger. “Data structures are choices. Not morality.”
 
-“Data structures are choices. Not morality.”
+Taiga stopped. Professor Rao. First semester.
 
-Taiga stopped.
-
-Professor Rao.
-
-First semester.
-
-Leo grinned.
-
-“You hate that sentence.”
+Leo grinned. “You hate that sentence.”
 
 “I don’t hate it.”
 
@@ -430,15 +268,7 @@ Leo grinned.
 
 “Which means you hate it.”
 
-Taiga closed the repository.
-
-The lab ended.
-
-People started packing.
-
-Leo remained seated.
-
-Taiga put his charger away.
+Taiga closed the repository. The lab ended and people started packing, but Leo remained seated while Taiga put his charger away.
 
 “What?”
 
@@ -454,9 +284,7 @@ Taiga put his charger away.
 
 “That sounds creepy.”
 
-Leo laughed and finally closed his laptop.
-
-“What do you have now?”
+Leo laughed and finally closed his laptop. “What do you have now?”
 
 “Discrete.”
 
@@ -470,23 +298,11 @@ Leo laughed and finally closed his laptop.
 
 “Excellent question.”
 
-Taiga slung his bag over one shoulder.
+Taiga slung his bag over one shoulder and Leo stood. They walked into the hallway together.
 
-Leo stood.
+The Academic Zone was loud in the particular way university buildings became loud between classes: doors opening, people flowing through corridors, somebody running while eating toast.
 
-They walked into the hallway together.
-
-The Academic Zone was loud in the particular way university buildings became loud between classes.
-
-Doors opened.
-
-People flowed through corridors.
-
-Someone was running while eating toast.
-
-At the stairs, Taiga turned left.
-
-Leo turned left too.
+At the stairs, Taiga turned left. Leo turned left too.
 
 “You’re going this way?”
 
@@ -494,19 +310,11 @@ Leo turned left too.
 
 “Café’s downstairs.”
 
-Leo stopped.
-
-Looked toward the stairs.
-
-Then at Taiga.
-
-“Huh.”
+Leo stopped, looked toward the stairs, then at Taiga. “Huh.”
 
 Taiga waited.
 
-Leo laughed.
-
-“Apparently I followed you.”
+Leo laughed. “Apparently I followed you.”
 
 “Why?”
 
@@ -520,19 +328,13 @@ Leo laughed.
 
 “Very.”
 
-Leo pointed downstairs.
-
-“Coffee?”
+Leo pointed downstairs. “Coffee?”
 
 “I have class.”
 
 “Right.”
 
-A beat.
-
-Then Leo smiled.
-
-“See you later, forty-one.”
+A beat passed, then Leo smiled. “See you later, forty-one.”
 
 “Yeah.”
 
@@ -540,11 +342,9 @@ Taiga continued toward Discrete Structures.
 
 ---
 
-The first message arrived that afternoon.
+The first message arrived that afternoon while Taiga was in the library.
 
 **Leo:** linked list government collapsed btw
-
-Taiga was in the library.
 
 **Taiga:** what did you do
 
@@ -566,9 +366,7 @@ Nine minutes later:
 
 **Leo:** unrelated but do you think pigeons know when semester starts
 
-Taiga looked around the library.
-
-There was no context.
+Taiga looked around the library. There was no context.
 
 **Taiga:** what
 
@@ -630,11 +428,7 @@ Then:
 
 **Leo:** what bug
 
-Taiga explained.
-
-Leo asked two useful questions.
-
-Then sent a picture of a sandwich with one half visibly collapsing out of the bread.
+Taiga explained. Leo asked two useful questions, then sent a picture of a sandwich with one half visibly collapsing out of the bread.
 
 **Leo:** unrelated emergency
 
@@ -650,15 +444,9 @@ Ten minutes later:
 
 **Leo:** update
 
-Photo.
+Photo. The sandwich was worse.
 
-The sandwich was worse.
-
-Taiga laughed in the middle of Political Theory reading.
-
-A student across the table looked up.
-
-The Oracle buzzed again.
+Taiga laughed in the middle of Political Theory reading, enough that a student across the table looked up. The Oracle buzzed again.
 
 **Leo:** do not judge me
 
@@ -676,31 +464,19 @@ Friday afternoon, House Apollo’s group chat became active.
 
 **Sofia:** It sounds threatening.
 
-Aaron:
-
 **Aaron:** 6?
 
 **Sofia:** 6:30.
-
-Scott:
 
 **Scott:** Main arena?
 
 **Sofia:** Yes.
 
-Gav:
-
 **Gav:** I can come.
-
-Enzo:
 
 **Enzo:** EVERYONE COME
 
-Mia:
-
 **Mia:** I have lab until six but probably.
-
-Leo:
 
 **Leo:** I'M IN
 
@@ -708,15 +484,9 @@ Then:
 
 **Leo:** i know almost nothing about volleyball strategy but i have lungs and enthusiasm
 
-Sofia:
-
 **Sofia:** Unfortunately accurate.
 
-Taiga read the messages.
-
-He did not care about volleyball enough to rearrange a Saturday evening for it.
-
-He put the Oracle down.
+Taiga read the messages, decided he did not care about volleyball enough to rearrange a Saturday evening for it, and put the Oracle down.
 
 Two minutes later it buzzed privately.
 
@@ -768,15 +538,7 @@ Then:
 
 **Taiga:** right
 
-Taiga locked the Oracle.
-
-Five minutes later Caleb walked in carrying groceries.
-
-He put a bag on his desk.
-
-Taiga did not look up.
-
-Caleb unpacked yogurt.
+Taiga locked the Oracle. Five minutes later Caleb walked in carrying groceries, put a bag on his desk and unpacked yogurt while Taiga did not look up.
 
 Peace.
 
@@ -786,61 +548,33 @@ Enzo’s sign said:
 
 **SOFIA PLEASE DO THE VOLLEYBALL GOOD**
 
-Sofia saw it during warm-ups.
+Sofia saw it during warm-ups. Even from across the arena, Taiga could see her close her eyes.
 
-Even from across the arena, Taiga could see her close her eyes.
+Aaron laughed beside him. “This is why she didn’t want us here.”
 
-Aaron laughed beside him.
-
-“This is why she didn’t want us here.”
-
-Enzo held the sign higher.
-
-“It’s motivational.”
+Enzo held the sign higher. “It’s motivational.”
 
 “It’s illiterate,” Gav said.
 
 “Minimalist.”
 
-Scott looked at it.
+Scott looked at it. “Technically it communicates the desired outcome.”
 
-“Technically it communicates the desired outcome.”
-
-Enzo pointed.
-
-“Thank you.”
+Enzo pointed. “Thank you.”
 
 “That was not praise.”
 
-House Apollo occupied half a row behind the home bench.
+House Apollo occupied half a row behind the home bench. Not officially—nobody had reserved anything—but they had simply arrived in enough numbers that the row became theirs. Leo had an empty seat beside him; Taiga took it, while Aaron sat on his other side.
 
-Not officially.
+The arena lights were brighter than the soccer stadium, and the floor reflected everything. Shoes squeaked during warm-up while the scoreboard rotated sponsor messages nobody read.
 
-Nobody had reserved anything.
-
-They had simply arrived in enough numbers that the row became theirs.
-
-Leo had an empty seat beside him. Taiga took it. Aaron sat on his other side.
-
-The arena lights were brighter than the soccer stadium.
-
-The floor reflected everything.
-
-Shoes squeaked during warm-up.
-
-The scoreboard rotated sponsor messages nobody read.
-
-Leo leaned toward Taiga.
-
-“Okay, I have a confession.”
+Leo leaned toward Taiga. “Okay, I have a confession.”
 
 “What?”
 
 “I know the rules.”
 
-Taiga looked at him.
-
-“You said you didn’t.”
+Taiga looked at him. “You said you didn’t.”
 
 “I said I know almost nothing about strategy. I know the rules.”
 
@@ -854,9 +588,7 @@ Taiga looked at him.
 
 “You’re an asshole.”
 
-Leo smiled.
-
-“My sister played for two years.”
+Leo smiled. “My sister played for two years.”
 
 “Same sister who says you run weird?”
 
@@ -868,43 +600,21 @@ Leo smiled.
 
 “That seems quieter.”
 
-Leo stared.
-
-Taiga smiled.
+Leo stared. Taiga smiled.
 
 “Right.”
 
-The game started.
+The game started. For the first set, Taiga watched seriously. Sports were sports, and patterns emerged quickly: serve receive, blocking, coverage, rotations.
 
-For the first set, Taiga watched seriously.
-
-Sports were sports.
-
-Patterns emerged quickly.
-
-Serve receive.
-
-Blocking.
-
-Coverage.
-
-Rotations.
-
-Leo, despite claiming strategic ignorance, immediately began pointing out things.
+Leo, despite claiming strategic ignorance, immediately began pointing things out.
 
 “Watch their libero. She’s cheating left every time Sofia’s front row.”
 
-Taiga looked.
-
-She was.
-
-“Why?”
+Taiga looked. She was. “Why?”
 
 “Probably because their outside hitter is late closing. She’s covering cross.”
 
-Taiga turned.
-
-“You said no strategy.”
+Taiga turned. “You said no strategy.”
 
 “I said almost.”
 
@@ -912,37 +622,15 @@ Taiga turned.
 
 “I contain multitudes.”
 
-Sofia scored off the block.
-
-Apollo’s row exploded.
-
-Enzo raised the sign.
-
-Leo stood so fast his knee hit the seat in front.
+Sofia scored off the block and Apollo’s row exploded. Enzo raised the sign. Leo stood so fast his knee hit the seat in front.
 
 “YES!”
 
 Taiga laughed.
 
-Second rally.
+The second rally was longer. Both teams recovered twice before Sofia dove for a ball near the sideline, one arm under it at the last possible second. The ball stayed alive. Set. Kill. Point.
 
-Longer.
-
-Both teams recovered twice.
-
-Sofia dove for a ball near the sideline, one arm under it at the last possible second.
-
-The ball stayed alive.
-
-Set.
-
-Kill.
-
-Point.
-
-Leo grabbed Taiga’s forearm with both hands and shook him once.
-
-“DID YOU SEE THAT?”
+Leo grabbed Taiga’s forearm with both hands and shook him once. “DID YOU SEE THAT?”
 
 “Yes!”
 
@@ -950,11 +638,7 @@ Leo grabbed Taiga’s forearm with both hands and shook him once.
 
 “I KNOW.”
 
-They were both standing.
-
-Leo was still holding him.
-
-He let go.
+They were both standing. Leo was still holding him, then let go.
 
 “Sports brain.”
 
@@ -962,27 +646,17 @@ He let go.
 
 “Exactly. No defense.”
 
-They sat.
+They sat. Ten seconds later Enzo shouted, “DO THE VOLLEYBALL GOOD!”
 
-Ten seconds later Enzo shouted:
-
-“DO THE VOLLEYBALL GOOD!”
-
-Sofia missed a serve.
-
-Gav took the sign away.
+Sofia missed a serve. Gav took the sign away.
 
 ---
 
-Olympus won in four sets.
-
-Sofia came up into the stands afterward still wearing her warm-up jacket and immediately hit Enzo with the rolled sign.
+Olympus won in four sets. Sofia came up into the stands afterward still wearing her warm-up jacket and immediately hit Enzo with the rolled sign.
 
 “This made things worse.”
 
-Enzo protected his head.
-
-“We won!”
+Enzo protected his head. “We won!”
 
 “Despite you.”
 
@@ -990,37 +664,13 @@ Enzo protected his head.
 
 “Not causation,” Mia said.
 
-Sofia pointed at her.
-
-“Thank you.”
+Sofia pointed at her. “Thank you.”
 
 Aaron smiled at Sofia with enough obvious pride that Taiga looked elsewhere.
 
-The group spilled out of the arena into cold air.
+The group spilled out of the arena into cold air. Someone suggested food, nobody knew where, and the next fifteen minutes became a democratic failure. Enzo wanted Taverna; Gav said Taverna would be full. Mia wanted noodles; Scott said the noodle place closed at nine. It was nine-oh-three. Leo suggested the late dining hall and everyone booed.
 
-Someone suggested food.
-
-Nobody knew where.
-
-This became a fifteen-minute democratic failure.
-
-Enzo wanted Taverna.
-
-Gav said Taverna would be full.
-
-Mia wanted noodles.
-
-Scott said the noodle place closed at nine.
-
-It was nine-oh-three.
-
-Leo suggested the late dining hall.
-
-Everyone booed.
-
-Taiga stood beside him.
-
-“You caused that.”
+Taiga stood beside him. “You caused that.”
 
 “I offered infrastructure.”
 
@@ -1028,27 +678,13 @@ Taiga stood beside him.
 
 “I panicked.”
 
-Eventually Sofia chose a burger place near Central Park.
+Eventually Sofia chose a burger place near Central Park. Decision achieved.
 
-Decision achieved.
+They walked, the group stretching across half the sidewalk. Leo started beside Taiga, got pulled forward by Enzo, fell back to talk to Sofia, and two blocks later was beside Taiga again.
 
-They walked.
+“You had fun,” Leo said.
 
-The group stretched across half the sidewalk.
-
-Leo started beside Taiga.
-
-Then got pulled forward by Enzo.
-
-Then fell back to talk to Sofia.
-
-Two blocks later he was beside Taiga again.
-
-Leo said, “You had fun.”
-
-Taiga looked over.
-
-“It was fine.”
+Taiga looked over. “It was fine.”
 
 “You stood up.”
 
@@ -1064,15 +700,9 @@ Taiga looked over.
 
 “You absolutely did.”
 
-Taiga looked toward Gav walking ahead.
+Taiga looked toward Gav walking ahead. Maybe. That sounded plausible.
 
-Maybe.
-
-That sounded plausible.
-
-Leo smiled.
-
-“I knew you’d like it.”
+Leo smiled. “I knew you’d like it.”
 
 “You did not.”
 
@@ -1082,25 +712,17 @@ Leo smiled.
 
 “That too.”
 
-Taiga narrowed his eyes.
-
-Leo’s grin widened.
+Taiga narrowed his eyes. Leo’s grin widened.
 
 “You free tomorrow?”
 
 “Why?”
 
-Leo shrugged.
-
-“I have to finish the Data Structures write-up and if I do it alone I’m going to procrastinate until midnight. Library?”
+Leo shrugged. “I have to finish the Data Structures write-up and if I do it alone I’m going to procrastinate until midnight. Library?”
 
 “Yes.”
 
-Leo blinked once.
-
-Then smiled.
-
-“Cool. Two?”
+Leo blinked once, then smiled. “Cool. Two?”
 
 “Fine.”
 
@@ -1114,9 +736,7 @@ Then smiled.
 
 “Debatable.”
 
-They reached the restaurant.
-
-The others were already crowding around two tables.
+They reached the restaurant, where the others were already crowding around two tables.
 
 ---
 
@@ -1136,25 +756,15 @@ Sunday at two became Sunday at two-oh-nine because Leo arrived carrying two coff
 
 “That does not narrow it down.”
 
-Taiga stared.
-
-Leo put one coffee beside him.
+Taiga stared. Leo put one coffee beside him.
 
 “No sugar.”
 
-Taiga looked at it.
+Taiga looked at it, then at Leo. “You remembered?”
 
-Then at Leo.
+Leo was unpacking his laptop. “Yeah.”
 
-“You remembered?”
-
-Leo was unpacking his laptop.
-
-“Yeah.”
-
-Taiga picked up the cup.
-
-“Thanks.”
+Taiga picked up the cup. “Thanks.”
 
 “Don’t sound so shocked.”
 
@@ -1166,15 +776,9 @@ Taiga picked up the cup.
 
 “I can also possess eyes.”
 
-Taiga drank.
+Taiga drank. Black. Nothing added.
 
-Black.
-
-Nothing added.
-
-Leo opened the assignment.
-
-“Okay. We need to write the complexity explanation and then I am free from linked-list oppression forever.”
+Leo opened the assignment. “Okay. We need to write the complexity explanation and then I am free from linked-list oppression forever.”
 
 “Until the exam.”
 
@@ -1184,67 +788,29 @@ Leo opened the assignment.
 
 “Cruel.”
 
-They worked.
-
-Actually worked.
-
-Forty minutes.
-
-Maybe fifty.
-
-Leo wrote the first explanation.
-
-Taiga edited it.
-
-Leo objected.
-
-Taiga defended.
-
-They compromised.
-
-At three-ten, the assignment was finished.
-
-Taiga submitted his.
-
-Leo submitted his.
+They actually worked for forty minutes, maybe fifty. Leo wrote the first explanation; Taiga edited it; Leo objected; Taiga defended; they compromised. At three-ten, both assignments were submitted.
 
 Done.
 
-Leo leaned back.
+Leo leaned back. “Good.”
 
 “Good.”
 
-“Good.”
-
-Outside the computing lab, rain had started.
-
-Not snow.
-
-Rain.
-
-Gray against the windows.
-
-Leo spun his pen once between his fingers and dropped it.
+Outside the computing lab, rain had started—gray against the windows, not snow. Leo spun his pen once between his fingers and dropped it.
 
 “Fuck.”
 
-Taiga picked it up from under the table.
-
-Leo accepted it.
+Taiga picked it up from under the table and handed it back.
 
 “Thanks.”
 
-Another minute.
-
-Then Leo said, “Important question.”
+Another minute passed before Leo said, “Important question.”
 
 Taiga looked at him.
 
 “If you had to fight one animal your own body weight, what’s the best option?”
 
-Taiga stared.
-
-“Why?”
+Taiga stared. “Why?”
 
 “I saw a post.”
 
@@ -1252,9 +818,7 @@ Taiga stared.
 
 “It’s the entire reason.”
 
-Taiga looked back at his laptop.
-
-“No.”
+Taiga looked back at his laptop. “No.”
 
 “Come on.”
 
@@ -1280,9 +844,7 @@ Taiga looked back at his laptop.
 
 “You’re definitely dead.”
 
-Leo smiled.
-
-“Okay, your turn.”
+Leo smiled. “Okay, your turn.”
 
 “I’m not doing this.”
 
@@ -1296,9 +858,7 @@ Leo smiled.
 
 “Capybara?”
 
-Taiga looked at him.
-
-“You would fight a capybara?”
+Taiga looked at him. “You would fight a capybara?”
 
 “No, I’d feel bad.”
 
@@ -1310,21 +870,11 @@ Taiga looked at him.
 
 “They know conflict.”
 
-Taiga started laughing.
+Taiga started laughing, and Leo looked delighted with himself.
 
-Leo looked delighted with himself.
+The conversation wandered through animals, geese as psychological warfare, the worst thing Enzo had ever cooked, mustard, a game Leo’s sister was obsessed with, and whether Caleb would survive a zombie apocalypse. Taiga argued that Caleb would survive indefinitely; Leo argued Caleb would die because he would stop to categorize supplies; Taiga said that was exactly why he would survive.
 
-The conversation wandered through animals, geese as psychological warfare, the worst thing Enzo had ever cooked, mustard, a game Leo’s sister was obsessed with, and whether Caleb would survive a zombie apocalypse.
-
-Taiga argued that Caleb would survive indefinitely.
-
-Leo argued Caleb would die because he would stop to categorize supplies.
-
-Taiga said that was exactly why he would survive.
-
-At three-forty-two, Leo’s Oracle buzzed.
-
-He checked it.
+At three-forty-two, Leo’s Oracle buzzed. He checked it.
 
 “Oh, shit.”
 
@@ -1340,11 +890,7 @@ He checked it.
 
 “I know.”
 
-Leo began packing.
-
-Taiga closed his laptop too.
-
-Leo shoved the charger into his bag.
+Leo began packing, and Taiga closed his laptop too. Leo shoved the charger into his bag.
 
 “Sorry. I lost track.”
 
@@ -1354,39 +900,19 @@ Leo shoved the charger into his bag.
 
 “Accurate.”
 
-Leo stood.
+Leo stood, then paused. “Same time after lab Tuesday?”
 
-Then paused.
+Taiga looked up. “For what?”
 
-“Same time after lab Tuesday?”
-
-Taiga looked up.
-
-“For what?”
-
-Leo blinked.
-
-Then laughed.
-
-“I don’t know. Whatever.”
+Leo blinked, then laughed. “I don’t know. Whatever.”
 
 “Fine.”
 
-Leo smiled.
-
-“Cool. See you tomorrow.”
+Leo smiled. “Cool. See you tomorrow.”
 
 “Yeah.”
 
-Leo left.
-
-Taiga remained at the table for another minute.
-
-The assignment portal displayed:
-
-**SUBMITTED**
-
-He closed it and packed.
+Leo left. Taiga remained at the table for another minute while the assignment portal displayed **SUBMITTED**, then closed it and packed.
 
 ---
 
@@ -1420,11 +946,7 @@ Or:
 
 **Leo:** so no
 
-Or:
-
-Photo.
-
-A squirrel sitting on a trash can.
+Or a photo of a squirrel sitting on a trash can.
 
 **Leo:** he looks like you
 
@@ -1446,43 +968,19 @@ Leo sent six laughing reactions.
 
 ---
 
-Tuesday’s lab was trees.
+Tuesday’s lab was trees. Binary search trees.
 
-Binary search trees.
+Owen drew one on the board. Leo whispered, “Finally. Plant science.”
 
-Owen drew one on the board.
-
-Leo whispered, “Finally. Plant science.”
-
-Taiga looked at him.
-
-“That was terrible.”
+Taiga looked at him. “That was terrible.”
 
 “I know.”
 
-They paired automatically.
+They paired automatically. Owen said pairs, Leo moved his chair, Taiga shifted his laptop between them, and that was it.
 
-Owen said pairs.
+At some point, things had become easier to repeat than arrange: which seat, which partner, who got the screenshot when code failed, who received the stupid photograph.
 
-Leo moved his chair.
-
-Taiga shifted his laptop between them.
-
-Done.
-
-At some point, things had become easier to repeat than arrange.
-
-Which seat.
-
-Which partner.
-
-Who got the screenshot when code failed.
-
-Who received the stupid photograph.
-
-Owen started explaining insertion.
-
-Leo tapped the diagram with his pen.
+Owen started explaining insertion. Leo tapped the diagram with his pen.
 
 “If he says this is basically gardening, I’m leaving.”
 
@@ -1492,22 +990,12 @@ Leo tapped the diagram with his pen.
 
 “Convenient.”
 
-They worked.
-
-When the lab ended, Leo packed.
-
-Taiga did too.
-
-They walked into the hallway.
+They worked. When the lab ended, Leo packed and Taiga did too. They walked into the hallway together.
 
 Leo said, “Coffee?”
 
-Taiga had Discrete in twenty minutes.
-
-Enough time.
+Taiga had Discrete in twenty minutes. Enough time.
 
 “Yeah.”
 
-Leo turned toward the stairs.
-
-Taiga followed.
+Leo turned toward the stairs, and Taiga followed.
