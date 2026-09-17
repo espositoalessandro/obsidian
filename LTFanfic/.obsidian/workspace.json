@@ -11,14 +11,14 @@
             "id": "05cfd2b999405f0f",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "LTFanfic/Act 2/Chapter 17 - Simple.md",
-                "bFile": "LTFanfic/Act 2/Chapter 17 - Simple.md",
-                "aRef": ""
+                "file": "Act 2/Chapter 17 - Simple.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Chapter 17 - Simple  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Chapter 17 - Simple"
             }
           }
         ]
@@ -201,6 +201,7 @@
   },
   "active": "05cfd2b999405f0f",
   "lastOpenFiles": [
+    "Act 2/Chapter 18 - Thin Air.md",
     "Act 2/Chapter 17 - Simple.md",
     "Act 2/Chapter 16 - Default.md",
     "Act 2/Chapter 15 - Five Minutes.md",
@@ -209,7 +210,6 @@
     "Act 2/Chapter 14 - Five Minutes.md",
     "Act 2/Chapter 20 - What remains.md",
     "Act 2/Chapter 19 - Fallout.md",
-    "Act 2/Chapter 18 - Thin Air.md",
     "Act 2/Chapter 15 - Default.md",
     "Bibles/ScoutmasterSeasonScript.csv",
     "Bibles/Scoutmaster Season Lore.md",

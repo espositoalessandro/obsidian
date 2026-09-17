@@ -238,9 +238,7 @@ Enzo put a hand on his shoulder. “You’ve been through something.”
 
 “Thank you.”
 
-Taiga threw a rolled sock at both of them.
-
-By the time they went outside, Leo seemed entirely normal.
+Taiga threw a rolled sock at both of them. Eventually they got out on the field.
 
 The air had the dry bite of late winter, cold enough that everybody kept moving during Mercer’s explanation. Leo bounced twice on his toes beside Enzo, blew into his hands, then complained that Mercer had somehow found the only part of the field with wind.
 
@@ -256,14 +254,12 @@ Mercer heard him.
 
 “Run faster.”
 
-Leo smiled. “See? Personalized training.”
+Leo smiled. “Personalized training.”
 
 They started with movement and short passing. Nothing complicated. Ten meters, receive across the body, play the next man, move.
 
 Leo’s first few touches were clean.
-
 Then one got away from him.
-
 Not far. Half a step. He recovered it and played on.
 
 A minute later he put a pass slightly behind Scott.
@@ -271,9 +267,7 @@ A minute later he put a pass slightly behind Scott.
 “My bad.”
 
 Scott adjusted and returned it.
-
 Then Leo overhit the next one enough that Enzo had to stretch to keep it in.
-
 Enzo trapped it near the line. “Trying to kill me?”
 
 “Building character.”
@@ -296,23 +290,10 @@ Next round, Leo got it back and tried to play one-touch through a gap that close
 
 Intercepted.
 
-Leo clicked his tongue.
-
-Taiga was on the opposite side of the square. He noticed the sound more than the mistake.
-
+Leo clicked his tongue. Taiga was on the opposite side of the square. He noticed the sound more than the mistake. Actually, he noticed more Leo not making a joke for it.
 The next ball came to Leo harder. This time he killed it cleanly, turned out and played simple.
 
-“See?” Enzo said. “Footballer.”
-
-Leo shoved him as they rotated.
-
-Still normal.
-
-Mostly.
-
 Then the possession drill started, the space opened up and decisions got faster.
-
-That was when the mistakes stopped looking separate.
 
 Leo received from Gav near the touchline. He should have played backward; instead he turned into pressure, tried to slip between two defenders and lost the ball.
 
@@ -372,9 +353,12 @@ The locker room was loud. Leo changed two benches over, talking to Gav about som
 
 Taiga left through the side doors into cold air and early evening. The sky was already dark. At the first intersection, he saw Leo sitting on the low concrete wall beside the vending machines outside the training complex.
 
-Alone. Not hiding. Not the balcony. Just sitting there with his elbows on his knees and an unopened bottle of water between his hands.
+Alone. Just sitting there with his elbows on his knees and an unopened bottle of water between his hands.
+Taiga walked over. 
 
-Taiga walked over. Leo looked up.
+"Hey."
+
+Leo looked up.
 
 “Hey.”
 
@@ -382,22 +366,19 @@ Taiga walked over. Leo looked up.
 
 “No.”
 
-“Bus?”
-
-“No.”
-
 “Then what are you doing?”
 
 Leo looked at the bottle. “Being annoyed.”
 
-“Okay.”
+“Okay. Can I sit?.”
 
-Taiga sat beside him. Leo glanced over.
+ Leo glanced over.
 
 “You don’t have to.”
 
 “I know.”
 
+Taiga sat beside him.
 Traffic moved beyond the Sports Zone, and somewhere behind the building a maintenance cart beeped while reversing. Leo lasted forty seconds.
 
 “Everyone keeps doing the thing.”
@@ -426,59 +407,15 @@ Silence. Then Leo laughed—actually laughed—and bent forward to cover his fac
 
 “Four passes.”
 
-Leo looked offended. “Fuck you.”
-
-“Four.”
-
 “Fine. Four.”
 
-“Scott took one off you too.”
+His tone was different though. Sharper. He paused a second, then he stroked his face with his hands.
 
-“That wasn’t a pass.”
+"Sorry."
 
-“It was supposed to be.”
+"It's okay."
 
-Leo pointed at him. “You see why I like you?”
-
-Taiga paused. Leo kept going.
-
-“You don’t do the fake reassurance thing.”
-
-Taiga looked toward the road. “You were trying to fix the mistake before it happened.”
-
-Leo frowned. “What?”
-
-“Your first touch.”
-
-“What about it?”
-
-“You weren’t watching it.”
-
-“I was.”
-
-“No. You were already looking at the second pass.”
-
-Leo stared at him. Taiga mimed the movement with one hand.
-
-“Every time the ball came in, your head was up before you had it under control. Then the touch went long. Then you got pissed and tried to play faster.”
-
-Leo was quiet.
-
-“When Mercer told you simple, you slowed down. Then you started doing it again.”
-
-“That sounds fake.”
-
-“It isn’t.”
-
-“It sounds like something a commentator says after the game because he needs to fill time.”
-
-“You want me to lie?”
-
-“No.”
-
-“Then shut up.”
-
-Leo smiled and finally opened the water. After a drink, he said, “I hate being bad at things I know I’m good at.”
+Leo smiled awkwardly and finally opened the water. After a drink, he said, “I hate being bad at things I know I’m good at.”
 
 Taiga looked over.
 
@@ -545,6 +482,39 @@ Taiga smiled. Leo looked toward the dark practice fields.
 “Fuck you.”
 
 Leo laughed again.
+They stood in silence for several minutes. Then Leo said
+
+"You know, I really like talking to you. You're brutal and unfiltered but you're honest."
+
+Taiga didn't answer immediately. Something shifted inside his ribs. Unpleasantly.
+
+"I'm still deciding whether that was an insult or a praise."
+
+Leo smiled, "Probably both."
+
+"Then thanks. And fuck you."
+
+Leo laughed. Then he continued
+
+"Seriously, though. You're a good friend Taiga. I'm glad I met you."
+
+*Good friend.* 
+He remembered Keitaro's words.
+*You're not a hard person to love, Taiga.*
+
+Taiga froze for a second. 
+Something warm was definitely bubbling in his stomach.
+He looked down and smiled.
+
+"Yeah, sure."
+
+"Too corny?"
+
+"Totally."
+
+"Fair."
+
+They both laughed.
 
 ---
 
@@ -562,29 +532,13 @@ Leo adjusted his backpack strap. “Thanks.”
 
 “For telling me I was shit.”
 
-“You’re welcome.”
-
-“I mean it. Everyone else kept telling me not to worry about one bad session.”
-
-“It was a bad session.”
-
-“Exactly.” Leo pointed at him. “You understand why that’s better.”
-
-“Because you can fix a bad session.”
-
-“Yeah.”
-
-Taiga shrugged. “Then fix it Thursday.”
-
-Leo smiled. “Bossy.”
-
 “Go home.”
 
 “Night, forty-one.”
 
 “Night.”
 
-Leo walked away. After twenty meters, Taiga’s Oracle buzzed.
+Leo walked away. After twenty meters, Taiga’s phone buzzed.
 
 **Leo:** btw if i play like shit thursday you are legally required to lie to me
 
@@ -592,23 +546,22 @@ Leo walked away. After twenty meters, Taiga’s Oracle buzzed.
 
 **Leo:** cruel
 
-**Taiga:** simple
+**Taiga:** play simple
 
 Three dots.
 
 **Leo:** wow
-
 **Leo:** using my pain against me
 
 **Taiga:** good night
 
 **Leo:** night asshole
 
-Taiga locked the Oracle and kept walking.
+Taiga locked the phone and kept walking.
 
 ---
 
-Thursday, Leo played better. Not magically and not perfectly—he misplaced a cross in the first ten minutes and swore loud enough for Mercer to hear—but he controlled the ball before trying to solve the universe. Two touches, sometimes three. He stopped forcing the second pass before the first one existed.
+Thursday, Leo played better. Not perfectly—he misplaced a cross in the first ten minutes and swore loud enough for Mercer to hear—but he controlled the ball before trying to solve the universe. Two touches, sometimes three. He stopped forcing the second pass before the first one existed.
 
 Taiga saw it. Across the field, Leo pointed at him once; Taiga gave him the finger; Mercer shouted at both of them to pay attention.
 
@@ -656,7 +609,7 @@ Taiga looked at him. “What?”
 
 “Preventive guidance.”
 
-“Go meet Ethan.”
+“Go bother Ethan.”
 
 Leo sighed dramatically and walked away.
 
@@ -670,7 +623,7 @@ Taiga found Chloe three rows back, already moving her bag off the spare chair.
 
 He sat down. “Hey.”
 
-As he opened the starter repository, his Oracle buzzed.
+As he opened the starter repository, his phone buzzed.
 
 **Leo:** ethan seems suspicious
 
@@ -680,7 +633,7 @@ Taiga looked across the room. Ethan was introducing himself while Leo listened w
 
 **Leo:** exactly
 
-Taiga put the Oracle face down before Owen noticed.
+Taiga put the phone face down before Owen noticed.
 
 Chloe glanced at it, then at him. “Everything okay?”
 
