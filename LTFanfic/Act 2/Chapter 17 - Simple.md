@@ -204,11 +204,117 @@ They left.
 
 ---
 
-The problem with Leo having a bad practice was that at first nobody realized Leo was having a bad practice. He still talked, still ran, still shouted for the ball, still congratulated Enzo after a clean finish and told Scott his save was disgusting in a positive way.
+By late afternoon, the Data Structures disaster had already become a locker-room story.
 
-The football kept leaving his foot wrong: first touch too long, pass behind the runner, cross overhit, then another. Then he tried to fix all of it at once, which made it worse.
+Leo was sitting on the bench tying his boots while Enzo stood in front of him, listening with the concentration of someone receiving testimony.
 
-Taiga noticed during the possession drill. Leo received from Gav near the touchline. He should have played backward; instead he turned into pressure, tried to slip between two defenders and lost the ball.
+“So she just left?”
+
+“She submitted and left.”
+
+“That’s cold.”
+
+“She had places to be.”
+
+Enzo ignored Taiga. “And then?”
+
+Leo pointed across the room at him. “Then *he* fixed it in nine seconds and acted like that was normal.”
+
+“It was one line.”
+
+“It was a spiritually important line.”
+
+Gav pulled his shirt over his head. “You still passed.”
+
+“That is not the point.”
+
+“What is the point?” Taiga asked.
+
+Leo paused.
+
+“I don’t know anymore.”
+
+Enzo put a hand on his shoulder. “You’ve been through something.”
+
+“Thank you.”
+
+Taiga threw a rolled sock at both of them.
+
+By the time they went outside, Leo seemed entirely normal.
+
+The air had the dry bite of late winter, cold enough that everybody kept moving during Mercer’s explanation. Leo bounced twice on his toes beside Enzo, blew into his hands, then complained that Mercer had somehow found the only part of the field with wind.
+
+Mercer heard him.
+
+“Mendez.”
+
+“Coach.”
+
+“You warm yet?”
+
+“Getting there.”
+
+“Run faster.”
+
+Leo smiled. “See? Personalized training.”
+
+They started with movement and short passing. Nothing complicated. Ten meters, receive across the body, play the next man, move.
+
+Leo’s first few touches were clean.
+
+Then one got away from him.
+
+Not far. Half a step. He recovered it and played on.
+
+A minute later he put a pass slightly behind Scott.
+
+“My bad.”
+
+Scott adjusted and returned it.
+
+Then Leo overhit the next one enough that Enzo had to stretch to keep it in.
+
+Enzo trapped it near the line. “Trying to kill me?”
+
+“Building character.”
+
+“Build less.”
+
+Leo laughed.
+
+Nobody cared. People misplaced passes in warm-ups. The ground was cold, legs were stiff, and Mercer was still shouting at Brennan to open his body earlier.
+
+They moved into a tighter rondo.
+
+Leo received under pressure, tried to take the ball around Evan with his first touch and knocked it straight into Evan’s foot.
+
+“Thank you,” Evan said.
+
+“Gift.”
+
+Next round, Leo got it back and tried to play one-touch through a gap that closed before the ball arrived.
+
+Intercepted.
+
+Leo clicked his tongue.
+
+Taiga was on the opposite side of the square. He noticed the sound more than the mistake.
+
+The next ball came to Leo harder. This time he killed it cleanly, turned out and played simple.
+
+“See?” Enzo said. “Footballer.”
+
+Leo shoved him as they rotated.
+
+Still normal.
+
+Mostly.
+
+Then the possession drill started, the space opened up and decisions got faster.
+
+That was when the mistakes stopped looking separate.
+
+Leo received from Gav near the touchline. He should have played backward; instead he turned into pressure, tried to slip between two defenders and lost the ball.
 
 Mercer blew the whistle. “Mendez.”
 
