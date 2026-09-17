@@ -446,32 +446,32 @@ Taiga laughed in the middle of Political Theory reading, enough that a student a
 
 Friday afternoon, House Apollo’s group chat became active.
 
-**Enzo:** SOFIA HOME GAME TOMORROW
+**Enzo:** EMMA HOME GAME TOMORROW
 
-**Sofia:** You know I am in this chat.
+**Emma:** You know I am in this chat.
 
 **Enzo:** SUPPORTIVE ANNOUNCEMENT
 
-**Sofia:** It sounds threatening.
+**Emma:** It sounds threatening.
 
 **Aaron:** 6?
 
-**Sofia:** 6:30.
+**Emma:** 6:30.
 
-**Scott:** Main stadium?
+**Scott:** Main arena?
 
-**Sofia:** Yes.
+**Emma:** Yes.
 
 **Gav:** I can come.
 
 **Enzo:** EVERYONE COME
 
 **Leo:** I'M IN
-**Leo:** if sofia gets carded i'm blaming enzo
+**Leo:** i know almost nothing about volleyball strategy but i have lungs and enthusiasm
 
-**Sofia:** You say that like I get carded regularly.
+**Emma:** Unfortunately accurate.
 
-Taiga read the messages, decided he did not need another football match badly enough to rearrange a Saturday evening for it, and put the Oracle down.
+Taiga read the messages, decided he did not care about volleyball enough to rearrange a Saturday evening for it, and put the Oracle down.
 
 Two minutes later it buzzed privately.
 
@@ -491,17 +491,21 @@ Leo’s reply came quickly.
 
 Then:
 
-**Leo:** come on, sofia's starting and enzo says he's making a sign which means somebody responsible needs to be present
+**Leo:** come on, emma's starting and enzo says he's making a sign which means somebody responsible needs to be present
 
 **Taiga:** and you picked me?
 
 **Leo:** obviously
 
-**Leo:** also i need someone who understands why i'm yelling when their left side gets stranded
+**Leo:** also volleyball is actually fun when you don't understand enough to get mad about tactics
 
-**Taiga:** gav understands
+**Taiga:** you get mad about tactics in every sport
 
-**Leo:** gav is too reasonable
+**Leo:** EXACTLY
+
+**Leo:** freedom
+
+Taiga smiled.
 
 **Taiga:** fine
 
@@ -527,9 +531,9 @@ Peace.
 
 Enzo’s sign said:
 
-**SOFIA PLEASE DO THE SOCCER GOOD**
+**EMMA PLEASE DO THE VOLLEYBALL GOOD**
 
-Sofia saw it during warm-ups. Even from across the stadium, Taiga could see her close her eyes.
+Emma saw it during warm-ups. Even from across the arena, Taiga could see her close her eyes.
 
 Aaron laughed beside him. “This is why she didn’t want us here.”
 
@@ -545,123 +549,95 @@ Enzo pointed. “Thank you.”
 
 “That was not praise.”
 
-House Apollo occupied most of a row in the home stand. Not officially—nobody had reserved anything—but they had simply arrived in enough numbers that the row became theirs. Leo had an empty seat beside him; Taiga took it, while Aaron sat on his other side.
+House Apollo occupied half a row behind the home bench. Not officially—nobody had reserved anything—but they had simply arrived in enough numbers that the row became theirs. Leo had an empty seat beside him; Taiga took it, while Aaron sat on his other side.
 
-The floodlights were already on against the early-evening sky. The pitch still held a little dampness from the week, enough that the ball skipped quickly whenever somebody drove a pass across the grass.
+The arena lights were brighter than the soccer stadium, and the floor reflected everything. Shoes squeaked during warm-up while the scoreboard rotated sponsor messages nobody read.
 
-Leo leaned toward Taiga. “Okay. Their right side is going to be annoying.”
+Leo leaned toward Taiga. “Okay, I have a confession.”
 
-Taiga looked toward the visitors’ warm-up. “Why?”
+“What?”
 
-“The winger keeps coming inside and the fullback goes past her every time.”
+“I know the rules.”
 
-“So track the overlap.”
+Taiga looked at him. “You said you didn’t.”
 
-“Exactly.”
+“I said I know almost nothing about strategy. I know the rules.”
 
-Taiga looked at him. “You invited me here so you could do tactical commentary at me.”
+“That is completely different.”
 
-“I invited you because I enjoy your company.”
+“Yes.”
 
-Taiga stared.
+“You made it sound like you’d never seen volleyball.”
 
-Leo smiled. “And because Gav is too reasonable.”
+“I wanted freedom from expectations.”
 
-“There it is.”
+“You’re an asshole.”
 
-The game started.
+Leo smiled. “My sister played for two years.”
 
-For the first ten minutes, Taiga watched seriously despite himself. The visitors pressed high, but Olympus kept finding the spare player underneath it. Sofia checked into space, received under pressure and moved the ball before the second defender could close.
+“Same sister who says you run weird?”
 
-Leo pointed once toward the far side. “There. Their fullback’s too high again.”
+“Exactly. She retired from volleyball at fourteen because, according to her, ‘the floor is too hard and everyone screams.’”
 
-Taiga saw it. “If Sofia turns, the channel’s open.”
+“Reasonable.”
 
-Three seconds later Sofia turned.
+“She now does theater.”
 
-The pass went into the channel.
+“That seems quieter.”
 
-Olympus’s winger reached it first, drove toward the box and cut the ball back.
+Leo stared. Taiga smiled.
 
-Shot.
+“Right.”
 
-Saved.
+The game started. For the first set, Taiga watched seriously. Sports were sports, and patterns emerged quickly: serve receive, blocking, coverage, rotations.
 
-Enzo stood anyway and lifted the sign.
+Leo, despite claiming strategic ignorance, immediately began pointing things out.
 
-“DO THE SOCCER GOOD!”
+“Watch their libero. She’s cheating left every time Emma’s front row.”
 
-Sofia looked toward the stands while jogging back into shape.
+Taiga looked. She was. “Why?”
 
-Even from that distance, the threat was visible.
+“Probably because their outside hitter is late closing. She’s covering cross.”
 
-Gav took the sign away.
+Taiga turned. “You said no strategy.”
 
-Leo was laughing beside Taiga.
+“I said almost.”
 
-“Worth coming?”
+“That’s strategy.”
 
-“It’s been twelve minutes.”
+“I contain multitudes.”
 
-“That is not a no.”
+Emma scored off the block and Apollo’s row exploded. Enzo raised the sign. Leo stood so fast his knee hit the seat in front.
 
-The visitors scored first from a corner.
+“YES!”
 
-That stopped being funny.
+Taiga laughed.
 
-Olympus equalized before halftime after Sofia won the ball near midfield and released it early. Two passes later, the ball was in the net.
+The second rally was longer. Both teams recovered twice before Emma dove for a ball near the sideline, one arm under it at the last possible second. The ball stayed alive. Set. Kill. Point.
 
-Leo grabbed Taiga’s forearm with both hands and shook him once. “DID YOU SEE THE FIRST PASS?”
+Leo grabbed Taiga’s forearm with both hands and shook him once. “DID YOU SEE THAT?”
 
 “Yes!”
 
-“She saw it before the press even closed!”
+“She fucking saved that!”
 
 “I KNOW.”
 
 They were both standing. Leo was still holding him, then let go.
 
-“Sports brain,” Leo said.
+“Sports brain.”
 
-“You literally play this sport.”
+“You are literally watching a sport.”
 
 “Exactly. No defense.”
 
-They sat.
+They sat. Ten seconds later Enzo shouted, “DO THE VOLLEYBALL GOOD!”
 
-The second half got worse in the useful way.
-
-One-one made everybody louder. Aaron spent most of it leaning forward with his elbows on his knees. Enzo recovered the sign from Gav and was immediately threatened with physical removal.
-
-With eleven minutes left, Sofia chased a runner all the way back toward her own box, got a foot in cleanly and kept the ball in play. She got up, carried it out herself and started the counter before the visitors had reset.
-
-Taiga stood before he realized he was doing it.
-
-Leo was already up beside him.
-
-Olympus broke three against three.
-
-Pass wide.
-
-Cross low.
-
-Finish.
-
-Two-one.
-
-The home stand exploded.
-
-Somebody hit Taiga from the side. Gav, apparently. Taiga grabbed his shoulder to keep both of them upright while Leo shouted something incomprehensible directly beside his ear.
-
-Enzo lifted the sign over his head like a championship banner.
-
-Sofia pointed at him from the pitch and made a very clear cutting motion across her throat.
-
-Aaron laughed harder than anyone.
+Emma missed a serve. Gav took the sign away.
 
 ---
 
-Olympus won two-one. Sofia came up into the stands afterward still wearing her warm-up jacket and immediately hit Enzo with the rolled sign.
+Olympus won in four sets. Emma came up into the stands afterward still wearing her warm-up jacket and immediately hit Enzo with the rolled sign.
 
 “This made things worse.”
 
@@ -673,11 +649,9 @@ Enzo protected his head. “We won!”
 
 “Not causation,” Mia said.
 
-Sofia pointed at her. “Thank you.”
+Emma pointed at her. “Thank you.”
 
-Aaron smiled at Sofia with enough obvious pride that Taiga looked elsewhere.
-
-The group spilled out of the stadium into cold air. Someone suggested food, nobody knew where, and the next fifteen minutes became a democratic failure. Enzo wanted Taverna; Gav said Taverna would be full. Mia wanted noodles; Scott said the noodle place closed at nine. It was nine-oh-three. Leo suggested the late dining hall and everyone booed.
+The group spilled out of the arena into cold air. Someone suggested food, nobody knew where, and the next fifteen minutes became a democratic failure. Enzo wanted Taverna; Gav said Taverna would be full. Mia wanted noodles; Scott said the noodle place closed at nine. It was nine-oh-three. Leo suggested the late dining hall and everyone booed.
 
 Taiga stood beside him. “You caused that.”
 
@@ -687,9 +661,9 @@ Taiga stood beside him. “You caused that.”
 
 “I panicked.”
 
-Eventually Sofia chose a burger place near Central Park. Decision achieved.
+Eventually Emma chose a burger place near Central Park. Decision achieved.
 
-They walked, the group stretching across half the sidewalk. Leo started beside Taiga, got pulled forward by Enzo, fell back to talk to Sofia, and two blocks later was beside Taiga again.
+They walked, the group stretching across half the sidewalk. Leo started beside Taiga, got pulled forward by Enzo, fell back to talk to Emma, and two blocks later was beside Taiga again.
 
 “You had fun,” Leo said.
 
@@ -703,7 +677,7 @@ Taiga looked over. “It was fine.”
 
 “Everyone shouted.”
 
-“You grabbed Gav when they scored.”
+“You grabbed Gav when Emma saved that point.”
 
 “I did not.”
 
