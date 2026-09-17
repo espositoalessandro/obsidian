@@ -1,6 +1,6 @@
 Taiga discovered Leo was in his Data Structures lab because Leo said his name at a volume inappropriate for a room containing forty laptops and one teaching assistant who had already threatened to deduct participation points for “creating a hostile acoustic environment.”
 
-“Taiga!”
+“Forty-one!”
 
 Half the room looked up. Taiga closed his eyes.
 
@@ -8,7 +8,7 @@ Of course.
 
 He turned. Leo stood in the doorway with his backpack hanging from one shoulder, yellow scarf half-unwrapped and an expression of genuine delight on his face.
 
-“What?”
+“Hey.”
 
 “You’re in this lab?”
 
@@ -60,9 +60,9 @@ Taiga waited. Leo looked back at him.
 
 “It doesn’t.”
 
-The teaching assistant walked to the front. His name was Owen; Taiga knew this because Owen had sent three announcements during the previous week, each one longer than the lab assignment itself.
+The teaching assistant, Owen, walked to the front. He connected his laptop to the display.
 
-He connected his Oracle to the display. “Good morning. Today we’re doing linked structures.”
+“Good morning. Today we’re doing linked structures.”
 
 Several people groaned. Leo whispered, “Cowards.”
 
@@ -112,12 +112,7 @@ Leo leaned toward the screen. “Okay, that’s not bad.”
 
 “That is absolutely how programming works.”
 
-Owen said from the front, “It is not.”
-
-Several people laughed, and Leo put one hand over his heart. “Betrayed by authority.”
-
 They started. For the first ten minutes, it went well.
-
 Then Taiga wrote a helper.
 
 Leo looked over. “Why?”
@@ -266,7 +261,7 @@ Leo grinned. “You hate that sentence.”
 
 “I hate when people use it against me.”
 
-“Which means you hate it.”
+“Which means you hate it now.”
 
 Taiga closed the repository. The lab ended and people started packing, but Leo remained seated while Taiga put his charger away.
 
@@ -371,7 +366,6 @@ Taiga looked around the library. There was no context.
 **Taiga:** what
 
 **Leo:** there are like 40 outside apollo
-
 **Leo:** where were they in december
 
 **Taiga:** somewhere warmer because they're not idiots
@@ -387,7 +381,6 @@ Taiga put the Oracle face down and returned to reading.
 ---
 
 By the end of the week, the messages usually began with code.
-
 Usually.
 
 **Leo:** okay theoretically
@@ -399,9 +392,6 @@ Usually.
 **Taiga:** you started with theoretically
 
 **Leo:** fair
-
-Then:
-
 **Leo:** theoretically if someone made a queue that can eat itself
 
 **Taiga:** how
@@ -422,7 +412,7 @@ Sometimes Taiga sent first.
 
 Leo replied immediately.
 
-**Leo:** MY LEGACY
+**Leo:** so proud of him 🥹
 
 Then:
 
@@ -446,7 +436,7 @@ Ten minutes later:
 
 Photo. The sandwich was worse.
 
-Taiga laughed in the middle of Political Theory reading, enough that a student across the table looked up. The Oracle buzzed again.
+Taiga laughed in the middle of Political Theory reading, enough that a student across the table looked up. The phone buzzed again.
 
 **Leo:** do not judge me
 
@@ -476,12 +466,7 @@ Friday afternoon, House Apollo’s group chat became active.
 
 **Enzo:** EVERYONE COME
 
-**Mia:** I have lab until six but probably.
-
 **Leo:** I'M IN
-
-Then:
-
 **Leo:** i know almost nothing about volleyball strategy but i have lungs and enthusiasm
 
 **Sofia:** Unfortunately accurate.
