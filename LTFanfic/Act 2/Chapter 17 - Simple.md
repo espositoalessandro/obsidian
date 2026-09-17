@@ -24,6 +24,16 @@ Leo leaned toward Taiga. “This is authoritarian.”
 
 “Same thing.”
 
+Owen put a list on the screen.
+
+Leo squinted at it. “Priya.”
+
+Taiga found his own name. “Marcus.”
+
+“This is worse than I thought.”
+
+“You’ll survive.”
+
 “Owen is looking at you.”
 
 Leo looked toward the front. Owen was, in fact, looking directly at him.
@@ -38,15 +48,15 @@ Leo smiled. “Love the policy.”
 
 He picked up his laptop with the solemnity of someone being forcibly relocated by the state and went two rows over.
 
-Mia dropped into the empty seat beside Taiga. “Hi.”
+Marcus dropped into the empty seat beside Taiga. “Hey.”
 
 “Hey.”
 
-She set down her laptop. “Hash tables.”
+He set down his laptop. “Hash tables.”
 
 “Finally.”
 
-“You say that like this is exciting.”
+Marcus looked at him. “You say that like this is exciting.”
 
 “It is.”
 
@@ -54,17 +64,17 @@ She set down her laptop. “Hash tables.”
 
 They started.
 
-Mia was good, though not in the same way Leo was good. Leo attacked code like it had personally challenged him; Mia read first, asked questions, then wrote exactly what she meant. No unnecessary movement. No dramatic declarations. No calling an array a “little guy” when it behaved correctly.
+Marcus was good, though not in the same way Leo was good. Leo attacked code like it had personally challenged him; Marcus read first, asked questions, then wrote exactly what he meant. No unnecessary movement. No dramatic declarations. No calling an array a “little guy” when it behaved correctly.
 
 Taiga appreciated this. Maybe.
 
-Twenty minutes in, Mia pointed at one function. “You’re going to make a helper.”
+Twenty minutes in, Marcus pointed at one function. “You’re going to make a helper.”
 
 “Yes.”
 
-“Leo complains about that, right?”
+“Your usual partner complains about that, right?”
 
-Taiga looked at her. “How do you know?”
+Taiga looked at him. “How do you know?”
 
 “You two argued about helpers for an entire lab.”
 
@@ -72,37 +82,29 @@ Taiga looked at her. “How do you know?”
 
 “Everyone heard that.”
 
-Mia scrolled down. “I’m not saying he’s right. I’m saying if you build another federal agency, I’m leaving.”
+Marcus scrolled down. “I’m not saying he’s right. I’m saying if you build another federal agency, I’m leaving.”
 
-Taiga stared. “He told you.”
+Taiga stared. “Fuck.”
 
-“He tells everyone.”
+Across the room, Leo looked over as if summoned. His eyebrows lifted; Taiga gave him the finger; Leo grinned and went back to Priya’s screen.
 
-“Of course he fucking does.”
-
-Across the room, Leo looked over as if summoned. His eyebrows lifted; Taiga gave him the finger; Leo grinned and went back to Rachel’s screen.
-
-Mia tapped the function with one fingernail. “Helper. Singular.”
+Marcus tapped the function with one fingernail. “Helper. Singular.”
 
 “Fine.”
 
-They finished fifteen minutes early. Mia ran the tests again and got all green.
+They finished fifteen minutes early. Marcus ran the tests again and got all green.
 
 “Okay.”
 
 “Okay.”
 
-She started packing while Taiga looked toward Leo’s row. Leo and Rachel were still debugging, their screen red.
+He started packing while Taiga looked toward Leo’s row. Leo and Priya were still debugging, their screen red.
 
-Mia stood. “Coffee?”
-
-“I’ll wait.”
-
-“Okay. See you in Discrete.”
+Marcus stood. “Later.”
 
 “Yeah.”
 
-She left. Taiga opened the assignment notes and read one paragraph, then another. Leo swore quietly from across the room.
+He left. Taiga opened the assignment notes and read one paragraph, then another. Leo swore quietly from across the room.
 
 Thirty seconds later, Taiga’s Oracle buzzed.
 
@@ -120,7 +122,7 @@ Taiga put the Oracle down and kept reading.
 
 ---
 
-Rachel left seven minutes later. Leo arrived at Taiga’s desk with his laptop under one arm.
+Priya left seven minutes later. Leo arrived at Taiga’s desk with his laptop under one arm.
 
 “That was humiliating.”
 
@@ -148,7 +150,7 @@ Leo stared, then slapped a hand over his face. “Oh, fuck off.”
 
 “You’re an idiot.”
 
-Leo dropped into Mia’s old chair. Taiga turned the laptop back around, and Leo changed the line himself. Tests passed.
+Leo dropped into Marcus’s old chair. Taiga turned the laptop back around, and Leo changed the line himself. Tests passed.
 
 He leaned back. “Okay. Fine. I feel better.”
 
@@ -482,24 +484,46 @@ Leo whispered, “We’re conserving resources.”
 
 Taiga opened his laptop while Owen connected to the display.
 
-“Partner restrictions are done. Choose whoever. Today we’re doing trees.”
+“New random pairs are on the board. Today we’re doing trees.”
 
-Chairs moved. Leo moved his chair, Taiga shifted his laptop between them, and Owen started explaining binary search trees.
+Chairs started moving around them.
 
-Leo leaned closer. “Okay. Simple.”
+Leo leaned sideways to read the list. “I got Nathan.”
 
-“What?”
+Taiga found his own name. “Elise.”
+
+Leo looked offended. “Who’s Nathan?”
+
+“Your new best friend.”
+
+“Cruel.”
+
+Owen started explaining binary search trees. Leo picked up his laptop.
+
+“Okay. Simple.”
+
+Taiga looked at him. “What?”
 
 “Small functions. No government departments.”
 
-“Your insert function is already wrong.”
+“You’re not even working with me.”
 
-“I haven’t written it yet.”
+“Preventive guidance.”
 
-“Preemptively.”
+“Go find Nathan.”
 
-“That’s not how criticism works.”
+Leo sighed dramatically and walked away.
 
-“It is now.”
+Taiga found Elise three rows back.
 
-Leo laughed, and they started.
+As he sat down, his Oracle buzzed.
+
+**Leo:** he seems suspicious
+
+Taiga looked across the room. Nathan was already showing Leo something on his screen.
+
+**Taiga:** you've known him for twelve seconds
+
+**Leo:** exactly
+
+Taiga put the Oracle face down before Owen noticed and opened the starter repository.
