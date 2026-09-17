@@ -825,7 +825,65 @@ Taiga picked it up from under the table and handed it back.
 
 “Thanks.”
 
-Another minute passed before Leo said, “Important question.”
+Leo’s Oracle buzzed against the table. He checked it and groaned.
+
+“Enzo.”
+
+“What now?”
+
+“He wants to know if replying to Emma in under five minutes makes him look desperate.”
+
+Taiga stared at him.
+
+“I’m serious.”
+
+“When did she text him?”
+
+Leo checked. “Four minutes ago.”
+
+“Tell him to answer.”
+
+“I did. He says that isn’t advice.” Leo typed something and put the Oracle down again. “People really turn this stuff into strategy and then wonder why everything gets weird.”
+
+Taiga looked toward the rain streaking the windows. “Sometimes that’s not the part that makes it weird.”
+
+Leo glanced at him.
+
+Taiga wished he hadn’t said it.
+
+For a second he expected Leo to ask.
+
+Leo picked up his pen instead. “Yeah. Probably.”
+
+The silence stretched.
+
+“There was a guy,” Taiga said.
+
+Leo looked over.
+
+“A while ago.” Taiga rubbed his thumb along the edge of the coffee cup. “We were together.”
+
+Leo waited.
+
+“It got complicated.”
+
+“Bad complicated?”
+
+Taiga gave a short laugh without much humor. “Yeah.”
+
+A pause.
+
+“We were both pretty bad at it.”
+
+Leo nodded once. “That’ll do it.”
+
+Taiga looked back at the rain.
+
+Leo didn’t ask his name.
+
+A few seconds later, he spun the pen between his fingers.
+
+“Important question.”
 
 Taiga looked at him.
 
