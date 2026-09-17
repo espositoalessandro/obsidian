@@ -30,9 +30,11 @@ Leo squinted at it. “Sophie.”
 
 Taiga found his own name. “Dylan.”
 
-“This is worse than I thought.”
+“Do I know Sophie?”
 
-“You’ll survive.”
+“You know everyone.”
+
+“That is not an answer.”
 
 “Owen is looking at you.”
 
@@ -48,63 +50,109 @@ Leo smiled. “Love the policy.”
 
 He picked up his laptop with the solemnity of someone being forcibly relocated by the state and went two rows over.
 
-Dylan dropped into the empty seat beside Taiga. “Hey.”
+A guy Taiga vaguely recognized from the back half of the room stopped beside his desk.
 
-“Hey.”
-
-He set down his laptop. “Hash tables.”
-
-“Finally.”
-
-Dylan looked at him. “You say that like this is exciting.”
-
-“It is.”
-
-“That’s upsetting.”
-
-They started.
-
-Dylan was good, though not in the same way Leo was good. Leo attacked code like it had personally challenged him; Dylan read first, asked questions, then wrote exactly what he meant. No unnecessary movement. No dramatic declarations. No calling an array a “little guy” when it behaved correctly.
-
-Taiga appreciated this. Maybe.
-
-Twenty minutes in, Dylan pointed at one function. “You’re going to make a helper.”
-
-“Yes.”
-
-“Your usual partner complains about that, right?”
-
-Taiga looked at him. “How do you know?”
-
-“You two argued about helpers for an entire lab.”
-
-“You heard that?”
-
-“Everyone heard that.”
-
-Dylan scrolled down. “I’m not saying he’s right. I’m saying if you build another federal agency, I’m leaving.”
-
-Taiga stared. “Fuck.”
-
-Across the room, Leo looked over as if summoned. His eyebrows lifted; Taiga gave him the finger; Leo grinned and went back to Sophie’s screen.
-
-Dylan tapped the function with one fingernail. “Helper. Singular.”
-
-“Fine.”
-
-They finished fifteen minutes early. Dylan ran the tests again and got all green.
-
-“Okay.”
-
-“Okay.”
-
-He started packing while Taiga looked toward Leo’s row. Leo and Sophie were still debugging, their screen red.
-
-Dylan stood. “Later.”
+“Taiga?”
 
 “Yeah.”
 
-He left. Taiga opened the assignment notes and read one paragraph, then another. Leo swore quietly from across the room.
+“Dylan.”
+
+“Right.”
+
+Dylan set his laptop down in Leo’s empty seat. For a second they both looked at the starter repository without touching anything.
+
+“You want to drive?” Dylan asked.
+
+“Either.”
+
+“You already opened it.”
+
+Taiga moved the laptop between them. “Fine.”
+
+Owen put the hash-table requirements on the board: insert, search, delete, collision handling, tests.
+
+Dylan read through them once. “Linear probing?”
+
+“Probably.”
+
+“Works for me.”
+
+That was apparently the entire negotiation.
+
+They started.
+
+Dylan was competent and quiet. He read before changing anything, asked when he disagreed and waited for an answer. No running commentary. No naming variables like they were pets. No argument over whether eight duplicated lines constituted a moral failure.
+
+Ten minutes in, Taiga started extracting the probing logic.
+
+Dylan leaned toward the screen. “What’s the helper returning?”
+
+“Index.”
+
+“Just the index?”
+
+“Yes.”
+
+Dylan thought for a second. “Okay.”
+
+Taiga waited.
+
+Dylan looked at him. “What?”
+
+“Nothing.”
+
+“Okay.”
+
+He went back to the tests.
+
+Across the room, Leo was sitting with Sophie near the windows. Sophie pointed at something on their screen; Leo said something Taiga couldn’t hear, then gestured at the code with both hands.
+
+A minute later Leo looked over.
+
+Taiga raised his eyebrows.
+
+Leo made a face that communicated absolutely nothing useful.
+
+Taiga turned back to the screen.
+
+Dylan had noticed. “Friend?”
+
+“Yeah.”
+
+“Usually your partner?”
+
+“Yeah.”
+
+Dylan nodded once. “Got it.”
+
+And that was that.
+
+Their implementation worked on the first full test run except for delete after a wrapped collision. Dylan found it.
+
+“Here.”
+
+Taiga leaned closer. “Shit.”
+
+“You reset the probe count.”
+
+“I see it.”
+
+“I figured.”
+
+Taiga fixed it. All green.
+
+Dylan leaned back. “Nice.”
+
+“Yeah.”
+
+He packed without ceremony. “See you.”
+
+“Later.”
+
+Dylan left. Taiga looked across the room. Leo and Sophie were still debugging, their screen red.
+
+Taiga opened the assignment notes and read one paragraph, then another. Leo swore quietly from across the room.
 
 Thirty seconds later, Taiga’s Oracle buzzed.
 
@@ -488,15 +536,19 @@ Taiga opened his laptop while Owen connected to the display.
 
 Chairs started moving around them.
 
-Leo leaned sideways to read the list. “I got Ethan.”
+Leo leaned sideways to read the list. “Ethan.”
 
 Taiga found his own name. “Chloe.”
 
-Leo looked offended. “Who’s Ethan?”
+“Do you know Ethan?”
 
-“Your new best friend.”
+“No.”
 
-“Cruel.”
+“Great. Neither do I.”
+
+“That’s the point.”
+
+“I hate the point.”
 
 Owen started explaining binary search trees. Leo picked up his laptop.
 
@@ -510,20 +562,42 @@ Taiga looked at him. “What?”
 
 “Preventive guidance.”
 
-“Go find Ethan.”
+“Go meet Ethan.”
 
 Leo sighed dramatically and walked away.
 
-Taiga found Chloe three rows back.
+Taiga found Chloe three rows back, already moving her bag off the spare chair.
 
-As he sat down, his Oracle buzzed.
+“You’re Taiga?”
 
-**Leo:** he seems suspicious
+“Yeah.”
 
-Taiga looked across the room. Ethan was already showing Leo something on his screen.
+“Chloe.”
+
+He sat down. “Hey.”
+
+As he opened the starter repository, his Oracle buzzed.
+
+**Leo:** ethan seems suspicious
+
+Taiga looked across the room. Ethan was introducing himself while Leo listened with the grave expression of someone receiving classified information.
 
 **Taiga:** you've known him for twelve seconds
 
 **Leo:** exactly
 
-Taiga put the Oracle face down before Owen noticed and opened the starter repository.
+Taiga put the Oracle face down before Owen noticed.
+
+Chloe glanced at it, then at him. “Everything okay?”
+
+“Yeah.”
+
+“Cool.” She turned her laptop toward him. “You want insert or search?”
+
+Taiga looked at the tree on her screen.
+
+“Insert.”
+
+“Done.”
+
+They started.
