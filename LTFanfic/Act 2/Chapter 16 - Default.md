@@ -843,29 +843,29 @@ Leo checked. “Four minutes ago.”
 
 “Tell him to answer.”
 
-“I did. He says that isn’t advice.” Leo typed something and put the Oracle down again. “People really turn this stuff into strategy and then wonder why everything gets weird.”
+“I did. He says that isn’t advice.” Leo typed something, then looked at Taiga. “Any wisdom from past experience you want to contribute? For Enzo.”
 
-Taiga looked toward the rain streaking the windows. “Sometimes that’s not the part that makes it weird.”
+Taiga snorted. “Why me?”
 
-Leo glanced at him.
+“You’re sitting here, and apparently I’m his relationship consultant now.”
 
-Taiga wished he hadn’t said it.
+Taiga looked toward the rain streaking the windows.
 
-For a second he expected Leo to ask.
+“Don’t turn everything into a strategy.”
 
-Leo picked up his pen instead. “Yeah. Probably.”
+Leo’s thumbs paused over the screen.
 
-The silence stretched.
+“And if something’s wrong, actually say it before it gets worse.”
 
-“There was a guy,” Taiga said.
+Leo lowered the Oracle slightly. “Specific.”
 
-Leo looked over.
+Taiga rubbed his thumb along the edge of the coffee cup.
 
-“A while ago.” Taiga rubbed his thumb along the edge of the coffee cup. “We were together.”
+“There was a guy. A while ago.”
 
 Leo waited.
 
-“It got complicated.”
+“We were together. It got complicated.”
 
 “Bad complicated?”
 
