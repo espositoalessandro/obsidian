@@ -26,9 +26,9 @@ Leo leaned toward Taiga. “This is authoritarian.”
 
 Owen put a list on the screen.
 
-Leo squinted at it. “Priya.”
+Leo squinted at it. “Sophie.”
 
-Taiga found his own name. “Marcus.”
+Taiga found his own name. “Dylan.”
 
 “This is worse than I thought.”
 
@@ -48,7 +48,7 @@ Leo smiled. “Love the policy.”
 
 He picked up his laptop with the solemnity of someone being forcibly relocated by the state and went two rows over.
 
-Marcus dropped into the empty seat beside Taiga. “Hey.”
+Dylan dropped into the empty seat beside Taiga. “Hey.”
 
 “Hey.”
 
@@ -56,7 +56,7 @@ He set down his laptop. “Hash tables.”
 
 “Finally.”
 
-Marcus looked at him. “You say that like this is exciting.”
+Dylan looked at him. “You say that like this is exciting.”
 
 “It is.”
 
@@ -64,11 +64,11 @@ Marcus looked at him. “You say that like this is exciting.”
 
 They started.
 
-Marcus was good, though not in the same way Leo was good. Leo attacked code like it had personally challenged him; Marcus read first, asked questions, then wrote exactly what he meant. No unnecessary movement. No dramatic declarations. No calling an array a “little guy” when it behaved correctly.
+Dylan was good, though not in the same way Leo was good. Leo attacked code like it had personally challenged him; Dylan read first, asked questions, then wrote exactly what he meant. No unnecessary movement. No dramatic declarations. No calling an array a “little guy” when it behaved correctly.
 
 Taiga appreciated this. Maybe.
 
-Twenty minutes in, Marcus pointed at one function. “You’re going to make a helper.”
+Twenty minutes in, Dylan pointed at one function. “You’re going to make a helper.”
 
 “Yes.”
 
@@ -82,25 +82,25 @@ Taiga looked at him. “How do you know?”
 
 “Everyone heard that.”
 
-Marcus scrolled down. “I’m not saying he’s right. I’m saying if you build another federal agency, I’m leaving.”
+Dylan scrolled down. “I’m not saying he’s right. I’m saying if you build another federal agency, I’m leaving.”
 
 Taiga stared. “Fuck.”
 
-Across the room, Leo looked over as if summoned. His eyebrows lifted; Taiga gave him the finger; Leo grinned and went back to Priya’s screen.
+Across the room, Leo looked over as if summoned. His eyebrows lifted; Taiga gave him the finger; Leo grinned and went back to Sophie’s screen.
 
-Marcus tapped the function with one fingernail. “Helper. Singular.”
+Dylan tapped the function with one fingernail. “Helper. Singular.”
 
 “Fine.”
 
-They finished fifteen minutes early. Marcus ran the tests again and got all green.
+They finished fifteen minutes early. Dylan ran the tests again and got all green.
 
 “Okay.”
 
 “Okay.”
 
-He started packing while Taiga looked toward Leo’s row. Leo and Priya were still debugging, their screen red.
+He started packing while Taiga looked toward Leo’s row. Leo and Sophie were still debugging, their screen red.
 
-Marcus stood. “Later.”
+Dylan stood. “Later.”
 
 “Yeah.”
 
@@ -122,7 +122,7 @@ Taiga put the Oracle down and kept reading.
 
 ---
 
-Priya left seven minutes later. Leo arrived at Taiga’s desk with his laptop under one arm.
+Sophie left seven minutes later. Leo arrived at Taiga’s desk with his laptop under one arm.
 
 “That was humiliating.”
 
@@ -150,7 +150,7 @@ Leo stared, then slapped a hand over his face. “Oh, fuck off.”
 
 “You’re an idiot.”
 
-Leo dropped into Marcus’s old chair. Taiga turned the laptop back around, and Leo changed the line himself. Tests passed.
+Leo dropped into Dylan’s old chair. Taiga turned the laptop back around, and Leo changed the line himself. Tests passed.
 
 He leaned back. “Okay. Fine. I feel better.”
 
@@ -488,11 +488,11 @@ Taiga opened his laptop while Owen connected to the display.
 
 Chairs started moving around them.
 
-Leo leaned sideways to read the list. “I got Nathan.”
+Leo leaned sideways to read the list. “I got Ethan.”
 
-Taiga found his own name. “Elise.”
+Taiga found his own name. “Chloe.”
 
-Leo looked offended. “Who’s Nathan?”
+Leo looked offended. “Who’s Ethan?”
 
 “Your new best friend.”
 
@@ -510,17 +510,17 @@ Taiga looked at him. “What?”
 
 “Preventive guidance.”
 
-“Go find Nathan.”
+“Go find Ethan.”
 
 Leo sighed dramatically and walked away.
 
-Taiga found Elise three rows back.
+Taiga found Chloe three rows back.
 
 As he sat down, his Oracle buzzed.
 
 **Leo:** he seems suspicious
 
-Taiga looked across the room. Nathan was already showing Leo something on his screen.
+Taiga looked across the room. Ethan was already showing Leo something on his screen.
 
 **Taiga:** you've known him for twelve seconds
 
