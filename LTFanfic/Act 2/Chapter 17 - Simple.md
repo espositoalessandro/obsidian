@@ -290,7 +290,7 @@ Next round, Leo got it back and tried to play one-touch through a gap that close
 
 Intercepted.
 
-Leo clicked his tongue. Taiga was on the opposite side of the square. He noticed the sound more than the mistake. Actually, he noticed more Leo not making a joke for it.
+Leo clicked his tongue. Taiga was on the opposite side of the square. He noticed the sound more than the mistake. More than the mistake, he noticed Leo not making a joke about it.
 The next ball came to Leo harder. This time he killed it cleanly, turned out and played simple.
 
 Then the possession drill started, the space opened up and decisions got faster.
@@ -370,9 +370,9 @@ Leo looked up.
 
 Leo looked at the bottle. “Being annoyed.”
 
-“Okay. Can I sit?.”
+“Okay. Can I sit?”
 
- Leo glanced over.
+Leo glanced over.
 
 “You don’t have to.”
 
@@ -488,15 +488,15 @@ They stood in silence for several minutes. Then Leo said
 
 Taiga didn't answer immediately. Something shifted inside his ribs. Unpleasantly.
 
-"I'm still deciding whether that was an insult or a praise."
+"I'm still deciding whether that was an insult or praise."
 
-Leo smiled, "Probably both."
+Leo smiled. "Probably both."
 
 "Then thanks. And fuck you."
 
 Leo laughed. Then he continued
 
-"Seriously, though. You're a good friend Taiga. I'm glad I met you."
+"Seriously, though. You're a good friend, Taiga. I'm glad I met you."
 
 *Good friend.* 
 He remembered Keitaro's words.
@@ -648,3 +648,95 @@ Taiga looked at the tree on her screen.
 “Done.”
 
 They started.
+
+The lab went fine.
+
+Chloe liked recursion more than Taiga did, Taiga liked knowing exactly where the tree was going more than Chloe did, and they reached something acceptable without either of them needing to win the argument.
+
+Across the room, Leo and Ethan finished six minutes before them.
+
+Leo made sure Taiga knew this by holding up six fingers on his way out.
+
+Taiga gave him the finger that mattered.
+
+---
+
+The third random lab was less dramatic.
+
+Owen put the list up. Chairs moved. Nobody protested anymore.
+
+Taiga ended up beside a guy from the front row who wrote comments before code. Leo disappeared somewhere behind him with another assigned partner.
+
+They worked.
+
+Once, Taiga heard Leo laugh from the other side of the room and looked up without thinking.
+
+Later, his phone buzzed under the desk.
+
+**Leo:** this guy uses camelCase for constants
+
+**Taiga:** report him
+
+**Leo:** finally some institutional support
+
+Taiga locked the phone and went back to the assignment.
+
+---
+
+The Tuesday after that, Owen walked in, connected his laptop and looked at the room.
+
+“Good news.”
+
+Nobody reacted.
+
+Owen waited.
+
+Leo leaned toward Taiga. “Never trust good news from authority.”
+
+“Shut up.”
+
+Owen clicked to the first slide.
+
+“No random pairs today.”
+
+The room woke up immediately.
+
+“Experiment’s over. Pick whoever you want.”
+
+Chairs scraped across the floor.
+
+Leo looked at Taiga.
+
+Taiga had already moved his laptop into the space between their seats.
+
+Leo looked down at it, then back at him.
+
+“What?” Taiga said.
+
+“Nothing.”
+
+Leo dragged his chair over and sat.
+
+Owen started explaining the assignment.
+
+Taiga opened the starter repository. Leo leaned in, one hand already reaching for the trackpad.
+
+“You’re not touching anything yet.”
+
+“I was scrolling.”
+
+“You were about to edit.”
+
+“I was absolutely scrolling.”
+
+Taiga moved the laptop two centimeters away from him.
+
+Leo smiled. “Missed this.”
+
+Taiga looked at the screen.
+
+“Read the requirements.”
+
+“Yes, boss.”
+
+Thirty seconds later, they were arguing about a helper function.
