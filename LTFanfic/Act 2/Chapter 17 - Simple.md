@@ -721,22 +721,14 @@ Owen started explaining the assignment.
 
 Taiga opened the starter repository. Leo leaned in, one hand already reaching for the trackpad.
 
-“You’re not touching anything yet.”
+“Requirements first.”
 
-“I was scrolling.”
+“I know.”
 
-“You were about to edit.”
+Taiga shifted the laptop back to the middle.
 
-“I was absolutely scrolling.”
+Leo looked at him, then at the screen. His smile widened.
 
-Taiga moved the laptop two centimeters away from him.
-
-Leo smiled. “Missed this.”
-
-Taiga looked at the screen.
-
-“Read the requirements.”
-
-“Yes, boss.”
+“Okay. Requirements.”
 
 Thirty seconds later, they were arguing about a helper function.
