@@ -458,7 +458,7 @@ Friday afternoon, House Apollo’s group chat became active.
 
 **Sofia:** 6:30.
 
-**Scott:** Main arena?
+**Scott:** Main stadium?
 
 **Sofia:** Yes.
 
@@ -467,11 +467,11 @@ Friday afternoon, House Apollo’s group chat became active.
 **Enzo:** EVERYONE COME
 
 **Leo:** I'M IN
-**Leo:** i know almost nothing about volleyball strategy but i have lungs and enthusiasm
+**Leo:** if sofia gets carded i'm blaming enzo
 
-**Sofia:** Unfortunately accurate.
+**Sofia:** You say that like I get carded regularly.
 
-Taiga read the messages, decided he did not care about volleyball enough to rearrange a Saturday evening for it, and put the Oracle down.
+Taiga read the messages, decided he did not need another football match badly enough to rearrange a Saturday evening for it, and put the Oracle down.
 
 Two minutes later it buzzed privately.
 
@@ -497,15 +497,11 @@ Then:
 
 **Leo:** obviously
 
-**Leo:** also volleyball is actually fun when you don't understand enough to get mad about tactics
+**Leo:** also i need someone who understands why i'm yelling when their left side gets stranded
 
-**Taiga:** you get mad about tactics in every sport
+**Taiga:** gav understands
 
-**Leo:** EXACTLY
-
-**Leo:** freedom
-
-Taiga smiled.
+**Leo:** gav is too reasonable
 
 **Taiga:** fine
 
@@ -531,9 +527,9 @@ Peace.
 
 Enzo’s sign said:
 
-**SOFIA PLEASE DO THE VOLLEYBALL GOOD**
+**SOFIA PLEASE DO THE SOCCER GOOD**
 
-Sofia saw it during warm-ups. Even from across the arena, Taiga could see her close her eyes.
+Sofia saw it during warm-ups. Even from across the stadium, Taiga could see her close her eyes.
 
 Aaron laughed beside him. “This is why she didn’t want us here.”
 
@@ -549,95 +545,123 @@ Enzo pointed. “Thank you.”
 
 “That was not praise.”
 
-House Apollo occupied half a row behind the home bench. Not officially—nobody had reserved anything—but they had simply arrived in enough numbers that the row became theirs. Leo had an empty seat beside him; Taiga took it, while Aaron sat on his other side.
+House Apollo occupied most of a row in the home stand. Not officially—nobody had reserved anything—but they had simply arrived in enough numbers that the row became theirs. Leo had an empty seat beside him; Taiga took it, while Aaron sat on his other side.
 
-The arena lights were brighter than the soccer stadium, and the floor reflected everything. Shoes squeaked during warm-up while the scoreboard rotated sponsor messages nobody read.
+The floodlights were already on against the early-evening sky. The pitch still held a little dampness from the week, enough that the ball skipped quickly whenever somebody drove a pass across the grass.
 
-Leo leaned toward Taiga. “Okay, I have a confession.”
+Leo leaned toward Taiga. “Okay. Their right side is going to be annoying.”
 
-“What?”
+Taiga looked toward the visitors’ warm-up. “Why?”
 
-“I know the rules.”
+“The winger keeps coming inside and the fullback goes past her every time.”
 
-Taiga looked at him. “You said you didn’t.”
+“So track the overlap.”
 
-“I said I know almost nothing about strategy. I know the rules.”
+“Exactly.”
 
-“That is completely different.”
+Taiga looked at him. “You invited me here so you could do tactical commentary at me.”
 
-“Yes.”
+“I invited you because I enjoy your company.”
 
-“You made it sound like you’d never seen volleyball.”
+Taiga stared.
 
-“I wanted freedom from expectations.”
+Leo smiled. “And because Gav is too reasonable.”
 
-“You’re an asshole.”
+“There it is.”
 
-Leo smiled. “My sister played for two years.”
+The game started.
 
-“Same sister who says you run weird?”
+For the first ten minutes, Taiga watched seriously despite himself. The visitors pressed high, but Olympus kept finding the spare player underneath it. Sofia checked into space, received under pressure and moved the ball before the second defender could close.
 
-“Exactly. She retired from volleyball at fourteen because, according to her, ‘the floor is too hard and everyone screams.’”
+Leo pointed once toward the far side. “There. Their fullback’s too high again.”
 
-“Reasonable.”
+Taiga saw it. “If Sofia turns, the channel’s open.”
 
-“She now does theater.”
+Three seconds later Sofia turned.
 
-“That seems quieter.”
+The pass went into the channel.
 
-Leo stared. Taiga smiled.
+Olympus’s winger reached it first, drove toward the box and cut the ball back.
 
-“Right.”
+Shot.
 
-The game started. For the first set, Taiga watched seriously. Sports were sports, and patterns emerged quickly: serve receive, blocking, coverage, rotations.
+Saved.
 
-Leo, despite claiming strategic ignorance, immediately began pointing things out.
+Enzo stood anyway and lifted the sign.
 
-“Watch their libero. She’s cheating left every time Sofia’s front row.”
+“DO THE SOCCER GOOD!”
 
-Taiga looked. She was. “Why?”
+Sofia looked toward the stands while jogging back into shape.
 
-“Probably because their outside hitter is late closing. She’s covering cross.”
+Even from that distance, the threat was visible.
 
-Taiga turned. “You said no strategy.”
+Gav took the sign away.
 
-“I said almost.”
+Leo was laughing beside Taiga.
 
-“That’s strategy.”
+“Worth coming?”
 
-“I contain multitudes.”
+“It’s been twelve minutes.”
 
-Sofia scored off the block and Apollo’s row exploded. Enzo raised the sign. Leo stood so fast his knee hit the seat in front.
+“That is not a no.”
 
-“YES!”
+The visitors scored first from a corner.
 
-Taiga laughed.
+That stopped being funny.
 
-The second rally was longer. Both teams recovered twice before Sofia dove for a ball near the sideline, one arm under it at the last possible second. The ball stayed alive. Set. Kill. Point.
+Olympus equalized before halftime after Sofia won the ball near midfield and released it early. Two passes later, the ball was in the net.
 
-Leo grabbed Taiga’s forearm with both hands and shook him once. “DID YOU SEE THAT?”
+Leo grabbed Taiga’s forearm with both hands and shook him once. “DID YOU SEE THE FIRST PASS?”
 
 “Yes!”
 
-“She fucking saved that!”
+“She saw it before the press even closed!”
 
 “I KNOW.”
 
 They were both standing. Leo was still holding him, then let go.
 
-“Sports brain.”
+“Sports brain,” Leo said.
 
-“You are literally watching a sport.”
+“You literally play this sport.”
 
 “Exactly. No defense.”
 
-They sat. Ten seconds later Enzo shouted, “DO THE VOLLEYBALL GOOD!”
+They sat.
 
-Sofia missed a serve. Gav took the sign away.
+The second half got worse in the useful way.
+
+One-one made everybody louder. Aaron spent most of it leaning forward with his elbows on his knees. Enzo recovered the sign from Gav and was immediately threatened with physical removal.
+
+With eleven minutes left, Sofia chased a runner all the way back toward her own box, got a foot in cleanly and kept the ball in play. She got up, carried it out herself and started the counter before the visitors had reset.
+
+Taiga stood before he realized he was doing it.
+
+Leo was already up beside him.
+
+Olympus broke three against three.
+
+Pass wide.
+
+Cross low.
+
+Finish.
+
+Two-one.
+
+The home stand exploded.
+
+Somebody hit Taiga from the side. Gav, apparently. Taiga grabbed his shoulder to keep both of them upright while Leo shouted something incomprehensible directly beside his ear.
+
+Enzo lifted the sign over his head like a championship banner.
+
+Sofia pointed at him from the pitch and made a very clear cutting motion across her throat.
+
+Aaron laughed harder than anyone.
 
 ---
 
-Olympus won in four sets. Sofia came up into the stands afterward still wearing her warm-up jacket and immediately hit Enzo with the rolled sign.
+Olympus won two-one. Sofia came up into the stands afterward still wearing her warm-up jacket and immediately hit Enzo with the rolled sign.
 
 “This made things worse.”
 
@@ -653,7 +677,7 @@ Sofia pointed at her. “Thank you.”
 
 Aaron smiled at Sofia with enough obvious pride that Taiga looked elsewhere.
 
-The group spilled out of the arena into cold air. Someone suggested food, nobody knew where, and the next fifteen minutes became a democratic failure. Enzo wanted Taverna; Gav said Taverna would be full. Mia wanted noodles; Scott said the noodle place closed at nine. It was nine-oh-three. Leo suggested the late dining hall and everyone booed.
+The group spilled out of the stadium into cold air. Someone suggested food, nobody knew where, and the next fifteen minutes became a democratic failure. Enzo wanted Taverna; Gav said Taverna would be full. Mia wanted noodles; Scott said the noodle place closed at nine. It was nine-oh-three. Leo suggested the late dining hall and everyone booed.
 
 Taiga stood beside him. “You caused that.”
 
@@ -679,7 +703,7 @@ Taiga looked over. “It was fine.”
 
 “Everyone shouted.”
 
-“You grabbed Gav when Sofia saved that point.”
+“You grabbed Gav when they scored.”
 
 “I did not.”
 
