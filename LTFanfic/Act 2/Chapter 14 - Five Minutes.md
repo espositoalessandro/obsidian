@@ -4,7 +4,7 @@ That seemed unfair.
 
 The first month of university had stretched itself into approximately a year and a half. Every day had contained a new building, a new person, a new rule, some new way to embarrass himself in front of Coach Mercer, Professor Hall or whichever random stranger happened to be standing nearby when Taiga forgot how normal people behaved.
 
-Camp Buddy did not have that problem. It already fit.
+In camp, things were different.
 
 The cabins still smelled like wood and old detergent when the heat came on. The mess hall still had one table that rocked unless somebody folded a napkin under the left leg. The path to the lake still turned to mud after rain in exactly the same places, and Yuki still treated Taiga returning as evidence that she had personally manifested him through force of will.
 
@@ -12,7 +12,7 @@ The first day was quiet, though not empty. Camp Buddy was never completely empty
 
 There were no scouts running between cabins, though. No whistles, no shouting from the lake, no breakfast line, no doors slamming because somebody had forgotten a towel. Winter made the place feel like backstage after the audience had gone home.
 
-Taiga liked it more than he expected. He helped Aiden replace a cracked latch on one of the storage buildings, spent an afternoon with Yoshinori going through old equipment that apparently needed to be sorted into three categories—usable, repairable and “absolutely not, Taiga, that rope is older than you are”—and walked Yuki until Yuki decided snow was edible and had to be physically discouraged. At night, the lodge was quiet enough that the heating pipes became noticeable.
+Taiga liked it. He helped Aiden replace a cracked latch on one of the storage buildings, spent an afternoon with Yoshinori going through old equipment that apparently needed to be sorted into three categories—usable, repairable and “absolutely not, Taiga, that rope is older than you are”—and walked Yuki until Yuki decided snow was edible and had to be physically discouraged. At night, the lodge was quiet enough that the heating pipes became noticeable.
 
 On the second morning, Lloyd spotted him crossing past the maintenance shed and waved both arms like Taiga might otherwise fail to notice him from ten feet away.
 
@@ -62,7 +62,7 @@ Yoichi finally looked over. “Didn't fall, did you?”
 
 Keitaro came in behind him with a suitcase, a camera bag and the expression of someone who had already listened to this argument from the car.
 
-“He almost fell once,” Keitaro said.
+“He almost fell,” Keitaro said.
 
 Hiro spun around. “You said you weren't going to tell them!”
 
@@ -81,8 +81,6 @@ Taiga smiled before either of them reached the table, and Hiro caught him doing 
 Yoichi snorted.
 
 Keitaro dropped his suitcase beside the wall and crossed the room. “Hey.”
-
-No video screen. No gallery crowd. Just Keitaro in the Camp Buddy dining hall again.
 
 Taiga stood, and Keitaro hugged him. Taiga tolerated it for three seconds, then four, before shoving lightly at his shoulder.
 
@@ -142,7 +140,7 @@ Hunter laughed and crouched despite the dog immediately putting both paws on his
 
 Keitaro came around the corner with his camera already in hand. Hunter looked up.
 
-“Don't.”
+“Oh, come on!.”
 
 Click.
 
@@ -208,8 +206,6 @@ Everyone turned toward him. Natsumi smiled.
 
 Yoichi raised a middle finger.
 
-All six of them were in the same room at Camp Buddy for the first time since summer. Keitaro and Hiro had rings now. Hunter had work hanging in galleries. Natsumi had university meets and coaching clinics. Taiga had Olympus. Yoichi somehow knew where Camp Buddy kept the spare fuses.
-
 Then Hiro looked toward the kitchen. “Okay, serious question. Who moved the big cutting board?”
 
 Aiden called from inside, “I did!”
@@ -270,7 +266,7 @@ Yoichi made a gagging sound. Hiro pointed the spoon at him.
 
 “I watched you.”
 
-“Circumstantial.”
+“Not proof.”
 
 Natsumi, seated beside Hunter at the long table, said calmly, “I also watched you.”
 
@@ -286,7 +282,7 @@ Yoshinori looked suspicious. “That was considerably faster than expected.”
 
 Keitaro smiled. “We haven't been inside since summer.”
 
-Yoshinori's expression softened. “Ah.”
+Yoshinori's expression softened. “Fair.”
 
 Yoichi groaned. “Here we go.”
 
@@ -298,51 +294,14 @@ Cabin Three stood exactly where Taiga remembered it. Yoichi unlocked the door.
 
 Hiro shoved past him. “Nobody's crying. Move.”
 
-The door opened onto cold air, wood, dust and old mattresses stacked upright for winter. For one second nobody spoke. Then Hiro stepped inside and the floorboard squeaked.
-
-Taiga laughed immediately.
-
-Hiro stopped, looked down, then at Taiga. “No.”
-
-Taiga was already laughing harder. “Still got you.”
-
-“That floor hates me personally.”
-
-Keitaro leaned against the doorway, grinning. “You stepped on it every night.”
-
-“Because it is in the middle of the room!”
-
-“It is not,” Natsumi said.
-
-Hiro turned. “Do not join them.”
-
-Natsumi looked at the floor. “It's approximately one meter from the wall.”
-
-“I said don't join them!”
-
-Hunter laughed. Yoichi walked directly over the board without making it squeak.
-
-Hiro stared. “How did you do that?”
-
-“Skill.”
-
-“You weigh more than I do!”
-
-“Skill.”
-
-Taiga kicked the edge of the board. Squeak.
-
-Hiro pointed at it as if presenting evidence in court. “See?! Defective.”
-
 They were supposed to collect blankets. It took forty minutes.
-
 Keitaro found a bent Camp Buddy badge behind one of the bunks. Hunter found an old sketchbook page folded behind the storage bench; the paper had gone soft at the creases, and most of the pencil had smudged into gray ghosts.
 
 He unfolded it carefully. “Oh.”
 
 Natsumi leaned closer. “Is that yours?”
 
-Hunter's ears pinked. “I think so. It's the campfire circle.”
+Hunter's ears pinked. “I think so. It's the campfire circle for the fundraising poster.”
 
 Yoichi looked over his shoulder. “Looks like a bunch of rocks.”
 
@@ -376,7 +335,7 @@ Hiro took the sign from Natsumi. “They kept this? Why would anyone keep this?�
 
 “Child labor.”
 
-“We were nineteen.”
+“We were eighteen.”
 
 “Still felt illegal.”
 
@@ -390,7 +349,7 @@ Natsumi brushed dust from one corner. “The fundraiser did work.”
 
 Keitaro pointed at the sign. “Aiden did half the sales pitch.”
 
-Hiro's face tightened. “He scared people into buying six boxes at a time.”
+Hiro's face tightened. “He flirted people into buying six boxes at a time.”
 
 “He called it aggressive hospitality.”
 
@@ -398,8 +357,7 @@ Hiro's face tightened. “He scared people into buying six boxes at a time.”
 
 Yoichi snorted. “That was extortion with sprinkles.”
 
-Taiga smiled. The fundraiser had come immediately after the journal: smoke, Eduard's hand across his face, Keitaro refusing to hit him even when Taiga practically begged him to; then green boxes and cookies and all of them trying to keep Camp Buddy open.
-
+Taiga smiled. 
 Hiro looked down at the sign, his expression shifting slightly. “...That was a weird week.”
 
 “Understatement,” Taiga said.
@@ -474,27 +432,10 @@ Later that afternoon, Keitaro wanted photographs of the lake. Of course he did.
 
 The winter sun had dropped low enough to turn everything pale gold, and without summer leaves the water was visible between the trees from halfway across camp. Hiro came because Keitaro was going; Hunter because the light was apparently “actually kind of ridiculous”; Natsumi because everyone else was already putting coats on; Yoichi because, according to him, somebody had to make sure they didn't walk onto rotten boards and die. Taiga came because he was already standing by the door when the decision happened.
 
-They took the path toward the lake. The beach looked wrong in winter: no towels, no inflatable toys, nobody yelling because Yoichi had splashed them. Just wet sand, dark water and a thin line of ice clinging to the shaded edge near the rocks.
-
-Hiro stopped beside the path. “Okay, this is deeply cursed.”
-
-Natsumi looked at him. “The beach?”
-
-“Yes. Beaches are supposed to be hot.”
-
-“That is not how geography works.”
-
-“I don't care. Fix it.”
-
-Natsumi smiled. “I'll submit a request.”
-
-Keitaro took three photographs while they argued. Then they reached the dock.
-
+They reached the dock.
 Taiga stopped. One foot simply failed to take the next step.
 
-Two boards near the end were newer than the rest. The posts had been resealed, and somebody had replaced one warped edge with fresh timber that still looked too clean. For one ugly second Taiga could smell paper burning—not wood, paper—and see orange crawling across handwritten pages.
-
-Keitaro's journal.
+Two boards near the end were newer than the rest. The posts had been resealed, and somebody had replaced one warped edge with fresh timber that still looked too clean. For one ugly second Taiga felt his stomach clenching.
 
 “Dynamite?”
 
@@ -509,154 +450,102 @@ Taiga started walking again. The others spread along the dock: Hiro immediately 
 Eventually Hiro decided his ears were freezing off and announced that he was going back before he became “the first culinary student to lose both ears to nostalgia.” Natsumi told him that was not how frostbite worked; Hiro said the distinction would comfort him tremendously when his ears fell into his soup. Hunter laughed and followed, while Yoichi went with them after one glance at Taiga that was subtle only by Yoichi standards.
 
 Keitaro remained at the end of the dock with his camera hanging against his chest. Taiga remained too.
-
-For nearly a minute neither of them spoke.
+Last summer, the didn't talk at all about what happened there. For nearly a minute neither of them spoke.
 
 Then Taiga said, “I still fucking hate this place.”
-
-Keitaro looked around at the lake. “The whole camp?”
-
-“The dock.”
-
-“Oh.”
 
 “Yeah.”
 
 Taiga looked at him. “That's all?”
 
-“What do you want me to say?”
+Keitaro smiled. “I'm trying not to do the thing where I say too much and you tell me to shut up.”
 
-“I don't know.”
+"I can see the fight happening inside you."
 
-Keitaro adjusted the camera strap. “I don't think about it every time I come down here, if that's what you're wondering.”
+Keitaro laughed, "Hey! You kept telling me that I worry too much and then talk too much!"
 
-Taiga looked back at the water. “I wasn't.”
+"Can't believe my lessons sticked."
 
-“Okay.”
+“Well, time has passed, hasn't it?”
 
-A few seconds passed before Keitaro asked, “Do you?”
+"Yeah."
 
-Taiga clicked his tongue. “Sometimes.”
+Keitaro smiled. After a few seconds, he continued
 
-Keitaro nodded, and Taiga waited for more. Nothing came.
+"Taiga?"
 
-“Jesus Christ, say something.”
+"What?"
 
-Keitaro laughed softly. “I'm trying not to do the thing where I say too much and you tell me to shut up.”
+"Do you... still think about that day?"
 
-“You're already doing it.”
+Taiga exhaled and looked at the pier. “...Yeah, sometimes”
 
-“Fair.”
+Keitaro waited.
 
-The lake moved beneath them. Taiga stared at the newer boards.
+"Your face, when I burned your journal. There are times when it just comes up in my mind and won't go away."
 
-“I don't know what the fuck I thought was going to happen. I'd been caught. Eduard and Lee were done with me. Everyone knew I'd framed you with that stupid photo. Goro wanted somebody's head. Yoshinori looked at me like he didn't even know what to do with me anymore.” His hands tightened inside his pockets. “And then I took your journal because apparently ruining one thing wasn't enough.”
+“But I already told you that I forgave you.”
 
-Keitaro's expression tightened slightly.
+"I know, but that doesn't erase what I did to you."
 
-“I kept waiting for you to hit me.”
+"No, it doesn't, but-"
 
-“You practically asked me to.”
+"Sometimes I fear that I'll eventually fall again for it. As if there's a part of me that's sick and one day will come back"
 
-“I know.”
+Keitaro looked at him, "Taiga..."
 
-“You were not making especially rational requests that day.”
+"What if it's true? What if I end up hurting someone else because I can't fucking cope with my own shit?"
 
-“No shit.”
+Keitaro smiled gently. Taiga hated that smile. 
 
-A small smile touched Keitaro's mouth and disappeared. Taiga looked toward the end of the dock.
+"Then you'll simply do the same thing you did with me."
 
-“Eduard had the right idea.”
+"Burn their stuff? Or try to frame them with a picture?"
 
-“The slap?”
+"No, apologize and make up for it."
 
-“Yeah.”
+Taiga kept looking at him. Keitaro continued
 
-“He hit you *really* hard.”
+"Nobody's perfect Taiga, eventually we all end up hurting someone. I did too, with Hiro."
 
-“I deserved it.”
+"You did?"
 
-“I was trying very hard not to say that.”
+"Yeah. I was careless with his feelings, I took him for granted."
 
-“Coward.”
+"It's not the same."
 
-Keitaro laughed, and Taiga exhaled before adding, quieter, “That was the first time I realized I sounded exactly like the people I'd spent a year being angry at.”
+"No, It's not. Doesn't mean that what happens next is different, though."
 
-Keitaro said nothing.
+"You could have not forgiven me. I don't know if I'd have chosen to make it up for you if you ended up hating me."
 
-“I came back that summer thinking I could fix everything if I just proved I deserved to be here. Then you showed up and everybody liked you immediately, and I decided that meant there was less room for me.”
+"It wasn't me that smacked some sense in you, though."
 
-Keitaro leaned one hip against the railing. “I remember.”
+Taiga looked down, still feeling his cheek burning from Ed's slap.
+Keitaro put a hand on his shoulder.
 
-“Yeah. Because I explained it after setting your fucking journal on fire. Great communication strategy.”
+"Trust your friends. When you feel like you can't trust yourself, trust them."
 
-“That part could've been better.”
+Taiga raised his eye and looked at him.
 
-Taiga laughed despite himself, then stopped. “You should've hated me.”
+"How can my friends trust me, though?"
 
-Keitaro looked at him for a long moment. “I was angry.”
+"If they didn't they wouldn't be your friends, Taiga."
 
-“I know.”
+Keitaro took a deep breath and let go of his shoulder. 
 
-“Really angry.”
+"Look, everyone choose how and when to trust people differently. Sometimes, they trust you until you disappoint them. Other times, they don't trust you until you've proven reliable enough. You can't force someone to trust you. All you can do, is give them reasons to do it."
 
-“I know.”
+Then he continued.
 
-“And losing the journal hurt. A lot.”
+"For what it's worth, you gave me plenty of reasons to trust you. And I believe that you did it for your friends at university too. You are not a hard person to love, Taiga."
 
-Taiga's stomach tightened. Keitaro looked toward the repaired boards.
+That last sentence hit something Taiga couldn't exactly identify. It hurt. But it also made him feel better somehow. Still couldn't bring himself to say anything.
 
-“But that's not the last thing I remember about that night.”
+Keitaro looked down at his camera. “I still have it, you know. Your diary.”
 
-Taiga frowned. “What is?”
+Taiga smiled. “Of course you do.”
 
-“You asking me not to leave.”
-
-Taiga looked away. “That's worse.”
-
-Keitaro smiled. “I know.”
-
-“Asshole.”
-
-“And then you told me the truth.”
-
-“Eventually.”
-
-“You cried.”
-
-“I'm pushing you into the lake.”
-
-“I cried too!”
-
-“That does not improve this.”
-
-Keitaro laughed again. Taiga looked at the water so Keitaro could not see whatever his face was doing.
-
-After a moment Keitaro said, “And then you gave us your journal.”
-
-“It was barely used.”
-
-“It was still yours.”
-
-“I'd written like six pages.”
-
-“You'd also apparently memorized half of mine because you'd been sneaking into our cabin to read it.”
-
-Taiga closed his eyes. “Can we not revisit every crime?”
-
-“That one helped.”
-
-“Still a crime.”
-
-“Probably.”
-
-They had rebuilt it. Not perfectly—there was no way to recover every photograph or every sentence the fire had eaten—but Taiga had remembered more than he wanted to admit, and the others remembered pieces too. Stories, dates, pictures, stupid details. They had used Taiga's mostly empty journal as the beginning of a replacement.
-
-Keitaro looked down at his camera. “I still have it, you know.”
-
-Taiga turned. “The replacement?”
-
-“Of course. The binding is terrible now. Hiro says I should stop opening it because some of the pages are coming loose, so it's in a box with the old photos. But yeah. I still have it.”
+“The binding is terrible now. Hiro says I should stop opening it because some of the pages are coming loose, so it's in a box with the old photos. But yeah. I still have it.”
 
 Taiga nodded. “Good.”
 
@@ -666,19 +555,12 @@ After a pause Keitaro said, “Hiro is going to complain if we don't go back soo
 
 “True.”
 
-Keitaro lifted the camera. Taiga narrowed his eyes.
-
-“Lake.”
-
-“I know.”
-
-The shutter clicked. They went back together.
-
+Keitaro lifted the camera. The shutter clicked, then he turned and they went back together.
 Taiga still hated the dock.
 
 ---
 
-On New Year's Eve, Yuri decided the dining hall looked depressing. This became everyone else's problem.
+On New Year's Eve, Yuri decided the mess hall looked depressing. This became everyone else's problem.
 
 By four in the afternoon, strings of warm lights hung between beams, paper decorations had appeared along the windows, and Yuri had recruited Hunter into painting a sign despite Hunter repeatedly explaining that being an art student did not mean he had become a sign-printing service.
 
@@ -706,9 +588,7 @@ Aiden hopped down. “See? Safety culture. Strong leadership.”
 
 Goro closed his eyes briefly.
 
-Taiga carried another box past them. He had somehow become responsible for extension cables; nobody remembered deciding this. His Oracle buzzed in his pocket, but he ignored it until the cable was plugged in and then checked.
-
-Leo.
+Taiga carried another box past them. He had somehow become responsible for extension cables; nobody remembered deciding this. His phone buzzed in his pocket, but he ignored it until the cable was plugged in and then checked.
 
 **Leo:** important update
 
@@ -722,34 +602,41 @@ Taiga stared at the picture. Somebody's hand was visible behind Leo's head addin
 
 The reply arrived immediately.
 
-**Leo:** FUCK YOU
+**Leo:** FUCK YOU 😭
 
 Then:
 
 **Leo:** camp good?
 
-Taiga looked around. Yuri was still directing Hunter's sign, Hiro was arguing with Aiden about oven temperature, Natsumi had somehow ended up helping Yoshinori count folding chairs, Yoichi was untangling a string of lights while swearing at it, and Keitaro was photographing everybody.
+Taiga looked around. Yuri was still directing Hunter's sign, Hiro was arguing with Aiden about oven temperature, Natsumi had somehow ended up helping Yoshinori count folding chairs, Yoichi was untangling a string of lights while swearing at it, and Keitaro was trying to help him.
 
-Taiga walked to the doorway. Outside, evening had begun turning the snow blue. He took a picture of the dining hall from outside, warm windows glowing between dark trees, and sent it.
+Taiga walked to the doorway. Outside, evening had begun turning the snow blue. He took a picture of the mess hall from outside, warm windows glowing between dark trees, and sent it.
 
 There was a longer pause this time.
 
 **Leo:** okay wow
-
-**Leo:** that's actually gorgeous
-
-Then:
-
+**Leo:** that's actually pretty
 **Leo:** is that THE camp or am i looking at some random building and embarrassing myself
 
-**Taiga:** dining hall
+**Taiga:** mess hall
 
-**Leo:** show me your cabin
+**Leo:** coooool
+**Leo:** i wanna see your cabin
+
+Taiga paused a second
+
+**Taiga:** why
+
+**Leo:** isn't camping all about sleeping in a wild place?
+
+**Taiga:** not really
+
+**Leo:** but it's an important part
+**Leo:** come oooon i'm curious
 
 Taiga looked across the clearing at Cabin Three, walked over and took one photograph from outside.
 
 **Leo:** no fucking way
-
 **Leo:** you spent summers in there??
 
 **Taiga:** unfortunately
@@ -768,12 +655,6 @@ Taiga laughed once through his nose.
 
 **Taiga:** idiot
 
-**Leo:** happy new year camp boy
-
-Taiga stared at that one before typing:
-
-**Taiga:** you too
-
 He went back inside.
 
 At eleven-thirty, everybody moved outside. Goro objected to the temperature, Yuri told him he had survived colder, Goro said survival was not evidence of good judgment, and Aiden produced blankets anyway.
@@ -788,7 +669,7 @@ They gathered near the old campfire circle rather than the lake because the path
 
 Hiro looked personally insulted. “Because flavor exists.”
 
-“Ruined it.”
+“You ruined it.”
 
 “Then don't drink it.”
 
@@ -828,11 +709,11 @@ Yoichi immediately said, “I'm not doing a fucking family portrait.”
 
 Hiro grabbed his sleeve. “Get over here, Wolfboy.”
 
-“Let go.”
+“Let go Torch-heaed.”
 
 “No.”
 
-“Torch-head.”
+“Fuck you.”
 
 “You can insult me from the picture.”
 
@@ -872,33 +753,34 @@ The second attempt worked. Keitaro looked at the photograph for longer than nece
 
 Natsumi came closer, Hunter too. Yoichi remained exactly where he was until Yuki wandered over and leaned against his leg.
 
-Taiga looked at the image on Keitaro's screen: six of them, campfire behind, cabins dark beyond the trees. Keitaro and Hiro had rings now. Hunter wore his hair differently. Natsumi's shoulders were broader from swimming. Yoichi looked exactly like somebody who had been threatened into standing in a photograph.
-
+Taiga looked at the image on Keitaro's screen: six of them, campfire behind, cabins dark beyond the trees.
 Taiga looked fine.
 
 At 11:59, Hiro started counting down too early. Natsumi corrected him, Hiro accused the clock of lagging, Yoichi told both of them to shut up, and Yuri began counting at ten anyway. Everyone joined. Even Goro.
 
 At zero, Hiro shouted louder than necessary. Yuri hugged Goro, Aiden clapped Yoshinori on the shoulder, Keitaro kissed Hiro, Hunter smiled at the fire, Natsumi wished everyone a happy new year in a voice somehow audible beneath the chaos, and Yoichi yelled, “Yeah, yeah, happy fucking calendar!”
 
-Taiga laughed. His Oracle vibrated in his pocket.
-
-Leo.
+Taiga laughed. His phone vibrated in his pocket.
+All his group chats were going off at the same time, with everybody wishing happy new year.
+The Apollo team had already 17 notifications. He opened it. Everyone had sent their wishes. Leo with a stupid photo, of course.
+Taiga locked his phone. He'll deal with them later.
+Then his phone vibrated once more. Private message.
 
 **Leo:** HAPPY NEW YEAR FORTY-ONE
-
-Then:
-
 **Leo:** resolution idea: you stop telling me to die
 
 Taiga typed:
 
 **Taiga:** die
 
-Leo reacted with a sun almost instantly.
+**Leo:** fine, i respect the determination
 
-**Leo:** consistency. respect
+Taiga smiled
 
-Taiga put the Oracle away and went back to the fire.
+**Taiga:** happy new year dork
+
+Leo reacted immediately with a heart.
+He put the phone away and went back to the fire.
 
 ---
 
@@ -914,11 +796,7 @@ Keitaro lowered the camera. “Yeah?”
 
 Yoichi scratched the back of his neck. “Send the fire one.”
 
-Keitaro's expression softened. “I already did.”
-
-“Not the compressed shit. Full one.”
-
-Keitaro smiled. “Okay.”
+Keitaro's expression softened. “Sure!”
 
 Yoichi looked away. “And don't make it weird.”
 
@@ -930,11 +808,11 @@ Yoichi looked away. “And don't make it weird.”
 
 “Fuck off.”
 
-Hiro hugged Yoichi before he could escape. Yoichi called him three different names and did not actually push him away.
+Hiro hugged Yoichi before he could escape. Yoichi threatened in three different ways and did not actually push him away.
 
 Then the car left, and the camp became quiet again.
 
-Taiga stayed until the end of the week. He helped around camp, read some of next semester's course material and immediately regretted it, walked Yuki and argued with Yoichi. Over the week, he got occasional messages from Nora complaining about her family, from Caleb reporting that Maya had beaten him at a board game he claimed involved no meaningful strategy, and from Leo, who sent photographs without context often enough that Taiga stopped asking why: a broken mug, a street covered in slush, a terrible sandwich.
+Taiga stayed until the end of the week. He helped around camp, read some of next semester's course material and immediately regretted it, walked Yuki and argued with Yoichi. Over the week, he got occasional messages from Nora complaining about her family, from Caleb reporting that Maya had beaten him at a board game he claimed involved no meaningful strategy, and from Leo, who had started sending photographs without context often enough that Taiga stopped asking why: a broken mug, a street covered in slush, a terrible sandwich.
 
 One message at 1:12 in the morning simply read:
 
@@ -944,11 +822,7 @@ Taiga replied the next morning:
 
 **Taiga:** devastating
 
-Leo sent:
-
 **Leo:** thank you for your support in this difficult time
-
-No calls. No dramatic conversations. Just messages.
 
 At the end of the week, Taiga stood on the platform with one suitcase, one backpack and Yuki attempting to climb onto the train with him.
 
@@ -1000,15 +874,11 @@ He lifted it anyway. Taiga let him.
 
 ---
 
-The remaining two weeks of break passed with family.
-
 When Taiga returned to Olympus, it looked smaller. Not physically—the tower remained obnoxiously tall, the Academic Zone still contained enough pale stone to build a medieval city, and his residence hall still required three separate turns from the station even though Taiga knew perfectly well where it was—but the campus no longer expanded in his head every time he looked at it.
 
-He knew where things ended now. He knew which paths mattered, which doors stuck in cold weather, that the central kiosk would reopen at seven tomorrow and the smaller dining hall would probably have soup because Monday was soup day. He knew room 317 would smell faintly like Caleb's laundry detergent because Caleb always came back from home with everything aggressively washed.
+He knew where things ended now. He knew which paths mattered, which doors stuck in cold weather, that the central kiosk would reopen at seven tomorrow and the smaller dining hall would probably have soup because Monday was soup day. 
 
-He was correct.
-
-Taiga opened the door at four-twenty and found Caleb kneeling beside the mini-fridge with a thermometer in one hand.
+Taiga opened the room 317 door at four-twenty and found Caleb kneeling beside the mini-fridge with a thermometer in one hand.
 
 “Of course.”
 
@@ -1058,7 +928,7 @@ Caleb stood. “Mostly. Maya came for New Year. My mother asked about graduate s
 
 Caleb put the thermometer on the shelf, then looked at Taiga's suitcase.
 
-“Camp Buddy?”
+“How was Camp Buddy?”
 
 “Still there.”
 
@@ -1082,9 +952,7 @@ Soccer resumed Tuesday. Training was training: cold, wet, and forty minutes of T
 
 Mercer told everybody they looked like they had eaten too much over break. Enzo accused him of profiling; Mercer told Enzo specifically that he had eaten too much over break, and Enzo admitted this was true.
 
-They ran. They played. Taiga got nutmegged once and successfully pretended it had not happened. Nobody received a life-changing opportunity, nobody announced a roster, and no existential crisis occurred.
-
-Excellent.
+They ran. They played. Taiga got nutmegged once and successfully pretended it had not happened. 
 
 The locker room afterward was nearly empty by the time Taiga finished showering. He had stayed under the hot water longer than necessary because the walk back to Residence was going to be miserable and heat was currently free.
 
@@ -1130,7 +998,7 @@ Taiga already regretted participating. “What?”
 
 Taiga stared. “You want me to put it on you.”
 
-“Yeah?”
+Leo blinked, “Yeah?”
 
 Taiga held out his hand. “Turn around.”
 
@@ -1144,7 +1012,7 @@ Leo gathered it forward with one hand. Taiga found the clasp—tiny hook, tiny l
 
 Leo went still. Taiga's hand stopped too.
 
-“You good?” Leo asked.
+“Everything good?” Leo asked.
 
 “Yeah.”
 
@@ -1156,13 +1024,15 @@ The necklace dropped, and Taiga lunged for it before it could hit the floor. His
 
 It hit the floor.
 
-Leo turned at the sudden movement and froze. His gaze dropped and snapped upward so quickly it barely counted as movement.
+Leo turned at the sudden movement and froze. His eyes were met with Taiga's nakedness basically 20 centimeters away.
+
+"Oh-"
+
+He turned back with the same speed
 
 Taiga grabbed the towel from the floor and wrapped it back around his waist. “Fuck.”
 
-Leo turned away.
-
-For several seconds neither spoke. Then Leo, still facing the lockers, asked, “Did you catch it?”
+For a few seconds neither spoke. Then Leo, still facing the lockers, asked, “Did you catch it?”
 
 Taiga looked at the chain still clenched in his hand. “Yeah.”
 
@@ -1172,6 +1042,7 @@ Taiga stepped behind him again. “Stay still.”
 
 “Trying.”
 
+Leo's ears were definitely red. Taiga's face, though, was probably redder.
 This time the clasp closed.
 
 “Done.”
@@ -1186,13 +1057,19 @@ A few seconds later Leo said, “For the record, I blame the necklace.”
 
 Taiga looked over. “For what?”
 
-“All of that.”
+“Uh, for flashing me?”
+
+Taiga felt the heat coming back again.
+
+"I didn't flash you."
+
+"I know, that's why I blamed the necklace!"
 
 Taiga stared at him, then laughed once. “Fine.”
 
 Leo smiled, still visibly embarrassed. “Excellent. Official cause established.”
 
-They finished dressing. Neither mentioned it again.
+They finished dressing.
 
 ---
 
@@ -1238,17 +1115,15 @@ Aaron reacted with a laughing face.
 
 **Enzo:** censorship
 
-**Mia:** deserved
+**Scott:** deserved
 
 Then Leo:
 
-**Leo:** i support artistic freedom but also she is right that remix was a crime
+**Leo:** i support artistic freedom but also he is right that remix was a crime
 
 **Enzo:** traitors everywhere
 
-Taiga read the messages while sitting in the library. His Oracle buzzed privately.
-
-Leo.
+Taiga read the messages while sitting in the library. His phone buzzed privately.
 
 **Leo:** you coming tonight?
 
@@ -1269,7 +1144,6 @@ Then, immediately:
 **Taiga:** what materials
 
 **Leo:** haven't decided yet
-
 **Leo:** charts maybe
 
 **Taiga:** don't
@@ -1322,7 +1196,7 @@ Enzo frowned. “This is why nobody invites engineers to joy.”
 
 Taiga smelled the cup. Mostly fruit. He took a small drink, found it too sweet, and kept it anyway.
 
-Aaron was near the kitchen talking to Sofia. Gav sat on the arm of a couch with the expression of someone who had already decided when he was leaving. Scott was playing cards with two people from track, Mia stood beside the window arguing with another CS student about whether a game counted as strategy if the correct strategy was obvious, and Leo was near the center of the room talking to three people from volleyball and somebody Taiga recognized vaguely from the library. Dark green sweater, silver chain visible at the collar.
+Aaron was near the kitchen talking to Sofia. Gav sat on the arm of a couch with the expression of someone who had already decided when he was leaving. Scott was playing cards with two people from track, Mia stood beside the window arguing with another CS student about whether a game counted as strategy if the correct strategy was obvious, and Leo was near the center of the room talking to three people from volleyball and somebody Taiga recognized vaguely from the library. Dark green sweater, that silver chain visible at the collar.
 
 Leo saw him and lifted one hand over the crowd. Taiga lifted his cup back, then Leo returned to the conversation and Taiga went toward Aaron.
 
@@ -1342,7 +1216,7 @@ Then someone called Leo from across the room and he disappeared again. Later, a 
 
 At ten-fifteen, the room became louder without the music changing. More people had arrived, the heat had built, and someone had opened the kitchen window despite snow outside. Taiga's social battery, which had apparently been issued at forty percent capacity, reached zero.
 
-He did not announce it. He simply left the lounge.
+He did not announce it. He simply left the lounge. He didn't went back to the room, though.
 
 The upstairs hall was quieter. He passed the empty film room and reached the small balcony door at the end of the corridor, which stood slightly open with cold air moving through the gap. Taiga pushed it wider and stopped.
 
