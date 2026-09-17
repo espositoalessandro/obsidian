@@ -631,7 +631,7 @@ Taiga looked across the room. Ethan was introducing himself while Leo listened w
 
 **Taiga:** you've known him for twelve seconds
 
-**Leo:** exactly
+**Leo:** exactly. very suspicious
 
 Taiga put the phone face down before Owen noticed.
 
@@ -680,6 +680,12 @@ Later, his phone buzzed under the desk.
 **Leo:** finally some institutional support
 
 Taiga locked the phone and went back to the assignment.
+
+After a while, 
+
+**Taiga:** this guy puts the opening curly brace of the function on a new line
+
+**Leo:** he needs therapy
 
 ---
 
