@@ -410,8 +410,6 @@ Sometimes Taiga sent first.
 
 **Taiga:** your stupid test case caught a bug
 
-Leo replied immediately.
-
 **Leo:** so proud of him 🥹
 
 Then:
@@ -466,10 +464,10 @@ Friday afternoon, House Apollo’s group chat became active.
 
 **Enzo:** EVERYONE COME
 
-**Leo:** I'M IN
+**Leo:** i'm in
 **Leo:** i know almost nothing about volleyball strategy but i have lungs and enthusiasm
 
-**Emma:** Unfortunately accurate.
+**Emma:** 😂😂😂😂.
 
 Taiga read the messages, decided he did not care about volleyball enough to rearrange a Saturday evening for it, and put the phone down.
 
@@ -516,9 +514,6 @@ Taiga smiled.
 The reply came instantly.
 
 **Leo:** YES
-
-Then:
-
 **Leo:** 6 at apollo?
 
 **Taiga:** why 6 if it starts 6:30
@@ -577,7 +572,7 @@ Taiga looked at him. “You said you didn’t.”
 
 “You’re an asshole.”
 
-Leo smiled. “My sister played for two years.”
+Leo grinned. “My sister played for two years.”
 
 “Same sister who says you run weird?”
 
@@ -594,7 +589,6 @@ Leo stared. Taiga smiled.
 “Right.”
 
 The game started. For the first set, Taiga watched seriously. Sports were sports, and patterns emerged quickly: serve receive, blocking, coverage, rotations.
-
 Leo, despite claiming strategic ignorance, immediately began pointing things out.
 
 “Watch their libero. She’s cheating left every time Emma’s front row.”
@@ -607,13 +601,13 @@ Taiga turned. “You said no strategy.”
 
 “I said almost.”
 
-“That’s strategy.”
+“You've betrayed me twice in 10 minutes.”
 
-“I contain multitudes.”
+"It served a higher purpose."
 
 Emma scored off the block and Apollo’s row exploded. Enzo raised the sign. Leo stood so fast his knee hit the seat in front.
 
-“YES!”
+“YES! Also, ouch.”
 
 Taiga laughed.
 
@@ -625,7 +619,7 @@ Leo grabbed Taiga’s forearm with both hands and shook him once. “DID YOU SEE
 
 “She fucking saved that!”
 
-“I KNOW.”
+“I KNOW. Stop harrassing my arm.”
 
 They were both standing. Leo was still holding him, then let go.
 
@@ -637,7 +631,7 @@ They were both standing. Leo was still holding him, then let go.
 
 They sat. Ten seconds later Enzo shouted, “DO THE VOLLEYBALL GOOD!”
 
-Emma missed a serve. Gav took the sign away.
+Emma missed a serve. Gav grabbed him by covering his mouth and forced him on the chair.
 
 ---
 
@@ -657,16 +651,15 @@ Emma pointed at her. “Thank you.”
 
 The group spilled out of the arena into cold air. Someone suggested food, nobody knew where, and the next fifteen minutes became a democratic failure. Enzo wanted Taverna; Gav said Taverna would be full. Mia wanted noodles; Scott said the noodle place closed at nine. It was nine-oh-three. Leo suggested the late dining hall and everyone booed.
 
-Taiga stood beside him. “You caused that.”
+Taiga stood beside him. “You asked for that.”
 
-“I offered infrastructure.”
+“I offered a safe infrastructure.”
 
 “You offered dining hall food after a win.”
 
-“I panicked.”
+“Fine. I panicked.”
 
 Eventually Emma chose a burger place near Central Park. Decision achieved.
-
 They walked, the group stretching across half the sidewalk. Leo started beside Taiga, got pulled forward by Enzo, fell back to talk to Emma, and two blocks later was beside Taiga again.
 
 “You had fun,” Leo said.
@@ -711,8 +704,6 @@ Taiga heard the rest of the sentence a fraction late.
 
 *He.*
 
-Leo had said it without hesitation, without looking at him, like it was no more significant than anything else they had been talking about.
-
 “Sounds exhausting,” Taiga said.
 
 “It was.” Leo laughed once. “Enzo’s problem is mostly that he has no shame.”
@@ -723,7 +714,7 @@ Then Leo said, “You seeing anyone?”
 
 Taiga looked at him. “Why?”
 
-Leo nodded toward Enzo. “Apparently we’re discussing everybody’s romantic disasters now.”
+Leo nodded toward Enzo. “Curiosity. Apparently we’re discussing everybody’s romantic disasters now.”
 
 “No.”
 
@@ -733,29 +724,19 @@ Leo waited.
 
 “Oh.”
 
-Leo looked ahead again.
+Leo looked ahead again. Then after a minuted continued
 
 “Anyway. You free tomorrow?”
 
 “Why?”
 
-Leo shrugged. “I have to finish the Data Structures write-up and if I do it alone I’m going to procrastinate until midnight. Library?”
+Leo shrugged. “I have to finish the Data Structures write-up and if I do it alone I’m going to procrastinate until midnight. Computer lab?”
 
-“Yes.”
+“Alright.”
 
 Leo blinked once, then smiled. “Cool. Two?”
 
 “Fine.”
-
-“Fourth floor?”
-
-“Computing lab.”
-
-“Mechanical keyboard hell?”
-
-“You’ll survive.”
-
-“Debatable.”
 
 They reached the restaurant, where the others were already crowding around two tables.
 
@@ -763,7 +744,7 @@ They reached the restaurant, where the others were already crowding around two t
 
 Sunday at two became Sunday at two-oh-nine because Leo arrived carrying two coffees and an apology.
 
-“I got trapped.”
+“Sorry, I got trapped.”
 
 “By what?”
 
@@ -797,15 +778,13 @@ Taiga picked up the cup. “Thanks.”
 
 “I can also possess eyes.”
 
-Taiga drank. Black. Nothing added.
-
 Leo opened the assignment. “Okay. We need to write the complexity explanation and then I am free from linked-list oppression forever.”
 
 “Until the exam.”
 
 “Why would you say that?”
 
-“Reality.”
+“To keep you in reality.”
 
 “Cruel.”
 
@@ -817,7 +796,7 @@ Leo leaned back. “Good.”
 
 “Good.”
 
-Outside the computing lab, rain had started—gray against the windows, not snow. Leo spun his pen once between his fingers and dropped it.
+Outside the computing lab, rain had started—gray against the windows. Leo spun his pen once between his fingers and dropped it.
 
 “Fuck.”
 
@@ -851,15 +830,19 @@ Taiga snorted. “Why me?”
 
 Taiga looked toward the rain streaking the windows.
 
-“Don’t turn everything into a strategy.”
+“I guess just... don’t turn everything into a strategy.”
 
 Leo’s thumbs paused over the screen.
 
 “And if something’s wrong, actually say it before it gets worse.”
 
-Leo lowered the Oracle slightly. “Specific.”
+Leo lowered the phone slightly. “Very specific.”
 
-Taiga rubbed his thumb along the edge of the coffee cup.
+Taiga shrugged, "Well, I don't have a fixed time under which you don't look desperate."
+
+Leo started typing, then said "Sounds like the kind of wisdom you get after bad experiences."
+
+Taiga rubbed his thumb along the edge of the coffee cup. Bad memories slowly surfacing again.
 
 “There was a guy. A while ago.”
 
@@ -873,15 +856,15 @@ Taiga gave a short laugh without much humor. “Yeah.”
 
 A pause.
 
-“We were both pretty bad at it.”
+“Your fault or his fault?.”
 
-Leo nodded once. “That’ll do it.”
+Taiga put on a sarcastic smile, “Yes.”
+
+"Fair."
 
 Taiga looked back at the rain.
 
-Leo didn’t ask his name.
-
-A few seconds later, he spun the pen between his fingers.
+A few seconds later, Leo spun the pen between his fingers.
 
 “Important question.”
 
@@ -889,7 +872,7 @@ Taiga looked at him.
 
 “If you had to fight one animal your own body weight, what’s the best option?”
 
-Taiga stared. “Why?”
+Taiga stared. “What? Why?”
 
 “I saw a post.”
 
@@ -905,7 +888,7 @@ Taiga looked back at his laptop. “No.”
 
 “Coward.”
 
-“You fight a seventy-kilo animal.”
+“You fight a sixty-kilo animal.”
 
 “I’m choosing multiple raccoons.”
 
@@ -953,7 +936,7 @@ Taiga started laughing, and Leo looked delighted with himself.
 
 The conversation wandered through animals, geese as psychological warfare, the worst thing Enzo had ever cooked, mustard, a game Leo’s sister was obsessed with, and whether Caleb would survive a zombie apocalypse. Taiga argued that Caleb would survive indefinitely; Leo argued Caleb would die because he would stop to categorize supplies; Taiga said that was exactly why he would survive.
 
-At three-forty-two, Leo’s Oracle buzzed. He checked it.
+At three-forty-two, Leo’s phone buzzed. He checked it.
 
 “Oh, shit.”
 
@@ -1004,14 +987,17 @@ Taiga was walking to class.
 **Taiga:** leave him alone
 
 **Leo:** i'm not judging
+**Leo:** i'm studying human wildlife
 
-**Leo:** i'm studying
-
-**Taiga:** creep
+**Taiga:** that was judging
 
 Three minutes later:
 
-**Leo:** he finished it
+**Leo:** he actually finished it
+
+**Taiga:** what's wrong with that guy
+
+**Leo:** we said no judging
 
 Or:
 
@@ -1039,11 +1025,9 @@ Taiga stopped walking.
 
 **Leo:** murderer strikes again
 
-Taiga typed:
-
 **Taiga:** blocked
 
-Leo sent six laughing reactions.
+**Leo:** 😘
 
 ---
 
