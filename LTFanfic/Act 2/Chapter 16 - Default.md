@@ -471,11 +471,9 @@ Friday afternoon, House Apollo’s group chat became active.
 
 **Emma:** Unfortunately accurate.
 
-Taiga read the messages, decided he did not care about volleyball enough to rearrange a Saturday evening for it, and put the Oracle down.
+Taiga read the messages, decided he did not care about volleyball enough to rearrange a Saturday evening for it, and put the phone down.
 
 Two minutes later it buzzed privately.
-
-Leo.
 
 **Leo:** you coming tomorrow?
 
@@ -488,21 +486,27 @@ Leo’s reply came quickly.
 **Taiga:** compelling argument
 
 **Leo:** thank you
-
-Then:
-
 **Leo:** come on, emma's starting and enzo says he's making a sign which means somebody responsible needs to be present
 
 **Taiga:** and you picked me?
 
-**Leo:** obviously
+**Leo:** of course
+**Leo:** enzo's obviously into her, someone has to make sure he doesn't do stupid things
 
+**Taiga:** i don't do flirt counseling
+
+**Leo:** i know, i do
+**Leo:** you need to make sure i do it right
+**Leo:** don't worry, if it goes bad i'll still blame you
+
+**Taiga:** that ship has already sunken
+
+**Leo:** don't tell enzo, you'll break his heart
 **Leo:** also volleyball is actually fun when you don't understand enough to get mad about tactics
 
 **Taiga:** you get mad about tactics in every sport
 
 **Leo:** EXACTLY
-
 **Leo:** freedom
 
 Taiga smiled.
@@ -523,7 +527,7 @@ Then:
 
 **Taiga:** right
 
-Taiga locked the Oracle. Five minutes later Caleb walked in carrying groceries, put a bag on his desk and unpacked yogurt while Taiga did not look up.
+Taiga locked the phone. Five minutes later Caleb walked in carrying groceries, put a bag on his desk and unpacked yogurt while Taiga did not look up.
 
 Peace.
 
