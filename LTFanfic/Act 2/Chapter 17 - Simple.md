@@ -116,18 +116,6 @@ Leo made a face that communicated absolutely nothing useful.
 
 Taiga turned back to the screen.
 
-Dylan had noticed. “Friend?”
-
-“Yeah.”
-
-“Usually your partner?”
-
-“Yeah.”
-
-Dylan nodded once. “Got it.”
-
-And that was that.
-
 Their implementation worked on the first full test run except for delete after a wrapped collision. Dylan found it.
 
 “Here.”
@@ -154,7 +142,7 @@ Dylan left. Taiga looked across the room. Leo and Sophie were still debugging, t
 
 Taiga opened the assignment notes and read one paragraph, then another. Leo swore quietly from across the room.
 
-Thirty seconds later, Taiga’s Oracle buzzed.
+Five minutes later, Taiga’s phone buzzed.
 
 **Leo:** do not leave
 
@@ -166,11 +154,11 @@ The typing indicator appeared immediately.
 
 **Leo:** good
 
-Taiga put the Oracle down and kept reading.
+Taiga put the phone down and kept reading.
 
 ---
 
-Sophie left seven minutes later. Leo arrived at Taiga’s desk with his laptop under one arm.
+Sophie left ten minutes later. Leo arrived at Taiga’s desk with his laptop under one arm.
 
 “That was humiliating.”
 
