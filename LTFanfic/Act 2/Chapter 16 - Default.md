@@ -699,9 +699,55 @@ Leo smiled. “I knew you’d like it.”
 
 “That too.”
 
-Taiga narrowed his eyes. Leo’s grin widened.
+A few steps ahead, Enzo was walking beside Emma with the rolled sign tucked under one arm, talking with both hands like the game had somehow given him more energy instead of less.
 
-“You free tomorrow?”
+Leo glanced at them. “He’ll be fine.”
+
+“You sound confident.”
+
+“I’ve seen worse.” Leo shoved his hands into his pockets. “One of my exes could turn a missed text into a three-day crisis. He made Enzo look emotionally stable.”
+
+Taiga heard the rest of the sentence a fraction late.
+
+*He.*
+
+Leo had said it without hesitation, without looking at him, like it was no more significant than anything else they had been talking about.
+
+“Sounds exhausting,” Taiga said.
+
+“It was.” Leo laughed once. “Enzo’s problem is mostly that he has no shame.”
+
+They walked another half-block.
+
+Then Leo said, “How’s Nora?”
+
+Taiga looked over. “I think fine. Why?”
+
+“Dunno.” Leo shrugged. “You mention her a lot. You seem close.”
+
+“We are.”
+
+Leo nodded.
+
+Taiga looked ahead again before the actual question caught up with him.
+
+Oh.
+
+“She’s a girl,” he said.
+
+Leo blinked once.
+
+“Right.”
+
+“Yeah.”
+
+A short silence followed.
+
+“Okay,” Leo said.
+
+Taiga shoved his hands deeper into his jacket pockets.
+
+Leo looked back toward Enzo and Emma. “Anyway. You free tomorrow?”
 
 “Why?”
 
