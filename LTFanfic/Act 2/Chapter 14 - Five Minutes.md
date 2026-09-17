@@ -1216,7 +1216,7 @@ Then someone called Leo from across the room and he disappeared again. Later, a 
 
 At ten-fifteen, the room became louder without the music changing. More people had arrived, the heat had built, and someone had opened the kitchen window despite snow outside. Taiga's social battery, which had apparently been issued at forty percent capacity, reached zero.
 
-He did not announce it. He simply left the lounge. He didn't went back to the room, though.
+He did not announce it. He simply left the lounge. He didn't go back to the room, though.
 
 The upstairs hall was quieter. He passed the empty film room and reached the small balcony door at the end of the corridor, which stood slightly open with cold air moving through the gap. Taiga pushed it wider and stopped.
 
@@ -1232,25 +1232,25 @@ Taiga stepped outside and pulled the door mostly closed behind him. “You're go
 
 “Then why are you out here?”
 
-Leo looked toward the windows behind them, where music thumped faintly through the glass. 
+Leo looked toward the windows behind them, where music thumped faintly through the glass.
 
 “I'm just taking some fresh air.”
 
-"I thought crowds were your fresh air"
+“I thought crowds were your fresh air.”
 
-Leo laughed, "Sometime even I need a pause." then he turned to the railing.
+Leo laughed. “Sometimes even I need a pause.” Then he turned to the railing.
 
-Taiga looked at him for a few seconds
+Taiga looked at him for a few seconds.
 
-"Okay, I'll leave you alone then."
+“Okay. I'll leave you alone, then.”
 
-Taiga was about to going back again, then Leo turned suddenly and grabbed his sleeve
+Taiga was about to go back inside when Leo turned suddenly and grabbed his sleeve.
 
-"No, no it's okay. You can stay if you want, I don't mind."
+“No, no, it's okay. You can stay if you want. I don't mind.”
 
-Taiga stared at him without answering for a second, then he moved beside him at the railing. The balcony overlooked the practice fields, where snow remained in thin gray-white lines along the edges nobody had walked. The pitch lights were off, and without them the Sports Zone looked unfamiliar. Smaller.
+Taiga stared at him without answering for a second, then moved beside him at the railing. The balcony overlooked the practice fields, where snow remained in thin gray-white lines along the edges nobody had walked. The pitch lights were off, and without them the Sports Zone looked unfamiliar. Smaller.
 
- Leo rubbed both hands along his sleeves.
+Leo rubbed both hands along his sleeves.
 
 “When it gets too loud. Or too many people are trying to talk to me at once. After a while I just disappear for five minutes and then go back.”
 
@@ -1261,8 +1261,6 @@ Leo laughed. “I know. Devastating brand damage. Please keep this confidential.
 “You spend your entire life making noise.”
 
 “Exactly. Sometimes I need to stop hearing myself.”
-
-Taiga frowned lightly, but didn't say anything. What did he mean by that?
 
 Leo exhaled into his hands. “Okay, this was a better plan in October.”
 
@@ -1284,29 +1282,19 @@ They stood quietly for thirty seconds, maybe forty. Leo watched the empty field,
 
 “Everything good at your place?” Leo asked.
 
-"Yeah. You?"
+“Yeah. You?”
 
 Leo nodded. “Yeah. Loud. My aunt stayed six days, which means our kitchen became a competitive sport. My sister stole the scarf back twice. My dad pretended he wasn't happy I was home and then made breakfast every morning before anyone else woke up. So, normal.”
 
-Taiga smiled. “The scarf was hers?”
+Taiga smiled.
 
-“Originally. She gave it to me two years ago because she said yellow makes me look less boring.”
+Leo glanced over. “She's sixteen, by the way.”
 
-Taiga stared. “You? Boring?”
+“The scarf?”
 
-“I know. Cruel accusation.”
+Leo laughed. “Okay, deserved. No, my sister.”
 
-Then Leo continued.
-
-“She's sixteen.”
-
-"The scarf?"
-
-Leo laughed.
-
-"Ok deserved. No, my sister."
-
-Taiga snorted, “She likes soccer?”
+Taiga snorted. “She likes soccer?”
 
 “She likes making fun of soccer. Different activity.” Leo smiled. “She comes to games if she's bored enough. Then she spends ninety minutes sending me messages like *that guy's hair is terrible* and *why did you kick it there*. Very high-level analysis.”
 
@@ -1356,15 +1344,15 @@ Leo followed his gaze. “The chain? Yeah. Graduation gift.”
 
 He lifted the pendant slightly. It was the outline of a sun.
 
-Taiga said, "It's starting to look like a theme for you"
+Taiga nodded toward it. “It's starting to look like a theme for you.”
 
-“Ahah, it actually kinda is. My mum has always called me 'rayito de sol' because of my hair.”
+Leo laughed. “It kind of is. My mom has always called me *rayito de sol* because of my hair.”
 
-Then added with an embarrassed face, "meaning 'little sunshine'"
+He rubbed the pendant between his fingers. “Little ray of sunshine.”
 
 Taiga chuckled. “Seems appropriate.”
 
-He looked back toward the fields and didn't say anything for a while. 
+He looked back toward the fields and didn't say anything for a while.
 
 “What do you want to do?”
 
@@ -1492,9 +1480,9 @@ Leo grinned. “Good night. And if you tell anyone about my five-minute emergenc
 
 “Cruel.”
 
-“Good night sunshine.”
+“Good night, sunshine.”
 
-Leo laughed and flipped him. “Night, forty-one.”
+Leo laughed and flipped him off. “Night, forty-one.”
 
 Taiga left.
 
