@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Act 2/Chapter 16 - Default.md",
+                "file": "Act 2/Chapter 17 - Simple.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 16 - Default"
+              "title": "Chapter 17 - Simple"
             }
           }
         ]
@@ -201,8 +201,8 @@
   },
   "active": "05cfd2b999405f0f",
   "lastOpenFiles": [
-    "Act 2/Chapter 15 - Five Minutes.md",
     "Act 2/Chapter 16 - Default.md",
+    "Act 2/Chapter 15 - Five Minutes.md",
     "Act 2/Chapter 17 - Simple.md",
     "Act 2/Chapter 13 - Unscheduled.md",
     "Act 2/Chapter 14 - Backstage.md",

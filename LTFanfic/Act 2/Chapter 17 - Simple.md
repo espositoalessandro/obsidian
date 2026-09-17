@@ -8,7 +8,7 @@ Forty people ignored him. Owen raised his voice.
 
 Thirty-seven people continued ignoring him, but Leo stopped talking, which got Taiga’s attention.
 
-Owen waited until the room settled. “For the next three labs, no repeat partners.”
+Owen waited until the room settled. “For the next three labs, pairs will be randomly selected.”
 
 Leo turned slowly. Taiga looked at him.
 
@@ -56,7 +56,7 @@ They started.
 
 Mia was good, though not in the same way Leo was good. Leo attacked code like it had personally challenged him; Mia read first, asked questions, then wrote exactly what she meant. No unnecessary movement. No dramatic declarations. No calling an array a “little guy” when it behaved correctly.
 
-Taiga appreciated this.
+Taiga appreciated this. Maybe.
 
 Twenty minutes in, Mia pointed at one function. “You’re going to make a helper.”
 
