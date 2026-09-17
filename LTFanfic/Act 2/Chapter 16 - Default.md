@@ -1062,3 +1062,13 @@ Taiga had Discrete in twenty minutes. Enough time.
 “Yeah.”
 
 Leo turned toward the stairs, and Taiga followed.
+
+At the first landing, Leo glanced back at him.
+
+“Autonomous feet?”
+
+Taiga stared at him.
+
+“Shut up.”
+
+Leo laughed and kept going.
