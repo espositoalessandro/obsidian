@@ -1232,15 +1232,27 @@ Taiga stepped outside and pulled the door mostly closed behind him. “You're go
 
 “Then why are you out here?”
 
-Leo looked toward the windows behind them, where music thumped faintly through the glass. “Five minutes.”
+Leo looked toward the windows behind them, where music thumped faintly through the glass. 
 
-“What?”
+“I'm just taking some fresh air.”
 
-“I take five minutes.”
+"I thought crowds were your fresh air"
 
-Taiga waited. Leo rubbed both hands along his sleeves.
+Leo laughed, "Sometime even I need a pause." then he turned to the railing.
 
-“When it gets too loud. Or too many people are trying to talk to me at once. I just disappear for five minutes and then go back.”
+Taiga looked at him for a few seconds
+
+"Okay, I'll leave you alone then."
+
+Taiga was about to going back again, then Leo turned suddenly and grabbed his sleeve
+
+"No, no it's okay. You can stay if you want, I don't mind."
+
+Taiga stared at him without answering for a second, then he moved beside him at the railing. The balcony overlooked the practice fields, where snow remained in thin gray-white lines along the edges nobody had walked. The pitch lights were off, and without them the Sports Zone looked unfamiliar. Smaller.
+
+ Leo rubbed both hands along his sleeves.
+
+“When it gets too loud. Or too many people are trying to talk to me at once. After a while I just disappear for five minutes and then go back.”
 
 Taiga looked at him. “You?”
 
@@ -1250,7 +1262,7 @@ Leo laughed. “I know. Devastating brand damage. Please keep this confidential.
 
 “Exactly. Sometimes I need to stop hearing myself.”
 
-Taiga moved beside him at the railing. The balcony overlooked the practice fields, where snow remained in thin gray-white lines along the edges nobody had walked. The pitch lights were off, and without them the Sports Zone looked unfamiliar. Smaller.
+Taiga frowned lightly, but didn't say anything. What did he mean by that?
 
 Leo exhaled into his hands. “Okay, this was a better plan in October.”
 
@@ -1270,7 +1282,9 @@ Taiga glanced over. Leo smiled.
 
 They stood quietly for thirty seconds, maybe forty. Leo watched the empty field, the silver pendant resting against his sweater.
 
-“Good break?” Taiga asked.
+“Everything good at your place?” Leo asked.
+
+"Yeah. You?"
 
 Leo nodded. “Yeah. Loud. My aunt stayed six days, which means our kitchen became a competitive sport. My sister stole the scarf back twice. My dad pretended he wasn't happy I was home and then made breakfast every morning before anyone else woke up. So, normal.”
 
@@ -1282,11 +1296,17 @@ Taiga stared. “You? Boring?”
 
 “I know. Cruel accusation.”
 
-“How old is she?”
+Then Leo continued.
 
-“Sixteen.”
+“She's sixteen.”
 
-“She like soccer?”
+"The scarf?"
+
+Leo laughed.
+
+"Ok deserved. No, my sister."
+
+Taiga snorted, “She likes soccer?”
 
 “She likes making fun of soccer. Different activity.” Leo smiled. “She comes to games if she's bored enough. Then she spends ninety minutes sending me messages like *that guy's hair is terrible* and *why did you kick it there*. Very high-level analysis.”
 
@@ -1301,10 +1321,6 @@ Then the balcony door opened behind them and a guy Taiga didn't know leaned out.
 “Leo, we're starting teams.”
 
 Leo turned. “Yeah, I'll be in.”
-
-“Two minutes?”
-
-“Something like that.”
 
 “Okay.”
 
@@ -1322,19 +1338,11 @@ The door closed. Taiga looked at Leo.
 
 Leo shrugged. “I'll find out.”
 
-Taiga smiled. “Problem.”
+Taiga smiled. “Of course.”
 
-“What?”
+Leo pushed away from the railing, then stayed there. “My mom already asked what I'm doing this summer.”
 
-“You.”
-
-“Rude.”
-
-“Accurate.”
-
-Leo pushed away from the railing, then stayed there. “My mom asked what I'm doing this summer.”
-
-Taiga waited. “Okay.”
+Taiga waited. “And you already know?”
 
 “Internship, probably. Or soccer program. Or both. Or something useful so I don't apparently destroy my future by being nineteen incorrectly.”
 
@@ -1346,37 +1354,35 @@ Taiga looked at his hand. “That from her?”
 
 Leo followed his gaze. “The chain? Yeah. Graduation gift.”
 
-“High school?”
+He lifted the pendant slightly. It was the outline of a sun.
 
-“Mm-hm.”
+Taiga said, "It's starting to look like a theme for you"
 
-Leo lifted the pendant slightly. It was plain from here, just a small oval piece of silver with something engraved too small to read.
+“Ahah, it actually kinda is. My mum has always called me 'rayito de sol' because of my hair.”
 
-“She said if I was going to move away and make questionable decisions, I should at least wear something expensive enough to feel guilty about losing.”
+Then added with an embarrassed face, "meaning 'little sunshine'"
 
-Taiga smiled. “Effective.”
+Taiga chuckled. “Seems appropriate.”
 
-“Extremely. I thought I lost it once in September and nearly died. It was in my shoe.”
+He looked back toward the fields and didn't say anything for a while. 
 
-“How?”
+“What do you want to do?”
 
-“I don't know. Life is mysterious.”
+Leo was quiet. “In summer?”
 
-Taiga looked back toward the fields. “What do you want to do?”
-
-Leo was quiet. “Summer?”
-
-“After. Whatever.”
+“Summer. After. Whatever.”
 
 Leo exhaled slowly. “That's the problem.”
 
 Taiga turned. Leo kept looking outward.
 
-“Everybody thinks I have a plan because I have a calendar. Those are different things.”
+“Everybody thinks I have a plan because I always look busy. Those are different things.”
 
 Taiga almost laughed, then didn't.
 
 “I like CS. Mostly. I like building stuff. I like when something actually works and I can point at it. Theory can go fuck itself on some days, but whatever. And I love soccer. Obviously. But I'm not sitting here thinking I'm definitely going pro, because I'm not insane.” Leo paused. “So then people ask what comes after and I say something cheerful enough that they stop asking.”
+
+Taiga stared at him.
 
 “You don't know.”
 
@@ -1388,7 +1394,7 @@ Leo's eyebrows lifted. “What the hell does *huh* mean?”
 
 “Nothing.”
 
-“Oh, now you're allowed to say it?”
+“It absolutely did not mean nothing.”
 
 Taiga smiled. “I thought you had everything figured out.”
 
@@ -1416,11 +1422,7 @@ Leo smiled faintly. “So maybe we're both screwed.”
 
 “Why?”
 
-“I declared a major.”
-
-“You declared it like two months ago.”
-
-“Still ahead.”
+“You have to report to your mother.”
 
 “Fuck you.”
 
@@ -1454,7 +1456,7 @@ Taiga laughed. Enzo looked at him.
 
 “Absolutely not.”
 
-“Cowards. Both of you.”
+“Come in. Both of you.”
 
 Leo sighed dramatically and followed. Taiga stayed outside another second, then went in too.
 
@@ -1490,33 +1492,9 @@ Leo grinned. “Good night. And if you tell anyone about my five-minute emergenc
 
 “Cruel.”
 
-Taiga turned toward the stairs, but Leo called, “Taiga.”
+“Good night sunshine.”
 
-He looked back. Leo held up one finger.
-
-“Also, I meant it about the necklace. Thanks. I would've spent twenty minutes fighting that stupid clasp and then gotten angry enough to throw it into a wall.”
-
-For one second neither of them moved. Leo's expression changed first.
-
-“Oh.”
-
-Taiga narrowed his eyes. “What?”
-
-“We both remembered the rest of that at the same time, didn't we?”
-
-“Best not to investigate.”
-
-“Agreed.”
-
-Leo rubbed the back of his neck. “Okay. Apparently we're never mentioning that again.”
-
-“Best idea you've had all semester.”
-
-“Rude.”
-
-“Good night, Leo.”
-
-Leo laughed. “Night, Taiga.”
+Leo laughed and flipped him. “Night, forty-one.”
 
 Taiga left.
 
@@ -1524,13 +1502,9 @@ Taiga left.
 
 Caleb was asleep when Taiga entered. Good.
 
-Taiga changed quietly, put his Oracle on the charger and got into bed. His brain offered several things: Leo's sister was sixteen; his dad made breakfast before everyone woke up; his mom gave him the necklace at graduation; he did not know what he wanted after university; sometimes he left parties for five minutes because being the loudest person in the room did not mean he wanted to be heard every second.
+Taiga changed quietly, put his phone on the charger and got into bed. His brain offered several things: Leo's sister was sixteen; his dad made breakfast before everyone woke up; his mom gave him the necklace at graduation; he did not know what he wanted after university; sometimes he left parties for five minutes because being the loudest person in the room did not mean he wanted to be heard every second.
 
-Then, less helpfully, the clasp. The towel. Leo turning.
-
-Taiga pulled the blanket higher. “Fuck.”
-
-His Oracle buzzed once. He reached over.
+His phone buzzed once. He reached over.
 
 **Leo:** for the record i'm never asking you for help with jewelry again
 
@@ -1546,12 +1520,11 @@ Taiga stared.
 
 Taiga smiled into the dark.
 
-**Taiga:** night
+**Taiga:** die.
 
 A moment later:
 
 **Leo:** night taiga
 
-Taiga set the Oracle down. He knew there would not be another message.
-
-There wasn't.
+Taiga put down the phone.
+After a few seconds, he pulled the blanket higher. “Fuck.”
