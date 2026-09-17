@@ -717,37 +717,25 @@ Leo had said it without hesitation, without looking at him, like it was no more 
 
 “It was.” Leo laughed once. “Enzo’s problem is mostly that he has no shame.”
 
-They walked another half-block.
+They walked a little farther.
 
-Then Leo said, “How’s Nora?”
+Then Leo said, “You seeing anyone?”
 
-Taiga looked over. “I think fine. Why?”
+Taiga looked at him. “Why?”
 
-“Dunno.” Leo shrugged. “You mention her a lot. You seem close.”
+Leo nodded toward Enzo. “Apparently we’re discussing everybody’s romantic disasters now.”
 
-“We are.”
+“No.”
 
-Leo nodded.
+Leo waited.
 
-Taiga looked ahead again before the actual question caught up with him.
+“No one,” Taiga added.
 
-Oh.
+“Oh.”
 
-“She’s a girl,” he said.
+Leo looked ahead again.
 
-Leo blinked once.
-
-“Right.”
-
-“Yeah.”
-
-A short silence followed.
-
-“Okay,” Leo said.
-
-Taiga shoved his hands deeper into his jacket pockets.
-
-Leo looked back toward Enzo and Emma. “Anyway. You free tomorrow?”
+“Anyway. You free tomorrow?”
 
 “Why?”
 
