@@ -338,11 +338,9 @@ Leo passed through the room repeatedly. Sometimes they spoke, sometimes they did
 
 Then someone called Leo from across the room and he disappeared again. Later, a woman from the track team caught Leo by both shoulders and pulled him into a photograph with six people. Taiga watched long enough to see Leo throw an arm around her shoulders for the picture, then looked back at Sofia's story.
 
-At ten-fifteen, the room became louder without the music changing. More people had arrived, the heat had built, and someone had opened the kitchen window despite snow outside. Taiga's social battery, which had apparently been issued at forty percent capacity, reached zero.
-
-He did not announce it. He simply left the lounge. He didn't go back to the room, though.
-
-The upstairs hall was quieter. He passed the empty film room and reached the small balcony door at the end of the corridor, which stood slightly open with cold air moving through the gap. Taiga pushed it wider and stopped.
+At ten-fifteen, the room became louder without the music changing. More people had arrived, the heat had built, and someone had opened the kitchen window despite snow outside. Taiga's social battery, which had apparently been issued at forty percent capacity, reached the danger level.
+"I need a break."
+He took his jacked, left the room and went upstair. The upstairs hall was quieter. He passed the empty film room and reached the small balcony door at the end of the corridor, which stood slightly open with cold air moving through the gap. Taiga pushed it wider and stopped.
 
 Leo was already outside, standing with both forearms resting on the railing and looking over the dark Sports Zone. No coat, just the green sweater.
 
@@ -404,9 +402,9 @@ Taiga glanced over. Leo smiled.
 
 They stood quietly for thirty seconds, maybe forty. Leo watched the empty field, the silver pendant resting against his sweater.
 
-“Everything good at your place?” Leo asked.
+“So, how was the break? Everything good at your place?” Leo asked.
 
-“Yeah. You?”
+“Yeah, the usual. You?”
 
 Leo nodded. “Yeah. Loud. My aunt stayed six days, which means our kitchen became a competitive sport. My sister stole the scarf back twice. My dad pretended he wasn't happy I was home and then made breakfast every morning before anyone else woke up. So, normal.”
 
@@ -427,7 +425,6 @@ Taiga snorted. “She likes soccer?”
 “She once told me I run weird. I thought about it for a week.”
 
 Taiga laughed harder, and Leo looked pleased.
-
 Then the balcony door opened behind them and a guy Taiga didn't know leaned out.
 
 “Leo, we're starting teams.”
@@ -520,14 +517,6 @@ Taiga laughed, and Leo did too. Then quiet returned.
 
 “I didn't know either,” Taiga said.
 
-Leo looked at him. “I know.”
-
-“No, I mean—” Taiga stopped. “Before Olympus. I stayed at Camp Buddy because it was easier than choosing anything.”
-
-“You told me.”
-
-Taiga nodded. “Right.”
-
 Leo smiled faintly. “So maybe we're both screwed.”
 
 “You're more screwed.”
@@ -600,15 +589,19 @@ Leo grinned. “Good night. And if you tell anyone about my five-minute emergenc
 
 “I trusted you.”
 
-“Mistake.”
+“That was your mistake.”
 
-“Cruel.”
+“Betrayal.”
 
 “Good night, sunshine.”
 
 Leo laughed and flipped him off. “Night, forty-one.”
 
 Taiga left.
+
+*I trusted you*
+
+That phrase didn't leave his mind for a bit.
 
 ---
 
