@@ -825,95 +825,95 @@ Leo’s face stayed careful.
 Taiga opened his mouth. Nothing came out. Fantastic.
 Leo waited. No joke, no rescue. Taiga stared at his hands.
 
-"What I told you ...why I said that. I did it because I was scared as fuck"
+“What I told you Saturday... why I said it. I was scared as fuck.”
 
 Taiga looked up in the sky for a second and exhaled.
 
-"The first time I went to camp, I didn't go alone. There was this guy with me, the one I mentioned you."
+“The first time I went to camp, I didn’t go alone. There was this guy with me, the one I mentioned to you.”
 
 "Your ex?"
 
-"Yeah. Well... back then I was different. I liked hanging with people, talking, opening up and stuff."
+“Yeah. Well... back then I was different. I liked hanging out with people, talking, opening up and stuff.”
 
-Leo didn't comment. Taiga continued,
+Leo didn’t comment. Taiga continued,
 
-"I was accepted, even loved, by lots of people in just a few weeks."
+“I was accepted, even loved, by lots of people in just a few weeks.”
 
-He paused a second.
+He paused for a second..
 
-"My ex though, he saw things differently. He went to camp to spend more time with me and eventually got jealous of the others."
+“My ex, though... he saw things differently. He went to camp to spend more time with me and eventually got jealous of the others.”
 
 Taiga slowly rubbed his hands nervously.
 
-"We fought, I called him selfish and we got more and more into arguments."
+“We fought. I called him selfish, and we got into more and more arguments.”
 
 He took another deep breath.
 
-"At some point scoutmasters organized a sportsfest. One guy from the other team showed up all beaten up and claimed that I did that."
+“At some point the scoutmasters organized a SportsFest. One guy from the other team showed up all beaten up and claimed I did it.”
 
-Leo's expression changed all of sudden. Now he showed concern.
+Leo’s expression changed all of a sudden. The concern was obvious now.
 
-"It was a nightmare. My worst dreams came true. Everyone turned against me and a guy tried to defend me got punched."
+“It was a nightmare. My worst dreams came true. Everyone turned against me, and a guy who tried to defend me got punched.”
 
 Taiga clenched his fists.
 
-"I tried to defend him, that made things escalate. Eventually, it basically became a brawl."
+“I tried to defend him. That made things escalate. Eventually, it basically became a brawl.”
 
-"Shit."
+“Shit.”
 
-"Then... things basically went shit. Words spread out of the camp, parents brought their sons home, we even showed up on the local news. Camp's reputation took a big hit."
+“Then... things went to shit. Word spread outside the camp, parents started taking their sons home, and we even showed up on the local news. Camp’s reputation took a big hit.”
 
 Taiga snapped a blade of grass.
 
-"For me though, it was even worse. People started bullying me, ambushing me in bathrooms, woods, calling me names."
+“For me, though, it was even worse. People started bullying me, ambushing me in bathrooms, in the woods, calling me names.”
 
-"Why didn't they expel them?"
+“Why didn’t they expel them?”
 
-"Because they weren't caught and nobody would believe me anymore."
+“Because they weren’t caught, and nobody would believe me anymore.”
 
-"What about your boyfriend?"
+“What about your boyfriend?”
 
-"Well... At some point, he couldn't take it anymore and confessed me that the one who set me up."
+“Well... at some point, he couldn’t take it anymore and confessed to me that he was the one who set me up.”
 
 Leo looked horrified.
 
-"Things went even more downhill. I completely lost it. I started shouting at him, then I got physical and shoved him and he punched me in the face."
+“Things went even more downhill. I completely lost it. I started shouting at him, then I got physical and shoved him, and he punched me in the face.”
 
-Taiga pointed the scar running on his nose.
+Taiga pointed to the scar running across his nose.
 
-"That's where my scar comes from."
+“That’s where my scar comes from.”
 
 Leo slowly put a hand on his mouth.
 
-"I broke up with him after that. He returned home the day after, I've never seen him again since then. I stayed instead."
+“I broke up with him after that. He returned home the day after. I’ve never seen him again since then. I stayed instead.”
 
-"You took the blame?"
+“You took the blame?”
 
-"Pretty much, yeah."
+“Pretty much, yeah.”
 
-Leo paused a second
+Leo paused for a second.
 
-"Why?"
+“Why?”
 
-"What for? Nobody would have believed me and even if they did, it wouldn't change what happened. Plus, I still was partly responsible for what he did. "
+“What for? Nobody would have believed me, and even if they did, it wouldn’t change what happened. Plus, I was still partly responsible for what he did.”
 
 Leo looked at him.
 
-"Because you didn't want to hurt him, right? You still loved him."
+“You still loved him.”
 
 Taiga closed his eyes.
 
-"Yeah."
+“Yeah.”
 
 He paused a second
 
-"Then I returned the next year, fucked up again, but this time Keitaro brought me out of my shit."
+“Then I returned the next year, fucked up again, but this time Keitaro brought me out of my shit.”
 
 Taiga went silent. A minute passed, then Leo said,
 
-"So, when you told me to go away because of what Aaron said..."
+“So, when you told me to go away because of what Aaron said...”
 
-"It felt like the same shape. Something between me and someone else suddenly becoming everybody’s business. Me losing my shit. Somebody close enough to get hurt by it."
+“It felt like the same shape. Something between me and someone else suddenly becoming everybody’s business. Me losing my shit. Somebody close enough to get hurt by it.”
 
 Leo looked back at him.
 
@@ -958,35 +958,35 @@ Taiga swallowed. “Okay.”
 “But you don’t get to decide I’m better off without you and call that doing me a favor.”
 
 Taiga said nothing. Leo breathed out. For a while neither of them spoke.
-Then Taiga said, 
+Then Taiga said,
 
-"So... what happens now?"
+“So... what happens now?”
 
-"It depends."
+“It depends.”
 
-"By what?"
+“On what?”
 
-"I don't want to pretend that this didn't happen."
+“I don’t want to pretend that this didn’t happen.”
 
-"Right."
+“Right.”
 
-"No, I mean..."
+“No, I mean...”
 
-Leo took a deep breath
+Leo took a deep breath.
 
-"What Aaron said. About us."
+“What Aaron said. About us.”
 
 Taiga gulped.
 
-"I don't want it to change... wherever we were going."
+“I don’t want it to change... wherever we were going.”
 
 Taiga didn't answer immediately and Leo continued,
 
-"I'm not ok if you start act differently with me around people."
+“I’m not okay if you start acting differently with me around people.”
 
-Taiga looked down
+Taiga looked down.
 
-"I wasn't planning to."
+“I wasn’t planning to.”
 
 Leo looked toward the path.
 
@@ -1052,11 +1052,11 @@ Leo winced. “Too dark?”
 
 Leo looked surprised. Taiga shrugged. The warmth faded but did not disappear.
 
-Leo put his hands in his coat pockets and stood. “I'm freezing my ass on that bench. Want to go back in the house?”
+Leo put his hands in his coat pockets and stood. “I’m freezing my ass off on this bench. Want to go back inside?”
 
 Taiga looked toward House Apollo, then toward his own dorm.
 
-“No, I'll stay here a little longer.”
+“No, I’ll stay here a little longer.”
 
 Leo nodded. “Okay.”
 
