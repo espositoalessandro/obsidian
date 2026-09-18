@@ -831,83 +831,67 @@ Taiga looked up in the sky for a second and exhaled.
 
 “The first time I went to camp, I didn’t go alone. There was this guy with me, the one I mentioned to you.”
 
-"Your ex?"
+“Your ex?”
 
-“Yeah. Well... back then I was different. I liked hanging out with people, talking, opening up and stuff.”
+“Yeah. Back then I was different. I liked hanging out with people, talking, opening up and stuff.”
 
-Leo didn’t comment. Taiga continued,
+Leo didn’t comment.
 
-“I was accepted, even loved, by lots of people in just a few weeks.”
+“I found a place there pretty fast. Friends. People who actually liked having me around.”
 
-He paused for a second..
+Taiga rubbed his hands together.
 
-“My ex, though... he saw things differently. He went to camp to spend more time with me and eventually got jealous of the others.”
+“My ex had come because he wanted more time with me. Instead, I started spending time with everyone else too. He got jealous. We fought about it. A lot.”
 
-Taiga slowly rubbed his hands nervously.
+Taiga took another breath.
 
-“We fought. I called him selfish, and we got into more and more arguments.”
+“Then SportsFest happened. A guy from the other team showed up beaten up and said I did it.”
 
-He took another deep breath.
+Leo’s expression changed.
 
-“At some point the scoutmasters organized a SportsFest. One guy from the other team showed up all beaten up and claimed I did it.”
-
-Leo’s expression changed all of a sudden. The concern was obvious now.
-
-“It was a nightmare. My worst dreams came true. Everyone turned against me, and a guy who tried to defend me got punched.”
-
-Taiga clenched his fists.
-
-“I tried to defend him. That made things escalate. Eventually, it basically became a brawl.”
-
-“Shit.”
-
-“Then... things went to shit. Word spread outside the camp, parents started taking their sons home, and we even showed up on the local news. Camp’s reputation took a big hit.”
+“I didn’t. But everybody believed him. Things blew up, and suddenly all the shit I thought I’d left behind was back. People looking at me like I’d finally proved them right.”
 
 Taiga snapped a blade of grass.
 
-“For me, though, it was even worse. People started bullying me, ambushing me in bathrooms, in the woods, calling me names.”
+“After that, camp stopped feeling like mine. People avoided me. Some of them started fucking with me because they knew nobody would believe me.”
 
-“Why didn’t they expel them?”
-
-“Because they weren’t caught, and nobody would believe me anymore.”
+Leo was quiet for a moment.
 
 “What about your boyfriend?”
 
-“Well... at some point, he couldn’t take it anymore and confessed to me that he was the one who set me up.”
+Taiga looked down.
 
-Leo looked horrified.
+“He was the one who set me up.”
 
-“Things went even more downhill. I completely lost it. I started shouting at him, then I got physical and shoved him, and he punched me in the face.”
+Leo went still.
+
+“He confessed after everything had already gone to shit. I lost it. I shoved him. He punched me.”
 
 Taiga pointed to the scar running across his nose.
 
-“That’s where my scar comes from.”
+“That’s where this came from.”
 
-Leo slowly put a hand on his mouth.
+Leo stared at it.
 
-“I broke up with him after that. He returned home the day after. I’ve never seen him again since then. I stayed instead.”
+“I broke up with him. He left the next day. I stayed.”
 
 “You took the blame?”
 
-“Pretty much, yeah.”
-
-Leo paused for a second.
+“Pretty much.”
 
 “Why?”
 
-“What for? Nobody would have believed me, and even if they did, it wouldn’t change what happened. Plus, I was still partly responsible for what he did.”
+“What was the point? Even if I told everyone the truth, it wouldn’t undo anything.”
+
+Taiga swallowed.
+
+“And I still loved him.”
 
 Leo looked at him.
-
-“You still loved him.”
 
 Taiga closed his eyes.
 
 “Yeah.”
-
-He paused a second
-
-“Then I returned the next year, fucked up again, but this time Keitaro brought me out of my shit.”
 
 Taiga went silent. A minute passed, then Leo said,
 
