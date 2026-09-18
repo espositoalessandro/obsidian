@@ -760,15 +760,18 @@ Taiga looked over.
 
 Leo’s eyes were closed, head tipped against the seat, scarf finally doing something useful around his neck.
 
-Taiga went back to his phone.
+Taiga went back to his phone shaking his head. 
+A small smile curving his mouth.
 
-Twenty-three minutes later, the bus hit a pothole.
+Thirty-three minutes later, the bus hit a pothole.
 
 Leo woke violently.
 
 “What the fuck?”
 
-Two rows ahead, Evan turned around. “You’ve been awake eight seconds.”
+Taiga laughed
+
+"Morning."
 
 “The suspension attacked me.”
 
@@ -784,7 +787,7 @@ Leo rubbed his face.
 
 “Where are we?”
 
-“Bus.”
+“On a bus.”
 
 “Helpful.”
 
