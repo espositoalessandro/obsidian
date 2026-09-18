@@ -1079,7 +1079,7 @@ Taiga waited.
 
 Aaron’s voice stayed quieter than his.
 
-“And you’re so fucking terrified of people noticing anything about you that one comment turns you into this.”
+“And you’re so fucking terrified of people noticing anything about you that the second someone gets too close, you turn into this.”
 
 Everything in Taiga stopped.
 
@@ -1089,47 +1089,29 @@ His face changed immediately.
 
 Too late.
 
-Leo said, “Aaron.”
+Leo leaned forward.
 
-Taiga looked at him.
+“Okay, Aaron. That’s enough.”
 
-“What comment?”
+Aaron turned toward him.
 
-Aaron shook his head.
+For a second he just stared.
 
-“Leave it.”
+Then he laughed once, sharp and tired.
 
-Taiga stood.
+“See? Now I can’t even argue with him without both of you turning against me.”
 
-“What comment?”
+Leo frowned. “I’m not turning against you.”
 
-“Taiga.”
+“Feels like it.”
 
-“No.”
+Taiga looked from Leo back to Aaron.
 
-Aaron stood too now, not aggressive, just trapped by the fact that everybody was looking.
-
-Taiga’s voice dropped.
-
-“You brought it up. Finish.”
+“What the fuck are you talking about?”
 
 Aaron rubbed both hands over his face.
 
-“I’m talking to you lately and half the time he’s there too.”
-
-Leo frowned. “I’m here because everyone’s here.”
-
-“I know.”
-
-Aaron exhaled hard.
-
-“That’s not what I meant.”
-
-Taiga stared.
-
-Aaron looked at him.
-
-“Every time I turn around lately, you two are together. Training. Volleyball. Apollo. Here. I say one thing to you and somehow I’m arguing with both of you.”
+“This. Lately, every time I turn around, you two are together. Training. Volleyball. Apollo. Here. I say one thing to you and suddenly I’m arguing with both of you.”
 
 Leo straightened.
 
@@ -1141,7 +1123,7 @@ Taiga stepped forward.
 
 “Leave him out of it.”
 
-Aaron laughed once.
+Aaron laughed again.
 
 “There.”
 
