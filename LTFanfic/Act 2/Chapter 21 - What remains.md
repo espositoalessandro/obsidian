@@ -4,7 +4,7 @@ Olympus still existed. Classes started on time. The dining hall served eggs that
 
 Everything continued.
 
-Taiga hated it.
+Taiga hated it. He had spent the whole weekend in his room, doing assignments and reading stuff.
 
 He woke at seven-forty to Caleb’s third alarm. The first was apparently decorative, the second existed to prepare Caleb emotionally for the third, and the third was the one that mattered.
 
@@ -16,7 +16,7 @@ Caleb killed the alarm and sat up. “You’re awake.”
 
 Caleb started his routine: bathroom, water, window, desk.
 
-Taiga checked his Oracle. Three group notifications and a message from Keitaro from yesterday afternoon.
+Taiga checked his phone. Three group notifications and a message from Keitaro from yesterday afternoon.
 
 **Keitaro:** Hope the exchange went well!
 
@@ -24,9 +24,7 @@ Then, later:
 
 **Keitaro:** You’re probably on the bus. Message me when you get home if you’re not too tired.
 
-Taiga had not replied. There was no message from Leo.
-
-He put the Oracle down. Caleb looked over.
+Taiga had not replied. He put the phone down. Caleb looked over.
 
 “Recovery at four?”
 
@@ -182,11 +180,7 @@ Aaron rubbed one hand over the back of his neck. “You hit exactly where it hur
 
 “I know.”
 
-“You made that into something else.”
-
-“Yeah.”
-
-Aaron looked up. “I’d noticed you two were around each other a lot. That was it. I didn’t know what it meant. I still don’t. When he stepped in, I used it because I was angry and I knew it would get under your skin.”
+Aaron looked up. “I’d noticed you two were around each other a lot. I know it means nothing. When he stepped in, I used it because I was angry and I knew it would get under your skin.”
 
 Taiga’s hands curled.
 
@@ -206,9 +200,11 @@ Aaron swallowed. “It was fucked.”
 
 “I know.”
 
-“I don’t forgive you.”
+Taiga took a deep breath.
 
-Aaron nodded. “Okay.”
+"I'm not forgiving you."
+
+Aaron nodded. “Fair enough.”
 
 “I don’t know if I will.”
 
@@ -216,7 +212,7 @@ His face tightened. “Okay.”
 
 Taiga looked away, then back toward the athletic complex. “What did Mercer say?”
 
-“Gav told him there’d been a blowup Saturday night. He asked me what I said.”
+“Gav told him there’d been a blowup Saturday night. He wanted to ask me what was going on.”
 
 “And?”
 
@@ -234,7 +230,7 @@ A small piece of the old friendship sat there between them, damaged but still re
 
 Aaron said, “I owe Leo an apology too.”
 
-“You do.”
+“Yeah, you do.”
 
 Aaron nodded.
 
@@ -252,9 +248,7 @@ Taiga turned. Aaron held his gaze. No joke. No challenge.
 
 “Okay.”
 
-Not forgiveness.
-
-But not nothing.
+That was a start.
 
 ---
 
@@ -272,19 +266,17 @@ Taiga dropped his bag.
 
 Caleb looked at him. Taiga pointed.
 
-“Don’t.”
+“No.”
 
 Caleb turned back to the monitor.
 
-Taiga sat on his bed and checked his Oracle. Nothing from Leo. He put it down.
+Taiga sat on his bed and checked his phone. Nothing. He put it down.
 
 A minute later Caleb said, “Something happened.”
 
 Taiga looked over. “That is not a question.”
 
 “No.”
-
-“Good.”
 
 Caleb kept reading. Taiga lasted thirty seconds.
 
@@ -296,7 +288,7 @@ Caleb looked over. “About?”
 
 Caleb waited.
 
-“He said I always have to be the smartest person in the room.”
+“He then said I always have to be the smartest person in the room.”
 
 Taiga rubbed both hands over his face.
 
@@ -326,7 +318,7 @@ Another pause.
 
 Taiga looked at the floor.
 
-Caleb was quiet for a moment, then asked, “Do you want him to keep leaving you alone?”
+Caleb was quiet for a moment, then asked, “Did you actually wanted him to leave?”
 
 Taiga looked up.
 
@@ -336,17 +328,11 @@ Simple question. Annoying question.
 
 He looked away again.
 
-“Doesn’t mean he shouldn’t.”
+“Are you ok with that now?”
 
-Caleb considered that. “Those are different questions.”
+Taiga took a moment, then "I don't know."
 
-“I know.”
-
-Caleb nodded and went back to the spreadsheet.
-
-No diagnosis. No explanation.
-
-That helped.
+Caleb nodded and went back to the spreadsheet. He said nothing else, and that helped.
 
 ---
 
@@ -354,12 +340,18 @@ Maya arrived at seven with takeout. She looked at Taiga once, then at Caleb. Cal
 
 Good.
 
-Nobody asked.
-
 Taiga ate because food had been placed within reach and refusing would require more effort.
+Then they both left.
 
-At eight-thirty, he opened Keitaro’s chat, stared at it, then called.
+At eight-thirty, he opened Keitaro’s chat, stared at it
 
+**Taiga:** you free?
+
+After a few minutes, Keitaro answered
+
+**Keitaro:** Hey, yes
+
+Taiga called
 Keitaro answered from his dorm room wearing a sweatshirt and the expression of someone who had been studying.
 
 “Hey.”
@@ -374,15 +366,15 @@ Keitaro smiled faintly. “You look terrible.”
 
 “Sorry.”
 
-Taiga sat against the wall. “Remember when I told you about Leo?”
+Taiga sat against the wall. “I... something has happened this weekend.”
 
-Keitaro’s expression changed. “Yeah.”
+Keitaro’s expression changed. “Okay.”
 
 “There was a thing at the exchange.”
 
-“Okay.”
+“What thing?”
 
-“Aaron and I got into it. About football, mostly.”
+“Aaron and I got in an argument. About football, mostly.”
 
 “Mostly?”
 
@@ -402,13 +394,11 @@ Taiga rubbed a hand over his face.
 
 Keitaro’s mouth tightened. “And?”
 
-“And Aaron said something else. I left.”
+“I left.”
 
-Keitaro did not ask what.
+"Taiga..."
 
-Good.
-
-“Leo followed me.”
+“Leo then followed me.”
 
 Keitaro stayed quiet.
 
@@ -420,21 +410,65 @@ Keitaro stayed quiet.
 
 Keitaro’s expression changed.
 
-Taiga saw it. “What?”
+"Why he being there made things worse?"
 
-“Nothing.”
+"Because-"
 
-“Keitaro.”
+Taiga exhaled
+
+"Because it was like he basically made Aaron like he was right."
+
+"About what?"
+
+"I don't know."
+
+"Then why did that make you so upset? From what you've told me, you and Leo looked like good friends. Why would that be a problem?"
+
+"He... was implying something else."
+
+"Oh. I see."
+
+Pause
+
+"Was he right though?"
+
+Taiga looked at him with a surprised face
+
+"Of course not."
+
+"Then what's the problem?"
+
+Taiga felt something uncomfortable moving inside him.
+
+"I don't know. I don't want anyone saying shits about me they know nothing about."
+
+"And that was enough to make Leo go away?"
+
+Taiga froze.
+
+"What are you suggesting then?"
+
+"Nothing, I don't want to imply anything either! I'm just saying that maybe... Leo didn't deserve that."
+
+Taiga felt some heat coming up, but he tried to swallow it down. Keitaro was right.
+
+"...No. He didn't"
+
+"Then why don't you tell him?"
+
+Taiga took a deep breath and finally put the thing that was haunting him into words.
+
+"Because I hurt him. And I don't want to hurt him again."
 
 Keitaro looked down for a second, then back at him.
 
-“Christmas.”
+“Remember when we talked, back at camp?”
 
 Taiga went still.
 
 “The dock,” Keitaro added.
 
-“Don’t.”
+“Yeah."
 
 “You asked me what would happen if it came back.”
 
@@ -442,21 +476,16 @@ Taiga’s jaw tightened.
 
 Keitaro continued carefully. “You said you were scared there was some part of you that would come back one day and you’d hurt somebody because you couldn’t deal with your own shit.”
 
-Taiga looked away.
-
-“I didn’t bring that up.”
-
-“I know. I did.”
-
-Silence.
-
+Taiga looked away. They sat in silence for a moment.
 Taiga stared at the wall beside the screen.
 
 Eventually he said, “Leo told me he thought I was different.”
 
 Keitaro said nothing.
 
-“Maybe he was wrong.”
+“He sounded like he trusted me. And I broke his trust.” 
+
+He could feel something rising in his throat, and his eyes starting to wet.
 
 “Taiga.”
 
@@ -464,19 +493,23 @@ Keitaro said nothing.
 
 “You had one horrible night.”
 
-“And hurt him.”
+“Yeah, and I fucking hurt him out of the blue.”
 
 “Yeah.”
 
-The agreement landed harder than reassurance would have.
+The agreement landed harder than reassurance would have. Keitaro did not soften it.
 
-Keitaro did not soften it.
+"Are you really ok with leaving things this way?"
 
-Taiga swallowed. “I don’t want him leaving me alone.”
+Taiga swallowed. Then he shook his head, “I don’t want him leaving me alone.”
 
 “Okay.”
 
 “But maybe he should.”
+
+He could feel a tear running on his cheek. He rubbed it off
+
+"Fuck."
 
 Keitaro was quiet for several seconds.
 
@@ -484,7 +517,7 @@ Then: “You remember what I told you at Christmas?”
 
 Taiga laughed without humor. “Trust my friends.”
 
-“Yeah.”
+“Yeah. And this friend in particular is telling you to go talk to him.”
 
 “Great fucking plan.”
 
@@ -496,25 +529,14 @@ Keitaro added, “I’m not telling you to call him tonight. I’m not telling y
 
 “Useful.”
 
-“I’m serious. You can decide what you did. You can decide what you’re sorry for. You don’t get to decide the rest for him.”
+“I’m serious. You can decide what you did. You can decide what you’re sorry for. You don’t get to decide the rest for him. But I think he deserves the possibility to choose.”
 
 Taiga hated that because it sounded familiar.
-
-He said nothing.
-
-Keitaro let him.
-
-After a while Taiga said, “He didn’t deserve any of it.”
-
-“No.”
-
-Another answer without cushioning.
-
-Good.
+He said nothing. Keitaro let him.
 
 Taiga breathed out slowly. “I don’t know what I’m supposed to say to him.”
 
-“I don’t know either.”
+“Starting with sorry would be nice.”
 
 “That’s twice you’ve been useless.”
 
@@ -523,6 +545,20 @@ Taiga breathed out slowly. “I don’t know what I’m supposed to say to him.�
 Taiga almost smiled. “Fuck you.”
 
 Keitaro smiled back.
+
+"You know, Hiro made me watch an anime lately."
+
+"So what?"
+
+"By the end one of the characters said something I really liked. He said that the rule to say sorry to a friend is going after them, tell them you're sorry and then promise that you will never do that again. Then you maintain that promise with all you've got."
+
+"And what if I end up breaking that promise?"
+
+"It's fine, as long as you still gave everything you had. Because that's the only thing you can control."
+
+"Great. Now I'm being counseled by an anime."
+
+Keitaro laughed.
 
 They spoke for another ten minutes about everything except Leo: Hiro’s kitchen lab, Hunter sending photographs of a sculpture he hated, Yoichi refusing a group call because everybody had “annoying faces.”
 
@@ -540,9 +576,9 @@ Then Keitaro yawned.
 
 Keitaro smiled. “I’m glad you called.”
 
-Taiga looked away. “Yeah.”
+Taiga looked away. “Yeah. Thanks Keitaro.”
 
-“Night.”
+“Night Taiga.”
 
 “Night.”
 
