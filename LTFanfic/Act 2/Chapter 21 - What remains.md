@@ -765,23 +765,7 @@ Film was at seven.
 
 The locker room filled with showers, bags, somebody complaining about the session, Enzo asking whether forty-eight minutes counted as enough time to eat an entire dinner.
 
-Taiga changed quickly.
-
-He was pulling his jacket on when Leo stopped beside the bench.
-
-Not too close.
-
-“West doors.”
-
-Taiga looked at him.
-
-“Yeah.”
-
-Leo nodded once and picked up his bag.
-
-“See you after film.”
-
-“Yeah.”
+Taiga changed quickly and left.
 
 ---
 
@@ -819,31 +803,33 @@ At seven-fifty-three Mercer closed the laptop.
 
 Chairs moved immediately.
 
-Taiga waited until the room had emptied enough that he could breathe.
+Taiga waited until the room had emptied enough that he could breathe, then stood and went looking for Leo.
 
-Leo was already gone.
+He found him near the west doors, one hand on the strap of his bag while Scott said something beside him.
 
-For one stupid second, Taiga’s stomach dropped.
+Taiga stopped a few steps away.
 
-Then he reached the west doors.
+Leo noticed him.
 
-Leo was outside.
+Scott followed his eyes, looked between them once and adjusted his bag.
 
-Hands in his jacket pockets. Waiting.
+“See you tomorrow.”
 
-He looked over when Taiga stepped through.
+Leo nodded. “Yeah.”
 
-“Hey.”
+Scott left.
 
-“Hey.”
+Taiga looked at Leo.
 
-Neither moved.
+“Still coming?”
 
-Taiga glanced toward the path cutting behind the athletic center.
+Leo held his gaze for a second.
 
-“Walk?”
+“Yeah.”
 
-Leo nodded.
+Taiga nodded toward the doors.
+
+They went outside together and took the path behind the athletic center.
 
 They started without deciding who went first.
 
