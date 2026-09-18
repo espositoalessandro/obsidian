@@ -18,7 +18,7 @@ Caleb started his routine: bathroom, water, window, desk.
 
 Taiga checked his Oracle. Three group notifications and a message from Keitaro from yesterday afternoon.
 
-**Keitaro:** Hope the exchange went well! The mountain campus looked beautiful in the picture you sent.
+**Keitaro:** Hope the exchange went well!
 
 Then, later:
 
@@ -176,43 +176,55 @@ Taiga waited. Aaron looked at the pavement.
 
 That stopped him.
 
-Aaron continued. “I was pissed. You hit exactly where it hurt, and I wanted to hit back harder.”
+Aaron rubbed one hand over the back of his neck. “You hit exactly where it hurt. Then Leo stepped in and it felt like both of you were on me.”
 
-“So you dragged Leo into it.”
+“He told you to stop.”
+
+“I know.”
+
+“You made that into something else.”
 
 “Yeah.”
 
-Aaron looked up. “I’d noticed you two were around each other a lot. That was it. I didn’t know what it meant. I still don’t. I knew bringing it up would get a reaction, so I did.”
+Aaron looked up. “I’d noticed you two were around each other a lot. That was it. I didn’t know what it meant. I still don’t. When he stepped in, I used it because I was angry and I knew it would get under your skin.”
 
-Taiga’s hands curled. Aaron saw it.
+Taiga’s hands curled.
 
-“It was fucked.”
+“And then you said the other thing.”
+
+Aaron looked away. “Yeah.”
+
+“Why?”
+
+“Because by then I wanted to hurt you both.”
 
 Silence.
 
-“I’m sorry.”
-
-No speech after it. No defense.
-
-Taiga wanted to say something cruel, something specific enough to land. He could. That was the problem.
-
-He swallowed it.
+Aaron swallowed. “It was fucked.”
 
 “I’m still fucking angry.”
 
-Aaron nodded. “Yeah.”
+“I know.”
 
 “I don’t forgive you.”
 
-“Okay.”
+Aaron nodded. “Okay.”
 
 “I don’t know if I will.”
 
-Aaron’s face tightened. “Okay.”
+His face tightened. “Okay.”
 
-Taiga looked away, then asked, “What did Mercer say?”
+Taiga looked away, then back toward the athletic complex. “What did Mercer say?”
 
-Aaron blinked. “That I’m an adult and he shouldn’t have to explain why humiliating teammates is bad for team cohesion.”
+“Gav told him there’d been a blowup Saturday night. He asked me what I said.”
+
+“And?”
+
+“I told him.”
+
+Taiga waited.
+
+Aaron exhaled. “He said I’m an adult and he shouldn’t have to explain why humiliating teammates is bad for team cohesion.”
 
 “That sounds like him.”
 
@@ -276,33 +288,45 @@ Taiga looked over. “That is not a question.”
 
 Caleb kept reading. Taiga lasted thirty seconds.
 
-“Aaron said something at Pinetree.”
+“Aaron and I got into it at Pinetree.”
 
 Caleb looked over. “About?”
 
-“Me and Leo.”
+“Training. At first.”
 
-Caleb waited. Taiga rubbed both hands over his face.
+Caleb waited.
 
-“He was pissed. He said we’re always together. Then I lost it.”
+“He said I always have to be the smartest person in the room.”
+
+Taiga rubbed both hands over his face.
+
+“And?”
+
+“I lost it.”
 
 Caleb nodded once. “Okay.”
 
-“And Leo followed me outside.”
+“Leo stepped in. Then Aaron started saying shit about us. How we’re always together. How it felt like both of us were against him.”
+
+“And then?”
+
+“Then I left.”
 
 Caleb said nothing.
 
-“I told him to leave.”
+“Leo followed me outside.”
 
 Another pause.
 
-“Did he?”
+“I told him he was making it worse just by being there.”
+
+“Did he leave?”
 
 “Eventually.”
 
-Taiga looked at the floor. “I said I didn’t need him following me.”
+Taiga looked at the floor.
 
-Caleb was quiet, then asked, “Do you want him to keep leaving you alone?”
+Caleb was quiet for a moment, then asked, “Do you want him to keep leaving you alone?”
 
 Taiga looked up.
 
@@ -310,13 +334,15 @@ Simple question. Annoying question.
 
 “No.”
 
-Caleb nodded. “That seems useful.”
+He looked away again.
 
-“Fuck you.”
+“Doesn’t mean he shouldn’t.”
 
-“Okay.”
+Caleb considered that. “Those are different questions.”
 
-Taiga lay back and covered his face with one arm. Caleb returned to the spreadsheet.
+“I know.”
+
+Caleb nodded and went back to the spreadsheet.
 
 No diagnosis. No explanation.
 
@@ -356,139 +382,147 @@ Keitaro’s expression changed. “Yeah.”
 
 “Okay.”
 
-“Aaron said me and Leo are always together. That we act like a unit.”
+“Aaron and I got into it. About football, mostly.”
+
+“Mostly?”
+
+Taiga looked away. “He said I always have to be the smartest person in the room.”
 
 Keitaro waited.
 
-“I lost it. Said some horrible shit back.”
+“I lost it.”
 
-Keitaro winced.
+“How bad?”
 
-“Then I left.”
+“Bad.”
 
-“And Leo?”
+Taiga rubbed a hand over his face.
 
-“Followed.”
+“Leo stepped in when it got ugly. Aaron got pissed and started saying we were always together. Like we were both against him.”
 
-Keitaro went still for half a beat. Taiga caught it.
+Keitaro’s mouth tightened. “And?”
 
-“Don’t.”
+“And Aaron said something else. I left.”
 
-“I didn’t say anything.”
+Keitaro did not ask what.
 
-“Your face did.”
+Good.
 
-Keitaro exhaled. “Okay. What happened?”
+“Leo followed me.”
 
-Taiga looked away. “I told him he was making it worse.”
+Keitaro stayed quiet.
+
+“I told him he was making it worse.”
 
 “How?”
 
 “By being there.”
 
-Keitaro’s eyes dropped. Taiga knew before he said anything.
+Keitaro’s expression changed.
 
-“No.”
-
-Keitaro looked up. “You remember.”
-
-“Unfortunately.”
-
-Camp Buddy. The dock. Taiga telling Keitaro to leave. Keitaro not leaving.
-
-Taiga’s jaw tightened.
-
-Keitaro said, “You did that to me too.”
-
-“Fuck you.”
-
-“I’m not saying Leo is me.”
-
-“Good.”
-
-“I’m talking about what you did.”
-
-Taiga looked away. Keitaro continued carefully.
-
-“You kept trying to make me leave. Then you got angrier when I didn’t.”
-
-“That situation was different.”
-
-“Yes.”
-
-Taiga looked back. Keitaro nodded.
-
-“It was. I’m not comparing Leo to me. I’m saying I remember you telling me to go away when you wanted everything to stop.”
-
-Silence.
-
-Taiga’s throat tightened.
-
-Keitaro added, “And eventually you asked me to stay.”
-
-There it was. Memory, not instruction.
-
-Taiga rubbed a hand over his face. “He left.”
-
-“Because you asked him to.”
-
-“Yeah.”
-
-“And now?”
-
-“He’s leaving me alone.”
-
-Keitaro waited. Taiga glared at the screen.
-
-“What?”
+Taiga saw it. “What?”
 
 “Nothing.”
 
-“Good.”
+“Keitaro.”
 
-Another pause.
+Keitaro looked down for a second, then back at him.
 
-Then Taiga said, “I don’t want him to.”
+“Christmas.”
 
-Keitaro nodded. No smile. No revelation.
+Taiga went still.
+
+“The dock,” Keitaro added.
+
+“Don’t.”
+
+“You asked me what would happen if it came back.”
+
+Taiga’s jaw tightened.
+
+Keitaro continued carefully. “You said you were scared there was some part of you that would come back one day and you’d hurt somebody because you couldn’t deal with your own shit.”
+
+Taiga looked away.
+
+“I didn’t bring that up.”
+
+“I know. I did.”
+
+Silence.
+
+Taiga stared at the wall beside the screen.
+
+Eventually he said, “Leo told me he thought I was different.”
+
+Keitaro said nothing.
+
+“Maybe he was wrong.”
+
+“Taiga.”
+
+“What?”
+
+“You had one horrible night.”
+
+“And hurt him.”
+
+“Yeah.”
+
+The agreement landed harder than reassurance would have.
+
+Keitaro did not soften it.
+
+Taiga swallowed. “I don’t want him leaving me alone.”
 
 “Okay.”
 
-“I don’t know what the fuck I’m supposed to do with that.”
+“But maybe he should.”
 
-“You don’t have to decide everything tonight.”
+Keitaro was quiet for several seconds.
 
-Taiga looked at him. Keitaro shrugged.
+Then: “You remember what I told you at Christmas?”
 
-“But you probably know whether he deserved what you said.”
+Taiga laughed without humor. “Trust my friends.”
 
-Taiga’s jaw tightened. “No.”
+“Yeah.”
 
-Keitaro waited. Taiga looked down.
+“Great fucking plan.”
 
-“He didn’t.”
+“I didn’t say it was easy.”
 
-“That seems like a place to start.”
+Taiga looked down.
 
-“How?”
-
-“I don’t know.”
+Keitaro added, “I’m not telling you to call him tonight. I’m not telling you what Leo wants either. I don’t know.”
 
 “Useful.”
 
-“I’m serious. I can tell you what happened with me. I can’t tell you what to say to Leo.”
+“I’m serious. You can decide what you did. You can decide what you’re sorry for. You don’t get to decide the rest for him.”
 
-“Why not?”
+Taiga hated that because it sounded familiar.
 
-“Because then you’ll say my version.”
+He said nothing.
 
-“That would probably be better.”
+Keitaro let him.
 
-“It would sound terrible coming out of you.”
+After a while Taiga said, “He didn’t deserve any of it.”
 
-Taiga almost laughed. “Fuck you.”
+“No.”
 
-Keitaro smiled.
+Another answer without cushioning.
+
+Good.
+
+Taiga breathed out slowly. “I don’t know what I’m supposed to say to him.”
+
+“I don’t know either.”
+
+“That’s twice you’ve been useless.”
+
+“Consistent service.”
+
+Taiga almost smiled. “Fuck you.”
+
+Keitaro smiled back.
 
 They spoke for another ten minutes about everything except Leo: Hiro’s kitchen lab, Hunter sending photographs of a sculpture he hated, Yoichi refusing a group call because everybody had “annoying faces.”
 
@@ -586,303 +620,179 @@ Taiga opened his mouth. Nothing came out.
 
 Fantastic.
 
-He had walked Leo across campus, apologized, sat down and announced there was something bad he had never told him. Now his throat had apparently resigned.
+He had walked Leo across campus after film, found an empty bench and managed an apology before his throat apparently resigned.
 
 Leo waited. No joke, no rescue.
 
-Taiga stared at his hands. “The summer before last.”
+Taiga stared at his hands.
 
-Leo’s expression shifted slightly. Taiga rubbed his thumb across one knuckle.
+“The guy I told you about.”
 
-“I went back to Camp Buddy because I’d fucked things up the summer before.”
+Leo’s expression shifted slightly.
 
-Leo said nothing.
+“The one where it got complicated?”
 
-“I had a reputation already. Angry. Fighting. Acting like I didn’t give a shit about anything.” Taiga looked away. “Which was bullshit.”
+“Yeah.”
+
+Taiga rubbed his thumb across one knuckle.
+
+“His name was Kieran.”
+
+Leo stayed quiet.
+
+“He was my best friend before Camp Buddy. Then we started dating.”
+
+That got the smallest reaction. Not surprise exactly. Attention.
+
+Taiga looked at the pavement.
+
+“By the time camp happened, things between us were already bad. We fought all the time. I was angry at him. He was angry at me. Neither of us knew when to stop.”
+
+Leo listened.
+
+“And I was trying to make Camp Buddy work anyway.”
+
+“What do you mean?”
+
+Taiga exhaled.
+
+“I already had a reputation there. Fighting. Being difficult. Acting like I didn’t care about anything.” He looked away. “I spent months trying to prove I could be something else.”
 
 The park around them remained normal. People crossed the path twenty meters away. Somebody rode past on a bicycle. A dog barked near Central.
 
-“I went back because I wanted to fix it.”
-
-Leo nodded slowly. Taiga continued before he could stop.
-
-“Keitaro showed up.”
-
-Leo knew the name from calls, messages, photographs, camp stories.
-
-“He and Hiro came together. Keitaro was easy with people. He listened. Helped. Remembered shit people said. Everybody liked him.”
-
-Leo waited.
-
-“And I fucking hated him.”
-
-Leo’s eyebrows lifted.
-
-“Not immediately,” Taiga added.
-
-“That makes it better.”
-
-Taiga looked at him. The joke had escaped before Leo could stop it, and for one second something familiar existed between them.
-
-“Asshole.”
-
-Leo almost smiled. Then the seriousness returned.
-
-“I thought he was fake.”
-
-“Was he?”
-
-“No.” Immediate. “That was the problem.”
-
-Taiga looked at the ground. “He got accepted too fast. Goro trusted him. Everybody trusted him. I could do something right and still feel like people were waiting for the part where I ruined it.”
+“For a while, it worked.”
 
 Leo did not interrupt.
 
-“I started trying to prove everybody was wrong about him.”
+“I had friends. People trusted me. I had a place there.”
 
-“How?”
+Taiga swallowed.
 
-Taiga breathed. “There was a picture of Goro.”
-
-“Camp president.”
-
-“Yeah.”
-
-“Bad picture?”
-
-“Very.”
-
-“How bad?”
-
-“Not relevant.”
-
-Leo nodded once. “Fair.”
-
-“I used it to frame Keitaro.”
-
-Leo stopped moving. “What?”
-
-“I set it up so it looked like he was responsible.”
-
-“For the picture?”
-
-“Yeah.”
-
-“Why?”
-
-Taiga looked at him. “Because I wanted everybody to see him the way I did.”
-
-Leo absorbed that.
-
-“I thought if Goro got pissed enough, Keitaro would get kicked out.”
-
-Leo stared. “You were trying to get him expelled from camp.”
-
-“Yes.”
-
-The word sat between them. Leo looked away. Taiga waited, then continued.
-
-“The others figured it out. Eventually I got caught.”
-
-“Did you admit it?”
-
-“Not intentionally.”
-
-Leo closed his eyes briefly. “Oh, fuck.”
-
-“Yeah.”
-
-“What did Keitaro do?”
-
-Taiga looked at his hands again. “Not what I wanted.”
-
-“What did you want?”
-
-Taiga stayed quiet too long. Leo did not let him off.
-
-Taiga exhaled. “I wanted him to hate me.”
-
-Leo’s face went still.
-
-“Or hit me. Tell me to fuck off. Something.”
-
-“Why?”
-
-“Because then I’d be right.”
-
-Taiga wished the sentence had stayed inside. Too late.
-
-“If he hated me, I could tell myself I’d been right not to trust him.”
-
-Leo looked down. “Did he?”
-
-“No.”
-
-Taiga laughed once, almost angry at the memory. “He kept trying to understand.”
-
-“That sounds like Keitaro.”
-
-“You’ve never met him.”
-
-“I’ve heard him on speaker.”
-
-“That is not meeting someone.”
-
-“He asks follow-up questions through a phone like his life depends on it.”
-
-Taiga almost smiled. “Yeah.”
-
-Then it disappeared.
-
-“He wouldn’t give me what I wanted. So I kept pushing.”
-
-Leo looked at him. “What happened?”
-
-Taiga swallowed. “Keitaro had a journal.”
-
-Leo nodded slowly. “The one you guys rebuilt?”
-
-Taiga looked at him sharply.
-
-“You told me once everybody made him another one.”
-
-Right. Sanitized version.
-
-Taiga looked away. “Yeah.”
-
-Leo understood before Taiga said it. “Taiga.”
-
-“I burned it.”
-
-Silence. Real silence.
-
-“I took it. Pictures, notes, everything.”
-
-Leo stared at him.
-
-“And I burned it.”
-
-Leo looked down. Taiga forced himself to wait.
-
-Then Leo asked, “Why?”
-
-Taiga laughed once. “I wanted to hurt him.”
-
-The words came out flat.
-
-“He still wouldn’t become what I needed him to be, so I found the thing that mattered most and destroyed it.”
-
-Leo’s jaw tightened. “That’s fucked up.”
-
-Taiga nodded. “Yeah.”
-
-No defense.
-
-Leo looked at him. “What happened after?”
-
-“Eduard slapped me.”
-
-“Who?”
-
-“Another camper.”
-
-Leo frowned immediately. “That’s not okay.”
-
-“I deserved it.”
-
-“No.”
-
-Taiga looked at him. Leo’s voice stayed firm.
-
-“What you did was fucked. Him hitting you is a different thing.”
-
-Taiga looked away.
-
-Fine. He could accept separate categories.
-
-“Keitaro still didn’t leave.”
+“Then SportsFest happened.”
 
 Leo waited.
 
-“Eventually everybody helped rebuild the journal. Not the same one. We couldn’t replace everything.” Taiga rubbed his hands together. “I remembered some of it. Other people remembered pieces. We used mine as the replacement.”
+“Kieran framed me for something he did.”
 
-Leo was quiet.
+Leo’s eyebrows pulled together. “Framed you how?”
 
-“That didn’t undo it.”
+“Enough that everybody thought I’d done it.”
 
-“No.”
+Taiga’s hands tightened together.
 
-“He still lost the original.”
+“There was a fight. Blood. Everybody looking at me like they finally had proof I was exactly the person they’d always thought I was.”
 
-“Yeah.”
+Leo went very still.
 
-Taiga looked at him. “That’s kind of the point.”
+“Kieran left. I stayed.”
 
-Leo frowned slightly. Taiga struggled for the sentence.
-
-“We fixed what we could. It didn’t make what I did disappear.”
-
-Leo nodded.
-
-For a while neither spoke. Taiga had expected relief after telling him. There was none. Just exhaustion.
-
-Leo finally asked, “Why are you telling me this now?”
-
-Taiga looked at the pavement. “Because Saturday felt familiar.”
-
-Leo did not move.
-
-“I told Keitaro to leave too. A lot.”
-
-Leo watched him.
-
-“And yesterday he reminded me.”
-
-“You called him?”
+“With the blame.”
 
 “Yeah.”
 
-“What did he say?”
+Taiga looked down.
 
-“Mostly that I’m an asshole.”
+“We were done after that.”
 
-Leo’s mouth twitched. “Professional assessment.”
+A few seconds passed.
 
-“Apparently.”
+Leo asked, “Did you still love him?”
 
-Taiga breathed. “He reminded me that eventually I stopped trying to decide for him.”
+Taiga hated the question because the answer was easy.
 
-Leo’s expression tightened slightly. Taiga forced himself to continue.
+“Yeah.”
 
-“I did that to you Saturday.”
+Leo looked away briefly.
 
-“What?”
+“That was part of what fucked me up. The person who did that to me was also somebody I loved. And by the end, the relationship and Camp Buddy were tangled together so badly that I couldn’t think about one without the other.”
 
-“I decided that because Aaron noticed something, you being there was the problem. Then I told you to leave before you could decide anything yourself.”
+Taiga rubbed his palms against his jeans.
 
-Leo looked away. Taiga’s throat tightened.
+“I’d spent all that time building something there, and then it felt like one relationship going bad had swallowed the whole thing.”
 
-“I’m sorry.”
+Leo looked back at him.
 
-Leo stayed quiet for several seconds, then said, “I believe you.”
+Taiga forced himself to continue.
 
-Taiga looked at him. Leo’s face was tired, still hurt, not closed.
+“I’m not saying Kieran destroyed everything by himself. I was bad too. We were bad for each other by then.”
 
-“That doesn’t mean I’m not angry.”
+“Okay.”
+
+“Saturday…”
+
+The word sat there.
+
+Leo’s face tightened slightly.
+
+Taiga looked at the ground.
+
+“When Aaron made it about me and you in front of everybody, I was already out of control. Then you followed me, and I made you the problem.”
+
+Leo said nothing.
+
+“I know you’re not Kieran.”
 
 “I know.”
 
-“And I’m not doing that again.”
+“That’s not what I mean.”
 
-Taiga frowned. “What?”
+“I know.”
 
-“Saturday.” Leo rubbed both palms against his jeans. “If you tell me you need space, I’ll give you space.”
+Taiga’s throat tightened.
 
-Taiga nodded.
+“It felt like the same shape. Something between me and someone else suddenly becoming everybody’s business. Me losing my shit. Somebody close enough to get hurt by it.”
 
-“But if you’re angry because somebody else said something about us, don’t turn around and make me pay for it.”
+Leo looked down.
 
-The sentence landed cleanly. Taiga looked down.
+“And when you said you thought I was different…”
+
+Taiga stopped.
+
+The sentence still hurt.
+
+Leo’s hands tightened together.
+
+Taiga continued anyway.
+
+“I thought maybe you were wrong.”
+
+Leo looked at him.
+
+“That’s why I didn’t come back Sunday.”
+
+Understanding moved across Leo’s face, followed by something sharper.
+
+Taiga kept going before he could interrupt.
+
+“I wanted to. On the bus. At the service station. Every fucking time I saw you.”
+
+“Then why didn’t you?”
+
+“Because I thought maybe staying away was the one thing I could do that wouldn’t make it worse.”
+
+Leo stared at him.
+
+Taiga looked away.
+
+“I thought maybe you were better off.”
+
+Leo’s answer came immediately.
+
+“You don’t get to decide that.”
+
+Taiga looked back.
+
+Leo’s voice was quiet, but there was no hesitation in it.
+
+“I meant what I said Saturday. I’m not chasing you again if you tell me to go.”
+
+Taiga swallowed. “Okay.”
+
+“But you don’t get to decide I’m better off without you and call that doing me a favor.”
+
+Taiga said nothing.
+
+“If you need space, say you need space. If you’re angry, be angry. But don’t tell me I’m making something worse just because I came after you.”
 
 “Okay.”
 
@@ -890,11 +800,31 @@ The sentence landed cleanly. Taiga looked down.
 
 “I know.”
 
-Leo exhaled. “And don’t tell me I’m making something worse just by caring whether you’re okay.”
+Leo breathed out.
 
-Taiga swallowed. “Okay.”
+For a while neither of them spoke.
 
-Another silence. Leo looked toward the path, and Taiga looked too.
+Then Taiga said, “I’m sorry.”
+
+Leo looked at him.
+
+“For Saturday. Not just outside. All of it.”
+
+“I believe you.”
+
+Taiga’s chest tightened.
+
+“That doesn’t mean I’m not still angry.”
+
+“I know.”
+
+“And I’m not pretending it didn’t happen.”
+
+“I know.”
+
+Leo looked toward the path.
+
+Taiga did too.
 
 No labels arrived. No question about what they were.
 
@@ -904,43 +834,31 @@ After a while, he asked, “Do you regret Pinetree?”
 
 Leo looked over. “What part?”
 
-“The trail.”
+“The walk Friday.”
 
 Leo considered. “No.”
 
-Taiga nodded. “The rink?”
-
-Leo stared at him. Taiga realized what he had asked.
-
-“Forget it.”
-
-“No. Absolutely not. You brought the rink into court.”
-
-“Leo.”
-
-“You caught me.”
-
-“You fell on me.”
-
-“You were holding my waist.”
-
-Taiga’s face heated instantly. “Fuck you.”
-
-Leo laughed—actual laughter, short and surprised. Taiga stared while Leo covered his mouth.
-
-“Sorry.”
-
-“You’re not.”
+“The overlook?”
 
 “No.”
+
+“Enzo coming?”
+
+Leo looked offended. “Deeply.”
+
+Taiga laughed before he could stop himself.
+
+Leo’s mouth twitched.
+
+“There. That was almost a normal human sound.”
+
+“Fuck you.”
+
+“Better.”
 
 For a few seconds, the old rhythm returned. Then quiet again.
 
 Better quiet.
-
-Leo looked at him. “I don’t regret it.”
-
-Taiga looked away. “Okay.”
 
 Leo leaned forward with his elbows on his knees. “We’re still not fine.”
 
@@ -948,7 +866,9 @@ Taiga nodded. “Yeah.”
 
 “But I don’t want to stop talking to you.”
 
-Taiga looked at him too quickly. Leo smiled faintly.
+Taiga looked at him too quickly.
+
+Leo noticed. Of course.
 
 “Relax.”
 
@@ -962,11 +882,11 @@ Taiga looked at him too quickly. Leo smiled faintly.
 
 “Worst decision of my life.”
 
-“Not even top ten based on the last forty minutes.”
+Leo looked at him. “Based on the last twenty minutes, I’m not even competing.”
 
-Taiga stared. Leo winced.
+Taiga stared.
 
-“That was dark.”
+Leo winced. “Too dark?”
 
 “A little.”
 
@@ -982,7 +902,9 @@ Leo watched him.
 
 “I mean it. I’m not going to decide what you’re supposed to do because I’m scared of the answer.”
 
-Leo’s expression changed. Taiga hated how exposed the sentence felt.
+Leo’s expression changed.
+
+Taiga hated how exposed the sentence felt.
 
 Good.
 
