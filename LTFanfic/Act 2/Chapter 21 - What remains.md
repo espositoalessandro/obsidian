@@ -787,7 +787,7 @@ A time. A place. No way to pretend later that they had never agreed.
 
 Leo picked up his bag.
 
-“See you at seven.”
+“See you after film.”
 
 Taiga nodded.
 
