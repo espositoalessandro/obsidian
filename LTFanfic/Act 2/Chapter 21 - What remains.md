@@ -343,15 +343,16 @@ Good.
 Taiga ate because food had been placed within reach and refusing would require more effort.
 Then they both left.
 
-At eight-thirty, he opened Keitaro’s chat, stared at it
+At eight-thirty, he opened Keitaro’s chat and stared at it.
 
 **Taiga:** you free?
 
-After a few minutes, Keitaro answered
+After a few minutes, Keitaro answered.
 
-**Keitaro:** Hey, yes
+**Keitaro:** Hey, yeah
 
-Taiga called
+Taiga called.
+
 Keitaro answered from his dorm room wearing a sweatshirt and the expression of someone who had been studying.
 
 “Hey.”
@@ -366,7 +367,7 @@ Keitaro smiled faintly. “You look terrible.”
 
 “Sorry.”
 
-Taiga sat against the wall. “I... something has happened this weekend.”
+Taiga sat against the wall. “I... something happened this weekend.”
 
 Keitaro’s expression changed. “Okay.”
 
@@ -374,7 +375,7 @@ Keitaro’s expression changed. “Okay.”
 
 “What thing?”
 
-“Aaron and I got in an argument. About football, mostly.”
+“Aaron and I got into an argument. About football, mostly.”
 
 “Mostly?”
 
@@ -396,9 +397,9 @@ Keitaro’s mouth tightened. “And?”
 
 “I left.”
 
-"Taiga..."
+“Taiga...”
 
-“Leo then followed me.”
+“Leo followed me.”
 
 Keitaro stayed quiet.
 
@@ -410,65 +411,63 @@ Keitaro stayed quiet.
 
 Keitaro’s expression changed.
 
-"Why he being there made things worse?"
+“Why did him being there make it worse?”
 
-"Because-"
+“Because—”
 
-Taiga exhaled
+Taiga exhaled.
 
-"Because it was like he basically made Aaron like he was right."
+“Because him following me made it look like Aaron was right.”
 
-"About what?"
+“About what?”
 
-"I don't know."
+“I don’t know.”
 
-"Then why did that make you so upset? From what you've told me, you and Leo looked like good friends. Why would that be a problem?"
+“Then why did that make you so upset? From what you’ve told me, you and Leo are good friends. Why would that be a problem?”
 
-"He... was implying something else."
+“He... was implying something else.”
 
-"Oh. I see."
+“Oh. I see.”
 
-Pause
+For a moment, neither spoke.
 
-"Was he right though?"
+Then Keitaro asked, “Was he wrong about you two always being together?”
 
-Taiga looked at him with a surprised face
+Taiga stared at him. “That’s not what he meant.”
 
-"Of course not."
-
-"Then what's the problem?"
+“I know. I’m asking about the part he actually saw.”
 
 Taiga felt something uncomfortable moving inside him.
 
-"I don't know. I don't want anyone saying shits about me they know nothing about."
+“We spend time together. So what?”
 
-"And that was enough to make Leo go away?"
+“So why did Aaron noticing that make you want Leo gone?”
 
 Taiga froze.
 
-"What are you suggesting then?"
+“What are you suggesting?”
 
-"Nothing, I don't want to imply anything either! I'm just saying that maybe... Leo didn't deserve that."
+“Nothing. I don’t want to imply anything either.” Keitaro paused. “I’m just saying Leo didn’t deserve that.”
 
-Taiga felt some heat coming up, but he tried to swallow it down. Keitaro was right.
+Taiga felt heat rising, but he swallowed it down. Keitaro was right.
 
-"...No. He didn't"
+“...No. He didn’t.”
 
-"Then why don't you tell him?"
+“Then why don’t you tell him?”
 
-Taiga took a deep breath and finally put the thing that was haunting him into words.
+Taiga took a deep breath and finally put the thing that had been haunting him into words.
 
-"Because I hurt him. And I don't want to hurt him again."
+“Because I hurt him. And I don’t want to hurt him again.”
 
 Keitaro looked down for a second, then back at him.
 
-“Remember when we talked, back at camp?”
+“Remember when we talked back at camp?”
 
 Taiga went still.
 
 “The dock,” Keitaro added.
 
-“Yeah."
+“Yeah.”
 
 “You asked me what would happen if it came back.”
 
@@ -476,16 +475,15 @@ Taiga’s jaw tightened.
 
 Keitaro continued carefully. “You said you were scared there was some part of you that would come back one day and you’d hurt somebody because you couldn’t deal with your own shit.”
 
-Taiga looked away. They sat in silence for a moment.
-Taiga stared at the wall beside the screen.
+Taiga looked away. They sat in silence for a moment while he stared at the wall beside the screen.
 
 Eventually he said, “Leo told me he thought I was different.”
 
 Keitaro said nothing.
 
-“He sounded like he trusted me. And I broke his trust.” 
+“He sounded like he trusted me. And I broke his trust.”
 
-He could feel something rising in his throat, and his eyes starting to wet.
+Something rose in Taiga’s throat. His eyes began to water.
 
 “Taiga.”
 
@@ -499,17 +497,17 @@ He could feel something rising in his throat, and his eyes starting to wet.
 
 The agreement landed harder than reassurance would have. Keitaro did not soften it.
 
-"Are you really ok with leaving things this way?"
+“Are you really okay with leaving things this way?”
 
-Taiga swallowed. Then he shook his head, “I don’t want him leaving me alone.”
+Taiga swallowed, then shook his head. “I don’t want him leaving me alone.”
 
 “Okay.”
 
 “But maybe he should.”
 
-He could feel a tear running on his cheek. He rubbed it off
+A tear ran down Taiga’s cheek. He wiped it away.
 
-"Fuck."
+“Fuck.”
 
 Keitaro was quiet for several seconds.
 
@@ -517,7 +515,7 @@ Then: “You remember what I told you at Christmas?”
 
 Taiga laughed without humor. “Trust my friends.”
 
-“Yeah. And this friend in particular is telling you to go talk to him.”
+“Yeah. And right now you’re deciding for him.”
 
 “Great fucking plan.”
 
@@ -532,6 +530,7 @@ Keitaro added, “I’m not telling you to call him tonight. I’m not telling y
 “I’m serious. You can decide what you did. You can decide what you’re sorry for. You don’t get to decide the rest for him. But I think he deserves the possibility to choose.”
 
 Taiga hated that because it sounded familiar.
+
 He said nothing. Keitaro let him.
 
 Taiga breathed out slowly. “I don’t know what I’m supposed to say to him.”
@@ -546,17 +545,17 @@ Taiga almost smiled. “Fuck you.”
 
 Keitaro smiled back.
 
-"You know, Hiro made me watch an anime lately."
+“You know, Hiro made me watch this anime recently.”
 
-"So what?"
+“So what?”
 
-"By the end one of the characters said something I really liked. He said that the rule to say sorry to a friend is going after them, tell them you're sorry and then promise that you will never do that again. Then you maintain that promise with all you've got."
+“There was this character who said something about apologizing to a friend. You go to them, say you’re sorry, promise you’ll try not to do it again... and then you do everything you can to keep that promise.”
 
-"And what if I end up breaking that promise?"
+“And what if I end up breaking it?”
 
-"It's fine, as long as you still gave everything you had. Because that's the only thing you can control."
+“Then you deal with it if it happens. The promise isn’t that you’ll become perfect. It’s that you’ll give everything you’ve got not to do it again. That’s the part you can control.”
 
-"Great. Now I'm being counseled by an anime."
+“Great. Now I’m being counseled by an anime.”
 
 Keitaro laughed.
 
@@ -576,9 +575,9 @@ Then Keitaro yawned.
 
 Keitaro smiled. “I’m glad you called.”
 
-Taiga looked away. “Yeah. Thanks Keitaro.”
+Taiga looked away. “Yeah. Thanks, Keitaro.”
 
-“Night Taiga.”
+“Night, Taiga.”
 
 “Night.”
 
