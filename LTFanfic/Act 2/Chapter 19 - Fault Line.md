@@ -396,23 +396,87 @@ Some people went upstairs.
 
 Scott found a television showing a match and sat down.
 
-Enzo wanted to explore.
+Taiga was finishing his water when Leo appeared beside the table already wearing his coat.
 
-“Explore what?” Gav asked.
+“Overlook.”
 
-“The mountain.”
+Taiga looked at the clock.
 
-“We are on a university campus.”
+“Give me five minutes.”
 
-“Exactly.”
+Leo smiled. “I knew you remembered.”
 
-“That does not answer anything.”
+Enzo looked up from three seats away.
 
-Enzo went anyway.
+“Overlook?”
 
-Taiga ended up outside with Leo, Enzo, Aaron and Noah because saying no would have required more effort than putting his coat back on.
+“No,” Taiga said.
 
-The path behind the lodge climbed through trees toward an overlook marked on a small wooden sign.
+“That sounds like a place.”
+
+“It isn’t.”
+
+Leo looked at him. “Strong defense.”
+
+Enzo was already standing.
+
+“Where?”
+
+Gav pointed at him with a fork. “Leave them alone.”
+
+Enzo stopped.
+
+Then looked from Gav to Taiga to Leo.
+
+His expression changed into something unbearable.
+
+Taiga stood.
+
+“Fine. Come.”
+
+Enzo smiled immediately.
+
+“Beautiful.”
+
+Noah, passing their table with his tray, heard enough to understand.
+
+“The overlook trail?”
+
+Leo nodded.
+
+“Path might be icy.”
+
+“Is it bad?”
+
+“No. I can show you where it starts.”
+
+Enzo pointed at him. “Host responsibilities.”
+
+Noah looked tired already.
+
+Aaron came back from getting coffee while they were putting their jackets on.
+
+“Where are you going?”
+
+Enzo answered before anybody else could.
+
+“Cultural exchange.”
+
+Taiga said, “Overlook.”
+
+Aaron looked toward Leo.
+
+Then at Taiga.
+
+“Mind if I come?”
+
+“Why would I?”
+
+Aaron grabbed his coat from the back of his chair.
+
+Five minutes later, the five of them were outside.
+
+The path behind the lodge climbed through trees toward the overlook Taiga and Leo had found the night before.
 
 It was supposed to take fifteen minutes.
 
