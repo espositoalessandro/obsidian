@@ -725,37 +725,7 @@ He looked at Taiga once.
 
 Taiga looked back.
 
-Nothing happened.
-
-Good.
-
-Mercer called them in again.
-
-The short-sided game was worse.
-
-Leo intercepted one of Taiga’s passes and drove forward. Taiga recovered, stayed with him and forced him toward the line.
-
-Leo stopped the ball under his foot.
-
-Taiga stopped too.
-
-For one second they were close enough to speak without anybody else hearing.
-
-Leo said, “Still want to talk?”
-
-Taiga’s chest tightened.
-
-“Yeah.”
-
-Mercer shouted, “MOVE IT!”
-
-Leo knocked the ball backward to Scott and ran.
-
-The moment disappeared.
-
-Taiga followed play.
-
-That was somehow worse than if Leo had ignored him.
+They exchanged a nod.
 
 ---
 
@@ -783,15 +753,9 @@ Mercer paused the frame just before Taiga’s cross.
 
 “This,” he said, “is what happens when the decision is made early.”
 
-Taiga stared at the screen.
-
-Leo sat two rows ahead.
-
-He did not turn around.
+Taiga stared at the screen. Leo sat two rows ahead. He did not turn around.
 
 Mercer let the clip run. Cross. Finish. Celebration.
-
-Leo’s hand landing on Taiga’s shoulder for half a second.
 
 Then the next clip.
 
@@ -831,17 +795,11 @@ Taiga nodded toward the doors.
 
 They went outside together and took the path behind the athletic center.
 
-They started without deciding who went first.
-
 For the first few minutes, neither said anything. Campus moved around them: bikes on the path, somebody laughing near Apollo, the dining hall doors opening and closing behind a stream of students.
 
-Taiga had spent most of the day wanting this conversation.
-
-Now that it existed, every possible opening sounded wrong.
+Taiga had spent most of the day wanting this conversation. Now that it existed, every possible opening sounded wrong.
 
 Leo did not help him.
-
-Good.
 
 They reached the quieter path behind Central, where the benches faced a strip of grass and the traffic noise dropped away.
 
@@ -855,87 +813,107 @@ Leo looked around, then sat.
 
 Taiga sat beside him, leaving enough space that neither of them had to think about it.
 
-For a few seconds he stared at the pavement.
+For a few seconds he stared at the pavement. Finally he took a deep breath.
 
 Then: “I’m sorry.”
 
-Leo looked at him.
-
-Taiga swallowed.
+Leo looked at him. Taiga swallowed.
 
 “For Saturday.”
 
 Leo’s face stayed careful.
+Taiga opened his mouth. Nothing came out. Fantastic.
+Leo waited. No joke, no rescue. Taiga stared at his hands.
 
-Taiga opened his mouth.
+"What I told you ...why I said that. I did it because I was scared as fuck"
 
-Nothing came out.
+Taiga looked up in the sky for a second and exhaled.
 
-Fantastic.
+"The first time I went to camp, I didn't go alone. There was this guy with me, the one I mentioned you."
 
-Leo waited. No joke, no rescue.
+"Your ex?"
 
-Taiga stared at his hands.
+"Yeah. Well... back then I was different. I liked hanging with people, talking, opening up and stuff."
 
-What I told you
-Why I said that 
-I did it because I was scared as fuck
+Leo didn't comment. Taiga continued,
 
-The first time I went to camp, I didn't go alone
-There was this guy with me, the one I mentioned you
+"I was accepted, even loved, by lots of people in just a few weeks."
 
-Yeah i remember 
+He paused a second.
 
-Yeah well... back then I was different.
-I liked hanging with people, talking, opening up and stuff.
+"My ex though, he saw things differently. He went to camp to spend more time with me and eventually got jealous of the others."
 
-I was accepted, loved even by lots of people in just a few weeks.
-But... that guy didn't 
-He wanted to spend more time with me and eventually got jealus of the others
-I called him selfish and we got in more and more arguments
+Taiga slowly rubbed his hands nervously.
 
-At some point scoutmasters organized a sportfest. One guy from the other team showed up all beaten up and claimed that I did that
-It was a nightmare 
-My worst dreams came true, everyone turned against me and a guy tried to defend me got punched
-I lost it, and I punched back. Eventually, it became a brawl
+"We fought, I called him selfish and we got more and more into arguments."
 
-Things spiraled.
-Words spread out of the camp, parents brought their sons home, we even showed on the news
+He took another deep breath.
 
-For me though, it was even worse
-People started bullying me, ambushing me in the bathroom
+"At some point scoutmasters organized a sportsfest. One guy from the other team showed up all beaten up and claimed that I did that."
 
-At some point, my ex couldn't take it anymore and confessed me that the one who set me up
+Leo's expression changed all of sudden. Now he showed concern.
 
-Leo looked horrified
+"It was a nightmare. My worst dreams came true. Everyone turned against me and a guy tried to defend me got punched."
 
-We got in a really bad argument. I got phisical, I shoved him and he punched me in the face
-That's where my scar comes from
+Taiga clenched his fists.
 
-Anyways, I broke up with him after that
-He returned home the day after, I've never seen him again since then.
-I stayed instead
+"I tried to defend him, that made things escalate. Eventually, it basically became a brawl."
 
-Taking the blame?
+"Shit."
 
-Pretty much, yeah
+"Then... things basically went shit. Words spread out of the camp, parents brought their sons home, we even showed up on the local news. Camp's reputation took a big hit."
 
-Leo went silent 
+Taiga snapped a blade of grass.
 
-Because you still loved him?
+"For me though, it was even worse. People started bullying me, ambushing me in bathrooms, woods, calling me names."
 
-Yeah, I suppose I was pretty fucked up back then.
+"Why didn't they expel them?"
 
-Anyways, I asked the scoutmasters for another chance
-One of them, Yoshinori, still believed in me somehow
-So the year after that I returned and met Keitaro and the others
-I fucked up pretty bad with him again, but eventually he forgave me and we became friends
+"Because they weren't caught and nobody would believe me anymore."
 
-So, when you told me to go away because of what Aaron said...
+"What about your boyfriend?"
 
-It felt like the same shape. Something between me and someone else suddenly becoming everybody’s business. Me losing my shit. Somebody close enough to get hurt by it.
+"Well... At some point, he couldn't take it anymore and confessed me that the one who set me up."
 
-I’d spent all that time building something there, and then it felt like one relationship going bad had swallowed the whole thing.
+Leo looked horrified.
+
+"Things went even more downhill. I completely lost it. I started shouting at him, then I got physical and shoved him and he punched me in the face."
+
+Taiga pointed the scar running on his nose.
+
+"That's where my scar comes from."
+
+Leo slowly put a hand on his mouth.
+
+"I broke up with him after that. He returned home the day after, I've never seen him again since then. I stayed instead."
+
+"You took the blame?"
+
+"Pretty much, yeah."
+
+Leo paused a second
+
+"Why?"
+
+"What for? Nobody would have believed me and even if they did, it wouldn't change what happened. Plus, I still was partly responsible for what he did. "
+
+Leo looked at him.
+
+"Because you didn't want to hurt him, right? You still loved him."
+
+Taiga closed his eyes.
+
+"Yeah."
+
+He paused a second
+
+"Then I returned the next year, fucked up again, but this time Keitaro brought me out of my shit."
+
+Taiga went silent. A minute passed, then Leo said,
+
+"So, when you told me to go away because of what Aaron said..."
+
+"It felt like the same shape. Something between me and someone else suddenly becoming everybody’s business. Me losing my shit. Somebody close enough to get hurt by it."
 
 Leo looked back at him.
 
@@ -945,19 +923,9 @@ Taiga forced himself to continue.
 
 The word sat there.
 
-Leo’s face tightened slightly.
-
-Taiga looked at the ground.
-
 “When you said you thought I was different…”
 
-Taiga stopped.
-
-The sentence still hurt.
-
-Leo’s hands tightened together.
-
-Taiga continued anyway.
+Taiga stopped. The sentence still hurt.
 
 “I thought maybe you were wrong.”
 
@@ -965,19 +933,15 @@ Leo looked at him.
 
 “That’s why I didn’t come back Sunday.”
 
-Understanding moved across Leo’s face, followed by something sharper.
+Understanding moved across Leo’s face. Taiga kept going before he could interrupt.
 
-Taiga kept going before he could interrupt.
-
-“I wanted to. On the bus. At the service station. Every fucking time I saw you.”
+“I wanted to. The same night, I wanted to text you. On the bus. At the service station. Every fucking time I saw you.”
 
 “Then why didn’t you?”
 
 “Because I thought maybe staying away was the one thing I could do that wouldn’t make it worse.”
 
-Leo stared at him.
-
-Taiga looked away.
+Leo stared at him. Taiga looked away.
 
 “I thought maybe you were better off.”
 
@@ -985,9 +949,7 @@ Leo’s answer came immediately.
 
 “You don’t get to decide that.”
 
-Taiga looked back.
-
-Leo’s voice was quiet, but there was no hesitation in it.
+Taiga looked back. Leo’s voice was quiet, but there was no hesitation in it.
 
 “I meant what I said Saturday. I’m not chasing you again if you tell me to go.”
 
@@ -995,23 +957,10 @@ Taiga swallowed. “Okay.”
 
 “But you don’t get to decide I’m better off without you and call that doing me a favor.”
 
-Taiga said nothing.
+Taiga said nothing. Leo breathed out. For a while neither of them spoke.
+Then Taiga said, 
 
-“If you need space, say you need space. If you’re angry, be angry. But don’t tell me I’m making something worse just because I came after you.”
-
-“Okay.”
-
-“I mean it.”
-
-“I know.”
-
-Leo breathed out.
-
-For a while neither of them spoke.
-
-Then Taiga said, "Are we okay?"
-
-Leo's face became serious again.
+"So... what happens now?"
 
 "It depends."
 
@@ -1025,40 +974,19 @@ Leo's face became serious again.
 
 Leo took a deep breath
 
-"What Aaron said. About us"
+"What Aaron said. About us."
 
-Taiga gulped 
+Taiga gulped.
 
-"I don't want it to change wherever we were going."
+"I don't want it to change... wherever we were going."
 
-Taiga didn't answer immediately and Leo continued
+Taiga didn't answer immediately and Leo continued,
 
 "I'm not ok if you start act differently with me around people."
 
 Taiga looked down
 
 "I wasn't planning to."
-
-
-
-
-
-
-Leo looked at him.
-
-“For Saturday. Not just outside. All of it.”
-
-“I believe you.”
-
-Taiga’s chest tightened.
-
-“That doesn’t mean I’m not still angry.”
-
-“I know.”
-
-“And I’m not pretending it didn’t happen.”
-
-“I know.”
 
 Leo looked toward the path.
 
@@ -1076,7 +1004,7 @@ Leo considered. “No.”
 
 “No.”
 
-“Enzo coming?”
+“...Enzo coming?”
 
 Leo looked offended. “Deeply.”
 
@@ -1090,9 +1018,7 @@ Leo’s mouth twitched.
 
 “Better.”
 
-For a few seconds, the old rhythm returned. Then quiet again.
-
-Better quiet.
+For a few seconds, the old rhythm returned. Then quiet again. Better quiet.
 
 Leo leaned forward with his elbows on his knees. “We’re still not fine.”
 
@@ -1100,9 +1026,7 @@ Taiga nodded. “Yeah.”
 
 “But I don’t want to stop talking to you.”
 
-Taiga looked at him too quickly.
-
-Leo noticed. Of course.
+Taiga looked at him too quickly and Leo noticed. Of course.
 
 “Relax.”
 
@@ -1126,53 +1050,17 @@ Leo winced. “Too dark?”
 
 “It was funny.”
 
-Leo looked surprised. Taiga shrugged.
+Leo looked surprised. Taiga shrugged. The warmth faded but did not disappear.
 
-The warmth faded but did not disappear.
-
-Taiga looked at his hands. “If you need space now, take it.”
-
-Leo watched him.
-
-“I mean it. I’m not going to decide what you’re supposed to do because I’m scared of the answer.”
-
-Leo’s expression changed.
-
-Taiga hated how exposed the sentence felt.
-
-Good.
-
-Leo nodded. “Okay.”
-
-Taiga looked at him. “That’s it?”
-
-“What do you want, paperwork?”
-
-“No.”
-
-“Good. Because your federal agencies are already out of control.”
-
-Taiga laughed once.
-
-Leo stood. “I’m going back.”
-
-Taiga’s chest tightened automatically. He did nothing with it.
-
-“Okay.”
-
-Leo put his hands in his coat pockets. “You coming?”
+Leo put his hands in his coat pockets and stood. “I'm freezing my ass on that bench. Want to go back in the house?”
 
 Taiga looked toward House Apollo, then toward his own dorm.
 
-“No.”
+“No, I'll stay here a little longer.”
 
 Leo nodded. “Okay.”
 
-Not hurt. Not test. Just answer.
-
-Taiga stood too.
-
-Leo said, “Thanks for telling me.”
+Then added, “Thanks for telling me.”
 
 Taiga looked away. “Yeah.”
 
@@ -1188,7 +1076,7 @@ Taiga looked away. “Yeah.”
 
 “Night.”
 
-Leo walked toward Apollo. Taiga turned the other way.
+Leo walked toward Apollo.
 
 ---
 
@@ -1198,11 +1086,7 @@ Taiga entered quietly, changed and got into bed. Then he opened Keitaro’s chat
 
 **Taiga:** told him
 
-Three dots appeared almost immediately.
-
 **Keitaro:** How did it go?
-
-Taiga thought.
 
 **Taiga:** awful
 
@@ -1212,7 +1096,7 @@ Then:
 
 **Keitaro:** That sounds about right.
 
-**Taiga:** fuck you
+**Taiga:** thanks
 
 Keitaro reacted with a heart. Taiga stared at it.
 
@@ -1220,7 +1104,7 @@ Keitaro reacted with a heart. Taiga stared at it.
 
 From the dark, Caleb said, “You’re smiling.”
 
-Taiga nearly threw the Oracle. “Are you fucking awake?”
+Taiga nearly threw the phone. “Are you fucking awake?”
 
 “Yes.”
 
@@ -1232,7 +1116,7 @@ Taiga nearly threw the Oracle. “Are you fucking awake?”
 
 “Good night.”
 
-Taiga put the Oracle down.
+Taiga put the phone down.
 
 Face up.
 
@@ -1274,13 +1158,12 @@ Thursday Data Structures lab.
 
 Taiga arrived first. Same row, same seat. He opened his laptop while the chair beside him remained empty.
 
-Students entered. Mia waved from two rows ahead. Rachel sat near the aisle. Owen argued with the projector.
+Students entered. Mia waved from two rows ahead. Owen argued with the projector.
 
-Leo walked in mid-sentence. “—if one elevator is broken, nine o’clock becomes philosophical.”
+Leo walked in with Rachel mid-sentence. “—if one elevator is broken, nine o’clock becomes philosophical.”
 
-Rachel laughed.
-
-Leo reached the row, saw Taiga, then saw the empty chair.
+Rachel laughed. Then she went to her usual sit.
+Leo reached the row, saw Taiga, then look at the empty chair.
 
 “Taken?”
 
@@ -1300,10 +1183,7 @@ Leo smiled. “Morning.”
 
 They worked carefully at first. Technically. Leo proposed a structure, Taiga disagreed, Leo defended it, Taiga found a bug, Leo called him insufferable, Taiga called the code criminal.
 
-Ten minutes. Fifteen.
-
-The old rhythm returned by degrees. Not identical.
-
+Ten minutes. Fifteen. The old rhythm returned by degrees. 
 At forty minutes, Leo’s rotation function failed. He stared at the screen. Taiga looked.
 
 “Base case.”
@@ -1342,7 +1222,7 @@ For a while they talked about the assignment, then Mercer, then Enzo claiming th
 
 That was the important part.
 
-Leo’s Oracle buzzed. He looked down and started laughing.
+Leo’s phone buzzed. He looked down and started laughing.
 
 “What?” Taiga asked.
 
@@ -1358,7 +1238,7 @@ Leo laughed harder. “It does look angry.”
 
 “That is not a defense.”
 
-Taiga took out his Oracle. Leo watched.
+Taiga took out his phone. Leo watched.
 
 “What are you doing?”
 
@@ -1373,5 +1253,3 @@ Leo’s phone buzzed in his hand. He looked at the message, then at Taiga.
 Taiga smiled into his coffee.
 
 Twenty minutes became twenty-seven.
-
-Neither mentioned it.
