@@ -32,7 +32,7 @@ Mountains sounded better than the city.
 
 ---
 
-Friday morning, the bus left Olympus at seven. This was considered an act of violence by most of the squad.
+Four weeks later, the bus left Olympus at seven on Friday morning. This was considered an act of violence by most of the squad.
 
 Enzo boarded carrying a pillow the size of a small child. Gav stared at it.
 
@@ -54,7 +54,7 @@ Taiga looked at the empty seat. “No.”
 
 Leo sat. That was apparently all the ceremony required now.
 
-The city thinned slowly: concrete gave way to low suburbs, then highway, then long stretches of bare winter fields. Leo slept for twenty-three minutes with his head against the window, woke when the bus hit a pothole and immediately started complaining that the glass had attacked him.
+The city thinned slowly: concrete gave way to low suburbs, then highway, then long stretches of bare winter fields. Leo slept for twenty-three minutes with his head tipped against the seat, woke when the bus hit a pothole and immediately started complaining that the suspension had attacked him.
 
 Two rows ahead, Evan turned around. “You’ve been awake eight seconds.”
 
@@ -402,7 +402,7 @@ Leo frowned. “I’m standing here because everyone is standing here.”
 
 Taiga’s voice dropped. “Keep going.”
 
-Aaron looked at him. “Every time I’m talking to you lately, he’s there. You leave, he goes after you. He asks you to come somewhere, suddenly you come. I don’t know what the fuck that means, and I don’t care. I’m just tired of feeling like I’m arguing with both of you every time I argue with one.”
+Aaron looked at him. “Every time I turn around lately, you two are together. Training. The volleyball game. Apollo. Now this trip. I say one thing to you and somehow I end up arguing with both of you. I don’t know what the fuck that means, and I don’t care. I’m just tired of feeling like I’m arguing with both of you every time I argue with one.”
 
 “That’s bullshit,” Taiga said.
 
@@ -448,7 +448,7 @@ Taiga was already walking.
 
 ---
 
-The cold outside hit hard enough to make his eyes water. Taiga walked past the lodge toward the service path, snow crunching behind him.
+Away from the fire, the cold hit hard enough to make his eyes water. Taiga walked past the lodge toward the service path, snow crunching behind him.
 
 “Taiga.”
 
@@ -462,7 +462,7 @@ Leo did not.
 
 Taiga reached the edge of the training fields and turned. “What?”
 
-Leo stopped several steps away. His coat was open, his scarf missing; he had come out too fast to take it.
+Leo stopped several steps away. His coat was open, his scarf still back by the fire; he had followed too quickly to grab it.
 
 “I’m not here to ask what Aaron meant.”
 
