@@ -1031,10 +1031,6 @@ Leo looked toward the path.
 
 Taiga did too.
 
-No labels arrived. No question about what they were.
-
-Good. Taiga could barely survive the conversation they were already having.
-
 After a while, he asked, “Do you regret Pinetree?”
 
 Leo looked over. “What part?”
