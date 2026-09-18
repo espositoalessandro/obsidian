@@ -6,13 +6,9 @@ Taiga shut his eyes.
 
 Bad choice.
 
-He opened them again. Across the room, Enzo was still asleep. The Oracle on the bedside table showed no notifications, but Taiga looked at it anyway.
+He opened them again. Across the room, Enzo was still asleep. The phone on the bedside table showed no notifications, but Taiga looked at it anyway.
 
 Nothing.
-
-Leo had said he was done following people who did not want him. Taiga had given him no reason to think he was wanted.
-
-Maybe that was better.
 
 At six-thirty, Enzo’s alarm went off. He killed it immediately. Neither of them moved.
 
@@ -150,15 +146,11 @@ At twenty-eight, Leo finally beat his man. Taiga moved inside. Leo looked up, sa
 
 Corner.
 
-Leo looked toward him. “Sorry.”
-
-“Fine.”
+Leo looked toward him. Just raised his hand to say sorry.
 
 At thirty-one, Taiga lost the ball trying to force a pass inside. Aaron recovered with a clean tackle.
 
-“Good,” Taiga said.
-
-Aaron looked at him. No answer.
+They quickly looked at each other, than said nothing.
 
 Pinetree’s second came at thirty-nine: corner, first contact, second ball, shot through bodies.
 
@@ -248,21 +240,9 @@ Taiga sprinted fifty meters back. When the ball went out, he turned.
 
 Leo stopped. “I didn’t think you were going.”
 
-“I was already running.”
+“Right.”
 
-“You stopped before.”
-
-“That was first half.”
-
-“I know.”
-
-“Then play it.”
-
-“Fine.”
-
-Gav shouted from inside, “Enough.”
-
-Both stopped. Pinetree throw. Play continued.
+Pinetree throw. Play continued.
 
 ---
 
@@ -270,11 +250,9 @@ Olympus scored at seventy-four, and Aaron started it. He won the ball centrally 
 
 Two-one.
 
-Instinct took over. Taiga turned toward Leo, who was already coming toward him and grabbed his shoulder.
+Instinct took over. Taiga instantly turned toward Leo, who was already looking at him, smiling.
 
-“Good ball!”
-
-Taiga laughed. “Good pass.”
+The smile didn't last long though. After a few seconds, they looked away from each other
 
 Then the team arrived around them: Enzo shouting from the bench, Gav, Aaron, bodies and noise. Taiga looked across and caught Aaron’s expression.
 
@@ -284,13 +262,7 @@ The moment closed.
 
 The equalizer never came. Pinetree sat deeper, Olympus pushed, legs slowed.
 
-At full time: two-one.
-
-Not a disaster.
-
-Almost worse for that.
-
-They had not been destroyed. They had simply been less than themselves.
+At full time: two-one. Not a disaster. Maybe it would have been better that way.
 
 ---
 
@@ -306,9 +278,9 @@ Taiga’s face changed.
 
 Micah added immediately, “On the field.”
 
-Taiga looked toward the pitch. “Altitude.”
+Taiga looked toward the pitch. “Bet.”
 
-Micah smiled. “Keep telling yourself.”
+Micah didn't add anything else.
 
 Later, during the meal, Aaron approached Taiga once. Taiga saw him coming and his body went hard.
 
@@ -352,15 +324,15 @@ Aaron boarded later and sat near the front beside Scott. Scott looked mildly sur
 
 The bus pulled away. Pinetree disappeared in layers: lodge, fields, trail sign, forest, then road.
 
-Enzo fell asleep twenty minutes in. Taiga opened his Oracle.
+Enzo fell asleep twenty minutes in. Taiga opened his phone.
 
 Team group.
 
-**Enzo:** survived the mountain cult
+**Gav:** survived the mountain cult
 
 **Scott:** academy
 
-**Enzo:** cult energy
+**Gav:** cult energy
 
 Leo reacted with a laughing face.
 
@@ -368,25 +340,19 @@ Taiga opened Leo’s private chat and typed:
 
 **Taiga:** good pass on the goal
 
-Deleted it.
-
-Then:
+Deleted it. Then:
 
 **Taiga:** sorry about earlier
 
 Deleted that too.
 
-Sending it would mean putting himself in front of Leo again and asking him to do something with the apology. Taiga locked the screen.
+It was better off that way.
 
 ---
 
 At the service station, Taiga went to the refrigerator for water. Leo appeared on the other side of the glass.
 
-Both stopped.
-
-Ridiculous.
-
-Leo reached for a bottle. Taiga moved his hand.
+Both stopped. Ridiculous. Then Leo reached for a bottle and Taiga moved his hand.
 
 “Sorry.”
 
@@ -444,8 +410,6 @@ Taiga looked up. Leo looked down. Their eyes met.
 
 “Night,” Leo said.
 
-Not *forty-one*. Just night.
-
 Taiga swallowed. “Yeah.”
 
 Leo moved past.
@@ -453,5 +417,3 @@ Leo moved past.
 By the time Taiga reached the door, Leo was already across the pavement, walking toward Central alone. Aaron stood near the baggage compartment. Taiga looked away.
 
 No one followed anyone.
-
-At least for tonight.
