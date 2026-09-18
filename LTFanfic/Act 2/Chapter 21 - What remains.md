@@ -877,97 +877,69 @@ Leo waited. No joke, no rescue.
 
 Taiga stared at his hands.
 
-“The guy I told you about.”
+What I told you
+Why I said that 
+I did it because I was scared as fuck
 
-Leo’s expression shifted slightly.
+The first time I went to camp, I didn't go alone
+There was this guy with me, the one I mentioned you
 
-“The one where it got complicated?”
+Yeah i remember 
 
-“Yeah.”
+Yeah well... back then I was different.
+I liked hanging with people, talking, opening up and stuff.
 
-Taiga rubbed his thumb across one knuckle.
+I was accepted, loved even by lots of people in just a few weeks.
+But... that guy didn't 
+He wanted to spend more time with me and eventually got jealus of the others
+I called him selfish and we got in more and more arguments
 
-“His name was Kieran.”
+At some point scoutmasters organized a sportfest. One guy from the other team showed up all beaten up and claimed that I did that
+It was a nightmare 
+My worst dreams came true, everyone turned against me and a guy tried to defend me got punched
+I lost it, and I punched back. Eventually, it became a brawl
 
-Leo stayed quiet.
+Things spiraled.
+Words spread out of the camp, parents brought their sons home, we even showed on the news
 
-“He was my best friend before Camp Buddy. Then we started dating.”
+For me though, it was even worse
+People started bullying me, ambushing me in the bathroom
 
-That got the smallest reaction. Not surprise exactly. Attention.
+At some point, my ex couldn't take it anymore and confessed me that the one who set me up
 
-Taiga looked at the pavement.
+Leo looked horrified
 
-“By the time camp happened, things between us were already bad. We fought all the time. I was angry at him. He was angry at me. Neither of us knew when to stop.”
+We got in a really bad argument. I got phisical, I shoved him and he punched me in the face
+That's where my scar comes from
 
-Leo listened.
+Anyways, I broke up with him after that
+He returned home the day after, I've never seen him again since then.
+I stayed instead
 
-“And I was trying to make Camp Buddy work anyway.”
+Taking the blame?
 
-“What do you mean?”
+Pretty much, yeah
 
-Taiga exhaled.
+Leo went silent 
 
-“I already had a reputation there. Fighting. Being difficult. Acting like I didn’t care about anything.” He looked away. “I spent months trying to prove I could be something else.”
+Because you still loved him?
 
-The park around them remained normal. People crossed the path twenty meters away. Somebody rode past on a bicycle. A dog barked near Central.
+Yeah, I suppose I was pretty fucked up back then.
 
-“For a while, it worked.”
+Anyways, I asked the scoutmasters for another chance
+One of them, Yoshinori, still believed in me somehow
+So the year after that I returned and met Keitaro and the others
+I fucked up pretty bad with him again, but eventually he forgave me and we became friends
 
-Leo did not interrupt.
+So, when you told me to go away because of what Aaron said...
 
-“I had friends. People trusted me. I had a place there.”
+It felt like the same shape. Something between me and someone else suddenly becoming everybody’s business. Me losing my shit. Somebody close enough to get hurt by it.
 
-Taiga swallowed.
-
-“Then SportsFest happened.”
-
-Leo waited.
-
-“Kieran framed me for something he did.”
-
-Leo’s eyebrows pulled together. “Framed you how?”
-
-“Enough that everybody thought I’d done it.”
-
-Taiga’s hands tightened together.
-
-“There was a fight. Blood. Everybody looking at me like they finally had proof I was exactly the person they’d always thought I was.”
-
-Leo went very still.
-
-“Kieran left. I stayed.”
-
-“With the blame.”
-
-“Yeah.”
-
-Taiga looked down.
-
-“We were done after that.”
-
-A few seconds passed.
-
-Leo asked, “Did you still love him?”
-
-Taiga hated the question because the answer was easy.
-
-“Yeah.”
-
-Leo looked away briefly.
-
-“That was part of what fucked me up. The person who did that to me was also somebody I loved. And by the end, the relationship and Camp Buddy were tangled together so badly that I couldn’t think about one without the other.”
-
-Taiga rubbed his palms against his jeans.
-
-“I’d spent all that time building something there, and then it felt like one relationship going bad had swallowed the whole thing.”
+I’d spent all that time building something there, and then it felt like one relationship going bad had swallowed the whole thing.
 
 Leo looked back at him.
 
 Taiga forced himself to continue.
-
-“I’m not saying Kieran destroyed everything by himself. I was bad too. We were bad for each other by then.”
-
-“Okay.”
 
 “Saturday…”
 
@@ -977,25 +949,7 @@ Leo’s face tightened slightly.
 
 Taiga looked at the ground.
 
-“When Aaron made it about me and you in front of everybody, I was already out of control. Then you followed me, and I made you the problem.”
-
-Leo said nothing.
-
-“I know you’re not Kieran.”
-
-“I know.”
-
-“That’s not what I mean.”
-
-“I know.”
-
-Taiga’s throat tightened.
-
-“It felt like the same shape. Something between me and someone else suddenly becoming everybody’s business. Me losing my shit. Somebody close enough to get hurt by it.”
-
-Leo looked down.
-
-“And when you said you thought I was different…”
+“When you said you thought I was different…”
 
 Taiga stopped.
 
