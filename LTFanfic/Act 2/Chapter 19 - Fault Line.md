@@ -1207,13 +1207,7 @@ His coat was open. No scarf. He had followed too quickly to grab it.
 
 For a second both of them only breathed.
 
-Leo said, “I’m not asking what Aaron meant.”
-
-“Great.”
-
-“I mean it.”
-
-“Then why are you here?”
+“Why are you here?”
 
 Leo looked at him like the answer was obvious.
 
@@ -1237,19 +1231,25 @@ Of course.
 
 Leo’s jaw tightened.
 
-“I don’t care what Aaron thinks it looks like.”
+“I followed because you were upset.”
 
 Taiga laughed once.
 
-“That’s the problem.”
-
 Leo frowned. “What?”
 
-“He says that shit in front of everybody and you come running after me.”
+“Nothing.”
 
-“I came because you were upset.”
+“That didn’t sound like nothing.”
 
-“That doesn’t make it better.”
+Taiga looked back toward the lodge.
+
+“He calls you my boyfriend in front of everybody and then you come running after me.”
+
+Leo went still for half a second.
+
+“I didn’t come because of what he said.”
+
+“Doesn’t matter.”
 
 “Why?”
 
