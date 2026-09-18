@@ -1155,17 +1155,7 @@ Aaron stood completely still.
 
 Then:
 
-“Fuck you.”
-
-“Great answer.”
-
-“At least I’m not terrified of whatever the fuck this is.”
-
-His hand moved once.
-
-Barely a gesture.
-
-Between Taiga and Leo.
+“Fuck you. You and your boyfriend.”
 
 The world narrowed.
 
@@ -1375,11 +1365,9 @@ Without them, the snow held what little light came from the lodge and the sky.
 
 Taiga stood there until the cold got through his coat.
 
-Aaron’s gesture kept coming back.
+One word kept coming back.
 
-Not the whole argument.
-
-Just that hand between him and Leo.
+*Boyfriend.*
 
 The rink.
 
