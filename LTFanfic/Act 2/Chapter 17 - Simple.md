@@ -579,7 +579,7 @@ Leo whispered, “We’re conserving resources.”
 
 Taiga opened his laptop while Owen connected to the display.
 
-“New random pairs are on the board. Today we’re doing trees.”
+“New random pairs are on the board. Today we’re doing heaps.”
 
 Chairs started moving around them.
 
@@ -597,7 +597,7 @@ Taiga found his own name. “Chloe.”
 
 “I hate the point.”
 
-Owen started explaining binary search trees. Leo picked up his laptop.
+Owen started explaining binary heaps. Leo picked up his laptop.
 
 “Okay. Simple.”
 
@@ -639,9 +639,9 @@ Chloe glanced at it, then at him. “Everything okay?”
 
 “Yeah.”
 
-“Cool.” She turned her laptop toward him. “You want insert or search?”
+“Cool.” She turned her laptop toward him. “You want insert or extract?”
 
-Taiga looked at the tree on her screen.
+Taiga looked at the heap on her screen.
 
 “Insert.”
 
@@ -651,7 +651,7 @@ They started.
 
 The lab went fine.
 
-Chloe liked recursion more than Taiga did, Taiga liked knowing exactly where the tree was going more than Chloe did, and they reached something acceptable without either of them needing to win the argument.
+Chloe liked the sift-down logic more than Taiga did, Taiga liked the index arithmetic more than Chloe did, and they reached something acceptable without either of them needing to win the argument.
 
 Across the room, Leo and Ethan finished six minutes before them.
 
