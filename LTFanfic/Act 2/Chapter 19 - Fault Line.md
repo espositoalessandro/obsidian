@@ -265,7 +265,27 @@ Aaron released wide.
 
 Nothing dramatic.
 
-The session kept moving.
+A few minutes later, Taiga received between the lines and saw Leo start across the right channel. The return pass to Jonas was open. Taiga tried the harder ball instead.
+
+Micah stepped across and took it.
+
+Hale said, “Return was there.”
+
+“I saw the run.”
+
+“So did Micah.”
+
+Taiga turned to recover.
+
+Aaron passed him on the way back.
+
+“Ambitious.”
+
+Taiga looked at him.
+
+Aaron gave a small shrug. “What?”
+
+Taiga kept moving.
 
 Ten minutes later, Hale stopped the game to switch the teams.
 
@@ -471,9 +491,21 @@ A frozen drain.
 
 A sign warning about ice.
 
-“You’ve seen ice,” Aaron said.
+Aaron exhaled. “Can we just walk?”
 
-“Not institutional ice.”
+Enzo looked back. “We are walking.”
+
+“At the speed of erosion.”
+
+“Jesus. Okay.”
+
+Noah glanced at Aaron.
+
+Enzo started moving again.
+
+Thirty seconds later he stopped at another sign.
+
+Aaron looked away.
 
 Noah looked at Taiga. “Is he always like this?”
 
@@ -711,7 +743,11 @@ At water, Taiga walked over.
 
 Aaron twisted the cap back onto his bottle.
 
-“Yeah.”
+“Are you asking or grading me?”
+
+Taiga frowned. “What?”
+
+“I’m fine.”
 
 “You looked pissed.”
 
@@ -723,13 +759,13 @@ Aaron twisted the cap back onto his bottle.
 
 Taiga waited.
 
-Aaron looked at him. “What?”
+Aaron looked at him. “Anything else?”
 
-“Nothing.”
+Taiga’s mouth tightened. “No.”
 
-“Okay.”
+“Great.”
 
-He walked back onto the field.
+Aaron walked back onto the field.
 
 Taiga followed.
 
@@ -757,7 +793,7 @@ Scott slapped both gloves together.
 
 Aaron turned.
 
-“I heard you.”
+“I heard you the first time.”
 
 Scott was already resetting. “Then move earlier.”
 
@@ -855,239 +891,113 @@ Normal.
 
 Later, the conversation circled back to the afternoon session.
 
-Noah said Olympus looked better when they stopped waiting for perfect passes.
+Noah said Olympus looked better once they stopped waiting for perfect passes.
 
-Gav said Pinetree looked better when they stopped sprinting at everything that moved.
+Gav nodded. “Second half was cleaner.”
 
-Micah put one hand on his chest. “That’s our identity.”
+Aaron turned his cup between both hands. “Easy to say when you’re not getting a new instruction every five minutes.”
 
-“It’s cardio,” Gav said.
+Micah looked over. “That’s kind of the point of the weekend.”
 
-Leo laughed.
+Aaron answered too quickly.
 
-Aaron said, “At least you know what Hale wants.”
+“Yeah. Thanks. I got that.”
 
-Micah looked at him. “Mostly.”
+Micah raised his eyebrows.
 
-“Mostly?”
+Taiga looked across the fire. “He wasn’t attacking you.”
 
-“He changes it.”
+Aaron looked at him. “Didn’t ask you.”
 
-Aaron gave him a look.
+Something in Taiga finally gave.
 
-Micah shrugged. “Depends on the picture.”
+“Jesus. You’ve been acting like an asshole all day.”
 
-Taiga had heard Hale say the same thing all day without using the words.
+The people nearest them went quiet.
 
-Aaron turned his cup slowly between both hands.
+Aaron stared at him.
 
-“Yeah.”
+Then he laughed once.
 
-No edge yet.
+“Right. Because your training was perfect.”
 
-Just tired.
+“I didn’t say it was.”
 
-Then Noah said, “You looked better central this afternoon.”
+“You spent half the morning forcing passes that weren’t there because you thought you saw something smarter than everybody else. Hale had to tell you to play the return.”
 
-Aaron laughed once. “After getting yelled at for two days.”
+Still football.
 
-“You weren’t getting yelled at.”
-
-“Corrected. Whatever.”
-
-Micah said, “That’s the job.”
-
-“I know.”
-
-Taiga looked over.
-
-Aaron caught it.
-
-“What?”
-
-“Nothing.”
-
-Aaron smiled without much humor. “You have a face.”
-
-“So do you.”
-
-“You know what I mean.”
-
-Taiga shrugged.
-
-Micah went back to arguing with Gav.
-
-The conversation should have moved with them.
-
-Instead Aaron said, “Go on.”
-
-Taiga frowned. “What?”
-
-“You were going to say something.”
-
-“I wasn’t.”
-
-Aaron watched him.
-
-Taiga looked away.
-
-Leo said something to Noah.
-
-The fire cracked.
-
-Aaron leaned back.
-
-“Right.”
-
-Taiga looked at him again.
-
-“What’s your problem?”
-
-Aaron blinked. “Nothing.”
-
-“You’re doing the thing.”
-
-“What thing?”
-
-“Getting pissed because I looked at you.”
-
-“I’m not pissed because you looked at me.”
-
-“Then what?”
-
-Aaron laughed quietly.
-
-“There.”
-
-Taiga’s jaw tightened.
-
-Aaron looked into the fire. “You act like every answer is obvious.”
-
-Gav stopped talking.
-
-Not dramatically.
-
-Just enough.
-
-Taiga said, “What answer?”
-
-“Any answer.”
-
-“That doesn’t mean anything.”
-
-“It does when you’re the one doing it.”
+Fine.
 
 Taiga leaned forward.
 
-Aaron continued before he could reply.
+“I made a bad pass. I didn’t spend the rest of the day waiting for Hale or Scott to tell me what the next correct answer was.”
 
-“All weekend. Someone gets something wrong, you look at them like they’re an idiot for not seeing what you saw.”
+Aaron’s face tightened.
 
-“That’s bullshit.”
+“What does that mean?”
 
-“You did it five minutes ago.”
+“You know what it means.”
 
-“I looked at you.”
+“No. Go on.”
 
-“Exactly.”
+Taiga did.
 
-Taiga laughed once. “You want me to apologize for having eyes?”
+“You get one instruction and cling to it until somebody gives you another one. Scan earlier, you scan every time. Play quicker, suddenly everything has to be one touch. Scott says step, you step. He says hold, you freeze.”
 
-Aaron’s face changed slightly.
-
-Gav said, “Maybe drop it.”
-
-Neither did.
-
-Aaron looked at Taiga. “You know what? Fine. Forget it.”
-
-“Now you want to forget it.”
-
-“I said what I meant.”
-
-“No, you didn’t.”
-
-Aaron rubbed one hand over his face.
-
-Taiga felt himself leaning toward the argument instead of away from it.
-
-“You spent half the afternoon waiting for Scott or Hale to tell you what to do.”
-
-Aaron stared.
-
-There.
-
-Too far.
-
-Taiga knew it as soon as the sentence landed and kept going anyway.
-
-“You get one correction and suddenly you’re trying to solve the next five plays before they happen.”
-
-Aaron’s mouth tightened.
-
-“Easy for you.”
-
-“What’s that supposed to mean?”
-
-Aaron looked away.
-
-Taiga said, “Say it.”
-
-Gav said his name.
+Gav said, “Taiga.”
 
 Taiga ignored him.
 
-Aaron looked back.
+Aaron stared across the fire.
 
-“At least I don’t spend every bad day making everybody else feel stupid for noticing.”
+Then his mouth twisted.
 
-Taiga laughed.
+“There it is.”
 
-“Maybe because you make everybody else deal with yours instead.”
+“What?”
 
-Aaron’s cup stopped moving.
+“You always have to be the smartest person in the room.”
 
-“What the fuck does that mean?”
+The sentence hit harder than it should have.
 
-Taiga could have stopped.
+Heat climbed Taiga’s neck.
 
-He did not.
+“Fuck you.”
 
-“It means you’re terrified of being the weak link.”
+Aaron gave a short laugh. “See?”
 
-The firepit quieted around them.
+“No. Explain it.”
 
-Not completely.
+“You correct everybody. You look at people like they’re stupid when they miss something you saw. And the second somebody points something out about you—”
 
-Someone farther away was still talking.
+“At least I can fucking think for myself.”
 
-Music still played low from the lodge.
+That shut Aaron up for half a second.
 
-But the people nearest them had stopped.
+Taiga was standing before he realized he had moved.
 
-Aaron’s expression flattened.
+His cup sat forgotten on the bench. His hands were tight at his sides. His voice had carried far enough that conversations beyond their little circle were beginning to die.
 
-Taiga continued.
+Aaron looked up at him.
 
-“You keep checking whether Mercer thinks you’re failing. Hale changes one thing and you look like somebody moved the floor.”
+Taiga kept going.
 
-Aaron looked at him for a long second.
+“Hale changes the picture and you fall apart. You spend the whole fucking session checking whether Mercer thinks you’re failing. You want somebody to tell you when to turn, when to hold, when to fucking breathe.”
 
-Then he said, “Yeah?”
+“Taiga,” Gav said again.
 
-Taiga waited.
+Taiga barely heard him.
 
-Aaron’s voice stayed quieter than his.
+Aaron’s expression had gone flat.
 
-“And you’re so fucking terrified of people noticing anything about you that the second someone gets too close, you turn into this.”
+“And you’re so fucking terrified of people noticing anything about you that the second someone makes any comment, you turn into this.”
 
-Everything in Taiga stopped.
+Taiga stopped.
 
-Aaron saw it.
+Aaron’s eyes moved over him: standing over the bench, face hot, fists closed, half the firepit watching.
 
-His face changed immediately.
-
-Too late.
+There was nothing abstract about *this*.
 
 Leo leaned forward.
 
@@ -1119,39 +1029,47 @@ Leo straightened.
 
 Aaron looked at him. “Doesn’t feel like that from here.”
 
-Taiga stepped forward.
+Leo’s voice stayed level.
 
-“Leave him out of it.”
+“I’m not taking a side. I’m telling you this is getting ugly.”
 
-Aaron laughed again.
+Aaron looked at him, then at Taiga.
 
-“There.”
+Some of the anger went out of his face.
 
-Taiga’s hands curled.
+“You know what? Forget it.”
 
-Gav stood.
+He stepped back.
 
-Not between them.
+Taiga’s pulse was still hammering.
 
-Close enough.
+“No.”
 
-Aaron’s anger was back now, but thinner than before.
+Aaron stopped.
 
-Taiga saw that too.
+Taiga took a step toward him.
 
-And hit it.
+“You don’t get to say that and then walk away.”
 
-“You know what? Maybe if you spent half as much time reading the fucking game as you do checking whether Mercer thinks you’re failing, you wouldn’t feel like everybody was against you.”
+“I’m done, Taiga.”
 
-Aaron flinched.
+“No. You wanted to talk about me. Finish.”
 
-“Taiga,” Gav said.
+Gav stood now.
 
-Taiga kept going.
+“Taiga.”
 
-“You want someone to give you the answer every time. Then when they don’t, you get pissed at whoever looks like they already know it.”
+Aaron shook his head. “I said forget it.”
 
-Aaron stood completely still.
+“And that makes it disappear?”
+
+“Drop it.”
+
+Taiga laughed, sharp and humorless.
+
+“What? You need someone to tell you how to finish this too?”
+
+Aaron went completely still.
 
 Then:
 
