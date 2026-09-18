@@ -1243,7 +1243,7 @@ Leo frowned. “What?”
 
 Taiga looked back toward the lodge.
 
-“He calls you my boyfriend in front of everybody and then you come running after me.”
+“He says that shit in front of everybody and then you come running after me.”
 
 Leo went still for half a second.
 
