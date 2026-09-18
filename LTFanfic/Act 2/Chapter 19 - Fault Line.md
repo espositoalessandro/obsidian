@@ -805,7 +805,7 @@ That was easy.
 
 The firepit started after eight.
 
-Someone from Pinetree had found wood. Someone else produced marshmallows. Mercer and Hale stayed near the lodge doors with coffee and the expression of coaches pretending not to supervise.
+Someone from Pinetree had found wood. Someone else produced marshmallows. By then the coaches had disappeared inside, leaving the players to themselves.
 
 People arranged themselves around the heat.
 
