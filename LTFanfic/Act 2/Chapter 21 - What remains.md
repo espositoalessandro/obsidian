@@ -633,29 +633,269 @@ Leo looked over. Taiga’s mouth went dry.
 
 Leo’s expression changed. Careful again.
 
-“Now?”
-
-Taiga looked around the lab. People still everywhere.
-
-“No.”
-
-Leo nodded. “After film?”
-
 “Yeah.”
 
-A pause.
+Taiga glanced toward the door. People were still everywhere.
+
+“Not here.”
+
+Leo nodded once.
 
 “Okay.”
 
-That was all. Taiga left before he could ruin it.
+Neither of them suggested when.
+
+Taiga left before the silence could become another decision.
 
 ---
 
-Taiga opened his mouth. Nothing came out.
+Training started at four-thirty.
+
+Mercer kept the session simple after Pinetree: positional work, transition drills, then a short-sided game. Nothing Taiga should have had trouble concentrating on.
+
+He had trouble concentrating on it anyway.
+
+Leo changed at the far end of the locker room. He talked to Scott while tying his boots and laughed once at something Enzo said. Taiga heard the laugh without looking over.
+
+Outside, Mercer split them onto opposite sides.
+
+That should have helped.
+
+It did not.
+
+Leo spent the first possession on the right, which put him directly across from Taiga. The ball moved through Gav, Scott, Aaron, back to Gav. Normal patterns. Normal calls.
+
+Then Gav switched wide.
+
+Leo received.
+
+Taiga closed.
+
+For half a second neither of them committed.
+
+Leo knew Taiga would try to show him outside. Taiga knew Leo knew.
+
+Leo cut inside anyway.
+
+Taiga got a foot to the ball.
+
+It rolled free toward Enzo.
+
+“Play!” Mercer shouted.
+
+Everybody moved.
+
+No reaction. No comment.
+
+The next time Leo received, he went outside instead and beat Taiga by half a step.
+
+Of course.
+
+His cross found nobody.
+
+They reset.
+
+For twenty minutes it kept happening in small pieces.
+
+Leo checking over his shoulder before Taiga pressed.
+
+Taiga knowing when Leo would fake inside.
+
+Leo knowing when Taiga would step.
+
+Nothing they had to discuss. Nothing they could avoid either.
+
+During the water break, Taiga stood near the equipment crate. Leo was ten meters away with Gav.
+
+Aaron came over for a bottle.
+
+He looked at Taiga once.
+
+Taiga looked back.
+
+Nothing happened.
+
+Good.
+
+Mercer called them in again.
+
+The short-sided game was worse.
+
+Leo intercepted one of Taiga’s passes and drove forward. Taiga recovered, stayed with him and forced him toward the line.
+
+Leo stopped the ball under his foot.
+
+Taiga stopped too.
+
+For one second they were close enough to speak without anybody else hearing.
+
+Leo said, “Still want to talk?”
+
+Taiga’s chest tightened.
+
+“Yeah.”
+
+Mercer shouted, “MOVE IT!”
+
+Leo knocked the ball backward to Scott and ran.
+
+The moment disappeared.
+
+Taiga followed play.
+
+That was somehow worse than if Leo had ignored him.
+
+---
+
+Training ended at six-twelve.
+
+Film was at seven.
+
+The locker room filled with showers, bags, somebody complaining about the session, Enzo asking whether forty-eight minutes counted as enough time to eat an entire dinner.
+
+Taiga changed quickly.
+
+He was pulling his jacket on when Leo stopped beside the bench.
+
+Not too close.
+
+“When?”
+
+Taiga looked at him.
+
+Leo waited.
+
+“After film.”
+
+“Okay.”
+
+Taiga glanced toward the hallway.
+
+“Outside the west doors?”
+
+Leo nodded. “Yeah.”
+
+“Then we walk.”
+
+Another pause.
+
+“Okay.”
+
+There it was.
+
+A time. A place. No way to pretend later that they had never agreed.
+
+Leo picked up his bag.
+
+“See you at seven.”
+
+Taiga nodded.
+
+“Yeah.”
+
+---
+
+Film lasted fifty-three minutes.
+
+Taiga knew because he checked the clock six times.
+
+Mercer went through Pinetree clips first. Defensive spacing. Slow recovery. A sequence where Olympus had waited for somebody else to step and nobody had.
+
+Then their goal.
+
+Aaron starting the move. Gav finding Leo. Leo releasing Taiga down the left.
+
+Mercer paused the frame just before Taiga’s cross.
+
+“This,” he said, “is what happens when the decision is made early.”
+
+Taiga stared at the screen.
+
+Leo sat two rows ahead.
+
+He did not turn around.
+
+Mercer let the clip run. Cross. Finish. Celebration.
+
+Leo’s hand landing on Taiga’s shoulder for half a second.
+
+Then the next clip.
+
+Taiga looked down at his notebook.
+
+At seven-fifty-three Mercer closed the laptop.
+
+“That’s it. Recovery tomorrow. Full training Thursday.”
+
+Chairs moved immediately.
+
+Taiga waited until the room had emptied enough that he could breathe.
+
+Leo was already gone.
+
+For one stupid second, Taiga’s stomach dropped.
+
+Then he reached the west doors.
+
+Leo was outside.
+
+Hands in his jacket pockets. Waiting.
+
+He looked over when Taiga stepped through.
+
+“Hey.”
+
+“Hey.”
+
+Neither moved.
+
+Taiga glanced toward the path cutting behind the athletic center.
+
+“Walk?”
+
+Leo nodded.
+
+They started without deciding who went first.
+
+For the first few minutes, neither said anything. Campus moved around them: bikes on the path, somebody laughing near Apollo, the dining hall doors opening and closing behind a stream of students.
+
+Taiga had spent most of the day wanting this conversation.
+
+Now that it existed, every possible opening sounded wrong.
+
+Leo did not help him.
+
+Good.
+
+They reached the quieter path behind Central, where the benches faced a strip of grass and the traffic noise dropped away.
+
+Taiga stopped at one.
+
+“This okay?”
+
+Leo looked around, then sat.
+
+“Yeah.”
+
+Taiga sat beside him, leaving enough space that neither of them had to think about it.
+
+For a few seconds he stared at the pavement.
+
+Then: “I’m sorry.”
+
+Leo looked at him.
+
+Taiga swallowed.
+
+“For Saturday.”
+
+Leo’s face stayed careful.
+
+Taiga opened his mouth.
+
+Nothing came out.
 
 Fantastic.
-
-He had walked Leo across campus after film, found an empty bench and managed an apology before his throat apparently resigned.
 
 Leo waited. No joke, no rescue.
 
