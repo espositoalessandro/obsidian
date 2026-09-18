@@ -639,13 +639,25 @@ Taiga glanced toward the door. People were still everywhere.
 
 “Not here.”
 
-Leo nodded once.
+“After film?”
+
+Taiga nodded. “Yeah.”
+
+Leo adjusted the strap of his bag.
+
+“Outside the west doors?”
 
 “Okay.”
 
-Neither of them suggested when.
+“Then we walk.”
 
-Taiga left before the silence could become another decision.
+A pause.
+
+“Yeah.”
+
+There it was. A time and a place.
+
+Taiga left before he could ruin it.
 
 ---
 
@@ -759,37 +771,15 @@ He was pulling his jacket on when Leo stopped beside the bench.
 
 Not too close.
 
-“When?”
+“West doors.”
 
 Taiga looked at him.
 
-Leo waited.
+“Yeah.”
 
-“After film.”
-
-“Okay.”
-
-Taiga glanced toward the hallway.
-
-“Outside the west doors?”
-
-Leo nodded. “Yeah.”
-
-“Then we walk.”
-
-Another pause.
-
-“Okay.”
-
-There it was.
-
-A time. A place. No way to pretend later that they had never agreed.
-
-Leo picked up his bag.
+Leo nodded once and picked up his bag.
 
 “See you after film.”
-
-Taiga nodded.
 
 “Yeah.”
 
