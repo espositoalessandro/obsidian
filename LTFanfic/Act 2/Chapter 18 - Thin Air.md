@@ -728,9 +728,9 @@ He had barely put his backpack under his feet when Leo appeared in the aisle.
 
 Taiga looked at him.
 
-Leo sat down.
+"Yes."
 
-That was apparently all the ceremony required now.
+Leo sat down.
 
 Around them, people negotiated territory. Enzo tried to put the pillow between himself and Gav until Gav threw it back onto him. Scott put headphones on before the bus moved. Evan had brought breakfast in a paper bag and lost half of it to people who had not planned ahead.
 
