@@ -1060,11 +1060,10 @@ Taiga reached the edge of the first field and turned.
 
 “What?”
 
-Leo stopped several meters away.
-
-His coat was open. No scarf. He had followed too quickly to grab it.
-
+Leo stopped. His coat was open. No scarf. He had followed too quickly to grab it.
 For a second both of them only breathed.
+
+"Okay, Taiga please, hear m-"
 
 “Why are you here?”
 
@@ -1072,15 +1071,13 @@ Leo looked at him like the answer was obvious.
 
 “Because you left.”
 
-Taiga looked away.
-
-Of course.
+Taiga looked away. Of course.
 
 “You looked like you were going to punch him.”
 
-“I wasn’t.”
+“That's why I walked out.”
 
-“A tree, then.”
+“Okay, please can we talk?”
 
 “Fuck off.”
 
@@ -1092,13 +1089,9 @@ Leo’s jaw tightened.
 
 “I followed because you were upset.”
 
-Taiga laughed once.
+“Exactly.”
 
 Leo frowned. “What?”
-
-“Nothing.”
-
-“That didn’t sound like nothing.”
 
 Taiga looked back toward the lodge.
 
@@ -1112,13 +1105,9 @@ Leo went still for half a second.
 
 “Why?”
 
-Taiga opened his mouth.
-
-Nothing useful came out.
+Taiga opened his mouth but nothing useful came out.
 
 Leo waited.
-
-The waiting made it worse.
 
 “You’re making it worse.”
 
@@ -1134,11 +1123,9 @@ Leo looked at him for several seconds.
 
 Then nodded.
 
-“Okay.”
+“Okay then.”
 
-He turned.
-
-Something in Taiga’s chest pulled tight.
+He turned. Something in Taiga’s chest pulled tight.
 
 “Why do you always do that?”
 
@@ -1146,7 +1133,7 @@ Leo turned back.
 
 “Do what?”
 
-“Follow.”
+“Follow me around.”
 
 Leo stared.
 
@@ -1154,17 +1141,9 @@ Leo stared.
 
 Taiga looked away.
 
-“That’s it,” Leo said. “You leave angry, I make sure you’re not doing something stupid. That’s the conspiracy.”
+“That’s it,” Leo said, opening his arms. “You leave angry, I make sure you’re not doing something stupid. That’s the conspiracy.”
 
-“Stop.”
-
-“You asked me.”
-
-“I know.”
-
-Leo waited.
-
-Taiga hated that too.
+Taiga stopped a second.
 
 “Just go.”
 
@@ -1182,19 +1161,12 @@ He turned.
 
 “Leo.”
 
-Leo stopped.
-
-Taiga had nothing ready.
-
-Leo waited anyway.
-
+Leo stopped. Taiga had nothing ready but Leo waited anyway.
 Taiga looked at the snow.
 
-“Whatever.”
+“Whatever, fuck it.”
 
-Leo turned back.
-
-Now he was angry.
+Leo turned back. 
 
 “No.”
 
@@ -1202,24 +1174,22 @@ Taiga looked up.
 
 “You say my name, I stop, and then you do that?”
 
-Taiga stared at him.
-
-Leo shook his head.
+Taiga stared at him. Leo's face was disappointed.
 
 "Is that what you do? Push people away just because of what others may think?"
 
-Taiga could not answer.
-
-Leo slowly shook his head. 
+Taiga could not answer. Leo slowly shook his head. 
 
 "I really thought you were different"
+
+Taiga froze. His stomach dropped several meters. Then Leo continued,
+
+"If... if being close to you means being shoved away whenever it's convenient, then sorry-"
 
 His voice broke towards the end.
 Taiga looked at him and felt like throwing up. One tear was slowly dripping on Leo's cheek.
 
-"If... if being close to you means being shoved off whenever it's convenient, then sorry-"
-He broke into a sigh
-"...but I don't want to do it. Not anymore."
+"...but I don't want to do it. Not anymore. I'm done following people who don't want me."
 
 Leo put a hand on his eyes and turned toward the lodge.
 
