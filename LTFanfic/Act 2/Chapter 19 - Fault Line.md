@@ -1347,7 +1347,7 @@ Taiga stared at him.
 
 Leo shook his head.
 
-"Is that what you do? Push people away just because if what others may think?"
+"Is that what you do? Push people away just because of what others may think?"
 
 Taiga could not answer.
 
@@ -1356,7 +1356,7 @@ Leo slowly shook his head.
 "I really thought you were different"
 
 His voice broke towards the end.
-Taiga looked at him and felt like throwing up. One tear was slowly dripping on Leo's cheeck.
+Taiga looked at him and felt like throwing up. One tear was slowly dripping on Leo's cheek.
 
 "If... if being close to you means being shoved off whenever it's convenient, then sorry-"
 He broke into a sigh
