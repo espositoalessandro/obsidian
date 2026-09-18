@@ -1203,25 +1203,7 @@ The common room had changed by the time he returned, even though the music was s
 
 Gav stood near the fireplace with Scott, while Enzo sat on the arm of a couch. Aaron was gone. Leo was gone too.
 
-Taiga crossed the room, and Enzo stood as soon as he saw him. Taiga looked at him.
-
-Enzo lifted both hands. “I’m not asking.”
-
-“Good.”
-
-“Aaron’s upstairs.”
-
-“I don’t care.”
-
-“Okay.”
-
-Taiga headed for the stairs, but Gav stopped him with, “Briefing at eight tomorrow.”
-
-Taiga turned just enough to acknowledge him. “Yeah.”
-
-“That’s it.”
-
-He nodded and went upstairs.
+Taiga crossed the room, ignoring the looks on him and went upstairs.
 
 Room 214 was empty. Enzo’s giant pillow still occupied half his bed, and Taiga sat on his own with the quiet pressing in around him.
 
@@ -1231,17 +1213,16 @@ His phone buzzed with a message in the team chat.
 
 Replies followed almost immediately.
 
-Scott: 👍
+**Scott**: 👍
 
-Gav: 👍
+**Gav**: 👍
 
 Enzo: **alive against all odds**
 
-Leo: 👍
+**Leo**: 👍
 
-Taiga stared at Leo’s reaction for longer than he meant to. There was no private message.
-
-He opened their chat instead. The last exchange was still from that morning.
+Taiga stared at Leo’s reaction for longer than he meant to. 
+He opened their chat. The last exchange was still from that morning.
 
 **Leo:** enzo is eating syrup with pancakes attached
 
@@ -1265,26 +1246,22 @@ The door opened before he could try a third time. Enzo came in, closed it quietl
 
 For a while, neither of them spoke.
 
-Then Enzo said, “Still not asking.”
+Then Enzo said, 
 
-“I know.”
-
-Silence settled again.
-
-“Aaron feels like shit.”
+“Just for the record, Aaron feels like shit.”
 
 “Good.”
 
-Enzo looked at him. Taiga looked away, and Enzo let it go.
+Enzo looked at him. Taiga kept looking at the phone, and Enzo let it go.
 
 Another minute passed before he added, “Leo too.”
 
-Taiga’s jaw tightened. “Enzo.”
+Taiga didn't answer but felt again his stomach dropping.
 
-“Done.”
+"Just saying. Good night."
 
 Enzo switched off his lamp.
 
 Taiga lay back while the wind moved against the window. Tomorrow they had to play Pinetree at eleven: normal positions, Olympus shape, ninety minutes with rules everybody understood.
 
-For the first time since arriving, Taiga wanted to go home.
+For the first time since arriving at Olympus, Taiga wanted to go back home.
