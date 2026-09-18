@@ -887,8 +887,6 @@ Taiga called him slow.
 
 Then Micah interrupted with something worse and both turned on him.
 
-Normal.
-
 Later, the conversation circled back to the afternoon session.
 
 Noah said Olympus looked better once they stopped waiting for perfect passes.
@@ -911,7 +909,11 @@ Aaron looked at him. “Didn’t ask you.”
 
 Something in Taiga finally gave.
 
-“Jesus. You’ve been acting like an asshole all day.”
+"Okay, what's the problem?"
+
+"There is no problem."
+
+"Then why you've been acting like an asshole the whole day?"
 
 The people nearest them went quiet.
 
@@ -924,10 +926,6 @@ Then he laughed once.
 “I didn’t say it was.”
 
 “You spent half the morning forcing passes that weren’t there because you thought you saw something smarter than everybody else. Hale had to tell you to play the return.”
-
-Still football.
-
-Fine.
 
 Taiga leaned forward.
 
@@ -948,26 +946,15 @@ Taiga did.
 Gav said, “Taiga.”
 
 Taiga ignored him.
-
 Aaron stared across the fire.
-
 Then his mouth twisted.
-
-“There it is.”
-
-“What?”
 
 “You always have to be the smartest person in the room.”
 
 The sentence hit harder than it should have.
-
 Heat climbed Taiga’s neck.
 
-“Fuck you.”
-
-Aaron gave a short laugh. “See?”
-
-“No. Explain it.”
+“The fuck does that mean?”
 
 “You correct everybody. You look at people like they’re stupid when they miss something you saw. And the second somebody points something out about you—”
 
@@ -979,15 +966,9 @@ Taiga was standing before he realized he had moved.
 
 His cup sat forgotten on the bench. His hands were tight at his sides. His voice had carried far enough that conversations beyond their little circle were beginning to die.
 
-Aaron looked up at him.
-
-Taiga kept going.
+Aaron looked up at him. Taiga kept going.
 
 “Hale changes the picture and you fall apart. You spend the whole fucking session checking whether Mercer thinks you’re failing. You want somebody to tell you when to turn, when to hold, when to fucking breathe.”
-
-“Taiga,” Gav said again.
-
-Taiga barely heard him.
 
 Aaron’s expression had gone flat.
 
@@ -997,19 +978,13 @@ Taiga stopped.
 
 Aaron’s eyes moved over him: standing over the bench, face hot, fists closed, half the firepit watching.
 
-There was nothing abstract about *this*.
-
 Leo leaned forward.
 
 “Okay, Aaron. That’s enough.”
 
-Aaron turned toward him.
+Aaron turned toward him. 
 
-For a second he just stared.
-
-Then he laughed once, sharp and tired.
-
-“See? Now I can’t even argue with him without both of you turning against me.”
+“Now I can’t even argue with him without both of you turning against me?”
 
 Leo frowned. “I’m not turning against you.”
 
@@ -1017,83 +992,49 @@ Leo frowned. “I’m not turning against you.”
 
 Taiga looked from Leo back to Aaron.
 
-“What the fuck are you talking about?”
+“Leave him out of this.”
 
+"Yeah, see? That's what I mean."
+
+"What?"
+
+Taiga could feel his heartbeat increasing.
 Aaron rubbed both hands over his face.
 
-“This. Lately, every time I turn around, you two are together. Training. Volleyball. Apollo. Here. I say one thing to you and suddenly I’m arguing with both of you.”
+“This. Every time I turn around, you two are together. Training. Volleyball. Apollo. Here. I say one thing to you and suddenly I’m arguing with both of you.”
 
 Leo straightened.
 
-“There isn’t a side.”
+“I- It's not what I meant”
 
 Aaron looked at him. “Doesn’t feel like that from here.”
 
-Leo’s voice stayed level.
+“I’m just telling you this is getting ugly.”
 
-“I’m not taking a side. I’m telling you this is getting ugly.”
+Aaron looked at him, "Then why did you tell ME to stop and not HIM?"
+His voice started raising.
 
-Aaron looked at him, then at Taiga.
+Taiga could now feel blood pumping hard on his temple. He stepped right in front of Aaron.
 
-Some of the anger went out of his face.
+“What the fuck are you talking about?”
 
-“You know what? Forget it.”
+He stared for a second. Than stepped back.
 
-He stepped back.
+"You know what? Fuck BOTH of you. YOU AND YOUR FUCKING BOYFRIEND."
 
-Taiga’s pulse was still hammering.
-
-“No.”
-
-Aaron stopped.
-
-Taiga took a step toward him.
-
-“You don’t get to say that and then walk away.”
-
-“I’m done, Taiga.”
-
-“No. You wanted to talk about me. Finish.”
-
-Gav stood now.
-
-“Taiga.”
-
-Aaron shook his head. “I said forget it.”
-
-“And that makes it disappear?”
-
-“Drop it.”
-
-Taiga laughed, sharp and humorless.
-
-“What? You need someone to tell you how to finish this too?”
-
-Aaron went completely still.
-
-Then:
-
-“Fuck you. You and your boyfriend.”
-
-The world narrowed.
-
-Leo’s face changed.
-
-Aaron looked sick the instant the words existed.
+The world narrowed. Leo’s face changed. Aaron looked sick the instant the words existed.
 
 “Taiga, I—”
 
 Taiga grabbed his coat from the back of the bench.
 
-“Stay the fuck away from me.”
+"Wait, come one I didn't mean it."
 
-Enzo said his name.
+Taiga turned and pointed is finger few inches from his face,
 
-Taiga ignored him.
+“Don't talk to me. I'm fucking done with you.”
 
-Leo said it too.
-
-Taiga was already walking.
+Then he turned and walked away.
 
 ---
 
