@@ -33,11 +33,7 @@ Enzo fell backward onto the giant pillow.
 
 “You didn’t have to.”
 
-“I was young.”
-
-“You were seventeen.”
-
-“Exactly.”
+“I was young. Bad life choices were easier.”
 
 By seven, the dining room smelled like coffee, toast and wet jackets.
 
