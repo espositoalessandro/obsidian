@@ -1347,65 +1347,26 @@ Taiga stared at him.
 
 Leo shook his head.
 
-“I came out here because I care about you. You can be pissed about it. I’m not apologizing for it.”
+"Is that what you do? Push people away just because if what others may think?"
 
 Taiga could not answer.
 
-“And I’m not standing here while you treat me like I did something wrong.”
+Leo slowly shook his head. 
 
-Leo turned toward the lodge.
+"I really thought you were different"
 
-This time Taiga let him go.
+His voice broke towards the end.
+Taiga looked at him and felt like throwing up. One tear was slowly dripping on Leo's cheeck.
 
----
+"If... if being close to you means being shoved off whenever it's convenient, then sorry-"
+He broke into a sigh
+"...but I don't want to do it. Not anymore."
 
-The field lights were off.
+Leo put a hand on his eyes and turned toward the lodge.
 
-Without them, the snow held what little light came from the lodge and the sky.
+Taiga watched him leaving. 
 
-Taiga stood there until the cold got through his coat.
-
-One word kept coming back.
-
-*Boyfriend.*
-
-The rink.
-
-Coffee.
-
-The balcony.
-
-The bus.
-
-Leo leaning over his shoulder in lab.
-
-Leo following him into the snow.
-
-Taiga started walking along the service path.
-
-Not toward the lodge.
-
-Just away.
-
-The path ended near a maintenance gate and a line of trees.
-
-Beyond them, nothing visible except dark slope.
-
-For one stupid second, Camp Buddy came back anyway.
-
-Pine.
-
-Cold water.
-
-The dock.
-
-Keitaro refusing to leave when Taiga had told him to.
-
-Taiga closed his eyes.
-
-Bad idea.
-
-He turned around.
+The whole world suddenly turned black.
 
 ---
 
