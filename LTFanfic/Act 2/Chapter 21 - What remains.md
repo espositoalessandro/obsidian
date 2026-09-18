@@ -4,7 +4,7 @@ Olympus still existed. Classes started on time. The dining hall served eggs that
 
 Everything continued.
 
-Taiga hated it. He had spent the whole weekend in his room, doing assignments and reading stuff.
+Taiga hated it. He had spent what was left of Sunday in his room, doing assignments and reading stuff.
 
 He woke at seven-forty to Caleb’s third alarm. The first was apparently decorative, the second existed to prepare Caleb emotionally for the third, and the third was the one that mattered.
 
@@ -1112,7 +1112,7 @@ That was new.
 
 Taiga went to class, read and ate lunch with Mia. She talked about a repository disaster involving a missing branch and did not ask about Leo.
 
-Training returned to normal intensity. Aaron was there. Leo was there. Everyone was there.
+Recovery at four stayed light, like Mercer had promised: mobility, short technical work, nothing anybody could turn into a war. Aaron was there. Leo was there. Everyone was there.
 
 The team did not collapse.
 
