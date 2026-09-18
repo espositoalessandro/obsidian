@@ -1297,157 +1297,225 @@ Someone connected music to a speaker.
 
 Enzo tried to control it and lost access within six minutes.
 
-Taiga ended up in a chair near the fire with Leo on the couch beside him.
+Taiga lasted forty minutes.
 
-Not intentionally.
+The room was too warm. Somebody had added another log to the fire, the windows were fogging at the edges, and Micah and Gav had reached their third argument about buildup patterns.
 
-Probably.
+Taiga stood.
 
-Leo had changed into a dark sweatshirt and fixed the scarf situation.
+Leo looked up from the couch. “Where are you going?”
 
-For a while they watched Micah and Gav argue about buildup patterns.
+“Outside.”
 
 Leo looked toward the windows.
 
-“I get it more now.”
+“It’s snowing.”
 
-Taiga turned. “What?”
+“Yes.”
 
-“Why you go back.”
+“That wasn’t a recommendation.”
 
-Taiga looked at him.
+Taiga picked up his coat.
 
-Leo caught the expression immediately.
+Leo watched him for a second, then stood too.
 
-“I mean the place. Not whatever happened there.”
-
-Taiga looked at the fire.
-
-“It’s hard to explain.”
-
-“Then don’t.”
-
-A pause settled between them without becoming uncomfortable.
-
-“There’s a lake,” Taiga said.
-
-Leo smiled. “I know.”
-
-“Not like a little one.”
-
-“Okay.”
-
-“Big enough that mornings look different depending on wind.”
-
-Leo waited.
-
-“There’s a dock.”
-
-“I know that too.”
-
-“Who told you?”
-
-“You.”
-
-“When?”
-
-“Train.”
-
-Taiga frowned.
-
-Maybe.
-
-Leo remembered things.
-
-“The cabins are worse than these.”
-
-“That I believe.”
-
-“Walls are thin.”
-
-“Enzo would die.”
-
-“He would get murdered.”
-
-“By you?”
-
-“Within a week.”
-
-Leo laughed.
-
-Taiga looked back at the fire.
-
-Camp Buddy had smelled different. Pine, lake water, old wood, whatever food was being destroyed in the kitchen. Pinetree smelled like detergent and wet jackets.
-
-Still.
-
-The dark outside the windows was close enough.
-
-Leo rested his elbows on his knees.
-
-“Did you always like it?”
+“Fine.”
 
 “What?”
 
-“Camp.”
+“I’m coming.”
 
-Taiga thought.
+Taiga shrugged. “Okay.”
+
+Leo grabbed his coat and finally wrapped the scarf like it had been designed by someone with a purpose.
+
+They went out through the side door before Enzo noticed.
+
+Cold air hit immediately.
+
+Better.
+
+The lodge lights reached across the first stretch of path, then gave up. Snow sat thin over the grass and caught in the pines. Somewhere below them, the training fields were still lit even though nobody was using them.
+
+Leo put his hands in his pockets.
+
+“You’re enjoying this.”
+
+Taiga looked at him. “What?”
+
+“This.”
+
+“It’s cold.”
+
+“That is not a denial.”
+
+They walked past the back of the lodge toward a narrow path between the trees.
+
+Taiga looked up the slope.
+
+Leo noticed.
+
+“You’ve been doing that since we got here.”
+
+“Doing what?”
+
+“Looking around like you know where everything is.”
+
+“I don’t.”
+
+“You look like you do.”
+
+Taiga stepped over a patch of ice.
+
+“It’s easier here.”
+
+“What is?”
+
+Taiga thought about it.
+
+“Everything’s not on top of everything else.”
+
+Leo looked around.
+
+Trees. Snow. The dark shape of another building farther uphill.
+
+“That might be the most Taiga answer possible.”
+
+“You asked.”
+
+“I know.”
+
+They kept walking.
+
+The path curved behind a smaller residence building and away from the noise of the lodge. The music disappeared first. Then the voices.
+
+Leo breathed out and watched it turn white.
+
+“So you just like mountains?”
+
+“Yeah.”
+
+“No tragic backstory required?”
+
+Taiga looked at him.
+
+Leo lifted both hands. “Sorry.”
+
+Taiga kept walking.
+
+After a few steps he said, “Cold is better than rain.”
+
+“Wrong.”
+
+“It is.”
+
+“Objectively wrong.”
+
+“And you can get away from buildings in five minutes.”
+
+Leo looked back. The lodge was already half hidden by trees.
+
+“Okay. That part is good.”
+
+Taiga smiled.
+
+A wooden sign stood at the next fork.
+
+**OVERLOOK — 0.8 MI**
+
+Leo stopped.
+
+“That's close.”
+
+“It’s dark.”
+
+“You scared?”
 
 “No.”
 
-Leo waited.
+“Good. Tomorrow, then.”
 
-“I hated most of it at first.”
+Taiga looked at the sign again.
 
-“That sounds more like you.”
+They had almost two hours free after lunch.
 
-“Fuck you.”
+“Fine.”
 
-“Sorry. Continue.”
+Leo smiled. “You know the schedule.”
 
-Taiga looked at the flames.
+“So do you.”
 
-“It was loud. Everyone wanted something. Activities, chores, talking.”
+“I know the important parts.”
 
-Leo smiled. “Nightmare.”
+“You asked me what time breakfast was twice.”
 
-“Basically.”
+“Breakfast before seven is not a time. It’s a threat.”
 
-“So why stay?”
+Taiga started back toward the lodge.
 
-Taiga rubbed his thumb over the seam of the chair.
+Leo followed.
 
-“Got used to it.”
+“After lunch?”
 
-Leo glanced at him.
+“Yeah.”
 
-“That’s all?”
+“Assuming Hale doesn’t kill us.”
 
-“No.”
+“If he kills you, I’m going alone.”
 
-Taiga did not add anything.
+“Good friend.”
 
-Leo nodded once.
+They came around the side of the building and found Aaron under the covered porch near the service entrance, phone against his ear.
 
-“Okay.”
+He was smiling at something Sofia had said.
 
-Across the room, Enzo shouted that somebody was cheating.
+Then he saw them.
 
-Scott said, “You don’t know the rules.”
+His eyes moved from Leo to Taiga and back.
 
-“That is not relevant.”
+“Yeah,” Aaron said into the phone. “Hold on.”
 
-Aaron came in from the hallway with his phone still in his hand.
+He lowered it slightly.
 
-Leo lifted one hand.
+“Where were you two?”
 
-“You disappear?”
+“Walk,” Taiga said.
 
-“Called Sofia.”
+Aaron looked past them toward the dark path.
 
-Enzo looked over from the card table. “How is she?”
+“In this?”
 
-Aaron smiled. “Good. She says I’m being dramatic about the cold.”
+Leo brushed snow from one sleeve. “Apparently this is recreational weather.”
+
+“It is,” Taiga said.
+
+Aaron smiled. “You’re both insane.”
+
+He put the phone back to his ear.
+
+“Sorry. They’re just being weird.”
+
+Taiga opened the door.
+
+Leo followed him inside.
+
+The common room hit them with heat and noise again.
+
+Enzo looked over from the card table.
+
+“There you are. We need a fourth.”
+
+“No,” Taiga said.
+
+“You don’t even know the game.”
+
+“Still no.”
+
+Across the room, Aaron came back in a minute later, phone in his hand.
+
+Enzo looked at him. “How is Sofia?”
+
+“Good. She says I’m being dramatic about the cold.”
 
 “Wise woman,” Gav said.
 
@@ -1472,34 +1540,6 @@ Aaron threw a cushion at him.
 Micah caught it.
 
 The room moved on.
-
-Leo looked at Taiga.
-
-“You really stayed a whole year?”
-
-Taiga nodded.
-
-“For renovations.”
-
-“Mostly.”
-
-“And then left for college.”
-
-“Yeah.”
-
-Leo was quiet for a moment.
-
-“Was that weird?”
-
-Taiga looked toward the windows.
-
-Snow had started sticking to the railing outside.
-
-“Yeah.”
-
-Leo did not ask which part.
-
-That made it easier.
 
 At ten-thirty Mercer appeared in the doorway.
 
