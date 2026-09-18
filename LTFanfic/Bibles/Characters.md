@@ -74,6 +74,20 @@ He remembers small details people tell him and often follows up later.
 
 Leo genuinely enjoys crowds and social situations, but his social battery can still run out. Act II establishes a **private reset habit**: when a crowded event becomes too much, he may slip away alone for about five minutes to get silence and then return. This is **not common knowledge** at Apollo. Taiga learns it only because he accidentally finds Leo alone on the balcony, and Leo explicitly asks him not to tell anyone. Other characters should not recognize, anticipate, tease, or knowingly accommodate this habit unless Leo later chooses to tell them. He comes from a loud home environment, so total silence can also feel strange to him.
 
+## Author-only prior relationship history
+- By Act II, Leo has already mentioned at least one **male ex** and has reduced that history to a joking shorthand: the ex was "very dramatic." This should later read as deliberate understatement rather than the full truth.
+- Planned backstory: during his mid-to-late teens, Leo spent time in a **push-pull relationship** that became emotionally exhausting. The exact severity and details can be decided later; avoid prematurely locking it into a melodramatic or overtly abusive template.
+- The core pattern was conditional closeness: the boyfriend would pull Leo close, then shut him out; become jealous or disappear; expect Leo to chase or reassure him; then resent Leo for chasing or being too present.
+- Leo's instinct in that relationship was to **talk, fix, reassure and show up**. This made the cycle especially draining because he repeatedly responded to withdrawal by trying harder to restore contact.
+- The experience left Leo with a specific boundary: he does not want to remain in a relationship where closeness means being repeatedly welcomed, pushed away, then expected to return on command.
+- This history should inform — without being explicitly explained during — the Pinetree confrontation in Act II. When Taiga pushes Leo away after Aaron's comment, then calls him back when he actually leaves, Leo recognizes an old pattern strongly enough to say: **"I don't want to do it. Not anymore."**
+- Leo should not consciously compare Taiga to the ex in that scene, and the narration should not explain the parallel there. The history should be revealed later, making the line retrospectively heavier.
+- This also creates a deliberate emotional symmetry with Taiga: **both are reacting to damage from previous relationships during the same confrontation without knowing the other's history.**
+  - Taiga's fear: when somebody becomes important enough to hurt him, he may lose control and destroy what he has built.
+  - Leo's fear: closeness may become a cycle where he is pulled in, pushed away, and expected to keep returning.
+- Important distinction: Leo's wound is **not** "Taiga reminds him of his ex" in a generic sense. The trigger is the specific behavioral pattern of being made responsible for another person's discomfort with closeness.
+- Keep Leo's earlier "dramatic ex" remark intact. It becomes character-revealing in retrospect: Leo turned a painful history into a short funny anecdote because that was easier than explaining it.
+
 Academically, he is competent but not pristine:
 - he writes code that works before it becomes elegant;
 - he can duplicate logic rather than abstracting it;
