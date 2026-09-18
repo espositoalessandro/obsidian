@@ -82,7 +82,7 @@ Taiga turned.
 
 “I know.”
 
-“Demonstrate.”
+“The do it.”
 
 Taiga did on the next play.
 
