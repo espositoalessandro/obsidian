@@ -66,11 +66,11 @@ Enzo held his giant pillow over the seat. “This is why preparation matters.”
 
 Gav pushed it back down. “No one wants your pillow.”
 
-By the time the road began climbing, snow sat in the tree shadows. Aaron stopped joking—not entirely, but enough that Taiga noticed the difference.
+By the time the road began climbing, snow sat in the tree shadows.
 
 ---
 
-Pinetree looked like somebody had built a university where a ski lodge should have been: dark timber buildings, stone foundations, training fields cut into the slope below campus, pines everywhere. The air was thin enough that the first walk from the bus to the lodge made Enzo announce he had been betrayed by oxygen.
+Pinetree looked like somebody had built a university where a ski lodge should have been: dark timber buildings, stone foundations, training fields cut into the slope below campus, pines everywhere. The air was cold enough that the first walk from the bus to the lodge made Enzo announce he had been betrayed by global warming.
 
 Scott said, “You are carrying a pillow.”
 
@@ -98,7 +98,7 @@ Aaron stopped. “Central midfield?”
 
 “That’s why you’re going there.”
 
-Aaron laughed once. “Right.”
+Aaron stared. “Right.”
 
 He went, and the role punished hesitation immediately. At fullback, most of the field lived in front of him; central midfield turned the game all the way around him. Check shoulder. Receive. Know where pressure is before the ball arrives.
 
