@@ -1242,7 +1242,13 @@ Then:
 
 He deleted that too.
 
-The door opened before he could try a third time. Enzo came in, closed it quietly behind him and sat on his bed without saying anything.
+*I thought you we're different*
+
+Yeah. Maybe he was right. Maybe, in the end, Taiga didn't move on at all. Maybe he was still the miserable guy so desperate for approval. Maybe he actually was a danger for anyone close enough. What rights would Taiga have now to say he was sorry? What would have it changed?
+
+Maybe Leo was actually better off this way.
+
+The door opened. Enzo came in, closed it quietly behind him and sat on his bed without saying anything.
 
 For a while, neither of them spoke.
 
