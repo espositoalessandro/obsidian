@@ -10,7 +10,9 @@ He opened them again. Across the room, Enzo was still asleep. The Oracle on the 
 
 Nothing.
 
-He had told Leo to leave him alone. Leo was leaving him alone.
+Leo had said he was done following people who did not want him. Taiga had given him no reason to think he was wanted.
+
+Maybe that was better.
 
 At six-thirty, Enzo’s alarm went off. He killed it immediately. Neither of them moved.
 
@@ -372,7 +374,9 @@ Then:
 
 **Taiga:** sorry about earlier
 
-Deleted that too. He locked the screen.
+Deleted that too.
+
+Sending it would mean putting himself in front of Leo again and asking him to do something with the apology. Taiga locked the screen.
 
 ---
 
