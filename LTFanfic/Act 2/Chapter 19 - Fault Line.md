@@ -1199,31 +1199,13 @@ The whole world suddenly turned black.
 
 ---
 
-The common room had changed by the time he returned.
+The common room had changed by the time he returned, even though the music was still playing and the fire was still lit. Nobody was pretending nothing had happened particularly well.
 
-Music was still playing.
+Gav stood near the fireplace with Scott, while Enzo sat on the arm of a couch. Aaron was gone. Leo was gone too.
 
-The fire was still lit.
+Taiga crossed the room, and Enzo stood as soon as he saw him. Taiga looked at him.
 
-Nobody was pretending nothing had happened very well.
-
-Gav stood near the fireplace with Scott.
-
-Enzo sat on the arm of a couch.
-
-Aaron was gone.
-
-Leo was gone too.
-
-Taiga crossed the room.
-
-Enzo stood.
-
-Taiga looked at him.
-
-Enzo lifted both hands.
-
-“I’m not asking.”
+Enzo lifted both hands. “I’m not asking.”
 
 “Good.”
 
@@ -1233,31 +1215,21 @@ Enzo lifted both hands.
 
 “Okay.”
 
-Taiga headed for the stairs.
+Taiga headed for the stairs, but Gav stopped him with, “Briefing at eight tomorrow.”
 
-Gav said, “Briefing at eight tomorrow.”
-
-Taiga stopped.
-
-“Yeah.”
+Taiga turned just enough to acknowledge him. “Yeah.”
 
 “That’s it.”
 
-Taiga nodded.
+He nodded and went upstairs.
 
-Upstairs, room 214 was empty.
+Room 214 was empty. Enzo’s giant pillow still occupied half his bed, and Taiga sat on his own with the quiet pressing in around him.
 
-Enzo’s giant pillow occupied half his bed.
-
-Taiga sat on his own.
-
-His phone buzzed.
-
-Team chat.
+His phone buzzed with a message in the team chat.
 
 **Mercer:** breakfast 7. briefing 8. bus to pitch 8:45. kickoff 11.
 
-Replies arrived.
+Replies followed almost immediately.
 
 Scott: 👍
 
@@ -1267,13 +1239,9 @@ Enzo: **alive against all odds**
 
 Leo: 👍
 
-Taiga stared at Leo’s reaction.
+Taiga stared at Leo’s reaction for longer than he meant to. There was no private message.
 
-No private message.
-
-He opened their chat.
-
-The last exchange was from that morning.
+He opened their chat instead. The last exchange was still from that morning.
 
 **Leo:** enzo is eating syrup with pancakes attached
 
@@ -1281,60 +1249,42 @@ The last exchange was from that morning.
 
 **Leo:** disgusting
 
-Taiga put his thumbs over the keyboard.
+Taiga rested his thumbs over the keyboard and typed:
 
 **sorry**
 
 He deleted it.
 
-Typed again.
+Then:
 
 **you didn't do anything**
 
-Deleted that too.
+He deleted that too.
 
-The door opened.
+The door opened before he could try a third time. Enzo came in, closed it quietly behind him and sat on his bed without saying anything.
 
-Enzo came in, closed it quietly and sat on his bed.
-
-Neither spoke for a while.
+For a while, neither of them spoke.
 
 Then Enzo said, “Still not asking.”
 
 “I know.”
 
-Another silence.
+Silence settled again.
 
 “Aaron feels like shit.”
 
 “Good.”
 
-Enzo looked at him.
+Enzo looked at him. Taiga looked away, and Enzo let it go.
 
-Taiga looked away.
+Another minute passed before he added, “Leo too.”
 
-Enzo let it go.
-
-A minute passed.
-
-Then:
-
-“Leo too.”
-
-Taiga’s jaw tightened.
-
-“Enzo.”
+Taiga’s jaw tightened. “Enzo.”
 
 “Done.”
 
-Enzo turned off his lamp.
+Enzo switched off his lamp.
 
-Taiga lay back while wind moved against the window.
-
-Tomorrow they had to play Pinetree.
-
-Eleven o’clock.
-
-Normal positions. Olympus shape. Ninety minutes with rules everybody understood.
+Taiga lay back while the wind moved against the window. Tomorrow they had to play Pinetree at eleven: normal positions, Olympus shape, ninety minutes with rules everybody understood.
 
 For the first time since arriving, Taiga wanted to go home.
