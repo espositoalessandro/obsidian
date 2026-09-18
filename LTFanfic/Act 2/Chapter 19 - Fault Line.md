@@ -1,14 +1,11 @@
 Saturday started normally enough that Friday already felt settled.
 
-Enzo woke before his alarm and considered this a personal attack.
+Enzo's alarm went off at 6:30 and was instantly followed by a "No.". 
+He violently shut down the alarm as if it had commited a personal attack.
 
-Taiga knew because the first thing he heard was, “No.”
-
-He opened one eye.
+Taiga opened one eye.
 
 Across the room, Enzo was sitting upright, staring at the clock.
-
-6:24.
 
 “You’re awake,” Taiga said.
 
@@ -25,14 +22,6 @@ Enzo looked at it. “Even the building is awake. Disgusting.”
 Taiga rolled over and checked his phone.
 
 Nothing important.
-
-A weather notification. Two messages in the team chat. Leo had sent a photograph at 6:11 of the view from his window: snow on the railing, the training fields below, mountains behind them.
-
-No caption.
-
-Taiga had reacted with a thumbs-up sometime during the night without remembering doing it.
-
-He stared at that for a second.
 
 Enzo fell backward onto the giant pillow.
 
