@@ -676,10 +676,6 @@ A second later:
 
 **Leo:** save me the aisle
 
-Taiga put the phone down.
-
-He did not answer because there was nothing to answer.
-
 ---
 
 Friday morning, the bus left Olympus at seven.
