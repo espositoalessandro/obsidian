@@ -849,7 +849,7 @@ Taiga took another breath.
 
 Leo’s expression changed.
 
-“I didn’t. But everybody believed him. Things blew up, and suddenly all the shit I thought I’d left behind was back. People looking at me like I’d finally proved them right.”
+“I didn’t. But everybody believed him. Things blew up, and suddenly everyone turned against me.”
 
 Taiga snapped a blade of grass.
 
@@ -873,7 +873,7 @@ Taiga pointed to the scar running across his nose.
 
 Leo stared at it.
 
-“I broke up with him. He left the next day. I stayed.”
+“I broke up with him. He left the next day while I stayed.”
 
 “You took the blame?”
 
