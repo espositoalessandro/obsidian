@@ -1009,7 +1009,40 @@ Leo breathed out.
 
 For a while neither of them spoke.
 
-Then Taiga said, “I’m sorry.”
+Then Taiga said, "Are we okay?"
+
+Leo's face became serious again.
+
+"It depends."
+
+"By what?"
+
+"I don't want to pretend that this didn't happen."
+
+"Right."
+
+"No, I mean..."
+
+Leo took a deep breath
+
+"What Aaron said. About us"
+
+Taiga gulped 
+
+"I don't want it to change wherever we were going."
+
+Taiga didn't answer immediately and Leo continued
+
+"I'm not ok if you start act differently with me around people."
+
+Taiga looked down
+
+"I wasn't planning to."
+
+
+
+
+
 
 Leo looked at him.
 
