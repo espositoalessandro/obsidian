@@ -91,8 +91,6 @@ Taiga looked around the table.
 
 That was breakfast.
 
-No tension. No weather system gathering over anyone’s head. Just a team waking up too early in a mountain lodge.
-
 At eight-twenty they walked down toward the fields.
 
 The snow had stopped overnight. Everything outside looked sharper than it had Friday: white along the paths, blue sky above the trees, sunlight catching the upper slopes.
