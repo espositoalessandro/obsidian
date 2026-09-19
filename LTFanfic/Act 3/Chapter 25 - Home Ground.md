@@ -136,7 +136,6 @@ Leo caught the grab handle.
 
 Taiga looked out the window so neither of them would see him smiling.
 
----
 
 The road to Camp Buddy took fifteen minutes.
 
@@ -268,7 +267,6 @@ Leo laughed.
 
 Taiga hated both of them.
 
----
 
 Yuki found them before the vehicle stopped.
 
@@ -380,7 +378,6 @@ By the time they had unloaded the bags, Leo and Yoichi were already arguing like
 
 Taiga decided that was probably a bad sign.
 
----
 
 Yoshinori came from the main lodge while they unloaded.
 
@@ -1620,7 +1617,6 @@ Leo did not.
 
 Justice.
 
----
 
 Yoshinori ran preseason breakfast like a briefing. Not intentionally. Probably.
 
@@ -1920,7 +1916,6 @@ Taiga laughed.
 
 He disposed of it anyway. No complaint after that. Mostly.
 
----
 
 By ten-thirty Leo had dirt on his knees and a streak of dust across one cheek.
 
@@ -2492,7 +2487,6 @@ Leo fit.
 
 Full stop.
 
----
 
 By five, everyone looked tired. Good tired.
 

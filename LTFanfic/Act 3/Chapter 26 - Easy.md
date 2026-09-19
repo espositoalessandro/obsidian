@@ -108,7 +108,6 @@ Then Leo smiled.
 
 “Good morning to you too.”
 
----
 
 Breakfast moved indoors around the weather.
 
@@ -252,7 +251,6 @@ Taiga regretted bringing him. Not actually.
 
 That was the problem.
 
----
 
 Yoshinori split them after breakfast.
 
@@ -880,7 +878,6 @@ Useless.
 
 Completely useless.
 
----
 
 The dock inspection took two hours.
 
@@ -1160,7 +1157,6 @@ Taiga walked inside.
 
 Leo dragged the crooked cart after him.
 
----
 
 They split the list without actually splitting up.
 
@@ -1494,7 +1490,6 @@ He read the next item from the list.
 
 Taiga did.
 
----
 
 They ran into Kieran once more near checkout. Not enough for another conversation. Just recognition across two lines.
 
@@ -1704,7 +1699,6 @@ Then Kieran's name moved through Taiga's head.
 
 He kept eating anyway.
 
----
 
 After dinner, Taiga expected Leo to say something.
 

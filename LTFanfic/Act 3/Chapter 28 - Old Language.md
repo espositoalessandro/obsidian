@@ -306,7 +306,6 @@ Leo did too.
 
 Taiga went back into the shed.
 
----
 
 A lower shelf came away from the wall around ten.
 
@@ -426,7 +425,6 @@ Kieran was already putting the drill away.
 
 “Most people do.”
 
----
 
 They worked until lunch. Not past it.
 
@@ -712,7 +710,6 @@ Taiga bumped him back.
 
 By the time they reached camp, neither mentioned Kieran again.
 
----
 
 The others were outside the lodge.
 
@@ -1128,7 +1125,6 @@ Then down at his own plate.
 
 Taiga kept eating.
 
----
 
 The afternoon job was mostly counting.
 
@@ -1220,7 +1216,6 @@ Leo kept reading.
 
 Whatever had put that line into the paper, he did not explain it.
 
----
 
 They finished before dinner.
 
@@ -1572,7 +1567,6 @@ Yoichi muttered something about regretting Thursday already.
 
 The plan formed around the table without needing anything more official.
 
----
 
 After dinner they ended up by the dog run.
 
@@ -1674,7 +1668,6 @@ Taiga scratched Yuki behind one ear.
 
 Leo took another drink and looked toward the craft lodge again.
 
----
 
 They headed back toward the cabins ten minutes later.
 

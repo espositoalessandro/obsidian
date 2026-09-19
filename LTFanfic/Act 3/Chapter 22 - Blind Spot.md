@@ -242,7 +242,6 @@ Leo had arms.
 
 The universe continued.
 
----
 
 Coffee after lab happened because it always did now. Not always.
 
@@ -604,7 +603,6 @@ Taiga spent the next repetition paying so much attention to checking his shoulde
 
 Perfect.
 
----
 
 The locker room afterward was loud. Not unusually.
 
@@ -818,7 +816,6 @@ Aaron accepted that too.
 
 This was the best conversation they had had all week.
 
----
 
 Eight minutes later, Leo came back with wet hair and a towel around his hips.
 
@@ -1897,7 +1894,6 @@ Close enough that denial would have required professional assistance.
 
 Quietly. No one answered. Good.
 
----
 
 He got dressed after most of the room had emptied.
 

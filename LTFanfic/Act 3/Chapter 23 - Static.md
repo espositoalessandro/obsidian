@@ -1088,7 +1088,6 @@ Taiga faced the wall.
 
 He had become an attorney specializing in meaningless physical contact.
 
----
 
 When he left the showers, Leo was already dressed.
 
@@ -1736,7 +1735,6 @@ Then another.
 
 Their shoulders stayed together while Leo ate the popcorn.
 
----
 
 At halftime in the archived match, everybody started talking at once.
 
@@ -1940,7 +1938,6 @@ Then:
 
 Very quietly.
 
----
 
 For the rest of film night, Leo sat beside him for nearly an hour without touching his leg again.
 

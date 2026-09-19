@@ -246,7 +246,6 @@ His face felt warm.
 
 Almost no reason.
 
----
 
 By noon, preseason was officially done.
 
@@ -768,7 +767,6 @@ Leo accepted a beer when Aiden offered him one.
 
 “Definitely not.”
 
----
 
 The first toast took five minutes because Yuri refused to accept Goro's version.
 
@@ -822,7 +820,6 @@ Aiden pointed at him.
 
 They drank.
 
----
 
 One beer became two. Not quickly.
 
@@ -944,7 +941,6 @@ Goro paused.
 
 That destroyed whatever remained of Yoshinori.
 
----
 
 Yoichi claimed beer tasted terrible.
 
@@ -1022,7 +1018,6 @@ Leo held out his hand without looking.
 
 Taiga slapped ten imaginary dollars into it.
 
----
 
 By the middle of the second beer, the fire felt warmer.
 
@@ -1070,7 +1065,6 @@ She took another drink.
 
 Nothing came out of her mouth. Apparently there was wisdom in booze.
 
----
 
 The bottle-cap game started because Aiden missed the trash bag.
 
@@ -1196,7 +1190,6 @@ Yuri looked between them again. Still silent.
 
 Taiga was starting to find that more unsettling than the comments.
 
----
 
 The marshmallows came out after that.
 
@@ -1332,7 +1325,6 @@ Yuri leaned against his shoulder.
 
 “That is not the point.”
 
----
 
 Aiden finally produced chocolate.
 
@@ -1416,7 +1408,6 @@ Warm.
 
 Too warm.
 
----
 
 At some point Yuri announced that everybody needed to answer a question.
 
@@ -1538,7 +1529,6 @@ Yuri saw that too. Still silent.
 
 Taiga was now convinced somebody had threatened her.
 
----
 
 The fire burned lower.
 
@@ -1614,7 +1604,6 @@ Yoshinori pointed at both of them.
 
 That set Yuri off again.
 
----
 
 The cooler was nearly empty when Aiden started counting bottles.
 
@@ -1764,7 +1753,6 @@ Yuri followed him with her eyes.
 
 “Good. You were meant to.”
 
----
 
 By then the fire had collapsed into red coals.
 
