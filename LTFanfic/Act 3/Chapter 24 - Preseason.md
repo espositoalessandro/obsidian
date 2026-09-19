@@ -1,4 +1,7 @@
-By the second week of March, winter had stopped being pretty. Snow survived only in gray ridges along curbs and under trees where sunlight never reached properly. The paths around Olympus were wet more often than frozen. Everybody's shoes carried mud. The sky had spent four consecutive days the color of printer paper. Spring was apparently coming. It was taking its time. Taiga did not mind. The last few weeks had settled into a rhythm of class, training and coffee, with Discrete Structures and Data Structures filling the academic gaps and House Apollo filling some of the rest. Leo had started appearing often enough that separating him from the routine no longer felt particularly useful. The hand on Taiga's thigh at film night belonged to late February now. So did the bike and the stupid café table. Life kept moving around them. Shoulders after goals. Hands when passing things. A forearm during training. Once Leo leaned over Taiga's chair to see a compiler error and put one hand on the backrest close enough that Taiga could feel heat through his shirt. Spring Break started Friday. That was currently more important.
+By the second week of March, winter had stopped being pretty. Snow survived only in gray ridges along curbs and under trees where sunlight never reached properly. The paths around Olympus were wet more often than frozen. Everybody's shoes carried mud. The sky had spent four consecutive days the color of printer paper. Spring was apparently coming. It was taking its time. 
+Taiga did not mind. 
+The last few weeks had settled into a rhythm of class, training and coffee, with Discrete Structures and Data Structures filling the academic gaps and House Apollo filling some of the rest. Leo had started appearing often enough that separating him from the routine no longer felt particularly useful. 
+The hand on Taiga's thigh at film night belonged to late February now. So did the bike and the stupid café table. Life kept moving around them. Shoulders after goals. Hands when passing things. A forearm during training. Once Leo leaned over Taiga's chair to see a compiler error and put one hand on the backrest close enough that Taiga could feel heat through his shirt. Spring Break started Friday. That was currently more important.
 
 ---
 
@@ -56,7 +59,7 @@ Caleb nodded. Reason restored.
 
 Taiga poured coffee.
 
-“Camp Buddy.”
+“I think I'll go back to camp.”
 
 Caleb's hands stopped over the keyboard.
 
@@ -72,7 +75,8 @@ Caleb's hands stopped over the keyboard.
 
 “Good.”
 
-Taiga sat. He had been thinking about Camp Buddy since January, not obsessively, just as a fixed point. Spring Break existed. Camp existed. Eventually those two pieces were going to touch. He had not actually told Yoshinori he was coming. Mostly because there had been classes. Then Westlake. Then another match. Then the Discrete Structures project. Then nothing, which was less defensible. Caleb closed one train tab.
+Taiga sat. He had been thinking about Camp Buddy since January. Spring Break existed. Camp existed. Eventually those two pieces were going to touch. 
+He had not actually told Yoshinori he was coming. Mostly because there had been classes. Then Westlake. Then another match. Then the Discrete Structures project. Then nothing, which was less defensible. Caleb closed one train tab.
 
 “You should tell them.”
 
@@ -92,19 +96,17 @@ Caleb looked at him. Taiga drank coffee.
 
 Caleb returned to his routes. Taiga opened Yoshinori's chat. Stared. Typed:
 
-**Taiga:** you around tonight?
+**Taiga:** hey, are you free?
 
 He sent it before he could decide calling would somehow become an event. Yoshinori replied twelve minutes later.
 
-**Yoshinori:** Of course. I will be free after dinner. Call whenever is convenient.
+**Yoshinori:** Yes, sure. Call whenever is convenient.
 
-Formal even in text. Reliable. Taiga put the phone away.
+Formal even in text. Reliable. Taiga called him.
 
----
+ The screen opened on an office Taiga knew better than some classrooms at Olympus. Behind Yoshinori were the familiar wood-paneled wall, filing cabinet, camp calendar and one corner of a framed map. Yoshinori wore a checked shirt instead of his summer uniform and looked as if he had been sorting paperwork for several hours. Which meant he probably had.
 
-Yoshinori answered at eight-thirteen, not eight, not eight-fifteen. Eight-thirteen. Taiga appreciated precision. The screen opened on an office Taiga knew better than some classrooms at Olympus. Behind Yoshinori were the familiar wood-paneled wall, filing cabinet, camp calendar and one corner of a framed map. Yoshinori wore a dark sweater instead of his summer uniform and looked as if he had been sorting paperwork for several hours. Which meant he probably had.
-
-“Taiga. Good evening.”
+“Taiga. Good morning.”
 
 “Hey.”
 
@@ -154,19 +156,19 @@ Yoshinori's eyebrows lifted.
 
 “Next Sunday.”
 
-“A full week.”
+“Oh, a full week then.”
 
 “If that's a problem—”
 
-“Not at all.”
+“No, not at all.”
 
-Yoshinori sat straighter.
+Yoshinori sat straighter and smiled.
 
-“Quite the opposite. You are welcome here for as long as your schedule allows. However, if you planned to spend your week sleeping until noon and wandering the trails, I should warn you that Camp Buddy has officially entered preseason.”
+“Quite the opposite, actually. You are welcome here for as long as your schedule allows. However, if you planned to spend your week sleeping until noon and wandering the trails, I should warn you that Camp Buddy has officially entered preseason.”
 
 Taiga stared.
 
-“Preseason.”
+"Yeah, I figured.”
 
 “Yes.”
 
@@ -174,15 +176,7 @@ Taiga stared.
 
 “I am aware of the irony.”
 
-“What does preseason mean for camp?”
-
-Yoshinori's smile became more obvious.
-
-“Work.”
-
-Taiga relaxed without meaning to. Yoshinori did not comment.
-
-“What kind?”
+“What's the schedule?”
 
 “We reopened the maintenance buildings last week. Cabin inspections began yesterday. The kitchen inventory starts Wednesday. The lower trail still has storm debris from February, and Aiden is convinced the west storage shed can be reorganized without moving the shelves.”
 
@@ -216,7 +210,7 @@ That earned a small laugh. Yoshinori continued.
 
 Taiga looked toward the window. March rain streaked the glass. Something in his chest had loosened. This was Camp Buddy in preseason rather than summer, reunion or memory: actual work, a place operating before anyone arrived to enjoy it. He liked that.
 
-“Need help?”
+“Can I help?”
 
 Yoshinori's expression changed. Warm, not surprised.
 
@@ -228,21 +222,9 @@ Yoshinori's expression changed. Warm, not surprised.
 
 Taiga waited. Yoshinori folded his hands.
 
-“We are no longer in the position we were in after the fundraiser and expansion started.”
+“The agreement with Clermont covers much of our equipment replacement and several preseason operating costs. Enrollment is also healthier than it was this time last year.”
 
-Taiga knew what he meant. Money. Closure. Goro standing in front of everybody trying to make uncertainty sound manageable. Fundraiser tables. Cookies. Flyers. People registering. The entire camp surviving partly because nobody had accepted that disappearing was inevitable. Yoshinori continued.
-
-“William Clermont's sponsorship has made a considerable difference.”
-
-Taiga nodded. He knew that story now from the inside. Clermont Publishing had turned Keitaro's work into _Greatest Memories_. The book sold far better than anyone expected, Keitaro declined his royalties, and William Clermont folded that money into the camp while making a much larger sponsorship investment of his own. The book had opened the door; it had not somehow paid for an entire expansion by itself. Keitaro had still refused to take much credit for any of it. Hiro had handled that problem by loudly taking credit for him. Yoshinori said:
-
-“The agreement covers much of our equipment replacement and several preseason operating costs. Enrollment is also healthier than it was this time last year.”
-
-“So no fundraiser.”
-
-“Not for survival.”
-
-Good. Taiga had not realized he was carrying that question until it left. Yoshinori's voice softened.
+"Sounds good."
 
 “We will always have projects, Taiga. That is different from wondering whether we will still exist next summer.”
 
@@ -329,10 +311,6 @@ Yoshinori smiled.
 “I will mark you down for one bed until you tell me otherwise.”
 
 “Good.”
-
-“Friday?”
-
-“Yeah.”
 
 “Excellent. We will be glad to have you back.”
 
@@ -428,7 +406,7 @@ They left. Outside, the air smelled wet, not spring yet. Almost. Students had st
 
 Leo shrugged.
 
-“Still deciding. If they actually book something, maybe two or three days. My dad wants me home at some point. My sister says she's taking my scarf back if I show up wearing it.”
+“Still deciding. If they actually book something, maybe two or three days. Maybe I'll go home at some point. My sister says she's taking my scarf back if I show up wearing it.”
 
 Taiga looked at the scarf. Leo caught it.
 
@@ -456,15 +434,11 @@ Taiga ignored him. They moved forward. Two places. Then Taiga said:
 
 Leo stopped talking. Taiga looked over. Leo's expression changed immediately.
 
-“Spring Break?”
-
-“Yeah.”
-
 “Oh, shit.”
 
 Not a bad *oh shit*. The interested kind.
 
-“Whole week?”
+“For the whole week?”
 
 “Friday to next Sunday.”
 
@@ -472,7 +446,7 @@ Leo smiled.
 
 “That sounds good.”
 
-“It's work.”
+“It's gonna be work.”
 
 The smile widened.
 
@@ -498,17 +472,9 @@ The line moved. Taiga looked at the menu he already knew. His pulse had picked u
 
 Aiden's apparent conspiracy. Taiga hated adults. Leo was still talking.
 
-“Are Keitaro and Hiro going?”
+"You're friends are coming too?"
 
-“Don't know.”
-
-“Hunter?”
-
-“Don't know.”
-
-“Yoichi's there, right?”
-
-“Yeah.”
+"I don't know yet, probably no though. Only Yoichi since he lives there."
 
 “That's the one with the nicknames?”
 
@@ -522,27 +488,15 @@ Taiga looked at him.
 
 Leo smiled.
 
-“I want to know what I get.”
-
-“No, you don't.”
-
-“That means it's going to be good.”
-
-“It means he's going to insult you before you finish saying hello.”
-
 The person ahead ordered. One more. Taiga's heart was now doing something stupid enough that he almost got angry at it. He said:
 
 “You could come.”
 
 Leo stopped. Actually stopped, not speaking, not moving. Taiga immediately regretted possessing a mouth. Then Leo said:
 
-“To Camp Buddy?”
+“What? To Camp Buddy?”
 
-“No, to the café we're currently standing in.”
-
-“Taiga.”
-
-“Yes, Camp Buddy.”
+“Yeah.”
 
 Leo stared. Taiga looked forward. The barista called next. Of course. Perfect timing. Taiga stepped up.
 
@@ -564,7 +518,7 @@ Taiga looked at him.
 
 The words made Taiga pause. Leo immediately expanded.
 
-“I mean—not *your* place like you own it. Obviously Goro would probably appear from the ground and sue me. I mean it's Camp Buddy. Your people. Your whole—”
+“I mean, your people. Your whole—”
 
 He gestured.
 
@@ -572,7 +526,7 @@ He gestured.
 
 “Very articulate.”
 
-“I'm processing.”
+“I'm still processing.”
 
 “Clearly.”
 
@@ -580,7 +534,7 @@ Leo looked at him. Taiga could almost see the question multiplying.
 
 “Yoshinori said they started preseason.”
 
-“Okay.”
+“Camps have preseason too?”
 
 “Cabins. Trails. Equipment. Repairs.”
 
@@ -594,7 +548,7 @@ Leo looked at him. Taiga could almost see the question multiplying.
 
 Leo ignored him.
 
-“You're actually asking me to come for the week?”
+“You're... actually asking me to come for the week?”
 
 Taiga could soften it. Say Yoshinori needed people. Say Aiden suggested it. Say there were extra beds. All technically true. Instead:
 
@@ -610,11 +564,11 @@ Taiga frowned.
 
 “Yes.”
 
-“That sounded weird.”
+“That was fast.”
 
 Leo laughed.
 
-“No, it didn't. I just—yeah. I want to.”
+“No, it wasn't. I just—yeah. I want to.”
 
 The answer was simple enough to make something warm move under Taiga's ribs. Bad area. Dangerous. He looked toward the counter.
 
@@ -636,9 +590,9 @@ The answer was simple enough to make something warm move under Taiga's ribs. Bad
 
 Taiga snorted. Leo smiled.
 
-“Do I need to ask Yoshinori?”
+“Do I need to ask them?”
 
-“I'll tell him.”
+“I'll tell them.”
 
 “Where do we sleep?”
 
@@ -656,7 +610,7 @@ Leo nodded.
 
 It was one word carrying far too much information. The barista called Taiga's name. He took the coffee. Leo's came thirty seconds later. They left. Outside, Leo immediately began asking practical questions.
 
-“What boots?”
+“What boots should I bring?”
 
 “Waterproof.”
 
@@ -684,7 +638,7 @@ Leo stopped. Thought.
 
 “I have many conversations.”
 
-“Dangerous.”
+“You're reckless.”
 
 Leo pointed at him with the coffee.
 
@@ -702,9 +656,11 @@ They reached the path split. Taiga had class. Leo had no class for forty minutes
 
 “So,” Leo said.
 
-“Camp Buddy.”
+Taiga looked at him
 
-“Camp Buddy.”
+“Are you really sure about that?”
+
+"Yeah."
 
 “You're not allowed to complain when Yoichi insults you.”
 
@@ -744,19 +700,13 @@ Taiga watched him turn toward Central. Three steps. Five. Then Taiga turned towa
 
 **Leo:** IMPORTANT QUESTION
 
-Taiga:
-
 **Taiga:** what
-
-Leo:
 
 **Leo:** is there wifi
 
 Taiga stopped. Laughed.
 
 **Taiga:** stay home
-
-Leo:
 
 **Leo:** NO
 **Leo:** I ACCEPT THE WILDERNESS
@@ -775,10 +725,8 @@ Three minutes later:
 
 Taiga stared at *prepare another bed.* Unnecessary wording. Beds existed. No preparation required. Probably linens. Normal. He typed:
 
-**Taiga:** Leo Mendez
+**Taiga:** Julio Mendez
 **Taiga:** no restrictions
-
-Yoshinori:
 
 **Yoshinori:** Thank you. Aiden has requested that I inform you he “called it.”
 
@@ -786,11 +734,7 @@ Taiga closed his eyes. Of course.
 
 **Taiga:** tell him to die
 
-Yoshinori:
-
 **Yoshinori:** I will not be relaying that message.
-
-Taiga:
 
 **Taiga:** coward
 
@@ -825,41 +769,23 @@ Then:
 
 **Leo:** sleeping bag?
 
-Taiga:
-
 **Taiga:** bedding's there
-
-Leo:
 
 **Leo:** pillows?
 
-Taiga:
-
 **Taiga:** yes
-
-Leo:
 
 **Leo:** electricity?
 
-Taiga:
-
 **Taiga:** yes
-
-Leo:
 
 **Leo:** running water?
 
-Taiga:
-
 **Taiga:** unfortunately
-
-Leo:
 
 **Leo:** civilization
 
-Taiga:
-
-**Taiga:** barely
+**Taiga:** don't get your hopes up
 
 Ten minutes later:
 
@@ -869,15 +795,9 @@ Taiga stared.
 
 **Taiga:** what are fake work pants
 
-Leo:
-
 **Leo:** jeans i am willing to sacrifice
 
-Taiga:
-
 **Taiga:** yes
-
-Leo:
 
 **Leo:** understood
 **Leo:** tribute jeans
@@ -904,42 +824,40 @@ Taiga frowned.
 
 Fair.
 
-“Leo,” Taiga said.
+“It's Leo,” Taiga said.
 
 Caleb nodded. Nothing else. Bless him. Taiga returned to the chat.
 
 **Leo:** WAIT
 **Leo:** bugs?
 
-Taiga:
-
 **Taiga:** it's march
-
-Leo:
 
 **Leo:** that is not an answer
 
-Taiga:
-
 **Taiga:** some
-
-Leo:
 
 **Leo:** betrayal
 
 Thursday night, the flaw in Leo's planning system finally appeared.
 
 **Leo:** minor logistical issue
-**Taiga:** what
-**Leo:** apparently saying yes to a cs group meeting, an apollo equipment check and dinner with enzo does not create three leos
-**Taiga:** shocking
-**Leo:** also my work jeans are wet
-**Taiga:** why
-**Leo:** laundry
-**Taiga:** idiot
-**Leo:** constructive
 
-By Friday the jeans were dry. Taiga still made him show the work gloves at the station.
+**Taiga:** what
+
+**Leo:** apparently saying yes to a cs group meeting, an apollo equipment check and dinner with enzo does not create three leos
+
+**Taiga:** shocking
+
+**Leo:** also my work jeans are wet
+
+**Taiga:** why
+
+**Leo:** laundry
+
+**Taiga:** idiot
+
+**Leo:** constructive
 
 ---
 
@@ -990,19 +908,16 @@ Taiga stared. Then checked his bag. Charger. Already packed. He took a picture o
 
 **Taiga:** psychopath
 
-Caleb:
-
 **Caleb:** Have a good break.
-
-Taiga:
 
 **Taiga:** you too
 
-No insult. Growth everywhere. He put on his jacket. Red puffer. Work boots tied to the outside of the duffel because wearing them on a train for hours would be insane. phone. Wallet. Ticket. He checked the room once. Then left.
+No insult. Growth everywhere. 
+He put on his jacket. Red puffer. Work boots tied to the outside of the duffel because wearing them on a train for hours would be insane. phone. Wallet. Ticket. He checked the room once. Then left.
 
 ---
 
-Leo was at the station twenty minutes early. Of course he was. Taiga spotted him near the departure board. Yellow scarf. Dark jacket. Backpack. Medium duffel. Actual hiking boots on his feet. Taiga walked up.
+He met with Leo at the campus gate. He was already there, of corse. Yellow scarf. Dark jacket. Backpack. Medium duffel. Actual hiking boots on his feet. Taiga walked up.
 
 “You wore them.”
 
@@ -1048,7 +963,7 @@ Leo kept the bag. Taiga considered taking it back. Did not. They reached the pla
 
 “So how long?”
 
-“Two hours twenty, then bus.”
+“Two hours twenty, then bus for another hour or so.”
 
 “Then?”
 
@@ -1114,7 +1029,7 @@ The city began thinning beyond the glass. Taiga leaned back. For the first time 
 
 “Thanks again.”
 
-Taiga looked at him. Then toward the window.
+Taiga looked at him. Then toward the window. He smiled.
 
 “Yeah.”
 
