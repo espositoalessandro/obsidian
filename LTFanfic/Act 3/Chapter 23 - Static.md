@@ -297,21 +297,21 @@ Taiga showed Leo. Leo read.
 
 “Friendship.”
 
-Taiga looked at the message again.
+Taiga looked at the message again. Then typed
 
-Too much Thai food.
+**Taiga:** is there enough for another person?
 
-Leo had just announced that he was hungry.
+**Caleb:** yes
 
-Obvious solution.
+Then he raised his eyes,
 
-“Come with me.”
+“Wanna come?”
 
 Leo stopped.
 
 “What?”
 
-“Food.”
+“You wanted food.”
 
 A small smile appeared.
 
@@ -427,11 +427,9 @@ Leo looked at Taiga.
 
 “Strong opening.”
 
-There were only two desk chairs. Maya had already claimed Caleb's bed, so Leo dropped his backpack beside Taiga's desk and sat on the edge of Taiga's bed without asking.
+There were only two desk chairs. Maya had already claimed Caleb's bed, so Leo dropped his backpack beside Taiga's desk and sat on the edge of Taiga's bed.
 
-Taiga noticed.
-
-Then stopped noticing on purpose.
+Taiga noticed. Then stopped noticing on purpose.
 
 Caleb handed Leo a plate.
 
@@ -463,9 +461,7 @@ Caleb looked at him.
 
 “That is inaccurate. We did not discuss capsaicin in September.”
 
-Leo nearly dropped his plate.
-
-Taiga closed his eyes.
+Leo nearly dropped his plate. Taiga closed his eyes.
 
 “See?”
 
@@ -551,9 +547,15 @@ Caleb pointed with his fork.
 
 Leo counted again.
 
-“So how many alarms?”
+"Okay, still lots of ways to tell time."
 
-“Six.”
+"Alarms."
+
+Leo looked shocked
+
+“How many alarms?”
+
+“Originally six, then compromised for four.”
 
 Leo stared.
 
@@ -575,7 +577,7 @@ Taiga turned toward him.
 
 “Get out.”
 
-“No, wait. Six is excessive.”
+“No, wait. Four is excessive.”
 
 “Thank you.”
 
@@ -725,7 +727,7 @@ Taiga went back inside.
 
 Caleb was transferring leftovers into smaller containers.
 
-Maya looked at Taiga.
+Maya looked at Taiga. A small grin was starting to form on his mouth. Slowly.
 
 Taiga pointed at her.
 
@@ -734,6 +736,10 @@ Taiga pointed at her.
 “I didn't say anything.”
 
 “Good.”
+
+"But I like him."
+
+"MAYA."
 
 Caleb closed a lid.
 
