@@ -1645,22 +1645,16 @@ Taiga smiled.
 
 **Taiga:** purple keeper kit should be illegal
 
-Leo:
-
 **Leo:** scott has been staring into space for 20 min
 
-Taiga:
-
 **Taiga:** grief
-
-Leo:
 
 **Leo:** btw
 **Leo:** thanks for coming
 
 Taiga stopped. Small sentence. Normal sentence. Still.
 
-**Taiga:** yeah
+**Taiga:** it was fine
 
 Three dots. Stopped. Started. Stopped. Taiga watched them. Finally:
 
@@ -1670,12 +1664,6 @@ Taiga stared. His thumb hovered. Then:
 
 **Taiga:** night
 
-Sent. He put the phone away. Walked. His right hand remembered Leo's. His thigh remembered Leo's palm. His shoulder remembered an hour of quiet pressure. Taiga had spent months asking himself why Leo mattered. Now he had a new question. Worse because it involved another person. Not:
+Sent. He put the phone away. Walked. His right hand remembered Leo's. His thigh remembered Leo's palm. His shoulder remembered an hour of quiet pressure.
 
-**Why did that affect me?**
-
-He knew that now. The question was:
-
-**Did he mean to?**
-
-And for the first time, Taiga was not sure which answer scared him more.
+His mind remembered Leo's hand left alone on the counter.
