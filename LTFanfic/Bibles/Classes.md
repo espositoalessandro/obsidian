@@ -217,8 +217,7 @@ A separate professor should own the formal lecture section.
 
 ## Discrete Structures
 
-**Instructor:** To be named.  
-**Recurring Act III project classmates:** Zayne Alexander, Priya Patel, Marcus Lawson.
+**Instructor:** To be named.
 
 ### Function in the story
 - Reinforces the mathematical side of Computer Science.
@@ -235,9 +234,7 @@ A separate professor should own the formal lecture section.
 - recurrence relations.
 
 ### Narrative use
-This can mostly live in background workload with occasional references when useful. One Act III group project uses graph coloring / scheduling as a compact social and academic thread, but the course should not become a fourth major classroom subplot.
-
-Zayne Alexander takes the course as a quantitative / computational elective alongside his Chemistry major. His presence should not turn Discrete Structures into a Zayne subplot; the project mainly provides repeated natural contact and the first Taiga/Zayne/Leo social intersection.
+Keep this mostly as background workload and mathematical texture. It should not carry a recurring social subplot in Act III.
 
 ---
 
@@ -264,12 +261,15 @@ Use sparingly unless a particular scene benefits from it.
 
 ## General Chemistry II + Lab
 
-**Instructor / lab staff:** Can continue from Chemistry I or change naturally by semester/section.
+**Instructor:** Professor Dalia Hassan  
+**Recurring project group:** Taiga, Priya Shah, Marcus Green, Daniel Cho  
+**Upper-level student mentor:** Zayne Alexander
 
 ### Function in the story
 - Maintains continuity from fall.
-- Keeps a practical STEM class in Taiga and Leo's lives.
-- Gives us occasional non-CS academic incidents in spring.
+- Brings back Taiga's established Chemistry lab group rather than inventing a second academic social circle.
+- Gives Zayne a natural recurring role that follows directly from his Chemistry major.
+- Provides one substantial non-CS academic thread in Act III without competing with Data Structures for primary academic focus.
 
 ### Useful subject matter
 - equilibrium;
@@ -278,10 +278,31 @@ Use sparingly unless a particular scene benefits from it.
 - thermodynamics;
 - electrochemistry;
 - solubility;
-- more quantitative lab work.
+- quantitative spectroscopy.
+
+### Act III project
+The group completes a three-week **reaction-kinetics project** using spectrophotometric absorbance data.
+
+The project should involve:
+- an approved reaction system such as crystal-violet fading under excess hydroxide;
+- repeated runs under controlled concentrations;
+- absorbance / calibration data;
+- identification of an apparent rate law;
+- pseudo-first-order reasoning where appropriate;
+- experimental uncertainty and bad-data handling;
+- explaining where the simplified model fails.
+
+Zayne is assigned by the department as an upper-level Chemistry mentor. He can advise on spectroscopy, kinetics interpretation and experimental choices, but he does not perform the group's work.
 
 ### Narrative use
-Do not overuse it. One or two memorable spring lab scenes are enough to keep the class alive.
+The project mainly provides:
+- continuity with Taiga's first-semester Chemistry group;
+- repeated natural contact between Taiga and Zayne;
+- the eventual first Zayne/Leo interaction;
+- evidence that Taiga is competent in science but more naturally invested in CS.
+
+Do not turn the novel into a chemistry procedural. The scientific details should be concrete enough to feel real and then get out of the way.
+
 
 ---
 

@@ -987,7 +987,7 @@ Keep as a small recurring advisor voice. She can reappear when planning second y
 
 ## Current role
 - Recurring Act III university character.
-- Discrete Structures project teammate with Taiga, Priya Patel and Marcus Lawson.
+- Upper-level Chemistry student mentor assigned to Taiga's General Chemistry II project group.
 - House Zeus.
 - Star member of the Olympus Basketball Club.
 - Campus celebrity / fan-magnet.
@@ -1001,7 +1001,7 @@ Keep as a small recurring advisor voice. She can reappear when planning second y
 - basketball jersey number 19;
 - extremely popular both on and off campus.
 
-For this novel, Zayne takes Discrete Structures as a quantitative / computational elective connected loosely to his Chemistry program. This is a fanfic continuity extension, not established Jock Studio canon.
+For this novel, Zayne participates in General Chemistry II as an **upper-level departmental project mentor**, not as a classmate. The mentoring role is a fanfic continuity extension; his Chemistry major is canon.
 
 ## Appearance
 - tall, lean-muscular basketball build;
@@ -1056,17 +1056,28 @@ He should **not**:
 - diagnose Taiga's jealousy for him.
 
 ## Academic behavior
-Zayne is not a CS or robotics specialist.
+Zayne is a junior Chemistry major and should read as noticeably more experienced than Taiga's General Chemistry II group without taking over their work.
 
-In the Discrete Structures project:
-- Taiga handles implementation / algorithm tradeoffs;
-- Priya handles test cases and counterexamples;
-- Marcus focuses on practical constraints;
-- Zayne is strongest at presentation structure, visual clarity and making the group's argument readable;
-- he understands the mathematics well enough to contribute without pretending it is his major field.
+For the kinetics project:
+- Taiga handles data treatment, plots and model comparison;
+- Priya Shah is strongest on procedure, repeatability and documentation;
+- Marcus Green pushes for plain-language explanations;
+- Daniel Cho handles calibration, uncertainty and contingency planning;
+- Zayne acts as the group's upper-level mentor, especially around spectroscopy, kinetics interpretation and whether their experimental choices are chemically defensible.
+
+He should:
+- catch chemically bad assumptions;
+- recognize bad data without pretending to know its cause instantly;
+- explain instrumentation or higher-level context when asked;
+- let the students make and defend their own decisions.
+
+He should **not**:
+- do their calculations for them;
+- become a substitute instructor;
+- make Taiga look academically weak just to make Zayne impressive.
 
 ## Function in Taiga / Leo progression
-Zayne replaces Adrian Vega's old narrative function but makes it stronger.
+Zayne takes over the old external-control-case function but makes it stronger.
 
 First:
 - Zayne flirts openly with Taiga;
@@ -1094,62 +1105,11 @@ Zayne himself should not knowingly provoke Taiga. He is simply behaving like Zay
 
 ---
 
-# 23. Priya Patel
+# 23. Priya Shah
 
 ## Current role
-- Discrete Structures project teammate in Act III.
-
-## Established personality
-- highly organized;
-- immediately opens a calendar;
-- reads assignments carefully;
-- test-case and counterexample oriented;
-- practical about scheduling.
-
-## Voice
-Priya is:
-- evidence-oriented;
-- impatient with unsupported claims;
-- fast, efficient, slightly intense;
-- likely to ask whether a model actually survives a counterexample.
-
-She should be the group member who says:
-> "Does that still work on this case?"
-
-rather than the one who creates jokes.
-
----
-
-# 24. Marcus Lawson
-
-## Current role
-- Discrete Structures project teammate in Act III.
-- Works evenings on Wednesdays and Fridays.
-
-## Established personality
-- easygoing;
-- initially wants to solve cases manually instead of generalizing;
-- socially competent;
-- eventually becomes useful by asking what the mathematical model means for an actual schedule.
-
-## Voice
-- practical;
-- plain-language;
-- less interested in elegance than consequences;
-- comfortable admitting when he misunderstood the point.
-
-## Revision direction
-He should be the person most likely to ask:
-> "Okay, but what does this change for the student?"
-
-This gives him a useful project function without adding a subplot.
-
----
-
-# 25. Priya Shah
-
-## Current role
-- First-semester General Chemistry I lab-group teammate.
+- General Chemistry I/II lab-group teammate.
+- Member of Taiga's Act III kinetics-project group.
 
 ## Established personality
 - organized;
@@ -1162,21 +1122,22 @@ This gives him a useful project function without adding a subplot.
 ## Voice
 - lively;
 - direct;
-- faster and more expressive than Priya Patel should be;
+- fast and expressive;
 - comfortable laughing during disagreement.
 
 ## Revision direction
-Retain her as a meaningful first-semester acquaintance. In Chemistry she is procedure-oriented, fast and exact, and becomes visibly irritated when the group skips steps or documentation.
+Retain her as a meaningful Chemistry acquaintance across both semesters. In Chemistry she is procedure-oriented, fast and exact, and becomes visibly irritated when the group skips steps or documentation.
 
-### Naming warning
-There are currently multiple Priyas in the manuscript. Consider renaming one during revision.
+### Naming note
+Leo's separate CS-project story still contains an unspecified Priya; resolve that character without creating another recurring Priya.
 
 ---
 
-# 26. Marcus Green
+# 24. Marcus Green
 
 ## Current role
-- First-semester General Chemistry I lab-group teammate.
+- General Chemistry I/II lab-group teammate.
+- Member of Taiga's Act III kinetics-project group.
 
 ## Established personality
 - tries to simplify arguments;
@@ -1199,10 +1160,11 @@ The novel currently contains several characters named Marcus.
 
 ---
 
-# 27. Daniel Cho
+# 25. Daniel Cho
 
 ## Current role
-- First-semester General Chemistry I lab-group teammate.
+- General Chemistry I/II lab-group teammate.
+- Member of Taiga's Act III kinetics-project group.
 
 ## Established personality
 - skeptical;
@@ -1223,7 +1185,7 @@ Keep. Daniel already has a usable niche distinct from Marcus and Priya. In Chemi
 
 ---
 
-# 28. Jess
+# 26. Jess
 
 ## Current role
 - Nora's friend.
@@ -1245,7 +1207,7 @@ No major depth needed. She is useful as part of Nora's world.
 
 ---
 
-# 29. Leah — Jess's girlfriend
+# 27. Leah — Jess's girlfriend
 
 ## Current role
 - Theater student.
@@ -1261,7 +1223,7 @@ No expansion required unless the pub/social scenes become more important.
 
 ---
 
-# 30. Leah — Political Institutions classmate
+# 28. Leah — Political Institutions classmate
 
 ## Current role
 - Separate person from Jess's girlfriend.
@@ -1279,7 +1241,7 @@ Keep her as an occasional class-specific acquaintance or rename her to reduce un
 
 ---
 
-# 31. Sam
+# 29. Sam
 
 ## Current role
 - Economics student in Nora's wider friend group.
@@ -1293,7 +1255,7 @@ No expansion needed unless retained as a recurring member of Nora's social circl
 
 ---
 
-# 32. Claire
+# 30. Claire
 
 ## Current role
 - Member of Nora's wider friend group.
@@ -1310,7 +1272,7 @@ Either:
 
 ---
 
-# 33. Julian
+# 31. Julian
 
 ## Current role
 - Architecture student.
@@ -1328,7 +1290,7 @@ He does not need a subplot.
 
 ---
 
-# 34. Mateo
+# 32. Mateo
 
 ## Current role
 - Member of Leo's CS project group.
@@ -1344,23 +1306,20 @@ If the scene is retained, Mateo can remain the concrete example of why Leo's fri
 
 ---
 
-# 35. Unspecified "Priya" in Leo's CS group
+# 33. Unspecified "Priya" in Leo's CS group
 
 Leo's CS-project story also mentions a Priya whose API breaks after Mateo changes the schema.
 
-It is not established whether this is:
-- Priya Shah;
-- Priya Patel;
-- or a third Priya.
+It is not established whether this is Priya Shah or a separate student.
 
 ## Revision requirement
 Resolve this during the academic continuity pass.
 
-Strong recommendation: **do not create a third Priya.**
+Strong recommendation: either make this Priya Shah deliberately or rename the CS-project student.
 
 ---
 
-# 36. Marcus — Caleb's father
+# 34. Marcus — Caleb's father
 
 ## Current role
 - Helps Caleb move into Room 317.
@@ -1382,7 +1341,7 @@ His surname is not explicitly emphasized in the prose. If Caleb is Morrison, "Ma
 
 ---
 
-# 37. Caleb's mother
+# 35. Caleb's mother
 
 ## Current role
 - Appears through a phone call.
@@ -1404,7 +1363,7 @@ No name required unless she appears directly later.
 
 ---
 
-# 38. Coach Daniel Hale
+# 36. Coach Daniel Hale
 
 ## Current role
 - Pinetree coach.
@@ -1437,7 +1396,7 @@ Act I also contains an **art professor called Hale** in Hunter's exhibition mate
 
 ---
 
-# 39. Micah Reed
+# 37. Micah Reed
 
 **Soccer surname:** **Reed**. Hale/coaches use **Reed** in formal football contexts; players normally use **Micah**.
 
@@ -1465,7 +1424,7 @@ Keep him as the clearest Pinetree player. He gives the opponent a human face and
 
 ---
 
-# 40. Jonas Keller
+# 38. Jonas Keller
 
 **Soccer surname:** **Keller**. Hale/coaches use **Keller** in formal football contexts; players normally use **Jonas**.
 
@@ -1487,7 +1446,7 @@ No major arc needed. Make him a straightforward defender who dislikes unnecessar
 
 ---
 
-# 41. Noah Brooks
+# 39. Noah Brooks
 
 **Soccer surname:** **Brooks**. Hale/coaches use **Brooks** in formal football contexts; players normally use **Noah**.
 
@@ -1508,7 +1467,7 @@ Keep him as the more provocative Pinetree voice, contrasting Micah's analytical 
 
 ---
 
-# 42. Dr./Professor Hale — Hunter's art professor
+# 40. Dr./Professor Hale — Hunter's art professor
 
 ## Current role
 - Appears only in the Hunter exhibition material.
@@ -1527,7 +1486,7 @@ This character shares the surname **Hale** with Pinetree coach Daniel Hale. Rena
 
 ---
 
-# 43. Elena — Hunter's art-school acquaintance
+# 41. Elena — Hunter's art-school acquaintance
 
 ## Current role
 - Appears at Hunter's exhibition.
@@ -1544,7 +1503,7 @@ The manuscript also has **Dr. Elena Park**, Taiga's academic advisor. This is no
 
 ---
 
-# 44. Miles — Hunter's art-school acquaintance
+# 42. Miles — Hunter's art-school acquaintance
 
 ## Current role
 - Appears briefly at Hunter's exhibition.
@@ -1558,7 +1517,7 @@ No expansion needed.
 
 ---
 
-# 45. Oliver
+# 43. Oliver
 
 ## Current role
 - Nora's dog.
@@ -1585,7 +1544,7 @@ For soccer scenes, keep a consistent register:
 
 ---
 
-# 46. Recurring roles that currently lack names
+# 44. Recurring roles that currently lack names
 
 These are more important to fix than inventing five completely new people, because some are **already participating in major scenes**.
 
@@ -1634,7 +1593,7 @@ Once the second-semester program is finalized, either:
 
 ---
 
-# 47. Major name/continuity collisions to fix during revision
+# 45. Major name/continuity collisions to fix during revision
 
 These should be cleaned before the final prose pass.
 
@@ -1649,21 +1608,18 @@ These should be cleaned before the final prose pass.
 
 ## Priya
 Current manuscript has:
-- **Priya Shah** — General Chemistry I lab;
-- **Priya Patel** — Discrete Structures;
+- **Priya Shah** — General Chemistry I/II lab group;
 - **Priya** — Leo's CS project story.
 
-Reduce to two at most, preferably keeping the two established surnamed characters and renaming the CS-project teammate.
+Resolve Leo's unnamed/surname-less Priya without creating a second recurring Priya.
 
 ## Marcus
 Current manuscript contains:
 - Marcus, Caleb's father;
-- Marcus Green, General Chemistry I lab;
-- Marcus Lawson, Discrete Structures;
+- Marcus Green, General Chemistry I/II lab group;
 - another Marcus mentioned in background gossip.
 
 The background gossip Marcus can simply lose his name.
-Consider renaming one of Green/Lawson if both project groups remain.
 
 ## Leah
 Two separate Leahs exist:
@@ -1686,13 +1642,14 @@ Less serious than the other collisions, but worth noticing.
 
 ---
 
-# 48. Voice separation cheat sheet
+# 46. Voice separation cheat sheet
 
 This is the most important practical guide during the dialogue rewrite.
 
 | Character | Default verbal energy | What makes the humor sound like them |
 |---|---|---|
 | Leo | High | rambling enthusiasm, self-correction, playful over-explanation |
+| Zayne | High | shameless flirting, social confidence, playful provocation, public charm |
 | Caleb | Low | literal precision, unintended comedy |
 | Maya | Medium-high | warmth, practical teasing, direct affection |
 | Nora | Medium-high | argument, rhetoric, turning premises around |
@@ -1708,11 +1665,8 @@ This is the most important practical guide during the dialogue rewrite.
 | Micah | Medium-low | analytical correction, mild smugness |
 | Lina | Medium-high | playful technical personification |
 | Rachel | Low-medium | methodical, test-focused practicality |
-| Adrian | Medium | organized, easy conversation, political/technical curiosity |
 | Priya Shah | Medium-high | energetic project management and precise argument |
-| Priya Patel | Medium | evidence-first efficiency |
 | Marcus Green | Medium | plain-language simplification |
-| Marcus Lawson | Medium | practical consequences, easygoing |
 | Daniel Cho | Medium-low | skeptical contingency planning |
 | Rao | Medium | technical rigor with controlled dry humor |
 | Hall | Medium | academic challenge and argumentative pressure |
@@ -1720,7 +1674,7 @@ This is the most important practical guide during the dialogue rewrite.
 
 ---
 
-# 49. Immediate revision priorities from this cast inventory
+# 47. Immediate revision priorities from this cast inventory
 
 1. **Differentiate Maya / Nora / Mia first.**
    They recur enough that their overlap affects the whole book.

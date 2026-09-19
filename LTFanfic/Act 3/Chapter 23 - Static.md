@@ -128,23 +128,27 @@ The prosecution lacked standing. Taiga drank coffee. The contact remained for an
 
 ---
 
-Discrete Structures introduced him properly to Zayne Alexander at one-thirteen that afternoon.
+General Chemistry II introduced him properly to Zayne Alexander at one-thirteen that afternoon.
 
 Taiga already knew the name. Everybody at Olympus knew the name. House Zeus. Basketball. Number nineteen. The guy who could leave the arena after a home game with half a corridor following him.
 
-The instructor announced a three-week group project: choose a real scheduling problem, model it as a graph, compare at least two coloring strategies, and explain where the model broke down instead of pretending mathematics had solved reality. Four names appeared together on the screen:
+Professor Hassan announced the lab's three-week kinetics project: each group would choose one of the approved reaction systems, collect absorbance data under controlled conditions, determine the rate law, and explain where the experimental model stopped matching reality. The department had also assigned an upper-level Chemistry student to each group as a project mentor.
 
-**Akatora / Alexander / Patel / Lawson**
+Taiga's screen showed:
 
-After class, the group stayed near the aisle long enough to negotiate schedules. Priya Patel opened a calendar immediately. Marcus Lawson admitted he worked evenings on Wednesdays and Fridays.
+**Akatora / Shah / Green / Cho — Mentor: Alexander**
 
-Zayne leaned back against the desk as if the room had been arranged around him. He was taller up close than Taiga expected, dark-skinned and long-limbed, with purple hair tied back and enough gold around his neck and wrists to make the fluorescent classroom lighting look intentional.
+Of course.
+
+Priya Shah opened her calendar immediately. Marcus Green said he worked Wednesday evening. Daniel Cho had already downloaded the project brief and highlighted the instrument-booking deadline.
+
+Zayne leaned back against the lab bench as if the room had been arranged around him. He was taller up close than Taiga expected, dark-skinned and long-limbed, with purple hair tied back and enough gold around his neck and wrists to make fluorescent lighting look intentional.
 
 “I can do Monday after four, Tuesday before six, Thursday basically whenever.”
 
 Taiga looked at him.
 
-“You're a Chemistry major.”
+“You're the mentor.”
 
 Zayne smiled.
 
@@ -154,17 +158,41 @@ Zayne smiled.
 
 “Ouch.”
 
-“Why are you in Discrete?”
+Priya looked between them.
 
-“Quantitative elective. Computational chemistry sounded sexy when my advisor said it.”
+“You two know each other?”
 
-“And now?”
+“No,” Taiga said.
 
-“Now I'm in a room learning graph coloring with a redhead who looks personally offended by my existence.”
+“Not yet,” Zayne said at the same time.
 
-Priya did not look up from her calendar.
+Taiga looked at him.
 
-“He looks like that at everybody.”
+Zayne's smile widened.
+
+Marcus laughed.
+
+“Great. Three weeks of this.”
+
+Daniel looked at the brief.
+
+“Monday after five works if we reserve the spectroscopy room before somebody else takes it.”
+
+Zayne pulled out his phone.
+
+“Already checked. Five-thirty is open.”
+
+Taiga stared.
+
+“You can reserve it?”
+
+“Mentor privileges.”
+
+“Dangerous.”
+
+“See? He likes me already.”
+
+“He looks like that at everybody,” Priya said.
 
 Zayne's eyes stayed on Taiga.
 
@@ -172,42 +200,13 @@ Zayne's eyes stayed on Taiga.
 
 Taiga felt absolutely nothing useful in response.
 
-“Monday after five.”
+“Monday, five-thirty.”
 
 Zayne laughed.
 
 “Cold. I like it.”
 
-“Library?” Marcus asked.
-
-“Fine.”
-
-“Second-floor project rooms?” Priya said.
-
-“Those are always full,” Taiga said.
-
-Zayne pulled out his phone.
-
-“Not if you reserve them.”
-
-Taiga stared.
-
-“You can reserve them?”
-
-Zayne glanced up.
-
-“Since always, handsome.”
-
-“Don't call me that.”
-
-“Noted.”
-
-The smile suggested nothing had actually been noted.
-
-Taiga hated Olympus.
-
-Zayne sent the reservation link to the group before Taiga reached the door. Efficient, unfortunately.
-
+He sent the reservation to the group before Taiga reached the door. Efficient, unfortunately.
 ---
 
 Training that afternoon was short because they had a match on Saturday, and Mercer did not believe in murdering people twenty-four hours before kickoff. They went through warm-up, set pieces, shape and twenty minutes of finishing, then Mercer called it. Taiga appreciated civilization. Afterward, the locker room moved quickly. Nobody wanted to stay. Taiga removed his boots. Tape and socks came off in the usual routine. Leo sat across the aisle, talking to Aaron about a corner variation. Taiga looked once, just once. Leo was still in training kit. Safe. Then Leo pulled the shirt over his head.
@@ -323,33 +322,45 @@ Then he turned toward House Apollo. Taiga watched him go, not for long. Long eno
 
 ---
 
-Monday's Discrete Structures project meeting lasted fifty-eight minutes. It should have lasted thirty. Marcus had read the prompt and still wanted to treat every scheduling conflict as a special case. Priya had already built a list of counterexamples. Zayne had made the shared document presentable before anybody arrived, complete with headings, a clean diagram and colors that were somehow tasteful instead of obnoxious.
+Monday's Chemistry II project meeting lasted fifty-eight minutes. It should have lasted thirty.
 
-Taiga approved despite himself.
+They had chosen the crystal-violet reaction because the procedure was simple enough to repeat and the spectrophotometer gave them clean absorbance data when nobody touched the cuvettes with bare fingers.
 
-They settled on course scheduling: students and required modules became conflicts, time slots became colors, and the useful question was not whether a graph could be colored but what assumptions they had smuggled in to make it possible.
+Priya wanted three more trials at the highest hydroxide concentration because one curve looked wrong. Daniel had already checked the calibration data twice. Marcus thought they were overcomplicating the presentation.
 
-Priya wanted greedy ordering compared against saturation because it gave them an obvious counterexample. Taiga agreed. Marcus insisted that somebody had to explain what the resulting schedule meant to an actual student instead of simply producing a prettier graph.
+Zayne stood behind them with one hand on the back of an empty chair, looking at the plots.
 
-“Okay,” Taiga said. “That's useful.”
+“That run is bad.”
 
-Marcus pointed at him.
+Priya pointed at the same curve.
 
-“I contribute.”
+“Thank you.”
 
-Zayne laughed.
+Marcus looked at him.
 
-“You say that like we're surprised.”
+“We paid zero dollars for that consultation.”
 
-“I know what all of you think.”
+“You're getting premium service for free.”
 
-“I met you three days ago.”
+Taiga zoomed into the residuals.
 
-“And yet.”
+“The third point is off before the rest diverges.”
 
-Taiga took implementation and tradeoffs. Priya took the test cases and counterexamples. Marcus took practical constraints. Zayne took the visual model and presentation structure, which suited him suspiciously well.
+Daniel leaned closer.
 
-When the meeting ended, Zayne closed his laptop.
+“Bubble in the cuvette?”
+
+“Or contamination,” Priya said.
+
+Zayne nodded.
+
+“Repeat it. Don't average garbage into good data because the spreadsheet wants closure.”
+
+That was annoyingly reasonable.
+
+They divided the work. Priya took the repeat trials and procedure notes. Daniel handled calibration and uncertainty. Marcus took the practical explanation of what the rate law meant. Taiga handled the data treatment, plots and comparison between pseudo-first-order runs. Zayne's job was mostly to stop them doing something chemically stupid and make sure they could defend the choices afterward.
+
+When the meeting ended, Zayne closed the project folder.
 
 “You heading toward Central?”
 
@@ -365,7 +376,7 @@ Zayne smiled.
 
 They walked anyway.
 
-Zayne talked easily, which Taiga had expected. Chemistry. Basketball. A spectroscopy lab that had eaten most of his morning. Discrete Structures because his advisor had recommended one computational elective and Zayne had apparently decided that sounded less painful than taking another calculus course.
+Zayne talked easily, which Taiga had expected. Chemistry. Basketball. A spectroscopy lab that had eaten most of his morning. A professor who apparently believed one unreadable paper could replace a lecture.
 
 At the path split near Central, Zayne said:
 
@@ -409,7 +420,19 @@ Taiga looked at the drink.
 
 “It wasn't meant to be.”
 
-They took a table near the window. Zayne asked about Data Structures. Taiga explained the tree assignment. Zayne understood enough to ask good questions and not enough to pretend otherwise, which Taiga respected more than he expected.
+They took a table near the window. Zayne asked what Taiga liked least about Chemistry II.
+
+“Equilibrium.”
+
+“That answer hurt me.”
+
+“You asked.”
+
+“I'm reconsidering mentorship.”
+
+“You're not allowed.”
+
+“True. Tragic.”
 
 Then Zayne rested his chin against one hand.
 
@@ -440,7 +463,6 @@ Taiga said:
 “I know.”
 
 Caleb accepted this as sufficient. A miracle.
-
 ---
 
 Tuesday lab. Leo dropped into the chair beside Taiga at eight-fifty-four.
@@ -517,7 +539,7 @@ Leo paused. Small.
 
 “Class?”
 
-“Discrete Structures group.”
+“Chemistry project.”
 
 “Ah.”
 
@@ -579,17 +601,31 @@ Not then.
 
 ---
 
-The project meeting was productive. Priya had the conflict graph working. Marcus had finally stopped trying to solve every scheduling constraint by hand. Zayne had turned their ugly draft into something a human being could present without apologizing first. Taiga drafted the comparison section quickly.
+The project meeting was productive. Priya had the repeat run finished. Daniel had cleaned the calibration table. Marcus had rewritten the methods paragraph in language normal people might actually understand. Taiga rebuilt the rate plots.
+
+Zayne arrived halfway through from an upper-level lab, glanced at the new data and pointed at the corrected curve.
+
+“Much better.”
+
+Priya looked pleased.
+
+“I told you the first run was bad.”
+
+“You did.”
+
+“Say it louder.”
+
+“No.”
 
 When the group finished, Zayne asked:
 
-“You want to stay and work here? I've got a chem write-up to finish.”
+“You want to stay and work here? I've got a spectroscopy write-up to finish.”
 
 Taiga looked at his Data Structures assignment.
 
 “Fine.”
 
-Priya left. Marcus left. Taiga and Zayne stayed. Separate work. Minimal conversation. Useful.
+Priya, Marcus and Daniel left. Taiga and Zayne stayed. Separate work. Minimal conversation. Useful.
 
 At some point Zayne got up and returned with two coffees. He put one beside Taiga. Black.
 
@@ -610,7 +646,6 @@ Zayne sat down.
 “See? There you go again.”
 
 Taiga drank the coffee anyway. Free coffee was free coffee.
-
 ---
 
 Wednesday recovery training was mostly movement. There was no tactical load or hard running. Mercer split them into small groups for a ball-retention game that was more competitive than recovery had any right to be. Taiga's group: Leo. Aaron. Scott. Micah was obviously not there because Micah played for Pinetree, but Taiga's brain supplied the name for half a second anyway because that weekend still occupied too much storage. Their actual fourth outfield player was Jonah. Five-versus-two rotation. One touch.
@@ -647,17 +682,17 @@ Taiga looked over.
 
 They left together. Cold outside. Dry. The snow from earlier in the month had mostly melted into gray piles along the paths. Leo put his hands into his pockets. For the first minute, they talked about training. Then Leo said:
 
-“Your Discrete project go okay?”
+“Your Chemistry project go okay?”
 
 Taiga looked at him.
 
 “Yeah.”
 
-“Graph coloring?”
+“The purple reaction thing?”
 
-“You remember that?”
+“Crystal violet.”
 
-“You complained about it for twelve messages.”
+“You complained about the spectrophotometer for twelve messages.”
 
 “It was six.”
 
@@ -764,7 +799,7 @@ Leo reacted with a thumbs-up, not a heart. Why did Taiga notice that? He locked 
 
 ---
 
-Thursday Data Structures was uneventful. Which made Taiga suspicious. Leo arrived. Sat. Talked. Taiga was able to concentrate—mostly. At one point Leo reached past him for the charger plugged into the wall. His forearm brushed Taiga's shoulder. Taiga's body reacted. Leo kept reaching for the charger. After lab, Leo had Chemistry II. Taiga had Discrete Structures. No coffee. Again. Leo said:
+Thursday Data Structures was uneventful. Which made Taiga suspicious. Leo arrived. Sat. Talked. Taiga was able to concentrate—mostly. At one point Leo reached past him for the charger plugged into the wall. His forearm brushed Taiga's shoulder. Taiga's body reacted. Leo kept reaching for the charger. After lab, Leo had a CS project meeting. Taiga had Chemistry II, followed by the kinetics-project session. No coffee. Again. Leo said:
 
 “Tomorrow?”
 
@@ -794,10 +829,11 @@ Taiga lifted one hand without turning.
 
 ---
 
-Zayne was already in the Discrete Structures project room when Taiga arrived. There was no Priya or Marcus. Taiga checked the group chat.
+Zayne was already in the Chemistry project room when Taiga arrived. There was no Priya, Marcus or Daniel. Taiga checked the group chat.
 
 **Priya:** running 15 late sorry
 **Marcus:** same
+**Daniel:** instrument room. bringing calibration printout
 
 Zayne looked up.
 
@@ -825,23 +861,33 @@ Zayne leaned back in his chair.
 
 Taiga took the coffee.
 
-They worked. Fifteen minutes later Priya arrived. Marcus came ten after. The model improved. At six-fifteen they were done.
+They worked. Fifteen minutes later Priya arrived. Marcus came ten after, and Daniel returned with the calibration printout. The analysis improved. At six-fifteen they were done.
 
 Zayne leaned closer to Taiga's screen.
 
-“You want to send me those test cases? I think one of mine duplicates yours.”
+“Send me that rate plot.”
 
-“Yeah.”
+“Why?”
+
+“Your legend is lying.”
+
+Taiga looked.
+
+It was.
+
+“Fuck.”
+
+“I know. Devastating.”
 
 Zayne was attractive enough. More than enough, objectively. He was also close enough that Taiga could smell whatever expensive thing he wore instead of normal deodorant.
 
 Nothing happened.
 
-Zayne pointed.
+Zayne pointed at the second series.
 
-“This one.”
+“That one.”
 
-Taiga copied the case into his table.
+Taiga corrected the label.
 
 Done.
 
