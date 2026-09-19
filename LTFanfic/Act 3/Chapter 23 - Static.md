@@ -815,7 +815,7 @@ At the path split near Central, Zayne said:
 
 Taiga checked the time. He had forty minutes before a library reservation with Caleb.
 
-“Sure.”
+“Fine.”
 
 Zayne put one hand to his chest.
 
@@ -839,7 +839,7 @@ Taiga ordered black coffee. Zayne looked at the cup when it arrived.
 
 “It's coffee.”
 
-“It's a cry for help.”
+“It does suit you actually.”
 
 “You're drinking something purple.”
 
@@ -867,7 +867,7 @@ They took a table near the window. Zayne asked what Taiga liked least about Chem
 
 Then Zayne rested his chin against one hand.
 
-“So, Akatora.”
+“So, Taiga.”
 
 “What.”
 
@@ -885,15 +885,6 @@ There it was again.
 
 Zayne was objectively attractive. Taiga had eyes. He also had no difficulty finishing his coffee.
 
-When they split, Taiga realized he was seven minutes late meeting Caleb. Caleb said:
-
-“You are late.”
-
-Taiga said:
-
-“I know.”
-
-Caleb accepted this as sufficient. A miracle.
 ---
 
 Tuesday lab. Leo dropped into the chair beside Taiga at eight-fifty-four.
@@ -988,7 +979,7 @@ Then:
 
 “Yeah.”
 
-“Zayne Alexander?”
+“You're with Zayne Alexander?”
 
 Taiga looked at him.
 
@@ -1036,7 +1027,7 @@ The project meeting was productive. Priya had the repeat run finished. Daniel ha
 
 Zayne arrived halfway through from an upper-level lab, glanced at the new data and pointed at the corrected curve.
 
-“Much better.”
+“Oh, much better.”
 
 Priya looked pleased.
 
@@ -1077,6 +1068,7 @@ Zayne sat down.
 “See? There you go again.”
 
 Taiga drank the coffee anyway. Free coffee was free coffee.
+
 ---
 
 Wednesday recovery training was mostly movement. There was no tactical load or hard running. Mercer split them into small groups for a ball-retention game that was more competitive than recovery had any right to be. Taiga's group: Leo. Aaron. Scott. Micah was obviously not there because Micah played for Pinetree, but Taiga's brain supplied the name for half a second anyway because that weekend still occupied too much storage. Their actual fourth outfield player was Jonah. Five-versus-two rotation. One touch.
@@ -1105,7 +1097,7 @@ After training, Taiga did not wait. He showered. He did not choose the far stall
 
 Leo was talking to Aaron. Taiga went to his locker. Dressed. Packed. He told himself he was not waiting. Then Aaron left. Leo zipped his bag.
 
-“Walking?”
+“Coming?”
 
 Taiga looked over.
 
@@ -1169,13 +1161,15 @@ Leo laughed.
 
 Leo looked amused.
 
-Taiga did not explain. The conversation moved on. At the intersection near the Student Center, the pedestrian light changed. They crossed. Halfway over, an electric bike shot through the turn too fast. Taiga saw it late. Leo grabbed his hand, not wrist. Hand. Pulled. Taiga stumbled one step toward him. Bike passed. The rider shouted something useless. Leo shouted back:
+Taiga did not explain. The conversation moved on. At the intersection near the Student Center, the pedestrian light changed. They crossed. Halfway over, an electric bike shot through the turn too fast. Taiga saw it late. Leo grabbed his hand and pulled. Taiga stumbled one step toward him. Bike passed. The rider shouted something useless. Leo shouted back:
 
 “LIGHT'S RED, ASSHOLE!”
 
 Then:
 
 “You good?”
+
+"Yeah."
 
 Taiga looked down. Leo was still holding his hand. Palm against palm. Leo's fingers wrapped across the back. The bike was already gone. Taiga looked up. Leo followed his gaze. A beat passed. Then Leo's thumb moved once across the side of Taiga's hand. Tiny movement. Taiga's entire body went electric. Leo let go.
 
@@ -1205,20 +1199,12 @@ Friends pulling each other. Sports. Camp. Crowds. Normal. Thumb movement meant n
 **Leo:** saturday film thing at apollo if you want
 **Leo:** gav found old olympus match footage and apparently we all need to suffer
 
-Taiga stared. Normal invitation. Normal Leo. He typed:
-
 **Taiga:** what year
-
-Leo:
 
 **Leo:** 2019
 **Leo:** enzo says hair crimes occurred
 
-Taiga:
-
 **Taiga:** compelling
-
-Leo:
 
 **Leo:** that a yes?
 
@@ -1226,7 +1212,8 @@ Taiga looked at his hand again. Then:
 
 **Taiga:** yeah
 
-Leo reacted with a thumbs-up, not a heart. Why did Taiga notice that? He locked the phone. Then unlocked it. No new message. Idiot.
+Leo reacted with a thumbs-up. Why did Taiga notice that? He locked the phone. Then unlocked it. No new message.
+Idiot.
 
 ---
 
@@ -1236,7 +1223,7 @@ Thursday Data Structures was uneventful. Which made Taiga suspicious. Leo arrive
 
 Taiga looked at his schedule.
 
-“Group meeting.”
+“Can't, group meeting.”
 
 “Oh.”
 
@@ -1312,17 +1299,11 @@ It was.
 
 Zayne was attractive enough. More than enough, objectively. He was also close enough that Taiga could smell whatever expensive thing he wore instead of normal deodorant.
 
-Nothing happened.
-
 Zayne pointed at the second series.
 
 “That one.”
 
-Taiga corrected the label.
-
-Done.
-
-His phone buzzed.
+Taiga corrected the label. Done. Then his phone buzzed.
 
 **Leo:** still in central?
 
@@ -1342,7 +1323,6 @@ Zayne was still packing his laptop when Leo appeared in the doorway two minutes 
 He stopped when he saw Zayne.
 
 Zayne looked up.
-
 Then smiled.
 
 “Oh.”
@@ -1403,17 +1383,15 @@ Leo's ears went slightly pink, but he was smiling.
 
 Taiga closed his laptop harder than necessary.
 
-Neither of them looked at him.
-
 Zayne continued:
 
-“Akatora never mentioned his friend was cute.”
+“Taiga never mentioned his friend was cute.”
 
 Taiga looked up.
 
 “Why would I mention that?”
 
-Leo turned toward him.
+Leo turned toward him with a raised eyebrow.
 
 “You think I'm cute?”
 
@@ -1443,9 +1421,7 @@ Zayne's smile shifted toward Leo.
 
 “Next time,” Leo said lightly.
 
-Taiga looked at him.
-
-Leo did not notice.
+Taiga looked at him. Leo did not notice.
 
 Or did not understand why that answer had suddenly become a problem.
 
@@ -1475,7 +1451,7 @@ Taiga started toward the stairs.
 
 Leo caught up.
 
-“He's a lot.”
+“Woah, he's a lot.”
 
 “Yes.”
 
@@ -1487,7 +1463,7 @@ Leo was smiling to himself.
 
 Something unpleasant tightened under Taiga's ribs.
 
-“He's annoying.”
+“He's just annoying.”
 
 Leo glanced over.
 
@@ -1557,7 +1533,9 @@ Taiga murmured:
 
 “Too late.”
 
-They argued quietly for two minutes. Normal soccer analysis. Their arms stayed together. At twenty-three minutes, Leo reached for the popcorn bowl near Taiga's knee. His hand landed on Taiga's thigh, not high, just above the knee. Practical—probably. Taiga stopped breathing. Leo's hand remained there while he leaned across. One second. Two. He grabbed popcorn. His hand stayed on Taiga's thigh another beat. Taiga looked down. Leo looked at him. His fingers flexed, not gripping, just settling. Taiga's stomach dropped. Leo slowly lifted his hand.
+They argued quietly for two minutes. Normal soccer analysis. Their arms stayed together. At twenty-three minutes, Leo reached for the popcorn bowl near Taiga's knee. 
+His hand landed on Taiga's thigh, not high, just above the knee. Practical—probably. Taiga stopped breathing. Leo's hand remained there while he leaned across. One second. Two. He grabbed popcorn. His hand stayed on Taiga's thigh another beat. 
+Taiga looked down. Leo looked at him. His fingers flexed, not gripping, just settling. Taiga's stomach dropped. Leo slowly lifted his hand.
 
 “Sorry.”
 
@@ -1577,7 +1555,8 @@ He held up three pieces.
 
 “Successful operation.”
 
-Taiga looked back at the screen. His thigh burned where Leo's hand had been. Beside him, Leo ate one piece of popcorn. Then another. Their shoulders stayed together while Leo ate the popcorn. At halftime in the archived match, everybody started talking at once. Taiga stood. Bathroom. Water. Anything. He made it to the kitchen and opened the fridge. No objective and closed it.
+Taiga looked back at the screen. His thigh burned where Leo's hand had been. Beside him, Leo ate one piece of popcorn. Then another. Their shoulders stayed together while Leo ate the popcorn. At halftime in the archived match, everybody started talking at once. 
+Taiga stood. Bathroom. Water. Anything. He made it to the kitchen and opened the fridge. No objective and closed it.
 
 “Good search?”
 
@@ -1637,29 +1616,24 @@ Enzo yelled about a penalty in the other room. Leo smiled faintly.
 
 “Apparently history has become violent.”
 
-Taiga almost smiled. Then Leo's hand moved, not toward Taiga, just onto the counter between them. Taiga looked at it. Bad idea. Long fingers. Small scar near one knuckle. Taiga knew that scar. Training collision. October. Why did he know that? Leo followed his gaze. Taiga looked up. Leo wasn't teasing now. Then Aaron shouted from the living room:
+Taiga almost smiled. Then Leo's hand moved onto the counter between them. Taiga looked at it. Bad idea. Long fingers. Small scar near one knuckle. Taiga knew that scar. Training collision. October. Why did he know that? Leo followed his gaze. Taiga looked up. Leo wasn't teasing now. Then Aaron shouted from the living room:
 
-“Mendez! If you're hiding the popcorn, you're dead!”
+“MENDEZ! If you're hiding the popcorn, you're dead!”
 
 Leo closed his eyes.
 
 “Romance is alive in House Apollo.”
 
-Taiga's brain stopped. Leo's eyes opened. He froze. The sentence had been casual. About Aaron and Sofia? Probably. Maybe. Leo's ears went pink. Taiga felt his own face heat. Leo grabbed the bowl.
-
-“I meant—”
-
-“I know.”
-
-Did he? Leo looked relieved anyway.
-
-“Right.”
-
-He left. Taiga stayed in the kitchen for ten more seconds. Then:
+Taiga's brain stopped. Leo's eyes opened. He froze. The sentence had been casual. About Aaron and Sofia? Probably. Maybe. Leo's ears went pink. Taiga felt his own face heat. Leo grabbed the bowl and left. Taiga stayed in the kitchen for ten more seconds. 
 
 “Fuck.”
 
-Very quietly. For the rest of film night, Leo sat beside him for nearly an hour without touching his leg again.
+When Taiga came back, he found Leo where they were before. He sat beside him. For a while, nothing happened.
+Then Taiga adjusted his legs and made sure his knee leaned just a bit on Leo's own leg. 
+He saw him looking down, but their gaze didn't met this time.
+
+They stayed like that for an hour, even when Taiga's leg had gone numb.
+
 
 ---
 
