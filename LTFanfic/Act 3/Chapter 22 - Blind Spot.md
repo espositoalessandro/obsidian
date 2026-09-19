@@ -1,6 +1,6 @@
 By the following Tuesday, sitting beside Leo in Data Structures had stopped feeling like a test. The repair after Pinetree was no longer something Taiga had to measure minute by minute; they had found their ordinary rhythm again.
 
-That should have made the week easier. Instead, Taiga had started noticing things about Leo that were much harder to file under friendship.
+That should have made the week easier. Instead, Taiga had started noticing things about Leo that were much harder to file under "ordinary friendship".
 
 ---
 
@@ -91,10 +91,6 @@ Leo lasted approximately three seconds.
 “There it is.”
 
 “Balance.”
-
-“Wrong language.”
-
-“Spiritual segfault.”
 
 Taiga snorted.
 
