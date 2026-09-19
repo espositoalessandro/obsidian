@@ -1,6 +1,6 @@
 # ACT IV
 
-# Chapter Thirty-Two
+# Chapter Thirty-Three
 ## Back
 
 Monday arrived with mud.
@@ -2661,7 +2661,7 @@ Taiga put the Oracle away and headed to class.
 
 ---
 
-# Chapter Thirty-Three
+# Chapter Thirty-Four
 ## Minutes
 
 Saturday started with toast.
@@ -4612,7 +4612,7 @@ Behind them, the stadium lights finally shut off.
 
 ---
 
-# Chapter Thirty-Four
+# Chapter Thirty-Five
 ## Eleven
 
 Sunday recovery ended at one-fifteen.
@@ -6959,7 +6959,7 @@ There would be another chance.
 
 ---
 
-# Chapter Thirty-Five
+# Chapter Thirty-Six
 ## Fault
 
 By Wednesday, Taiga had watched the Cedar Ridge chance at eighty-three minutes enough times that the clip had stopped behaving like video.
@@ -10338,7 +10338,7 @@ Again.
 
 ---
 
-# Chapter Thirty-Six
+# Chapter Thirty-Seven
 ## Ninety
 
 Pinetree lost at eleven forty-seven.
@@ -13319,7 +13319,7 @@ This time, sleep came.
 
 ---
 
-# Chapter Thirty-Seven
+# Chapter Thirty-Eight
 ## After
 
 Taiga woke because his left arm had gone numb.
