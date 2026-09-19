@@ -11,14 +11,14 @@
             "id": "05cfd2b999405f0f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Act 3/Chapter 25 - Home Ground.md",
-                "mode": "source",
-                "source": false
+                "aFile": "LTFanfic/Act 3/Chapter 30 - What It Meant.md",
+                "bFile": "LTFanfic/Act 3/Chapter 30 - What It Meant.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Chapter 25 - Home Ground"
+              "icon": "diff",
+              "title": "Diff: Chapter 30 - What It Meant  (Working Tree)"
             }
           }
         ]
@@ -201,19 +201,19 @@
   },
   "active": "05cfd2b999405f0f",
   "lastOpenFiles": [
+    "Act 3/Chapter 30 - What It Meant.md",
+    "Act 3/Chapter 31 - Closer.md",
+    "Act 3/Chapter 25 - Home Ground.md",
     "Act 3/Chapter 24 - Preseason.md",
     "Act 3/Chapter 23 - Static.md",
     "Act 3/Chapter 22 - Blind Spot.md",
     "Act 1/Chapter 2 - Provisional.md",
     "Act 2/Chapter 21 - What remains.md",
     "Act 3/Chapter 32 - The Way Back.md",
-    "Act 3/Chapter 31 - Closer.md",
-    "Act 3/Chapter 30 - What It Meant.md",
     "Act 3/Chapter 29 - No Reason.md",
     "Act 3/Chapter 28 - Old Language.md",
     "Act 3/Chapter 27 - Old Ground.md",
     "Act 3/Chapter 26 - Easy.md",
-    "Act 3/Chapter 25 - Home Ground.md",
     "Act 3",
     "Act 2/Chapter 20 - Fallout.md",
     "Act 2/Chapter 14 - Backstage.md",

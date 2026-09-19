@@ -40,7 +40,7 @@ Taiga stared at the vehicle.
 
 Leo leaned toward the open door. Yoichi finally looked past Taiga and gave him a long once-over.
 
-“Who's Sunshine?”
+“Who's this?”
 
 Leo blinked, then smiled. Taiga threw his duffel into the back.
 
@@ -84,7 +84,7 @@ Taiga got in. Leo climbed into the back.
 
 “Thanks for picking us up.”
 
-“Don't thank me yet.”
+“Don't thank him yet.”
 
 Yoichi slammed the vehicle into gear. It lurched forward. Leo caught the grab handle.
 
@@ -98,7 +98,7 @@ Taiga knew that sound. It was the same reaction Leo had shown at the Pinetree ov
 
 “City boy?”
 
-“Mostly.”
+“More of a sea boy.”
 
 “Explains a lot.”
 
@@ -132,7 +132,7 @@ Leo smiled and looked back outside. With no campers, no summer noise and nobody 
 
 “Yoshinori said lakeside,” Taiga said.
 
-“Yeah. Two-twelve.”
+“Yeah. You're staying in cabin two”
 
 Taiga looked over.
 
@@ -242,7 +242,7 @@ Leo sighed and turned back to Yoshinori, then stepped forward.
 
 Yoshinori blinked.
 
-“You do not need to call me sir.”
+“I'm Scoutmaster Yoshinori. You do not need to call me sir though.”
 
 Taiga said:
 
@@ -252,7 +252,7 @@ Leo ignored him.
 
 “Nice to meet you, Yoshinori.”
 
-“And you. Thank you for coming to help.”
+“And you, Leo. Thank you for coming to help.”
 
 “I was told there would be manual labor.”
 

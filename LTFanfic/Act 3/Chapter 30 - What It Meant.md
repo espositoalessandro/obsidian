@@ -1064,4 +1064,15 @@ Taiga glanced over.
 
 “Fuck you.”
 
-They both laughed. After a while Leo shifted closer, not all the way. Just enough that the empty plank between them stopped being empty. Their shoulders touched. They stayed until the sun touched the trees. The last light spread orange across the water. Leo shifted closer and, without saying anything, lowered his head onto Taiga's shoulder. Taiga looked sideways. Leo kept his eyes on the lake. Taiga tilted his head against Leo's and watched the last light fade across the water.
+They both laughed. After a while Leo shifted closer, not all the way. Just enough that the empty plank between them stopped being empty. 
+Their shoulders touched. They stayed until the sun touched the trees. The last light spread orange across the water.
+Leo shifted closer and, without saying anything, lowered his head onto Taiga's shoulder. Taiga looked sideways. Leo kept his eyes on the lake. Taiga tilted his head against Leo's and watched the last light fade across the water.
+
+After a while, Leo lightly brushed his fingers on Taiga's thigh and said,
+
+"Looks like we won't need the popcorn excuse anymore?"
+
+Taiga looked at him in disbelief.
+
+"You little-"
+
