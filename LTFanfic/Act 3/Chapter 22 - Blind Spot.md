@@ -209,7 +209,7 @@ Taiga looked at the menu. No.
 
 “Okay.”
 
-They payed for their coffee, then stood near the pickup counter. Leo leaned one hip against the wall. His coat was open, revealing a dark shirt underneath. Nothing remarkable. Taiga's eyes moved down anyway. His gaze moved over Leo's chest and waist before snapping back up. He hated that he had done it. His brain had not mistaken Leo for a lamp. He had looked because Leo looked good. Simple—unhelpful. Taiga took his coffee when his name was called and drank too quickly. Burned his tongue—excellent.
+They paid for their coffee, then stood near the pickup counter. Leo leaned one hip against the wall. His coat was open, revealing a dark shirt underneath. Nothing remarkable. Taiga's eyes moved down anyway. His gaze moved over Leo's chest and waist before snapping back up. He hated that he had done it. His brain had not mistaken Leo for a lamp. He had looked because Leo looked good. Simple—unhelpful. Taiga took his coffee when his name was called and drank too quickly. Burned his tongue—excellent.
 
 ---
 
@@ -716,23 +716,23 @@ One movement through the frosted panel. Taiga caught it with the corner of his e
 
 Fatal mistake.
 
-Leo had bent down to was his feet and for a couple of seconds he rested his butt on the panel. 
+Leo had bent down to wash his feet, and for a couple of seconds his ass pressed against the panel. 
 Frosted panels evidently stop working on contact.
 
 Taiga closed his eyes and turned immediately on the other side. Fuck. Taiga turned the water colder, not dramatically. One notch. Not enough. His body had started responding. Heat low in his abdomen. Arousal beginning before there was anything to justify it except Leo existing naked on the other side of a divider and talking about a pass. Taiga stared at the wall, but he could feel that the damage was done.
 
 Then he looked down.
 
-"Shit."
+“Shit.”
 
-His dick was standing full erect and calling for attention. 
+His dick was fully erect and calling for attention. 
 Taiga swallowed. 
 
-Then he heard Leo saying "-I honestly don't know why Mercer did that. What do you think?"
+Then he heard Leo saying, “I honestly don’t know why Mercer did that. What do you think?”
 
 Taiga snapped back to reality.
 
-"Uh what?"
+“Uh, what?”
 
 There was a pause.
 
@@ -768,36 +768,36 @@ Then looked back at his problem. There was no way he could walk out like this.
 Taiga took a deep breath. 
 
 His hand went down, the other resting on the cold tiles. 
-He start stroking his dick. This time he didn't even try to think about anything else. Or anyone.
+He started stroking his dick. This time he didn't even try to think about anything else. Or anyone.
 Faster.
-He felt close enough. Luckily didn't take long.
-Then he heard a voice in the showers. No fucking way. Leo was calling him
+He felt close enough. Luckily, it didn't take long.
+Then he heard a voice in the showers. No fucking way. Leo was calling him.
 
-"Hey you good in there?"
+“Hey, you good in there?”
 
 Taiga almost swore out loud. 
 
-"Y-yeah, there's something in my fucking hair I can't pull out."
+“Y-yeah, there’s something in my fucking hair I can’t pull out.”
 
 Leo waited a second.
 
-"Oh, alright. Okay, see you tomorrow then!"
+“Oh, alright. Okay, see you!”
 
-"Yeah."
+“Yeah.”
 
 He raised his head over the stall. Gone. 
 He went back at it. 
 Faster.
 Even faster.
-Eventually the climax arrived
+Eventually the climax arrived.
 
-"Shit-"
+“Shit—”
 
 He shot everything all over the tiles. Then he stared at that for a few seconds, recovering his breath.
 
-"...I'm so fucked up."
+“…I’m so fucked up.”
 
-He closed the shower and went out. Most of the room had emptied. Leo was gone. Taiga walked back toward the Residential Zone alone. Cold air. Clear head—mostly. He could deal with this. Attraction was not a crisis. People were attractive. Taiga had been attracted to people before. The fact that this specific person happened to be Leo did not— He stopped walking. That was exactly what mattered. Fuck. His phone buzzed. Of course.
+He turned off the shower and went out. Most of the room had emptied. Leo was gone. Taiga walked back toward the Residential Zone alone. Cold air. Clear head—mostly. He could deal with this. Attraction was not a crisis. People were attractive. Taiga had been attracted to people before. The fact that this specific person happened to be Leo did not— He stopped walking. That was exactly what mattered. Fuck. His phone buzzed. Of course.
 
 **Leo:** btw the pass was perfect
 
