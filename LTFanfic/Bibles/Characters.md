@@ -142,6 +142,7 @@ The goal is not to give Leo a new dramatic flaw. It is to stop the story from sa
 - Economics student.
 - One of Taiga's most important non-romantic relationships.
 - Maya's boyfriend.
+- Meets Leo directly for the first time in Chapter 23, when Taiga spontaneously brings Leo back to Room 317 for Thai food.
 
 ## Established background
 - From Philadelphia.
@@ -204,6 +205,7 @@ Do not turn him into the person Taiga visits whenever the story needs an emotion
 - Caleb's girlfriend.
 - Environmental Science student at another university.
 - Stable recurring visitor to Taiga and Caleb's life.
+- Meets Leo directly for the first time in Chapter 23 during the Room 317 Thai-food dinner.
 
 ## Established background
 - Curly hair.

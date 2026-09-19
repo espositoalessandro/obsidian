@@ -297,23 +297,399 @@ Taiga showed Leo. Leo read.
 
 “Friendship.”
 
-Taiga put the phone away.
+Taiga looked at the message again.
 
-“I'm going home.”
+Too much Thai food.
 
-Leo nodded.
+Leo had just announced that he was hungry.
 
-“Okay. I'm stealing Enzo's dinner.”
+Obvious solution.
 
-“You can't steal dinner from someone who has no dinner.”
+“Come with me.”
 
-“He has pizza.”
+Leo stopped.
 
-“Then it's theft.”
+“What?”
 
-“Morally complicated redistribution.”
+“Food.”
 
-Taiga started walking. Leo walked backward for three steps.
+A small smile appeared.
+
+“Are you inviting me to your room, forty-one?”
+
+Taiga immediately regretted having a functional brain.
+
+“Do you want dinner or not?”
+
+“Yes.”
+
+“Then stop making it weird.”
+
+“I didn't make it weird.”
+
+“You absolutely did.”
+
+Leo fell into step beside him.
+
+Room 317 smelled like basil, chili and something fried before Taiga even opened the door.
+
+Maya was sitting cross-legged on Caleb's bed with a takeout container in her lap. Caleb had arranged the rest of the food across his desk in two precise rows, which was somehow the least surprising thing Taiga had seen all day.
+
+Both of them looked up.
+
+Taiga stepped inside.
+
+“Leo. Caleb. Maya.”
+
+Leo brightened.
+
+“Oh. Caleb.”
+
+Caleb looked at him.
+
+“You are Leo.”
+
+There was a pause.
+
+Taiga looked between them.
+
+Maya started laughing.
+
+“That was weirdly symmetrical.”
+
+Leo pointed at Caleb.
+
+“He talks about you.”
+
+Caleb nodded once.
+
+“He talks about you.”
+
+Taiga closed the door.
+
+“We're done with this conversation.”
+
+Maya laughed harder.
+
+Leo's grin became dangerous.
+
+“Oh, does he?”
+
+“Sit down.”
+
+“That wasn't an answer.”
+
+“Sit.”
+
+Maya shifted over on Caleb's bed.
+
+“Hi, Leo. Ignore both of them. Do you eat Thai?”
+
+“Yes.”
+
+“Good. I ordered for six people.”
+
+Caleb looked at her.
+
+“You ordered three mains, two sides, spring rolls and two portions of rice.”
+
+“That sounds like six people.”
+
+“It did not when there were two of us.”
+
+“And now there are four.”
+
+“That is retroactive justification.”
+
+“It is still justification.”
+
+Leo looked at Taiga.
+
+“I like them.”
+
+“You've been here thirty seconds.”
+
+“Strong opening.”
+
+There were only two desk chairs. Maya had already claimed Caleb's bed, so Leo dropped his backpack beside Taiga's desk and sat on the edge of Taiga's bed without asking.
+
+Taiga noticed.
+
+Then stopped noticing on purpose.
+
+Caleb handed Leo a plate.
+
+“The green curry is medium. The red one was marked hot.”
+
+Maya pointed her fork.
+
+“Marked hot. It is not actually hot.”
+
+“It is hotter than the green one.”
+
+“That isn't the same thing.”
+
+“It is literally comparative temperature.”
+
+“Spice isn't temperature.”
+
+“Capsaicin activates heat receptors.”
+
+Maya stared at him.
+
+Leo looked delighted.
+
+Taiga took a container of pad see ew.
+
+“This has been happening since September.”
+
+Caleb looked at him.
+
+“That is inaccurate. We did not discuss capsaicin in September.”
+
+Leo nearly dropped his plate.
+
+Taiga closed his eyes.
+
+“See?”
+
+Maya was laughing into her curry.
+
+They ate.
+
+Leo took the red curry.
+
+Of course.
+
+For the first few minutes, conversation stayed on the match. Maya asked how it went. Leo said:
+
+“Two-zero. He played twenty-eight minutes and Mercer didn't yell at him.”
+
+Taiga looked over.
+
+“That is not a match report.”
+
+“It is the important part.”
+
+Maya smiled.
+
+“Is Mercer the coach who communicates mostly through disappointment?”
+
+“Yes,” Taiga said.
+
+Leo said:
+
+“He has other emotions.”
+
+“Name one.”
+
+Leo thought.
+
+“Professional.”
+
+“That is not an emotion.”
+
+“It is from Mercer.”
+
+Caleb nodded.
+
+“Context changes meaning.”
+
+Taiga pointed at him.
+
+“Do not help.”
+
+“I was clarifying.”
+
+Halfway through dinner, Leo looked toward Caleb's nightstand.
+
+Then toward the digital clock.
+
+Then the smart speaker.
+
+Then Caleb's watch charging beside the laptop.
+
+Then the physical alarm clock.
+
+His fork stopped.
+
+“Why are there so many clocks?”
+
+Taiga put his plate down.
+
+“No.”
+
+Caleb said:
+
+“They are not all clocks.”
+
+Leo looked at him.
+
+“That made it worse.”
+
+Maya covered her mouth.
+
+Caleb pointed with his fork.
+
+“The watch and phone are multifunction devices. The smart speaker has no visual clock display.”
+
+Leo counted again.
+
+“So how many alarms?”
+
+“Six.”
+
+Leo stared.
+
+Taiga said:
+
+“Don't encourage him.”
+
+“I wasn't going to.”
+
+Caleb continued:
+
+“Redundancy reduces the probability of total failure.”
+
+Leo considered this.
+
+“That part actually makes sense.”
+
+Taiga turned toward him.
+
+“Get out.”
+
+“No, wait. Six is excessive.”
+
+“Thank you.”
+
+“Three, maybe.”
+
+“GET OUT.”
+
+Maya laughed so hard she had to put her food down.
+
+Caleb looked thoughtful.
+
+“Three would leave several independent failure modes uncovered.”
+
+Leo nodded slowly.
+
+“Okay, I see the problem.”
+
+“You do not see the problem,” Taiga said. “You are becoming the problem.”
+
+That somehow turned into Caleb explaining why his alarms did not all trigger at exactly the same second. Leo asked questions. Actual questions.
+
+Traitor.
+
+Maya eventually rescued the conversation by asking Leo about Santo Domingo after he mentioned his mother while talking about food. Leo answered easily, describing the heat, traffic, his mother's cooking and the fact that nobody at home understood why American dorm rooms were kept at temperatures designed for meat storage.
+
+Caleb asked:
+
+“What temperature does your mother keep the house?”
+
+Leo blinked.
+
+“I have absolutely no idea.”
+
+Caleb looked genuinely puzzled.
+
+“You've never checked?”
+
+“Caleb,” Maya said.
+
+“What?”
+
+Leo laughed.
+
+“No, wait. I respect the question.”
+
+Taiga ate another spring roll and accepted that inviting Leo here had been a tactical error.
+
+A pleasant one.
+
+Unfortunately.
+
+By eight-thirty, most of the food was gone.
+
+Maya stared at the remaining containers.
+
+“See?”
+
+Caleb looked at them.
+
+“There are still leftovers.”
+
+“There are supposed to be leftovers.”
+
+“You said you ordered too much because you wanted four people to eat.”
+
+“I said no such thing.”
+
+“You implied it.”
+
+“I ordered too much because I wanted leftovers. The four people were a bonus.”
+
+Leo leaned toward Taiga.
+
+“Your roommate keeps receipts on spoken language.”
+
+“I know.”
+
+“I heard that,” Caleb said.
+
+“You were meant to.”
+
+Leo stood and picked up his backpack.
+
+“I should go before Enzo reports me missing.”
+
+Maya waved.
+
+“Nice meeting you.”
+
+“You too.”
+
+Caleb looked up.
+
+“Goodbye, Leo.”
+
+Leo paused at the door.
+
+“Goodbye, Caleb.”
+
+Then:
+
+“Please reduce the alarms.”
+
+“No.”
+
+“Had to try.”
+
+Taiga followed him into the hallway.
+
+Leo adjusted the strap on his backpack.
+
+“Your roommate makes sense now.”
+
+Taiga looked at him.
+
+“What the fuck does that mean?”
+
+“I don't know yet.”
+
+“Useful.”
+
+Leo smiled.
+
+“Thanks for dinner.”
+
+“Thank Maya.”
+
+“I did.”
+
+“Then leave.”
 
 “Monday after lab?”
 
@@ -321,7 +697,37 @@ Taiga started walking. Leo walked backward for three steps.
 
 “Good.”
 
-Then he turned toward House Apollo. Taiga watched him go, not for long. Long enough.
+Leo started down the hall, then turned once.
+
+“Three alarms.”
+
+“Fuck off.”
+
+Leo laughed and kept going.
+
+Taiga went back inside.
+
+Caleb was transferring leftovers into smaller containers.
+
+Maya looked at Taiga.
+
+Taiga pointed at her.
+
+“No.”
+
+“I didn't say anything.”
+
+“Good.”
+
+Caleb closed a lid.
+
+“You still have two spring rolls.”
+
+Taiga looked at the container.
+
+“Excellent.”
+
+Conversation over.
 
 ---
 
