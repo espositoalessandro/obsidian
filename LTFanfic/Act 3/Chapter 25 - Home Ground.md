@@ -230,15 +230,15 @@ Yoshinori clasped his shoulder once. The contact was brief and warm before Yoshi
 
 Leo turned to Taiga.
 
-"Why did you do that."
+“Why did you do that?”
 
-"What? It's your name."
+“What? It's your name.”
 
-"Only my mum calls me that!"
+“Only my mum calls me that!”
 
-Leo sighed and turned back to Yoshinoro, then stepped forward.
+Leo sighed and turned back to Yoshinori, then stepped forward.
 
-“Yes, sir. Just Leo."
+“Yes, sir. Just Leo.”
 
 Yoshinori blinked.
 
@@ -250,7 +250,7 @@ Taiga said:
 
 Leo ignored him.
 
-“Nice to meet you, Leo.”
+“Nice to meet you, Yoshinori.”
 
 “And you. Thank you for coming to help.”
 
@@ -618,9 +618,47 @@ Taiga picked up another sock. Leo held both hands up.
 
 ---
 
-Dinner was stew. Aiden considered this insufficiently exciting.
+Dinner was stew.
 
-“This is preseason food,” he announced as Taiga and Leo entered the dining hall. “Hot, filling, and there's enough of it that nobody gets to complain they're hungry later.”
+Taiga and Leo had barely made it through the dining-hall door when Aiden looked up from behind the serving counter.
+
+His face lit.
+
+“Taiga! Buddy!”
+
+Taiga got as far as:
+
+“Hey, Aiden—”
+
+Aiden came around the counter and pulled him into a quick, solid hug.
+
+“Look at you! Welcome back.”
+
+Taiga returned it before Aiden let go.
+
+“Good to see you too.”
+
+Aiden held him at arm's length for half a second.
+
+“University hasn't killed you yet.”
+
+“Working on it.”
+
+“Hehehe~ That's the spirit.”
+
+Then Aiden noticed Leo beside him.
+
+“And you must be Leo! Welcome, buddy. Any friend of Taiga's who volunteers for preseason work is either very generous or very confused.”
+
+Leo smiled.
+
+“Probably the second one.”
+
+“Perfect. You'll fit right in.”
+
+Aiden went back behind the counter and reclaimed the ladle.
+
+“This is preseason food,” he announced. “Hot, filling, and there's enough of it that nobody gets to complain they're hungry later.”
 
 Yoichi, already eating, looked into his bowl.
 
@@ -646,7 +684,17 @@ Taiga nodded.
 
 “Goro.”
 
-Goro's attention moved to Leo.
+Goro closed the folder beside his plate.
+
+“Welcome back. It is good to see you here again.”
+
+The formality did not hide the warmth underneath it.
+
+Taiga's mouth moved before he could stop it.
+
+“Good to see you too.”
+
+Goro gave him a small nod, apparently satisfied, before his attention moved to Leo.
 
 “Mendez, I presume.”
 
