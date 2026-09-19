@@ -56,9 +56,9 @@ Taiga stopped at the aisle. Leo looked up.
 
 Taiga took his usual seat, leaving two empty chairs between them.
 
-Professor Rao entered. Graphs, traversal, breadth-first, depth-first. Taiga wrote notes. Leo wrote notes.
+The Data Structures professor entered. Graphs, traversal, breadth-first, depth-first. Taiga wrote notes. Leo wrote notes.
 
-At one point Rao made a joke about recursive functions calling themselves into therapy. Leo laughed. Taiga nearly turned, then kept looking forward.
+At one point the professor made a joke about recursive functions calling themselves into therapy. Leo laughed. Taiga nearly turned, then kept looking forward.
 
 When lecture ended, they reached the aisle at the same time and both stopped.
 
@@ -603,7 +603,7 @@ For one second they looked at each other across the gap. Then Rachel dropped int
 
 They worked. Mia talked about code—only code—and Taiga appreciated her more than usual.
 
-Halfway through, his Oracle buzzed.
+Halfway through, his phone buzzed.
 
 Aaron.
 

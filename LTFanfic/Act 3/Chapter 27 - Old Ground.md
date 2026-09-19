@@ -130,9 +130,7 @@ Kieran glanced down.
 
 Leo's mouth moved at one corner.
 
-Taiga caught it.
-
-Not amusement at Kieran.
+Taiga caught it. Not amusement at Kieran.
 
 Recognition of Yoichi being Yoichi.
 
@@ -152,9 +150,7 @@ Kieran blinked.
 
 “I'd be offended if you hadn't.”
 
-She smiled, but there was none of the Taiga-and-Leo menace in it.
-
-Not yet.
+She smiled, but there was none of the Taiga-and-Leo menace in it. Not yet.
 
 “Welcome back to Camp Buddy.”
 
@@ -166,9 +162,7 @@ Yuri looked toward Taiga once.
 
 Very briefly.
 
-Then kept walking.
-
-No comment.
+Then kept walking. No comment.
 
 Taiga appreciated that more than he wanted to.
 
@@ -226,15 +220,9 @@ Yoshinori continued.
 
 Taiga looked at him.
 
-Yoshinori met his eyes.
+Yoshinori met his eyes. Not oblivious. Not entirely.
 
-Not oblivious.
-
-Not entirely.
-
-Just refusing to turn the assignment into a referendum.
-
-Fine.
+Just refusing to turn the assignment into a referendum. Fine.
 
 Kieran shifted the duffel again.
 
@@ -312,9 +300,7 @@ He picked up the first one.
 
 Pressed the edge.
 
-Turned it over.
-
-No performance.
+Turned it over. No performance.
 
 No attempt to pull Taiga into conversation immediately.
 
@@ -462,7 +448,7 @@ He hated that too.
 
 Kieran looked at him.
 
-“When I saw you yesterday, you were here. You came back after everything that happened last summer too.”
+“When I saw you yesterday, you were here. You came back after everything that happened there too.”
 
 Different everything.
 
@@ -470,9 +456,7 @@ Different damage.
 
 Taiga's stomach tightened.
 
-Kieran did not know the journal story.
-
-Probably not.
+Kieran did not know the journal story. Probably not.
 
 Maybe he knew pieces.
 
@@ -496,9 +480,7 @@ Taiga's jaw shifted.
 
 “I know.”
 
-The answer came quickly.
-
-No argument.
+The answer came quickly. No argument.
 
 Kieran looked back at the board.
 
@@ -534,15 +516,11 @@ Taiga looked away.
 
 “Don't make a thing out of it.”
 
-Kieran's mouth moved.
-
-Not quite a smile.
+Kieran's mouth moved. Not quite a smile.
 
 “I'll try.”
 
-That was acceptable.
-
-Mostly.
+That was acceptable. Mostly.
 
 Yoshinori called from the window:
 
@@ -560,11 +538,7 @@ Then, to Kieran:
 
 Taiga went back to work.
 
-His chest felt strange.
-
-Not good.
-
-Not bad either.
+His chest felt strange. Not good. Not bad either.
 
 Worse category.
 
@@ -572,9 +546,7 @@ Complicated.
 
 ---
 
-At lunch, Leo and Yoichi came back covered in mud.
-
-Again.
+At lunch, Leo and Yoichi came back covered in mud. Again.
 
 Taiga was starting to believe that was their preferred state.
 
@@ -584,21 +556,13 @@ Yoichi had a wet streak across one knee.
 
 Aiden had made grilled sandwiches and soup.
 
-Kieran sat at the far end of the table when they entered.
-
-Not beside Taiga.
+Kieran sat at the far end of the table when they entered. Not beside Taiga.
 
 That was probably intentional.
 
-Leo looked at Kieran, then at Taiga.
+Leo looked at Kieran, then at Taiga. Not a question. Just checking the room.
 
-Not a question.
-
-Just checking the room.
-
-Taiga gave the smallest shrug.
-
-Fine enough.
+Taiga gave the smallest shrug. Fine enough.
 
 Leo sat beside him.
 
@@ -756,9 +720,7 @@ The main lodge porch had two loose rail sections.
 
 Kieran could hold them straight.
 
-Taiga could reset the brackets.
-
-Simple.
+Taiga could reset the brackets. Simple.
 
 Leo and Yoichi were somewhere near the equipment shed testing old lanterns because apparently Yoichi had decided Leo was now qualified for electricity.
 
@@ -790,9 +752,7 @@ Taiga drove the screw.
 
 The bracket pulled tight.
 
-Kieran kept his grip steady.
-
-No problem.
+Kieran kept his grip steady. No problem.
 
 Second screw.
 
@@ -816,9 +776,7 @@ That sentence had amused him.
 
 Taiga remembered why a second later.
 
-Old Taiga used to say things like that.
-
-Not exact words.
+Old Taiga used to say things like that. Not exact words.
 
 The certainty.
 
@@ -862,9 +820,7 @@ He held one lantern.
 
 Yoichi held another.
 
-They were arguing about batteries.
-
-No idea why Taiga looked there.
+They were arguing about batteries. No idea why Taiga looked there.
 
 He looked back.
 
@@ -898,17 +854,13 @@ Kieran laughed.
 
 That sounded more plausible.
 
-Taiga remembered pieces.
-
-Not scenes.
+Taiga remembered pieces. Not scenes.
 
 Motion.
 
 Being younger.
 
-Saying yes faster.
-
-Not scanning every room for exits.
+Saying yes faster. Not scanning every room for exits.
 
 Kieran's smile faded into something quieter.
 
@@ -924,9 +876,7 @@ Taiga said:
 
 “No, it really didn't.”
 
-Kieran's answer was immediate.
-
-No defense.
+Kieran's answer was immediate. No defense.
 
 No nostalgia pretending the ending did not exist.
 
@@ -1006,9 +956,7 @@ If Taiga went somewhere else, Kieran did not follow.
 
 If Leo came over, Kieran did not insert himself.
 
-If Yoichi said something insulting, Kieran took it.
-
-Not passively.
+If Yoichi said something insulting, Kieran took it. Not passively.
 
 Just without trying to recreate the old group dynamic immediately.
 
@@ -1044,17 +992,13 @@ Taiga took it.
 
 “That bothering you?”
 
-Leo's voice was casual.
-
-Not careless.
+Leo's voice was casual. Not careless.
 
 Taiga considered lying.
 
 “Yeah, it is.”
 
-Leo nodded.
-
-No surprise.
+Leo nodded. No surprise.
 
 Taiga looked at him.
 
@@ -1096,11 +1040,7 @@ Leo tested the shutter.
 
 “Good. That one's done.”
 
-They moved to the next cabin.
-
-No interrogation.
-
-No sympathy.
+They moved to the next cabin. No interrogation. No sympathy.
 
 Taiga could breathe.
 
@@ -1134,9 +1074,7 @@ Aiden ignored all of them.
 
 Taiga sat.
 
-Kieran ended up across from him because every other seat filled naturally.
-
-No one arranged it.
+Kieran ended up across from him because every other seat filled naturally. No one arranged it.
 
 Taiga checked anyway.
 
@@ -1144,9 +1082,7 @@ Yuri was talking to Leo about the cabin numbers.
 
 Yoichi was insulting the paint color.
 
-Goro was correcting him even though he had not chosen it.
-
-Fine.
+Goro was correcting him even though he had not chosen it. Fine.
 
 Kieran looked at Taiga's plate.
 
@@ -1202,21 +1138,13 @@ It had been easy.
 
 For three lines.
 
-Yuri glanced between them.
-
-Not shipping.
+Yuri glanced between them. Not shipping.
 
 Thinking.
 
 Taiga saw that and looked away before she could decide to say anything.
 
-Leo took a fry from his own plate.
-
-No reaction.
-
-Not yet.
-
-Good.
+Leo took a fry from his own plate. No reaction. Not yet. Good.
 
 Kieran cleared his throat.
 
@@ -1300,23 +1228,17 @@ Taiga nodded.
 
 “Yeah, it was manageable.”
 
-Yoshinori left it there.
+Yoshinori left it there. Good man.
 
-Good man.
-
-Annoying.
-
-Good.
+Annoying. Good.
 
 ---
 
-Walking into Cabin Two-Twelve and finding Leo already there with his shoes kicked off and one sock hanging from the bedpost felt familiar.
-
-Safe.
+Walking into Cabin Two-Twelve and finding Leo already there with his shoes kicked off and one sock hanging from the bedpost felt familiar. Safe.
 
 Taiga shut the door.
 
-Leo looked up from the Oracle.
+Leo looked up from the phone.
 
 “How's Yoshinori?”
 
@@ -1336,11 +1258,7 @@ Taiga sat on his bed.
 
 Leo smiled.
 
-Then went back to whatever he was reading.
-
-No Kieran question.
-
-Again.
+Then went back to whatever he was reading. No Kieran question. Again.
 
 Taiga untied his boots.
 
@@ -1358,17 +1276,11 @@ Leo looked up.
 
 Taiga stared at the floorboards.
 
-He had not planned to continue.
-
-Apparently his mouth had plans.
+He had not planned to continue. Apparently his mouth had plans.
 
 “Kieran. Before Camp Buddy.”
 
-Leo put the Oracle down.
-
-Not dramatically.
-
-Just giving him attention.
+Leo put the phone down. Not dramatically. Just giving him attention.
 
 Taiga rubbed one thumb against the side of his hand.
 
@@ -1402,9 +1314,7 @@ Leo leaned back against the wall.
 
 “Did he also have a grocery cart with one broken wheel, or was that unique to your reunion?”
 
-Taiga laughed.
-
-Actually laughed.
+Taiga laughed. Actually laughed.
 
 “You're an idiot.”
 
@@ -1422,7 +1332,7 @@ The ceiling looked the same as last night.
 
 Everything else did not.
 
-Leo picked the Oracle up again.
+Leo picked the phone up again.
 
 After a few seconds:
 

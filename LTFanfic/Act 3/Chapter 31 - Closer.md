@@ -30,11 +30,7 @@ It was, in fact, eight.
 
 “Still early.”
 
-Leo smiled.
-
-No stiffness.
-
-No careful distance.
+Leo smiled. No stiffness. No careful distance.
 
 That helped more than Taiga wanted to admit.
 
@@ -334,11 +330,7 @@ Taiga followed his eyes.
 
 ---
 
-They ended up walking.
-
-No destination.
-
-Just around camp.
+They ended up walking. No destination. Just around camp.
 
 Leo took pictures of things Taiga would not have photographed.
 
@@ -488,11 +480,7 @@ Lunch was outside.
 
 Aiden brought sandwiches to the picnic tables because the weather had finally decided to behave.
 
-Sun.
-
-Cold air.
-
-No wind.
+Sun. Cold air. No wind.
 
 Yuki stationed herself under Yoichi's bench in case food fell.
 
@@ -592,7 +580,7 @@ Leo listened seriously.
 
 He looked completely at home there.
 
-Taiga sat on the couch with his Oracle and watched for maybe five seconds too long.
+Taiga sat on the couch with his phone and watched for maybe five seconds too long.
 
 Leo looked up.
 
@@ -602,9 +590,7 @@ Taiga did not look away immediately.
 
 Leo's mouth curved.
 
-Taiga returned to the Oracle.
-
-Mostly.
+Taiga returned to the phone. Mostly.
 
 ---
 
@@ -744,13 +730,9 @@ Taiga twisted the cap off.
 
 “You wouldn't at Apollo.”
 
-Taiga took a sip.
+Taiga took a sip. Cold.
 
-Cold.
-
-Bitter.
-
-Good.
+Bitter. Good.
 
 “That was different.”
 
@@ -766,13 +748,9 @@ Yuri already trying to force Goro into a toast.
 
 Yoichi opening his bottle with the edge of a spoon despite the bottle opener sitting directly beside him.
 
-Leo next to Taiga.
+Leo next to Taiga. No strangers.
 
-No strangers.
-
-No room full of people Taiga had to keep track of.
-
-No reason to count exits.
+No room full of people Taiga had to keep track of. No reason to count exits.
 
 “Too many people I didn't know.”
 
@@ -830,9 +808,7 @@ The circle quieted for half a beat.
 
 Taiga knew what that included.
 
-Nobody looked at him.
-
-Good.
+Nobody looked at him. Good.
 
 Then Yoichi ruined the moment.
 
@@ -848,9 +824,7 @@ They drank.
 
 ---
 
-One beer became two.
-
-Not quickly.
+One beer became two. Not quickly.
 
 Goro drank half of one bottle and somehow became more serious.
 
@@ -860,11 +834,7 @@ Enough that every story acquired hand gestures.
 
 Aiden's stories got worse in direct proportion to how funny he found them.
 
-Yoshinori laughed at everything.
-
-Not politely.
-
-Actually laughed.
+Yoshinori laughed at everything. Not politely. Actually laughed.
 
 Taiga had seen him laugh plenty of times.
 
@@ -1098,9 +1068,7 @@ Taiga narrowed his eyes.
 
 She took another drink.
 
-Nothing came out of her mouth.
-
-Apparently there was wisdom in booze.
+Nothing came out of her mouth. Apparently there was wisdom in booze.
 
 ---
 
@@ -1224,9 +1192,7 @@ Leo held out a hand.
 
 Taiga laughed.
 
-Yuri looked between them again.
-
-Still silent.
+Yuri looked between them again. Still silent.
 
 Taiga was starting to find that more unsettling than the comments.
 
@@ -1234,9 +1200,7 @@ Taiga was starting to find that more unsettling than the comments.
 
 The marshmallows came out after that.
 
-Yoichi burned his immediately.
-
-Not toasted.
+Yoichi burned his immediately. Not toasted.
 
 Burned.
 
@@ -1570,9 +1534,7 @@ The look was not.
 
 Taiga's stomach shifted.
 
-Yuri saw that too.
-
-Still silent.
+Yuri saw that too. Still silent.
 
 Taiga was now convinced somebody had threatened her.
 
@@ -1698,9 +1660,7 @@ Taiga held the look.
 
 Leo's cheeks were pink from the fire.
 
-Or beer.
-
-Probably both.
+Or beer. Probably both.
 
 Apparently looking at Taiga made the situation worse.
 
@@ -1842,9 +1802,7 @@ Taiga took a breath.
 
 Camp Buddy smelled like smoke.
 
-Beer.
-
-Cold air.
+Beer. Cold air.
 
 Somebody else's burnt sugar.
 

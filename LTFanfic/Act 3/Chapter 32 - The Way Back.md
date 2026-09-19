@@ -48,9 +48,7 @@ Leo rubbed both hands over his face.
 
 Taiga pushed himself upright.
 
-His head objected.
-
-Not violently.
+His head objected. Not violently.
 
 Enough.
 
@@ -78,21 +76,13 @@ Leo pointed at him.
 
 “Not my problem.”
 
-Silence settled.
-
-Not awkward.
-
-Not exactly normal either.
+Silence settled. Not awkward. Not exactly normal either.
 
 Taiga looked at Leo.
 
 Leo looked back.
 
-Last night came back all at once.
-
-Not the beer.
-
-Not the fall.
+Last night came back all at once. Not the beer. Not the fall.
 
 Everything after.
 
@@ -182,17 +172,9 @@ Taiga carried the laundry bag.
 
 Leo carried both of their empty water bottles.
 
-The camp was quiet.
+The camp was quiet. Cold.
 
-Cold.
-
-Sunday morning quiet.
-
-No tools.
-
-No hammering.
-
-No Kieran.
+Sunday morning quiet. No tools. No hammering. No Kieran.
 
 No reason to be anywhere except breakfast.
 
@@ -506,7 +488,7 @@ Empty shelf.
 
 Bathroom cleared.
 
-No Oracle cable under his bed this time.
+No phone cable under his bed this time.
 
 Leo stood near the window.
 
@@ -538,9 +520,7 @@ He looked at the room too.
 
 Two bunks.
 
-Wood walls.
-
-Cold window.
+Wood walls. Cold window.
 
 The place where Leo had almost fallen over the first night trying to unpack and talk at the same time.
 
@@ -590,11 +570,7 @@ Leo glanced toward the lake.
 
 “Yeah. Let's go.”
 
-They went outside.
-
-No bags.
-
-No destination announced.
+They went outside. No bags. No destination announced.
 
 They passed the field.
 
@@ -666,9 +642,7 @@ Leo smiled.
 
 “See you, Yoichi.”
 
-Yoichi looked at him.
-
-No joke for a second.
+Yoichi looked at him. No joke for a second.
 
 Then:
 
@@ -800,7 +774,7 @@ They walked back.
 
 ---
 
-A message appeared on Taiga's Oracle while he was putting on his shoes.
+A message appeared on Taiga's phone while he was putting on his shoes.
 
 Kieran.
 
@@ -828,7 +802,7 @@ He stared at the message, then sent it.
 
 The ache stayed small.
 
-Taiga put the Oracle away.
+Taiga put the phone away.
 
 Leo looked over.
 
@@ -1008,9 +982,7 @@ He straightened.
 
 Goro nodded once.
 
-Then he looked at Taiga.
-
-No hand.
+Then he looked at Taiga. No hand.
 
 Taiga would have complained if Goro offered one.
 
@@ -1036,9 +1008,7 @@ Goro put one hand on his shoulder, squeezed once, then removed it.
 
 Yoichi arrived late because Yuki had apparently found mud.
 
-He stopped by Leo.
-
-No hug.
+He stopped by Leo. No hug.
 
 Obviously.
 
@@ -1366,7 +1336,7 @@ Leo leaned over.
 
 Leo laughed.
 
-Taiga put the Oracle away.
+Taiga put the phone away.
 
 Outside, the mountains slowly flattened.
 
@@ -1448,11 +1418,7 @@ After a few minutes, Leo said:
 
 Taiga looked at him.
 
-Leo's expression had gone serious.
-
-Not frightened.
-
-Just open.
+Leo's expression had gone serious. Not frightened. Just open.
 
 Taiga thought about Friday nine days ago.
 
@@ -1532,7 +1498,7 @@ Taiga stepped onto the platform and immediately missed the quiet.
 
 Leo came down behind him carrying the food bag.
 
-“You have your Oracle?”
+“You have your phone?”
 
 “It's in my pocket.”
 

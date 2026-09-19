@@ -1,5 +1,5 @@
 # Olympus Fanfic — Story & Romance Progression Bible
-## Consolidated Through Chapter 31
+## Consolidated Through Chapter 32
 
 This file is the **single story-state and romance-progression reference** for the Olympus fanfic through the end of Act III.
 
@@ -14,7 +14,7 @@ Prose style and pacing mechanics belong in the Writing & Pacing Bible.
 # 1. Current Big-Picture State
 
 Current canonical chapter:
-**Chapter 31 — The Way Back**
+**Chapter 32 — The Way Back**
 
 Current location at chapter end:
 **Olympus University**
@@ -78,7 +78,7 @@ Romance progression:
 > attention → bodily anomaly → ambiguity
 
 ## Act II — Boundaries
-Chapters 13–20.
+Chapters 13–21.
 
 Primary job:
 - turn unconscious preference into visible mutual closeness;
@@ -92,7 +92,7 @@ Romance progression:
 > reactivity → curiosity → preference → mutual awareness → rupture → boundary → repair
 
 ## Act III — Recognition
-Chapters 21–31.
+Chapters 22–32.
 
 Primary job:
 - make Taiga consciously recognize that his physical attraction to Leo is persistent rather than an isolated bodily reaction;
@@ -127,7 +127,7 @@ Core result:
 > Leo becomes noticeable before he becomes interpretable.
 
 ## Boundaries
-By Chapter 20:
+By Chapter 21:
 - Taiga and Leo have become an obvious social default;
 - other people can see the pattern;
 - Aaron naming that pattern at Pinetree causes Taiga to panic;
@@ -135,22 +135,23 @@ By Chapter 20:
 - Leo establishes the boundary that Taiga may be confused or afraid, but may not turn Leo's care into shameful evidence;
 - Taiga later tells Leo the ugly Camp Buddy truth;
 - both acknowledge that they are close and that absence matters;
+- Chapter 21, _What remains_, completes the repair on-page: ordinary Data Structures work, coffee and joking return without erasing Pinetree;
 - neither can classify the relationship yet.
 
 Core result:
 
-> Plausible deniability about closeness is gone.
+> Plausible deniability about closeness is gone, and the first rupture has been repaired without resetting the relationship.
 
 ---
 
-# 4. Chapter 21 — Blind Spot
+# 4. Chapter 22 — Blind Spot
 
 Core movement:
 **physical attraction becomes consciously undeniable.**
 
 Taiga has already had an isolated sexual reaction to Leo in Chapter 4 and successfully filed it away as a situational physical event.
 
-In Chapter 21, that explanation stops working.
+In Chapter 22, that explanation stops working.
 
 Taiga begins noticing Leo's body repeatedly in ordinary contexts where nudity is not the cause, and the attraction becomes persistent enough that he can no longer quarantine it as one weird night months earlier.
 
@@ -166,7 +167,7 @@ Core result:
 
 ---
 
-# 5. Chapter 22 — Static
+# 5. Chapter 23 — Static
 
 The chapter tests ambiguous intentionality.
 
@@ -184,7 +185,7 @@ Core result:
 
 ---
 
-# 6. Chapter 23 — Preseason
+# 6. Chapter 24 — Preseason
 
 Spring Break approaches.
 
@@ -210,7 +211,7 @@ Core result:
 
 ---
 
-# 7. Chapter 24 — Home Ground
+# 7. Chapter 25 — Home Ground
 
 Leo arrives at Camp Buddy for the first time.
 
@@ -234,7 +235,7 @@ Core result:
 
 ---
 
-# 8. Chapter 25 — Easy
+# 8. Chapter 26 — Easy
 
 Sunday establishes that Leo can belong independently.
 
@@ -260,7 +261,7 @@ Core result:
 
 ---
 
-# 9. Chapter 26 — Old Ground
+# 9. Chapter 27 — Old Ground
 
 Monday is Kieran's re-entry.
 
@@ -286,7 +287,7 @@ Core result:
 
 ---
 
-# 10. Chapter 27 — Old Language
+# 10. Chapter 28 — Old Language
 
 Tuesday and Wednesday allow old Taiga/Kieran rhythms to emerge naturally through work.
 
@@ -318,7 +319,7 @@ Core result:
 
 ---
 
-# 11. Chapter 28 — No Reason
+# 11. Chapter 29 — No Reason
 
 Thursday is the fracture day.
 
@@ -357,7 +358,7 @@ Core result:
 
 ---
 
-# 12. Chapter 29 — What It Meant
+# 12. Chapter 30 — What It Meant
 
 Friday forces both the Kieran arc and the Taiga/Leo conflict to become honest.
 
@@ -452,7 +453,7 @@ Core result:
 
 ---
 
-# 13. Chapter 30 — Closer
+# 13. Chapter 31 — Closer
 
 Saturday does not become an all-day romance event.
 
@@ -518,7 +519,7 @@ Core result:
 
 ---
 
-# 14. Chapter 31 — The Way Back
+# 14. Chapter 32 — The Way Back
 
 Sunday is a departure chapter rather than a new crisis.
 

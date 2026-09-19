@@ -1,38 +1,6 @@
-By the following Tuesday, Taiga had discovered that repair did not announce itself.
+By the following Tuesday, sitting beside Leo in Data Structures had stopped feeling like a test. The repair after Pinetree was no longer something Taiga had to measure minute by minute; they had found their ordinary rhythm again.
 
-There were no ceremonies.
-
-No speech where Leo declared that Taiga had served enough emotional probation.
-
-Things simply returned in pieces.
-
-A seat beside Taiga in Data Structures.
-
-Coffee after lab.
-
-Messages with no practical purpose.
-
-Training jokes.
-
-Leo sending him a picture of a collapsed traffic cone and claiming it had “Taiga energy.”
-
-Taiga telling him to die.
-
-Leo reacting with a heart.
-
-None of it erased Pinetree.
-
-Leo still sat beside him.
-
-Still texted.
-
-Still asked.
-
-Taiga was trying to learn the difference between something being familiar and something being guaranteed.
-
-So far, he preferred familiar.
-
-Mostly.
+That should have made the week easier. Instead, Taiga had started noticing things about Leo that were much harder to file under friendship.
 
 ---
 
@@ -42,7 +10,7 @@ Owen spent the first ten minutes fighting with the projector and blaming the HDM
 
 Leo leaned toward Taiga.
 
-“Do you think professors get issued one broken cable at hiring and then have to keep it for their entire career?”
+“Do you think TAs get issued one broken cable at hiring and then have to keep it for their entire career?”
 
 Taiga kept his eyes on the front.
 
@@ -62,7 +30,7 @@ Paused.
 
 “I did not.”
 
-“You tried charging your Oracle through a display port.”
+“You tried charging your phone through a display port.”
 
 “That was one time, and the cable fit suspiciously well.”
 
@@ -96,9 +64,7 @@ Taiga opened his laptop.
 
 Beside him, Leo did the same.
 
-They worked through the first exercise without incident.
-
-Mostly.
+They worked through the first exercise without incident. Mostly.
 
 Leo's first implementation passed five of six tests.
 
@@ -226,9 +192,7 @@ Leo looked between them.
 
 “I'm hearing blame, not solutions.”
 
-Owen called for attention before Leo could continue.
-
-Good.
+Owen called for attention before Leo could continue. Good.
 
 Taiga did not need a ten-minute argument about code duplication before ten in the morning.
 
@@ -244,9 +208,7 @@ The tendons in his wrist moved when he typed.
 
 Taiga looked away.
 
-Immediately.
-
-Ridiculous.
+Immediately. Ridiculous.
 
 He focused on his own function.
 
@@ -268,9 +230,7 @@ Beside him, Leo muttered:
 
 Taiga glanced over.
 
-Leo was glaring at his code.
-
-Not at Taiga.
+Leo was glaring at his code. Not at Taiga.
 
 Taiga returned to his screen.
 
@@ -284,21 +244,15 @@ The universe continued.
 
 ---
 
-Coffee after lab happened because it always did now.
-
-Not always.
+Coffee after lab happened because it always did now. Not always.
 
 Frequently.
 
-That distinction mattered.
-
-Probably.
+That distinction mattered. Probably.
 
 They left the CS building with twenty-seven minutes before Taiga's next lecture and thirty-nine before Leo's.
 
-Leo talked the entire way.
-
-Not about anything important.
+Leo talked the entire way. Not about anything important.
 
 Owen.
 
@@ -398,9 +352,7 @@ Leo paused.
 
 “Do you want something else?”
 
-Taiga looked at the menu.
-
-No.
+Taiga looked at the menu. No.
 
 “Black is fine.”
 
@@ -408,9 +360,7 @@ No.
 
 Leo paid for his own.
 
-Taiga paid for his.
-
-No weirdness.
+Taiga paid for his. No weirdness.
 
 They stood near the pickup counter.
 
@@ -436,9 +386,7 @@ He hated that he had done it.
 
 More annoying:
 
-He knew exactly why.
-
-Not *why* in the philosophical sense.
+He knew exactly why. Not *why* in the philosophical sense.
 
 That remained unresolved.
 
@@ -446,9 +394,7 @@ But physically?
 
 His brain had not mistaken Leo for a lamp.
 
-He had looked because Leo looked good.
-
-Simple.
+He had looked because Leo looked good. Simple.
 
 Unhelpful.
 
@@ -456,17 +402,11 @@ Taiga took his coffee when his name was called.
 
 Drank too quickly.
 
-Burned his tongue.
-
-Excellent.
+Burned his tongue. Excellent.
 
 ---
 
-Tuesday training was worse.
-
-Not emotionally.
-
-Physically.
+Tuesday training was worse. Not emotionally. Physically.
 
 Mercer had decided they were going to spend ninety minutes on scanning.
 
@@ -506,9 +446,7 @@ Taiga liked this kind of work.
 
 Specific.
 
-Observable.
-
-No inspirational bullshit.
+Observable. No inspirational bullshit.
 
 Check shoulder.
 
@@ -516,9 +454,7 @@ Receive.
 
 Turn.
 
-Release.
-
-Again.
+Release. Again.
 
 The first few repetitions were ugly.
 
@@ -544,11 +480,7 @@ Touch outside.
 
 Pass.
 
-Better.
-
-No praise.
-
-Good.
+Better. No praise. Good.
 
 They rotated groups.
 
@@ -640,9 +572,7 @@ Heat through two layers of training fabric.
 
 Taiga's concentration disappeared.
 
-Leo stole the ball.
-
-Again.
+Leo stole the ball. Again.
 
 “Two-zero.”
 
@@ -676,9 +606,7 @@ Perfect.
 
 ---
 
-The locker room afterward was loud.
-
-Not unusually.
+The locker room afterward was loud. Not unusually.
 
 Enzo and Aaron were arguing about a goal from training.
 
@@ -696,17 +624,13 @@ Enzo pointed at him.
 
 Scott shrugged.
 
-Taiga sat on the bench and unlaced his boots.
-
-Normal.
+Taiga sat on the bench and unlaced his boots. Normal.
 
 Across the aisle, Leo pulled his shirt over his head.
 
 Taiga looked.
 
-There was no delay.
-
-No conscious decision.
+There was no delay. No conscious decision.
 
 One second Leo was clothed.
 
@@ -722,9 +646,7 @@ Waist.
 
 Skin still flushed from training.
 
-Taiga stopped breathing.
-
-Not because Leo was exceptionally built.
+Taiga stopped breathing. Not because Leo was exceptionally built.
 
 He wasn't.
 
@@ -764,11 +686,7 @@ The stupidly round ass his brain had noticed months ago and filed away as trivia
 
 It was not trivia anymore.
 
-A sharp, unmistakable pull went low through Taiga's stomach.
-
-Not abstract appreciation.
-
-Not curiosity.
+A sharp, unmistakable pull went low through Taiga's stomach. Not abstract appreciation. Not curiosity.
 
 Want.
 
@@ -782,11 +700,7 @@ Taiga snapped his eyes to his own locker.
 
 His heart kicked once against his ribs.
 
-Fuck.
-
-No.
-
-Actually:
+Fuck. No. Actually:
 
 Fuck.
 
@@ -810,9 +724,7 @@ Tape.
 
 Clean shirt.
 
-Towel.
-
-No guidance.
+Towel. No guidance.
 
 Behind him, Leo said:
 
@@ -834,11 +746,7 @@ Aaron looked over.
 
 “Yeah.”
 
-Aaron accepted that.
-
-Good.
-
-No one else cared.
+Aaron accepted that. Good. No one else cared.
 
 Also good.
 
@@ -846,9 +754,7 @@ Taiga grabbed his towel.
 
 Then stopped.
 
-Showers.
-
-Normally he would go now.
+Showers. Normally he would go now.
 
 Leo usually went now too.
 
@@ -870,7 +776,7 @@ Absolutely not.
 
 Taiga sat back down.
 
-Pretended to check his Oracle.
+Pretended to check his phone.
 
 Nothing important.
 
@@ -884,9 +790,7 @@ Enzo.
 
 Gav.
 
-Leo.
-
-Good.
+Leo. Good.
 
 Taiga stayed.
 
@@ -904,9 +808,7 @@ Aaron nodded toward the showers.
 
 “They're full.”
 
-They were not.
-
-Probably.
+They were not. Probably.
 
 Taiga said:
 
@@ -982,17 +884,9 @@ He did not think about that.
 
 Much.
 
-After lab, Leo had a meeting for House Apollo.
+After lab, Leo had a meeting for House Apollo. No coffee. Fine.
 
-No coffee.
-
-Fine.
-
-Taiga went to Discrete.
-
-Then lunch.
-
-Then Political Theory.
+Taiga went to Discrete Structures, then lunch, then Calculus II. His Chemistry II lab report was due Friday, so the gap before training disappeared into calculations and formatting.
 
 He did not see Leo again until training.
 
@@ -1032,23 +926,13 @@ Enzo scored.
 
 Clean.
 
-Mercer reset immediately.
+Mercer reset immediately. No celebration. Good.
 
-No celebration.
+Next repetition. Again.
 
-Good.
+By the end of training Taiga's legs were heavy and his brain had stopped generating unnecessary commentary. Excellent.
 
-Next repetition.
-
-Again.
-
-By the end of training Taiga's legs were heavy and his brain had stopped generating unnecessary commentary.
-
-Excellent.
-
-Then Leo took off his shirt.
-
-Apparently his brain had reserves.
+Then Leo took off his shirt. Apparently his brain had reserves.
 
 Taiga looked away so quickly he nearly stepped into Gav's space.
 
@@ -1060,11 +944,7 @@ Gav leaned back.
 
 Gav accepted that and went back to peeling tape from his wrist.
 
-Taiga changed more slowly than usual.
-
-Not obviously.
-
-Just enough.
+Taiga changed more slowly than usual. Not obviously. Just enough.
 
 Leo and Enzo went toward the showers.
 
@@ -1224,9 +1104,7 @@ He chose one at the opposite end.
 
 Pulled the curtain.
 
-Turned on the water.
-
-Good.
+Turned on the water. Good.
 
 He faced forward.
 
@@ -1238,9 +1116,7 @@ Slight crack near the grout.
 
 Interesting.
 
-Behind the frosted divider to his left, somebody moved.
-
-Not Leo.
+Behind the frosted divider to his left, somebody moved. Not Leo.
 
 Wrong height.
 
@@ -1276,15 +1152,9 @@ A shadow moved beyond the frosted panel near the aisle.
 
 Only shape.
 
-Nothing detailed.
+Nothing detailed. Still enough.
 
-Still enough.
-
-Taiga's body tightened.
-
-Not full arousal.
-
-Not even close.
+Taiga's body tightened. Not full arousal. Not even close.
 
 Just an anticipatory jolt that was humiliating precisely because almost nothing had happened.
 
@@ -1384,9 +1254,7 @@ Then shrugged.
 
 “Okay.”
 
-That was it.
-
-No investigation.
+That was it. No investigation.
 
 Thank God.
 
@@ -1420,7 +1288,7 @@ Maya had stronger opinions about Caleb's opinions.
 
 Taiga mostly listened.
 
-His Oracle buzzed once.
+His phone buzzed once.
 
 Leo.
 
@@ -1439,9 +1307,7 @@ Taiga smiled.
 
 Maya saw.
 
-Said nothing.
-
-Good person.
+Said nothing. Good person.
 
 He typed:
 
@@ -1475,11 +1341,9 @@ Taiga typed:
 
 **Taiga:** terminal
 
-Leo reacted with a skull.
+Leo reacted with a skull. Normal.
 
-Normal.
-
-Taiga put the Oracle down.
+Taiga put the phone down.
 
 Face up.
 
@@ -1495,9 +1359,7 @@ Saturday's match against Westlake started at three.
 
 Taiga was on the bench.
 
-That was fine.
-
-Actually fine.
+That was fine. Actually fine.
 
 He had played enough first-team minutes now that sitting out the opening half no longer felt like a referendum on his entire existence.
 
@@ -1513,21 +1375,11 @@ Space opposite.
 
 Olympus found it twice in the first twenty minutes and wasted both.
 
-Leo started on the right.
-
-Enzo left.
-
-Aaron at right back.
-
-Gav central.
-
-Scott in goal.
+Leo started on the right and Enzo on the left, with Jordan Price through the middle. Aaron held one fullback spot while Jonah Ellis took the other; Theo Walsh and Malik Carter anchored the center. Gav worked centrally with Isaac Romero, and Scott started in goal. Nate Kim took the warm-up shots beside him before kickoff.
 
 The first half ended zero-zero.
 
-Mercer spoke for four minutes at halftime.
-
-No yelling.
+Mercer spoke for four minutes at halftime. No yelling.
 
 Worse.
 
@@ -1549,13 +1401,7 @@ Then:
 
 “Akatora. Warm up.”
 
-Taiga stood.
-
-No adrenaline explosion.
-
-No internal ceremony.
-
-Just:
+Taiga stood. No adrenaline explosion. No internal ceremony. Just:
 
 Okay.
 
@@ -1565,9 +1411,7 @@ Second half.
 
 Fifty-fourth minute, Mercer sent him on for Enzo.
 
-Left wing.
-
-Simple assignment.
+Left wing. Simple assignment.
 
 Stay wide.
 
@@ -1579,13 +1423,9 @@ First possession, he got the ball and lost it.
 
 Westlake countered.
 
-Gav cleaned it up.
+Gav cleaned it up. No disaster.
 
-No disaster.
-
-Next possession.
-
-Again.
+Next possession. Again.
 
 Taiga held width.
 
@@ -1601,9 +1441,7 @@ He drove forward.
 
 Cross blocked.
 
-Corner.
-
-Fine.
+Corner. Fine.
 
 Seven minutes later, same pattern.
 
@@ -1641,11 +1479,7 @@ Taiga reached it before the fullback.
 
 One touch.
 
-Cross.
-
-Not great.
-
-Good enough.
+Cross. Not great. Good enough.
 
 Striker got a toe.
 
@@ -1703,15 +1537,9 @@ Mercer shouted:
 
 “RESET!”
 
-Taiga reset.
+Taiga reset. Good.
 
-Good.
-
-Olympus drew one-one.
-
-No heroic winner.
-
-No dramatic lesson.
+Olympus drew one-one. No heroic winner. No dramatic lesson.
 
 A decent result against a difficult team.
 
@@ -1731,11 +1559,7 @@ Enzo complained that his first-half shot had been “morally on target.”
 
 Gav told him morality had no place in statistics.
 
-Aaron was in a better mood than Taiga had seen since Pinetree.
-
-Not cheerful.
-
-Normal.
+Aaron was in a better mood than Taiga had seen since Pinetree. Not cheerful. Normal.
 
 That was probably better.
 
@@ -1773,15 +1597,11 @@ Leo looked offended.
 
 Leo kept talking while pulling off the rest of the tape.
 
-Taiga listened.
-
-Mostly.
+Taiga listened. Mostly.
 
 Then Leo bent forward to reach for the clean shorts inside his bag.
 
-Taiga's eyes dropped.
-
-Again.
+Taiga's eyes dropped. Again.
 
 Immediate.
 
@@ -1855,9 +1675,7 @@ For approximately forty seconds.
 
 Then the stall beside him started.
 
-Taiga froze.
-
-No.
+Taiga froze. No.
 
 Absolutely not.
 
@@ -1951,11 +1769,7 @@ Then Leo said:
 
 Leo's voice had softened slightly.
 
-Taiga's shoulders tightened.
-
-Still conversational.
-
-Not serious.
+Taiga's shoulders tightened. Still conversational. Not serious.
 
 “You were fine too.”
 
@@ -1991,17 +1805,13 @@ Ass.
 
 Fuck.
 
-Taiga turned the water colder.
-
-Not dramatically.
+Taiga turned the water colder. Not dramatically.
 
 One notch.
 
 Enough.
 
-His body had started responding.
-
-Not fully.
+His body had started responding. Not fully.
 
 But unmistakably.
 
@@ -2013,25 +1823,15 @@ Taiga stared at the wall.
 
 He knew what this was.
 
-There was no clever interpretation available.
+There was no clever interpretation available. No *I notice everyone.* No *locker rooms are weird.* No *Aaron made me self-conscious.*
 
-No *I notice everyone.*
-
-No *locker rooms are weird.*
-
-No *Aaron made me self-conscious.*
-
-He was attracted to Leo.
-
-Physically.
+He was attracted to Leo. Physically.
 
 The thought existed.
 
 Clean.
 
-Horrifying.
-
-Not new, probably.
+Horrifying. Not new, probably.
 
 Newly admitted.
 
@@ -2063,9 +1863,7 @@ Taiga's heart kicked.
 
 Leo continued.
 
-He accepted the answer.
-
-Good.
+He accepted the answer. Good.
 
 Taiga forced himself to listen.
 
@@ -2073,9 +1871,7 @@ Soccer.
 
 Shape.
 
-Westlake.
-
-Normal.
+Westlake. Normal.
 
 Eventually Leo's water shut off.
 
@@ -2093,19 +1889,13 @@ Taiga stayed under the water another minute.
 
 Then two.
 
-He looked down once.
-
-Not fully hard.
+He looked down once. Not fully hard.
 
 Close enough that denial would have required professional assistance.
 
 “Fuck.”
 
-Quietly.
-
-No one answered.
-
-Good.
+Quietly. No one answered. Good.
 
 ---
 
@@ -2113,17 +1903,11 @@ He got dressed after most of the room had emptied.
 
 Leo was gone.
 
-Also good.
+Also good. Probably.
 
-Probably.
+Taiga walked back toward the Residential Zone alone. Cold air.
 
-Taiga walked back toward the Residential Zone alone.
-
-Cold air.
-
-Clear head.
-
-Mostly.
+Clear head. Mostly.
 
 He could deal with this.
 
@@ -2141,7 +1925,7 @@ That was exactly what mattered.
 
 Fuck.
 
-His Oracle buzzed.
+His phone buzzed.
 
 Leo.
 
@@ -2214,7 +1998,7 @@ He closed it.
 
 Walked again.
 
-His Oracle buzzed.
+His phone buzzed.
 
 **Leo:** well?
 
@@ -2263,7 +2047,7 @@ Then typed:
 
 Leo reacted with a heart.
 
-Taiga put the Oracle away.
+Taiga put the phone away.
 
 Kept walking.
 
@@ -2297,9 +2081,7 @@ Training kit.
 
 Jeans.
 
-Sweater.
-
-Apparently every state contained hazards.
+Sweater. Apparently every state contained hazards.
 
 By the following Tuesday, Taiga had developed a system.
 
@@ -2313,7 +2095,7 @@ boots off.
 
 Tape away.
 
-Check Oracle.
+Check phone.
 
 Refill water bottle.
 
@@ -2351,7 +2133,7 @@ That seemed worse.
 
 ---
 
-Thursday evening, he sat at his desk pretending to read Political Theory.
+Thursday evening, he sat at his desk pretending to work through a Calculus II problem set.
 
 Caleb was on his bed.
 
@@ -2359,7 +2141,7 @@ Maya had left an hour earlier.
 
 Room quiet.
 
-Oracle face up.
+phone face up.
 
 A message arrived.
 
@@ -2368,9 +2150,7 @@ Leo.
 **Leo:** tomorrow i am bringing evidence that owen hates us
 **Leo:** prepare accordingly
 
-Taiga looked at it.
-
-No hesitation.
+Taiga looked at it. No hesitation.
 
 **Taiga:** your evidence is going to be one bad grade
 
@@ -2408,15 +2188,11 @@ Caleb turned a page.
 
 Taiga looked over.
 
-Caleb did not.
-
-Good.
+Caleb did not. Good.
 
 He returned to the ceiling.
 
-This was manageable.
-
-Probably.
+This was manageable. Probably.
 
 He just needed to stop behaving like a sixteen-year-old who had discovered bodies.
 
@@ -2430,7 +2206,7 @@ He could shower in the same room without developing a military strategy.
 
 He could act normal.
 
-The Oracle buzzed again.
+The phone buzzed again.
 
 **Leo:** also enzo says you're legally required to admit my pass was perfect by friday
 **Leo:** apparently team law
@@ -2457,19 +2233,13 @@ Taiga stared.
 
 Forty-one.
 
-Back.
-
-Not announced.
-
-Not discussed.
-
-Just returned.
+Back. Not announced. Not discussed. Just returned.
 
 Something warm moved through his chest.
 
 Then lower, because apparently his body had become committed to making every emotion inconvenient.
 
-Taiga locked the Oracle.
+Taiga locked the phone.
 
 Set it beside the laptop.
 

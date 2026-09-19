@@ -376,7 +376,7 @@ Taiga looked around the library. There was no context.
 
 **Leo:** evidence accepted
 
-Taiga put the Oracle face down and returned to reading.
+Taiga put the phone face down and returned to reading.
 
 ---
 
@@ -434,7 +434,7 @@ Ten minutes later:
 
 Photo. The sandwich was worse.
 
-Taiga laughed in the middle of Political Theory reading, enough that a student across the table looked up. The phone buzzed again.
+Taiga laughed in the middle of a Discrete Structures reading, enough that a student across the table looked up. The phone buzzed again.
 
 **Leo:** do not judge me
 
@@ -804,7 +804,7 @@ Taiga picked it up from under the table and handed it back.
 
 “Thanks.”
 
-Leo’s Oracle buzzed against the table. He checked it and groaned.
+Leo’s phone buzzed against the table. He checked it and groaned.
 
 “Enzo.”
 

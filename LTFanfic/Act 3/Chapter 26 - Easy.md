@@ -1,6 +1,4 @@
-Sunday morning began with rain.
-
-Not hard rain.
+Sunday morning began with rain. Not hard rain.
 
 The patient kind.
 
@@ -10,9 +8,7 @@ Taiga woke to the sound of it.
 
 For a few seconds he did not remember where he was.
 
-Wood ceiling.
-
-Cold air above the blanket.
+Wood ceiling. Cold air above the blanket.
 
 The smell of damp pine somewhere beyond the wall.
 
@@ -84,17 +80,13 @@ He sat up slowly.
 
 The blanket dropped.
 
-His shirt had ridden up during the night.
-
-Just enough skin above the waistband.
+His shirt had ridden up during the night. Just enough skin above the waistband.
 
 Taiga saw it.
 
 Looked away.
 
-Better than February.
-
-Still not nothing.
+Better than February. Still not nothing.
 
 Leo yawned.
 
@@ -178,7 +170,7 @@ Aiden set a plate in front of him.
 
 “There you go. Priorities.”
 
-Goro sat at the end of the table with a weather report open on his Oracle.
+Goro sat at the end of the table with a weather report open on his phone.
 
 Yoshinori had the clipboard.
 
@@ -256,9 +248,7 @@ Yuri pointed at him.
 
 “That is exactly what I mean!”
 
-Taiga regretted bringing him.
-
-Not actually.
+Taiga regretted bringing him. Not actually.
 
 That was the problem.
 
@@ -346,9 +336,7 @@ The main lodge smelled like old wood and rain.
 
 Yoshinori had already moved the furniture away from the east wall.
 
-Taiga checked the first frame.
-
-Fine.
+Taiga checked the first frame. Fine.
 
 Second frame.
 
@@ -392,9 +380,7 @@ Marked.
 
 Yoshinori handed him the pry bar without asking.
 
-Taiga took it.
-
-Normal.
+Taiga took it. Normal.
 
 After ten minutes, Yoshinori said:
 
@@ -424,13 +410,7 @@ Yoshinori held the board steady.
 
 Taiga looked at him.
 
-Yoshinori's attention stayed on the frame.
-
-No smile.
-
-No Yuri bullshit.
-
-Just observation.
+Yoshinori's attention stayed on the frame. No smile. No Yuri bullshit. Just observation.
 
 Taiga went back to the nail.
 
@@ -482,11 +462,7 @@ Taiga looked at the damaged wood.
 
 “That was my point.”
 
-No accusation.
-
-No implication beyond what existed.
-
-Still enough.
+No accusation. No implication beyond what existed. Still enough.
 
 Taiga pulled the last nail.
 
@@ -516,9 +492,7 @@ Leo nearly dropped the shears.
 
 Then laughed.
 
-Yoichi laughed too.
-
-Actually laughed.
+Yoichi laughed too. Actually laughed.
 
 Not the mean bark he used when somebody embarrassed themselves.
 
@@ -554,17 +528,13 @@ Aiden moved lunch outside under the dining hall awning because apparently weathe
 
 Taiga sat on the steps with a bowl of soup.
 
-Leo came over with Yoichi.
-
-Not behind him.
+Leo came over with Yoichi. Not behind him.
 
 With him.
 
 Yoichi had oil on one sleeve.
 
-Leo had a dark smear across one cheek.
-
-Again.
+Leo had a dark smear across one cheek. Again.
 
 Taiga looked at it.
 
@@ -580,9 +550,7 @@ Leo touched the wrong cheek.
 
 “Your other cheek.”
 
-He tried again.
-
-Still missed.
+He tried again. Still missed.
 
 Taiga sighed.
 
@@ -686,11 +654,7 @@ Yoichi pointed at him.
 
 “You can come.”
 
-Leo looked at Taiga.
-
-Not asking permission.
-
-Just checking.
+Leo looked at Taiga. Not asking permission. Just checking.
 
 That distinction mattered.
 
@@ -738,19 +702,13 @@ Taiga looked toward the maintenance shed.
 
 Leo was saying something with his hands.
 
-Yoichi was arguing back.
-
-Easy.
+Yoichi was arguing back. Easy.
 
 Like they had known each other longer than a day.
 
 “Yeah, he really does,” Taiga said.
 
-Yuri leaned back.
-
-No teasing.
-
-Just that.
+Yuri leaned back. No teasing. Just that.
 
 “I'm glad.”
 
@@ -768,9 +726,7 @@ The rain had cleared enough for inspection.
 
 Goro insisted on supervising the first ten minutes.
 
-Nobody knew why.
-
-Probably authority.
+Nobody knew why. Probably authority.
 
 He stood at the shore with his arms crossed.
 
@@ -928,15 +884,11 @@ Completely useless.
 
 The dock inspection took two hours.
 
-Actual work saved them from Yuri.
-
-Mostly.
+Actual work saved them from Yuri. Mostly.
 
 Taiga and Leo measured spacing, checked fasteners and marked two more boards for replacement.
 
-The lake moved under them.
-
-Cold wind.
+The lake moved under them. Cold wind.
 
 Sun breaking through clouds.
 
@@ -986,9 +938,7 @@ Steady.
 
 Taiga looked up.
 
-Leo was looking down at him.
-
-Not at the wrench.
+Leo was looking down at him. Not at the wrench.
 
 At him.
 
@@ -1012,9 +962,7 @@ When Taiga stood, Leo's shoulder bumped his.
 
 Taiga carried the wrench back.
 
-Yoichi watched him approach.
-
-No grin.
+Yoichi watched him approach. No grin.
 
 Worse.
 
@@ -1148,7 +1096,7 @@ A mechanic.
 
 A pharmacy with a blinking green sign.
 
-Leo walked beside Taiga with the grocery list open on his Oracle because he had taken a picture of the paper “in case weather happened.”
+Leo walked beside Taiga with the grocery list open on his phone because he had taken a picture of the paper “in case weather happened.”
 
 The weather did not happen.
 
@@ -1308,11 +1256,7 @@ Taiga lowered the bag of onions.
 
 Leo came around the end of the produce display with the cart.
 
-He slowed when he saw Taiga's face.
-
-Not much.
-
-Just enough.
+He slowed when he saw Taiga's face. Not much. Just enough.
 
 Kieran's eyes moved to him.
 
@@ -1327,6 +1271,10 @@ Taiga almost laughed at that.
 The answer came out flatter than he intended.
 
 Kieran adjusted the basket against his hip.
+
+“My aunt moved out here last year. I'm staying with her for a few days. I came in for groceries.”
+
+That at least explained why the universe had decided to put Kieran in this specific produce aisle.
 
 “I thought Camp Buddy was still closed.”
 
@@ -1358,9 +1306,7 @@ He did know.
 
 Leo remained beside the cart.
 
-Quiet.
-
-Not awkwardly quiet.
+Quiet. Not awkwardly quiet.
 
 Present.
 
@@ -1378,9 +1324,7 @@ Leo gave him an easy nod.
 
 They shook hands.
 
-Brief.
-
-Normal.
+Brief. Normal.
 
 Leo's social expression stayed exactly where it needed to be.
 
@@ -1440,7 +1384,7 @@ Taiga said nothing.
 
 Kieran continued carefully.
 
-“I heard things got rough last summer.”
+“I heard Camp Buddy nearly went under after that term.”
 
 That pulled Taiga's attention fully back.
 
@@ -1502,9 +1446,7 @@ Instead:
 
 “Yeah. You too.”
 
-Not entirely true.
-
-Not entirely false.
+Not entirely true. Not entirely false.
 
 That was probably the problem.
 
@@ -1520,9 +1462,7 @@ Kieran stepped around them and continued toward the next aisle.
 
 Taiga watched him go until the shelves blocked him from view.
 
-Then he realized Leo was still holding the cart.
-
-Still saying nothing.
+Then he realized Leo was still holding the cart. Still saying nothing.
 
 Taiga put the onions in.
 
@@ -1556,11 +1496,7 @@ Taiga did.
 
 ---
 
-They ran into Kieran once more near checkout.
-
-Not enough for another conversation.
-
-Just recognition across two lines.
+They ran into Kieran once more near checkout. Not enough for another conversation. Just recognition across two lines.
 
 Kieran lifted his hand.
 
@@ -1578,9 +1514,7 @@ Outside, the air had cooled.
 
 They started back toward camp.
 
-For the first five minutes, Leo talked about the bread.
-
-Not Kieran.
+For the first five minutes, Leo talked about the bread. Not Kieran.
 
 Bread.
 
@@ -1604,9 +1538,7 @@ Taiga adjusted the bag in his hand.
 
 They crossed the road.
 
-Leo shifted one grocery bag higher against his hip.
-
-Still nothing.
+Leo shifted one grocery bag higher against his hip. Still nothing.
 
 Taiga had expected a question by now.
 
@@ -1658,9 +1590,7 @@ Leo threw both hands up.
 
 “I knew it.”
 
-Taiga laughed.
-
-Normal came back quickly.
+Taiga laughed. Normal came back quickly.
 
 Almost suspiciously quickly.
 
@@ -1820,23 +1750,19 @@ Leo smiled.
 
 Taiga shook his head.
 
-Leo left.
-
-Still no Kieran.
+Leo left. Still no Kieran.
 
 Taiga stood at the sink with the towel in his hand.
 
 He should have been relieved.
 
-He was.
-
-Mostly.
+He was. Mostly.
 
 ---
 
 By ten, the cabin had gone quiet.
 
-Leo sat cross-legged on his bed with the Oracle balanced against one knee.
+Leo sat cross-legged on his bed with the phone balanced against one knee.
 
 Taiga had already showered.
 
@@ -1856,11 +1782,7 @@ That last part stuck more than it should have.
 
 Taiga rolled onto his back.
 
-Leo tapped something on the Oracle.
-
-Probably Enzo.
-
-Probably nonsense.
+Leo tapped something on the phone. Probably Enzo. Probably nonsense.
 
 Taiga stared at the ceiling.
 
@@ -1896,11 +1818,7 @@ Instead he stared at the ceiling and forced the sentence through.
 
 “...Thanks for coming.”
 
-Leo's expression changed.
-
-Not dramatically.
-
-Just attention.
+Leo's expression changed. Not dramatically. Just attention.
 
 “To Camp Buddy?”
 
@@ -1910,7 +1828,7 @@ Taiga picked at a loose thread near the edge of the blanket.
 
 “You could've done something else for break.”
 
-Leo set the Oracle down.
+Leo set the phone down.
 
 “I wanted to come.”
 
@@ -1932,11 +1850,7 @@ Taiga looked over.
 
 Leo was smiling.
 
-Small.
-
-No teasing.
-
-No making it bigger.
+Small. No teasing. No making it bigger.
 
 That helped.
 
@@ -1950,7 +1864,7 @@ Leo's smile deepened.
 
 Taiga looked back at the ceiling before his face could do anything stupid.
 
-Leo picked the Oracle up again.
+Leo picked the phone up again.
 
 A minute later Leo said:
 
@@ -1962,9 +1876,7 @@ Taiga laughed.
 
 “Already did.”
 
-Easy.
-
-Again.
+Easy. Again.
 
 ---
 
@@ -2014,9 +1926,7 @@ Yoshinori turned toward the car.
 
 And that was when Taiga noticed something worse.
 
-He did not look surprised.
-
-Not even slightly.
+He did not look surprised. Not even slightly.
 
 Kieran closed the door and adjusted the duffel.
 

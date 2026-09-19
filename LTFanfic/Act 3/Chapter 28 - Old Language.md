@@ -1,6 +1,4 @@
-Taiga woke before the alarm.
-
-Again.
+Taiga woke before the alarm. Again.
 
 The other bunk was still occupied.
 
@@ -140,9 +138,7 @@ Leo drank.
 
 For a while the three of them sat there.
 
-The silence was not exactly uncomfortable.
-
-Not exactly anything.
+The silence was not exactly uncomfortable. Not exactly anything.
 
 Then the dining hall door opened behind them.
 
@@ -432,9 +428,7 @@ Kieran was already putting the drill away.
 
 ---
 
-They worked until lunch.
-
-Not past it.
+They worked until lunch. Not past it.
 
 When Aiden appeared in the doorway at twelve thirty and announced the soup was ready, Yoshinori looked around the half-organized shed and closed the clipboard.
 
@@ -596,9 +590,7 @@ The conversation moved on.
 
 A minute later Taiga looked sideways.
 
-Leo was still smiling.
-
-Just not quite as much.
+Leo was still smiling. Just not quite as much.
 
 Taiga looked away before Leo caught him staring.
 
@@ -688,9 +680,7 @@ Taiga looked toward the lake.
 
 “Yeah, he did.”
 
-Leo nodded.
-
-No follow-up.
+Leo nodded. No follow-up.
 
 Taiga glanced at him.
 
@@ -884,9 +874,7 @@ He had no idea whether the two things were connected.
 
 ---
 
-Wednesday started with cabin shutters.
-
-Not exciting.
+Wednesday started with cabin shutters. Not exciting.
 
 That was fine.
 
@@ -988,9 +976,7 @@ Work continued.
 
 ---
 
-By Wednesday afternoon, Kieran had stopped hesitating before helping Taiga.
-
-Not in a dramatic way.
+By Wednesday afternoon, Kieran had stopped hesitating before helping Taiga. Not in a dramatic way.
 
 If Taiga carried one side of something, Kieran sometimes took the other.
 
@@ -1050,9 +1036,7 @@ Kieran smiled.
 
 Taiga opened the cabinet.
 
-When he turned back, Leo was looking at them.
-
-Not smiling this time.
+When he turned back, Leo was looking at them. Not smiling this time.
 
 Taiga held his gaze for a second.
 
@@ -1092,9 +1076,7 @@ Kieran wiped his mouth.
 
 Kieran looked at Taiga.
 
-Taiga already knew where this was going.
-
-Probably.
+Taiga already knew where this was going. Probably.
 
 “You still eat the burger before anything else.”
 
@@ -1300,9 +1282,7 @@ Yoichi flipped him off.
 
 “That doesn’t make me good at soccer.”
 
-Kieran got in front of the loose ball and stopped it under his shoe.
-
-Not elegantly.
+Kieran got in front of the loose ball and stopped it under his shoe. Not elegantly.
 
 But enough.
 
@@ -1678,9 +1658,7 @@ Taiga reconsidered.
 
 Leo laughed.
 
-It came out right.
-
-Mostly.
+It came out right. Mostly.
 
 Yoichi took the strap back into both hands.
 
@@ -1854,13 +1832,7 @@ Leo sat on his bed.
 
 Taiga did not believe that was all.
 
-He also remembered what Leo had done Monday.
-
-No questions.
-
-No pressure.
-
-Just room.
+He also remembered what Leo had done Monday. No questions. No pressure. Just room.
 
 Taiga could return the favor once.
 
@@ -1870,7 +1842,7 @@ Leo looked at him.
 
 Something crossed his face too quickly for Taiga to place.
 
-Then he reached for his Oracle.
+Then he reached for his phone.
 
 Taiga lay back.
 
@@ -1878,4 +1850,4 @@ Outside, somebody shut the main lodge door.
 
 The camp settled around them.
 
-Leo did not look up from his Oracle.
+Leo did not look up from his phone.

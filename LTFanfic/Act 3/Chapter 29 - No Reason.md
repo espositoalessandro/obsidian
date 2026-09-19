@@ -1,6 +1,4 @@
-Thursday morning, Leo was still weird.
-
-Not dramatically.
+Thursday morning, Leo was still weird. Not dramatically.
 
 That would have been easier.
 
@@ -12,9 +10,7 @@ Complained that Aiden had made coffee too strong, which was objectively wrong.
 
 He laughed when Yoichi called the sponsor meeting “old-people homework.”
 
-Everything worked.
-
-Just half a second late.
+Everything worked. Just half a second late.
 
 Taiga noticed because apparently he had become the kind of person who knew how long Leo usually took to laugh.
 
@@ -114,9 +110,7 @@ Yoichi threw a napkin at both of them.
 
 ---
 
-The morning work was simple.
-
-Simple by Camp Buddy standards, anyway.
+The morning work was simple. Simple by Camp Buddy standards, anyway.
 
 One section of the canoe rack needed reinforcement.
 
@@ -202,9 +196,7 @@ Taiga took it.
 
 Kieran laughed.
 
-Leo did not.
-
-Not immediately.
+Leo did not. Not immediately.
 
 Taiga looked at him.
 
@@ -508,9 +500,7 @@ Kieran moved.
 
 Taiga sent the ball into space.
 
-Kieran reached it and pushed it back.
-
-Simple.
+Kieran reached it and pushed it back. Simple.
 
 Enough.
 
@@ -552,13 +542,7 @@ Kieran had the ball near the side.
 
 Taiga moved toward the middle.
 
-Kieran looked at him.
-
-No call.
-
-No pointing.
-
-Just passed.
+Kieran looked at him. No call. No pointing. Just passed.
 
 Taiga was already there.
 
@@ -616,11 +600,7 @@ Then shrugged.
 
 The game restarted.
 
-Leo played harder.
-
-Not dirty.
-
-Just harder.
+Leo played harder. Not dirty. Just harder.
 
 He pressed Kieran sooner.
 
@@ -682,11 +662,7 @@ Leo exhaled.
 
 “Fine. Let’s play.”
 
-The rest of the match stayed physical.
-
-Not angry.
-
-Not exactly.
+The rest of the match stayed physical. Not angry. Not exactly.
 
 Taiga stopped trying to name it.
 
@@ -704,9 +680,7 @@ Taiga sat beside him.
 
 Leo stayed standing for a moment.
 
-Then sat on Taiga's other side.
-
-Still there.
+Then sat on Taiga's other side. Still there.
 
 That mattered.
 
@@ -838,11 +812,7 @@ That was worse than an insult.
 
 ---
 
-They stayed on the field after the game.
-
-Not playing.
-
-Just existing.
+They stayed on the field after the game. Not playing. Just existing.
 
 The sponsor meeting kept the adults inside.
 
@@ -890,9 +860,7 @@ Taiga looked toward Leo.
 
 Leo was still on his back, one forearm over his eyes.
 
-Taiga could not tell whether he was listening.
-
-Probably.
+Taiga could not tell whether he was listening. Probably.
 
 Kieran continued:
 
@@ -944,9 +912,7 @@ Maybe that was good.
 
 ---
 
-They spent another hour around the field.
-
-Not all soccer.
+They spent another hour around the field. Not all soccer.
 
 Leo tried to teach Yoichi how to juggle the ball.
 
@@ -1038,9 +1004,7 @@ Kieran asked Leo about Olympus soccer.
 
 Leo answered.
 
-Properly.
-
-No stiffness.
+Properly. No stiffness.
 
 Taiga started to think maybe whatever had been wrong earlier had burned itself out on the field.
 
@@ -1072,9 +1036,7 @@ Taiga pointed bread at him.
 
 Kieran laughed.
 
-Leo did too.
-
-Again, almost normal.
+Leo did too. Again, almost normal.
 
 Taiga wanted to believe it.
 
@@ -1098,13 +1060,7 @@ The shower took longer than usual.
 
 Hot water.
 
-Quiet.
-
-No Kieran.
-
-No Leo acting strange.
-
-No football.
+Quiet. No Kieran. No Leo acting strange. No football.
 
 For ten minutes, Taiga stopped thinking.
 
@@ -1114,7 +1070,7 @@ Taiga dressed.
 
 Sat on the bunk.
 
-Checked his Oracle.
+Checked his phone.
 
 Nothing important.
 
@@ -1132,7 +1088,7 @@ Kieran turned toward Two-Ten.
 
 Leo kept coming.
 
-Taiga looked back at his Oracle before Leo reached the door.
+Taiga looked back at his phone before Leo reached the door.
 
 Then the door opened.
 
@@ -1202,7 +1158,7 @@ T-shirt sticking slightly to his shoulders.
 
 He put his dirty clothes into the laundry bag and sat on his bunk.
 
-Did not reach for the Oracle.
+Did not reach for the phone.
 
 Did not say anything.
 
@@ -1236,9 +1192,7 @@ Wrong wording.
 
 Too late.
 
-Leo laughed once.
-
-No humor.
+Leo laughed once. No humor.
 
 “Okay. Fine.”
 
@@ -1248,11 +1202,7 @@ Then back at Taiga.
 
 “Kieran told me you two used to be together.”
 
-Everything inside Taiga stopped at once.
-
-Not his body.
-
-Just the noise.
+Everything inside Taiga stopped at once. Not his body. Just the noise.
 
 “What did you say?”
 
@@ -1260,11 +1210,7 @@ Leo's eyes did not leave him.
 
 “He told me you dated.”
 
-Taiga felt heat climb his neck.
-
-Not embarrassment.
-
-Not exactly.
+Taiga felt heat climb his neck. Not embarrassment. Not exactly.
 
 Something sharper.
 
@@ -1512,9 +1458,7 @@ Then Leo's face closed.
 
 Bullshit.
 
-Taiga knew it now.
-
-Not why.
+Taiga knew it now. Not why.
 
 But the answer was bullshit.
 
@@ -1550,9 +1494,7 @@ He heard it.
 
 Too late to take back the last five minutes.
 
-Leo looked exhausted now.
-
-Not physically.
+Leo looked exhausted now. Not physically.
 
 Taiga knew what physically tired Leo looked like.
 
@@ -1592,9 +1534,7 @@ Dark outside.
 
 His reflection faint.
 
-Leo lay down.
-
-Not facing him.
+Leo lay down. Not facing him.
 
 Taiga stood there another few seconds before sitting on his own bunk.
 
@@ -1604,9 +1544,7 @@ He was angry at Leo.
 
 Angry at Kieran.
 
-Angry at himself for not knowing which part deserved the most.
-
-Mostly he kept hearing one sentence.
+Angry at himself for not knowing which part deserved the most. Mostly he kept hearing one sentence.
 
 *I thought you trusted me.*
 

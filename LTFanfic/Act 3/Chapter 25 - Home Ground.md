@@ -14,15 +14,7 @@ Then at Taiga.
 
 Taiga pulled his duffel from the luggage compartment.
 
-The road curved between dark pines in both directions. Late-afternoon light had already started thinning behind the ridge.
-
-No lake.
-
-No cabins.
-
-No sign.
-
-Just wet asphalt and trees.
+The road curved between dark pines in both directions. Late-afternoon light had already started thinning behind the ridge. No lake. No cabins. No sign. Just wet asphalt and trees.
 
 Leo adjusted his backpack.
 
@@ -148,9 +140,7 @@ Taiga looked out the window so neither of them would see him smiling.
 
 The road to Camp Buddy took fifteen minutes.
 
-Leo spent most of them looking out the window.
-
-Not talking.
+Leo spent most of them looking out the window. Not talking.
 
 That was unusual enough for Taiga to notice.
 
@@ -160,11 +150,7 @@ Pines thickened.
 
 Then the lake appeared between them.
 
-Gray-blue under the evening sky.
-
-Still.
-
-Cold-looking.
+Gray-blue under the evening sky. Still. Cold-looking.
 
 Leo leaned toward the window.
 
@@ -212,33 +198,33 @@ Leo sat forward.
 
 Taiga looked at him instead of the sign.
 
-Leo saw everything.
+Leo took in the main lodge, the old cabin roofs through the trees, the dining hall, the maintenance sheds and the path toward the waterfront. Beyond them, the renovation year had left a second layer on the place: newer cabins in the annex, the function hall farther uphill, fresh conduit along the lodge and a small security camera under the eaves.
 
-Main lodge.
+Taiga still noticed which parts were new because he remembered helping build some of them.
 
-Cabin roofs through trees.
+Leo pointed through the trees.
 
-The dining hall.
+“Those cabins?”
 
-Maintenance sheds.
+“Expansion.”
 
-The path toward the waterfront.
+“You worked on them?”
 
-No campers.
+“Some of them.”
 
-No summer noise.
+Leo looked at him.
 
-No flags everywhere.
+“Some.”
 
-No people running between buildings.
+“I didn't build the entire fucking camp.”
 
-Camp Buddy without camp.
+“I didn't say you did.”
 
-It felt bigger.
+“You made the face.”
 
-Quieter.
+Leo smiled and looked back outside.
 
-More exposed.
+With no campers, no summer noise and nobody running between buildings, Camp Buddy felt bigger, quieter and more exposed.
 
 Yoichi drove past the main lodge.
 
@@ -294,9 +280,7 @@ Yoichi shouted:
 
 Too late.
 
-Yuki hit Taiga at knee height.
-
-Not aggressively.
+Yuki hit Taiga at knee height. Not aggressively.
 
 Emotionally.
 
@@ -324,11 +308,7 @@ Head up.
 
 New person.
 
-Leo crouched immediately.
-
-Not too close.
-
-Good.
+Leo crouched immediately. Not too close. Good.
 
 Hand low.
 
@@ -396,11 +376,9 @@ Leo looked at Yoichi.
 
 “Fuck you.”
 
-Five minutes.
+By the time they had unloaded the bags, Leo and Yoichi were already arguing like they had known each other longer than five minutes.
 
-Already friends.
-
-Unfortunately.
+Taiga decided that was probably a bad sign.
 
 ---
 
@@ -414,9 +392,7 @@ Of course.
 
 Taiga looked up.
 
-Yoshinori smiled.
-
-Not formal first.
+Yoshinori smiled. Not formal first.
 
 Person first.
 
@@ -730,11 +706,7 @@ Taiga looked.
 
 Top bunk opposite.
 
-Small carved scratch in one bedpost.
-
-Not words.
-
-Just three diagonal marks.
+Small carved scratch in one bedpost. Not words. Just three diagonal marks.
 
 Taiga had made them with a pocketknife.
 
@@ -818,13 +790,7 @@ Towel.
 
 Charger.
 
-Leo did the same.
-
-No awkwardness.
-
-Not yet.
-
-Just two people in a cabin.
+Leo did the same. No awkwardness. Not yet. Just two people in a cabin.
 
 Leo opened the desk drawer.
 
@@ -940,9 +906,7 @@ Goro sat at one end with a folder open beside his plate.
 
 Yoshinori had papers.
 
-Yuri had paint on one sleeve.
-
-Normal.
+Yuri had paint on one sleeve. Normal.
 
 Different season.
 
@@ -1126,9 +1090,7 @@ Somehow it worked.
 
 Leo did too.
 
-That was the thing Taiga noticed first.
-
-Not that Leo talked.
+That was the thing Taiga noticed first. Not that Leo talked.
 
 Leo could talk anywhere.
 
@@ -1222,11 +1184,7 @@ Yoichi snorted.
 
 “Shut up.”
 
-Yuri looked pleased with herself and finally let them eat.
-
-Good.
-
-No emotional archaeology at dinner.
+Yuri looked pleased with herself and finally let them eat. Good. No emotional archaeology at dinner.
 
 Camp Buddy contained enough history without every building becoming a lesson.
 
@@ -1278,11 +1236,7 @@ Taiga hated spring break.
 
 Leo looked at Taiga.
 
-Taiga looked outside.
-
-Still some light.
-
-Fine.
+Taiga looked outside. Still some light. Fine.
 
 “Come on.”
 
@@ -1290,17 +1244,9 @@ Leo stood immediately.
 
 ---
 
-Camp after dinner was nearly silent.
+Camp after dinner was nearly silent. No campers. No music. No shouting from the field.
 
-No campers.
-
-No music.
-
-No shouting from the field.
-
-No somebody dropping a canoe paddle where they should not.
-
-Just wind.
+No somebody dropping a canoe paddle where they should not. Just wind.
 
 Water.
 
@@ -1336,7 +1282,7 @@ Turned.
 
 “You have a folder.”
 
-“On my Oracle.”
+“On my phone.”
 
 “That is not better.”
 
@@ -1370,9 +1316,7 @@ Leo backed away.
 
 Leo laughed and jogged two steps away.
 
-Taiga did not chase him.
-
-Mostly because the ground was mud.
+Taiga did not chase him. Mostly because the ground was mud.
 
 Also dignity.
 
@@ -1382,9 +1326,7 @@ Also dignity.
 
 “Incorrect use.”
 
-Leo came back.
-
-Still smiling.
+Leo came back. Still smiling.
 
 They followed the path toward the lake.
 
@@ -1468,15 +1410,11 @@ Leo stepped back.
 
 The dock extended into dark water.
 
-Taiga did not walk onto it.
-
-Not tonight.
+Taiga did not walk onto it. Not tonight.
 
 Leo did not suggest it.
 
-They stood at the shore instead.
-
-Cold air moved off the lake.
+They stood at the shore instead. Cold air moved off the lake.
 
 Leo looked toward the opposite ridge.
 
@@ -1502,11 +1440,7 @@ Everything.
 
 “Yeah.”
 
-Leo stood quietly.
-
-Not solemn.
-
-Just taking it in.
+Leo stood quietly. Not solemn. Just taking it in.
 
 Then he said:
 
@@ -1580,9 +1514,7 @@ Yoichi heard.
 
 Footsteps disappeared.
 
-Taiga sat up.
-
-Cold.
+Taiga sat up. Cold.
 
 Cabin air.
 
@@ -1636,7 +1568,7 @@ Leo squinted.
 
 Taiga turned away.
 
-Leo reached for his Oracle.
+Leo reached for his phone.
 
 “No pictures.”
 
@@ -1690,11 +1622,7 @@ Justice.
 
 ---
 
-Yoshinori ran preseason breakfast like a briefing.
-
-Not intentionally.
-
-Probably.
+Yoshinori ran preseason breakfast like a briefing. Not intentionally. Probably.
 
 But the clipboard existed.
 
@@ -1858,9 +1786,7 @@ Taiga smiled into his coffee.
 
 Yoshinori saw.
 
-Said nothing.
-
-Good.
+Said nothing. Good.
 
 ---
 
@@ -1882,11 +1808,7 @@ Test windows.
 
 Write problems.
 
-Move on.
-
-No grading rubric.
-
-No professor.
+Move on. No grading rubric. No professor.
 
 No coach deciding whether execution had been fast enough.
 
@@ -1966,7 +1888,6 @@ Then nodded.
 
 “Yep.”
 
-
 They finished two-oh-eight.
 
 At two-ten, they found a dead mouse behind a dresser.
@@ -1997,11 +1918,7 @@ Taiga laughed.
 
 “That does not help.”
 
-He disposed of it anyway.
-
-No complaint after that.
-
-Mostly.
+He disposed of it anyway. No complaint after that. Mostly.
 
 ---
 
@@ -2037,15 +1954,13 @@ Taiga looked toward the cabin.
 
 Taiga smiled.
 
-“Professor Bell could.”
+“A professor could.”
 
-“Don't give her ideas.”
+“Don't give them ideas.”
 
 Taiga sat on the step beside him.
 
-Mud on boots.
-
-Cold sun through trees.
+Mud on boots. Cold sun through trees.
 
 Yuki appeared from nowhere.
 
@@ -2107,11 +2022,7 @@ Leo looked down.
 
 Taiga looked at him.
 
-Something quiet settled.
-
-Not dangerous.
-
-Just good.
+Something quiet settled. Not dangerous. Just good.
 
 Then Yoichi shouted from the path:
 
@@ -2215,15 +2126,9 @@ Yoichi pointed.
 
 “Here. Not there. Weight's holding on this side.”
 
-Leo nodded.
+Leo nodded. No macho bullshit. No pretending.
 
-No macho bullshit.
-
-No pretending.
-
-He listened.
-
-Good.
+He listened. Good.
 
 Yoichi watched him set his stance.
 
@@ -2297,9 +2202,7 @@ Then both laughed.
 
 Adrenaline.
 
-Nothing romantic.
-
-Probably.
+Nothing romantic. Probably.
 
 Yoichi looked from Taiga to Leo.
 
@@ -2331,9 +2234,7 @@ Lunch was sandwiches.
 
 Aiden had lied about soup.
 
-Or changed his mind.
-
-Normal.
+Or changed his mind. Normal.
 
 Leo ate two sandwiches.
 
@@ -2567,9 +2468,7 @@ Leo sat down on an equipment crate, laughing.
 
 Taiga looked at the ceiling.
 
-Camp Buddy had survived worse things than Yuri.
-
-Probably.
+Camp Buddy had survived worse things than Yuri. Probably.
 
 Taiga looked at him.
 
@@ -2579,23 +2478,13 @@ Hair flattened from a cap he had worn on the trail.
 
 Hands dirty despite gloves.
 
-Comfortable.
-
-Not performing.
-
-Not visitor-polite anymore.
-
-Just there.
+Comfortable. Not performing. Not visitor-polite anymore. Just there.
 
 Something inside Taiga went quiet.
 
 Leo fit.
 
-That was the problem.
-
-No.
-
-Not problem.
+That was the problem. No. Not problem.
 
 Taiga was trying to stop doing that.
 
@@ -2605,9 +2494,7 @@ Full stop.
 
 ---
 
-By five, everyone looked tired.
-
-Good tired.
+By five, everyone looked tired. Good tired.
 
 Yoshinori called it.
 
@@ -2627,9 +2514,7 @@ Yoichi clicked his tongue.
 
 “Fine.”
 
-Taiga almost laughed.
-
-Apparently Yoshinori had learned.
+Taiga almost laughed. Apparently Yoshinori had learned.
 
 Aiden started dinner.
 
@@ -2695,9 +2580,7 @@ Simple.
 
 True.
 
-Leo smiled.
-
-Not bright.
+Leo smiled. Not bright.
 
 Tired.
 
@@ -2765,9 +2648,11 @@ He looked away.
 
 ---
 
-Dinner was quieter.
+Dinner was quieter because everyone was tired.
 
-Everyone tired.
+Afterward, Leo slipped outside alone with his water bottle. Taiga noticed because he was one of the few people who knew Leo sometimes needed five minutes of silence after a full day of people. He did not follow and did not mention it to anyone.
+
+Leo came back a few minutes later with his shoulders looser and resumed the evening as if he had only stepped out for air.
 
 Aiden's soup finally appeared.
 
@@ -2797,9 +2682,7 @@ Taiga kept eating.
 
 “Unfortunately.”
 
-She smiled.
-
-No comment.
+She smiled. No comment.
 
 Thank God.
 
@@ -2815,11 +2698,7 @@ Main lodge windows.
 
 Taiga listened.
 
-Leo did too.
-
-Not pretending.
-
-Actually interested.
+Leo did too. Not pretending. Actually interested.
 
 That warmed something again.
 
@@ -2833,11 +2712,9 @@ Taiga was on his bed.
 
 Both in sweatpants.
 
-Socks.
+Socks. No shoes.
 
-No shoes.
-
-Leo had his Oracle plugged into the wall.
+Leo had his phone plugged into the wall.
 
 One bar of Wi-Fi.
 
@@ -2873,7 +2750,7 @@ Then laughed.
 
 Taiga snorted.
 
-Leo put the Oracle face down on the floor.
+Leo put the phone face down on the floor.
 
 For once, no more messages.
 

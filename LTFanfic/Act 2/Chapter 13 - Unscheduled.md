@@ -12,7 +12,7 @@ Taiga looked up. One flake landed on his cheek and melted immediately.
 
 “Great.”
 
-His Oracle buzzed. Nora.
+His phone buzzed. Nora.
 
 **Nora:** IT'S SNOWING
 
@@ -38,7 +38,7 @@ Taiga slowed. He had never introduced Nora to anyone from Camp Buddy, but she kn
 
 **Nora:** perfect thank you
 
-He locked the Oracle and crossed Central Park toward the Residential Zone. Campus had already changed; suitcases moved everywhere, parents waited at curbs, cars idled outside residence halls. Students hugged people they had known for one semester with the emotional intensity of soldiers leaving for war despite most of them returning in three weeks.
+He locked the phone and crossed Central Park toward the Residential Zone. Campus had already changed; suitcases moved everywhere, parents waited at curbs, cars idled outside residence halls. Students hugged people they had known for one semester with the emotional intensity of soldiers leaving for war despite most of them returning in three weeks.
 
 Taiga had mocked this yesterday. Then Caleb had left.
 
@@ -110,7 +110,7 @@ The empty room did not respond. Good.
 
 He had managed not to think about that sentence for most of finals, but it had still turned up occasionally: once while Leo was arguing with Enzo about whether a burrito counted as structurally compromised if one end opened, once when Leo borrowed Taiga's pen during film and forgot for forty minutes that it was not his, and once when Taiga walked into Apollo and heard Leo laughing upstairs before he saw him.
 
-His Oracle buzzed on the desk. Taiga ignored it until it buzzed again.
+His phone buzzed on the desk. Taiga ignored it until it buzzed again.
 
 “Fuck.”
 
@@ -227,7 +227,7 @@ Leo smiled. “That’s all you’re getting.”
 
 Taiga shook his head and followed him onto the train.
 
-The carriage was almost empty. Normally Central line trains at four-thirty contained enough students to make standing a negotiation, but today there were twelve people in the entire car. Leo sat by the window while Taiga took the seat opposite, and snow streaked past the glass as Leo checked his Oracle.
+The carriage was almost empty. Normally Central line trains at four-thirty contained enough students to make standing a negotiation, but today there were twelve people in the entire car. Leo sat by the window while Taiga took the seat opposite, and snow streaked past the glass as Leo checked his phone.
 
 “My mother has asked whether my flight tomorrow is still on three times.”
 

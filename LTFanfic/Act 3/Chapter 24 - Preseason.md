@@ -22,7 +22,7 @@ Training.
 
 Coffee.
 
-Political Theory.
+Discrete Structures.
 
 Data Structures.
 
@@ -132,11 +132,7 @@ Caleb's hands stopped over the keyboard.
 
 Taiga sat.
 
-He had been thinking about Camp Buddy since January.
-
-Not obsessively.
-
-Just as a fixed point.
+He had been thinking about Camp Buddy since January. Not obsessively. Just as a fixed point.
 
 Spring Break existed.
 
@@ -144,15 +140,13 @@ Camp existed.
 
 Eventually those two pieces were going to touch.
 
-He had not actually told Yoshinori he was coming.
-
-Mostly because there had been classes.
+He had not actually told Yoshinori he was coming. Mostly because there had been classes.
 
 Then Westlake.
 
 Then another match.
 
-Then the Political Theory project.
+Then the Discrete Structures project.
 
 Then nothing, which was less defensible.
 
@@ -196,15 +190,11 @@ Formal even in text.
 
 Reliable.
 
-Taiga put the Oracle away.
+Taiga put the phone away.
 
 ---
 
-Yoshinori answered at eight-thirteen.
-
-Not eight.
-
-Not eight-fifteen.
+Yoshinori answered at eight-thirteen. Not eight. Not eight-fifteen.
 
 Eight-thirteen.
 
@@ -230,11 +220,7 @@ Which meant he probably had.
 
 “I was glad to hear from you.”
 
-There was no suspicion in it.
-
-No *what do you need?*
-
-Just true.
+There was no suspicion in it. No *what do you need?* Just true.
 
 Taiga leaned back against the wall beside his bed.
 
@@ -354,13 +340,7 @@ March rain streaked the glass.
 
 Something in his chest had loosened.
 
-Camp in preseason.
-
-Not summer.
-
-Not reunion.
-
-Not memory.
+Camp in preseason. Not summer. Not reunion. Not memory.
 
 Work.
 
@@ -374,9 +354,7 @@ He liked that.
 
 Yoshinori's expression changed.
 
-Warm.
-
-Not surprised.
+Warm. Not surprised.
 
 “Help is always useful.”
 
@@ -388,7 +366,7 @@ Taiga waited.
 
 Yoshinori folded his hands.
 
-“We are no longer in the position we were in last summer.”
+“We are no longer in the position we were in after the fundraiser and expansion started.”
 
 Taiga knew what he meant.
 
@@ -410,19 +388,13 @@ The entire camp surviving partly because nobody had accepted that disappearing w
 
 Yoshinori continued.
 
-“The sponsorship Keitaro arranged has made a considerable difference.”
+“William Clermont's sponsorship has made a considerable difference.”
 
-Taiga nodded.
+Taiga nodded. He knew that story now from the inside.
 
-He knew about the sponsor.
+Clermont Publishing had turned Keitaro's work into _Greatest Memories_. The book sold far better than anyone expected, Keitaro declined his royalties, and William Clermont folded that money into the camp while making a much larger sponsorship investment of his own. The book had opened the door; it had not somehow paid for an entire expansion by itself.
 
-Everybody did.
-
-Keitaro had somehow turned one journalism assignment, three interviews and a photo package about youth outdoor programs into a connection with a regional outdoor-equipment company looking for a community partnership.
-
-Then he had refused to take credit for approximately two weeks.
-
-Hiro had taken care of that problem by taking credit for him loudly enough for the entire group.
+Keitaro had still refused to take much credit for any of it. Hiro had handled that problem by loudly taking credit for him.
 
 Yoshinori said:
 
@@ -512,9 +484,7 @@ Immediate.
 
 Annoying.
 
-Yoshinori could not possibly know that.
-
-Probably.
+Yoshinori could not possibly know that. Probably.
 
 Taiga said:
 
@@ -560,7 +530,7 @@ Yoshinori did not force anything else into the moment.
 
 The call ended.
 
-Taiga lowered the Oracle.
+Taiga lowered the phone.
 
 Caleb was looking at him.
 
@@ -592,11 +562,9 @@ Then opened Leo's chat.
 
 Closed it.
 
-Too immediate.
+Too immediate. Ridiculous.
 
-Ridiculous.
-
-He put the Oracle down.
+He put the phone down.
 
 ---
 
@@ -660,9 +628,7 @@ Taiga looked at the clock.
 
 They left.
 
-Outside, the air smelled wet.
-
-Not spring yet.
+Outside, the air smelled wet. Not spring yet.
 
 Almost.
 
@@ -676,9 +642,7 @@ Yellow scarf.
 
 The sister scarf.
 
-Taiga had stopped thinking of it as obnoxious.
-
-Mostly.
+Taiga had stopped thinking of it as obnoxious. Mostly.
 
 They crossed toward the café.
 
@@ -856,13 +820,7 @@ He said:
 
 “You could come.”
 
-Leo stopped.
-
-Actually stopped.
-
-Not speaking.
-
-Not moving.
+Leo stopped. Actually stopped. Not speaking. Not moving.
 
 Taiga immediately regretted possessing a mouth.
 
@@ -964,11 +922,7 @@ Instead:
 
 “Yeah.”
 
-Leo went quiet.
-
-Not long.
-
-Just enough that Taiga felt it.
+Leo went quiet. Not long. Just enough that Taiga felt it.
 
 Then:
 
@@ -1028,9 +982,7 @@ Taiga's brain stopped.
 
 Only for a second.
 
-After the delay, Leo's expression shifted.
-
-Not teasing.
+After the delay, Leo's expression shifted. Not teasing.
 
 Aware.
 
@@ -1106,9 +1058,7 @@ They reached the path split.
 
 Taiga had class.
 
-Leo had no class for forty minutes.
-
-Normally he would turn toward Central.
+Leo had no class for forty minutes. Normally he would turn toward Central.
 
 Instead he stayed another second.
 
@@ -1176,7 +1126,7 @@ Five.
 
 Then Taiga turned toward class.
 
-His Oracle buzzed before he reached the building.
+His phone buzzed before he reached the building.
 
 **Leo:** IMPORTANT QUESTION
 
@@ -1199,7 +1149,7 @@ Leo:
 **Leo:** NO
 **Leo:** I ACCEPT THE WILDERNESS
 
-Taiga put the Oracle away.
+Taiga put the phone away.
 
 ---
 
@@ -1215,13 +1165,7 @@ Taiga stared at *prepare another bed.*
 
 Unnecessary wording.
 
-Beds existed.
-
-No preparation required.
-
-Probably linens.
-
-Normal.
+Beds existed. No preparation required. Probably linens. Normal.
 
 He typed:
 
@@ -1391,6 +1335,20 @@ Leo:
 
 **Leo:** betrayal
 
+Thursday night, the flaw in Leo's planning system finally appeared.
+
+**Leo:** minor logistical issue
+**Taiga:** what
+**Leo:** apparently saying yes to a cs group meeting, an apollo equipment check and dinner with enzo does not create three leos
+**Taiga:** shocking
+**Leo:** also my work jeans are wet
+**Taiga:** why
+**Leo:** laundry
+**Taiga:** idiot
+**Leo:** constructive
+
+By Friday the jeans were dry. Taiga still made him show the work gloves at the station.
+
 ---
 
 Wednesday became Thursday.
@@ -1430,7 +1388,7 @@ Leo:
 
 That one sat differently.
 
-Taiga put the Oracle away.
+Taiga put the phone away.
 
 ---
 
@@ -1450,7 +1408,7 @@ Mercer looked at him.
 
 Enzo became silent.
 
-“Your conditioning plans are on the Oracle. Two sessions. Thirty minutes. If I find out anybody turned them into ninety-minute hero workouts, you will not impress me.”
+“Your conditioning plans are on the athletics portal. Two sessions. Thirty minutes. If I find out anybody turned them into ninety-minute hero workouts, you will not impress me.”
 
 Taiga looked at Aaron.
 
@@ -1486,11 +1444,7 @@ Aaron and Sofia were leaving Saturday morning.
 
 Leo changed quickly.
 
-Taiga did too.
-
-No lingering shower strategy.
-
-Not today.
+Taiga did too. No lingering shower strategy. Not today.
 
 They had a train.
 
@@ -1504,11 +1458,7 @@ His half of the room looked unnaturally exact.
 
 Bed made.
 
-Desk clear.
-
-No shoes.
-
-No coat.
+Desk clear. No shoes. No coat.
 
 He had left a note on Taiga's desk.
 
@@ -1548,7 +1498,7 @@ Red puffer.
 
 Work boots tied to the outside of the duffel because wearing them on a train for hours would be insane.
 
-Oracle.
+phone.
 
 Wallet.
 
@@ -1648,9 +1598,7 @@ Taiga considered taking it back.
 
 Did not.
 
-They reached the platform.
-
-Cold wind followed the tracks.
+They reached the platform. Cold wind followed the tracks.
 
 People clustered under the canopy with luggage.
 
@@ -1770,13 +1718,7 @@ The city began thinning beyond the glass.
 
 Taiga leaned back.
 
-For the first time in months, he had nowhere to be after this.
-
-No lecture.
-
-No training.
-
-No assignment due tomorrow.
+For the first time in months, he had nowhere to be after this. No lecture. No training. No assignment due tomorrow.
 
 Just a train heading toward the lake.
 

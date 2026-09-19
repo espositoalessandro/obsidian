@@ -217,7 +217,8 @@ A separate professor should own the formal lecture section.
 
 ## Discrete Structures
 
-**Instructor:** To be named.
+**Instructor:** To be named.  
+**Recurring Act III project classmates:** Adrian Vega, Priya Patel, Marcus Lawson.
 
 ### Function in the story
 - Reinforces the mathematical side of Computer Science.
@@ -234,7 +235,7 @@ A separate professor should own the formal lecture section.
 - recurrence relations.
 
 ### Narrative use
-This can mostly live in background workload with occasional references when useful. It should not become a fourth major classroom subplot.
+This can mostly live in background workload with occasional references when useful. One Act III group project uses graph coloring / scheduling as a compact social and academic thread, but the course should not become a fourth major classroom subplot.
 
 ---
 

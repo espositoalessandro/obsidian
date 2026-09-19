@@ -1,6 +1,4 @@
-Taiga slept badly.
-
-Not catastrophically.
+Taiga slept badly. Not catastrophically.
 
 Just enough to wake up irritated at everything.
 
@@ -14,7 +12,7 @@ The blanket had been folded back.
 
 Shoes gone.
 
-Oracle gone.
+phone gone.
 
 Leo was already awake.
 
@@ -36,9 +34,7 @@ Voices came from inside.
 
 Taiga walked in.
 
-Leo sat near the end of the breakfast table beside Yoichi.
-
-Not beside Taiga's usual chair.
+Leo sat near the end of the breakfast table beside Yoichi. Not beside Taiga's usual chair.
 
 There were plenty of reasons for that.
 
@@ -154,9 +150,7 @@ Taiga turned.
 
 ---
 
-The dock was empty.
-
-No wind.
+The dock was empty. No wind.
 
 Gray water.
 
@@ -178,9 +172,7 @@ Taiga tightened the nut.
 
 Next cleat.
 
-Next bolt.
-
-Simple.
+Next bolt. Simple.
 
 He preferred simple.
 
@@ -214,9 +206,7 @@ Taiga stood.
 
 Kieran did not back away.
 
-He looked miserable.
-
-Good.
+He looked miserable. Good.
 
 Taiga wanted him miserable for at least another ten seconds.
 
@@ -246,9 +236,7 @@ Kieran took a breath.
 
 The dock went very quiet.
 
-Taiga's anger shifted.
-
-Not less.
+Taiga's anger shifted. Not less.
 
 Different.
 
@@ -396,9 +384,7 @@ Kieran was watching him now.
 
 The answer must have shown before Taiga said it.
 
-His face fell.
-
-Not dramatically.
+His face fell. Not dramatically.
 
 Just enough that Taiga wished, for one ugly second, that he could lie.
 
@@ -580,9 +566,7 @@ Yoshinori looked toward the empty chair after.
 
 Nobody answered immediately.
 
-Taiga looked toward Cabin Two-Ten through the window.
-
-No movement.
+Taiga looked toward Cabin Two-Ten through the window. No movement.
 
 Aiden set a bowl on the table.
 
@@ -708,9 +692,7 @@ The air did not improve.
 
 Kieran was not in the dining hall after lunch.
 
-He was not by the lodge.
-
-Not at the dock.
+He was not by the lodge. Not at the dock.
 
 Taiga checked Cabin Two-Ten last because he already knew.
 
@@ -902,11 +884,13 @@ That one landed.
 
 Kieran folded the sweatshirt again even though it was already folded.
 
-“I came here wanting redemption and a second chance.”
+Kieran rubbed at his sleeve.
 
-He glanced at Taiga.
+“I came here thinking maybe I could fix two things at once.”
 
-“I got one of them.”
+He gave Taiga a tired look.
+
+“I can't.”
 
 Taiga frowned.
 
@@ -940,9 +924,7 @@ He looked down.
 
 “I need to let that be over.”
 
-Taiga hated hearing it.
-
-Not because it was wrong.
+Taiga hated hearing it. Not because it was wrong.
 
 Because it was right.
 
@@ -962,31 +944,33 @@ Taiga rubbed the back of his neck.
 
 “I know.”
 
-“And you don't get to use me as proof you're a good person.”
+“And stop making me the judge of whether you're a good person now.”
 
 Kieran gave a weak laugh.
 
-“Okay. Fair.”
+“Okay.”
 
-“But you also don't get to use me as proof you're a bad one forever.”
+“I'm serious.”
 
-Kieran stared.
+“I know.”
 
-Taiga wished Keitaro were here to say this better.
+Taiga rubbed the back of his neck. Keitaro would have said this better. That was unfortunate because Keitaro was not here.
 
-He wasn't.
+“What you did was awful. You know that. I know that.”
 
-So Taiga had to do it himself.
+Kieran looked down.
 
-“You did something awful.”
+“But if you spend the rest of your life proving you're still that guy, that's your choice too.”
 
-Kieran's eyes dropped.
+Kieran looked back at him.
 
-“I wasn't innocent either. I gave you plenty of reasons to be angry with me.”
+Taiga grimaced.
 
-Kieran's eyes went up again in disbelief.
+“That came out like shit.”
 
-“Still, framing me was a choice you made. But you are not only one bad choice.”
+A wet laugh escaped Kieran.
+
+“No. I got it.”
 
 Silence.
 
@@ -1010,9 +994,7 @@ Kieran's face crumpled for half a second before he got it back under control.
 
 “That's why I need to go.”
 
-Taiga nodded.
-
-Not approval.
+Taiga nodded. Not approval.
 
 Understanding.
 
@@ -1028,9 +1010,7 @@ Kieran glanced toward the camp outside.
 
 “Not for you.”
 
-That hurt in a different way.
-
-Good way, maybe.
+That hurt in a different way. Good way, maybe.
 
 Taiga nodded.
 
@@ -1076,83 +1056,21 @@ Taiga stood there until the road emptied.
 
 ---
 
-The fake sponsor meeting lasted approximately thirty-two minutes.
+After Kieran's car disappeared, camp did what it usually did when something difficult happened: it kept operating.
 
-Goro complained that if everyone was aware it was fake, there was little reason to continue pretending.
+Goro and Yoshinori went back inside with the sponsor folders from Thursday. Yuri had preseason enrollment forms spread across one end of the dining table. Aiden was in the kitchen. Yoichi had taken Yuki toward the lower trail.
 
-Yuri told him that was not the point.
+Nobody assigned Taiga anything. Nobody told him what to do with the rest of the afternoon either.
 
-Aiden said the point was to make themselves scarce.
+Leo was gone from the yard.
 
-Yoshinori looked at Taiga.
+Taiga checked Cabin Two-Twelve first and found it empty. He sat on his bunk for a few minutes, then got irritated with himself and stood again. Waiting inside felt too much like waiting for something.
 
-“You have the afternoon.”
+He walked without deciding where he was going. The field was empty. So was the overlook path.
 
-Taiga knew what he meant.
+At the dock, he finally stopped.
 
-He also knew what he was not saying.
-
-Nobody asked questions.
-
-Taiga appreciated that.
-
-Leo had disappeared by then.
-
-Not dramatically.
-
-He was simply not in the yard.
-
-Yoichi was with Yuki near the lower trail.
-
-Taiga could have asked.
-
-He didn't.
-
-He went to Cabin Two-Twelve.
-
-Leo was not there.
-
-Taiga sat on his bunk.
-
-Waited five minutes.
-
-Ten.
-
-Then stood.
-
-No.
-
-Waiting inside felt too much like waiting *for* something.
-
-He walked.
-
-Not looking for Leo.
-
-Mostly.
-
-He passed the field.
-
-Empty.
-
-The overlook path.
-
-No movement.
-
-The dining hall.
-
-Nothing.
-
-At the dock, he stopped.
-
-Of course.
-
-The pier stretched over gray-blue water.
-
-No one there.
-
-Taiga walked to the end and sat.
-
-The boards were cold through his jeans.
+The pier stretched over gray-blue water. Taiga walked to the end and sat. The boards were cold through his jeans.
 
 He looked at the lake.
 
@@ -1160,9 +1078,7 @@ Kieran was gone.
 
 Leo was somewhere.
 
-Taiga had managed to hurt one person by not wanting him and another by apparently wanting him in a way he still could not name.
-
-Excellent work.
+Taiga had managed to hurt one person by not wanting him and another by apparently wanting him in a way he still could not name. Excellent work.
 
 He leaned forward and rested his forearms on his knees.
 
@@ -1210,11 +1126,7 @@ It did not.
 
 Jealousy meant expectation.
 
-Expectation meant Taiga had given Leo some reason to think there was a place for him here.
-
-No.
-
-Not just here.
+Expectation meant Taiga had given Leo some reason to think there was a place for him here. No. Not just here.
 
 Beside him.
 
@@ -1244,15 +1156,7 @@ But he had known.
 
 Taiga picked at a rough edge in the dock board.
 
-He had wanted Camp Buddy and Leo to fit together.
-
-Easy.
-
-No explanation bigger than necessary.
-
-No label.
-
-No question.
+He had wanted Camp Buddy and Leo to fit together. Easy. No explanation bigger than necessary. No label. No question.
 
 Then Kieran had shown up and dragged old language into the middle of it.
 
@@ -1392,9 +1296,7 @@ Warm.
 
 Dangerous.
 
-He kept his face neutral.
-
-Probably badly.
+He kept his face neutral. Probably badly.
 
 Leo looked at him.
 
@@ -1520,9 +1422,7 @@ He rubbed his thumb over the rough edge of the dock.
 
 Leo's face softened.
 
-Taiga hated that too.
-
-Not enough to stop.
+Taiga hated that too. Not enough to stop.
 
 “I didn't know what you'd do with that.”
 
@@ -1636,13 +1536,7 @@ Leo breathed out.
 
 Taiga looked over.
 
-Leo was smiling.
-
-Not big.
-
-Not teasing.
-
-Just there.
+Leo was smiling. Not big. Not teasing. Just there.
 
 It did something unpleasantly soft to Taiga's chest.
 
@@ -1720,9 +1614,7 @@ He kept going anyway.
 
 Leo looked down.
 
-His ears had gone pink.
-
-Good.
+His ears had gone pink. Good.
 
 At least Taiga was not suffering alone.
 
@@ -1778,9 +1670,7 @@ Taiga laughed despite himself.
 
 Leo did too.
 
-The space between them felt smaller.
-
-Still there.
+The space between them felt smaller. Still there.
 
 One plank.
 
@@ -1850,9 +1740,7 @@ Taiga glanced over.
 
 They both laughed.
 
-After a while Leo shifted closer.
-
-Not all the way.
+After a while Leo shifted closer. Not all the way.
 
 Just enough that the empty plank between them stopped being empty.
 

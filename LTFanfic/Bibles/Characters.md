@@ -986,22 +986,23 @@ Keep as a small recurring advisor voice. She can reappear when planning second y
 # 22. Adrian Vega
 
 ## Current role
-- Political Theory project teammate in Act III.
-- Robotics-lab student taking Political Theory for a humanities credit.
+- Discrete Structures project teammate in Act III.
+- Electrical Engineering student active in the university robotics lab.
 
 ## Established background
 - tall;
 - dark hair;
 - glasses;
-- robotics-lab sticker on his laptop;
-- organized enough to reserve project rooms and build a shared document.
+- robotics-lab sticker on his phone case;
+- organized enough to reserve project rooms and build a shared document;
+- works on autonomous-navigation / mapping projects.
 
 ## Established personality
 - social;
 - competent;
-- politically curious;
+- technically curious;
 - comfortable teasing Taiga;
-- willing to argue;
+- willing to argue about models and tradeoffs;
 - talks more than Taiga but far less than Leo.
 
 Taiga explicitly registers that Adrian is attractive and discovers that this produces no meaningful romantic reaction, which helps isolate the problem as Leo-specific.
@@ -1020,27 +1021,24 @@ Keep him distinct from Leo. Adrian should feel like someone Taiga **could** plau
 # 23. Priya Patel
 
 ## Current role
-- Political Theory project teammate in Act III.
+- Discrete Structures project teammate in Act III.
 
 ## Established personality
 - highly organized;
 - immediately opens a calendar;
 - reads assignments carefully;
-- handles empirical examples;
+- test-case and counterexample oriented;
 - practical about scheduling.
 
 ## Voice
-**Currently too close to generic competent/dry student.**
-
-## Revision direction
-Make Priya Patel:
+Priya is:
 - evidence-oriented;
 - impatient with unsupported claims;
-- less interested in rhetoric than Adrian/Taiga;
-- fast, efficient, slightly intense.
+- fast, efficient, slightly intense;
+- likely to ask whether a model actually survives a counterexample.
 
 She should be the group member who says:
-> "Do we actually have data for that?"
+> "Does that still work on this case?"
 
 rather than the one who creates jokes.
 
@@ -1049,25 +1047,24 @@ rather than the one who creates jokes.
 # 24. Marcus Lawson
 
 ## Current role
-- Political Theory project teammate in Act III.
+- Discrete Structures project teammate in Act III.
 - Works evenings on Wednesdays and Fridays.
 
 ## Established personality
-- less prepared than the others;
-- initially misunderstands the assignment;
-- needs direction;
-- eventually contributes policy recommendations;
-- not malicious or incompetent.
+- easygoing;
+- initially wants to solve cases manually instead of generalizing;
+- socially competent;
+- eventually becomes useful by asking what the mathematical model means for an actual schedule.
 
 ## Voice
-**Thin.**
+- practical;
+- plain-language;
+- less interested in elegance than consequences;
+- comfortable admitting when he misunderstood the point.
 
 ## Revision direction
-Make him:
-- easygoing;
-- socially competent;
-- more interested in practical consequences than theory;
-- the person most likely to ask, "Okay, but what would this actually change?"
+He should be the person most likely to ask:
+> "Okay, but what does this change for the student?"
 
 This gives him a useful project function without adding a subplot.
 
@@ -1566,19 +1563,18 @@ Once the second-semester program is finalized, either:
 These should be cleaned before the final prose pass.
 
 ## Bell
-- Statistics professor in Act I.
-- Political Theory professor in Acts III–IV.
-- Almost certainly needs to become two people.
+- **Resolved:** removed from Taiga's academic canon.
+- Calculus I belongs to Professor Chen.
+- Spring Comparative Political Theory does not exist in Taiga's revised schedule.
 
 ## Owen
-- Introduced like a Data Structures teaching assistant/instructor.
-- Later called Professor Owen.
-- Academic role needs standardization.
+- **Resolved:** Data Structures teaching assistant / lab instructor.
+- He is not the lecture professor.
 
 ## Priya
 Current manuscript has:
-- **Priya Shah** — Writing Seminar;
-- **Priya Patel** — Political Theory;
+- **Priya Shah** — General Chemistry I lab;
+- **Priya Patel** — Discrete Structures;
 - **Priya** — Leo's CS project story.
 
 Reduce to two at most, preferably keeping the two established surnamed characters and renaming the CS-project teammate.
@@ -1586,8 +1582,8 @@ Reduce to two at most, preferably keeping the two established surnamed character
 ## Marcus
 Current manuscript contains:
 - Marcus, Caleb's father;
-- Marcus Green, Writing Seminar;
-- Marcus Lawson, Political Theory;
+- Marcus Green, General Chemistry I lab;
+- Marcus Lawson, Discrete Structures;
 - another Marcus mentioned in background gossip.
 
 The background gossip Marcus can simply lose his name.

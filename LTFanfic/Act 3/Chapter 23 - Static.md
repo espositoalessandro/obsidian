@@ -1,6 +1,6 @@
 Friday coffee began with evidence.
 
-Leo arrived at the table carrying two cups, his Oracle, and three screenshots printed on actual paper.
+Leo arrived at the table carrying two cups, his phone, and three screenshots printed on actual paper.
 
 Taiga stared.
 
@@ -148,17 +148,11 @@ Leo was still talking.
 
 Leo shifted again.
 
-The side of his knee pressed more firmly against Taiga's.
-
-Not hard.
-
-Just contact.
+The side of his knee pressed more firmly against Taiga's. Not hard. Just contact.
 
 Taiga's whole nervous system apparently had nothing better to do.
 
-He could move.
-
-Easy.
+He could move. Easy.
 
 An inch.
 
@@ -166,9 +160,7 @@ Less.
 
 Instead he stayed.
 
-Why?
-
-No answer.
+Why? No answer.
 
 Leo picked up his coffee.
 
@@ -210,11 +202,7 @@ Possible in theory.
 
 Unlikely for a soccer player.
 
-Taiga shifted slightly.
-
-Not away.
-
-Just enough to test.
+Taiga shifted slightly. Not away. Just enough to test.
 
 Leo's knee moved with him.
 
@@ -224,11 +212,7 @@ Fuck.
 
 Taiga looked up.
 
-Leo was reading the third screenshot.
-
-No smile.
-
-No glance.
+Leo was reading the third screenshot. No smile. No glance.
 
 Nothing to indicate awareness.
 
@@ -242,9 +226,7 @@ Leo had followed the shift.
 
 **Evidence against:**
 
-Tiny table.
-
-Normal human sitting.
+Tiny table. Normal human sitting.
 
 Leo moved constantly.
 
@@ -266,57 +248,23 @@ Taiga shifted in his chair and read Owen's comment again.
 
 ---
 
-Political Theory introduced him to Adrian Vega at one-thirteen that afternoon.
+Discrete Structures introduced him to Adrian Vega at one-thirteen that afternoon.
 
-Not in a meaningful way.
+The instructor announced a three-week group project: choose a real scheduling problem, model it as a graph, compare at least two coloring strategies, and explain where the model broke down instead of pretending mathematics had solved reality.
 
-Professor Bell announced a three-week presentation project, put names on the screen, and assigned groups of four with the enthusiasm of somebody who would not personally have to coordinate four schedules.
-
-Taiga read:
+Four names appeared together on the screen:
 
 **Akatora / Vega / Patel / Lawson**
 
-Nora was in another group.
-
-She glanced over from two rows away and mouthed:
-
-*good luck.*
-
-Taiga flipped her off under the desk.
-
-Professor Bell pretended not to see.
-
-After class, the four of them remained near the aisle.
-
-Priya Patel immediately opened a calendar.
-
-Good person.
-
-Marcus Lawson said he worked evenings on Wednesdays and Fridays.
-
-Less useful, but at least information.
-
-Adrian leaned against the desk and said:
+After class, the group stayed near the aisle long enough to negotiate schedules. Priya Patel opened a calendar immediately. Marcus Lawson admitted he worked evenings on Wednesdays and Fridays. Adrian leaned against the desk and said:
 
 “I can do Monday after four, Tuesday before six, Thursday basically whenever.”
 
-He was tall.
-
-Dark hair.
-
-Gray sweater.
-
-Glasses.
-
-Not important.
-
-His Oracle case had a sticker from the university robotics lab.
+He was tall, dark-haired, wearing glasses and a gray sweater. His phone case had a sticker from the university robotics lab.
 
 Potentially useful.
 
-Priya looked at Taiga.
-
-Taiga checked his schedule.
+Priya looked at Taiga. Taiga checked his schedule.
 
 “Monday after five.”
 
@@ -354,18 +302,9 @@ Priya looked between them.
 
 “Monday, five-thirty?”
 
-Everyone agreed.
-
-Done.
+Everyone agreed. Adrian sent the reservation link before Taiga reached the door.
 
 Efficient.
-
-Adrian sent the reservation link before Taiga reached the door.
-
-Taiga saved it.
-
-No significance.
-
 ---
 
 Training that afternoon was short.
@@ -400,13 +339,9 @@ Routine.
 
 Leo sat across the aisle, talking to Aaron about a corner variation.
 
-Taiga looked once.
+Taiga looked once. Just once.
 
-Just once.
-
-Leo was still in training kit.
-
-Safe.
+Leo was still in training kit. Safe.
 
 Then Leo pulled the shirt over his head.
 
@@ -416,9 +351,7 @@ Progress.
 
 Real progress.
 
-He could control his eyes.
-
-Apparently.
+He could control his eyes. Apparently.
 
 He got his towel.
 
@@ -432,11 +365,7 @@ Water.
 
 Wall.
 
-Soap.
-
-No military strategy.
-
-Good.
+Soap. No military strategy. Good.
 
 Two minutes later, somebody took the stall on his right.
 
@@ -462,9 +391,7 @@ Leo.
 
 Of course.
 
-Taiga stared at the tile.
-
-Still manageable.
+Taiga stared at the tile. Still manageable.
 
 Leo sang approximately four lines of something Taiga did not recognize.
 
@@ -490,17 +417,11 @@ Leo's voice came through the divider.
 
 “Too late. Jury heard it.”
 
-Enzo groaned.
-
-Normal.
+Enzo groaned. Normal.
 
 Taiga rinsed.
 
-His body behaved.
-
-Mostly.
-
-Good.
+His body behaved. Mostly. Good.
 
 This was getting easier.
 
@@ -522,9 +443,7 @@ Got out.
 
 Leo was at the bench, towel around his hips, drying his hair with another towel.
 
-Taiga looked.
-
-Not at the towel.
+Taiga looked. Not at the towel.
 
 At Leo's back.
 
@@ -568,9 +487,7 @@ Taiga turned toward his locker.
 
 Heart too fast.
 
-He had not been caught.
-
-Probably.
+He had not been caught. Probably.
 
 He dressed.
 
@@ -578,11 +495,7 @@ Very efficiently.
 
 ---
 
-Saturday's match was forgettable.
-
-Not bad.
-
-Not good.
+Saturday's match was forgettable. Not bad. Not good.
 
 Forgettable.
 
@@ -610,9 +523,7 @@ Taiga sat with Gav because Leo had ended up beside Aaron after getting on late.
 
 This should not have mattered.
 
-It did not.
-
-Mostly.
+It did not. Mostly.
 
 Taiga watched rain move sideways across the bus window.
 
@@ -648,7 +559,7 @@ Taiga looked at the time.
 
 Taiga almost said yes.
 
-Then his Oracle buzzed.
+Then his phone buzzed.
 
 Caleb.
 
@@ -669,7 +580,7 @@ Leo read.
 
 “Friendship.”
 
-Taiga put the Oracle away.
+Taiga put the phone away.
 
 “I'm going home.”
 
@@ -697,69 +608,39 @@ Leo walked backward for three steps.
 
 Then he turned toward House Apollo.
 
-Taiga watched him go.
-
-Not for long.
+Taiga watched him go. Not for long.
 
 Long enough.
 
 ---
 
-Monday's Political Theory project meeting lasted fifty-eight minutes.
+Monday's Discrete Structures project meeting lasted fifty-eight minutes. It should have lasted thirty.
 
-It should have lasted thirty.
-
-Marcus had not read the assignment properly.
-
-Priya had read it twice.
-
-Adrian had made a shared document with headings before anybody arrived.
+Marcus had read the prompt and still wanted to treat every scheduling conflict as a special case. Priya had already built a list of counterexamples. Adrian had made a shared document with headings before anybody arrived.
 
 Taiga approved.
 
-Their topic was institutional trust.
+They settled on course scheduling: students and required modules became conflicts, time slots became colors, and the useful question was not whether a graph could be colored but what assumptions they had smuggled in to make it possible.
 
-Professor Bell wanted argument, not summary.
+Adrian tapped the model on his screen.
 
-Adrian wanted to frame it around how systems earned compliance when individuals had reason to distrust authority.
+“We should compare greedy ordering against saturation.”
+
+“That works,” Taiga said.
+
+Priya looked over. “Only if we show where greedy gives us a worse schedule.”
+
+Marcus leaned back. “And somebody has to explain what the schedule means to an actual student instead of just drawing a prettier graph.”
 
 Taiga looked at him.
 
-“That works.”
+“Okay. That's useful.”
 
-Adrian nodded.
-
-“I thought you'd like it.”
-
-Taiga frowned.
-
-“Why?”
-
-“You argue with Bell every time she treats trust like it's automatic.”
-
-“That doesn't mean I like the topic.”
-
-“It means you have opinions.”
-
-Priya said:
-
-“He has many.”
-
-Taiga looked at her.
-
-She smiled into her laptop.
+Marcus pointed at him. “I contribute.”
 
 Adrian laughed.
 
-“Okay. You take the skepticism section?”
-
-“Fine.”
-
-“I'll do institutional response.”
-
-Priya took empirical examples.
-
-Marcus took policy recommendations after being told twice that “conclusion” was not an entire research role.
+Taiga took the implementation-and-tradeoffs section. Adrian handled representation and algorithm choice. Priya took the test cases and counterexamples. Marcus took the practical constraints.
 
 Meeting done.
 
@@ -771,61 +652,29 @@ Adrian closed his laptop.
 
 “Same.”
 
-They walked.
+They walked. No significance.
 
-No significance.
-
-Adrian talked more than Taiga expected.
-
-Not Leo levels.
-
-Normal human levels.
-
-Robotics lab.
-
-Political theory elective because he needed a humanities credit.
-
-Complained about a professor who used mandatory discussion boards.
+Adrian talked more than Taiga expected. Normal human levels. Robotics lab. Electrical engineering. Discrete Structures because his program required it. A separate professor who used mandatory discussion boards.
 
 Taiga complained about discussion boards too.
 
-Common enemy.
-
-Easy.
+Common enemy. Easy.
 
 At the path split near Central, Adrian said:
 
 “Coffee?”
 
-Taiga checked the time.
-
-He had forty minutes before a library reservation with Caleb.
+Taiga checked the time. He had forty minutes before a library reservation with Caleb.
 
 “Sure.”
 
-They went to the nearest café.
+They went to the nearest café. Taiga ordered black coffee. Adrian ordered something with cinnamon.
 
-Taiga ordered black coffee.
+They talked about the project, then programming. The robotics sticker made more sense once Adrian started describing autonomous navigation.
 
-Adrian ordered something with cinnamon.
+He asked what Taiga was building in Data Structures. Taiga explained the tree assignment.
 
-They stood near the window.
-
-Talked about the presentation.
-
-Then programming.
-
-Adrian was in electrical engineering.
-
-That explained the robotics sticker.
-
-He asked what Taiga was building in Data Structures.
-
-Taiga explained the tree assignment.
-
-Adrian said:
-
-“Your professor still making people implement red-black manually?”
+“Your lab still making people implement red-black trees manually?”
 
 “Yes.”
 
@@ -863,15 +712,11 @@ Taiga almost laughed.
 
 “You did.”
 
-They drank coffee.
+They drank coffee. Adrian was easy enough.
 
-Adrian was easy enough.
+Nothing else happened.
 
-No hidden significance.
-
-When they split, Taiga realized he had missed the time.
-
-He was seven minutes late meeting Caleb.
+When they split, Taiga realized he was seven minutes late meeting Caleb.
 
 Caleb said:
 
@@ -884,7 +729,6 @@ Taiga said:
 Caleb accepted this as sufficient.
 
 A miracle.
-
 ---
 
 Tuesday lab.
@@ -977,7 +821,7 @@ Leo looked toward the screen.
 
 Taiga snorted.
 
-Leo's Oracle buzzed.
+Leo's phone buzzed.
 
 He checked it.
 
@@ -993,7 +837,7 @@ Small.
 
 “Class?”
 
-“Political Theory group.”
+“Discrete Structures group.”
 
 “Ah.”
 
@@ -1042,21 +886,19 @@ Then Owen called for everyone to move to assigned partners.
 
 Conversation over.
 
-Taiga did not think about it again.
-
-Not then.
+Taiga did not think about it again. Not then.
 
 ---
 
 The project meeting was productive.
 
-Adrian had sources.
+Adrian had the conflict graph working.
 
-Priya had actual data.
+Priya had test cases designed to break it.
 
-Marcus had finally accepted that policy recommendations needed evidence.
+Marcus had finally stopped trying to solve every scheduling constraint by hand.
 
-Taiga drafted his section quickly.
+Taiga drafted the comparison section quickly.
 
 When the group finished, Adrian asked:
 
@@ -1106,11 +948,7 @@ Free coffee was free coffee.
 
 ---
 
-Wednesday recovery training was mostly movement.
-
-No tactical load.
-
-No hard running.
+Wednesday recovery training was mostly movement. No tactical load. No hard running.
 
 Mercer split them into small groups for a ball-retention game that was more competitive than recovery had any right to be.
 
@@ -1150,9 +988,7 @@ Scott pressed.
 
 Taiga played around him.
 
-Clean.
-
-Again.
+Clean. Again.
 
 Eventually Scott won it.
 
@@ -1214,9 +1050,7 @@ Taiga stepped away.
 
 Game continued.
 
-His heart did not.
-
-Not properly.
+His heart did not. Not properly.
 
 He chased Jonah too aggressively.
 
@@ -1226,9 +1060,7 @@ Mercer said:
 
 Taiga backed off.
 
-Leo laughed.
-
-Normal.
+Leo laughed. Normal.
 
 Too normal.
 
@@ -1288,9 +1120,7 @@ Taiga looked over.
 
 “Yeah.”
 
-They left together.
-
-Cold outside.
+They left together. Cold outside.
 
 Dry.
 
@@ -1302,13 +1132,13 @@ For the first minute, they talked about training.
 
 Then Leo said:
 
-“Your Political Theory thing go okay?”
+“Your Discrete project go okay?”
 
 Taiga looked at him.
 
 “Yeah.”
 
-“Trust and institutions?”
+“Graph coloring?”
 
 “You remember that?”
 
@@ -1370,9 +1200,7 @@ Leo brightened.
 
 Taiga smiled.
 
-The conversation moved on.
-
-Fine.
+The conversation moved on. Fine.
 
 At the intersection near the Student Center, the pedestrian light changed.
 
@@ -1382,9 +1210,7 @@ Halfway over, an electric bike shot through the turn too fast.
 
 Taiga saw it late.
 
-Leo grabbed his hand.
-
-Not wrist.
+Leo grabbed his hand. Not wrist.
 
 Hand.
 
@@ -1468,11 +1294,7 @@ He held his right hand up in the dark.
 
 Stupid.
 
-There was nothing on it.
-
-No mark.
-
-No evidence.
+There was nothing on it. No mark. No evidence.
 
 He lowered it.
 
@@ -1492,9 +1314,7 @@ Maybe.
 
 Did people do that?
 
-Taiga had held hands before.
-
-Not romantically.
+Taiga had held hands before. Not romantically.
 
 Friends pulling each other.
 
@@ -1502,13 +1322,9 @@ Sports.
 
 Camp.
 
-Crowds.
+Crowds. Normal.
 
-Normal.
-
-Thumb movement meant nothing.
-
-Probably.
+Thumb movement meant nothing. Probably.
 
 Then why had Leo apologized?
 
@@ -1528,7 +1344,7 @@ The part Taiga could not explain was why he had stood there too.
 
 He rolled onto his side.
 
-The Oracle lit.
+The phone lit.
 
 Message.
 
@@ -1540,11 +1356,7 @@ Taiga opened it.
 **Leo:** saturday film thing at apollo if you want
 **Leo:** gav found old olympus match footage and apparently we all need to suffer
 
-Taiga stared.
-
-Normal invitation.
-
-Normal Leo.
+Taiga stared. Normal invitation. Normal Leo.
 
 He typed:
 
@@ -1569,17 +1381,13 @@ Then:
 
 **Taiga:** yeah
 
-Leo reacted with a thumbs-up.
-
-Not a heart.
+Leo reacted with a thumbs-up. Not a heart.
 
 Why did Taiga notice that?
 
-He locked the Oracle.
+He locked the phone.
 
-Then unlocked it.
-
-No new message.
+Then unlocked it. No new message.
 
 Idiot.
 
@@ -1595,9 +1403,7 @@ Sat.
 
 Talked.
 
-Taiga was able to concentrate.
-
-Mostly.
+Taiga was able to concentrate. Mostly.
 
 At one point Leo reached past him for the charger plugged into the wall.
 
@@ -1609,11 +1415,7 @@ Leo kept reaching for the charger.
 
 After lab, Leo had House Apollo duties.
 
-Taiga had Political Theory.
-
-No coffee.
-
-Again.
+Taiga had Discrete Structures. No coffee. Again.
 
 Leo said:
 
@@ -1647,11 +1449,7 @@ Taiga lifted one hand without turning.
 
 ---
 
-Adrian was already in the project room when Taiga arrived.
-
-No Priya.
-
-No Marcus.
+Adrian was already in the Discrete Structures project room when Taiga arrived. No Priya. No Marcus.
 
 Taiga checked the group chat.
 
@@ -1694,13 +1492,13 @@ Marcus came ten after.
 
 Nothing happened.
 
-The presentation improved.
+The model improved.
 
 At six-fifteen they were done.
 
 Adrian looked at Taiga's section.
 
-“You want to send me your source list? I think one of mine overlaps.”
+“You want to send me your test cases? I think one of mine duplicates yours.”
 
 “Yeah.”
 
@@ -1710,9 +1508,7 @@ Adrian was attractive enough.
 
 Taiga had eyes.
 
-But Adrian pointed at the citation, Taiga copied it, and that was all.
-
-Apparently the problem was Leo.
+But Adrian pointed at the citation, Taiga copied it, and that was all. Apparently the problem was Leo.
 
 Great.
 
@@ -1720,7 +1516,7 @@ Adrian pointed.
 
 “This one.”
 
-Taiga copied the citation.
+Taiga copied the case into his table.
 
 Done.
 
@@ -1832,9 +1628,7 @@ Sofia laughed.
 
 The room relaxed.
 
-Taiga watched.
-
-Mostly.
+Taiga watched. Mostly.
 
 Leo's shoulder remained against his.
 
@@ -1872,23 +1666,15 @@ Taiga murmured:
 
 “Too late.”
 
-They argued quietly for two minutes.
-
-Normal soccer analysis.
+They argued quietly for two minutes. Normal soccer analysis.
 
 Their arms stayed together.
 
 At twenty-three minutes, Leo reached for the popcorn bowl near Taiga's knee.
 
-His hand landed on Taiga's thigh.
+His hand landed on Taiga's thigh. Not high. Just above the knee.
 
-Not high.
-
-Just above the knee.
-
-Practical.
-
-Probably.
+Practical. Probably.
 
 Taiga stopped breathing.
 
@@ -1906,11 +1692,7 @@ Taiga looked down.
 
 Leo looked at him.
 
-His fingers flexed.
-
-Not gripping.
-
-Just settling.
+His fingers flexed. Not gripping. Just settling.
 
 Taiga's stomach dropped.
 
@@ -1968,9 +1750,7 @@ Anything.
 
 He made it to the kitchen.
 
-Opened the fridge.
-
-No objective.
+Opened the fridge. No objective.
 
 Closed it.
 
@@ -2016,9 +1796,7 @@ Leo rubbed the back of his neck.
 
 Leo nodded.
 
-Did not ask again.
-
-Good.
+Did not ask again. Good.
 
 Taiga could have left.
 
@@ -2064,9 +1842,7 @@ Taiga said:
 
 “It wasn't.”
 
-Lie.
-
-Not exactly.
+Lie. Not exactly.
 
 It was weird.
 
@@ -2094,11 +1870,7 @@ Leo smiled faintly.
 
 Taiga almost smiled.
 
-Then Leo's hand moved.
-
-Not toward Taiga.
-
-Just onto the counter between them.
+Then Leo's hand moved. Not toward Taiga. Just onto the counter between them.
 
 Taiga looked at it.
 
@@ -2138,9 +1910,7 @@ He froze.
 
 The sentence had been casual.
 
-About Aaron and Sofia?
-
-Probably.
+About Aaron and Sofia? Probably.
 
 Maybe.
 
@@ -2176,13 +1946,11 @@ For the rest of film night, Leo sat beside him for nearly an hour without touchi
 
 ---
 
-At eleven-forty, Taiga walked back toward the Residential Zone.
-
-Cold.
+At eleven-forty, Taiga walked back toward the Residential Zone. Cold.
 
 Clear sky.
 
-His Oracle buzzed halfway there.
+His phone buzzed halfway there.
 
 Leo.
 
@@ -2207,11 +1975,7 @@ Leo:
 
 Taiga stopped.
 
-Small sentence.
-
-Normal sentence.
-
-Still.
+Small sentence. Normal sentence. Still.
 
 **Taiga:** yeah
 
@@ -2239,7 +2003,7 @@ Then:
 
 Sent.
 
-He put the Oracle away.
+He put the phone away.
 
 Walked.
 
@@ -2253,9 +2017,7 @@ Taiga had spent months asking himself why Leo mattered.
 
 Now he had a new question.
 
-Worse because it involved another person.
-
-Not:
+Worse because it involved another person. Not:
 
 **Why did that affect me?**
 
