@@ -82,7 +82,7 @@ Taiga nearly inhaled coffee. Leo sat back, satisfied.
 
 “I printed oppression.”
 
-The table was small. Too small, really. The café had been crowded, so they had ended up at one of the two-person tables against the wall. Taiga's knees were under it. So were Leo's. That fact became relevant when Leo shifted to reach for sugar he did not need. His knee touched Taiga's. Briefly. Leo took the sugar. Did not use it. His knee stayed where it was. Taiga looked at the screenshots again. Maybe Leo had not noticed.
+The table was small. Too small, really. The café had been crowded, so they had ended up at one of the two-person tables against the wall. Taiga's knees were under it. So were Leo's. That fact became relevant when Leo shifted to reach for sugar. His knee touched Taiga's. Briefly. Leo took the sugar. Did not use it. His knee stayed where it was. Taiga looked at the screenshots again. Maybe Leo had not noticed.
 
 Possible. The table was narrow. People touched knees at tiny tables. This was not a social event. It was furniture. Taiga read **UNNECESSARY ABSTRACTION** for the fourth time. Leo was still talking.
 
@@ -94,7 +94,7 @@ Possible. The table was narrow. People touched knees at tiny tables. This was no
 
 “That's not a defense.”
 
-Leo shifted again. The side of his knee pressed more firmly against Taiga's, not hard, just contact. Taiga's whole nervous system apparently had nothing better to do. He could move. Easy. An inch. Less. Instead he stayed. Why? No answer. Leo picked up his coffee. Talked about unit tests. Taiga stopped hearing individual words for approximately six seconds. Then:
+Leo shifted again. The side of his knee pressed more firmly against Taiga's, not hard, just contact. Taiga's whole nervous system apparently had nothing better to do. He could move. Easy. An inch. Less. Instead he stayed. Leo picked up his coffee. Talked about unit tests. Taiga stopped hearing individual words for approximately six seconds. Then:
 
 “—so if we split the validation from insertion, we can reuse it next week.”
 
@@ -114,15 +114,17 @@ Leo looked at him.
 
 “Good. Because if you make me explain it again, I'll discover whether the recursion comment caused permanent brain damage.”
 
-Taiga looked down. Their knees were still touching. Leo had to know. Right? Unless he had no sensation below the waist. Possible in theory. Unlikely for a soccer player. Taiga shifted slightly, not away, just enough to test. Leo's knee moved with him—barely. Fuck. Taiga looked up. Leo was reading the third screenshot. There was no smile or glance. Nothing to indicate awareness. Taiga's brain immediately started a trial.
+Taiga looked down. Their knees were still touching. Leo had to know. Right? Unless he had no sensation below the waist. Possible in theory. Unlikely for a soccer player. Taiga shifted slightly, not away, just enough to test. After a few seconds, Leo's knee slowly moved with him—barely. Fuck. Taiga looked up. Leo was reading the third screenshot. There was no smile or glance. Nothing to indicate awareness. Taiga's brain immediately started a trial.
 
 **Evidence for intentional contact:**
 
-Leo had not moved. Leo had followed the shift.
+Leo had not moved. Leo had followed the shift. Leg sensation issues unlikely. 
 
 **Evidence against:**
 
-Tiny table. Normal human sitting. Leo moved constantly. The prosecution lacked standing. Taiga drank coffee. The contact remained for another minute, maybe two. Then a student squeezed past their table and bumped Leo's chair. Leo pulled his legs back automatically. Taiga shifted in his chair and read Owen's comment again.
+Tiny table. Normal human sitting. Leo moved constantly. Knee contact means nothing for most of people.
+
+The prosecution lacked standing. Taiga drank coffee. The contact remained for another minute, maybe two. Then a student squeezed past their table and bumped Leo's chair. Leo pulled his legs back automatically. Taiga shifted in his chair and read Owen's comment again.
 
 ---
 
