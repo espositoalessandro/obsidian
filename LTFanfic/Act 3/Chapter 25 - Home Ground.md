@@ -1,10 +1,4 @@
-The bus dropped them beside a gas station, a closed bait shop, and a wooden bench that had probably existed before either of them was born.
-
-Leo stepped down first.
-
-Looked around.
-
-Then at Taiga.
+The bus dropped them beside a gas station, a closed bait shop, and a wooden bench that had probably existed before either of them was born. Leo stepped down first, looked around, then looked back at Taiga.
 
 “This is it?”
 
@@ -12,11 +6,7 @@ Then at Taiga.
 
 “Good, because I was about to have questions.”
 
-Taiga pulled his duffel from the luggage compartment.
-
-The road curved between dark pines in both directions. Late-afternoon light had already started thinning behind the ridge. No lake. No cabins. No sign. Just wet asphalt and trees.
-
-Leo adjusted his backpack.
+Taiga pulled his duffel from the luggage compartment. The road curved between dark pines in both directions. Late-afternoon light had already started thinning behind the ridge. There was no lake or cabins. No sign, just wet asphalt and trees. Leo adjusted his backpack.
 
 “So we wait?”
 
@@ -34,21 +24,11 @@ Leo smiled.
 
 “That is not an answer.”
 
-A horn sounded.
-
-Once.
-
-Long.
-
-Unnecessary.
-
-Taiga closed his eyes.
+A horn sounded once, long and unnecessary enough that Taiga closed his eyes.
 
 “There.”
 
-An old utility vehicle turned the bend too fast for the road and braked beside the gas station with a crunch of gravel.
-
-Yoichi leaned across the passenger seat and shoved the door open.
+An old utility vehicle turned the bend too fast for the road and braked beside the gas station with a crunch of gravel. Yoichi leaned across the passenger seat and shoved the door open.
 
 “Get in, Dynamite. I'm not sitting here all damn night.”
 
@@ -58,15 +38,11 @@ Taiga stared at the vehicle.
 
 “Tch. Then walk.”
 
-Leo leaned toward the open door.
-
-Yoichi finally looked past Taiga and gave him a long once-over.
+Leo leaned toward the open door. Yoichi finally looked past Taiga and gave him a long once-over.
 
 “Who's Sunshine?”
 
-Leo blinked, then smiled.
-
-Taiga threw his duffel into the back.
+Leo blinked, then smiled. Taiga threw his duffel into the back.
 
 “Leo.”
 
@@ -74,25 +50,15 @@ Taiga threw his duffel into the back.
 
 “Then answer faster.”
 
-Yoichi snorted.
-
-Leo held out a hand.
+Yoichi snorted. Leo held out a hand.
 
 “Leo Mendez.”
 
-Yoichi looked at the hand.
-
-Then at Leo.
+Yoichi looked at the hand. Then at Leo.
 
 “Yoichi.”
 
-He did not shake it.
-
-Leo lowered his hand without looking offended.
-
-Taiga had warned him.
-
-Yoichi's eyes dropped to Leo's hiking boots.
+He did not shake it. Leo lowered his hand without looking offended. Taiga had warned him. Yoichi's eyes dropped to Leo's hiking boots.
 
 “Those real, or you one of those idiots who buys boots to wear to coffee?”
 
@@ -106,11 +72,7 @@ Leo looked between them.
 
 “It isn't,” Taiga and Yoichi said together.
 
-A beat.
-
-Leo's smile widened.
-
-Yoichi clicked his tongue.
+A beat. Leo's smile widened. Yoichi clicked his tongue.
 
 “Psh. Great. He's annoying too.”
 
@@ -118,52 +80,21 @@ Yoichi clicked his tongue.
 
 “Lame.”
 
-Taiga got in.
-
-Leo climbed into the back.
+Taiga got in. Leo climbed into the back.
 
 “Thanks for picking us up.”
 
 “Don't thank me yet.”
 
-Yoichi slammed the vehicle into gear.
-
-It lurched forward.
-
-Leo caught the grab handle.
+Yoichi slammed the vehicle into gear. It lurched forward. Leo caught the grab handle.
 
 “Right. Noted.”
 
-Taiga looked out the window so neither of them would see him smiling.
-
-
-The road to Camp Buddy took fifteen minutes.
-
-Leo spent most of them looking out the window. Not talking.
-
-That was unusual enough for Taiga to notice.
-
-The road narrowed.
-
-Pines thickened.
-
-Then the lake appeared between them.
-
-Gray-blue under the evening sky. Still. Cold-looking.
-
-Leo leaned toward the window.
+Taiga looked out the window so neither of them would see him smiling. The road to Camp Buddy took fifteen minutes. Leo spent most of them looking out the window, not talking. That was unusual enough for Taiga to notice. The road narrowed. Pines thickened. Then the lake appeared between them, gray-blue under the evening sky, still and cold-looking. Leo leaned toward the window.
 
 “Oh.”
 
-Taiga knew that sound.
-
-Pinetree overlook.
-
-Different place.
-
-Same reaction.
-
-Yoichi glanced at him through the mirror.
+Taiga knew that sound. It was the same reaction Leo had shown at the Pinetree overlook, only in a different place. Yoichi glanced at him through the mirror.
 
 “Never been?”
 
@@ -179,29 +110,7 @@ Yoichi glanced at him through the mirror.
 
 “Your face.”
 
-Leo laughed.
-
-Taiga looked out the window and left them to it.
-
-Yoichi turned down the gravel road.
-
-The main Camp Buddy sign came into view.
-
-Weathered wood.
-
-Freshly repaired bracket.
-
-The familiar emblem cut into the top.
-
-Leo sat forward.
-
-Taiga looked at him instead of the sign.
-
-Leo took in the main lodge, the old cabin roofs through the trees, the dining hall, the maintenance sheds and the path toward the waterfront. Beyond them, the renovation year had left a second layer on the place: newer cabins in the annex, the function hall farther uphill, fresh conduit along the lodge and a small security camera under the eaves.
-
-Taiga still noticed which parts were new because he remembered helping build some of them.
-
-Leo pointed through the trees.
+Leo laughed. Taiga looked out the window and left them to it. Yoichi turned down the gravel road. The main Camp Buddy sign came into view. The weathered wood carried a freshly repaired bracket, with the familiar emblem cut into the top. Leo sat forward. Taiga looked at him instead of the sign. Leo took in the main lodge, the old cabin roofs through the trees, the dining hall, the maintenance sheds and the path toward the waterfront. Beyond them, the renovation year had left a second layer on the place: newer cabins in the annex, the function hall farther uphill, fresh conduit along the lodge and a small security camera under the eaves. Taiga still noticed which parts were new because he remembered helping build some of them. Leo pointed through the trees.
 
 “Those cabins?”
 
@@ -221,11 +130,7 @@ Leo looked at him.
 
 “You made the face.”
 
-Leo smiled and looked back outside.
-
-With no campers, no summer noise and nobody running between buildings, Camp Buddy felt bigger, quieter and more exposed.
-
-Yoichi drove past the main lodge.
+Leo smiled and looked back outside. With no campers, no summer noise and nobody running between buildings, Camp Buddy felt bigger, quieter and more exposed. Yoichi drove past the main lodge.
 
 “West cabins have water. East side's still shut.”
 
@@ -245,9 +150,7 @@ Yoichi shrugged.
 
 “No, dumbass, the ghost of camp administration.”
 
-Taiga flipped him off.
-
-Leo leaned forward between the seats.
+Taiga flipped him off. Leo leaned forward between the seats.
 
 “Wait. Old cabin?”
 
@@ -263,62 +166,23 @@ Yoichi grinned.
 
 “Can't. Dock's still blocked.”
 
-Leo laughed.
-
-Taiga hated both of them.
-
-
-Yuki found them before the vehicle stopped.
-
-A blur of fur crossed the path.
-
-Yoichi shouted:
+Leo laughed. Taiga hated both of them. Yuki found them before the vehicle stopped. A blur of fur crossed the path. Yoichi shouted:
 
 “HEY—”
 
-Too late.
-
-Yuki hit Taiga at knee height. Not aggressively.
-
-Emotionally.
-
-Taiga dropped one hand to her neck automatically.
+Too late. Yuki hit Taiga at knee height, not aggressively. Emotionally. Taiga dropped one hand to her neck automatically.
 
 “Yeah, yeah. Hi.”
 
-Yuki whined.
-
-Jumped.
-
-Hit him again.
-
-Taiga laughed despite himself.
+Yuki whined, jumped and hit him again until Taiga laughed despite himself.
 
 “Stop.”
 
-She did not.
-
-Leo got out of the back seat.
-
-Yuki froze.
-
-Head up.
-
-New person.
-
-Leo crouched immediately. Not too close. Good.
-
-Hand low.
-
-Also good.
+She did not. Leo got out of the back seat. Yuki froze with her head up, assessing the new person. Leo crouched immediately without getting too close and kept his hand low, both choices Taiga approved of.
 
 “Hey.”
 
-Yuki sniffed.
-
-Taiga watched.
-
-Yoichi climbed out.
+Yuki sniffed. Taiga watched. Yoichi climbed out.
 
 “Don't baby her.”
 
@@ -330,29 +194,11 @@ Leo glanced over.
 
 “That's genetic.”
 
-Yuki approached.
-
-Sniffed Leo's hand.
-
-Then his jeans.
-
-Then his backpack.
-
-Leo stayed still.
-
-She decided something.
-
-Tail.
-
-Fast.
-
-Leo smiled.
+Yuki approached and sniffed Leo's hand, then his jeans and backpack, while Leo stayed still. Whatever she decided, her tail started moving fast. Leo smiled.
 
 “Oh, hi.”
 
-Yuki pushed her head under his palm.
-
-Yoichi clicked his tongue.
+Yuki pushed her head under his palm. Yoichi clicked his tongue.
 
 “Traitor.”
 
@@ -362,9 +208,7 @@ Taiga rubbed Yuki's back.
 
 “No she doesn't.”
 
-Yuki leaned harder into Leo.
-
-Leo looked at Yoichi.
+Yuki leaned harder into Leo. Leo looked at Yoichi.
 
 “Should I apologize?”
 
@@ -374,38 +218,17 @@ Leo looked at Yoichi.
 
 “Fuck you.”
 
-By the time they had unloaded the bags, Leo and Yoichi were already arguing like they had known each other longer than five minutes.
-
-Taiga decided that was probably a bad sign.
-
-
-Yoshinori came from the main lodge while they unloaded.
-
-He had work gloves tucked into one back pocket and a clipboard under one arm.
-
-Of course.
+By the time they had unloaded the bags, Leo and Yoichi were already arguing like they had known each other longer than five minutes. Taiga decided that was probably a bad sign. Yoshinori came from the main lodge while they unloaded. He had work gloves tucked into one back pocket and a clipboard under one arm. Of course.
 
 “Taiga!”
 
-Taiga looked up.
-
-Yoshinori smiled. Not formal first.
-
-Person first.
-
-That still did something to Taiga.
+Taiga looked up. Yoshinori smiled, not formal first. Person first. That still did something to Taiga.
 
 “Hey.”
 
 “Welcome back.”
 
-Yoshinori clasped his shoulder once.
-
-Brief.
-
-Warm.
-
-Then he looked toward Leo.
+Yoshinori clasped his shoulder once. The contact was brief and warm before Yoshinori looked toward Leo.
 
 “And you must be Leo Mendez.”
 
@@ -447,13 +270,7 @@ Yoichi walked past carrying both duffels.
 
 “Thank you, Sunshine.”
 
-Yoichi stopped.
-
-Slowly turned.
-
-Taiga started laughing before either spoke.
-
-Leo froze.
+Yoichi stopped. Slowly turned. Taiga started laughing before either spoke. Leo froze.
 
 “Oh.”
 
@@ -471,9 +288,7 @@ Yoshinori sighed with the patience of a man whose preseason had lasted four days
 
 “Cabin two-twelve has been opened and aired. There are clean linens inside. Dinner is at seven.”
 
-Taiga looked at the lodge clock through the window.
-
-Six-twelve.
+Taiga looked at the lodge clock through the window. Six-twelve.
 
 “Work tonight?”
 
@@ -495,11 +310,7 @@ Yoshinori smiled.
 
 “Good.”
 
-Two more people came around the side of the lodge before Taiga could pick up his bag.
-
-Lloyd had a roll of drawings under one arm and three pencils stuck through the collar of his sweatshirt. Darius carried a toolbox in one hand and a spirit level in the other.
-
-Lloyd saw Taiga first.
+Two more people came around the side of the lodge before Taiga could pick up his bag. Lloyd had a roll of drawings under one arm and three pencils stuck through the collar of his sweatshirt. Darius carried a toolbox in one hand and a spirit level in the other. Lloyd saw Taiga first.
 
 “TAIGA! There he is!”
 
@@ -525,9 +336,7 @@ Darius looked him over once, then nodded.
 
 “Good.”
 
-Leo had gone very quiet beside the bags.
-
-Taiga pointed.
+Leo had gone very quiet beside the bags. Taiga pointed.
 
 “This is Leo.”
 
@@ -563,25 +372,11 @@ Darius looked at Taiga.
 
 “Accurate.”
 
-Leo's smile widened.
-
-Taiga already regretted the introduction.
-
-Then a voice came from the lodge:
+Leo's smile widened. Taiga already regretted the introduction. Then a voice came from the lodge:
 
 “TAIGA?!”
 
-Taiga closed his eyes.
-
-Yuri appeared in the doorway.
-
-Paint-stained scarf.
-
-Long coat.
-
-Hair tied up badly enough that it had probably been tied up three times already.
-
-Her face lit.
+Taiga closed his eyes. Yuri appeared in the doorway. Paint-stained scarf. Long coat. Hair tied up badly enough that it had probably been tied up three times already. Her face lit.
 
 “KYAAA! You really came! Come here!”
 
@@ -589,15 +384,7 @@ Taiga took one step back.
 
 “Yuri.”
 
-Too late.
-
-Hug.
-
-Full.
-
-Unavoidable.
-
-Yuri squeezed him hard enough to make breathing administrative.
+Too late. Hug. Full. Unavoidable. Yuri squeezed him hard enough to make breathing administrative.
 
 “Aww~ look at you! You look wonderful! College agrees with you.”
 
@@ -607,21 +394,11 @@ Yuri squeezed him hard enough to make breathing administrative.
 
 “No.”
 
-Leo turned away.
-
-His shoulders shook.
-
-Taiga pointed at him from inside the hug.
+Leo turned away. His shoulders shook. Taiga pointed at him from inside the hug.
 
 “I can see you.”
 
-That only made Leo laugh harder.
-
-Yuri finally released Taiga.
-
-Then she noticed Leo standing beside the bags.
-
-Her eyes widened.
+That only made Leo laugh harder. Yuri finally released Taiga. Then she noticed Leo standing beside the bags. Her eyes widened.
 
 “Oh! You must be Leo!”
 
@@ -631,9 +408,7 @@ Leo glanced at Taiga before answering.
 
 “Yuri,” she said, taking his hand with both of hers. “Welcome to Camp Buddy! Yoshinori told us Taiga was bringing a friend from Olympus.”
 
-Taiga looked at Yoshinori.
-
-Yoshinori did not bother pretending innocence.
+Taiga looked at Yoshinori. Yoshinori did not bother pretending innocence.
 
 “I had to give everyone an accurate head count.”
 
@@ -649,9 +424,7 @@ Leo nodded.
 
 “And Computer Science.”
 
-Her smile sharpened.
-
-Taiga knew that look.
+Her smile sharpened. Taiga knew that look.
 
 “I know what that face means.”
 
@@ -683,9 +456,7 @@ Yoichi kept walking.
 
 “Yeah. That's you now.”
 
-Leo looked delighted.
-
-Taiga sighed.
+Leo looked delighted. Taiga sighed.
 
 “I told you not to encourage him.”
 
@@ -707,11 +478,7 @@ Taiga started walking.
 
 “Hihi~! Good.”
 
-Taiga picked up his duffel.
-
-Yoshinori watched him with suspicious neutrality.
-
-Taiga narrowed his eyes.
+Taiga picked up his duffel. Yoshinori watched him with suspicious neutrality. Taiga narrowed his eyes.
 
 “If you say anything, I'm leaving.”
 
@@ -719,35 +486,11 @@ Yoshinori smiled.
 
 “I was only going to say that it is good to see you bring a friend here.”
 
-That was worse.
-
-Taiga walked away.
-
-Behind him, Yoshinori laughed softly.
+That was worse. Taiga walked away. Behind him, Yoshinori laughed softly.
 
 ---
 
-Cabin two-twelve smelled like cold wood, clean sheets and the faint chemical bite of whatever Yoichi had used on the floor.
-
-Leo entered first.
-
-Stopped.
-
-The room was simple.
-
-Four bunks.
-
-Two on each side.
-
-Small dresser.
-
-Hooks.
-
-One desk near the window.
-
-No decorations except an old Camp Buddy pennant and a laminated fire-evacuation map.
-
-Leo turned slowly.
+Cabin two-twelve smelled like cold wood, clean sheets and the faint chemical bite of whatever Yoichi had used on the floor. Leo entered first. Stopped. The room was simple. Four bunks. Two on each side. Small dresser. Hooks. One desk near the window. No decorations except an old Camp Buddy pennant and a laminated fire-evacuation map. Leo turned slowly.
 
 “This is where you stayed?”
 
@@ -765,29 +508,15 @@ Taiga looked at the four bunks.
 
 “Okay, sarcasm noted.”
 
-Leo dropped his duffel beside the bunk nearest the window.
-
-Then stopped.
+Leo dropped his duffel beside the bunk nearest the window. Then stopped.
 
 “Is that yours?”
 
-Taiga looked.
-
-Top bunk opposite.
-
-Small carved scratch in one bedpost. Not words. Just three diagonal marks.
-
-Taiga had made them with a pocketknife.
-
-Illegally.
-
-He had been bored.
+Taiga looked. Top bunk opposite. Small carved scratch in one bedpost, not words, just three diagonal marks. Taiga had made them with a pocketknife. Illegally. He had been bored.
 
 “Used to be.”
 
-Leo walked closer.
-
-Looked at the marks.
+Leo walked closer. Looked at the marks.
 
 “You did that.”
 
@@ -807,25 +536,13 @@ Taiga stared.
 
 “That it was mine.”
 
-Leo looked around the otherwise empty cabin.
-
-Then at Taiga.
+Leo looked around the otherwise empty cabin. Then at Taiga.
 
 “That is extremely on brand.”
 
 “Fuck you.”
 
-Leo smiled.
-
-He took the bottom bunk near the window.
-
-Taiga chose the bottom one opposite.
-
-Leo sat.
-
-The mattress creaked.
-
-He bounced once.
+Leo smiled. He took the bottom bunk near the window. Taiga chose the bottom one opposite. Leo sat. The mattress creaked. He bounced once.
 
 “Dangerous.”
 
@@ -839,9 +556,7 @@ He bounced once.
 
 “Last summer.”
 
-Leo lay back dramatically.
-
-The mattress held.
+Leo lay back dramatically. The mattress held.
 
 “Okay. I trust your engineering assessment.”
 
@@ -849,25 +564,7 @@ The mattress held.
 
 “Comfortable idiot.”
 
-Taiga started unpacking.
-
-Work clothes.
-
-Sweatshirt.
-
-Towel.
-
-Charger.
-
-Leo did the same. No awkwardness. Not yet. Just two people in a cabin.
-
-Leo opened the desk drawer.
-
-Found nothing.
-
-Closed it.
-
-Then:
+Taiga started unpacking. Work clothes. Sweatshirt. Towel. Charger. Leo did the same. No awkwardness, not yet, just two people in a cabin. Leo opened the desk drawer. Found nothing and closed it. Then:
 
 “Bathroom?”
 
@@ -875,15 +572,7 @@ Taiga pointed toward the rear door.
 
 “Through there.”
 
-Leo opened it.
-
-Tiled floor.
-
-Wood above the tile.
-
-Several open shower stations along one side with low dividers, plus a couple of closed stalls farther back.
-
-He looked over his shoulder.
+Leo opened it. Tiled floor. Wood above the tile. Several open shower stations along one side with low dividers, plus a couple of closed stalls farther back. He looked over his shoulder.
 
 “Every cabin has this?”
 
@@ -891,23 +580,11 @@ He looked over his shoulder.
 
 “Huh.”
 
-That should have been the end of it.
-
-Instead they looked at each other for half a second too long.
-
-Locker rooms.
-
-Showers.
-
-February.
-
-Leo cleared his throat.
+That should have been the end of it. Instead they looked at each other for half a second too long. Locker rooms. Showers. February. Leo cleared his throat.
 
 “Okay. That's nicer than I expected.”
 
-Taiga threw a folded sock at him.
-
-Leo caught it.
+Taiga threw a folded sock at him. Leo caught it.
 
 “What was that for?”
 
@@ -931,17 +608,13 @@ Leo caught it.
 
 “Camp prince?”
 
-Taiga picked up another sock.
-
-Leo held both hands up.
+Taiga picked up another sock. Leo held both hands up.
 
 “Retired.”
 
 ---
 
-Dinner was stew.
-
-Aiden considered this insufficiently exciting.
+Dinner was stew. Aiden considered this insufficiently exciting.
 
 “This is preseason food,” he announced as Taiga and Leo entered the dining hall. “Hot, filling, and there's enough of it that nobody gets to complain they're hungry later.”
 
@@ -961,25 +634,7 @@ Yoichi pulled his bowl closer.
 
 “Didn't say that.”
 
-Aiden grinned.
-
-Taiga looked around.
-
-Half the dining hall was closed off.
-
-Most tables stacked.
-
-Only three long tables in use.
-
-Goro sat at one end with a folder open beside his plate.
-
-Yoshinori had papers.
-
-Yuri had paint on one sleeve. Normal.
-
-Different season.
-
-Goro looked up.
+Aiden grinned. Taiga looked around. Half the dining hall was closed off. Most tables stacked. Only three long tables in use. Goro sat at one end with a folder open beside his plate. Yoshinori had papers. Yuri had paint on one sleeve. Normal. Different season. Goro looked up.
 
 “Akatora.”
 
@@ -1011,9 +666,7 @@ Leo nodded.
 
 “It is,” Leo said. “I can do serious.”
 
-Taiga looked at him.
-
-Leo caught it.
+Taiga looked at him. Leo caught it.
 
 “Sometimes.”
 
@@ -1037,13 +690,7 @@ Yuri sat beside her father.
 
 “That's exactly what I said.”
 
-Goro returned to his stew.
-
-Taiga took the seat across from Yoichi.
-
-Leo sat beside Taiga.
-
-Lloyd dropped into the seat across from them. Darius sat beside him and immediately moved Lloyd's rolled plans away from the stew.
+Goro returned to his stew. Taiga took the seat across from Yoichi. Leo sat beside Taiga. Lloyd dropped into the seat across from them. Darius sat beside him and immediately moved Lloyd's rolled plans away from the stew.
 
 “Those are not a placemat.”
 
@@ -1051,9 +698,7 @@ Lloyd dropped into the seat across from them. Darius sat beside him and immediat
 
 “They're still plans.”
 
-Leo looked between them.
-
-Lloyd noticed.
+Leo looked between them. Lloyd noticed.
 
 “Important question. Birthday?”
 
@@ -1085,17 +730,7 @@ Leo looked delighted.
 
 “I've known him thirty seconds and I believe you.”
 
-Lloyd looked offended.
-
-Aiden served them.
-
-The stew was good.
-
-Of course.
-
-Leo took one bite.
-
-Looked up.
+Lloyd looked offended. Aiden served them. The stew was good. Of course. Leo took one bite. Looked up.
 
 “Oh.”
 
@@ -1107,11 +742,7 @@ Aiden's face brightened.
 
 “That's what I like to hear, buddy!”
 
-Hiro would have fallen in love instantly.
-
-Taiga ate.
-
-Yuri lasted approximately three minutes before beginning the interrogation she had promised was innocent.
+Hiro would have fallen in love instantly. Taiga ate. Yuri lasted approximately three minutes before beginning the interrogation she had promised was innocent.
 
 “So, Leo, what exactly is House Apollo? Taiga's explanations are usually about six words long.”
 
@@ -1141,13 +772,7 @@ Taiga stopped eating.
 
 “Of course.”
 
-Leo's ears had started turning pink.
-
-Yuri's smile widened.
-
-That made it worse.
-
-She leaned toward him.
+Leo's ears had started turning pink. Yuri's smile widened. That made it worse. She leaned toward him.
 
 “Does he act this defensive at Olympus too?”
 
@@ -1175,13 +800,7 @@ Goro put down his spoon.
 
 “That's part of getting to know him.”
 
-Taiga looked at Leo.
-
-Leo was trying very hard not to laugh.
-
-Wonderful.
-
-Yoichi snorted into his bowl.
+Taiga looked at Leo. Leo was trying very hard not to laugh. Wonderful. Yoichi snorted into his bowl.
 
 “Dynamite's gonna fucking explode before dessert.”
 
@@ -1189,35 +808,7 @@ Yoichi snorted into his bowl.
 
 “Dessert,” Aiden said, as if this were the only important part of the exchange.
 
-Somehow the meal continued.
-
-Goro asked Leo sensible questions about school and soccer.
-
-Yoshinori redirected whenever Yuri became too interested in the social structure of House Apollo.
-
-Yoichi contributed insults.
-
-Aiden contributed bread.
-
-Somehow it worked.
-
-Leo did too.
-
-That was the thing Taiga noticed first. Not that Leo talked.
-
-Leo could talk anywhere.
-
-He adjusted.
-
-With Goro, he answered directly.
-
-With Aiden, he played along.
-
-With Yuri, he learned to recognize danger about half a sentence before Taiga did.
-
-With Yoichi, he learned fast.
-
-Yoichi pointed his spoon at Leo.
+Somehow the meal continued. Goro asked Leo sensible questions about school and soccer. Yoshinori redirected whenever Yuri became too interested in the social structure of House Apollo. Yoichi contributed insults. Aiden contributed bread. Somehow it worked. Leo did too. That was the thing Taiga noticed first, not that Leo talked. Leo could talk anywhere. He adjusted. With Goro, he answered directly. With Aiden, he played along. With Yuri, he learned to recognize danger about half a sentence before Taiga did. With Yoichi, he learned fast. Yoichi pointed his spoon at Leo.
 
 “So, Sunshine. You actually good at soccer, or do you just run around smiling until people give you the ball?”
 
@@ -1251,35 +842,21 @@ Yoichi slapped the table once.
 
 “See?” Yoichi said to Leo. “Now he's emotional.”
 
-Aiden laughed so loudly Goro looked offended on principle.
-
-Later, Yuri rested her chin on one hand.
+Aiden laughed so loudly Goro looked offended on principle. Later, Yuri rested her chin on one hand.
 
 “Leo, has Taiga shown you the dock yet?”
 
-Taiga's spoon stopped.
-
-Very small.
-
-Nobody else noticed.
-
-Leo did.
+Taiga's spoon stopped. Very small. Nobody else noticed. Leo did.
 
 “Not yet.”
 
 “You should go before the week is over. Sunset over the lake is beautiful.”
 
-That sounded normal.
-
-Taiga knew better than to relax.
-
-Yuri smiled.
+That sounded normal. Taiga knew better than to relax. Yuri smiled.
 
 “Very romantic, too.”
 
-Leo looked down at his bowl.
-
-Taiga looked at Yuri.
+Leo looked down at his bowl. Taiga looked at Yuri.
 
 “Why.”
 
@@ -1289,19 +866,13 @@ Taiga looked at Yuri.
 
 “Yes.”
 
-The immediate admission caught him off guard.
-
-Yoichi snorted.
+The immediate admission caught him off guard. Yoichi snorted.
 
 “Dumbass walked straight into that one.”
 
 “Shut up.”
 
-Yuri looked pleased with herself and finally let them eat. Good. No emotional archaeology at dinner.
-
-Camp Buddy contained enough history without every building becoming a lesson.
-
-After dinner, Aiden refused help with dishes.
+Yuri looked pleased with herself and finally let them eat—good. No emotional archaeology at dinner. Camp Buddy contained enough history without every building becoming a lesson. After dinner, Aiden refused help with dishes.
 
 “Nope. You two traveled all afternoon. Go.”
 
@@ -1325,9 +896,7 @@ Yoichi caught it.
 
 “Fuck.”
 
-Taiga stood anyway.
-
-Aiden pointed toward the door.
+Taiga stood anyway. Aiden pointed toward the door.
 
 “Tomorrow you can work until you regret volunteering. Tonight, show Leo around before it gets dark.”
 
@@ -1343,13 +912,7 @@ She kept walking.
 
 “What? He came all this way!”
 
-Leo covered his mouth.
-
-Taiga hated spring break.
-
-Leo looked at Taiga.
-
-Taiga looked outside. Still some light. Fine.
+Leo covered his mouth. Taiga hated spring break. Leo looked at Taiga. Taiga looked outside. Still some light. Fine.
 
 “Come on.”
 
@@ -1357,15 +920,7 @@ Leo stood immediately.
 
 ---
 
-Camp after dinner was nearly silent. No campers. No music. No shouting from the field.
-
-No somebody dropping a canoe paddle where they should not. Just wind.
-
-Water.
-
-Footsteps on damp ground.
-
-Leo walked beside Taiga with his hands in his jacket pockets.
+Camp after dinner was nearly silent. There was no campers, no music, and no shouting from the field. No somebody dropping a canoe paddle where they should not, just wind. Water. Footsteps on damp ground. Leo walked beside Taiga with his hands in his jacket pockets.
 
 “It's weird.”
 
@@ -1383,13 +938,7 @@ Taiga looked over.
 
 “I have a folder.”
 
-Taiga stopped.
-
-Leo kept walking.
-
-Then noticed.
-
-Turned.
+Taiga stopped. Leo kept walking. Then noticed. Turned.
 
 “What?”
 
@@ -1403,9 +952,7 @@ Turned.
 
 “What is it called?”
 
-Leo hesitated.
-
-Taiga's eyes narrowed.
+Leo hesitated. Taiga's eyes narrowed.
 
 “Leo.”
 
@@ -1419,19 +966,13 @@ Taiga's eyes narrowed.
 
 “No.”
 
-Taiga started toward him.
-
-Leo backed away.
+Taiga started toward him. Leo backed away.
 
 “Privacy!”
 
 “You brought this on yourself.”
 
-Leo laughed and jogged two steps away.
-
-Taiga did not chase him. Mostly because the ground was mud.
-
-Also dignity.
+Leo laughed and jogged two steps away. Taiga did not chase him. Mostly because the ground was mud. Also dignity.
 
 “Coward.”
 
@@ -1439,11 +980,7 @@ Also dignity.
 
 “Incorrect use.”
 
-Leo came back. Still smiling.
-
-They followed the path toward the lake.
-
-Taiga pointed as they went.
+Leo came back. Still smiling. They followed the path toward the lake. Taiga pointed as they went.
 
 “Craft lodge.”
 
@@ -1465,27 +1002,11 @@ Taiga pointed as they went.
 
 “SportsFest?”
 
-Taiga looked at it.
-
-Empty grass.
-
-Wet.
-
-Brown in places.
+Taiga looked at it. Empty grass. Wet. Brown in places.
 
 “Yeah.”
 
-Leo did not ask more.
-
-They kept walking.
-
-Water appeared through the trees.
-
-The dock was partially roped off.
-
-Two boards near the entrance had been marked with bright tape.
-
-Leo stopped near the shore.
+Leo did not ask more. They kept walking. Water appeared through the trees. The dock was partially roped off. Two boards near the entrance had been marked with bright tape. Leo stopped near the shore.
 
 “Inspection?”
 
@@ -1499,11 +1020,7 @@ Taiga looked at the boards.
 
 “Edges are soft.”
 
-Leo crouched.
-
-Pressed one with his boot.
-
-It flexed slightly.
+Leo crouched and pressed one with his boot. It flexed slightly.
 
 “Yeah.”
 
@@ -1521,15 +1038,7 @@ Leo stepped back.
 
 “Message received.”
 
-The dock extended into dark water.
-
-Taiga did not walk onto it. Not tonight.
-
-Leo did not suggest it.
-
-They stood at the shore instead. Cold air moved off the lake.
-
-Leo looked toward the opposite ridge.
+The dock extended into dark water. Taiga did not walk onto it, not tonight. Leo did not suggest it. They stood at the shore instead. Cold air moved off the lake. Leo looked toward the opposite ridge.
 
 “So this is the lake.”
 
@@ -1537,25 +1046,11 @@ Leo looked toward the opposite ridge.
 
 “You know what I mean.”
 
-Taiga did.
-
-The lake.
-
-The one in stories.
-
-Photos.
-
-Journal.
-
-Dock.
-
-Everything.
+Taiga did. The lake. The one in stories. Photos. Journal. Dock. Everything.
 
 “Yeah.”
 
-Leo stood quietly. Not solemn. Just taking it in.
-
-Then he said:
+Leo stood quietly, not solemn, just taking it in. Then he said:
 
 “I thought it would be smaller.”
 
@@ -1587,23 +1082,11 @@ Taiga snorted.
 
 “Coward.”
 
-Taiga shoved his shoulder.
-
-Leo laughed.
-
-They turned back before full dark.
+Taiga shoved his shoulder. Leo laughed. They turned back before full dark.
 
 ---
 
-Saturday started at six-forty-five when somebody banged on the cabin door.
-
-Taiga woke instantly.
-
-Leo made a sound like death.
-
-The banging repeated.
-
-Yoichi shouted:
+Saturday started at six-forty-five when somebody banged on the cabin door. Taiga woke instantly. Leo made a sound like death. The banging repeated. Yoichi shouted:
 
 “Wake up, assholes!”
 
@@ -1625,17 +1108,7 @@ Yoichi heard.
 
 “Good! More eggs!”
 
-Footsteps disappeared.
-
-Taiga sat up. Cold.
-
-Cabin air.
-
-Pale morning through the window.
-
-Across from him, Leo had pulled the blanket over his head.
-
-Taiga stared.
+Footsteps disappeared. Taiga sat up. Cold. Cabin air. Pale morning through the window. Across from him, Leo had pulled the blanket over his head. Taiga stared.
 
 “Soccer player.”
 
@@ -1651,23 +1124,7 @@ Blanket moved.
 
 “He shouldn't.”
 
-Taiga got dressed.
-
-Thermal shirt.
-
-Work pants.
-
-Sweatshirt.
-
-Leo eventually emerged.
-
-Hair destroyed.
-
-Completely.
-
-Taiga looked.
-
-Leo squinted.
+Taiga got dressed. Thermal shirt. Work pants. Sweatshirt. Leo eventually emerged. Hair destroyed. Completely. Taiga looked. Leo squinted.
 
 “What.”
 
@@ -1679,9 +1136,7 @@ Leo squinted.
 
 “You do.”
 
-Taiga turned away.
-
-Leo reached for his phone.
+Taiga turned away. Leo reached for his phone.
 
 “No pictures.”
 
@@ -1699,11 +1154,7 @@ Leo pointed at him.
 
 “Oppression.”
 
-Seven minutes later they walked to breakfast.
-
-Leo's hair had not improved.
-
-Yuri saw him.
+Seven minutes later they walked to breakfast. Leo's hair had not improved. Yuri saw him.
 
 “Oh my.”
 
@@ -1715,9 +1166,7 @@ Leo closed his eyes.
 
 “Thank you.”
 
-Taiga laughed.
-
-Leo looked at him.
+Taiga laughed. Leo looked at him.
 
 “You're enjoying this too much.”
 
@@ -1727,22 +1176,11 @@ Yuri immediately turned.
 
 “Taiga, yours is hardly better.”
 
-Taiga stopped laughing.
-
-Leo did not.
-
-Justice.
-
-
-Yoshinori ran preseason breakfast like a briefing. Not intentionally. Probably.
-
-But the clipboard existed.
+Taiga stopped laughing. Leo did not. Justice. Yoshinori ran preseason breakfast like a briefing, not intentionally—probably. But the clipboard existed.
 
 “Good morning, everyone.”
 
-Yoichi groaned into coffee.
-
-Yoshinori ignored him.
+Yoichi groaned into coffee. Yoshinori ignored him.
 
 “Today we will focus on the west cabin row and lower trail. The weather should remain dry until late afternoon, so I would like the exterior work completed first.”
 
@@ -1766,11 +1204,7 @@ Yoshinori continued.
 
 “Yoichi, take the chainsaw crew to the lower trail.”
 
-Leo blinked.
-
-Taiga saw it.
-
-Yoichi grinned.
+Leo blinked. Taiga saw it. Yoichi grinned.
 
 “Scared, Sunshine?”
 
@@ -1796,19 +1230,11 @@ Yoshinori nodded.
 
 “Perfect,” Yuri said.
 
-Taiga looked at her.
-
-One normal word.
-
-Suspicious.
-
-Yuri smiled.
+Taiga looked at her. One normal word. Suspicious. Yuri smiled.
 
 “You two can have the cabins all to yourselves.”
 
-Leo lowered his coffee very carefully.
-
-Taiga stared at her.
+Leo lowered his coffee very carefully. Taiga stared at her.
 
 “For inspections.”
 
@@ -1824,9 +1250,7 @@ Yoichi snorted across the table.
 
 “Fuck you.”
 
-Leo covered his face with one hand.
-
-Yuri laughed.
+Leo covered his face with one hand. Yuri laughed.
 
 “Alright, alright. When you're done, come find me. I have the inventory labels ready.”
 
@@ -1850,17 +1274,13 @@ Yoshinori closed the clipboard.
 
 “Any questions?”
 
-Leo raised one hand.
-
-Yoshinori looked surprised.
+Leo raised one hand. Yoshinori looked surprised.
 
 “Yes?”
 
 “What counts as moisture?”
 
-Taiga looked at him.
-
-Leo shrugged.
+Taiga looked at him. Leo shrugged.
 
 “You said check.”
 
@@ -1872,9 +1292,7 @@ Leo nodded.
 
 “Got it.”
 
-Taiga looked at him.
-
-Leo caught it.
+Taiga looked at him. Leo caught it.
 
 “What?”
 
@@ -1906,45 +1324,11 @@ Yoshinori looked at him.
 
 “Good. That will be all. Dismissed.”
 
-Taiga smiled into his coffee.
-
-Yoshinori saw.
-
-Said nothing. Good.
+Taiga smiled into his coffee. Yoshinori saw. Said nothing—good.
 
 ---
 
-Cabin work was simple.
-
-Which was exactly why Taiga liked it.
-
-Open shutters.
-
-Check hinges.
-
-Lift mattresses.
-
-Inspect frames.
-
-Air rooms.
-
-Test windows.
-
-Write problems.
-
-Move on. No grading rubric. No professor.
-
-No coach deciding whether execution had been fast enough.
-
-Broken or not broken.
-
-Wet or dry.
-
-Loose or tight.
-
-Useful categories.
-
-Darius moved through the first cabin with them and mostly let Taiga work. He checked the notes, tested one hinge after Taiga tightened it, then handed Leo a moisture meter.
+Cabin work was simple. Which was exactly why Taiga liked it. Open shutters. Check hinges. Lift mattresses. Inspect frames. Air rooms. Test windows. Write problems. Move on. There was no grading rubric or professor. No coach deciding whether execution had been fast enough. Broken or not broken. Wet or dry. Loose or tight. Useful categories. Darius moved through the first cabin with them and mostly let Taiga work. He checked the notes, tested one hinge after Taiga tightened it, then handed Leo a moisture meter.
 
 “Green is good. Yellow, write it down. Red, come get one of us.”
 
@@ -1966,33 +1350,15 @@ Taiga waited.
 
 “That was praise.”
 
-Leo laughed.
-
-By the third cabin they had a rhythm.
-
-Taiga checked windows and frames.
-
-Leo moved mattresses, checked underneath, opened vents.
-
-Then they swapped.
-
-At two-oh-eight, Leo called:
+Leo laughed. By the third cabin they had a rhythm. Taiga checked windows and frames. Leo moved mattresses, checked underneath, opened vents. Then they swapped. At two-oh-eight, Leo called:
 
 “Taiga.”
 
-Taiga looked over.
-
-Leo pressed one finger into the bottom corner of a window frame.
-
-Wood gave slightly.
+Taiga looked over. Leo pressed one finger into the bottom corner of a window frame. Wood gave slightly.
 
 “Bad?”
 
-Taiga crossed the room.
-
-Pressed beside it.
-
-Soft.
+Taiga crossed the room and pressed beside it. Soft.
 
 “Yeah.”
 
@@ -2000,9 +1366,7 @@ Soft.
 
 “Probably seal.”
 
-Leo leaned closer until their shoulders touched.
-
-Taiga traced the edge.
+Leo leaned closer until their shoulders touched. Taiga traced the edge.
 
 “Here.”
 
@@ -2038,31 +1402,15 @@ Darius looked between them.
 
 “I heard.”
 
-Leo nodded.
-
-They both looked at the same damaged corner.
-
-Leo's arm rested against Taiga's.
-
-Taiga stepped back first.
+Leo nodded. They both looked at the same damaged corner. Leo's arm rested against Taiga's. Taiga stepped back first.
 
 “Mark it.”
 
-Leo looked at him.
-
-Then nodded.
+Leo looked at him. Then nodded.
 
 “Yep.”
 
-They finished two-oh-eight.
-
-At two-ten, they found a dead mouse behind a dresser.
-
-Leo stared.
-
-Taiga stared.
-
-Leo said:
+They finished two-oh-eight. At two-ten, they found a dead mouse behind a dresser. Leo stared. Taiga stared. Leo said:
 
 “Preseason.”
 
@@ -2084,12 +1432,7 @@ Taiga laughed.
 
 “That does not help.”
 
-He disposed of it anyway. No complaint after that. Mostly.
-
-
-By ten-thirty Leo had dirt on his knees and a streak of dust across one cheek.
-
-Leo sat on the cabin steps drinking water.
+He disposed of it anyway. No complaint after that—mostly. By ten-thirty Leo had dirt on his knees and a streak of dust across one cheek. Leo sat on the cabin steps drinking water.
 
 “Okay.”
 
@@ -2123,27 +1466,11 @@ Taiga smiled.
 
 “Don't give them ideas.”
 
-Taiga sat on the step beside him.
-
-Mud on boots. Cold sun through trees.
-
-Yuki appeared from nowhere.
-
-Of course.
-
-She shoved her head between them.
-
-Leo nearly spilled water.
+Taiga sat on the step beside him. Mud on boots. Cold sun through trees. Yuki appeared from nowhere. Of course. She shoved her head between them. Leo nearly spilled water.
 
 “Hello to you too.”
 
-Taiga scratched behind one ear.
-
-Yuki leaned toward Leo instead.
-
-Traitor.
-
-Leo rubbed her neck.
+Taiga scratched behind one ear. Yuki leaned toward Leo instead. Traitor. Leo rubbed her neck.
 
 “You really do just live here, huh?”
 
@@ -2165,11 +1492,7 @@ Leo looked toward the lodge.
 
 “You're different here.”
 
-Taiga's shoulders tightened a little.
-
-Leo's next sentence came lighter.
-
-He added:
+Taiga's shoulders tightened a little. Leo's next sentence came lighter. He added:
 
 “Less likely to argue with a window.”
 
@@ -2181,27 +1504,11 @@ He added:
 
 “Strong evidence.”
 
-Yuki put one paw on Leo's boot.
-
-Leo looked down.
-
-Taiga looked at him.
-
-Something quiet settled. Not dangerous. Just good.
-
-Then Yoichi shouted from the path:
+Yuki put one paw on Leo's boot. Leo looked down. Taiga looked at him. Something quiet settled, not dangerous, just good. Then Yoichi shouted from the path:
 
 “DYNAMITE!”
 
-Taiga closed his eyes.
-
-Peace over.
-
-Yoichi appeared carrying a coil of rope and wearing sawdust in his hair.
-
-He looked at them on the step.
-
-Then at Yuki.
+Taiga closed his eyes. Peace over. Yoichi appeared carrying a coil of rope and wearing sawdust in his hair. He looked at them on the step. Then at Yuki.
 
 “Lazy assholes.”
 
@@ -2229,9 +1536,7 @@ Taiga stood.
 
 “Normal.”
 
-Leo stood too.
-
-Yoichi looked at him.
+Leo stood too. Yoichi looked at him.
 
 “You know how to use a bow saw?”
 
@@ -2247,11 +1552,7 @@ Yoichi narrowed his eyes.
 
 “Show me.”
 
-Yoichi stared for another second.
-
-Then tossed him work gloves.
-
-Leo caught them.
+Yoichi stared for another second. Then tossed him work gloves. Leo caught them.
 
 “Fine. Don't cut your fingers off. Crazy Lady hates paperwork.”
 
@@ -2259,31 +1560,15 @@ From somewhere uphill, Yuri shouted:
 
 “I HEARD THAT!”
 
-Yoichi did not react.
-
-Leo looked delighted.
-
-Taiga followed them.
+Yoichi did not react. Leo looked delighted. Taiga followed them.
 
 ---
 
-The lower trail was worse than Yoshinori had described.
-
-Mud.
-
-Branches.
-
-One fallen pine across the drainage channel.
-
-Yoichi had already cut most of the smaller limbs.
-
-He pointed.
+The lower trail was worse than Yoshinori had described. Mud. Branches. One fallen pine across the drainage channel. Yoichi had already cut most of the smaller limbs. He pointed.
 
 “Need that section off before we move the trunk.”
 
-Leo crouched.
-
-Looked.
+Leo crouched. Looked.
 
 “Where do you want the cut?”
 
@@ -2291,11 +1576,7 @@ Yoichi pointed.
 
 “Here. Not there. Weight's holding on this side.”
 
-Leo nodded. No macho bullshit. No pretending.
-
-He listened. Good.
-
-Yoichi watched him set his stance.
+Leo nodded. There was no macho bullshit or pretending. He listened—good. Yoichi watched him set his stance.
 
 “Psh. At least Sunshine knows how to listen.”
 
@@ -2309,9 +1590,7 @@ Leo looked over.
 
 “Lame.”
 
-Taiga took the second saw.
-
-Yoichi stopped him.
+Taiga took the second saw. Yoichi stopped him.
 
 “Not both, Dynamite.”
 
@@ -2321,57 +1600,15 @@ Yoichi stopped him.
 
 “Other side.”
 
-Yoichi looked.
-
-Taiga pointed toward a smaller branch binding the trunk.
-
-Yoichi clicked his tongue.
+Yoichi looked. Taiga pointed toward a smaller branch binding the trunk. Yoichi clicked his tongue.
 
 “Fine. Don't fuck up my cut.”
 
-Work.
-
-Real work.
-
-Saw teeth.
-
-Wet wood.
-
-Boots sinking.
-
-Leo complained exactly twice.
-
-Once about mud inside his sock.
-
-Once about Yoichi's definition of “small branch.”
-
-Both reasonable.
-
-At one point the cut shifted unexpectedly.
-
-Yoichi shouted:
+Work. Real work. Saw teeth. Wet wood. Boots sinking. Leo complained exactly twice. Once about mud inside his sock. Once about Yoichi's definition of “small branch.” Both reasonable. At one point the cut shifted unexpectedly. Yoichi shouted:
 
 “Back!”
 
-Taiga moved.
-
-Leo did too.
-
-The branch dropped.
-
-Leo looked at Taiga.
-
-Taiga looked back.
-
-Then both laughed.
-
-Adrenaline.
-
-Nothing romantic. Probably.
-
-Yoichi looked from Taiga to Leo.
-
-His eyes narrowed.
+Taiga moved. Leo did too. The branch dropped. Leo looked at Taiga. Taiga looked back. Then both laughed. Adrenaline. Nothing romantic—probably. Yoichi looked from Taiga to Leo. His eyes narrowed.
 
 “Psh.”
 
@@ -2395,17 +1632,7 @@ Leo wiped mud from his sleeve.
 
 ---
 
-Lunch was sandwiches.
-
-Aiden had lied about soup.
-
-Or changed his mind. Normal.
-
-Leo ate two sandwiches.
-
-Then reached for a third.
-
-Aiden caught him.
+Lunch was sandwiches. Aiden had lied about soup. Or changed his mind. Normal. Leo ate two sandwiches. Then reached for a third. Aiden caught him.
 
 “There we go. You boys work all morning, you eat.”
 
@@ -2443,17 +1670,13 @@ Aiden looked at him.
 
 “Of course.”
 
-Leo took a bite.
-
-Then looked toward the kitchen.
+Leo took a bite. Then looked toward the kitchen.
 
 “So you're the one who does most of the cooking?”
 
 “Me and whoever I can drag in to help. During summer, everybody gets involved sooner or later.”
 
-Taiga knew exactly where Aiden's mind could go from there.
-
-He cut in.
+Taiga knew exactly where Aiden's mind could go from there. He cut in.
 
 “Don't recruit him yet.”
 
@@ -2481,17 +1704,11 @@ Leo smiled.
 
 “Yeah, because you actually do them.”
 
-Leo smiled into his food.
-
-Yoichi glanced at Taiga.
+Leo smiled into his food. Yoichi glanced at Taiga.
 
 “Tch,” he said, and went back to eating.
 
-Taiga did the same.
-
-Lloyd and Darius joined them halfway through.
-
-Lloyd had somehow acquired sawdust in his hair despite spending most of the morning with drawings.
+Taiga did the same. Lloyd and Darius joined them halfway through. Lloyd had somehow acquired sawdust in his hair despite spending most of the morning with drawings.
 
 “Lower drainage is officially less ugly than it was yesterday.”
 
@@ -2509,43 +1726,11 @@ Darius took a sandwich.
 
 “That part is true.”
 
-Yuri joined them a minute later.
-
-She had labels.
-
-Many labels.
-
-Taiga's afternoon became clear.
+Yuri joined them a minute later. She had labels. Many labels. Taiga's afternoon became clear.
 
 ---
 
-Equipment inventory occupied three hours.
-
-Balls.
-
-Paddles.
-
-Life jackets.
-
-Lanterns.
-
-First-aid cases.
-
-Craft supplies.
-
-Ropes.
-
-Harnesses.
-
-Boxes with labels older than some campers.
-
-Yuri had created a color system.
-
-It actually worked.
-
-Taiga hated that.
-
-Leo loved it.
+Equipment inventory occupied three hours. Balls. Paddles. Life jackets. Lanterns. First-aid cases. Craft supplies. Ropes. Harnesses. Boxes with labels older than some campers. Yuri had created a color system. It actually worked. Taiga hated that. Leo loved it.
 
 “Blue means inspected?”
 
@@ -2583,21 +1768,7 @@ Yoshinori looked up.
 
 “I know.”
 
-Leo was immediately recruited.
-
-Traitor.
-
-They worked through shelves.
-
-Taiga checked quantities.
-
-Leo tested lanterns.
-
-Yuri inspected fabrics and anything remotely artistic.
-
-At one point Leo found a box of old friendship-bracelet thread.
-
-He lifted a handful.
+Leo was immediately recruited. Traitor. They worked through shelves. Taiga checked quantities. Leo tested lanterns. Yuri inspected fabrics and anything remotely artistic. At one point Leo found a box of old friendship-bracelet thread. He lifted a handful.
 
 “This feels dangerous.”
 
@@ -2605,13 +1776,7 @@ Taiga looked over.
 
 “Put it back.”
 
-Yuri saw the colors in his hand.
-
-Then looked at Taiga's hair.
-
-Then Leo's.
-
-Her expression transformed.
+Yuri saw the colors in his hand. Then looked at Taiga's hair. Then Leo's. Her expression transformed.
 
 “Kyaa~! Red and gold!”
 
@@ -2621,11 +1786,7 @@ Her expression transformed.
 
 “You don't have to.”
 
-Leo looked down at the thread and understood.
-
-His ears turned pink.
-
-Yuri held the two colors together.
+Leo looked down at the thread and understood. His ears turned pink. Yuri held the two colors together.
 
 “Come on. You have to admit they'd make a cute pair.”
 
@@ -2649,38 +1810,7 @@ Yuri turned toward the door.
 
 “KEEP IT THAT WAY!”
 
-Leo sat down on an equipment crate, laughing.
-
-Taiga looked at the ceiling.
-
-Camp Buddy had survived worse things than Yuri. Probably.
-
-Taiga looked at him.
-
-At the dust on his sleeve.
-
-Hair flattened from a cap he had worn on the trail.
-
-Hands dirty despite gloves.
-
-Comfortable. Not performing. Not visitor-polite anymore. Just there.
-
-Something inside Taiga went quiet.
-
-Leo fit.
-
-That was the problem. No. Not problem.
-
-Taiga was trying to stop doing that.
-
-Leo fit.
-
-Full stop.
-
-
-By five, everyone looked tired. Good tired.
-
-Yoshinori called it.
+Leo sat down on an equipment crate, laughing. Taiga looked at the ceiling. Camp Buddy had survived worse things than Yuri—probably. Taiga looked at him. At the dust on his sleeve. Hair flattened from a cap he had worn on the trail. Hands dirty despite gloves. Comfortable, not performing, not visitor-polite anymore, just there. Something inside Taiga went quiet. Leo fit. That was the problem. No, not problem. Taiga was trying to stop doing that. Leo fit. Full stop. By five, everyone looked tired. Good tired. Yoshinori called it.
 
 “No additional tasks today.”
 
@@ -2690,33 +1820,11 @@ Yoichi said:
 
 “No.”
 
-Yoichi stared.
-
-Yoshinori stared back.
-
-Yoichi clicked his tongue.
+Yoichi stared. Yoshinori stared back. Yoichi clicked his tongue.
 
 “Fine.”
 
-Taiga almost laughed. Apparently Yoshinori had learned.
-
-Aiden started dinner.
-
-Goro disappeared into the office.
-
-Yuri took inventory sheets.
-
-Yoichi left with Yuki to check something near the animal enclosure.
-
-Taiga and Leo walked back to the cabin.
-
-Slowly.
-
-Neither spoke for a while.
-
-Their boots were destroyed.
-
-Leo looked down.
+Taiga almost laughed. Apparently Yoshinori had learned. Aiden started dinner. Goro disappeared into the office. Yuri took inventory sheets. Yoichi left with Yuki to check something near the animal enclosure. Taiga and Leo walked back to the cabin. Slowly. Neither spoke for a while. Their boots were destroyed. Leo looked down.
 
 “Tribute jeans survived.”
 
@@ -2728,15 +1836,7 @@ Leo looked down.
 
 “Same thing.”
 
-Taiga opened the cabin.
-
-Warm enough inside.
-
-Leo dropped his gloves on the desk.
-
-Then his jacket.
-
-Then sat on the edge of the bed and fell backward.
+Taiga opened the cabin. Warm enough inside. Leo dropped his gloves on the desk. Then his jacket. Then sat on the edge of the bed and fell backward.
 
 “Dead.”
 
@@ -2748,11 +1848,7 @@ Then sat on the edge of the bed and fell backward.
 
 “So do you.”
 
-Taiga smelled his sleeve.
-
-Fair.
-
-Leo turned his head toward him.
+Taiga smelled his sleeve. Fair. Leo turned his head toward him.
 
 “Good day.”
 
@@ -2760,37 +1856,13 @@ Taiga looked at him.
 
 “Yeah.”
 
-Simple.
-
-True.
-
-Leo smiled. Not bright.
-
-Tired.
-
-Real.
+Simple. True. Leo smiled, not bright. Tired. Real.
 
 “Good.”
 
 ---
 
-The cabin bathroom filled with steam quickly.
-
-The shower stations were open enough that privacy depended mostly on not looking.
-
-Taiga chose one at the far end.
-
-Leo chose another with an empty station between them.
-
-Water.
-
-Hot.
-
-Perfect.
-
-Taiga stood under it until the trail stopped existing on his skin.
-
-Leo said from across the wash area:
+The cabin bathroom filled with steam quickly. The shower stations were open enough that privacy depended mostly on not looking. Taiga chose one at the far end. Leo chose another with an empty station between them. Water. Hot. Perfect. Taiga stood under it until the trail stopped existing on his skin. Leo said from across the wash area:
 
 “I have a question.”
 
@@ -2806,9 +1878,7 @@ Leo looked at them.
 
 “That makes sense.”
 
-Taiga waited.
-
-Leo added:
+Taiga waited. Leo added:
 
 “I was hoping it was something stranger.”
 
@@ -2816,35 +1886,11 @@ Leo added:
 
 “I'll recover.”
 
-Taiga laughed.
-
-Leo laughed.
-
-Water filled the silence.
-
-Taiga looked at the frosted divider.
-
-He could see Leo's shape reaching up to rinse his hair.
-
-Warmth flickered low in Taiga's stomach.
-
-He looked away.
+Taiga laughed. Leo laughed. Water filled the silence. Taiga looked at the frosted divider. He could see Leo's shape reaching up to rinse his hair. Warmth flickered low in Taiga's stomach. He looked away.
 
 ---
 
-Dinner was quieter because everyone was tired.
-
-Afterward, Leo slipped outside alone with his water bottle. Taiga noticed because he was one of the few people who knew Leo sometimes needed five minutes of silence after a full day of people. He did not follow and did not mention it to anyone.
-
-Leo came back a few minutes later with his shoulders looser and resumed the evening as if he had only stepped out for air.
-
-Aiden's soup finally appeared.
-
-It was excellent.
-
-Yoichi claimed otherwise while eating two bowls.
-
-Leo caught him.
+Dinner was quieter because everyone was tired. Afterward, Leo slipped outside alone with his water bottle. Taiga noticed because he was one of the few people who knew Leo sometimes needed five minutes of silence after a full day of people. He did not follow and did not mention it to anyone. Leo came back a few minutes later with his shoulders looser and resumed the evening as if he had only stepped out for air. Aiden's soup finally appeared. It was excellent. Yoichi claimed otherwise while eating two bowls. Leo caught him.
 
 “You said it was bad.”
 
@@ -2856,9 +1902,7 @@ Leo caught him.
 
 “Evidence.”
 
-Taiga watched them argue.
-
-Yuri leaned toward him.
+Taiga watched them argue. Yuri leaned toward him.
 
 “They like each other.”
 
@@ -2866,43 +1910,11 @@ Taiga kept eating.
 
 “Unfortunately.”
 
-She smiled. No comment.
-
-Thank God.
-
-After dinner, Goro announced tomorrow's priorities in enough detail to make Yoshinori look casual.
-
-Dock inspection.
-
-Kitchen inventory.
-
-Trail drainage.
-
-Main lodge windows.
-
-Taiga listened.
-
-Leo did too. Not pretending. Actually interested.
-
-That warmed something again.
-
-Annoying.
+She smiled. No comment. Thank God. After dinner, Goro announced tomorrow's priorities in enough detail to make Yoshinori look casual. Dock inspection. Kitchen inventory. Trail drainage. Main lodge windows. Taiga listened. Leo did too, not pretending. Actually interested. That warmed something again. Annoying.
 
 ---
 
-Back in the cabin, Leo sat on the floor with his back against the bunk.
-
-Taiga was on his bed.
-
-Both in sweatpants.
-
-Socks. No shoes.
-
-Leo had his phone plugged into the wall.
-
-One bar of Wi-Fi.
-
-He looked at it.
+Back in the cabin, Leo sat on the floor with his back against the bunk. Taiga was on his bed. Both in sweatpants. Socks. No shoes. Leo had his phone plugged into the wall. One bar of Wi-Fi. He looked at it.
 
 “Yoshinori undersold the internet.”
 
@@ -2924,27 +1936,13 @@ Taiga stared.
 
 “I told him that.”
 
-Leo looked at his screen.
-
-Then laughed.
+Leo looked at his screen. Then laughed.
 
 “What?”
 
 “He says she has leadership energy.”
 
-Taiga snorted.
-
-Leo put the phone face down on the floor.
-
-For once, no more messages.
-
-The cabin creaked.
-
-Wind outside.
-
-Somewhere farther away, a door closed.
-
-Leo looked toward the window.
+Taiga snorted. Leo put the phone face down on the floor. For once, no more messages. The cabin creaked. Wind outside. Somewhere farther away, a door closed. Leo looked toward the window.
 
 “You know what's weird?”
 
@@ -2952,9 +1950,7 @@ Leo looked toward the window.
 
 “I'm serious.”
 
-Taiga waited.
-
-Leo rested his head against the bedframe.
+Taiga waited. Leo rested his head against the bedframe.
 
 “I get it now.”
 
@@ -2964,9 +1960,7 @@ Taiga frowned.
 
 “Why you miss it.”
 
-Taiga looked at him.
-
-Leo continued.
+Taiga looked at him. Leo continued.
 
 “Not the dramatic parts.”
 
@@ -2982,23 +1976,15 @@ He gestured around.
 
 “Right. Analog spreadsheet.”
 
-Taiga smiled.
-
-Leo looked at him.
+Taiga smiled. Leo looked at him.
 
 “And you don't have to explain yourself every five minutes.”
 
-That hit closer.
-
-Taiga looked down.
-
-Leo continued before it became too serious.
+That hit closer. Taiga looked down. Leo continued before it became too serious.
 
 “Mostly because they already know all your worst material.”
 
-Taiga threw a pillow.
-
-Leo caught it against his chest.
+Taiga threw a pillow. Leo caught it against his chest.
 
 “See? Home.”
 
@@ -3014,33 +2000,7 @@ Leo caught it against his chest.
 
 “This one has history.”
 
-Taiga stood.
-
-Leo scrambled up.
-
-Too slow.
-
-Taiga grabbed the pillow.
-
-Leo held on.
-
-For one second, stupid tug-of-war.
-
-Then Leo lost balance and stepped into him.
-
-Taiga caught his forearm.
-
-Leo planted a hand at Taiga's waist long enough to steady himself.
-
-They straightened.
-
-Taiga's eyes caught on Leo's mouth while he was still smiling from the struggle.
-
-Leo's smile shifted.
-
-Taiga dropped the pillow onto his own bed.
-
-Leo exhaled through a quiet laugh.
+Taiga stood. Leo scrambled up. Too slow. Taiga grabbed the pillow. Leo held on. For one second, stupid tug-of-war. Then Leo lost balance and stepped into him. Taiga caught his forearm. Leo planted a hand at Taiga's waist long enough to steady himself. They straightened. Taiga's eyes caught on Leo's mouth while he was still smiling from the struggle. Leo's smile shifted. Taiga dropped the pillow onto his own bed. Leo exhaled through a quiet laugh.
 
 “Okay.”
 
@@ -3062,65 +2022,21 @@ Leo bent, picked up the pillow and handed it over. Their fingers brushed.
 
 “Mutual responsibility.”
 
-Taiga took the pillow and sat back down.
-
-Leo returned to the floor.
-
-After a minute, Leo said:
+Taiga took the pillow and sat back down. Leo returned to the floor. After a minute, Leo said:
 
 “Still a good day.”
 
-Taiga looked at him.
-
-Leo looked back.
-
-Taiga nodded.
+Taiga looked at him. Leo looked back. Taiga nodded.
 
 “Yeah.”
 
 ---
 
-By eleven, exhaustion had won.
-
-Taiga lay facing the wall.
-
-Across the cabin, Leo shifted under the blankets.
-
-The day replayed anyway.
-
-Yuki choosing Leo.
-
-Yoichi calling him Sunshine.
-
-Aiden feeding him.
-
-Yuri recruiting him.
-
-Leo asking real questions during breakfast.
-
-Leo on the trail.
-
-Leo covered in dirt.
-
-Leo understanding the work.
-
-Leo saying:
+By eleven, exhaustion had won. Taiga lay facing the wall. Across the cabin, Leo shifted under the blankets. The day replayed anyway. Yuki choosing Leo. Yoichi calling him Sunshine. Aiden feeding him. Yuri recruiting him. Leo asking real questions during breakfast. Leo on the trail. Leo covered in dirt. Leo understanding the work. Leo saying:
 
 *I get it now.*
 
-Then:
-
-Hand at Taiga's waist.
-
-Eyes.
-
-Mouth.
-
-Fuck.
-
-Taiga closed his eyes harder.
-
-From across the room:
+Then: Hand at Taiga's waist. Eyes. Mouth. Fuck. Taiga closed his eyes harder. From across the room:
 
 “You awake?”
 
@@ -3134,11 +2050,7 @@ Taiga opened them.
 
 “Forty-one.”
 
-Taiga stared at the dark.
-
-Leo laughed quietly at his own joke.
-
-Idiot.
+Taiga stared at the dark. Leo laughed quietly at his own joke. Idiot.
 
 “What?”
 
@@ -3146,40 +2058,12 @@ A pause.
 
 “Thanks for bringing me.”
 
-Taiga looked toward the other bed.
-
-Could barely see Leo's outline.
-
-He could say *yeah.*
-
-He could say *whatever.*
-
-Instead:
+Taiga looked toward the other bed. Could barely see Leo's outline. He could say *yeah.* He could say *whatever.* Instead:
 
 “I'm glad you came.”
 
-Silence.
-
-Too late.
-
-Words existed.
-
-Taiga's face heated even in darkness.
-
-Leo did not joke.
-
-Did not turn it into anything.
-
-He just said:
+Silence. Too late. Words existed. Taiga's face heated even in darkness. Leo did not joke. Did not turn it into anything. He just said:
 
 “Me too.”
 
-Taiga stared at the ceiling.
-
-Outside, wind moved through the pines.
-
-Somewhere near the cabin, Yuki barked once.
-
-Camp Buddy settled around them.
-
-For once, nothing needed fixing.
+Taiga stared at the ceiling. Outside, wind moved through the pines. Somewhere near the cabin, Yuki barked once. Camp Buddy settled around them. For once, nothing needed fixing.

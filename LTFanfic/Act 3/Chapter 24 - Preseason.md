@@ -1,56 +1,8 @@
-By the second week of March, winter had stopped being pretty.
-
-Snow survived only in gray ridges along curbs and under trees where sunlight never reached properly.
-
-The paths around Olympus were wet more often than frozen.
-
-Everybody's shoes carried mud.
-
-The sky had spent four consecutive days the color of printer paper.
-
-Spring was apparently coming.
-
-It was taking its time.
-
-Taiga did not mind.
-
-The last few weeks had settled into a rhythm.
-
-Class.
-
-Training.
-
-Coffee.
-
-Discrete Structures.
-
-Data Structures.
-
-House Apollo sometimes.
-
-Leo sometimes.
-
-Leo often.
-
-The distinction had become less useful.
-
-The hand on Taiga's thigh at film night belonged to late February now. So did the bike and the stupid café table.
-
-Life kept moving around them.
-
-Shoulders after goals. Hands when passing things. A forearm during training. Once Leo leaned over Taiga's chair to see a compiler error and put one hand on the backrest close enough that Taiga could feel heat through his shirt.
-
-Spring Break started Friday.
-
-That was currently more important.
+By the second week of March, winter had stopped being pretty. Snow survived only in gray ridges along curbs and under trees where sunlight never reached properly. The paths around Olympus were wet more often than frozen. Everybody's shoes carried mud. The sky had spent four consecutive days the color of printer paper. Spring was apparently coming. It was taking its time. Taiga did not mind. The last few weeks had settled into a rhythm of class, training and coffee, with Discrete Structures and Data Structures filling the academic gaps and House Apollo filling some of the rest. Leo had started appearing often enough that separating him from the routine no longer felt particularly useful. The hand on Taiga's thigh at film night belonged to late February now. So did the bike and the stupid café table. Life kept moving around them. Shoulders after goals. Hands when passing things. A forearm during training. Once Leo leaned over Taiga's chair to see a compiler error and put one hand on the backrest close enough that Taiga could feel heat through his shirt. Spring Break started Friday. That was currently more important.
 
 ---
 
-Caleb had plans.
-
-Of course he did.
-
-Taiga learned this Monday morning when Caleb opened a spreadsheet during breakfast.
+Caleb had plans. Of course he did. Taiga learned this Monday morning when Caleb opened a spreadsheet during breakfast.
 
 “Why is there a map?”
 
@@ -62,11 +14,7 @@ Caleb turned the laptop slightly.
 
 “Maya's parents.”
 
-Taiga looked at him.
-
-Caleb looked back.
-
-That explained nothing.
+Taiga looked at him. Caleb looked back. That explained nothing.
 
 “You're going to Maya's house?”
 
@@ -84,11 +32,7 @@ That explained nothing.
 
 “October.”
 
-Taiga stared.
-
-Caleb returned to the spreadsheet.
-
-There were apparently entire parallel civilizations occurring around him without notification.
+Taiga stared. Caleb returned to the spreadsheet. There were apparently entire parallel civilizations occurring around him without notification.
 
 “Why do you have six train options?”
 
@@ -106,9 +50,7 @@ Taiga paused.
 
 “Continue.”
 
-Caleb nodded.
-
-Reason restored.
+Caleb nodded. Reason restored.
 
 “What about you?” he asked.
 
@@ -130,27 +72,7 @@ Caleb's hands stopped over the keyboard.
 
 “Good.”
 
-Taiga sat.
-
-He had been thinking about Camp Buddy since January. Not obsessively. Just as a fixed point.
-
-Spring Break existed.
-
-Camp existed.
-
-Eventually those two pieces were going to touch.
-
-He had not actually told Yoshinori he was coming. Mostly because there had been classes.
-
-Then Westlake.
-
-Then another match.
-
-Then the Discrete Structures project.
-
-Then nothing, which was less defensible.
-
-Caleb closed one train tab.
+Taiga sat. He had been thinking about Camp Buddy since January, not obsessively, just as a fixed point. Spring Break existed. Camp existed. Eventually those two pieces were going to touch. He had not actually told Yoshinori he was coming. Mostly because there had been classes. Then Westlake. Then another match. Then the Discrete Structures project. Then nothing, which was less defensible. Caleb closed one train tab.
 
 “You should tell them.”
 
@@ -160,9 +82,7 @@ Caleb closed one train tab.
 
 “I know.”
 
-Caleb looked at him.
-
-Taiga drank coffee.
+Caleb looked at him. Taiga drank coffee.
 
 “Stop helping.”
 
@@ -170,49 +90,19 @@ Taiga drank coffee.
 
 “Exactly.”
 
-Caleb returned to his routes.
-
-Taiga opened Yoshinori's chat.
-
-Stared.
-
-Typed:
+Caleb returned to his routes. Taiga opened Yoshinori's chat. Stared. Typed:
 
 **Taiga:** you around tonight?
 
-He sent it before he could decide calling would somehow become an event.
-
-Yoshinori replied twelve minutes later.
+He sent it before he could decide calling would somehow become an event. Yoshinori replied twelve minutes later.
 
 **Yoshinori:** Of course. I will be free after dinner. Call whenever is convenient.
 
-Formal even in text.
-
-Reliable.
-
-Taiga put the phone away.
+Formal even in text. Reliable. Taiga put the phone away.
 
 ---
 
-Yoshinori answered at eight-thirteen. Not eight. Not eight-fifteen.
-
-Eight-thirteen.
-
-Taiga appreciated precision.
-
-The screen opened on an office Taiga knew better than some classrooms at Olympus.
-
-Wood-paneled wall.
-
-Filing cabinet.
-
-Camp calendar.
-
-One corner of a framed map.
-
-Yoshinori wore a dark sweater instead of his summer uniform and looked as if he had been sorting paperwork for several hours.
-
-Which meant he probably had.
+Yoshinori answered at eight-thirteen, not eight, not eight-fifteen. Eight-thirteen. Taiga appreciated precision. The screen opened on an office Taiga knew better than some classrooms at Olympus. Behind Yoshinori were the familiar wood-paneled wall, filing cabinet, camp calendar and one corner of a framed map. Yoshinori wore a dark sweater instead of his summer uniform and looked as if he had been sorting paperwork for several hours. Which meant he probably had.
 
 “Taiga. Good evening.”
 
@@ -220,9 +110,7 @@ Which meant he probably had.
 
 “I was glad to hear from you.”
 
-There was no suspicion in it. No *what do you need?* Just true.
-
-Taiga leaned back against the wall beside his bed.
+There was no suspicion in it. No *what do you need?* Just true. Taiga leaned back against the wall beside his bed.
 
 “You busy?”
 
@@ -256,11 +144,7 @@ Taiga clicked his tongue.
 
 “I am choosing to interpret that as confidence.”
 
-Taiga almost smiled.
-
-Across the room, Caleb looked up once.
-
-Taiga ignored him.
+Taiga almost smiled. Across the room, Caleb looked up once. Taiga ignored him.
 
 “Yeah,” Taiga said. “I was thinking Friday through Sunday.”
 
@@ -296,9 +180,7 @@ Yoshinori's smile became more obvious.
 
 “Work.”
 
-Taiga relaxed without meaning to.
-
-Yoshinori did not comment.
+Taiga relaxed without meaning to. Yoshinori did not comment.
 
 “What kind?”
 
@@ -320,9 +202,7 @@ Yoshinori paused.
 
 “Then he's definitely wrong.”
 
-That earned a small laugh.
-
-Yoshinori continued.
+That earned a small laugh. Yoshinori continued.
 
 “The dock also requires inspection before the water level rises. Yuri has already begun equipment checks. Yoichi is working through the repair list.”
 
@@ -334,27 +214,11 @@ Yoshinori continued.
 
 “Very.”
 
-Taiga looked toward the window.
-
-March rain streaked the glass.
-
-Something in his chest had loosened.
-
-Camp in preseason. Not summer. Not reunion. Not memory.
-
-Work.
-
-Actual work.
-
-A place operating before anyone arrived to enjoy it.
-
-He liked that.
+Taiga looked toward the window. March rain streaked the glass. Something in his chest had loosened. This was Camp Buddy in preseason rather than summer, reunion or memory: actual work, a place operating before anyone arrived to enjoy it. He liked that.
 
 “Need help?”
 
-Yoshinori's expression changed.
-
-Warm. Not surprised.
+Yoshinori's expression changed. Warm, not surprised.
 
 “Help is always useful.”
 
@@ -362,41 +226,15 @@ Warm. Not surprised.
 
 “No. It isn't.”
 
-Taiga waited.
-
-Yoshinori folded his hands.
+Taiga waited. Yoshinori folded his hands.
 
 “We are no longer in the position we were in after the fundraiser and expansion started.”
 
-Taiga knew what he meant.
-
-Money.
-
-Closure.
-
-Goro standing in front of everybody trying to make uncertainty sound manageable.
-
-Fundraiser tables.
-
-Cookies.
-
-Flyers.
-
-People registering.
-
-The entire camp surviving partly because nobody had accepted that disappearing was inevitable.
-
-Yoshinori continued.
+Taiga knew what he meant. Money. Closure. Goro standing in front of everybody trying to make uncertainty sound manageable. Fundraiser tables. Cookies. Flyers. People registering. The entire camp surviving partly because nobody had accepted that disappearing was inevitable. Yoshinori continued.
 
 “William Clermont's sponsorship has made a considerable difference.”
 
-Taiga nodded. He knew that story now from the inside.
-
-Clermont Publishing had turned Keitaro's work into _Greatest Memories_. The book sold far better than anyone expected, Keitaro declined his royalties, and William Clermont folded that money into the camp while making a much larger sponsorship investment of his own. The book had opened the door; it had not somehow paid for an entire expansion by itself.
-
-Keitaro had still refused to take much credit for any of it. Hiro had handled that problem by loudly taking credit for him.
-
-Yoshinori said:
+Taiga nodded. He knew that story now from the inside. Clermont Publishing had turned Keitaro's work into _Greatest Memories_. The book sold far better than anyone expected, Keitaro declined his royalties, and William Clermont folded that money into the camp while making a much larger sponsorship investment of his own. The book had opened the door; it had not somehow paid for an entire expansion by itself. Keitaro had still refused to take much credit for any of it. Hiro had handled that problem by loudly taking credit for him. Yoshinori said:
 
 “The agreement covers much of our equipment replacement and several preseason operating costs. Enrollment is also healthier than it was this time last year.”
 
@@ -404,11 +242,7 @@ Yoshinori said:
 
 “Not for survival.”
 
-Good.
-
-Taiga had not realized he was carrying that question until it left.
-
-Yoshinori's voice softened.
+Good. Taiga had not realized he was carrying that question until it left. Yoshinori's voice softened.
 
 “We will always have projects, Taiga. That is different from wondering whether we will still exist next summer.”
 
@@ -434,9 +268,7 @@ Taiga laughed.
 
 “Of course.”
 
-Yoshinori's smile remained.
-
-Then he shifted back into work mode.
+Yoshinori's smile remained. Then he shifted back into work mode.
 
 “If you are coming Friday evening, we can put you in one of the lakeside cabins. Most of the main camp is still closed, but we have water and power restored in that section.”
 
@@ -460,9 +292,7 @@ Then he shifted back into work mode.
 
 “Yes. I recall several occasions.”
 
-Taiga narrowed his eyes.
-
-Yoshinori's expression remained perfectly respectable.
+Taiga narrowed his eyes. Yoshinori's expression remained perfectly respectable.
 
 “Anything else?”
 
@@ -472,21 +302,11 @@ Yoshinori's expression remained perfectly respectable.
 
 “If you intend to bring someone, tell me before Friday.”
 
-Taiga stopped.
-
-Yoshinori continued without any visible change.
+Taiga stopped. Yoshinori continued without any visible change.
 
 “We have plenty of beds. I simply need an accurate head count for meals.”
 
-Taiga's brain produced Leo before he had asked it to.
-
-Immediate.
-
-Annoying.
-
-Yoshinori could not possibly know that. Probably.
-
-Taiga said:
+Taiga's brain produced Leo before he had asked it to, immediately and annoyingly. Yoshinori could not possibly know that—probably. Taiga said:
 
 “Why would I bring someone?”
 
@@ -516,9 +336,7 @@ Yoshinori smiled.
 
 “Excellent. We will be glad to have you back.”
 
-Taiga looked at the familiar office behind him.
-
-The words landed harder than they should have.
+Taiga looked at the familiar office behind him. The words landed harder than they should have.
 
 “Yeah.”
 
@@ -528,13 +346,7 @@ Yoshinori did not force anything else into the moment.
 
 “Night.”
 
-The call ended.
-
-Taiga lowered the phone.
-
-Caleb was looking at him.
-
-Taiga pointed.
+The call ended. Taiga lowered the phone. Caleb was looking at him. Taiga pointed.
 
 “No statistics.”
 
@@ -552,29 +364,11 @@ Caleb nodded.
 
 “I'll empty it tomorrow.”
 
-Useful roommate.
-
-Terrible precedent.
-
-Taiga looked back at the dark screen.
-
-Then opened Leo's chat.
-
-Closed it.
-
-Too immediate. Ridiculous.
-
-He put the phone down.
+Useful roommate. Terrible precedent. Taiga looked back at the dark screen. Then opened Leo's chat and closed it. Too immediate—ridiculous. He put the phone down.
 
 ---
 
-He told Leo Tuesday, after Data Structures.
-
-Owen spent the first half of lab explaining hash collisions.
-
-Leo spent the same period trying to argue that a bad hash function was “just a bucket distribution with personality.”
-
-Owen heard him.
+He told Leo Tuesday, after Data Structures. Owen spent the first half of lab explaining hash collisions. Leo spent the same period trying to argue that a bad hash function was “just a bucket distribution with personality.” Owen heard him.
 
 “Mr. Mendez.”
 
@@ -584,11 +378,7 @@ Leo looked up.
 
 “No.”
 
-The class laughed.
-
-Leo put one hand over his heart.
-
-Taiga kept his eyes on the screen.
+The class laughed. Leo put one hand over his heart. Taiga kept his eyes on the screen.
 
 “You deserved that.”
 
@@ -610,15 +400,7 @@ Leo whispered:
 
 “Oppression.”
 
-Taiga's mouth moved.
-
-Lab continued.
-
-They finished ten minutes early.
-
-Leo saved his work.
-
-Closed the laptop.
+Taiga's mouth moved. Lab continued. They finished ten minutes early. Leo saved his work and closed the laptop.
 
 “Coffee?”
 
@@ -626,29 +408,7 @@ Taiga looked at the clock.
 
 “Yeah.”
 
-They left.
-
-Outside, the air smelled wet. Not spring yet.
-
-Almost.
-
-Students had started pretending coats were optional.
-
-They were wrong.
-
-Leo had his green jacket open anyway.
-
-Yellow scarf.
-
-The sister scarf.
-
-Taiga had stopped thinking of it as obnoxious. Mostly.
-
-They crossed toward the café.
-
-Leo was telling him about Enzo's plan for Spring Break.
-
-Apparently House Apollo had reached the stage of group planning where everyone wanted to go somewhere, nobody agreed where, and the group chat had accumulated four hundred messages without producing a reservation.
+They left. Outside, the air smelled wet, not spring yet. Almost. Students had started pretending coats were optional. They were wrong. Leo had his green jacket open anyway. Yellow scarf. The sister scarf. Taiga had stopped thinking of it as obnoxious—mostly. They crossed toward the café. Leo was telling him about Enzo's plan for Spring Break. Apparently House Apollo had reached the stage of group planning where everyone wanted to go somewhere, nobody agreed where, and the group chat had accumulated four hundred messages without producing a reservation.
 
 “Gav made a budget,” Leo said.
 
@@ -670,9 +430,7 @@ Leo shrugged.
 
 “Still deciding. If they actually book something, maybe two or three days. My dad wants me home at some point. My sister says she's taking my scarf back if I show up wearing it.”
 
-Taiga looked at the scarf.
-
-Leo caught it.
+Taiga looked at the scarf. Leo caught it.
 
 “Don't support her.”
 
@@ -684,13 +442,7 @@ Leo caught it.
 
 “Traitor.”
 
-They reached the café.
-
-Line.
-
-Eight people.
-
-Leo sighed.
+They reached the café. Line. Eight people. Leo sighed.
 
 “Civilization has failed.”
 
@@ -698,21 +450,11 @@ Leo sighed.
 
 “And surrender?”
 
-Taiga ignored him.
-
-They moved forward.
-
-Two places.
-
-Then Taiga said:
+Taiga ignored him. They moved forward. Two places. Then Taiga said:
 
 “I'm going to Camp Buddy.”
 
-Leo stopped talking.
-
-Taiga looked over.
-
-Leo's expression changed immediately.
+Leo stopped talking. Taiga looked over. Leo's expression changed immediately.
 
 “Spring Break?”
 
@@ -720,9 +462,7 @@ Leo's expression changed immediately.
 
 “Oh, shit.”
 
-Not a bad *oh shit*.
-
-The interested kind.
+Not a bad *oh shit*. The interested kind.
 
 “Whole week?”
 
@@ -738,9 +478,7 @@ The smile widened.
 
 “That sounds even more like you.”
 
-Taiga gave him a look.
-
-Leo continued before Taiga could respond.
+Taiga gave him a look. Leo continued before Taiga could respond.
 
 “No, I mean it. You were getting weirdly happy at Pinetree because there were trees and things to carry. A whole week at your actual camp with a repair list is basically a resort package.”
 
@@ -754,29 +492,11 @@ Taiga considered.
 
 “Exactly.”
 
-The line moved.
-
-Taiga looked at the menu he already knew.
-
-His pulse had picked up.
-
-Stupid.
-
-This was not difficult.
-
-He had already decided before saying Camp Buddy aloud.
-
-Probably before the call ended last night.
-
-Yoshinori's:
+The line moved. Taiga looked at the menu he already knew. His pulse had picked up. Stupid. This was not difficult. He had already decided before saying Camp Buddy aloud. Probably before the call ended last night. Yoshinori's:
 
 *If you intend to bring someone—*
 
-Aiden's apparent conspiracy.
-
-Taiga hated adults.
-
-Leo was still talking.
+Aiden's apparent conspiracy. Taiga hated adults. Leo was still talking.
 
 “Are Keitaro and Hiro going?”
 
@@ -810,21 +530,11 @@ Leo smiled.
 
 “It means he's going to insult you before you finish saying hello.”
 
-The person ahead ordered.
-
-One more.
-
-Taiga's heart was now doing something stupid enough that he almost got angry at it.
-
-He said:
+The person ahead ordered. One more. Taiga's heart was now doing something stupid enough that he almost got angry at it. He said:
 
 “You could come.”
 
-Leo stopped. Actually stopped. Not speaking. Not moving.
-
-Taiga immediately regretted possessing a mouth.
-
-Then Leo said:
+Leo stopped. Actually stopped, not speaking, not moving. Taiga immediately regretted possessing a mouth. Then Leo said:
 
 “To Camp Buddy?”
 
@@ -834,33 +544,15 @@ Then Leo said:
 
 “Yes, Camp Buddy.”
 
-Leo stared.
-
-Taiga looked forward.
-
-The barista called next.
-
-Of course.
-
-Perfect timing.
-
-Taiga stepped up.
+Leo stared. Taiga looked forward. The barista called next. Of course. Perfect timing. Taiga stepped up.
 
 “Black coffee.”
 
-Leo was still behind him.
-
-The barista looked past Taiga.
-
-Leo apparently remembered language.
+Leo was still behind him. The barista looked past Taiga. Leo apparently remembered language.
 
 “Uh. Same—no. Latte. Sorry.”
 
-Taiga paid.
-
-Moved aside.
-
-Leo followed.
+Taiga paid and moved aside. Leo followed.
 
 “You're serious?”
 
@@ -870,9 +562,7 @@ Taiga looked at him.
 
 “I don't know. Because it's your place.”
 
-The words made Taiga pause.
-
-Leo immediately expanded.
+The words made Taiga pause. Leo immediately expanded.
 
 “I mean—not *your* place like you own it. Obviously Goro would probably appear from the ground and sue me. I mean it's Camp Buddy. Your people. Your whole—”
 
@@ -886,9 +576,7 @@ He gestured.
 
 “Clearly.”
 
-Leo looked at him.
-
-Taiga could almost see the question multiplying.
+Leo looked at him. Taiga could almost see the question multiplying.
 
 “Yoshinori said they started preseason.”
 
@@ -908,23 +596,11 @@ Leo ignored him.
 
 “You're actually asking me to come for the week?”
 
-Taiga could soften it.
-
-Say Yoshinori needed people.
-
-Say Aiden suggested it.
-
-Say there were extra beds.
-
-All technically true.
-
-Instead:
+Taiga could soften it. Say Yoshinori needed people. Say Aiden suggested it. Say there were extra beds. All technically true. Instead:
 
 “Yeah.”
 
-Leo went quiet. Not long. Just enough that Taiga felt it.
-
-Then:
+Leo went quiet, not long, just enough that Taiga felt it. Then:
 
 “Yeah. Okay.”
 
@@ -940,13 +616,7 @@ Leo laughed.
 
 “No, it didn't. I just—yeah. I want to.”
 
-The answer was simple enough to make something warm move under Taiga's ribs.
-
-Bad area.
-
-Dangerous.
-
-He looked toward the counter.
+The answer was simple enough to make something warm move under Taiga's ribs. Bad area. Dangerous. He looked toward the counter.
 
 “It's work.”
 
@@ -964,9 +634,7 @@ He looked toward the counter.
 
 “So my arms are ornamental but serviceable.”
 
-Taiga snorted.
-
-Leo smiled.
+Taiga snorted. Leo smiled.
 
 “Do I need to ask Yoshinori?”
 
@@ -978,17 +646,7 @@ Leo smiled.
 
 “Same one?”
 
-Taiga's brain stopped.
-
-Only for a second.
-
-After the delay, Leo's expression shifted. Not teasing.
-
-Aware.
-
-The static from February flickered back to life.
-
-Taiga forced his voice to remain normal.
+Taiga's brain stopped. Only for a second. After the delay, Leo's expression shifted, not teasing. Aware. The static from February flickered back to life. Taiga forced his voice to remain normal.
 
 “Probably.”
 
@@ -996,19 +654,7 @@ Leo nodded.
 
 “Okay.”
 
-One word.
-
-Too much information.
-
-The barista called Taiga's name.
-
-He took the coffee.
-
-Leo's came thirty seconds later.
-
-They left.
-
-Outside, Leo immediately began asking practical questions.
+It was one word carrying far too much information. The barista called Taiga's name. He took the coffee. Leo's came thirty seconds later. They left. Outside, Leo immediately began asking practical questions.
 
 “What boots?”
 
@@ -1030,9 +676,7 @@ Taiga looked at him.
 
 “I definitely—”
 
-Leo stopped.
-
-Thought.
+Leo stopped. Thought.
 
 “Okay. Maybe I told Enzo.”
 
@@ -1054,13 +698,7 @@ Leo pointed at him with the coffee.
 
 “Exactly.”
 
-They reached the path split.
-
-Taiga had class.
-
-Leo had no class for forty minutes. Normally he would turn toward Central.
-
-Instead he stayed another second.
+They reached the path split. Taiga had class. Leo had no class for forty minutes. Normally he would turn toward Central. Instead he stayed another second.
 
 “So,” Leo said.
 
@@ -1080,11 +718,7 @@ Instead he stayed another second.
 
 “Great. Cultural immersion.”
 
-Taiga smiled.
-
-Leo looked pleased with himself.
-
-Then:
+Taiga smiled. Leo looked pleased with himself. Then:
 
 “Thanks.”
 
@@ -1094,23 +728,11 @@ Taiga's smile faded slightly.
 
 “Inviting me.”
 
-No joke.
-
-Taiga looked at him.
-
-Leo's face was open.
-
-Bright, but not careless.
-
-Taiga could have said *whatever.*
-
-Did not.
+No joke. Taiga looked at him. Leo's face was open. Bright, but not careless. Taiga could have said *whatever.* Did not.
 
 “Yeah.”
 
-Leo nodded.
-
-Then he stepped backward.
+Leo nodded. Then he stepped backward.
 
 “Send the list, forty-one.”
 
@@ -1118,15 +740,7 @@ Then he stepped backward.
 
 “See you at training.”
 
-Taiga watched him turn toward Central.
-
-Three steps.
-
-Five.
-
-Then Taiga turned toward class.
-
-His phone buzzed before he reached the building.
+Taiga watched him turn toward Central. Three steps. Five. Then Taiga turned toward class. His phone buzzed before he reached the building.
 
 **Leo:** IMPORTANT QUESTION
 
@@ -1138,9 +752,7 @@ Leo:
 
 **Leo:** is there wifi
 
-Taiga stopped.
-
-Laughed.
+Taiga stopped. Laughed.
 
 **Taiga:** stay home
 
@@ -1161,13 +773,7 @@ Three minutes later:
 
 **Yoshinori:** Understood. Please send me his full name and any dietary restrictions. We will prepare another bed.
 
-Taiga stared at *prepare another bed.*
-
-Unnecessary wording.
-
-Beds existed. No preparation required. Probably linens. Normal.
-
-He typed:
+Taiga stared at *prepare another bed.* Unnecessary wording. Beds existed. No preparation required. Probably linens. Normal. He typed:
 
 **Taiga:** Leo Mendez
 **Taiga:** no restrictions
@@ -1176,9 +782,7 @@ Yoshinori:
 
 **Yoshinori:** Thank you. Aiden has requested that I inform you he “called it.”
 
-Taiga closed his eyes.
-
-Of course.
+Taiga closed his eyes. Of course.
 
 **Taiga:** tell him to die
 
@@ -1190,15 +794,11 @@ Taiga:
 
 **Taiga:** coward
 
-Yoshinori did not respond.
-
-Professional.
+Yoshinori did not respond. Professional.
 
 ---
 
-The packing list became an argument.
-
-Taiga sent:
+The packing list became an argument. Taiga sent:
 
 **Taiga:** boots
 **Taiga:** work gloves
@@ -1282,9 +882,7 @@ Leo:
 **Leo:** understood
 **Leo:** tribute jeans
 
-Taiga smiled into his pillow.
-
-Caleb, at the desk:
+Taiga smiled into his pillow. Caleb, at the desk:
 
 “Camp?”
 
@@ -1308,13 +906,7 @@ Fair.
 
 “Leo,” Taiga said.
 
-Caleb nodded.
-
-Nothing else.
-
-Bless him.
-
-Taiga returned to the chat.
+Caleb nodded. Nothing else. Bless him. Taiga returned to the chat.
 
 **Leo:** WAIT
 **Leo:** bugs?
@@ -1351,27 +943,7 @@ By Friday the jeans were dry. Taiga still made him show the work gloves at the s
 
 ---
 
-Wednesday became Thursday.
-
-Thursday became Friday.
-
-Spring Break arrived without ceremony.
-
-Professors assigned work anyway.
-
-Students complained.
-
-The university emptied in layers.
-
-Suitcases appeared in hallways.
-
-Cars filled.
-
-The dining hall cut its hours.
-
-House Apollo's group trip apparently collapsed completely when Aaron discovered the hotel Enzo wanted required a deposit nobody had actually paid.
-
-Leo sent Taiga:
+Wednesday became Thursday. Thursday became Friday. Spring Break arrived without ceremony. Professors assigned work anyway. Students complained. The university emptied in layers. Suitcases appeared in hallways. Cars filled. The dining hall cut its hours. House Apollo's group trip apparently collapsed completely when Aaron discovered the hotel Enzo wanted required a deposit nobody had actually paid. Leo sent Taiga:
 
 **Leo:** civilization trip cancelled
 **Leo:** wilderness superior
@@ -1380,23 +952,15 @@ Taiga replied:
 
 **Taiga:** you were coming anyway
 
-A minute passed.
-
-Leo:
+A minute passed. Leo:
 
 **Leo:** yeah
 
-That one sat differently.
-
-Taiga put the phone away.
+That one sat differently. Taiga put the phone away.
 
 ---
 
-Friday training ended at three-thirty.
-
-Mercer had scheduled a light session specifically so people could leave.
-
-At the end, he stood in front of the team.
+Friday training ended at three-thirty. Mercer had scheduled a light session specifically so people could leave. At the end, he stood in front of the team.
 
 “Spring Break means break.”
 
@@ -1404,79 +968,25 @@ Enzo whispered:
 
 “Finally.”
 
-Mercer looked at him.
-
-Enzo became silent.
+Mercer looked at him. Enzo became silent.
 
 “Your conditioning plans are on the athletics portal. Two sessions. Thirty minutes. If I find out anybody turned them into ninety-minute hero workouts, you will not impress me.”
 
-Taiga looked at Aaron.
-
-Aaron looked back.
-
-Both looked away.
-
-Mercer continued.
+Taiga looked at Aaron. Aaron looked back. Both looked away. Mercer continued.
 
 “Sleep. Eat. Recover. Be somewhere else for a week.”
 
-Leo glanced at Taiga.
-
-Tiny.
-
-Enough.
-
-Taiga's chest warmed.
-
-Mercer dismissed them.
-
-The locker room became departure chaos.
-
-People changed while discussing flights, trains, family plans.
-
-Scott was going home.
-
-Gav had a cousin visiting.
-
-Enzo had apparently decided that if the group trip was dead, he was “embracing urban vacation” and staying at Olympus for three days before going home.
-
-Aaron and Sofia were leaving Saturday morning.
-
-Leo changed quickly.
-
-Taiga did too. No lingering shower strategy. Not today.
-
-They had a train.
+Leo glanced at Taiga. Tiny. Enough. Taiga's chest warmed. Mercer dismissed them. The locker room became departure chaos. People changed while discussing flights, trains, family plans. Scott was going home. Gav had a cousin visiting. Enzo had apparently decided that if the group trip was dead, he was “embracing urban vacation” and staying at Olympus for three days before going home. Aaron and Sofia were leaving Saturday morning. Leo changed quickly. Taiga did too. No lingering shower strategy, not today. They had a train.
 
 ---
 
-Taiga returned to the residence hall at four-forty.
-
-Caleb was already gone.
-
-His half of the room looked unnaturally exact.
-
-Bed made.
-
-Desk clear. No shoes. No coat.
-
-He had left a note on Taiga's desk.
+Taiga returned to the residence hall at four-forty. Caleb was already gone. His half of the room looked unnaturally exact. Bed made. Desk clear. There was no shoes or coat. He had left a note on Taiga's desk.
 
 **Large duffel is yours.  
 Detergent is full.  
 Don't forget your charger.**
 
-Taiga stared.
-
-Then checked his bag.
-
-Charger.
-
-Already packed.
-
-He took a picture of the note.
-
-Sent it to Caleb.
+Taiga stared. Then checked his bag. Charger. Already packed. He took a picture of the note. Sent it to Caleb.
 
 **Taiga:** psychopath
 
@@ -1488,45 +998,11 @@ Taiga:
 
 **Taiga:** you too
 
-No insult.
-
-Growth everywhere.
-
-He put on his jacket.
-
-Red puffer.
-
-Work boots tied to the outside of the duffel because wearing them on a train for hours would be insane.
-
-phone.
-
-Wallet.
-
-Ticket.
-
-He checked the room once.
-
-Then left.
+No insult. Growth everywhere. He put on his jacket. Red puffer. Work boots tied to the outside of the duffel because wearing them on a train for hours would be insane. phone. Wallet. Ticket. He checked the room once. Then left.
 
 ---
 
-Leo was at the station twenty minutes early.
-
-Of course he was.
-
-Taiga spotted him near the departure board.
-
-Yellow scarf.
-
-Dark jacket.
-
-Backpack.
-
-Medium duffel.
-
-Actual hiking boots on his feet.
-
-Taiga walked up.
+Leo was at the station twenty minutes early. Of course he was. Taiga spotted him near the departure board. Yellow scarf. Dark jacket. Backpack. Medium duffel. Actual hiking boots on his feet. Taiga walked up.
 
 “You wore them.”
 
@@ -1538,15 +1014,7 @@ Leo looked down.
 
 “I brought documentation.”
 
-He lifted one foot slightly.
-
-Mud-resistant sole.
-
-Used.
-
-Legitimate.
-
-Taiga nodded.
+He lifted one foot slightly. Mud-resistant sole. Used. Legitimate. Taiga nodded.
 
 “Acceptable.”
 
@@ -1554,9 +1022,7 @@ Taiga nodded.
 
 “You packed work gloves?”
 
-Leo unzipped the front pocket of his backpack and held them up.
-
-Taiga stared.
+Leo unzipped the front pocket of his backpack and held them up. Taiga stared.
 
 “Why are they accessible?”
 
@@ -1568,21 +1034,7 @@ Taiga stared.
 
 “Leo.”
 
-Leo laughed and put them back.
-
-Taiga looked at the board.
-
-Their train was on time.
-
-Platform seven.
-
-Nineteen minutes.
-
-They moved toward the stairs.
-
-Leo took Taiga's smaller bag before Taiga could stop him.
-
-Taiga looked over.
+Leo laughed and put them back. Taiga looked at the board. Their train was on time. Platform seven. Nineteen minutes. They moved toward the stairs. Leo took Taiga's smaller bag before Taiga could stop him. Taiga looked over.
 
 “What are you doing?”
 
@@ -1592,23 +1044,7 @@ Taiga looked over.
 
 “I know.”
 
-Leo kept the bag.
-
-Taiga considered taking it back.
-
-Did not.
-
-They reached the platform. Cold wind followed the tracks.
-
-People clustered under the canopy with luggage.
-
-Families.
-
-Students.
-
-A dog in a carrier.
-
-Leo looked down the rails.
+Leo kept the bag. Taiga considered taking it back. Did not. They reached the platform. Cold wind followed the tracks. People clustered under the canopy with luggage. Families. Students. A dog in a carrier. Leo looked down the rails.
 
 “So how long?”
 
@@ -1640,27 +1076,7 @@ Leo brightened.
 
 “Correct.”
 
-Leo smiled.
-
-The announcement sounded.
-
-Their train approached.
-
-Metal and light.
-
-Taiga watched it enter the platform.
-
-For a second, the sensation was strange.
-
-He had gone back at New Year.
-
-Now Leo stood beside him with a duffel, work gloves and actual hiking boots because Taiga had asked him to come.
-
-The train stopped.
-
-Doors opened.
-
-Leo looked over.
+Leo smiled. The announcement sounded. Their train approached. Metal and light. Taiga watched it enter the platform. For a second, the sensation was strange. He had gone back at New Year. Now Leo stood beside him with a duffel, work gloves and actual hiking boots because Taiga had asked him to come. The train stopped. Doors opened. Leo looked over.
 
 “Ready?”
 
@@ -1668,11 +1084,7 @@ Taiga picked up his duffel.
 
 “Yeah.”
 
-They boarded.
-
-Found their seats.
-
-Leo took the window without asking, then immediately stood again.
+They boarded. Found their seats. Leo took the window without asking, then immediately stood again.
 
 “Wait, do you want it?”
 
@@ -1686,23 +1098,7 @@ Taiga looked at him.
 
 “Okay.”
 
-Leo sat.
-
-Taiga took the aisle.
-
-Bags overhead.
-
-Jackets adjusted.
-
-The train shuddered.
-
-Outside, Olympus station started sliding backward.
-
-Leo looked out the window.
-
-Then at Taiga.
-
-A grin appeared.
+Leo sat. Taiga took the aisle. Bags overhead. Jackets adjusted. The train shuddered. Outside, Olympus station started sliding backward. Leo looked out the window. Then at Taiga. A grin appeared.
 
 “Spring Break.”
 
@@ -1714,27 +1110,11 @@ A grin appeared.
 
 “It doesn't.”
 
-The city began thinning beyond the glass.
-
-Taiga leaned back.
-
-For the first time in months, he had nowhere to be after this. No lecture. No training. No assignment due tomorrow.
-
-Just a train heading toward the lake.
-
-Toward cabins still half closed for winter.
-
-Toward trails full of mud.
-
-Toward a week of work.
-
-Leo bumped his shoulder lightly against Taiga's.
+The city began thinning beyond the glass. Taiga leaned back. For the first time in months, he had nowhere to be after this. There was no lecture or training. No assignment due tomorrow, just a train heading toward the lake. Toward cabins still half closed for winter. Toward trails full of mud. Toward a week of work. Leo bumped his shoulder lightly against Taiga's.
 
 “Thanks again.”
 
-Taiga looked at him.
-
-Then toward the window.
+Taiga looked at him. Then toward the window.
 
 “Yeah.”
 

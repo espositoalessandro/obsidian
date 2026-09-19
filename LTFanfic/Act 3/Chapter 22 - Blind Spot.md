@@ -1,14 +1,8 @@
-By the following Tuesday, sitting beside Leo in Data Structures had stopped feeling like a test. The repair after Pinetree was no longer something Taiga had to measure minute by minute; they had found their ordinary rhythm again.
-
-That should have made the week easier. Instead, Taiga had started noticing things about Leo that were much harder to file under "ordinary friendship".
+By the following Tuesday, sitting beside Leo in Data Structures had stopped feeling like a test. The repair after Pinetree was no longer something Taiga had to measure minute by minute; they had found their ordinary rhythm again. That should have made the week easier. Instead, Taiga had started noticing things about Leo that were much harder to file under "ordinary friendship".
 
 ---
 
-Data Structures started at nine.
-
-Owen spent the first ten minutes fighting with the projector and blaming the HDMI cable for what was very obviously a problem with his laptop.
-
-Leo leaned toward Taiga.
+Data Structures started at nine. Owen spent the first ten minutes fighting with the projector and blaming the HDMI cable for what was very obviously a problem with his laptop. Leo leaned toward Taiga.
 
 “Do you think TAs get issued one broken cable at hiring and then have to keep it for their entire career?”
 
@@ -16,9 +10,7 @@ Taiga kept his eyes on the front.
 
 “He plugged it into the wrong port.”
 
-Leo looked.
-
-Paused.
+Leo looked. Paused.
 
 “Oh.”
 
@@ -38,13 +30,7 @@ Paused.
 
 “It fit emotionally.”
 
-Taiga looked at him.
-
-Leo grinned.
-
-Owen finally got the projector working.
-
-The slide appeared.
+Taiga looked at him. Leo grinned. Owen finally got the projector working. The slide appeared.
 
 **TREES — BALANCING AND ROTATIONS**
 
@@ -60,21 +46,7 @@ Leo sighed.
 
 “They were boring in a safe way. Trees have opinions.”
 
-Taiga opened his laptop.
-
-Beside him, Leo did the same.
-
-They worked through the first exercise without incident. Mostly.
-
-Leo's first implementation passed five of six tests.
-
-Taiga's passed all six.
-
-Leo looked at the screen.
-
-Then at Taiga's.
-
-Then back at his.
+Taiga opened his laptop. Beside him, Leo did the same. They worked through the first exercise without incident—mostly. Leo's first implementation passed five of six tests. Taiga's passed all six. Leo looked at the screen. Then at Taiga's. Then back at his.
 
 “I'm going to say something mature.”
 
@@ -82,9 +54,7 @@ Then back at his.
 
 “I am happy for you.”
 
-Taiga waited.
-
-Leo lasted approximately three seconds.
+Taiga waited. Leo lasted approximately three seconds.
 
 “And I hope your next function segfaults.”
 
@@ -92,35 +62,11 @@ Leo lasted approximately three seconds.
 
 “Balance.”
 
-Taiga snorted.
-
-Owen looked over from across the lab.
-
-Leo immediately bent toward his screen with exaggerated concentration.
-
-Taiga did the same.
-
-They lasted twenty seconds.
-
-Then Leo whispered:
+Taiga snorted. Owen looked over from across the lab. Leo immediately bent toward his screen with exaggerated concentration. Taiga did the same. They lasted twenty seconds. Then Leo whispered:
 
 “Can you look at this?”
 
-Taiga leaned over.
-
-Leo rotated the laptop slightly.
-
-The bug was obvious.
-
-The pointer update happened before the height recalculation.
-
-Taiga reached for the trackpad.
-
-Leo's hand was already there.
-
-Their fingers touched.
-
-Taiga moved his hand to the edge of the trackpad.
+Taiga leaned over. Leo rotated the laptop slightly. The bug was obvious. The pointer update happened before the height recalculation. Taiga reached for the trackpad. Leo's hand was already there. Their fingers touched. Taiga moved his hand to the edge of the trackpad.
 
 “Your update order is wrong.”
 
@@ -144,15 +90,7 @@ Leo stared.
 
 “Exactly. Betrayal from inside the house.”
 
-Taiga sat back.
-
-Leo fixed the lines.
-
-Ran tests.
-
-All green.
-
-He turned toward Taiga with a pleased little nod.
+Taiga sat back. Leo fixed the lines and ran tests. All green. He turned toward Taiga with a pleased little nod.
 
 “See? Collaborative learning.”
 
@@ -188,76 +126,13 @@ Leo looked between them.
 
 “I'm hearing blame, not solutions.”
 
-Owen called for attention before Leo could continue. Good.
-
-Taiga did not need a ten-minute argument about code duplication before ten in the morning.
-
-He returned to his own screen.
-
-Two minutes later, Leo's knee bumped his under the desk.
-
-They both adjusted under the table.
-
-Leo had rolled his sleeves to the elbows.
-
-The tendons in his wrist moved when he typed.
-
-Taiga looked away.
-
-Immediately. Ridiculous.
-
-He focused on his own function.
-
-Left rotation.
-
-Right rotation.
-
-Height.
-
-Balance factor.
-
-The cursor blinked.
-
-He read the same line four times.
-
-Beside him, Leo muttered:
+Owen called for attention before Leo could continue—good. Taiga did not need a ten-minute argument about code duplication before ten in the morning. He returned to his own screen. Two minutes later, Leo's knee bumped his under the desk. They both adjusted under the table. Leo had rolled his sleeves to the elbows. The tendons in his wrist moved when he typed. Taiga looked away—immediately—ridiculous. He focused on his own function. He forced his attention back onto the mechanics of the function—left rotation, right rotation, height, balance factor—while the cursor blinked. He read the same line four times. Beside him, Leo muttered:
 
 “No, you little bastard.”
 
-Taiga glanced over.
+Taiga glanced over. Leo was glaring at his code, not at Taiga. Taiga returned to his screen. There was no reason for this to be a problem: Taiga had eyes, Leo had arms, and the universe continued. Coffee after lab happened often enough to feel routine now, although not so often that Taiga was willing to call it automatic. They left the CS building with twenty-seven minutes before Taiga's next lecture and thirty-nine before Leo's. Leo talked the entire way, not about anything important. Owen.
 
-Leo was glaring at his code. Not at Taiga.
-
-Taiga returned to his screen.
-
-There was no reason for this to be a problem.
-
-He had eyes.
-
-Leo had arms.
-
-The universe continued.
-
-
-Coffee after lab happened because it always did now. Not always.
-
-Frequently.
-
-That distinction mattered. Probably.
-
-They left the CS building with twenty-seven minutes before Taiga's next lecture and thirty-nine before Leo's.
-
-Leo talked the entire way. Not about anything important.
-
-Owen.
-
-A House Apollo group chat argument about whether the common-room couch could survive another semester.
-
-Enzo apparently wanted to move it closer to the television.
-
-Gav had responded with measurements.
-
-Scott had responded with a photograph of the couch accompanied by the word **NO**.
+A House Apollo group chat argument about whether the common-room couch could survive another semester. Enzo apparently wanted to move it closer to the television. Gav had responded with measurements. Scott had responded with a photograph of the couch accompanied by the word **NO**.
 
 “That's it,” Leo said. “Just NO. Capital letters. No explanation. Which somehow means more coming from Scott because he usually sends, like, four words a day.”
 
@@ -265,9 +140,7 @@ Scott had responded with a photograph of the couch accompanied by the word **NO*
 
 “That's what Gav said!”
 
-Taiga looked at him.
-
-Leo pointed.
+Taiga looked at him. Leo pointed.
 
 “Exactly. Thank you. This is why I came to you.”
 
@@ -275,19 +148,11 @@ Leo pointed.
 
 “You made the structural-couch face.”
 
-Taiga stopped walking.
-
-Leo kept going two steps before noticing.
-
-He turned.
+Taiga stopped walking. Leo kept going two steps before noticing. He turned.
 
 “What?”
 
-Taiga stared.
-
-Leo stared back.
-
-Then realization arrived.
+Taiga stared. Leo stared back. Then realization arrived.
 
 “Oh.”
 
@@ -319,21 +184,11 @@ Taiga nearly walked into a bike rack.
 
 “Fuck you.”
 
-Leo laughed loudly enough that two students looked over.
-
-Taiga stopped bracing for the next sentence.
-
-The café line was short.
-
-Leo ordered first.
-
-Then, without asking:
+Leo laughed loudly enough that two students looked over. Taiga stopped bracing for the next sentence. The café line was short. Leo ordered first. Then, without asking:
 
 “And one black coffee.”
 
-Taiga looked at him.
-
-Leo looked back.
+Taiga looked at him. Leo looked back.
 
 “What?”
 
@@ -353,69 +208,15 @@ Taiga looked at the menu. No.
 
 “Okay.”
 
-Leo paid for his own.
-
-Taiga paid for his. No weirdness.
-
-They stood near the pickup counter.
-
-Leo leaned one hip against the wall.
-
-His coat was open.
-
-Dark shirt underneath.
-
-Nothing remarkable.
-
-Taiga's eyes moved down anyway.
-
-Chest.
-
-Waist.
-
-Back up.
-
-Fast.
-
-He hated that he had done it.
-
-More annoying:
-
-He knew exactly why. Not *why* in the philosophical sense.
-
-That remained unresolved.
-
-But physically?
-
-His brain had not mistaken Leo for a lamp.
-
-He had looked because Leo looked good. Simple.
-
-Unhelpful.
-
-Taiga took his coffee when his name was called.
-
-Drank too quickly.
-
-Burned his tongue. Excellent.
+Leo paid for his own. Taiga paid for his. No weirdness. They stood near the pickup counter. Leo leaned one hip against the wall. His coat was open. Dark shirt underneath. Nothing remarkable. Taiga's eyes moved down anyway. His gaze moved over Leo's chest and waist before snapping back up. He hated that he had done it. More annoying: He knew exactly why, not *why* in the philosophical sense. That remained unresolved. But physically? His brain had not mistaken Leo for a lamp. He had looked because Leo looked good. Simple—unhelpful. Taiga took his coffee when his name was called and drank too quickly. Burned his tongue—excellent.
 
 ---
 
-Tuesday training was worse. Not emotionally. Physically.
-
-Mercer had decided they were going to spend ninety minutes on scanning.
-
-This was apparently necessary because half the team had spent Sunday at Pinetree receiving the ball as if nobody had ever invented peripheral vision.
-
-Mercer stood near midfield with a stack of colored bibs.
+Tuesday training was worse, not emotionally. Physically. Mercer had decided they were going to spend ninety minutes on scanning. This was apparently necessary because half the team had spent Sunday at Pinetree receiving the ball as if nobody had ever invented peripheral vision. Mercer stood near midfield with a stack of colored bibs.
 
 “Wingers and attacking mids, check both shoulders before the pass arrives. I don't care if you know where pressure is. Show me you checked.”
 
-Taiga pulled on a red bib.
-
-Leo was blue, in another group.
-
-Mercer continued.
+Taiga pulled on a red bib. Leo was blue, in another group. Mercer continued.
 
 “First touch away from pressure. If you receive square and get trapped, you're out. If I see your eyes glued to the ball, you're out.”
 
@@ -423,9 +224,7 @@ Enzo whispered:
 
 “So basically you're out.”
 
-Taiga looked at him.
-
-Enzo grinned.
+Taiga looked at him. Enzo grinned.
 
 “See? Already scanned.”
 
@@ -433,57 +232,11 @@ Enzo grinned.
 
 “Improvement.”
 
-Mercer blew the whistle.
-
-The drill started.
-
-Taiga liked this kind of work.
-
-Specific.
-
-Observable. No inspirational bullshit.
-
-Check shoulder.
-
-Receive.
-
-Turn.
-
-Release. Again.
-
-The first few repetitions were ugly.
-
-His timing was late.
-
-He checked too early and information expired before the pass arrived.
-
-Mercer corrected him once.
+Mercer blew the whistle and the drill started. Taiga liked this kind of work because it was specific and observable, with no inspirational bullshit attached: check the shoulder, receive, turn, release, then do it again. The first few repetitions were ugly. His timing was late. He checked too early and information expired before the pass arrived. Mercer corrected him once.
 
 “Later.”
 
-Taiga nodded.
-
-Next repetition.
-
-Check.
-
-Ball.
-
-Defender moving inside.
-
-Touch outside.
-
-Pass.
-
-Better. No praise. Good.
-
-They rotated groups.
-
-Leo moved into Taiga's grid.
-
-Mercer had put him there.
-
-Leo bounced lightly on his toes.
+Taiga nodded. Next repetition. Check. Ball. Defender moving inside. Touch outside. Pass. Better. No praise—good. They rotated groups. Leo moved into Taiga's grid. Mercer had put him there. Leo bounced lightly on his toes.
 
 “Try not to murder me.”
 
@@ -495,29 +248,7 @@ Leo bounced lightly on his toes.
 
 “Emotionally it was.”
 
-Whistle.
-
-Drill.
-
-Taiga checked his left shoulder.
-
-Leo.
-
-Right shoulder.
-
-Space.
-
-Ball arrived.
-
-Taiga took the first touch inside.
-
-Leo stepped.
-
-Taiga tried to roll him.
-
-Leo got a foot in.
-
-Ball away.
+Whistle. Drill. Taiga checked his left shoulder. Leo. Right shoulder. Space. Ball arrived. Taiga took the first touch inside. Leo stepped. Taiga tried to roll him. Leo got a foot in. Ball away.
 
 “Ha!”
 
@@ -531,49 +262,11 @@ Taiga chased.
 
 “You have two ankles. Be flexible.”
 
-Taiga recovered the ball.
-
-Next repetition.
-
-This time he checked later.
-
-Leo had shifted half a step.
-
-Taiga received outside.
-
-Leo followed.
-
-Taiga accelerated.
-
-They went shoulder to shoulder.
-
-Leo was lighter than Gav but stronger than he looked.
-
-Taiga knew the pressure of Leo's shoulder, how he planted his feet, the annoying way he could get his body between player and ball without looking like he had done anything.
-
-Leo leaned harder.
-
-Taiga braced.
-
-For half a second their sides locked together.
-
-Hip.
-
-Ribs.
-
-Arm.
-
-Heat through two layers of training fabric.
-
-Taiga's concentration disappeared.
-
-Leo stole the ball. Again.
+Taiga recovered the ball. Next repetition. This time he checked later. Leo had shifted half a step. Taiga received outside. Leo followed. Taiga accelerated. They went shoulder to shoulder. Leo was lighter than Gav but stronger than he looked. Taiga knew the pressure of Leo's shoulder, how he planted his feet, the annoying way he could get his body between player and ball without looking like he had done anything. Leo leaned harder. Taiga braced. For half a second their sides locked together. Hip. Ribs. Arm. Heat through two layers of training fabric. Taiga's concentration disappeared. Leo stole the ball. Again.
 
 “Two-zero.”
 
-Taiga stared at him.
-
-Leo backpedaled away with a grin.
+Taiga stared at him. Leo backpedaled away with a grin.
 
 “Scanning, Akatora.”
 
@@ -581,34 +274,11 @@ Leo backpedaled away with a grin.
 
 “Not the useful direction.”
 
-That sentence should not have meant anything.
-
-Taiga's body decided to interpret it anyway.
-
-Heat climbed up his neck.
+That sentence should not have meant anything. Taiga's body decided to interpret it anyway. Heat climbed up his neck.
 
 “Fuck off.”
 
-Leo laughed.
-
-Whistle.
-
-Reset.
-
-Taiga spent the next repetition paying so much attention to checking his shoulders that Mercer told him to stop “performing the concept” and play.
-
-Perfect.
-
-
-The locker room afterward was loud. Not unusually.
-
-Enzo and Aaron were arguing about a goal from training.
-
-Gav was trying to explain why it had been offside.
-
-Enzo believed volume could alter geometry.
-
-Scott had already changed half his clothes and had contributed exactly one sentence:
+Leo laughed. Whistle. Reset. Taiga spent the next repetition paying so much attention to checking his shoulders that Mercer told him to stop “performing the concept” and play. Perfect. The locker room afterward was loud, not unusually. Enzo and Aaron were arguing about a goal from training. Gav was trying to explain why it had been offside. Enzo believed volume could alter geometry. Scott had already changed half his clothes and had contributed exactly one sentence:
 
 “It was offside.”
 
@@ -616,111 +286,11 @@ Enzo pointed at him.
 
 “Betrayal.”
 
-Scott shrugged.
+Scott shrugged. Taiga sat on the bench and unlaced his boots. Normal. Across the aisle, Leo pulled his shirt over his head. Taiga looked. There was no delay. No conscious decision. One second Leo was clothed. Next second Taiga's eyes were on him. Shoulders first. Then back. The line of muscle beside his spine. Waist. Skin still flushed from training. Taiga stopped breathing, not because Leo was exceptionally built. He wasn't. Lean. Compact. Soccer body. Strong legs. More definition through the core than his clothes suggested.
 
-Taiga sat on the bench and unlaced his boots. Normal.
+Taiga knew all of this already. The locker room had not introduced nudity to him today. That was what made the reaction so fucking irritating. Nothing about Leo's body had changed. Taiga had. Leo turned slightly to reach into his locker. Compression shorts. Taiga's eyes went down. And stayed. Oh. The ass. The stupidly round ass his brain had noticed months ago and filed away as trivia. It was not trivia anymore. A sharp, unmistakable pull went low through Taiga's stomach, not abstract appreciation, not curiosity.
 
-Across the aisle, Leo pulled his shirt over his head.
-
-Taiga looked.
-
-There was no delay. No conscious decision.
-
-One second Leo was clothed.
-
-Next second Taiga's eyes were on him.
-
-Shoulders first.
-
-Then back.
-
-The line of muscle beside his spine.
-
-Waist.
-
-Skin still flushed from training.
-
-Taiga stopped breathing. Not because Leo was exceptionally built.
-
-He wasn't.
-
-Lean.
-
-Compact.
-
-Soccer body.
-
-Strong legs.
-
-More definition through the core than his clothes suggested.
-
-Taiga knew all of this already.
-
-The locker room had not introduced nudity to him today.
-
-That was what made the reaction so fucking irritating.
-
-Nothing about Leo's body had changed.
-
-Taiga had.
-
-Leo turned slightly to reach into his locker.
-
-Compression shorts.
-
-Taiga's eyes went down.
-
-And stayed.
-
-Oh.
-
-The ass.
-
-The stupidly round ass his brain had noticed months ago and filed away as trivia.
-
-It was not trivia anymore.
-
-A sharp, unmistakable pull went low through Taiga's stomach. Not abstract appreciation. Not curiosity.
-
-Want.
-
-Small.
-
-Immediate.
-
-Physical.
-
-Taiga snapped his eyes to his own locker.
-
-His heart kicked once against his ribs.
-
-Fuck. No. Actually:
-
-Fuck.
-
-This was different.
-
-He had looked at attractive guys before.
-
-Obviously.
-
-He knew what attraction felt like.
-
-That was precisely the problem.
-
-He stared at the inside of his locker as if the metal shelf contained emergency instructions.
-
-It did not.
-
-A bottle of shower gel.
-
-Tape.
-
-Clean shirt.
-
-Towel. No guidance.
-
-Behind him, Leo said:
+Want. Small. Immediate. Physical. Taiga snapped his eyes to his own locker. His heart kicked once against his ribs. Fuck. No. Actually: Fuck. This was different. He had looked at attractive guys before. Obviously. He knew what attraction felt like. That was precisely the problem. He stared at the inside of his locker as if the metal shelf contained emergency instructions. It did not. A bottle of shower gel. Tape. Clean shirt. Towel. No guidance. Behind him, Leo said:
 
 “Enzo, if you explain the offside line one more time, Gav is going to draw it on your forehead.”
 
@@ -728,69 +298,15 @@ Behind him, Leo said:
 
 “That is not how foreheads work.”
 
-Taiga closed his locker.
-
-Too hard.
-
-The door slammed.
-
-Aaron looked over.
+Taiga closed his locker. Too hard. The door slammed. Aaron looked over.
 
 “You good?”
 
 “Yeah.”
 
-Aaron accepted that. Good. No one else cared.
+Aaron accepted that—good. No one else cared. Also good. Taiga grabbed his towel. Then stopped. Showers. Normally he would go now. Leo usually went now too. That had never mattered. Now the thought arrived with a level of specificity Taiga did not appreciate. Steam. Wet skin. Frosted panels. Leo two stalls away. Possibly one. Absolutely not. Taiga sat back down. Pretended to check his phone. Nothing important. One message from Caleb asking whether they needed detergent. Taiga stared at it for an unreasonable amount of time.
 
-Also good.
-
-Taiga grabbed his towel.
-
-Then stopped.
-
-Showers. Normally he would go now.
-
-Leo usually went now too.
-
-That had never mattered.
-
-Now the thought arrived with a level of specificity Taiga did not appreciate.
-
-Steam.
-
-Wet skin.
-
-Frosted panels.
-
-Leo two stalls away.
-
-Possibly one.
-
-Absolutely not.
-
-Taiga sat back down.
-
-Pretended to check his phone.
-
-Nothing important.
-
-One message from Caleb asking whether they needed detergent.
-
-Taiga stared at it for an unreasonable amount of time.
-
-Around him, people moved toward the showers.
-
-Enzo.
-
-Gav.
-
-Leo. Good.
-
-Taiga stayed.
-
-Aaron was pulling on a clean shirt.
-
-He glanced over.
+Around him, people moved toward the showers. Enzo. Gav. Leo—good. Taiga stayed. Aaron was pulling on a clean shirt. He glanced over.
 
 “You waiting?”
 
@@ -802,28 +318,11 @@ Aaron nodded toward the showers.
 
 “They're full.”
 
-They were not. Probably.
-
-Taiga said:
+They were not—probably. Taiga said:
 
 “Yeah.”
 
-Aaron accepted that too.
-
-This was the best conversation they had had all week.
-
-
-Eight minutes later, Leo came back with wet hair and a towel around his hips.
-
-Taiga looked once.
-
-Mistake.
-
-Water moved from Leo's hair down the side of his neck.
-
-Across one shoulder.
-
-Taiga stood immediately.
+Aaron accepted that too. This was the best conversation they had had all week. Eight minutes later, Leo came back with wet hair and a towel around his hips. Taiga looked once. Mistake. Water moved from Leo's hair down the side of his neck. Across one shoulder. Taiga stood immediately.
 
 “Shower.”
 
@@ -831,163 +330,39 @@ Leo blinked.
 
 “Okay?”
 
-Taiga walked away.
-
-Very normal.
-
-Extremely subtle.
-
-Nobody could possibly tell anything was wrong.
-
-He chose the stall farthest from Leo's side of the room.
-
-Turned the water on cold.
-
-Then warmer because he was not an idiot.
-
-He faced the wall.
-
-Washed.
-
-Got out.
-
-Efficient.
-
-Problem solved.
+Taiga walked away. Very normal. Extremely subtle. Nobody could possibly tell anything was wrong. He chose the stall farthest from Leo's side of the room. Turned the water on cold. Then warmer because he was not an idiot. He faced the wall. Washed. Got out. Efficient. Problem solved.
 
 ---
 
-It was not solved.
-
-Thursday proved that.
+It was not solved. Thursday proved that.
 
 ---
 
-Data Structures was normal.
+Data Structures was normal. Taiga and Leo worked separately because Owen assigned random pairs. Leo ended up with Rachel. Taiga got Mia. Mia's code was cleaner than Leo's and therefore less entertaining. He did not think about that. Much. After lab, Leo had a meeting for House Apollo. No coffee. Fine. Taiga went to Discrete Structures, then lunch, then Calculus II. His Chemistry II lab report was due Friday, so the gap before training disappeared into calculations and formatting.
 
-Taiga and Leo worked separately because Owen assigned random pairs.
+He did not see Leo again until training. Also fine. Training was tactical. Westlake on Saturday. Mercer had them working on switches into the weak side because Westlake's fullbacks compressed too aggressively toward the ball. Taiga's role was simple enough: stay wide longer than felt natural. Attack the space when the switch came. Do not drift inside early. Mercer stopped him twice for drifting inside early. The third time Taiga stayed. Gav switched. Ball arrived. Taiga drove forward.
 
-Leo ended up with Rachel.
-
-Taiga got Mia.
-
-Mia's code was cleaner than Leo's and therefore less entertaining.
-
-He did not think about that.
-
-Much.
-
-After lab, Leo had a meeting for House Apollo. No coffee. Fine.
-
-Taiga went to Discrete Structures, then lunch, then Calculus II. His Chemistry II lab report was due Friday, so the gap before training disappeared into calculations and formatting.
-
-He did not see Leo again until training.
-
-Also fine.
-
-Training was tactical.
-
-Westlake on Saturday.
-
-Mercer had them working on switches into the weak side because Westlake's fullbacks compressed too aggressively toward the ball.
-
-Taiga's role was simple enough:
-
-stay wide longer than felt natural.
-
-Attack the space when the switch came.
-
-Do not drift inside early.
-
-Mercer stopped him twice for drifting inside early.
-
-The third time Taiga stayed.
-
-Gav switched.
-
-Ball arrived.
-
-Taiga drove forward.
-
-Leo made the underlap.
-
-Taiga played him through.
-
-Leo cut it back.
-
-Enzo scored.
-
-Clean.
-
-Mercer reset immediately. No celebration. Good.
-
-Next repetition. Again.
-
-By the end of training Taiga's legs were heavy and his brain had stopped generating unnecessary commentary. Excellent.
-
-Then Leo took off his shirt. Apparently his brain had reserves.
-
-Taiga looked away so quickly he nearly stepped into Gav's space.
-
-Gav leaned back.
+Leo made the underlap. Taiga played him through. Leo cut it back. Enzo scored. Clean. Mercer reset immediately. No celebration—good. Next repetition. Again. By the end of training Taiga's legs were heavy and his brain had stopped generating unnecessary commentary—excellent. Then Leo took off his shirt. Apparently his brain had reserves. Taiga looked away so quickly he nearly stepped into Gav's space. Gav leaned back.
 
 “You good?”
 
 “Yeah.”
 
-Gav accepted that and went back to peeling tape from his wrist.
-
-Taiga changed more slowly than usual. Not obviously. Just enough.
-
-Leo and Enzo went toward the showers.
-
-Taiga found something fascinating in his equipment bag.
-
-Shin guards.
-
-Remarkable technology.
-
-Plastic.
-
-Straps.
-
-Truly endless intellectual value.
-
-Scott left.
-
-Gav left.
-
-Aaron went to shower.
-
-Taiga continued reorganizing items that had never needed organization.
-
-Then:
+Gav accepted that and went back to peeling tape from his wrist. Taiga changed more slowly than usual, not obviously, just enough. Leo and Enzo went toward the showers. Taiga found something fascinating in his equipment bag. Shin guards. Remarkable technology. Plastic. Straps. Truly endless intellectual value. Scott left. Gav left. Aaron went to shower. Taiga continued reorganizing items that had never needed organization. Then:
 
 “You lose something?”
 
-Leo.
-
-Taiga looked up.
-
-He had not gone to shower.
-
-Great.
-
-Leo stood beside the bench in training shorts, towel over one shoulder, hair still dry.
+Leo. Taiga looked up. He had not gone to shower. Great. Leo stood beside the bench in training shorts, towel over one shoulder, hair still dry.
 
 “No.”
 
 “You've moved that tape three times.”
 
-Taiga looked at the roll in his hand.
-
-Fuck.
+Taiga looked at the roll in his hand. Fuck.
 
 “I'm cleaning.”
 
-Leo looked around the locker room.
-
-Then at Taiga's bag.
+Leo looked around the locker room. Then at Taiga's bag.
 
 “You're organizing adhesive.”
 
@@ -1011,31 +386,13 @@ Leo pointed at him.
 
 “Interesting argument from the man currently in possession of my shampoo.”
 
-Taiga looked inside.
-
-Blue bottle.
-
-Right.
-
-He remembered Leo tossing it there while Enzo tried to fit three people's toiletries onto one shelf.
-
-He reached for it.
-
-Leo reached at the same time.
-
-Their fingers knocked together.
-
-Taiga pulled back.
-
-Leo took the bottle.
+Taiga looked inside. Blue bottle. Right. He remembered Leo tossing it there while Enzo tried to fit three people's toiletries onto one shelf. He reached for it. Leo reached at the same time. Their fingers knocked together. Taiga pulled back. Leo took the bottle.
 
 “Thanks.”
 
 “Yeah.”
 
-Leo turned toward the showers.
-
-Then stopped after one step.
+Leo turned toward the showers. Then stopped after one step.
 
 “Oh—coffee tomorrow after lab?”
 
@@ -1053,115 +410,15 @@ Taiga answered before thinking.
 
 “Yes, sir.”
 
-Leo walked away.
-
-Taiga watched him for three steps.
-
-Then realized he was watching.
-
-He snapped his attention back to the locker.
-
-Jesus fucking Christ.
-
-That was the answer, apparently.
-
-Leo did not need to announce that things were getting better.
-
-He just kept choosing to come back.
+Leo walked away. Taiga watched him for three steps. Then realized he was watching. He snapped his attention back to the locker. Jesus fucking Christ. That was the answer, apparently. Leo did not need to announce that things were getting better. He just kept choosing to come back.
 
 ---
 
-He waited until Leo's shower turned on.
+He waited until Leo's shower turned on. He knew which one because Leo had said something to Enzo. Taiga sat another minute. Then two. This was ridiculous. He stood and walked to the shower room. Several stalls were occupied. Steam. Water. Voices. He chose one at the opposite end and pulled the curtain. Turned on the water—good. He faced forward. The wall was tile. White. Slight crack near the grout. Interesting. Behind the frosted divider to his left, somebody moved, not Leo.
 
-He knew which one because Leo had said something to Enzo.
+Wrong height. Taiga hated that he knew that. Two stalls farther, Leo laughed at something Enzo said. Taiga faced the wall harder. This was impossible. Not looking at someone should not require this much information about where they were. He washed his hair. Focused on practical things. Shampoo. Rinse. Soap. Rinse. The water from Leo's stall stopped. Taiga knew that too. Fuck. A shadow moved beyond the frosted panel near the aisle. Only shape. Nothing detailed. Still enough.
 
-Taiga sat another minute.
-
-Then two.
-
-This was ridiculous.
-
-He stood.
-
-Walked to the shower room.
-
-Several stalls were occupied.
-
-Steam.
-
-Water.
-
-Voices.
-
-He chose one at the opposite end.
-
-Pulled the curtain.
-
-Turned on the water. Good.
-
-He faced forward.
-
-The wall was tile.
-
-White.
-
-Slight crack near the grout.
-
-Interesting.
-
-Behind the frosted divider to his left, somebody moved. Not Leo.
-
-Wrong height.
-
-Taiga hated that he knew that.
-
-Two stalls farther, Leo laughed at something Enzo said.
-
-Taiga faced the wall harder.
-
-This was impossible.
-
-Not looking at someone should not require this much information about where they were.
-
-He washed his hair.
-
-Focused on practical things.
-
-Shampoo.
-
-Rinse.
-
-Soap.
-
-Rinse.
-
-The water from Leo's stall stopped.
-
-Taiga knew that too.
-
-Fuck.
-
-A shadow moved beyond the frosted panel near the aisle.
-
-Only shape.
-
-Nothing detailed. Still enough.
-
-Taiga's body tightened. Not full arousal. Not even close.
-
-Just an anticipatory jolt that was humiliating precisely because almost nothing had happened.
-
-He turned his face toward the tile.
-
-Water hit the back of his neck.
-
-Someone walked past outside.
-
-Bare feet.
-
-Towel movement.
-
-Leo's voice:
+Taiga's body tightened, not full arousal, not even close. Just an anticipatory jolt that was humiliating precisely because almost nothing had happened. He turned his face toward the tile. Water hit the back of his neck. Someone walked past outside. Bare feet. Towel movement. Leo's voice:
 
 “Enzo, that's mine.”
 
@@ -1171,25 +428,11 @@ Enzo:
 
 “That is not how ownership works!”
 
-Normal locker-room bullshit.
-
-Taiga closed his eyes.
-
-His body had become a traitor.
-
-Worse:
-
-A predictable traitor.
+Normal locker-room bullshit. Taiga closed his eyes. His body had become a traitor. Worse: A predictable traitor.
 
 ---
 
-Caleb was at his desk when Taiga got home.
-
-Maya was on the floor with a laptop open and three highlighters arranged beside her knee.
-
-Taiga put his bag down.
-
-Maya looked at the clock.
+Caleb was at his desk when Taiga got home. Maya was on the floor with a laptop open and three highlighters arranged beside her knee. Taiga put his bag down. Maya looked at the clock.
 
 “You're late.”
 
@@ -1215,9 +458,7 @@ Taiga slowly turned.
 
 “You arrived at seven-oh-eight.”
 
-Maya looked delighted.
-
-Taiga pointed at her.
+Maya looked delighted. Taiga pointed at her.
 
 “Stay out of it.”
 
@@ -1239,19 +480,11 @@ Caleb returned to his screen.
 
 “No.”
 
-Taiga took off his coat.
-
-Caleb paused for a second.
-
-Then shrugged.
+Taiga took off his coat. Caleb paused for a second. Then shrugged.
 
 “Okay.”
 
-That was it. No investigation.
-
-Thank God.
-
-Maya said:
+That was it. No investigation. Thank God. Maya said:
 
 “Do you want pasta?”
 
@@ -1271,38 +504,16 @@ Caleb said:
 
 “It was preventive.”
 
-Taiga ate pasta.
-
-They talked about Maya's presentation.
-
-Caleb had opinions about her graph labels.
-
-Maya had stronger opinions about Caleb's opinions.
-
-Taiga mostly listened.
-
-His phone buzzed once.
-
-Leo.
+Taiga ate pasta. They talked about Maya's presentation. Caleb had opinions about her graph labels. Maya had stronger opinions about Caleb's opinions. Taiga mostly listened. His phone buzzed once. Leo.
 
 **Leo:** important
 
-Taiga unlocked it.
-
-A photo loaded.
-
-Enzo asleep on the House Apollo common-room couch with one sock missing.
+Taiga unlocked it. A photo loaded. Enzo asleep on the House Apollo common-room couch with one sock missing.
 
 **Leo:** couch survived
 **Leo:** enzo questionable
 
-Taiga smiled.
-
-Maya saw.
-
-Said nothing. Good person.
-
-He typed:
+Taiga smiled. Maya saw. Said nothing. Good person. He typed:
 
 **Taiga:** check under the couch
 
@@ -1326,55 +537,17 @@ Leo:
 
 **Leo:** caleb is spreading
 
-Taiga looked at Caleb.
-
-Caleb was explaining axis labels to Maya with the intensity of treaty negotiation.
-
-Taiga typed:
+Taiga looked at Caleb. Caleb was explaining axis labels to Maya with the intensity of treaty negotiation. Taiga typed:
 
 **Taiga:** terminal
 
-Leo reacted with a skull. Normal.
-
-Taiga put the phone down.
-
-Face up.
-
-Then remembered Leo standing in training shorts.
-
-Fuck.
-
-He turned the screen off.
+Leo reacted with a skull. Normal. Taiga put the phone down. Face up. Then remembered Leo standing in training shorts. Fuck. He turned the screen off.
 
 ---
 
-Saturday's match against Westlake started at three.
+Saturday's match against Westlake started at three. Taiga was on the bench. That was fine. Actually fine. He had played enough first-team minutes now that sitting out the opening half no longer felt like a referendum on his entire existence. Progress. Westlake defended exactly the way Mercer had said they would. Narrow. Aggressive toward the ball. Space opposite. Olympus found it twice in the first twenty minutes and wasted both.
 
-Taiga was on the bench.
-
-That was fine. Actually fine.
-
-He had played enough first-team minutes now that sitting out the opening half no longer felt like a referendum on his entire existence.
-
-Progress.
-
-Westlake defended exactly the way Mercer had said they would.
-
-Narrow.
-
-Aggressive toward the ball.
-
-Space opposite.
-
-Olympus found it twice in the first twenty minutes and wasted both.
-
-Leo started on the right and Enzo on the left, with Jordan Price through the middle. Aaron held one fullback spot while Jonah Ellis took the other; Theo Walsh and Malik Carter anchored the center. Gav worked centrally with Isaac Romero, and Scott started in goal. Nate Kim took the warm-up shots beside him before kickoff.
-
-The first half ended zero-zero.
-
-Mercer spoke for four minutes at halftime. No yelling.
-
-Worse.
+Leo started on the right and Enzo on the left, with Jordan Price through the middle. Aaron held one fullback spot while Jonah Ellis took the other; Theo Walsh and Malik Carter anchored the center. Gav worked centrally with Isaac Romero, and Scott started in goal. Nate Kim took the warm-up shots beside him before kickoff. The first half ended zero-zero. Mercer spoke for four minutes at halftime. No yelling. Worse.
 
 “Too narrow.”
 
@@ -1394,101 +567,9 @@ Then:
 
 “Akatora. Warm up.”
 
-Taiga stood. No adrenaline explosion. No internal ceremony. Just:
+Taiga stood. There was no adrenaline explosion or internal ceremony. Just: Okay. He jogged. Second half. Fifty-fourth minute, Mercer sent him on for Enzo. Left wing. Simple assignment. Stay wide. Attack weak side. Taiga did. First possession, he got the ball and lost it. Westlake countered. Gav cleaned it up. No disaster. Next possession. Again. Taiga held width. Leo had moved inside from the opposite side. Switch came through midfield. Taiga received. Fullback late. He drove forward. Cross blocked. Corner. Fine.
 
-Okay.
-
-He jogged.
-
-Second half.
-
-Fifty-fourth minute, Mercer sent him on for Enzo.
-
-Left wing. Simple assignment.
-
-Stay wide.
-
-Attack weak side.
-
-Taiga did.
-
-First possession, he got the ball and lost it.
-
-Westlake countered.
-
-Gav cleaned it up. No disaster.
-
-Next possession. Again.
-
-Taiga held width.
-
-Leo had moved inside from the opposite side.
-
-Switch came through midfield.
-
-Taiga received.
-
-Fullback late.
-
-He drove forward.
-
-Cross blocked.
-
-Corner. Fine.
-
-Seven minutes later, same pattern.
-
-This time the fullback anticipated.
-
-Taiga cut inside.
-
-Played square.
-
-Aaron recycled.
-
-The game moved.
-
-At sixty-eight, Westlake scored from a set piece.
-
-Annoying.
-
-Olympus did not panic.
-
-At seventy-six, Leo received between lines.
-
-Turned.
-
-Taiga saw the lane before the pass existed.
-
-Started running.
-
-Leo looked up.
-
-Played diagonal.
-
-Perfect weight.
-
-Taiga reached it before the fullback.
-
-One touch.
-
-Cross. Not great. Good enough.
-
-Striker got a toe.
-
-Goal.
-
-One-one.
-
-Crowd noise.
-
-Bodies.
-
-Someone hit Taiga from the side.
-
-Leo.
-
-Arm around his shoulders.
+Seven minutes later, same pattern. This time the fullback anticipated. Taiga cut inside. Played square. Aaron recycled. The game moved. At sixty-eight, Westlake scored from a set piece. Annoying. Olympus did not panic. At seventy-six, Leo received between lines. Turned. Taiga saw the lane before the pass existed and started running. Leo looked up. Played diagonal. Perfect weight. Taiga reached it before the fullback. One touch. Cross, not great. Good enough. Striker got a toe. Goal. One-one. Crowd noise. Bodies. Someone hit Taiga from the side. Leo. Arm around his shoulders.
 
 “YES! That's it, that's exactly it!”
 
@@ -1502,65 +583,15 @@ Taiga was laughing before he knew he was.
 
 “Two yards is a continent!”
 
-Players arrived.
-
-Hands.
-
-Shoulders.
-
-Noise.
-
-Leo's arm stayed around Taiga for maybe two seconds.
-
-Maybe three.
-
-The side of Leo's chest was against his upper arm.
-
-Leo's hand rested briefly at the back of Taiga's shoulder.
-
-Heat.
-
-Then the group broke.
-
-Leo ran back into position.
-
-Taiga stood for half a second too long.
-
-Mercer shouted:
+Players arrived. Hands. Shoulders. Noise. Leo's arm stayed around Taiga for maybe two seconds. Maybe three. The side of Leo's chest was against his upper arm. Leo's hand rested briefly at the back of Taiga's shoulder. Heat. Then the group broke. Leo ran back into position. Taiga stood for half a second too long. Mercer shouted:
 
 “RESET!”
 
-Taiga reset. Good.
-
-Olympus drew one-one. No heroic winner. No dramatic lesson.
-
-A decent result against a difficult team.
-
-Mercer told them the shape was better in the second half.
-
-That was all.
-
-Taiga liked him for it.
+Taiga reset—good. Olympus drew one-one. There was no heroic winner or dramatic lesson. A decent result against a difficult team. Mercer told them the shape was better in the second half. That was all. Taiga liked him for it.
 
 ---
 
-The locker room after the match was chaos.
-
-One-one apparently generated exactly enough satisfaction for noise but not enough for celebration.
-
-Enzo complained that his first-half shot had been “morally on target.”
-
-Gav told him morality had no place in statistics.
-
-Aaron was in a better mood than Taiga had seen since Pinetree. Not cheerful. Normal.
-
-That was probably better.
-
-Taiga sat.
-
-Leo dropped onto the bench beside him, close enough that their knees nearly touched.
-
-Leo started removing tape from one ankle.
+The locker room after the match was chaos. One-one apparently generated exactly enough satisfaction for noise but not enough for celebration. Enzo complained that his first-half shot had been “morally on target.” Gav told him morality had no place in statistics. Aaron was in a better mood than Taiga had seen since Pinetree, not cheerful. Normal. That was probably better. Taiga sat. Leo dropped onto the bench beside him, close enough that their knees nearly touched. Leo started removing tape from one ankle.
 
 “Your cross was ugly.”
 
@@ -1588,37 +619,7 @@ Leo looked offended.
 
 “Correct.”
 
-Leo kept talking while pulling off the rest of the tape.
-
-Taiga listened. Mostly.
-
-Then Leo bent forward to reach for the clean shorts inside his bag.
-
-Taiga's eyes dropped. Again.
-
-Immediate.
-
-Ass.
-
-Compression shorts.
-
-Round.
-
-Taiga's stomach pulled tight.
-
-The reaction went lower.
-
-Warmer.
-
-More specific.
-
-He looked away.
-
-Fast.
-
-His face heated.
-
-Leo straightened.
+Leo kept talking while pulling off the rest of the tape. Taiga listened—mostly. Then Leo bent forward to reach for the clean shorts inside his bag. Taiga's eyes dropped. Again. Immediate. Ass. Compression shorts. Round. Taiga's stomach pulled tight. The reaction went lower. Warmer. More specific. He looked away—fast. His face heated. Leo straightened.
 
 “—and then Gav says the switch was late, which, okay, maybe, but if he'd released it two seconds earlier you would've had the fullback already—”
 
@@ -1640,39 +641,7 @@ Leo brightened.
 
 “Exactly.”
 
-Lucky.
-
-Taiga stood.
-
-Grabbed towel.
-
-Shower.
-
-Immediately.
-
-Before Leo.
-
-New strategy.
-
-Better.
-
-He walked into the shower room.
-
-Picked a stall.
-
-Turned the water on.
-
-Problem solved.
-
-For approximately forty seconds.
-
-Then the stall beside him started.
-
-Taiga froze. No.
-
-Absolutely not.
-
-Leo's voice through the divider:
+Lucky. Taiga stood. Grabbed towel. Shower—immediately. Before Leo. New strategy. Better. He walked into the shower room and picked a stall. Turned the water on. Problem solved. For approximately forty seconds. Then the stall beside him started. Taiga froze. No. Absolutely not. Leo's voice through the divider:
 
 “Please tell me that's you and not Enzo.”
 
@@ -1690,31 +659,7 @@ Taiga stared at the tile.
 
 “Coward.”
 
-Taiga put his forehead briefly against the cool tile.
-
-Of course.
-
-Of course Leo had picked the stall beside him.
-
-There were six stalls. People used them.
-
-Leo started humming.
-
-Badly.
-
-Taiga washed his hair.
-
-Fast.
-
-Then slower because leaving immediately would be obvious.
-
-Why would it be obvious?
-
-Nobody knew what was happening.
-
-Taiga barely knew what was happening.
-
-Leo stopped humming.
+Taiga put his forehead briefly against the cool tile. Of course. Of course Leo had picked the stall beside him. There were six stalls. People used them. Leo started humming. Badly. Taiga washed his hair—fast. Then slower because leaving immediately would be obvious. Why would it be obvious? Nobody knew what was happening. Taiga barely knew what was happening. Leo stopped humming.
 
 “Hey.”
 
@@ -1724,17 +669,13 @@ Taiga's pulse jumped.
 
 “Do you think Mercer's going to keep using that switch next week or was it just Westlake?”
 
-Soccer.
-
-Thank God.
+Soccer. Thank God.
 
 “Depends on opponent.”
 
 “Yeah, I know, but I mean the shape. Because if Aaron stays high and I come inside, you basically get the entire weak side if the six can hit it. Which is nice, but if the turnover happens while both fullbacks are high, Gav is going to age thirty years.”
 
-Taiga breathed.
-
-Too many words about soccer while Leo stood naked one wall away.
+Taiga breathed. Too many words about soccer while Leo stood naked one wall away.
 
 “Mercer will change it.”
 
@@ -1752,17 +693,11 @@ Too many words about soccer while Leo stood naked one wall away.
 
 “Okay, partially related.”
 
-Taiga smiled despite himself.
-
-Water ran.
-
-Then Leo said:
+Taiga smiled despite himself. Water ran. Then Leo said:
 
 “You were good today.”
 
-Leo's voice had softened slightly.
-
-Taiga's shoulders tightened. Still conversational. Not serious.
+Leo's voice had softened slightly. Taiga's shoulders tightened. Still conversational, not serious.
 
 “You were fine too.”
 
@@ -1780,59 +715,9 @@ Taiga's shoulders tightened. Still conversational. Not serious.
 
 “Devastating, honestly. Twenty minutes of repaired friendship, gone.”
 
-Taiga laughed.
+Taiga laughed. Leo did too. The sound came through water and tile. Taiga closed his eyes. Memory supplied the rest. Leo's back. Waist. Ass. Fuck. Taiga turned the water colder, not dramatically. One notch. Enough. His body had started responding, not fully. But unmistakably. Heat low in his abdomen. Arousal beginning before there was anything to justify it except Leo existing naked on the other side of a divider and talking about a pass. Taiga stared at the wall.
 
-Leo did too.
-
-The sound came through water and tile.
-
-Taiga closed his eyes.
-
-Memory supplied the rest.
-
-Leo's back.
-
-Waist.
-
-Ass.
-
-Fuck.
-
-Taiga turned the water colder. Not dramatically.
-
-One notch.
-
-Enough.
-
-His body had started responding. Not fully.
-
-But unmistakably.
-
-Heat low in his abdomen.
-
-Arousal beginning before there was anything to justify it except Leo existing naked on the other side of a divider and talking about a pass.
-
-Taiga stared at the wall.
-
-He knew what this was.
-
-There was no clever interpretation available. No *I notice everyone.* No *locker rooms are weird.* No *Aaron made me self-conscious.*
-
-He was attracted to Leo. Physically.
-
-The thought existed.
-
-Clean.
-
-Horrifying. Not new, probably.
-
-Newly admitted.
-
-Taiga swallowed.
-
-Leo said something about Mercer.
-
-Taiga missed it.
+He knew what this was. There was no clever interpretation available. No *I notice everyone.* No *locker rooms are weird.* No *Aaron made me self-conscious.* He was attracted to Leo. Physically. The thought existed. Clean. Horrifying, not new, probably. Newly admitted. Taiga swallowed. Leo said something about Mercer. Taiga missed it.
 
 “Sorry?”
 
@@ -1854,80 +739,21 @@ Taiga's heart kicked.
 
 “Okay. I was asking if you think Mercer—”
 
-Leo continued.
-
-He accepted the answer. Good.
-
-Taiga forced himself to listen.
-
-Soccer.
-
-Shape.
-
-Westlake. Normal.
-
-Eventually Leo's water shut off.
+Leo continued. He accepted the answer—good. Taiga forced himself to listen. Soccer. Shape. Westlake. Normal. Eventually Leo's water shut off.
 
 “See you out there.”
 
 “Yeah.”
 
-Curtain.
-
-Footsteps.
-
-Gone.
-
-Taiga stayed under the water another minute.
-
-Then two.
-
-He looked down once. Not fully hard.
-
-Close enough that denial would have required professional assistance.
+Curtain. Footsteps. Gone. Taiga stayed under the water another minute. Then two. He looked down once, not fully hard. Close enough that denial would have required professional assistance.
 
 “Fuck.”
 
-Quietly. No one answered. Good.
-
-
-He got dressed after most of the room had emptied.
-
-Leo was gone.
-
-Also good. Probably.
-
-Taiga walked back toward the Residential Zone alone. Cold air.
-
-Clear head. Mostly.
-
-He could deal with this.
-
-Attraction was not a crisis.
-
-People were attractive.
-
-Taiga had been attracted to people before.
-
-The fact that this specific person happened to be Leo did not—
-
-He stopped walking.
-
-That was exactly what mattered.
-
-Fuck.
-
-His phone buzzed.
-
-Leo.
-
-Of course.
+Quietly. No one answered—good. He got dressed after most of the room had emptied. Leo was gone. Also good—probably. Taiga walked back toward the Residential Zone alone. Cold air. Clear head—mostly. He could deal with this. Attraction was not a crisis. People were attractive. Taiga had been attracted to people before. The fact that this specific person happened to be Leo did not— He stopped walking. That was exactly what mattered. Fuck. His phone buzzed. Leo. Of course.
 
 **Leo:** btw the pass was perfect
 
-Taiga stared.
-
-Then:
+Taiga stared. Then:
 
 **Taiga:** you're still on this?
 
@@ -1939,9 +765,7 @@ Then:
 **Leo:** revisionism already
 **Leo:** sad
 
-Taiga smiled.
-
-Typed:
+Taiga smiled. Typed:
 
 **Taiga:** send the clip
 
@@ -1950,47 +774,7 @@ Leo:
 **Leo:** OH so now we use evidence
 **Leo:** one sec
 
-Thirty seconds later, video.
-
-Leo's pass.
-
-Taiga's run.
-
-Cross.
-
-Goal.
-
-Taiga watched once.
-
-Then again.
-
-On the second viewing he noticed something unrelated to the pass.
-
-After releasing the ball, Leo kept running.
-
-Eyes on Taiga.
-
-When the cross connected and the striker scored, Leo's face changed before anyone else reached him.
-
-Bright.
-
-Immediate.
-
-He ran straight toward Taiga.
-
-Arm around shoulders.
-
-Noise.
-
-Taiga paused the clip.
-
-Bad idea.
-
-He closed it.
-
-Walked again.
-
-His phone buzzed.
+Thirty seconds later, video. Leo's pass. Taiga's run. Cross. Goal. Taiga watched once. Then again. On the second viewing he noticed something unrelated to the pass. After releasing the ball, Leo kept running. Eyes on Taiga. When the cross connected and the striker scored, Leo's face changed before anyone else reached him. Bright. Immediate. He ran straight toward Taiga. Arm around shoulders. Noise. Taiga paused the clip. Bad idea. He closed it and walked again. His phone buzzed.
 
 **Leo:** well?
 
@@ -2011,133 +795,21 @@ Leo:
 
 **Leo:** no you'd miss me
 
-Taiga stopped.
-
-Old line.
-
-They had said versions of it before.
-
-Before Pinetree.
-
-Before the conversation.
-
-Before *I know we're close.*
-
-Before *I like being around you.*
-
-Before *I don't know what this is.*
-
-The line had existed before Pinetree.
-
-Taiga heard it differently now.
-
-He stared.
-
-Then typed:
+Taiga stopped. Old line. They had said versions of it before. Before Pinetree. Before the conversation. Before *I know we're close.* Before *I like being around you.* Before *I don't know what this is.* The line had existed before Pinetree. Taiga heard it differently now. He stared. Then typed:
 
 **Taiga:** unfortunately
 
-Leo reacted with a heart.
-
-Taiga put the phone away.
-
-Kept walking.
+Leo reacted with a heart. Taiga put the phone away. Kept walking.
 
 ---
 
-On Monday, Taiga waited nine minutes after training before showering.
+On Monday, Taiga waited nine minutes after training before showering. Tuesday, twelve. Thursday, he showered first. Saturday had proven that strategy was useless. The problem was not timing. The problem was that Leo also existed before and after showers. Shirt off. Shirt on. Wet hair. Dry hair. Shorts. Towel. Training kit. Jeans. Sweater. Apparently every state contained hazards. By the following Tuesday, Taiga had developed a system. It was not avoidance. Systems were neutral. After training: boots off.
 
-Tuesday, twelve.
-
-Thursday, he showered first.
-
-Saturday had proven that strategy was useless.
-
-The problem was not timing.
-
-The problem was that Leo also existed before and after showers.
-
-Shirt off.
-
-Shirt on.
-
-Wet hair.
-
-Dry hair.
-
-Shorts.
-
-Towel.
-
-Training kit.
-
-Jeans.
-
-Sweater. Apparently every state contained hazards.
-
-By the following Tuesday, Taiga had developed a system.
-
-It was not avoidance.
-
-Systems were neutral.
-
-After training:
-
-boots off.
-
-Tape away.
-
-Check phone.
-
-Refill water bottle.
-
-Wait until the initial shower rush passed.
-
-Enter.
-
-Choose end stall.
-
-Face wall.
-
-Leave.
-
-Efficient.
-
-The system worked.
-
-Except it required knowing when Leo entered.
-
-And when Leo left.
-
-And whether his voice was still in the shower room.
-
-And which locker he was standing at.
-
-And whether Taiga could safely look across the aisle without accidentally seeing him shirtless.
-
-By Thursday, Taiga understood the flaw.
-
-He had spent an entire week trying not to look at Leo.
-
-Which apparently required knowing where Leo was at all times.
-
-That seemed worse.
+Tape away. Check phone. Refill water bottle. Wait until the initial shower rush passed. Enter. Choose end stall. Face wall. Leave. Efficient. The system worked. Except it required knowing when Leo entered. And when Leo left. And whether his voice was still in the shower room. And which locker he was standing at. And whether Taiga could safely look across the aisle without accidentally seeing him shirtless. By Thursday, Taiga understood the flaw. He had spent an entire week trying not to look at Leo. Which apparently required knowing where Leo was at all times. That seemed worse.
 
 ---
 
-Thursday evening, he sat at his desk pretending to work through a Calculus II problem set.
-
-Caleb was on his bed.
-
-Maya had left an hour earlier.
-
-Room quiet.
-
-phone face up.
-
-A message arrived.
-
-Leo.
+Thursday evening, he sat at his desk pretending to work through a Calculus II problem set. Caleb was on his bed. Maya had left an hour earlier. Room quiet. phone face up. A message arrived. Leo.
 
 **Leo:** tomorrow i am bringing evidence that owen hates us
 **Leo:** prepare accordingly
@@ -2150,62 +822,16 @@ Leo:
 
 **Leo:** hostile witness
 
-Taiga smiled despite himself.
-
-Then he leaned back.
-
-Stared at the ceiling.
-
-He knew why he wanted to go.
-
-He liked Leo.
-
-He liked talking to him.
-
-He liked being around him.
-
-The new problem was that he apparently also liked looking at him.
-
-A lot.
-
-Taiga closed his eyes.
-
-His brain supplied compression shorts.
-
-He opened them immediately.
+Taiga smiled despite himself. Then he leaned back. Stared at the ceiling. He knew why he wanted to go. He liked Leo. He liked talking to him. He liked being around him. The new problem was that he apparently also liked looking at him. A lot. Taiga closed his eyes. His brain supplied compression shorts. He opened them immediately.
 
 “Fuck.”
 
-Caleb turned a page.
-
-Taiga looked over.
-
-Caleb did not. Good.
-
-He returned to the ceiling.
-
-This was manageable. Probably.
-
-He just needed to stop behaving like a sixteen-year-old who had discovered bodies.
-
-He was an adult.
-
-He had self-control.
-
-He could look at Leo without making it weird.
-
-He could shower in the same room without developing a military strategy.
-
-He could act normal.
-
-The phone buzzed again.
+Caleb turned a page. Taiga looked over. Caleb did not—good. He returned to the ceiling. This was manageable—probably. He just needed to stop behaving like a sixteen-year-old who had discovered bodies. He was an adult. He had self-control. He could look at Leo without making it weird. He could shower in the same room without developing a military strategy. He could act normal. The phone buzzed again.
 
 **Leo:** also enzo says you're legally required to admit my pass was perfect by friday
 **Leo:** apparently team law
 
-Taiga smiled despite himself.
-
-Typed:
+Taiga smiled despite himself. Typed:
 
 **Taiga:** tell enzo to find a hobby
 
@@ -2221,24 +847,4 @@ Leo:
 
 **Leo:** see you tomorrow, forty-one
 
-Taiga stared.
-
-Forty-one.
-
-Back. Not announced. Not discussed. Just returned.
-
-Something warm moved through his chest.
-
-Then lower, because apparently his body had become committed to making every emotion inconvenient.
-
-Taiga locked the phone.
-
-Set it beside the laptop.
-
-Face up.
-
-He had wanted ordinary back.
-
-Ordinary now contained Leo.
-
-And Taiga was starting to understand that looking away was not going to make that simpler.
+Taiga stared. Forty-one. Back, not announced, not discussed, just returned. Something warm moved through his chest. Then lower, because apparently his body had become committed to making every emotion inconvenient. Taiga locked the phone. Set it beside the laptop. Face up. He had wanted ordinary back. Ordinary now contained Leo. And Taiga was starting to understand that looking away was not going to make that simpler.

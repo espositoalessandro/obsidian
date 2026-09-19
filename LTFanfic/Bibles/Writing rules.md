@@ -1055,6 +1055,16 @@ The existing cast is already enough.
 
 When revising a chapter, search for:
 
+## Narration
+- telegraph prose built from repeated one-clause or fragment paragraphs;
+- action chains such as "Leo did this. Taiga looked. He moved. They continued.";
+- corrective fragments stacked for rhythm: "Not this. Not that. Something else.";
+- noun-list beats used where a normal sentence would read more naturally;
+- paragraph breaks that exist only to manufacture emphasis;
+- long stretches where every narrative sentence has the same short subject-verb shape.
+
+Short sentences and fragments are still available for genuine emphasis, panic, impact, or comic timing. They should be the exception inside otherwise discursive prose rather than the narrator's default cadence.
+
 ## Dialogue
 - too many one-word replies;
 - repeated "what / nothing";

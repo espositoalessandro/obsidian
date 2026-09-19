@@ -1,20 +1,4 @@
-Taiga woke to movement across the room.
-
-Leo was sitting on the edge of his bunk, pulling on a sock.
-
-For a second neither of them said anything.
-
-Friday was there.
-
-The pier was there.
-
-Leo's head on his shoulder.
-
-The stupid sunset.
-
-The conversation Taiga had somehow survived without throwing himself into the lake.
-
-Leo looked over.
+Taiga woke to movement across the room. Leo was sitting on the edge of his bunk, pulling on a sock. For a second neither of them said anything. Friday came back with the pier, Leo's head on his shoulder and the stupid sunset. The conversation Taiga had somehow survived without throwing himself into the lake. Leo looked over.
 
 “Morning, Taiga.”
 
@@ -24,69 +8,23 @@ Taiga pushed himself upright.
 
 “It's eight.”
 
-Taiga checked the time.
-
-It was, in fact, eight.
+Taiga checked the time. It was, in fact, eight.
 
 “Still early.”
 
-Leo smiled. No stiffness. No careful distance.
-
-That helped more than Taiga wanted to admit.
-
-Leo stood and reached for his sweatshirt.
+Leo smiled. There was no stiffness or careful distance. That helped more than Taiga wanted to admit. Leo stood and reached for his sweatshirt.
 
 “Want breakfast?”
 
 “Yeah. Let's go.”
 
-Taiga got dressed.
-
-They left together.
+Taiga got dressed. They left together.
 
 ---
 
-Lloyd and Darius were already at breakfast. Lloyd had drawn a tiny floor plan on the back of a napkin; Darius was eating pancakes and ignoring it.
+Lloyd and Darius were already at breakfast. Lloyd had drawn a tiny floor plan on the back of a napkin; Darius was eating pancakes and ignoring it. Kieran's chair was empty. Aiden had made pancakes. Yoichi had already eaten three and was working on a fourth. Yuri was trying to convince Goro that Saturday breakfast required music. Goro disagreed with the premise. Yoshinori had a maintenance list beside his plate. Leo sat next to Taiga again. Taiga poured syrup over his pancakes.
 
-Kieran's chair was empty.
-
-Aiden had made pancakes.
-
-Yoichi had already eaten three and was working on a fourth.
-
-Yuri was trying to convince Goro that Saturday breakfast required music.
-
-Goro disagreed with the premise.
-
-Yoshinori had a maintenance list beside his plate.
-
-Leo sat next to Taiga again.
-
-Taiga poured syrup over his pancakes.
-
-Leo reached for the butter.
-
-Their arms touched.
-
-Their sleeves stayed pressed together until Leo pulled back with the butter dish.
-
-Yoichi saw.
-
-His eyes went from their shoulders to Taiga's face.
-
-Taiga looked back.
-
-Yoichi's mouth twitched.
-
-He returned to his pancakes.
-
-Yuri was less subtle.
-
-She looked once.
-
-Then twice.
-
-Aiden put a fresh plate in front of her before she could say anything.
+Leo reached for the butter. Their arms touched. Their sleeves stayed pressed together until Leo pulled back with the butter dish. Yoichi saw. His eyes went from their shoulders to Taiga's face. Taiga looked back. Yoichi's mouth twitched. He returned to his pancakes. Yuri was less subtle. She looked once. Then twice. Aiden put a fresh plate in front of her before she could say anything.
 
 “Eat your pancakes.”
 
@@ -98,9 +36,7 @@ Yuri looked offended.
 
 “Those are not mutually exclusive.”
 
-Taiga took a bite.
-
-Leo leaned toward him.
+Taiga took a bite. Leo leaned toward him.
 
 “She's going to explode.”
 
@@ -112,9 +48,7 @@ Yuri heard.
 
 “Good. You were meant to.”
 
-Leo laughed into his coffee.
-
-Yoshinori waited until everybody had food.
+Leo laughed into his coffee. Yoshinori waited until everybody had food.
 
 “We only have a few things left today.”
 
@@ -130,11 +64,7 @@ Yoshinori ignored him.
 
 “The storage inventory is finished. The shutters are finished. The dock hardware is finished.”
 
-Taiga looked at his coffee.
-
-That one landed differently now.
-
-Yoshinori continued.
+Taiga looked at his coffee. That one landed differently now. Yoshinori continued.
 
 “We need to stack the unused lumber, clear the tools from the activity shed and check the firepit before tonight.”
 
@@ -170,37 +100,7 @@ Lloyd tried to add a “quick improvement” to the lumber-storage layout before
 
 “It was another project.”
 
-Lloyd looked at Yoshinori.
-
-Yoshinori sided with Darius.
-
-Betrayal, apparently.
-
-The morning barely counted as work.
-
-Taiga and Leo moved lumber behind the maintenance shed.
-
-Yoichi carried tools.
-
-Yuri reorganized the activity shed after claiming everybody else had done it wrong.
-
-Yoshinori checked the firepit with Goro.
-
-Aiden disappeared into the kitchen.
-
-Nobody mentioned Kieran.
-
-Taiga was grateful.
-
-He and Leo carried the last board together.
-
-At the stack, Leo lowered his end first.
-
-Taiga adjusted.
-
-They set it down.
-
-Leo brushed dust from his palms.
+Lloyd looked at Yoshinori. Yoshinori sided with Darius. Betrayal, apparently. The morning barely counted as work. Taiga and Leo moved lumber behind the maintenance shed. Yoichi carried tools. Yuri reorganized the activity shed after claiming everybody else had done it wrong. Yoshinori checked the firepit with Goro. Aiden disappeared into the kitchen. Nobody mentioned Kieran. Taiga was grateful. He and Leo carried the last board together. At the stack, Leo lowered his end first. Taiga adjusted. They set it down. Leo brushed dust from his palms.
 
 “That's it?”
 
@@ -238,13 +138,7 @@ Leo put both hands on his hips.
 
 “I knew I liked you.”
 
-Taiga looked at him.
-
-Leo looked back.
-
-There was half a second where the sentence could have become something else.
-
-Then Yoshinori laughed.
+Taiga looked at him. Leo looked back. There was half a second where the sentence could have become something else. Then Yoshinori laughed.
 
 “I am glad.”
 
@@ -256,18 +150,7 @@ Yoshinori pointed toward the lodge.
 
 “Storage room.”
 
-Taiga carried it away.
-
-His face felt warm.
-
-Almost no reason.
-
-
-By noon, preseason was officially done.
-
-At least as far as volunteers were concerned.
-
-Yoshinori made that very clear after Yoichi asked whether the lower fence needed another pass.
+Taiga carried it away. His face felt warm for almost no reason. By noon, preseason was officially done. At least as far as volunteers were concerned. Yoshinori made that very clear after Yoichi asked whether the lower fence needed another pass.
 
 “No more fence today.”
 
@@ -279,9 +162,7 @@ Yoshinori made that very clear after Yoichi asked whether the lower fence needed
 
 “You can fix it next weekend.”
 
-Yoichi looked personally betrayed.
-
-Leo put a hand on his shoulder.
+Yoichi looked personally betrayed. Leo put a hand on his shoulder.
 
 “Come on. You're free now.”
 
@@ -297,9 +178,7 @@ Yoichi shrugged him off.
 
 “It is for me.”
 
-He left.
-
-Leo watched him go.
+He left. Leo watched him go.
 
 “I respect the commitment.”
 
@@ -321,17 +200,13 @@ Leo nodded slowly.
 
 “That sounds familiar.”
 
-Taiga looked at him.
-
-Leo smiled.
+Taiga looked at him. Leo smiled.
 
 “I'm not saying anything else.”
 
 “Good choice.”
 
-They stood there for another moment.
-
-Then Leo looked toward the lake.
+They stood there for another moment. Then Leo looked toward the lake.
 
 “What now?”
 
@@ -345,21 +220,7 @@ Taiga followed his eyes.
 
 ---
 
-They ended up walking. No destination. Just around camp.
-
-Leo took pictures of things Taiga would not have photographed.
-
-Old signs.
-
-A canoe turned upside down behind the shed.
-
-Yuki asleep in a patch of sun.
-
-One of Yuri's newly painted cabin numbers.
-
-Taiga stopped beside the activity board.
-
-Leo took a picture of that too.
+They ended up walking without any destination in mind, simply circling the camp. Leo took pictures of things Taiga would not have photographed. He photographed old signs, a canoe turned upside down behind the shed, Yuki asleep in a patch of sun and one of Yuri's newly painted cabin numbers. Taiga stopped beside the activity board. Leo took a picture of that too.
 
 “Why would you do that?”
 
@@ -373,25 +234,11 @@ Leo took a picture of that too.
 
 “It doesn't have to.”
 
-Taiga shook his head.
-
-They kept walking.
-
-Near the field, Leo slowed.
-
-The jackets they had used for boundaries Thursday were gone.
-
-The goals were still there.
-
-Taiga looked at the spot where Kieran had stood.
-
-Leo did too, then shoved his hands into his pockets.
+Taiga shook his head. They kept walking. Near the field, Leo slowed. The jackets they had used for boundaries Thursday were gone. The goals were still there. Taiga looked at the spot where Kieran had stood. Leo did too, then shoved his hands into his pockets.
 
 “He'll be okay.”
 
-Taiga looked over.
-
-Leo kept his eyes on the field.
+Taiga looked over. Leo kept his eyes on the field.
 
 “I think so too.”
 
@@ -399,9 +246,7 @@ Leo kept his eyes on the field.
 
 “Not completely.”
 
-Leo nodded.
-
-Taiga looked at the goal again.
+Leo nodded. Taiga looked at the goal again.
 
 “He said he'll come back someday.”
 
@@ -409,11 +254,7 @@ Taiga looked at the goal again.
 
 “Yeah. I think it is.”
 
-Leo kicked at a small stone.
-
-It rolled through the grass.
-
-Taiga watched him.
+Leo kicked at a small stone. It rolled through the grass. Taiga watched him.
 
 “No victory speech?”
 
@@ -429,9 +270,7 @@ Leo looked confused.
 
 “I bumped him once.”
 
-Taiga smiled.
-
-Leo caught it.
+Taiga smiled. Leo caught it.
 
 “Also, he apologized.”
 
@@ -449,15 +288,11 @@ Taiga's smile faded.
 
 “What else was I supposed to do?”
 
-Taiga shrugged.
-
-Leo looked back at the field.
+Taiga shrugged. Leo looked back at the field.
 
 “He was hurting.”
 
-Taiga said nothing.
-
-Leo continued.
+Taiga said nothing. Leo continued.
 
 “That doesn't make what he did smart.”
 
@@ -465,9 +300,7 @@ Leo continued.
 
 “But I get it.”
 
-Taiga looked at him.
-
-Leo glanced over.
+Taiga looked at him. Leo glanced over.
 
 “Don't look at me like that.”
 
@@ -483,35 +316,15 @@ Leo glanced over.
 
 “It is, actually.”
 
-Taiga laughed.
-
-Leo did too.
-
-Then they kept walking.
+Taiga laughed. Leo did too. Then they kept walking.
 
 ---
 
-Lunch was outside.
-
-Aiden brought sandwiches to the picnic tables because the weather had finally decided to behave.
-
-Sun. Cold air. No wind.
-
-Yuki stationed herself under Yoichi's bench in case food fell.
-
-Yuri claimed that was manipulation.
-
-Yoichi called it strategy.
-
-Taiga sat beside Leo.
-
-Halfway through lunch, Aiden asked:
+Lunch was outside. Aiden brought sandwiches to the picnic tables because the weather had finally decided to behave. The sun was out, the air was cold, and there was no wind. Yuki stationed herself under Yoichi's bench in case food fell. Yuri claimed that was manipulation. Yoichi called it strategy. Taiga sat beside Leo. Halfway through lunch, Aiden asked:
 
 “What time are you two leaving tomorrow?”
 
-Leo looked at Taiga.
-
-Taiga answered.
+Leo looked at Taiga. Taiga answered.
 
 “Train's at two forty.”
 
@@ -523,11 +336,7 @@ Leo swallowed.
 
 “Tomorrow's going to feel weird.”
 
-Taiga looked at him.
-
-Leo was looking toward the cabins.
-
-Aiden smiled.
+Taiga looked at him. Leo was looking toward the cabins. Aiden smiled.
 
 “That's usually how leaving camp works.”
 
@@ -535,9 +344,7 @@ Aiden smiled.
 
 “You can come back.”
 
-Leo looked at him.
-
-Aiden shrugged.
+Leo looked at him. Aiden shrugged.
 
 “Preseason isn't the only time the road works.”
 
@@ -563,55 +370,17 @@ Yuri stared at him.
 
 “I am often insightful.”
 
-Aiden laughed.
-
-Taiga looked down at his sandwich.
-
-Leo nudged his knee under the table.
+Aiden laughed. Taiga looked down at his sandwich. Leo nudged his knee under the table.
 
 ---
 
-The afternoon disappeared.
+The afternoon disappeared. Cards in the lodge. A walk with Yuki. Leo and Yoichi arguing over whether a stick could be considered a toy if the dog refused to pick it up. Yuri forcing Taiga to help move three boxes she could absolutely have moved herself. Goro falling asleep in a chair and denying it afterward. Nothing important happened. Taiga liked that. At some point Leo ended up on the floor with Yuki's head in his lap. Yoichi sat beside him explaining something about dog training.
 
-Cards in the lodge.
-
-A walk with Yuki.
-
-Leo and Yoichi arguing over whether a stick could be considered a toy if the dog refused to pick it up.
-
-Yuri forcing Taiga to help move three boxes she could absolutely have moved herself.
-
-Goro falling asleep in a chair and denying it afterward.
-
-Nothing important happened.
-
-Taiga liked that.
-
-At some point Leo ended up on the floor with Yuki's head in his lap.
-
-Yoichi sat beside him explaining something about dog training.
-
-Leo listened seriously.
-
-He looked completely at home there.
-
-Taiga sat on the couch with his phone and watched for maybe five seconds too long.
-
-Leo looked up.
-
-Caught him.
-
-Taiga did not look away immediately.
-
-Leo's mouth curved.
-
-Taiga returned to the phone. Mostly.
+Leo listened seriously. He looked completely at home there. Taiga sat on the couch with his phone and watched for maybe five seconds too long. Leo looked up. Caught him. Taiga did not look away immediately. Leo's mouth curved. Taiga returned to the phone—mostly.
 
 ---
 
-Lloyd arrived at the firepit with a folding chair under one arm and a tarot deck under the other.
-
-Goro looked at the cards.
+Lloyd arrived at the firepit with a folding chair under one arm and a tarot deck under the other. Goro looked at the cards.
 
 “No.”
 
@@ -633,15 +402,7 @@ Leo looked at Taiga.
 
 “Unfortunately.”
 
-The firepit started after sunset.
-
-Aiden brought too much food.
-
-Of course.
-
-There were skewers, bread, roasted vegetables, sausages, two bowls of chips, something Yuri insisted was a salad even though it appeared to be eighty percent cheese, and a bag of marshmallows she had apparently hidden from Goro since winter.
-
-Goro objected to the phrase *hidden from Goro*.
+The firepit started after sunset. Aiden brought too much food. Of course. There were skewers, bread, roasted vegetables, sausages, two bowls of chips, something Yuri insisted was a salad even though it appeared to be eighty percent cheese, and a bag of marshmallows she had apparently hidden from Goro since winter. Goro objected to the phrase *hidden from Goro*.
 
 “I knew those were there.”
 
@@ -675,11 +436,7 @@ Goro pointed at him.
 
 “That was enough.”
 
-Taiga took a sausage before Goro could defend himself further.
-
-Yoichi had already taken two.
-
-Aiden slapped the back of his hand when he reached for a third.
+Taiga took a sausage before Goro could defend himself further. Yoichi had already taken two. Aiden slapped the back of his hand when he reached for a third.
 
 “Other people exist.”
 
@@ -687,9 +444,7 @@ Yoichi looked around the circle.
 
 “That remains debatable.”
 
-Yuki sat beside his chair and stared at the food.
-
-Aiden looked at her.
+Yuki sat beside his chair and stared at the food. Aiden looked at her.
 
 “You've eaten.”
 
@@ -697,9 +452,7 @@ Yuki continued staring.
 
 “Do not involve the dog.”
 
-Yoichi tore off a tiny piece of bread.
-
-Aiden saw.
+Yoichi tore off a tiny piece of bread. Aiden saw.
 
 “Yoichi.”
 
@@ -711,15 +464,7 @@ Aiden saw.
 
 “That is not how dogs work.”
 
-Yoichi gave Yuki the bread anyway.
-
-Aiden sighed like a man who had lost this battle years ago.
-
-Then he disappeared into the lodge.
-
-He came back carrying a cooler.
-
-Yoichi's head turned immediately.
+Yoichi gave Yuki the bread anyway. Aiden sighed like a man who had lost this battle years ago. Then he disappeared into the lodge. He came back carrying a cooler. Yoichi's head turned immediately.
 
 “What is that?”
 
@@ -727,9 +472,7 @@ Aiden put it beside his chair.
 
 “Beer. Obviously.”
 
-Yuri clapped once.
-
-Goro frowned.
+Yuri clapped once. Goro frowned.
 
 “We are not turning preseason into a festival.”
 
@@ -741,15 +484,7 @@ Yoshinori smiled.
 
 “And everyone here is an adult.”
 
-Goro looked around the fire.
-
-That did not appear to reassure him.
-
-Aiden handed him the first bottle.
-
-Goro took it.
-
-Yuri started laughing before he even opened it.
+Goro looked around the fire. That did not appear to reassure him. Aiden handed him the first bottle. Goro took it. Yuri started laughing before he even opened it.
 
 “What are you laughing at?”
 
@@ -757,9 +492,7 @@ Yuri started laughing before he even opened it.
 
 “That is never true when you say it.”
 
-Taiga accepted a bottle when the cooler reached him.
-
-Leo looked at the bottle.
+Taiga accepted a bottle when the cooler reached him. Leo looked at the bottle.
 
 “You actually drink.”
 
@@ -769,27 +502,11 @@ Taiga twisted the cap off.
 
 “You wouldn't at Apollo.”
 
-Taiga took a sip. Cold.
-
-Bitter. Good.
+Taiga took a sip. Cold. Bitter—good.
 
 “That was different.”
 
-Leo waited.
-
-Taiga looked around the fire.
-
-Yoshinori.
-
-Aiden.
-
-Yuri already trying to force Goro into a toast.
-
-Yoichi opening his bottle with the edge of a spoon despite the bottle opener sitting directly beside him.
-
-Leo next to Taiga. No strangers.
-
-No room full of people Taiga had to keep track of. No reason to count exits.
+Leo waited. Taiga looked around the fire. Yoshinori. Aiden. Yuri already trying to force Goro into a toast. Yoichi opening his bottle with the edge of a spoon despite the bottle opener sitting directly beside him. Leo next to Taiga. No strangers. No room full of people Taiga had to keep track of. No reason to count exits.
 
 “Too many people I didn't know.”
 
@@ -807,10 +524,7 @@ Leo accepted a beer when Aiden offered him one.
 
 “Definitely not.”
 
-
-The first toast took five minutes because Yuri refused to accept Goro's version.
-
-Goro raised his bottle.
+The first toast took five minutes because Yuri refused to accept Goro's version. Goro raised his bottle.
 
 “To the successful completion of preseason preparations.”
 
@@ -842,13 +556,7 @@ Yoshinori lifted his too.
 
 “And to everyone who came back to help.”
 
-The circle quieted for half a beat.
-
-Taiga knew what that included.
-
-Nobody looked at him. Good.
-
-Then Yoichi ruined the moment.
+The circle quieted for half a beat. Taiga knew what that included. Nobody looked at him—good. Then Yoichi ruined the moment.
 
 “And to Aiden making enough food for twelve people.”
 
@@ -858,28 +566,7 @@ Aiden pointed at him.
 
 “Exactly. That's why I'm grateful.”
 
-They drank.
-
-
-One beer became two. Not quickly.
-
-Goro drank half of one bottle and somehow became more serious.
-
-Yuri became louder.
-
-Enough that every story acquired hand gestures.
-
-Aiden's stories got worse in direct proportion to how funny he found them.
-
-Yoshinori laughed at everything. Not politely. Actually laughed.
-
-Taiga had seen him laugh plenty of times.
-
-He had not seen him laugh hard enough to lose the end of a sentence.
-
-That happened when Aiden started telling Leo about Goro's canoe accident.
-
-Goro sat straighter.
+They drank. One beer became two, not quickly. Goro drank half of one bottle and somehow became more serious. Yuri became louder. Enough that every story acquired hand gestures. Aiden's stories got worse in direct proportion to how funny he found them. Yoshinori laughed at everything, not politely. Actually laughed. Taiga had seen him laugh plenty of times. He had not seen him laugh hard enough to lose the end of a sentence. That happened when Aiden started telling Leo about Goro's canoe accident. Goro sat straighter.
 
 “There was no accident.”
 
@@ -899,19 +586,11 @@ Yuri pointed across the fire.
 
 “That is not what happened.”
 
-Yoshinori was already laughing.
-
-Goro looked at him.
+Yoshinori was already laughing. Goro looked at him.
 
 “You were present. Explain.”
 
-Yoshinori tried.
-
-Nothing came out.
-
-He covered his mouth.
-
-Aiden leaned toward Leo.
+Yoshinori tried. Nothing came out. He covered his mouth. Aiden leaned toward Leo.
 
 “This is the part where Yoshi becomes useless.”
 
@@ -921,21 +600,15 @@ Leo was grinning.
 
 “I did not fall.”
 
-Yuri stood up.
-
-Goro's face changed.
+Yuri stood up. Goro's face changed.
 
 “Yuri, sit down.”
 
-She ignored him.
-
-She positioned herself behind her chair.
+She ignored him. She positioned herself behind her chair.
 
 “This was Goro.”
 
-She planted both feet wide.
-
-Raised one hand like she was addressing troops.
+She planted both feet wide. Raised one hand like she was addressing troops.
 
 “Scouts! Proper balance is a matter of discipline!”
 
@@ -951,19 +624,7 @@ Yuri continued.
 
 “Observe the master.”
 
-Then she leaned dramatically to one side and windmilled both arms.
-
-Aiden supplied the splash with both hands.
-
-Yoshinori bent forward laughing.
-
-Leo nearly spilled his beer.
-
-Taiga had to put his own bottle down.
-
-Goro watched all of them.
-
-His expression suggested murder had become administratively reasonable.
+Then she leaned dramatically to one side and windmilled both arms. Aiden supplied the splash with both hands. Yoshinori bent forward laughing. Leo nearly spilled his beer. Taiga had to put his own bottle down. Goro watched all of them. His expression suggested murder had become administratively reasonable.
 
 “The canoe was clearly defective.”
 
@@ -979,16 +640,7 @@ Goro paused.
 
 “Yes, I did.”
 
-That destroyed whatever remained of Yoshinori.
-
-
-Yoichi claimed beer tasted terrible.
-
-He finished his first one.
-
-Then opened a second.
-
-Leo looked at him.
+That destroyed whatever remained of Yoshinori. Yoichi claimed beer tasted terrible. He finished his first one. Then opened a second. Leo looked at him.
 
 “You hate it?”
 
@@ -1010,19 +662,11 @@ Yuri pointed at him.
 
 “Shut up.”
 
-Yuki had moved from beside Yoichi's chair to directly under it.
-
-Every few minutes something fell.
-
-Every few minutes Yoichi claimed he had no idea how.
-
-Aiden finally caught him dropping a piece of sausage.
+Yuki had moved from beside Yoichi's chair to directly under it. Every few minutes something fell. Every few minutes Yoichi claimed he had no idea how. Aiden finally caught him dropping a piece of sausage.
 
 “You are doing that on purpose.”
 
-Yoichi looked down.
-
-Yuki ate the evidence.
+Yoichi looked down. Yuki ate the evidence.
 
 “No proof.”
 
@@ -1030,9 +674,7 @@ Yuki ate the evidence.
 
 “Sounds like a you problem.”
 
-Aiden stared at him.
-
-Taiga leaned toward Leo.
+Aiden stared at him. Taiga leaned toward Leo.
 
 “Five bucks says Aiden feeds the dog himself before the night is over.”
 
@@ -1046,71 +688,15 @@ Aiden looked over.
 
 “Nothing important,” Leo said.
 
-Taiga drank.
-
-Aiden narrowed his eyes.
-
-Five minutes later he gave Yuki half a sausage.
+Taiga drank. Aiden narrowed his eyes. Five minutes later he gave Yuki half a sausage.
 
 “This is controlled.”
 
-Leo held out his hand without looking.
+Leo held out his hand without looking. Taiga slapped ten imaginary dollars into it. By the middle of the second beer, the fire felt warmer. So did everything else. Taiga's shoulders had loosened. Leo's cheeks were pink. He sat close enough that their knees bumped whenever either moved. Nobody here was dangerous. The thought arrived without effort. At House Apollo, Taiga had spent half the night measuring doors, strangers, noise and distance. Here he could sit with his back half-turned toward the dark and not care.
 
-Taiga slapped ten imaginary dollars into it.
+Yuri was arguing with Goro about whether marshmallows had an expiration date. Aiden was losing a bottle cap under his chair. Yoichi was insulting Leo's taste in beer despite drinking the same beer. Yoshinori had apparently decided this was all perfectly acceptable. Leo leaned against Taiga's arm. Taiga let him. Yuri's eyes moved down. Then up. She smiled into her bottle. Taiga stared at her. Yuri's eyebrows lifted. Taiga narrowed his eyes. She took another drink. Nothing came out of her mouth. Apparently there was wisdom in booze.
 
-
-By the middle of the second beer, the fire felt warmer.
-
-So did everything else.
-
-Taiga's shoulders had loosened.
-
-Leo's cheeks were pink.
-
-He sat close enough that their knees bumped whenever either moved.
-
-Nobody here was dangerous.
-
-The thought arrived without effort.
-
-At House Apollo, Taiga had spent half the night measuring doors, strangers, noise and distance.
-
-Here he could sit with his back half-turned toward the dark and not care.
-
-Yuri was arguing with Goro about whether marshmallows had an expiration date.
-
-Aiden was losing a bottle cap under his chair.
-
-Yoichi was insulting Leo's taste in beer despite drinking the same beer.
-
-Yoshinori had apparently decided this was all perfectly acceptable.
-
-Leo leaned against Taiga's arm.
-
-Taiga let him.
-
-Yuri's eyes moved down.
-
-Then up.
-
-She smiled into her bottle.
-
-Taiga stared at her.
-
-Yuri's eyebrows lifted.
-
-Taiga narrowed his eyes.
-
-She took another drink.
-
-Nothing came out of her mouth. Apparently there was wisdom in booze.
-
-
-The bottle-cap game started because Aiden missed the trash bag.
-
-His cap bounced off the rim and landed in the dirt.
-
-Yoichi looked at it.
+The bottle-cap game started because Aiden missed the trash bag. His cap bounced off the rim and landed in the dirt. Yoichi looked at it.
 
 “Nice throw.”
 
@@ -1128,21 +714,7 @@ Aiden looked at him.
 
 “I am not competing with you over garbage.”
 
-Two minutes later everybody was competing over garbage.
-
-The trash bag sat beside a log.
-
-The rules changed every thirty seconds.
-
-Aiden insisted bouncing the cap off the log counted double.
-
-Yoichi insisted nobody had agreed to that.
-
-Yuri attempted an underhand throw and somehow hit Goro's boot.
-
-Goro looked down.
-
-Then at her.
+Two minutes later everybody was competing over garbage. The trash bag sat beside a log. The rules changed every thirty seconds. Aiden insisted bouncing the cap off the log counted double. Yoichi insisted nobody had agreed to that. Yuri attempted an underhand throw and somehow hit Goro's boot. Goro looked down. Then at her.
 
 “I am sitting directly beside you.”
 
@@ -1152,13 +724,7 @@ Then at her.
 
 “It makes it impressive.”
 
-Yoshinori made his first throw perfectly.
-
-Dead center.
-
-Everybody stared.
-
-He blinked.
+Yoshinori made his first throw perfectly. Dead center. Everybody stared. He blinked.
 
 “What did I do?”
 
@@ -1170,11 +736,7 @@ Yoichi pointed.
 
 “Because that was suspicious.”
 
-Yoshinori threw another cap.
-
-It went in.
-
-Aiden stood.
+Yoshinori threw another cap. It went in. Aiden stood.
 
 “You've done this before.”
 
@@ -1188,9 +750,7 @@ Goro nodded.
 
 “Don't encourage him.”
 
-Leo took Taiga's cap.
-
-Taiga looked at him.
+Leo took Taiga's cap. Taiga looked at him.
 
 “That's mine.”
 
@@ -1200,15 +760,7 @@ Taiga looked at him.
 
 “Exactly. Inefficient.”
 
-Leo leaned back and threw.
-
-The cap hit the rim.
-
-Bounced.
-
-Missed.
-
-Taiga smiled.
+Leo leaned back and threw. The cap hit the rim. Bounced. Missed. Taiga smiled.
 
 “That was pathetic.”
 
@@ -1224,24 +776,7 @@ Leo held out a hand.
 
 “That is not what I asked.”
 
-Taiga laughed.
-
-Yuri looked between them again. Still silent.
-
-Taiga was starting to find that more unsettling than the comments.
-
-
-The marshmallows came out after that.
-
-Yoichi burned his immediately. Not toasted.
-
-Burned.
-
-Black.
-
-Smoking.
-
-Leo looked at it.
+Taiga laughed. Yuri looked between them again. Still silent. Taiga was starting to find that more unsettling than the comments. The marshmallows came out after that. Yoichi burned his immediately, not toasted. Burned. Black. Smoking. Leo looked at it.
 
 “That is carbon.”
 
@@ -1251,9 +786,7 @@ Yoichi held it up.
 
 “That is evidence.”
 
-Yoichi ate it.
-
-Leo stared.
+Yoichi ate it. Leo stared.
 
 “Why would you eat that?”
 
@@ -1263,9 +796,7 @@ Yoichi chewed.
 
 “Of what? Asphalt?”
 
-Taiga held his own marshmallow over the edge of the fire.
-
-Leo leaned across him.
+Taiga held his own marshmallow over the edge of the fire. Leo leaned across him.
 
 “You're too close.”
 
@@ -1277,11 +808,7 @@ Leo leaned across him.
 
 “You burned your sleeve in chemistry.”
 
-Taiga looked at him.
-
-Leo stopped.
-
-Then started laughing.
+Taiga looked at him. Leo stopped. Then started laughing.
 
 “You remember that?”
 
@@ -1295,9 +822,7 @@ Leo leaned closer.
 
 “You were looking at me that day too?”
 
-Taiga's face warmed.
-
-The beer did not help.
+Taiga's face warmed. The beer did not help.
 
 “Eat your marshmallow.”
 
@@ -1307,23 +832,11 @@ The beer did not help.
 
 “You wouldn't.”
 
-Taiga reached for Leo's stick.
-
-Leo pulled it away.
+Taiga reached for Leo's stick. Leo pulled it away.
 
 “You absolutely would.”
 
-Taiga tried again.
-
-Leo twisted in his chair.
-
-Their shoulders hit.
-
-Leo laughed.
-
-Taiga nearly lost his own marshmallow.
-
-Yoichi looked over.
+Taiga tried again. Leo twisted in his chair. Their shoulders hit. Leo laughed. Taiga nearly lost his own marshmallow. Yoichi looked over.
 
 “Jesus Christ. Are you five?”
 
@@ -1333,17 +846,7 @@ Yoichi looked over.
 
 “It is on fire.”
 
-Yoichi looked down.
-
-It was.
-
-He blew on it.
-
-The flame got bigger.
-
-Yuri screamed laughing.
-
-Aiden grabbed the stick from him.
+Yoichi looked down. It was. He blew on it. The flame got bigger. Yuri screamed laughing. Aiden grabbed the stick from him.
 
 “Give me that before you burn down the camp on the last night.”
 
@@ -1365,18 +868,7 @@ Yuri leaned against his shoulder.
 
 “That is not the point.”
 
-
-Aiden finally produced chocolate.
-
-This caused another argument.
-
-Yuri argued for proper s'mores.
-
-Goro objected that they had no crackers suitable for the purpose.
-
-Aiden produced crackers.
-
-Goro stared.
+Aiden finally produced chocolate. This caused another argument. Yuri argued for proper s'mores. Goro objected that they had no crackers suitable for the purpose. Aiden produced crackers. Goro stared.
 
 “You planned this.”
 
@@ -1400,37 +892,17 @@ Yoshinori was still smiling.
 
 “It was very entertaining.”
 
-Leo assembled a s'more badly.
-
-The melted marshmallow squeezed out one side and landed across his thumb.
+Leo assembled a s'more badly. The melted marshmallow squeezed out one side and landed across his thumb.
 
 “Shit, that's hot.”
 
-Taiga laughed.
-
-Leo looked at him.
+Taiga laughed. Leo looked at him.
 
 “You're enjoying this.”
 
 “Very much.”
 
-Leo licked the marshmallow off his thumb.
-
-Taiga's laugh stopped.
-
-Only for a second.
-
-Leo's eyes flicked to Taiga's face.
-
-The corner of his mouth lifted.
-
-Taiga took a drink.
-
-Bad idea.
-
-The beer was almost empty.
-
-Leo leaned closer.
+Leo licked the marshmallow off his thumb. Taiga's laugh stopped. Only for a second. Leo's eyes flicked to Taiga's face. The corner of his mouth lifted. Taiga took a drink. Bad idea. The beer was almost empty. Leo leaned closer.
 
 “Something wrong?”
 
@@ -1440,20 +912,7 @@ Leo leaned closer.
 
 “Preferably quietly.”
 
-Leo smiled.
-
-Taiga stared at the fire.
-
-Warm.
-
-Too warm.
-
-
-At some point Yuri announced that everybody needed to answer a question.
-
-Nobody had agreed to this.
-
-That did not matter.
+Leo smiled. Taiga stared at the fire. Warm. Too warm. At some point Yuri announced that everybody needed to answer a question. Nobody had agreed to this. That did not matter.
 
 “If you could ban one thing from Camp Buddy forever, what would it be?”
 
@@ -1481,17 +940,11 @@ Yoshinori paused for a moment.
 
 “Wasps. Definitely wasps.”
 
-Everyone nodded.
-
-Reasonable.
-
-Goro said:
+Everyone nodded. Reasonable. Goro said:
 
 “Improperly stored equipment.”
 
-Nobody reacted.
-
-He looked around.
+Nobody reacted. He looked around.
 
 “What is wrong with that answer?”
 
@@ -1531,17 +984,11 @@ Aiden looked at Leo.
 
 “What about you?”
 
-Leo looked into the fire and rubbed his thumb over the label on his bottle.
-
-Taiga watched him take the question far more seriously than it deserved.
-
-Finally Leo looked up.
+Leo looked into the fire and rubbed his thumb over the label on his bottle. Taiga watched him take the question far more seriously than it deserved. Finally Leo looked up.
 
 “Curfew. Easy.”
 
-Yoshinori immediately looked at him.
-
-Leo laughed.
+Yoshinori immediately looked at him. Leo laughed.
 
 “I'm kidding.”
 
@@ -1549,9 +996,7 @@ Leo laughed.
 
 “Exactly. No consequences.”
 
-Taiga snorted.
-
-Yoshinori shook his head.
+Taiga snorted. Yoshinori shook his head.
 
 “You have adapted quickly.”
 
@@ -1559,66 +1004,19 @@ Leo looked at Taiga.
 
 “I had good teachers.”
 
-The words were normal.
-
-The look was not.
-
-Taiga's stomach shifted.
-
-Yuri saw that too. Still silent.
-
-Taiga was now convinced somebody had threatened her.
-
-
-The fire burned lower.
-
-Nobody rushed to add another log.
-
-The night had softened around them.
-
-Aiden collected empty plates.
-
-Yoichi stole the last sausage while pretending to help.
-
-Goro caught him.
-
-Yoichi ate it before anything could be done.
-
-Yoshinori had reached the stage where every time Yuri made eye contact with him, he started laughing before she even said anything.
-
-That became its own game.
-
-Yuri turned toward him.
-
-Yoshinori smiled.
-
-She raised one eyebrow.
-
-He covered his mouth.
-
-Aiden stared.
+The words were normal. The look was not. Taiga's stomach shifted. Yuri saw that too. Still silent. Taiga was now convinced somebody had threatened her. The fire burned lower. Nobody rushed to add another log. The night had softened around them. Aiden collected empty plates. Yoichi stole the last sausage while pretending to help. Goro caught him. Yoichi ate it before anything could be done. Yoshinori had reached the stage where every time Yuri made eye contact with him, he started laughing before she even said anything. That became its own game. Yuri turned toward him. Yoshinori smiled. She raised one eyebrow. He covered his mouth. Aiden stared.
 
 “What is happening?”
 
-Yoshinori shook his head.
-
-Yuri leaned forward.
+Yoshinori shook his head. Yuri leaned forward.
 
 “Yoshi, look at me.”
 
-That was enough.
-
-He started laughing again.
-
-Goro looked increasingly concerned.
+That was enough. He started laughing again. Goro looked increasingly concerned.
 
 “You have had two beers.”
 
-Yoshinori tried to answer.
-
-Failed.
-
-Aiden looked at the bottles beside his chair.
+Yoshinori tried to answer. Failed. Aiden looked at the bottles beside his chair.
 
 “He's had one and a half.”
 
@@ -1626,11 +1024,7 @@ Yuri slapped her knee.
 
 “That makes it better.”
 
-Taiga had never seen Yoshinori drunk.
-
-Apparently one and a half beers just made him find Yuri's face hilarious.
-
-Yoichi looked at Taiga.
+Taiga had never seen Yoshinori drunk. Apparently one and a half beers just made him find Yuri's face hilarious. Yoichi looked at Taiga.
 
 “Scoutmaster's broken.”
 
@@ -1642,10 +1036,7 @@ Yoshinori pointed at both of them.
 
 “I can hear you.”
 
-That set Yuri off again.
-
-
-The cooler was nearly empty when Aiden started counting bottles.
+That set Yuri off again. The cooler was nearly empty when Aiden started counting bottles.
 
 “Three for Goro. Two for Yuri. Two for me. Two and a half for Yoshi somehow.”
 
@@ -1673,33 +1064,7 @@ Yoichi looked at the empty bottle.
 
 “Just that I'm better than Sheriff Brokeback.”
 
-Leo started laughing.
-
-Taiga leaned back in his chair.
-
-His own second beer sat empty by his boot.
-
-He felt a bit dizzy, and cursed his slim build.
-
-Dizzy enough that when Leo's arm pressed against his, Taiga pressed back.
-
-Leo looked over.
-
-Taiga held the look.
-
-Leo's cheeks were pink from the fire.
-
-Or beer. Probably both.
-
-Apparently looking at Taiga made the situation worse.
-
-The smile that appeared was small.
-
-Taiga smiled too.
-
-Then Yoichi threw a bottle cap and hit Leo directly in the chest.
-
-Leo jerked.
+Leo started laughing. Taiga leaned back in his chair. His own second beer sat empty by his boot. He felt a bit dizzy, and cursed his slim build. Dizzy enough that when Leo's arm pressed against his, Taiga pressed back. Leo looked over. Taiga held the look. Leo's cheeks were pink from the fire. Or beer. Probably both. Apparently looking at Taiga made the situation worse. The smile that appeared was small. Taiga smiled too. Then Yoichi threw a bottle cap and hit Leo directly in the chest. Leo jerked.
 
 “What the fuck?”
 
@@ -1717,9 +1082,7 @@ Yoichi pointed toward the trash bag.
 
 “There is no wind.”
 
-Taiga started laughing.
-
-Leo looked at him.
+Taiga started laughing. Leo looked at him.
 
 “You're siding with him?”
 
@@ -1733,39 +1096,7 @@ Yoichi nodded.
 
 “Dynamite gets it.”
 
-Leo picked up the bottle cap.
-
-Taiga saw what was coming.
-
-Yoichi did not.
-
-Leo threw.
-
-The cap hit Yoichi in the forehead.
-
-Silence.
-
-Yuri made a noise somewhere between a gasp and a scream.
-
-Yoichi stared at Leo.
-
-Leo stared back.
-
-Then Yuki barked once.
-
-Everybody lost it.
-
-Even Goro.
-
-One laugh.
-
-Short.
-
-But Taiga heard it.
-
-Yuri heard it too.
-
-She pointed at him.
+Leo picked up the bottle cap. Taiga saw what was coming. Yoichi did not. Leo threw. The cap hit Yoichi in the forehead. Silence. Yuri made a noise somewhere between a gasp and a scream. Yoichi stared at Leo. Leo stared back. Then Yuki barked once. Everybody lost it. Even Goro. One laugh. Short. But Taiga heard it. Yuri heard it too. She pointed at him.
 
 “You laughed!”
 
@@ -1793,54 +1124,9 @@ Yuri followed him with her eyes.
 
 “Good. You were meant to.”
 
+By then the fire had collapsed into red coals. The cold had started creeping back into the circle. Aiden put the empty bottles into the cooler. Yuri was still trying to make Goro admit he had laughed. Yoichi had somehow acquired the last marshmallow. Leo sat close enough that their shoulders stayed together without either of them adjusting. Taiga looked at the coals. Then around the fire. The week had gone wrong in almost every way available. Work.
 
-By then the fire had collapsed into red coals.
-
-The cold had started creeping back into the circle.
-
-Aiden put the empty bottles into the cooler.
-
-Yuri was still trying to make Goro admit he had laughed.
-
-Yoichi had somehow acquired the last marshmallow.
-
-Leo sat close enough that their shoulders stayed together without either of them adjusting.
-
-Taiga looked at the coals.
-
-Then around the fire.
-
-The week had gone wrong in almost every way available.
-
-Work.
-
-Kieran.
-
-Leo.
-
-Fighting.
-
-Talking.
-
-Too much talking.
-
-Now Yuri was accusing Goro of emotional fraud while Yoichi tried to toast a marshmallow over coals that barely existed.
-
-Taiga took a breath.
-
-Camp Buddy smelled like smoke.
-
-Beer. Cold air.
-
-Somebody else's burnt sugar.
-
-It felt good.
-
-By then Lloyd had finally gone quiet, shoulder resting against Darius's arm while he stared into the coals.
-
-Taiga looked over.
-
-Darius noticed.
+Kieran. Leo. Fighting. Talking. Too much talking. Now Yuri was accusing Goro of emotional fraud while Yoichi tried to toast a marshmallow over coals that barely existed. Taiga took a breath. Camp Buddy smelled like smoke. Beer. Cold air. Somebody else's burnt sugar. It felt good. By then Lloyd had finally gone quiet, shoulder resting against Darius's arm while he stared into the coals. Taiga looked over. Darius noticed.
 
 “He gets tired.”
 
@@ -1852,41 +1138,23 @@ Lloyd lifted his head.
 
 “Same thing.”
 
-Yoshinori checked his watch.
-
-His eyebrows went up.
+Yoshinori checked his watch. His eyebrows went up.
 
 “All right.”
 
-Nobody moved.
-
-He looked around the circle.
+Nobody moved. He looked around the circle.
 
 “It's almost midnight. Everyone to bed.”
 
-Taiga and Leo slowly stood up.
-
-The ground suddenly seemed way farther away than it used to be.
-
-Also less stable.
-
-Leo stretched and yawned.
+Taiga and Leo slowly stood up. The ground suddenly seemed way farther away than it used to be. Also less stable. Leo stretched and yawned.
 
 “Well, goodnight, then.”
 
-Taiga watched him stagger dangerously for a second, but eventually he found his balance.
-
-Just for good measure, Taiga let Leo walk in front of him.
-
-He turned to say goodnight, but the sight of Yuri made him freeze.
-
-She was looking at him with an almost diabolical grin.
+Taiga watched him stagger dangerously for a second, but eventually he found his balance. Just for good measure, Taiga let Leo walk in front of him. He turned to say goodnight, but the sight of Yuri made him freeze. She was looking at him with an almost diabolical grin.
 
 “Try to get some sleep~”
 
-Taiga wondered if someone had just reignited the fire.
-
-He turned away without giving her the satisfaction of a reaction, but he knew she had already gotten exactly what she wanted.
+Taiga wondered if someone had just reignited the fire. He turned away without giving her the satisfaction of a reaction, but he knew she had already gotten exactly what she wanted.
 
 The walk back to the cabin proved quite difficult for both of them.
 
