@@ -177,8 +177,9 @@ A second intimacy threshold happens almost casually after the Saturday match:
 - Caleb texts that Maya ordered too much Thai food;
 - Taiga invites Leo back to Room 317 rather than letting him go find dinner elsewhere;
 - this is the first time Leo enters Taiga's room / private living space;
-- Leo meets Caleb and Maya directly after hearing about them for months;
-- Caleb already knows who Leo is from Taiga's own stories, while Leo already knows who Caleb is from Taiga's;
+- Leo has already crossed paths with Caleb twice because he forgot his dorm keys and Caleb opened the door for him, but Chapter 23 is their first real conversation;
+- Leo meets Maya directly after hearing about her through Taiga/Caleb;
+- Caleb and Leo already recognize each other, while Maya is the new introduction;
 - nobody treats the invitation as a romantic event or explains its significance.
 
 The scene should remain socially ordinary. Its weight comes from Taiga making room for Leo inside another part of his life without planning to.

@@ -339,37 +339,53 @@ Both of them looked up.
 
 Taiga stepped inside.
 
-“Leo. Caleb. Maya.”
+Leo saw Caleb and pointed.
 
-Leo brightened.
-
-“Oh. Caleb.”
+“Oh. Key rescue.”
 
 Caleb looked at him.
 
-“You are Leo.”
+“You forgot them twice.”
 
-There was a pause.
+“Exactly. Rescue.”
 
-Taiga looked between them.
+“I opened a door.”
 
-Maya started laughing.
+“You saved a life.”
 
-“That was weirdly symmetrical.”
+“No.”
 
-Leo pointed at Caleb.
+Maya looked between them.
 
-“He talks about you.”
+“You two already know each other?”
 
-Caleb nodded once.
+“Technically,” Caleb said.
 
-“He talks about you.”
+Leo nodded.
 
-Taiga closed the door.
+“He's opened this door for me twice.”
 
-“We're done with this conversation.”
+“Because you forgot your keys twice.”
 
-Maya laughed harder.
+“Details.”
+
+Taiga closed the door behind them.
+
+Maya smiled.
+
+“So this is Leo.”
+
+Leo looked at her.
+
+“Oh, shit. Maya?”
+
+She laughed.
+
+“Okay, apparently Taiga talks more than he thinks he does.”
+
+Taiga pointed at the food.
+
+“Can everybody eat instead?”
 
 Leo's grin became dangerous.
 
