@@ -52,7 +52,7 @@ Leo blinked, then smiled. Taiga threw his duffel into the back.
 
 Yoichi snorted. Leo held out a hand.
 
-“Leo Mendez.”
+“Leo.”
 
 Yoichi looked at the hand. Then at Leo.
 
