@@ -160,6 +160,32 @@ Whatever the morning had been, breakfast ended it.
 
 ---
 
+Lloyd was already outside when Taiga reached breakfast, standing over a rolled site plan with one hand shielding it from the wind.
+
+Darius stood beside him with coffee.
+
+“You know tables exist,” Taiga said.
+
+“I needed natural light.”
+
+“You're outside before eight.”
+
+“Exactly.”
+
+Darius looked at Taiga.
+
+“He's been here twenty minutes.”
+
+Lloyd pointed at him.
+
+“Creative work has no clock.”
+
+“Breakfast does.”
+
+Aiden shouted from the lodge that Darius was right.
+
+Lloyd gathered the plan with wounded dignity.
+
 Yoshinori’s first job of the day was the activity shed.
 
 The building sat behind the craft lodge and had spent winter becoming a museum of things nobody remembered storing.
@@ -425,6 +451,32 @@ Kieran was already putting the drill away.
 
 “Most people do.”
 
+
+Darius moved between the groups all morning, checking repairs without hovering. When Taiga reset a warped shelf bracket, Darius tested it once and nodded.
+
+“You've gotten faster.”
+
+Taiga looked at him.
+
+“That praise?”
+
+“Yes.”
+
+Lloyd appeared behind him with a box of labels.
+
+“Write it down. Dar complimented somebody.”
+
+Darius took the labels from him.
+
+“I compliment people.”
+
+“Name three.”
+
+Darius looked at Taiga.
+
+“Taiga. Yoichi. Me.”
+
+“That last one doesn't count.”
 
 They worked until lunch. Not past it.
 
@@ -871,6 +923,12 @@ He had no idea whether the two things were connected.
 
 ---
 
+Tuesday night, Lloyd tried to read Leo's horoscope from memory and got distracted halfway through by an argument with Goro about the placement of a new exterior light.
+
+Darius finished his tea.
+
+“This is why I usually do the schedules.”
+
 Wednesday started with cabin shutters. Not exciting.
 
 That was fine.
@@ -1125,6 +1183,26 @@ Then down at his own plate.
 
 Taiga kept eating.
 
+
+After lunch, Lloyd joined them with the revised expansion inventory while Darius checked straps, buckles and hardware.
+
+“This is still design work,” Lloyd said.
+
+Darius looked at the boxes.
+
+“No.”
+
+“There is organization.”
+
+“That doesn't make it architecture.”
+
+Leo glanced at Taiga.
+
+“Do they ever agree?”
+
+“On buildings.”
+
+“Usually,” Darius said.
 
 The afternoon job was mostly counting.
 
@@ -1452,6 +1530,14 @@ Only once.
 Taiga saw that too.
 
 ---
+
+By dinner, Lloyd had two rolled drawings under one arm and Darius had confiscated a third because Lloyd had tried to put it beside the serving bowls.
+
+“Food and plans do not share tables.”
+
+“They're copies.”
+
+“Still no.”
 
 Dinner was chili.
 

@@ -104,6 +104,18 @@ Great.
 
 ---
 
+Darius had the maintenance box open beside the table, sorting sockets by size. Lloyd was making notes on the dock drawing and talking to himself.
+
+“Washer count?”
+
+“Already checked,” Darius said.
+
+“Measurement sheet?”
+
+“On the clipboard.”
+
+Lloyd looked almost disappointed by the efficiency.
+
 Yoshinori divided the morning work after breakfast.
 
 “We still need to finish the dock hardware inspection, and the north trail markers need to be checked before the weekend.”
@@ -149,6 +161,14 @@ Taiga turned.
 “Yeah. Let's go.”
 
 ---
+
+Darius had left the correct sockets in the top tray with a note that said **CHECK WASHERS TOO**.
+
+Taiga showed Kieran.
+
+“He writes notes like that?”
+
+“Always.”
 
 The dock was empty. No wind.
 
@@ -539,6 +559,12 @@ Taiga looked at him.
 Yoichi nodded.
 
 ---
+
+Lloyd talked through most of lunch about a roof-pitch problem on the guest lodge. Darius corrected one number without looking up from his plate.
+
+Normally Taiga would have enjoyed listening to them argue.
+
+Today it barely registered.
 
 Lunch was terrible.
 
@@ -1055,6 +1081,20 @@ Then he was gone.
 Taiga stood there until the road emptied.
 
 ---
+
+Lloyd watched Kieran's car leave from beside the function hall.
+
+He looked toward Taiga, clearly considered saying something, and for once did not.
+
+Darius handed him a camera.
+
+“Drainage detail.”
+
+Lloyd nodded.
+
+“Right.”
+
+They went back to work.
 
 After Kieran's car disappeared, camp did what it usually did when something difficult happened: it kept operating.
 

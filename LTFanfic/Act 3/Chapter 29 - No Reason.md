@@ -110,6 +110,20 @@ Yoichi threw a napkin at both of them.
 
 ---
 
+Darius had already stripped the bad braces from the canoe rack before breakfast. Lloyd had written the cut list in red pencil and added **DO NOT IMPROVISE** across the top.
+
+Taiga showed Leo.
+
+“That's for Yoichi.”
+
+From across the yard, Lloyd called:
+
+“It's for everyone!”
+
+Darius looked at the list.
+
+“Mostly Yoichi.”
+
 The morning work was simple. Simple by Camp Buddy standards, anyway.
 
 One section of the canoe rack needed reinforcement.
@@ -222,6 +236,22 @@ For now.
 
 ---
 
+Darius checked their last brace, leaned his weight against the rack and stepped back.
+
+“Good.”
+
+Taiga looked at Leo.
+
+“Certified.”
+
+“No.”
+
+Lloyd arrived with the sponsor folder.
+
+“Spiritually certified.”
+
+Darius sighed.
+
 By eleven, the rack was solid.
 
 Yoshinori tested it with both hands.
@@ -331,6 +361,26 @@ Kieran sniffed his sleeve.
 “That's fair.”
 
 ---
+
+Lloyd was more nervous about the sponsor meeting than Goro.
+
+“It's not even a construction review,” Darius told him.
+
+“It contains construction numbers.”
+
+“It contains every number.”
+
+“That is worse.”
+
+Leo leaned toward Taiga.
+
+“He's been like this all morning?”
+
+“Since last year.”
+
+Darius heard him.
+
+“Longer.”
 
 Lunch was quick because everyone wanted the lodge cleared before the sponsor arrived.
 
@@ -983,6 +1033,28 @@ Taiga noticed.
 He did not know what to do with that.
 
 ---
+
+Lloyd came in carrying the same folder he had taken out three hours earlier.
+
+“We survived.”
+
+Darius followed him.
+
+“It was a normal meeting.”
+
+“It was three hours.”
+
+“You talked for forty minutes.”
+
+“That was context.”
+
+Goro looked up.
+
+“Not all of it.”
+
+Lloyd sat down.
+
+“I reject this hostile retrospective.”
 
 Dinner was louder than the sponsor meeting had apparently been.
 

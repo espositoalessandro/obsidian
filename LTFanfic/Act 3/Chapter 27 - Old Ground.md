@@ -268,6 +268,8 @@ Kieran returned in nine minutes.
 
 Taiga knew because he had spent all nine pretending not to count.
 
+Darius had taken over the salvage stack while Yoshinori worked on the frame. Lloyd was at the far end of the porch with the old cabin drawings spread across a folding table, muttering about whoever had changed a window dimension without updating the plan.
+
 Yoshinori had already removed the first damaged section of trim.
 
 Taiga was cutting the replacement piece on a folding worktable when Kieran approached.
@@ -288,9 +290,9 @@ A little.
 
 “Where do you want me?”
 
-Yoshinori pointed toward a stack of salvaged boards.
+Darius pointed toward a stack of salvaged boards.
 
-“Start by checking those for rot. Anything soft, split through, or warped enough that it will not sit flat goes in the discard pile.”
+“Start there. Soft, split through, or too warped to sit flat goes in the discard pile.”
 
 Kieran crouched beside the boards.
 
@@ -328,9 +330,21 @@ Kieran did.
 
 “Do you want the nails pulled from these first?”
 
-“If they come out cleanly. Do not waste ten minutes fighting one bent nail.”
+Darius looked over.
+
+“If they come out cleanly. Don't waste ten minutes fighting one bent nail.”
 
 “Understood. I'll pull the easy ones first.”
+
+Lloyd called from the table:
+
+“And save anything with a decent straight edge! Old wood is useful.”
+
+Darius looked at the pile.
+
+“That was already the plan.”
+
+“Good. We're aligned.”
 
 Taiga glanced over once.
 
@@ -712,7 +726,11 @@ Almost.
 
 ---
 
-The afternoon assignment put Taiga and Kieran on the same side of a problem again.
+The afternoon assignment came from Darius.
+
+He pressed both loose sections of the main lodge porch rail, looked at the brackets, then handed Taiga the driver.
+
+“Reset these. Kieran can hold the rail.”
 
 The main lodge porch had two loose rail sections.
 
@@ -759,6 +777,32 @@ Second screw.
 Done.
 
 Taiga stood.
+
+Darius came back, put one hand on the rail and leaned his weight into it.
+
+It did not move.
+
+“Good.”
+
+Taiga looked at him.
+
+Kieran looked between them.
+
+Taiga said:
+
+“That means we're basically certified.”
+
+Darius shook his head.
+
+“No.”
+
+From the other end of the porch, Lloyd shouted:
+
+“I can print certificates!”
+
+“No,” Darius called back.
+
+Taiga smiled despite himself.
 
 Kieran lowered the rail carefully.
 
@@ -1053,6 +1097,30 @@ Of course it did.
 Taiga suspected the universe was mocking him.
 
 Aiden had decided grilled burgers were appropriate because the weather had improved.
+
+Lloyd and Darius arrived last, still arguing about whether a porch detail counted as a repair or a design correction.
+
+“It was ugly before it broke,” Lloyd said.
+
+“It was still a repair.”
+
+“Those concepts can coexist.”
+
+Darius sat down.
+
+“I know.”
+
+Leo looked at Taiga.
+
+“Do they do this all day?”
+
+“Yes.”
+
+Darius heard him.
+
+“Mostly Lloyd.”
+
+Lloyd looked betrayed.
 
 Kieran saw the tray.
 

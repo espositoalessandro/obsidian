@@ -495,6 +495,78 @@ Yoshinori smiled.
 
 “Good.”
 
+Two more people came around the side of the lodge before Taiga could pick up his bag.
+
+Lloyd had a roll of drawings under one arm and three pencils stuck through the collar of his sweatshirt. Darius carried a toolbox in one hand and a spirit level in the other.
+
+Lloyd saw Taiga first.
+
+“TAIGA! There he is!”
+
+Taiga barely had time to brace before Lloyd reached him and grabbed both shoulders.
+
+“You came back during actual work season. I knew college hadn't ruined you.”
+
+“It's been six months.”
+
+“Plenty of time for academic corruption.”
+
+Darius stopped beside them.
+
+“Hey, Taiga.”
+
+“Hey, Dar.”
+
+Darius looked him over once, then nodded.
+
+“You still have all your fingers.”
+
+“Barely.”
+
+“Good.”
+
+Leo had gone very quiet beside the bags.
+
+Taiga pointed.
+
+“This is Leo.”
+
+Lloyd turned immediately.
+
+“Oh! New volunteer.”
+
+“Leo Mendez.”
+
+Lloyd shook his hand with enough enthusiasm for both of them.
+
+“Lloyd Sirius. Architect, scoutmaster, occasional victim of unrealistic deadlines.”
+
+Darius held out his own hand.
+
+“Darius Najjar. Foreman. I build things.”
+
+Leo shook it.
+
+“Nice to meet you.”
+
+“Same.”
+
+Lloyd pointed at Taiga.
+
+“We taught this one most of what he knows about construction.”
+
+Darius looked at Taiga.
+
+“Some of it.”
+
+“Okay, rude.”
+
+“Accurate.”
+
+Leo's smile widened.
+
+Taiga already regretted the introduction.
+
 Then a voice came from the lodge:
 
 “TAIGA?!”
@@ -970,6 +1042,50 @@ Goro returned to his stew.
 Taiga took the seat across from Yoichi.
 
 Leo sat beside Taiga.
+
+Lloyd dropped into the seat across from them. Darius sat beside him and immediately moved Lloyd's rolled plans away from the stew.
+
+“Those are not a placemat.”
+
+“They're copies.”
+
+“They're still plans.”
+
+Leo looked between them.
+
+Lloyd noticed.
+
+“Important question. Birthday?”
+
+Leo blinked.
+
+“What?”
+
+“Birthday.”
+
+“May twenty-fourth.”
+
+Lloyd slapped one hand against the table.
+
+“Gemini! I knew it.”
+
+Darius took a drink.
+
+“You asked after meeting him.”
+
+“Confirmation is still a valid scientific method.”
+
+“No.”
+
+Taiga pointed his spoon at Leo.
+
+“He does this.”
+
+Leo looked delighted.
+
+“I've known him thirty seconds and I believe you.”
+
+Lloyd looked offended.
 
 Aiden served them.
 
@@ -1664,7 +1780,19 @@ Yoichi grinned.
 
 Yoshinori looked at Taiga.
 
-“Taiga, you and Leo can start with cabins two-oh-six through two-ten. Window seals, moisture check, mattresses, shutters. If you finish early, report to Yuri for equipment inventory.”
+“Darius, take Taiga and Leo through cabins two-oh-six through two-ten. Window seals, moisture check, mattresses, shutters. If you finish early, report to Yuri for equipment inventory.”
+
+Darius nodded.
+
+“Got it.”
+
+Lloyd lifted one hand.
+
+“I'll finish the expansion-side drainage notes and join the lower trail after that. I want another look at the runoff before the next rain.”
+
+Yoshinori nodded.
+
+“Good.”
 
 “Perfect,” Yuri said.
 
@@ -1816,6 +1944,30 @@ Loose or tight.
 
 Useful categories.
 
+Darius moved through the first cabin with them and mostly let Taiga work. He checked the notes, tested one hinge after Taiga tightened it, then handed Leo a moisture meter.
+
+“Green is good. Yellow, write it down. Red, come get one of us.”
+
+Leo looked at the display.
+
+“Simple.”
+
+“Usually.”
+
+Taiga glanced at Darius.
+
+“That all I get?”
+
+Darius looked at the hinge.
+
+“It holds.”
+
+Taiga waited.
+
+“That was praise.”
+
+Leo laughed.
+
 By the third cabin they had a rhythm.
 
 Taiga checked windows and frames.
@@ -1867,6 +2019,24 @@ Leo followed his finger.
 “Where?”
 
 “Maintenance.”
+
+Darius appeared in the doorway behind them.
+
+“Mark it first. Don't seal damp wood.”
+
+Leo looked at the soft corner.
+
+“Because we'd trap the moisture?”
+
+“Yeah.”
+
+Taiga pointed at him.
+
+“See? Actual question.”
+
+Darius looked between them.
+
+“I heard.”
 
 Leo nodded.
 
@@ -2319,7 +2489,27 @@ Yoichi glanced at Taiga.
 
 Taiga did the same.
 
-Yuri joined them halfway through.
+Lloyd and Darius joined them halfway through.
+
+Lloyd had somehow acquired sawdust in his hair despite spending most of the morning with drawings.
+
+“Lower drainage is officially less ugly than it was yesterday.”
+
+Darius sat down.
+
+“That is not a measurement.”
+
+“It is an architectural assessment.”
+
+“It means nothing.”
+
+“It means I improved it.”
+
+Darius took a sandwich.
+
+“That part is true.”
+
+Yuri joined them a minute later.
 
 She had labels.
 

@@ -350,6 +350,30 @@ Goro closed his eyes.
 
 ---
 
+Lloyd looked almost offensively functional for someone who had matched Goro drink for drink for part of the night.
+
+Taiga stared at him.
+
+“What?”
+
+“You drank more than me.”
+
+“I have architectural tolerance.”
+
+Darius said:
+
+“That isn't a thing.”
+
+“Support your partner.”
+
+“I am.”
+
+“With facts?”
+
+“Yes.”
+
+Leo laughed into his water.
+
 Breakfast helped.
 
 Water helped more.
@@ -826,6 +850,42 @@ Leo did not ask anything else.
 
 ---
 
+Before lunch, Lloyd cornered Leo with a printout of the expansion plan.
+
+“That one?”
+
+“Function hall.”
+
+“Correct! And this?”
+
+“Guest lodging.”
+
+“Excellent.”
+
+Darius looked at Taiga.
+
+“He does this to new scouts.”
+
+“He's not a scout.”
+
+Lloyd looked offended.
+
+“Temporary scout.”
+
+Leo pointed at Taiga.
+
+“Does that make him my counselor?”
+
+“No,” Taiga said immediately.
+
+Darius considered him.
+
+“He would be bad at it.”
+
+“Thank you.”
+
+“That wasn't a compliment.”
+
 They ate an early lunch.
 
 Aiden refused to let them leave on station food.
@@ -1005,6 +1065,54 @@ Taiga looked away.
 “Yeah. I know.”
 
 Goro put one hand on his shoulder, squeezed once, then removed it.
+
+Lloyd was next.
+
+He hugged Leo before Leo could decide whether that was happening.
+
+“Come back! We still have half the camp to show you properly.”
+
+“I thought I saw most of it.”
+
+“You saw the practical parts. I mean the architecture.”
+
+Darius held out his hand. Leo shook it.
+
+“You worked well.”
+
+Leo's expression changed slightly. He seemed to understand that from Darius, that was a lot.
+
+“Thanks. I learned a lot.”
+
+Darius looked at Taiga.
+
+“Keep practicing.”
+
+“At college?”
+
+“Things break everywhere.”
+
+Fair.
+
+Lloyd pointed at Taiga.
+
+“And send pictures if Olympus has any interesting buildings!”
+
+“No.”
+
+“Please?”
+
+“No.”
+
+Darius said:
+
+“He'll send them.”
+
+Taiga stared at him.
+
+Darius's mouth moved slightly.
+
+Asshole.
 
 Yoichi arrived late because Yuki had apparently found mud.
 

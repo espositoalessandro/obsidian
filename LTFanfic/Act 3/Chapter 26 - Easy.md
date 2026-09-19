@@ -252,7 +252,35 @@ Taiga regretted bringing him. Not actually.
 That was the problem.
 
 
-Yoshinori split them after breakfast.
+Lloyd spent most of breakfast complaining that rain had personally attacked his punch list.
+
+“I had outdoor measurements.”
+
+Darius buttered toast.
+
+“You still have them.”
+
+“I had *dry* outdoor measurements.”
+
+“Those are different.”
+
+Leo looked at Taiga.
+
+Taiga shook his head.
+
+“Don't encourage him.”
+
+“I didn't say anything.”
+
+“Your face did.”
+
+Lloyd pointed across the table.
+
+“See? Gemini.”
+
+Darius sighed.
+
+Then Yoshinori split them after breakfast.
 
 Taiga expected Leo to stay with him.
 
@@ -720,7 +748,7 @@ She stood before he could answer.
 
 The afternoon belonged to the dock.
 
-The rain had cleared enough for inspection.
+The rain had cleared enough for inspection. Lloyd was already there with a clipboard tucked under his jacket, while Darius had the hardware box open on the shore.
 
 Goro insisted on supervising the first ten minutes.
 
@@ -752,7 +780,21 @@ Leo covered a laugh.
 
 Yoshinori arrived with the tool bag.
 
-“Taiga, Leo, you can take measurements on the outer section. Yoichi, help me remove the damaged boards.”
+Darius looked over the blocked planks.
+
+“Taiga, Leo, take measurements on the outer section. I'll check the fasteners after you. Yoichi, help Yoshi with the damaged boards.”
+
+Lloyd tapped the clipboard.
+
+“And if anybody discovers the lake has moved three inches since last autumn, tell me before I finish this drawing.”
+
+Darius looked at him.
+
+“The lake did not move.”
+
+“You know what I mean.”
+
+“I do.”
 
 Yuri came behind him with a camera.
 
@@ -1927,6 +1969,26 @@ Kieran closed the door and adjusted the duffel.
 Yoshinori gave him a small, ordinary nod.
 
 “Good morning, Kieran.”
+
+Lloyd came out of the maintenance shed behind him, pencil behind one ear.
+
+He stopped when he saw the duffel.
+
+“Oh. Another volunteer.”
+
+Darius followed with a box of screws.
+
+“More hands.”
+
+Lloyd looked at him.
+
+“That was what I meant.”
+
+“No, you meant it louder.”
+
+Kieran looked between them, uncertain.
+
+Yoshinori handled the introduction before anyone could turn it into an event.
 
 Taiga looked at him.
 

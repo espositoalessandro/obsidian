@@ -46,6 +46,8 @@ They left together.
 
 ---
 
+Lloyd and Darius were already at breakfast. Lloyd had drawn a tiny floor plan on the back of a napkin; Darius was eating pancakes and ignoring it.
+
 Kieran's chair was empty.
 
 Aiden had made pancakes.
@@ -159,6 +161,20 @@ Goro sighed.
 “Still in.”
 
 ---
+
+Lloyd tried to add a “quick improvement” to the lumber-storage layout before Darius folded the napkin and put it in his pocket.
+
+“We're done adding projects today.”
+
+“It was a bench.”
+
+“It was another project.”
+
+Lloyd looked at Yoshinori.
+
+Yoshinori sided with Darius.
+
+Betrayal, apparently.
 
 The morning barely counted as work.
 
@@ -592,6 +608,30 @@ Leo's mouth curved.
 Taiga returned to the phone. Mostly.
 
 ---
+
+Lloyd arrived at the firepit with a folding chair under one arm and a tarot deck under the other.
+
+Goro looked at the cards.
+
+“No.”
+
+“I didn't say anything.”
+
+“You were going to.”
+
+Darius came behind him carrying two more chairs.
+
+“He was.”
+
+“Dar.”
+
+“What?”
+
+Leo looked at Taiga.
+
+“This is normal?”
+
+“Unfortunately.”
 
 The firepit started after sunset.
 
@@ -1795,6 +1835,22 @@ Beer. Cold air.
 Somebody else's burnt sugar.
 
 It felt good.
+
+By then Lloyd had finally gone quiet, shoulder resting against Darius's arm while he stared into the coals.
+
+Taiga looked over.
+
+Darius noticed.
+
+“He gets tired.”
+
+Lloyd lifted his head.
+
+“I am conserving mystique.”
+
+“You're sleepy.”
+
+“Same thing.”
 
 Yoshinori checked his watch.
 
