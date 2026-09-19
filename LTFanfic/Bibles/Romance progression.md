@@ -173,7 +173,15 @@ The chapter tests ambiguous intentionality.
 
 Touch and proximity begin lasting slightly longer than necessity requires.
 
-Taiga's new question becomes:
+Zayne Alexander also provides an external control case:
+- Zayne flirts openly with Taiga and gets little meaningful response;
+- Zayne later meets Leo and immediately flirts with him;
+- Leo treats it as playful social banter;
+- Taiga becomes visibly and disproportionately irritated without naming why.
+
+Do not have Zayne, Leo or the narration diagnose Taiga's reaction as jealousy. The reader should catch it from behavior.
+
+Taiga's central question about Leo remains:
 
 > Did he mean to?
 
@@ -181,7 +189,7 @@ Neither boy has enough certainty to answer.
 
 Core result:
 
-> Attraction is known; intent is not.
+> Attraction is known; intent is not, and exclusivity begins to matter before Taiga has language for it.
 
 ---
 

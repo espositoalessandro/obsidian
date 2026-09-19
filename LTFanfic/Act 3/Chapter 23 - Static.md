@@ -128,27 +128,65 @@ The prosecution lacked standing. Taiga drank coffee. The contact remained for an
 
 ---
 
-Discrete Structures introduced him to Adrian Vega at one-thirteen that afternoon. The instructor announced a three-week group project: choose a real scheduling problem, model it as a graph, compare at least two coloring strategies, and explain where the model broke down instead of pretending mathematics had solved reality. Four names appeared together on the screen:
+Discrete Structures introduced him properly to Zayne Alexander at one-thirteen that afternoon.
 
-**Akatora / Vega / Patel / Lawson**
+Taiga already knew the name. Everybody at Olympus knew the name. House Zeus. Basketball. Number nineteen. The guy who could leave the arena after a home game with half a corridor following him.
 
-After class, the group stayed near the aisle long enough to negotiate schedules. Priya Patel opened a calendar immediately. Marcus Lawson admitted he worked evenings on Wednesdays and Fridays. Adrian leaned against the desk and said:
+The instructor announced a three-week group project: choose a real scheduling problem, model it as a graph, compare at least two coloring strategies, and explain where the model broke down instead of pretending mathematics had solved reality. Four names appeared together on the screen:
+
+**Akatora / Alexander / Patel / Lawson**
+
+After class, the group stayed near the aisle long enough to negotiate schedules. Priya Patel opened a calendar immediately. Marcus Lawson admitted he worked evenings on Wednesdays and Fridays.
+
+Zayne leaned back against the desk as if the room had been arranged around him. He was taller up close than Taiga expected, dark-skinned and long-limbed, with purple hair tied back and enough gold around his neck and wrists to make the fluorescent classroom lighting look intentional.
 
 “I can do Monday after four, Tuesday before six, Thursday basically whenever.”
 
-He was tall, dark-haired, wearing glasses and a gray sweater. His phone case had a sticker from the university robotics lab. Potentially useful. Priya looked at Taiga. Taiga checked his schedule.
+Taiga looked at him.
+
+“You're a Chemistry major.”
+
+Zayne smiled.
+
+“You've done your research.”
+
+“You're famous. That's not research.”
+
+“Ouch.”
+
+“Why are you in Discrete?”
+
+“Quantitative elective. Computational chemistry sounded sexy when my advisor said it.”
+
+“And now?”
+
+“Now I'm in a room learning graph coloring with a redhead who looks personally offended by my existence.”
+
+Priya did not look up from her calendar.
+
+“He looks like that at everybody.”
+
+Zayne's eyes stayed on Taiga.
+
+“Shame. I was hoping I was special.”
+
+Taiga felt absolutely nothing useful in response.
 
 “Monday after five.”
 
-“Library?” Adrian asked.
+Zayne laughed.
+
+“Cold. I like it.”
+
+“Library?” Marcus asked.
 
 “Fine.”
 
-“Second floor project rooms?”
+“Second-floor project rooms?” Priya said.
 
-“Those are always full.”
+“Those are always full,” Taiga said.
 
-Adrian smiled.
+Zayne pulled out his phone.
 
 “Not if you reserve them.”
 
@@ -156,23 +194,19 @@ Taiga stared.
 
 “You can reserve them?”
 
-“Yeah.”
+Zayne glanced up.
 
-“Since when?”
+“Since always, handsome.”
 
-“Since always?”
+“Don't call me that.”
 
-Taiga hated Olympus. Adrian laughed.
+“Noted.”
 
-“I'll send the link.”
+The smile suggested nothing had actually been noted.
 
-“Do that.”
+Taiga hated Olympus.
 
-Priya looked between them.
-
-“Monday, five-thirty?”
-
-Everyone agreed. Adrian sent the reservation link before Taiga reached the door. Efficient.
+Zayne sent the reservation link to the group before Taiga reached the door. Efficient, unfortunately.
 
 ---
 
@@ -289,25 +323,51 @@ Then he turned toward House Apollo. Taiga watched him go, not for long. Long eno
 
 ---
 
-Monday's Discrete Structures project meeting lasted fifty-eight minutes. It should have lasted thirty. Marcus had read the prompt and still wanted to treat every scheduling conflict as a special case. Priya had already built a list of counterexamples. Adrian had made a shared document with headings before anybody arrived. Taiga approved. They settled on course scheduling: students and required modules became conflicts, time slots became colors, and the useful question was not whether a graph could be colored but what assumptions they had smuggled in to make it possible. Adrian tapped the model on his screen.
+Monday's Discrete Structures project meeting lasted fifty-eight minutes. It should have lasted thirty. Marcus had read the prompt and still wanted to treat every scheduling conflict as a special case. Priya had already built a list of counterexamples. Zayne had made the shared document presentable before anybody arrived, complete with headings, a clean diagram and colors that were somehow tasteful instead of obnoxious.
 
-“We should compare greedy ordering against saturation.”
+Taiga approved despite himself.
 
-“That works,” Taiga said.
+They settled on course scheduling: students and required modules became conflicts, time slots became colors, and the useful question was not whether a graph could be colored but what assumptions they had smuggled in to make it possible.
 
-Priya looked over. “Only if we show where greedy gives us a worse schedule.” Marcus leaned back. “And somebody has to explain what the schedule means to an actual student instead of just drawing a prettier graph.” Taiga looked at him.
+Priya wanted greedy ordering compared against saturation because it gave them an obvious counterexample. Taiga agreed. Marcus insisted that somebody had to explain what the resulting schedule meant to an actual student instead of simply producing a prettier graph.
 
-“Okay. That's useful.”
+“Okay,” Taiga said. “That's useful.”
 
-Marcus pointed at him. “I contribute.” Adrian laughed. Taiga took the implementation-and-tradeoffs section. Adrian handled representation and algorithm choice. Priya took the test cases and counterexamples. Marcus took the practical constraints. Meeting done. Adrian closed his laptop.
+Marcus pointed at him.
+
+“I contribute.”
+
+Zayne laughed.
+
+“You say that like we're surprised.”
+
+“I know what all of you think.”
+
+“I met you three days ago.”
+
+“And yet.”
+
+Taiga took implementation and tradeoffs. Priya took the test cases and counterexamples. Marcus took practical constraints. Zayne took the visual model and presentation structure, which suited him suspiciously well.
+
+When the meeting ended, Zayne closed his laptop.
 
 “You heading toward Central?”
 
 “Yeah.”
 
-“Same.”
+“Perfect. You can walk with me.”
 
-They walked. No significance. Adrian talked more than Taiga expected. Normal human levels. Robotics lab. Electrical engineering. Discrete Structures because his program required it. A separate professor who used mandatory discussion boards. Taiga complained about discussion boards too. Common enemy. Easy. At the path split near Central, Adrian said:
+“That wasn't an invitation.”
+
+Zayne smiled.
+
+“See? Cold again.”
+
+They walked anyway.
+
+Zayne talked easily, which Taiga had expected. Chemistry. Basketball. A spectroscopy lab that had eaten most of his morning. Discrete Structures because his advisor had recommended one computational elective and Zayne had apparently decided that sounded less painful than taking another calculus course.
+
+At the path split near Central, Zayne said:
 
 “Coffee?”
 
@@ -315,45 +375,63 @@ Taiga checked the time. He had forty minutes before a library reservation with C
 
 “Sure.”
 
-They went to the nearest café. Taiga ordered black coffee. Adrian ordered something with cinnamon. They talked about the project, then programming. The robotics sticker made more sense once Adrian started describing autonomous navigation. He asked what Taiga was building in Data Structures. Taiga explained the tree assignment.
+Zayne put one hand to his chest.
 
-“Your lab still making people implement red-black trees manually?”
+“Careful. People are going to think my charm is working.”
+
+“It's coffee.”
+
+“That's how it starts.”
+
+Taiga kept walking.
+
+The café was crowded enough that two people recognized Zayne before they reached the counter. He handled both interruptions without losing the conversation, smiling for one picture and remembering somebody's name on the second try.
+
+Taiga ordered black coffee. Zayne looked at the cup when it arrived.
+
+“Nothing in it?”
+
+“No.”
+
+“That's bleak.”
+
+“It's coffee.”
+
+“It's a cry for help.”
+
+“You're drinking something purple.”
+
+“Brand consistency.”
+
+Taiga looked at the drink.
+
+“That isn't a defense.”
+
+“It wasn't meant to be.”
+
+They took a table near the window. Zayne asked about Data Structures. Taiga explained the tree assignment. Zayne understood enough to ask good questions and not enough to pretend otherwise, which Taiga respected more than he expected.
+
+Then Zayne rested his chin against one hand.
+
+“So, Akatora.”
+
+“What.”
+
+“Do you always make people work this hard for a smile?”
+
+Taiga looked at him.
 
 “Yes.”
 
-“Cruel.”
+Zayne's grin widened.
 
-“Correct.”
+“Good. Easy is boring.”
 
-“You enjoying it?”
+There it was again.
 
-Taiga thought.
+Zayne was objectively attractive. Taiga had eyes. He also had no difficulty finishing his coffee.
 
-“Some of it.”
-
-“That sounded painful.”
-
-“I'm not required to enjoy everything.”
-
-“No, but usually people don't make that face when they hate something.”
-
-Taiga looked at him. Adrian held up one hand.
-
-“Sorry. Bad wording.”
-
-Taiga almost laughed.
-
-“Thank you.”
-
-“For what?”
-
-“Retiring it before I had to.”
-
-“I feel like I avoided a local custom.”
-
-“You did.”
-
-They drank coffee. Adrian was easy enough. Nothing else happened. When they split, Taiga realized he was seven minutes late meeting Caleb. Caleb said:
+When they split, Taiga realized he was seven minutes late meeting Caleb. Caleb said:
 
 “You are late.”
 
@@ -457,54 +535,79 @@ Then:
 
 “Yeah.”
 
-“The robotics guy?”
+“Zayne Alexander?”
 
 Taiga looked at him.
 
-“What robotics guy?”
+“You know him?”
 
-“You mentioned him.”
+Leo stared.
 
-“When?”
+“Everybody knows him.”
 
-“Yesterday.”
+“Apparently.”
 
-Taiga tried to remember. He had messaged Leo from the library.
+“The basketball guy. Zeus. Purple hair. Has a fan club?”
 
-**Taiga:** meeting ran long
-**Taiga:** one guy is robotics and thinks mandatory discussion boards are terrorism
+“I know which one he is.”
 
-Right.
+Leo grinned.
 
-“Adrian.”
+“Did he flirt with you?”
 
-“Yeah.”
+Taiga's hands stopped on his charger.
 
-Leo nodded once. Then Owen called for everyone to move to assigned partners. Conversation over. Taiga did not think about it again, not then.
+“Why is that your first question?”
+
+“Because he flirts with furniture.”
+
+“He called me handsome twice.”
+
+Leo laughed.
+
+“Congratulations.”
+
+“Fuck you.”
+
+“I'm serious. That's basically an Olympus achievement badge.”
+
+Owen called for everyone to move to assigned partners before Taiga could answer. Conversation over.
+
+Taiga did not think about the fact that Leo had found this funny.
+
+Not then.
 
 ---
 
-The project meeting was productive. Adrian had the conflict graph working. Priya had test cases designed to break it. Marcus had finally stopped trying to solve every scheduling constraint by hand. Taiga drafted the comparison section quickly. When the group finished, Adrian asked:
+The project meeting was productive. Priya had the conflict graph working. Marcus had finally stopped trying to solve every scheduling constraint by hand. Zayne had turned their ugly draft into something a human being could present without apologizing first. Taiga drafted the comparison section quickly.
 
-“You want to stay and work here? I've got circuits for another hour.”
+When the group finished, Zayne asked:
+
+“You want to stay and work here? I've got a chem write-up to finish.”
 
 Taiga looked at his Data Structures assignment.
 
 “Fine.”
 
-Priya left. Marcus left. Taiga and Adrian stayed. Separate work. Minimal conversation. Useful. At some point Adrian got up and returned with two coffees. He put one beside Taiga. Black. Taiga looked at it.
+Priya left. Marcus left. Taiga and Zayne stayed. Separate work. Minimal conversation. Useful.
+
+At some point Zayne got up and returned with two coffees. He put one beside Taiga. Black.
+
+Taiga looked at it.
 
 “You remembered.”
 
-“You order like somebody's disappointed grandfather. Hard to forget.”
+“I remember important things.”
 
-Taiga stared. Adrian sat down.
+“It's coffee.”
 
-“That was meant affectionately.”
+Zayne sat down.
 
-“It was terrible.”
+“You keep trying to make this less romantic than it is.”
 
-“I'll workshop it.”
+“It isn't romantic.”
+
+“See? There you go again.”
 
 Taiga drank the coffee anyway. Free coffee was free coffee.
 
@@ -564,47 +667,43 @@ Taiga rolled his eyes.
 
 “It's fine.”
 
-“The robotics guy still useful?”
+“Zayne still useful?”
 
 Leo always seemed to remember people. He remembered everything Taiga told him.
 
-“Yeah. Adrian knows what he's doing.”
+“Annoying, but useful.”
 
-“Good.”
+“That sounds like a positive review from you.”
 
-They walked. Leo kicked a pebble off the path. Then:
+“It isn't.”
 
-“What does he build?”
+Leo kicked a pebble off the path.
 
-“Robotics.”
+“So he really does flirt with everybody?”
 
-“Obviously.”
+“Yes.”
 
-“You asked.”
+“With Priya?”
 
-“I mean what kind?”
+“Yes.”
 
-Taiga thought.
+“Marcus?”
 
-“Autonomous navigation. Small platforms. Mapping.”
+“Yes.”
 
-Leo brightened.
+Leo laughed.
 
-“Oh, that's cool.”
+“Okay. Respect the consistency.”
 
-“Yeah.”
+“You would.”
 
-“Like little warehouse robots?”
+“What does that mean?”
 
-“Some.”
+“Nothing.”
 
-“Can he make one bring Enzo his missing socks?”
+Leo looked amused.
 
-“No.”
-
-“Waste of engineering.”
-
-Taiga smiled. The conversation moved on. Fine. At the intersection near the Student Center, the pedestrian light changed. They crossed. Halfway over, an electric bike shot through the turn too fast. Taiga saw it late. Leo grabbed his hand, not wrist. Hand. Pulled. Taiga stumbled one step toward him. Bike passed. The rider shouted something useless. Leo shouted back:
+Taiga did not explain. The conversation moved on. At the intersection near the Student Center, the pedestrian light changed. They crossed. Halfway over, an electric bike shot through the turn too fast. Taiga saw it late. Leo grabbed his hand, not wrist. Hand. Pulled. Taiga stumbled one step toward him. Bike passed. The rider shouted something useless. Leo shouted back:
 
 “LIGHT'S RED, ASSHOLE!”
 
@@ -665,7 +764,7 @@ Leo reacted with a thumbs-up, not a heart. Why did Taiga notice that? He locked 
 
 ---
 
-Thursday Data Structures was uneventful. Which made Taiga suspicious. Leo arrived. Sat. Talked. Taiga was able to concentrate—mostly. At one point Leo reached past him for the charger plugged into the wall. His forearm brushed Taiga's shoulder. Taiga's body reacted. Leo kept reaching for the charger. After lab, Leo had House Apollo duties. Taiga had Discrete Structures. No coffee. Again. Leo said:
+Thursday Data Structures was uneventful. Which made Taiga suspicious. Leo arrived. Sat. Talked. Taiga was able to concentrate—mostly. At one point Leo reached past him for the charger plugged into the wall. His forearm brushed Taiga's shoulder. Taiga's body reacted. Leo kept reaching for the charger. After lab, Leo had Chemistry II. Taiga had Discrete Structures. No coffee. Again. Leo said:
 
 “Tomorrow?”
 
@@ -695,12 +794,12 @@ Taiga lifted one hand without turning.
 
 ---
 
-Adrian was already in the Discrete Structures project room when Taiga arrived. There was no Priya or Marcus. Taiga checked the group chat.
+Zayne was already in the Discrete Structures project room when Taiga arrived. There was no Priya or Marcus. Taiga checked the group chat.
 
 **Priya:** running 15 late sorry
 **Marcus:** same
 
-Adrian looked up.
+Zayne looked up.
 
 “Apparently we're the responsible ones.”
 
@@ -710,25 +809,218 @@ Adrian looked up.
 
 “Experience.”
 
-Adrian smiled. He had coffee. One black cup sat on the other side of the table. Taiga looked at it. Adrian followed his gaze.
+Zayne smiled. He had coffee. One black cup sat on the other side of the table.
 
-“I guessed.”
+Taiga looked at it.
 
-“You're creating expectations.”
+“You're doing this on purpose now.”
 
-“Terrible habit.”
+“Obviously.”
 
-Taiga took it. They worked. Fifteen minutes later, Priya arrived. Marcus came ten after. Nothing happened. The model improved. At six-fifteen they were done. Adrian looked at Taiga's section.
+“You know it isn't working.”
 
-“You want to send me your test cases? I think one of mine duplicates yours.”
+Zayne leaned back in his chair.
+
+“That's what makes it interesting.”
+
+Taiga took the coffee.
+
+They worked. Fifteen minutes later Priya arrived. Marcus came ten after. The model improved. At six-fifteen they were done.
+
+Zayne leaned closer to Taiga's screen.
+
+“You want to send me those test cases? I think one of mine duplicates yours.”
 
 “Yeah.”
 
-He leaned closer to look at Taiga's screen. Adrian was attractive enough. Taiga had eyes. But Adrian pointed at the citation, Taiga copied it, and that was all. Apparently the problem was Leo. Great. Adrian pointed.
+Zayne was attractive enough. More than enough, objectively. He was also close enough that Taiga could smell whatever expensive thing he wore instead of normal deodorant.
+
+Nothing happened.
+
+Zayne pointed.
 
 “This one.”
 
-Taiga copied the case into his table. Done.
+Taiga copied the case into his table.
+
+Done.
+
+His phone buzzed.
+
+**Leo:** still in central?
+
+Taiga typed:
+
+**Taiga:** leaving now
+
+The reply came immediately.
+
+**Leo:** same
+**Leo:** wait there 2 min
+
+Zayne was still packing his laptop when Leo appeared in the doorway two minutes later, yellow scarf loose around his neck and his backpack hanging from one shoulder.
+
+“Hey, forty-one—”
+
+He stopped when he saw Zayne.
+
+Zayne looked up.
+
+Then smiled.
+
+“Oh.”
+
+Taiga did not like the sound of that.
+
+Leo looked between them.
+
+“Hi?”
+
+Zayne stood. At full height he had almost a head on Leo.
+
+“Zayne.”
+
+Leo laughed once.
+
+“I know.”
+
+“Good. Saves me the tragic burden of introducing myself.”
+
+“Leo.”
+
+“I know that too.”
+
+Zayne's eyes moved over him with absolutely no attempt at subtlety.
+
+“Number ten.”
+
+Leo's eyebrows went up.
+
+“You watch soccer?”
+
+“I might start.”
+
+Leo laughed.
+
+Taiga's jaw tightened.
+
+Zayne held out his hand. Leo took it. The handshake lasted a completely normal amount of time.
+
+Probably.
+
+“You're smaller up close,” Zayne said.
+
+Leo looked down at himself.
+
+“Is that a complaint?”
+
+“Definitely not.”
+
+There it was.
+
+Leo's ears went slightly pink, but he was smiling.
+
+“You always talk like this?”
+
+“Only when somebody makes it worth the effort.”
+
+Taiga closed his laptop harder than necessary.
+
+Neither of them looked at him.
+
+Zayne continued:
+
+“Akatora never mentioned his friend was cute.”
+
+Taiga looked up.
+
+“Why would I mention that?”
+
+Leo turned toward him.
+
+“You think I'm cute?”
+
+“That is not what I said.”
+
+Zayne laughed.
+
+“Oh, this is fun.”
+
+“It isn't.”
+
+Leo was still smiling. That was becoming irritating.
+
+Zayne slung his bag over one shoulder.
+
+“You two getting coffee?”
+
+“No,” Taiga said.
+
+Leo answered at the same time.
+
+“Food.”
+
+Zayne's smile shifted toward Leo.
+
+“Another tragedy. I was about to invite myself.”
+
+“Next time,” Leo said lightly.
+
+Taiga looked at him.
+
+Leo did not notice.
+
+Or did not understand why that answer had suddenly become a problem.
+
+Zayne stepped past them into the hallway.
+
+“Careful, Mendez. I remember promises.”
+
+“That wasn't a promise.”
+
+“Close enough.”
+
+He gave Leo one last grin.
+
+“See you around, number ten.”
+
+Then, to Taiga:
+
+“Monday, handsome.”
+
+“Don't.”
+
+Zayne laughed and kept walking.
+
+For several seconds Leo watched him go.
+
+Taiga started toward the stairs.
+
+Leo caught up.
+
+“He's a lot.”
+
+“Yes.”
+
+“I kind of get the fan club now.”
+
+Taiga looked at him.
+
+Leo was smiling to himself.
+
+Something unpleasant tightened under Taiga's ribs.
+
+“He's annoying.”
+
+Leo glanced over.
+
+“You've mentioned.”
+
+Taiga walked faster.
+
+Leo matched him without effort.
+
+Neither said anything else about Zayne.
 
 ---
 

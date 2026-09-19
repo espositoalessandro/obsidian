@@ -218,7 +218,7 @@ A separate professor should own the formal lecture section.
 ## Discrete Structures
 
 **Instructor:** To be named.  
-**Recurring Act III project classmates:** Adrian Vega, Priya Patel, Marcus Lawson.
+**Recurring Act III project classmates:** Zayne Alexander, Priya Patel, Marcus Lawson.
 
 ### Function in the story
 - Reinforces the mathematical side of Computer Science.
@@ -236,6 +236,8 @@ A separate professor should own the formal lecture section.
 
 ### Narrative use
 This can mostly live in background workload with occasional references when useful. One Act III group project uses graph coloring / scheduling as a compact social and academic thread, but the course should not become a fourth major classroom subplot.
+
+Zayne Alexander takes the course as a quantitative / computational elective alongside his Chemistry major. His presence should not turn Discrete Structures into a Zayne subplot; the project mainly provides repeated natural contact and the first Taiga/Zayne/Leo social intersection.
 
 ---
 

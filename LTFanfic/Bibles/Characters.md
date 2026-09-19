@@ -983,38 +983,114 @@ Keep as a small recurring advisor voice. She can reappear when planning second y
 
 ---
 
-# 22. Adrian Vega
+# 22. Zayne Alexander
 
 ## Current role
-- Discrete Structures project teammate in Act III.
-- Electrical Engineering student active in the university robotics lab.
+- Recurring Act III university character.
+- Discrete Structures project teammate with Taiga, Priya Patel and Marcus Lawson.
+- House Zeus.
+- Star member of the Olympus Basketball Club.
+- Campus celebrity / fan-magnet.
 
-## Established background
-- tall;
-- dark hair;
-- glasses;
-- robotics-lab sticker on his phone case;
-- organized enough to reserve project rooms and build a shared document;
-- works on autonomous-navigation / mapping projects.
+## Canon background
+- 22 years old;
+- junior;
+- Chemistry major;
+- birthday: April 19;
+- 191 cm / 85 kg;
+- basketball jersey number 19;
+- extremely popular both on and off campus.
+
+For this novel, Zayne takes Discrete Structures as a quantitative / computational elective connected loosely to his Chemistry program. This is a fanfic continuity extension, not established Jock Studio canon.
+
+## Appearance
+- tall, lean-muscular basketball build;
+- dark complexion;
+- long purple hair, often tied back;
+- purple eyes;
+- flashy personal style;
+- strong preference for purple;
+- gold jewelry / accessories;
+- knows perfectly well that people look at him.
 
 ## Established personality
-- social;
-- competent;
-- technically curious;
-- comfortable teasing Taiga;
-- willing to argue about models and tradeoffs;
-- talks more than Taiga but far less than Leo.
+Zayne is:
+- rich;
+- extremely sociable;
+- charismatic;
+- shamelessly flirtatious;
+- comfortable being the center of attention;
+- accustomed to being recognized;
+- openly playful with attractive people;
+- difficult to embarrass;
+- competitive without needing every interaction to become a contest.
 
-Taiga explicitly registers that Adrian is attractive and discovers that this produces no meaningful romantic reaction, which helps isolate the problem as Leo-specific.
+His flirting is **baseline behavior**, not a declaration of serious romantic intent.
+
+He often couches genuine attention inside jokes, compliments or deliberately provocative phrasing, which lets him flirt hard without forcing the other person to answer seriously.
 
 ## Voice
-- easy, normal conversational rhythm;
-- organized;
-- slightly amused;
-- asks follow-up questions without interrogating.
+Zayne should sound:
+- smooth;
+- confident;
+- amused;
+- direct;
+- socially fearless;
+- slightly theatrical without sounding like Enzo;
+- capable of making an outrageous compliment sound conversational.
 
-## Revision direction
-Keep him distinct from Leo. Adrian should feel like someone Taiga **could** plausibly like as a person but simply does not want romantically.
+He does not stammer through attraction.
+
+He is likely to:
+- compliment someone's appearance immediately;
+- make a suggestive interpretation of an ordinary interaction;
+- call someone handsome/cute without buildup;
+- turn a rebuff into more playful banter;
+- flirt in front of other people without lowering his voice.
+
+He should **not**:
+- sound predatory;
+- ignore clear discomfort;
+- become a one-note sex joke;
+- deliberately manipulate Taiga and Leo against each other;
+- diagnose Taiga's jealousy for him.
+
+## Academic behavior
+Zayne is not a CS or robotics specialist.
+
+In the Discrete Structures project:
+- Taiga handles implementation / algorithm tradeoffs;
+- Priya handles test cases and counterexamples;
+- Marcus focuses on practical constraints;
+- Zayne is strongest at presentation structure, visual clarity and making the group's argument readable;
+- he understands the mathematics well enough to contribute without pretending it is his major field.
+
+## Function in Taiga / Leo progression
+Zayne replaces Adrian Vega's old narrative function but makes it stronger.
+
+First:
+- Zayne flirts openly with Taiga;
+- Taiga recognizes that Zayne is objectively attractive;
+- the attention produces little meaningful physical or emotional response.
+
+Then:
+- Zayne meets Leo;
+- immediately finds Leo attractive;
+- flirts with him in exactly the same casual, confident way;
+- Leo is amused and plays along socially;
+- Taiga becomes disproportionately irritated.
+
+The manuscript should **not label this reaction as jealousy**.
+
+The reader should infer it from:
+- Taiga's jaw / body tension;
+- terser replies;
+- attention to how long Zayne looks at or talks to Leo;
+- irritation when Leo laughs;
+- Taiga trying to end or leave the interaction;
+- continued annoyance afterward.
+
+Zayne himself should not knowingly provoke Taiga. He is simply behaving like Zayne.
 
 ---
 
