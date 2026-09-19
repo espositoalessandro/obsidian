@@ -56,7 +56,7 @@ Yoichi snorted. Leo held out a hand.
 
 Yoichi looked at the hand. Then at Leo.
 
-“Yoichi.”
+“Mh.”
 
 He did not shake it. Leo lowered his hand without looking offended. Taiga had warned him. Yoichi's eyes dropped to Leo's hiking boots.
 
@@ -95,10 +95,6 @@ Taiga looked out the window so neither of them would see him smiling. The road t
 “Oh.”
 
 Taiga knew that sound. It was the same reaction Leo had shown at the Pinetree overlook, only in a different place. Yoichi glanced at him through the mirror.
-
-“Never been?”
-
-“No.”
 
 “City boy?”
 
