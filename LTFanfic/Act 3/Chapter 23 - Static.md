@@ -303,7 +303,7 @@ Taiga looked at the message again. Then typed
 
 **Caleb:** yes
 
-Then he raised his eyes,
+Then he raised his eyes.
 
 “Wanna come?”
 
@@ -547,15 +547,15 @@ Caleb pointed with his fork.
 
 Leo counted again.
 
-"Okay, still lots of ways to tell time."
+“Okay, still lots of ways to tell time.”
 
-"Alarms."
+“Alarms.”
 
-Leo looked shocked
+Leo looked shocked.
 
 “How many alarms?”
 
-“Originally six, then compromised for four.”
+“Originally six. Then we compromised on four.”
 
 Leo stared.
 
@@ -727,7 +727,7 @@ Taiga went back inside.
 
 Caleb was transferring leftovers into smaller containers.
 
-Maya looked at Taiga. A small grin was starting to form on his mouth. Slowly.
+Maya looked at Taiga. A small grin was starting to form. Slowly.
 
 Taiga pointed at her.
 
@@ -737,9 +737,9 @@ Taiga pointed at her.
 
 “Good.”
 
-"But I like him."
+“But I like him.”
 
-"MAYA."
+“MAYA.”
 
 Caleb closed a lid.
 
@@ -839,7 +839,7 @@ Taiga ordered black coffee. Zayne looked at the cup when it arrived.
 
 “It's coffee.”
 
-“It does suit you actually.”
+“It does suit you, actually.”
 
 “You're drinking something purple.”
 
@@ -1223,7 +1223,7 @@ Thursday Data Structures was uneventful. Which made Taiga suspicious. Leo arrive
 
 Taiga looked at his schedule.
 
-“Can't, group meeting.”
+“Can't. Group meeting.”
 
 “Oh.”
 
@@ -1451,7 +1451,7 @@ Taiga started toward the stairs.
 
 Leo caught up.
 
-“Woah, he's a lot.”
+“Whoa, he's a lot.”
 
 “Yes.”
 
@@ -1556,7 +1556,7 @@ He held up three pieces.
 “Successful operation.”
 
 Taiga looked back at the screen. His thigh burned where Leo's hand had been. Beside him, Leo ate one piece of popcorn. Then another. Their shoulders stayed together while Leo ate the popcorn. At halftime in the archived match, everybody started talking at once. 
-Taiga stood. Bathroom. Water. Anything. He made it to the kitchen and opened the fridge. No objective and closed it.
+Taiga stood. Bathroom. Water. Anything. He made it to the kitchen and opened the fridge. No objective. He closed it.
 
 “Good search?”
 
@@ -1629,8 +1629,8 @@ Taiga's brain stopped. Leo's eyes opened. He froze. The sentence had been casual
 “Fuck.”
 
 When Taiga came back, he found Leo where they were before. He sat beside him. For a while, nothing happened.
-Then Taiga adjusted his legs and made sure his knee leaned just a bit on Leo's own leg. 
-He saw him looking down, but their gaze didn't met this time.
+Then Taiga adjusted his legs and made sure his knee rested lightly against Leo's. 
+He saw Leo looking down, but their gazes didn't meet this time.
 
 They stayed like that for an hour, even when Taiga's leg had gone numb.
 
@@ -1666,4 +1666,4 @@ Taiga stared. His thumb hovered. Then:
 
 Sent. He put the phone away. Walked. His right hand remembered Leo's. His thigh remembered Leo's palm. His shoulder remembered an hour of quiet pressure.
 
-His mind remembered Leo's hand left alone on the counter.
+His mind remembered Leo's hand resting on the counter between them.
