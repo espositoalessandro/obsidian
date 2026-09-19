@@ -76,6 +76,8 @@ Taiga nearly inhaled coffee. Leo sat back, satisfied.
 
 “Evidence that Owen is right.”
 
+Leo slapped his thighs and shook his head in disbelief,
+
 “Unbelievable.”
 
 “You printed your own disciplinary record.”
@@ -136,9 +138,7 @@ Professor Hassan announced the lab's three-week kinetics project: each group wou
 
 Taiga's screen showed:
 
-**Akatora / Shah / Green / Cho — Mentor: Alexander**
-
-Of course.
+**Akatora / Shah / Green / Cho — Mentor: Alexander Zayne**
 
 Priya Shah opened her calendar immediately. Marcus Green said he worked Wednesday evening. Daniel Cho had already downloaded the project brief and highlighted the instrument-booking deadline.
 
@@ -207,6 +207,7 @@ Zayne laughed.
 “Cold. I like it.”
 
 He sent the reservation to the group before Taiga reached the door. Efficient, unfortunately.
+
 ---
 
 Training that afternoon was short because they had a match on Saturday, and Mercer did not believe in murdering people twenty-four hours before kickoff. They went through warm-up, set pieces, shape and twenty minutes of finishing, then Mercer called it. Taiga appreciated civilization. Afterward, the locker room moved quickly. Nobody wanted to stay. Taiga removed his boots. Tape and socks came off in the usual routine. Leo sat across the aisle, talking to Aaron about a corner variation. Taiga looked once, just once. Leo was still in training kit. Safe. Then Leo pulled the shirt over his head.
@@ -223,7 +224,7 @@ Leo shouted back:
 
 “That's not art!”
 
-“Subjective!”
+“That's subjective!”
 
 Taiga laughed before he could prevent it. Leo's voice came through the divider.
 
@@ -233,7 +234,9 @@ Taiga laughed before he could prevent it. Leo's voice came through the divider.
 
 “Too late. Jury heard it.”
 
-Enzo groaned. Normal. Taiga rinsed. His body behaved—mostly—good. This was getting easier. Then Leo's water stopped. Taiga knew. Ignored it. Curtain moved. Footsteps. Ignored. Taiga finished. Got out. Leo was at the bench, towel around his hips, drying his hair with another towel. Taiga looked past the towel to Leo's back, then lower, and stayed there for one second before it became two. Leo turned. Taiga's eyes snapped up. Their eyes met. Leo paused. Taiga's stomach dropped. Had he— Leo said:
+Enzo groaned. Normal. Taiga rinsed. His body behaved—mostly—good. This was getting easier. Then Leo's water stopped. Taiga knew. Ignored it. Curtain moved. Footsteps. Ignored. Taiga finished. Got out. Leo was at the bench, towel around his hips, drying his hair with another towel. Taiga looked past the towel to Leo's back, then lower, and stayed there for one second before it became two. 
+Leo turned. Taiga's eyes snapped up. Their eyes met. Leo paused. Taiga's stomach dropped. 
+Did he-
 
 “You used all the hot water.”
 
