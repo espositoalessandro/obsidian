@@ -226,11 +226,19 @@ Taiga looked up. Yoshinori smiled, not formal first. Person first. That still di
 
 Yoshinori clasped his shoulder once. The contact was brief and warm before Yoshinori looked toward Leo.
 
-“And you must be Leo Mendez.”
+“And you must be Julio.”
 
-Leo stepped forward.
+Leo turned to Taiga.
 
-“Yes, sir.”
+"Why did you do that."
+
+"What? It's your name."
+
+"Only my mum calls me that!"
+
+Leo sighed and turned back to Yoshinoro, then stepped forward.
+
+“Yes, sir. Just Leo."
 
 Yoshinori blinked.
 
@@ -242,7 +250,7 @@ Taiga said:
 
 Leo ignored him.
 
-“Nice to meet you.”
+“Nice to meet you, Leo.”
 
 “And you. Thank you for coming to help.”
 
