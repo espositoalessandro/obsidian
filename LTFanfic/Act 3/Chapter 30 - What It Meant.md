@@ -296,7 +296,7 @@ Taiga looked at him.
 
 “Okay.”
 
-Kieran walked toward Cabin Two-Ten. Taiga watched him go. Yoichi stepped closer.
+Kieran walked toward Cabin Three. Taiga watched him go. Yoichi stepped closer.
 
 “You should talk to him.”
 
@@ -316,7 +316,7 @@ Lloyd talked through most of lunch about a roof-pitch problem on the guest lodge
 
 “Where is Kieran?”
 
-Nobody answered immediately. Taiga looked toward Cabin Two-Ten through the window. No movement. Aiden set a bowl on the table.
+Nobody answered immediately. Taiga looked toward Cabin Three through the window. No movement. Aiden set a bowl on the table.
 
 “I saw him near his cabin ten minutes ago.”
 
@@ -388,7 +388,7 @@ Leo's eyes lifted. Taiga met them. For a second. Then Leo looked down again. Lun
 
 ---
 
-Kieran was not in the dining hall after lunch. He was not by the lodge, not at the dock. Taiga checked Cabin Two-Ten last because he already knew. The door was open. Kieran's duffel sat on the bed. Half full. Taiga stopped in the doorway. Kieran was folding a sweatshirt. He looked up. Neither spoke for a second. Then Taiga said:
+Kieran was not in the dining hall after lunch. He was not by the lodge, not at the dock. Taiga checked Cabin Three last because he already knew. The door was open. Kieran's duffel sat on the bed. Half full. Taiga stopped in the doorway. Kieran was folding a sweatshirt. He looked up. Neither spoke for a second. Then Taiga said:
 
 “You're leaving.”
 
@@ -652,7 +652,7 @@ Lloyd nodded.
 
 They went back to work. After Kieran's car disappeared, camp did what it usually did when something difficult happened: it kept operating. Goro and Yoshinori went back inside with the sponsor folders from Thursday. Yuri had preseason enrollment forms spread across one end of the dining table. Aiden was in the kitchen. Yoichi had taken Yuki toward the lower trail. Nobody assigned Taiga anything. Nobody told him what to do with the rest of the afternoon either. Leo was gone from the yard.
 
-Taiga checked Cabin Two-Twelve first and found it empty. He sat on his bunk for a few minutes, then got irritated with himself and stood again. Waiting inside felt too much like waiting for something. He walked without deciding where he was going. The field was empty. So was the overlook path. At the dock, he finally stopped. The pier stretched over gray-blue water. Taiga walked to the end and sat. The boards were cold through his jeans.
+Taiga checked Cabin Two first and found it empty. He sat on his bunk for a few minutes, then got irritated with himself and stood again. Waiting inside felt too much like waiting for something. He walked without deciding where he was going. The field was empty. So was the overlook path. At the dock, he finally stopped. The pier stretched over gray-blue water. Taiga walked to the end and sat. The boards were cold through his jeans.
 
 He looked at the lake. Kieran was gone. Leo was somewhere. Taiga had managed to hurt one person by not wanting him and another by apparently wanting him in a way he still could not name. Excellent work. He leaned forward and rested his forearms on his knees. Thursday would not leave him alone. Leo playing too hard. Leo looking at Kieran and Taiga whenever an old story surfaced. Leo snapping when Taiga defended Kieran. Then the cabin.
 
@@ -800,7 +800,7 @@ Taiga let out a breath.
 
 Leo went quiet. Taiga looked at the lake.
 
-“I knew what I was doing when I told you he was my best friend.”
+“I knew what I was doing when I told you he was my friend.”
 
 Leo's expression changed. Taiga forced himself to continue.
 
