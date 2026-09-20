@@ -10,41 +10,175 @@ Taiga pulled his duffel from the luggage compartment. The road curved between da
 
 “So we wait?”
 
-“Probably.”
+“Yoshinori said somebody would pick us up.”
 
-“For Yoichi?”
+“Who?”
 
-“Probably.”
+“He didn't say.”
 
 Leo smiled.
 
-“You keep saying that like you're hoping it isn't him.”
+“That seems dangerously vague.”
 
-“I know him.”
+“He knows where the bus stops.”
 
-“That is not an answer.”
+“That was not my concern.”
 
-A horn sounded once, long and unnecessary enough that Taiga closed his eyes.
+A vehicle appeared around the bend a minute later, moving at a completely reasonable speed. Taiga recognized the Camp Buddy utility car before it pulled in beside the gas station.
 
-“There.”
+Aiden leaned across and pushed the passenger door open.
 
-An old utility vehicle turned the bend too fast for the road and braked beside the gas station with a crunch of gravel. Yoichi leaned across the passenger seat and shoved the door open.
+“There you are!”
 
-“Get in, Dynamite. I'm not sitting here all damn night.”
+Taiga smiled despite himself.
 
-Taiga stared at the vehicle.
+“Hey, Aiden.”
 
-“You drive like an asshole.”
+He barely had time to put the duffel down before Aiden got out and pulled him into a quick, solid hug.
 
-“Tch. Then walk.”
+“Welcome back, buddy!”
 
-Leo leaned toward the open door. Yoichi finally looked past Taiga and gave him a long once-over.
+Taiga returned it.
+
+“Good to see you too.”
+
+Aiden held him at arm's length for half a second.
+
+“University hasn't killed you yet.”
+
+“Working on it.”
+
+“Hehehe~ That's the spirit.”
+
+Then he looked past Taiga at Leo.
+
+“And you must be Leo.”
+
+Leo stepped forward.
+
+“Yeah. Hi.”
+
+“Aiden Flynn. Yoshinori sent me before he decided the schedule needed another clipboard.”
+
+Taiga snorted.
+
+“That sounds like him.”
+
+Aiden shook Leo's hand.
+
+“Thanks for coming all the way out here, buddy.”
+
+“I was promised manual labor.”
+
+Aiden's smile widened.
+
+“Oh, you'll get plenty of that.”
+
+They loaded the bags into the back. Leo climbed in behind Taiga.
+
+“Thanks for picking us up.”
+
+“No problem. That stop is close by local standards and nowhere by normal standards.”
+
+Aiden pulled back onto the road.
+
+The drive to Camp Buddy took fifteen minutes. Leo spent most of them looking out the window, not talking. That was unusual enough for Taiga to notice. The road narrowed. Pines thickened. Then the lake appeared between them, gray-blue under the evening sky, still and cold-looking.
+
+Leo leaned toward the window.
+
+“Oh.”
+
+Taiga knew that sound. It was the same reaction Leo had shown at the Pinetree overlook, only in a different place. Aiden glanced at him through the mirror.
+
+“First time this far out?”
+
+“More of a sea boy.”
+
+Aiden laughed.
+
+“Ahh. That explains the face.”
+
+Leo looked at him through the mirror.
+
+“What face?”
+
+“The lake face.”
+
+“That is not a thing.”
+
+“It absolutely is.”
+
+Taiga looked out the window and left them to it.
+
+Aiden turned down the gravel road. The main Camp Buddy sign came into view. The weathered wood carried a freshly repaired bracket, with the familiar emblem cut into the top. Leo sat forward.
+
+Taiga looked at him instead of the sign.
+
+Leo took in the main lodge, the old cabin roofs through the trees, the dining hall, the maintenance sheds and the path toward the waterfront. Beyond them, the renovation year had left a second layer on the place: newer cabins in the annex, the function hall farther uphill, fresh conduit along the lodge and a small security camera under the eaves.
+
+Taiga still noticed which parts were new because he remembered helping build some of them.
+
+Leo pointed through the trees.
+
+“Those cabins?”
+
+“Expansion.”
+
+“You worked on them?”
+
+“Some of them.”
+
+Leo looked at him.
+
+“Some.”
+
+“I didn't build the entire fucking camp.”
+
+“I didn't say you did.”
+
+“You made the face.”
+
+Leo smiled and looked back outside.
+
+With no campers, no summer noise and nobody running between buildings, Camp Buddy felt bigger, quieter and more exposed.
+
+Aiden parked beside the main lodge.
+
+Yuki found them before Taiga had both feet on the ground.
+
+A blur of fur crossed the path and hit him at knee height, not aggressively. Emotionally. Taiga dropped one hand to her neck automatically.
+
+“Yeah, yeah. Hi.”
+
+Yuki whined, jumped and hit him again until Taiga laughed despite himself.
+
+“Stop.”
+
+She did not.
+
+“Tch. Look what crawled back.”
+
+Taiga looked up.
+
+Yoichi stood near the maintenance shed with a coil of rope over one shoulder.
+
+Taiga smiled.
+
+“Missed you too, Buttcheeks.”
+
+“Didn't say that.”
+
+Yoichi came closer anyway.
+
+Leo got out of the vehicle. Yoichi finally looked past Taiga and gave him a long once-over.
 
 “Who's this?”
 
-Leo blinked, then smiled. Taiga threw his duffel into the back.
+Leo blinked, then smiled.
 
 “Leo.”
+
+Taiga reached for his duffel.
 
 “I can answer for myself.”
 
@@ -72,7 +206,9 @@ Leo looked between them.
 
 “It isn't,” Taiga and Yoichi said together.
 
-A beat. Leo's smile widened. Yoichi clicked his tongue.
+A beat.
+
+Leo's smile widened. Yoichi clicked his tongue.
 
 “Psh. Great. He's annoying too.”
 
@@ -80,105 +216,15 @@ A beat. Leo's smile widened. Yoichi clicked his tongue.
 
 “Lame.”
 
-Taiga got in. Leo climbed into the back.
+Yuki finally noticed Leo.
 
-“Thanks for picking us up.”
-
-“Don't thank him yet.”
-
-Yoichi slammed the vehicle into gear. It lurched forward. Leo caught the grab handle.
-
-“Right. Noted.”
-
-Taiga looked out the window so neither of them would see him smiling. The road to Camp Buddy took fifteen minutes. Leo spent most of them looking out the window, not talking. That was unusual enough for Taiga to notice. The road narrowed. Pines thickened. Then the lake appeared between them, gray-blue under the evening sky, still and cold-looking. Leo leaned toward the window.
-
-“Oh.”
-
-Taiga knew that sound. It was the same reaction Leo had shown at the Pinetree overlook, only in a different place. Yoichi glanced at him through the mirror.
-
-“City boy?”
-
-“More of a sea boy.”
-
-“Explains a lot.”
-
-“About what?”
-
-“Your face.”
-
-Leo laughed. Taiga looked out the window and left them to it. Yoichi turned down the gravel road. The main Camp Buddy sign came into view. The weathered wood carried a freshly repaired bracket, with the familiar emblem cut into the top. Leo sat forward. Taiga looked at him instead of the sign. Leo took in the main lodge, the old cabin roofs through the trees, the dining hall, the maintenance sheds and the path toward the waterfront. Beyond them, the renovation year had left a second layer on the place: newer cabins in the annex, the function hall farther uphill, fresh conduit along the lodge and a small security camera under the eaves. Taiga still noticed which parts were new because he remembered helping build some of them. Leo pointed through the trees.
-
-“Those cabins?”
-
-“Expansion.”
-
-“You worked on them?”
-
-“Some of them.”
-
-Leo looked at him.
-
-“Some.”
-
-“I didn't build the entire fucking camp.”
-
-“I didn't say you did.”
-
-“You made the face.”
-
-Leo smiled and looked back outside. With no campers, no summer noise and nobody running between buildings, Camp Buddy felt bigger, quieter and more exposed. Yoichi drove past the main lodge.
-
-“West cabins have water. East side's still shut.”
-
-“Yoshinori said lakeside,” Taiga said.
-
-“Yeah. You're staying in cabin two”
-
-Taiga looked over.
-
-“My old cabin?”
-
-Yoichi shrugged.
-
-“Frogboy's favorite scheduling nerd picked it.”
-
-“Yoshinori?”
-
-“No, dumbass, the ghost of camp administration.”
-
-Taiga flipped him off. Leo leaned forward between the seats.
-
-“Wait. Old cabin?”
-
-Taiga looked out the window.
-
-“Stayed there before.”
-
-Yoichi grinned.
-
-“Dynamite's sentimental.”
-
-“Drive into the lake.”
-
-“Can't. Dock's still blocked.”
-
-Leo laughed. Taiga hated both of them. Yuki found them before the vehicle stopped. A blur of fur crossed the path. Yoichi shouted:
-
-“HEY—”
-
-Too late. Yuki hit Taiga at knee height, not aggressively. Emotionally. Taiga dropped one hand to her neck automatically.
-
-“Yeah, yeah. Hi.”
-
-Yuki whined, jumped and hit him again until Taiga laughed despite himself.
-
-“Stop.”
-
-She did not. Leo got out of the back seat. Yuki froze with her head up, assessing the new person. Leo crouched immediately without getting too close and kept his hand low, both choices Taiga approved of.
+She froze with her head up, assessing the new person. Leo crouched immediately without getting too close and kept his hand low, both choices Taiga approved of.
 
 “Hey.”
 
-Yuki sniffed. Taiga watched. Yoichi climbed out.
+Yuki sniffed. Taiga watched.
+
+Yoichi clicked his tongue.
 
 “Don't baby her.”
 
@@ -194,7 +240,9 @@ Yuki approached and sniffed Leo's hand, then his jeans and backpack, while Leo s
 
 “Oh, hi.”
 
-Yuki pushed her head under his palm. Yoichi clicked his tongue.
+Yuki pushed her head under his palm.
+
+Yoichi frowned.
 
 “Traitor.”
 
@@ -272,25 +320,19 @@ Yoichi walked past carrying both duffels.
 
 “Confirmed.”
 
-“Thank you, Sunshine.”
+Leo looked at the bags.
 
-Yoichi stopped. Slowly turned. Taiga started laughing before either spoke. Leo froze.
+“Thanks.”
 
-“Oh.”
+“Didn't do it for you.”
 
-Yoichi pointed at him.
+“Still counts.”
 
-“You get one.”
-
-Leo held up both hands.
-
-“One.”
-
-“After that I feed you to the lake.”
+Yoichi clicked his tongue and kept walking.
 
 Yoshinori sighed with the patience of a man whose preseason had lasted four days and already contained Yoichi.
 
-“Cabin two-twelve has been opened and aired. There are clean linens inside. Dinner is at seven.”
+“Cabin two has been opened and aired. There are clean linens inside. Dinner is at seven.”
 
 Taiga looked at the lodge clock through the window. Six-twelve.
 
@@ -481,7 +523,7 @@ Taiga started walking.
 
 “Hihi~”
 
-Taiga picked up his duffel. Yoshinori watched him with suspicious neutrality. Taiga narrowed his eyes.
+Taiga started after Yoichi. Yoshinori watched him with suspicious neutrality. Taiga narrowed his eyes.
 
 “If you say anything, I'm leaving.”
 
@@ -615,45 +657,9 @@ Taiga picked up another sock. Leo held both hands up.
 
 Dinner was stew.
 
-Taiga and Leo had barely made it through the dining-hall door when Aiden looked up from behind the serving counter.
+Aiden was already behind the serving counter when Taiga and Leo entered.
 
-His face lit.
-
-“Taiga! Buddy!”
-
-Taiga got as far as:
-
-“Hey, Aiden—”
-
-Aiden came around the counter and pulled him into a quick, solid hug.
-
-“Look at you! Welcome back.”
-
-Taiga returned it before Aiden let go.
-
-“Good to see you too.”
-
-Aiden held him at arm's length for half a second.
-
-“University hasn't killed you yet.”
-
-“Working on it.”
-
-“Hehehe~ That's the spirit.”
-
-Then Aiden noticed Leo beside him.
-
-“And you must be Leo! Welcome, buddy. Any friend of Taiga's who volunteers for preseason work is either very generous or very confused.”
-
-Leo smiled.
-
-“Probably the second one.”
-
-“Perfect. You'll fit right in.”
-
-Aiden went back behind the counter and reclaimed the ladle.
-
-“This is preseason food,” he announced. “Hot, filling, and there's enough of it that nobody gets to complain they're hungry later.”
+“This is preseason food,” he announced, raising the ladle. “Hot, filling, and there's enough of it that nobody gets to complain they're hungry later.”
 
 Yoichi, already eating, looked into his bowl.
 
