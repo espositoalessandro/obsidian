@@ -54,7 +54,7 @@ He went inside. Taiga watched the door close. Kieran looked back toward the lake
 
 Kieran smiled. Taiga looked at him.
 
-"What."
+“What?”
 
 “Nothing, you still a purist when it comes to coffee."
 
@@ -92,9 +92,9 @@ Aiden shouted from the lodge that Darius was right. Lloyd gathered the plan with
 
 Kieran asked:
 
-"Still broken?"
+“Still broken?”
 
-"Yeah."
+“Yeah.”
 
 Taiga grabbed the handle. Kieran crouched and lifted. The door rolled open. Leo stood behind them.
 
@@ -118,21 +118,21 @@ The shed smelled like old rope, damp wood and varnish. Life jackets hung along o
 
 Everyone found something to carry. Leo grabbed one side of the nearest storage bin. Taiga took the other before he asked. They lifted. At the doorway Leo shifted right. Taiga shifted left. The bin cleared the frame. Kieran came through behind them with two folding chairs under one arm.
 
-Kieran looked at the bin and smiled
+Kieran looked at the bin and smiled.
 
-"Oh I remember most of these things. Any new activity I've missed?"
+“Oh, I remember most of these things. Any new activities I've missed?”
 
 Taiga thought for a couple of seconds.
 
-"If you exclude the fundraising we did last year, then no. There's a strict budget for fantasy."
+“If you exclude the fundraising we did last year, then no. There's a strict budget for fantasy.”
 
-"Does Yuri still have all those weird costumes?"
+“Does Yuri still have all those weird costumes?”
 
-"Yeah."
+“Yeah.”
 
 Kieran chuckled.
 
-"Figured."
+“Figured.”
 
 Then Taiga walked back inside. Leo followed. That was the arrangement for most of the morning. Taiga and Leo handled the larger pieces while Yoichi complained about the labels even as he did exactly what Yuri had asked. Kieran worked near Yoshinori, checking older equipment and sorting what could still be used. They crossed paths because the shed was small. A folding table needed two people. Kieran happened to be nearest. Taiga took one end.
 
@@ -548,7 +548,7 @@ Leo looked between them.
 
 “That sounds familiar.”
 
-He said it lightly. Kieran smiled. Taiga rolled his eyes. Yoichi slapped down a card with far too much force. The table erupted over whatever rule he had just broken. Leo laughed with everyone else. 
+He said it lightly. Kieran smiled. Taiga rolled his eyes. Yoichi slapped down a card with far too much force. The table erupted over whatever rule he had just broken. Leo laughed with everyone else.
 Although, his smile faded quicker than usual.
 
 ---
@@ -619,13 +619,13 @@ Leo laughed.
 
 Leo held the hinge in place.
 
-“The one good with people?”
+“The one who's good with people?”
 
 “Yeah.”
 
 “Didn't strike me as someone like that at first.”
 
-"Things have changed apparently."
+“Things have changed, apparently.”
 
 Taiga handed him the screwdriver. Leo took it. Work continued.
 
@@ -770,7 +770,7 @@ Taiga stole the ball with one foot. Leo went after him immediately. Taiga shield
 Kieran came around the lodge and stopped. Yoichi was with him, carrying Yuki’s leash. Leo poked the ball free.
 That sneaky little bastard.
 
-"Yoichi!"
+“Yoichi!”
 
 He sent it toward Yoichi. Yoichi trapped it badly. The ball bounced away. Taiga laughed. Yoichi flipped him off.
 
@@ -792,7 +792,7 @@ Taiga held out a hand.
 
 “Pass it here.”
 
-Kieran did. The pass went slightly behind him. Taiga corrected without breaking stride. Leo came in. For ten minutes they played something without teams. Mostly Taiga and Leo trying to embarrass each other. Yoichi kicking far too hard whenever the ball reached him. Kieran getting better once he stopped apologizing after every bad pass. 
+Kieran did. The pass went slightly behind him. Taiga corrected without breaking stride. Leo came in. For ten minutes they played something without teams. Mostly Taiga and Leo trying to embarrass each other. Yoichi kicking far too hard whenever the ball reached him. Kieran getting better once he stopped apologizing after every bad pass.
 Then Kieran took the ball from Leo and sent it toward Taiga. Taiga was already moving. One touch. Past Yoichi. Leo laughed.
 
 “That was good.”
@@ -905,7 +905,7 @@ Yoichi looked offended.
 
 “I do fun things.”
 
-“You disappear in woods.”
+“You disappear into the woods.”
 
 “It's fun.”
 
@@ -1077,7 +1077,7 @@ Taiga threw the carabiner back. Kieran caught it badly. Leo laughed. Kieran laug
 
 In Cabin Two, Leo changed first. Taiga sat on his bed and pulled off his socks. Leo tossed his sweatshirt over the back of a chair. Missed. Normally he would have left it there. Instead he picked it up and folded it once. Taiga watched.
 
-“You sure you okay?”
+“You sure you're okay?”
 
 Leo looked over.
 
