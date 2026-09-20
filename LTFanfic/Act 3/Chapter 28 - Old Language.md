@@ -13,21 +13,10 @@ He went inside, got his own coffee from the kitchen, and came back out. Kieran h
 
 Taiga took a sip.
 
-“You remembered.”
+“Yeah.”
 
-“Some things stick.”
-
-Old knowledge appearing without permission. Taiga looked at the lake.
-
-“Coffee doesn’t need dessert in it.”
-
-Kieran smiled faintly.
-
-“You used to say that too.”
-
-“Because I was right then.”
-
-A door opened behind them. Footsteps crossed the lodge. Then Leo came around the corner. He slowed. Only slightly. Enough for Taiga to notice. Leo looked at Taiga. Then at Kieran. Then at the two mugs.
+Cabin Two's door opened and a very confused Leo came out. He was basically half asleep.
+As he approached the lodge, he slowed. Only slightly. Enough for Taiga to notice. Leo looked at Taiga. Then at Kieran. Then at the two mugs.
 
 “You’re both awake.”
 
@@ -57,19 +46,17 @@ He went inside. Taiga watched the door close. Kieran looked back toward the lake
 
 “This is what coffee is supposed to look like.”
 
-“That’s milk.”
+“That’s dirty milk.”
 
 “It contains coffee.”
 
-“Barely counts.”
+“Barely.”
 
-Kieran laughed.
+Kieran smiled. Taiga looked at him.
 
-“You used to say the same thing about sweet coffee.”
+"What."
 
-Taiga looked at him.
-
-“Apparently I’ve been consistent.”
+“Nothing, you still a purist when it comes to coffee."
 
 Leo drank. For a while the three of them sat there. The silence was not exactly uncomfortable, not exactly anything. Then the dining hall door opened behind them. Yoichi stuck his head out.
 
@@ -78,8 +65,6 @@ Leo drank. For a while the three of them sat there. The silence was not exactly 
 Leo stood.
 
 “See? Hospitality.”
-
-Yoichi disappeared. Taiga got up beside Leo. Kieran followed. Whatever the morning had been, breakfast ended it.
 
 ---
 
@@ -103,7 +88,15 @@ Lloyd pointed at him.
 
 “Breakfast does.”
 
-Aiden shouted from the lodge that Darius was right. Lloyd gathered the plan with wounded dignity. Yoshinori’s first job of the day was the activity shed. The building sat behind the craft lodge and had spent winter becoming a museum of things nobody remembered storing. One of the double doors only opened if somebody lifted the bottom edge while another person pulled. Taiga grabbed the handle. Kieran crouched and lifted. The door rolled open. Leo stood behind them.
+Aiden shouted from the lodge that Darius was right. Lloyd gathered the plan with wounded dignity. Yoshinori’s first job of the day was the activity shed. The building sat behind the craft lodge and had spent winter becoming a museum of things nobody remembered storing. One of the double doors only opened if somebody lifted the bottom edge while another person pulled.
+
+Kieran asked:
+
+"Still broken?"
+
+"Yeah."
+
+Taiga grabbed the handle. Kieran crouched and lifted. The door rolled open. Leo stood behind them.
 
 “You both remembered that?”
 
@@ -125,27 +118,23 @@ The shed smelled like old rope, damp wood and varnish. Life jackets hung along o
 
 Everyone found something to carry. Leo grabbed one side of the nearest storage bin. Taiga took the other before he asked. They lifted. At the doorway Leo shifted right. Taiga shifted left. The bin cleared the frame. Kieran came through behind them with two folding chairs under one arm.
 
-“You still take the heavier end.”
+Kieran looked at the bin and smiled
 
-Taiga looked at him.
+"Oh I remember most of these things. Any new activity I've missed?"
 
-“I’m on the same side as him.”
+Taiga thought for a couple of seconds.
 
-“You did it with me too.”
+"If you exclude the fundraising we did last year, then no. There's a strict budget for fantasy."
 
-Leo set the bin down.
+"Does Yuri still have all those weird costumes?"
 
-“He still does.”
+"Yeah."
 
-Taiga stared between them.
+Kieran chuckled.
 
-“Great. You’ve known each other for twenty-four hours and you’re already comparing notes.”
+"Figured."
 
-Leo smiled.
-
-“It’s useful research.”
-
-Kieran laughed. Taiga walked back inside. Leo followed. That was the arrangement for most of the morning. Taiga and Leo handled the larger pieces while Yoichi complained about the labels even as he did exactly what Yuri had asked. Kieran worked near Yoshinori, checking older equipment and sorting what could still be used. They crossed paths because the shed was small. A folding table needed two people. Kieran happened to be nearest. Taiga took one end.
+Then Taiga walked back inside. Leo followed. That was the arrangement for most of the morning. Taiga and Leo handled the larger pieces while Yoichi complained about the labels even as he did exactly what Yuri had asked. Kieran worked near Yoshinori, checking older equipment and sorting what could still be used. They crossed paths because the shed was small. A folding table needed two people. Kieran happened to be nearest. Taiga took one end.
 
 “Maintenance side?”
 
@@ -261,7 +250,7 @@ Taiga snorted.
 
 Taiga glanced over. Kieran was already putting the drill away.
 
-“Most people do.”
+“Yeah, most people do.”
 
 Darius moved between the groups all morning, checking repairs without hovering. When Taiga reset a warped shelf bracket, Darius tested it once and nodded.
 
@@ -293,16 +282,6 @@ They worked until lunch, not past it. When Aiden appeared in the doorway at twel
 
 “That is enough for now.”
 
-Yoichi stared.
-
-“There’s still a pile.”
-
-“There will still be a pile after lunch.”
-
-“You’re not making us come back?”
-
-“Not immediately.”
-
 Leo put a hand to his chest.
 
 “Actual mercy.”
@@ -325,7 +304,7 @@ That ended the debate.
 
 ---
 
-Lunch drifted. Nobody rushed. Aiden had made grilled sandwiches and soup. Taiga sat beside Leo. Kieran sat across from them. Yoichi took the end of the table with Yuki lying under his chair. Halfway through, Kieran looked toward Taiga’s plate. Then smiled to himself. Leo caught it.
+Lunch drifted. Nobody rushed. Taiga sat beside Leo. Kieran sat across from them. Yoichi took the end of the table with Yuki lying under his chair. Halfway through, Kieran looked toward Taiga’s plate. Then smiled to himself. Leo caught it.
 
 “What was it?”
 
@@ -461,7 +440,7 @@ Leo laughed. At one point he leaned back on both hands.
 
 Taiga looked toward the lake.
 
-“Yeah, he did.”
+“Yeah.”
 
 Leo nodded. No follow-up. Taiga glanced at him. Leo was watching a bird skim the water. That was all Taiga had to go on. On the way down, Leo nearly slipped on wet leaves. Taiga caught his elbow. Leo recovered.
 
@@ -569,7 +548,8 @@ Leo looked between them.
 
 “That sounds familiar.”
 
-He said it lightly. Kieran smiled. Taiga rolled his eyes. Yoichi slapped down a card with far too much force. The table erupted over whatever rule he had just broken. Leo laughed with everyone else. Taiga still remembered the way his smile had gone faint at lunch. He had no idea whether the two things were connected.
+He said it lightly. Kieran smiled. Taiga rolled his eyes. Yoichi slapped down a card with far too much force. The table erupted over whatever rule he had just broken. Leo laughed with everyone else. 
+Although, his smile faded quicker than usual.
 
 ---
 
@@ -635,21 +615,23 @@ Leo laughed.
 
 “Nothing. I just expected the guy from the supermarket to be harder to talk to.”
 
-“He can be.”
+“He's not. Actually, he was very much like Keitaro.”
 
 Leo held the hinge in place.
 
-“That sounded ominous.”
+“The one good with people?”
 
-“It wasn’t.”
+“Yeah.”
 
-“Very reassuring.”
+“Didn't strike me as someone like that at first.”
+
+"Things have changed apparently."
 
 Taiga handed him the screwdriver. Leo took it. Work continued.
 
 ---
 
-By Wednesday afternoon, Kieran had stopped hesitating before helping Taiga, not in a dramatic way. If Taiga carried one side of something, Kieran sometimes took the other. If Yoshinori asked for a tool, Kieran went straight to where Taiga had set it. If Taiga complained about a warped board, Kieran already understood which end he meant. Old habits. Taiga noticed because Leo had habits with him too. Taiga held out a hand without looking. Leo passed him the correct screw.
+By Wednesday afternoon, Kieran had stopped hesitating before helping Taiga. If Taiga carried one side of something, Kieran sometimes took the other. If Yoshinori asked for a tool, Kieran went straight to where Taiga had set it. If Taiga complained about a warped board, Kieran already understood which end he meant. Old habits. Taiga noticed because Leo had habits with him too. Taiga held out a hand without looking. Leo passed him the correct screw.
 
 “Shorter one.”
 
@@ -681,7 +663,7 @@ Kieran laughed.
 
 Leo smiled. Later, Kieran pointed toward the back of the maintenance cabinet.
 
-“You still keep the spare key behind the—”
+“Do they still keep the spare key behind the—”
 
 “Old first-aid tin,” Taiga finished.
 
@@ -693,7 +675,7 @@ Taiga opened the cabinet. When he turned back, Leo was looking at them, not smil
 
 ---
 
-They ate burgers for lunch. Taiga sat beside Leo. Kieran sat across from them. By Wednesday, nobody seemed to be measuring the distance between seats anymore. Conversation moved between equipment, the sponsor meeting and Yoichi complaining about the paint on the new cabin numbers. Kieran laughed at something Leo said. Leo laughed back. Easy enough. Taiga kept eating.
+At lunch, they sat with the usual configuration. Taiga sat beside Leo. Kieran sat across from them. By Wednesday, nobody seemed to be measuring the distance between seats anymore. Conversation moved between equipment, the sponsor meeting and Yoichi complaining about the paint on the new cabin numbers. Kieran laughed at something Leo said. Leo laughed back. Easy enough. Taiga kept eating.
 
 After lunch, Lloyd joined them with the revised expansion inventory while Darius checked straps, buckles and hardware.
 
@@ -785,7 +767,12 @@ Taiga stole the ball with one foot. Leo went after him immediately. Taiga shield
 
 “I was already doing that.”
 
-Kieran came around the lodge and stopped. Yoichi was with him, carrying Yuki’s leash. Leo finally poked the ball free. He sent it toward Yoichi. Yoichi trapped it badly. The ball bounced away. Taiga laughed. Yoichi flipped him off.
+Kieran came around the lodge and stopped. Yoichi was with him, carrying Yuki’s leash. Leo poked the ball free.
+That sneaky little bastard.
+
+"Yoichi!"
+
+He sent it toward Yoichi. Yoichi trapped it badly. The ball bounced away. Taiga laughed. Yoichi flipped him off.
 
 “I don’t play this shit.”
 
@@ -805,7 +792,8 @@ Taiga held out a hand.
 
 “Pass it here.”
 
-Kieran did. The pass went slightly behind him. Taiga corrected without breaking stride. Leo came in. For ten minutes they played something without teams. Mostly Taiga and Leo trying to embarrass each other. Yoichi kicking far too hard whenever the ball reached him. Kieran getting better once he stopped apologizing after every bad pass. Then Kieran took the ball from Leo and sent it toward Taiga. Taiga was already moving. One touch. Past Yoichi. Leo laughed.
+Kieran did. The pass went slightly behind him. Taiga corrected without breaking stride. Leo came in. For ten minutes they played something without teams. Mostly Taiga and Leo trying to embarrass each other. Yoichi kicking far too hard whenever the ball reached him. Kieran getting better once he stopped apologizing after every bad pass. 
+Then Kieran took the ball from Leo and sent it toward Taiga. Taiga was already moving. One touch. Past Yoichi. Leo laughed.
 
 “That was good.”
 
@@ -825,7 +813,7 @@ He turned. The ball went between Taiga’s feet. Clean. Taiga stopped. Leo ran b
 
 “You have to catch me first.”
 
-Taiga chased him. Leo got three steps before Taiga hooked the ball away. They were both laughing. Kieran stepped in beside Taiga for the next play. Taiga passed to him without looking. Kieran was where he expected. The return pass came back immediately. Old rhythm. Different field. Leo came between them harder than necessary and took the ball. Kieran stumbled one step. Leo stopped immediately.
+Taiga chased him. Leo got three steps before Taiga hooked the ball away. They were both laughing. Kieran stepped in beside Taiga for the next play. Taiga passed to him without looking. Kieran was where he expected. The return pass came back immediately. Leo came between them harder than necessary and took the ball. Kieran stumbled one step. Leo stopped immediately.
 
 “Sorry. You good?”
 
@@ -855,7 +843,7 @@ Taiga smiled.
 
 Leo’s expression tightened for half a second.
 
-“It’s football.”
+“It’s football. Life or death.”
 
 Taiga looked at him.
 
@@ -917,9 +905,9 @@ Yoichi looked offended.
 
 “I do fun things.”
 
-“You repair fences voluntarily.”
+“You disappear in woods.”
 
-“That fence needed it.”
+“It's fun.”
 
 Leo leaned toward Taiga.
 
@@ -993,7 +981,7 @@ Leo turned.
 
 “I got competitive.”
 
-“You’re always competitive.”
+“Still weird.”
 
 “You’ve known me for four days.”
 
@@ -1018,10 +1006,6 @@ Leo frowned.
 “What exactly are you trying to say?”
 
 Yoichi shrugged.
-
-“Don’t know yet.”
-
-“That’s reassuring.”
 
 “Something’s bugging you.”
 
@@ -1087,13 +1071,13 @@ Kieran laughed.
 
 “It explains everything.”
 
-Taiga threw the carabiner back. Kieran caught it badly. Almost dropped it. Leo laughed. Kieran laughed too. Taiga looked at Leo. The laugh had been real. It also ended quickly. Kieran headed back toward Cabin Three. Leo started walking again. Taiga followed.
+Taiga threw the carabiner back. Kieran caught it badly. Leo laughed. Kieran laughed too. Taiga looked at Leo. The laugh had been real but it also ended quickly. Kieran headed back toward Cabin Three. Leo started walking again. Taiga followed.
 
 ---
 
 In Cabin Two, Leo changed first. Taiga sat on his bed and pulled off his socks. Leo tossed his sweatshirt over the back of a chair. Missed. Normally he would have left it there. Instead he picked it up and folded it once. Taiga watched.
 
-“You okay?”
+“You sure you okay?”
 
 Leo looked over.
 
@@ -1119,7 +1103,7 @@ Taiga leaned back on his hands.
 
 Leo stopped moving. Only for a second. Then:
 
-“I’m tired, Taiga.”
+“I’m just tired.”
 
 “That’s what you told Yoichi.”
 
@@ -1132,16 +1116,13 @@ Leo’s head came up.
 “That’s great.”
 
 There was an edge in it. Taiga frowned.
-
-“What’s your problem?”
-
 Leo closed his eyes briefly. When he opened them, the edge had gone.
 
 “Sorry. That sounded worse than I meant.”
 
 Taiga stayed quiet. Leo sat on his bed.
 
-“My legs hurt. I’m tired. I got competitive. That’s all.”
+“Look, my legs hurt. I’m tired. I got competitive. That’s all.”
 
 Taiga did not believe that was all. He also remembered what Leo had done Monday. There had been questions, but Leo had let Taiga stop wherever he wanted. Taiga could return the favor once.
 
