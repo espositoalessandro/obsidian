@@ -1,4 +1,5 @@
-Taiga woke before the alarm. Again. The other bunk was still occupied. Leo had one arm outside the blanket and half his face buried in the pillow, completely unaware that morning had happened. Taiga dressed quietly and left him there. The air outside had teeth. He crossed the yard toward the main lodge, shoved his hands into his jacket pockets, and almost changed direction when he saw somebody already sitting on the steps. Kieran. One mug in both hands. He looked up.
+Taiga woke before the alarm. Again. Leo had one arm outside the blanket and half his face buried in the pillow, completely unaware that morning had happened. Taiga dressed quietly and left him sleep a bit more. The air outside had teeth. He crossed the yard toward the main lodge, shoved his hands into his jacket pockets, and almost changed direction when he saw somebody already sitting on the steps.
+Kieran. One mug in both hands. He looked up.
 
 “Morning, Taiga.”
 
