@@ -62,7 +62,7 @@ Taiga heard the stammer. The sound was old and familiar enough that Taiga hated 
 
 Kieran looked toward him. His expression changed again. Surprise came first, followed by something softer.
 
-“Hey Yoichi.”
+“Hey, Yoichi.”
 
 Yoichi folded his arms.
 
@@ -86,9 +86,9 @@ Leo's mouth moved at one corner. Taiga caught it, not amusement at Kieran. Recog
 
 Kieran blinked.
 
-“Oh. Hi Yuri, same”
+“Oh. Hi, Yuri. Same.”
 
-She smiled, but not with a mischievous one. She was careful.
+She smiled, but not mischievously. She was careful.
 
 “Welcome back to Camp Buddy.”
 

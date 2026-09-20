@@ -968,7 +968,7 @@ Leo stood immediately.
 
 ---
 
-Camp after dinner was nearly silent. There was no campers, no music, and no shouting from the field. No somebody dropping a canoe paddle where they should not, just wind. Water. Footsteps on damp ground. Leo walked beside Taiga with his hands in his jacket pockets.
+Camp after dinner was nearly silent. There were no campers, no music, and no shouting from the field. Nobody dropping a canoe paddle where they should not, just wind. Water. Footsteps on damp ground. Leo walked beside Taiga with his hands in his jacket pockets.
 
 “It's weird.”
 
@@ -1026,7 +1026,7 @@ Leo laughed and jogged two steps away. Taiga did not chase him. Mostly because t
 
 “Boundaries!”
 
-“That's now how they work.”
+“That's not how they work.”
 
 Leo came back. Still smiling. They followed the path toward the lake. Taiga pointed as they went.
 
@@ -1040,7 +1040,7 @@ Leo came back. Still smiling. They followed the path toward the lake. Taiga poin
 
 “Behind that.”
 
-"Your nigthmare."
+“Your nightmare.”
 
 “And there's the field.”
 
@@ -1180,7 +1180,7 @@ Taiga got dressed. Thermal shirt. Work pants. Sweatshirt. Leo eventually emerged
 
 Taiga turned away. Leo reached for his phone.
 
-"Great."
+“Great.”
 
 Seven minutes later they walked to breakfast. Leo's hair had not improved. Yuri saw him.
 
@@ -1472,9 +1472,9 @@ Taiga's shoulders tightened a little. Leo's next sentence came lighter. He added
 
 “You seem more relaxed, not constantly looking for emergency exits.”
 
-"Woods are open."
+“Woods are open.”
 
-"Fair. Plus, nothing much to argue about here."
+“Fair. Plus, nothing much to argue about here.”
 
 “I argue with plenty of things here.”
 
@@ -1508,9 +1508,9 @@ Leo looked at the rope.
 
 Taiga sighed, then stood.
 
-"You told Yoshinori?"
+“You told Yoshinori?”
 
-"Yeah, he told me to fetch you."
+“Yeah, he told me to fetch you.”
 
 “So ask normally.”
 
@@ -1942,9 +1942,9 @@ Taiga smiled. Leo looked at him.
 
 “And you don't have to explain yourself every five minutes.”
 
-"I don't explain myself."
+“I don’t explain myself.”
 
-"No, that's the problem. But here it feels like you don't need to."
+“No, that’s the problem. But here it feels like you don’t need to.”
 
 That hit closer. Taiga looked down. Leo continued before it became too serious.
 
@@ -1966,22 +1966,22 @@ Taiga threw a pillow. Leo caught it against his chest.
 
 “This one has history.”
 
-Taiga stood. Leo scrambled up. Too slow. Taiga grabbed the pillow. Leo held on. For one second, stupid tug-of-war. Then Leo lost balance was about to fall backward. Taiga caught his waist with one hand. Leo grabbed the back of Taiga's neck long enough to steady himself. 
+Taiga stood. Leo scrambled up. Too slow. Taiga grabbed the pillow. Leo held on. For one second, stupid tug-of-war. Then Leo lost his balance and was about to fall backward. Taiga caught his waist with one hand. Leo grabbed the back of Taiga's neck long enough to steady himself. 
 
-"Woah."
+“Whoa.”
 
 They straightened. Taiga's eyes caught on Leo's mouth while he was still smiling from the struggle. He noticed a small mark on his chin. 
 One second passed.
 Two seconds passed.
-Taiga's heart start rushing behind his ribs. His mind went totally blank.
-Neither of them left their hands. Their faces were too close. Both red as Taiga's hair.
+Taiga's heart started racing behind his ribs. His mind went totally blank.
+Neither of them moved their hands. Their faces were too close. Both red as Taiga's hair.
 Leo let out a small laugh and said,
 
-"You're a menace."
+“You’re a menace.”
 
 Taiga forced a smile. Small and awkward. He muttered,
 
-"You keep falling."
+“You keep falling.”
 
 Leo's smile widened for a second. Then shifted slowly. He exhaled through a quiet laugh.
 
@@ -2023,7 +2023,7 @@ Taiga looked at him. Leo looked back. He could feel heat coming back to his head
 ---
 
 By eleven, exhaustion had won. Taiga lay facing the wall. Across the cabin, Leo shifted under the blankets. 
-He was replaying the day in his mind. Them working together, Yoichi yelling at him, Yuri being dangerous, Aidan calling him buddy.
+He was replaying the day in his mind. Them working together, Yoichi yelling at him, Yuri being dangerous, Aiden calling him buddy.
 Then pillow, tug-of-war, hands on waist. Just a sweatshirt between his fingers and his skin, yet he could still feel the shape of the tip of his hip. 
 His mouth so close he could feel his breath as he laughed.
 That last image made his stomach drop. Why? Why was he so-
@@ -2048,11 +2048,11 @@ A pause.
 
 “Thanks for bringing me.”
 
-"That was not a question."
+“That was not a question.”
 
 Leo considered.
 
-"Okay, fair."
+“Okay, fair.”
 
 Taiga looked toward the other bed. Could barely see Leo's outline. 
 His immediate answer was already leaving his mouth. Then he stopped. After a couple of seconds, he managed to articulate.
@@ -2065,5 +2065,5 @@ Silence. Too late. Words existed. Taiga's face heated even in darkness.
 
 Taiga stared at the ceiling. Outside, wind moved through the pines. Somewhere near the cabin, Yuki barked once. Camp Buddy settled around them. 
 
-A familiar warmness settled inside him. Something he hadn't felt for a while. 
+A familiar warmth settled inside him. Something he hadn't felt for a while. 
 He fell asleep while smiling.
