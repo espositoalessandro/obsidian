@@ -702,7 +702,7 @@ Kieran laughed. Leo did too. Again, almost normal. Taiga wanted to believe it. S
 
 ---
 
-Afterward, Taiga went to shower first. He was covered in sweat, grass and whatever Yuki had put on his jacket. Leo stayed outside with Yoichi. Kieran was helping Aiden carry empty serving trays into the kitchen. Taiga took his clothes and went back to Cabin Two-Twelve. The shower took longer than usual because the hot water and quiet gave him ten minutes without Kieran, Leo acting strange, or football. For ten minutes, Taiga stopped thinking. When he came out, Leo was not in the cabin.
+Afterward, Taiga went to shower first. He was covered in sweat, grass and whatever Yuki had put on his jacket. Leo stayed outside with Yoichi. Kieran was helping Aiden carry empty serving trays into the kitchen. Taiga took his clothes and went back to Cabin Two. The shower took longer than usual because the hot water and quiet gave him ten minutes without Kieran, Leo acting strange, or football. For ten minutes, Taiga stopped thinking. When he came out, Leo was not in the cabin.
 
 Taiga dressed and sat on the bunk. Checked his phone. Nothing important. Five minutes. Ten. Through the window he saw two figures cross the yard from the direction of the lodge. Leo and Kieran. They separated near the cabin path. Kieran turned toward Two-Ten. Leo kept coming. Taiga looked back at his phone before Leo reached the door. Then the door opened. Leo came in. Alone. He shut the door behind him. Taiga looked up.
 
@@ -792,7 +792,7 @@ That hit harder. Taiga stood.
 
 “I didn't.”
 
-“You told me he was your best friend.”
+“You told me he was your friend.”
 
 “He was.”
 
