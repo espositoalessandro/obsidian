@@ -1,4 +1,4 @@
-Taiga woke with a dry mouth, a dull headache, and the immediate certainty that opening his eyes had been a mistake. He did it anyway. Gray morning light filled Cabin Two-Twelve, where his bag was mostly packed, his shoes were where he had left them, and a clean sheet covered the mattress. That last part took him back to approximately one in the morning, when he and Leo had discovered that changing bedding while slightly drunk was much harder than either of them had expected.
+Taiga woke with a dry mouth, a dull headache, and the immediate certainty that opening his eyes had been a mistake. He did it anyway. Gray morning light filled Cabin Two, where his bag was mostly packed, his shoes were where he had left them, and a clean sheet covered the mattress. That last part took him back to approximately one in the morning, when he and Leo had discovered that changing bedding while slightly drunk was much harder than either of them had expected.
 
 Taiga stared at the ceiling. Then remembered why they had needed a clean sheet. He closed his eyes again. Across the room, something rustled.
 
@@ -244,7 +244,7 @@ Leo laughed. Taiga stood.
 
 ---
 
-Cabin Two-Twelve looked different with the bags open, less temporary and more like a place they were actively leaving. Taiga hated packing because it required deciding where everything belonged. Dirty clothes. Clean clothes. Chargers. Toiletries. The hoodie from last night. He picked it up. Stopped. Leo looked at the hoodie.
+Cabin Two looked different with the bags open, less temporary and more like a place they were actively leaving. Taiga hated packing because it required deciding where everything belonged. Dirty clothes. Clean clothes. Chargers. Toiletries. The hoodie from last night. He picked it up. Stopped. Leo looked at the hoodie.
 
 “That survived?”
 
