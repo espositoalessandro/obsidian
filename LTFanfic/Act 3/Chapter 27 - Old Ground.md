@@ -835,7 +835,7 @@ Taiga drove the last screw in. Leo tested the shutter.
 
 “Can I say one thing about it?”
 
-Taiga looked at him
+Taiga looked at him.
 
 “Why are you asking permission?”
 
@@ -849,20 +849,39 @@ Taiga laughed once.
 
 “Yeah. What is it?”
 
-“I don't know what happened, so it may sound unreasonable. But… have you actually considered giving him a chance?”
+Leo looked toward the kitchen.
 
-Taiga froze.
+“You said you don't know if you want him to leave.”
 
-“I mean, whatever it was, it was three years ago. Maybe you two can start again?”
+“Yeah.”
 
-Taiga didn't answer immediately. But he knew Leo was more right than he thought he could be.
-Also, very wrong.
-Taiga looked at him. His face was genuinely concerned.
-Again, that urge.
-Why must he have such a fucking cute face when he's concerned?
-Taiga took a deep breath.
+“So don't decide yet.”
 
-“Yeah... I'll think about it.”
+Taiga frowned.
+
+“What?”
+
+“He showed up this morning. You don't have to figure out what you think about him by dinner.”
+
+Taiga stared at him.
+
+That was annoyingly reasonable.
+
+“You rehearsed that?”
+
+“No.”
+
+“Shame. It almost sounded smart.”
+
+Leo smiled.
+
+“Fuck you too.”
+
+Taiga looked toward the kitchen again.
+
+Kieran was still inside with Aiden.
+
+For once, not knowing could stay not knowing.
 
 They moved to the next cabin.
 
