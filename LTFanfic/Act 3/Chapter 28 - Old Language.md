@@ -693,63 +693,9 @@ Taiga opened the cabinet. When he turned back, Leo was looking at them, not smil
 
 ---
 
-They ate burgers for lunch. Taiga caught Kieran watching him reach for his first. Leo caught it too. This time Kieran kept his mouth shut. Leo did not.
+They ate burgers for lunch. Taiga sat beside Leo. Kieran sat across from them. By Wednesday, nobody seemed to be measuring the distance between seats anymore. Conversation moved between equipment, the sponsor meeting and Yoichi complaining about the paint on the new cabin numbers. Kieran laughed at something Leo said. Leo laughed back. Easy enough. Taiga kept eating.
 
-“You have another Taiga fact.”
-
-Kieran nearly choked on his drink.
-
-“I don’t.”
-
-“You make a face.”
-
-Taiga looked between them.
-
-“What face?”
-
-“The one where he remembers something embarrassing about you.”
-
-Kieran wiped his mouth.
-
-“It’s not embarrassing.”
-
-“Then say it.”
-
-Kieran looked at Taiga. Taiga already knew where this was going—probably.
-
-“You still eat the burger before anything else.”
-
-Leo looked down. Taiga had already taken three bites. He laughed.
-
-“Okay, that one is good.”
-
-Taiga pointed the burger at both of them.
-
-“You’re becoming a problem.”
-
-Kieran smiled.
-
-“You used to do it because you thought somebody would steal it.”
-
-Yoichi looked up from farther down the table.
-
-“That’s sensible.”
-
-Leo looked at Taiga.
-
-“You guard your food?”
-
-“I guard my food from animals.”
-
-“Are we animals?”
-
-Taiga looked at Yoichi.
-
-“Yes.”
-
-“Fuck you.”
-
-Leo laughed. Kieran did too. Taiga ate the burger. Across the table, Kieran looked more comfortable than he had Monday. Leo looked from Kieran to Taiga. Then down at his own plate. Taiga kept eating. After lunch, Lloyd joined them with the revised expansion inventory while Darius checked straps, buckles and hardware.
+After lunch, Lloyd joined them with the revised expansion inventory while Darius checked straps, buckles and hardware.
 
 “This is still design work,” Lloyd said.
 
@@ -1141,11 +1087,11 @@ Kieran laughed.
 
 “It explains everything.”
 
-Taiga threw the carabiner back. Kieran caught it badly. Almost dropped it. Leo laughed. Kieran laughed too. Taiga looked at Leo. The laugh had been real. It also ended quickly. Kieran headed back toward Cabin Two-Ten. Leo started walking again. Taiga followed.
+Taiga threw the carabiner back. Kieran caught it badly. Almost dropped it. Leo laughed. Kieran laughed too. Taiga looked at Leo. The laugh had been real. It also ended quickly. Kieran headed back toward Cabin Three. Leo started walking again. Taiga followed.
 
 ---
 
-In Cabin Two-Twelve, Leo changed first. Taiga sat on his bed and pulled off his socks. Leo tossed his sweatshirt over the back of a chair. Missed. Normally he would have left it there. Instead he picked it up and folded it once. Taiga watched.
+In Cabin Two, Leo changed first. Taiga sat on his bed and pulled off his socks. Leo tossed his sweatshirt over the back of a chair. Missed. Normally he would have left it there. Instead he picked it up and folded it once. Taiga watched.
 
 “You okay?”
 
@@ -1197,7 +1143,7 @@ Taiga stayed quiet. Leo sat on his bed.
 
 “My legs hurt. I’m tired. I got competitive. That’s all.”
 
-Taiga did not believe that was all. He also remembered what Leo had done Monday. There was no questions or pressure, just room. Taiga could return the favor once.
+Taiga did not believe that was all. He also remembered what Leo had done Monday. There had been questions, but Leo had let Taiga stop wherever he wanted. Taiga could return the favor once.
 
 “Fine. I’ll leave it.”
 
