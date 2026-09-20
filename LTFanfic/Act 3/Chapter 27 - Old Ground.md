@@ -192,7 +192,7 @@ The wood cracked louder than it needed to.
 
 Yoshinori looked over.
 
-“Careful. We just have to remove the trim, not destroying the whole window.”
+“Careful. We just have to remove the trim, not destroy the whole window.”
 
 “It's rotten.”
 
@@ -208,10 +208,10 @@ Taiga measured the opening twice. Leo held the tape. Yoshinori cleaned old seala
 
 It did not.
 
-Yoshinori went to the maintenance shed to get more sealant. 
-Taiga was marking the wood with a pencil, when the tip suddenly snapped.
+Yoshinori went to the maintenance shed to get more sealant.
+Taiga was marking the wood with a pencil when the tip suddenly snapped.
 
-"Fuck it."
+“Fuck it.”
 
 Leo said, quieter:
 
@@ -223,13 +223,13 @@ Taiga leaned his forehead against the wooden wall and closed his eyes.
 
 “Okay.”
 
-"Sorry."
+“Sorry.”
 
-"Why are you apologizing?"
+“Why are you apologizing?”
 
-"Because I know this is affecting you."
+“Because I know this is affecting you.”
 
-Taiga straightened, reshape the pencil's tip and marked again. Then cut the strip.
+Taiga straightened, reshaped the pencil's tip and marked again. Then he cut the strip.
 
 The saw moved through the wood in short, clean strokes. When he finished, Leo took the offcut and set it aside.
 
@@ -330,7 +330,7 @@ Leo laughed. Kieran looked at him.
 
 “Dude trust me. It is.”
 
-A smile started appearing on Kieran's faice.
+A smile started appearing on Kieran's face.
 Yoichi dumped the shovel beside the maintenance shed.
 
 “At least he works.”
@@ -347,7 +347,7 @@ Then Kieran smiled.
 
 “Fair.”
 
-Taiga watched the exchange. 
+Taiga watched the exchange.
 Familiar.
 Something unpleasant pulled tight in his chest again.
 
@@ -410,7 +410,7 @@ Leo leaned toward Taiga.
 
 “Does everybody here monitor food intake?”
 
-“Aidan is basically a grandma.”
+“Aiden is basically a grandma.”
 
 “That explains a lot.”
 
@@ -536,28 +536,28 @@ Leo laughed. Taiga stood.
 “It should hold. We fixed it.”
 
 Suddenly there was a big rumble noise coming from the salvage pile.
-Taiga looked over and found Kieran desperately looking at a collapsed boards stack.
+Taiga looked over and found Kieran desperately looking at a collapsed stack of boards.
 
-Taiga shook his head, "Still the same idiot."
+Taiga shook his head, “Still the same idiot.”
 
 Darius and Leo went to help him. Taiga caught himself with the hint of a smile and slapped his face with both hands.
-He approached Kieran as well. 
+He approached Kieran as well.
 
-"I didn't see it, I was checking one board and suddenly this stack was behind me."
+“I didn't see it, I was checking one board and suddenly this stack was behind me.”
 
-Darius looked at him, unfazed
+Darius looked at him, unfazed.
 
-"It had always been there."
+“It had always been there.”
 
 “This is starting to sound coordinated.”
 
 Leo grabbed a plank and laughed. Taiga looked at him.
 
-“Still haven't learnt to look where you walk?”
+“Still haven't learned to look where you're walking?”
 
 Kieran looked at him, then put a hand on the back of his head and smiled.
 
-"Y-yeah, I guess."
+“Y-yeah, I guess.”
 
 Darius handed Taiga the second bracket.
 
@@ -596,7 +596,7 @@ He worked the nail loose and set it in the scrap tin.
 
 “I haven't been back here since then.”
 
-Taiga did know. Then said:
+Taiga did know. Then he said:
 
 “You could've come back anytime.”
 
@@ -660,15 +660,15 @@ Kieran looked back at the board.
 
 That landed harder than Taiga wanted.
 
-He considered his answer. 
+He considered his answer.
 
-"I moved on."
+“I moved on.”
 
 Kieran looked at him.
 
-"Whatever happened that year. I moved on."
+“Whatever happened that year. I moved on.”
 
-"Yeah, of course. Sorry for bringing that up."
+“Yeah, of course. Sorry for bringing that up.”
 
 Taiga looked away.
 
@@ -698,41 +698,41 @@ Kieran nodded.
 
 Taiga went back to the porch. Leo handed him the bracket.
 They went back at it.
-After a while, Leo said
+After a while, Leo said:
 
-"You look better now."
+“You look better now.”
 
-Taiga looked at him?
+Taiga looked at him.
 
-"What you mean?"
+“What do you mean?”
 
-"Well. Less angry?"
+“Well. Less angry?”
 
-"Yeah. Sorry about that. It's just..."
+“Yeah. Sorry about that. It's just...”
 
-Taiga hammered a nail
+Taiga drove another screw.
 
-"It caught me by surprise."
+“It caught me by surprise.”
 
-"Yeah, I can imagine."
+“Yeah, I can imagine.”
 
-Taiga stood up and looked at him. The urge to squeeze him stroke Taiga again.
-He resisted. But couldn't help producing a big, warm smile.
+Taiga stood up and looked at him. The urge to squeeze him struck Taiga again.
+He resisted, but couldn't help producing a big, warm smile.
 Leo looked confused.
-Taiga put a hand on his arm an gently moved his thumb.
+Taiga put a hand on his arm and gently moved his thumb.
 
-"Thanks. For understanding."
+“Thanks. For understanding.”
 
 Leo's face went red almost instantly.
 
-"S-sure."
+“S-sure.”
 
 ---
 
-Kieran worked hard. That became impossible to deny by four. He carried boards. Cleaned tools. Helped Yuri move paint cans without complaining when she made him reorganize them by size after he had already put them down. He took Goro seriously. He listened to Yoshinori. He did not hover around Taiga. 
-That last part mattered most. 
-If Taiga went somewhere else, Kieran did not follow. If Leo came over, Kieran did not insert himself. If Yoichi said something insulting, Kieran took it, not passively. Just without trying to recreate the old group dynamic immediately. 
-It was frustratingly reasonable. 
+Kieran worked hard. That became impossible to deny by four. He carried boards. Cleaned tools. Helped Yuri move paint cans without complaining when she made him reorganize them by size after he had already put them down. He took Goro seriously. He listened to Yoshinori. He did not hover around Taiga.
+That last part mattered most.
+If Taiga went somewhere else, Kieran did not follow. If Leo came over, Kieran did not insert himself. If Yoichi said something insulting, Kieran took it, not passively. Just without trying to recreate the old group dynamic immediately.
+It was frustratingly reasonable.
 Taiga wanted something easier to reject. He did not get it.
 At four fifteen, Kieran was helping Aiden carry a crate toward the kitchen when Leo came up beside Taiga. They were outside Cabin Two-Seven, checking a shutter hinge. Leo held the screws. Taiga held the screwdriver.
 
@@ -746,7 +746,7 @@ Taiga tightened the hinge.
 
 “Whole week?”
 
-Taiga shrugged,
+Taiga shrugged.
 
 “I don't know.”
 
@@ -782,7 +782,7 @@ Taiga frowned.
 Annoying. Fair.
 Taiga tested the hinge.
 
-“It was... everything.”
+“It was… everything.”
 
 Leo looked over.
 
@@ -833,36 +833,36 @@ Taiga drove the last screw in. Leo tested the shutter.
 
 “Good.”
 
-"Can I say one thing about it?"
+“Can I say one thing about it?”
 
 Taiga looked at him
 
-"Why are you asking permission?"
+“Why are you asking permission?”
 
-"You can tell me to stay out of it."
+“You can tell me to stay out of it.”
 
-"You're here. You're in it anyways."
+“You're here. You're in it anyway.”
 
-"You know what I mean."
+“You know what I mean.”
 
-Taiga laughed once,
+Taiga laughed once.
 
-"Yeah. What is it?"
+“Yeah. What is it?”
 
-"I don't know what happened, so it may sound unreasonable. But... have you actually considered giving him a chance?"
+“I don't know what happened, so it may sound unreasonable. But… have you actually considered giving him a chance?”
 
 Taiga froze.
 
-"I mean, whatever it was, it was three years ago. Maybe you two can start again?"
+“I mean, whatever it was, it was three years ago. Maybe you two can start again?”
 
-Taiga didn't answer immediately. But he knew Leo was more right than he thought he could be. 
+Taiga didn't answer immediately. But he knew Leo was more right than he thought he could be.
 Also, very wrong.
 Taiga looked at him. His face was genuinely concerned.
 Again, that urge.
 Why must he have such a fucking cute face when he's concerned?
 Taiga took a deep breath.
 
-"Yeah... I'll think about it."
+“Yeah... I'll think about it.”
 
 They moved to the next cabin.
 
@@ -890,8 +890,8 @@ Darius heard him.
 
 “Mostly Lloyd.”
 
-Lloyd looked betrayed. 
-Leo took a burger. Yoichi took two. Yuri stole fries from Goro's plate. Goro objected on principle. Aiden ignored all of them. Taiga sat. Kieran ended up across from him because every other seat filled naturally. 
+Lloyd looked betrayed.
+Leo took a burger. Yoichi took two. Yuri stole fries from Goro's plate. Goro objected on principle. Aiden ignored all of them. Taiga sat. Kieran ended up across from him because every other seat filled naturally.
 Taiga checked anyway.
 Yuri was talking to Leo about the cabin numbers. Yoichi was insulting the paint color. Goro was correcting him even though he had not chosen it. Fine. Kieran looked at Taiga's plate. Then smiled.
 
@@ -903,15 +903,15 @@ Taiga looked down. Burger. Fries. No vegetables because there were vegetables on
 
 “Burgers, are those still your favorite thing?”
 
-"Yeah."
+“Yeah.”
 
-"I could tell by your face. Do you also still go with the fries first?"
+“I could tell by your face. Do you also still go with the fries first?”
 
-Leo looked at him and said, "You are actually starting with fries."
+Leo looked at him and said, “You are actually starting with fries.”
 
 Kieran smiled.
 
-"He used to do this all the time so that others wouldn't steal them when he's busy with the burger."
+“He used to do this all the time so that others wouldn't steal them while he was busy with the burger.”
 
 Yoichi looked up.
 
@@ -931,7 +931,7 @@ Kieran laughed.
 
 “That's more efficient.”
 
-Leo laughed. Taiga looked at Kieran. Kieran's expression changed. He had not meant to be that comfortable. The old rhythm had slipped out. 
+Leo laughed. Taiga looked at Kieran. Kieran's expression changed. He had not meant to be that comfortable. The old rhythm had slipped out.
 
 “A-Anyway, the burgers are good.”
 
@@ -993,13 +993,13 @@ Better. Taiga nodded.
 
 “Yeah, it was manageable.”
 
-Yoshinori left it there. Good man. 
-Annoying. 
+Yoshinori left it there. Good man.
+Annoying.
 But good.
 
 ---
 
-Walking into Cabin Two and finding Leo already there with his shoes kicked off and one sock hanging from the bedpost felt already familiar.
+Walking into Cabin Two and finding Leo already there with his shoes kicked off and one sock hanging from the bedpost already felt familiar.
 
 Taiga shut the door.
 
@@ -1027,7 +1027,7 @@ The silence lasted almost a minute.
 
 Then Taiga said:
 
-“I don't think want him gone.”
+“I don't think I want him gone.”
 
 Leo looked up. Taiga stared at the floorboards.
 
@@ -1043,7 +1043,7 @@ Leo put the phone down.
 
 Taiga rubbed one thumb against the side of his hand.
 
-“I think I can be alright.”
+“I think I can be all right.”
 
 Leo nodded. Taiga looked at him.
 
@@ -1057,24 +1057,25 @@ Leo nodded. Taiga looked at him.
 
 Taiga almost laughed. He lay back on the bed.
 
-"It's just... it felt very similar to what happened last year with Keitaro."
+“It's just… it felt very similar to what happened last year with Keitaro.”
 
-Leo locked his phone and raised his head
+Leo locked his phone and raised his head.
 
-"Like I had to work my ass off to earn back my place here and others can just come back. As if nothing happened."
+“Like I had to work my ass off to earn back my place here and others can just come back. As if nothing happened.”
 
 He sighed.
 
-"Then I remember that this is all what Camp Buddy is about. Second chances. Growth. Whatever corny shit."
+“Then I remember that this is what Camp Buddy is all about. Second chances. Growth. Whatever corny shit.”
 
-Leo smiled
+Leo smiled.
 
-"That spiraled back to normal very quickly."
+“That spiraled back to normal very quickly.”
 
-"Fuck you."
+“Fuck you.”
 
 They both laughed.
-After a few seconds he said:
+
+After a few seconds, Leo said:
 
 “Can I say something?”
 
@@ -1082,7 +1083,7 @@ After a few seconds he said:
 
 “If you want me somewhere else while you two talk, just tell me.”
 
-Taiga turned his head. He had a very serious face.
+Taiga turned his head. His face had gone serious.
 
 “What do you mean?”
 
