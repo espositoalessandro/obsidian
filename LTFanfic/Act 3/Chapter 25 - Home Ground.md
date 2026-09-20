@@ -52,11 +52,11 @@ Aiden held him at arm's length for half a second.
 
 Then he looked past Taiga at Leo.
 
-“And you must be Leo.”
+“And you must be Taiga's friend.”
 
 Leo stepped forward.
 
-“Yeah. Hi.”
+“Yeah. Hi, I'm Leo.”
 
 “Aiden Flynn. Yoshinori sent me before he decided the schedule needed another clipboard.”
 
@@ -164,7 +164,7 @@ Yoichi stood near the maintenance shed with a coil of rope over one shoulder.
 
 Taiga smiled.
 
-“Missed you too, Buttcheeks.”
+“Missed you too, dog.”
 
 “Didn't say that.”
 
@@ -178,16 +178,7 @@ Leo blinked, then smiled.
 
 “Leo.”
 
-Taiga reached for his duffel.
-
-“I can answer for myself.”
-
-“Then answer faster.”
-
 Yoichi snorted. Leo held out a hand.
-
-“Leo.”
-
 Yoichi looked at the hand. Then at Leo.
 
 “Mh.”
