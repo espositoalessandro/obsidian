@@ -239,7 +239,7 @@ Important continuity:
 - Yoichi invents "Sunshine" on first meeting;
 - Yuri, Aiden, Yoshinori and Goro meet Leo as Taiga's Olympus friend;
 - Leo and Yoichi begin an independent rapport;
-- Taiga and Leo share Cabin 2-12;
+- Taiga and Leo share Cabin Two;
 - cabin bathrooms are bathhouse-inspired private cabin facilities, not a camp-wide communal bathhouse.
 
 Leo fits into camp life quickly.
@@ -292,7 +292,7 @@ Kieran:
 
 Taiga gives Leo only the safe truth:
 
-> Kieran was my best friend.
+> Kieran was my friend during that term.
 
 He does **not** disclose that they were boyfriends.
 
