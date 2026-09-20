@@ -62,13 +62,13 @@ Taiga heard the stammer. The sound was old and familiar enough that Taiga hated 
 
 Kieran looked toward him. His expression changed again. Surprise came first, followed by something softer.
 
-“Yoichi.”
+“Hey Yoichi.”
 
 Yoichi folded his arms.
 
 “Been a while.”
 
-“Yeah. It has.”
+“Yeah.”
 
 Kieran stayed where he was. Yoichi gave him the same kind of once-over he had given Leo two days earlier. Boots. Gloves. Duffel.
 
@@ -78,23 +78,17 @@ Kieran glanced down.
 
 “They're not.”
 
-“Good. Then get to work.”
+“Good.”
 
 Leo's mouth moved at one corner. Taiga caught it, not amusement at Kieran. Recognition of Yoichi being Yoichi. Yuri finally resumed walking. She passed Kieran on the way toward the cabins, slowed, and looked at him.
 
-“You must be Kieran.”
+“Hey Kieran, it's good to see you again!”
 
 Kieran blinked.
 
-“Oh. Yes, ma'am.”
+“Oh. Hi Yuri, same”
 
-“Just Yuri.”
-
-“A-Ah, right. Sorry. I've heard your name before.”
-
-“I'd be offended if you hadn't.”
-
-She smiled, but there was none of the Taiga-and-Leo menace in it, not yet.
+She smiled, but not with a mischievous one. She was careful.
 
 “Welcome back to Camp Buddy.”
 
@@ -112,7 +106,7 @@ Yoichi groaned.
 
 Yoshinori ignored him.
 
-“Kieran, put your things in Cabin Two-Ten. We inspected it yesterday, so it is ready to use.”
+“Kieran, put your things in Cabin Three. We inspected it yesterday, so it is ready to use.”
 
 Taiga's shoulders loosened. Kieran nodded.
 
