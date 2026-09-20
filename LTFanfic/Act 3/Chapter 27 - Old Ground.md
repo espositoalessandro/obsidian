@@ -235,7 +235,7 @@ The saw moved through the wood in short, clean strokes. When he finished, Leo to
 
 Taiga said:
 
-“He was a good friend of mine.”
+“He was a friend of mine.”
 
 Leo looked at him.
 
@@ -243,11 +243,11 @@ Leo looked at him.
 
 “Yeah.”
 
-“During last term?”
+“During that term?”
 
 Taiga checked the cut against the frame.
 
-“No, three years ago. The term that got me fucked up."
+“Yeah. Three years ago. The term that got me fucked up.”
 
 Leo leaned one shoulder against the wall.
 
