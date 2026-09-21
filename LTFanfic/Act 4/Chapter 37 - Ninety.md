@@ -168,11 +168,11 @@ He looked at Gav.
 
 Gav nodded.
 
-“Aaron. Their winger comes inside when the fullback jumps. Make him choose.”
+“Bennett. Their winger comes inside when the fullback jumps. Make him choose.”
 
 “Yeah.”
 
-“Enzo, hold width until we establish possession.”
+“Rosario, hold width until we establish possession.”
 
 Enzo nodded. Mercer looked at Taiga.
 
