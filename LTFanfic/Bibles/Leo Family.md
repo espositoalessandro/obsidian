@@ -330,9 +330,9 @@ Do:
 
 ## Core identity
 
-**Name:** TBD  
+**Name:** **Carmen**  
 **Family role:** Leo's mother; Mercedes's daughter  
-**Primary address in prose:** **Moma** until a personal name is chosen / needed
+**Primary address in prose:** **Moma** within Leo's family; **Carmen** when another adult addresses her
 
 Her exact age, occupation and personal history remain open.
 
@@ -533,9 +533,9 @@ Do:
 
 ## Core identity
 
-**Name:** TBD  
+**Name:** **Manuel**  
 **Family role:** Leo's father  
-**Primary address in prose:** **Papá** until a personal name is chosen / needed
+**Primary address in prose:** **Papá** within Leo's family; **Manuel** when another adult addresses him
 
 Papá is built around a deliberate visual/personality contradiction.
 
@@ -902,10 +902,10 @@ That combination is fertile ground for his Act V overcommitment.
 
 ## Core identity
 
-**Name:** TBD  
+**Name:** **Daniela “Dani”**  
 **Age:** **16 — LOCKED from Chapter 15**  
 **Family role:** Leo's younger sister  
-**Primary address in prose:** role-based until a personal name is chosen
+**Primary address in prose:** **Dani** in ordinary family use; **Daniela** when formality or emphasis fits
 
 Chapter 15 already establishes several important facts:
 - she is sixteen;
@@ -1264,9 +1264,9 @@ Do:
 
 ## Core identity
 
-**Name:** TBD  
-**Family role:** Moma's brother; Mercedes's son; Leo's maternal uncle  
-**Primary address in prose:** **Tío** until a personal name is chosen / needed
+**Name:** **Ramón**  
+**Family role:** Carmen's brother; Mercedes's son; Leo's maternal uncle  
+**Primary address in prose:** **Tío** from Leo / younger relatives; **Ramón** among adults
 
 Tío should provide a different comic energy from both Papá and Mercedes.
 
@@ -1620,9 +1620,9 @@ Do:
 
 ## Core identity
 
-**Name:** TBD  
-**Family role:** Tío's wife; Leo's maternal aunt by marriage  
-**Primary address in prose:** **Tía** until a personal name is chosen / needed
+**Name:** **Isabel “Isa”**  
+**Family role:** Ramón's wife; Leo's maternal aunt by marriage  
+**Primary address in prose:** **Tía** from Leo / younger relatives; **Isa** among family and adults
 
 Tía should deliberately contrast with Moma.
 
@@ -1937,14 +1937,14 @@ Do:
 
 ---
 
-# 8. Little Cousin — Tío and Tía's Son
+# 8. Little Cousin — Antonio — Tío and Tía's Son
 
 ## Core identity
 
-**Name:** TBD  
+**Name:** **Antonio**  
 **Exact age:** TBD; target range **7–9**, with around **8** currently preferred  
-**Family role:** Tío and Tía's son; Leo's younger maternal cousin  
-**Household:** part of Tío and Tía's nearby branch of the Mercedes-centered family cluster
+**Family role:** Ramón and Isa's son; Leo's younger maternal cousin  
+**Household:** part of Ramón and Isa's nearby branch of the Mercedes-centered family cluster
 
 Keep him intentionally lightly defined until actual Act V scenes establish more of his personality.
 
