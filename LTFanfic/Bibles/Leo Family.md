@@ -895,9 +895,371 @@ Leo combines those traits in his own way:
 That combination is fertile ground for his Act V overcommitment.
 
 
+
 ---
 
-# 5. Family Members Still To Build
+# 5. Leo's Sister
+
+## Core identity
+
+**Name:** TBD  
+**Age:** **16 — LOCKED from Chapter 15**  
+**Family role:** Leo's younger sister  
+**Primary address in prose:** role-based until a personal name is chosen
+
+Chapter 15 already establishes several important facts:
+- she is sixteen;
+- she does not particularly care about soccer;
+- she sometimes attends Leo's games anyway;
+- during matches she sends him commentary such as observations about someone's hair or asking why he kicked the ball somewhere;
+- she once told Leo that he runs weird;
+- Leo thought about that comment for a week;
+- she repeatedly steals back a scarf associated with Leo / home.
+
+These are canon seeds and should define her Act V voice rather than be overwritten.
+
+---
+
+## Core personality
+
+Leo's sister is a classic **uncanny teenager** in the specific sense that she has a weak social filter between:
+
+> noticing / wondering something
+
+and:
+
+> saying it out loud.
+
+She is:
+- direct;
+- curious;
+- specific;
+- observant;
+- explicit;
+- comfortable asking questions adults would usually soften or avoid;
+- not especially interested in performing politeness for its own sake;
+- capable of accidentally making a room go quiet without understanding why everyone is reacting.
+
+Her directness is not primarily sarcasm.
+
+It is not a performance.
+
+She is usually saying exactly what she means.
+
+---
+
+## Voice rule — LOCKED
+
+Do **not** write her like Taiga.
+
+Do **not** write her like Yoichi.
+
+### Not Taiga
+Taiga is concise because he deliberately avoids unnecessary words.
+
+His bluntness often has:
+- defense;
+- irritation;
+- precision;
+- deliberate bite.
+
+Leo's sister should not sound like a younger female Taiga delivering clipped deadpan answers.
+
+### Not Yoichi
+Yoichi often understands that a line is outrageous and enjoys the reaction.
+
+He can:
+- provoke;
+- needle;
+- exaggerate;
+- construct a joke for maximum damage.
+
+Leo's sister should not routinely build clever one-liners or engineered insults.
+
+### Her actual mechanism
+
+Her voice should operate more like:
+
+> **I noticed this.  
+> I want to know this.  
+> Why would I not say it?**
+
+The humor comes from other people's reaction to her honesty.
+
+She is often not trying to be funny at all.
+
+---
+
+## Good dialogue model
+
+This is the correct energy:
+
+> "*Do you sleep in the same bed at university?*"
+
+Moma:
+
+> "Enough."
+
+Sister:
+
+> "*What? I want to know where he sleeps.*"
+
+She is not pretending innocence.
+
+She genuinely asked a direct question and does not understand why everyone is adding implications she did not put into the wording.
+
+Another useful model:
+
+Leo:
+
+> "Do you like Taiga?"
+
+Sister:
+
+> "*Yeah. He's weird, but not in a bad way. He watches everybody when they talk. And he looks at you a lot when you're not looking at him.*"
+
+Leo:
+
+> "Okay."
+
+Sister:
+
+> "*You asked.*"
+
+She answers **too completely**, not too tersely.
+
+That is important.
+
+---
+
+## Bad dialogue models
+
+Avoid lines like:
+
+> "*You're less angry-looking than in the pictures.*"
+
+followed by:
+
+> "*It wasn't a compliment.*"
+
+That is too constructed and too close to Yoichi-style provocation.
+
+Also avoid making her routinely answer:
+
+> "Yes."
+
+> "No."
+
+> "What else do you want?"
+
+That drifts too close to Taiga's economy of speech.
+
+Her uncanny quality comes from **oversharing the observation**, not withholding it.
+
+---
+
+## Observation style
+
+She notices concrete inconsistencies and details.
+
+Examples of the kind of thing she may notice:
+- Leo checked his phone six times;
+- Papá has been searching for something already in his hand;
+- Taiga keeps relying on the same Spanish phrase;
+- Leo said he wanted to stay home and then agreed to go somewhere;
+- someone changed clothes;
+- someone is obviously tired;
+- a football player has terrible hair;
+- Leo ran differently after an injury;
+- Taiga looks at Leo when Leo is not looking back.
+
+She does not automatically understand the emotional significance of what she notices.
+
+That distinction matters.
+
+She may identify the evidence before understanding the pattern.
+
+---
+
+## Role in Leo's Act V arc
+
+She can become an accidental source of evidence.
+
+For example:
+
+> "*Why did you tell Tía you'd go with her? You said you wanted to stay here.*"
+
+Leo may have no satisfying answer.
+
+She is not diagnosing him.
+
+She is confused by the contradiction.
+
+Another useful beat:
+
+> "*Are you tired?*"
+
+Leo:
+
+> "No."
+
+Sister:
+
+> "*You've gone outside four times today.*"
+
+Again, she is not delivering the thesis of the act.
+
+She is counting what she saw.
+
+This makes her especially useful because she can confirm to Taiga that certain Leo behaviors:
+- predate Olympus;
+- are visible to family;
+- have been normalized inside the household.
+
+She may eventually ask Taiga:
+
+> "*Is Julio like this at university too?*"
+
+If Taiga asks what she means, she can simply gesture toward the concrete behavior she is referring to.
+
+The emotional meaning belongs to Taiga and Leo, not to her.
+
+---
+
+## Relationship with Leo / Julio
+
+She and Leo are **very close in a sibling way**, with affection heavily disguised as interference, theft, commentary and unsolicited observation.
+
+Existing canon already suggests:
+- she steals his scarf;
+- she attends games she does not care about;
+- she sends him running commentary during them;
+- Leo remembers her remarks long after pretending they are stupid.
+
+She should:
+- mock soccer without hating that Leo loves it;
+- know more about his university life than she admits;
+- know names of people he talks about;
+- pay attention to him constantly while pretending this is ordinary;
+- be able to puncture his confidence with one sincere observation;
+- miss him when he is away without becoming sentimental about it.
+
+Leo takes her opinions more seriously than he likes to admit.
+
+The fact that:
+
+> she once said he runs weird and he thought about it for a week
+
+is an excellent model for their power balance.
+
+---
+
+## Relationship with Taiga
+
+She should take slightly longer than Mercedes to become emotionally warm toward Taiga.
+
+Not because she is hostile.
+
+Because she is **evaluating a new person who has suddenly become important to her brother**.
+
+At first she may watch him closely and ask explicit questions.
+
+Possible areas of curiosity:
+- how Taiga and Leo met;
+- who kissed whom first;
+- what Taiga thinks of Leo;
+- what Taiga's family is like;
+- where Taiga sleeps at Olympus;
+- whether they share a bed when possible;
+- whether Taiga actually likes soccer;
+- whether Taiga always looks that serious;
+- what Leo is like at university when family is not around.
+
+She does not need to understand which questions adults would consider too personal.
+
+Taiga's best response style should be:
+- answer reasonable questions honestly;
+- say "none of your business" when appropriate;
+- not patronize her;
+- not treat her like a child just because she is sixteen.
+
+That direct boundary-setting should make sense to her.
+
+If Taiga says:
+
+> None of your business.
+
+she can accept that more easily than a long evasive explanation.
+
+This helps them develop mutual respect.
+
+---
+
+## Why Taiga may like her
+
+Taiga may initially find her exhausting.
+
+But she has qualities he can respect:
+- she usually means what she says;
+- she does not require much decoding;
+- she asks directly instead of circling;
+- she accepts direct answers;
+- she notices things other people miss;
+- she does not force emotional performance.
+
+The difference between them must remain clear:
+
+> Taiga is direct by choice.  
+> She is direct by insufficient filtration.
+
+That distinction prevents voice overlap.
+
+---
+
+## Family dynamic
+
+Within the family, she should function as someone who says the thing everyone else noticed but decided not to mention.
+
+That does **not** mean she is always right.
+
+She can:
+- misunderstand;
+- draw the wrong conclusion;
+- ask a badly timed question;
+- notice a true fact and completely miss its meaning.
+
+Her age should remain visible.
+
+She is perceptive, not magically wise.
+
+---
+
+## Guardrails
+
+Do not:
+- turn her into female Taiga;
+- turn her into teenage Yoichi;
+- make her every line a joke;
+- make her deliberately cruel for entertainment;
+- make her emotionally omniscient;
+- use "teenager" as shorthand for permanently hostile or apathetic;
+- make her directness equivalent to lack of empathy;
+- have her diagnose Leo's arc before Leo and Taiga do.
+
+Do:
+- let her ask explicit questions;
+- let her overshare observations;
+- let her accidentally embarrass Leo;
+- let her be curious about Taiga;
+- let her notice contradictions;
+- keep her wording straightforward rather than polished;
+- let her care about Leo through attention more than sentimentality;
+- let her occasionally say something that Leo thinks about for days.
+
+
+---
+
+# 6. Family Members Still To Build
 
 Current established roles / references that need full entries later:
 - Moma
