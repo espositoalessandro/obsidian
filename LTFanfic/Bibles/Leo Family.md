@@ -334,7 +334,9 @@ Do:
 **Family role:** Leo's mother; Mercedes's daughter  
 **Primary address in prose:** **Moma** within Leo's family; **Carmen** when another adult addresses her
 
-Her exact age, occupation and personal history remain open.
+Her exact age and personal history remain open.
+
+**Occupation:** **School administrator / academic coordinator** at a local school. The exact title and institution can be chosen later, but she should work in a formal educational setting where schedules, parents, students, paperwork and practical problem-solving are part of daily life.
 
 The main structural decision is locked:
 
@@ -536,6 +538,8 @@ Do:
 **Name:** **Manuel**  
 **Family role:** Leo's father  
 **Primary address in prose:** **Papá** within Leo's family; **Manuel** when another adult addresses him
+
+**Occupation:** **Electrical / industrial maintenance technician**, potentially senior enough to supervise some work without being management-heavy. He should be genuinely skilled with electrical systems, repairs and practical maintenance.
 
 Papá is built around a deliberate visual/personality contradiction.
 
@@ -1268,6 +1272,8 @@ Do:
 **Family role:** Carmen's brother; Mercedes's son; Leo's maternal uncle  
 **Primary address in prose:** **Tío** from Leo / younger relatives; **Ramón** among adults
 
+**Occupation:** **Sales representative for a building-materials / hardware distributor.** He is actually good at the job: sociable, persuasive, knowledgeable about products, comfortable with clients, and genuinely well connected locally. His storytelling inflation should coexist with real professional competence.
+
 Tío should provide a different comic energy from both Papá and Mercedes.
 
 - Papá is funny largely by accident.
@@ -1623,6 +1629,8 @@ Do:
 **Name:** **Isabel “Isa”**  
 **Family role:** Ramón's wife; Leo's maternal aunt by marriage  
 **Primary address in prose:** **Tía** from Leo / younger relatives; **Isa** among family and adults
+
+**Occupation:** **Pharmacist**, working in a local or regional pharmacy rather than necessarily owning one. The job should reinforce her calm, precise, approachable professional side without being treated as the source of her personality.
 
 Tía should deliberately contrast with Moma.
 
@@ -2368,9 +2376,13 @@ This means the family can have:
 
 without needing implausibly high salaries.
 
-Carmen, Manuel, Ramón and Isa should all be capable adults with their own income / work.
+Carmen, Manuel, Ramón and Isa are all capable adults with their own formal-sector work:
+- **Carmen:** school administrator / academic coordinator;
+- **Manuel:** electrical / industrial maintenance technician;
+- **Ramón:** building-materials / hardware sales representative;
+- **Isa:** pharmacist.
 
-Exact jobs and salaries remain TBD.
+Exact employers, titles, schedules and salaries remain TBD.
 
 ---
 
@@ -2603,7 +2615,7 @@ Current established roles / references that need full entries later:
 - possible additional cousins / aunts / uncles
 - family friends / godparents if useful
 - Enzo's relationship to the home social ecosystem
-- exact occupations / finances for Carmen, Manuel, Ramón and Isa
+- exact employers / titles / salaries for Carmen, Manuel, Ramón and Isa
 - exact internal layout of the family property if needed for scene blocking
 
 Do not lock the household composition until the wider family structure is designed.
