@@ -1,4 +1,4 @@
-By Wednesday, Taiga had watched the Cedar Ridge chance at eighty-three minutes enough times that the clip had stopped behaving like video. It was a diagram now: Leo's pass, the first touch, the keeper setting himself, the defender recovering.
+By Monday afternoon, Taiga had watched the Cedar Ridge chance at eighty-three minutes enough times that the clip had stopped behaving like video. It was a diagram now: Leo's pass, the first touch, the keeper setting himself, the defender recovering.
 
 Far corner available. Square ball instead. Interception. Again. He closed the video, reopened it and watched from seventy-nine instead as Cedar Ridge dropped and Olympus moved the ball left.
 
@@ -84,7 +84,7 @@ Maybe.
 
 ---
 
-Westlake came next. Mercer did not mention the table until Friday. Even then, only because Enzo asked. They were in the film room. Westlake on screen. Same opponent Taiga had faced months ago when first-team football still meant ten minutes and trying not to forget the back post.
+Westlake came next that afternoon. Mercer did not mention the table until Enzo asked. They were in the film room. Westlake on screen. Same opponent Taiga had faced months ago when first-team football still meant ten minutes and trying not to forget the back post.
 
 Different match. Different version of him. Westlake pressed higher now. Their left side had changed since the fall. Number eight hadn't. Taiga remembered him. Tall. Quick. Annoying. Mercer paused the clip.
 
@@ -92,7 +92,7 @@ Different match. Different version of him. Westlake pressed higher now. Their le
 
 Enzo raised a hand. Mercer looked at him. Enzo smiled.
 
-“How much do we care about Pinetree this weekend?”
+“How much do we care about Pinetree tomorrow?”
 
 Mercer stared. Enzo lowered the hand halfway.
 
@@ -134,7 +134,11 @@ Mercer played another clip. Westlake's right-back stepped into midfield when the
 
 ---
 
-Saturday was away. The bus left at ten. Enzo slept for forty minutes with his mouth open. Gav took a photograph. Scott took a second photograph of Gav taking the photograph.
+Tuesday was away.
+
+Taiga made Data Structures lab at nine and Discrete Structures after it. At eleven-fifty he packed his notebook, ate too quickly and headed for the Sports Zone instead of Calculus II. Athletics had already filed the absence with the department. It still felt wrong to walk away from class on purpose.
+
+The bus left at twelve-thirty. Enzo slept for forty minutes with his mouth open. Gav took a photograph. Scott took a second photograph of Gav taking the photograph.
 
 Leo spent twenty minutes trying to decide whether that made Scott's picture more valuable.
 
@@ -178,9 +182,9 @@ Leo waited. Taiga kept reading. After a few seconds Leo took the notebook by one
 
 “What face?”
 
-“The one where you try to solve Saturday before Saturday happens.”
+“The one where you try to solve tonight before tonight happens.”
 
-“It is Saturday.”
+“It is matchday.”
 
 “You know what I mean.”
 
@@ -518,7 +522,7 @@ His shirt was still on. Boots too. He looked at the floor between his feet. Merc
 
 His eyes passed over Taiga. Stopped for less than a second. Then moved on.
 
-“Recovery tomorrow. Eleven.”
+“Recovery tomorrow. One.”
 
 That was it. Mercer opened the door.
 
@@ -622,33 +626,53 @@ Leo stood carefully. He put one hand on Taiga's shoulder as he passed. Then he l
 
 ---
 
-The team had dinner at The Oyster. Taiga knew because the chat filled with messages at six-twenty.
+The bus reached Olympus a little after eleven. The team had been given boxed food before leaving Westlake. Taiga's remained mostly untouched on the seat beside him.
 
-**Enzo:** table by the windows
+Pinetree had drawn one-one while Olympus were still on the road. Enzo had posted the result immediately.
 
-**Gav:** We are at the long one.
+**Enzo:** pinetree 1-1
 
-**Enzo:** that's what i said
+Then:
 
-**Scott:** no
+**Enzo:** still alive
 
-Taiga read the messages from room 317. Caleb sat at his desk working through something with three columns of numbers and a calculator. Taiga lay on his bed in sweatpants.
+The table had updated before Taiga looked.
 
-Still not hungry. His bag remained on the floor where he'd dropped it. Caleb had not asked why Taiga came back alone. He had asked:
+**1. PINETREE — 53**
+
+**2. OLYMPUS — 51**
+
+One match left. If Olympus won and Pinetree lost, that was it.
+
+Taiga locked the phone.
+
+Room 317 was dark except for Caleb's desk lamp. Caleb looked up when Taiga entered. Taiga dropped the bag beside the bed.
 
 “Food?”
 
-Taiga had said:
-
 “No.”
 
-Caleb had looked at him. Then returned to his work. At six-thirty-five, someone sent a photograph of Enzo holding two forks like weapons. Taiga muted the chat. He opened the standings.
+Caleb looked at the unopened box in Taiga's hand.
 
-Pinetree were playing Redmont again. No. Different team. He didn't care. He closed it. Opened match film. The university feed had already uploaded. Of course it had. He dragged to seventy-nine.
+“You should eat.”
 
-Aaron to Taiga. Pause. Taiga stared at the frame. Gav inside. Aaron behind. Westlake eight coming. He could see all three. He pressed play. Touch. Interception. Lunge. Counter.
+“Later.”
 
-Goal. Again. Pause. He backed up five seconds. Again. Caleb's chair moved. Taiga stopped the video. Caleb stood and stretched.
+Taiga put it on the desk and sat on the bed. The university feed had already uploaded the match. Of course it had. He dragged to seventy-nine.
+
+Aaron to Taiga. Pause.
+
+Gav inside. Aaron behind. Westlake eight coming.
+
+He could see all three.
+
+Play.
+
+Touch. Interception. Lunge. Counter. Goal.
+
+Again.
+
+Caleb's chair moved. Taiga stopped the video. Caleb stood and put his laptop into his bag.
 
 “I'm going to the library.”
 
@@ -658,11 +682,11 @@ Taiga looked at the clock.
 
 “Yes.”
 
-“You were just there this morning.”
+“It's almost midnight.”
 
-“That does not prevent me from returning.”
+“The twenty-four-hour room exists for a reason.”
 
-Taiga looked at him. Caleb put his laptop in the bag.
+Taiga looked at him.
 
 “Are you going because I'm here?”
 
@@ -672,7 +696,7 @@ Caleb stopped.
 
 Taiga waited. Caleb added:
 
-“But I was planning to go later, and later has become now.”
+“But I was planning to work somewhere else, and somewhere else has become now.”
 
 Taiga looked down at the phone.
 
@@ -688,31 +712,29 @@ Caleb slung the bag over one shoulder.
 
 “Okay.”
 
-Caleb stood by the door. Taiga looked up. Caleb's expression was careful in the way Caleb's expressions almost never were. Then he left. The room became quiet. Taiga pressed play again.
+Caleb stood by the door. His expression was careful in the way Caleb's expressions almost never were. Then he left.
 
----
+The room became quiet.
 
-At seven-twelve, Pinetree drew. Taiga knew because Enzo unmuted himself by direct message.
+Taiga pressed play again.
 
-**Enzo:** pinetree 1-1
-
-Then:
-
-**Enzo:** still alive
-
-Taiga stared at the screen. Table updated.
-
-**1. PINETREE — 53**
-
-**2. OLYMPUS — 51**
-
-One match left. If Olympus won and Pinetree lost, that was it. Taiga put the phone face-down. Five minutes later it buzzed again. Leo. Taiga left it for another minute before picking it up.
+At eleven-fifty-eight, Leo messaged.
 
 **Leo:** if you need me, i'll be in my room
 
-Nothing else. No question. No request. Taiga read it twice. Put the phone down. At seven-thirty, he heated the pasta. Ate four bites. Stopped. At seven-forty-eight, he opened the match again.
+Nothing else. No question. No request.
 
-At seven-fifty-two, he closed it. At eight-oh-three, he stood. Sat. At eight-eleven, he typed:
+Taiga read it twice. Put the phone down.
+
+At twelve-ten, he heated the pasta. Ate four bites. Stopped.
+
+At twelve-twenty-eight, he opened the match again.
+
+At twelve-thirty-two, he closed it.
+
+At twelve-forty-one, he stood. Sat.
+
+At twelve-forty-nine, he typed:
 
 **Taiga:** you there
 
@@ -729,7 +751,6 @@ The reply took maybe three seconds.
 **Leo:** yes
 
 Taiga put on his shoes.
-
 ---
 
 Leo's residence hall was six minutes away. Taiga made it in four. He slowed before the entrance. Then hated himself for slowing and went inside. Upstairs. Hallway. The door was closed.
@@ -1114,9 +1135,9 @@ Leo smiled. Taiga's breathing finally settled. They sat quietly. The room felt s
 
 “You sure nothing's torn?”
 
-“That's what they said. Mild sprain. They want to see how the swelling looks tomorrow.”
+“That's what they said. Mild sprain. They want to see how the swelling looks in the morning.”
 
-“Next week?”
+“Saturday?”
 
 Leo shrugged.
 
@@ -1128,7 +1149,7 @@ Taiga's stomach tightened. Leo noticed.
 
 Taiga looked at him.
 
-“That's next week.”
+“That's four days away.”
 
 Taiga nodded. Barely. Leo's hand rested on the bed between them. Taiga looked at it. Then put his own over it. Leo turned his palm. Their fingers locked.
 
@@ -1282,11 +1303,11 @@ Taiga gave him two crackers. They ate in bed. Crumbs everywhere. Leo did not car
 
 ---
 
-Sunday recovery was quiet for Taiga. Not for everyone else. Enzo had apparently decided the best response to a loss was becoming louder. He arrived with coffee for three people and none for himself.
+Wednesday recovery was quiet for Taiga. Not for everyone else. Enzo had apparently decided the best response to a loss was becoming louder. He arrived with coffee for three people and none for himself.
 
 Scott asked why. Enzo said he had miscounted. Gav said that was impossible because three was not a difficult number. Taiga stretched on the mat. Leo was not with them.
 
-Medical room. Taiga looked toward the door twice. Then stopped. Mercer walked past. No comment. Recovery finished. Still no comment. Taiga hated it. At twelve-ten, Leo appeared in the hallway with the physio.
+Medical room. Taiga looked toward the door twice. Then stopped. Mercer walked past. No comment. Recovery finished. Still no comment. Taiga hated it. At one-forty, Leo appeared in the hallway with the physio.
 
 Normal shoe this time. Limp smaller. Taiga stood. Leo saw him. Lifted both hands.
 
@@ -1296,7 +1317,7 @@ Taiga walked over.
 
 “What'd they say?”
 
-“Light work Tuesday. No contact. They'll test it Thursday.”
+“Light work tomorrow. No contact. They'll test it Friday.”
 
 “Saturday?”
 
@@ -1316,13 +1337,13 @@ He followed. Taiga watched him go. Mercer came out of the film room. Taiga looke
 
 You're out. Reserve group. Bench. Something. Mercer said:
 
-“Meeting tomorrow at nine.”
+“Review in twenty minutes.”
 
 Then walked away. Taiga stared after him.
 
 ---
 
-Monday film was worse than the match. Not because Mercer yelled. He didn't. The room was dark. Westlake on screen. Sixty-two minutes. Taiga pressing too far. Mercer paused.
+Wednesday film was worse than the match. Not because Mercer yelled. He didn't. The room was dark. Westlake on screen. Sixty-two minutes. Taiga pressing too far. Mercer paused.
 
 “Where should you be?”
 
@@ -1392,17 +1413,17 @@ They went.
 
 ---
 
-Tuesday, Taiga trained with the first-team group. That meant nothing. At least he told himself it meant nothing. Mercer rotated everyone. Taiga played left for twenty minutes. Then right.
+Thursday, Taiga trained with the first-team group. That meant nothing. At least he told himself it meant nothing. Mercer rotated everyone. Taiga played left for twenty minutes. Then right.
 
 Then left again. He made every safe pass available. One-touch when possible. Two when necessary. At one point Aaron overlapped. Taiga stayed. Even after the ball was secure.
 
-Aaron looked back. Taiga waved him on. Gav switched play before anything happened. Mercer said nothing. Thursday, same. Leo trained separately for the first half. Running. Passing. No contact.
+Aaron looked back. Taiga waved him on. Gav switched play before anything happened. Mercer said nothing. Leo trained separately for the entire session. Running. Passing. No contact.
 
 Taiga saw him test the ankle on a turn. Leo looked toward the physio. Thumb up. Later he joined the possession work wearing a yellow bib that meant nobody was allowed to hit him.
 
 Enzo complained this gave Leo “diplomatic immunity.” Leo abused it immediately by shielding the ball with his whole body. Scott said that wasn't diplomacy. Training ended. Mercer still said nothing to Taiga.
 
-Friday morning, Taiga stopped checking the squad app. He had checked at eight. Eight-fifteen. Eight-forty. Nothing. At nine-ten he went to class. At ten-fifty-three, Data Structures ended. Leo packed slowly beside him.
+Friday morning, Taiga stopped checking the squad app. He had checked at eight. Eight-fifteen. Eight-forty. Nothing. At ten he went to Data Structures. At ten-fifty, the lecture ended. Leo packed slowly beside him.
 
 His ankle had athletic tape under the sock. Taiga noticed when he stood.
 
@@ -1410,7 +1431,7 @@ His ankle had athletic tape under the sock. Taiga noticed when he stood.
 
 Leo shook his head.
 
-“No. Physio cleared me for minutes, but Mercer hasn't said how many.”
+“Yeah. They tested it this morning. Physio cleared me for limited minutes, but Mercer hasn't said how many.”
 
 Taiga zipped his bag.
 
@@ -1426,7 +1447,7 @@ Taiga shrugged.
 
 “You trained first team all week.”
 
-“So did Evan Tuesday.”
+“So did Evan Thursday.”
 
 “Evan trained there because Gav left early.”
 
