@@ -1613,16 +1613,338 @@ Do:
 - preserve the possibility that, occasionally, the unbelievable version is actually the true one.
 
 
+
 ---
 
-# 7. Family Members Still To Build
+# 7. Tía — Tío's Wife
+
+## Core identity
+
+**Name:** TBD  
+**Family role:** Tío's wife; Leo's maternal aunt by marriage  
+**Primary address in prose:** **Tía** until a personal name is chosen / needed
+
+Tía should deliberately contrast with Moma.
+
+The two women care deeply about people, but they express care through almost opposite methods.
+
+---
+
+## Core contrast with Moma — LOCKED
+
+**Moma**
+- strong presence;
+- fast intervention;
+- low subtlety;
+- comparatively low social intelligence;
+- direct;
+- highly involved;
+- prone to aggressive caring.
+
+**Tía**
+- calmer;
+- warmer;
+- subtler;
+- highly socially perceptive;
+- low-pressure;
+- selective about intervention.
+
+The difference is not:
+
+> caring vs. not caring.
+
+It is:
+
+> **Moma sees a problem and enters it.**  
+> **Tía sees a problem and first decides whether entering it would actually help.**
+
+Both are attentive.
+
+They simply trust different instincts.
+
+---
+
+## Personality
+
+Tía is:
+- warm;
+- patient;
+- socially intelligent;
+- observant;
+- emotionally perceptive;
+- soft-spoken compared with Moma;
+- comfortable with silence;
+- slow to escalate;
+- capable of being firm without becoming loud;
+- good at reading whether someone wants help, space or distraction.
+
+Her presence should feel gentle rather than weak.
+
+She does not need to dominate a room to influence it.
+
+Her strength is precision.
+
+She often knows:
+- who is actually upset;
+- who is pretending to be fine;
+- which argument needs intervention;
+- which argument should be left alone;
+- when somebody needs food;
+- when somebody needs privacy;
+- when somebody is asking for help indirectly;
+- when asking another question would only make things worse.
+
+She should not be written as magically omniscient.
+
+She can misread people.
+
+Her advantage is simply that she is more likely than Moma to pause before acting.
+
+---
+
+## Caring style
+
+Moma's care often looks like:
+
+> You look tired. Sit down.
+
+> You haven't eaten. Eat.
+
+> You need this. I already arranged it.
+
+Tía's care is more likely to look like:
+- changing the subject when somebody is overwhelmed;
+- quietly putting food near them;
+- giving them an excuse to leave a conversation;
+- not asking a question she knows they do not want to answer;
+- reducing demands without announcing that she noticed anything.
+
+A useful rule:
+
+> **Tía does not require people to perform gratitude, comfort or vulnerability for her.**
+
+She can help without turning the help into an event.
+
+---
+
+## Relationship with Moma
+
+Moma and Tía should have genuine affection but very different instincts.
+
+They may disagree over method.
+
+Moma may think Tía waits too long.
+
+Tía may think Moma pushes too quickly.
+
+Example energy:
+
+Moma:
+
+> "You should have said something."
+
+Tía:
+
+> "He didn't want to talk."
+
+Moma:
+
+> "How do you know?"
+
+Tía:
+
+> "Because he didn't."
+
+Neither sister-in-law should always be right.
+
+Sometimes:
+- Moma's direct intervention is exactly what someone needed;
+- Tía gives too much space and misses the moment to act.
+
+Their differences should create texture, not a hierarchy where Tía is always the emotionally wiser woman.
+
+---
+
+## Relationship with Tío
+
+Their marriage should be visibly affectionate and stable.
+
+Tía genuinely enjoys Tío's theatrical storytelling.
+
+She does not exist to keep him under control.
+
+She may:
+- let him exaggerate because he is having fun;
+- quietly fact-check him if needed;
+- occasionally help make the story bigger;
+- stop him with one low-volume word when he has gone too far.
+
+A useful dynamic:
+
+Tío:
+
+> "*The waves were at least three meters.*"
+
+Tía:
+
+> "*Mm-hm.*"
+
+Later, Taiga asks:
+
+> "*Were they?*"
+
+Tía:
+
+> "*No.*"
+
+Taiga:
+
+> "*Why didn't you say anything?*"
+
+Tía:
+
+> "*He was having fun.*"
+
+Or, occasionally:
+
+Tío:
+
+> "*There were four men.*"
+
+Tía:
+
+> "*Five.*"
+
+Tío, delighted:
+
+> "*Five. Exactly.*"
+
+Moma:
+
+> "*There were two.*"
+
+Tía should enjoy him, not merely tolerate him.
+
+That distinction matters.
+
+---
+
+## Relationship with Leo / Julio
+
+Tía can become one of the clearest contrasts to Leo's own over-responsibility.
+
+She notices people in much the same way Leo does.
+
+The difference is what happens next.
+
+Leo often moves automatically from:
+
+> someone needs something
+
+to:
+
+> I should do something.
+
+Tía can notice the same thing and think:
+
+> They will tell me if they need me.
+
+She cares without assuming every observation creates an obligation.
+
+This can be useful in Act V because Taiga may notice Tía seeing Leo's exhaustion and **not immediately managing him**.
+
+She may:
+- stop asking him for things;
+- redirect someone else;
+- leave him alone;
+- create space without announcing why.
+
+That can model an important distinction for Leo without turning Tía into his therapist.
+
+She should never deliver the act's thesis.
+
+Her usefulness is behavioral.
+
+---
+
+## Relationship with Taiga
+
+Tía may become one of the easiest adults for Taiga to be around.
+
+Moma tries to make him comfortable by actively involving him.
+
+Tía makes him comfortable by not requiring him to prove that he is comfortable.
+
+She:
+- asks a question;
+- accepts a short answer;
+- does not automatically ask three follow-ups;
+- gives him time to process Spanish;
+- notices when he is socially overloaded;
+- adjusts without making a public issue of it.
+
+She may naturally make her Spanish easier for him to follow by:
+- speaking more clearly;
+- avoiding unnecessary overlap;
+- giving him a beat to answer;
+- repeating only when needed.
+
+She should not speak to him like a child or language student.
+
+Taiga may appreciate her very quickly because there is little social pressure around her.
+
+---
+
+## Family role
+
+With Mercedes, Moma, Leo's sister and Tía, the women of the family should feel powerful in **different ways**.
+
+**Mercedes:** irreverent authority; secure enough not to control.  
+**Moma:** visible force; direct intervention; aggressive caring.  
+**Leo's sister:** unfiltered observation; says exactly what she sees or wants to know.  
+**Tía:** quiet social intelligence; subtle adjustment; selective intervention.
+
+This keeps the recurring impression that:
+
+> **the women run this family**
+
+without making them interchangeable.
+
+---
+
+## Guardrails
+
+Do not:
+- make Tía passive;
+- make "quiet" mean submissive;
+- make her universally wiser than Moma;
+- make her emotionally omniscient;
+- make her only function to translate everyone's feelings;
+- turn her into the family's therapist;
+- make her marriage into "patient wife tolerates ridiculous husband";
+- make every intervention invisible or perfect.
+
+Do:
+- let her misjudge situations sometimes;
+- let her have her own opinions and limits;
+- let her enjoy Tío's nonsense;
+- let her be firm when needed;
+- preserve her warmth;
+- let her notice without always acting;
+- use her as a contrast to Leo's assumption that noticing a need creates a duty.
+
+
+---
+
+# 8. Family Members Still To Build
 
 Current established roles / references that need full entries later:
 - Moma
 - Papá
 - Leo's sister
 - additional extended family
-- possible cousins / aunts / uncles
+- Tía's and Tío's child / children
+- possible additional cousins / aunts / uncles
 - family friends / godparents if useful
 - Enzo's relationship to the home social ecosystem
 
