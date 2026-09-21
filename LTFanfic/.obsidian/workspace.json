@@ -13,31 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Act 3/Chapter 30 - What It Meant.md",
+                "file": "Act 3/Chapter 32 - The Way Back.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 30 - What It Meant"
-            }
-          },
-          {
-            "id": "e4e33ce8adac3689",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "LTFanfic/Act 3/Chapter 31 - Closer.md",
-                "bFile": "LTFanfic/Act 3/Chapter 31 - Closer.md",
-                "aRef": "HEAD",
-                "bRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: Chapter 31 - Closer  (Index)"
+              "title": "Chapter 32 - The Way Back"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -215,10 +199,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e4e33ce8adac3689",
+  "active": "efd04452a0487aab",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Act 3/Chapter 30 - What It Meant.md",
+    "conflict-files-obsidian-git.md",
     "Act 3/Chapter 31 - Closer.md",
     "Act 3/Chapter 32 - The Way Back.md",
     "Act 1/Chapter 4 - Margins.md",
