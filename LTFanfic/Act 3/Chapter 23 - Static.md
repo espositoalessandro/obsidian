@@ -130,7 +130,7 @@ The prosecution lacked standing. Taiga drank coffee. The contact remained for an
 
 ---
 
-General Chemistry II introduced him properly to Zayne Alexander at one-thirteen that afternoon.
+General Chemistry II introduced him properly to Zayne Alexander at eleven-thirteen that morning.
 
 Taiga already knew the name. Everybody at Olympus knew the name. House Zeus. Basketball. Number nineteen. The guy who could leave the arena after a home game with half a corridor following him.
 
@@ -1217,7 +1217,7 @@ Idiot.
 
 ---
 
-Thursday Data Structures was uneventful. Which made Taiga suspicious. Leo arrived. Sat. Talked. Taiga was able to concentrate—mostly. At one point Leo reached past him for the charger plugged into the wall. His forearm brushed Taiga's shoulder. Taiga's body reacted. Leo kept reaching for the charger. After lab, Leo had a CS project meeting. Taiga had Chemistry II, followed by the kinetics-project session. No coffee. Again. Leo said:
+Thursday Data Structures was uneventful. Which made Taiga suspicious. Leo arrived. Sat. Talked. Taiga was able to concentrate—mostly. At one point Leo reached past him for the charger plugged into the wall. His forearm brushed Taiga's shoulder. Taiga's body reacted. Leo kept reaching for the charger. After lab, Leo had a CS project meeting. Taiga had Chemistry II lab, followed by the kinetics-project session. No coffee. Again. Leo said:
 
 “Tomorrow?”
 
