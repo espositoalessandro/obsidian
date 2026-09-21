@@ -904,7 +904,7 @@ Current calendar entry point:
 - **Fri May 22, 2026** — Taiga arrives to begin the visit.
 - **Sun May 24** — Leo's birthday.
 
-Do not lock an exact Act V end date yet.
+Do not lock an exact Act V end date yet, but the act should currently aim to conclude in the **second half of June 2026**.
 
 Working shape:
 
@@ -937,12 +937,17 @@ Taiga arrives shortly before Leo's birthday.
 The first stretch should feel overwhelmingly positive.
 
 Goals:
+- Taiga arrives through SDQ and is picked up by Leo and Manuel;
+- use the drive from the airport toward La Guáyiga / Pedro Brand as a gradual transition from metropolitan Santo Domingo into Leo's quieter home environment;
 - introduce Santo Domingo through Leo rather than tourism exposition;
 - introduce the house as a living ecosystem;
 - allow Taiga to meet family gradually;
 - show Leo at home;
 - let Taiga hear **Julio** naturally;
-- establish childhood / teenage traces of Leo;
+- establish childhood / teenage traces of Leo, especially his long-standing love of football and gaming;
+- place Taiga in Leo's actual childhood bedroom;
+- use the locked single-bed + convertible-sofa arrangement rather than a conveniently oversized bed;
+- establish that the family treats Leo and Taiga sharing a bedroom as normal;
 - make Taiga's temporary dependence on Leo completely reasonable;
 - make Leo's energy look like one of his greatest strengths.
 
@@ -950,10 +955,17 @@ Goals:
 
 The birthday is an important family/social event.
 
+**Locked shape:**
+- daytime: Leo and Taiga go somewhere alone together;
+- evening: they return to the Méndez family compound for a large, chaotic family gathering;
+- Enzo is present at the evening celebration;
+- nearby relatives, cousins and family friends can naturally expand the gathering beyond the eight permanent residents.
+
 It should:
 - justify Taiga's timing;
 - bring multiple parts of Leo's home life together;
 - make Taiga's presence as boyfriend concrete;
+- give Leo and Taiga private couple time before the social flood;
 - remain joyful rather than functioning as the immediate crisis.
 
 Do **not** reveal the act's central problem too aggressively during the birthday.
@@ -969,6 +981,12 @@ The family environment should explain his warmth before it explains his exhausti
 # 12. Phase Two — Taiga Integrates
 
 Taiga should become increasingly autonomous.
+
+Transport should support that progression:
+- rely on public transportation where practical;
+- use the western Santo Domingo / Los Alcarrizos connection when appropriate;
+- do not make borrowing a family car the default;
+- Leo's own driving status remains open unless a later scene requires it.
 
 Examples of progression:
 - knows where breakfast things are;
@@ -1577,7 +1595,27 @@ This is a possible endpoint image, not mandatory final prose.
 
 ---
 
-# 28. Cultural / Setting Guardrails
+# 28. Home Language Rule
+
+The Méndez family does **not** switch wholesale to English for Taiga.
+
+Spanish remains the default language of:
+- the household;
+- the patio;
+- wider family gatherings;
+- the neighborhood family network.
+
+Working distribution:
+- Leo is the natural bilingual bridge;
+- Dani can use English sometimes, including playfully;
+- Carmen can use occasional words / fragments;
+- most other close and extended relatives remain primarily Spanish-speaking unless later characterization establishes otherwise.
+
+This keeps Taiga's two-week Spanish preparation meaningful and allows his increasing independence to appear naturally.
+
+---
+
+# 29. Cultural / Setting Guardrails
 
 Before detailed outlining:
 - research Dominican family structures and household norms rather than importing a generic "Latino family" template;
@@ -1594,7 +1632,7 @@ The conflict is about **how Leo participates in relationships**, not about Domin
 
 ---
 
-# 29. Vacation Guardrails
+# 30. Vacation Guardrails
 
 The short trip should be:
 - **2–3 days maximum**;
@@ -1620,7 +1658,7 @@ Destination can be chosen later after research.
 
 ---
 
-# 30. Pacing Guardrails
+# 31. Pacing Guardrails
 
 Act V must take its time.
 
@@ -1655,7 +1693,7 @@ The reader should ideally be able to look backward and think:
 
 ---
 
-# 31. Structural Summary
+# 32. Structural Summary
 
 Act V progression:
 
