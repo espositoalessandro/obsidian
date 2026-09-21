@@ -437,6 +437,329 @@ It does not require another formal romantic milestone.
 
 Its importance comes from the absence of external demand.
 
+
+---
+
+# 9A. The Two Weeks Apart — Spanish Preparation
+
+Before Taiga arrives in Santo Domingo, he spends **May 8–22 at home**.
+
+Those two weeks should not be an empty time skip.
+
+They become the first small bridge into Act V.
+
+## Taiga starts studying on his own
+
+Taiga begins learning Spanish almost immediately after getting home.
+
+This is strongly in character.
+
+His motivation is practical rather than performative:
+
+> He is not going to spend weeks in Leo's home making Leo translate every fucking sentence for him.
+
+Taiga:
+- likes learning;
+- responds well to concrete systems;
+- dislikes unnecessary dependence;
+- wants to arrive with at least some ability to function;
+- has a specific real-world use case rather than an abstract academic goal.
+
+He should initially approach Spanish in a Taiga-like way:
+- basic grammar;
+- high-frequency vocabulary;
+- numbers and time;
+- greetings;
+- food;
+- directions;
+- family terms;
+- common verbs;
+- simple questions;
+- phrases he expects to need.
+
+His early strength is likely to be **understanding structure on paper**.
+
+His early weakness is real-time listening.
+
+## Leo discovers the studying
+
+Taiga does **not** need to keep the project secret for the full two weeks.
+
+A better progression:
+- Taiga studies alone for the first few days;
+- during a video call, Leo notices;
+- the discovery is slightly embarrassing for Taiga and extremely endearing to Leo;
+- from that point onward, Spanish becomes part of their calls.
+
+This also gives the two-week separation its own romantic identity rather than treating it as dead calendar space.
+
+The calls may begin as:
+
+> "Can you explain this?"
+
+and gradually turn into long conversations where only a small portion is actually Spanish study.
+
+## Taiga learns Spanish; Leo teaches **his** Spanish
+
+Taiga's self-study gives him:
+- textbook structure;
+- grammar explanations;
+- organized vocabulary;
+- exercises;
+- written forms.
+
+Leo gives him:
+- pronunciation;
+- listening practice;
+- Dominican speech rhythms;
+- colloquial vocabulary;
+- common contractions / dropped sounds;
+- expressions his family actually uses;
+- warnings about phrases that are technically correct but sound unnatural;
+- context for who says what at home.
+
+The important distinction is:
+
+> Taiga is not only learning Spanish. He is beginning to learn **Leo's Spanish**.
+
+That makes the language learning emotionally relevant rather than merely logistical.
+
+## Leo is not a perfect teacher
+
+Leo is a native speaker, not a language instructor.
+
+He can immediately know that something sounds wrong without always being able to explain why.
+
+Typical dynamic:
+
+Taiga asks:
+> "Why is it *por* here and *para* there?"
+
+Leo begins confidently.
+
+Then:
+> "...okay, wait."
+
+He knows which one he would say.
+
+He may not know the grammatical rule.
+
+Taiga then looks the rule up himself afterward.
+
+Their methods complement each other:
+
+**Taiga**
+- grammar;
+- systems;
+- written vocabulary;
+- explicit rules;
+- repetition.
+
+**Leo**
+- sound;
+- instinct;
+- natural phrasing;
+- slang;
+- listening;
+- "nobody actually says it like that."
+
+Do not turn Leo into an implausibly polished language teacher.
+
+His imperfect explanations are part of the charm.
+
+## Cute / intimate language beats
+
+The lessons can create low-stakes intimacy.
+
+Possible recurring mechanics:
+- Leo repeatedly correcting the same sound;
+- Taiga watching Leo's mouth carefully to reproduce pronunciation;
+- Leo noticing exactly how intently Taiga is watching;
+- Taiga getting irritated by sounds that disappear in fast Dominican speech;
+- Leo insisting he did not "remove half the word";
+- Taiga accusing Dominican Spanish of deleting letters;
+- Leo teaching him family-specific phrases;
+- Taiga trying to reproduce Leo's accent and getting mocked affectionately.
+
+These should remain character scenes, not language-course exposition.
+
+## Leo introduces the family before Taiga meets them
+
+The lessons can quietly prepare the family cast.
+
+Leo may say things like:
+- "My mom is absolutely going to ask you this.";
+- "If my sister says this, she's making fun of you.";
+- "My grandmother will offer you food again even if you just ate.";
+- "If you hear this nickname, they're talking about my uncle.";
+- "Don't answer my cousin like that unless you want him to keep going for an hour."
+
+This lets Taiga begin forming impressions of people before arriving.
+
+Then, in Santo Domingo, he can hear one of those exact phrases and recognize:
+
+> Oh. **That's her.**
+
+This makes the family feel partially familiar from the moment they appear.
+
+## Realistic ability on arrival
+
+Two weeks of focused study should **not** make Taiga properly conversational or fluent.
+
+On **May 22**, a plausible level is:
+
+Taiga can:
+- greet people;
+- introduce himself;
+- use basic courtesy phrases;
+- ask for simple things;
+- order food;
+- understand numbers / times;
+- recognize common family and household vocabulary;
+- form simple present-tense sentences;
+- ask basic questions;
+- understand very clear, slow speech with strong context.
+
+He cannot reliably:
+- follow a fast group conversation;
+- understand overlapping speakers;
+- follow long stories;
+- process ordinary Dominican speech at full speed;
+- express nuanced thoughts;
+- understand unfamiliar slang;
+- function without mistakes.
+
+Taiga may know more grammar than he can actually hear.
+
+This should frustrate him.
+
+## The Santo Domingo listening shock
+
+Actual family Spanish should initially overwhelm him.
+
+He has studied.
+
+Then several native speakers begin talking quickly over one another and his preparation suddenly feels inadequate.
+
+He may recognize three individual words while failing to understand the sentence containing them.
+
+This is realistic and useful.
+
+Leo still needs to translate difficult interactions during the first week.
+
+The difference is that Taiga is not starting from zero.
+
+## Immersion progression
+
+### Arrival / first several days
+Taiga can produce prepared Spanish better than he can understand spontaneous Spanish.
+
+He relies on:
+- context;
+- repetition;
+- Leo;
+- gestures;
+- familiar phrases.
+
+### By the end of the first week
+Repeated household situations begin teaching him language automatically.
+
+He starts recognizing common phrases associated with:
+- eating;
+- leaving;
+- finding someone;
+- being offered something;
+- being asked where Leo / Julio is;
+- errands;
+- ordinary household commands.
+
+Leo translates less.
+
+### By the end of the second week in Santo Domingo
+Taiga should be able to hold **simple one-on-one conversations without Leo's help**.
+
+Examples:
+- how he slept;
+- whether he wants coffee;
+- where Leo is;
+- where he is going;
+- what they did earlier;
+- simple food opinions;
+- soccer;
+- basic questions about another person.
+
+He still:
+- makes grammar mistakes;
+- uses the wrong gender;
+- conjugates badly sometimes;
+- inserts English when stuck;
+- struggles with past tense;
+- loses the thread when several people talk at normal speed.
+
+This is the right level.
+
+### Later in Act V
+Taiga becomes increasingly functional inside **familiar contexts**.
+
+He should never become magically fluent.
+
+Rapid native group conversation should remain difficult throughout the act.
+
+## Narrative function
+
+The language arc directly supports the main Act V conflict.
+
+At first, Leo genuinely has to help Taiga.
+
+Then Taiga begins saying:
+
+> "I got it."
+
+Leo starts to translate and Taiga answers the relative himself.
+
+Eventually Taiga can spend time around the household without requiring Leo as an interpreter.
+
+This visibly removes one legitimate source of Leo's workload.
+
+Leo appropriately stops babysitting him.
+
+Then Taiga watches the freed energy redirect toward everybody else.
+
+That strengthens the later realization:
+
+> **So it wasn't because of me.**
+
+## First impression on the family
+
+Taiga arriving with even imperfect Spanish should make a striking first impression.
+
+The family has every reason to expect:
+- Leo's foreign boyfriend;
+- English dependence;
+- Leo translating everything.
+
+Instead, Taiga has deliberately spent two weeks preparing to meet them.
+
+He will still struggle.
+
+That is part of why it works.
+
+His Spanish does not impress because it is technically excellent.
+
+It impresses because:
+
+> **He cared enough to try before he arrived.**
+
+This can immediately communicate something about Taiga to Leo's family:
+- serious;
+- observant;
+- stubborn;
+- respectful;
+- willing to work;
+- invested in Leo.
+
+It also lets the family warm to him for reasons that belong specifically to Taiga rather than simply because Leo brought him home.
+
 ---
 
 # 10. Act Length and Calendar Shape
