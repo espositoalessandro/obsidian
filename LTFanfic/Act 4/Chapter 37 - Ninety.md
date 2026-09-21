@@ -228,7 +228,7 @@ Taiga did not know what. At forty-five, the referee added one. Nothing happened 
 
 ---
 
-The visitors' locker room was hot. Too many bodies. Too much breath. Nobody touched an phone. Nobody needed to. Pinetree had already lost. Olympus had forty-five minutes. Mercer went through two things first.
+The visitors' locker room was hot. Too many bodies. Too much breath. Nobody touched a phone. Nobody needed to. Pinetree had already lost. Olympus had forty-five minutes. Mercer went through two things first.
 
 St. Vincent's second balls. Their right winger narrowing too early. Gav asked a question. Mercer answered. Then he looked at Taiga.
 
