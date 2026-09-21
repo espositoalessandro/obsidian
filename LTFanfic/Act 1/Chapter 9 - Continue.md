@@ -1659,7 +1659,7 @@ That sounded more generous than anything Enzo would ever say about himself. The 
 
 ---
 
-The walk from the station split at Central Park. Leo needed to cut toward the Sports Zone and House Apollo. Taiga toward the Residential Zone. They stopped where the paths divided. Campus at ten-forty looked different from daytime. Less crowded. Windows lit in patches. The tower visible against a cloudy sky. Leo put both hands in his jacket pockets.
+The walk from the station took them across Central Park and into the Residential Zone. They stopped where the paths toward their residence halls divided. Campus at ten-forty looked different from daytime. Less crowded. Windows lit in patches. The tower visible against a cloudy sky. Leo put both hands in his jacket pockets.
 
 “Thanks for coming tonight.”
 

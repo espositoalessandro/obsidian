@@ -915,7 +915,7 @@ Leo nodded. “I'll probably be back before New Year for a couple things.”
 
 “I reject linguistic gatekeeping.”
 
-They reached the split where Taiga would continue toward Residence and Leo would cut toward the Sports Zone. Leo stopped, so Taiga did too.
+They reached the split inside the Residential Zone where their residence halls separated. Leo stopped, so Taiga did too.
 
 “I'm glad you came,” Leo said.
 
@@ -939,7 +939,7 @@ Leo grinned. “Also, for someone who had never skated, you only almost killed o
 
 “I'm protecting myself from grief.”
 
-Taiga laughed, and Leo turned toward the Sports Zone. He made it a few steps before stopping and looking back.
+Taiga laughed, and Leo turned toward his residence hall. He made it a few steps before stopping and looking back.
 
 “Oh! Taiga.”
 
