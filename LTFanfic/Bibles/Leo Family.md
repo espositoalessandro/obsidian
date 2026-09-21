@@ -2313,6 +2313,99 @@ The courtyard should feel **busy without being crowded by architecture**.
 
 ---
 
+
+## Weekday occupancy rhythm — LOCKED
+
+The compound should not feel permanently crowded.
+
+On ordinary workdays, it has a clear daily rhythm.
+
+### Morning
+
+Mornings are busy and overlapping.
+
+Typical movement:
+- Carmen and Manuel leave for work;
+- Ramón and Isa leave for work;
+- Dani leaves for school;
+- Antonio leaves for school;
+- historically, Leo also left for school before moving away for university;
+- people cross the patio carrying bags, food, keys, laundry, or things somebody else forgot.
+
+This is one of the day's naturally chaotic periods.
+
+### Midday
+
+Once everyone has left, the property becomes much quieter.
+
+For a significant part of a normal weekday, **Mercedes is the only permanent resident at home**.
+
+This gives her:
+- her own routines;
+- quiet time;
+- errands;
+- neighbors / relatives who may stop by;
+- a life that does not depend on the house being full.
+
+The compound should be allowed to feel almost still during these hours.
+
+It is not abandoned.
+
+Someone may:
+- stop by for coffee;
+- bring something to Mercedes;
+- pass through the patio;
+- visit briefly from the neighborhood family network.
+
+But these are interruptions, not constant occupancy.
+
+### Afternoon
+
+The family begins to reappear gradually.
+
+Depending on schedules:
+- Antonio returns from school;
+- Dani returns from school;
+- one adult may arrive earlier than another;
+- nearby relatives or cousins may start appearing;
+- small household tasks restart.
+
+The compound shifts from quiet to active rather than instantly becoming crowded.
+
+### Evening
+
+By evening, the family ecosystem is active again.
+
+This is when:
+- the patio fills;
+- kitchens are in use;
+- people move between units;
+- somebody is telling a story;
+- family members arrive from work;
+- nearby relatives may drop in;
+- meals become shared intentionally or by accident.
+
+The core rhythm is:
+
+> **morning exodus → Mercedes's quiet kingdom → gradual afternoon repopulation → evening family organism**
+
+This rhythm is important because it keeps the family's warmth and chaos believable.
+
+The house is lively because people return to it, not because it is permanently at maximum volume.
+
+### Act V use
+
+During Act V, Leo and Taiga may sometimes be home during weekday hours while the others are still at work / school.
+
+This creates:
+- unexpectedly quiet stretches;
+- more one-on-one time with Mercedes;
+- space for Taiga to explore the house and neighborhood without the full family present;
+- a strong contrast between daytime calm and evening social intensity.
+
+That contrast can also help Taiga notice how Leo's behavior changes as more people return and more social claims accumulate.
+
+
 ## Privacy and permeability
 
 The family is close, but the homes must retain real privacy.
