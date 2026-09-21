@@ -1,7 +1,7 @@
-By the second week of March, winter had stopped being pretty. Snow survived only in gray ridges along curbs and under trees where sunlight never reached properly. The paths around Olympus were wet more often than frozen. Everybody's shoes carried mud. The sky had spent four consecutive days the color of printer paper. Spring was apparently coming. It was taking its time. 
+By the first full week of April, winter had stopped being pretty. Snow survived only in gray ridges along curbs and under trees where sunlight never reached properly. The paths around Olympus were wet more often than frozen. Everybody's shoes carried mud. The sky had spent four consecutive days the color of printer paper. Spring was apparently coming. It was taking its time. 
 Taiga did not mind. 
 The last few weeks had settled into a rhythm of class, training and coffee, with Discrete Structures and Data Structures filling the academic gaps and House Apollo filling some of the rest. Leo had started appearing often enough that separating him from the routine no longer felt particularly useful. 
-The hand on Taiga's thigh at film night belonged to late February now. So did the bike and the stupid café table. Life kept moving around them. Shoulders after goals. Hands when passing things. A forearm during training. Once Leo leaned over Taiga's chair to see a compiler error and put one hand on the backrest close enough that Taiga could feel heat through his shirt. Spring Break started Friday. That was currently more important.
+The hand on Taiga's thigh at film night belonged to late March now. So did the bike and the stupid café table. Life kept moving around them. Shoulders after goals. Hands when passing things. A forearm during training. Once Leo leaned over Taiga's chair to see a compiler error and put one hand on the backrest close enough that Taiga could feel heat through his shirt. Spring Break started Friday. That was currently more important.
 
 ---
 
@@ -120,7 +120,7 @@ There was no suspicion in it. No *what do you need?* Just true. Taiga leaned bac
 
 Taiga frowned.
 
-“In March?”
+“In April?”
 
 Yoshinori smiled slightly.
 
@@ -208,7 +208,7 @@ That earned a small laugh. Yoshinori continued.
 
 “Very.”
 
-Taiga looked toward the window. March rain streaked the glass. Something in his chest had loosened. This was Camp Buddy in preseason rather than summer, reunion or memory: actual work, a place operating before anyone arrived to enjoy it. He liked that.
+Taiga looked toward the window. April rain streaked the glass. Something in his chest had loosened. This was Camp Buddy in preseason rather than summer, reunion or memory: actual work, a place operating before anyone arrived to enjoy it. He liked that.
 
 “Can I help?”
 
@@ -600,7 +600,7 @@ Taiga snorted. Leo smiled.
 
 “Same one?”
 
-Taiga's brain stopped. Only for a second. After the delay, Leo's expression shifted, not teasing. Aware. The static from February flickered back to life. Taiga forced his voice to remain normal.
+Taiga's brain stopped. Only for a second. After the delay, Leo's expression shifted, not teasing. Aware. The static from March flickered back to life. Taiga forced his voice to remain normal.
 
 “Probably.”
 
@@ -831,7 +831,7 @@ Caleb nodded. Nothing else. Bless him. Taiga returned to the chat.
 **Leo:** WAIT
 **Leo:** bugs?
 
-**Taiga:** it's march
+**Taiga:** it's april
 
 **Leo:** that is not an answer
 
