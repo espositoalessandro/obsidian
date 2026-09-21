@@ -104,9 +104,9 @@ Caleb looked at the shoe. Then at Taiga.
 
 Taiga hated living with an economist. He had unpacked. Showered. Put the Camp Buddy hoodie into the laundry because it smelled like smoke even after one night away.
 
-Then he had found a clean shirt near the bottom of his bag with one blond hair stuck to the sleeve. He had removed it. Thrown it away.
+Then he had found a clean shirt near the bottom of his bag with one blond hair stuck to the sleeve. He had removed it. Then thrown it away with a stupid smile.
 
-No crisis. That counted as progress, probably. Monday existed again, along with Data Structures and, unfortunately, Owen. Taiga and Leo entered three minutes before class. Mia and Rachel were already there while Owen fought with something projected on the screen.
+Monday existed again, along with Data Structures and, unfortunately, Owen. Taiga and Leo entered three minutes before class. Mia and Rachel were already there while Owen fought with something projected on the screen.
 
 Leo looked at Taiga.
 
@@ -164,7 +164,7 @@ Leo put the shoe back on.
 
 “Do I want to know?”
 
-“No.”
+“No, sir .”
 
 “Excellent.”
 
@@ -218,13 +218,13 @@ Leo followed his gaze.
 
 “Growth takes time.”
 
-Taiga laughed. Their knees were still touching. Nobody died.
+Taiga laughed. Their knees were still touching.
 
 ---
 
 Coffee after lab returned automatically. They did not discuss whether they were doing it. Leo packed his laptop. Taiga packed his. They walked toward Central. Spring Break had apparently given Olympus permission to become spring.
 
-Not completely. The air was still cold enough for jackets. But the grass had started recovering from winter. Trees along Central Park carried pale green buds. Someone had opened tables outside Starbuffs.
+Not completely, though. The air was still cold enough for jackets. But the grass had started recovering from winter. Trees along Central Park carried pale green buds. Someone had opened tables outside Starbuffs.
 
 Three students sat there pretending twenty-two degrees Celsius existed. Leo pointed.
 
@@ -234,7 +234,7 @@ Three students sat there pretending twenty-two degrees Celsius existed. Leo poin
 
 “Those categories overlap.”
 
-Taiga held the café door open. Leo went through. His hand passed briefly across Taiga's lower back as he did. Not necessary. Not accidental either. Taiga let the door close behind them.
+Taiga held the café door open. Leo went through. His hand passed briefly across Taiga's lower back as he did. Taiga let the door close behind them.
 
 The line was longer than usual. Spring Break stories occupied half of it—beaches, family visits, skiing. Someone behind them had apparently spent six days at a music festival and considered losing their Oracle on the second night “part of the experience.”
 
@@ -242,11 +242,11 @@ Taiga disagreed. Silently. Mostly. Leo checked the menu.
 
 “You know what I missed?”
 
-“Camp coffee?”
+“Noise?”
 
 “No.”
 
-“Aiden's coffee?”
+“Crowds?”
 
 “No.”
 

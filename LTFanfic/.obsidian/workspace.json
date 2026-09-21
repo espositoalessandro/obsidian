@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "bde23d19d2c10621",
+        "id": "006d94d65281a0b9",
         "type": "tabs",
         "children": [
           {
-            "id": "efd04452a0487aab",
+            "id": "c1daf8e638e9e40c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Act 4.md",
+                "file": "Act 4/Chapter 33 - Back.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Act 4"
+              "title": "Chapter 33 - Back"
             }
           }
         ]
@@ -199,11 +199,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "efd04452a0487aab",
+  "active": "c1daf8e638e9e40c",
   "lastOpenFiles": [
-    "Act 2/Chapter 18 - Thin Air_old.md",
-    "Act 4.md",
+    "Act 4/Chapter 38 - After.md",
+    "Act 4/Chapter 37 - Ninety.md",
+    "Act 4/Chapter 36 - Fault.md",
+    "Act 4/Chapter 35 - Eleven.md",
+    "Act 4/Chapter 34 - Minutes.md",
+    "Act 4/Chapter 33 - Back.md",
     "Act 3/Chapter 32 - The Way Back.md",
+    "Act 4.md",
+    "Act 4",
+    "Act 2/Chapter 18 - Thin Air_old.md",
     "Act 3/Chapter 30 - What It Meant.md",
     "conflict-files-obsidian-git.md",
     "Act 3/Chapter 31 - Closer.md",
@@ -221,13 +228,7 @@
     "Act 3/Chapter 26 - Easy.md",
     "Act 3/Chapter 24 - Preseason.md",
     "Act 3/Chapter 23 - Static.md",
-    "Act 3/Chapter 22 - Blind Spot.md",
     "Act 3",
-    "Act 2/Chapter 18 - Thin Air.md",
-    "Act 2/Chapter 17 - Simple.md",
-    "Act 2/Chapter 16 - Default.md",
-    "Act 2/Chapter 15 - Five Minutes.md",
-    "Act 2/Chapter 14 - Backstage.md",
     "Bibles/ScoutmasterSeasonScript_utf8.csv",
     "Bibles/ScoutmasterSeasonScript.csv",
     "CampBuddyScript.csv",
