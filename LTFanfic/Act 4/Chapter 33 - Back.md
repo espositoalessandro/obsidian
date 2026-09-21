@@ -1502,7 +1502,7 @@ Gav responded:
 
 There was a pause. Then Mercer reacted to Enzo's message with a thumbs-up. Nobody sent anything for almost a minute. Taiga laughed in the middle of the Academic Zone.
 
-A student walking past looked over. Taiga kept moving. His phone buzzed privately. 
+A student walking past looked over. Taiga kept moving. His phone buzzed.
 
 **Leo:** he has learned psychological warfare
 
