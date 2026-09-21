@@ -1,16 +1,4 @@
-Saturday started with toast.
-
-Taiga had expected nerves.
-
-Instead he got toast.
-
-Two slices.
-
-One egg.
-
-Half a banana.
-
-Caleb sat across from him in the dining hall with a bowl of oatmeal and a spreadsheet open on his tablet.
+Saturday started with toast. Taiga had expected nerves. Instead he got toast. Two slices. One egg. Half a banana. Caleb sat across from him in the dining hall with a bowl of oatmeal and a spreadsheet open on his tablet.
 
 Taiga looked at the screen.
 
@@ -26,9 +14,7 @@ Taiga looked at the screen.
 
 “Yes.”
 
-Taiga ate the second half of his banana.
-
-Caleb scrolled.
+Taiga ate the second half of his banana. Caleb scrolled.
 
 “You leave at ten-thirty?”
 
@@ -56,9 +42,7 @@ Taiga looked up.
 
 “It was usually in the same sentence.”
 
-Taiga finished his coffee.
-
-Caleb looked at the empty plate.
+Taiga finished his coffee. Caleb looked at the empty plate.
 
 “Are you nervous?”
 
@@ -66,9 +50,7 @@ Taiga considered lying.
 
 “Yeah.”
 
-Caleb nodded and went back to the regression output.
-
-Taiga stared.
+Caleb nodded and went back to the regression output. Taiga stared.
 
 “That’s it?”
 
@@ -82,9 +64,7 @@ Taiga stared.
 
 “Then that was it.”
 
-Taiga stood.
-
-Caleb looked at the clock.
+Taiga stood. Caleb looked at the clock.
 
 “You have twenty-eight minutes.”
 
@@ -96,11 +76,7 @@ Caleb looked at the clock.
 
 “It’s packed.”
 
-Taiga stopped.
-
-Caleb looked at him.
-
-Taiga sat back down.
+Taiga stopped. Caleb looked at him. Taiga sat back down.
 
 “Fuck you.”
 
@@ -110,21 +86,9 @@ Caleb took another spoonful of oatmeal.
 
 ---
 
-The Sports Zone was louder than usual.
+The Sports Zone was louder than usual. Not packed. Not championship-decider loud. But enough that people were already moving toward the stadium before noon. Blue shirts. House Apollo jackets.
 
-Not packed.
-
-Not championship-decider loud.
-
-But enough that people were already moving toward the stadium before noon.
-
-Blue shirts.
-
-House Apollo jackets.
-
-A few Olympus scarves despite the weather being too warm for them.
-
-Somebody had hung a banner across the railing outside the student section.
+A few Olympus scarves despite the weather being too warm for them. Somebody had hung a banner across the railing outside the student section.
 
 **FOUR WEEKS. TAKE IT HOME.**
 
@@ -164,15 +128,11 @@ Taiga adjusted the strap on his shoulder.
 
 “That is false.”
 
-Scott walked past.
-
-Enzo pointed.
+Scott walked past. Enzo pointed.
 
 “I like Scott.”
 
-Scott lifted one hand without turning around.
-
-Leo said, “He didn’t even acknowledge you.”
+Scott lifted one hand without turning around. Leo said, “He didn’t even acknowledge you.”
 
 “He raised his hand.”
 
@@ -180,29 +140,9 @@ Leo said, “He didn’t even acknowledge you.”
 
 “Connection takes many forms.”
 
-They entered the athletics building.
+They entered the athletics building. The locker room was already half occupied. Taiga found forty-one. Match shirt hanging. Shorts folded. Socks underneath. Bench. He already knew. Still. He touched the edge of the shirt and started changing.
 
-The locker room was already half occupied.
-
-Taiga found forty-one.
-
-Match shirt hanging.
-
-Shorts folded.
-
-Socks underneath.
-
-Bench.
-
-He already knew.
-
-Still.
-
-He touched the edge of the shirt and started changing.
-
-Leo dropped onto the bench beside him.
-
-One boot in his hand.
+Leo dropped onto the bench beside him. One boot in his hand.
 
 “Did you eat?”
 
@@ -236,9 +176,7 @@ Taiga stopped pulling on his sock.
 
 “Your stomach is defective.”
 
-Leo leaned over to tie his boot.
-
-His shoulder pressed against Taiga’s arm.
+Leo leaned over to tie his boot. His shoulder pressed against Taiga’s arm.
 
 “Your stomach fears freedom.”
 
@@ -248,9 +186,7 @@ Enzo called from two lockers down.
 
 “Mendez ate chicken too.”
 
-Taiga looked at Leo.
-
-Leo kept tying.
+Taiga looked at Leo. Leo kept tying.
 
 “Protein.”
 
@@ -270,9 +206,7 @@ Leo looked betrayed.
 
 “You’re all cowards.”
 
-Mercer appeared in the doorway.
-
-Conversation lowered automatically.
+Mercer appeared in the doorway. Conversation lowered automatically.
 
 “Meeting in five.”
 
@@ -288,13 +222,7 @@ Enzo immediately started changing faster.
 
 ---
 
-Northbridge had changed one thing.
-
-Mercer put the new clip on screen.
-
-Their right winger was dropping deeper than he had in the film from Monday.
-
-Not by much.
+Northbridge had changed one thing. Mercer put the new clip on screen. Their right winger was dropping deeper than he had in the film from Monday. Not by much.
 
 Enough.
 
@@ -304,13 +232,7 @@ He moved two magnets.
 
 “The winger waits. Fullback goes early.”
 
-Taiga leaned forward.
-
-That changed the angle.
-
-Not the principle.
-
-Mercer looked across the room.
+Taiga leaned forward. That changed the angle. Not the principle. Mercer looked across the room.
 
 “If you play the first wide pass and stand there admiring it, they’ll eat you.”
 
@@ -322,27 +244,11 @@ He looked toward Enzo.
 
 “Left side.”
 
-Enzo nodded.
-
-Then Leo.
+Enzo nodded. Then Leo.
 
 “Ten. Stay available behind their midfield. They’re going to close you from the blind side if you stand still.”
 
-Leo nodded.
-
-Mercer continued through set pieces.
-
-Defensive marks.
-
-Corners.
-
-Second balls.
-
-Northbridge liked long throws.
-
-Scott complained quietly.
-
-Mercer heard.
+Leo nodded. Mercer continued through set pieces. Defensive marks. Corners. Second balls. Northbridge liked long throws. Scott complained quietly. Mercer heard.
 
 “You’re the goalkeeper.”
 
@@ -352,39 +258,13 @@ Mercer heard.
 
 “Excellent coaching.”
 
-Mercer stared.
+Mercer stared. Scott looked at the screen again. One of the assistants covered his mouth with one hand. Taiga looked down before he laughed. Mercer changed slides. Starting eleven.
 
-Scott looked at the screen again.
-
-One of the assistants covered his mouth with one hand.
-
-Taiga looked down before he laughed.
-
-Mercer changed slides.
-
-Starting eleven.
-
-No surprise.
-
-Leo central.
-
-Enzo left.
-
-Aaron at left back.
-
-Gav behind them.
-
-Scott in goal.
-
-Taiga’s name sat under substitutes.
-
-Mercer pointed at the screen.
+No surprise. Leo central. Enzo left. Aaron at left back. Gav behind them. Scott in goal. Taiga’s name sat under substitutes. Mercer pointed at the screen.
 
 “Three matches left after today.”
 
-Enzo shifted in his chair.
-
-Mercer saw him.
+Enzo shifted in his chair. Mercer saw him.
 
 “Still not counting.”
 
@@ -394,55 +274,21 @@ Enzo raised both hands.
 
 “Keep it that way.”
 
-Taiga glanced at Enzo.
-
-Enzo mouthed *how does he know?*
-
-Mercer continued.
+Taiga glanced at Enzo. Enzo mouthed *how does he know?* Mercer continued.
 
 “Northbridge first. Everything else can wait.”
 
 ---
 
-Warm-up began at two-ten.
+Warm-up began at two-ten. The stadium had filled more by then. Taiga jogged with the substitutes along the sideline. Across the pitch, Northbridge wore dark red. Their supporters occupied one corner of the opposite stand.
 
-The stadium had filled more by then.
-
-Taiga jogged with the substitutes along the sideline.
-
-Across the pitch, Northbridge wore dark red.
-
-Their supporters occupied one corner of the opposite stand.
-
-Not many.
-
-Loud anyway.
-
-Leo was in the starting group doing short passing.
-
-He took a ball from Gav.
-
-Turned.
-
-Played Enzo.
-
-Moved again.
-
-Taiga watched the pattern while stretching his hamstring.
+Not many. Loud anyway. Leo was in the starting group doing short passing. He took a ball from Gav. Turned. Played Enzo. Moved again. Taiga watched the pattern while stretching his hamstring.
 
 An assistant coach clapped.
 
 “Subs. Open up.”
 
-Taiga turned away from the field and joined the passing square.
-
-Evan was there.
-
-So were two other development players.
-
-Evan played the first ball too hard.
-
-Taiga trapped it.
+Taiga turned away from the field and joined the passing square. Evan was there. So were two other development players. Evan played the first ball too hard. Taiga trapped it.
 
 “You trying to break my foot?”
 
@@ -452,267 +298,49 @@ Taiga trapped it.
 
 “Always.”
 
-They passed.
+They passed. The announcer tested the microphone. Static cracked across the stadium. Enzo shouted something from the main warm-up. Nobody heard it. He shouted again. Still nothing. Leo pointed at his ears.
 
-The announcer tested the microphone.
+Enzo gave up. Taiga laughed. The crowd made more noise when the starters went through shooting. Leo hit the post. The ball bounced away. He looked toward Taiga.
 
-Static cracked across the stadium.
-
-Enzo shouted something from the main warm-up.
-
-Nobody heard it.
-
-He shouted again.
-
-Still nothing.
-
-Leo pointed at his ears.
-
-Enzo gave up.
-
-Taiga laughed.
-
-The crowd made more noise when the starters went through shooting.
-
-Leo hit the post.
-
-The ball bounced away.
-
-He looked toward Taiga.
-
-Taiga held up one thumb.
-
-Leo gave him the finger.
-
-Taiga smiled and returned to the drill.
+Taiga held up one thumb. Leo gave him the finger. Taiga smiled and returned to the drill.
 
 ---
 
-The first ten minutes belonged to Northbridge.
+The first ten minutes belonged to Northbridge. Not because they created much. Because Olympus kept giving them what they wanted. Wide pass. Trap. Backward pass. Reset. Wide again.
 
-Not because they created much.
+Trap again. Mercer stood near the technical area with both arms folded. At seven minutes, Enzo received near the line. Northbridge’s winger delayed. Fullback came hard. Enzo bounced inside to Aaron.
 
-Because Olympus kept giving them what they wanted.
+Correct. Then stayed still. Aaron returned it. Trap closed. Turnover. Northbridge countered. Gav stepped. Foul. Enzo jogged back, already swearing at himself. Taiga leaned forward on the bench.
 
-Wide pass.
+The free kick came in. Scott punched. Leo collected the second ball and carried it thirty meters before getting clipped. Whistle. Breathing room. Olympus settled. At fourteen, Leo found space behind Northbridge’s midfield for the first time.
 
-Trap.
+Gav played through. Leo checked over one shoulder. Turned. Enzo ran behind. Leo slipped the pass. Fullback recovered. Cross blocked. Corner. The student section woke up. Taiga stood with the bench.
 
-Backward pass.
+Corner came in. Gav got his head to it. Over. He slapped both hands together once while jogging back. At twenty-two, Northbridge nearly scored. Long throw. Of course.
 
-Reset.
+Ball into the box. Header. Second ball. Shot through bodies. Scott dropped late and pushed it around the post. He stayed on the ground for half a second.
 
-Wide again.
+Then stood. Enzo ran over and hit the back of his head. Scott shoved him away. Corner. Cleared. At twenty-eight, Olympus found the weak side. Finally. Leo dropped deeper.
 
-Trap again.
+Northbridge followed. Aaron received. Enzo stayed wide. Pass. One touch. Inside again. Leo. Switch. Right winger into space. Cross. Striker hit it first time. Keeper saved. The rebound went wide.
 
-Mercer stood near the technical area with both arms folded.
+Taiga exhaled through his nose. That was the shape. Northbridge knew it too. They adjusted. Their left midfielder stopped collapsing as far. The next switch died before it reached the wing.
 
-At seven minutes, Enzo received near the line.
+Minute thirty-five. Zero-zero. Minute forty. Still zero-zero. The match had become ugly. Fouls. Throw-ins. Three minutes spent arguing over a corner that should have been a goal kick.
 
-Northbridge’s winger delayed.
+Mercer did not argue. One of the assistants did enough for both of them. At forty-three, Leo got fouled again. This one harder. He hit the ground on his shoulder.
 
-Fullback came hard.
+Taiga stood. Leo rolled once and pushed himself up. Northbridge’s six offered a hand. Leo took it. Free kick. He rubbed his shoulder while walking toward the box.
 
-Enzo bounced inside to Aaron.
-
-Correct.
-
-Then stayed still.
-
-Aaron returned it.
-
-Trap closed.
-
-Turnover.
-
-Northbridge countered.
-
-Gav stepped.
-
-Foul.
-
-Enzo jogged back, already swearing at himself.
-
-Taiga leaned forward on the bench.
-
-The free kick came in.
-
-Scott punched.
-
-Leo collected the second ball and carried it thirty meters before getting clipped.
-
-Whistle.
-
-Breathing room.
-
-Olympus settled.
-
-At fourteen, Leo found space behind Northbridge’s midfield for the first time.
-
-Gav played through.
-
-Leo checked over one shoulder.
-
-Turned.
-
-Enzo ran behind.
-
-Leo slipped the pass.
-
-Fullback recovered.
-
-Cross blocked.
-
-Corner.
-
-The student section woke up.
-
-Taiga stood with the bench.
-
-Corner came in.
-
-Gav got his head to it.
-
-Over.
-
-He slapped both hands together once while jogging back.
-
-At twenty-two, Northbridge nearly scored.
-
-Long throw.
-
-Of course.
-
-Ball into the box.
-
-Header.
-
-Second ball.
-
-Shot through bodies.
-
-Scott dropped late and pushed it around the post.
-
-He stayed on the ground for half a second.
-
-Then stood.
-
-Enzo ran over and hit the back of his head.
-
-Scott shoved him away.
-
-Corner.
-
-Cleared.
-
-At twenty-eight, Olympus found the weak side.
-
-Finally.
-
-Leo dropped deeper.
-
-Northbridge followed.
-
-Aaron received.
-
-Enzo stayed wide.
-
-Pass.
-
-One touch.
-
-Inside again.
-
-Leo.
-
-Switch.
-
-Right winger into space.
-
-Cross.
-
-Striker hit it first time.
-
-Keeper saved.
-
-The rebound went wide.
-
-Taiga exhaled through his nose.
-
-That was the shape.
-
-Northbridge knew it too.
-
-They adjusted.
-
-Their left midfielder stopped collapsing as far.
-
-The next switch died before it reached the wing.
-
-Minute thirty-five.
-
-Zero-zero.
-
-Minute forty.
-
-Still zero-zero.
-
-The match had become ugly.
-
-Fouls.
-
-Throw-ins.
-
-Three minutes spent arguing over a corner that should have been a goal kick.
-
-Mercer did not argue.
-
-One of the assistants did enough for both of them.
-
-At forty-three, Leo got fouled again.
-
-This one harder.
-
-He hit the ground on his shoulder.
-
-Taiga stood.
-
-Leo rolled once and pushed himself up.
-
-Northbridge’s six offered a hand.
-
-Leo took it.
-
-Free kick.
-
-He rubbed his shoulder while walking toward the box.
-
-Taiga sat again.
-
-The free kick hit the wall.
-
-Halftime.
-
-Zero-zero.
+Taiga sat again. The free kick hit the wall. Halftime. Zero-zero.
 
 ---
 
-The locker room smelled like wet grass and liniment.
-
-Starters sat.
-
-Substitutes stood along the back wall.
-
-Mercer waited until the door closed.
-
-Then he moved two magnets.
+The locker room smelled like wet grass and liniment. Starters sat. Substitutes stood along the back wall. Mercer waited until the door closed. Then he moved two magnets.
 
 “The fullback is going before the winger.”
 
-Nobody answered.
-
-Mercer looked at Enzo.
+Nobody answered. Mercer looked at Enzo.
 
 “What does that give you?”
 
@@ -764,91 +392,27 @@ The assistant looked at him.
 
 “Catch them.”
 
-Scott stared.
-
-Taiga heard Enzo choke on a laugh.
-
-Mercer pointed toward the door.
+Scott stared. Taiga heard Enzo choke on a laugh. Mercer pointed toward the door.
 
 “Warm up.”
 
-Taiga looked up.
-
-Mercer was looking at him.
+Taiga looked up. Mercer was looking at him.
 
 “Now?”
 
 “Yes, Akatora. That is generally what warm up means.”
 
-Taiga stood.
-
-Evan followed.
-
-Two others too.
-
-He pulled the training top over his shirt and went outside.
+Taiga stood. Evan followed. Two others too. He pulled the training top over his shirt and went outside.
 
 ---
 
-Second half.
+Second half. Olympus started better. Leo moved left. Northbridge’s six followed. Aaron carried into the space twice. First ended in a blocked cross. Second ended with Leo shooting from the edge.
 
-Olympus started better.
+Wide. At fifty-one, Northbridge got another long throw. Scott caught it. He immediately turned toward the bench. The assistant coach lifted both hands. Scott nodded once. Point made.
 
-Leo moved left.
+Taiga laughed while jogging. At fifty-four, Northbridge scored. Not from a throw. Worse. Olympus lost the ball in midfield. Northbridge went direct. One pass into the channel. Their striker held Gav off.
 
-Northbridge’s six followed.
-
-Aaron carried into the space twice.
-
-First ended in a blocked cross.
-
-Second ended with Leo shooting from the edge.
-
-Wide.
-
-At fifty-one, Northbridge got another long throw.
-
-Scott caught it.
-
-He immediately turned toward the bench.
-
-The assistant coach lifted both hands.
-
-Scott nodded once.
-
-Point made.
-
-Taiga laughed while jogging.
-
-At fifty-four, Northbridge scored.
-
-Not from a throw.
-
-Worse.
-
-Olympus lost the ball in midfield.
-
-Northbridge went direct.
-
-One pass into the channel.
-
-Their striker held Gav off.
-
-Right winger arrived underneath.
-
-Shot low.
-
-Scott got a hand to it.
-
-Post.
-
-In.
-
-The away corner exploded.
-
-Taiga stopped his warm-up.
-
-The scoreboard changed.
+Right winger arrived underneath. Shot low. Scott got a hand to it. Post. In. The away corner exploded. Taiga stopped his warm-up. The scoreboard changed.
 
 **OLYMPUS 0 — 1 NORTHBRIDGE**
 
@@ -856,15 +420,7 @@ Mercer looked down the bench.
 
 “Akatora.”
 
-Taiga pulled off the training top.
-
-Enzo saw him from the field.
-
-So did Leo.
-
-Play restarted.
-
-Taiga reached Mercer.
+Taiga pulled off the training top. Enzo saw him from the field. So did Leo. Play restarted. Taiga reached Mercer.
 
 “Left.”
 
@@ -882,21 +438,13 @@ Mercer looked toward the fourth official.
 
 “Two minutes.”
 
-Taiga bounced on his toes.
-
-The ball went out at fifty-seven.
-
-Board up.
+Taiga bounced on his toes. The ball went out at fifty-seven. Board up.
 
 **17 OUT**
 
 **41 IN**
 
-Enzo jogged toward him.
-
-Sweat everywhere.
-
-He slapped Taiga’s hand.
+Enzo jogged toward him. Sweat everywhere. He slapped Taiga’s hand.
 
 “Fourteen’s stepping early. Seventeen covers like shit if you get past him.”
 
@@ -910,173 +458,27 @@ Enzo grabbed the back of Taiga’s neck for half a second as they crossed.
 
 “Go.”
 
-Taiga ran on.
+Taiga ran on. The crowd announced him before the stadium announcer did. Not his name. Noise. Enough. First position. Wide left. Aaron behind. Leo central. Northbridge throw. They played backward.
 
-The crowd announced him before the stadium announcer did.
+Taiga pressed. Ball went across. Reset. Olympus recovered. Gav carried. Taiga stayed wide. Pass came. Fourteen moved. Taiga set it inside to Aaron and ran. Aaron returned it first time.
 
-Not his name.
+Fourteen had to turn. Taiga reached the ball. One touch. Seventeen came across. Taiga played backward. Aaron switched. The whole field moved with it. Next possession. Leo received under pressure.
 
-Noise.
+Taiga started toward the line. Leo found him. Fourteen stopped short this time. Taiga controlled. Looked up. Space inside. He carried. Seventeen stepped. Taiga played Leo. Leo returned it around the corner.
 
-Enough.
-
-First position.
-
-Wide left.
-
-Aaron behind.
-
-Leo central.
-
-Northbridge throw.
-
-They played backward.
-
-Taiga pressed.
-
-Ball went across.
-
-Reset.
-
-Olympus recovered.
-
-Gav carried.
-
-Taiga stayed wide.
-
-Pass came.
-
-Fourteen moved.
-
-Taiga set it inside to Aaron and ran.
-
-Aaron returned it first time.
-
-Fourteen had to turn.
-
-Taiga reached the ball.
-
-One touch.
-
-Seventeen came across.
-
-Taiga played backward.
-
-Aaron switched.
-
-The whole field moved with it.
-
-Next possession.
-
-Leo received under pressure.
-
-Taiga started toward the line.
-
-Leo found him.
-
-Fourteen stopped short this time.
-
-Taiga controlled.
-
-Looked up.
-
-Space inside.
-
-He carried.
-
-Seventeen stepped.
-
-Taiga played Leo.
-
-Leo returned it around the corner.
-
-Taiga reached the box.
-
-Cross.
-
-Blocked.
-
-Corner.
-
-Leo jogged past him.
+Taiga reached the box. Cross. Blocked. Corner. Leo jogged past him.
 
 “Again.”
 
-Taiga nodded.
+Taiga nodded. Corner came to nothing. At sixty-two, Northbridge tried the trap again. Taiga bounced inside. Ran. No return. Aaron went central instead. Leo had moved left and dragged the six with him.
 
-Corner came to nothing.
+Gav stepped into midfield. Pass. Turn. Shot. Keeper held. Taiga jogged back. At sixty-five, the same picture appeared. Gav to Aaron. Aaron to Taiga. Fourteen stepped. Taiga played inside to Leo.
 
-At sixty-two, Northbridge tried the trap again.
+Then sprinted outside. Fourteen turned with him. Leo took one touch forward. The lane opened between fourteen and the center-back. Olympus’s striker ran through it. Leo played him.
 
-Taiga bounced inside.
+Shot. Goal. The stadium went up. One-one. Taiga turned. Leo was already running toward the corner. The striker slid on both knees. Aaron reached him first. Then Leo.
 
-Ran.
-
-No return.
-
-Aaron went central instead.
-
-Leo had moved left and dragged the six with him.
-
-Gav stepped into midfield.
-
-Pass.
-
-Turn.
-
-Shot.
-
-Keeper held.
-
-Taiga jogged back.
-
-At sixty-five, the same picture appeared.
-
-Gav to Aaron.
-
-Aaron to Taiga.
-
-Fourteen stepped.
-
-Taiga played inside to Leo.
-
-Then sprinted outside.
-
-Fourteen turned with him.
-
-Leo took one touch forward.
-
-The lane opened between fourteen and the center-back.
-
-Olympus’s striker ran through it.
-
-Leo played him.
-
-Shot.
-
-Goal.
-
-The stadium went up.
-
-One-one.
-
-Taiga turned.
-
-Leo was already running toward the corner.
-
-The striker slid on both knees.
-
-Aaron reached him first.
-
-Then Leo.
-
-Taiga got there a second later and was pulled into the group from both sides.
-
-Someone’s forearm hit his ear.
-
-Probably Enzo from the bench somehow.
-
-The huddle broke.
+Taiga got there a second later and was pulled into the group from both sides. Someone’s forearm hit his ear. Probably Enzo from the bench somehow. The huddle broke.
 
 Leo caught Taiga’s shoulder as they ran back.
 
@@ -1086,35 +488,13 @@ Taiga looked at him.
 
 “I know.”
 
-Leo laughed.
-
-They reset.
+Leo laughed. They reset.
 
 ---
 
-Northbridge changed after the equalizer.
+Northbridge changed after the equalizer. Their right-back stopped stepping so aggressively. Their winger pressed earlier. The trap became less of a trap and more of a suggestion. Taiga got the ball more.
 
-Their right-back stopped stepping so aggressively.
-
-Their winger pressed earlier.
-
-The trap became less of a trap and more of a suggestion.
-
-Taiga got the ball more.
-
-At sixty-nine, he drove outside.
-
-Fourteen matched him.
-
-Taiga stopped.
-
-Cut inside.
-
-Shot from twenty meters.
-
-High.
-
-Mercer shouted something that sounded like:
+At sixty-nine, he drove outside. Fourteen matched him. Taiga stopped. Cut inside. Shot from twenty meters. High. Mercer shouted something that sounded like:
 
 “WHY?”
 
@@ -1124,23 +504,9 @@ Taiga jogged back.
 
 “It looked terrible!”
 
-Aaron laughed behind him.
+Aaron laughed behind him. At seventy-two, Taiga lost a shoulder duel and ended up on the ground. No foul. Northbridge broke. He got up and chased. Aaron delayed the winger.
 
-At seventy-two, Taiga lost a shoulder duel and ended up on the ground.
-
-No foul.
-
-Northbridge broke.
-
-He got up and chased.
-
-Aaron delayed the winger.
-
-Taiga recovered behind him.
-
-Pass went backward.
-
-Aaron pointed at the turf.
+Taiga recovered behind him. Pass went backward. Aaron pointed at the turf.
 
 “You alive?”
 
@@ -1152,59 +518,13 @@ Taiga rubbed his hip.
 
 “Fuck off.”
 
-They pushed up.
+They pushed up. At seventy-five, Leo dropped beside Gav to receive. Northbridge’s six followed again. Taiga saw the space before Leo turned. He started. Leo turned. Ball came diagonally.
 
-At seventy-five, Leo dropped beside Gav to receive.
+Taiga took it in stride. Fourteen was half a step late. Taiga drove toward the box. Center-back moved across. Striker near post. Leo arriving at the edge. Taiga shaped to cross.
 
-Northbridge’s six followed again.
+Fourteen stretched. Taiga cut the ball backward instead. Leo met it. First time. Low. Inside the far post. Two-one. For half a second Taiga saw the net move.
 
-Taiga saw the space before Leo turned.
-
-He started.
-
-Leo turned.
-
-Ball came diagonally.
-
-Taiga took it in stride.
-
-Fourteen was half a step late.
-
-Taiga drove toward the box.
-
-Center-back moved across.
-
-Striker near post.
-
-Leo arriving at the edge.
-
-Taiga shaped to cross.
-
-Fourteen stretched.
-
-Taiga cut the ball backward instead.
-
-Leo met it.
-
-First time.
-
-Low.
-
-Inside the far post.
-
-Two-one.
-
-For half a second Taiga saw the net move.
-
-Then Leo was coming at him.
-
-Fast.
-
-Too fast.
-
-Taiga barely got his feet set before Leo hit him with both arms around his shoulders.
-
-Taiga caught him around the waist.
+Then Leo was coming at him. Fast. Too fast. Taiga barely got his feet set before Leo hit him with both arms around his shoulders. Taiga caught him around the waist.
 
 “Fucking perfect!”
 
@@ -1214,87 +534,21 @@ Taiga caught him around the waist.
 
 “Barely!”
 
-The rest of the team arrived.
+The rest of the team arrived. Aaron crashed into them from one side. Gav from the other. The striker jumped onto somebody’s back. Taiga lost track of who was attached to what.
 
-Aaron crashed into them from one side.
+The student section kept screaming. Eventually Mercer started waving everyone toward halfway. Leo backed away, still smiling. Taiga shoved his shoulder. Leo shoved him back. Two-one. Seventy-six minutes.
 
-Gav from the other.
-
-The striker jumped onto somebody’s back.
-
-Taiga lost track of who was attached to what.
-
-The student section kept screaming.
-
-Eventually Mercer started waving everyone toward halfway.
-
-Leo backed away, still smiling.
-
-Taiga shoved his shoulder.
-
-Leo shoved him back.
-
-Two-one.
-
-Seventy-six minutes.
-
-Fourteen looked annoyed now.
-
-Taiga liked him better that way.
+Fourteen looked annoyed now. Taiga liked him better that way.
 
 ---
 
-The last fifteen minutes were uglier.
-
-Northbridge pushed.
-
-Olympus dropped five meters.
-
-Then ten.
-
-Mercer hated it.
+The last fifteen minutes were uglier. Northbridge pushed. Olympus dropped five meters. Then ten. Mercer hated it.
 
 “OUT!”
 
-Everyone stepped.
+Everyone stepped. Northbridge went long. Gav headed clear. Second ball. Northbridge again. At eighty-one, Taiga got a chance to run. Leo won possession and played him early. Halfway line.
 
-Northbridge went long.
-
-Gav headed clear.
-
-Second ball.
-
-Northbridge again.
-
-At eighty-one, Taiga got a chance to run.
-
-Leo won possession and played him early.
-
-Halfway line.
-
-Open grass.
-
-Taiga carried thirty meters.
-
-Fourteen chasing.
-
-Striker central.
-
-Could force it.
-
-He waited.
-
-Aaron overlapped.
-
-Taiga played him.
-
-Aaron crossed.
-
-Defender cleared.
-
-Corner.
-
-Aaron turned while jogging toward the box.
+Open grass. Taiga carried thirty meters. Fourteen chasing. Striker central. Could force it. He waited. Aaron overlapped. Taiga played him. Aaron crossed. Defender cleared. Corner. Aaron turned while jogging toward the box.
 
 “Responsible.”
 
@@ -1302,45 +556,11 @@ Taiga stared.
 
 “I’m never passing to you again.”
 
-Aaron laughed.
+Aaron laughed. At eighty-four, Leo went off. Fresh midfielder on. Leo jogged toward the line to applause. He slapped the substitute’s hand and walked past Taiga’s side of the field.
 
-At eighty-four, Leo went off.
+Taiga looked over. Leo pointed at him. Then at the scoreboard. Taiga gave him one finger. Leo laughed all the way to the bench. Northbridge attacked again. At eighty-eight, fourteen finally beat Taiga.
 
-Fresh midfielder on.
-
-Leo jogged toward the line to applause.
-
-He slapped the substitute’s hand and walked past Taiga’s side of the field.
-
-Taiga looked over.
-
-Leo pointed at him.
-
-Then at the scoreboard.
-
-Taiga gave him one finger.
-
-Leo laughed all the way to the bench.
-
-Northbridge attacked again.
-
-At eighty-eight, fourteen finally beat Taiga.
-
-He pushed the ball down the line and got half a step.
-
-Taiga turned.
-
-Chased.
-
-Fourteen crossed.
-
-Taiga slid.
-
-Ball hit his shin and went out.
-
-Throw.
-
-He stayed on the ground for one second, breathing.
+He pushed the ball down the line and got half a step. Taiga turned. Chased. Fourteen crossed. Taiga slid. Ball hit his shin and went out. Throw. He stayed on the ground for one second, breathing.
 
 Aaron stood above him.
 
@@ -1354,27 +574,9 @@ Taiga took the offered hand and got up.
 
 “I noticed.”
 
-Northbridge took the throw quickly.
+Northbridge took the throw quickly. Taiga ran back into position. Added time. Four minutes. Scott caught one cross. Gav cleared another. Taiga chased a loose ball to the corner and kept it there for twelve seconds before getting kicked.
 
-Taiga ran back into position.
-
-Added time.
-
-Four minutes.
-
-Scott caught one cross.
-
-Gav cleared another.
-
-Taiga chased a loose ball to the corner and kept it there for twelve seconds before getting kicked.
-
-Whistle.
-
-Free kick Olympus.
-
-He stood over the ball.
-
-Northbridge’s fourteen stood beside him.
+Whistle. Free kick Olympus. He stood over the ball. Northbridge’s fourteen stood beside him.
 
 “You always this annoying?”
 
@@ -1386,41 +588,13 @@ The defender laughed.
 
 “Fair.”
 
-Taiga waited for teammates to move up.
-
-Played backward.
-
-Olympus kept the ball.
-
-The referee checked the watch.
-
-One more long pass.
-
-Gav headed it.
-
-Whistle.
-
-Two-one.
+Taiga waited for teammates to move up. Played backward. Olympus kept the ball. The referee checked the watch. One more long pass. Gav headed it. Whistle. Two-one.
 
 ---
 
-The stadium got loud again.
+The stadium got loud again. Taiga bent forward with both hands on his knees. Thirty-something minutes. His lungs burned. His left hip hurt. His shin hurt more. Someone slapped the back of his head.
 
-Taiga bent forward with both hands on his knees.
-
-Thirty-something minutes.
-
-His lungs burned.
-
-His left hip hurt.
-
-His shin hurt more.
-
-Someone slapped the back of his head.
-
-He straightened.
-
-Enzo.
+He straightened. Enzo.
 
 “You took my minutes.”
 
@@ -1458,25 +632,9 @@ Leo put one hand over his heart.
 
 “Unprovoked.”
 
-Gav called everyone toward the student section.
+Gav called everyone toward the student section. The team went. Applause. Hands raised. Somebody threw a scarf from the first row. Enzo caught it and immediately wore it around his head.
 
-The team went.
-
-Applause.
-
-Hands raised.
-
-Somebody threw a scarf from the first row.
-
-Enzo caught it and immediately wore it around his head.
-
-One of the assistants made him give it back.
-
-They stayed on the field longer than usual.
-
-Not much.
-
-Enough for the stadium to empty around the edges.
+One of the assistants made him give it back. They stayed on the field longer than usual. Not much. Enough for the stadium to empty around the edges.
 
 When they finally went inside, Taiga looked at the scoreboard one more time.
 
@@ -1486,23 +644,9 @@ Three points.
 
 ---
 
-The locker room was louder than the stadium hallway.
+The locker room was louder than the stadium hallway. Music appeared from somewhere. Probably Enzo. Taiga sat with an ice pack against his shin. Leo sat beside him with a towel around his neck, hair still wet from the shower.
 
-Music appeared from somewhere.
-
-Probably Enzo.
-
-Taiga sat with an ice pack against his shin.
-
-Leo sat beside him with a towel around his neck, hair still wet from the shower.
-
-His knee pressed into Taiga’s.
-
-Enzo stood in front of them wearing one sock.
-
-Again.
-
-Taiga looked down.
+His knee pressed into Taiga’s. Enzo stood in front of them wearing one sock. Again. Taiga looked down.
 
 “Where is the other one?”
 
@@ -1510,11 +654,7 @@ Enzo looked at his feet.
 
 “What the fuck?”
 
-Scott pointed under the bench.
-
-Enzo bent.
-
-Found it.
+Scott pointed under the bench. Enzo bent. Found it.
 
 “I’m being targeted.”
 
@@ -1524,15 +664,7 @@ Gav zipped his bag.
 
 “You people have no imagination.”
 
-The door opened.
-
-Mercer walked in.
-
-The music stopped.
-
-Enzo found his second sock very interesting.
-
-Mercer looked around.
+The door opened. Mercer walked in. The music stopped. Enzo found his second sock very interesting. Mercer looked around.
 
 “Three points.”
 
@@ -1540,19 +672,13 @@ Nobody moved.
 
 “Review Monday. Recovery tomorrow.”
 
-He looked at the board.
-
-Someone had already written the temporary table.
+He looked at the board. Someone had already written the temporary table.
 
 **1. OLYMPUS — 50**
 **2. PINETREE — 48**
 **3. WESTLAKE — 44**
 
-Pinetree had not played yet.
-
-Their match was Sunday.
-
-Mercer tapped the board with one finger.
+Pinetree had not played yet. Their match was Sunday. Mercer tapped the board with one finger.
 
 “You may look at it now.”
 
@@ -1570,11 +696,7 @@ That got a few smiles.
 
 “Then stop enjoying it by recovery.”
 
-He left.
-
-The music returned before the door fully closed.
-
-Leo leaned forward to read the board.
+He left. The music returned before the door fully closed. Leo leaned forward to read the board.
 
 “First.”
 
@@ -1598,11 +720,7 @@ Leo looked at him.
 
 “Dangerous.”
 
-Taiga pushed his knee into Leo’s.
-
-Leo pushed back.
-
-Enzo yelled from across the room:
+Taiga pushed his knee into Leo’s. Leo pushed back. Enzo yelled from across the room:
 
 “NO MATH UNTIL MONDAY.”
 
@@ -1620,21 +738,9 @@ Scott said, “That tracks.”
 
 ---
 
-By six, the Sports Zone had mostly emptied.
+By six, the Sports Zone had mostly emptied. Taiga came out carrying his bag. Leo was waiting near the doors. Not alone. Enzo and Gav were there too.
 
-Taiga came out carrying his bag.
-
-Leo was waiting near the doors.
-
-Not alone.
-
-Enzo and Gav were there too.
-
-Scott stood three meters away looking at his Oracle.
-
-Aaron came through behind Taiga.
-
-Enzo clapped once.
+Scott stood three meters away looking at his Oracle. Aaron came through behind Taiga. Enzo clapped once.
 
 “Food.”
 
@@ -1668,9 +774,7 @@ Leo bumped Taiga’s shoulder.
 
 “Yeah.”
 
-They started walking.
-
-The banner outside the stadium was still there.
+They started walking. The banner outside the stadium was still there.
 
 **FOUR WEEKS. TAKE IT HOME.**
 
@@ -1686,13 +790,7 @@ Enzo pointed without stopping.
 
 “You people are exhausting.”
 
-They crossed toward Central.
-
-Leo walked beside Taiga.
-
-After a minute he reached over and took the strap of Taiga’s bag.
-
-Taiga looked at him.
+They crossed toward Central. Leo walked beside Taiga. After a minute he reached over and took the strap of Taiga’s bag. Taiga looked at him.
 
 “What?”
 
@@ -1706,11 +804,7 @@ Taiga looked at him.
 
 “I know.”
 
-Leo pulled it off his shoulder anyway and put it over his own.
-
-Taiga let him.
-
-Enzo looked back.
+Leo pulled it off his shoulder anyway and put it over his own. Taiga let him. Enzo looked back.
 
 “You carrying forty-one now?”
 
@@ -1726,31 +820,11 @@ Leo smiled and kept the bag.
 
 ---
 
-The Oyster had three tables pushed together for the team.
+The Oyster had three tables pushed together for the team. Nobody had arranged that. People arrived and started moving chairs until it happened. Taiga ended up between Leo and Aaron.
 
-Nobody had arranged that.
+Enzo sat opposite and stole fries from everyone within reach. Scott protected his tray by moving it six inches farther away. Gav gave up immediately. Conversation moved through the match.
 
-People arrived and started moving chairs until it happened.
-
-Taiga ended up between Leo and Aaron.
-
-Enzo sat opposite and stole fries from everyone within reach.
-
-Scott protected his tray by moving it six inches farther away.
-
-Gav gave up immediately.
-
-Conversation moved through the match.
-
-Not analysis.
-
-Mostly complaints.
-
-Scott said Northbridge’s long throws should be illegal on aesthetic grounds.
-
-Enzo claimed his substitution had been a tactical sacrifice of historic importance.
-
-Aaron insisted Taiga’s shot at sixty-nine was “still rising.”
+Not analysis. Mostly complaints. Scott said Northbridge’s long throws should be illegal on aesthetic grounds. Enzo claimed his substitution had been a tactical sacrifice of historic importance. Aaron insisted Taiga’s shot at sixty-nine was “still rising.”
 
 “It was not.”
 
@@ -1770,13 +844,7 @@ Taiga pointed a fry at him.
 
 “Rest.”
 
-Leo laughed into his drink.
-
-Taiga looked over.
-
-Leo had a bruise starting near his shoulder from the first-half foul.
-
-He noticed Taiga looking and pulled the collar aside slightly.
+Leo laughed into his drink. Taiga looked over. Leo had a bruise starting near his shoulder from the first-half foul. He noticed Taiga looking and pulled the collar aside slightly.
 
 “Pretty.”
 
@@ -1792,35 +860,11 @@ Leo let the shirt fall.
 
 ---
 
-They stayed until after seven.
+They stayed until after seven. Players disappeared in groups. Gav to the library. Scott back toward Residential. Aaron said something about Sofia and immediately regretted saying it in front of Enzo.
 
-Players disappeared in groups.
+Enzo followed him out demanding details. Taiga and Leo left last. Outside, evening had cooled. Leo handed Taiga his bag. Taiga put it over one shoulder. They crossed Central Park.
 
-Gav to the library.
-
-Scott back toward Residential.
-
-Aaron said something about Sofia and immediately regretted saying it in front of Enzo.
-
-Enzo followed him out demanding details.
-
-Taiga and Leo left last.
-
-Outside, evening had cooled.
-
-Leo handed Taiga his bag.
-
-Taiga put it over one shoulder.
-
-They crossed Central Park.
-
-Students were still out.
-
-Someone played guitar badly near the fountain.
-
-Two people were throwing a frisbee in low light and repeatedly losing it in bushes.
-
-Leo checked his Oracle.
+Students were still out. Someone played guitar badly near the fountain. Two people were throwing a frisbee in low light and repeatedly losing it in bushes. Leo checked his Oracle.
 
 “Pinetree tomorrow at two.”
 
@@ -1834,17 +878,7 @@ Leo put the Oracle away.
 
 “You’re impossible.”
 
-Taiga smiled.
-
-They reached the path toward Residential.
-
-Leo’s hand brushed the back of Taiga’s.
-
-Then again.
-
-Taiga caught two of his fingers.
-
-Leo looked down.
+Taiga smiled. They reached the path toward Residential. Leo’s hand brushed the back of Taiga’s. Then again. Taiga caught two of his fingers. Leo looked down.
 
 “Very romantic.”
 
@@ -1854,11 +888,7 @@ Leo looked down.
 
 “Expensive.”
 
-Leo laughed.
-
-They walked another twenty meters like that before Taiga let go to adjust the strap on his bag.
-
-Leo looked toward him.
+Leo laughed. They walked another twenty meters like that before Taiga let go to adjust the strap on his bag. Leo looked toward him.
 
 “So.”
 
@@ -1870,9 +900,7 @@ Leo looked toward him.
 
 “After.”
 
-Taiga waited.
-
-Leo smiled.
+Taiga waited. Leo smiled.
 
 “I have a case to make.”
 
@@ -1896,19 +924,11 @@ Leo smiled.
 
 “I also have *Hamilton*.”
 
-Taiga stared.
-
-Leo’s smile widened.
+Taiga stared. Leo’s smile widened.
 
 “What the fuck is Hamilton?”
 
-Leo stopped walking.
-
-Taiga kept going for three steps before realizing.
-
-He turned.
-
-Leo looked personally wounded.
+Leo stopped walking. Taiga kept going for three steps before realizing. He turned. Leo looked personally wounded.
 
 “Oh, this is going to be a long semester.”
 
@@ -1938,10 +958,6 @@ Taiga looked ahead.
 
 “And now I regret the assist.”
 
-Leo laughed.
-
-The residence halls came into view.
-
-Behind them, the stadium lights finally shut off.
+Leo laughed. The residence halls came into view. Behind them, the stadium lights finally shut off.
 
 ---
