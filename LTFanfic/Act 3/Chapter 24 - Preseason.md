@@ -894,7 +894,7 @@ Taiga looked at Aaron. Aaron looked back. Both looked away. Mercer continued.
 
 “Sleep. Eat. Recover. Be somewhere else for a week.”
 
-Leo glanced at Taiga. Tiny. Enough. Taiga's chest warmed. Mercer dismissed them. The locker room became departure chaos. People changed while discussing flights, trains, family plans. Scott was going home. Gav had a cousin visiting. Enzo had apparently decided that if the group trip was dead, he was “embracing urban vacation” and staying at Olympus for three days before going home. Aaron and Sofia were leaving Saturday morning. Leo changed quickly. Taiga did too. No lingering shower strategy, not today. They had a train.
+Leo glanced at Taiga. Tiny. Enough. Taiga's chest warmed. Mercer dismissed them. The locker room became departure chaos. People changed while discussing flights, trains, family plans. Scott was going home. Gav had a cousin visiting. Enzo had apparently decided that if the group trip was dead, he was “embracing urban vacation” and staying at Olympus for three days before going home. Aaron and Sofia were both leaving Saturday morning. Leo changed quickly. Taiga did too. No lingering shower strategy, not today. They had a train.
 
 ---
 
