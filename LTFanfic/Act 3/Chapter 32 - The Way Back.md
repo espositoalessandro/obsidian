@@ -1,7 +1,7 @@
 Taiga woke with a dry mouth, a dull headache, and the immediate certainty that opening his eyes had been a mistake. He did it anyway. Gray morning light filled Cabin Two, where his bag was mostly packed, his shoes were where he had left them, and a clean sheet covered the mattress. That last part took him back to approximately one in the morning, when he and Leo had discovered that changing bedding while slightly drunk was much harder than either of them had expected.
 
 Taiga stared at the ceiling. Then remembered why they had needed a clean sheet. He closed his eyes again. Across the room, something rustled.
-
+ 
 “Morning, Taiga.”
 
 Taiga opened one eye. Leo was awake in his own bunk. His hair was everywhere and the blanket had fallen to his waist; he looked terrible. Taiga probably looked worse.
