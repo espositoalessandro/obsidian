@@ -1257,9 +1257,365 @@ Do:
 - let her occasionally say something that Leo thinks about for days.
 
 
+
 ---
 
-# 6. Family Members Still To Build
+# 6. Tío — Moma's Brother
+
+## Core identity
+
+**Name:** TBD  
+**Family role:** Moma's brother; Mercedes's son; Leo's maternal uncle  
+**Primary address in prose:** **Tío** until a personal name is chosen / needed
+
+Tío should provide a different comic energy from both Papá and Mercedes.
+
+- Papá is funny largely by accident.
+- Mercedes is funny because she knows exactly what she is doing.
+- Tío is funny because he **turns ordinary life into legend**.
+
+His defining trait is harmless, theatrical boasting.
+
+---
+
+## Core personality
+
+Tío is:
+- expansive;
+- sociable;
+- theatrical;
+- warm;
+- confident;
+- fond of an audience;
+- prone to exaggeration;
+- emotionally generous;
+- very comfortable being mocked;
+- impossible to fact-check into silence.
+
+He likes telling stories.
+
+More specifically, he likes telling stories in which:
+- weather becomes extreme;
+- distances become longer;
+- injuries become nearly fatal;
+- crowds become enormous;
+- animals become dangerous;
+- small acts of competence become heroic.
+
+The exaggeration is part performance, part habit, and part genuine enjoyment of making a story better.
+
+He is **not** trying to deceive people.
+
+Everyone in the family knows what he does.
+
+The fun is in watching the story inflate.
+
+---
+
+## The boasting rule — LOCKED
+
+His boasting must remain **non-toxic**.
+
+Do not make him:
+- macho in a threatening way;
+- obsessed with dominance;
+- competitive with younger men;
+- insecure about Papá;
+- contemptuous of women;
+- someone who needs everyone to believe he is superior.
+
+He is not trying to prove that he is the greatest man alive.
+
+He simply likes the version of reality where everything happened at maximum dramatic scale.
+
+The core model:
+
+> "*I was surrounded by a pack of wolves.*"
+
+Leo:
+
+> "*Tío, it was two dogs. And they were chihuahuas.*"
+
+Tío:
+
+> "*Do you know how ferocious a chihuahua can be?*"
+
+This is the correct tone.
+
+He never really loses the argument because correction becomes new material.
+
+---
+
+## Emotional truth over factual truth
+
+Tío tends to defend exaggeration through the **emotional truth** of the event.
+
+If:
+- it felt dangerous, it was dangerous;
+- it took effort, it was heroic;
+- it rained hard, it was a storm;
+- he carried something heavy, it weighed twice as much in the retelling.
+
+He may know perfectly well that the details have changed.
+
+That does not particularly bother him.
+
+His attitude is roughly:
+
+> The important thing is that you understand what it was like.
+
+This lets him remain lovable rather than dishonest.
+
+---
+
+## Relationship with Moma
+
+Moma is his sister.
+
+Their sibling dynamic should feel extremely old and well-practiced.
+
+Moma is one of his most efficient fact-checkers.
+
+Tío:
+
+> "*I drove through a hurricane to get her there.*"
+
+Moma:
+
+> "*It was raining.*"
+
+Tío:
+
+> "*Violently.*"
+
+Moma:
+
+> "*The windshield wipers were on one.*"
+
+This should feel like a rhythm they have repeated for decades.
+
+Moma:
+- punctures his inflation;
+- remembers the real version;
+- does not take him seriously when he becomes theatrical;
+- can embarrass him with childhood facts.
+
+Tío:
+- is not wounded by this;
+- argues anyway;
+- frequently recruits the room to his side;
+- may claim Moma is "ruining the story."
+
+Their teasing should show affection rather than resentment.
+
+He is highly bullyable by his sister and survives perfectly well.
+
+---
+
+## Relationship with Mercedes
+
+Mercedes knows exactly how much of every story is true.
+
+She may:
+- correct him;
+- make the exaggeration worse;
+- quietly side with Moma;
+- reveal one humiliating factual detail that destroys the entire heroic framing.
+
+Tío remains her son no matter how old he gets, which gives Mercedes another person she can effortlessly cut down to size.
+
+He should still have genuine respect and affection for her.
+
+---
+
+## Relationship with Papá
+
+Tío and Papá should be clearly different male energies.
+
+**Papá**
+- large;
+- gentle;
+- loose;
+- understated;
+- accidentally funny.
+
+**Tío**
+- performative;
+- verbal;
+- animated;
+- audience-seeking;
+- intentionally entertaining.
+
+Tío may occasionally try to recruit Papá as a witness to some legendary event.
+
+Papá may:
+- remember it differently;
+- forget the event entirely;
+- accidentally undermine him without meaning to.
+
+That contrast can create good family comedy without making either man antagonistic.
+
+---
+
+## Relationship with Leo / Julio
+
+Leo has heard every famous Tío story multiple times.
+
+He knows:
+- the original version;
+- the current inflated version;
+- which details were added later;
+- which parts are definitely invented.
+
+Leo therefore serves as a natural fact-checker.
+
+Tío may still deliberately tell a story to Taiga **because Taiga has never heard it before**.
+
+A fresh audience is irresistible.
+
+Typical dynamic:
+
+Tío:
+
+> "*Has Julio ever told you about the time I—*"
+
+Leo, from another room:
+
+> "NO."
+
+Tío ignores him and continues.
+
+Leo may interrupt with corrections.
+
+Tío adapts rather than conceding.
+
+Their relationship should feel affectionate and familiar.
+
+Tío should not resent Leo's corrections.
+
+He enjoys having someone to argue with.
+
+---
+
+## Relationship with Taiga
+
+Taiga is almost perfect audience material for Tío because Taiga:
+- pays attention;
+- notices inconsistencies;
+- asks direct questions;
+- refuses to politely pretend nonsense is true.
+
+Tío should love this.
+
+He does not need Taiga to believe the story.
+
+Resistance makes the performance more interesting.
+
+Taiga may initially take him more literally than the rest of the family does.
+
+Then he realizes:
+
+> Oh. This is just what he does.
+
+After that, Taiga starts challenging the inflation.
+
+Example energy:
+
+Tío:
+
+> "*The fish was this big.*"
+
+Taiga:
+
+> "*No.*"
+
+Tío:
+
+> "*You weren't there.*"
+
+Taiga:
+
+> "*Neither was that fish.*"
+
+The exact line is optional, but the dynamic is useful.
+
+Unlike Leo's sister, Tío **is** performing.
+
+Unlike Yoichi, however, his goal is not to provoke or embarrass someone.
+
+His goal is to make the story bigger and the room more entertaining.
+
+---
+
+## Serious-mode contrast
+
+Because Tío exaggerates so much in ordinary conversation, moments when he becomes plain and factual can carry unusual weight.
+
+If he ever says simply:
+
+> "Julio looks tired."
+
+with no theatrical framing, that should register.
+
+Do not overuse this.
+
+The contrast only works if his normal voice has been well established first.
+
+This can make him useful later in Act V without turning him into a hidden sage.
+
+---
+
+## Place in the family architecture
+
+Tío belongs to the **Mercedes-centered maternal family cluster**.
+
+Working household concept:
+- Mercedes remains the gravitational center;
+- Moma's household is one branch;
+- Tío's household is another nearby branch;
+- exact architecture is still TBD:
+  - upper floor;
+  - neighboring house;
+  - adjacent unit;
+  - shared courtyard / property.
+
+The social effect should be:
+
+> Technically separate households.  
+> Practically one family ecosystem.
+
+Tío can appear frequently without needing a formal invitation.
+
+His partner and child / children will be designed separately.
+
+---
+
+## Guardrails
+
+Do not:
+- make Tío a toxic macho stereotype;
+- make him genuinely dishonest for personal gain;
+- make him cruel when challenged;
+- make him unable to take a joke;
+- make every story literally impossible;
+- make every line a boast;
+- turn him into Yoichi with an accent;
+- make his theatricality cover secret hostility unless the plot later earns something specific.
+
+Do:
+- let him have ordinary competence and responsibilities;
+- let some stories begin from things he really did well;
+- let the inflation grow naturally;
+- let Moma fact-check him;
+- let Leo know the real versions;
+- let Taiga learn to push back;
+- let him enjoy being laughed at as long as everyone is laughing together;
+- preserve the possibility that, occasionally, the unbelievable version is actually the true one.
+
+
+---
+
+# 7. Family Members Still To Build
 
 Current established roles / references that need full entries later:
 - Moma
