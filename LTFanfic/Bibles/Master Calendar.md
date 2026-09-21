@@ -86,9 +86,9 @@ Spring is deliberately more technical and more crowded on Tuesday / Thursday.
 | Day | Academic schedule | Stable continuity notes |
 | --- | --- | --- |
 | **Monday** | 10:00–10:50 Data Structures lecture; 11:00–11:50 General Chemistry II lecture | Afternoon remains available for project meetings, study and football. |
-| **Tuesday** | 09:00–10:15 Data Structures lab; 10:35–11:50 Discrete Structures; lunch; 13:00–14:15 Calculus II | This is the deliberately **hostile** day from Taiga's registration planner. Full football training can begin later in the afternoon. |
+| **Tuesday** | 09:00–10:15 Data Structures lab; 10:35–11:50 Discrete Structures; lunch; 13:00–14:15 Calculus II | This is the deliberately **hostile** day from Taiga's registration planner. The 20-minute lab → Discrete gap is a recurring Taiga/Leo coffee window. Full football training can begin later in the afternoon. |
 | **Wednesday** | 10:00–10:50 Data Structures lecture; 11:00–11:50 General Chemistry II lecture | Comparatively light academic day; recovery / strength can fit later. |
-| **Thursday** | 09:00–10:15 Data Structures lab; 10:35–11:50 Discrete Structures; lunch; 13:00–14:15 Calculus II; 14:30–17:30 General Chemistry II lab | Chemistry lab is the long Thursday-afternoon block. Full team work must be scheduled after it or deliberately adjusted. |
+| **Thursday** | 09:00–10:15 Data Structures lab; 10:35–11:50 Discrete Structures; lunch; 13:00–14:15 Calculus II; 14:30–17:30 General Chemistry II lab | The same 20-minute lab → Discrete gap preserves the recurring coffee routine. Chemistry lab is the long Thursday-afternoon block. Full team work must be scheduled after it or deliberately adjusted. |
 | **Friday** | 10:00–10:50 Data Structures lecture; 11:00–11:50 General Chemistry II lecture / project briefing when required | **Friday morning only** academically. Afternoon is available for strength, film, travel preparation or football. |
 | **Saturday–Sunday** | No regular classes | Fixtures / recovery vary. |
 
@@ -108,6 +108,8 @@ Midweek matches may require an approved athlete absence or adjusted class attend
 Data Structures has two distinct recurring formats:
 - **lecture** with the course professor: Monday / Wednesday / Friday at **10:00**;
 - **lab** with Owen: Tuesday / Thursday at **09:00**.
+
+The Tuesday / Thursday lab ends at **10:15**. Taiga's next class, Discrete Structures, begins at **10:35**, leaving the recurring **20-minute coffee window** used repeatedly by Taiga and Leo. Chapter 22 also establishes that Leo has **39 minutes** before his own next class, reinforcing that their schedules overlap for coffee without being identical.
 
 This distinction resolves apparent time drift in the current manuscript. Owen is the TA / lab instructor, not the lecture professor.
 
