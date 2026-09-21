@@ -320,7 +320,7 @@ They finished before ten thirty. Yoshinori would be unbearable about that. Taiga
 
 Taiga looked at the clock.
 
-“Still an hour before we leave.”
+“Still an hour and a half before we leave.”
 
 “Want to take a walk?”
 
@@ -532,7 +532,7 @@ Yuri zipped the food bag.
 
 “Of course you do, Dad.”
 
-Goro frowned. Taiga took the bag before the argument could become permanent. At eleven twenty-five, both duffels were outside. Yoshinori looked at the time. Then at Taiga. Taiga pointed at him.
+Goro frowned. Taiga took the bag before the argument could become permanent. At twelve ten, both duffels were outside. Yoshinori looked at the time. Then at Taiga. Taiga pointed at him.
 
 “Keep whatever you're thinking to yourself.”
 
@@ -748,33 +748,11 @@ Yoshinori smiled at the road.
 
 They laughed, and went back to watch the trees slowly disappear.
 
----
+Fifteen minutes later, the gas station appeared around the bend. Same closed bait shop. Same ancient wooden bench. This time Taiga hated the sight of it a little.
 
-The station was busier than Taiga expected. Sunday. End of Spring Break. Everybody had bags. Parents. Students. Coffee. Someone's child was crying near the ticket machines. Yoshinori helped them pull the duffels from the trunk. Taiga shouldered his. Leo took the food bag. Yoshinori checked the platform board.
+Yoshinori pulled in beside the bus stop and helped them get the duffels out. Their bus was due in ten minutes.
 
-“Track four. You have forty minutes.”
-
-Taiga stared at him.
-
-“You got us here too early.”
-
-“I did.”
-
-“Forty minutes.”
-
-“Plenty of time.”
-
-Leo stepped between them.
-
-“I appreciate you.”
-
-Taiga looked at him.
-
-“Of course you do.”
-
-Yoshinori laughed. They walked as far as the barrier. Yoshinori stopped.
-
-“This is me.”
+“This is me,” he said.
 
 Leo adjusted the food bag.
 
@@ -804,7 +782,7 @@ Yoshinori opened his arms. Taiga stared.
 
 “Completely serious.”
 
-There were people everywhere. Taiga did it anyway. Yoshinori hugged him tight and squeezed once before letting go.
+Taiga did it anyway. Yoshinori hugged him tight and squeezed once before letting go.
 
 “I'm glad you came back.”
 
@@ -818,7 +796,11 @@ Yoshinori let him go. Then hugged Leo too. Leo looked less surprised than he had
 
 “I will.”
 
-Yoshinori waved once and headed back toward the exit. Leo watched him go. Then looked at Taiga.
+The bus appeared around the bend. Yoshinori lifted one hand as they loaded their bags underneath. Leo waved back before climbing aboard. Taiga followed.
+
+They found two seats together. The bus pulled away, and Yoshinori disappeared behind the trees.
+
+Leo looked at Taiga.
 
 “You have a lot of dads.”
 
@@ -830,23 +812,35 @@ Taiga nearly choked.
 
 “You cannot say that sentence and walk away.”
 
-Leo was already walking toward Track Four. Taiga followed.
-
-“Leo, come back here.”
-
-“You heard him. We have forty minutes.”
-
-“That does not answer me.”
-
-“Maybe on the train.”
+“Good thing I'm trapped on a bus.”
 
 “You're an asshole.”
 
-Leo smiled over his shoulder. Taiga kept following.
+Leo smiled and leaned back. Taiga looked out the window. An hour later, the trees had thinned and the rail station came into view.
 
 ---
 
+<<<<<<< HEAD
 They bought coffee. Bad station coffee. Taiga drank it anyway. Leo stole one of Yuri's cookies before they boarded. Then another. By the time the train arrived, the food bag had already become lighter. Their seats were together. Window for Taiga. Leo threw his jacket into the overhead rack. Taiga put the duffels up. They sat. The train pulled out on time. For the first twenty minutes, neither said much. Leo ate half a sandwich despite claiming he wasn't hungry. Taiga checked messages. 
+=======
+The station was busier than Taiga expected. Sunday. End of Spring Break. Everybody had bags. Parents. Students. Coffee. Someone's child was crying near the ticket machines. They hauled the duffels inside and checked the platform board.
+
+“Track four,” Leo said. “Forty minutes.”
+
+Taiga looked at the clock.
+
+“Perfect.”
+
+“You were complaining when Yoshi got us anywhere early.”
+
+“He isn't here to hear me.”
+
+“Coward.”
+
+“Shut up.”
+
+They bought coffee. Bad station coffee. Taiga drank it anyway. Leo stole one of Yuri's cookies before they boarded. Then another. By the time the train arrived, the food bag had already become lighter. Their seats were together. Window for Taiga. Leo threw his jacket into the overhead rack. Taiga put the duffels up. They sat. The train pulled out on time. For the first twenty minutes, neither said much. Leo ate half a sandwich despite claiming he wasn't hungry. Taiga checked messages. Caleb:
+>>>>>>> origin/main
 
 **Caleb:** ETA?
 

@@ -13,15 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Act 3/Chapter 32 - The Way Back.md",
+                "file": "Act 3/Chapter 30 - What It Meant.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 32 - The Way Back"
+              "title": "Chapter 30 - What It Meant"
+            }
+          },
+          {
+            "id": "e4e33ce8adac3689",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "LTFanfic/Act 3/Chapter 31 - Closer.md",
+                "bFile": "LTFanfic/Act 3/Chapter 31 - Closer.md",
+                "aRef": "HEAD",
+                "bRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: Chapter 31 - Closer  (Index)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -199,11 +215,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "efd04452a0487aab",
+  "active": "e4e33ce8adac3689",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Act 3/Chapter 30 - What It Meant.md",
     "Act 3/Chapter 31 - Closer.md",
     "Act 3/Chapter 32 - The Way Back.md",
-    "Act 3/Chapter 30 - What It Meant.md",
     "Act 1/Chapter 4 - Margins.md",
     "Act 1/Chapter 5 - First Start.md",
     "Act 1/Chapter 3 - Noise.md",
@@ -227,7 +244,6 @@
     "Act 2/Chapter 15 - Five Minutes.md",
     "Act 2/Chapter 14 - Backstage.md",
     "Act 1/Chapter 2 - Provisional.md",
-    "Act 3.md",
     "Bibles/ScoutmasterSeasonScript_utf8.csv",
     "Bibles/ScoutmasterSeasonScript.csv",
     "CampBuddyScript.csv",
