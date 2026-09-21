@@ -234,10 +234,10 @@ Taiga looked at her. Nora smiled.
 
 They walked toward the Academic building together. Nora peeled away at the second-floor landing with a distracted wave and half her attention already back on her book.
 
-Taiga continued to Discrete Structures. The board had already been filled when he arrived. No championship. No special treatment. Just:
+Taiga continued to Data Structures. The board had already been filled when he arrived. No championship. No special treatment. Just:
 
-**REVIEW SET — FRIDAY**
-**FINAL EXAM — NEXT THURSDAY**
+**PROJECT SUBMISSION — TUESDAY, 23:59**
+**FINAL EXAM — WEDNESDAY**
 
 Twenty minutes in, Taiga's phone buzzed once in his pocket. He ignored it.
 
@@ -247,7 +247,7 @@ At the end of class, the hallway was crowded. Leo was waiting near the stairs wi
 
 “I've been saying this for months.”
 
-Nora came out behind him. Her eyes moved from Taiga's coffee to Leo. Then to Taiga. Leo said:
+Nora came down the opposite corridor at the same time. Her eyes moved from Taiga's coffee to Leo. Then to Taiga. Leo said:
 
 “Hey.”
 
@@ -354,11 +354,11 @@ Taiga put the paper into his bag. Leo bumped his shoulder. Taiga caught his hand
 
 ---
 
-The week after the final turned into work. Not dramatically. Just completely. Soccer disappeared from the schedule faster than Taiga expected. One day there had been training every afternoon.
+The next two days turned into work. Not dramatically. Just completely. Soccer disappeared from the schedule faster than Taiga expected. One day there had been training every afternoon.
 
 Then there wasn't. The empty space immediately filled itself with Discrete Structures proofs, the Data Structures project, a Chemistry II lab write-up, review sessions, laundry, packing lists, forms and end-of-term housing checkout. A message from financial aid looked terrifying and turned out to require one checkbox.
 
-Taiga spent Wednesday evening in the library with Caleb. Leo sat opposite them. Maya was on a video call propped against Caleb's laptop. Four people. Three universities. One table covered in paper.
+Taiga spent Tuesday evening in the library with Caleb. Leo sat opposite them. Maya was on a video call propped against Caleb's laptop. Four people. Three universities. One table covered in paper.
 
 Leo had been pretending to study for twelve minutes. Taiga could tell because his screen had not changed.
 
@@ -408,7 +408,7 @@ No discussion. Leo returned to pretending to read. Twenty minutes later he actua
 
 ---
 
-Thursday night, Leo fell asleep in Taiga's bed while Taiga was still debugging. Not unusual anymore. That was apparently how fast unusual things could become normal. Taiga sat at the desk.
+Later Tuesday night, Leo fell asleep in Taiga's bed while Taiga was still debugging. Not unusual anymore. That was apparently how fast unusual things could become normal. Taiga sat at the desk.
 
 Laptop open. Test output. One failing case. Leo behind him under the blanket, face buried into Taiga's pillow. Caleb was at his own desk with headphones on. At eleven-forty, Taiga fixed the bug.
 
@@ -466,7 +466,7 @@ Taiga shoved him toward the wall. Leo muttered something incomprehensible. Taiga
 
 ---
 
-The championship photograph went up in the Sports Zone on Friday, printed, framed and much too large. Enzo found Taiga standing in front of it after strength work.
+The championship photograph went up in the Sports Zone on Wednesday afternoon, printed, framed and much too large. Enzo found Taiga standing in front of it when Taiga stopped by to return training gear.
 
 “You're admiring yourself.”
 
@@ -506,7 +506,7 @@ There it was. Good. Enzo walked away. Taiga looked at the photo one more time. T
 
 Finals arrived. Olympus became quieter and worse. The main dining hall stayed open later. Starbuffs stopped pretending caffeine was optional. The library filled before eight in the morning.
 
-People carried books everywhere. Nobody looked happy. Taiga's Data Structures final was Tuesday. Three hours. No phone. No notes. By the end, his hand hurt more than his brain.
+People carried books everywhere. Nobody looked happy. Taiga's Data Structures final was Wednesday. Three hours. No phone. No notes. By the end, his hand hurt more than his brain.
 
 Leo was two rows ahead. When time was called, Leo dropped his pen and leaned backward dramatically. The professor stared at him. Leo sat normally. Outside, Taiga caught up.
 
@@ -548,7 +548,7 @@ They walked toward Starbuffs.
 
 ---
 
-Discrete Structures came two days later. Proofs. Recurrence relations. Induction. Exactly the kind of exam where seeing the answer and showing why it was the answer were two different jobs.
+Discrete Structures came the next morning. Proofs. Recurrence relations. Induction. Exactly the kind of exam where seeing the answer and showing why it was the answer were two different jobs.
 
 Taiga spent another fourteen minutes on the last proof. Not because he did not know where it ended. Because an old comment from Professor Hall came back from fall semester:
 
@@ -658,7 +658,7 @@ Taiga took the shirt from him. Folded it. Put it into the suitcase. Leo watched.
 
 “When are you leaving?”
 
-“Saturday morning.”
+“Friday morning.”
 
 “Home?”
 
@@ -682,9 +682,15 @@ Taiga stopped folding. Caleb continued packing on the other side of the room. Bl
 
 “What?”
 
-“My place. This summer.”
+“For my birthday.”
 
-Taiga stared. Leo elaborated because Leo always elaborated.
+Taiga stared.
+
+“Your birthday?”
+
+“May twenty-fourth. My place. Come stay with me.”
+
+Taiga kept staring. Leo elaborated because Leo always elaborated.
 
 “Not the entire summer. Unless you want, I guess, but I'm not trying to kidnap you. Go home first. See everyone. Sleep in your own bed. Whatever you do when you're home. Then come stay with me for a while.”
 
@@ -802,7 +808,7 @@ He listened anyway.
 
 ---
 
-Campus emptied in layers. Nora left Friday afternoon. She found Taiga outside Academic with one suitcase and a backpack. Her ride was waiting near the entrance gate.
+Campus emptied in layers. Nora left Thursday afternoon. She found Taiga outside Academic with one suitcase and a backpack. Her ride was waiting near the entrance gate.
 
 “Summer,” she said.
 
@@ -832,7 +838,7 @@ Taiga smiled. Nora hugged him. Brief. Then stepped back.
 
 “Yeah.”
 
-She walked away. Taiga watched her load the suitcase. Then continued toward Residential. Aaron left that evening. Gav the next morning. Scott disappeared without ceremony and sent a message to the team chat three hours later.
+She walked away. Taiga watched her load the suitcase. Then continued toward Residential. Aaron left that evening. Gav left early Friday. Scott disappeared without ceremony and sent a message to the team chat three hours later.
 
 **Scott:** Home.
 
@@ -852,7 +858,7 @@ Taiga muted the chat. Five minutes later Leo sent him a screenshot of the exchan
 
 ---
 
-Saturday morning came too quickly. Room 317 looked wrong. Caleb's side empty. Taiga's side nearly empty. Mattresses visible. Desks cleared. Nothing plugged into the wall. The mini-fridge door open.
+Friday morning came too quickly. Room 317 looked wrong. Caleb's side empty. Taiga's side nearly empty. Mattresses visible. Desks cleared. Nothing plugged into the wall. The mini-fridge door open.
 
 Taiga had arrived months ago with one suitcase, one duffel and no idea where anything belonged. Now fitting everything back into luggage felt impossible. Caleb stood near the door with two bags.
 
@@ -1052,4 +1058,4 @@ Three dots appeared immediately.
 
 **Leo:** better
 
-Taiga put the phone in his lap. The bus headed north. For once, there was nothing to fix before they saw each other again. Just thirteen days.
+Taiga put the phone in his lap. The bus headed north. For once, there was nothing to fix before they saw each other again. Just two weeks.
