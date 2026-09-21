@@ -41,7 +41,7 @@ Then at Leo and Yoichi:
 
 Yoichi nodded.
 
-“Finally. A job without Sunshine yelling about offside.”
+“Finally. A job without Sunball yelling about offside.”
 
 Leo looked at him.
 
@@ -322,7 +322,7 @@ Taiga looked at him.
 
 Kieran walked toward Cabin Three. Taiga watched him go. Yoichi stepped closer.
 
-“Sunshine's feeling like shit.”
+“Sunball's feeling like shit.”
 
 Taiga looked at him.
 
