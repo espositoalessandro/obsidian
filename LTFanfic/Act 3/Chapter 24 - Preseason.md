@@ -917,7 +917,7 @@ He put on his jacket. Red puffer. Work boots tied to the outside of the duffel b
 
 ---
 
-He met Leo at Olympus Station, just beyond the campus gate. He was already there, of course. Yellow scarf. Dark jacket. Backpack. Medium duffel. Actual hiking boots on his feet. Taiga walked up.
+He met Leo outside the Residential Zone. Leo was already waiting beside the path toward Central, of course. Yellow scarf. Dark jacket. Backpack. Medium duffel. Actual hiking boots on his feet. Taiga walked up.
 
 “You wore them.”
 
@@ -949,7 +949,7 @@ Leo unzipped the front pocket of his backpack and held them up. Taiga stared.
 
 “Leo.”
 
-Leo laughed and put them back. Taiga looked at the board. Their train was on time. Platform seven. Nineteen minutes. They moved toward the stairs. Leo took Taiga's smaller bag before Taiga could stop him. Taiga looked over.
+Leo laughed and put them back. They walked toward Olympus Station together, crossing campus with the rest of the Spring Break departure traffic. At the station, Taiga looked at the board. Their train was on time. Platform seven. Nineteen minutes. They moved toward the stairs. Leo took Taiga's smaller bag before Taiga could stop him. Taiga looked over.
 
 “What are you doing?”
 
