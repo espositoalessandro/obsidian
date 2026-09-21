@@ -239,7 +239,7 @@ Taiga continued to Discrete Structures. The board had already been filled when h
 **REVIEW SET — FRIDAY**
 **FINAL EXAM — NEXT THURSDAY**
 
-Twenty minutes in, Taiga's Oracle buzzed once in his pocket. He ignored it.
+Twenty minutes in, Taiga's phone buzzed once in his pocket. He ignored it.
 
 At the end of class, the hallway was crowded. Leo was waiting near the stairs with coffee. One for himself. One in his other hand. Taiga took it.
 
@@ -506,7 +506,7 @@ There it was. Good. Enzo walked away. Taiga looked at the photo one more time. T
 
 Finals arrived. Olympus became quieter and worse. The main dining hall stayed open later. Starbuffs stopped pretending caffeine was optional. The library filled before eight in the morning.
 
-People carried books everywhere. Nobody looked happy. Taiga's Data Structures final was Tuesday. Three hours. No Oracle. No notes. By the end, his hand hurt more than his brain.
+People carried books everywhere. Nobody looked happy. Taiga's Data Structures final was Tuesday. Three hours. No phone. No notes. By the end, his hand hurt more than his brain.
 
 Leo was two rows ahead. When time was called, Leo dropped his pen and leaned backward dramatically. The professor stared at him. Leo sat normally. Outside, Taiga caught up.
 
@@ -584,7 +584,7 @@ Taiga noticed the empty spot. Caleb noticed him noticing.
 
 “I have eyes.”
 
-Caleb returned to wrapping a mug. The blue one. Of course. Taiga folded another shirt. His Oracle buzzed. Leo.
+Caleb returned to wrapping a mug. The blue one. Of course. Taiga folded another shirt. His phone buzzed. Leo.
 
 **Leo:** room?
 
@@ -874,7 +874,7 @@ Caleb nodded. Taiga looked at him.
 
 “You have a checklist, don't you?”
 
-Caleb pulled out his Oracle.
+Caleb pulled out his phone.
 
 “Of course.”
 
@@ -934,7 +934,15 @@ Taiga frowned.
 
 “Of course you did.”
 
-Caleb left. Taiga stood in the empty room. Then looked around once. Bed. Desk. Window. Room 317. He picked up his bags. Closed the door.
+Caleb left. Taiga stood in the empty room. Then looked around once. Bed. Desk. Window. Room 317.
+
+The corkboard was the last thing left.
+
+Camp Buddy photo. Hunter's exhibition card. Apollo fixture list. First-team credential.
+
+Taiga unpinned them one by one and slid them carefully between the pages of a notebook so they would not bend. When he looked up again, the board was bare.
+
+He picked up his bags. Closed the door.
 
 ---
 
@@ -1032,7 +1040,7 @@ Leo nodded.
 
 Taiga got on. Found a seat by the window. Leo was still outside. He lifted one hand. Taiga lifted his. The bus pulled away from the curb. Olympus moved past the glass.
 
-Entrance gate. Stone buildings. Sports Zone farther back. Stadium lights. Then Leo disappeared behind the turn. Taiga's Oracle buzzed. He looked down.
+Entrance gate. Stone buildings. Sports Zone farther back. Stadium lights. Then Leo disappeared behind the turn. Taiga's phone buzzed. He looked down.
 
 **Leo:** fourteen days is stupid
 
@@ -1044,4 +1052,4 @@ Three dots appeared immediately.
 
 **Leo:** better
 
-Taiga put the Oracle in his lap. The bus headed north. For once, there was nothing to fix before they saw each other again. Just thirteen days.
+Taiga put the phone in his lap. The bus headed north. For once, there was nothing to fix before they saw each other again. Just thirteen days.
