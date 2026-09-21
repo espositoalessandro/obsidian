@@ -32,10 +32,6 @@ Yuri looked offended.
 
 “I was eating.”
 
-“You were observing.”
-
-“Those are not mutually exclusive.”
-
 Taiga took a bite. Leo leaned toward him.
 
 “She's going to explode.”
@@ -138,7 +134,7 @@ Leo put both hands on his hips.
 
 “I knew I liked you.”
 
-Taiga looked at him. Leo looked back. There was half a second where the sentence could have become something else. Then Yoshinori laughed.
+Yoshinori laughed.
 
 “I am glad.”
 
@@ -150,7 +146,7 @@ Yoshinori pointed toward the lodge.
 
 “Storage room.”
 
-Taiga carried it away. His face felt warm for almost no reason. By noon, preseason was officially done. At least as far as volunteers were concerned. Yoshinori made that very clear after Yoichi asked whether the lower fence needed another pass.
+Taiga carried it away. By noon, preseason was officially done. At least as far as volunteers were concerned. Yoshinori made that very clear after Yoichi asked whether the lower fence needed another pass.
 
 “No more fence today.”
 
