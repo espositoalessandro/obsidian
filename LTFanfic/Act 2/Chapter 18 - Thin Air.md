@@ -390,9 +390,9 @@ Monday came with rain instead of snow.
 
 By noon, the Pinetree trip had become ordinary enough that people had stopped discussing it every five minutes.
 
-Taiga had Political Institutions in the morning, Data Structures before lunch, then a gap long enough to eat somewhere that didn’t involve running.
+Taiga had Data Structures at ten, General Chemistry II after it, then a gap long enough to eat somewhere that didn’t involve running.
 
-Leo was waiting outside the lab when Taiga came out.
+Leo was waiting outside the Chemistry building when Taiga came out.
 
 “Coffee?”
 
