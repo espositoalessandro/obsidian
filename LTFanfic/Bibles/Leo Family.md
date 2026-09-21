@@ -14,12 +14,12 @@ The family must feel like a real affectionate social ecosystem, not a collection
 
 **Name:** Mercedes  
 **Family role:** Leo's grandmother  
-**Maternal vs. paternal side:** **TBD**  
+**Maternal vs. paternal side:** **Maternal grandmother — LOCKED**  
 **Primary address in prose:** initially **Doña Mercedes** from Taiga; eventually **Abuela**
 
 Mercedes should exist as a full person, not merely as "the grandmother."
 
-Her exact age, former occupation, spouse history and side of the family remain open until the wider family structure is designed.
+Her exact age, former occupation and spouse history remain open until the wider family structure is designed. She is **Moma's mother**, and some of Moma's force of personality should feel recognizably inherited from Mercedes without making them copies of each other.
 
 ---
 
@@ -323,9 +323,468 @@ Do:
 - let her warmth coexist with irreverence;
 - allow her to become one of Taiga's easiest connections naturally.
 
+
 ---
 
-# 2. Family Members Still To Build
+# 2. Moma — Leo's Mother
+
+## Core identity
+
+**Name:** TBD  
+**Family role:** Leo's mother; Mercedes's daughter  
+**Primary address in prose:** **Moma** until a personal name is chosen / needed
+
+Her exact age, occupation and personal history remain open.
+
+The main structural decision is locked:
+
+> **Moma inherits Mercedes's strength of character, but expresses it differently.**
+
+She should feel recognizably like Mercedes's daughter without becoming Mercedes twenty-five years younger.
+
+---
+
+## Physical presence
+
+Moma is comparatively small in stature.
+
+That should contrast sharply with Papá.
+
+She does not need physical size to dominate a room.
+
+Her presence comes from:
+- certainty;
+- speed;
+- attention;
+- decisiveness;
+- the ability to make everybody realize she has already noticed what they were trying not to mention.
+
+If Papá looks intimidating and is not, Moma should almost work in reverse:
+
+> She looks less physically imposing than the people around her and is still very obviously the person nobody ignores.
+
+This contrast can be funny without turning her into a caricature.
+
+---
+
+## Personality
+
+Moma is:
+- strong-willed;
+- affectionate;
+- practical;
+- observant;
+- direct;
+- highly involved;
+- fast to act;
+- difficult to bullshit;
+- comfortable asking personal questions;
+- protective without being fragile about Leo.
+
+She should have more overt social authority than Papá.
+
+Where Mercedes often uses humor and indirection, Moma is more likely to simply say the thing.
+
+She can be pushy.
+
+She can absolutely overwhelm Taiga at first.
+
+But her pushiness should come from:
+- care;
+- curiosity;
+- habit;
+- confidence that family participates in one another's lives.
+
+Do not make her controlling by default.
+
+Her flaw is not cruelty.
+
+It is that she can assume involvement is welcome before checking.
+
+That makes her a useful part of Leo's Act V environment.
+
+---
+
+## Relationship with Mercedes
+
+Mercedes is her mother.
+
+Their similarities should be visible:
+- strong presence;
+- confidence;
+- emotional fearlessness;
+- ability to read a room;
+- refusal to be easily embarrassed.
+
+Their difference matters.
+
+Mercedes has reached an age where she can let things go more easily.
+
+Moma is still in the middle of managing:
+- household life;
+- children;
+- family logistics;
+- ordinary responsibilities.
+
+So Moma may be more likely than Mercedes to:
+- ask where Leo is;
+- add a request;
+- remind him of something;
+- assume he can help;
+- fold him into family plans.
+
+This helps the Act V conflict without making her an antagonist.
+
+---
+
+## Relationship with Leo / Julio
+
+Moma loves Leo intensely and is used to him being easy to involve.
+
+She knows him as:
+- energetic;
+- social;
+- helpful;
+- competent;
+- available;
+- usually willing.
+
+Because Leo so often says yes, she has little reason to assume that yes is costing him anything.
+
+This becomes important later.
+
+Her Act V growth should include discovering:
+
+> Julio being tired or unavailable is not a rejection of her.
+
+And also:
+
+> Sometimes she has been asking because he always says yes, not because she truly needs him specifically.
+
+She should be capable of adapting once Leo becomes more honest.
+
+That matters.
+
+Do not make her someone who punishes boundaries once they become explicit.
+
+She may initially be surprised, annoyed or curious.
+
+But she loves him more than she loves his usefulness.
+
+---
+
+## Relationship with Taiga
+
+Moma should be one of the people most immediately interested in Taiga.
+
+Not suspicious in a hostile way.
+
+Interested.
+
+She wants to know:
+- how he met Leo;
+- what he studies;
+- what his family is like;
+- whether he ate;
+- whether he slept;
+- whether he needs anything;
+- whether he likes the food;
+- whether he understands what everyone is saying;
+- whether he is too thin.
+
+Taiga's Spanish preparation makes a very strong impression on her.
+
+He does not need to impress her by being charming.
+
+He impresses her by:
+- preparing;
+- trying;
+- answering directly;
+- being serious about Leo;
+- refusing to let Leo do everything for him.
+
+Moma may initially mistake Taiga's reserve for shyness.
+
+She should correct that opinion quickly.
+
+---
+
+## Guardrails
+
+Do not:
+- reduce her to "tiny scary Latina mom";
+- make every scene about her commanding people;
+- make her emotionally invulnerable;
+- make her always right;
+- make her the villain of Leo's boundary problem;
+- make her identical to Mercedes.
+
+Do:
+- give her humor;
+- let her be wrong;
+- let her care in practical ways;
+- let her have interests and obligations unrelated to her children;
+- make her love of Leo obvious;
+- make her capable of changing once Leo communicates more honestly.
+
+---
+
+# 3. Papá — Leo's Father
+
+## Core identity
+
+**Name:** TBD  
+**Family role:** Leo's father  
+**Primary address in prose:** **Papá** until a personal name is chosen / needed
+
+Papá is built around a deliberate visual/personality contradiction.
+
+The useful archetype is essentially a **gentle giant** — the user's "good ogre."
+
+He should look like somebody Taiga initially assumes will be difficult to approach.
+
+He is almost comically easy to approach.
+
+---
+
+## Physical presence
+
+Papá is:
+- large;
+- broad;
+- physically imposing;
+- rough-faced;
+- capable of looking menacing while doing absolutely nothing threatening.
+
+He can have:
+- heavy features;
+- big hands;
+- a deep voice;
+- the kind of resting expression that makes strangers reconsider asking a question.
+
+Then he opens his mouth and the entire impression collapses.
+
+He would not hurt a fly.
+
+The contrast should be immediate and lovable.
+
+---
+
+## Personality
+
+Papá is:
+- gentle;
+- warm;
+- extremely approachable;
+- patient;
+- naive in an endearing way;
+- trusting;
+- easy to talk to;
+- easily distracted;
+- absent-minded;
+- bad at keeping track of objects;
+- prone to wandering away mid-task because something else caught his attention.
+
+He regularly:
+- loses his keys;
+- forgets where he put his phone;
+- walks into a room and forgets why;
+- starts one task and accidentally finishes another;
+- asks whether anyone has seen an object he is currently holding.
+
+This should feel like personality, not cognitive impairment.
+
+His distractibility is part of the family comedy.
+
+---
+
+## "Runs in the family"
+
+Papá's absent-mindedness creates a natural point of comparison with Leo's own:
+- overscheduling;
+- losing track of details;
+- messy practical organization.
+
+Taiga should eventually be able to look from Papá to Leo and make some version of:
+
+> "Runs in the family."
+
+Leo should object.
+
+Papá may completely agree.
+
+This can become a recurring family joke.
+
+Important:
+- Leo and Papá should not be identical;
+- Papá's issue is distractibility / losing objects;
+- Leo's issue is more often social overcommitment / too many active threads.
+
+The resemblance should be amusing rather than diagnostic.
+
+---
+
+## Relationship with Moma
+
+Their contrast should be obvious but affectionate.
+
+Physically:
+- Papá is bigger.
+- Moma has the stronger presence.
+
+Socially:
+- Papá can look like the intimidating one.
+- Moma is the one who can silence him with a look.
+
+This can be stereotypical **if written only as "tiny wife controls giant husband."**
+
+Avoid that.
+
+Instead, make the relationship balanced in different dimensions.
+
+Papá may be:
+- calmer;
+- more patient;
+- harder to genuinely upset;
+- good at defusing Moma when she gets too wound up;
+- emotionally uncomplicated in ways she appreciates.
+
+Moma may be:
+- better at logistics;
+- more attentive;
+- more decisive;
+- the person who remembers where everyone needs to be.
+
+He is not her incompetent extra child.
+
+She is not his warden.
+
+They should visibly like each other.
+
+---
+
+## Relationship with Leo / Julio
+
+Papá should be one of the easiest people for Leo to relax around.
+
+His affection is practical and uncomplicated.
+
+Existing continuity already supports:
+- Papá expressing care through things like making breakfast.
+
+He does not need elaborate emotional language to make Leo feel loved.
+
+He may simply:
+- cook;
+- drive someone somewhere;
+- bring food;
+- sit nearby;
+- ask one straightforward question;
+- accept the answer.
+
+This gives Leo's family texture.
+
+Not every relationship in the house should generate pressure in the same way.
+
+Papá can still accidentally contribute to Leo's overload by asking for help because he lost something or forgot something.
+
+The key is that he does not emotionally punish Leo for saying no.
+
+---
+
+## Relationship with Taiga
+
+Papá's appearance should initially give Taiga the wrong expectation.
+
+Then Papá becomes one of the easiest people in the house to talk to.
+
+This works especially well for Taiga because Papá:
+- does not interrogate aggressively;
+- is comfortable with pauses;
+- does not need a polished social performance;
+- may simply start talking about something concrete.
+
+Taiga can relax around him surprisingly quickly.
+
+Papá may also be very impressed by Taiga's Spanish effort, but in a straightforward way rather than making a big social event out of it.
+
+Possible dynamic:
+- Taiga expects judgment.
+- Papá asks him something simple.
+- Taiga answers imperfectly.
+- Papá understands, nods, continues.
+- Taiga realizes there was no test.
+
+That should matter.
+
+---
+
+## Guardrails
+
+Do not:
+- make Papá stupid;
+- make his naivety childlike;
+- make him incapable of functioning independently;
+- make Moma manage every aspect of his life;
+- make his size a constant joke;
+- make "gentle giant" his only trait.
+
+Do:
+- let him have competence in areas that matter;
+- give him practical skills;
+- let him surprise Taiga with insight occasionally;
+- preserve the contrast between appearance and temperament;
+- make his distractibility genuinely inconvenient sometimes;
+- let his warmth feel effortless.
+
+---
+
+# 4. Parent Contrast — Family Design Rule
+
+Moma and Papá should create an immediately readable contrast:
+
+**Papá**
+- physically large;
+- visually intimidating;
+- emotionally soft;
+- easy to approach;
+- distractible;
+- loose;
+- gentle.
+
+**Moma**
+- physically smaller;
+- socially formidable;
+- focused;
+- direct;
+- attentive;
+- decisive;
+- harder to evade.
+
+The contrast can use familiar archetypes, but both characters must grow beyond the archetype.
+
+Neither parent should exist only to complete the joke.
+
+Together they should help explain different parts of Leo:
+
+From Moma / Mercedes:
+- social confidence;
+- directness;
+- strong presence;
+- involvement.
+
+From Papá:
+- warmth;
+- easy affection;
+- distractibility;
+- a certain chaotic softness.
+
+Leo should feel recognizably related to both.
+
+
+---
+
+# 5. Family Members Still To Build
 
 Current established roles / references that need full entries later:
 - Moma
