@@ -232,12 +232,14 @@ Taiga looked at her. Nora smiled.
 
 “Thanks.”
 
-They walked toward class. Professor Bell had already filled the board when they arrived. No championship. No special treatment. Just:
+They walked toward the Academic building together. Nora peeled away at the second-floor landing with a distracted wave and half her attention already back on her book.
 
-**FINAL PAPER — FRIDAY**
+Taiga continued to Discrete Structures. The board had already been filled when he arrived. No championship. No special treatment. Just:
+
+**REVIEW SET — FRIDAY**
 **FINAL EXAM — NEXT THURSDAY**
 
-Taiga sat down. Nora sat beside him. Bell began talking about legitimacy and institutional memory. Twenty minutes in, Taiga's Oracle buzzed once in his pocket. He ignored it.
+Twenty minutes in, Taiga's Oracle buzzed once in his pocket. He ignored it.
 
 At the end of class, the hallway was crowded. Leo was waiting near the stairs with coffee. One for himself. One in his other hand. Taiga took it.
 
@@ -354,7 +356,7 @@ Taiga put the paper into his bag. Leo bumped his shoulder. Taiga caught his hand
 
 The week after the final turned into work. Not dramatically. Just completely. Soccer disappeared from the schedule faster than Taiga expected. One day there had been training every afternoon.
 
-Then there wasn't. The empty space immediately filled itself with Bell's paper, the Data Structures project, review sessions, laundry, packing lists, forms and end-of-term housing checkout. A message from financial aid looked terrifying and turned out to require one checkbox.
+Then there wasn't. The empty space immediately filled itself with Discrete Structures proofs, the Data Structures project, a Chemistry II lab write-up, review sessions, laundry, packing lists, forms and end-of-term housing checkout. A message from financial aid looked terrifying and turned out to require one checkbox.
 
 Taiga spent Wednesday evening in the library with Caleb. Leo sat opposite them. Maya was on a video call propped against Caleb's laptop. Four people. Three universities. One table covered in paper.
 
@@ -546,45 +548,25 @@ They walked toward Starbuffs.
 
 ---
 
-Bell's exam came two days later. Nora finished before Taiga. Of course. She left without looking back. Taiga spent another fourteen minutes on the last essay. Not because he did not know the answer.
+Discrete Structures came two days later. Proofs. Recurrence relations. Induction. Exactly the kind of exam where seeing the answer and showing why it was the answer were two different jobs.
 
-Because Bell had spent an entire semester telling him to show the bridge. Fine. He showed every fucking bridge. When he finally handed the exam in, Bell looked at the paper.
+Taiga spent another fourteen minutes on the last proof. Not because he did not know where it ended. Because an old comment from Professor Hall came back from fall semester:
 
-Then at Taiga.
+**Keep making the connective steps explicit.**
 
-“Have a good summer, Mr. Akatora.”
+Then, underneath it:
 
-“You too.”
+**There’s the bridge.**
 
-Bell lifted an eyebrow. Taiga stopped at the door.
+Different class. Same problem. Fine. Taiga showed every fucking bridge.
 
-“What?”
+When time was called, he handed the exam in and walked out into the hallway. Done meant something different when there was nothing scheduled behind it.
 
-“Nothing.”
+Taiga stood there for a second.
 
-“Professor.”
+Then smiled.
 
-Bell smiled slightly.
-
-“Your first paper was six pages of conclusions connected by threats.”
-
-Taiga stared.
-
-“That is not what you wrote on it.”
-
-“I used academic language.”
-
-Taiga laughed once. Bell tapped the exam.
-
-“You got better at the middle.”
-
-Taiga looked at him. Then nodded.
-
-“Thanks.”
-
-“Go enjoy being done.”
-
-Taiga did.
+He was done.
 
 ---
 

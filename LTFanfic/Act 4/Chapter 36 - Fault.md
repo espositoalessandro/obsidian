@@ -24,7 +24,7 @@ He closed the Oracle.
 
 “I know enough to recognize the same twelve seconds.”
 
-Taiga put the Oracle beside his laptop. Nora waited. He opened Professor Bell's reading instead. Three pages on institutional legitimacy. Nora looked at the article. Then at him.
+Taiga put the Oracle beside his laptop. Nora waited. He opened his Discrete Structures notes instead. Three pages on recurrence relations. Nora looked at the page. Then at him.
 
 “Did something happen?”
 
