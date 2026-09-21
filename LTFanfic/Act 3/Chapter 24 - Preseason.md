@@ -917,7 +917,7 @@ He put on his jacket. Red puffer. Work boots tied to the outside of the duffel b
 
 ---
 
-He met with Leo at the campus gate. He was already there, of corse. Yellow scarf. Dark jacket. Backpack. Medium duffel. Actual hiking boots on his feet. Taiga walked up.
+He met Leo at Olympus Station, just beyond the campus gate. He was already there, of course. Yellow scarf. Dark jacket. Backpack. Medium duffel. Actual hiking boots on his feet. Taiga walked up.
 
 “You wore them.”
 
