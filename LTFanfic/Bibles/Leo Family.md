@@ -782,6 +782,119 @@ From Papá:
 Leo should feel recognizably related to both.
 
 
+
+---
+
+# 4A. Household / Work Dynamic — LOCKED
+
+Do **not** assume a traditional single-income household.
+
+Both Moma and Papá can plausibly have independent work / careers.
+
+Their exact occupations remain **TBD** and should be chosen later based on:
+- family socioeconomic level;
+- neighborhood;
+- education;
+- practical schedule needs;
+- what gives each parent a life outside the household.
+
+## Domestic contribution
+
+Papá genuinely contributes at home.
+
+He can:
+- cook;
+- clean;
+- do errands;
+- shop;
+- drive;
+- fix things;
+- handle practical tasks;
+- make breakfast;
+- take responsibility for household work without needing to be praised for it.
+
+He is **not** a useless sitcom husband.
+
+His distractibility means the execution can be chaotic:
+- forgetting what he went out to buy;
+- misplacing the shopping list;
+- leaving his phone somewhere;
+- starting one task and getting sidetracked by another.
+
+The joke is:
+
+> Papá is willing and capable, but sometimes spectacularly bad at keeping track of the thread.
+
+## Moma and the mental map
+
+Moma is more likely to carry the household's broader **mental / logistical map**.
+
+She tends to know:
+- what is running out;
+- who has an appointment;
+- who is coming over;
+- what needs paying;
+- what errand still needs doing;
+- what Leo promised somebody;
+- what Mercedes asked about two days earlier;
+- where Papá's missing object probably is.
+
+This does not mean she performs every task herself.
+
+It means she is more likely to maintain awareness of how the pieces fit together.
+
+That asymmetry should be visible but not exaggerated into resentment by default.
+
+## Their balance
+
+Papá contributes labor.
+
+Moma contributes labor **and** tends to be the stronger logistical coordinator.
+
+This is a believable imbalance without making their marriage dysfunctional.
+
+Papá can also bring strengths Moma does not:
+- patience;
+- calm;
+- emotional steadiness;
+- ability to defuse tension;
+- willingness to let a non-urgent problem remain non-urgent.
+
+Moma's greater organizational competence should not mean Papá depends on her for basic adulthood.
+
+Papá's gentleness should not mean he is passive.
+
+They complement each other rather than reproducing:
+
+> competent mother + helpless father
+
+or:
+
+> domineering wife + henpecked husband.
+
+## Connection to Leo
+
+This household dynamic helps explain Leo without making either parent his template.
+
+From Moma, Leo may inherit:
+- awareness of other people's needs;
+- involvement;
+- social responsibility;
+- the instinct to keep multiple people in mind.
+
+From Papá, he may inherit:
+- distractibility;
+- losing track of practical details;
+- easy warmth;
+- an instinctive willingness to help.
+
+Leo combines those traits in his own way:
+
+> He notices people like Moma, says yes like himself, and sometimes keeps track of the resulting commitments like Papá.
+
+That combination is fertile ground for his Act V overcommitment.
+
+
 ---
 
 # 5. Family Members Still To Build
