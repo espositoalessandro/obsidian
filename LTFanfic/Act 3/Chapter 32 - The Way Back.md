@@ -130,7 +130,7 @@ Taiga opened his mouth. Aiden pointed harder.
 
 Taiga gave up. He dropped the bag beside the washer. When he came back, Leo was sitting at the table with his forehead against one hand. Yoichi sat across from him looking offensively functional.
 
-“You look like shit, Sunshine.”
+“You look like shit, Sunball.”
 
 Leo lifted his head.
 
@@ -380,7 +380,7 @@ Leo smiled.
 
 Yoichi looked at him. No joke for a second. Then:
 
-“Yeah. See you around, Sunshine.”
+“Yeah. See you around, Sunball.”
 
 Leo stood. Yoichi looked at Taiga.
 
@@ -674,7 +674,7 @@ Darius said:
 
 Taiga stared at him. Darius's mouth moved slightly. Asshole. Yoichi arrived late because Yuki had apparently found mud. He stopped by Leo. No hug. Obviously. He held out his fist. Leo bumped it.
 
-“Don't get soft on the train, Sunshine.”
+“Don't get soft on the train, Sunball.”
 
 “I'll try to survive.”
 
