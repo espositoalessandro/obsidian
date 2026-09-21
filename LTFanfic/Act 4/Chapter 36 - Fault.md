@@ -138,7 +138,7 @@ Tuesday was away.
 
 Taiga made Data Structures lab at nine and Discrete Structures after it. At eleven-fifty he packed his notebook, ate too quickly and headed for the Sports Zone instead of Calculus II. Athletics had already filed the absence with the department. It still felt wrong to walk away from class on purpose.
 
-The bus left at twelve-thirty. Enzo slept for forty minutes with his mouth open. Gav took a photograph. Scott took a second photograph of Gav taking the photograph.
+The bus left at twelve-thirty. Kickoff was at seven. Enzo slept for forty minutes with his mouth open. Gav took a photograph. Scott took a second photograph of Gav taking the photograph.
 
 Leo spent twenty minutes trying to decide whether that made Scott's picture more valuable.
 
@@ -1417,7 +1417,7 @@ Thursday, Taiga trained with the first-team group. That meant nothing. At least 
 
 Then left again. He made every safe pass available. One-touch when possible. Two when necessary. At one point Aaron overlapped. Taiga stayed. Even after the ball was secure.
 
-Aaron looked back. Taiga waved him on. Gav switched play before anything happened. Mercer said nothing. Leo trained separately for the entire session. Running. Passing. No contact.
+Aaron looked back. Taiga waved him on. Gav switched play before anything happened. Mercer said nothing. Leo trained separately for the first half. Running. Passing. No contact.
 
 Taiga saw him test the ankle on a turn. Leo looked toward the physio. Thumb up. Later he joined the possession work wearing a yellow bib that meant nobody was allowed to hit him.
 
