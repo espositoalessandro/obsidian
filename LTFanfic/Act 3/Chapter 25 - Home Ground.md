@@ -484,17 +484,21 @@ Yuri laughed.
 
 Yoichi called from several steps away:
 
-“Crazy Lady, quit scaring Sunshine before dinner.”
+“Crazy Lady, quit scaring Sunball before dinner.”
 
 Leo turned.
 
-“Sunshine?”
+“Sunball?”
 
 Yoichi kept walking.
 
 “Yeah. That's you now.”
 
-Leo looked delighted. Taiga sighed.
+Leo considered that for a second.
+
+“Almost there.”
+
+Taiga sighed.
 
 “Means he likes you.”
 
@@ -854,7 +858,7 @@ Taiga looked at Leo. Leo was trying very hard not to laugh. Wonderful. Yoichi sn
 
 Somehow the meal continued. Goro asked Leo sensible questions about school and soccer. Yoshinori redirected whenever Yuri became too interested in the social structure of House Apollo. Yoichi contributed insults. Aiden contributed bread. Somehow it worked. Leo did too. That was the thing Taiga noticed first, not that Leo talked. Leo could talk anywhere. He adjusted. With Goro, he answered directly. With Aiden, he played along. With Yuri, he learned to recognize danger about half a sentence before Taiga did. With Yoichi, he learned fast. Yoichi pointed his spoon at Leo.
 
-“So, Sunshine. You actually good at soccer, or do you just run around smiling until people give you the ball?”
+“So, Sunball. You actually good at soccer, or do you just run around smiling until people give you the ball?”
 
 Leo swallowed.
 
@@ -1231,7 +1235,7 @@ Yoshinori continued.
 
 Leo blinked. Taiga saw it. Yoichi grinned.
 
-“Scared, Sunshine?”
+“Scared, Sunball?”
 
 “Interested.”
 
@@ -1271,7 +1275,7 @@ Leo lowered his coffee very carefully. Taiga stared at her.
 
 Yoichi snorted across the table.
 
-“Sunshine's face is red.”
+“Sunball's face is red.”
 
 “Fuck you.”
 
@@ -1311,7 +1315,7 @@ Taiga looked at him. Leo caught it.
 
 Yoichi snorted.
 
-“Sunshine learned a phrase.”
+“Sunball learned a phrase.”
 
 “From Enzo.”
 
@@ -1555,7 +1559,7 @@ Yoichi pointed.
 
 Leo nodded. There was no macho bullshit or pretending. He listened. Yoichi watched him set his stance.
 
-“Psh. At least Sunshine knows how to listen.”
+“Psh. At least Sunball knows how to listen.”
 
 Leo looked over.
 
@@ -1639,7 +1643,7 @@ Aiden grinned.
 
 Yoichi groaned.
 
-“Don't feed his ego, Sunshine. He already thinks he's some kind of genius because he can make soup.”
+“Don't feed his ego, Sunball. He already thinks he's some kind of genius because he can make soup.”
 
 Aiden looked at him.
 
@@ -1675,7 +1679,7 @@ Leo pointed his sandwich at Taiga.
 
 Yoichi muttered:
 
-“Nothing's enough for Sunshine. He volunteered for this shit.”
+“Nothing's enough for Sunball. He volunteered for this shit.”
 
 Leo smiled.
 
@@ -1865,7 +1869,7 @@ Dinner was quieter because everyone was tired. At some point, Leo slipped outsid
 
 “You're on bowl two.”
 
-“Fuck off, Sunshine.”
+“Fuck off, Sunball.”
 
 “I got evidence.”
 
