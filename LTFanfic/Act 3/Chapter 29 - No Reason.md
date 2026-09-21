@@ -185,7 +185,7 @@ Taiga looked between them. Kieran smiled. Leo did too. Two people who knew diffe
 
 “We are done.”
 
-Yoichi appeared from behind Cabin Two-Seven carrying a screwdriver.
+Yoichi appeared from behind Cabin Seven carrying a screwdriver.
 
 “That was fast.”
 
