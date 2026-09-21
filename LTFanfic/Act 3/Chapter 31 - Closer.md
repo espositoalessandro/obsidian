@@ -146,61 +146,61 @@ Yoshinori pointed toward the lodge.
 
 “Storage room.”
 
-Taiga carried it away. By noon, preseason was officially done. At least as far as volunteers were concerned. Yoshinori made that very clear after Yoichi asked whether the lower fence needed another pass.
+Taiga carried it away. By noon, preseason was officially done. At least as far as volunteers were concerned. Yoshinori made that very clear when Yoichi appeared beside him almost immediately.
 
-“No more fence today.”
+“Done?”
 
-“It still has one loose post.”
+Yoshinori looked up from the clipboard.
 
-“It will survive until next weekend.”
+“For today, yes.”
 
-“I can fix it in ten minutes.”
+“Done done?”
 
-“You can fix it next weekend.”
+“Yes, Yoichi.”
 
-Yoichi looked personally betrayed. Leo put a hand on his shoulder.
+Yoichi was already backing away.
 
-“Come on. You're free now.”
+“Good.”
 
-Yoichi shrugged him off.
+Leo laughed.
 
-“Don't touch me.”
+“That was fast.”
 
-“You're grieving.”
+“Tch. I've been carrying tools since breakfast.”
 
-“I'm going to walk Yuki.”
+“You carried, like, six.”
 
-“That is not leisure.”
+“Six too many.”
 
-“It is for me.”
+He whistled for Yuki and headed toward the trail before anyone could invent another job.
 
-He left. Leo watched him go.
+Leo watched him go.
 
-“I respect the commitment.”
+“He really hates this.”
 
 Taiga leaned against the lodge wall.
 
-“He'd repair the whole camp by himself if Yoshi let him.”
+“Work? Yeah.”
 
-“Would he enjoy it?”
+“But he does it.”
 
-“Not even a little.”
+“When he has to.”
 
-“Then why?”
+Leo looked toward the trail.
 
-Taiga thought about Yoichi.
+“So he's lazy.”
 
-“Because it needs doing.”
+“No.”
 
-Leo nodded slowly.
+Taiga shook his head.
 
-“That sounds familiar.”
+“That's the annoying part. If something actually needs doing, he'll do it. He'll just complain the entire time and disappear the second it becomes optional.”
 
-Taiga looked at him. Leo smiled.
+Leo smiled.
 
-“I'm not saying anything else.”
+“That sounds more like him.”
 
-“Good choice.”
+“Unfortunately.”
 
 They stood there for another moment. Then Leo looked toward the lake.
 
