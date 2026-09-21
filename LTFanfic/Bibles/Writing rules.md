@@ -38,7 +38,7 @@ Current corpus size:
 - Yuri: 2239 lines
 - Kieran: 701 lines
 
-Eduard and Lee are present in the corpus but are intentionally ignored for the first novel.
+Eduard and Lee are present in the corpus and are already established as recurring members of Taiga's wider Camp Buddy circle in the first novel. Use their source dialogue for voice calibration when they appear, but keep them supporting rather than expanding them into independent subplots.
 
 The CSV is speaker-grouped, not a reliable scene transcript.
 
@@ -765,11 +765,11 @@ His awkwardness is part of why potentially petty/jealous choices can remain ambi
 
 # 27. Eduard and Lee
 
-Ignore them for the first novel.
+Eduard and Lee are already established in the first novel through Hunter's exhibition and remain part of Taiga's wider post-Camp-Buddy social circle.
 
-Their dialogue exists in the source corpus, but they should not be introduced now simply because their voice data became available late.
+Use them as recurring supporting characters when a group event naturally includes them. They do not need independent subplots, and they should not be inserted into scenes merely because source dialogue is available.
 
-This is a continuity choice, not a claim that they never existed.
+Do not revert them to their pre-redemption hostile roles. Their current relationship with Taiga is post-redemption friendship.
 
 ---
 
