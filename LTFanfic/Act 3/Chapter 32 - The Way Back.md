@@ -837,24 +837,6 @@ Taiga looked at the clock.
 “Shut up.”
 
 They bought coffee. Bad station coffee. Taiga drank it anyway. Leo stole one of Yuri's cookies before they boarded. Then another. By the time the train arrived, the food bag had already become lighter. Their seats were together. Window for Taiga. Leo threw his jacket into the overhead rack. Taiga put the duffels up. They sat. The train pulled out on time. For the first twenty minutes, neither said much. Leo ate half a sandwich despite claiming he wasn't hungry. Taiga checked messages. Caleb:
->>>>>>> origin/main
-
-“Track four,” Leo said. “Forty minutes.”
-
-Taiga looked at the clock.
-
-“Perfect.”
-
-“You were complaining when Yoshi got us anywhere early.”
-
-“He isn't here to hear me.”
-
-“Coward.”
-
-“Shut up.”
-
-They bought coffee. Bad station coffee. Taiga drank it anyway. Leo stole one of Yuri's cookies before they boarded. Then another. By the time the train arrived, the food bag had already become lighter. Their seats were together. Window for Taiga. Leo threw his jacket into the overhead rack. Taiga put the duffels up. They sat. The train pulled out on time. For the first twenty minutes, neither said much. Leo ate half a sandwich despite claiming he wasn't hungry. Taiga checked messages. Caleb:
->>>>>>> origin/main
 
 **Caleb:** ETA?
 
