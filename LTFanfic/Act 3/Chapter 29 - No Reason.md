@@ -1,4 +1,4 @@
-Thursday morning, Leo was still weird, though not dramatically; that probably would have been easier. He sat beside Taiga at breakfast like usual. Stole one of Taiga's potatoes like usual. Complained that Aiden had made coffee too strong, which was objectively wrong. He laughed when Yoichi called the sponsor meeting “old-people homework.” Everything worked, just half a second late. 
+Thursday morning, Leo was still weird, though not dramatically; that probably would have been easier. He sat beside Taiga at breakfast like usual. Stole one of Taiga's potatoes like usual. Complained that Aiden had made coffee too strong, which was objectively wrong. He laughed when Yoichi called the sponsor meeting “old-people homework.” Everything worked, just half a second late.
 Taiga noticed because apparently he had become the kind of person who knew how long Leo usually took to laugh.
 
 Across the table, Kieran was arguing with Yuri about whether faded paint counted as “vintage.” Kieran already looked far less like a visitor than he had Monday. Yuri held up an old wooden activity sign.
@@ -141,7 +141,7 @@ Taiga took it.
 
 “At least.”
 
-Kieran laughed. Leo did not, not immediately. 
+Kieran laughed. Leo did not, not immediately.
 
 ---
 
@@ -165,7 +165,7 @@ Darius sighed. By eleven, the rack was solid. Yoshinori tested it with both hand
 
 Taiga wiped sawdust off his sleeve.
 
-“It's not supposed to'.”
+“It's not supposed to.”
 
 Kieran leaned against one post.
 
@@ -323,25 +323,25 @@ Leo dropped the ball between them.
 
 Yoichi pointed at Taiga.
 
-“I don't Dynamite.”
+“I don't want Dynamite.”
 
 Taiga looked at Leo.
 
-“Didn't we say me and Kieran vs you and Yoichi.”
+“Didn't we say me and Kieran versus you and Yoichi?”
 
 Leo shrugged.
 
-“Meh it's the same.”
+“Meh, it's the same.”
 
-"You know you are way better than me in one-versus-one."
+“You know you're way better than me one-on-one.”
 
 “And that's why we are split.”
 
-"And Kieran has played before while Yoichi hasn't"
+“And Kieran has played before, while Yoichi hasn't.”
 
-Leo rolled his eyes,
+Leo rolled his eyes.
 
-"Okay fine, me and Yoichi then."
+“Okay, fine. Me and Yoichi, then.”
 
 Yoichi stared at him.
 
@@ -349,11 +349,11 @@ Yoichi stared at him.
 
 “Skill balance.”
 
-“What the fuck should that mean.”
+“What the fuck is that supposed to mean?”
 
 “You suck.”
 
-"Fuck you, Sunshine."
+“Fuck you, Sunshine.”
 
 Yoichi shoved Leo. Leo laughed. They used jackets for touchlines. There was no referee. That became a problem immediately. Leo scored first. Yoichi accidentally made a decent pass while trying to clear the ball, Leo caught it in stride, and Taiga was half a second too far left. Leo put it inside the far post. Then turned with both arms up.
 
@@ -391,8 +391,8 @@ Yoichi looked between them.
 
 “This is why sports people are unbearable.”
 
-The next ten minutes were mostly Leo and Taiga trying to beat each other directly. Leo was smaller, faster and knew lots of tricks that he never used in serious competition.  Apparently, here the difference in skill between the two was way more evident.
-Yoichi committed something that would have been a foul in almost any organized sport. Kieran fell over laughing before the play even finished. Then the old rhythm showed up again. Kieran had the ball near the side. Taiga moved toward the middle. Kieran looked at him. There was no call or pointing, just passed.
+The next ten minutes were mostly Leo and Taiga trying to beat each other directly. Leo was smaller, faster and knew lots of tricks that he never used in serious competition.  Here, the difference in skill between the two was much more evident.
+Yoichi committed something that would have been a foul in almost any organized sport. Kieran fell over laughing before the play even finished. Then the old rhythm showed up again. Kieran had the ball near the side. Taiga moved toward the middle. Kieran looked at him. There was no call or pointing, just a pass.
 
 Taiga was already there. Taiga sent it back with one touch, and Kieran returned it. Taiga shot. The ball hit the post and went in. Kieran threw both hands up.
 
@@ -463,7 +463,7 @@ Leo exhaled.
 “Fine. Let’s play.”
 
 The rest of the match stayed physical, not angry, not exactly. Taiga stopped trying to name it. They finished four-three. Leo and Yoichi won. Leo acted like they had won a championship. Yoichi claimed he had carried him. Kieran dropped onto the grass. Taiga sat beside him. Leo stayed standing for a moment. Then sat on Taiga's other side.
-Yoichi leaned on his back. Leo leaned back on both hands.
+Yoichi lay on his back. Leo leaned back on both hands.
 
 “Four-three, by the way.”
 
@@ -491,7 +491,7 @@ Yoichi snorted.
 
 “That line's mine.”
 
-For the first time all afternoon, Leo laughed without anything sharp under it. Taiga relaxed before he realized he had been waiting to. They stayed on the field a while longer, but nobody wanted another match. Kiieran went to the lodge and came back with four bottles of water and a bag of chips he claimed Aiden had “voluntarily surrendered.” Leo's knee rested against Taiga's while they passed the bag around. Kieran took a chip and looked toward the old goal.
+For the first time all afternoon, Leo laughed without anything sharp under it. Taiga relaxed before he realized he had been waiting to. They stayed on the field a while longer, but nobody wanted another match. Kieran went to the lodge and came back with four bottles of water and a bag of chips he claimed Aiden had “voluntarily surrendered.” Leo's knee rested against Taiga's while they passed the bag around. Kieran took a chip and looked toward the old goal.
 
 “SportsFest used to put the finish banner over there.”
 
@@ -535,11 +535,11 @@ Taiga reached for the chips. Leo pulled the bag away.
 
 “Not happening.”
 
-Taiga leaned across him. Leo twisted away, still laughing. For a few seconds it was just them again. Leo kept the bag high with one arm, the other one fighting to keep Taiga away. Then Taiga managed to make him loose is balance, dropping with his back on the ground. Taiga automatically went over him and snatched the bag.
-Leo was laughing. Also, a bit red.
+Taiga leaned across him. Leo twisted away, still laughing. For a few seconds it was just them again. Leo kept the bag high with one arm, the other one fighting to keep Taiga away. Then Taiga managed to make him lose his balance, dropping onto his back. Taiga automatically went over him and snatched the bag.
+Leo was laughing. Also a bit red.
 They sat back down.
 
-"You brute."
+“You brute.”
 
 Taiga smirked. Kieran laughed.
 
@@ -547,15 +547,15 @@ Taiga smirked. Kieran laughed.
 
 Taiga turned.
 
-"And just like Leo, you always lost."
+“And just like Leo, you always lost.”
 
-"Hey, not always."
+“Hey, not always.”
 
-"Ninety percent of the times. At least."
+“Ninety percent of the time. At least.”
 
-"You kept statistics?"
+“You kept statistics?”
 
-Taiga grinned. Then he turned towards Leo, passing him the bag.
+Taiga grinned. Then he turned toward Leo, passing him the bag.
 Leo was looking at the field, without laughing.
 
 “You can take one.”
@@ -564,9 +564,9 @@ Leo turned.
 
 “Nah, I'm good.”
 
-"You just risked your life for this bag and now you give it up?"
+“You just risked your life for this bag and now you give it up?”
 
-"It was on principle."
+“It was on principle.”
 
 This time there was no joke attached. Taiga took it. Yoichi's eyes moved from Leo to Kieran and then to Taiga. He said nothing. That was worse than an insult.
 
@@ -766,17 +766,17 @@ He looked down at his hands. Then back at Taiga.
 
 Taiga froze.
 
-"What?"
+“What?”
 
-"Your ex. The one you told me about."
+“Your ex.”
 
 Everything inside Taiga stopped at once, not his body, just the noise.
 
-“How do-”
+“How do—”
 
 Leo's eyes did not leave him.
 
-“He told me you dated.”
+“He told me. He told me you dated.”
 
 Taiga felt heat climb his neck, not embarrassment, not exactly. Something sharper.
 
@@ -955,7 +955,7 @@ Leo looked away. For a second he seemed to be searching for words. When he looke
 
 “What the fuck does that mean?”
 
-"That apparently I was wrong."
+“That apparently I was wrong.”
 
 Taiga's stomach dropped. He dragged one hand over his face.
 
