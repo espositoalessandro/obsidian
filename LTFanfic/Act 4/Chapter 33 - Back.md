@@ -1428,6 +1428,8 @@ He suddenly realized he'd made a very grave mistake. Leo's eyes widened. His exp
 
 Leo started swiping frantically up and down his catalogue. Taiga looked at him. He had never seen him so excited. He smiled without realizing it.
 
+Leo kept scrolling, talking to himself
+
 “Okay, maybe we should start with the Broadway classics? But most of them are old, maybe that'd be too traumatic for you. Okay, let's skip proshots and slimes for now. Maybe it's better to start with live action.”
 
 Taiga didn't understand a single word.
@@ -1488,7 +1490,7 @@ Names. Starters first. Substitutes underneath. Taiga's eyes moved down automatic
 
 Bench. Expected. Normal. Then Enzo sent:
 
-**Enzo:** FIVE LEFT BOYS
+**Enzo:** FOUR LEFT BOYS
 
 Gav responded:
 
@@ -1500,15 +1502,11 @@ Gav responded:
 
 There was a pause. Then Mercer reacted to Enzo's message with a thumbs-up. Nobody sent anything for almost a minute. Taiga laughed in the middle of the Academic Zone.
 
-A student walking past looked over. Taiga kept moving. His Oracle buzzed privately. Leo.
+A student walking past looked over. Taiga kept moving. His Oracle buzzed.
 
 **Leo:** he has learned psychological warfare
 
-Taiga:
-
 **Taiga:** you deserve it
-
-Leo:
 
 **Leo:** saturday
 **Leo:** ready?
@@ -1525,4 +1523,3 @@ Then, because apparently that was no longer enough:
 
 Leo reacted with a sun. Taiga put the Oracle away and headed to class.
 
----
