@@ -1582,17 +1582,10 @@ The roommate is physically absent when Taiga visits, but by Act IV his continued
 
 Name him if Leo's home/university life is being strengthened.
 
-## Writing Seminar instructor
-The course matters to Taiga's first semester and has a major group project, but the instructor remains generic.
-
-Name them if the course survives the academic-program rewrite.
-
 ## Discrete Structures instructor
-The course exists but the teaching personality is essentially absent.
+The course is part of Taiga's finalized spring schedule. The instructor remains unnamed because the teaching personality is not currently important to the story.
 
-Once the second-semester program is finalized, either:
-- name the instructor and use them once or twice;
-- or minimize the course on-page.
+Keep the course on-page where academically useful, but do not introduce or name the instructor unless a future scene gives them a meaningful role.
 
 ---
 
