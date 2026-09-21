@@ -319,31 +319,15 @@ The south field barely qualified as one: mostly grass, with two old wooden goals
 
 Leo dropped the ball between them.
 
-“All right. Teams. Taiga-Yoichi vs. me and Kieran.”
+“All right. Teams. Me and Yoichi against Taiga and Kieran.”
 
-Yoichi pointed at Taiga.
+Taiga looked at him.
 
-“I don't want Dynamite.”
+“Didn't we already settle this yesterday?”
 
-Taiga looked at Leo.
+“Exactly.”
 
-“Didn't we say me and Kieran versus you and Yoichi?”
-
-Leo shrugged.
-
-“Meh, it's the same.”
-
-“You know you're way better than me one-on-one.”
-
-“And that's why we are split.”
-
-“And Kieran has played before, while Yoichi hasn't.”
-
-Leo rolled his eyes.
-
-“Okay, fine. Me and Yoichi, then.”
-
-Yoichi stared at him.
+Yoichi stared at Leo.
 
 “Why am I being punished?”
 
