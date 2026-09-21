@@ -515,19 +515,15 @@ Then: “You remember what I told you at Christmas?”
 
 Taiga laughed without humor. “Trust my friends.”
 
-“Yeah. And right now you’re deciding for him.”
+“Yeah.”
 
-“Great fucking plan.”
+Taiga stared at him. But didn't answer.
 
-“I didn’t say it was easy.”
+“Taiga, he cares about you. He cares enough to chase you when you are upset.”
 
 Taiga looked down.
 
-Keitaro added, “I’m not telling you to call him tonight. I’m not telling you what Leo wants either. I don’t know.”
-
-“Useful.”
-
-“I’m serious. You can decide what you did. You can decide what you’re sorry for. You don’t get to decide the rest for him. But I think he deserves the possibility to choose.”
+Keitaro added, “If you don't want him to leave, then... ask him. Leave the rest to him.”
 
 Taiga hated that because it sounded familiar.
 
@@ -539,7 +535,7 @@ Taiga breathed out slowly. “I don’t know what I’m supposed to say to him.�
 
 “That’s twice you’ve been useless.”
 
-“Consistent service.”
+“Eheh, consistent service.”
 
 Taiga almost smiled. “Fuck you.”
 
@@ -549,11 +545,11 @@ Keitaro smiled back.
 
 “So what?”
 
-“There was this character who said something about apologizing to a friend. You go to them, say you’re sorry, promise you’ll try not to do it again... and then you do everything you can to keep that promise.”
+“There was this character who said something about how to apologize to a friend. You go to them, say you’re sorry, promise you’ll try not to do it again... and then you do everything you can to keep that promise.”
 
 “And what if I end up breaking it?”
 
-“Then you deal with it if it happens. The promise isn’t that you’ll become perfect. It’s that you’ll give everything you’ve got not to do it again. That’s the part you can control.”
+“I guess... if the promise is not to never hurt him again, but to do whatever you can to avoid it, then you didn't really broke it.”
 
 “Great. Now I’m being counseled by an anime.”
 
