@@ -1934,16 +1934,221 @@ Do:
 - use her as a contrast to Leo's assumption that noticing a need creates a duty.
 
 
+
 ---
 
-# 8. Family Members Still To Build
+# 8. Little Cousin — Tío and Tía's Son
+
+## Core identity
+
+**Name:** TBD  
+**Exact age:** TBD; target range **7–9**, with around **8** currently preferred  
+**Family role:** Tío and Tía's son; Leo's younger maternal cousin  
+**Household:** part of Tío and Tía's nearby branch of the Mercedes-centered family cluster
+
+Keep him intentionally lightly defined until actual Act V scenes establish more of his personality.
+
+His structural role is already clear enough to lock.
+
+---
+
+## Relationship with Leo / Julio
+
+He is deeply attached to Leo.
+
+Because the two households are part of the same close family ecosystem, Leo is not a cousin he only sees at holidays.
+
+Julio has likely been one of his important older figures for most of his life.
+
+Their bond should reveal a side of Leo that Taiga has not seen much before:
+- patient;
+- gentle;
+- attentive;
+- protective without hovering;
+- naturally nurturing;
+- willing to take a child's interests seriously;
+- comfortable giving affection without embarrassment.
+
+Leo may:
+- get down on the floor to play with him;
+- teach him something;
+- help fix something small;
+- listen seriously to a long story that matters only to an eight-year-old;
+- remember what the kid was obsessed with before Leo left for university;
+- bring home a small gift because he remembered that interest;
+- let the kid climb over him or occupy his space without much complaint.
+
+This should feel **older-brother / almost paternal** in warmth, but Leo is not a substitute parent.
+
+Tío and Tía are present, loving parents.
+
+Leo's role is chosen affection, not parental responsibility.
+
+---
+
+## Act V function
+
+The little cousin provides an important counterexample to Leo's overcommitment problem.
+
+At first, Taiga may see Leo spend a long time playing with or helping him and mentally classify it as:
+
+> another person who wants something from Leo.
+
+But the difference should become visible.
+
+Leo may actually be:
+- more relaxed afterward;
+- fully present;
+- not checking the time;
+- not taking a five-minute reset;
+- not acting drained.
+
+Why?
+
+Because he **wanted** to do it.
+
+This helps reinforce the central Act V distinction:
+
+> The problem is not that Leo gives people time.
+
+> The problem is that he does not always distinguish **I want to** from **I should because somebody asked**.
+
+The cousin can make that distinction visible without anyone explaining it.
+
+Later, after Leo begins working on boundaries, he may:
+- turn down an obligation he does not want;
+- then voluntarily spend an hour or two with his cousin.
+
+That is healthy growth.
+
+He has not learned to withdraw from people.
+
+He has learned to choose.
+
+---
+
+## Boundary model
+
+The cousin should be emotionally secure enough that Leo can sometimes say:
+
+> Not now.
+
+and the child can simply accept it.
+
+He may:
+- ask again later;
+- go find something else to do;
+- sit with Taiga instead;
+- wander back to his parents.
+
+He should not treat Leo's temporary unavailability as rejection.
+
+This makes him another quiet demonstration that Leo's fear of disappointing people can be larger than the disappointment itself.
+
+Do not make the cousin endlessly demand:
+- play with me;
+- help me;
+- come here;
+- do this.
+
+He should have his own ability to occupy himself.
+
+---
+
+## Relationship with Taiga
+
+The cousin should like Taiga quickly and without much ceremony.
+
+Taiga is interesting to a child because he is:
+- new;
+- foreign;
+- red-haired;
+- a football player;
+- Leo's boyfriend;
+- someone from Leo's university world.
+
+The kid may simply decide that Taiga is now part of the available social environment.
+
+This can initially confuse Taiga.
+
+Useful energy:
+
+The child sits beside him.
+
+Taiga moves slightly.
+
+The child remains.
+
+Taiga:
+
+> "Why are you here?"
+
+The child gives a perfectly ordinary answer.
+
+A little later Leo returns and discovers that Taiga has somehow acquired his cousin.
+
+The humor should come from Taiga not knowing what to do with uncomplicated childhood attachment.
+
+Do not force Taiga into instant soft-parent mode.
+
+Their bond should emerge naturally.
+
+---
+
+## Personality — intentionally open
+
+Do **not** overdefine him yet.
+
+Leave open:
+- exact age;
+- name;
+- hobbies;
+- favorite games;
+- whether he likes football;
+- temperament details;
+- school life;
+- appearance;
+- specific verbal quirks.
+
+The only personality assumptions currently needed are:
+- reasonably secure;
+- affectionate;
+- capable of independent play;
+- comfortable around Leo;
+- curious enough to engage Taiga.
+
+Everything else should be allowed to emerge from scenes.
+
+---
+
+## Guardrails
+
+Do not:
+- make him precociously wise;
+- use him to diagnose Leo;
+- turn him into a tiny chaos machine in every scene;
+- make every child line a joke;
+- make him another constant burden on Leo;
+- make Leo function as his substitute father;
+- make Taiga instantly perfect with children.
+
+Do:
+- let him behave like an actual child;
+- keep his attachment to Leo uncomplicated;
+- use him to reveal Leo's nurturing side;
+- let his relationship with Taiga grow through ordinary proximity;
+- preserve the distinction between chosen affection and obligation.
+
+
+---
+
+# 9. Family Members Still To Build
 
 Current established roles / references that need full entries later:
 - Moma
 - Papá
 - Leo's sister
 - additional extended family
-- Tía's and Tío's child / children
 - possible additional cousins / aunts / uncles
 - family friends / godparents if useful
 - Enzo's relationship to the home social ecosystem
