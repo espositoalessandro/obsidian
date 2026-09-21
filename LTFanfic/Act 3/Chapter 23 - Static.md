@@ -709,7 +709,7 @@ Leo smiled.
 
 “Then leave.”
 
-“Monday after lab?”
+“Tuesday after lab?”
 
 “Yeah.”
 
