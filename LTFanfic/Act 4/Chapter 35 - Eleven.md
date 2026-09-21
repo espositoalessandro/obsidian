@@ -148,7 +148,7 @@ Taiga on the left. Leo central. Northbridge's right-back half a step behind. Cut
 
 Taiga looked at the screen. Nobody answered immediately. Gav said, “Six follows Mendez.” Mercer nodded.
 
-“Aaron?”
+“Bennett?”
 
 “The fullback has to turn because Taiga starts outside.”
 
@@ -634,7 +634,7 @@ Taiga looked up.
 
 Then the right.
 
-“Enzo. Same.”
+“Rosario. Same.”
 
 Enzo nodded.
 
@@ -650,7 +650,7 @@ He looked at Leo.
 
 Leo nodded.
 
-“Gav, change the side before they settle.”
+“Brennan, change the side before they settle.”
 
 “Yeah.”
 
@@ -760,7 +760,7 @@ Taiga thought back. Fuck. Mercer continued.
 
 “Yeah.”
 
-“Enzo, same thing. If both of you always recycle on the first pressure, their midfield can stop moving.”
+“Rosario, same thing. If both of you always recycle on the first pressure, their midfield can stop moving.”
 
 Enzo nodded. Mercer looked at Leo.
 
