@@ -319,18 +319,6 @@ Important fixed prose:
 - He asks Leo to come with him.
 - **Fri Apr 10** — Spring Break begins; morning training ends early and Taiga + Leo leave Olympus together.
 
-### REQUIRED PROSE PATCHES IN CHAPTER 24
-The current draft still contains older March anchors. Revised canon is April.
-
-Change/review references including:
-- **"By the second week of March"** → week of **April 6**.
-- **"In March?"** → April-appropriate wording.
-- **"March rain"** → April.
-- **"it's march"** → April.
-- **"late February"** references to the recent film-night / touch period should become **late March** or simply **March**, depending on sentence rhythm.
-
-References to storm debris from **February** may remain.
-
 ---
 
 # 6. Camp Buddy Spring Break — exact day-by-day canon
@@ -400,23 +388,6 @@ The later packing line:
 > "You were there three weeks ago."
 
 is now broadly correct again: Camp Buddy ended Apr 19 and packing occurs May 7–8.
-
-### REQUIRED ACT IV PROSE PATCHES
-The current Act IV draft still uses the old once-per-week Saturday fixture cadence.
-
-Future continuity revision must update:
-- Ch33's references to Northbridge being on Saturday;
-- squad-sheet timing;
-- recovery / film / training days between Ch34–37;
-- "next Saturday" / "tomorrow" references;
-- Pinetree-table-result timing where necessary;
-- Leo's ankle recovery window after Westlake;
-- Chapter 38's championship-week weekday transitions.
-
-**Do not change the match results or core football events solely because the weekdays move.**  
-Use the existing **Olympus Match Ledger** for score/stat continuity.
-
-Leo's ankle injury remains a **mild sprain**. With Westlake on Tue Apr 28 and the final on Sat May 2, his limited return becomes a four-day turnaround and should be written as a calculated medical/football risk rather than a full recovery.
 
 ---
 
