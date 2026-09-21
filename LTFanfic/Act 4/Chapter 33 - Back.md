@@ -1213,7 +1213,7 @@ Leo fixed the line. Ran tests. Green. He leaned back against the wall.
 
 Taiga went back to his own work. For a while they stayed like that. Taiga at the desk. Leo on the bed. Keys clicking. Occasional swearing. Leo muttering at one of his tests.
 
-Taiga writing the explanation section and deleting the same sentence twice because it sounded like Professor Owen. Then:
+Taiga writing the explanation section and deleting the same sentence twice because it sounded like Owen. Then:
 
 “Can you look at this?”
 
