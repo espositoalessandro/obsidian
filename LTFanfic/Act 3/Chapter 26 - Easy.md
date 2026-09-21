@@ -52,7 +52,7 @@ Leo watched him for another second. Taiga could feel it. Then Leo smiled.
 
 Breakfast moved indoors around the weather. The mess hall windows were fogged at the corners. Aiden had eggs, toast, potatoes and a pan of something involving peppers. Yoichi was already eating when Taiga and Leo came in. He looked at Leo's hair. Stopped chewing. Then he grinned.
 
-“Sunshine, your head looks like you slept in a hedge.”
+“Sunball, your head looks like you slept in a hedge.”
 
 Leo pulled out a chair.
 
@@ -354,7 +354,7 @@ Yoichi looked between them, then went back to his soup with the faintest smirk. 
 
 Yoichi said:
 
-“Sunshine's not completely useless.”
+“Sunball's not completely useless.”
 
 Leo took bread.
 
