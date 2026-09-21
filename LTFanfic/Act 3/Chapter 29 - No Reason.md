@@ -319,15 +319,31 @@ The south field barely qualified as one: mostly grass, with two old wooden goals
 
 Leo dropped the ball between them.
 
-“All right. Teams. Me and Yoichi against Taiga and Kieran.”
+“All right. Teams. Taiga-Yoichi vs. me and Kieran.”
 
-Taiga looked at him.
+Yoichi pointed at Taiga.
 
-“Didn't we already settle this yesterday?”
+“I don't want Dynamite.”
 
-“Exactly.”
+Taiga looked at Leo.
 
-Yoichi stared at Leo.
+“Didn't we say me and Kieran versus you and Yoichi?”
+
+Leo shrugged.
+
+“Meh, it's the same.”
+
+“You know you're way better than me one-on-one.”
+
+“And that's why we are split.”
+
+“And Kieran has played before, while Yoichi hasn't.”
+
+Leo rolled his eyes.
+
+“Okay, fine. Me and Yoichi, then.”
+
+Yoichi stared at him.
 
 “Why am I being punished?”
 
@@ -752,7 +768,7 @@ Taiga froze.
 
 “What?”
 
-“Your ex.”
+“Your ex. The one you told me about.”
 
 Everything inside Taiga stopped at once, not his body, just the noise.
 
@@ -760,7 +776,7 @@ Everything inside Taiga stopped at once, not his body, just the noise.
 
 Leo's eyes did not leave him.
 
-“He told me. He told me you dated.”
+“He told me you dated.”
 
 Taiga felt heat climb his neck, not embarrassment, not exactly. Something sharper.
 
