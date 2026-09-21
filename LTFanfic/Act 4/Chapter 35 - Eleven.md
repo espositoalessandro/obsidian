@@ -32,7 +32,7 @@ Gav sat down anyway. Taiga looked at Leo. Leo had already taken the chair beside
 
 Nobody announced that they were watching the table. Nobody needed to. At two, the stream started. Redmont's stadium was smaller than Olympus's. Windier too. The camera shook on long shots.
 
-Enzo complained about production quality for four minutes before Scott told him to mute himself. Pinetree scored first. Twenty-three minutes. Corner. Second ball. Header. Enzo sank lower in his seat.
+Enzo complained about production quality for four minutes before Scott told him to mute himself. Pinetree scored first in the twenty-third minute from a corner: second ball, header. Enzo sank lower in his seat.
 
 “Terrible sport.”
 
@@ -40,7 +40,7 @@ Enzo complained about production quality for four minutes before Scott told him 
 
 “Circumstances changed.”
 
-Taiga peeled the banana. Pinetree looked good. Organized. Quick in transition. The kind of team that made one-goal leads feel larger than they were. At halftime, one-nil. Enzo stood.
+Taiga peeled the banana. Pinetree looked good—organized, quick in transition, the kind of team that made one-goal leads feel larger than they were. At halftime, one-nil. Enzo stood.
 
 “I need something fried.”
 
@@ -52,7 +52,7 @@ Gav looked at him.
 
 He left. The second half started without him. Redmont equalized at sixty-eight. Not beautifully. Their striker chased a ball everybody else seemed to think was going out. It stayed in.
 
-Cross. Deflection. Goal. The film room woke up. Scott actually sat forward. Leo slapped Taiga's thigh once.
+A cross took a deflection and went in. The film room woke up. Scott actually sat forward. Leo slapped Taiga's thigh once.
 
 “That's why you chase garbage.”
 
@@ -572,7 +572,7 @@ Taiga hit him in the arm. Leo laughed.
 
 Saturday was warmer. Not warm. Warmer. The kind of weather that made the stadium smell more like cut grass than wet concrete. Taiga reached the locker room early.
 
-Not absurdly early. Seven minutes early. His shirt was already hanging at forty-one. This time there was no substitute list between him and the pitch. He changed. Boots.
+Not absurdly early—seven minutes. His shirt was already hanging at forty-one, and this time there was no substitute list between him and the pitch. He changed and pulled on his boots.
 
 Tape. Shirt. Enzo arrived halfway through and dropped his bag loudly.
 
@@ -672,7 +672,7 @@ Midfielder shifted. Right-back waited. Leo moved behind the midfield line. Taiga
 
 Right-back closer. He played Aaron behind him. Aaron switched. Cedar Ridge moved as one block. Taiga jogged across ten meters and reset. The crowd sounded different from the bench.
 
-Obvious thing. Still true. Less like one wall of noise. More individual voices. Someone behind the dugout shouted his number. Taiga ignored it. At six minutes, Leo found him between fullback and midfielder.
+Obvious, but still true: the noise was resolving into individual voices instead of one wall. Someone behind the dugout shouted his number. Taiga ignored it. At six minutes, Leo found him between fullback and midfielder.
 
 Taiga turned. The right-back was square. Could attack. He pushed outside. Defender matched. Taiga stopped and played backward. Olympus kept possession. At nine, Enzo got around the opposite fullback and crossed low.
 

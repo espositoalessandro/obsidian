@@ -1,4 +1,4 @@
-Saturday started with toast. Taiga had expected nerves. Instead he got toast. Two slices. One egg. Half a banana. Caleb sat across from him in the dining hall with a bowl of oatmeal and a spreadsheet open on his tablet.
+Saturday started with toast. Taiga had expected nerves; instead he got two slices, one egg and half a banana. Caleb sat across from him in the dining hall with a bowl of oatmeal and a spreadsheet open on his tablet.
 
 Taiga looked at the screen.
 
@@ -86,7 +86,7 @@ Caleb took another spoonful of oatmeal.
 
 ---
 
-The Sports Zone was louder than usual. Not packed. Not championship-decider loud. But enough that people were already moving toward the stadium before noon. Blue shirts. House Apollo jackets.
+The Sports Zone was louder than usual. It was not packed or championship-decider loud, but enough people were already moving toward the stadium before noon in blue shirts and House Apollo jackets.
 
 A few Olympus scarves despite the weather being too warm for them. Somebody had hung a banner across the railing outside the student section.
 
@@ -140,7 +140,7 @@ Scott lifted one hand without turning around. Leo said, “He didn’t even ackn
 
 “Connection takes many forms.”
 
-They entered the athletics building. The locker room was already half occupied. Taiga found forty-one. Match shirt hanging. Shorts folded. Socks underneath. Bench. He already knew. Still. He touched the edge of the shirt and started changing.
+They entered the athletics building. The locker room was already half occupied. Taiga found forty-one with the match shirt hanging above folded shorts and socks. He already knew what that meant. Still, he touched the edge of the shirt before he started changing.
 
 Leo dropped onto the bench beside him. One boot in his hand.
 
@@ -248,7 +248,7 @@ Enzo nodded. Then Leo.
 
 “Ten. Stay available behind their midfield. They’re going to close you from the blind side if you stand still.”
 
-Leo nodded. Mercer continued through set pieces. Defensive marks. Corners. Second balls. Northbridge liked long throws. Scott complained quietly. Mercer heard.
+Leo nodded. Mercer continued through set pieces—defensive marks, corners, second balls. Northbridge liked long throws. Scott complained quietly. Mercer heard.
 
 “You’re the goalkeeper.”
 
@@ -260,7 +260,7 @@ Leo nodded. Mercer continued through set pieces. Defensive marks. Corners. Secon
 
 Mercer stared. Scott looked at the screen again. One of the assistants covered his mouth with one hand. Taiga looked down before he laughed. Mercer changed slides. Starting eleven.
 
-No surprise. Leo central. Enzo left. Aaron at left back. Gav behind them. Scott in goal. Taiga’s name sat under substitutes. Mercer pointed at the screen.
+No surprise there: Leo central, Enzo left, Aaron at left back, Gav behind them and Scott in goal. Taiga’s name sat under substitutes. Mercer pointed at the screen.
 
 “Three matches left after today.”
 
@@ -282,7 +282,7 @@ Taiga glanced at Enzo. Enzo mouthed *how does he know?* Mercer continued.
 
 Warm-up began at two-ten. The stadium had filled more by then. Taiga jogged with the substitutes along the sideline. Across the pitch, Northbridge wore dark red. Their supporters occupied one corner of the opposite stand.
 
-Not many. Loud anyway. Leo was in the starting group doing short passing. He took a ball from Gav. Turned. Played Enzo. Moved again. Taiga watched the pattern while stretching his hamstring.
+There were not many people in yet, but they were loud anyway. Leo was in the starting group doing short passing: he took a ball from Gav, turned, played Enzo and moved again. Taiga watched the pattern while stretching his hamstring.
 
 An assistant coach clapped.
 

@@ -1,4 +1,4 @@
-Monday arrived with mud. Not Camp Buddy mud. Camp Buddy mud had texture. Pine needles. Gravel. Actual evidence of having come from the ground. Olympus mud was gray water dragged across stone paths by several thousand shoes until every entrance mat on campus gave up.
+Monday arrived with mud, though not Camp Buddy mud. That had texture—pine needles, gravel, actual evidence of having come from the ground. Olympus mud was gray water dragged across stone paths by several thousand shoes until every entrance mat on campus gave up.
 
 Taiga stepped around a puddle outside the Computer Science building. Leo stepped directly into it. Water splashed over both shoes. Taiga looked down. Leo looked down too.
 
@@ -38,9 +38,9 @@ Leo stopped. His expression changed. Taiga smiled.
 
 “I communicated surprise.”
 
-Taiga opened the building door. Leo followed, still complaining about the puddle. Normal. Mostly. That was the strange part. Sunday had ended at Olympus Station with food, a walk back through campus and Leo disappearing toward his own residence with one of Aiden's containers still in his bag.
+Taiga opened the building door, and Leo followed, still complaining about the puddle. It felt normal. Mostly. That was the strange part. Sunday had ended at Olympus Station with food, a walk back through campus and Leo disappearing toward his own residence with one of Aiden's containers still in his bag.
 
-Taiga had gone back to room 317. Caleb had been there. Of course he had. One suitcase unpacked. Three shirts already folded. Laptop open. A new packet of sticky notes aligned beside the desk lamp.
+Taiga had gone back to room 317, where Caleb had of course already returned: one suitcase unpacked, three shirts folded, laptop open, and a new packet of sticky notes aligned beside the desk lamp.
 
 He had looked up when Taiga entered.
 
@@ -82,7 +82,7 @@ Taiga pulled the shoe off.
 
 “Good.”
 
-Caleb returned to his laptop. That was it. For approximately twenty seconds. Then:
+Caleb returned to his laptop, and for approximately twenty seconds that was it. Then:
 
 “Did he like Camp Buddy?”
 
@@ -106,7 +106,7 @@ Taiga hated living with an economist. He had unpacked. Showered. Put the Camp Bu
 
 Then he had found a clean shirt near the bottom of his bag with one blond hair stuck to the sleeve. He had removed it. Thrown it away.
 
-No crisis. Progress. Probably. Now Monday existed. Data Structures existed. Owen existed. Unfortunately. Taiga and Leo entered three minutes before class. Mia was already there. Rachel too. Owen stood at the front fighting with something projected on the screen.
+No crisis. That counted as progress, probably. Monday existed again, along with Data Structures and, unfortunately, Owen. Taiga and Leo entered three minutes before class. Mia and Rachel were already there while Owen fought with something projected on the screen.
 
 Leo looked at Taiga.
 
@@ -192,9 +192,9 @@ Taiga looked at him.
 
 Owen began talking. Taiga opened the starter project. For ten minutes, everything behaved normally. Then Leo's knee pressed against his beneath the table. Not bumped. Pressed. Taiga kept reading the problem statement.
 
-Graph represented as adjacency lists. Traversal. Visited set. Return shortest unweighted path. Leo's knee stayed there. Taiga moved his foot around one of the chair legs. Their legs remained in contact.
+The graph came as adjacency lists: traversal, visited set, return the shortest unweighted path. Leo's knee stayed there. Taiga moved his foot around one of the chair legs, and their legs remained in contact.
 
-No pulse spike. No elaborate investigation. Just Leo. There. Taiga finished reading.
+There was no pulse spike and no elaborate investigation this time. It was just Leo, there beside him. Taiga finished reading.
 
 “You want the queue separate from the traversal?”
 
@@ -236,7 +236,7 @@ Three students sat there pretending twenty-two degrees Celsius existed. Leo poin
 
 Taiga held the café door open. Leo went through. His hand passed briefly across Taiga's lower back as he did. Not necessary. Not accidental either. Taiga let the door close behind them.
 
-The line was longer than usual. Spring Break stories occupied half of it. Beach. Family. Skiing. Someone behind them had apparently spent six days at a music festival and considered losing their Oracle on the second night “part of the experience.”
+The line was longer than usual. Spring Break stories occupied half of it—beaches, family visits, skiing. Someone behind them had apparently spent six days at a music festival and considered losing their Oracle on the second night “part of the experience.”
 
 Taiga disagreed. Silently. Mostly. Leo checked the menu.
 
@@ -428,7 +428,7 @@ Nora leaned over from the next seat.
 
 “She'd respect the confidence.”
 
-Nora smiled. Then Bell projected the remaining semester schedule. Final paper. Two response memos. One discussion section. Presentation feedback. Taiga looked at the dates. Six weeks. Not bad.
+Nora smiled. Then Bell projected the remaining semester schedule: final paper, two response memos, one discussion section, presentation feedback. Taiga looked at the dates. Six weeks. Not bad.
 
 He had survived worse. Nora tapped her pen against the desk.
 
@@ -464,7 +464,7 @@ Taiga opened the reading. Nora did not.
 
 “That sounds promising.”
 
-Taiga smiled despite himself. Nora's eyes narrowed slightly. Not teasing. Reading. Taiga looked at her. She looked back. Then she opened the article.
+Taiga smiled despite himself. Nora's eyes narrowed slightly—not teasing this time, but reading him. Their eyes met for a second before she opened the article.
 
 “Bell assigned forty-two pages.”
 
@@ -514,11 +514,11 @@ Scott opened one eye. Mercer looked directly at him. Scott closed it again. A co
 
 “We control one result this week. Ours.”
 
-The table disappeared. Northbridge's shape replaced it. Four-four-two. Compact. Direct. Their right side looked aggressive. Taiga took out his notebook. Mercer saw. Said nothing. Good.
+The table disappeared and Northbridge's shape replaced it: a compact, direct four-four-two with an aggressive right side. Taiga took out his notebook. Mercer saw and said nothing. Good.
 
 “Northbridge defend narrow until the first wide pass. Then the winger jumps and the fullback locks underneath. If you receive standing still, congratulations, you've volunteered for a two-v-one.”
 
-Clip. Northbridge against another school. Wide player receives. Pressure. Trap. Ball lost. Counter. Mercer paused.
+The next clip showed Northbridge against another school. A wide player received under pressure, got trapped, lost the ball, and Northbridge countered. Mercer paused.
 
 “Mendez.”
 
