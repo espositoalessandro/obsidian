@@ -878,7 +878,7 @@ That one sat differently. Taiga put the phone away.
 
 ---
 
-Friday training ended at three-thirty. Mercer had scheduled a light session specifically so people could leave. At the end, he stood in front of the team.
+Friday training ended at ten-thirty. Mercer had scheduled a light morning session specifically so people could leave. At the end, he stood in front of the team.
 
 “Spring Break means break.”
 
@@ -898,7 +898,7 @@ Leo glanced at Taiga. Tiny. Enough. Taiga's chest warmed. Mercer dismissed them.
 
 ---
 
-Taiga returned to the residence hall at four-forty. Caleb was already gone. His half of the room looked unnaturally exact. Bed made. Desk clear. There was no shoes or coat. He had left a note on Taiga's desk.
+Taiga returned to the residence hall at eleven-forty. Caleb was already gone. His half of the room looked unnaturally exact. Bed made. Desk clear. There was no shoes or coat. He had left a note on Taiga's desk.
 
 **Large duffel is yours.  
 Detergent is full.  

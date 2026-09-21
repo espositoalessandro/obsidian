@@ -352,7 +352,7 @@ Expected. Such a polite word. He went. The main auditorium contained what felt l
 
 A student representative took over and spoke with enough enthusiasm to power the building. Taiga stopped listening. He opened the orientation app instead. Tomorrow: academic advising.
 
-Wednesday: student activities fair. Thursday: department welcome events. Friday: scholarship recipients reception. He tapped the last one.
+Thursday: department welcome events. Friday: scholarship recipients reception. He tapped the last one.
 
 **Attendance required.**
 
@@ -1078,7 +1078,7 @@ Waiting was worse than failure. Failure, at least, was information.
 
 ---
 
-By Thursday afternoon, Taiga had almost convinced himself he had forgotten about the soccer decision. At 2:17, he checked email. Nothing. At 2:23. Nothing. At 2:31—
+By Friday afternoon, Taiga had almost convinced himself he had forgotten about the soccer decision. At 2:17, he checked email. Nothing. At 2:23. Nothing. At 2:31—
 
 Caleb looked across the room. “Are you waiting for something?”
 
