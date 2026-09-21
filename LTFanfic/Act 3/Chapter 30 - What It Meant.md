@@ -1058,103 +1058,103 @@ Taiga looked at him in disbelief.
 Dinner was normal again. Nobody mentioned Kieran. Good.
 Eventually, they went back to their cabin.
 
-There was now an awkward silence when they showered and got dressed up. They kept glancing at each other, waiting for the other to take the first step.
+There was an awkward silence while they showered and got dressed. They kept glancing at each other, waiting for the other to take the first step.
 Or at least, that's what Taiga thought.
-Leo dropped on the bed with his back.
+Leo dropped onto the bed on his back.
 
-"Whew, I'm destroyed."
+“Whew, I'm destroyed.”
 
-"We did nothing today."
+“We did nothing today.”
 
-"Emotively destroyed."
+“Emotionally destroyed.”
 
-"Better."
+“Better.”
 
 Silence. Taiga awkwardly started folding some clothes.
-Then Leo asked
+Then Leo asked:
 
-"Just out of curiosity."
+“Just out of curiosity.”
 
-"What?"
+“What?”
 
-"When did you realized it?"
+“When did you realize it?”
 
 Taiga knew exactly what he meant. He tried to look innocent.
 
-"Realized what?"
+“Realized what?”
 
-"You know... that you liked me."
+“You know... that you liked me.”
 
 There we go.
 Taiga had already thought about that.
 
-"I don't know, really. I only know that things started becoming weird when you said that thing about me and the university."
+“I don't know, really. I only know that things started becoming weird when you said that thing about me and the university.”
 
 Leo raised his head.
 
-"What thing?"
+“What thing?”
 
-Taiga's face became warmer
+Taiga's face grew warmer.
 
-"You know. About Olympus being weird without me."
+“You know. About Olympus being weird without me.”
 
-Leo stopped a second.
+Leo paused for a second.
 
-"Oh."
+“Oh.”
 
-Then he dropped is head on the pillow, hands on his face.
+Then he dropped his head onto the pillow, hands over his face.
 
-"Fuck my stupid mouth."
+“Fuck my stupid mouth.”
 
-Taiga laughed
+Taiga laughed.
 
-"Yeah it was weird at first."
+“Yeah, it was weird at first.”
 
-"Stop. I wanna die."
+“Stop. I wanna die.”
 
-A couple of seconds after, Taiga asked
+A couple of seconds later, Taiga asked:
 
-"What about you?"
+“What about you?”
 
-"Well... I've noticed you from the very moment I saw you staring at the fence."
+“Well… I noticed you the very first time I saw you staring at the fence.”
 
 Taiga looked at him. Leo's face was burning red.
 
-"Don't say anything."
+“Don't say anything.”
 
 Taiga smiled.
 
-"Alright."
+“Alright.”
 
-"But I actually started looking differently at you when we went out to Arcadia with the team. I guess that's where I got to see a part of you that wasn't football or university."
+“But I actually started looking at you differently when we went out to Arcadia with the team. I guess that's where I got to see a part of you that wasn't football or university.”
 
 Taiga remembered the photo. He and Leo, shoulder to shoulder at the arcade.
-The walk back to the campus.
+The walk back to campus.
 
-"Yeah, I remember."
+“Yeah, I remember.”
 
-Silence fell again. 
+Silence fell again.
 
-"Taiga?"
+“Taiga?”
 
-"Yeah?"
+“Yeah?”
 
 Leo raised his head and looked at him.
 
-"You know that we don't have to rush just because we talked about it."
+“You know that we don't have to rush just because we talked about it.”
 
-Taiga felt something lifting off his stomach..
+Taiga felt something loosen in his stomach.
 
-"Yeah."
+“Yeah.”
 
-Leo smiled
+Leo smiled.
 
-"Good. Then goodnight, forty-one."
+“Good. Then goodnight, forty-one.”
 
-Taiga smiled
+Taiga smiled.
 
-"I got a name."
+“I got a name.”
 
-"I know."
+“I know.”
 
-"Night Leo."
+“Night, Leo.”
