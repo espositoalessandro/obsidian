@@ -1,4 +1,4 @@
-Sunday recovery ended at one-fifteen. By one-twenty, half the team was still in the Sports Zone. Mercer had not scheduled anything else. That did not stop Enzo from occupying the first row of the film room with a sandwich, his phone propped against a water bottle and Redmont–Pinetree streaming at maximum brightness.
+Thursday recovery ended at six-fifty. By six-fifty-five, half the team was still in the Sports Zone. Mercer had not scheduled anything else. That did not stop Enzo from occupying the first row of the film room with a sandwich, his phone propped against a water bottle and Redmont–Pinetree streaming at maximum brightness.
 
 “You know there are televisions in this building,” Gav said.
 
@@ -22,7 +22,7 @@ Taiga came in carrying a recovery shake. Leo followed with two bananas he had ap
 
 Enzo turned around.
 
-“Because Pinetree kicks off in thirty-nine minutes.”
+“Because Pinetree kicks off in thirty-five minutes.”
 
 “That does not answer the question.”
 
@@ -30,7 +30,7 @@ Enzo turned around.
 
 Gav sat down anyway. Taiga looked at Leo. Leo had already taken the chair beside him. Fine. They stayed. More players drifted in. Aaron. Two center-backs. One of the reserve keepers.
 
-Nobody announced that they were watching the table. Nobody needed to. At two, the stream started. Redmont's stadium was smaller than Olympus's. Windier too. The camera shook on long shots.
+Nobody announced that they were watching the table. Nobody needed to. At seven-thirty, the stream started. Redmont's stadium was smaller than Olympus's. Windier too. The camera shook on long shots.
 
 Enzo complained about production quality for four minutes before Scott told him to mute himself. Pinetree scored first in the twenty-third minute from a corner: second ball, header. Enzo sank lower in his seat.
 
@@ -106,7 +106,7 @@ One point. Three matches each. Leo leaned over enough to read the screen.
 
 “I never hated math.”
 
-“You hated me checking the table yesterday.”
+“You hated me checking the table last night.”
 
 “You were doing it thirty seconds after Mercer told us not to.”
 
@@ -140,7 +140,7 @@ Scott stood.
 
 ---
 
-Monday's film session lasted forty-one minutes. Twenty-seven were about Cedar Ridge. Fourteen were about Northbridge. Taiga knew because Enzo timed it. Mercer paused the clip at seventy-five minutes.
+Friday's film session lasted forty-one minutes. Twenty-seven were about Cedar Ridge. Fourteen were about Northbridge. Taiga knew because Enzo timed it. Mercer paused the clip at seventy-five minutes.
 
 Taiga on the left. Leo central. Northbridge's right-back half a step behind. Cutback. Goal. Mercer rewound. Played it again. No sound. Then stopped before the pass.
 
@@ -420,9 +420,9 @@ Then Enzo added:
 
 ---
 
-The week did not become special because Taiga was starting. Owen still assigned work. Discrete Structures still treated eighty pages of notes and proofs as “supplementary.” The washing machine on Taiga's floor still ate one of his socks.
+Friday did not become special because Taiga was starting. Owen still assigned work. Discrete Structures still treated eighty pages of notes and proofs as “supplementary.” The washing machine on Taiga's floor still ate one of his socks.
 
-Caleb still objected to Taiga calling the missing sock “stolen” because theft required intent. Wednesday night, Taiga found Leo in the library with six tabs open about musicals and none about Data Structures.
+Caleb still objected to Taiga calling the missing sock “stolen” because theft required intent. Later that afternoon, Taiga found Leo in the library with six tabs open about musicals and none about Data Structures.
 
 He sat down beside him.
 
@@ -1130,6 +1130,6 @@ Leo smiled.
 
 Taiga leaned forward into the stretch. His legs were tired from Saturday. Good tired. Eighty-six minutes of first-team football. First start. A cutback that helped create the equalizer.
 
-One-one. He held the stretch. Then switched legs. Next Saturday was another match. Two left. There would be another chance.
+One-one. He held the stretch. Then switched legs. Tuesday was another match. Two left. There would be another chance.
 
 ---
