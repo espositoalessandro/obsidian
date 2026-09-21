@@ -320,7 +320,7 @@ Leo drank half a bottle of water in one go. Taiga sat beside him. Mercer waited.
 
 He moved two magnets.
 
-“Aaron goes. Akatora goes. Gav gets pulled. Eight gets this.”
+“Bennett goes. Akatora goes. Brennan gets pulled. Eight gets this.”
 
 He tapped the channel. Taiga looked at it. Exactly the first-half corner. Mercer looked at him.
 
@@ -334,13 +334,13 @@ Taiga nodded.
 
 He shifted magnets.
 
-“Leo, number six is late every time you turn off eight. Keep moving him.”
+“Mendez, number six is late every time you turn off eight. Keep moving him.”
 
 Leo wiped his mouth with his wrist.
 
 “Yeah.”
 
-“Enzo, stop arguing with the fullback.”
+“Rosario, stop arguing with the fullback.”
 
 “He started it.”
 
