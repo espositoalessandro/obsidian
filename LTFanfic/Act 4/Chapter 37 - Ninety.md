@@ -8,7 +8,7 @@ Nobody told him to shut up. Mercer had been standing beside the screen with St. 
 
 “What?”
 
-Enzo held up his Oracle.
+Enzo held up his phone.
 
 “Hartwell one. Pinetree zero. Full time.”
 
@@ -36,7 +36,7 @@ He rewound ten seconds.
 
 “Again.”
 
-The room watched. Taiga put his Oracle face-down beneath his chair. Mercer pointed at the left side of the screen.
+The room watched. Taiga put his phone face-down beneath his chair. Mercer pointed at the left side of the screen.
 
 “Akatora.”
 
@@ -56,7 +56,7 @@ Mercer played the clip.
 
 “Stop trying to solve the table. Solve this.”
 
-Nobody touched an Oracle again.
+Nobody touched an phone again.
 
 ---
 
@@ -228,7 +228,7 @@ Taiga did not know what. At forty-five, the referee added one. Nothing happened 
 
 ---
 
-The visitors' locker room was hot. Too many bodies. Too much breath. Nobody touched an Oracle. Nobody needed to. Pinetree had already lost. Olympus had forty-five minutes. Mercer went through two things first.
+The visitors' locker room was hot. Too many bodies. Too much breath. Nobody touched an phone. Nobody needed to. Pinetree had already lost. Olympus had forty-five minutes. Mercer went through two things first.
 
 St. Vincent's second balls. Their right winger narrowing too early. Gav asked a question. Mercer answered. Then he looked at Taiga.
 
@@ -600,7 +600,7 @@ He closed the eye again. Taiga smiled. A few minutes later, Leo was actually asl
 
 That thought still refused to fit properly inside his head. Not an assist. Not a good run. Not thirty minutes off the bench. The goal. The championship goal.
 
-His Oracle had more than eighty unread notifications. Camp Buddy alone accounted for twenty-six. His mother had called twice. Taiga put the Oracle away. There would be time.
+His phone had more than eighty unread notifications. Camp Buddy alone accounted for twenty-six. His mother had called twice. Taiga put the phone away. There would be time.
 
 ---
 
@@ -810,7 +810,7 @@ Enzo sat down.
 
 The conversation moved on. Eventually. Taiga ate until he physically couldn't anymore. Then dessert arrived. Enzo found room. Of course he did. Leo stole half of Taiga's because Taiga had made the mistake of saying he was full.
 
-At nine-twelve, Taiga's Oracle buzzed. Caleb. He opened it under the table.
+At nine-twelve, Taiga's phone buzzed. Caleb. He opened it under the table.
 
 **Caleb:** Congratulations for today.
 
@@ -826,7 +826,7 @@ Taiga stared. No explanation. No follow-up. Nothing connecting the two statement
 
 “What?”
 
-Taiga turned the Oracle face-down.
+Taiga turned the phone face-down.
 
 “Caleb.”
 
@@ -838,7 +838,7 @@ Leo waited. Taiga looked at him.
 
 “He's going to Maya's university tonight.”
 
-Leo blinked. Then looked at the Oracle. Then back at Taiga.
+Leo blinked. Then looked at the phone. Then back at Taiga.
 
 “Oh.”
 
@@ -952,13 +952,13 @@ Taiga did. His mouth found the side of Leo's neck once, just beneath the jaw. Le
 
 They already knew how to touch each other. Tonight there was simply more time. More room to stop, laugh, adjust around Leo's ankle, and start again without alcohol or a cabin full of other people ten meters away.
 
-At some point Taiga's Oracle buzzed on the desk. Neither moved. It buzzed again. Leo glanced toward it.
+At some point Taiga's phone buzzed on the desk. Neither moved. It buzzed again. Leo glanced toward it.
 
 “Could be important.”
 
 “If the university is on fire, somebody else can deal with it.”
 
-Leo laughed. The Oracle stopped.
+Leo laughed. The phone stopped.
 
 ---
 
@@ -1048,11 +1048,11 @@ The faint glow from outside the window. Taiga listened until Leo's breathing bec
 
 Conference champion. First-team starter. Goal scorer. Leo asleep against him. The categories did not arrange themselves into anything useful. They did not need to. Taiga reached toward the bedside table and set an alarm.
 
-Then another thought occurred. He looked across the room at Caleb's perfectly made bed. His Oracle sat charging beside him. Taiga opened the chat.
+Then another thought occurred. He looked across the room at Caleb's perfectly made bed. His phone sat charging beside him. Taiga opened the chat.
 
 **Taiga:** thanks for the warning
 
-No reply. Probably asleep. Or busy. Taiga regretted the message instantly. He put the Oracle face-down. Leo shifted in his sleep and tightened one arm around Taiga's waist.
+No reply. Probably asleep. Or busy. Taiga regretted the message instantly. He put the phone face-down. Leo shifted in his sleep and tightened one arm around Taiga's waist.
 
 Taiga stopped thinking about Caleb. He closed his eyes. This time, sleep came.
 

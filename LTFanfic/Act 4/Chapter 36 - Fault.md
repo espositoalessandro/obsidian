@@ -14,7 +14,7 @@ Taiga looked at her.
 
 “Seven?”
 
-He closed the Oracle.
+He closed the phone.
 
 “It's film.”
 
@@ -24,7 +24,7 @@ He closed the Oracle.
 
 “I know enough to recognize the same twelve seconds.”
 
-Taiga put the Oracle beside his laptop. Nora waited. He opened his Discrete Structures notes instead. Three pages on recurrence relations. Nora looked at the page. Then at him.
+Taiga put the phone beside his laptop. Nora waited. He opened his Discrete Structures notes instead. Three pages on recurrence relations. Nora looked at the page. Then at him.
 
 “Did something happen?”
 
@@ -38,7 +38,7 @@ Nora studied him for another second. Taiga started reading. She went back to her
 
 “Was that the right decision?”
 
-Taiga looked up. Nora nodded toward the Oracle.
+Taiga looked up. Nora nodded toward the phone.
 
 “The thing you keep replaying.”
 
@@ -76,7 +76,7 @@ He smiled despite himself. Nora turned a page.
 
 “Maybe next time you'll shoot.”
 
-Taiga looked down at the dark Oracle screen.
+Taiga looked down at the dark phone screen.
 
 “Yeah.”
 
@@ -154,7 +154,7 @@ Taiga looked at him.
 
 “You think he'd appreciate my artistic philosophy?”
 
-“He'd break your Oracle.”
+“He'd break your phone.”
 
 Leo leaned back in the seat.
 
@@ -674,7 +674,7 @@ Taiga waited. Caleb added:
 
 “But I was planning to go later, and later has become now.”
 
-Taiga looked down at the Oracle.
+Taiga looked down at the phone.
 
 “Right.”
 
@@ -706,11 +706,11 @@ Taiga stared at the screen. Table updated.
 
 **2. OLYMPUS — 51**
 
-One match left. If Olympus won and Pinetree lost, that was it. Taiga put the Oracle face-down. Five minutes later it buzzed again. Leo. Taiga left it for another minute before picking it up.
+One match left. If Olympus won and Pinetree lost, that was it. Taiga put the phone face-down. Five minutes later it buzzed again. Leo. Taiga left it for another minute before picking it up.
 
 **Leo:** if you need me, i'll be in my room
 
-Nothing else. No question. No request. Taiga read it twice. Put the Oracle down. At seven-thirty, he heated the pasta. Ate four bites. Stopped. At seven-forty-eight, he opened the match again.
+Nothing else. No question. No request. Taiga read it twice. Put the phone down. At seven-thirty, he heated the pasta. Ate four bites. Stopped. At seven-forty-eight, he opened the match again.
 
 At seven-fifty-two, he closed it. At eight-oh-three, he stood. Sat. At eight-eleven, he typed:
 

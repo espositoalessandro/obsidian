@@ -50,7 +50,7 @@ Leo watched him for another second. Taiga could feel it. Then Leo smiled.
 
 “Good morning to you too.”
 
-Breakfast moved indoors around the weather. The dining hall windows were fogged at the corners. Aiden had eggs, toast, potatoes and a pan of something involving peppers. Yoichi was already eating when Taiga and Leo came in. He looked at Leo's hair. Stopped chewing. Then he grinned.
+Breakfast moved indoors around the weather. The mess hall windows were fogged at the corners. Aiden had eggs, toast, potatoes and a pan of something involving peppers. Yoichi was already eating when Taiga and Leo came in. He looked at Leo's hair. Stopped chewing. Then he grinned.
 
 “Sunshine, your head looks like you slept in a hedge.”
 
@@ -324,7 +324,7 @@ He took the door.
 
 ---
 
-The rain stopped at eleven forty. By noon the camp had changed color. Dark bark. Wet roofs. Puddles in every depression. Clouds lifting from the ridge. Aiden moved lunch outside under the dining hall awning because apparently weather had become a personal challenge. Taiga sat on the steps with a bowl of soup. Leo came over with Yoichi. Yoichi had oil on one sleeve. Leo had a dark smear across one cheek. Again. Taiga looked at it. Leo caught him.
+The rain stopped at eleven forty. By noon the camp had changed color. Dark bark. Wet roofs. Puddles in every depression. Clouds lifting from the ridge. Aiden moved lunch outside under the mess hall awning because apparently weather had become a personal challenge. Taiga sat on the steps with a bowl of soup. Leo came over with Yoichi. Yoichi had oil on one sleeve. Leo had a dark smear across one cheek. Again. Taiga looked at it. Leo caught him.
 
 “What are you looking at?”
 

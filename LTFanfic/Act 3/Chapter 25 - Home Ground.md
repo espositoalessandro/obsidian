@@ -114,7 +114,7 @@ Aiden turned down the gravel road. The main Camp Buddy sign came into view. The 
 
 Taiga looked at him instead of the sign.
 
-Leo took in the main lodge, the old cabin roofs through the trees, the dining hall, the maintenance sheds and the path toward the waterfront. Beyond them, the renovation year had left a second layer on the place: newer cabins in the annex, the function hall farther uphill, fresh conduit along the lodge and a small security camera under the eaves.
+Leo took in the main lodge, the old cabin roofs through the trees, the mess hall, the maintenance sheds and the path toward the waterfront. Beyond them, the renovation year had left a second layer on the place: newer cabins in the annex, the function hall farther uphill, fresh conduit along the lodge and a small security camera under the eaves.
 
 Taiga still noticed which parts were new because he remembered helping build some of them.
 
@@ -668,7 +668,7 @@ Yoichi pulled his bowl closer.
 
 “Didn't say that.”
 
-Aiden grinned. Taiga looked around. Half the dining hall was closed off. Most tables stacked. Only three long tables in use. Goro sat at one end with a folder open beside his plate. Yoshinori had papers. Yuri had paint on one sleeve. Normal. Different season. Goro looked up.
+Aiden grinned. Taiga looked around. Half the mess hall was closed off. Most tables stacked. Only three long tables in use. Goro sat at one end with a folder open beside his plate. Yoshinori had papers. Yuri had paint on one sleeve. Normal. Different season. Goro looked up.
 
 “Taiga, welcome back.”
 

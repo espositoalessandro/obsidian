@@ -734,7 +734,7 @@ That last part mattered most.
 If Taiga went somewhere else, Kieran did not follow. If Leo came over, Kieran did not insert himself. If Yoichi said something insulting, Kieran took it, not passively. Just without trying to recreate the old group dynamic immediately.
 It was frustratingly reasonable.
 Taiga wanted something easier to reject. He did not get it.
-At four fifteen, Kieran was helping Aiden carry a crate toward the kitchen when Leo came up beside Taiga. They were outside Cabin Two-Seven, checking a shutter hinge. Leo held the screws. Taiga held the screwdriver.
+At four fifteen, Kieran was helping Aiden carry a crate toward the kitchen when Leo came up beside Taiga. They were outside Cabin Seven, checking a shutter hinge. Leo held the screws. Taiga held the screwdriver.
 
 Leo said:
 

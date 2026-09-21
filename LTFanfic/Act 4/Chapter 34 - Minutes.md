@@ -740,7 +740,7 @@ Scott said, “That tracks.”
 
 By six, the Sports Zone had mostly emptied. Taiga came out carrying his bag. Leo was waiting near the doors. Not alone. Enzo and Gav were there too.
 
-Scott stood three meters away looking at his Oracle. Aaron came through behind Taiga. Enzo clapped once.
+Scott stood three meters away looking at his phone. Aaron came through behind Taiga. Enzo clapped once.
 
 “Food.”
 
@@ -760,7 +760,7 @@ Enzo groaned.
 
 “That was yesterday’s Enzo.”
 
-Scott put his Oracle away.
+Scott put his phone away.
 
 “I’m going to the Oyster.”
 
@@ -864,7 +864,7 @@ They stayed until after seven. Players disappeared in groups. Gav to the library
 
 Enzo followed him out demanding details. Taiga and Leo left last. Outside, evening had cooled. Leo handed Taiga his bag. Taiga put it over one shoulder. They crossed Central Park.
 
-Students were still out. Someone played guitar badly near the fountain. Two people were throwing a frisbee in low light and repeatedly losing it in bushes. Leo checked his Oracle.
+Students were still out. Someone played guitar badly near the fountain. Two people were throwing a frisbee in low light and repeatedly losing it in bushes. Leo checked his phone.
 
 “Pinetree tomorrow at two.”
 
@@ -874,7 +874,7 @@ Students were still out. Someone played guitar badly near the fountain. Two peop
 
 “I know.”
 
-Leo put the Oracle away.
+Leo put the phone away.
 
 “You’re impossible.”
 

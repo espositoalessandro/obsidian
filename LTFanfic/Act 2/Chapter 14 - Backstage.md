@@ -106,7 +106,7 @@ Aiden laughed. “Buddy, I cook.”
 
 “You cook *camp food*.”
 
-Aiden put one hand dramatically over his chest. “Wounded. In my own dining hall.”
+Aiden put one hand dramatically over his chest. “Wounded. In my own mess hall.”
 
 “Good. Where's the kitchen key?”
 
@@ -788,7 +788,7 @@ The camp emptied in reverse.
 
 Hunter left first because the art school buildings reopened early and he had apparently volunteered for something involving studio access before remembering that volunteering created obligations. Natsumi left the following morning for swim training; he apologized for leaving before lunch, Hiro told him this was unacceptable, Natsumi reminded him that he had already eaten breakfast twice, and Hiro said that was not relevant.
 
-Keitaro and Hiro left together the day after that. Hiro packed enough leftover food into the lodge refrigerator to create an administrative issue, while Keitaro took one last photograph of the dining hall, then another of Yuki, then one of Yoichi pretending not to watch them load the car.
+Keitaro and Hiro left together the day after that. Hiro packed enough leftover food into the lodge refrigerator to create an administrative issue, while Keitaro took one last photograph of the mess hall, then another of Yuki, then one of Yoichi pretending not to watch them load the car.
 
 “Frogboy.”
 

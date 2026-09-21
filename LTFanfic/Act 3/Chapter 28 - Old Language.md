@@ -58,7 +58,7 @@ Kieran smiled. Taiga looked at him.
 
 “Nothing, you still a purist when it comes to coffee."
 
-Leo drank. For a while the three of them sat there. The silence was not exactly uncomfortable, not exactly anything. Then the dining hall door opened behind them. Yoichi stuck his head out.
+Leo drank. For a while the three of them sat there. The silence was not exactly uncomfortable, not exactly anything. Then the mess hall door opened behind them. Yoichi stuck his head out.
 
 “If you three are done staring at water, there’s food.”
 
