@@ -80,7 +80,7 @@ Caleb picked up his suitcase, and Maya smiled at Taiga. “Bye.”
 
 The door closed behind them, leaving half the room immediately emptier. Taiga disliked that for approximately ten minutes. Then he enjoyed having the room to himself.
 
-Now snow collected along the grass as he crossed toward Residence. His train to Camp Buddy left tomorrow morning. Yoshinori had offered to have someone pick him up from the station; Yoichi had responded to this information with a single message.
+Now snow collected along the grass as he crossed toward Residence. His trip to Camp Buddy started with a 9:12 train tomorrow morning, followed by the regional bus. Yoshinori had offered to have someone pick him up from the bus stop; Yoichi had responded to this information with a single message.
 
 **Yoichi:** walk
 
@@ -142,11 +142,11 @@ Taiga looked out the window. White had started gathering on the courtyard grass.
 
 **Taiga:** yes that is what happens in winter
 
-**Leo:** central park has the rink open
+**Leo:** acropolis park has the rink open
 
-There was a seasonal rink in the city park. Taiga knew because Nora had mentioned it twice and because an advertisement had occupied half the Central Station wall since November, although he had never seriously considered going.
+There was a seasonal rink in Acropolis Park. Taiga knew because Nora had mentioned it twice and because an advertisement had occupied half the Central Station wall since November, although he had never seriously considered going.
 
-**Taiga:** congratulations to central park
+**Taiga:** congratulations to acropolis park
 
 **Leo:** come with me?
 
@@ -315,7 +315,7 @@ Taiga shook his head, smiling. He looked through the window. Snow had started st
 
 ---
 
-Central Park had been converted into something aggressively seasonal. Lights wrapped every tree along the main path, temporary wooden stalls formed two rows beside the lawn, and a giant illuminated arch announced **WINTER WEEK** as if winter required branding. Music played from somewhere near the fountain, which had itself been turned off and covered in lights, while the rink occupied the broad plaza beyond it.
+Acropolis Park had been converted into something aggressively seasonal. Lights wrapped every tree along the main path, temporary wooden stalls formed two rows beside the lawn, and a giant illuminated arch announced **WINTER WEEK** as if winter required branding. Music played from somewhere near the fountain, which had itself been turned off and covered in lights, while the rink occupied the broad plaza beyond it.
 
 There were more people than Taiga expected: families, students, children moving at dangerous speeds, couples trying to skate while holding hands and mostly getting in everybody else's way.
 
@@ -873,7 +873,7 @@ The market lights came on brighter as evening settled, and by the time Taiga che
 
 ---
 
-They left Central Park at seven-thirty, by which point the snow had won. The paths were white, cars moved slower, and every roof had a thin layer collecting along the edges.
+They left Acropolis Park at seven-thirty, by which point the snow had won. The paths were white, cars moved slower, and every roof had a thin layer collecting along the edges.
 
 Leo stopped beneath one of the lamps and looked up. “Okay, I know this is stupid because snow is objectively inconvenient, but this is fucking great.”
 
