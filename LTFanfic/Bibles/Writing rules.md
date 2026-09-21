@@ -628,7 +628,7 @@ Speech:
 
 Important nicknames:
 - Dynamite = Taiga;
-- Sunshine = Leo in current Olympus continuity;
+- Sunball = Leo at Camp Buddy, coined by Yoichi on first meeting; Taiga’s earlier lowercase “sunshine” in Chapter 15 is a separate callback to Leo’s family nickname *rayito de sol*;
 - other original nicknames should be checked against corpus before use.
 
 Yoichi should not sound like Taiga with different hair.
