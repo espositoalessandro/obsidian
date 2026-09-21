@@ -296,7 +296,7 @@ Leo looked around.
 
 “Central Park?”
 
-“I told Nora I'd meet her in thirty.”
+“I have twenty before Discrete.”
 
 “I have forty-two before my next lecture.”
 
@@ -362,7 +362,7 @@ Taiga kept going. Leo caught up.
 
 “That is cruel.”
 
-Taiga smiled. They reached the path split. Nora had claimed one of the tables outside the Academic building; Leo's next lecture was the other way. Normally this was where they separated. Leo slowed.
+Taiga smiled. They reached the path split. Taiga's Discrete lecture was one building over; Leo's next lecture was the other way. Normally this was where they separated. Leo slowed.
 
 “So.”
 
@@ -396,7 +396,7 @@ That was fast enough to make Taiga laugh. Leo grinned.
 
 “It was manageable.”
 
-Taiga shook his head. Then started toward class. Leo called after him.
+Taiga shook his head. Then started toward Academic. Leo called after him.
 
 “Training at three!”
 
@@ -412,7 +412,9 @@ Leo lifted his coffee in salute. Taiga turned around before he walked into somet
 
 ---
 
-Nora was already at one of the tables outside the Academic building, a book open beside her coffee and enough loose paper around it to suggest she had been there for a while.
+Discrete Structures started six minutes later. Taiga arrived with enough time to sit down, open his notebook and drink the last of the coffee before the professor began.
+
+By lunch, Nora had claimed one of the tables outside the Academic building, a book open beside her coffee and enough loose paper around it to suggest she had been there for a while.
 
 Taiga sat opposite her. Nora looked up.
 
@@ -486,13 +488,13 @@ Enzo shifted. Mercer pointed at the table.
 
 “This is information. It is not a tactical plan.”
 
-He changed the slide. Saturday's opponent. Northbridge. Taiga knew the name well enough from reserve fixtures. Their first team looked considerably less friendly.
+He changed the slide. Tomorrow's opponent. Northbridge. Taiga knew the name well enough from reserve fixtures. Their first team looked considerably less friendly.
 
 “Four conference matches,” Mercer continued. “If you're planning to count points, calculate permutations or start watching Pinetree's score while we're supposed to be playing Northbridge, do it on your own time.”
 
 Scott opened one eye. Mercer looked directly at him. Scott closed it again. A couple players laughed. Mercer continued.
 
-“We control one result this week. Ours.”
+“We control one result tomorrow. Ours.”
 
 The table disappeared and Northbridge's shape replaced it: a compact, direct four-four-two with an aggressive right side. Taiga took out his notebook. Mercer saw and said nothing. Good.
 
@@ -575,11 +577,11 @@ The locker room afterward smelled exactly the same as before Spring Break. Taiga
 
 Gav sat across from him.
 
-“You say that every Monday.”
+“You say that every session.”
 
 “This time I mean it.”
 
-“You meant it last Monday.”
+“You meant it last session.”
 
 “That was past me. He lacked perspective.”
 
@@ -677,7 +679,7 @@ Scott closed his locker.
 
 “Emotionally it is.”
 
-Taiga laughed. The conversation moved to food. Then Saturday. Then Enzo complaining that Northbridge's away locker room had showers designed for “Victorian children.” Normal. Taiga went to shower when everyone else did.
+Taiga laughed. The conversation moved to food. Then tomorrow. Then Enzo complaining that Northbridge's long throws should be illegal. Normal. Taiga went to shower when everyone else did.
 
 Leo ended up two stalls away. Enzo complained about shampoo. Someone threw something. Taiga washed his hair. Got out. Leo came back a minute later with a towel around his waist.
 
@@ -687,335 +689,7 @@ He could survive warmth.
 
 ---
 
-By Wednesday, Olympus had fully resumed its preferred state of controlled collapse. Assignments multiplied. Dining lines returned. The library became impossible after four. Somebody had put a sign in the residence-hall laundry room asking people to remove clothes “WITHIN A SOCIALLY REASONABLE TIMEFRAME.”
-
-Caleb had photographed it. Taiga knew because Caleb showed him at breakfast.
-
-“You agree with this.”
-
-“Obviously.”
-
-“What is socially reasonable?”
-
-“Seven minutes.”
-
-Taiga stopped chewing.
-
-“Why seven?”
-
-“Five is too strict if someone is walking from another floor. Ten creates unnecessary idle time.”
-
-“You've thought about this.”
-
-“Yes.”
-
-“Of course.”
-
-Caleb drank water. Maya had returned to her own university Monday night. Caleb had been quieter since. Not sad. Just less occupied. Taiga noticed because the room was cleaner.
-
-Caleb cleaned when thinking. Taiga did not mention it. Caleb looked at Taiga's plate.
-
-“You're leaving early.”
-
-“Training.”
-
-“It is eight-fifteen.”
-
-“Film before.”
-
-Caleb nodded. Then:
-
-“Your team is second.”
-
-Taiga stared.
-
-“How do you know that?”
-
-“You left the standings open yesterday.”
-
-“That is becoming a pattern.”
-
-“You leave things open.”
-
-“You look at everything.”
-
-“They are on the screen.”
-
-Taiga took another bite. Caleb continued.
-
-“One point.”
-
-“I know.”
-
-“Four matches?”
-
-“Yes.”
-
-Caleb considered.
-
-“That seems statistically unpleasant.”
-
-Taiga laughed.
-
-“That is the most Caleb way you could've said that.”
-
-“You are close enough that individual results matter more.”
-
-“That's how standings work.”
-
-“I know.”
-
-“Then why explain it?”
-
-“Because you looked nervous.”
-
-Taiga stopped. Caleb ate cereal. Taiga watched him.
-
-“I don't look nervous.”
-
-“You reorganized your bag twice.”
-
-Taiga looked at the bag beside his chair. It had been poorly arranged. Obviously. Caleb added:
-
-“And you put your keys in the refrigerator.”
-
-Taiga frowned.
-
-“What?”
-
-Caleb pointed. Taiga opened the mini-fridge. Keys. Top shelf. Beside yogurt. Taiga stared. Caleb continued eating.
-
-“When?”
-
-“Six minutes ago.”
-
-“Why didn't you say anything?”
-
-“I wanted to see when you noticed.”
-
-Taiga slowly took the keys out.
-
-“You're becoming a worse person.”
-
-“Maya says I should experiment.”
-
-“This is not what she meant.”
-
-“I know.”
-
-Taiga put the keys into his pocket. His phone buzzed. Leo.
-
-**Leo:** assistant moved film to 9
-**Leo:** mercer wants set pieces first
-**Leo:** also enzo says he is dying
-
-Taiga typed:
-
-**Taiga:** tell him good luck
-
-**Leo:** i did
-**Leo:** he says you're heartless
-
-**Taiga:** he knew that
-
-Leo reacted with a heart. Taiga locked the screen. Caleb watched. Taiga looked up.
-
-“What?”
-
-Caleb looked back at his cereal.
-
-“Nothing.”
-
-Good.
-
----
-
-Wednesday's film session contained no table. Mercer had apparently meant what he said. Northbridge corners. Free kicks. Second phases. Throw-ins. The deeply unromantic parts of football. Taiga liked them.
-
-There was relief in being told exactly where to stand. Near post on defensive corners. Edge of box when Olympus attacked. Track number seventeen on long throws. Information.
-
-Film ended. People stood. Mercer called:
-
-“Akatora.”
-
-Taiga stopped. Most of the room kept moving. Leo looked back once from the door. Taiga tilted his head toward the hallway. Go. Leo went. Good. Mercer remained beside the screen.
-
-One of the assistant coaches gathered cones from a cabinet. Taiga walked down.
-
-“What?”
-
-Mercer looked at the tablet.
-
-“Saturday, you're with first-team matchday group.”
-
-Taiga waited. He had been with the first team before. Enough times that the sentence no longer caused heart failure.
-
-“Okay.”
-
-“Expect more than ten.”
-
-There. Taiga's stomach tightened.
-
-“How much more?”
-
-Mercer looked up.
-
-“How long is the match?”
-
-“Ninety.”
-
-“Then somewhere between zero and ninety.”
-
-Taiga stared. Mercer almost smiled. Almost.
-
-“We'll decide based on the game.”
-
-“Right.”
-
-“You've been useful off the bench. I want you prepared earlier.”
-
-Taiga nodded. Prepared earlier. Simple.
-
-“Got it.”
-
-Mercer returned to the tablet. Then:
-
-“Akatora.”
-
-Taiga had already turned.
-
-“Yeah?”
-
-“Do not spend the next three days trying to earn minutes I've already decided you're ready for.”
-
-Taiga stopped. The assistant coach looked suspiciously busy with the cones. Taiga said:
-
-“I wasn't going to.”
-
-Mercer looked at him. Taiga sighed.
-
-“Fine.”
-
-“Train normally.”
-
-“I know.”
-
-“Good.”
-
-Taiga left. Leo was outside. Not waiting directly beside the door. That would have been obvious. He was ten meters away talking to Enzo. Also obvious. 
-Enzo saw Taiga. Looked at Leo. Looked back at Taiga.
-
-“I'm going to get food.”
-
-Leo frowned.
-
-“We were getting food.”
-
-“Yes.”
-
-“Together.”
-
-Enzo pointed down the hallway.
-
-“I now need food from farther away.”
-
-“You are terrible at this.”
-
-“I know.”
-
-Enzo walked off. Taiga reached Leo.
-
-“You didn't have to wait.”
-
-“I know.”
-
-Leo started walking. Taiga followed.
-
-“So?”
-
-“First-team group Saturday.”
-
-Leo looked over.
-
-“You already knew that.”
-
-“More minutes.”
-
-Leo's face changed immediately. Bright.
-
-“How many?”
-
-“Mercer answered that like an asshole.”
-
-“That narrows nothing.”
-
-“Zero to ninety.”
-
-Leo laughed.
-
-“Yeah, that's Mercer.”
-
-They went down the stairs. Leo bumped Taiga's shoulder.
-
-“That's good.”
-
-“Could still be ten.”
-
-“Could.”
-
-“Could be none.”
-
-“Could.”
-
-Taiga looked at him. Leo smiled.
-
-“You want me to tell you it's definitely forty-five?”
-
-“No.”
-
-“Good, because I have no idea.”
-
-“That was very helpful.”
-
-“Thank you.”
-
-Outside, wind moved across the Sports Zone. They crossed toward Central. Taiga put his hands into his jacket pockets. Leo walked beside him. Not filling the silence immediately.
-
-That was unusual. Taiga glanced over. Leo noticed.
-
-“What?”
-
-“You're quiet.”
-
-“I can be quiet.”
-
-“Apparently.”
-
-“I was giving you a minute.”
-
-“For what?”
-
-“To do the thing where you pretend you don't care and then eventually admit you care a normal amount.”
-
-Taiga stared. Leo laughed.
-
-“Sorry. Too accurate?”
-
-“Fuck you.”
-
-“There he is.”
-
-Taiga shoved his shoulder lightly. Leo shoved back. They kept walking. After a minute Taiga said:
-
-“I want the minutes.”
-
-Leo nodded.
-
-“I know.”
-
----
-
-Thursday night, Caleb left at seven-twenty. Taiga knew because Caleb announced where he was going, which apparently counted as personal growth.
+Tuesday night, Caleb left at seven-twenty. Taiga knew because Caleb announced where he was going, which apparently counted as personal growth.
 
 “Maya has a remote presentation tomorrow.”
 
@@ -1478,11 +1152,339 @@ Leo facepalmed.
 
 ---
 
-Friday morning, the first-team squad sheet appeared outside the athletics offices at ten. Taiga did not go looking for it. He had class. Then lunch. Then strength training.
+By Wednesday, Olympus had fully resumed its preferred state of controlled collapse. Assignments multiplied. Dining lines returned. The library became impossible after four. Somebody had put a sign in the residence-hall laundry room asking people to remove clothes “WITHIN A SOCIALLY REASONABLE TIMEFRAME.”
 
-He found it because Enzo sent a photograph to the team chat.
+Caleb had photographed it. Taiga knew because Caleb showed him at breakfast.
 
-**SATURDAY — NORTHBRIDGE**
+“You agree with this.”
+
+“Obviously.”
+
+“What is socially reasonable?”
+
+“Seven minutes.”
+
+Taiga stopped chewing.
+
+“Why seven?”
+
+“Five is too strict if someone is walking from another floor. Ten creates unnecessary idle time.”
+
+“You've thought about this.”
+
+“Yes.”
+
+“Of course.”
+
+Caleb drank water. He had been quieter since Spring Break. Not sad. Just less occupied. Taiga noticed because the room was cleaner.
+
+Caleb cleaned when thinking. Taiga did not mention it. Caleb looked at Taiga's plate.
+
+“You're leaving early.”
+
+“Class.”
+
+“It is eight-fifteen.”
+
+“I know.”
+
+Caleb nodded. Then:
+
+“Your team is second.”
+
+Taiga stared.
+
+“How do you know that?”
+
+“You left the standings open yesterday.”
+
+“That is becoming a pattern.”
+
+“You leave things open.”
+
+“You look at everything.”
+
+“They are on the screen.”
+
+Taiga took another bite. Caleb continued.
+
+“One point.”
+
+“I know.”
+
+“Four matches?”
+
+“Yes.”
+
+Caleb considered.
+
+“That seems statistically unpleasant.”
+
+Taiga laughed.
+
+“That is the most Caleb way you could've said that.”
+
+“You are close enough that individual results matter more.”
+
+“That's how standings work.”
+
+“I know.”
+
+“Then why explain it?”
+
+“Because you looked nervous.”
+
+Taiga stopped. Caleb ate cereal. Taiga watched him.
+
+“I don't look nervous.”
+
+“You reorganized your bag twice.”
+
+Taiga looked at the bag beside his chair. It had been poorly arranged. Obviously. Caleb added:
+
+“And you put your keys in the refrigerator.”
+
+Taiga frowned.
+
+“What?”
+
+Caleb pointed. Taiga opened the mini-fridge. Keys. Top shelf. Beside yogurt. Taiga stared. Caleb continued eating.
+
+“When?”
+
+“Six minutes ago.”
+
+“Why didn't you say anything?”
+
+“I wanted to see when you noticed.”
+
+Taiga slowly took the keys out.
+
+“You're becoming a worse person.”
+
+“Maya says I should experiment.”
+
+“This is not what she meant.”
+
+“I know.”
+
+Taiga put the keys into his pocket. His phone buzzed. Leo.
+
+**Leo:** assistant moved film to 12:30
+**Leo:** mercer wants set pieces first
+**Leo:** also enzo says he is dying
+
+Taiga typed:
+
+**Taiga:** tell him good luck
+
+**Leo:** i did
+**Leo:** he says you're heartless
+
+**Taiga:** he knew that
+
+Leo reacted with a heart. Taiga locked the screen. Caleb watched. Taiga looked up.
+
+“What?”
+
+Caleb looked back at his cereal.
+
+“Nothing.”
+
+Good.
+
+---
+
+Wednesday's film session contained no table. Mercer had apparently meant what he said. Northbridge corners. Free kicks. Second phases. Throw-ins. The deeply unromantic parts of football. Taiga liked them.
+
+There was relief in being told exactly where to stand. Near post on defensive corners. Edge of box when Olympus attacked. Track number seventeen on long throws. Information.
+
+Film ended. People stood. Mercer called:
+
+“Akatora.”
+
+Taiga stopped. Most of the room kept moving. Leo looked back once from the door. Taiga tilted his head toward the hallway. Go. Leo went. Good. Mercer remained beside the screen.
+
+One of the assistant coaches gathered cones from a cabinet. Taiga walked down.
+
+“What?”
+
+Mercer looked at the tablet.
+
+“Tonight, you're with first-team matchday group.”
+
+Taiga waited. He had been with the first team before. Enough times that the sentence no longer caused heart failure.
+
+“Okay.”
+
+“Expect more than ten.”
+
+There. Taiga's stomach tightened.
+
+“How much more?”
+
+Mercer looked up.
+
+“How long is the match?”
+
+“Ninety.”
+
+“Then somewhere between zero and ninety.”
+
+Taiga stared. Mercer almost smiled. Almost.
+
+“We'll decide based on the game.”
+
+“Right.”
+
+“You've been useful off the bench. I want you prepared earlier.”
+
+Taiga nodded. Prepared earlier. Simple.
+
+“Got it.”
+
+Mercer returned to the tablet. Then:
+
+“Akatora.”
+
+Taiga had already turned.
+
+“Yeah?”
+
+“Do not spend the afternoon trying to earn minutes I've already decided you're ready for.”
+
+Taiga stopped. The assistant coach looked suspiciously busy with the cones. Taiga said:
+
+“I wasn't going to.”
+
+Mercer looked at him. Taiga sighed.
+
+“Fine.”
+
+“Prepare normally.”
+
+“I know.”
+
+“Good.”
+
+Taiga left. Leo was outside. Not waiting directly beside the door. That would have been obvious. He was ten meters away talking to Enzo. Also obvious. 
+Enzo saw Taiga. Looked at Leo. Looked back at Taiga.
+
+“I'm going to get food.”
+
+Leo frowned.
+
+“We were getting food.”
+
+“Yes.”
+
+“Together.”
+
+Enzo pointed down the hallway.
+
+“I now need food from farther away.”
+
+“You are terrible at this.”
+
+“I know.”
+
+Enzo walked off. Taiga reached Leo.
+
+“You didn't have to wait.”
+
+“I know.”
+
+Leo started walking. Taiga followed.
+
+“So?”
+
+“First-team group tonight.”
+
+Leo looked over.
+
+“You already knew that.”
+
+“More minutes.”
+
+Leo's face changed immediately. Bright.
+
+“How many?”
+
+“Mercer answered that like an asshole.”
+
+“That narrows nothing.”
+
+“Zero to ninety.”
+
+Leo laughed.
+
+“Yeah, that's Mercer.”
+
+They went down the stairs. Leo bumped Taiga's shoulder.
+
+“That's good.”
+
+“Could still be ten.”
+
+“Could.”
+
+“Could be none.”
+
+“Could.”
+
+Taiga looked at him. Leo smiled.
+
+“You want me to tell you it's definitely forty-five?”
+
+“No.”
+
+“Good, because I have no idea.”
+
+“That was very helpful.”
+
+“Thank you.”
+
+Outside, wind moved across the Sports Zone. They crossed toward Central. Taiga put his hands into his jacket pockets. Leo walked beside him. Not filling the silence immediately.
+
+That was unusual. Taiga glanced over. Leo noticed.
+
+“What?”
+
+“You're quiet.”
+
+“I can be quiet.”
+
+“Apparently.”
+
+“I was giving you a minute.”
+
+“For what?”
+
+“To do the thing where you pretend you don't care and then eventually admit you care a normal amount.”
+
+Taiga stared. Leo laughed.
+
+“Sorry. Too accurate?”
+
+“Fuck you.”
+
+“There he is.”
+
+Taiga shoved his shoulder lightly. Leo shoved back. They kept walking. After a minute Taiga said:
+
+“I want the minutes.”
+
+Leo nodded.
+
+“I know.”
+
+---
+
+Wednesday afternoon, the first-team matchday sheet appeared outside the athletics offices. Taiga did not go looking for it. He had already seen Mercer. That should have been enough.
+
+He found the sheet because Enzo sent a photograph to the team chat.
+
+**WEDNESDAY — NORTHBRIDGE — 19:00**
 
 Names. Starters first. Substitutes underneath. Taiga's eyes moved down automatically.
 
@@ -1508,7 +1510,7 @@ A student walking past looked over. Taiga kept moving. His phone buzzed.
 
 **Taiga:** you deserve it
 
-**Leo:** saturday
+**Leo:** tonight
 **Leo:** ready?
 
 Taiga looked at the squad sheet again. Four matches. One point. More minutes. He thought about Mercer telling him not to earn something already decided. Thought about the first training after break.
@@ -1521,5 +1523,7 @@ Then, because apparently that was no longer enough:
 
 **Taiga:** really fucking ready
 
-Leo reacted with a sun. Taiga put the phone away and headed to class.
+Leo reacted with a sun. Taiga put the phone away.
+
+Kickoff was at seven. For the first time since Spring Break, there was nothing left to do but get there.
 
