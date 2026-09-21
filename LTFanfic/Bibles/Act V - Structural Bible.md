@@ -760,6 +760,140 @@ This can immediately communicate something about Taiga to Leo's family:
 
 It also lets the family warm to him for reasons that belong specifically to Taiga rather than simply because Leo brought him home.
 
+
+---
+
+# 9B. Provisional Spanish Dialogue Rendering
+
+This convention is **provisional** and should be tested in the first Spanish-heavy chapters before being treated as permanently locked.
+
+The goal is to:
+- preserve the distinction between English and Spanish on the page;
+- avoid making Act V unreadable by writing large amounts of dialogue in actual Spanish;
+- preserve the difference between Taiga's **comprehension** and his **ability to produce Spanish**;
+- allow untranslated words to remain meaningful markers of what Taiga does not yet understand.
+
+## Baseline formatting
+
+### Ordinary roman dialogue
+Dialogue written normally means the character actually spoke English.
+
+Example:
+
+> "Where are you going?"
+
+The spoken language is English.
+
+### Italicized dialogue
+Dialogue inside quotation marks and italics means the character actually spoke Spanish, but the line is rendered in English for readability.
+
+Example:
+
+> "*Are you coming with us tomorrow?*"
+
+The spoken language is Spanish.
+
+The English rendering represents the meaning Taiga successfully understands.
+
+## Native speakers remain grammatical
+
+Do **not** deliberately break the English rendering merely because Taiga's own Spanish is weak.
+
+If Leo's mother speaks a grammatically correct Spanish sentence and Taiga understands it, render it as equally natural English:
+
+> "*Are you coming with us tomorrow?*"
+
+Taiga can understand correct Spanish before he is capable of reproducing it himself.
+
+His receptive ability and productive ability must remain separate.
+
+## Taiga's spoken Spanish can remain visibly imperfect
+
+When **Taiga himself** speaks Spanish, the italicized English can mirror the mistakes he is actually making.
+
+Example:
+
+> "*Yes. I go with you tomorrow.*"
+
+This means:
+- Taiga spoke Spanish;
+- the intended meaning was clear;
+- his actual Spanish grammar was imperfect.
+
+As his production improves, his rendered Spanish should become progressively more natural.
+
+This gives the prose a visible measure of his growth without requiring pages of actual Spanish.
+
+## Partially understood sentences
+
+If Taiga understands most of a Spanish sentence but does **not** understand a particular word, keep the understood portion italicized and leave the unknown Spanish word in ordinary roman type.
+
+Example:
+
+> "*We're going to the* colmado *before lunch.*"
+
+This means:
+- the whole line was spoken in Spanish;
+- Taiga understood the surrounding sentence;
+- he did not understand **colmado** itself.
+
+The untranslated word remains actual Spanish because that is what Taiga experiences.
+
+## Fully or mostly incomprehensible speech
+
+Do not automatically print long blocks of untranslated Spanish merely because Taiga cannot understand them.
+
+If he understands almost nothing, POV narration can summarize his experience instead.
+
+For example:
+- a sentence moves too quickly for him;
+- he catches only two familiar words;
+- overlapping relatives erase the structure entirely;
+- he recognizes a name but not the surrounding sentence.
+
+Actual Spanish should remain on the page when:
+- a specific unknown word matters;
+- the sound itself matters;
+- somebody is teaching or correcting Taiga;
+- a short phrase is important;
+- the reader benefits from hearing exactly what Taiga hears.
+
+The convention exists to preserve readability, not to maximize visible Spanish.
+
+## Important comprehension rule
+
+The italicized English is **not automatically broken English produced by Taiga's brain**.
+
+It is the readable rendering of Spanish that he successfully understands.
+
+Therefore:
+- correct native Spanish that Taiga understands → correct natural English;
+- imperfect Spanish spoken by Taiga → English that mirrors his actual mistakes;
+- partial comprehension → translated portion plus untranslated Spanish gaps;
+- no meaningful comprehension → narration or selectively preserved Spanish.
+
+This distinction must remain consistent throughout Act V.
+
+## Internal thoughts
+
+Italic internal thoughts remain distinguishable because they are not inside quotation marks.
+
+Example:
+
+> *What the fuck does that mean?*
+
+= Taiga's internal thought.
+
+> "*What does that mean?*"
+
+= Spanish dialogue rendered in English.
+
+## Status
+
+Do **not** treat this convention as fully locked until it has been tested in actual Act V prose.
+
+If the first family scenes reveal that another system reads more naturally, revise the rule rather than forcing the manuscript to obey a format that does not work.
+
 ---
 
 # 10. Act Length and Calendar Shape
