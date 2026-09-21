@@ -247,7 +247,7 @@ Leo looked at him.
 
 Taiga checked the cut against the frame.
 
-“Yeah. Three years ago. The term that got me fucked up.”
+“Yeah. Three summers ago. The term that got me fucked up.”
 
 Leo leaned one shoulder against the wall.
 
@@ -1076,7 +1076,7 @@ Leo nodded. Taiga looked at him.
 
 Taiga almost laughed. He lay back on the bed.
 
-“It's just… it felt very similar to what happened last year with Keitaro.”
+“It's just… it felt very similar to what happened that summer with Keitaro.”
 
 Leo locked his phone and raised his head.
 

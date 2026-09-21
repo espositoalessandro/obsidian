@@ -255,7 +255,7 @@ Do not improvise additional details of the SportsFest mechanism unless a direct 
 
 # 10. Main Camp Buddy Summer — Taiga's Redemption
 
-The defining Camp Buddy summer happens **immediately before Taiga begins at Olympus**, not many years earlier.
+The defining Camp Buddy redemption summer happens **before the Scoutmaster Season renovation year and Taiga's third summer at camp**, not many years earlier.
 
 Taiga's redemption chain is:
 

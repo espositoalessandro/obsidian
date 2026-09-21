@@ -442,7 +442,7 @@ Taiga took a second to realize the implications of his question. Leo panicked.
 
 “Oh! I didn’t know they were together.”
 
-“They got together last year.”
+“They got together a couple summers ago.”
 
 “I see.”
 
