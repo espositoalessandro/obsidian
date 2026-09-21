@@ -236,7 +236,7 @@ Leo arrives at Camp Buddy for the first time.
 
 Important continuity:
 - Leo had never met the original Camp Buddy group before this trip;
-- Yoichi invents "Sunshine" on first meeting;
+- Yoichi invents "Sunball" on first meeting;
 - Yuri, Aiden, Yoshinori and Goro meet Leo as Taiga's Olympus friend;
 - Leo and Yoichi begin an independent rapport;
 - Taiga and Leo share Cabin Two;
