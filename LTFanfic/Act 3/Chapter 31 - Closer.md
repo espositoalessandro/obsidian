@@ -550,14 +550,14 @@ Yoichi raised his bottle.
 
 Yuri continued with a strange shine in her eyes.
 
-"To everlasting love!"
+“To everlasting love!”
 
 She looked directly at Taiga and Leo.
-They both spit out.
+They both spat it out.
 
 Yoichi lowered his bottle.
 
-"Lame again."
+“Lame again.”
 
 Yoshinori lifted his too.
 
@@ -601,7 +601,7 @@ Leo was grinning.
 
 “How did Goro fall in?”
 
-“Ehm. I did not fall.”
+“Ahem. I did not fall.”
 
 Yuri stood up. Goro's face changed.
 
@@ -627,7 +627,7 @@ Yuri continued.
 
 “Observe the master.”
 
-Then she leaned dramatically to one side and windmilled both arms. Aiden supplied the splash with both hands. Yoshinori bent forward laughing. Leo nearly spilled his beer. Taiga had to put his own bottle down. Goro watched all of them. 
+Then she leaned dramatically to one side and windmilled both arms. Aiden supplied the splash with both hands. Yoshinori bent forward laughing. Leo nearly spilled his beer. Taiga had to put his own bottle down. Goro watched all of them.
 His expression suggested murder had become administratively reasonable.
 
 “The canoe was clearly defective.”
@@ -696,100 +696,101 @@ Taiga drank. Aiden narrowed his eyes. Five minutes later he gave Yuki half a sau
 
 “This is controlled.”
 
-Leo held out his hand without looking. Taiga slapped ten bucks into it. By the middle of the second beer, the fire felt warmer. So did everything else. Taiga's shoulders had loosened. Leo's cheeks were pink. He stood up saying something resembling "bathroom"
-and went to the cabin. Taiga watched him go away. When he turned, Yuri was looking at him. 
+Leo held out his hand without looking. Taiga slapped ten bucks into it. By the middle of the second beer, the fire felt warmer. So did everything else. Taiga's shoulders had loosened. Leo's cheeks were pink. He stood up saying something resembling “bathroom”
+and went to the cabin. Taiga watched him go away. When he turned, Yuri was looking at him.
 
-"Oh this is perfect. So perfect."
+“Oh this is perfect. So perfect.”
 
-Taiga felt danger incoming
+Taiga felt danger coming.
 
-"What."
+“What?”
 
-"A complicated triangle. Eventually the rival gets defeated so the other can claim his prince."
+“A complicated triangle. Eventually the rival gets defeated so the other can claim his prince.”
 
 She had that shine again in her eyes.
-Aidan intervened.
+Aiden intervened.
 
-"She becomes even worse with alcohol."
+“She becomes even worse with alcohol.”
 
-"BUT IT'S SO PERFECT! OH THIS IS GONNA TURN INTO A PERFECT FANFIC~"
+“BUT IT'S SO PERFECT! OH, THIS IS GONNA TURN INTO A PERFECT FANFIC~”
 
 Taiga groaned. Aiden put a hand on her shoulder.
 
-"Yuri chill, you're gonna have one of your attacks again."
+“Yuri, chill. You're gonna have one of your attacks again.”
 
 Somehow he managed to get her to calm down.
 
-After a while Leo came back. Yuri looked at him as if she was staring into his soul. 
+After a while Leo came back. Yuri looked at him as if she was staring into his soul.
 Leo gulped.
 
-"Did I miss something?"
+“Did I miss something?”
 
 Taiga sighed
 
-"Nothing new."
+“Nothing new.”
 
 Leo shrugged and sat on the ground beside Taiga, leaning his back on the log and resting his shoulder against Taiga's leg.
 
-That was the finishing blow. Yuri exploded
+That was the finishing blow. Yuri exploded:
 
-"KYAAAAAAA"
+“KYAAAAAAA”
 
-And fainted backward. 
+And fainted backward.
 Aiden sighed.
 
-"I'll go fetch some water"
+“I'll go fetch some water.”
 
 Yoshinori saw the scene. He went still for a couple of seconds looking at Yuri.
-Then he burst in laugh again.
+Then he burst out laughing again.
 
-Goro put his fingers on his eyes, surrendering.
+Goro pressed his fingers to his eyes, surrendering.
 
-Leo and Taiga laughed as well. Yoshinori was starting to get contagious as well.
-Aiden returned with a bucket and a towel. 
-Leo looked at Taiga,
+Leo and Taiga laughed as well. Yoshinori's laughter was starting to become contagious.
+Aiden returned with a bucket and a towel.
+Leo looked at Taiga.
 
-"Is this how they usually handle it?"
+“Is this how they usually handle it?”
 
-"Pretty much, yeah."
+“Pretty much, yeah.”
 
-Aiden flushed her face. Yuri resurrected.
+Aiden splashed water on her face. Yuri resurrected.
 
-"What happened?"
+“What happened?”
 
 Aiden gave her the towel.
-"You fell off the log."
 
-"Oh fine!"
+“You fell off the log.”
 
-Than she returned arguing with the others.
+“Oh, fine!”
+
+Then she went right back to arguing with the others.
 
 Taiga looked down at Leo, who looked back. They both smiled. Then Leo leaned on his legs again, resting his head on Taiga's thigh.
 
-"You know, I'm gonna miss this so much."
+“You know, I'm gonna miss this so much.”
 
-"Yeah. Camp does this."
+“Yeah. Camp does this.”
 
-Leo paused and look at the firepit. Then at the scoutmaster arguing. Then at Lloyd trying to convincing Goro to read his future. Then at Darius that was making sure Lloyd didn't fall from the log, since he didn't seem that stable after one beer.
+Leo paused and looked at the firepit. Then at the scoutmasters arguing. Then at Lloyd trying to convince Goro to let him read his future. Then at Darius, making sure Lloyd didn't fall off the log since he didn't seem that stable after one beer.
 
 Leo sighed.
 
-"This is really good."
+“This is really good.”
 
-"You know summer isn't that far away."
+“You know summer isn't that far away.”
 
 Leo looked at him.
 Taiga continued.
 
-"You can come if you want."
+“You can come if you want.”
 
 Leo smiled.
 
-"That'd be nice."
+“That'd be nice.”
 
-They went back enjoying the evening.
+They went back to enjoying the evening.
 
-Yuri was arguing with Goro about whether marshmallows had an expiration date. Aiden was losing a bottle cap under his chair. Yoichi was insulting Lloys's taste in beer despite drinking the same beer. Yoshinori had apparently decided this was all perfectly acceptable. Taiga moved to made Leo rest his back between his legs. Yuri's eyes moved down. Then up. She smiled into her bottle. Taiga stared at her. Yuri's eyebrows lifted. Taiga narrowed his eyes. She took another drink. Nothing came out of her mouth. Apparently there was wisdom in booze.
+Yuri was arguing with Goro about whether marshmallows had an expiration date. Aiden was losing a bottle cap under his chair. Yoichi was insulting Lloyd's taste in beer despite drinking the same beer. Yoshinori had apparently decided this was all perfectly acceptable. Taiga shifted so Leo could rest his back between his legs. Yuri's eyes moved down. Then up. She smiled into her bottle. Taiga stared at her. Yuri's eyebrows lifted. Taiga narrowed his eyes. She took another drink. Nothing came out of her mouth. Apparently there was wisdom in booze.
 
 The bottle-cap game started because Aiden missed the trash bag. His cap bounced off the rim and landed in the dirt. Yoichi looked at it.
 
@@ -813,7 +814,7 @@ Two minutes later everybody was competing over garbage. The trash bag sat beside
 
 “I am sitting directly beside you.”
 
-“I know. Impressive right?”
+“I know. Impressive, right?”
 
 Yoshinori made his first throw perfectly. Dead center. Everybody stared. He blinked.
 
@@ -1007,7 +1008,7 @@ Yoichi answered immediately.
 
 Goro looked at him.
 
-“You avoid them anyways.”
+“You avoid them anyway.”
 
 “Exactly. Imagine how bad the ones I do are.”
 
@@ -1089,8 +1090,8 @@ Leo looked at Taiga.
 
 “I had good teachers.”
 
-The words were normal. The look was not. Taiga's stomach shifted. 
-Yuri saw that too. Still silent. Taiga was now convinced somebody had threatened her. 
+The words were normal. The look was not. Taiga's stomach shifted.
+Yuri saw that too. Still silent. Taiga was now convinced somebody had threatened her.
 The fire burned lower. Nobody rushed to add another log. The night had softened around them. Aiden collected empty plates. Yoichi stole the last sausage while pretending to help. Goro caught him. Yoichi ate it before anything could be done. Yoshinori had reached the stage where every time Yuri made eye contact with him, he started laughing before she even said anything. That became its own game. Yuri turned toward him. Yoshinori smiled. She raised one eyebrow. He covered his mouth. Aiden stared.
 
 “What is happening?”
@@ -1256,7 +1257,7 @@ Leo started windmilling his arms, and Taiga caught him just before he could fall
 
 Taiga smiled but refused to let him go. He grabbed Leo around the waist and got him through the door.
 Leo didn't complain much.
-He tried to drop him on the bed, but Leo cling to Taiga and pulled him down with him.
+He tried to drop him onto the bed, but Leo clung to Taiga and pulled him down with him.
 They fell onto the bed with their faces dangerously close.
 
 Taiga's mind went completely blank.
@@ -1291,13 +1292,13 @@ Taiga smiled too, but suddenly that eternity felt like it had ended much too qui
 
 Except Leo didn't.
 
-Instead, he pulled Taiga down again and rolled over him. Now Taiga was laying on his back and Leo was laying on top of him.
-Le made himself comfortable, folding his hands beneath his chin and resting them on Taiga's chest.
+Instead, he pulled Taiga down again and rolled over him. Now Taiga was lying on his back and Leo was lying on top of him.
+Leo made himself comfortable, folding his hands beneath his chin and resting them on Taiga's chest.
 
 “Or what?”
 
 The sudden shift in his tone caught Taiga completely off guard.
-Still playful, nut teasing in a different way now.
+Still playful, but teasing in a different way now.
 
 There was something different in the way Leo was looking at him.
 Something mischievous.
@@ -1320,9 +1321,9 @@ And with Leo lying over him like this, Taiga could feel Leo's heart beating agai
 
 Fast.
 
-Leo adjusted his weight and brushed with his legs on his crotch.
+Leo adjusted his weight and brushed a leg against Taiga's crotch.
 A jolt ran down Taiga's spine and settled much lower.
-His breath caught. He could feel the pression in his jeans
+His breath caught. He could feel the pressure in his jeans.
 
 Leo's expression changed. The mischievous grin disappeared. Surprise took its place.
 Then, inevitably, embarrassment.
@@ -1334,9 +1335,9 @@ Leo looked at him, again with surprise.
 
 He could feel Leo's heart racing fast. Leo looked down, then back at him.
 
-"What?"
+“What?”
 
-"Don't go."
+“Don't go.”
 
 “Are you sure about that?”
 
@@ -1358,7 +1359,7 @@ Leo froze completely.
 
 “...Yes.”
 
-Then Taiga let go of Leo's shoulder and slowly reached for his hand. 
+Then Taiga let go of Leo's shoulder and slowly reached for his hand.
 He didn't resist.
 
 Taiga took Leo's hand and started guiding it toward his crotch.
@@ -1376,20 +1377,20 @@ Desire.
 Happiness?
 
 He was sure he had the same set written all over his own face.
-The world had stopped existing. 
+The world had stopped existing.
 There was only Leo, lying over him.
 His breath, his heart, his heat.
 His hand slowly moving downward.
 Taiga made sure not to rush.
 He guided it over his chest, then slowly over his abdomen.
-Leo shifted slightly to the side, and the pressure over Taiga's crotch eased. 
+Leo shifted slightly to the side, and the pressure over Taiga's crotch eased.
 He felt it pulsing aggressively under the jeans.
 
 Then he continued moving his hand over his lower abdomen.
 Finally, Leo's hand reached it.
 Leo gasped, and Taiga could feel his hand trembling slightly as his fingers tightened around the shape.
 
-Taiga let Leo's hand go and put its own under his head. 
+Taiga let Leo's hand go and put his own under his head.
 
 Now it was Taiga's turn to wear a mischievous grin.
 Leo's expression slowly settled back into a confident smile as he kept massaging Taiga.
@@ -1398,7 +1399,7 @@ Then he said, “Can I...?”
 
 “Go ahead.”
 
-Leo looked down and began to undo Taiga's belt. 
+Leo looked down and began to undo Taiga's belt.
 Then the button of his jeans.
 He slowly pulled down the zipper and put his hand back.
 
@@ -1436,7 +1437,7 @@ Taiga didn't waste any time with the jeans and immediately reached for the belt.
 
 “Introductions are already over.”
 
-Leo smiled and temporarily pulled his hand away to take off his belt. 
+Leo smiled and temporarily pulled his hand away to take off his belt.
 He left the rest to Taiga.
 Then his hand went immediately back under Taiga's jeans.
 
@@ -1450,7 +1451,7 @@ Then his hand went immediately back under Taiga's jeans.
 
 “Well, it still doesn't, to be fair.”
 
-Leo stopped. 
+Leo stopped.
 He didn't answer.
 His grin got wider.
 
@@ -1459,10 +1460,10 @@ His grin got wider.
 Then he shoved his hand under Taiga's pants.
 Taiga felt an immediate jolt of pleasure run down his spine and let out a small grunt.
 
-“Eheh, told you.”
+“Heh, told you.”
 
 Taiga didn't answer. Leo's hand immediately wrapped his whole dick and started moving slowly up and down.
-He closed his eyes and enjoyed the sensation. Leo's warm hand moved up and down, squeezing him firmly but gently. 
+He closed his eyes and enjoyed the sensation. Leo's warm hand moved up and down, squeezing him firmly but gently.
 Taiga's breath got heavier and an urge built up from his chest.
 
 He went back to unbutton Leo's jeans.
@@ -1476,17 +1477,17 @@ Then they found the hard shape underneath.
 Another jolt of pleasure ran through his body as he started massaging it.
 Leo let out a couple of heavy breaths and increased his pace a little.
 
-Taiga lingered over the fabric only briefly, then immediately pulled Leo's underwear down. 
+Taiga lingered over the fabric only briefly, then immediately pulled Leo's underwear down.
 
 He started returning the favor, wrapping his hand around Leo's dick with his thumb pointing toward Leo's balls.
 Leo pulled Taiga's pants down as well, finally exposing him.
 
 Taiga looked down, and he could finally see both of them.
 
-They both started increasing their pace, locking eyes. 
-Their breathing grew heavier and heavier. 
+They both started increasing their pace, locking eyes.
+Their breathing grew heavier and heavier.
 
-Taiga rotated his hand, his thumb now facing the tip. 
+Taiga rotated his hand, his thumb now facing the tip.
 Then he increased his speed again.
 Leo groaned heavily and briefly rolled his eyes back.
 They kept going like that for a couple of minutes.
@@ -1517,7 +1518,7 @@ Eventually Leo squeezed his eyes shut.
 
 “Fuck—ahh.”
 
-Taiga could feel Leo's dick pulsing strongly and his hand getting wet as Leo came. 
+Taiga could feel Leo's dick pulsing strongly and his hand getting wet as Leo came.
 He refused to let go of Leo's head, but slowly stopped moving his hand.
 Leo kept panting, but he recovered almost instantly and his hand kept going.
 
@@ -1543,16 +1544,16 @@ Taiga realized he was pressing their heads together too tightly.
 
 “Sorry,” he said weakly as he let Leo's head go.
 
-Leo didn't pull back. He kept contact, panting heavily as they slowly recovered their breath.
+Leo didn't pull back. He stayed close, panting heavily as they slowly recovered their breath.
 Eventually Leo looked down and started laughing between breaths.
 
-“Please tell me that was at least one month's worth of cum.”
+“Please tell me that was at least a month's worth of cum.”
 
 Taiga laughed as well.
 
 “Don't get your hopes up.”
 
-“Seriously... how long?”
+“Seriously… how long?”
 
 “Don't know. Maybe a couple of days.”
 
