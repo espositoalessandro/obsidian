@@ -266,7 +266,7 @@ Leo pointed at the menu.
 
 “You still drank it.”
 
-“I was vulnerable.”
+“I was very vulnerable.”
 
 They reached the counter. Leo ordered something with milk. Taiga ordered black coffee. The barista gave Leo his receipt. Leo stepped aside. His hand found Taiga's elbow and pulled him two inches out of the way of a student carrying four drinks.
 
@@ -290,7 +290,7 @@ Leo's mouth twitched.
 
 “Bad ones.”
 
-Leo laughed. Taiga let go of his wrist. Leo's hand remained where it was until their drinks were called. No discussion. Good. They took the coffee outside. The tables had filled.
+Leo laughed. Taiga let go of his wrist. Leo's hand remained where it was until their drinks were called. They took the coffee outside. The tables had filled.
 
 Leo looked around.
 
