@@ -403,7 +403,7 @@ Leo's eyes lifted. Taiga met them. For a second. Then Leo looked down again. Lun
 
 ---
 
-Kieran was not in the dining hall after lunch. He was not by the lodge, not at the dock. Taiga checked Cabin Three last because he already knew. The door was open. Kieran's duffel sat on the bed. Half full. Taiga stopped in the doorway. Kieran was folding a sweatshirt. He looked up. Neither spoke for a second. Then Taiga said:
+Kieran was not in the mess hall after lunch. He was not by the lodge, not at the dock. Taiga checked Cabin Three last because he already knew. The door was open. Kieran's duffel sat on the bed. Half full. Taiga stopped in the doorway. Kieran was folding a sweatshirt. He looked up. Neither spoke for a second. Then Taiga said:
 
 “You're leaving.”
 
