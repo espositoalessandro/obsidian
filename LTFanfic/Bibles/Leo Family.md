@@ -2699,9 +2699,298 @@ Do:
 - keep Mercedes as its gravitational center.
 
 
+
 ---
 
-# 10. Family Members Still To Build
+# 10. Act V Arrival, Bedroom and Household Logistics — LOCKED
+
+## Airport arrival
+
+Taiga arrives through **Las Américas International Airport (SDQ)**.
+
+Leo and Manuel pick him up together.
+
+The drive home should function as Taiga's first geographic introduction to Leo's world:
+- airport;
+- denser Santo Domingo metropolitan areas;
+- gradual movement west / northwest;
+- increasingly lower-density surroundings;
+- La Guáyiga / Pedro Brand;
+- the quieter Méndez neighborhood;
+- finally the family compound.
+
+The exact driving time should remain flexible in prose because Santo Domingo traffic can vary substantially.
+
+The important narrative effect is the transition:
+
+> **airport → metropolitan Santo Domingo → western outskirts → quieter family neighborhood → Méndez compound**
+
+Manuel should normally be the driver for this arrival.
+
+---
+
+## Family transport
+
+All four working adults:
+- Carmen;
+- Manuel;
+- Ramón;
+- Isa;
+
+should be able to drive.
+
+The extended family can have access to cars as needed for work and family logistics.
+
+Do not make the story car-dependent by default.
+
+For Leo and Taiga:
+- use public transportation where practical;
+- use the Los Alcarrizos / Santo Domingo transit connection when it makes sense;
+- walking, local transport and Metro connections can all be part of their independence;
+- borrowing a family car should be situational rather than automatic.
+
+Leo's own driving status does **not** need to be locked yet.
+
+Do not invent a driving license merely to simplify a scene.
+
+---
+
+## Leo's bedroom — core identity
+
+Leo's room at home is still recognizably **his teenage bedroom**.
+
+It has not been transformed into a generic guest room since he left for Olympus.
+
+The room should show at least two long-standing parts of Julio:
+- football;
+- gaming.
+
+### Football traces
+
+Possible elements:
+- old team photos;
+- medals / trophies if earned;
+- football memorabilia;
+- old boots or equipment;
+- school-team traces;
+- objects linked to specific childhood / teenage seasons.
+
+Do not turn the room into a football shrine.
+
+### Gaming — canonical interest
+
+**Leo canonically loves gaming.**
+
+This should be visible immediately in the room.
+
+The setup should feel accumulated over years rather than designed as an expensive showcase.
+
+Possible elements:
+- desk;
+- monitor;
+- console and/or gaming PC depending on later needs;
+- controllers;
+- headset;
+- stacked games / cases if appropriate;
+- old peripherals;
+- cables;
+- a chair that has been used heavily;
+- some equipment Leo took to Olympus, leaving older items behind.
+
+The family can afford good gaming equipment, but it should feel:
+- bought deliberately;
+- upgraded over time;
+- used;
+- personal;
+
+not like an extravagant influencer battlestation.
+
+Gaming gives Taiga another piece of pre-Olympus Leo:
+- Leo can genuinely spend long stretches absorbed in a game;
+- this private hobby coexists naturally with his social personality;
+- it should not be reframed as secretly antisocial behavior.
+
+### Other room traces
+
+The room can gradually reveal:
+- school-era objects;
+- family photos;
+- things Dani has interacted with / stolen / returned;
+- something Antonio made;
+- old objects Leo forgot existed;
+- teenage clutter that survived cleaning;
+- evidence of interests that changed or disappeared.
+
+Do not inventory all of this on arrival.
+
+Let Taiga discover details over time.
+
+The emotional function is:
+
+> Taiga has known **Leo at Olympus**.  
+> Now he is physically entering **Julio before Olympus**.
+
+---
+
+## Sleeping arrangement — LOCKED
+
+Leo's permanent bed is a **normal single bed**.
+
+Do not give him a conveniently oversized double / king bed.
+
+Before Taiga arrives, the family prepares a **convertible sofa / sofa bed** inside Leo's bedroom.
+
+It is opened beside Leo's existing bed, with the two sleeping surfaces pushed together as much as practical.
+
+They therefore function like an improvised larger bed while still visibly being:
+- two different mattresses;
+- two pieces of furniture;
+- a temporary adaptation.
+
+Possible physical imperfections are useful:
+- different firmness;
+- slightly different height;
+- a seam / gap;
+- one side less comfortable than the other.
+
+The arrangement communicates family acceptance without requiring a speech.
+
+Carmen's practical logic is simply:
+
+> Julio's bed sleeps one person. Two people are staying there. Add another bed.
+
+Nobody seriously proposes separating them.
+
+They are an established adult couple staying together for several weeks.
+
+---
+
+## Carmen preparing the room
+
+Carmen is likely to prepare the room aggressively before Taiga arrives.
+
+Possible behavior:
+- fresh sheets;
+- fresh towels;
+- deep cleaning;
+- moving objects Leo would rather she had left alone;
+- clearing enough space for Taiga's luggage;
+- making the sofa bed properly.
+
+This can create a natural Leo / Carmen beat:
+
+> Carmen sees preparation as obvious hospitality.  
+> Leo sees evidence that his mother has reorganized his room.
+
+Do not make this a conflict.
+
+It should feel affectionate and mildly invasive in a very Carmen way.
+
+---
+
+## Romantic privacy
+
+The family treats Leo and Taiga's relationship as normal.
+
+The fact that they share Leo's room is not itself a family controversy.
+
+The household assumption should be:
+- bedrooms are more private than patios / kitchens / living rooms;
+- family members can tease;
+- Dani can ask invasive questions;
+- Ramón may eventually make Leo regret giving him material;
+- Mercedes can be shameless;
+- but nobody treats the couple as morally suspicious for sleeping in the same room.
+
+Do not create a conservative separate-bedroom rule unless later plot explicitly requires one.
+
+This privacy baseline allows the compound to be socially dense while still giving Leo and Taiga a real retreat.
+
+---
+
+## Language behavior at home — LOCKED
+
+The family should **not switch en masse to English for Taiga**.
+
+Spanish remains the default language of the household and wider family network.
+
+Current working rule:
+- **Leo:** fully bilingual / fluent enough to bridge naturally;
+- **Dani:** can use English sometimes, including for fun, curiosity or to make something easier for Taiga;
+- **Carmen:** knows some English words / fragments and may occasionally use them;
+- **Manuel, Ramón, Isa, Mercedes, Antonio and most extended relatives:** primarily Spanish unless later characterization establishes otherwise.
+
+Do not make every relative suddenly competent in English for scene convenience.
+
+This is important because Taiga's Spanish preparation must matter.
+
+As Taiga improves, Leo should translate less.
+
+---
+
+## Leo's birthday — May 24 — household shape
+
+Leo's birthday should have two distinct halves.
+
+### Daytime
+
+Leo and Taiga spend the day **alone together somewhere outside the house**.
+
+This should:
+- give them couple time;
+- let Taiga see Santo Domingo / Leo's world through Leo personally;
+- remain enjoyable;
+- not yet become a major psychological conflict scene.
+
+Exact destination / activity can be decided while outlining.
+
+### Evening
+
+They return to **family chaos**.
+
+The evening birthday gathering should draw from:
+- the eight core residents;
+- Enzo;
+- nearby relatives;
+- cousins;
+- another Tío / Tía if useful;
+- family friends;
+- other people from the wider local network.
+
+It should feel larger than a planned dinner without becoming an absurd hundred-person event.
+
+The emotional goal remains:
+
+> **Of course Leo comes from this.**
+
+The birthday is joyful.
+
+Do not use it as the point where Leo's pattern visibly collapses.
+
+---
+
+## Enzo at home
+
+**Enzo will be present during Act V.**
+
+He does not need to live inside the family compound or become part of every family scene.
+
+Use him periodically.
+
+He should:
+- appear from time to time;
+- remain part of Leo's existing social world;
+- be present at Leo's birthday;
+- provide continuity between Olympus-Leo and home-Julio.
+
+Do not make Enzo structurally central to the family arc unless later scenes earn it.
+
+His exact connection to Santo Domingo / how often he is locally available can be clarified in prose or later continuity work.
+
+
+---
+
+# 11. Family Members Still To Build
 
 Current established roles / references that need full entries later:
 - additional extended family only when story-relevant
