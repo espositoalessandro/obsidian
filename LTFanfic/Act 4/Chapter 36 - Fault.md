@@ -2596,7 +2596,7 @@ Taiga wiped his face again.
 
 “Teenager.”
 
-“You were a teenager six months ago.”
+“You say that like twenty makes you ancient.”
 
 “Fuck off.”
 

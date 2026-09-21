@@ -1808,7 +1808,7 @@ Taiga smiled.
 
 “Questionable.”
 
-“You survived eighteen years without me.”
+“You survived your whole life without me.”
 
 Leo looked offended.
 
