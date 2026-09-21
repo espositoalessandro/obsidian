@@ -465,7 +465,9 @@ Use these as broad source-lore anchors.
 - Yuki;
 - outdoors;
 - found-family attachment to Camp Buddy;
-- abrasive social style covering real investment.
+- abrasive social style covering real investment;
+- hates chores and assigned work, and will avoid or escape them whenever he reasonably can;
+- is **not lazy**: when something genuinely needs doing, he will work and can be competent, but he complains throughout and does not seek out extra jobs once the obligation is gone.
 
 ## Taiga
 - competitive;
