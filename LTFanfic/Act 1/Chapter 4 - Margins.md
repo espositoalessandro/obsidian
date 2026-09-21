@@ -1268,7 +1268,7 @@ Taiga turned the pillow over, closed his eyes and went back to sleep.
 
 ---
 
-Monday brought the first General Chemistry lab session. Taiga had disliked the laboratory before anything happened in it. Goggles fogged. Gloves made his hands feel clumsy. The benches were too crowded. Every bottle had three labels, two hazard symbols and a warning written as if somebody in a previous year had attempted to drink it.
+Wednesday brought the first General Chemistry lab session. Taiga had disliked the laboratory before anything happened in it. Goggles fogged. Gloves made his hands feel clumsy. The benches were too crowded. Every bottle had three labels, two hazard symbols and a warning written as if somebody in a previous year had attempted to drink it.
 
 He looked around and saw a familiar blond head. A small, private wave of embarrassment arrived with the recognition. Taiga ignored it. Leo was sitting next to a girl and talking. Taiga didn't bother making him aware of his presence.
 
