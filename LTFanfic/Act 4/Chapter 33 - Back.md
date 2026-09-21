@@ -1141,7 +1141,7 @@ Leo nodded and sat on the edge of Taiga's bed. He put his coffee on the floor be
 
 “It is how quantity works.”
 
-Taiga took it anyway. He returned to his desk. Leo opened the laptop across his thighs. Thirty seconds later:
+Taiga took it anyway. He returned to his desk. Leo opened the laptop across his thighs. Five minutes later:
 
 “Oh, fuck me.”
 
@@ -1275,13 +1275,13 @@ Taiga reached across Leo's keyboard. Changed it to `leoWetSock`. Leo gasped.
 
 “Yes.”
 
-Leo laughed. Taiga left his hand near the trackpad for a second longer than necessary. Leo's fingers rested beside it. Their little fingers touched. Neither moved. Then Leo resumed typing.
+Leo laughed. Taiga left his hand near the trackpad for a second longer than necessary. Leo's fingers rested beside it. Their fingers touched. Neither moved. Then Leo resumed typing.
 
 Taiga returned to his own screen. The contact disappeared. A few minutes later their knees ended up touching instead. Then their thighs. The bed was not small enough to require it.
 
 At nine-sixteen, Taiga submitted. Leo did the same thirty seconds later. Both confirmation screens appeared. Leo closed his laptop. Taiga closed his. No fans. No typing. Just the heating system clicking somewhere in the wall and footsteps passing in the corridor.
 
-Taiga leaned against the wall. Leo stretched his legs out, then shifted backward until he was leaning against it too.
+Taiga leaned against the wall with his head. Leo stretched his legs out.
 
 “Productive evening.”
 
@@ -1325,9 +1325,8 @@ Leo stopped and pulled his head back.
 
 “Sorry.”
 
-Taiga looked at him. Leo looked genuinely sorry. For some reason, that made him feel like shit. He couldn't bring himself to say anything. Without waiting for an answer, Leo rested his head on Taiga's shoulder again.
-
-Not doing anything else. Taiga was still really tense, feeling like he was frozen in place. Incapable of moving or talking. They stayed like that for a minute. Then Leo said:
+Taiga looked at him. Leo looked genuinely sorry. For some reason, that made him feel like shit. He couldn't bring himself to say anything. 
+Without waiting for an answer, Leo rested his head on Taiga's shoulder again, not doing anything else. Taiga was still really tense, feeling like he was frozen in place. Incapable of moving or talking. They stayed like that for a minute. Then Leo said:
 
 “Wanna watch a movie?”
 
@@ -1395,14 +1394,14 @@ Taiga looked at him.
 
 “You like musicals.”
 
-“Why did it sound like an attack?”
+“Why did it sound like an insult?”
 
 “Because it was.”
 
 “I'll have you know, musicals are a very established storytelling medium.”
 
-Taiga gave him a look. Then Leo reached for his laptop and opened the "Musicals" category. Yeah, Leo liked musicals. He kept scrolling. Movies kept popping up. Taiga looked at him.
-
+Taiga gave him a look. Then reached for Leo's laptop and opened the "Musicals" category. Yeah, Leo liked musicals. Taiga kept scrolling. Movies kept popping up. 
+Taiga looked at him.
 Leo's face had reddened a little.
 
 “Yeah. I like them.”
