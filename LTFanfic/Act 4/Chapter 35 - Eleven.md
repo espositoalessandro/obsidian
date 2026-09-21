@@ -1128,7 +1128,7 @@ Leo smiled.
 
 “Anytime.”
 
-Taiga leaned forward into the stretch. His legs were tired from Saturday. Good tired. Eighty-six minutes of first-team football. First start. One assist in the move for the equalizer.
+Taiga leaned forward into the stretch. His legs were tired from Saturday. Good tired. Eighty-six minutes of first-team football. First start. A cutback that helped create the equalizer.
 
 One-one. He held the stretch. Then switched legs. Next Saturday was another match. Two left. There would be another chance.
 

@@ -936,7 +936,7 @@ Then Mercer moved on. Taiga felt absurdly satisfied. He tried not to show it. Aa
 
 “That's worse.”
 
-Aaron laughed. They walked toward the locker room. Leo was ahead of them talking to another player. Taiga barely thought about him. Mostly. The assist sequence replayed once. Then faded.
+Aaron laughed. They walked toward the locker room. Leo was ahead of them talking to another player. Taiga barely thought about him. Mostly. The goal sequence replayed once. Then faded.
 
 ---
 
