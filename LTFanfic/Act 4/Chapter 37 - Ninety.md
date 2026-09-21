@@ -1,4 +1,4 @@
-Pinetree lost at eleven forty-seven. Taiga knew because half the Oracles in St. Vincent's visitors' team room lit up at once. The other half followed a second later.
+Pinetree lost at eleven forty-seven. Taiga knew because half the phones in St. Vincent's visitors' team room lit up at once. The other half followed a second later.
 
 Enzo looked first. Of course he did.
 
@@ -56,7 +56,7 @@ Mercer played the clip.
 
 “Stop trying to solve the table. Solve this.”
 
-Nobody touched an phone again.
+Nobody touched a phone again.
 
 ---
 
@@ -564,7 +564,7 @@ Taiga's face warmed again. He looked toward the aisle. Enzo was standing on his 
 
 Good distraction. Leo's fingers found Taiga's hand between the seats. Taiga looked down. Then threaded their fingers together. Twenty minutes later the songs got worse. Thirty minutes after that, Enzo finally ran out of voice.
 
-The bus quieted in pieces. Players slumped into seats. Oracles came out. Someone started snoring. Leo's head dropped against Taiga's shoulder. Taiga adjusted slightly so he wasn't resting against the window frame.
+The bus quieted in pieces. Players slumped into seats. phones came out. Someone started snoring. Leo's head dropped against Taiga's shoulder. Taiga adjusted slightly so he wasn't resting against the window frame.
 
 Leo's eyes stayed closed.
 
@@ -606,7 +606,7 @@ His phone had more than eighty unread notifications. Camp Buddy alone accounted 
 
 Olympus appeared just after seven. The bus entered campus through the north gate. Someone near the road recognized it. Then somebody else. By the time they reached the Sports Zone, a small crowd had formed outside the athletics building.
 
-Not huge. Students. A few House Apollo people. Some of the supporters who had made it back before them. Blue scarves. Oracles held up. Noise. Enzo woke up instantly.
+Not huge. Students. A few House Apollo people. Some of the supporters who had made it back before them. Blue scarves. phones held up. Noise. Enzo woke up instantly.
 
 “How are they already here?”
 
