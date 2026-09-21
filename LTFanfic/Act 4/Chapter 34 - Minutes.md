@@ -222,7 +222,7 @@ Enzo immediately started changing faster.
 
 ---
 
-Northbridge had changed one thing. Mercer put the new clip on screen. Their right winger was dropping deeper than he had in the film from Monday. Not by much.
+Northbridge had changed one thing. Mercer put the new clip on screen. Their right winger was dropping deeper than he had in the film from Tuesday. Not by much.
 
 Enough.
 
