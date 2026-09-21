@@ -808,7 +808,7 @@ He listened anyway.
 
 ---
 
-Campus emptied in layers. Nora left Thursday afternoon. She found Taiga outside Academic with one suitcase and a backpack. Her ride was waiting near the entrance gate.
+Campus emptied in layers. Nora left Thursday afternoon. Taiga found her outside Academic with one suitcase and a backpack. Her ride was waiting near the entrance gate.
 
 “Summer,” she said.
 
