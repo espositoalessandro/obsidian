@@ -917,14 +917,6 @@ After several good days:
 - Taiga notices;
 - Leo catches Taiga noticing.
 
-Possible dynamic:
-
-> "Don't."
-
-> "Didn't say anything."
-
-> "Your face did."
-
 The significance is that **Leo has started recognizing the pattern himself**.
 
 ## Family response
