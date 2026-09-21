@@ -217,7 +217,7 @@ Leo looked at Taiga.
 
 Kieran smiled. Yoichi looked toward the south cabins.
 
-“If Sunshine makes me play soccer for six hours, I'm leaving.”
+“If Sunball makes me play soccer for six hours, I'm leaving.”
 
 Leo pointed at him.
 
@@ -353,7 +353,7 @@ Yoichi stared at him.
 
 “You suck.”
 
-“Fuck you, Sunshine.”
+“Fuck you, Sunball.”
 
 Yoichi shoved Leo. Leo laughed. They used jackets for touchlines. There was no referee. That became a problem immediately. Leo scored first. Yoichi accidentally made a decent pass while trying to clear the ball, Leo caught it in stride, and Taiga was half a second too far left. Leo put it inside the far post. Then turned with both arms up.
 
@@ -416,7 +416,7 @@ Leo tossed the ball onto the grass.
 
 Yoichi looked at him.
 
-“Sunshine, chill.”
+“Sunball, chill.”
 
 “What now?”
 
