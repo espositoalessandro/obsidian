@@ -328,7 +328,7 @@ Leo glanced toward the lake.
 
 “Yeah. Let's go.”
 
-They went outside. There was no bags or destination announced. They passed the field. The maintenance shed. The activity hall. Leo slowed near the dog run when Yuki came to the fence. Yoichi was inside brushing mud from one of her paws. Leo crouched.
+They went outside. There was no bags or destination announced. They passed the field. The maintenance shed. The activity shed. Leo slowed near the dog run when Yuki came to the fence. Yoichi was inside brushing mud from one of her paws. Leo crouched.
 
 “Hey, girl.”
 
