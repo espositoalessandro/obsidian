@@ -420,7 +420,7 @@ Then Enzo added:
 
 ---
 
-The week did not become special because Taiga was starting. Owen still assigned work. Professor Bell still believed eighty pages could be called “supplementary.” The washing machine on Taiga's floor still ate one of his socks.
+The week did not become special because Taiga was starting. Owen still assigned work. Discrete Structures still treated eighty pages of notes and proofs as “supplementary.” The washing machine on Taiga's floor still ate one of his socks.
 
 Caleb still objected to Taiga calling the missing sock “stolen” because theft required intent. Wednesday night, Taiga found Leo in the library with six tabs open about musicals and none about Data Structures.
 

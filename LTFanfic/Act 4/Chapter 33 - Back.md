@@ -1,4 +1,4 @@
-Monday arrived with mud, though not Camp Buddy mud. That had texture—pine needles, gravel, actual evidence of having come from the ground. Olympus mud was gray water dragged across stone paths by several thousand shoes until every entrance mat on campus gave up.
+Tuesday arrived with mud, though not Camp Buddy mud. That had texture—pine needles, gravel, actual evidence of having come from the ground. Olympus mud was gray water dragged across stone paths by several thousand shoes until every entrance mat on campus gave up.
 
 Taiga stepped around a puddle outside the Computer Science building. Leo stepped directly into it. Water splashed over both shoes. Taiga looked down. Leo looked down too.
 
@@ -106,13 +106,13 @@ Taiga hated living with an economist. He had unpacked. Showered. Put the Camp Bu
 
 Then he had found a clean shirt near the bottom of his bag with one blond hair stuck to the sleeve. He had removed it. Then thrown it away with a stupid smile.
 
-Monday existed again, along with Data Structures and, unfortunately, Owen. Taiga and Leo entered three minutes before class. Mia and Rachel were already there while Owen fought with something projected on the screen.
+Tuesday existed again, along with Data Structures lab and, unfortunately, Owen. Taiga and Leo entered three minutes before lab. Mia and Rachel were already there while Owen fought with something projected on the screen.
 
 Leo looked at Taiga.
 
 “It's been nine days and he's already losing to technology.”
 
-“He's teaching Data Structures.”
+“He's running Data Structures lab.”
 
 “That makes it worse.”
 
@@ -144,7 +144,7 @@ Mia looked at the shoe. Then at Leo.
 
 “You're disgusting.”
 
-“Wow. First day back and we're attacking victims.”
+“Wow. First lab back and we're attacking victims.”
 
 “You are not a victim.”
 
@@ -210,7 +210,7 @@ Leo glanced at his screen.
 
 “That was before Spring Break. I've grown.”
 
-Taiga looked at the code. `ProfessorOwenDespair`.
+Taiga looked at the code. `OwenDespair`.
 
 “You didn't rename it.”
 
@@ -296,9 +296,9 @@ Leo looked around.
 
 “Central Park?”
 
-“I have Political Theory in thirty.”
+“I told Nora I'd meet her in thirty.”
 
-“I have forty-two.”
+“I have forty-two before my next lecture.”
 
 “You timed that?”
 
@@ -362,7 +362,7 @@ Taiga kept going. Leo caught up.
 
 “That is cruel.”
 
-Taiga smiled. They reached the path split. Political Theory one way. Leo's next lecture another. Normally this was where they separated. Leo slowed.
+Taiga smiled. They reached the path split. Nora had claimed one of the tables outside the Academic building; Leo's next lecture was the other way. Normally this was where they separated. Leo slowed.
 
 “So.”
 
@@ -412,29 +412,11 @@ Leo lifted his coffee in salute. Taiga turned around before he walked into somet
 
 ---
 
-Political Theory resumed as though nobody had left. Professor Bell spent twelve minutes explaining why the final paper would not accept “spring break disrupted my research process” as an excuse.
+Nora was already at one of the tables outside the Academic building, a book open beside her coffee and enough loose paper around it to suggest she had been there for a while.
 
-Nora leaned over from the next seat.
-
-“She has definitely received that email already.”
-
-“Probably three times.”
-
-“Think one of them included a beach picture?”
-
-“I hope so.”
-
-“Cruel.”
-
-“She'd respect the confidence.”
-
-Nora smiled. Then Bell projected the remaining semester schedule: final paper, two response memos, one discussion section, presentation feedback. Taiga looked at the dates. Six weeks. Not bad.
-
-He had survived worse. Nora tapped her pen against the desk.
+Taiga sat opposite her. Nora looked up.
 
 “So?”
-
-Taiga looked at her.
 
 “So what?”
 
@@ -452,7 +434,7 @@ Taiga looked at her.
 
 “Okay, now I'm interested.”
 
-Taiga opened the reading. Nora did not.
+Taiga opened his laptop. Nora did not return to her book.
 
 “Did Leo survive?”
 
@@ -464,9 +446,9 @@ Taiga opened the reading. Nora did not.
 
 “That sounds promising.”
 
-Taiga smiled despite himself. Nora's eyes narrowed slightly—not teasing this time, but reading him. Their eyes met for a second before she opened the article.
+Taiga smiled despite himself. Nora's eyes narrowed slightly—not teasing this time, but reading him. Their eyes met for a second before she finally looked back down at the book.
 
-“Bell assigned forty-two pages.”
+“I have forty-two pages left.”
 
 Taiga waited. Nora turned one page.
 
@@ -1355,7 +1337,7 @@ Taiga smiled. Leo bumped his head lightly against Taiga's shoulder. Then he look
 
 “It's basic capitalism.”
 
-“Political Theory is a bad influence.”
+“Nora is a bad influence.”
 
 “Afraid you can't afford me?”
 
