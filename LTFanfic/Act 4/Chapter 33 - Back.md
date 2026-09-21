@@ -1184,7 +1184,7 @@ Caleb cleaned when thinking. Taiga did not mention it. Caleb looked at Taiga's p
 
 “Class.”
 
-“It is eight-fifteen.”
+“It is nine-fifteen.”
 
 “I know.”
 
@@ -1351,7 +1351,7 @@ Taiga had already turned.
 
 “Yeah?”
 
-“Do not spend the afternoon trying to earn minutes I've already decided you're ready for.”
+“Do not spend the afternoon trying to prove something I've already decided.”
 
 Taiga stopped. The assistant coach looked suspiciously busy with the cones. Taiga said:
 
