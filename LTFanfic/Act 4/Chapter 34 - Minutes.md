@@ -1,4 +1,4 @@
-Saturday started with toast. Taiga had expected nerves; instead he got two slices, one egg and half a banana. Caleb sat across from him in the dining hall with a bowl of oatmeal and a spreadsheet open on his tablet.
+At four on Wednesday, Taiga was back in the dining hall. He had expected nerves; instead he got two slices of toast, one egg and half a banana. Caleb sat across from him with a bowl of yogurt and a spreadsheet open on his tablet.
 
 Taiga looked at the screen.
 
@@ -10,23 +10,23 @@ Taiga looked at the screen.
 
 “Regression output.”
 
-“At nine in the morning?”
+“At four in the afternoon?”
 
 “Yes.”
 
 Taiga ate the second half of his banana. Caleb scrolled.
 
-“You leave at ten-thirty?”
+“You leave at four-thirty?”
 
-“Ten-forty.”
+“Four-forty.”
 
-“You said ten-thirty yesterday.”
+“You said four-thirty yesterday.”
 
-“Bus from Residential is ten-forty. Report is eleven-thirty.”
+“Bus from Residential is four-forty. Report is five.”
 
 Caleb nodded.
 
-“Kickoff at three.”
+“Kickoff at seven.”
 
 Taiga looked up.
 
@@ -86,11 +86,11 @@ Caleb took another spoonful of oatmeal.
 
 ---
 
-The Sports Zone was louder than usual. It was not packed or championship-decider loud, but enough people were already moving toward the stadium before noon in blue shirts and House Apollo jackets.
+The Sports Zone was louder than usual. It was not packed or championship-decider loud, but enough people were already moving toward the stadium before five in blue shirts and House Apollo jackets.
 
 A few Olympus scarves despite the weather being too warm for them. Somebody had hung a banner across the railing outside the student section.
 
-**FOUR WEEKS. TAKE IT HOME.**
+**FOUR MATCHES. TAKE IT HOME.**
 
 Enzo stopped walking.
 
@@ -158,7 +158,7 @@ Leo dropped onto the bench beside him. One boot in his hand.
 
 Leo nodded approvingly.
 
-“Good breakfast.”
+“Good pre-match food.”
 
 “You?”
 
@@ -166,21 +166,21 @@ Leo nodded approvingly.
 
 Taiga stopped pulling on his sock.
 
-“For breakfast?”
+“Now?”
 
 “Matchday meal.”
 
-“At eleven?”
+“Before a match?”
 
-“Time is a social construct.”
+“Kickoff is at seven.”
 
-“Your stomach is defective.”
+“That is annoyingly reasonable.”
 
 Leo leaned over to tie his boot. His shoulder pressed against Taiga’s arm.
 
-“Your stomach fears freedom.”
+“Your stomach fears ambition.”
 
-“My stomach knows what breakfast is.”
+“My stomach knows when not to experiment.”
 
 Enzo called from two lockers down.
 
@@ -190,13 +190,13 @@ Taiga looked at Leo. Leo kept tying.
 
 “Protein.”
 
-“At eleven in the morning.”
+“Before kickoff.”
 
 “Still protein.”
 
 Gav closed his locker.
 
-“Kickoff is at three.”
+“Kickoff is at seven.”
 
 Taiga pointed at him.
 
@@ -280,7 +280,7 @@ Taiga glanced at Enzo. Enzo mouthed *how does he know?* Mercer continued.
 
 ---
 
-Warm-up began at two-ten. The stadium had filled more by then. Taiga jogged with the substitutes along the sideline. Across the pitch, Northbridge wore dark red. Their supporters occupied one corner of the opposite stand.
+Warm-up began at six-ten. The stadium had filled more by then. Taiga jogged with the substitutes along the sideline. Across the pitch, Northbridge wore dark red. Their supporters occupied one corner of the opposite stand.
 
 There were not many people in yet, but they were loud anyway. Leo was in the starting group doing short passing: he took a ball from Gav, turned, played Enzo and moved again. Taiga watched the pattern while stretching his hamstring.
 
@@ -670,7 +670,7 @@ The door opened. Mercer walked in. The music stopped. Enzo found his second sock
 
 Nobody moved.
 
-“Review Monday. Recovery tomorrow.”
+“Recovery tomorrow at six. Review Friday.”
 
 He looked at the board. Someone had already written the temporary table.
 
@@ -678,7 +678,7 @@ He looked at the board. Someone had already written the temporary table.
 **2. PINETREE — 48**
 **3. WESTLAKE — 44**
 
-Pinetree had not played yet. Their match was Sunday. Mercer tapped the board with one finger.
+Pinetree had not played yet. Their match was Thursday night. Mercer tapped the board with one finger.
 
 “You may look at it now.”
 
@@ -722,7 +722,7 @@ Leo looked at him.
 
 Taiga pushed his knee into Leo’s. Leo pushed back. Enzo yelled from across the room:
 
-“NO MATH UNTIL MONDAY.”
+“NO MATH UNTIL FRIDAY.”
 
 Gav looked at him.
 
@@ -738,7 +738,7 @@ Scott said, “That tracks.”
 
 ---
 
-By six, the Sports Zone had mostly emptied. Taiga came out carrying his bag. Leo was waiting near the doors. Not alone. Enzo and Gav were there too.
+By nine-thirty, the Sports Zone had mostly emptied. Taiga came out carrying his bag. Leo was waiting near the doors. Not alone. Enzo and Gav were there too.
 
 Scott stood three meters away looking at his phone. Aaron came through behind Taiga. Enzo clapped once.
 
@@ -776,7 +776,7 @@ Leo bumped Taiga’s shoulder.
 
 They started walking. The banner outside the stadium was still there.
 
-**FOUR WEEKS. TAKE IT HOME.**
+**FOUR MATCHES. TAKE IT HOME.**
 
 Enzo pointed without stopping.
 
@@ -860,13 +860,13 @@ Leo let the shirt fall.
 
 ---
 
-They stayed until after seven. Players disappeared in groups. Gav to the library. Scott back toward Residential. Aaron said something about Sofia and immediately regretted saying it in front of Enzo.
+They stayed until after ten-thirty. Players disappeared in groups. Gav to the library. Scott back toward Residential. Aaron said something about Sofia and immediately regretted saying it in front of Enzo.
 
 Enzo followed him out demanding details. Taiga and Leo left last. Outside, evening had cooled. Leo handed Taiga his bag. Taiga put it over one shoulder. They crossed Central Park.
 
 Students were still out. Someone played guitar badly near the fountain. Two people were throwing a frisbee in low light and repeatedly losing it in bushes. Leo checked his phone.
 
-“Pinetree tomorrow at two.”
+“Pinetree tomorrow at seven-thirty.”
 
 “I know.”
 
