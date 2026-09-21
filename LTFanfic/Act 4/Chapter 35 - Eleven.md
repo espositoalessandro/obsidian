@@ -1,4 +1,4 @@
-Sunday recovery ended at one-fifteen. By one-twenty, half the team was still in the Sports Zone. Mercer had not scheduled anything else. That did not stop Enzo from occupying the first row of the film room with a sandwich, his Oracle propped against a water bottle and Redmont–Pinetree streaming at maximum brightness.
+Sunday recovery ended at one-fifteen. By one-twenty, half the team was still in the Sports Zone. Mercer had not scheduled anything else. That did not stop Enzo from occupying the first row of the film room with a sandwich, his phone propped against a water bottle and Redmont–Pinetree streaming at maximum brightness.
 
 “You know there are televisions in this building,” Gav said.
 
@@ -94,7 +94,7 @@ Enzo turned toward him.
 
 “Today those are the same thing.”
 
-Taiga looked at the table on his Oracle.
+Taiga looked at the table on his phone.
 
 **1. OLYMPUS — 50**
 
@@ -216,7 +216,7 @@ Players stood. Taiga packed his notebook. Mercer said:
 
 “Akatora. Stay.”
 
-Taiga stopped. Leo looked over while putting his Oracle in his bag. Taiga tilted his chin toward the door. Leo went with everyone else. Mercer picked up the remote.
+Taiga stopped. Leo looked over while putting his phone in his bag. Taiga tilted his chin toward the door. Leo went with everyone else. Mercer picked up the remote.
 
 “You recovered?”
 
@@ -534,11 +534,11 @@ Taiga typed:
 
 **Taiga:** fuck you
 
-Yoichi reacted with a heart. Hiro sent six more messages. Taiga muted the group for an hour. When he lowered the Oracle, Leo was at the end of the hallway.
+Yoichi reacted with a heart. Hiro sent six more messages. Taiga muted the group for an hour. When he lowered the phone, Leo was at the end of the hallway.
 
 He had apparently just come out of a classroom. He saw Taiga by the squad sheet. Then the sheet. Then Taiga. He smiled and kept walking toward him.
 
-Taiga put the Oracle away. Leo stopped close enough that their shoulders touched.
+Taiga put the phone away. Leo stopped close enough that their shoulders touched.
 
 “Looks good.”
 
@@ -1096,7 +1096,7 @@ Taiga stared at him.
 
 “Worse.”
 
-Caleb smiled without opening his eyes. Taiga grabbed his bag. His Oracle buzzed. Team chat. Enzo.
+Caleb smiled without opening his eyes. Taiga grabbed his bag. His phone buzzed. Team chat. Enzo.
 
 **Enzo:** pinetree scored
 
@@ -1114,13 +1114,13 @@ Taiga watched for ten seconds. Pinetree had the ball near the corner. Two-one. H
 
 **2. OLYMPUS — 51**
 
-Two matches left. Taiga looked at it while stretching his hamstring. One point. Again. On the next mat, Leo reached over and pushed Taiga's Oracle face-down against the floor.
+Two matches left. Taiga looked at it while stretching his hamstring. One point. Again. On the next mat, Leo reached over and pushed Taiga's phone face-down against the floor.
 
 Taiga turned. Leo was stretching his calf.
 
 “Mercer is looking.”
 
-Taiga glanced up. Mercer was, in fact, looking. Taiga put the Oracle in his bag.
+Taiga glanced up. Mercer was, in fact, looking. Taiga put the phone in his bag.
 
 “Thanks.”
 
