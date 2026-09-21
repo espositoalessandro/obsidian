@@ -236,7 +236,7 @@ Three students sat there pretending twenty-two degrees Celsius existed. Leo poin
 
 Taiga held the café door open. Leo went through. His hand passed briefly across Taiga's lower back as he did. Taiga let the door close behind them.
 
-The line was longer than usual. Spring Break stories occupied half of it—beaches, family visits, skiing. Someone behind them had apparently spent six days at a music festival and considered losing their Oracle on the second night “part of the experience.”
+The line was longer than usual. Spring Break stories occupied half of it—beaches, family visits, skiing. Someone behind them had apparently spent six days at a music festival and considered losing their phone on the second night “part of the experience.”
 
 Taiga disagreed. Silently. Mostly. Leo checked the menu.
 
@@ -803,7 +803,7 @@ Taiga slowly took the keys out.
 
 “I know.”
 
-Taiga put the keys into his pocket. His Oracle buzzed. Leo.
+Taiga put the keys into his pocket. His phone buzzed. Leo.
 
 **Leo:** assistant moved film to 9
 **Leo:** mercer wants set pieces first
@@ -1073,7 +1073,7 @@ Taiga narrowed his eyes.
 
 “Still not what she meant.”
 
-Caleb left. The door closed. Taiga stared at it. Then at the laptop. Data Structures assignment. Graph traversal. Due Sunday. He worked for twenty-two minutes. His Oracle buzzed.
+Caleb left. The door closed. Taiga stared at it. Then at the laptop. Data Structures assignment. Graph traversal. Due Sunday. He worked for twenty-two minutes. His phone buzzed.
 
 **Leo:** emergency
 
@@ -1501,7 +1501,7 @@ Gav responded:
 
 There was a pause. Then Mercer reacted to Enzo's message with a thumbs-up. Nobody sent anything for almost a minute. Taiga laughed in the middle of the Academic Zone.
 
-A student walking past looked over. Taiga kept moving. His Oracle buzzed privately. Leo.
+A student walking past looked over. Taiga kept moving. His phone buzzed privately. Leo.
 
 **Leo:** he has learned psychological warfare
 
@@ -1524,6 +1524,6 @@ Then, because apparently that was no longer enough:
 
 **Taiga:** really fucking ready
 
-Leo reacted with a sun. Taiga put the Oracle away and headed to class.
+Leo reacted with a sun. Taiga put the phone away and headed to class.
 
 ---
