@@ -2140,17 +2140,470 @@ Do:
 - preserve the distinction between chosen affection and obligation.
 
 
+
 ---
 
-# 9. Family Members Still To Build
+# 9. The House / Family Compound — LOCKED
+
+## Geographic setting
+
+The Méndez family home should be placed on the **Pedro Brand / La Guáyiga side of Greater Santo Domingo**, in a quieter residential area away from the busiest roads.
+
+The exact street should remain fictional.
+
+The desired environment is:
+- clearly part of the Santo Domingo metropolitan world;
+- not isolated countryside;
+- not central-city density;
+- not a wealthy gated suburb;
+- low-rise;
+- quieter than the urban core;
+- enough space between houses for patios, small yards and family expansion;
+- ordinary neighborhood life nearby;
+- local shops / colmados within easy reach;
+- streets where children and relatives can move between nearby homes;
+- quieter evenings than central Santo Domingo.
+
+Leo can still naturally tell people:
+
+> "I'm from Santo Domingo."
+
+There is no need for him to constantly qualify the municipality in casual conversation.
+
+The emotional target is:
+
+> **A place where a normal family established itself decades ago and stayed while the city gradually grew around them.**
+
+---
+
+## Property history
+
+Mercedes's home is the original center of the property.
+
+The family should be **asset-stable rather than wealthy**.
+
+Working history:
+- Mercedes and her husband acquired / built the original house decades ago, when the area was less developed and land was easier for an ordinary family to obtain;
+- the original property included enough surrounding space to expand;
+- Carmen and Ramón grew up there;
+- as the children became adults, married and had families, the property was modified rather than abandoned;
+- additional floors, rooms, entrances and/or adjacent units were added gradually;
+- the result now looks **grown**, not master-planned.
+
+The house should not resemble a mansion.
+
+Its charm comes from visible layers of family history:
+- older walls meeting newer additions;
+- stairs or corridors added later;
+- doors that clearly belong to different phases of construction;
+- different flooring / paint / fixtures between sections;
+- furniture that migrated between households;
+- practical repairs that became permanent;
+- spaces whose original purpose may no longer match how the family uses them.
+
+It should feel like:
+
+> **One ordinary house that accumulated decades, people and extensions until it became a small family ecosystem.**
+
+---
+
+## Current household structure
+
+The property contains **separate but highly porous family homes**.
+
+### Mercedes
+
+Mercedes occupies the original / central portion of the property.
+
+Her home is the social heart of the compound.
+
+This is where people naturally drift:
+- for coffee;
+- for food;
+- to ask something;
+- to sit down for ten minutes and stay an hour;
+- because somebody else is already there.
+
+Mercedes's kitchen / dining area can function as the unofficial central node even though the other households have their own kitchens.
+
+### Carmen + Manuel
+
+Carmen and Manuel have their own proper household space on the property.
+
+They live there with:
+- Julio / Leo when he is home;
+- Daniela / Dani.
+
+Their unit must feel like an independent home, not bedrooms borrowed from Mercedes.
+
+It should have:
+- its own kitchen;
+- its own bathrooms;
+- its own entrance or clearly independent access;
+- normal domestic privacy;
+- its own household routines.
+
+### Ramón + Isabel + Antonio
+
+Ramón, Isa and Antonio occupy another independent part of the same property.
+
+Exact architecture remains flexible:
+- upper floor;
+- rear addition;
+- adjacent unit;
+- neighboring structure within the same parcel.
+
+Like Carmen and Manuel, they have an actual household:
+- kitchen;
+- bathroom;
+- private rooms;
+- their own entrance / access;
+- their own finances and routines.
+
+The social distinction between the units is nevertheless weak.
+
+Someone can be technically "at Ramón's" while still being twenty seconds from Mercedes's kitchen.
+
+---
+
+## The shared external patio / courtyard
+
+A **shared outdoor patio / courtyard** should be one of the property's most important spaces.
+
+It is not decorative.
+
+It is actively lived in.
+
+Possible features:
+- tiled / paved sections mixed with older concrete;
+- plants in pots;
+- laundry at times;
+- plastic / metal chairs that migrate constantly;
+- a table large enough to become the center of meals or gatherings;
+- shaded areas;
+- doors / stairs from different family units opening toward it;
+- somewhere Antonio can play;
+- somewhere adults can sit in the evening;
+- somewhere family members can call upward / across instead of using a phone.
+
+The patio should make the family architecture immediately legible to Taiga:
+
+> everybody technically lives separately, but their daily lives spill into the same space.
+
+It should support scenes where:
+- breakfast becomes a group event by accident;
+- somebody crosses through carrying food;
+- Ramón starts telling a story to whoever happens to be sitting there;
+- Dani calls something down from upstairs;
+- Antonio runs between households;
+- Mercedes sits where she can observe half the family;
+- Carmen issues instructions from one doorway to another;
+- Isa quietly relocates someone away from an overwhelming conversation;
+- Papá loses an object that is eventually found in the wrong unit.
+
+The courtyard should feel **busy without being crowded by architecture**.
+
+---
+
+## Privacy and permeability
+
+The family is close, but the homes must retain real privacy.
+
+Do not write the property as if:
+- nobody has doors;
+- nobody can be alone;
+- every relative barges into bedrooms;
+- the family lacks boundaries entirely.
+
+Instead:
+
+> **The public / family spaces are porous. Private spaces still exist.**
+
+People may enter kitchens, patios and living rooms casually.
+
+Bedrooms and explicitly private rooms carry stronger boundaries.
+
+This is important for Taiga and Leo's relationship.
+
+The compound should create social density without making private romantic scenes impossible.
+
+---
+
+## Financial position
+
+The Méndez family should read as **comfortable middle class / lower edge of upper-middle class**, not poor and not wealthy.
+
+The defining idea is:
+
+> **financially secure, asset-stable, but not insulated from ordinary money concerns.**
+
+The family can afford:
+- reliable food and household basics;
+- decent appliances;
+- good internet;
+- smartphones / computers;
+- a car or cars within the extended family;
+- occasional meals out;
+- ordinary leisure;
+- planned travel;
+- maintenance and improvements to the property;
+- university contributions.
+
+But:
+- large purchases are discussed;
+- travel requires planning;
+- unexpected major expenses are annoying and meaningful;
+- nobody treats money as infinite;
+- the family does not live with luxury-service infrastructure;
+- there is no default household staff smoothing away domestic life.
+
+The property is a major reason their standard of living can feel comfortable.
+
+Housing is largely solved by intergenerational ownership and gradual construction rather than by the current adults purchasing an expensive modern property from scratch.
+
+This means the family can have:
+- space;
+- multiple household units;
+- financial stability;
+
+without needing implausibly high salaries.
+
+Carmen, Manuel, Ramón and Isa should all be capable adults with their own income / work.
+
+Exact jobs and salaries remain TBD.
+
+---
+
+## Leo and Olympus — financial logic
+
+Do not imply Carmen and Manuel casually pay the full cost of an expensive foreign university without consequence.
+
+The preferred structure is:
+
+> **Leo receives substantial scholarship / aid support, with his family contributing the remainder.**
+
+Possible components can be chosen later:
+- athletic support;
+- merit aid;
+- financial aid;
+- a combination.
+
+This fits Leo's established profile:
+- serious football player;
+- competent student;
+- CS major;
+- ambitious / active;
+- uncomfortable wasting opportunities.
+
+His family contribution should be meaningful enough that Leo feels:
+
+> I got a real opportunity. I should make something of it.
+
+But Carmen and Manuel should **not** weaponize tuition against him.
+
+Their financial support can quietly reinforce his own internal pressure to:
+- stay productive;
+- find internships;
+- use summers well;
+- avoid feeling idle.
+
+---
+
+## Why the family still lives together
+
+The adults do **not** remain close because they are financially trapped.
+
+That distinction is important.
+
+They could plausibly live elsewhere.
+
+They stay because:
+- the property is theirs;
+- it is familiar;
+- it makes practical sense;
+- Mercedes is there;
+- the family likes being close;
+- decades of daily habits have formed around the place.
+
+The underlying feeling is:
+
+> **They did not fail to leave home. They built more home around it.**
+
+---
+
+## Wider neighborhood family network
+
+The eight residents of the main property are **not the whole family**.
+
+The neighborhood should contain a wider web of:
+- cousins;
+- another aunt or uncle;
+- second cousins;
+- older relatives;
+- family friends;
+- godparents / compadres if useful;
+- people who are technically not relatives but have been around long enough that the distinction barely matters socially.
+
+Some may live:
+- a few houses away;
+- one street over;
+- elsewhere in Pedro Brand / La Guáyiga;
+- in another part of Santo Domingo but visit regularly.
+
+This means the main compound has a **variable population**.
+
+On an ordinary day:
+- perhaps only the eight residents are around;
+- one cousin may stop by;
+- a family friend may come for coffee;
+- somebody may drop something off.
+
+On a weekend or family event:
+- the patio can suddenly contain fifteen or twenty people;
+- extra chairs appear;
+- food arrives from multiple kitchens;
+- Taiga may meet relatives nobody formally announced were coming.
+
+The extended network should make the family feel much larger than the eight people with detailed bible entries.
+
+---
+
+## Extended relatives — writing rule
+
+Do not fully characterize every relative in advance.
+
+Most extended family can remain:
+- lightly named;
+- recognizable by one or two traits;
+- recurring only when useful.
+
+Examples:
+- another Tío who lives two streets away;
+- cousins near Dani's age;
+- an older cousin with children;
+- a family friend who has known Carmen and Ramón since childhood;
+- somebody Mercedes treats exactly like family despite no blood relation.
+
+Only promote an extended relative into a major bible character if the story actually needs them.
+
+The goal is **social depth without cast bloat**.
+
+Taiga should gradually realize that:
+
+> "family"
+
+in Leo's vocabulary does not refer only to the people sleeping on Mercedes's property.
+
+It refers to a much wider local network.
+
+---
+
+## The neighborhood's Act V function
+
+This environment is crucial to Leo's Act V overload.
+
+Leo does not return home to:
+
+> six or seven people asking things of him.
+
+He returns to a **social network**.
+
+A normal day can contain:
+- immediate family;
+- Ramón / Isa / Antonio;
+- a cousin stopping by;
+- another uncle needing something;
+- a family friend inviting him somewhere;
+- somebody who has not seen him since he left for Olympus;
+- somebody asking about Taiga;
+- a neighborhood acquaintance remembering him.
+
+Each interaction can be perfectly reasonable.
+
+The exhaustion comes from accumulation.
+
+This supports the central Act V problem:
+
+> no single person is necessarily demanding too much.
+
+> Leo simply treats every individual claim on him as worthy of a yes.
+
+The neighborhood therefore amplifies his pattern without turning the family into villains.
+
+---
+
+## Taiga's first impression
+
+Taiga should initially understand the house spatially before he understands the family socially.
+
+He expects:
+
+> Leo's house in Santo Domingo.
+
+Instead, he arrives at a property that clearly grew over time.
+
+He notices:
+- multiple entrances;
+- different construction periods;
+- stairs leading somewhere he did not expect;
+- an outdoor family space;
+- people appearing from different directions;
+- Antonio moving between units as if they were rooms of one enormous house;
+- voices calling across the patio.
+
+Then he realizes there are relatives nearby who do not even live there.
+
+The important emotional realization is:
+
+> **This is where Leo came from.**
+
+The environment should make parts of Leo immediately legible:
+- his comfort with constant social contact;
+- his ease moving between groups;
+- his assumption that people can appear without formal plans;
+- his reflex to help;
+- his warmth;
+- his chaotic scheduling;
+- his difficulty identifying when availability has become obligation.
+
+The house should explain him before anyone explicitly does.
+
+---
+
+## Tone guardrails
+
+Do not:
+- turn the property into a picturesque poverty aesthetic;
+- make the compound feel like a mansion;
+- make everyone financially dependent on Mercedes;
+- make family closeness purely a consequence of money;
+- make the neighborhood rural isolation;
+- make every day a huge party;
+- imply that privacy is impossible;
+- introduce twenty named cousins at once;
+- make all Dominican family life look identical to this family.
+
+Do:
+- preserve ordinary middle-class material comfort;
+- show different ages and renovations in the property;
+- keep the patio central;
+- let people move naturally between units;
+- allow quiet periods as well as chaos;
+- make visiting relatives feel normal rather than plot events;
+- treat the house as a lived family organism;
+- keep Mercedes as its gravitational center.
+
+
+---
+
+# 10. Family Members Still To Build
 
 Current established roles / references that need full entries later:
-- Moma
-- Papá
-- Leo's sister
-- additional extended family
+- additional extended family only when story-relevant
 - possible additional cousins / aunts / uncles
 - family friends / godparents if useful
 - Enzo's relationship to the home social ecosystem
+- exact occupations / finances for Carmen, Manuel, Ramón and Isa
+- exact internal layout of the family property if needed for scene blocking
 
 Do not lock the household composition until the wider family structure is designed.
