@@ -1012,7 +1012,7 @@ Taiga stared. Mercer laughed.
 
 Mercer continued before Taiga could complain.
 
-“You might end up somewhere else. You're nineteen. I'm not engraving the position on your forehead.”
+“You might end up somewhere else. You're twenty. I'm not engraving the position on your forehead.”
 
 “I'd prefer that.”
 

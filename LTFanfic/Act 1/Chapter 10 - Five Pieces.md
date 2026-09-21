@@ -1042,7 +1042,7 @@ Keitaro hugged Taiga before he had decided whether they were doing that. Brief. 
 
 “Okay,” Keitaro said, looking at him. “This sounds stupid, but I swear you got taller.”
 
-“That's not how nineteen works.”
+“That's not how twenty works.”
 
 Hiro appeared behind him carrying a pastry box.
 

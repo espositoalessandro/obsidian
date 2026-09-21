@@ -810,11 +810,11 @@ Taiga looked over. Aaron had forty-five.
 
 Aaron stared.
 
-“We are nineteen.”
+“I'm nineteen. You're twenty.”
 
 “Yeah.”
 
-“Do you think you became an adult in the last two years?”
+“Do you think you became an adult in the last three years?”
 
 “Yeah, I do.”
 
