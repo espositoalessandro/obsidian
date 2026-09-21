@@ -38,7 +38,7 @@ Taiga smiled. Leo pointed at him.
 
 “Not my problem.”
 
-Silence settled, not awkward, not exactly normal either. Taiga looked at Leo. Leo looked back. Last night came back all at once—not the beer or the fall, but everything after. Taiga felt heat rise into his face despite the headache. Leo's mouth twitched. Taiga narrowed his eyes.
+Silence settled, not awkward, not exactly normal either. Taiga looked at Leo. Leo looked back. Last night came back all at once. Taiga felt heat rise into his face despite the headache. Leo's mouth twitched. Taiga narrowed his eyes.
 
 “If you say anything stupid, I'm going back to sleep.”
 
@@ -94,7 +94,7 @@ Taiga stared. Leo considered.
 
 “Get dressed.”
 
-Ten minutes later they left the cabin. Taiga carried the laundry bag. Leo carried both of their empty water bottles. The camp had the cold, peculiar quiet of a Sunday morning: no tools, no hammering, no Kieran, and nowhere they needed to be except breakfast. Taiga liked that less than he expected. The main lodge door was already open. Of course it was. Aiden was awake. Of course he was. Taiga walked in with the laundry bag. Aiden looked up from the kitchen. His eyes moved to Taiga. Then the bag. Then back.
+Ten minutes later they left the cabin. Taiga carried the laundry bag. Leo carried both of their empty water bottles. The camp had the cold, peculiar quiet of a Sunday morning: no tools, no hammering and nowhere they needed to be except breakfast. Taiga liked that less than he expected. The main lodge door was already open. Aiden was awake. Of course he was. Taiga walked in with the laundry bag. Aiden looked up from the kitchen. His eyes moved to Taiga. Then the bag. Then back.
 
 “Rough night?”
 
@@ -714,7 +714,7 @@ Yoshinori laughed. Leo looked betrayed.
 
 “You invited me.”
 
-“Regretting it.”
+“I've already regretted it.”
 
 “You said yesterday you didn't.”
 
@@ -746,7 +746,7 @@ Yoshinori smiled at the road.
 
 “You answered him.”
 
-Leo settled back beside Taiga. For a few minutes they watched trees pass. Then Leo's knee rested against his. Yoshinori kept his eyes on the road.
+They laughed, and went back to watch the trees slowly disappear.
 
 ---
 
@@ -814,7 +814,7 @@ Taiga swallowed.
 
 Yoshinori let him go. Then hugged Leo too. Leo looked less surprised than he had with Aiden.
 
-“Come again.”
+“Come again soon.”
 
 “I will.”
 
@@ -846,17 +846,17 @@ Leo smiled over his shoulder. Taiga kept following.
 
 ---
 
-They bought coffee. Bad station coffee. Taiga drank it anyway. Leo stole one of Yuri's cookies before they boarded. Then another. By the time the train arrived, the food bag had already become lighter. Their seats were together. Window for Taiga. Leo threw his jacket into the overhead rack. Taiga put the duffels up. They sat. The train pulled out on time. For the first twenty minutes, neither said much. Leo ate half a sandwich despite claiming he wasn't hungry. Taiga checked messages. Caleb:
+They bought coffee. Bad station coffee. Taiga drank it anyway. Leo stole one of Yuri's cookies before they boarded. Then another. By the time the train arrived, the food bag had already become lighter. Their seats were together. Window for Taiga. Leo threw his jacket into the overhead rack. Taiga put the duffels up. They sat. The train pulled out on time. For the first twenty minutes, neither said much. Leo ate half a sandwich despite claiming he wasn't hungry. Taiga checked messages. 
 
-> ETA?
+**Caleb:** ETA?
 
 Taiga replied:
 
-> 4:58.
+**Taiga:** 4:58.
 
 A second later:
 
-> Understood. I will be in the room.
+**Caleb:** Understood. I will be in the room.
 
 Taiga stared. Leo leaned over.
 
@@ -915,10 +915,6 @@ Taiga glanced over.
 “You brought up my dick at breakfast.”
 
 “I absolutely did not.”
-
-“You looked at me.”
-
-“That is apparently enough evidence for you now?”
 
 Taiga felt his face warm. Leo smiled. Taiga kicked his shoe lightly. Leo kicked back. After a few minutes, Leo said:
 
