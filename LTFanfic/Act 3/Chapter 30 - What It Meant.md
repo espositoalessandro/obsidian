@@ -1053,3 +1053,108 @@ Taiga looked at him in disbelief.
 
 “You little—”
 
+---
+
+Dinner was normal again. Nobody mentioned Kieran. Good.
+Eventually, they went back to their cabin.
+
+There was now an awkward silence when they showered and got dressed up. They kept glancing at each other, waiting for the other to take the first step.
+Or at least, that's what Taiga thought.
+Leo dropped on the bed with his back.
+
+"Whew, I'm destroyed."
+
+"We did nothing today."
+
+"Emotively destroyed."
+
+"Better."
+
+Silence. Taiga awkwardly started folding some clothes.
+Then Leo asked
+
+"Just out of curiosity."
+
+"What?"
+
+"When did you realized it?"
+
+Taiga knew exactly what he meant. He tried to look innocent.
+
+"Realized what?"
+
+"You know... that you liked me."
+
+There we go.
+Taiga had already thought about that.
+
+"I don't know, really. I only know that things started becoming weird when you said that thing about me and the university."
+
+Leo raised his head.
+
+"What thing?"
+
+Taiga's face became warmer
+
+"You know. About Olympus being weird without me."
+
+Leo stopped a second.
+
+"Oh."
+
+Then he dropped is head on the pillow, hands on his face.
+
+"Fuck my stupid mouth."
+
+Taiga laughed
+
+"Yeah it was weird at first."
+
+"Stop. I wanna die."
+
+A couple of seconds after, Taiga asked
+
+"What about you?"
+
+"Well... I've noticed you from the very moment I saw you staring at the fence."
+
+Taiga looked at him. Leo's face was burning red.
+
+"Don't say anything."
+
+Taiga smiled.
+
+"Alright."
+
+"But I actually started looking differently at you when we went out to Arcadia with the team. I guess that's where I got to see a part of you that wasn't football or university."
+
+Taiga remembered the photo. He and Leo, shoulder to shoulder at the arcade.
+The walk back to the campus.
+
+"Yeah, I remember."
+
+Silence fell again. 
+
+"Taiga?"
+
+"Yeah?"
+
+Leo raised his head and looked at him.
+
+"You know that we don't have to rush just because we talked about it."
+
+Taiga felt something lifting off his stomach..
+
+"Yeah."
+
+Leo smiled
+
+"Good. Then goodnight, forty-one."
+
+Taiga smiled
+
+"I got a name."
+
+"I know."
+
+"Night Leo."
