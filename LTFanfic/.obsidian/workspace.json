@@ -11,14 +11,14 @@
             "id": "c1daf8e638e9e40c",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "LTFanfic/Act 4/Chapter 33 - Back.md",
-                "bFile": "LTFanfic/Act 4/Chapter 33 - Back.md",
-                "aRef": ""
+                "file": "Act 4/Chapter 33 - Back.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Chapter 33 - Back  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Chapter 33 - Back"
             }
           }
         ]
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Act 1/Chapter 12 - Baseline.md",
+                "file": "Act 4/Chapter 33 - Back.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Act 1/Chapter 12 - Baseline.md",
+                "file": "Act 4/Chapter 33 - Back.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -202,6 +202,7 @@
   "active": "c1daf8e638e9e40c",
   "lastOpenFiles": [
     "Act 4/Chapter 33 - Back.md",
+    "Bibles/Olympus Match Ledger.md",
     "Act 4/Chapter 38 - After.md",
     "Act 4/Chapter 37 - Ninety.md",
     "Act 4/Chapter 36 - Fault.md",
@@ -227,7 +228,6 @@
     "Act 3/Chapter 25 - Home Ground.md",
     "Act 3/Chapter 26 - Easy.md",
     "Act 3/Chapter 24 - Preseason.md",
-    "Act 3/Chapter 23 - Static.md",
     "Act 3",
     "Bibles/ScoutmasterSeasonScript_utf8.csv",
     "Bibles/ScoutmasterSeasonScript.csv",

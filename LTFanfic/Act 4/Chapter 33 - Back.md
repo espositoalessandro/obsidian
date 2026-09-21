@@ -456,8 +456,6 @@ Taiga waited. Nora turned one page.
 
 “Finally, a reasonable plan.”
 
-Conversation ended. Good.
-
 ---
 
 Training at three began with a meeting. That was unusual enough that everybody complained. Not loudly. Mercer disliked complaints with witnesses. The film room smelled like old coffee and artificial turf carried in on shoes.
@@ -566,7 +564,8 @@ Defender stole. Northbridge shape broke forward. Taiga sprinted. Aaron delayed. 
 
 “Good! Next action!”
 
-No funeral. Taiga turned. Leo had already moved into position. Ball recovered. Play resumed. Something about that felt easier than it had months ago. Maybe because it was.
+No funeral. Taiga turned. Leo had already moved into position. Ball recovered. Play resumed. Something about that felt easier than it had months ago.
+Maybe because it was.
 
 ---
 
@@ -600,7 +599,7 @@ Enzo looked offended.
 
 “Still.”
 
-Taiga pulled off his training shirt. Leo sat beside him. Close. Not touching at first. Then his thigh rested against Taiga's. Neither moved. Leo started unlacing his boots.
+Taiga pulled off his training shirt. Leo sat beside him. Close. Leo started unlacing his boots.
 
 “So, camp ruined me.”
 
@@ -680,9 +679,11 @@ Scott closed his locker.
 
 Taiga laughed. The conversation moved to food. Then Saturday. Then Enzo complaining that Northbridge's away locker room had showers designed for “Victorian children.” Normal. Taiga went to shower when everyone else did.
 
-No waiting. No calculations. Leo ended up two stalls away. Enzo complained about shampoo. Someone threw something. Taiga washed his hair. Got out. Leo came back a minute later with a towel around his waist.
+Leo ended up two stalls away. Enzo complained about shampoo. Someone threw something. Taiga washed his hair. Got out. Leo came back a minute later with a towel around his waist.
 
-Taiga looked at him. Leo caught the look. His eyebrows lifted. Taiga met his eyes. Leo smiled. Taiga turned toward his locker. His face was warm. Fine. He could survive warmth.
+Taiga looked at him. Leo caught the look. His eyebrows lifted. Taiga met his eyes. Leo smiled. Taiga turned toward his locker. His face was warm.
+Fine. 
+He could survive warmth.
 
 ---
 
@@ -812,12 +813,8 @@ Taiga typed:
 
 **Taiga:** tell him good luck
 
-Leo:
-
 **Leo:** i did
 **Leo:** he says you're heartless
-
-Taiga:
 
 **Taiga:** he knew that
 
@@ -905,9 +902,8 @@ Mercer looked at him. Taiga sighed.
 
 “Good.”
 
-Taiga left. Leo was outside. Not waiting directly beside the door. That would have been obvious. He was ten meters away talking to Enzo. Also obvious. Enzo saw Taiga.
-
-Looked at Leo. Looked back at Taiga.
+Taiga left. Leo was outside. Not waiting directly beside the door. That would have been obvious. He was ten meters away talking to Enzo. Also obvious. 
+Enzo saw Taiga. Looked at Leo. Looked back at Taiga.
 
 “I'm going to get food.”
 
@@ -1079,8 +1075,6 @@ Taiga narrowed his eyes.
 
 Caleb left. The door closed. Taiga stared at it. Then at the laptop. Data Structures assignment. Graph traversal. Due Sunday. He worked for twenty-two minutes. His Oracle buzzed.
 
-Leo.
-
 **Leo:** emergency
 
 Taiga opened it.
@@ -1088,16 +1082,10 @@ Taiga opened it.
 **Leo:** my bfs returns a path
 **Leo:** unfortunately it is the wrong path
 
-Taiga:
-
 **Taiga:** sounds personal
-
-Leo:
 
 **Leo:** i am experiencing betrayal
 **Leo:** yours works?
-
-Taiga:
 
 **Taiga:** yes
 
@@ -1110,8 +1098,6 @@ Taiga stared. Then:
 **Taiga:** you didn't ask
 
 **Leo:** can i come over
-
-Taiga:
 
 **Taiga:** you're already walking aren't you
 
@@ -1136,18 +1122,6 @@ Leo entered. He looked toward Caleb's side of the room, then at the empty bed.
 “Caleb out?”
 
 “Library.”
-
-“With Maya?”
-
-Taiga stared.
-
-“How do you know that?”
-
-“You mentioned she was coming over this week.”
-
-Taiga had. Apparently.
-
-“Yeah.”
 
 Leo nodded and sat on the edge of Taiga's bed. He put his coffee on the floor beside his shoe and held the other cup out. Black. Taiga looked at the clock.
 
