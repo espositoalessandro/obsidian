@@ -395,7 +395,7 @@ Taiga looked inside. Blue bottle. Right. He remembered Leo tossing it there whil
 
 Leo turned toward the showers. Then stopped after one step.
 
-“Oh—coffee tomorrow after lab?”
+“Oh—coffee Thursday after lab?”
 
 Taiga answered before thinking.
 
