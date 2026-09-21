@@ -47,7 +47,73 @@ The novel takes place across the **2025–2026 academic year**.
 
 ---
 
-# 2. Act I — Arrival / Baseline
+# 2. Canonical weekly academic timetable
+
+These blocks are the working timetable for Taiga's ordinary teaching weeks. They exist to prevent class scenes from drifting between weekdays as the manuscript evolves.
+
+The **academic timetable is fixed** unless this bible is deliberately revised.
+
+Athletics is different: training, film, recovery, strength work and travel are **fixture-dependent**. Mercer may move sessions around a match week. Do not infer a permanent football weekday from a single chapter. When a football obligation conflicts with class, first check whether the session can move later; use an approved athlete absence only for genuine match travel / competition needs.
+
+## Fall semester — Taiga
+
+| Day | Academic schedule | Stable continuity notes |
+| --- | --- | --- |
+| **Monday** | 08:30–09:20 Political Institutions; 10:00–10:50 Calculus I; 11:00–11:50 General Chemistry I lecture | Political Institutions → Calculus → Chemistry is the normal morning chain. |
+| **Tuesday** | 11:00–12:15 Foundations of Computer Science lecture | This is Taiga's Rao section. Leo's fall Foundations section is **Monday morning**, so they do not normally attend this lecture together. |
+| **Wednesday** | 08:30–09:20 Political Institutions; 10:00–10:50 Calculus I; 11:00–11:50 General Chemistry I lecture; 13:30–16:30 General Chemistry I lab | Chemistry lab is a **Wednesday** anchor. |
+| **Thursday** | 14:30–16:30 Foundations of Computer Science lab | Taiga normally returns from this lab by about 17:00. |
+| **Friday** | 08:30–09:20 Political Institutions; 10:00–10:50 Calculus I; 11:00–11:50 General Chemistry I lecture | Friday classes end around noon. |
+| **Saturday–Sunday** | No regular classes | Matches, training, recovery and personal plans vary. |
+
+### Fall athletics guardrails
+
+The developmental / first-team football schedule is **not a fixed Mon–Thu template**.
+
+Recurring patterns already supported by the manuscript include:
+- weekday training in the afternoon / early evening;
+- Wednesday strength or recovery blocks when appropriate;
+- film sessions moved according to the next fixture;
+- Saturday matches or training;
+- Sunday off / recovery depending on the previous day's match.
+
+A line such as **"training Monday"**, **"training Tuesday at two"** or **"film Thursday"** can all be valid in different weeks. Preserve the explicit chapter-level football schedule unless it conflicts with a match date or an academic block above.
+
+## Spring semester — Taiga
+
+Spring is deliberately more technical and more crowded on Tuesday / Thursday.
+
+| Day | Academic schedule | Stable continuity notes |
+| --- | --- | --- |
+| **Monday** | 10:00–10:50 Data Structures lecture; 11:00–11:50 General Chemistry II lecture | Afternoon remains available for project meetings, study and football. |
+| **Tuesday** | 09:00–10:15 Data Structures lab; 10:35–11:50 Discrete Structures; lunch; 13:00–14:15 Calculus II | This is the deliberately **hostile** day from Taiga's registration planner. Full football training can begin later in the afternoon. |
+| **Wednesday** | 10:00–10:50 Data Structures lecture; 11:00–11:50 General Chemistry II lecture | Comparatively light academic day; recovery / strength can fit later. |
+| **Thursday** | 09:00–10:15 Data Structures lab; 10:35–11:50 Discrete Structures; lunch; 13:00–14:15 Calculus II; 14:30–17:30 General Chemistry II lab | Chemistry lab is the long Thursday-afternoon block. Full team work must be scheduled after it or deliberately adjusted. |
+| **Friday** | 10:00–10:50 Data Structures lecture; 11:00–11:50 General Chemistry II lecture / project briefing when required | **Friday morning only** academically. Afternoon is available for strength, film, travel preparation or football. |
+| **Saturday–Sunday** | No regular classes | Fixtures / recovery vary. |
+
+### Spring athletics guardrails
+
+Default football work should fit around the timetable rather than erase it:
+- Tuesday full training commonly begins around **16:30** or later;
+- Wednesday recovery / strength can sit around **16:00**;
+- Thursday full training must normally be **after the Chemistry II lab**, unless that week's football plan is deliberately changed;
+- Friday afternoon is a natural slot for strength, film or light tactical work;
+- weekend timing depends on the fixture.
+
+Midweek matches may require an approved athlete absence or adjusted class attendance, but that should be explicit rather than accidental.
+
+### Data Structures continuity
+
+Data Structures has two distinct recurring formats:
+- **lecture** with the course professor: Monday / Wednesday / Friday at **10:00**;
+- **lab** with Owen: Tuesday / Thursday at **09:00**.
+
+This distinction resolves apparent time drift in the current manuscript. Owen is the TA / lab instructor, not the lecture professor.
+
+---
+
+# 3. Act I — Arrival / Baseline
 
 ## Week 1 — Arrival and tryouts
 ### Mon Aug 25 – Fri Aug 29, 2025
@@ -140,7 +206,7 @@ The novel takes place across the **2025–2026 academic year**.
 
 ---
 
-# 3. Act II — Boundaries / Winter / Pinetree
+# 4. Act II — Boundaries / Winter / Pinetree
 
 ## Fall finals and winter break
 ### Thu Dec 4 – Sat Dec 20, 2025
@@ -215,7 +281,7 @@ Important fixed prose:
 
 ---
 
-# 4. Act III — Recognition / Camp Buddy
+# 5. Act III — Recognition / Camp Buddy
 
 ## Post-Pinetree attraction becomes undeniable
 ### Tue Mar 10 – Thu Mar 19
@@ -265,7 +331,7 @@ References to storm debris from **February** may remain.
 
 ---
 
-# 5. Camp Buddy Spring Break — exact day-by-day canon
+# 6. Camp Buddy Spring Break — exact day-by-day canon
 
 Spring Break is now **Friday April 10 through Sunday April 19, 2026**.
 
@@ -288,7 +354,7 @@ Important interval:
 
 ---
 
-# 6. Act IV — Definition / championship
+# 7. Act IV — Definition / championship
 
 ## Revised pacing principle
 
@@ -352,7 +418,7 @@ Leo's ankle injury remains a **mild sprain**. With Westlake on Tue Apr 28 and th
 
 ---
 
-# 7. End of Act IV → summer / Act V bridge
+# 8. End of Act IV → summer / Act V bridge
 
 ## Taiga at home
 ### Fri May 8 – Fri May 22
@@ -387,7 +453,7 @@ This also leaves substantial calendar space after the Santo Domingo section for 
 
 ---
 
-# 8. Hard continuity intervals
+# 9. Hard continuity intervals
 
 | From | To | Interval |
 | --- | --- | --- |
@@ -403,7 +469,7 @@ This also leaves substantial calendar space after the Santo Domingo section for 
 
 ---
 
-# 9. Continuity guardrails
+# 10. Continuity guardrails
 
 1. **Do not restore March Spring Break.** Spring Break is Apr 10–19.
 2. **Do not stretch the Act IV conference run back to four weekly Saturdays.** The compression is intentional.
@@ -416,7 +482,7 @@ This also leaves substantial calendar space after the Santo Domingo section for 
 
 ---
 
-# 10. Quick chapter map
+# 11. Quick chapter map
 
 | Act | Chapters | Calendar span |
 | --- | --- | --- |
