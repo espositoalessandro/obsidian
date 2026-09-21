@@ -1,8 +1,8 @@
-By Wednesday, Taiga had watched the Cedar Ridge chance at eighty-three minutes enough times that the clip had stopped behaving like video. It was a diagram now. Leo's pass.
+By Wednesday, Taiga had watched the Cedar Ridge chance at eighty-three minutes enough times that the clip had stopped behaving like video. It was a diagram now: Leo's pass, the first touch, the keeper setting himself, the defender recovering.
 
-First touch. Keeper set. Defender recovering. Far corner. Square ball. Interception. Again. He closed the video. Opened it again. Watched from seventy-nine instead. Cedar Ridge dropped. Olympus moved the ball left.
+Far corner available. Square ball instead. Interception. Again. He closed the video, reopened it and watched from seventy-nine instead as Cedar Ridge dropped and Olympus moved the ball left.
 
-Back. Inside. Leo turned. Taiga started. Pass. First touch. There. Pause. He could shoot. Probably. Maybe. He let the video run. Square ball. Interception. Taiga leaned back in the library chair.
+The move came back inside. Leo turned, Taiga started, the pass arrived and his first touch set the ball exactly where he wanted it. There. Pause. He could shoot. Probably. Maybe. He let the video run. Square ball. Interception. Taiga leaned back in the library chair.
 
 Across from him, Nora lowered her book.
 
@@ -266,7 +266,7 @@ Nobody said anything about Pinetree.
 
 ---
 
-Westlake pressed from kickoff. Not wild. Organized. Their front three curved runs toward the center-backs. Eight stepped onto Gav. The first ten minutes belonged to whoever could breathe while being shouted at.
+Westlake pressed from kickoff—not wildly, but with organization. Their front three curved runs toward the center-backs while number eight stepped onto Gav. The first ten minutes belonged to whoever could breathe while being shouted at.
 
 Taiga got his first clean touch at eleven. Aaron into him. Right-back closing. Taiga went inside first touch. Leo returned it. Taiga carried. Eight shifted. Space outside. Aaron went.
 
@@ -312,7 +312,7 @@ He looked toward the bench. Mercer pointed two fingers at the pitch. Shape. Taig
 
 ---
 
-Halftime was loud. Not Mercer. The room. Boots on tile. Players breathing. Enzo complaining about Westlake's left-back grabbing his shirt. Gav telling him to stop letting the left-back get close enough.
+Halftime was loud, though not because of Mercer. It was the room: boots on tile, players breathing, Enzo complaining about Westlake's left-back grabbing his shirt, Gav telling him to stop letting the left-back get close enough.
 
 Leo drank half a bottle of water in one go. Taiga sat beside him. Mercer waited. Then:
 
@@ -356,7 +356,7 @@ Mercer stepped back.
 
 ---
 
-Westlake kicked off. The first five minutes passed without anything happening. Taiga hated it. Possession. Throw. Foul. Reset. At fifty-two, he got the ball with space and drove inside.
+Westlake kicked off. The first five minutes passed without anything happening, which Taiga hated: possession, a throw, a foul, another reset. At fifty-two, he got the ball with space and drove inside.
 
 One defender. Then two. He tried the pass between them. Blocked. Westlake countered. This time Taiga recovered. No danger. At fifty-five, Leo took a foul near midfield. He got up immediately.
 
@@ -706,7 +706,7 @@ Taiga stared at the screen. Table updated.
 
 **2. OLYMPUS — 51**
 
-One match left. Win. Pinetree lose. That was it. Taiga put the Oracle face-down. Five minutes later it buzzed again. Leo. Taiga left it. Another minute. He picked it up.
+One match left. If Olympus won and Pinetree lost, that was it. Taiga put the Oracle face-down. Five minutes later it buzzed again. Leo. Taiga left it for another minute before picking it up.
 
 **Leo:** if you need me, i'll be in my room
 

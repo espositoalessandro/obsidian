@@ -1,4 +1,4 @@
-Taiga woke because his left arm had gone numb. He opened one eye. Gray morning light. Ceiling. Leo's hair against his chin. Right. Taiga stayed still for a few seconds.
+Taiga woke because his left arm had gone numb. He opened one eye to gray morning light, the ceiling and Leo's hair against his chin. Right. Taiga stayed still for a few seconds.
 
 Leo was half on top of him, one arm across his stomach, one knee wedged between Taiga's legs. The bad ankle was still propped on the pillow they'd shoved toward the end of the bed sometime after midnight.
 
@@ -20,7 +20,7 @@ Taiga looked at him.
 
 Leo pushed himself up on one elbow. His hair was terrible. Taiga reached over and flattened one piece that had somehow managed to point straight upward. It returned immediately.
 
-Leo laughed. Then leaned down and kissed him. Simple. Warm. Taiga closed his eyes. His hand settled behind Leo's neck. When Leo pulled back, he was smiling. Taiga pushed at his shoulder.
+Leo laughed, then leaned down and kissed him. The kiss was simple and warm. Taiga closed his eyes, one hand settling behind Leo's neck. When Leo pulled back, he was smiling. Taiga pushed at his shoulder.
 
 “Your head still weighs too much.”
 
@@ -30,7 +30,7 @@ Leo laughed. Then leaned down and kissed him. Simple. Warm. Taiga closed his eye
 
 Leo laughed and shifted enough for blood to return to Taiga's hand. The door opened. Taiga froze. Caleb stopped in the doorway. Backpack over one shoulder. Travel mug in hand.
 
-His eyes moved once. Taiga. Leo. The shared blanket. Leo's shirt on the floor near the window. Then back to Taiga.
+Caleb's eyes moved once over Taiga, Leo, the shared blanket and Leo's shirt on the floor near the window, then returned to Taiga.
 
 “Morning.”
 
@@ -120,7 +120,7 @@ Taiga shoved the blanket back over Leo's head. That worked. Mostly.
 
 ---
 
-Sunday became normal around eleven. Normal meant recovery. Ice. Mobility. Mercer making everyone do exactly enough work to prevent the previous day from becoming an excuse to lie around and die.
+Sunday became normal around eleven. Normal meant recovery, ice, mobility and Mercer making everyone do exactly enough work to prevent the previous day from becoming an excuse to lie around and die.
 
 The championship did not cancel soreness. Taiga discovered this when he tried to walk down the stairs from Residential and every muscle in both legs objected. Leo's ankle had swollen again overnight.
 
@@ -279,7 +279,7 @@ Taiga looked at him. Leo took a drink of coffee. Kept walking. Taiga followed. H
 
 ---
 
-Mercer's championship meeting lasted twenty-six minutes. The first five were congratulations. The next twenty-one were next season. Of course. He showed final table. Minutes played. Training dates. Summer conditioning expectations.
+Mercer's championship meeting lasted twenty-six minutes. The first five were congratulations; the next twenty-one were next season. Of course. He showed the final table, minutes played, training dates and summer conditioning expectations.
 
 Recovery windows. A provisional return date. Enzo stared at the screen.
 
@@ -354,7 +354,7 @@ Taiga put the paper into his bag. Leo bumped his shoulder. Taiga caught his hand
 
 The week after the final turned into work. Not dramatically. Just completely. Soccer disappeared from the schedule faster than Taiga expected. One day there had been training every afternoon.
 
-Then there wasn't. The empty space immediately filled itself. Bell's paper. Data Structures project. Review sessions. Laundry. Packing lists. Forms. End-of-term housing checkout. A message from financial aid that looked terrifying and turned out to require one checkbox.
+Then there wasn't. The empty space immediately filled itself with Bell's paper, the Data Structures project, review sessions, laundry, packing lists, forms and end-of-term housing checkout. A message from financial aid looked terrifying and turned out to require one checkbox.
 
 Taiga spent Wednesday evening in the library with Caleb. Leo sat opposite them. Maya was on a video call propped against Caleb's laptop. Four people. Three universities. One table covered in paper.
 
@@ -464,7 +464,7 @@ Taiga shoved him toward the wall. Leo muttered something incomprehensible. Taiga
 
 ---
 
-The championship photograph went up in the Sports Zone on Friday. Printed. Framed. Too large. Enzo found Taiga standing in front of it after strength work.
+The championship photograph went up in the Sports Zone on Friday, printed, framed and much too large. Enzo found Taiga standing in front of it after strength work.
 
 “You're admiring yourself.”
 

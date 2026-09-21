@@ -60,7 +60,7 @@ Nobody touched an Oracle again.
 
 ---
 
-St. Vincent's stadium was already filling when Olympus came out for the pre-match walk. Mostly white. Home shirts. Home scarves. A student section behind one goal had been making noise since before the team bus arrived.
+St. Vincent's stadium was already filling when Olympus came out for the pre-match walk, mostly white with home shirts and scarves. A student section behind one goal had been making noise since before the team bus arrived.
 
 Olympus had one corner. Blue packed into three blocks behind the opposite goal. Not enough to own the stadium. Enough to be heard. A banner hung over their railing.
 
@@ -116,7 +116,7 @@ Taiga looked over. Leo pointed toward the pitch. Taiga kept walking.
 
 ---
 
-Forty-one hung inside the visitors' locker room. Taiga pulled it on. The room was narrower than Olympus's. Benches closer together. Lockers smaller. The pipes behind one wall made a clicking noise every few minutes.
+Forty-one hung inside the visitors' locker room. Taiga pulled it on. The room was narrower than Olympus's, with benches closer together, smaller lockers and pipes behind one wall that clicked every few minutes.
 
 Enzo had already complained twice. Scott had told him to stop listening to the pipes. Gav sat with his elbows on his knees. Aaron retaped his right wrist.
 
@@ -540,7 +540,7 @@ Taiga had objected to the bag. Leo had ignored him. Now the bus pulled onto the 
 
 “It should be.”
 
-Taiga looked out the window. St. Vincent disappeared behind them. The stadium lights remained visible for another few minutes. Then trees. Road. The reflection of the bus interior in the glass.
+Taiga looked out the window. St. Vincent disappeared behind them; the stadium lights remained visible for another few minutes before giving way to trees, road and the reflection of the bus interior in the glass.
 
 Leo beside him. Taiga caught the reflection of Leo looking at him. He turned.
 
