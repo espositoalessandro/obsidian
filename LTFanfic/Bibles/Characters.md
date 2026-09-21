@@ -459,7 +459,7 @@ Give Enzo a few scenes where:
 ### Name / background continuity
 - Full on-field surname: **Rosario**. Mercer and other coaches should normally call him **Rosario** in formal training and match contexts.
 - **Enzo** remains the name used by friends, teammates and narration. It is a short/nickname form; his full legal given name does **not** need to be exposed in Acts I–IV.
-- Do **not** automatically canonize **Vincenzo** from the one stray manuscript use unless original Jock Studio material confirms it. Remove or rewrite that stray use during revision.
+- **Vincenzo** is his full official given name in Jock Studio canon; **Enzo** remains the ordinary name used by friends, teammates and narration. There is no need to expose Vincenzo in Acts I–IV unless a formal context naturally calls for it.
 - Enzo is **Dominican**, raised in **Santo Domingo**, and attended the same secondary school as Leo. They played soccer together before Olympus.
 - This history should make some of their familiarity feel older than the university without turning Enzo into an extension of Leo.
 
