@@ -824,7 +824,7 @@ Taiga replied the next morning:
 
 **Leo:** thank you for your support in this difficult time
 
-At the end of the week, Taiga stood on the platform with one suitcase, one backpack and Yuki attempting to climb onto the train with him.
+At the end of the week, Taiga stood beside the gas-station bus stop with one suitcase, one backpack and Yuki pressed against his legs as if this could prevent departure. The closed bait shop sat across the road. Same wooden bench. Same stretch of pines.
 
 “Absolutely not.”
 
@@ -860,14 +860,14 @@ Yoichi made a sound, and Taiga looked up. “What?”
 
 Yuki licked Taiga's chin. Yoichi smiled despite himself.
 
-The train arrived, and Taiga stood. Yoichi took the suitcase handle before Taiga could.
+The bus appeared around the bend, and Taiga stood. Yoichi took the suitcase handle before Taiga could.
 
 “I can carry it.”
 
-“Yeah, Dynamite, I know. Train's got stairs.”
+“Yeah, Dynamite, I know. Bus has steps.”
 
 “Two of them.”
 
 “Then congratulations.”
 
-He lifted it anyway. Taiga let him.
+He lifted it anyway. Taiga let him. The bus would take him back to the rail station. From there, Olympus was one train away.
