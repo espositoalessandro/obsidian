@@ -48,7 +48,7 @@ The car had not fully stopped before a woman appeared from one of the doors.
 
 Taiga knew immediately that she had to be Carmen. Leo had shown him pictures, but the pictures had not captured the speed. She crossed the courtyard while Manuel was still turning off the engine, spoke to him through the open window, looked into the back seat at Taiga, then switched attention to Leo without visibly pausing between any of it.
 
-“*Julio, get his bag. Manuel, don’t leave the car there. Taiga,* welcome.”
+“Julio, *get his bag.* Manuel, *don’t leave the car there.* Taiga, welcome.”
 
 The last word came in English.
 
@@ -142,7 +142,7 @@ A girl stood in the doorway behind Carmen, watching Taiga with the specific conc
 
 Leo noticed her.
 
-“*Dani*, *this is Taiga*.”
+“Dani, *this is* Taiga.”
 
 “*I know.*”
 
@@ -192,7 +192,7 @@ Dani ignored him.
 
 Carmen turned around so quickly that Taiga almost laughed.
 
-“*Daniela.*”
+“Daniela.”
 
 “*What? They’re already boyfriends.*”
 
@@ -236,7 +236,7 @@ The kid stopped long enough to notice him.
 
 Leo pointed.
 
-“*Antonio, this is Taiga.*”
+“Antonio, *this is* Taiga.”
 
 Antonio looked at Taiga with complete seriousness.
 
@@ -348,7 +348,7 @@ Mercedes sat near the open kitchen with a glass of something cold beside her. Sh
 
 Leo went to her first.
 
-“Abuela, *this is Taiga*.”
+“Abuela, *this is* Taiga.”
 
 She touched his cheek, said something that made him roll his eyes, and then looked past him at Taiga.
 
@@ -370,7 +370,7 @@ Taiga understood because she said it carefully.
 
 “*A little.*”
 
-“*More than Julio told me.*”
+“*More than* Julio *told me.*”
 
 Leo objected immediately.
 
@@ -458,7 +458,7 @@ Leo choked.
 
 Carmen closed her eyes.
 
-“*Daniela.*”
+“Daniela.”
 
 Dani looked genuinely confused.
 
@@ -496,7 +496,7 @@ Leo was trying not to smile.
 
 “No part of this family is innocent.”
 
-Mercedes looked up at the word *family* even though the rest had been English.
+Mercedes noticed Taiga looking around the table.
 
 “*What did he say?*”
 
@@ -524,7 +524,7 @@ Mercedes repeated the question more slowly.
 
 Taiga understood enough this time.
 
-“*He is a bad teacher,*” Taiga said carefully in Spanish. “*He knows when something is wrong, but he doesn’t know why.*”
+“*He is a bad teacher,*” Taiga said carefully. “*He knows when something is wrong, but he doesn’t know why.*”
 
 Leo turned toward him.
 
@@ -532,7 +532,7 @@ Leo turned toward him.
 
 “Shut up.”
 
-Mercedes listened to Leo’s translation of the last part, then said something with such a neutral expression that Taiga initially assumed it was harmless.
+Mercedes listened, then said something with such a neutral expression that Taiga initially assumed it was harmless.
 
 Carmen put a hand over her mouth.
 
@@ -1668,11 +1668,7 @@ Taiga looked at her.
 
 Mercedes smiled as though Taiga had made measurable progress.
 
-They sat with her for a while.
-
-Not because the chapter needed them to.
-
-There was simply nowhere they needed to be.
+They sat with her for a while because there was simply nowhere they needed to be.
 
 Mercedes asked Taiga about the neighborhood, speaking more slowly when she wanted him to answer and normally when she was talking to Leo. Taiga caught enough to respond in pieces. The rest Leo filled in.
 
@@ -1820,7 +1816,7 @@ Taiga watched for a moment.
 
 Then Carmen handed him one end of the table.
 
-“*Taiga.*”
+“Taiga.”
 
 He understood the gesture even if he missed the sentence.
 
