@@ -778,9 +778,55 @@ Leo smiled.
 
 “Hi.”
 
-Taiga turned.
+Keitaro looked between him and Taiga.
 
-“Don't *hi* me.”
+“Oh. So you're Leo.”
+
+Taiga immediately regretted having friends.
+
+Leo laughed.
+
+“I'm guessing that means you've heard about me.”
+
+“A little,” Keitaro said.
+
+“Too much,” Yoichi added.
+
+“Fuck you.”
+
+Hunter stepped forward and offered Leo a hand.
+
+“Nice to finally meet you.”
+
+“You too.”
+
+Natsumi nodded.
+
+“Same.”
+
+Hiro stared at Leo for one second longer than necessary.
+
+Then:
+
+“YOU'RE SUNBALL.”
+
+Leo blinked.
+
+Taiga closed his eyes.
+
+“Please don't encourage him.”
+
+Leo looked delighted.
+
+“Sunball?”
+
+“Later.”
+
+Yoichi snorted.
+
+Taiga turned back to Leo.
+
+“And don't *hi* me.”
 
 Leo's smile widened.
 
