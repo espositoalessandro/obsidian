@@ -416,7 +416,7 @@ Leo laughed.
 
 “That too.”
 
-Manuel had already carried the suitcase into Carmen and Manuel’s part of the house. Leo picked up Taiga’s backpack and led him through the living room, then toward a staircase Taiga had not noticed from the courtyard.
+Manuel had already carried the suitcase into Carmen and Manuel’s part of the house. Leo shifted Taiga’s backpack higher on his shoulder and led him through the living room, then toward a staircase Taiga had not noticed from the courtyard.
 
 “You’re upstairs?”
 
@@ -698,7 +698,7 @@ Leo took his hand for the first few steps toward the stairs.
 
 Dinner did not begin so much as accumulate.
 
-Taiga had assumed there would be a table and a time. There was a table, technically. There were also people eating before other people sat down, somebody carrying another dish from Carmen’s kitchen, Antonio leaving halfway through and returning with a toy, Dani appearing with two glasses and no explanation for where she had been, and Ramón telling a story loudly enough that Taiga could follow his presence even when he could not follow a single word.
+Taiga had expected a recognizable start. There was a table, technically. There were also people eating before other people sat down, somebody carrying another dish from Carmen’s kitchen, Antonio leaving halfway through and returning with a toy, Dani appearing with two glasses and no explanation for where she had been, and Ramón telling a story loudly enough that Taiga could follow his presence even when he could not follow a single word.
 
 They ended up around the larger table near Mercedes’s kitchen, with two extra chairs dragged in from the patio.
 
