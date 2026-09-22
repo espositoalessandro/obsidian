@@ -34,6 +34,7 @@ The objective is **not** to make every minor character equally important. It is 
 
 ## Current role
 - Co-lead.
+- **Age continuity: 19 before May 24; turns 20 on May 24.**
 - Olympus freshman.
 - Computer Science student.
 - More experienced organized soccer player than Taiga.
