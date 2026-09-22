@@ -24,7 +24,7 @@ Leo tightened his hold.
 
 “No.”
 
-“You’re twenty now. Act like an adult.”
+“It’s your birthday. Act like an adult.”
 
 That got one eye open.
 
@@ -54,7 +54,7 @@ Nothing happened.
 
 “Future Leo is an asshole.”
 
-“He’s twenty. Respect your elders.”
+“It’s my birthday. Show some respect.”
 
 Taiga shoved him.
 
@@ -240,7 +240,7 @@ Then at Taiga.
 
 Then back at Leo.
 
-“*Twenty years.*”
+“*Another year.*”
 
 Leo nodded.
 
@@ -748,7 +748,7 @@ Taiga slapped his hand away.
 
 “I wanted confirmation.”
 
-“You’re twenty and still annoying.”
+“It’s your birthday and you’re still annoying.”
 
 “You keep mentioning my age like I’m supposed to have transformed overnight.”
 
@@ -1644,8 +1644,6 @@ Then at Taiga.
 
 The party grew without announcing that it had started.
 
-That was the first thing Taiga understood.
-
 There was no moment when everybody gathered and somebody said dinner was ready. Food simply became available in increasing quantities. Plates appeared. People ate a pastelito while standing and then forgot they were eating because somebody had arrived. Someone opened the cooler. Someone else changed the music.
 
 Carmen moved through everything.
@@ -1668,13 +1666,9 @@ Enzo shouted from beside the speaker that the playlist had become “a crime aga
 
 Leo answered all of them.
 
-He looked happy.
+By the time Antonio let go of his sleeve, the cousin at the gate had already pulled him into another hug. Dani called him back for a second picture before that conversation had finished, and Leo went laughing.
 
-Not polite-happy.
-
-Actually happy.
-
-Taiga watched him move from one conversation into another, switching languages whenever needed, touching shoulders, laughing, stopping for pictures, pulling somebody else into a group before they could stand alone.
+Taiga watched him move from one conversation into another, switching languages whenever needed, touching shoulders, stopping for pictures, pulling somebody else into a group before they could stand alone.
 
 Then Leo saw him watching.
 
@@ -1704,7 +1698,7 @@ Taiga remembered exactly one name.
 
 The oldest woman in the group took both of his hands and asked him something slowly.
 
-He caught *Italia*.
+He caught Italia.
 
 “Sí.”
 
@@ -1720,7 +1714,7 @@ Taiga answered.
 
 The woman nodded as if this confirmed something.
 
-Then she said a sentence that contained *comida*.
+Then she said a sentence that contained comida.
 
 Taiga looked at Leo.
 
@@ -1816,9 +1810,9 @@ Taiga showed him the plate.
 
 Manuel laughed.
 
-“*Moma?*”
+“Carmen?”
 
-Taiga pointed at Carmen.
+Taiga pointed at her.
 
 Manuel nodded as if this explained everything.
 
@@ -1826,13 +1820,9 @@ It probably did.
 
 They ended up eating near the patio table with Manuel and Isa, though Leo only remained seated for about five minutes before somebody called him away.
 
-Taiga noticed.
+Manuel asked Taiga something.
 
-Then kept eating.
-
-Manuel asked him something.
-
-Taiga caught *hoy* and *ciudad*.
+Taiga caught hoy and ciudad.
 
 “*Very good,*” Taiga said.
 
@@ -1986,7 +1976,7 @@ Leo had not said anything yet.
 
 “You’re about to ask.”
 
-“I’m twenty now. Maybe I’ve matured.”
+“I’m older now. Maybe I’ve matured.”
 
 “No.”
 
@@ -2238,8 +2228,6 @@ Less bad.
 
 Leo looked happy anyway.
 
-That was enough.
-
 When the song changed, Taiga escaped.
 
 Leo did not follow immediately because Carmen intercepted him and dragged him into the next one.
@@ -2262,11 +2250,9 @@ Taiga understood.
 
 Manuel watched his son for a second.
 
-Then he said something slower.
+Then he added, more slowly,
 
-Taiga caught enough.
-
-*Always.*
+“*Always.*”
 
 Taiga looked at Leo again.
 
@@ -2626,17 +2612,9 @@ Leo shoved him.
 
 Enzo laughed.
 
-Taiga looked at the shirt.
+Taiga looked at the shirt, then at Leo.
 
-Then at Leo.
-
-Old photos in a book. Old number on a new shirt.
-
-The combination seemed accidental.
-
-Probably was.
-
-Leo carried both upstairs later.
+A few minutes later, Leo carried it upstairs.
 
 ---
 
@@ -2828,11 +2806,7 @@ They crossed the courtyard together.
 
 It was after one when the last people Taiga did not recognize finally left.
 
-The compound did not become quiet.
-
-It simply became family-sized again.
-
-That counted.
+The compound did not become quiet. It simply became family-sized again.
 
 Carmen was collecting cups despite three people telling her to leave them. Manuel had started stacking chairs. Ramón was still telling a story to Enzo like neither of them had access to sleep. Isa was carrying containers toward her section. Dani had disappeared. Antonio had apparently been taken to bed hours earlier.
 
