@@ -752,7 +752,7 @@ That got a reaction. Leo's jaw tightened. Taiga sat up.
 
 “There. That.”
 
-“What do you want me to say?”
+“Then ask what you're actually asking.”
 
 “The truth would be a nice change.”
 
@@ -1011,17 +1011,15 @@ Leo looked up.
 
 That shut him up. Leo pulled the blanket back. Taiga stared at him.
 
-“So that's it?”
+“You're seriously going to sleep now?”
 
-“Yeah.”
+Leo looked at the wall.
 
-“You're just going to sleep?”
+“I don't have anything useful left to say.”
 
-“What do you want me to do?”
+“That's convenient.”
 
-“I don't know.”
-
-“Neither do I.”
+“Probably.”
 
 Taiga looked toward the window. Dark outside. His reflection faint. Leo lay down, not facing him. Taiga stood there another few seconds before sitting on his own bunk. His chest felt too tight. He was angry at Leo. Angry at Kieran. Angry at himself for not knowing which part deserved the most. Mostly he kept hearing one sentence.
 
