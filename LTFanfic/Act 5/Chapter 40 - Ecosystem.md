@@ -84,7 +84,7 @@ He pinched two fingers together.
 
 Carmen laughed and looked over his shoulder.
 
-“Mercedes!”
+“Mami!”
 
 Taiga closed his eyes briefly.
 
@@ -322,7 +322,7 @@ Isa nodded as if this were a perfectly ordinary answer and moved on without cong
 
 Taiga immediately appreciated her.
 
-“*Come,*” Carmen said, already moving. “*Mercedes is waiting.*”
+“*Come,*” Carmen said, already moving. “Mami *is waiting.*”
 
 Taiga looked at Leo.
 
