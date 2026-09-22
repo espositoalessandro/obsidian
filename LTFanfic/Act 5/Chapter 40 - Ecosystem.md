@@ -538,11 +538,11 @@ Taiga looked at the seam again.
 
 “This is my room.”
 
-“You’re heavier.”
+“You’re the host.”
 
 “That sounds like discrimination.”
 
-“It’s physics.”
+“Society rules.”
 
 Leo dropped Taiga’s backpack beside the wardrobe.
 
