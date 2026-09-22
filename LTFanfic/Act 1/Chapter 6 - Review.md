@@ -976,7 +976,7 @@ Mercer smiled slightly. “You've been in organized soccer for six weeks. The de
 
 “Yes.”
 
-“Fine. I want your scanning consistent enough that you can tell me where your next two options are before the ball arrives. I want you understanding our pressing triggers without Evan yelling at you. I want your off-ball positioning to hold when the structure breaks. And I want another month of you not trying to personally avenge every mistake.”
+“Fine. I want you checking early enough that you know your next two options before the ball arrives. I want you recognizing when to press without Evan yelling at you. I want you still knowing where to stand when the play gets messy. And I want another month of you not trying to personally avenge every mistake.”
 
 Taiga nodded.
 
@@ -1178,19 +1178,19 @@ Leo moved without argument.
 
 Mercer stopped an eleven-versus-eleven sequence.
 
-“Akatora. Pressing triggers.”
+“Akatora. When do you go?”
 
-Taiga looked at the shape.
+Taiga looked at the ball.
 
 “Bad touch.”
 
 “That's one.”
 
-“Backward pass to keeper. Square ball under pressure. Receiver facing his own goal.”
+“Backward pass to the keeper. Slow pass across. Somebody gets it facing their own goal.”
 
 Mercer nodded. “And if none of those happen?”
 
-“Hold.”
+“Wait.”
 
 “Good.”
 
