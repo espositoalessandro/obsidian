@@ -20,10 +20,6 @@ Taiga ate the second half of his banana. Caleb scrolled.
 
 “Four-forty.”
 
-“You said four-thirty yesterday.”
-
-“Bus from Residential is four-forty. Report is five.”
-
 Caleb nodded.
 
 “Kickoff at seven.”
