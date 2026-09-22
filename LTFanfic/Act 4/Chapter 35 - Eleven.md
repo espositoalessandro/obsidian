@@ -696,7 +696,10 @@ Leo laughed and went into the box. Corner cleared.
 At twenty-two, Cedar Ridge scored. 
 Their first real attack.
 Olympus had the ball. Then didn't. 
-Enzo tried a pass inside. Intercepted. Cedar Ridge went direct to the striker. Gav stepped. The striker laid it off. Runner from midfield. Aaron tracked. Shot from twenty-five meters. Deflection. Scott moved left. Ball went right. Net. Zero-one. For a second nobody moved. The Cedar Ridge bench erupted. Scott turned and looked at the deflection spot. Gav rubbed both hands over his face.
+Enzo tried a pass inside. Intercepted. Cedar Ridge went direct to the striker. Gav stepped. The striker laid it off. Runner from midfield. Aaron tracked. Shot from twenty-five meters. Deflection. Scott moved left. Ball went right. 
+Net.
+Zero-one. 
+For a second nobody moved. The Cedar Ridge bench erupted. Scott turned and looked at the deflection spot. Gav rubbed both hands over his face.
 Taiga walked toward halfway. The scoreboard changed.
 
 **OLYMPUS 0 — 1 CEDAR RIDGE**
