@@ -1438,9 +1438,13 @@ Mercer capped the marker.
 
 “Good talk.”
 
-A couple of players laughed. Mercer continued. Northbridge's right-back was number fourteen today. Same aggressive step as film. Taiga had written it down. Bounce inside. Go behind. Do not turn every touch into a referendum on Wednesday's squad sheet. That last one was not in the notebook. Probably should have been. Whistle. First possession came after forty seconds. Ball from the center-back. Taiga checked. Fourteen already moving. He received. Could attack. Could push it outside and try to beat him immediately.
+A couple of players laughed. Mercer continued. Northbridge's right-back was number fourteen today. Same problem as before.
 
-His body wanted that. Instead he bounced the pass inside and ran. The midfielder returned it into space. Taiga reached the ball first. Cross. Too deep. Goal kick. Fine.
+Fourteen hated waiting.
+
+Taiga had written that down in less polite language. Play it inside. Make him step. Then go behind him. Do not turn every touch into a referendum on Wednesday's squad sheet. That last one was not in the notebook. Probably should have been. Whistle. First possession came after forty seconds. Ball from the center-back. Taiga checked. Fourteen already moving. He received. Could attack. Could push it outside and try to beat him immediately.
+
+His body wanted that. Instead he played the pass inside and ran. The midfielder returned it into space. Taiga reached the ball first. Cross. Too deep. Goal kick. Fine.
 
 Next time. Six minutes later, fourteen stepped again. Taiga played inside. Ran behind. No return pass. Fine. Third time, the midfielder found him. Taiga drove toward the box. Defender recovering. He cut inside. Shot lane. He hit it. Blocked. Ball ricocheted out. Nothing. His brain immediately offered: *Could've gone line.* Then: *Could've played the overlap.* Then: *Why the fuck did you shoot from there?* Taiga ran back. No funeral. One bad decision.
 
@@ -1468,7 +1472,7 @@ Taiga thought back. Fuck. He had.
 
 Second half. Taiga stayed wide. Really wide. For three possessions nothing happened. Then fourteen got impatient. Stepped. Taiga went behind. Pass arrived. He took it toward the line. Center-back shifting. Striker near post. Midfielder late at edge. Taiga crossed low. Defender blocked. Corner. Mercer clapped once. Again. At fifty-two, same shape. This time fourteen hesitated. Taiga held. Midfielder carried centrally. Space opened elsewhere. Taiga never touched the ball. Olympus created a shot anyway. He jogged back.
 
-At sixty-one, the sequence came again. Fourteen stepped. Taiga bounced inside. Ran behind. Return pass. One touch forward. The center-back moved across. Taiga saw the striker. Could cross. Then saw the midfielder arriving behind the play. Cutback. Simple. The midfielder hit it first time. Saved. Rebound. Striker scored. Two-one. Everyone ran toward the scorer. Taiga did too. No assist. The keeper had saved the first shot. Statistics would not remember him. Mercer shouted from the sideline:
+At sixty-one, the same thing happened again. Fourteen got impatient and stepped. Taiga played inside and ran behind him. Return pass. One touch forward. The center-back moved across. Taiga saw the striker. Could cross. Then saw the midfielder arriving behind the play. Cutback. Simple. The midfielder hit it first time. Saved. Rebound. Striker scored. Two-one. Everyone ran toward the scorer. Taiga did too. No assist. The keeper had saved the first shot. Statistics would not remember him. Mercer shouted from the sideline:
 
 “AKATORA\!”
 
