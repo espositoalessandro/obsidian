@@ -856,9 +856,9 @@ Taiga stared at Leo.
 
 Leo stared at Dani.
 
-“Why would you translate that?”
+“*Why would you translate that*?”
 
-“He asked.”
+“*He asked*.”
 
 Mercedes was still eating.
 
@@ -868,9 +868,9 @@ She raised her glass slightly.
 
 Taiga smiled.
 
-“Espero.”
+“*I hope*.”
 
-Mercedes paused, then laughed.
+Mercedes paused, then the whole table laughed.
 
 Leo covered his face.
 
