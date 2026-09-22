@@ -496,11 +496,7 @@ Taiga looked at him. “No promises.”
 
 Aaron grinned. A few people laughed. Mercer continued.
 
-“Brennan is the six today.”
-
-Taiga frowned before he could stop himself. Mercer caught it.
-
-“Six is the deepest midfielder. Old shirt-number shorthand. Do not worry, there will not be a quiz.”
+“Brennan sits deepest in midfield today. If somebody calls him the six, that is what they mean.”
 
 Gav Brennan said, “He means there will be a quiz every possession.”
 
@@ -508,7 +504,7 @@ Gav Brennan said, “He means there will be a quiz every possession.”
 
 Mercer moved the ball with his foot.
 
-“Price is the nine. Highest striker. Mendez underneath him. Rosario and Cole wide. If those numbers mean nothing yet, learn the jobs before the vocabulary.”
+“Price stays highest. Mendez underneath him. Rosario and Cole wide. Learn the jobs before the vocabulary.”
 
 That, at least, sounded reasonable. They started with buildup from the back. Walsh played into Brennan. Brennan turned. Taiga held the left wing. Too wide. Whistle.
 
