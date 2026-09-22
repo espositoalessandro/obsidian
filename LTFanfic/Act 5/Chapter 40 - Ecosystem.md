@@ -1002,8 +1002,6 @@ Taiga looked at him.
 
 Leo’s expression was completely uncomplicated.
 
-Taiga thought about dinner: Carmen making sure his plate never stayed empty for long, Dani asking exactly what she wanted to know, Ramón’s football story surviving increasingly destructive corrections, and Mercedes detonating the table while looking innocent.
-
 “Your grandmother is dangerous.”
 
 “Extremely.”
@@ -1065,8 +1063,6 @@ Leo waited.
 Taiga turned his head.
 
 “Not bad, though.”
-
-That was enough.
 
 Leo leaned over and kissed his forehead.
 
@@ -1166,7 +1162,7 @@ The mood slowly changed.
 
 Affection turned into desire.
 
-Their hands held each other more firmly. Their kisses deepened until they were sucking at each other’s lips, and eventually Tiga’s tongue slipped into Leo’s mouth. Taiga felt the brief hesitation before Leo kissed him back harder.
+Their hands held each other more firmly. Their kisses deepened until they were sucking at each other’s lips, and eventually Taiga’s tongue slipped into Leo’s mouth. Taiga felt the brief hesitation before Leo kissed him back harder.
 
 Then Leo’s hand started moving downward, from Taiga’s chest to his abdomen, then lower, until it reached the waistband of his shorts.
 
@@ -1501,11 +1497,7 @@ At one point Carmen asked him to carry a folded table from one side of the patio
 
 Taiga watched all of it.
 
-At Olympus, Leo’s tendency to be everywhere had always seemed like Leo being Leo.
-
-Here it looked almost architectural.
-
-He moved through the property the same way Antonio did, through doors and between people without needing to ask where he belonged. Everybody called him Julio. Everybody expected he knew where things were. Most of the time, he did.
+Before he finished eating, three different voices had called “Julio” from three different parts of the property. Leo answered every one without looking particularly surprised.
 
 Taiga finished eating.
 
@@ -1759,25 +1751,13 @@ The boy laughed.
 
 Taiga smiled.
 
-They did not stay long, which helped.
+After a few minutes, Leo touched Taiga’s shoulder and they kept walking.
 
-Leo could have spent an hour there without effort, Taiga suspected. He knew people. People knew him. Nobody seemed surprised that he was back or that he had brought someone with him.
+A man sitting outside a house called “Julio” as they passed. Leo lifted a hand without stopping.
 
-But after a few minutes Leo touched Taiga’s shoulder and they kept walking.
+A woman crossing the road asked something about Carmen. Leo answered over his shoulder and kept walking.
 
-The farther they moved from the compound, the more Taiga understood why the morning had not bothered Leo in the slightest.
-
-This place did not require Leo to enter social situations. He already existed inside them.
-
-A man sitting outside a house knew his name.
-
-A woman crossing the road asked something about Carmen.
-
-Someone on a motorcycle lifted a hand in greeting.
-
-None of it became a conversation unless Leo wanted it to.
-
-For the first time since Taiga arrived, the social density felt loose instead of concentrated.
+Someone on a motorcycle lifted a hand in greeting. Leo returned it.
 
 They eventually stopped near a shaded wall at the edge of a quieter street.
 
@@ -1855,9 +1835,9 @@ Leo nudged his shoulder.
 
 They stayed there a little longer without needing to fill the silence.
 
-That was different too.
+A motorcycle passed at the far end of the street. Somewhere behind the wall, a radio changed songs. Leo said nothing. Taiga did not either.
 
-At the house, silence had felt temporary, something the next person would interrupt eventually. Out here it simply existed between them, and neither seemed in a hurry to break it. Eventually Leo looked at his phone.
+Eventually Leo looked at his phone.
 
 “We should probably go back.”
 
@@ -2159,7 +2139,7 @@ She nodded.
 
 Taiga understood that too.
 
-By evening, he knew where the glasses were in Mercedes’s kitchen, which felt more significant than it probably should have.
+By evening, he knew where the glasses were in Mercedes’s kitchen. When Antonio asked for one, Taiga got it without looking for Leo.
 
 Dinner was smaller and less organized than the night before. People ate at different times because half the food was apparently preparation for Sunday and therefore forbidden. Taiga did not ask why there were already so many chairs.
 
@@ -2265,13 +2245,9 @@ For a while neither of them said anything.
 
 The house was quieter now, though never fully silent. Voices drifted through the open window and faded again. Somewhere outside, Carmen called something to Manuel. Ramón laughed at his own story. A door closed.
 
-Taiga thought about the previous twenty-four hours.
+Taiga still could not have drawn a map of the property without inventing at least one staircase. He understood maybe half of what people said directly to him and much less when they forgot to slow down.
 
-He still could not have drawn a map of the property without inventing at least one staircase. He understood maybe half of what people said directly to him and much less when they forgot to slow down. He had met enough relatives and almost-relatives that the distinction was already becoming suspicious.
-
-And yet the place felt less confusing than it had when the gate first opened.
-
-People had started becoming people instead of noise.
+A laugh crossed the courtyard and he knew it was Ramón before the next sentence started. Carmen called something from below and he caught Julio before the rest blurred together. Somewhere to the left, a door closed.
 
 Taiga squeezed Leo’s hand.
 
