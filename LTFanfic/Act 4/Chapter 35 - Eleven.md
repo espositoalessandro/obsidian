@@ -146,11 +146,11 @@ Taiga on the left. Leo central. Northbridge's right-back half a step behind. Cut
 
 “Why does this work?”
 
-Taiga looked at the screen. Nobody answered immediately. Gav said, “Six follows Mendez.” Mercer nodded.
+Taiga looked at the screen. Nobody answered immediately. Gav said, “Their midfielder follows Mendez.” Mercer nodded.
 
 “Bennett?”
 
-“The fullback has to turn because Taiga starts outside.”
+“The right-back has to turn because Taiga starts outside.”
 
 “Yes.”
 
@@ -170,11 +170,11 @@ Mercer nodded once.
 
 “Good.”
 
-He let the clip play. Leo hit the shot. Net. Mercer changed footage. Cedar Ridge. Different problem. They defended in a lower block. Four-five-one without the ball. Less aggressive.
+He let the clip play. Leo hit the shot. Net. Mercer changed footage. Cedar Ridge. Different problem. They packed players behind the ball and waited.
 
-Less space behind.
+Less space. Less chaos.
 
-“They'll let you have the first pass,” Mercer said. “Then they'll decide whether you deserve the second.”
+“They'll let you have the first pass,” Mercer said. “Then they'll wait for you to get bored.”
 
 Clip. Cedar Ridge allowed a winger to receive. Fullback waited. Central midfielder shifted across. Passing lane disappeared. Winger tried to force outside. Lost it. Mercer paused.
 
@@ -620,7 +620,7 @@ Taiga handed it back. Mercer called the meeting.
 
 ---
 
-Cedar Ridge looked exactly like the film. Four-five-one. Compact. Patient. Annoying. Mercer put the shape on the board.
+Cedar Ridge looked exactly like the film. Compact. Patient. Annoying. Everyone behind the ball, nobody in a hurry. Mercer put them on the board.
 
 “They will give you the first pass.”
 
@@ -638,11 +638,11 @@ Then the right.
 
 Enzo nodded.
 
-“They are not scared of possession. They are scared of being moved.”
+“They don't care if you have the ball. They care if you make them move.”
 
-Mercer drew arrows.
+Mercer drew two simple arrows.
 
-“Move them.”
+“Make them move.”
 
 He looked at Leo.
 
@@ -764,17 +764,17 @@ Taiga thought back. Fuck. Mercer continued.
 
 Enzo nodded. Mercer looked at Leo.
 
-“Stop solving every possession by dropping toward Gav.”
+“Stop solving every possession by coming all the way back toward Gav.”
 
 Leo leaned forward.
 
 “Stay higher?”
 
-“Sometimes. Make the eight choose whether to leave the line.”
+“Sometimes. Make that midfielder choose whether to follow you.”
 
 Gav added:
 
-“If he follows Leo, I can step.”
+“If he follows Leo, I get room to carry forward.”
 
 Mercer nodded.
 
@@ -792,7 +792,7 @@ Taiga attacked the fullback on his first touch of the second half. Not because M
 
 Taiga pushed outside. Then cut in. The midfielder arrived. This time Taiga kept going another step. Contact. Ball popped loose. Aaron recovered. Cedar Ridge's line shifted. Aaron found Gav.
 
-Gav switched. Enzo received with space. Cross. Striker header. Wide. Better. At fifty-two, Leo stayed high. Cedar Ridge's eight stayed with him. Gav carried forward. Taiga came inside.
+Gav switched. Enzo received with space. Cross. Striker header. Wide. Better. At fifty-two, Leo stayed high. Cedar Ridge's midfielder stayed with him. Gav carried forward. Taiga came inside.
 
 Pass. Turn. Right-back followed. Aaron ran beyond. Taiga played him. Low cross. Keeper touched it. Ball rolled through the six-yard box. Enzo missed it by half a step.
 
