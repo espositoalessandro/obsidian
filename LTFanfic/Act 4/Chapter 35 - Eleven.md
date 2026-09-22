@@ -30,7 +30,7 @@ Enzo turned around.
 
 Gav sat down anyway. Taiga looked at Leo. Leo had already taken the chair beside him. Fine. They stayed. More players drifted in. Aaron. Two center-backs. One of the reserve keepers.
 
-Nobody announced that they were watching the table. Nobody needed to. At seven-thirty, the stream started. Redmont's stadium was smaller than Olympus's. Windier too. The camera shook on long shots.
+Nobody announced that they were watching the table. Nobody needed to. At seven-thirty that evening, the stream started. Redmont's stadium was smaller than Olympus's. Windier too. The camera shook on long shots.
 
 Enzo complained about production quality for four minutes before Scott told him to mute himself. Pinetree scored first in the twenty-third minute from a corner: second ball, header. Enzo sank lower in his seat.
 
@@ -170,29 +170,37 @@ Mercer nodded once.
 
 “Good.”
 
-He let the clip play. Leo hit the shot. Net. Mercer changed footage. Cedar Ridge. Different problem. They packed players behind the ball and waited.
+He let the clip play. Leo hit the shot. Net. Mercer changed footage.
 
-Less space. Less chaos.
+Cedar Ridge.
 
-“They'll let you have the first pass,” Mercer said. “Then they'll wait for you to get bored.”
+Different problem.
 
-Clip. Cedar Ridge allowed a winger to receive. Fullback waited. Central midfielder shifted across. Passing lane disappeared. Winger tried to force outside. Lost it. Mercer paused.
+“They don't chase,” Mercer said.
 
-“They want impatience.”
+The first clip proved it. Cedar Ridge let the other team pass the ball around in front of them. Nobody panicked. Nobody stepped out. Eventually the winger got bored, tried to force his way through two defenders and lost it.
 
-Another clip.
+Mercer paused.
 
-“They're happy if you take twelve touches twenty-five yards from goal.”
+“That is what they want.”
 
-Another.
+Another clip. Long shot. Easy save.
 
-“They're happier if you shoot from there.”
+“Also what they want.”
 
-Taiga looked at the screen. Mercer continued.
+Another. A cross from too far out. Cleared.
 
-“Move them. Make them choose. If they never have to choose, you're doing their job for them.”
+“Same.”
 
-The clip changed again. Cedar Ridge conceded after fourteen passes. Nothing dramatic. Side to side. Back. Forward. Wide. Inside. Wide again. Then a gap. Goal. Enzo exhaled.
+Enzo leaned back.
+
+“So the plan is don't get bored.”
+
+“The plan is make *them* get bored first.”
+
+The next clip lasted longer. Pass after pass. Cedar Ridge shuffled from side to side until one defender finally stepped too far. The ball went into the space he'd left. Goal.
+
+Enzo exhaled.
 
 “That is deeply boring.”
 
@@ -206,7 +214,7 @@ Mercer looked at him.
 
 “I appreciate boring goals.”
 
-“Learn to appreciate boring possession first.”
+“Good. Appreciate boring football for ninety minutes.”
 
 A couple people laughed. Mercer moved on. At the end, he closed the video.
 
@@ -620,43 +628,25 @@ Taiga handed it back. Mercer called the meeting.
 
 ---
 
-Cedar Ridge looked exactly like the film. Compact. Patient. Annoying. Everyone behind the ball, nobody in a hurry. Mercer put them on the board.
+Cedar Ridge looked exactly like the film. Everyone behind the ball. Nobody in a hurry.
 
-“They will give you the first pass.”
+Mercer barely used the board.
 
-He tapped the left side.
+“They'll let us have it.”
 
-“Akatora.”
+He looked at Taiga, then Enzo.
 
-Taiga looked up.
+“Take the space they give you. Don't invent danger because nothing happened for ten seconds.”
 
-“Take it.”
+Then Leo.
 
-Then the right.
-
-“Rosario. Same.”
-
-Enzo nodded.
-
-“They don't care if you have the ball. They care if you make them move.”
-
-Mercer drew two simple arrows.
-
-“Make them move.”
-
-He looked at Leo.
-
-“Do not come looking for the ball every time we recycle. Make their midfield turn their heads.”
+“Don't come all the way back every time just because you want the ball.”
 
 Leo nodded.
 
-“Brennan, change the side before they settle.”
+Mercer looked around the room.
 
-“Yeah.”
-
-Mercer capped the marker.
-
-“Patience is not the same thing as standing around.”
+“They want us frustrated. Don't help them.”
 
 Scott raised a hand halfway. Mercer looked at him. Scott lowered it.
 
@@ -666,18 +656,33 @@ Mercer stared for another second. Then opened the door.
 
 ---
 
-Taiga's first touch came after forty-eight seconds. Center-back to Aaron. Aaron to Taiga. Cedar Ridge's right-back stayed five meters away. Taiga controlled. Looked up. No pressure. He carried two steps.
-Midfielder shifted. Right-back waited. Leo moved behind the midfield line. Taiga played inside to Gav. Moved forward. Ball went right. Back. Left again. This time Taiga received higher.
-Right-back closer. He played Aaron behind him. Aaron switched. Cedar Ridge moved as one block. Taiga jogged across ten meters and reset. The crowd sounded different from the bench.
-Obvious, but still true: the noise was resolving into individual voices instead of one wall. Someone behind the dugout shouted his number. Taiga ignored it. At six minutes, Leo found him between fullback and midfielder.
+Taiga's first touch came after forty-eight seconds.
 
-Taiga turned. The right-back was square. Could attack. He pushed outside. Defender matched. Taiga stopped and played backward. Olympus kept possession. At nine, Enzo got around the opposite fullback and crossed low.
-Keeper collected. At twelve, Cedar Ridge countered for the first time. Not dangerous. Three passes. Shot from distance. Scott caught it against his chest. He rolled the ball out immediately.
+Aaron passed to him. Cedar Ridge's right-back stayed five meters away.
 
-Again. Possession. Again. Move them. At seventeen, Taiga got the defender isolated. Aaron had pulled their winger deeper. Leo occupied the nearest midfielder. Right-back alone. Taiga faced him.
+Taiga almost found that insulting.
 
-One touch left. One right. The defender waited. Taiga cut inside. A second midfielder arrived. He played Leo. Leo returned it first time. Taiga could shoot. Angle narrow.
-He looked across the box instead. Crossed low. Cleared by the first center-back. Corner. Leo jogged over while Cedar Ridge organized.
+He carried forward. The defender backed up. Taiga played inside. Olympus kept the ball.
+
+That became the first ten minutes.
+
+Pass. Move. Get it back. Cedar Ridge shifted across. Pass again.
+
+Nobody from Cedar Ridge seemed remotely bothered.
+
+At nine, Enzo finally got around the opposite fullback and crossed low. Keeper collected.
+
+At twelve, Cedar Ridge countered for the first time. Three passes. Shot from distance. Scott caught it easily and rolled the ball back out.
+
+Again.
+
+At seventeen, Taiga finally got the right-back alone. He tried outside. Defender waited. Taiga cut inside. Another Cedar Ridge shirt appeared.
+
+Of course.
+
+He played Leo. Leo returned it. Taiga looked at the narrow shooting angle and decided against it. Low ball across instead. Cleared. Corner.
+
+Leo jogged over while Cedar Ridge organized.
 
 “You had the shot.”
 
@@ -700,13 +705,23 @@ Mercer clapped twice.
 
 “Again!”
 
-Olympus restarted. Cedar Ridge dropped even lower. Of course they did. Taiga got more of the ball after the goal. At twenty-six he drove inside and won a foul. Leo took it. Over. 
-At thirty-one, Aaron overlapped. Taiga played him. Cross. Blocked. 
-At thirty-four, Taiga received at the edge of the box. Defender close. Leo available inside.
-Striker between center-backs. Taiga shifted onto his right. Shooting lane opened. For half a second. Then narrowed. He played Leo. Leo tried to slip the striker through. Offside.
-Taiga jogged back. 
-At thirty-nine, the same thing. Ball from Gav. Taiga. Right-back square. Space outside. He attacked this time. Got half a yard. Crossed. Keeper punched. Enzo collected the second ball. Shot blocked. The crowd rose. Cedar Ridge cleared. 
-At forty-four, Taiga won the ball back near halfway. Played Aaron. Ran. Got it back. Leo moved toward him. Taiga slipped him inside. Leo turned between two midfielders. Fouled. Free kick. Thirty yards. Too far. Leo put the ball down anyway. Taiga looked at him.
+Olympus restarted. Cedar Ridge dropped even lower. Of course they did.
+
+The rest of the half became a test of patience.
+
+Taiga won a foul. Leo put the free kick over.
+
+Aaron got forward once. Cross blocked.
+
+Taiga tried a shot lane. It disappeared before he could use it.
+
+Enzo got a shot blocked.
+
+Nothing.
+
+Every time Olympus looked close to opening them, another red shirt arrived.
+
+At forty-four, Leo drew a foul thirty yards out. Too far. He put the ball down anyway. Taiga looked at him.
 
 “You're not scoring from there.”
 
@@ -722,62 +737,61 @@ Leo hit it. Wall. Taiga laughed while running after the rebound. Halftime. Zero-
 
 Nobody talked much walking in. Not panic. Just frustration. Cedar Ridge had one shot on target that mattered. Olympus had the ball. Olympus had the territory. Cedar Ridge had the goal.
 
-Mercer waited. Then pointed at the board.
+Mercer waited.
 
-“They are not going to open this for you.”
+“They're winning the argument.”
 
-He moved Cedar Ridge's midfield line.
+Nobody answered.
 
-“You keep waiting for the obvious lane. There isn't one.”
+“They said we'd get bored first. We did.”
 
-He looked toward the left.
+He looked at Taiga.
 
-“Akatora.”
+“You've had chances to attack the right-back and passed every one back.”
 
-Taiga looked up.
+Taiga frowned.
 
-“You've had the fullback square three times.”
+“Not every one.”
 
-Taiga nodded. Mercer continued.
+“Enough.”
 
-“You don't need to beat him every time. You need to make him believe you might.”
+Then Enzo.
 
-“Yeah.”
+“Same.”
 
-“Rosario, same thing. If both of you always recycle on the first pressure, their midfield can stop moving.”
+Enzo nodded.
 
-Enzo nodded. Mercer looked at Leo.
+Mercer looked at Leo.
 
-“Stop solving every possession by coming all the way back toward Gav.”
+“And stop coming back to collect every pass. Stay up there sometimes. Make somebody follow you.”
 
-Leo leaned forward.
+Leo nodded.
 
-“Stay higher?”
+Mercer looked around.
 
-“Sometimes. Make that midfielder choose whether to follow you.”
-
-Gav added:
-
-“If he follows Leo, I get room to carry forward.”
-
-Mercer nodded.
-
-“Exactly.”
-
-He looked around.
-
-“One goal. Keep playing.”
+“One goal. Stop trying to solve the whole match at once.”
 
 They went back out.
 
 ---
 
-Taiga attacked the fullback on his first touch of the second half. Not because Mercer had said to. Mostly because Mercer had said to. The defender backed up.
-Taiga pushed outside. Then cut in. The midfielder arrived. This time Taiga kept going another step. Contact. Ball popped loose. Aaron recovered. Cedar Ridge's line shifted. Aaron found Gav. Gav switched. Enzo received with space. Cross. Striker header. Wide. 
+Taiga attacked the fullback on his first touch of the second half.
+
+The defender backed up.
+
+Good.
+
+Taiga went outside, cut in and kept going until a second defender had to help. The ball popped loose, but Aaron recovered it. Olympus moved it across quickly. Enzo crossed. Header wide.
+
 Better.
-At fifty-two, Leo stayed high. Cedar Ridge's midfielder stayed with him. Gav carried forward. Taiga came inside.
-Pass. Turn. Right-back followed. Aaron ran beyond. Taiga played him. Low cross. Keeper touched it. Ball rolled through the six-yard box. Enzo missed it by half a step.
-He slid into the post instead. Whistle. Goal kick. Enzo stayed down. Scott shouted from sixty meters away:
+
+A few minutes later, Leo stayed farther forward instead of coming back for the ball. That alone made Cedar Ridge hesitate.
+
+Gav carried. Taiga moved inside. Aaron ran outside him.
+
+Pass. Low cross. Keeper got a hand to it. Enzo missed the loose ball by half a step and slid into the post instead.
+
+Whistle. Goal kick. Enzo stayed down. Scott shouted from sixty meters away:
 
 “POST WINS.”
 
@@ -790,10 +804,30 @@ Gav cleared. Scott got up furious.
 
 “WAKE UP!”
 
-Everyone heard that. Olympus did. At sixty-one, Mercer changed the striker. Fresh legs. Cedar Ridge dropped another two meters. The match compressed. Twenty-two players in half a field.
-At sixty-six, Taiga received again. Right-back square. Taiga attacked inside. The defender followed. Taiga stopped. Back outside. Half a yard. Cross. Blocked. Throw. 
-He grabbed the ball quickly.
-Aaron came short. Taiga threw it. Got it back. Leo moved toward the corner. Two defenders shifted. Taiga played Leo. Leo touched it around the first. Taiga continued behind him. Return. Taiga reached the byline. Cutback. Gav arrived. Shot. Saved. Rebound. New striker. 
+Everyone heard that. Olympus did.
+
+At sixty-one, Mercer changed the striker. Fresh legs. Cedar Ridge dropped even deeper.
+
+Five minutes later, Taiga got the ball again.
+
+This time he didn't give it back.
+
+He attacked inside. The defender followed. Taiga changed direction and went outside. Cross blocked. Throw.
+
+He took it quickly to Aaron and kept moving.
+
+Aaron gave it back. Leo came over. Taiga played him and ran past.
+
+Leo returned it.
+
+Taiga reached the byline. Cutback. Gav arrived.
+
+Shot. Saved.
+
+Rebound.
+
+The new striker got there first.
+
 Goal. 
 One-one. 
 The stadium finally exploded. Taiga turned toward the corner. The striker had already run there.
@@ -829,8 +863,19 @@ He pointed across the field at Taiga. Then held up two fingers. Taiga had no ide
 At eighty, Cedar Ridge started taking longer over everything. Goal kicks. Throws. Free kicks. Scott complained from the opposite end. The referee pointed at his watch. Nobody believed him. 
 At eighty-three, Taiga got the best chance he would have all day.
 
-Leo received in the gap behind Cedar Ridge's midfield. Turned. The right-back stepped toward him instead of Taiga. Leo slipped the ball left. Taiga was inside the box. One defender recovering. Keeper set.
-Far corner open enough to see. Taiga took one touch. Could shoot. The defender closed. Taiga cut the ball square toward the striker. Center-back intercepted with the tip of his boot.
+Leo turned with the ball and pulled the right-back toward him. Taiga suddenly had room inside the box.
+
+Pass.
+
+One defender recovering. Keeper set. Far corner visible.
+
+Taiga took one touch.
+
+He could shoot.
+
+Instead he tried to square it to the striker.
+
+A defender stretched and got one toe to it.
 Corner. Taiga stopped. The crowd groaned. Not at him. At the chance. Still. He looked toward the far post. Leo ran over for the corner.
 
 “Good ball.”
