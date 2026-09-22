@@ -402,11 +402,15 @@ A few players laughed.
 
 Mercer ignored him. “Here the width is doing the work before he touches the ball.”
 
-Later the footage stopped on a bad press. Gav pointed out that Taiga had reacted after the receiver controlled instead of reading the square pass that created the trigger.
+Later the footage stopped on a bad press. Taiga had waited until the receiver already controlled the ball before moving.
 
-“So I'm reading two players,” Taiga said.
+Gav pointed at the pass before it.
 
-“At least.”
+“You can see where that's going before he gets it.”
+
+“So I'm supposed to go before he even has the ball?”
+
+“If the pass gives it away, yes.”
 
 “Great.”
 
@@ -698,7 +702,7 @@ Nora smiled.
 
 ---
 
-Saturday's reserve match was boring. Taiga had not known how much he wanted a boring match until he got one. Apollo reserves played Easton. The first half ended 0–0. Taiga sat on the bench. This bothered him for twelve minutes. He had started the previous fixture. Mercer had retained him. He had spent all week training well. And now bench. His brain began constructing explanations. Rotation. Maybe. Or he had looked worse on film than Mercer said.
+Saturday's reserve match was boring. Taiga had not known how much he wanted a boring match until he got one. Easton seemed perfectly happy to make it boring too: stay compact, wait, turn every free kick and corner into an event. The first half ended 0–0. Taiga sat on the bench. This bothered him for twelve minutes. He had started the previous fixture. Mercer had retained him. He had spent all week training well. And now bench. His brain began constructing explanations. Rotation. Maybe. Or he had looked worse on film than Mercer said.
 
 Or another player had moved ahead. Or— Aaron sat beside him.
 
@@ -762,7 +766,7 @@ Halftime remained 0–0. Mercer made three changes at fifty-five. Not Taiga. At 
 
 Taiga was already standing. He stripped off the bib. Mercer pointed to the left.
 
-“Same job as film. Don't run just because there's grass. Their fullback is following too far inside.”
+“Same job as film. Stay wide. Their fullback keeps following people inside and leaving you alone.”
 
 Taiga nodded.
 
