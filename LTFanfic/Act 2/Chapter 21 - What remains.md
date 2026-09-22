@@ -34,13 +34,15 @@ Taiga had not replied. He put the phone down. Caleb looked over.
 
 “Fine.”
 
-Caleb paused. Taiga stared.
+Caleb paused.
 
-“What?”
+“You want me to ask something else?”
 
-“Nothing.”
+Taiga looked at him.
 
-“Good.”
+“No.”
+
+“Okay.”
 
 Caleb left five minutes later without asking anything else.
 
