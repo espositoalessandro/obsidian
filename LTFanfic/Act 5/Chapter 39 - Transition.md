@@ -1078,7 +1078,7 @@ Taiga finished the exercise.
 
 “Which one?”
 
-Before Taiga could answer, a woman's voice called from inside.
+Before Taiga could answer, Carmen's voice called from inside.
 
 “¡Julio! ¿Tú vas a comer o no?”
 
@@ -1196,11 +1196,11 @@ Sometimes Taiga understood. Other times he caught three words and constructed th
 
 “You understood none of that.”
 
-“I understood *casa*.”
+“I understood casa.”
 
 “That was one word.”
 
-“And *mañana*.”
+“And mañana.”
 
 “Two.”
 
