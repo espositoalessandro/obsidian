@@ -1166,7 +1166,7 @@ The mood slowly changed.
 
 Affection turned into desire.
 
-Their hands held each other more firmly. Their kisses deepened until they were sucking at each other’s lips, and eventually Leo’s tongue slipped into Taiga’s mouth. Taiga felt the brief hesitation before Leo kissed him back harder.
+Their hands held each other more firmly. Their kisses deepened until they were sucking at each other’s lips, and eventually Tiga’s tongue slipped into Leo’s mouth. Taiga felt the brief hesitation before Leo kissed him back harder.
 
 Then Leo’s hand started moving downward, from Taiga’s chest to his abdomen, then lower, until it reached the waistband of his shorts.
 
