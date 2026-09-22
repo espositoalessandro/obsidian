@@ -766,6 +766,44 @@ Hiro was next anyway. Too much momentum to stop. Taiga got hit with both arms.
 
 Yoichi snorted.
 
+Footsteps came up behind Taiga.
+
+Leo joined them in clean clothes, hair still damp from the shower, one hand hooked under the strap of his bag. His walk was almost normal if Taiga ignored the taped ankle under his pants.
+
+Yoichi pointed at him immediately.
+
+“There. Accomplice.”
+
+Leo smiled.
+
+“Hi.”
+
+Taiga turned.
+
+“Don't *hi* me.”
+
+Leo's smile widened.
+
+“You seemed happy about the surprise.”
+
+“I was.”
+
+“Then you're welcome.”
+
+“Still a little shit.”
+
+“Also fair.”
+
+Hiro grabbed Leo by the shoulder.
+
+“YOU KNEW HE WAS GONNA SCORE.”
+
+“I absolutely did not know that.”
+
+“You brought us to the correct match.”
+
+“That part I did.”
+
 Keitaro smiled at Taiga in that irritatingly soft way that made him want to look somewhere else.
 
 “We're staying nearby tonight.”
@@ -784,13 +822,17 @@ Natsumi nodded.
 
 “Keitaro handled the train. I handled the hotel.”
 
+Leo pointed at Yoichi.
+
+“I sent him the match details.”
+
 Yoichi spread both hands.
 
-“I contributed the important information.”
+“And I contributed the important information.”
 
-“You sent one message,” Natsumi said.
+“You forwarded Leo's message,” Natsumi said.
 
-“It was a very important message.”
+“It was a very important forward.”
 
 Taiga looked between them.
 
@@ -886,7 +928,7 @@ Yoichi pointed at him.
 
 “Exactly. Teamwork.”
 
-Taiga looked past him toward Leo, who was waiting near the bus with one hand on the rail.
+Taiga looked at Leo beside him.
 
 Still smiling.
 
