@@ -16,7 +16,7 @@ This file records **what the novel currently says**, not what the final season b
 | Ch12 – Baseline | First team at Helios Tech | Olympus 2–0 | Not selected | Leo scores opener at 38'. |
 | Ch12 – Baseline | Reserves vs Northbridge | Olympus 2–1 | 72 min, starts LW | Taiga cutback leads to shot saved and rebound goal. **No official assist.** |
 
-### Act I opponent identity shorthand
+### Opponent identity shorthand
 
 These are **reader-facing match identities**, not rigid tactical systems. Use them to keep football legible without requiring the reader to understand organized-football jargon.
 
@@ -24,6 +24,7 @@ These are **reader-facing match identities**, not rigid tactical systems. Use th
 - **Northbridge** — physical, direct, impatient defenders; recurring long throws / set-piece nuisance. Their wide defenders like to step hard rather than wait.
 - **Easton** — compact, patient, happy to make the match ugly and live off corners / free kicks.
 - **Westlake** — pressure team; punishes hesitation and backward play. Their right-back #2 aggressively attacks the first duel and dislikes being made to turn.
+- **Cedar Ridge** — patient and compact; gives you harmless possession, waits for boredom/impatience, then protects the middle. The reader-level problem is: **they want you to get frustrated first**.
 - **Academy/development side** — technically fearless younger players; no special gimmick required.
 - **Helios Tech** — no reader-facing identity locked yet because Taiga does not play that fixture in Act I.
 
