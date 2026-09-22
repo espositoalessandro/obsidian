@@ -290,19 +290,7 @@ He was not spending weeks standing beside Leo waiting for him to translate every
 
 So he'd found a beginner course and started with the obvious things.
 
-Greetings.
-
-Numbers.
-
-Time.
-
-Food.
-
-Directions.
-
-Family.
-
-Common verbs.
+Greetings, numbers, time, food, directions, family, common verbs.
 
 He ignored the parts that wanted him to earn points for cartoon achievements and wrote things down instead.
 
