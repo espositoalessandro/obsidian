@@ -2646,7 +2646,7 @@ Leo translated when Taiga actually needed him.
 
 Enzo translated incorrectly twice on purpose and got hit both times.
 
-At some point Taiga realized he had been sitting beside Isa for nearly ten minutes without Leo anywhere near them.
+Nearly ten minutes into a conversation with Isa, Taiga looked across the courtyard and found Leo nowhere near them.
 
 She asked simple questions.
 
