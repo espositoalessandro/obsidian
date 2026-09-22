@@ -1127,7 +1127,7 @@ Taiga took the shirt from him. Folded it. Put it into the suitcase. Leo watched.
 
 Taiga shrugged.
 
-“Summer.”
+“I guess until Camp Buddy term starts.”
 
 Leo frowned. Taiga looked at him.
 
@@ -1161,7 +1161,7 @@ Taiga sat on the desk chair.
 
 “How long is a while?”
 
-“I don't know. three weeks? Four? Until you get sick of me?”
+“I don't know. Two weeks? Three? Four? Until you get sick of me?”
 
 “That could be forty minutes.”
 
@@ -1191,7 +1191,7 @@ Leo's expression softened.
 
 Leo considered.
 
-“My parents. Dani. Abuela. Then other people are in and out all the time.”
+“My parents, my sister, my grandma. My uncle's family lives upstairs. Then other people are in and out all the time.”
 
 Taiga stared at him.
 
@@ -1203,7 +1203,7 @@ Taiga stared at him.
 
 Leo smiled.
 
-“It isn't.”
+“It is.”
 
 Taiga looked at him.
 
@@ -1233,7 +1233,7 @@ Taiga looked at him.
 
 Taiga smiled. Leo leaned forward.
 
-“I want you there.”
+“But I really want you to come.”
 
 Simple. Taiga looked at him for another second.
 
@@ -1247,15 +1247,9 @@ Leo blinked.
 
 Leo's whole face changed. Bright enough that Taiga regretted making eye contact.
 
-“Oh, that's—okay. Cool. Great.”
+“Oh, that's—okay. Cool. Great. Uh-”
 
-Taiga laughed.
-
-“Calm down.”
-
-“I am calm.”
-
-“You sound insane.”
+He started panicking. Just slightly.
 
 “I have to figure out where you're sleeping.”
 
@@ -1277,7 +1271,7 @@ Leo covered his face.
 
 “Terrible choice.”
 
-Taiga got up. Pulled Leo's hands away from his face.
+Taiga pushed his chair in front of Leo, then he pulled his hands away from his face.
 
 “Two weeks,” Taiga said.
 
@@ -1437,7 +1431,7 @@ Taiga nodded. Leo stood beside him. Five minutes suddenly became annoying. Leo l
 
 “You're actually leaving.”
 
-“For two weeks.”
+“You're leaving in a couple of hours too.”
 
 “I know.”
 
@@ -1453,7 +1447,7 @@ Leo looked offended.
 
 “Those were difficult years.”
 
-Taiga laughed. There it was. Close enough. The driver opened the door. Taiga stepped toward it. Leo caught his wrist. Taiga turned. Leo kissed him. The driver looked away with professional commitment.
+Taiga laughed. The driver opened the door. Taiga stepped toward it. Leo caught his wrist. Taiga turned. Leo kissed him. The driver looked away with professional commitment.
 
 When they separated, Taiga stayed there for another second.
 
