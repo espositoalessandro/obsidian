@@ -456,9 +456,9 @@ Then Taiga said, “I still fucking hate this place.”
 
 “Yeah.”
 
-Taiga looked at him. “That's all?”
+Taiga looked at him.
 
-Keitaro smiled. “I'm trying not to do the thing where I say too much and you tell me to shut up.”
+Keitaro smiled. “I'm trying not to turn that into a speech and get told to shut up.”
 
 "I can see the fight happening inside you."
 
