@@ -322,11 +322,11 @@ Taiga hated how much that thought sounded like Keitaro.
 
 He kept it to himself.
 
-By one, they reached Agora.
+By one, they had left campus and reached the Agora.
 
-It was the broad pedestrian square between the University Center and the main dining buildings, all stone paving, trees, movable tables and too many students whenever the weather was decent.
+The change was immediate. University buildings gave way to a huge shopping complex, white storefronts wrapped around open pedestrian spaces, restaurants mixed in with bigger stores, and enough people moving through it that Taiga stopped pretending Olympus ended at the university gates.
 
-Today was bright enough that almost every outside table was taken.
+Today was bright enough that almost every outside table near the restaurants was taken.
 
 They found two pushed together near the edge.
 
@@ -402,9 +402,9 @@ Keitaro looked at Taiga.
 
 It was not really a question.
 
-Taiga looked around Agora.
+Taiga looked around the Agora.
 
-Students crossing between buildings. Somebody riding a bike where they probably were not supposed to. Music from somewhere near the University Center. Leo beside him. Camp Buddy across the table.
+Shoppers moving between storefronts. People carrying bags. Music spilling out from somewhere deeper in the complex. Leo beside him. Camp Buddy across the table.
 
 “Yeah.”
 
