@@ -100,11 +100,7 @@ By then Manuel had opened the trunk. Leo reached for Taiga’s suitcase, but Man
 
 “What?”
 
-“He says I already carried enough bags at the airport.”
-
-“He carried the suitcase.”
-
-“Yes.”
+“He says he carried it through the airport, so he can carry it inside.”
 
 “That was the only bag.”
 
@@ -572,7 +568,7 @@ Leo pointed.
 
 “You say that now.”
 
-Taiga took his toiletries from the backpack and headed for the door.
+Taiga took his toiletries and a change of clothes from the backpack and headed for the door.
 
 Leo leaned against the frame.
 
@@ -620,7 +616,7 @@ Nothing happened.
 
 “No.”
 
-Taiga dropped the towel over the chair.
+Taiga hung the damp towel over the back of the chair.
 
 “Good system.”
 
