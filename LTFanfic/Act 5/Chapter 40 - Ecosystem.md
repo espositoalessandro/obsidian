@@ -110,17 +110,17 @@ Manuel lifted the suitcase as if it weighed nothing and walked toward one of the
 
 Taiga watched him go.
 
-“Your dad is huge.”
+“Your dad is bigger than I expected.”
 
 Leo grinned.
 
 “Yeah.”
 
-“And your mom is terrifying.”
+“And your mom is intense.”
 
 “Also yeah.”
 
-Carmen caught the word *mom*, looked at Leo’s face and narrowed her eyes.
+Carmen looked over at exactly the wrong moment and caught Leo’s expression.
 
 “Julio.”
 
@@ -766,7 +766,7 @@ Dani looked back at Taiga.
 
 Taiga put the fork down.
 
-“None of your business.”
+“I’m not answering that.”
 
 She considered that.
 
@@ -868,7 +868,7 @@ She raised her glass slightly.
 
 Taiga started laughing.
 
-“Oh, fuck you.”
+“Okay. She wins.”
 
 “I didn’t say it!” Leo said.
 
@@ -994,7 +994,7 @@ For a few seconds neither of them said anything.
 
 Then Taiga leaned back on his hands.
 
-“Your family is fucking insane.”
+“Your house is fucking chaos.”
 
 Leo smiled.
 
