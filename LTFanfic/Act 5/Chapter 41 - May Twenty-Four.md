@@ -166,7 +166,7 @@ Leo’s expression softened immediately.
 
 Carmen crossed the room, bent down and kissed his forehead. Then she put one mug on the bedside table and handed the other to Taiga.
 
-“*Coffee. Your father bought bread. Mami says you have ten minutes before she comes upstairs herself.*”
+“*Coffee. Your father bought bread. Abuela says you have ten minutes before she comes upstairs herself.*”
 
 Leo sat up.
 
