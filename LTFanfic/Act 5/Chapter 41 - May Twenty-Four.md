@@ -306,9 +306,7 @@ Taiga looked at him.
 
 Mercedes repeated herself more slowly.
 
-This time Taiga caught enough.
-
-Something about his mouth again.
+“Julio, *you should listen. Your mouth is better at other things.*”
 
 Taiga looked down at his coffee.
 
