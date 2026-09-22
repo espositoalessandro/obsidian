@@ -1377,7 +1377,6 @@ For once, neither of them argued about which mattress was worse.
 They fell asleep in Leo’s bed, close enough that the improvised second mattress beside them went unused.
 
 
-
 ---
 
 Saturday morning began before Taiga wanted it to.
