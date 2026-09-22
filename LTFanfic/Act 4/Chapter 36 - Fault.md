@@ -276,38 +276,28 @@ Taiga got his first clean touch at eleven. Aaron passed to him. Taiga moved it i
 
 Cross. Cleared. Fine.
 
-At fourteen, Westlake nearly scored. Long ball. Their winger got there first. Cutback. Shot. Scott saved with his foot.
+At fourteen, Westlake nearly scored. Long ball. Their winger got there first. Cutback. Shot. Scott saved with his foot. Gav shouted everyone up. Taiga ran. 
+At eighteen, Olympus found the other side. Enzo received. Beat his man. Crossed early. The striker got there. Header. Goal. 
+One-zero. 
+The away section behind the bench exploded.
 
-Gav shouted everyone up. Taiga ran. At eighteen, Olympus found the other side. Enzo received. Beat his man. Crossed early. The striker got there. Header. Goal. One-zero. The away section behind the bench exploded.
-
-Enzo sprinted toward it. Leo got there first somehow. Taiga joined the pile later. The striker hit Enzo in the chest. Enzo screamed something about service. Mercer was already waving them back.
-
-Taiga jogged to position. One-zero. Westlake restarted hard.
-
+Enzo sprinted toward it. Leo got there first somehow. Taiga joined the pile later. The striker hit Enzo in the chest. Enzo screamed something about service. Mercer was already waving them back. Taiga jogged to position. 
+One-zero. 
+Westlake restarted hard.
 At twenty-three, Taiga tried to carry through midfield and lost it.
-
-Aaron had already gone forward.
-
-So had Taiga.
-
+Aaron had already gone forward. So had Taiga.
 There it was.
-
 Number eight ran straight into the empty space they had left.
-
 Taiga turned and sprinted. Gav came across and blocked the cross for a corner.
-
-Aaron looked at Taiga. Taiga lifted one hand.
-
-His fault.
-
+Aaron looked at Taiga. Taiga lifted one hand. His fault.
 Mercer shouted from the technical area:
 
 “ONE GOES!”
 
 Taiga heard him.
 
-Next time Aaron went, Taiga stayed. At twenty-nine, Leo received with his back to goal. Number eight hit him from behind. Hard enough to move him two steps.
-
+Next time Aaron went, Taiga stayed. 
+At twenty-nine, Leo received with his back to goal. Number eight hit him from behind. Hard enough to move him two steps.
 Leo kept the ball. Turned. Played Taiga. The referee gave advantage. Taiga drove toward the box. Right-back retreated. He could cross. He cut inside. Shot. Low. Keeper saved.
 
 Taiga kept running. The rebound came loose for half a second. Center-back cleared. Leo caught up.
@@ -324,23 +314,16 @@ Taiga kept running. The rebound came loose for half a second. Center-back cleare
 
 “Fuck off.”
 
-They pressed the goal kick. At thirty-seven, Westlake equalized. Nothing complicated. Olympus failed to clear properly. Westlake moved it wide. Cross.
-
-Header.
-
-Scott got fingers to it. Not enough.
-
-One-one. The stadium came alive. Taiga stood near halfway while Westlake celebrated. The score changed.
-
+They pressed the goal kick. At thirty-seven, Westlake equalized. Nothing complicated. Olympus failed to clear properly. Westlake moved it wide. Cross. Header. Scott got fingers to it. Not enough.
+One-one. 
+The stadium came alive. Taiga stood near halfway while Westlake celebrated. The score changed.
 He looked toward the bench. Mercer pointed two fingers at the pitch. Shape. Taiga turned back.
 
 ---
 
 Halftime was loud, though not because of Mercer. Boots on tile. Players breathing. Enzo complaining about Westlake's left-back grabbing his shirt.
 
-Mercer waited.
-
-Then he pointed at Taiga and Aaron.
+Mercer waited. Then he pointed at Taiga and Aaron.
 
 “What did I say?”
 
@@ -359,16 +342,13 @@ Then Leo.
 “They're late when you turn them. Keep doing it.”
 
 Leo nodded.
-
 Mercer looked at Enzo.
 
 “Stop arguing with the fullback.”
 
 “He started it.”
 
-Mercer stared.
-
-Enzo sighed.
+Mercer stared. Enzo sighed.
 
 “Fine.”
 
@@ -381,16 +361,19 @@ He stepped back.
 ---
 
 Westlake kicked off. The first five minutes passed without anything happening, which Taiga hated: possession, a throw, a foul, another reset. At fifty-two, he got the ball with space and drove inside.
-
-One defender. Then two. He tried the pass between them. Blocked. Westlake countered. This time Taiga recovered. No danger. At fifty-five, Leo took a foul near midfield. He got up immediately.
-
-Taiga barely registered it. Westlake's midfielder complained about the whistle. Leo said something back. Free kick. At fifty-eight, Leo received again. Back to goal. Number eight behind him.
-
-Leo checked over his shoulder. Ball came. He touched it away before the contact. The tackle arrived anyway. Late. Low. The sound was wrong. Not loud. Dull. Leo went down.
+One defender. Then two. He tried the pass between them. Blocked. Westlake countered. This time Taiga recovered. No danger. At fifty-five, Leo took a foul near midfield. He got up immediately. Taiga barely registered it. 
+Westlake's midfielder complained about the whistle. Leo said something back. Free kick. At fifty-eight, Leo received again. Back to goal. Number eight behind him.
+Leo checked over his shoulder. Ball came. He touched it away before the contact. 
+The tackle arrived anyway. 
+Late. Low. 
+The sound was wrong. Dull. 
+Leo went down.
 
 Taiga stopped. The referee's whistle came instantly. Then harder. Again. Players converged. Taiga was already moving. Leo hadn't rolled. Hadn't sat up. He was on his side with both hands around his lower leg.
 
-The Westlake player stood two meters away with both palms out. Yellow card came up. Enzo was shouting. Gav pulled him away. Taiga reached the edge of the group.
+The Westlake player stood two meters away with both palms out. 
+Yellow card came up. 
+Enzo was shouting. Gav pulled him away. Taiga reached the edge of the group.
 
 “Leo?”
 
@@ -401,7 +384,6 @@ Running. Actually running. Something inside Taiga dropped. The referee pushed pl
 “Give them room.”
 
 Taiga took one step. Stopped. The physio knelt. Touched Leo's ankle. Leo's whole body tightened. Taiga's hands curled. The Westlake player said something to Gav. Taiga didn't hear it.
-
 He saw the boot come off. Sock. Tape. The medical staff moved Leo's foot carefully. Leo lifted his head. His face had gone pale. Taiga's stomach turned. Aaron touched Taiga's arm.
 
 “He's talking.”
@@ -410,73 +392,49 @@ Taiga looked at him. Aaron nodded toward the grass.
 
 “He's talking to them.”
 
-Taiga looked back. Leo was. Taiga couldn't hear what. The physio asked something. Leo shook his head. Then nodded. Then tried to sit. The away section had gone quiet.
-
-Even Westlake's crowd had lowered. The fourth official prepared the board. A midfielder from the bench pulled off his training top. Taiga watched Leo get helped upright. One arm over the physio.
-
-One over the assistant. He put weight on the injured leg. Immediately took it off. Taiga's vision narrowed. Leo looked toward the field while they moved him. Found Taiga.
-
+Taiga looked back. Leo was. Taiga couldn't hear what. The physio asked something. Leo shook his head. Then nodded. Then tried to sit. The away section had gone quiet. Even Westlake's crowd had lowered.
+The fourth official prepared the board. A midfielder from the bench pulled off his training top. Taiga watched Leo get helped upright. One arm over the physio. One over the assistant. He put weight on the injured leg. Immediately took it off. 
+Taiga's vision narrowed. Leo looked toward the field while they moved him. 
+Found Taiga.
 For half a second, their eyes met. Leo lifted one hand. Small. I'm okay. Or maybe just *go*. Taiga didn't know. The board went up.
 
-**11 OUT**
+**10 OUT**
 
 Leo disappeared toward the bench. Taiga turned toward halfway. His jaw hurt. He hadn't realized he was clenching it. Westlake restarted.
 
 ---
 
 The next tackle Taiga made was clean. Hard. Ball first. Their right-back hit the grass. Taiga came away with possession.
-
-He kept going.
-
-Too far.
-
+He kept going. Too far.
 The ball moved away from him and Taiga chased anyway. Center-back. Goalkeeper. Across again.
 
 Mercer shouted:
 
 “AKATORA! BACK!”
 
-Taiga stopped.
-
-Too late.
-
-Westlake had already attacked the space he had abandoned. Aaron and Gav covered it this time. Olympus survived.
-
-Taiga ran back. His lungs burned. At sixty-four, he received near the box.
-
-Right-back in front. Normally he would wait. He attacked immediately. Outside. Contact. Stayed up. Cross. Blocked. Corner. He grabbed the ball from the ball kid himself and threw it toward the corner taker.
+Taiga stopped. Too late.
+Westlake had already attacked the space he had abandoned. Aaron and Gav covered it this time. Olympus survived. Taiga ran back. His lungs burned. 
+At sixty-four, he received near the box. Right-back in front. Normally he would wait. He attacked immediately. Outside. Contact. Stayed up. Cross. Blocked. Corner. He grabbed the ball from the ball kid himself and threw it toward the corner taker.
 
 “Come on.”
 
 Enzo looked at him from across the box. Taiga ignored him. Corner came in. Cleared. Taiga attacked the second ball. Shot from twenty-five meters. Over. Mercer shouted his name.
-
 Taiga turned.
 
 “SETTLE.”
 
-Taiga jogged back. He was settled. He was fine. Westlake restarted. At sixty-eight, the physio passed behind the bench. Taiga saw Leo sitting at the far end. Boot off.
-
-Ankle wrapped. Ice around it. He was talking to someone. Alive. Fine. Taiga turned back to the field. Westlake had the ball. He pressed. At seventy-one, Taiga followed their right-back even after the ball had gone somewhere else.
-
-The defender stopped.
-
-Taiga kept going.
-
-Gav shouted:
+Taiga jogged back. He was settled. He was fine. Westlake restarted. 
+At sixty-eight, the physio passed behind the bench. Taiga saw Leo sitting at the far end. Boot off.
+Ankle wrapped. Ice around it. He was talking to someone. Alive. Fine. Taiga turned back to the field. Westlake had the ball. He pressed. 
+At seventy-one, Taiga followed their right-back even after the ball had gone somewhere else.
+The defender stopped. Taiga kept going. Gav shouted:
 
 “TAIGA!”
 
-He turned.
-
-Number eight was already running into the space behind him.
-
+He turned. Number eight was already running into the space behind him.
 Aaron was alone. He had to foul him before the box.
-
 Whistle.
-
-Taiga ran back. Aaron looked at him. Not angry.
-
-Worse. Confused.
+Taiga ran back. Aaron looked at him. Not angry. Worse. Confused.
 
 “Where were you?”
 
@@ -513,107 +471,73 @@ Taiga nodded.
 “Yeah.”
 
 He ran back on. For six minutes, he did exactly what Mercer asked. Stayed home when Aaron went. Played simple. Let the match come to him.
-
-At seventy-nine, Aaron passed to him near their own half.
-
-Aaron stayed behind.
-
-Gav was available inside.
-
-Safe.
-
-Taiga saw both options.
-
-He also saw number eight arriving a little late.
-
-There was space in front of him.
-
+At seventy-nine, Aaron passed to him near their own half. Aaron stayed behind.
+Gav was available inside. Safe. Taiga saw both options.
+He also saw number eight arriving a little late. There was space in front of him.
 One turn.
-
 Taiga took it.
-
 Eight got a foot in.
-
 The ball came loose.
 
 “Fuck.”
 
-Westlake recovered.
-
-Taiga tried to win it back immediately.
-
+Westlake recovered. Taiga tried to win it back immediately.
 Missed.
-
 Mercer shouted:
 
 “BACK!”
 
-Too late.
-
-Westlake were already running at them. Aaron had to step toward the ball. Number eight found the winger outside.
-
-Taiga chased.
-
+Too late. Westlake were already running at them. Aaron had to step toward the ball. Number eight found the winger outside. Taiga chased.
 Too far.
-
 The winger reached the box and cut it back.
-
 Shot.
-
 Low. Far corner.
+Goal. 
 
-Goal. The stadium broke open. Taiga stopped inside the box.
-
+The stadium broke open. Taiga stopped inside the box.
 The scorer ran away. Westlake players followed. Noise hit from every direction. Scott stood. Gav turned. Aaron looked at the grass. Taiga stared at the place where the ball had gone through.
 
-He could still see it.
+He could still see it. Aaron behind him. Gav inside. Both safe passes available.
 
-Aaron behind him. Gav inside. Both safe passes available.
-
-The turn anyway.
-
-Eight's foot.
-
+The turn anyway. Eight's foot.
 The stupid lunge after it.
-
 Mercer's voice.
 
 *Back.*
 
 He had heard it.
-
 He had fucking heard it.
-
 The scoreboard changed.
 
 **WESTLAKE 2 — 1 OLYMPUS**
 
 Taiga walked toward halfway. Nobody said anything to him. That was worse too.
 
----
+Eleven minutes remained. Plus added time. Olympus attacked. Taiga stayed on. He expected the board. It never came.
 
-Eleven minutes remained. Plus added time. Olympus attacked. Taiga stayed on. He expected the board. It never came. At eighty-three, he got the ball outside. Right-back square. He passed back to Aaron.
+At eighty-three, he got the ball outside. Right-back square. He passed back to Aaron.
+At eighty-five, Gav switched to him. He controlled. Played inside. 
+At eighty-seven, Enzo crossed. Keeper caught. At eighty-nine, Taiga won a corner. He didn't celebrate it. The corner was cleared.
+Four added. Westlake took thirty seconds over a throw. The referee added nothing visible. At ninety-two, Taiga had one chance to cross. He hit it too hard. Ball went beyond everyone. Goal kick. He stood near the corner flag. Westlake's right-back walked past him. Didn't say anything. 
+At ninety-four, the whistle went. 
 
-At eighty-five, Gav switched to him. He controlled. Played inside. At eighty-seven, Enzo crossed. Keeper caught. At eighty-nine, Taiga won a corner. He didn't celebrate it. The corner was cleared.
-
-Four added. Westlake took thirty seconds over a throw. The referee added nothing visible. At ninety-two, Taiga had one chance to cross. He hit it too hard. Ball went beyond everyone.
-
-Goal kick. He stood near the corner flag. Westlake's right-back walked past him. Didn't say anything. At ninety-four, the whistle went. Two-one.
+Two-one.
 
 ---
 
 Handshake line. Taiga did it. Hand. Hand. Hand. He didn't know who any of them belonged to. Westlake celebrated behind him. Olympus walked toward the away section. Taiga went because everyone went.
 
-Applause came down. Somebody called his name. He kept walking. Leo was standing near the bench now. One shoe on. The other foot in a black medical sandal, ankle wrapped thick beneath his sock.
+Applause came down. Somebody called his name. He kept walking. Leo was standing near the bench now. One shoe on. The other foot in a black medical sandal, ankle wrapped thick beneath his sock. Taiga felt sick looking at it.
 
 He leaned slightly away from that side. Taiga looked at him. Leo looked back. Taiga turned toward the tunnel.
 
 ---
 
-The locker room filled slowly. No music. No Enzo. No complaints about showers. Just bags opening. Tape ripping. Water running somewhere in the back. Taiga sat at forty-one.
+The locker room filled slowly. No music. No complaints about showers. Just bags opening. Tape ripping. Water running somewhere in the back. 
+
+Taiga sat at forty-one.
 
 His shirt was still on. Boots too. He looked at the floor between his feet. Mercer came in last. The door closed. Taiga looked up. Mercer scanned the room.
-
 His eyes passed over Taiga. Stopped for less than a second. Then moved on.
 
 “Recovery tomorrow. One.”
@@ -641,7 +565,6 @@ Taiga looked at him. Aaron's face was tired. Not accusing. Taiga swallowed.
 “Yeah.”
 
 Aaron touched his shoulder once. Then got up. Taiga removed the boot. Second. Socks. Shin guards. Everything took too long. Leo came in from the medical room while Taiga was pulling off his shirt.
-
 The room changed around him. Not much. People looked. Enzo asked first.
 
 “How bad?”
@@ -669,9 +592,8 @@ Enzo's shoulders dropped.
 “I was in pain, asshole.”
 
 That sounded enough like Leo that a few people laughed. Taiga didn't. Leo's eyes found him. He said something else to Enzo. Taiga didn't hear it. He picked up his towel.
-
-Went to shower. Hot water. Head down. The goal replayed anyway. First touch. Eight. Lunge. Back. Cutback. Goal. Again. When he came out, Leo was sitting beside forty-one.
-
+Went to shower. Hot water. Head down. The goal replayed anyway. First touch. Eight. Lunge. Back. Cutback. Goal. Again.
+When he came out, Leo was sitting beside forty-one.
 Taiga stopped. Leo looked up. His wet hair was flattened on one side. He had changed into sweats. The injured foot still wore the medical sandal.
 
 “Hey.”
@@ -702,11 +624,11 @@ Taiga nodded. He zipped the bag. Leo shifted forward.
 
 Taiga's hand stopped on the zipper. He looked over. Leo's expression made his chest tighten. Concern. Too much of it. Taiga looked away.
 
-“Can you give me a little space?”
+“Not now.”
 
 Leo went quiet. Taiga forced himself to look back.
 
-“Just for a bit.”
+“Sorry. I need some time.”
 
 Leo nodded.
 
@@ -725,9 +647,6 @@ The bus reached Olympus a little after eleven. The team had been given boxed foo
 Pinetree had drawn one-one while Olympus were still on the road. Enzo had posted the result immediately.
 
 **Enzo:** pinetree 1-1
-
-Then:
-
 **Enzo:** still alive
 
 The table had updated before Taiga looked.
@@ -755,79 +674,36 @@ Caleb looked at the unopened box in Taiga's hand.
 Taiga put it on the desk and sat on the bed. The university feed had already uploaded the match. Of course it had. He dragged to seventy-nine.
 
 Aaron to Taiga. Pause.
-
 Gav inside. Aaron behind. Westlake eight coming.
-
 He could see all three.
 
 Play.
 
-Touch. Interception. Lunge. Counter. Goal.
-
+Touch. Interception. Lunge. Counter. Goal. 
 Again.
 
-Caleb's chair moved. Taiga stopped the video. Caleb stood and put his laptop into his bag.
+At seme point Caleb said,
 
-“I'm going to the library.”
+“Want to talk?”
 
-Taiga looked at the clock.
+“Not really.”
 
-“Now?”
-
-“Yes.”
-
-“It's almost midnight.”
-
-“The twenty-four-hour room exists for a reason.”
-
-Taiga looked at him.
-
-“Are you going because I'm here?”
-
-Caleb stopped.
-
-“No.”
-
-Taiga waited. Caleb added:
-
-“But I was planning to work somewhere else, and somewhere else has become now.”
-
-Taiga looked down at the phone.
-
-“Right.”
-
-Caleb slung the bag over one shoulder.
-
-“There is pasta in the fridge.”
-
-“Okay.”
-
-“You should eat it.”
-
-“Okay.”
-
-Caleb stood by the door. His expression was careful in the way Caleb's expressions almost never were. Then he left.
-
+Caleb looked at Taiga, then didn't say anything else. 
 The room became quiet.
 
 Taiga pressed play again.
-
 At eleven-fifty-eight, Leo messaged.
 
-**Leo:** if you need me, i'll be in my room
+**Leo:** if you need me, i'm in my room
+**Leo:** roommate is out
 
 Nothing else. No question. No request.
-
 Taiga read it twice. Put the phone down.
 
 At twelve-ten, he heated the pasta. Ate four bites. Stopped.
-
 At twelve-twenty-eight, he opened the match again.
-
 At twelve-thirty-two, he closed it.
-
 At twelve-forty-one, he stood. Sat.
-
 At twelve-forty-nine, he typed:
 
 **Taiga:** you there
@@ -845,6 +721,7 @@ The reply took maybe three seconds.
 **Leo:** yes
 
 Taiga put on his shoes.
+
 ---
 
 Leo's residence hall was six minutes away. Taiga made it in four. He slowed before the entrance. Then hated himself for slowing and went inside. Upstairs. Hallway. The door was closed.
@@ -855,7 +732,7 @@ He knocked. Leo opened it almost immediately. Sweatpants. Loose shirt. Barefoot 
 
 Taiga looked past him. The room was different from his. Same university furniture. Different arrangement. Two beds. Two desks. One side covered in soccer things and cables and a poster Taiga couldn't immediately identify.
 
-The other side cleaner. Empty. No roommate. Leo stepped back.
+The other side cleaner. No roommate. Leo stepped back.
 
 “Come in.”
 
@@ -880,14 +757,7 @@ Taiga frowned.
 “I've reached the same conclusion.”
 
 Leo sat. Taiga remained standing. Leo looked up.
-
-“Chair?”
-
-“No.”
-
-“Bed?”
-
-Taiga looked at the space beside him. Then sat. The mattress dipped. For a while, neither spoke. Leo waited. Taiga rubbed his palms against his thighs.
+Taiga exhaled. He looked at the space beside him. Then sat. The mattress dipped. For a while, neither spoke. Leo waited. Taiga rubbed his palms against his thighs.
 
 “Sorry.”
 
@@ -920,6 +790,14 @@ Taiga looked at the floor.
 “Okay. An hour.”
 
 Taiga almost smiled. Didn't. Leo watched him. Taiga exhaled.
+
+"No. That wasn't it."
+
+"What?"
+
+"I couldn't bear having you there."
+
+Leo didn't reply. Taiga took a breath.
 
 “I saw them running.”
 
@@ -963,14 +841,6 @@ Leo nodded once.
 
 “I noticed.”
 
-“I wasn't trying to hurt anyone.”
-
-“I know.”
-
-“I didn't.”
-
-“No.”
-
 Taiga's jaw tightened.
 
 “I just kept going.”
@@ -997,7 +867,8 @@ Leo's voice stayed even.
 
 “Yeah.”
 
-Taiga looked at him sharply. Leo held the look. No rescue. Good. Taiga looked away.
+Taiga looked at him sharply. Leo held the look. No rescue. Good. 
+Taiga looked away.
 
 “He took it. Then I went after him.”
 
@@ -1023,7 +894,7 @@ His voice cracked slightly on *too*. Taiga stopped. Leo didn't move. Taiga swall
 
 Leo took a breath.
 
-“You fucked up.”
+“Yeah, you fucked up.”
 
 Taiga's chest tightened. Leo continued before he could answer.
 
@@ -1093,6 +964,8 @@ The first tear hit before he realized it had started. Taiga wiped it away immedi
 
 Another. He turned farther away. This was stupid. Not here. Not now. His breathing went wrong. Too shallow. He tried to stop it. Made it worse. Leo said his name quietly.
 
+"Taiga."
+
 Taiga shook his head.
 
 “I thought if I could get us ahead, if I could just fucking do something useful, then—”
@@ -1109,7 +982,7 @@ The sentence sat there. Wrong the moment it existed. Taiga closed his eyes.
 
 “I was angry.”
 
-“Both can happen.”
+“Angry and scared then.”
 
 Taiga pressed the heel of his hand into one eye.
 
@@ -1139,9 +1012,9 @@ His voice broke completely. Taiga stopped breathing for a second. Then it all ca
 
 Leo stood. Taiga heard the medical sandal scrape the floor.
 
-“Careful,” Taiga managed.
+"You shouldn't stand."
 
-Of course that was what came out. Leo reached him anyway. One hand touched Taiga's arm. Taiga could have moved. He didn't. Leo pulled him in. That was enough.
+Leo reached him anyway. One hand touched Taiga's arm. Taiga could have moved. He didn't. Leo pulled him in. That was enough.
 
 Taiga folded against him. Forehead first. Then his face pressed into Leo's shoulder. His hands caught the back of Leo's shirt. Leo's arms closed around him. The next breath broke into something ugly.
 
@@ -1231,7 +1104,7 @@ Leo smiled. Taiga's breathing finally settled. They sat quietly. The room felt s
 
 “That's what they said. Mild sprain. They want to see how the swelling looks in the morning.”
 
-“Saturday?”
+“And Saturday?”
 
 Leo shrugged.
 
@@ -1307,7 +1180,7 @@ Taiga looked at the bed. Then at him.
 
 Leo rolled his eyes and stretched out carefully, injured foot still elevated. Taiga lay beside him. Not fully. Half on his side. Head against Leo's chest. Leo's arm came around his back.
 
-Taiga stayed there. The shirt under his cheek was soft. His own face was probably still disgusting. He did not care enough to move. Leo's fingers traced slowly between his shoulder blades.
+Taiga stayed there. The shirt under his cheek was soft. His own face was probably still disgusting. He did not care enough to move. He took a deep breath, Leo's scent filling his nose. That calmed him. Leo's fingers traced slowly between his shoulder blades.
 
 Under the hem of Taiga's shirt. Warm skin. Taiga exhaled. After a minute, Leo said:
 
@@ -1327,9 +1200,8 @@ Leo laughed quietly. Taiga's hand rested against Leo's ribs. He could feel the m
 
 Taiga turned his face toward Leo's neck. For a while he just stayed there. Then he pressed his lips to the skin above Leo's collar. Once. Leo's hand stopped.
 
-Taiga felt it. He kissed the same place again. Slower. Leo exhaled. Taiga settled back against his chest. The hand on his back started moving again. No question.
-
-No joke. A few minutes later Leo shifted his head and kissed Taiga's hair near the temple. Taiga closed his eyes. They stayed there long enough that the hallway got quieter.
+Taiga felt it. He kissed the same place again. Slower. Leo exhaled. Taiga settled back against his chest. The hand on his back started moving again. A few seconds later Leo shifted his head and kissed Taiga's hair near the temple. Taiga closed his eyes.
+They stayed there long enough that the hallway got quieter.
 
 Eventually Taiga's stomach made a noise. Leo looked down. Taiga did not move.
 
@@ -1393,7 +1265,9 @@ Leo's expression became very innocent.
 
 “Walking sounded annoying.”
 
-Taiga gave him two crackers. They ate in bed. Crumbs everywhere. Leo did not care. Taiga did. A little. Not enough to stop.
+Taiga gave him two crackers. They ate in bed. Crumbs everywhere. Leo did not care. 
+Taiga did. 
+A little.
 
 ---
 
@@ -1429,7 +1303,9 @@ Leo sighed.
 
 He followed. Taiga watched him go. Mercer came out of the film room. Taiga looked at him. Mercer looked back. For one stupid second Taiga thought this was it.
 
-You're out. Reserve group. Bench. Something. Mercer said:
+You're out. Reserve group. Bench. Something. 
+
+Mercer said:
 
 “Review in twenty minutes.”
 
@@ -1438,10 +1314,7 @@ Then walked away. Taiga stared after him.
 ---
 
 Wednesday film was worse than the match. Not because Mercer yelled. He didn't.
-
-Westlake on screen.
-
-First clip: Taiga chasing too far.
+Westlake on screen. First clip: Taiga chasing too far.
 
 Mercer paused.
 
@@ -1452,9 +1325,7 @@ Taiga looked at the frame.
 “One goes. One stays.”
 
 Mercer nodded.
-
 Next clip. Seventy-one. Taiga followed the right-back even after the ball moved away.
-
 Pause.
 
 “Same?”
@@ -1462,7 +1333,6 @@ Pause.
 “Yeah.”
 
 Play.
-
 Seventy-nine. Aaron passed to Taiga. Mercer froze it before the first touch.
 
 “Options.”
@@ -1480,7 +1350,6 @@ Taiga's mouth was dry.
 “Yeah.”
 
 Mercer played it.
-
 Taiga turned anyway. Lost it. Lunged after the ball.
 
 Pause.
@@ -1577,6 +1446,7 @@ Leo exhaled.
 
 “Okay.”
 
-Taiga looked back at his own name. Mercer had not called him in. Had not explained anything. Had not told him it was fine. Saturday. Left wing. Again.
-
----
+Taiga looked back at his own name. Mercer had not called him in. Had not explained anything. Had not told him it was fine. 
+Saturday. 
+Left wing.
+Again.
