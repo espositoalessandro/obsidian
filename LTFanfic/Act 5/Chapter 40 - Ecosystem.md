@@ -866,19 +866,13 @@ Taiga looked at her.
 
 She raised her glass slightly.
 
-Taiga started laughing.
+Taiga smiled.
 
-“Okay. She wins.”
+“Espero.”
 
-“I didn’t say it!” Leo said.
+Mercedes paused, then laughed.
 
-“That’s worse.”
-
-Mercedes asked what Taiga had said.
-
-Dani translated *that* too.
-
-Carmen finally gave up and laughed with everyone else.
+Leo covered his face.
 
 Taiga made a decision then: Doña Mercedes was dangerous, and he liked her.
 
