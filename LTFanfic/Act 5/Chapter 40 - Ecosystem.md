@@ -742,7 +742,7 @@ Taiga caught almost none of the words. What he could follow were the reactions: 
 
 Then Dani leaned toward Taiga.
 
-“Do you sleep in the same bed at university?”
+“*Do you sleep in the same bed at university*?”
 
 Taiga stopped with his fork halfway to his mouth.
 
@@ -750,7 +750,7 @@ Leo choked.
 
 Carmen closed her eyes.
 
-“Daniela.”
+“*Daniela*.”
 
 Dani looked genuinely confused.
 
@@ -808,7 +808,7 @@ Taiga looked at Leo.
 
 Taiga answered before Leo could do anything else.
 
-“No.”
+“*No*.”
 
 The table laughed.
 
@@ -816,7 +816,7 @@ Mercedes repeated the question more slowly.
 
 Taiga understood enough this time.
 
-“*He is a bad teacher,*” Taiga said carefully. “*He knows when something is wrong, but he doesn’t know why.*”
+“*He is bad teacher,*” Taiga said carefully. “*He know if something wrong, but he not know why.*”
 
 Leo turned toward him.
 
@@ -850,7 +850,7 @@ Taiga looked around.
 
 Dani was openly delighted.
 
-“She said maybe your mouth is better at things that don’t need grammar.”
+“She said maybe if you are bad at teaching, your mouth is better at something else.”
 
 Taiga stared at Leo.
 
