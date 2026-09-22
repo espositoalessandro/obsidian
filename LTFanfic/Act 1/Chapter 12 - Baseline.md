@@ -953,13 +953,13 @@ Enzo said, “Finally.” Mercer pointed at Leo's position.
 
 Gav answered.
 
-“Fullback's hips are open.”
+“The defender's already turned toward the sideline.”
 
 “There's more.”
 
 Aaron leaned forward.
 
-“Six is late across. If Leo drives inside, center-back has to choose.”
+“The midfielder's too far away. If Leo cuts inside, the center-back has to leave somebody.”
 
 Mercer nodded. He ran the clip. Leo cut inside. Goal. Mercer rewound.
 
@@ -973,7 +973,7 @@ Taiga wrote it down. Mercer had said it. Obviously. The rest of film moved betwe
 
 By the end, he had nearly forgotten Leo was missing. Nearly. Film ended at seven-oh-eight. Players started leaving. Taiga remained seated long enough to finish one line.
 
-**If RB steps early, bounce inside + go behind. Don't force 1v1 just because space looks open.**
+**If fourteen steps early, play inside and run behind him. Don't force the duel just because there's grass.**
 
 The door opened. Leo came in carrying a laptop under one arm, backpack hanging from one shoulder, expression somewhere between triumph and attempted homicide.
 
