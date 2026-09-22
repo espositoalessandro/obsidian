@@ -377,7 +377,7 @@ This short interval is intentional. Their growth after Camp Buddy is no longer l
 ### Sun May 3 – Fri May 8
 **Chapter 38 — After**
 
-- **Sun May 3** — Taiga and Leo wake together after the championship; recovery; relationship begins feeling ordinary rather than hypothetical.
+- **Sun May 3** — Taiga and Leo wake together after the championship; recovery; **Yoichi, Keitaro, Hiro, Hunter and Natsumi meet them afterward for a short Olympus campus walk and outdoor lunch in Agora before taking an afternoon train home**; relationship begins feeling ordinary rather than hypothetical.
 - **Mon May 4 onward** — championship aftermath, team review, academics and end-of-year logistics.
 - Finals pressure replaces soccer almost immediately.
 - **Wed May 6** — Data Structures final.
