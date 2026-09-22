@@ -548,7 +548,7 @@ Leo dropped Taiga’s backpack beside the wardrobe.
 
 “There’s space for your stuff there. Moma cleared it.”
 
-“She moved your desk and cleared my stuff.”
+“She moved your desk and cleared space for my stuff.”
 
 “Yes.”
 
