@@ -929,9 +929,11 @@ He was done.
 
 ---
 
-Being done lasted twelve minutes. Then Taiga remembered packing. Room 317 looked different with boxes in it. Not empty. Not yet. But temporary. The first-week version of the room had returned in pieces.
+Being done lasted twelve minutes. Then Taiga remembered packing.
 
-Open suitcase. Folded clothes. Books stacked on the floor. Caleb's organizers slowly becoming containers again instead of furniture. The photograph of Caleb and Maya had disappeared from the desk and gone into a padded envelope.
+Room 317 looked different with boxes in it. Not empty. Not yet. But temporary. The first-week version of the room had returned in pieces.
+
+Open suitcase. Folded clothes. Books stacked on the floor. Caleb's organizers had become containers again instead of furniture. The photograph of Caleb and Maya had disappeared from the desk and gone into a padded envelope.
 
 Taiga noticed the empty spot. Caleb noticed him noticing.
 
@@ -943,7 +945,121 @@ Taiga noticed the empty spot. Caleb noticed him noticing.
 
 “I have eyes.”
 
-Caleb returned to wrapping a mug. The blue one. Of course. Taiga folded another shirt. His phone buzzed. Leo.
+Caleb returned to wrapping the blue mug.
+
+An hour later, his side of the room was gone.
+
+Desk cleared. Bed stripped. Cables packed. Two bags by the door.
+
+Maya was downstairs waiting for him.
+
+Caleb looked around once.
+
+“Window.”
+
+Taiga checked.
+
+“Closed.”
+
+“Fridge.”
+
+“Open.”
+
+“Outlets.”
+
+“Empty.”
+
+Caleb nodded.
+
+Taiga looked at him.
+
+“You have a checklist, don't you?”
+
+Caleb pulled out his phone.
+
+“Of course.”
+
+Taiga laughed.
+
+For a second neither moved.
+
+Then Caleb held out a hand.
+
+Taiga stared at it.
+
+“Seriously?”
+
+Caleb lowered it slightly.
+
+“I was attempting a normal goodbye.”
+
+“That looked like a business meeting.”
+
+“What do you want?”
+
+Taiga stepped forward and hugged him.
+
+Caleb froze for maybe half a second. Then hugged back. Brief. Normal.
+
+Taiga let go.
+
+“Have a good summer.”
+
+“You too.”
+
+Caleb adjusted the strap on his bag.
+
+“And tell Leo he still owes me twelve dollars.”
+
+Taiga frowned.
+
+“For what?”
+
+“Takeout.”
+
+“When?”
+
+“February.”
+
+“You waited four months?”
+
+“I remembered.”
+
+“Of course you did.”
+
+Caleb opened the door.
+
+Then stopped.
+
+“Two weeks?”
+
+Taiga stared.
+
+“What?”
+
+“Until Leo.”
+
+Taiga narrowed his eyes.
+
+“Yeah.”
+
+Caleb nodded once.
+
+“Good.”
+
+Then he left.
+
+Taiga stood in the doorway long enough to hear Caleb's suitcase wheels disappear down the hall.
+
+When he went back inside, Room 317 felt wrong in a new way.
+
+Half empty.
+
+Quiet.
+
+His phone buzzed.
+
+Leo.
 
 **Leo:** room?
 
@@ -951,7 +1067,11 @@ Taiga:
 
 **Taiga:** yes
 
-Three minutes later, knock. Taiga opened the door. Leo came in carrying a cardboard box.
+Three minutes later, knock.
+
+Taiga opened the door.
+
+Leo came in carrying a cardboard box.
 
 “Why do you have a box?”
 
@@ -985,19 +1105,23 @@ Leo counted.
 
 “Twelve.”
 
-Taiga looked. One was Caleb's.
+Taiga looked again.
 
 “Eleven.”
 
-Leo picked up the wrong book. Caleb said:
+Leo counted a second time.
 
-“That one is mine.”
+Then pointed.
 
-Leo put it back immediately.
+“That one is a notebook.”
 
-“Eleven.”
+Taiga looked.
 
-Taiga smiled. They packed. Not efficiently. Leo folded shirts badly. Taiga refolded them. Leo objected. Caleb silently moved the badly folded pile farther from his side of the room.
+“Fine. Eleven books.”
+
+Leo smiled like he had won something.
+
+They packed. Not efficiently. Leo folded shirts badly. Taiga refolded them. Leo objected.
 
 At some point Leo found the Camp Buddy shirt in Taiga's drawer. Green. Badge. He held it up.
 
@@ -1037,7 +1161,11 @@ Leo sat on the edge of the bed.
 
 “Come to mine.”
 
-Taiga stopped folding. Caleb continued packing on the other side of the room. Bless him. Taiga looked at Leo.
+Taiga stopped folding.
+
+The room was suddenly very quiet.
+
+He looked at Leo.
 
 “What?”
 
@@ -1155,15 +1283,15 @@ Taiga laughed.
 
 “I have to figure out where you're sleeping.”
 
-Taiga stared. Leo stopped. Caleb's hands paused over the mug. Leo's face went red.
+Taiga stared.
+
+Leo stopped.
+
+His face went red.
 
 “I meant because my bed is a normal single, and there is no way my mum is going to let you sleep on the floor, so she's probably going to reorganize half my room before I even get home.”
 
-Taiga started laughing. Caleb put the mug into the box.
-
-“I can leave if necessary.”
-
-“No,” Taiga said.
+Taiga started laughing.
 
 Leo covered his face.
 
@@ -1243,85 +1371,19 @@ Taiga muted the chat.
 
 ---
 
-Friday morning came too quickly. Room 317 looked wrong. Caleb's side empty. Taiga's side nearly empty. Mattresses visible. Desks cleared. Nothing plugged into the wall. The mini-fridge door open.
+Friday morning came too quickly.
 
-Taiga had arrived months ago with one suitcase, one duffel and no idea where anything belonged. Now fitting everything back into luggage felt impossible. Caleb stood near the door with two bags.
+Room 317 looked wrong.
 
-Maya was downstairs waiting for him. Taiga zipped the duffel. Caleb looked around the room once.
+Caleb's side had been empty since yesterday. Taiga's side was nearly there now too. Mattresses visible. Desks cleared. Nothing plugged into the wall. The mini-fridge door open.
 
-“Window.”
+Taiga had arrived months ago with one suitcase, one duffel and no idea where anything belonged. Now fitting everything back into luggage still felt impossible.
 
-Taiga checked. Closed.
+He zipped the duffel.
 
-“Fridge.”
+Then looked around once.
 
-“Open.”
-
-“Outlets.”
-
-“Empty.”
-
-Caleb nodded. Taiga looked at him.
-
-“You have a checklist, don't you?”
-
-Caleb pulled out his phone.
-
-“Of course.”
-
-Taiga laughed. Caleb put it away. For a second neither moved. Then Caleb held out a hand. Taiga looked at it.
-
-“Seriously?”
-
-Caleb lowered it slightly.
-
-“I was attempting a normal goodbye.”
-
-“That looked like a business meeting.”
-
-“What do you want?”
-
-Taiga stepped forward and hugged him. Caleb froze for maybe half a second. Then hugged back. Brief. Normal. Taiga let go. Caleb adjusted the strap on his bag.
-
-“Two weeks?”
-
-Taiga stared.
-
-“What?”
-
-Caleb's expression remained neutral.
-
-“Until Leo.”
-
-Taiga narrowed his eyes.
-
-“Yeah.”
-
-Caleb opened the door.
-
-“Have a good summer.”
-
-“You too.”
-
-“And tell Leo he still owes me twelve dollars.”
-
-Taiga frowned.
-
-“For what?”
-
-“Takeout.”
-
-“When?”
-
-“February.”
-
-“You waited four months?”
-
-“I remembered.”
-
-“Of course you did.”
-
-Caleb left. Taiga stood in the empty room. Then looked around once. Bed. Desk. Window. Room 317.
+Bed. Desk. Window. Room 317.
 
 The corkboard was the last thing left.
 
