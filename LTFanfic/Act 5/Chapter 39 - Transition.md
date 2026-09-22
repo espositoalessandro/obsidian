@@ -76,9 +76,9 @@ Taiga stared at him.
 
 Leo smiled.
 
-There were things about being home that Taiga had expected to feel different after Olympus: his room, his desk, the arrangement of things he'd stopped noticing years ago, the way everything fit around habits that had existed before Room 317, before Apollo, before Leo. Instead, it mostly felt familiar, although somehow smaller—not physically, just in the strange way places did after you'd learned another one well enough to miss it.
+His room had not changed while he was gone. Same desk, same shelves, same socket beside the bed. Taiga unpacked without thinking and still caught himself comparing the space to Room 317.
 
-Taiga picked up his charger and plugged it beside the bed.
+He picked up his charger and plugged it in.
 
 Leo shifted on-screen.
 
@@ -278,7 +278,7 @@ That felt dishonest.
 
 By now he had several pages of vocabulary and enough basic sentence structure to understand why some of the phrases he'd memorized actually worked.
 
-He had also discovered *por* and *para*.
+He had also discovered por and para.
 
 He hated both.
 
@@ -392,7 +392,7 @@ Taiga leaned back in his chair.
 
 Taiga opened the notebook again.
 
-“Fine. Since you're here, explain *por* and *para*.”
+“Fine. Since you're here, explain por and para.”
 
 Leo's confidence disappeared.
 
@@ -404,7 +404,7 @@ He waited.
 
 Leo rubbed his jaw.
 
-“So. *Por* is like... because of? Sometimes. And *para* is... for.”
+“So. Por is like... because of? Sometimes. And para is... for.”
 
 “They both mean for.”
 
@@ -418,11 +418,11 @@ Leo rubbed his jaw.
 
 Leo frowned.
 
-“No, hold on. *Para* is destination. Like *voy para Santo Domingo*.”
+“No, hold on. Para is destination. Like voy para Santo Domingo.”
 
 Taiga looked down.
 
-“And *por*?”
+“And por?”
 
 “Reason. Sometimes.”
 
@@ -434,11 +434,11 @@ Taiga looked down.
 
 Leo paused.
 
-“That's *por*.”
+“That's por.”
 
 “Exchange?”
 
-“Also *por*.”
+“Also por.”
 
 “Deadline?”
 
@@ -498,11 +498,9 @@ Taiga looked back at him.
 
 “I just don't want you doing it every five seconds.”
 
-Leo went quiet just long enough for Taiga to notice, then smiled.
+Leo went quiet for a moment, then smiled.
 
 “Okay.”
-
-That one sounded different.
 
 Taiga glanced down at the notebook again and tapped one of the phrases he'd written earlier.
 
@@ -510,13 +508,13 @@ Taiga glanced down at the notebook again and tapped one of the phrases he'd writ
 
 Leo leaned closer to the screen.
 
-“*Para allá.*”
+“Para allá.”
 
 “No. Like you'd actually say it.”
 
 Leo repeated it, quicker this time.
 
-“*Pa'llá.*”
+“Pa'llá.”
 
 Taiga stared at him.
 
@@ -532,11 +530,11 @@ Leo laughed.
 
 “You deleted it.”
 
-“It's still *para allá*.”
+“It's still para allá.”
 
-“No, it isn't. I heard *pa'llá*.”
+“No, it isn't. I heard pa'llá.”
 
-“That is *para allá*.”
+“That is para allá.”
 
 “Your country hates letters.”
 
@@ -562,13 +560,13 @@ Sometimes Leo knew.
 
 Sometimes he knew instantly that Taiga's sentence was wrong and had absolutely no idea how to explain why.
 
-“Can I say *yo gusto café*?”
+“Can I say yo gusto café?”
 
 “No.”
 
 “Why?”
 
-“Because it's *me gusta el café*.”
+“Because it's me gusta el café.”
 
 “I know what the right sentence is. Why?”
 
@@ -616,7 +614,7 @@ Leo smiled.
 
 “Coward.”
 
-The calls stretched until twenty minutes of Spanish regularly became an hour of everything else, sometimes longer. Somewhere along the way, without Taiga really noticing when it started, Leo's home began leaking into them.
+The calls stretched until twenty minutes of Spanish regularly became an hour of everything else, sometimes longer.
 
 A voice would shout from somewhere outside his room.
 
@@ -670,7 +668,7 @@ Leo looked at it.
 
 “That is unfortunately true.”
 
-The door opened somewhere outside the camera and a rapid exchange followed. Taiga caught one word—*Julio*—and then another: *cargador*. Charger. He sat a little straighter.
+The door opened somewhere outside the camera and a rapid exchange followed. Taiga caught one word—Leo—and then another: cargador. Charger. He sat a little straighter.
 
 Leo noticed.
 
@@ -806,7 +804,7 @@ Taiga hated listening practice. Reading was starting to work and writing was slo
 
 Leo slowed down deliberately.
 
-“*La semana pasada.* Last week.”
+“La semana pasada. Last week.”
 
 Taiga repeated it.
 
@@ -838,7 +836,7 @@ Leo laughed and turned the camera toward the storefront.
 
 ---
 
-By the end of the first week, Taiga had started recognizing the household before Leo explained it—not individual people yet, but patterns. Someone would call *Julio* from outside the room and Leo would answer; a second voice might interrupt, somebody would laugh, a door would open. Once something fell with enough force that Taiga sat up while Leo barely reacted.
+By the end of the first week, interruptions had become predictable. A voice would call Leo from outside the room, another might cut in before he answered, somebody would laugh, a door would open. Once something fell with enough force that Taiga sat up while Leo barely reacted.
 
 “What was that?”
 
@@ -848,7 +846,7 @@ By the end of the first week, Taiga had started recognizing the household before
 
 “If it matters, somebody will yell.”
 
-Three seconds later:
+Three seconds later Carmen called from somewhere outside the room.
 
 “¡Julio!”
 
@@ -914,7 +912,7 @@ Then smiled.
 
 “That is slander.”
 
-“You said *estás* yesterday and the S just died halfway through.”
+“You said estás yesterday and the S just died halfway through.”
 
 “It did not die.”
 
@@ -930,7 +928,7 @@ Taiga laughed.
 
 Leo also started preparing him for the family, though never formally. Usually Taiga learned a word and Leo immediately attached someone to it.
 
-“*Comer.* To eat.”
+“Comer. To eat.”
 
 “I know.”
 
@@ -998,7 +996,7 @@ Taiga looked at the screen for a moment. Leo seemed completely unconcerned by th
 
 He looked back down.
 
-“What does *un chin* mean?”
+“What does un chin mean?”
 
 “A little bit.”
 
@@ -1010,15 +1008,15 @@ He looked back down.
 
 “Your dictionary is weak.”
 
-“It says *un poco*.”
+“It says un poco.”
 
 “That also means a little bit.”
 
 “So why do I need another one?”
 
-“Because if somebody asks if you want more food, and you say *un chin*, they'll understand you.”
+“Because if somebody asks if you want more food, and you say un chin, they'll understand you.”
 
-“If I say *un poco*, they won't?”
+“If I say un poco, they won't?”
 
 “They will.”
 
@@ -1026,7 +1024,7 @@ He looked back down.
 
 Leo thought about it.
 
-“Because *un chin* is better.”
+“Because un chin is better.”
 
 “You're useless.”
 
@@ -1214,7 +1212,7 @@ Sometimes Taiga understood. Other times he caught three words and constructed th
 
 Leo taught him things the course didn't.
 
-Taiga learned that *ahorita* could apparently mean now, soon, later, or some undefined point in the future depending on who said it and how much they cared.
+Taiga learned that ahorita could apparently mean now, soon, later, or some undefined point in the future depending on who said it and how much they cared.
 
 He rejected this on principle.
 
@@ -1340,7 +1338,11 @@ Taiga continued packing.
 
 “I know.”
 
-That changed the room somehow. After nearly two weeks of counting down, there was nothing abstract left about it anymore. Tomorrow, he would actually see Leo again. Taiga looked at the screen.
+Taiga stopped with a shirt halfway into the suitcase.
+
+Tomorrow.
+
+He looked at the screen.
 
 Leo smiled.
 
@@ -1418,7 +1420,7 @@ Leo blinked.
 
 Leo thought.
 
-“Just say *mucho gusto*. Maybe *gracias por venir a buscarme* if you want.”
+“Just say mucho gusto. Maybe gracias por venir a buscarme if you want.”
 
 Taiga repeated it.
 
@@ -1441,8 +1443,6 @@ Taiga repeated it again.
 “I'll be there.”
 
 Taiga looked at him.
-
-There it was again: the answer Leo gave every time Taiga reached the edge of what he could prepare for. *I'll be there.* It had annoyed him at first. Now, with the suitcase open and the flight less than a day away, it did something else.
 
 “Fine.”
 
@@ -1540,13 +1540,13 @@ Taiga listened.
 
 He understood pieces.
 
-*Bienvenidos.*
+Bienvenidos.
 
-*Vuelo.*
+Vuelo.
 
-*Equipaje.*
+Equipaje.
 
-*Gracias.*
+Gracias.
 
 Not enough for the whole announcement.
 
@@ -1576,7 +1576,7 @@ Immigration was easier than he'd built it up to be.
 
 Baggage took longer, of course. Taiga stood beside the carousel watching the same collection of suitcases pass for the third time while people around him talked too quickly for less than two weeks of Spanish to survive. This was nothing like listening to Leo one-on-one through a phone; twenty people speaking at once became noise with recognizable words trapped inside it.
 
-Taiga caught fragments: numbers, greetings, somebody asking where something was. A woman told a child *ven acá*—come here—and that much he knew. The rest vanished.
+Taiga caught fragments: numbers, greetings, somebody asking where something was. A woman told a child ven acá—come here—and that much he knew. The rest vanished.
 
 His suitcase finally appeared.
 
@@ -1644,7 +1644,7 @@ Taiga continued before he could lose the sentence.
 
 “Gracias por venir a buscarme.”
 
-Manuel answered immediately and far too quickly. Taiga caught *nada* and possibly *bienvenido*.
+Manuel answered immediately and far too quickly. Taiga caught nada and possibly bienvenido.
 
 He looked at Leo.
 
@@ -1664,11 +1664,11 @@ Slower this time.
 
 Taiga concentrated.
 
-*Julio... dijo... estudiando español.*
+Leo... dijo... estudiando español.
 
-Julio said—
+Leo said—
 
-Taiga looked at Leo.
+Taiga looked at him.
 
 “You told him.”
 
@@ -1856,11 +1856,9 @@ The landscape around the airport gave way gradually rather than all at once as t
 
 Leo answered something from the back seat.
 
-Another voice came through.
+Another voice came through. Taiga caught Leo's name and a few words about traffic before the rest disappeared.
 
-Taiga caught *Julio* again, but it sounded different here. At Olympus, Julio had been something printed on a class list, a technical fact about Leo. Here the name seemed to reach for him from every direction.
-
-Leo answered it without hesitation.
+Leo answered without hesitation.
 
 Taiga watched him.
 
@@ -1894,11 +1892,9 @@ Leo revised.
 
 Later, the buildings began spreading farther apart again as the dense city loosened around them. The sun dropped lower, warming the light through the windows.
 
-Taiga stopped trying to understand every Spanish sentence, and that helped. Sometimes he caught something and sometimes he didn't; Leo translated when it mattered and let the conversation pass when it didn't. Taiga was starting to understand that the more useful skill might not be understanding everything, but understanding enough to know what mattered.
+Taiga stopped trying to catch every Spanish sentence. Manuel said something; Leo answered; neither looked at him, so Taiga let it pass.
 
-They passed through another stretch of traffic and continued farther west, where the roads changed and the buildings changed with them. Leo talked less now, not because he was tired but because Taiga could see him recognizing things—a shop, a wall, a junction, people. His attention kept moving toward the windows before returning to Taiga. Home was getting closer, and Taiga could feel that too even though, for him, the sensation was the opposite of recognition.
-
-For months, almost everything Taiga had known about Leo before Olympus had existed as information: Dominican, Santo Domingo, family, school with Enzo, football, Julio. Separate pieces. Now those pieces had roads attached to them, along with heat, noise, distance and places Leo didn't need directions to find.
+They continued farther west. Leo's attention kept snagging on things outside—a shop, a wall, a junction. Once he leaned forward to point at a football court, but they were already passing it. A few minutes later he lifted a hand toward somebody Taiga never managed to see.
 
 The car turned again.
 
@@ -1910,7 +1906,7 @@ Manuel and Leo exchanged something in Spanish.
 
 Taiga caught one word.
 
-*Casa.*
+Casa.
 
 He looked at Leo.
 
