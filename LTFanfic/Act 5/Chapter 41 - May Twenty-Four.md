@@ -288,37 +288,9 @@ Leo stared at both of them.
 
 “This house has turned against me.”
 
-Mercedes said something from the other side of the table.
+Taiga took another sip of coffee.
 
-Taiga caught only his name.
-
-Leo went red.
-
-Taiga looked at him.
-
-“What?”
-
-“Nothing.”
-
-“Translate.”
-
-“No.”
-
-Mercedes repeated herself more slowly.
-
-“Julio, *listen to him. Maybe he’s finally found a way to keep you quiet.*”
-
-Taiga looked down at his coffee.
-
-Leo saw the smile.
-
-“Don’t.”
-
-“I didn’t say anything.”
-
-“You were going to.”
-
-“I learned from you.”
+“Eat.”
 
 “Worst birthday.”
 
