@@ -700,12 +700,12 @@ The smiles didn't leave their faces until their cheeks started to hurt.
 
 ---
 
-The bus left St. Vincent forty-eight minutes late. Nobody cared. The first ten minutes were loud enough that Taiga considered getting off while the bus was moving. Enzo had found a speaker.
+The bus left St. Vincent forty-eight minutes late. Nobody cared. The first ten minutes were loud enough that Taiga considered getting off while the bus was moving.
 
-That had been the first problem. The second was that everybody apparently knew the same three songs and believed volume could compensate for knowing only half the words.
+Enzo had found a speaker. That had been the first problem. 
+The second was that everybody apparently knew the same three songs and believed volume could compensate for knowing only half the words.
 
 Scott sat near the front with his hood up. Gav had taken the seat across the aisle from him and was trying to answer messages. Every few seconds another notification lit his screen.
-
 Aaron had somehow acquired a scarf from the Olympus supporters and was still wearing it. Taiga sat by the window. Leo sat beside him. His injured ankle rested on top of Taiga's bag because the physio had ordered him to keep it elevated.
 
 Taiga had objected to the bag. Leo had ignored him. Now the bus pulled onto the highway with the entire back half chanting something about champions. Leo leaned toward Taiga.
@@ -724,9 +724,8 @@ Taiga had objected to the bag. Leo had ignored him. Now the bus pulled onto the 
 
 “It should be.”
 
-Taiga looked out the window. St. Vincent disappeared behind them; the stadium lights remained visible for another few minutes before giving way to trees, road and the reflection of the bus interior in the glass.
-
-Leo beside him. Taiga caught the reflection of Leo looking at him. He turned.
+Taiga looked out the window. St. Vincent disappeared behind them; the stadium lights remained visible for another few minutes before giving way to trees, road and the reflection of the bus interior in the glass. Leo beside him. 
+Taiga caught the reflection of Leo looking at him. He turned.
 
 “What?”
 
@@ -738,6 +737,8 @@ Taiga narrowed his eyes. Leo kept smiling.
 
 “You've been doing that for ten minutes.”
 
+Then he rested his head on Taiga's shoulder.
+
 “I've had a very good day.”
 
 “So have I.”
@@ -748,7 +749,7 @@ Taiga's face warmed again. He looked toward the aisle. Enzo was standing on his 
 
 Good distraction. Leo's fingers found Taiga's hand between the seats. Taiga looked down. Then threaded their fingers together. Twenty minutes later the songs got worse. Thirty minutes after that, Enzo finally ran out of voice.
 
-The bus quieted in pieces. Players slumped into seats. phones came out. Someone started snoring. Leo's head dropped against Taiga's shoulder. Taiga adjusted slightly so he wasn't resting against the window frame.
+The bus quieted in pieces. Players slumped into seats. phones came out. Someone started snoring. Leo's head still resting on Taiga's shoulder. Taiga adjusted slightly so he wasn't resting against the window frame.
 
 Leo's eyes stayed closed.
 
@@ -780,9 +781,14 @@ Leo opened one eye.
 
 “Let me know who wins.”
 
-He closed the eye again. Taiga smiled. A few minutes later, Leo was actually asleep. His hand was still in Taiga's. Taiga looked out at the road. He had scored the goal.
+He closed the eye again. Taiga smiled. A few minutes later, Leo was actually asleep. His hand was still in Taiga's. Taiga looked out at the road. 
 
-That thought still refused to fit properly inside his head. Not an assist. Not a good run. Not thirty minutes off the bench. The goal. The championship goal.
+He had scored the goal.
+
+That thought still refused to fit properly inside his head. 
+Not an assist. Not a good run. Not thirty minutes off the bench. 
+The goal. 
+The championship goal.
 
 His phone had more than eighty unread notifications. Camp Buddy alone accounted for twenty-six. His mother had called twice. Taiga put the phone away. There would be time.
 
@@ -810,7 +816,7 @@ Enzo raised both hands. Mercer continued before he could speak.
 
 That got another cheer.
 
-“Shower. Change. Be there.”
+“Change. Be there.”
 
 Enzo pointed at himself.
 
@@ -840,7 +846,7 @@ Leo smiled. They went inside.
 
 ---
 
-The shower helped. His legs loosened. The grass came off. The sweat stopped drying into salt on his skin. By seven-thirty Taiga was in clean jeans and a dark sweatshirt, staring at himself in the locker-room mirror while trying to fix hair that had given up several hours ago.
+By seven-thirty Taiga was in clean jeans and a dark sweatshirt, staring at himself in the locker-room mirror while trying to fix hair that had given up several hours ago.
 
 Enzo appeared behind him.
 
