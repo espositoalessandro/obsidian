@@ -228,7 +228,7 @@ Mercedes noticed.
 
 “*He understood.*”
 
-“Of course he did,” Leo said in English. “You’re predictable.”
+“*Of course he did. You’re predictable.*”
 
 Mercedes ignored him and pulled him down far enough to kiss both cheeks.
 
