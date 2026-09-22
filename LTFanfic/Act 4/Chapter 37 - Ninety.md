@@ -179,11 +179,63 @@ He opened the door.
 
 The tunnel belonged to St. Vincent. Their crest on the wall. Their colors overhead. Their supporters louder every step toward the pitch. Taiga heard the Olympus corner underneath it.
 
-Not as loud. Sharper. The teams walked out. The announcer read the St. Vincent lineup first. Every name got a roar. Olympus followed. Boos from most of the stadium.
+Not as loud. Sharper.
 
-Cheers from one corner. When Taiga's name came, the blue section shouted hard enough to cut through. He looked over once. Then toward the center circle. St. Vincent gathered in white.
+The teams walked out.
 
-The referee checked both sides. Whistle.
+Stadium lights. White shirts. Blue in one corner. Noise coming from everywhere at once.
+
+Taiga stepped onto the grass and stopped for half a second.
+
+He closed his eyes.
+
+One breath.
+
+Then—
+
+“DYNAMITE!”
+
+Taiga's eyes opened.
+
+No.
+
+He turned toward the Olympus section.
+
+Yoichi was hanging over the barrier with both hands around his mouth.
+
+Beside him: Keitaro. Hiro. Hunter. Natsumi.
+
+All five of them.
+
+Taiga just stared.
+
+How the fuck—
+
+His head snapped toward the touchline.
+
+Leo was standing near the bench in his substitutes' jacket.
+
+Grinning.
+
+Taiga's eyes narrowed.
+
+“You little shit.”
+
+Leo's grin widened.
+
+The announcer started reading the St. Vincent lineup. Taiga looked back toward the away section. Yoichi raised both fists. Hiro was already yelling something Taiga couldn't make out. Keitaro laughed and pulled him back from the barrier.
+
+Taiga shook his head.
+
+Then smiled.
+
+The announcer reached Olympus. When Taiga's name came, the blue section shouted hard enough to cut through the boos.
+
+This time he knew five of the voices inside it.
+
+The referee checked both sides.
+
+Whistle.
 
 ---
 
@@ -194,6 +246,20 @@ Switched. Olympus kept the ball. Two minutes later, same side. Gav to Taiga. Rig
 Again. Safe. At five minutes, St. Vincent pressed. Center-back to Scott. Scott to Aaron. Winger closed. Aaron found Taiga. Right-back already moving. Taiga gave it back. Aaron went long.
 
 St. Vincent headed clear. No danger. At nine, Enzo attacked his fullback for the first time. Outside. Cut in. Shot blocked. Olympus's corner made noise. Corner. Cleared. At thirteen, Taiga received in space.
+
+“GO, TAIGA!”
+
+Hiro.
+
+Even from here.
+
+A second voice followed immediately.
+
+“Hiro, let him fucking play!”
+
+Keitaro.
+
+Taiga almost laughed.
 
 Ten meters. Maybe twelve. Nobody close enough to tackle. He carried three. Then passed sideways. Gav took it. Olympus kept possession. Mercer said nothing. That was worse. At seventeen, Aaron overlapped.
 
@@ -211,9 +277,27 @@ Space outside. He checked inside. Played Gav. At thirty-four, same defender. Sam
 
 Striker got there. Header over. At forty, St. Vincent countered. Aaron got caught high. Taiga tracked the winger all the way to the box. Cross blocked. Throw. Good.
 
-At forty-three, Taiga got the ball near halfway. Right-back five meters away. Aaron behind. Gav inside. The line down the wing open. He looked. Then passed Gav. The away section groaned at something happening on the other side.
+At forty-three, Taiga got the ball near halfway. Right-back five meters away. Aaron behind. Gav inside. The line down the wing open.
 
-Taiga did not know what. At forty-five, the referee added one. Nothing happened in it. Whistle. Zero-zero.
+“RUN!”
+
+Hiro again.
+
+Then, much louder:
+
+“HE KNOWS, DIPSHIT!”
+
+Yoichi.
+
+A few people in the Olympus section laughed.
+
+Taiga looked at the line.
+
+Then passed Gav anyway.
+
+The away section groaned at something happening on the other side. Taiga did not know what.
+
+At forty-five, the referee added one. Nothing happened in it. Whistle. Zero-zero.
 
 ---
 
@@ -373,7 +457,15 @@ Did not know where. Enzo reached him first from the other side of the box. Aaron
 
 Leo came through last. Taiga saw him. Grabbed the front of his shirt. Pulled him into the group. Leo shouted something into his ear. Taiga couldn't hear it.
 
-The home stadium had gone quiet everywhere except the Olympus corner. Zero-one. Six minutes plus whatever came after. The referee dragged them back toward halfway. Taiga looked once at the scoreboard.
+The home stadium had gone quiet everywhere except the Olympus corner.
+
+Taiga looked toward it.
+
+Yoichi was trying to climb the barrier. Hunter had one arm around his waist stopping him. Natsumi was shouting with both hands in the air. Keitaro had his camera up. Hiro was jumping hard enough to disappear behind the row in front of him every few seconds.
+
+Taiga laughed.
+
+Zero-one. Six minutes plus whatever came after. The referee dragged them back toward halfway. Taiga looked once at the scoreboard.
 
 **ST. VINCENT 0 — 1 OLYMPUS**
 
@@ -443,11 +535,63 @@ Leo shouted into his ear.
 
 Leo laughed. Then the rest of the team hit them from behind and the question stopped mattering. The Olympus section kept chanting. OLYMPUS. OLYMPUS. OLYMPUS. The team ran toward them.
 
-Taiga went with everyone. Hands in the air. Scarves thrown down. Phones everywhere. White shirts were already disappearing from the home sections. Blue stayed. Somebody in the first row was sobbing harder than Enzo.
+Taiga went with everyone.
 
-Taiga pointed at him. Enzo looked.
+Hands in the air. Scarves thrown down. Phones everywhere. White shirts were already disappearing from the home sections.
 
-“THAT GUY GETS IT!”
+Blue stayed.
+
+And there they were.
+
+Yoichi reached over the barrier as far as physics allowed.
+
+“DYNAMITE!”
+
+Taiga reached up and slapped his hand.
+
+“You came all the way here?”
+
+Yoichi looked offended.
+
+“No, idiot. We live under the stadium now.”
+
+Hiro pushed in beside him.
+
+“YOU FUCKING SCORED!”
+
+“I noticed!”
+
+Keitaro grabbed the back of Hiro's jacket before he could fold himself over the barrier too.
+
+“Please stop trying to enter the field.”
+
+“I'M CONGRATULATING HIM!”
+
+“From the correct side of the barrier.”
+
+Hunter was laughing. Natsumi reached through and caught Taiga's wrist for a second.
+
+“Congratulations.”
+
+Simple. Somehow that one hit harder.
+
+Taiga looked back toward the pitch.
+
+Leo was a few meters away with Aaron and Gav.
+
+Still grinning.
+
+Taiga pointed at him.
+
+“You.”
+
+Leo put both hands up.
+
+Taiga mouthed:
+
+*Little shit.*
+
+Leo laughed.
 
 They stayed there until Mercer finally appeared near the tunnel. He did not shout. He lifted one hand. Inside. Nobody obeyed immediately. Mercer lifted it again. Gav saw.
 
