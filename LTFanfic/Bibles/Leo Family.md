@@ -2,6 +2,21 @@
 
 Working bible for Leo / Julio Mendez's family and home environment in Santo Domingo.
 
+## Naming Rule — LOCKED
+
+**Leo is his normal everyday name both at Olympus and at home.**
+
+Do **not** create an Olympus-Leo / home-Julio split.
+
+Habitual use:
+- **Carmen / Moma calls him Julio.**
+- **Mercedes / Abuela calls him Julio.**
+- Manuel, Dani, Ramón, Isa, Antonio, Enzo and close friends / peers normally call him **Leo**.
+- An older relative, older neighbor or longtime family acquaintance may occasionally call him **Julio**, especially if they knew him as a child or use his legal name naturally.
+- Narration should default to **Leo** unless the legal name itself is relevant.
+
+The purpose is texture, not identity separation: hearing **Julio** should usually signal Carmen, Mercedes or an older-generation voice, while **Leo** remains fully at home in Santo Domingo.
+
 This file should be expanded character by character as Act V is developed.
 
 The family must feel like a real affectionate social ecosystem, not a collection of functions built only to explain Leo's psychology.
@@ -198,7 +213,7 @@ Over time, Taiga becomes better at recognizing her specific rhythms and favorite
 
 ---
 
-## Relationship with Leo / Julio
+## Relationship with Leo
 
 Mercedes has known Leo long enough to see through him quickly.
 
@@ -243,7 +258,7 @@ Early in the act:
 
 Later, when Leo begins experimenting with boundaries, she can become one of the relatives who **does not catastrophize them**.
 
-Someone may ask:
+Carmen may ask:
 
 > Where's Julio?
 
@@ -439,7 +454,7 @@ This helps the Act V conflict without making her an antagonist.
 
 ---
 
-## Relationship with Leo / Julio
+## Relationship with Leo
 
 Moma loves Leo intensely and is used to him being easy to involve.
 
@@ -667,7 +682,7 @@ They should visibly like each other.
 
 ---
 
-## Relationship with Leo / Julio
+## Relationship with Leo
 
 Papá should be one of the easiest people for Leo to relax around.
 
@@ -1122,7 +1137,7 @@ This makes her especially useful because she can confirm to Taiga that certain L
 
 She may eventually ask Taiga:
 
-> "*Is Julio like this at university too?*"
+> "*Is Leo like this at university too?*"
 
 If Taiga asks what she means, she can simply gesture toward the concrete behavior she is referring to.
 
@@ -1130,7 +1145,7 @@ The emotional meaning belongs to Taiga and Leo, not to her.
 
 ---
 
-## Relationship with Leo / Julio
+## Relationship with Leo
 
 She and Leo are **very close in a sibling way**, with affection heavily disguised as interference, theft, commentary and unsolicited observation.
 
@@ -1463,7 +1478,7 @@ That contrast can create good family comedy without making either man antagonist
 
 ---
 
-## Relationship with Leo / Julio
+## Relationship with Leo
 
 Leo has heard every famous Tío story multiple times.
 
@@ -1483,7 +1498,7 @@ Typical dynamic:
 
 Tío:
 
-> "*Has Julio ever told you about the time I—*"
+> "*Has Leo ever told you about the time I—*"
 
 Leo, from another room:
 
@@ -1559,7 +1574,7 @@ Because Tío exaggerates so much in ordinary conversation, moments when he becom
 
 If he ever says simply:
 
-> "Julio looks tired."
+> "Leo looks tired."
 
 with no theatrical framing, that should register.
 
@@ -1837,7 +1852,7 @@ That distinction matters.
 
 ---
 
-## Relationship with Leo / Julio
+## Relationship with Leo
 
 Tía can become one of the clearest contrasts to Leo's own over-responsibility.
 
@@ -1960,13 +1975,13 @@ His structural role is already clear enough to lock.
 
 ---
 
-## Relationship with Leo / Julio
+## Relationship with Leo
 
 He is deeply attached to Leo.
 
 Because the two households are part of the same close family ecosystem, Leo is not a cousin he only sees at holidays.
 
-Julio has likely been one of his important older figures for most of his life.
+Leo has likely been one of his important older figures for most of his life.
 
 Their bond should reveal a side of Leo that Taiga has not seen much before:
 - patient;
@@ -2290,7 +2305,7 @@ Mercedes's kitchen / dining area can function as the unofficial central node eve
 Carmen and Manuel have their own proper household space on the property.
 
 They live there with:
-- Julio / Leo when he is home;
+- Leo when he is home;
 - Daniela / Dani.
 
 Their unit must feel like an independent home, not bedrooms borrowed from Mercedes.
@@ -2812,7 +2827,7 @@ Leo's room at home is still recognizably **his teenage bedroom**.
 
 It has not been transformed into a generic guest room since he left for Olympus.
 
-The room should show at least two long-standing parts of Julio:
+The room should show at least two long-standing parts of Leo:
 - football;
 - gaming.
 
@@ -2879,7 +2894,7 @@ Let Taiga discover details over time.
 The emotional function is:
 
 > Taiga has known **Leo at Olympus**.  
-> Now he is physically entering **Julio before Olympus**.
+> Now he is physically entering **Leo's life before Olympus**.
 
 ---
 
@@ -3032,7 +3047,7 @@ He should:
 - appear from time to time;
 - remain part of Leo's existing social world;
 - be present at Leo's birthday;
-- provide continuity between Olympus-Leo and home-Julio.
+- provide continuity between Leo's Olympus life and his home life.
 
 Do not make Enzo structurally central to the family arc unless later scenes earn it.
 
