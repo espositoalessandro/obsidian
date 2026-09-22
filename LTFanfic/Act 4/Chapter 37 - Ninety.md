@@ -555,6 +555,14 @@ Yoichi looked offended.
 
 “No, idiot. We live under the stadium now.”
 
+Taiga stared at him.
+
+Yoichi jerked his head toward the field.
+
+“Blondie told me this one mattered. I handled the rest.”
+
+Of course he did.
+
 Hiro pushed in beside him.
 
 “YOU FUCKING SCORED!”
