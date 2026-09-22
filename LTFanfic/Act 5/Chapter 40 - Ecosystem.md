@@ -142,7 +142,7 @@ A girl stood in the doorway behind Carmen, watching Taiga with the specific conc
 
 Leo noticed her.
 
-“Dani.”
+“*Dani*, *this is Taiga*.”
 
 “*I know.*”
 
@@ -204,7 +204,7 @@ Leo covered his face.
 
 Taiga looked at Dani.
 
-“He kissed me.”
+“I kissed him.”
 
 Leo dropped his hands.
 
@@ -268,13 +268,11 @@ Leo pointed between them.
 
 A man’s voice came from above.
 
-“Julio!”
+“Taiga!”
 
 Taiga looked up.
 
 A broad man leaned over the upstairs railing.
-
-Unlike Manuel, he looked like he had been waiting specifically for an audience.
 
 “*There he is!*” he called, and then continued in Spanish at a speed that removed Taiga from the conversation almost immediately.
 
@@ -282,13 +280,13 @@ Leo answered.
 
 The man laughed, disappeared from the railing and reappeared on the stairs moments later, still talking.
 
-“That’s Tío,” Leo said quietly.
+“That’s Tío Ramón,” Leo said quietly.
 
 “I guessed.”
 
 “How?”
 
-“He entered like a stage actor.”
+“Instinct.”
 
 Leo laughed.
 
@@ -352,7 +350,7 @@ Mercedes sat near the open kitchen with a glass of something cold beside her. Sh
 
 Leo went to her first.
 
-“Abuela.”
+“Abuela, *this is Taiga*.”
 
 She touched his cheek, said something that made him roll his eyes, and then looked past him at Taiga.
 
