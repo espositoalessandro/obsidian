@@ -204,6 +204,362 @@ Leo caught up. His grin returned.
 
 ---
 
+Recovery ended a little after noon.
+
+The Camp Buddy group was waiting outside the Sports Zone.
+
+Hiro saw Taiga first and raised both arms.
+
+“DYNAMITE!”
+
+Taiga stopped.
+
+“You already used that yesterday.”
+
+“It still works.”
+
+Yoichi was sitting on the low wall beside the entrance with his elbows on his knees. Keitaro had his camera around his neck. Hunter held two coffees. Natsumi was looking at the stadium through the fence.
+
+Leo came out beside Taiga.
+
+Yoichi looked at his ankle.
+
+“Still alive, Sunball?”
+
+Leo nodded.
+
+“Against medical advice.”
+
+“Good.”
+
+Taiga looked at the five of them.
+
+“You checked out?”
+
+Keitaro nodded.
+
+“Bags are at the hotel. Train's later this afternoon.”
+
+Hiro looked around.
+
+“So. Tour.”
+
+Taiga stared at him.
+
+“Tour?”
+
+“You've been here a year.”
+
+“That doesn't make me a tour guide.”
+
+Yoichi stood.
+
+“Show us where you waste your time.”
+
+“That narrows nothing down.”
+
+Leo laughed.
+
+They started with the stadium because they were already there.
+
+Taiga showed them the training pitches, the athletics building, the path back toward Residential. Keitaro stopped twice to take photographs. Hiro asked if Taiga had actually run every staircase he pointed at. Hunter wanted to know which building held the film room.
+
+Natsumi mostly watched.
+
+At the split toward Residential, Taiga pointed ahead.
+
+“My hall's there.”
+
+Hiro squinted.
+
+“Which window?”
+
+“No.”
+
+“Come on.”
+
+“No.”
+
+Yoichi looked at Leo.
+
+“You know?”
+
+Leo smiled.
+
+“Yeah.”
+
+Taiga looked at him.
+
+“Don't.”
+
+“I wasn't going to.”
+
+“That smile says otherwise.”
+
+Keitaro lowered the camera.
+
+“Maybe don't photograph his bedroom from outside.”
+
+“I wasn't.”
+
+Hiro looked disappointed.
+
+They crossed Central Park after that.
+
+Taiga showed them Academic from the outside, the library entrance, the route he took to class, the University Center.
+
+None of it looked important enough to explain why it had become important.
+
+That was strange.
+
+A year ago, Olympus had been buildings on a map and a scholarship he had not trusted. Now he could point at a path and remember Leo stealing his coffee. A bench and remember Caleb correcting something nobody else had noticed. The Sports Zone and approximately a thousand bad decisions.
+
+Camp Buddy followed him through all of it.
+
+Old life walking through the new one.
+
+Taiga hated how much that thought sounded like Keitaro.
+
+He kept it to himself.
+
+By one, they reached Agora.
+
+It was the broad pedestrian square between the University Center and the main dining buildings, all stone paving, trees, movable tables and too many students whenever the weather was decent.
+
+Today was bright enough that almost every outside table was taken.
+
+They found two pushed together near the edge.
+
+Lunch came from three different places because nobody could agree on anything. Burgers for Hiro and Yoichi. Something with chicken for Hunter. Natsumi found a sandwich. Keitaro came back with a salad and immediately had half of Hiro's fries stolen.
+
+Leo and Taiga sat beside each other.
+
+Yoichi noticed.
+
+Of course he did.
+
+He looked at their shoulders touching.
+
+Then at Taiga.
+
+Then smiled.
+
+Taiga pointed at him.
+
+“Don't.”
+
+“I didn't say anything.”
+
+“Your face did.”
+
+“My face is innocent.”
+
+“No part of you is innocent.”
+
+Leo nearly choked on his drink.
+
+Hiro looked between them.
+
+“So are you two actually—”
+
+Keitaro kicked him under the table.
+
+“Ow.”
+
+“Eat.”
+
+“What? Everyone knows.”
+
+Taiga looked at Leo.
+
+Leo looked back.
+
+Neither moved away.
+
+Yoichi made a deeply unpleasant satisfied sound.
+
+Taiga threw a napkin at him.
+
+For a while, conversation went everywhere.
+
+Camp Buddy. Olympus. Finals. The championship. Hunter asked Leo about his ankle. Natsumi asked Taiga how hard Data Structures actually was. Hiro wanted to know whether conference champions got free food forever.
+
+“No,” Taiga said.
+
+“Then what was the point?”
+
+“The trophy.”
+
+“Can't eat a trophy.”
+
+Yoichi nodded solemnly.
+
+“Strong argument.”
+
+Keitaro looked at Taiga.
+
+“You like it here.”
+
+It was not really a question.
+
+Taiga looked around Agora.
+
+Students crossing between buildings. Somebody riding a bike where they probably were not supposed to. Music from somewhere near the University Center. Leo beside him. Camp Buddy across the table.
+
+“Yeah.”
+
+Keitaro smiled.
+
+Taiga immediately regretted answering sincerely.
+
+“Don't make that face.”
+
+“What face?”
+
+“That one.”
+
+“I didn't do anything.”
+
+“You're all terrible.”
+
+Hunter laughed.
+
+Lunch stretched longer than Taiga expected.
+
+At two, Keitaro checked the time.
+
+“We should go.”
+
+Hiro groaned.
+
+“We have time.”
+
+“We have enough time if we leave now.”
+
+“That sounds fake.”
+
+Natsumi stood.
+
+“It isn't.”
+
+Yoichi grabbed the last fry from Hiro's tray and got up.
+
+“Come on.”
+
+They walked back toward the campus edge together.
+
+The hotel was only a few blocks beyond the entrance. From there, bags. Station. Train. Home.
+
+At the gate, everybody slowed without meaning to.
+
+Hunter hugged Taiga first.
+
+“Good seeing you.”
+
+“You too.”
+
+Natsumi followed.
+
+“Don't disappear all summer.”
+
+“I won't.”
+
+Hiro hit him hard enough to count as a tackle.
+
+Taiga shoved him off.
+
+“You're still shit at hugs.”
+
+“That's because you're fragile.”
+
+“Fuck you.”
+
+Keitaro hugged him last among them.
+
+Not long.
+
+Long enough.
+
+“Congratulations again.”
+
+Taiga exhaled.
+
+“Thanks.”
+
+Then Yoichi.
+
+They looked at each other.
+
+Yoichi opened his arms with exaggerated reluctance.
+
+“Come on, Dynamite.”
+
+Taiga stared.
+
+“You're disgusting.”
+
+“Train leaves today.”
+
+“Unfortunately.”
+
+Taiga hugged him anyway.
+
+Yoichi's arms tightened once.
+
+Then he immediately ruined it by saying:
+
+“Don't get weird.”
+
+Taiga shoved him away.
+
+“You started it.”
+
+Leo was saying goodbye to the others behind him. Hiro gave him another handshake that became half a hug. Hunter told him to take care of the ankle. Natsumi said it had been good meeting him.
+
+Yoichi looked at Leo last.
+
+“Sunball.”
+
+“Wolfboy.”
+
+Taiga looked between them.
+
+“Absolutely not.”
+
+Both ignored him.
+
+Keitaro lifted one hand.
+
+“Summer.”
+
+“Yeah.”
+
+The five of them started down the sidewalk.
+
+Hiro turned around after maybe twenty meters.
+
+“CHAMPION!”
+
+Keitaro grabbed his shoulder and turned him forward again.
+
+Taiga laughed.
+
+Leo stepped beside him.
+
+“They like you.”
+
+Taiga looked at him.
+
+“They traveled across the state.”
+
+“Good evidence.”
+
+Taiga watched until the group disappeared around the corner.
+
+Then he and Leo turned back toward campus.
+
+---
+
 By Monday, Olympus had put the championship on every screen it owned. The University Center. Sports Zone. The lobby outside the main dining hall. Even the rotating announcement screen inside the Academic building.
 
 **APOLLO SOCCER — CONFERENCE CHAMPIONS**
