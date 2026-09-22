@@ -40,7 +40,7 @@ Enzo complained about production quality for four minutes before Scott told him 
 
 “Circumstances changed.”
 
-Taiga peeled the banana. Pinetree looked good—organized, quick in transition, the kind of team that made one-goal leads feel larger than they were. At halftime, one-nil. Enzo stood.
+Taiga peeled the banana. Pinetree looked good—organized, quick the moment they won the ball, the kind of team that made one-goal leads feel larger than they were. At halftime, one-nil. Enzo stood.
 
 “I need something fried.”
 
@@ -852,7 +852,7 @@ He pointed across the field at Taiga. Then held up two fingers. Taiga had no ide
 
 Goal kicks. Throws. Free kicks. Scott complained from the opposite end. The referee pointed at his watch. Nobody believed him. At eighty-three, Taiga got the best chance he would have all day.
 
-Leo received between lines. Turned. The right-back stepped toward him instead of Taiga. Leo slipped the ball left. Taiga was inside the box. One defender recovering. Keeper set.
+Leo received in the gap behind Cedar Ridge's midfield. Turned. The right-back stepped toward him instead of Taiga. Leo slipped the ball left. Taiga was inside the box. One defender recovering. Keeper set.
 
 Far corner open enough to see. Taiga took one touch. Could shoot. The defender closed. Taiga cut the ball square toward the striker. Center-back intercepted with the tip of his boot.
 
