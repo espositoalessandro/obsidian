@@ -255,9 +255,9 @@ Leo leaned one shoulder against the wall.
 
 Taiga looked over.
 
-“That's all?”
+Leo caught the look.
 
-“You told me one thing.”
+“You told me one thing. I'm not going to interrogate you for the rest.”
 
 “Yeah.”
 
