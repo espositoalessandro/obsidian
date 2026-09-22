@@ -1,8 +1,4 @@
-By the time Taiga got home, fourteen days had become thirteen.
-
-Technically.
-
-Leo disagreed.
+By the time Taiga got home, fourteen days had become thirteen. At least, that was how Taiga counted it. Leo disagreed.
 
 “You don't get to count today.”
 
@@ -80,13 +76,7 @@ Taiga stared at him.
 
 Leo smiled.
 
-There were things about being home that Taiga had expected to feel different after Olympus. His room. His desk. The arrangement of things he'd stopped noticing years ago. The fact that everything fit around habits that had existed before Room 317, before Apollo, before Leo.
-
-Instead, it mostly felt familiar.
-
-Smaller, maybe.
-
-Not physically. Just in the strange way places did after you'd learned another one well enough to miss it.
+There were things about being home that Taiga had expected to feel different after Olympus: his room, his desk, the arrangement of things he'd stopped noticing years ago, the way everything fit around habits that had existed before Room 317, before Apollo, before Leo. Instead, it mostly felt familiar, although somehow smaller—not physically, just in the strange way places did after you'd learned another one well enough to miss it.
 
 Taiga picked up his charger and plugged it beside the bed.
 
@@ -150,9 +140,7 @@ Taiga watched a wall slide into frame, then somebody's luggage, then a man aslee
 
 Leo laughed.
 
-The announcement behind him changed language. Taiga caught none of it.
-
-Not one word.
+The announcement behind him changed language, and Taiga listened long enough to confirm that he couldn't catch a single word.
 
 He looked at the screen.
 
@@ -270,23 +258,11 @@ Leo's eyes widened.
 
 “It's not a big deal.”
 
-It hadn't been supposed to be.
-
-Not some romantic surprise.
-
-That would have been stupid.
-
-Kinda.
+It hadn't been supposed to be some romantic surprise. That would have been stupid. Mostly.
 
 Taiga had opened the itinerary Leo sent him, looked at the address again, remembered the conversation in Room 317, and arrived at the same practical problem he'd already identified there.
 
-Leo's family mostly didn't speak English.
-
-Taiga was going to be living with them.
-
-For weeks.
-
-He was not spending weeks standing beside Leo waiting for him to translate every fucking sentence.
+Leo's family mostly didn't speak English, and Taiga was going to be living with them for weeks. He was not spending that entire time standing beside Leo waiting for him to translate every fucking sentence.
 
 So he'd found a beginner course and started with the obvious things.
 
@@ -294,15 +270,7 @@ Greetings, numbers, time, food, directions, family, common verbs.
 
 He ignored the parts that wanted him to earn points for cartoon achievements and wrote things down instead.
 
-The grammar was better.
-
-Grammar had rules.
-
-Rules could be learned.
-
-Pronunciation was irritating, but manageable when the person speaking sounded like the recording.
-
-Listening was worse.
+Grammar was easier because it had rules, and rules could be learned. Pronunciation was irritating but manageable when the person speaking sounded like the recording. Listening was worse.
 
 The course would teach him a sentence, let him replay it at exactly the same speed four times, then congratulate him for identifying a word he'd been staring at on-screen.
 
@@ -530,11 +498,7 @@ Taiga looked back at him.
 
 “I just don't want you doing it every five seconds.”
 
-Leo went quiet.
-
-Not dramatically. Just enough that Taiga noticed.
-
-Then he smiled.
+Leo went quiet just long enough for Taiga to notice, then smiled.
 
 “Okay.”
 
@@ -592,13 +556,7 @@ Spanish was going to be a problem.
 
 ---
 
-After that, Leo became involved.
-
-Not officially.
-
-There was no schedule. No lesson time.
-
-Taiga would study during the day, write down things that made no sense, then ask Leo whenever they happened to call.
+After that, Leo became involved without either of them turning it into anything official. There was no schedule or lesson time; Taiga studied during the day, wrote down whatever made no sense, then asked Leo whenever they happened to call.
 
 Sometimes Leo knew.
 
@@ -658,13 +616,7 @@ Leo smiled.
 
 “Coward.”
 
-The calls stretched.
-
-Twenty minutes of Spanish became an hour of everything else.
-
-Sometimes longer.
-
-And slowly, without Taiga really noticing when it started, Leo's home leaked into them.
+The calls stretched until twenty minutes of Spanish regularly became an hour of everything else, sometimes longer. Somewhere along the way, without Taiga really noticing when it started, Leo's home began leaking into them.
 
 A voice would shout from somewhere outside his room.
 
@@ -718,21 +670,7 @@ Leo looked at it.
 
 “That is unfortunately true.”
 
-The door opened somewhere outside the camera.
-
-A rapid exchange followed.
-
-Taiga caught exactly one word.
-
-*Julio.*
-
-Then another.
-
-*Cargador.*
-
-Charger.
-
-He sat straighter.
+The door opened somewhere outside the camera and a rapid exchange followed. Taiga caught one word—*Julio*—and then another: *cargador*. Charger. He sat a little straighter.
 
 Leo noticed.
 
@@ -750,15 +688,7 @@ Leo grinned.
 
 He handed the charger off-screen.
 
-The Spanish continued.
-
-Leo answered.
-
-The voice answered back.
-
-Leo rolled his eyes.
-
-Then the door closed.
+The Spanish continued for another few seconds, Leo answering before the voice fired something back at him. He rolled his eyes, and then the door closed.
 
 Taiga frowned.
 
@@ -796,11 +726,7 @@ Leo laughed.
 
 ---
 
-Another call came while Leo was outside.
-
-Taiga knew before the video even connected.
-
-Traffic. Wind. Voices. Music from somewhere nearby.
+Another call came while Leo was outside, and Taiga knew it before the video even connected from the traffic, wind, overlapping voices and music somewhere nearby.
 
 Leo appeared in frame walking down a street, sunglasses on, one hand holding the phone slightly below his face.
 
@@ -846,13 +772,7 @@ Taiga looked down at his notes.
 
 Leo turned a corner. Somebody called something toward him from off-screen.
 
-Leo answered immediately in Spanish.
-
-Fast.
-
-Too fast.
-
-Taiga caught nothing.
+Leo answered immediately in Spanish, fast enough that Taiga caught nothing.
 
 “What was that?”
 
@@ -872,13 +792,7 @@ Leo smiled.
 
 “Pretty much.”
 
-Taiga hated listening.
-
-Reading was starting to work.
-
-Writing was slow, but possible.
-
-Listening to Leo speak normally felt like somebody taking all the words Taiga had learned, putting them into a blender and throwing the final consonants away.
+Taiga hated listening practice. Reading was starting to work and writing was slow but possible, but listening to Leo speak normally felt like somebody taking all the words he'd learned, putting them into a blender and throwing the final consonants away.
 
 “I can't hear the words.”
 
@@ -902,27 +816,7 @@ Taiga repeated it again.
 
 “Better.”
 
-They kept walking together like that, separated by a screen and however many hundreds of miles now sat between them.
-
-Leo showed him almost nothing deliberately.
-
-That was what made it useful.
-
-A corner.
-
-A wall painted too brightly.
-
-Cars squeezing past one another.
-
-A dog asleep under shade.
-
-A place Leo pointed at and said had sold him terrible empanadas for years because he kept buying them anyway.
-
-Someone else greeting him.
-
-Leo greeting them back.
-
-A motorbike passing close enough that Taiga lost half a sentence.
+They kept walking together like that, separated by a screen and however many hundreds of miles now sat between them. Leo showed him almost nothing deliberately, which was what made it useful: a corner, a wall painted too brightly, cars squeezing past one another, a dog asleep in the shade, a place that had apparently sold Leo terrible empanadas for years because he kept buying them anyway. Someone else greeted him; Leo answered without breaking stride. A motorbike passed close enough that Taiga lost half a sentence.
 
 Then Leo stopped.
 
@@ -944,21 +838,7 @@ Leo laughed and turned the camera toward the storefront.
 
 ---
 
-By the end of the first week, Taiga had started recognizing the household before Leo explained it.
-
-Not people, patterns.
-
-Someone called *Julio* from outside the room, Leo answered.
-
-A second voice interrupted.
-
-Somebody laughed.
-
-A door opened.
-
-Something fell once with enough force that Taiga sat up.
-
-Leo didn't.
+By the end of the first week, Taiga had started recognizing the household before Leo explained it—not individual people yet, but patterns. Someone would call *Julio* from outside the room and Leo would answer; a second voice might interrupt, somebody would laugh, a door would open. Once something fell with enough force that Taiga sat up while Leo barely reacted.
 
 “What was that?”
 
@@ -1048,11 +928,7 @@ Taiga laughed.
 
 ---
 
-Leo also started preparing him for the family.
-
-Not formally.
-
-Usually because Taiga learned a word and Leo immediately attached someone to it.
+Leo also started preparing him for the family, though never formally. Usually Taiga learned a word and Leo immediately attached someone to it.
 
 “*Comer.* To eat.”
 
@@ -1118,15 +994,7 @@ Leo shrugged.
 
 “Because I know them.”
 
-Taiga looked at the screen for a moment.
-
-Leo seemed completely unconcerned by the possibility.
-
-That should probably have made Taiga feel better.
-
-Mostly it did.
-
-Mostly.
+Taiga looked at the screen for a moment. Leo seemed completely unconcerned by the possibility, which probably should have reassured him. For the most part, it did.
 
 He looked back down.
 
@@ -1170,13 +1038,7 @@ Leo thought about it.
 
 ---
 
-The first time Taiga caught a whole sentence without help, Leo wasn't even talking to him.
-
-It happened late at night.
-
-Leo had called from outside.
-
-The screen showed mostly his face and darkness behind him, with warm light somewhere off to one side.
+The first time Taiga caught a whole sentence without help, Leo wasn't even talking to him. It happened late at night, during a call from outside the house. The screen showed mostly Leo's face against the darkness, with warm light somewhere off to one side.
 
 “You hiding?”
 
@@ -1192,9 +1054,7 @@ Leo leaned back against something.
 
 “It was loud.”
 
-Taiga understood that answer without needing the rest.
-
-Five minutes somewhere quieter. Then back inside.
+Taiga understood without needing the rest. Five minutes somewhere quieter, then Leo would go back inside.
 
 “How long?”
 
@@ -1212,15 +1072,7 @@ Leo smiled.
 
 “Sure.”
 
-For a while they didn't say much.
-
-Taiga worked through an exercise.
-
-Leo watched something beyond the camera.
-
-There were still voices somewhere behind him, but farther away now.
-
-Home did not sound silent even from outside.
+For a while they didn't say much. Taiga worked through an exercise while Leo watched something beyond the camera. Voices were still audible behind him, only farther away now; apparently home did not become silent just because Leo stepped outside.
 
 Taiga finished the exercise.
 
@@ -1338,21 +1190,11 @@ Then went back to the exercise.
 
 ---
 
-The second week went faster.
-
-That was irritating.
-
-Taiga's notebook filled.
-
-His listening improved just enough for him to understand how bad his listening still was.
+The second week went faster, which was irritating. Taiga's notebook filled, and his listening improved just enough for him to understand how bad his listening still was.
 
 Leo stopped slowing down every sentence when they practiced and started repeating things only after Taiga failed to catch them.
 
-Sometimes Taiga understood.
-
-Sometimes he understood three words and constructed the wrong sentence around them.
-
-Sometimes Leo spoke normally and Taiga looked at him until Leo started laughing.
+Sometimes Taiga understood. Other times he caught three words and constructed the wrong sentence around them, and sometimes Leo spoke normally only to find Taiga staring at him until he started laughing.
 
 “You understood none of that.”
 
@@ -1386,11 +1228,7 @@ Taiga told him he already sounded insane.
 
 Leo agreed.
 
-They talked every day.
-
-Not always long.
-
-One afternoon Leo called while carrying groceries and spent most of the conversation complaining that somebody had added three things to the list after he'd already left.
+They talked every day, though not always for long. One afternoon Leo called while carrying groceries and spent most of the conversation complaining that somebody had added three things to the list after he'd already left.
 
 Another time he called from a car and immediately lost the connection twice.
 
@@ -1430,39 +1268,11 @@ Failed.
 
 ---
 
-Thursday night, Taiga packed again.
-
-The suitcase he'd emptied thirteen days earlier lay open on the floor.
-
-Different clothes this time.
-
-Summer.
-
-Three weeks, probably.
-
-Maybe longer if plans moved around.
-
-Leo had never settled on a precise answer.
-
-Neither had Taiga.
+Thursday night, Taiga packed again. The suitcase he'd emptied thirteen days earlier lay open on the floor, although the clothes going into it were different this time: summer things, enough for three weeks probably, maybe longer if plans moved around. Leo had never settled on a precise answer, and neither had Taiga.
 
 His passport went into the front pocket of his backpack, then came back out because that felt too easy to lose, then went into a smaller inside pocket instead.
 
-Charger.
-
-Headphones.
-
-Documents.
-
-The notebook.
-
-He held that one for a moment.
-
-Nearly two weeks of Spanish.
-
-Enough pages to look impressive.
-
-Not enough Spanish to actually be impressive.
+He added his charger, headphones and documents, then reached for the notebook and held it for a moment. Nearly two weeks of Spanish had filled enough pages to look impressive without giving him enough Spanish to actually be impressive.
 
 His phone buzzed.
 
@@ -1530,15 +1340,7 @@ Taiga continued packing.
 
 “I know.”
 
-That changed the room somehow.
-
-Tomorrow.
-
-Not thirteen days.
-
-Tomorrow.
-
-Taiga looked at the screen.
+That changed the room somehow. After nearly two weeks of counting down, there was nothing abstract left about it anymore. Tomorrow, he would actually see Leo again. Taiga looked at the screen.
 
 Leo smiled.
 
@@ -1640,15 +1442,7 @@ Taiga repeated it again.
 
 Taiga looked at him.
 
-There it was again.
-
-The answer Leo gave every time Taiga hit the edge of what he could prepare for.
-
-I'll be there.
-
-It had annoyed him at first.
-
-Now, with the suitcase open and the flight less than a day away, it did something else.
+There it was again: the answer Leo gave every time Taiga reached the edge of what he could prepare for. *I'll be there.* It had annoyed him at first. Now, with the suitcase open and the flight less than a day away, it did something else.
 
 “Fine.”
 
@@ -1698,25 +1492,7 @@ By the time they finally hung up, it was technically the day they were going to 
 
 ---
 
-Travel was mostly waiting.
-
-Taiga had always thought of it as movement.
-
-It wasn't.
-
-It was standing in lines so somebody could verify that you were allowed to move.
-
-Waiting to check in.
-
-Waiting at security.
-
-Waiting at the gate.
-
-Waiting on the aircraft.
-
-Waiting to get off it.
-
-Then doing it again.
+Travel, Taiga discovered, was mostly waiting. He had always thought of it as movement, but most of the actual experience involved standing in lines so somebody could verify that you were allowed to move: check-in, security, the gate, the aircraft, getting off the aircraft, and then doing some version of it again.
 
 By the time he boarded the final flight to Santo Domingo, the day had already felt long enough to qualify as two.
 
@@ -1746,19 +1522,11 @@ Taiga typed:
 
 **Taiga:** boarding
 
-He hesitated.
-
-Then added:
+He hesitated, then added:
 
 **Taiga:** see you
 
-The reply came before he could lock the screen.
-
-A heart.
-
-Taiga stared at it.
-
-Then put the phone away.
+The reply came before he could lock the screen: a heart. Taiga stared at it for a moment before putting the phone away.
 
 Outside, baggage carts moved beneath the aircraft.
 
@@ -1792,37 +1560,9 @@ For now.
 
 ---
 
-Santo Domingo appeared through broken cloud.
+Santo Domingo appeared through broken cloud, green at first and then increasingly dense with roads and buildings stretching farther than Taiga expected. Beyond the wing, the sea caught enough sunlight that he had to look away for a second. The aircraft turned lower, and when the wheels finally hit the runway, Taiga felt his stomach tighten for reasons that had nothing to do with the landing.
 
-Green first.
-
-Then roads.
-
-Buildings.
-
-Dense stretches of them reaching farther than Taiga expected.
-
-The sea caught sunlight beyond the wing, bright enough that he had to look away for a second.
-
-The aircraft turned.
-
-Lower.
-
-Taiga felt the wheels hit the runway.
-
-His stomach tightened.
-
-Not from the landing.
-
-His phone was still in airplane mode.
-
-Leo was somewhere outside this airport.
-
-Actually outside it.
-
-No screen.
-
-No call ending in an hour.
+His phone was still in airplane mode, but Leo was somewhere outside this airport now—actually outside it, with no screen between them and no call that would end in an hour.
 
 Taiga looked through the window at the airport buildings sliding past.
 
@@ -1834,69 +1574,19 @@ Apparently they'd counted after all.
 
 Immigration was easier than he'd built it up to be.
 
-Baggage took longer.
+Baggage took longer, of course. Taiga stood beside the carousel watching the same collection of suitcases pass for the third time while people around him talked too quickly for less than two weeks of Spanish to survive. This was nothing like listening to Leo one-on-one through a phone; twenty people speaking at once became noise with recognizable words trapped inside it.
 
-Of course it did.
-
-Taiga stood beside the carousel watching the same collection of suitcases pass for the third time while people around him talked too quickly for less than two weeks of Spanish to survive.
-
-This was different.
-
-Completely.
-
-Leo speaking to one person on a phone call had been difficult.
-
-Twenty people speaking at once was noise with recognizable words trapped inside it.
-
-Taiga caught fragments.
-
-Numbers.
-
-Greetings.
-
-Somebody asking where something was.
-
-A woman telling a child to come here.
-
-*Ven acá.*
-
-He knew that.
-
-The rest vanished.
+Taiga caught fragments: numbers, greetings, somebody asking where something was. A woman told a child *ven acá*—come here—and that much he knew. The rest vanished.
 
 His suitcase finally appeared.
 
 Taiga dragged it down before somebody else could grab it, adjusted his backpack and followed the signs toward arrivals.
 
-The doors opened.
-
-People.
-
-Signs.
-
-Drivers.
-
-Families pressed against the barrier.
-
-Voices.
-
-Heat waiting somewhere beyond the air-conditioning.
-
-And Leo.
-
-Taiga saw him almost immediately.
-
-Not because Leo was doing anything dramatic.
-
-Because Taiga knew exactly what he looked like in a crowd now.
+The doors opened onto a crush of people, signs, drivers and families pressed against the barrier, with voices overlapping and heat waiting somewhere beyond the air-conditioning. Taiga saw Leo almost immediately, not because he was doing anything dramatic, but because Taiga knew exactly what he looked like in a crowd now.
 
 Leo was standing beside a man Taiga recognized from photographs and brief pieces of video calls, although photographs had failed to communicate how fucking large he was.
 
-Leo saw him.
-
-His entire posture changed.
-
-Then he was moving.
+Leo saw him, his entire posture changed, and then he was moving.
 
 Taiga barely got the suitcase turned before Leo reached him.
 
@@ -1904,17 +1594,7 @@ Taiga barely got the suitcase turned before Leo reached him.
 
 That was all Leo managed before pulling him into a hug.
 
-Taiga hugged back.
-
-Hard.
-
-Leo smelled different from Olympus.
-
-Different detergent, maybe.
-
-Something Taiga couldn't identify.
-
-It didn't matter.
+Taiga hugged him back hard. Leo smelled different from Olympus—different detergent, maybe, and something else Taiga couldn't identify. It didn't matter.
 
 Leo pulled back just enough to look at him.
 
@@ -1930,13 +1610,7 @@ Leo pulled back just enough to look at him.
 
 “Of course you were.”
 
-Leo kissed him.
-
-Quick.
-
-Easy.
-
-Like two weeks had been annoying rather than significant.
+Leo kissed him, quick and easy, as if two weeks had been annoying rather than significant.
 
 Taiga smiled anyway.
 
@@ -1952,11 +1626,7 @@ Leo moved aside.
 
 “Okay. Sorry. Papá.”
 
-Manuel stepped forward.
-
-Up close, he was even more imposing.
-
-Broad shoulders. Thick arms. The kind of build that made Taiga instinctively straighten before the expression on the man's face made the reaction feel ridiculous.
+Manuel stepped forward. Up close, he was even more imposing, all broad shoulders and thick arms, the kind of build that made Taiga instinctively straighten before the expression on the man's face made the reaction feel ridiculous.
 
 Manuel smiled warmly and held out a hand.
 
@@ -1974,11 +1644,7 @@ Taiga continued before he could lose the sentence.
 
 “Gracias por venir a buscarme.”
 
-Manuel answered immediately.
-
-Too quickly.
-
-Taiga caught *nada* and possibly *bienvenido*.
+Manuel answered immediately and far too quickly. Taiga caught *nada* and possibly *bienvenido*.
 
 He looked at Leo.
 
@@ -2064,13 +1730,7 @@ Taiga hit him in the arm.
 
 ---
 
-Outside, the air changed instantly.
-
-Warm.
-
-Heavy.
-
-Not unbearable, but different enough that Taiga felt it on his skin before they'd reached the parking area.
+Outside, the air changed instantly. It was warm and heavy, not unbearable but different enough that Taiga felt it on his skin before they'd reached the parking area.
 
 Leo noticed.
 
@@ -2120,19 +1780,7 @@ Taiga looked out through the window as they pulled away.
 
 The airport disappeared behind them.
 
-For the first few minutes Leo talked almost continuously.
-
-Not about anything important.
-
-The flight.
-
-Whether Taiga had eaten.
-
-Whether he was tired.
-
-Whether he wanted to stop somewhere.
-
-Whether the air-conditioning was too cold.
+For the first few minutes Leo talked almost continuously, though not about anything important: the flight, whether Taiga had eaten, whether he was tired, whether he wanted to stop somewhere, whether the air-conditioning was too cold.
 
 Taiga finally turned.
 
@@ -2204,41 +1852,13 @@ For a while he stopped asking questions.
 
 He just watched.
 
-The landscape around the airport gave way gradually rather than all at once. Wider roads. Traffic thickening. Buildings multiplying. Signs Taiga could sometimes read before they disappeared behind them.
-
-Spanish everywhere now.
-
-Not Spanish in a notebook.
-
-Not Spanish framed inside Leo's phone.
-
-Billboards.
-
-Storefronts.
-
-Radio.
-
-Two men arguing beside a car at a light.
-
-A woman speaking through an open window.
-
-Manuel answering a phone call through the car speakers before apparently deciding the conversation required more volume than technology could provide.
+The landscape around the airport gave way gradually rather than all at once as the roads widened, traffic thickened and buildings multiplied. Taiga could sometimes read a sign before it disappeared behind them, but Spanish was everywhere now rather than contained in a notebook or framed inside Leo's phone: billboards, storefronts, the radio, two men arguing beside a car at a light, a woman speaking through an open window. Manuel answered a phone call through the car speakers before apparently deciding the conversation required more volume than technology could provide.
 
 Leo answered something from the back seat.
 
 Another voice came through.
 
-Taiga caught *Julio*.
-
-Again.
-
-Different here.
-
-At Olympus, Julio had been something printed on a class list.
-
-A technical fact.
-
-Here it seemed to reach for Leo from every direction.
+Taiga caught *Julio* again, but it sounded different here. At Olympus, Julio had been something printed on a class list, a technical fact about Leo. Here the name seemed to reach for him from every direction.
 
 Leo answered it without hesitation.
 
@@ -2260,13 +1880,7 @@ Traffic slowed.
 
 Motorcycles found gaps that Taiga was fairly certain were not actually gaps.
 
-Leo pointed things out without turning the drive into a tour.
-
-A road he knew.
-
-A place he and Enzo used to go after school.
-
-A turn they weren't taking because, according to Manuel, only an idiot would take it at this hour.
+Leo pointed things out without turning the drive into a tour: a road he knew, a place he and Enzo used to go after school, a turn they weren't taking because, according to Manuel, only an idiot would take it at this hour.
 
 Manuel objected to Leo's translation.
 
@@ -2278,87 +1892,13 @@ Leo revised.
 
 “He's a specific man.”
 
-Later, buildings began spreading farther apart again.
+Later, the buildings began spreading farther apart again as the dense city loosened around them. The sun dropped lower, warming the light through the windows.
 
-The dense city loosened.
+Taiga stopped trying to understand every Spanish sentence, and that helped. Sometimes he caught something and sometimes he didn't; Leo translated when it mattered and let the conversation pass when it didn't. Taiga was starting to understand that the more useful skill might not be understanding everything, but understanding enough to know what mattered.
 
-The sun dropped lower.
+They passed through another stretch of traffic and continued farther west, where the roads changed and the buildings changed with them. Leo talked less now, not because he was tired but because Taiga could see him recognizing things—a shop, a wall, a junction, people. His attention kept moving toward the windows before returning to Taiga. Home was getting closer, and Taiga could feel that too even though, for him, the sensation was the opposite of recognition.
 
-The light through the windows turned warmer.
-
-Taiga stopped trying to understand every Spanish sentence.
-
-That helped.
-
-Sometimes he caught something.
-
-Sometimes he didn't.
-
-Leo translated when it mattered.
-
-When it didn't, he let the conversation pass.
-
-Taiga was starting to understand that this might be the more useful skill.
-
-Not understanding everything.
-
-Understanding enough to know whether everything mattered.
-
-They passed through another stretch of traffic, then farther west.
-
-The roads changed.
-
-The buildings changed with them.
-
-Leo talked less now.
-
-Not because he was tired.
-
-Taiga could see him recognizing things.
-
-A shop.
-
-A wall.
-
-A junction.
-
-People.
-
-His attention kept moving toward the windows before returning to Taiga.
-
-Home getting closer.
-
-Taiga felt it too.
-
-Not recognition.
-
-The opposite.
-
-For months, almost everything he'd known about Leo before Olympus had existed as information.
-
-Dominican.
-
-Santo Domingo.
-
-Family.
-
-School with Enzo.
-
-Football.
-
-Julio.
-
-Pieces.
-
-Now there were roads attached to them.
-
-Heat.
-
-Noise.
-
-Distance.
-
-Places Leo didn't need directions to.
+For months, almost everything Taiga had known about Leo before Olympus had existed as information: Dominican, Santo Domingo, family, school with Enzo, football, Julio. Separate pieces. Now those pieces had roads attached to them, along with heat, noise, distance and places Leo didn't need directions to find.
 
 The car turned again.
 
@@ -2398,39 +1938,9 @@ Taiga looked at him.
 
 “I'm fine.”
 
-Leo studied him for half a second.
+Leo studied him for half a second, then nodded without offering reassurance. His knee simply pressed against Taiga's for a moment.
 
-Then nodded.
-
-No reassurance.
-
-Just his knee pressing briefly against Taiga's.
-
-The car turned into a quieter street.
-
-Taiga looked through the windshield.
-
-Houses.
-
-Walls.
-
-Gates.
-
-Trees throwing long shadows across the road.
-
-A few people outside.
-
-Somebody sitting on a plastic chair near an open doorway.
-
-A kid with a ball.
-
-Music somewhere Taiga couldn't place.
-
-Manuel slowed.
-
-Leo sat forward.
-
-Something changed in his face.
+The car turned into a quieter street, and Taiga looked through the windshield at houses behind walls and gates, trees throwing long shadows across the road, a few people outside, somebody sitting on a plastic chair near an open doorway, a kid with a ball, music coming from somewhere he couldn't place. Manuel slowed. Leo sat forward, and something changed in his face.
 
 Leo leaned between the front seats and pointed ahead.
 
