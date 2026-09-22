@@ -1027,27 +1027,7 @@ Taiga frowned.
 
 “Of course you did.”
 
-Caleb opened the door.
-
-Then stopped.
-
-“Two weeks?”
-
-Taiga stared.
-
-“What?”
-
-“Until Leo.”
-
-Taiga narrowed his eyes.
-
-“Yeah.”
-
-Caleb nodded once.
-
-“Good.”
-
-Then he left.
+Caleb opened the door and left.
 
 Taiga stood in the doorway long enough to hear Caleb's suitcase wheels disappear down the hall.
 
@@ -1059,11 +1039,7 @@ Quiet.
 
 His phone buzzed.
 
-Leo.
-
 **Leo:** room?
-
-Taiga:
 
 **Taiga:** yes
 
