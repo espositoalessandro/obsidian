@@ -1080,7 +1080,7 @@ Leo saw Taiga. His expression brightened.
 
 “You're failing.”
 
-Leo laughed and moved to his locker. They moved into the film room. Mercer put the lineup on screen. Mendez starting left. Rosario central. Brennan in midfield. Pierce in goal. Bennett bench. Akatora bench. Nothing changed. Still, seeing his surname under **SUBSTITUTES** made his stomach drop. Mercer spoke for fifteen minutes. Press triggers. Set pieces. Westlake transition.
+Leo laughed and moved to his locker. They moved into the film room. Mercer put the lineup on screen. Mendez starting left. Rosario central. Brennan in midfield. Pierce in goal. Bennett bench. Akatora bench. Nothing changed. Still, seeing his surname under **SUBSTITUTES** made his stomach drop. Mercer spoke for fifteen minutes. When to chase. Set pieces. What Westlake did the moment Olympus lost the ball.
 
 Then:
 
