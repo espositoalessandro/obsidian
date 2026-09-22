@@ -218,7 +218,7 @@ Taiga liked Dani a little more than he wanted to admit.
 
 Before anybody could continue, a boy ran across the courtyard from the direction of the stairs and went straight to Leo.
 
-“Julio!”
+“Leo!”
 
 Leo turned in time to catch him around the shoulders.
 
@@ -650,7 +650,7 @@ Taiga knew what he meant.
 
 “Yeah.”
 
-A voice rose from downstairs.
+Carmen’s voice rose from downstairs.
 
 “Julio! Taiga!”
 
@@ -1401,7 +1401,7 @@ Leo opened one eye.
 
 “That proves nothing.”
 
-A cupboard closed somewhere in the hallway. Someone called for Julio from outside. Another voice answered before Leo could.
+A cupboard closed somewhere in the hallway. Someone called for Leo from outside. Another voice answered before he could.
 
 Taiga looked at the ceiling.
 
@@ -1493,7 +1493,7 @@ At one point Carmen asked him to carry a folded table from one side of the patio
 
 Taiga watched all of it.
 
-Before he finished eating, three different voices had called “Julio” from three different parts of the property. Leo answered every one without looking particularly surprised.
+Before he finished eating, Dani had called “Leo” from the kitchen, Ramón had called the same name from upstairs, and Carmen’s “Julio” had come from the patio. Leo answered all three without looking particularly surprised.
 
 Taiga finished eating.
 
@@ -1711,7 +1711,7 @@ It was not much of a field. More of an open hard-packed space beside a small cou
 
 One recognized him first.
 
-“Julio!”
+“Leo!”
 
 Leo raised a hand.
 
@@ -2027,7 +2027,7 @@ Antonio looked back.
 
 Antonio said something.
 
-Taiga caught *Julio* and *mañana*.
+Taiga caught Leo’s name and *mañana*.
 
 Leo translated from across the table.
 
@@ -2095,7 +2095,7 @@ Ramón brought in folded chairs and claimed there had been none available until 
 
 The compound became noisy again, but it no longer sounded like one continuous wall.
 
-Taiga could separate pieces now. Ramón was telling something near the patio table while Carmen called instructions from one doorway to another. Dani switched into English when she wanted to tell Taiga something directly, and Antonio could apparently say Julio’s name from any point on the property and expect an answer. Isa crossed through with a stack of plates, Mercedes remained in the middle of everything without looking remotely hurried, and Leo moved between them all.
+Taiga could separate pieces now. Ramón was telling something near the patio table while Carmen called instructions from one doorway to another. Dani switched into English when she wanted to tell Taiga something directly, and Antonio could apparently say Leo’s name from any point on the property and expect an answer. Isa crossed through with a stack of plates, Mercedes remained in the middle of everything without looking remotely hurried, and Leo moved between them all.
 
 At one point Carmen called him to hold something while Manuel adjusted a folding table. Thirty seconds later Dani asked where a charger was. Antonio wanted him to see whatever he had been explaining earlier. Ramón needed help moving chairs.
 
