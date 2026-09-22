@@ -222,7 +222,7 @@ Northbridge had changed one thing. Mercer put the new clip on screen. Their righ
 
 Enough.
 
-“Same shape,” Mercer said. “Different jump.”
+“Same trap,” Mercer said. “Different first move.”
 
 He moved two magnets.
 
@@ -242,7 +242,7 @@ He looked toward Enzo.
 
 Enzo nodded. Then Leo.
 
-“Ten. Stay available behind their midfield. They’re going to close you from the blind side if you stand still.”
+“Mendez. Stay where you can turn behind their midfield. If you stand still, they'll close you before you see them.”
 
 Leo nodded. Mercer continued through set pieces—defensive marks, corners, second balls. Northbridge liked long throws. Scott complained quietly. Mercer heard.
 
@@ -312,7 +312,7 @@ Gav played through. Leo checked over one shoulder. Turned. Enzo ran behind. Leo 
 Corner came in. Gav got his head to it. Over. He slapped both hands together once while jogging back. At twenty-two, Northbridge nearly scored. Long throw. Of course.
 
 Ball into the box. Header. Second ball. Shot through bodies. Scott dropped late and pushed it around the post. He stayed on the ground for half a second.
-Then stood. Enzo ran over and hit the back of his head. Scott shoved him away. Corner. Cleared. At twenty-eight, Olympus found the weak side. Finally. Leo dropped deeper.
+Then stood. Enzo ran over and hit the back of his head. Scott shoved him away. Corner. Cleared. At twenty-eight, Olympus finally moved Northbridge far enough to open the other side. Leo came deeper.
 Northbridge followed. Aaron received. Enzo stayed wide. Pass. One touch. Inside again. Leo. Switch. Right winger into space. Cross. Striker hit it first time. Keeper saved. The rebound went wide.
 Taiga exhaled through his nose. That was the shape. Northbridge knew it too. They adjusted. Their left midfielder stopped collapsing as far. The next switch died before it reached the wing.
 
@@ -348,7 +348,7 @@ He looked at Aaron.
 
 Then Leo.
 
-“Their six is following you too far.”
+“Their deepest midfielder is following you too far.”
 
 Leo nodded.
 
@@ -366,7 +366,7 @@ He looked at the room.
 
 An assistant coach added:
 
-“Second balls. We’ve lost six.”
+“Loose balls after the first clearance. We’ve lost six.”
 
 Gav nodded.
 
@@ -396,7 +396,7 @@ Taiga stood. Evan followed. Two others too. He pulled the training top over his 
 
 ---
 
-Second half. Olympus started better. Leo moved left. Northbridge’s six followed. Aaron carried into the space twice. First ended in a blocked cross. Second ended with Leo shooting from the edge.
+Second half. Olympus started better. Leo moved left. Northbridge's midfielder followed. Aaron carried into the space twice. First ended in a blocked cross. Second ended with Leo shooting from the edge.
 
 Wide. At fifty-one, Northbridge got another long throw. Scott caught it. He immediately turned toward the bench. The assistant coach lifted both hands. Scott nodded once. Point made.
 Taiga laughed while jogging. 
@@ -460,7 +460,7 @@ Taiga reached the box. Cross. Blocked. Corner. Leo jogged past him.
 
 “Again.”
 
-Taiga nodded. Corner came to nothing. At sixty-two, Northbridge tried the trap again. Taiga bounced inside. Ran. No return. Aaron went central instead. Leo had moved left and dragged the six with him.
+Taiga nodded. Corner came to nothing. At sixty-two, Northbridge tried the trap again. Taiga played inside. Ran. No return. Aaron went central instead. Leo had moved left and dragged their midfielder with him.
 
 Gav stepped into midfield. Pass. Turn. Shot. Keeper held. Taiga jogged back. At sixty-five, the same picture appeared. Gav to Aaron. Aaron to Taiga. Fourteen stepped. Taiga played inside to Leo.
 
@@ -508,7 +508,7 @@ Taiga rubbed his hip.
 
 “Fuck off.”
 
-They pushed up. At seventy-five, Leo dropped beside Gav to receive. Northbridge’s six followed again. Taiga saw the space before Leo turned. He started. Leo turned. Ball came diagonally.
+They pushed up. At seventy-five, Leo came back toward Gav to receive. Northbridge's midfielder followed again. Taiga saw the gap before Leo turned. He started. Leo turned. Ball came diagonally.
 Taiga took it in stride. Fourteen was half a step late. Taiga drove toward the box. Center-back moved across. Striker near post. Leo arriving at the edge. Taiga shaped to cross.
 Fourteen stretched. Taiga cut the ball backward instead. Leo met it. First time. Low. Inside the far post. 
 Two-one. 
