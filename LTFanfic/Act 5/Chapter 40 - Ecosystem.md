@@ -888,7 +888,7 @@ Yes, he had scored.
 
 No, he was not better than Leo at everything.
 
-“Yes,” Leo said in English, “thank you.”
+“Yes,” Leo said, “thank you.”
 
 “I said not everything.”
 
@@ -1022,7 +1022,7 @@ Then he looked at Taiga a little more carefully.
 
 Taiga considered lying, not because the truth was bad but because the truth required more than one answer.
 
-“I understood maybe thirty percent of dinner.”
+“I understood maybe ten percent of dinner.”
 
 Leo nodded.
 
@@ -1064,7 +1064,7 @@ Leo waited.
 
 Taiga turned his head.
 
-“Not bad.”
+“Not bad, though.”
 
 That was enough.
 
@@ -1114,7 +1114,178 @@ Leo took the bed.
 
 Within ten minutes, Leo had shifted close enough that the distinction barely mattered.
 
-Taiga fell asleep with Leo’s hand resting against his stomach and somebody laughing somewhere beyond the window.
+Leo rolled on his side and looked at Taiga, a smile slowly appearing. Taiga was resting on his back. He saw Leo and turned his head toward him.
+
+"What?"
+
+"What?"
+
+"You're doing the smile."
+
+"I am."
+
+"It's the corny smile."
+
+"Now I have a corny smile?"
+
+"Go on."
+
+Leo laughed,
+
+"You ruined the moment."
+
+Taiga laughed, then after a couple of seconds he turned sideways facing Leo and kissed him. Then he said again, more gently
+
+"So, what?"
+
+Leo kept smiling.
+
+"I'm really happy you're here."
+
+Taiga smiled and caressed the side of his face.
+Then he kicked his blanket away and moved over Leo's bed.
+Leo put on a surprised face, followed instantly by a smile, and let him under his blanket. 
+Taiga laid on his back and put an arm under Leo's head and wrapped him, making his head rest on Taiga's chest.
+He start caressing his hair.
+After a minute he said,
+
+"I'm really happy as well."
+
+Leo raised his head and looked at him, smiling. Taiga pulled him in and kissed him.
+Not briefly.
+Properly.
+He held Leo's face with both his hands while Leo's hand caressed Taiga's chest. 
+
+The mood slowly changed. 
+Affection turned into desire.
+Their hands held each other more firmly.
+They start sucking each other's lips passionately. 
+Eventually, a tongue slipped in. Leo's eyes widened in surprise, but he kissed back. 
+
+Then his hand started adventuring downward from Taiga's collar to his chest. Then on his abdomen. Then lower. Until it reached the hem of Taiga's shorts.
+
+Taiga looked him straight into his eyes, Leo stared back. 
+There was no need to say anything else.
+
+Leo groped Taiga's crotch, making him softly grunt. Then he grasped his shaft, slowly starting to massage it. 
+Taiga's gaze was locked into Leo's. 
+Then, Leo smiled.
+It was not a cute smile.
+
+It was a very naughty smile.
+
+"Tell me to stop."
+
+"Wha-"
+
+Taiga didn't have the time to realize what he meant that Leo's head started moving downward. 
+His eyes didn't leave Taiga's as he slowly retracted his body. His hand still firmly holding Taiga's dick.
+
+Then Taiga realized.
+
+"Oh."
+
+He didn't add anything else though.
+
+Leo's face reached his crotch. He then rested his face on it, gently kissing the shaft while keeping stroking it with his hand. 
+Then Leo slipped the other hand inside Taiga's shorts from the lower hem. He started caressing his inner thigh, then slowly proceed until he reached the underwear's hem.
+He slipped under those as well, finally reaching Taiga's dick and stroked it even stronger.
+
+Taiga let go a muffled gasp, as he felt a jolt of pleasure exploding in his stomach.
+
+Leo continued like this for a couple of minutes, his face never leaving the crotch. Then he gently pulled Taiga's dick out from under both shorts and underwear, using the other free hand to stretch both hems on the side.
+He kept moving his hand up and down, and started kissing the base of Taiga's dick. Then the crotch. Then he gently licked one of the balls. 
+Taiga's breath started getting heavier. 
+
+Leo looked up at him expectantly. Taiga understood he was asking for permission to continue.
+He smiled.
+
+"Go on"
+
+Leo smiled as well, then he pulled down both Taiga's shorts and pants and put his cock straight into his mouth.
+Taiga's brain exploded for the intensity of the feeling. 
+
+"Ohhh, fuck."
+
+Leo started moving his head up and down, slowly, while his hand followed the same movement. 
+Once he had lubricated it enough, his hand left Taiga's dick and he started going deeper with his mouth.
+Taiga raised his head and looked at him. He could go effortless just over half of his dick. He didn't expect that.
+He continued going like this for a couple of minutes, slowly increasing his speed.
+Then he gripped Taiga's hips and pushed his head down. 
+A half. 
+Three quarter. 
+
+Then his face reached Taiga's pube. 
+
+Taiga slammed his head on the pillow, squeezing his eyes and trying with all his might not to groan too loudly. His hand instinctively going over Leo's head, gently pressing it down.
+After a couple of seconds, Leo let it go and ghasped for air. Then he continued stroking his dick with his hands, while his mouth went back to lick the base and the crotch. Meanwhile, his eyes went to Taiga. Again, expectantly.
+
+Taiga recovered and managed to say only
+
+"H-Holy shit Leo..."
+
+That appeared to be enough for him. He smiled and went back on gobbling Taiga's dick. This time, faster and more vigorously. 
+
+He then pulled his pants down and start masturbating as well.
+
+Taiga could feel his climax building up.
+
+"Shit Leo, I'm getting close."
+
+In response, Leo deep throated once again, stroking his dick more vigorously in the meantime.
+Then he took one of Taiga's hands and put it on his head and went back to suck his dick with a steady rythm.
+Taiga guided the pace with his hand, until he said
+
+"Leo w-wait, I'm coming."
+
+He tried to pull Leo's head away but Leo didn't move.
+
+"F-Fuck-"
+
+He came straight inside his mouth. Leo grabbed Taiga's hip with one hand, locking himself, in while keeping jerking off with the other.
+
+The world started swirling as Taiga lost himself in the intensity of the climax. 
+Leo kept swallowing everything, until he produced a muffled grunt and came as well.
+
+After a couple of seconds, Taiga opened his eyes. 
+Leo slowly released his cock from his mouth, making sure nothing was left. 
+Then, he raised his head and gulped down.
+
+Taiga still didn't believe what he had just seen. He said between his breaths
+
+"Jesus Christ, Leo."
+
+Leo wiped his mouth and smiled.
+
+"What?"
+
+"That was... Fuck. That was insane."
+
+Leo grabbed a towel and cleaned his hand from his own cum. Then he laid next to Taiga.
+
+"Sorry, was that too much?"
+
+Taiga turned his head,
+
+"You were insanely amazing."
+
+Leo smiled shyly. 
+
+"You have no idea how long have I been waiting to do this."
+
+Taiga laughed.
+
+"Yeah I could tell you were pretty eager."
+
+Leo chuckled and tried to kiss him. Taiga put a finger on his mouth and stopped him.
+
+"Stop. Water first. Kiss after."
+
+"Ugh. Fiiine."
+
+Leo grabbed his bottle and rinsed his mouth.
+
+
 
 ---
 
