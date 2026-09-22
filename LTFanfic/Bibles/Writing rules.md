@@ -297,6 +297,26 @@ Let people:
 - respond specifically to what was said;
 - occasionally let a face pass without narration.
 
+### Caleb / Taiga response motif
+
+One recurring exchange is intentionally reserved for Caleb and Taiga.
+
+Early version:
+- Caleb gives a minimal answer;
+- Taiga waits for more;
+- Taiga asks some version of "That's it?";
+- Caleb genuinely does not understand what else is expected.
+
+As their friendship develops, Caleb should learn the pattern and pre-empt it:
+- "You want me to say something else."
+- "You want me to ask something else?"
+
+Taiga's default answer can remain **no** for a long time.
+
+A later **yes** should be treated as an emotional payoff: Taiga admitting that he actually wants reassurance, elaboration or company without being forced to formulate the entire request first.
+
+Do not casually give this same exchange structure to Leo, Keitaro, Kieran or other characters. If they underreact, evade or challenge Taiga, let them do it in their own voice.
+
 ---
 
 # 11. Verbal Quirks Are Seasoning
