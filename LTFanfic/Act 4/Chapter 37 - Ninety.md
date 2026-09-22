@@ -445,11 +445,23 @@ Missed.
 
 The ball rolled through everyone.
 
-Taiga was at the far post.
+Taiga was there.
 
-Six yards.
+Far post. Six yards.
 
-He hit it first time.
+The keeper was moving across. The opening was there.
+
+For half a second, Leo's voice came back.
+
+*Maybe you shoot next time.*
+
+Then, sharper:
+
+*Shoot.*
+
+No extra touch. No square pass.
+
+Taiga hit it first time.
 
 Net. For one second, nothing made sense. The ball was inside. Then the blue corner behind the opposite goal exploded. Taiga turned. Ran.
 
