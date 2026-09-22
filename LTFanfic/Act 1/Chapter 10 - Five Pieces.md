@@ -482,11 +482,13 @@ Taiga put his bag down. The red shirt hung from his closet door. Caleb looked at
 
 Taiga waited. Caleb continued ironing.
 
-“That's it?”
+“You want me to say something else.”
 
-“What else?”
+Taiga frowned.
 
-“Nothing important.”
+“No.”
+
+“Okay.”
 
 Taiga changed clothes. Five minutes later Maya called. Caleb answered on his laptop. She appeared from what looked like a library table.
 
