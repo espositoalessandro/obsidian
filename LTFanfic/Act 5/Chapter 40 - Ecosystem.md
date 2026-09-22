@@ -1128,7 +1128,7 @@ Leo waited.
 
 Taiga turned his head.
 
-“Not bad, though. They seem nice people.”
+“Not bad, though. They seem like nice people.”
 
 Leo leaned over and kissed his forehead.
 
@@ -1346,9 +1346,9 @@ Taiga came straight into his mouth.
 
 Leo grabbed Taiga’s hip with one hand, holding himself there while he kept jerking off with the other.
 
-The world seemed to tilt as Taiga lost himself in the intensity of the climax. He laid down his head and closed his eyes.
+The world seemed to tilt as Taiga lost himself in the intensity of the climax. He let his head fall back and closed his eyes.
 
-He could hear a muffled grunt coming from Leo. He had came as well.
+A muffled grunt came from Leo a moment later. He had come too.
 
 A few seconds later, Taiga opened his eyes.
 
@@ -1372,7 +1372,7 @@ Leo grabbed a towel and cleaned the cum from his hand before lying down beside T
 
 Taiga turned his head toward him.
 
-“Your grandma was right apparently.”
+“Your grandma was right, apparently.”
 
 Leo smiled, suddenly almost shy.
 
@@ -1402,11 +1402,11 @@ He swallowed, wiped his mouth with the back of his hand and looked at Taiga.
 
 “You knew what you signed up for.”
 
-Leo laughed, then laid back on his side, looking at Taiga.
+Leo laughed, then rolled back onto his side, looking at Taiga.
 
-"Are you planning on going back to your bed?"
+“Are you planning to go back to your bed?”
 
-"Nope."
+“Nope.”
 
 Taiga made room without pretending not to. Leo settled against him, one arm across his stomach, and Taiga pulled the blanket over both of them.
 
