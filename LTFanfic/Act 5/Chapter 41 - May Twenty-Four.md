@@ -1,6 +1,8 @@
-Taiga woke to sunlight, voices somewhere below and Leo still completely motionless in the bed beside him.
+Taiga woke to sunlight, voices somewhere below and the uncomfortable realization that Leo had managed to occupy more of Taiga’s side than physics should have allowed.
 
-Taiga turned his head.
+One of Leo’s legs was hooked over his. His face was buried against Taiga’s shoulder, and sometime during the night he had stolen enough of the blanket that Taiga’s right foot was cold.
+
+Taiga looked at the ceiling.
 
 “Birthday privilege lasts until midnight tonight.”
 
@@ -14,7 +16,11 @@ Leo made a noise without opening his eyes.
 
 “Also yes.”
 
-“Get up.”
+Taiga tried to move his leg.
+
+Leo tightened his hold.
+
+“Move.”
 
 “No.”
 
@@ -50,7 +56,7 @@ Nothing happened.
 
 “I’m twenty. Respect your elders.”
 
-Taiga reached across the seam and shoved his shoulder.
+Taiga shoved him.
 
 Leo laughed into the pillow.
 
