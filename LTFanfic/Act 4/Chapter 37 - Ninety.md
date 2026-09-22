@@ -29,9 +29,7 @@ Win. That was it. No permutations left. No other scores. No waiting afterward. W
 “So we're actually—”
 
 Mercer restarted the clip. Conversation stopped.
-
 St. Vincent's right-back charged forward. The space behind him opened immediately.
-
 Mercer paused.
 
 “That's the problem.”
@@ -41,7 +39,6 @@ He rewound ten seconds.
 “Again.”
 
 The room watched. Taiga put his phone face-down beneath his chair.
-
 Mercer looked at him.
 
 “If he follows you inside?”
