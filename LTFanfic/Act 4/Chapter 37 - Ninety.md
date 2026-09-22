@@ -750,7 +750,7 @@ Hunter laughed. Natsumi stepped closer and gave Taiga a quick hug before he coul
 
 “Congratulations.”
 
-Taiga stood there for half a second, then hugged her back.
+Taiga stood there for half a second, then hugged him back.
 
 “Thanks.”
 
@@ -778,7 +778,7 @@ Taiga looked at him.
 
 Keitaro pointed at Natsumi.
 
-“She found it.”
+“He found it.”
 
 Natsumi nodded.
 
@@ -878,7 +878,7 @@ Taiga pointed vaguely at all of them.
 
 Yoichi shrugged.
 
-“Blondie told me. I told them.”
+“Sunball told me. I told them.”
 
 Keitaro said, “Then the rest of us did the difficult part.”
 
