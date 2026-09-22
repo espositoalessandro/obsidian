@@ -42,13 +42,13 @@ The room watched. Taiga put his phone face-down beneath his chair. Mercer pointe
 
 Taiga looked up.
 
-“What happens if their fullback steps with you?”
+“What happens if their right-back follows you inside?”
 
-“Aaron gets the outside lane.”
+“Aaron is free outside.”
 
-“And if their winger tracks Aaron?”
+“And if their winger follows Aaron?”
 
-“Gav has the inside pass.”
+“Gav is free inside.”
 
 “Good.”
 
@@ -156,7 +156,7 @@ Enzo pointed after him.
 
 Mercer entered. The room settled. He did not mention Hartwell. Did not mention Pinetree. Did not say championship. He put St. Vincent's shape on the board.
 
-“First fifteen, they press.”
+“First fifteen, they come at you.”
 
 Marker. Arrows.
 
@@ -164,15 +164,15 @@ Marker. Arrows.
 
 He looked at Gav.
 
-“First line breaks, don't force the second.”
+“If we get through the first wave, don't force the next pass.”
 
 Gav nodded.
 
-“Bennett. Their winger comes inside when the fullback jumps. Make him choose.”
+“Bennett. When their right-back charges, the winger comes inside. Make him choose who to follow.”
 
 “Yeah.”
 
-“Rosario, hold width until we establish possession.”
+“Rosario, stay wide until we settle.”
 
 Enzo nodded. Mercer looked at Taiga.
 
@@ -282,7 +282,7 @@ Small nod. Play restarted.
 
 Leo's first touch was a backward pass. His second was a turn. His third went to Taiga. Taiga received near the line. Right-back close. Played Aaron. Thirty seconds later, Leo got it again.
 
-Turned. Passed left. Taiga. This time Taiga played inside to Gav. Leo moved. St. Vincent pressed. Olympus recovered. At sixty, Leo received between lines. Taiga was wide. There were other options.
+Turned. Passed left. Taiga. This time Taiga played inside to Gav. Leo moved. St. Vincent pressed. Olympus recovered. At sixty, Leo received in the gap behind St. Vincent's midfield. Taiga was wide. There were other options.
 
 Gav behind. Enzo opposite. Striker checking. Leo passed left. Taiga controlled. Right-back square. Taiga looked inside. Leo was available. He gave it to him. Leo returned it first time.
 
@@ -298,9 +298,9 @@ That was all. St. Vincent's right-back closed. Taiga gave the ball to Aaron. Aga
 
 ---
 
-At sixty-five, Leo received with his back to goal. Their six stepped. Taiga held width. Leo turned enough to face left. Pass came. Taiga controlled. Right-back in front.
+At sixty-five, Leo received with his back to goal. Their deepest midfielder stepped with him. Taiga stayed wide. Leo turned enough to face left. Pass came. Taiga controlled. Right-back in front.
 
-Leo moved toward him. Safe option. Easy. Taiga looked at Leo. Leo looked back. Then ran away. Inside. Hard. Their six followed. The right-sided midfielder went with him for two steps.
+Leo moved toward him. Safe option. Easy. Taiga looked at Leo. Leo looked back. Then ran away. Inside. Hard. Their midfielder followed. The right-sided midfielder went with him for two steps.
 
 Space opened around Taiga. Asshole. The right-back stood alone. Taiga pushed the ball forward. The defender backed up. Taiga went again. One touch outside. The right-back turned his hips.
 
@@ -342,7 +342,7 @@ Central midfielder coming. Aaron behind. Gav inside. The space between the two d
 
 Taiga played Gav. Simple. One touch. The ball left. Taiga ran. Forward. Gav switched right. Enzo received. Fullback closed. Enzo played back. Olympus kept it. St. Vincent shifted.
 
-Gav again. Leo checked toward the ball. Their six followed. Gav played Aaron. Left side. Taiga had moved high. Aaron gave it to him. Right-back arrived. Taiga bounced inside to Leo.
+Gav again. Leo checked toward the ball. Their midfielder followed. Gav played Aaron. Left side. Taiga had moved high. Aaron gave it to him. Right-back arrived. Taiga played inside to Leo.
 
 Then ran behind. Leo did not return it. He turned the other way. St. Vincent collapsed. Leo found Enzo on the far side. Enzo took one touch and crossed.
 
