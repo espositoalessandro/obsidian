@@ -1825,8 +1825,6 @@ Leo nudged his shoulder.
 
 “It’s not one or the other.”
 
-“I didn’t say it was.”
-
 “I know.”
 
 They stayed there a little longer without needing to fill the silence.
@@ -2077,19 +2075,17 @@ Leo laughed.
 
 Taiga looked at the kid.
 
-“You understood that?”
+“*You understood that?*”
 
-“No.”
+“*No*.”
 
-“Then stop helping him.”
+“*Then stop helping him*.”
 
 By late afternoon, the property had repopulated.
 
 Manuel returned carrying more bags than seemed necessary and immediately realized one of them belonged in Ramón’s section. Carmen came in behind him with a box Leo tried to inspect before she slapped his hand away.
 
 “*Tomorrow,*” she said.
-
-That word Taiga understood.
 
 Ramón brought in folded chairs and claimed there had been none available until he personally persuaded someone. Isa corrected the number of phone calls involved. Dani came back outside once the food appeared. Another cousin Taiga had not met stopped at the gate to tell Carmen something and stayed twenty minutes.
 
@@ -2132,8 +2128,6 @@ Taiga put it down.
 She nodded.
 
 “*Perfect.*”
-
-Taiga understood that too.
 
 By evening, he knew where the glasses were in Mercedes’s kitchen. When Antonio asked for one, Taiga got it without looking for Leo.
 
