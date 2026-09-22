@@ -424,11 +424,7 @@ Taiga stared at him.
 
 Taiga leaned back in his chair.
 
-“You wanted me to learn Spanish.”
-
-“I do.”
-
-“Then stop being annoying.”
+“You volunteered. Stop laughing.”
 
 “I am helping.”
 
@@ -438,7 +434,7 @@ Taiga leaned back in his chair.
 
 Taiga opened the notebook again.
 
-“Fine. Explain *por* and *para*.”
+“Fine. Since you're here, explain *por* and *para*.”
 
 Leo's confidence disappeared.
 
@@ -510,13 +506,19 @@ Leo looked relieved.
 
 “That makes you a terrible teacher.”
 
-Leo pointed at the camera.
+“I never said I was a teacher.”
 
-“And yet you asked me.”
+“You corrected me thirty seconds ago.”
 
-“I made a mistake.”
+“Pronunciation. I have ears.”
 
-“Probably. But now you're stuck with me.”
+“Useless.”
+
+“Native.”
+
+“Those aren't opposites.”
+
+Leo smiled.
 
 Taiga wrote another note.
 
@@ -548,47 +550,45 @@ Then he smiled.
 
 That one sounded different.
 
-Taiga looked back at the notebook.
+Taiga glanced down at the notebook again and tapped one of the phrases he'd written earlier.
 
-“Now explain why half the letters disappear when you talk.”
+“Say this.”
 
-Leo immediately objected.
-
-“They do not.”
-
-“They fucking do.”
-
-“They're still there.”
-
-“Where?”
-
-“In the word.”
-
-“Not when you say it.”
-
-“Yes, they are.”
-
-Taiga pulled up one of the messages Leo had sent him earlier.
-
-“You said this.”
-
-He read carefully.
+Leo leaned closer to the screen.
 
 “*Para allá.*”
 
-“Yeah.”
+“No. Like you'd actually say it.”
 
-“Then when you said it out loud, it became *pa'llá*.”
+Leo repeated it, quicker this time.
+
+“*Pa'llá.*”
+
+Taiga stared at him.
+
+“What the fuck was that?”
+
+“What?”
+
+“You just deleted half the word.”
 
 Leo laughed.
-
-“That is still *para allá*.”
-
-“No, it isn't. You deleted half of it.”
 
 “I shortened it.”
 
 “You deleted it.”
+
+“It's still *para allá*.”
+
+“No, it isn't. I heard *pa'llá*.”
+
+“That is *para allá*.”
+
+“Your country hates letters.”
+
+“My country does not hate letters.”
+
+“You just murdered three of them.”
 
 “Dominican efficiency.”
 
