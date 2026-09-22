@@ -200,61 +200,7 @@ They argued about it until Leo's flight started boarding.
 
 ---
 
-The Spanish started two days later.
-
-Not because Taiga had planned some romantic surprise.
-
-That would have been stupid. Kinda.
-
-It started because he opened the itinerary Leo had sent him, looked again at the address, remembered the conversation in Room 317, and arrived at the same practical problem he'd already identified there.
-
-Leo's family mostly didn't speak English.
-
-Taiga was going to be living with them.
-
-For weeks.
-
-He was not spending weeks standing beside Leo waiting for him to translate every fucking sentence.
-
-So he started with the obvious things.
-
-Greetings.
-
-Numbers.
-
-Time.
-
-Food.
-
-Directions.
-
-Family.
-
-Common verbs.
-
-He found a beginner course, ignored the parts that wanted him to earn points for cartoon achievements, and started writing things down instead.
-
-The grammar was better.
-
-Grammar had rules.
-
-Rules could be learned.
-
-Pronunciation was irritating, but manageable when the person speaking sounded like the recording.
-
-Listening was worse.
-
-The course would teach him a sentence, let him replay it at exactly the same speed four times, then congratulate him for identifying a word he'd been staring at on-screen.
-
-That felt dishonest.
-
-By Monday, he had several pages of vocabulary and enough basic sentence structure to understand why half the sentences he'd memorized two days earlier worked.
-
-By Tuesday, he had discovered *por* and *para*.
-
-By Tuesday night, he hated both.
-
-Leo discovered the whole thing by accident.
+By Tuesday evening, Leo was lying sideways on his bed with his phone propped against something off-screen when he noticed Taiga wasn't looking at him.
 
 “What are you doing?”
 
@@ -264,9 +210,9 @@ Taiga looked up from his notebook.
 
 Leo narrowed his eyes.
 
-They were on video again. Leo was lying sideways on his bed, phone propped against something off-screen. Taiga had only seen fragments of the room so far. A wall. Part of a desk. A shelf. The edge of what looked like an old soccer photograph.
+Taiga had only seen fragments of Leo's room so far. A wall. Part of a desk. A shelf. The edge of what looked like an old soccer photograph.
 
-He had respected Taiga's refusal to show his own room by becoming increasingly aggressive about showing pieces of his instead.
+Leo had respected Taiga's refusal to show his own room by becoming increasingly aggressive about showing pieces of his instead.
 
 “What are you writing?”
 
@@ -324,7 +270,63 @@ Leo's eyes widened.
 
 “It's not a big deal.”
 
-Leo stared at him for another second.
+It hadn't been supposed to be.
+
+Not some romantic surprise.
+
+That would have been stupid.
+
+Kinda.
+
+Taiga had opened the itinerary Leo sent him, looked at the address again, remembered the conversation in Room 317, and arrived at the same practical problem he'd already identified there.
+
+Leo's family mostly didn't speak English.
+
+Taiga was going to be living with them.
+
+For weeks.
+
+He was not spending weeks standing beside Leo waiting for him to translate every fucking sentence.
+
+So he'd found a beginner course and started with the obvious things.
+
+Greetings.
+
+Numbers.
+
+Time.
+
+Food.
+
+Directions.
+
+Family.
+
+Common verbs.
+
+He ignored the parts that wanted him to earn points for cartoon achievements and wrote things down instead.
+
+The grammar was better.
+
+Grammar had rules.
+
+Rules could be learned.
+
+Pronunciation was irritating, but manageable when the person speaking sounded like the recording.
+
+Listening was worse.
+
+The course would teach him a sentence, let him replay it at exactly the same speed four times, then congratulate him for identifying a word he'd been staring at on-screen.
+
+That felt dishonest.
+
+By now he had several pages of vocabulary and enough basic sentence structure to understand why some of the phrases he'd memorized actually worked.
+
+He had also discovered *por* and *para*.
+
+He hated both.
+
+Leo was still staring at him.
 
 Then his expression softened into something worse than the grin.
 
