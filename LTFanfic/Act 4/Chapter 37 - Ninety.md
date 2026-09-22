@@ -567,7 +567,13 @@ Taiga stared at him.
 
 Yoichi jerked his head toward the field.
 
-“Blondie told me this one mattered. I handled the rest.”
+“Blondie told me this one mattered.”
+
+Taiga stared at him.
+
+“You told everyone.”
+
+“Obviously.”
 
 Of course he did.
 
@@ -768,17 +774,23 @@ Taiga looked at him.
 
 “Nearby where?”
 
-“Hotel close to Olympus,” Hunter said. “Yoichi found it.”
+“Hotel close to Olympus,” Hunter said.
 
-Yoichi immediately pointed at himself.
+Keitaro pointed at Natsumi.
 
-“Because apparently I'm the only competent person here.”
+“She found it.”
 
-Natsumi said, “You booked the wrong room type first.”
+Natsumi nodded.
 
-“That was the website's fault.”
+“Keitaro handled the train. I handled the hotel.”
 
-“It was not.”
+Yoichi spread both hands.
+
+“I contributed the important information.”
+
+“You sent one message,” Natsumi said.
+
+“It was a very important message.”
 
 Taiga looked between them.
 
@@ -864,9 +876,15 @@ Taiga pointed vaguely at all of them.
 
 “This.”
 
-Yoichi shrugged like he had arranged coffee instead of an interstate trip.
+Yoichi shrugged.
 
-“Blondie gave me the information. I did the easy part.”
+“Blondie told me. I told them.”
+
+Keitaro said, “Then the rest of us did the difficult part.”
+
+Yoichi pointed at him.
+
+“Exactly. Teamwork.”
 
 Taiga looked past him toward Leo, who was waiting near the bus with one hand on the rail.
 
