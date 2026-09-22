@@ -734,9 +734,99 @@ Taiga understood that too.
 
 Leo wisely declined to translate that one.
 
-Across the table, Manuel asked Leo something about Olympus. Before Leo could finish answering, Ramón cut in with a comment that sent Carmen straight back into the argument they had apparently been having before Taiga understood any of it.
+Carmen pointed upstairs with her fork and asked Taiga something he did not catch.
 
-Taiga caught almost none of the words. What he could follow were the reactions: Carmen corrected Ramón twice, Ramón answered both times and kept going, and Mercedes watched the exchange with the expression of somebody who had seen it before.
+He looked at Leo.
+
+“She wants to know if you found everything you need in the room.”
+
+Taiga nodded at Carmen.
+
+“*Yes. Thank you.*”
+
+Then he looked at Leo.
+
+“Tell her the bed is terrible.”
+
+“No.”
+
+Carmen looked between them.
+
+“*What?*”
+
+“Nothing,” Leo said.
+
+Taiga smiled into his plate.
+
+Across the table, Manuel waited until Taiga looked up.
+
+“*You like Olympus?*”
+
+The sentence was slow enough that Taiga got it.
+
+“*Yes. Very much.*”
+
+Manuel nodded, then pointed at Leo.
+
+“*And him? He talks this much there too?*”
+
+Taiga caught enough of that one to answer without help.
+
+“*More.*”
+
+Manuel laughed.
+
+Leo stared at Taiga.
+
+“Traitor.”
+
+Isa leaned slightly toward Taiga.
+
+“*First time here?*”
+
+“Sí.”
+
+She gestured toward the open courtyard.
+
+“*The heat okay?*”
+
+Taiga considered.
+
+“*For now.*”
+
+Isa smiled.
+
+“*Wait until tomorrow.*”
+
+That sounded enough like a threat that Taiga looked at Leo.
+
+“She’s right,” Leo said.
+
+Ramón caught the word *Olympus* from across the table and asked Taiga something too quickly.
+
+Taiga looked at Leo.
+
+“He wants to know if the final was really as dramatic as I made it sound.”
+
+Taiga looked at Ramón.
+
+“Worse.”
+
+Leo translated.
+
+Ramón slapped the table once in approval and immediately started asking follow-up questions, most of which Taiga only caught after Leo shortened them.
+
+Yes, they had won.
+
+Yes, Taiga had scored.
+
+No, Leo had not exaggerated everything.
+
+“Thank you,” Leo said.
+
+“I said not everything.”
+
+Before Taiga could explain further, Ramón veered into a story of his own. Carmen corrected him twice; Ramón answered both times and kept going, and Mercedes watched the exchange with the expression of somebody who had seen it before.
 
 Then Dani leaned toward Taiga.
 
@@ -876,15 +966,15 @@ Taiga made a decision then: Doña Mercedes was dangerous, and he liked her.
 
 The conversation moved on before he fully recovered.
 
-Ramón wanted to know about soccer. That much Taiga understood because *fútbol* solved several problems at once. Manuel asked something about the championship. Antonio wanted to know whether Taiga had really scored in the final, which meant Leo had apparently been talking about him.
+Antonio, who had apparently been listening to more of the football conversation than Taiga realized, asked something while pointing between him and Leo.
 
-Taiga answered where he could.
+Leo translated.
 
-Yes, they had won.
+“He wants to know if you’re better than me at everything.”
 
-Yes, he had scored.
+Taiga looked at Antonio.
 
-No, he was not better than Leo at everything.
+“No.”
 
 “Yes,” Leo said, “thank you.”
 
@@ -892,7 +982,7 @@ No, he was not better than Leo at everything.
 
 “You could have stopped earlier.”
 
-Ramón started another story, this one involving football.
+That was enough to send Ramón back into football.
 
 Leo sighed before the second sentence.
 
@@ -2133,7 +2223,67 @@ By evening, he knew where the glasses were in Mercedes’s kitchen. When Antonio
 
 Dinner was smaller and less organized than the night before. People ate at different times because half the food was apparently preparation for Sunday and therefore forbidden. Taiga did not ask why there were already so many chairs.
 
-He had learned enough to stop asking. Eventually, the patio settled into something slower without ever becoming empty.
+He had learned enough to stop asking.
+
+Manuel sat across from him for part of it and asked where Leo had taken him that morning.
+
+Taiga caught *dónde* and looked at Leo anyway.
+
+“He’s asking where we went.”
+
+Taiga answered in Spanish where he could.
+
+“Colmado. Empanadas. Fútbol.”
+
+Manuel understood the list and looked at Leo.
+
+Then he asked something else.
+
+Taiga caught *empanadas* and *buenas*.
+
+“No,” Taiga said immediately.
+
+Manuel laughed.
+
+Leo pointed at him.
+
+“See? Now you’re insulting my culture.”
+
+“Your father agrees with me.”
+
+“He has bad taste too.”
+
+Ramón heard enough from the other end of the table to insert himself. He named another place, then launched into directions Taiga lost before the second turn.
+
+Isa interrupted with a shorter sentence.
+
+Taiga looked at Leo.
+
+“Tía says Tío’s place closed two years ago.”
+
+Ramón objected.
+
+Carmen called from the kitchen that it had been three.
+
+Taiga looked at Ramón.
+
+“You’re very useful.”
+
+Leo translated.
+
+Ramón put a hand over his chest like Taiga had wounded him.
+
+Isa laughed.
+
+A little later Manuel asked if Taiga had liked the neighborhood.
+
+Taiga understood that one without help.
+
+“Sí. Mucho.”
+
+Manuel nodded once and went back to eating.
+
+Eventually, the patio settled into something slower without ever becoming empty.
 
 Taiga and Leo escaped to the bedroom before anyone could invent another reason for them to stay outside.
 
