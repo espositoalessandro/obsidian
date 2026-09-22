@@ -124,9 +124,9 @@ Leo grinned.
 
 “Also yeah.”
 
-“Julio.”
+Carmen caught the word *mom*, looked at Leo’s face and narrowed her eyes.
 
-Carmen had heard that one.
+“Julio.”
 
 Leo straightened.
 
@@ -336,7 +336,7 @@ Taiga looked at Leo.
 
 “Worse.”
 
-Leo took his backpack from the car and nudged Taiga forward.
+Leo took Taiga’s backpack from the car and nudged him forward.
 
 They crossed the patio.
 
@@ -416,7 +416,7 @@ Leo laughed.
 
 “That too.”
 
-Manuel had already carried the suitcase into Carmen and Manuel’s part of the house. Leo shifted Taiga’s backpack higher on his shoulder and led him through the living room, then toward a staircase Taiga had not noticed from the courtyard.
+Manuel had already disappeared inside with the suitcase. Leo shifted Taiga’s backpack higher on his shoulder and led him through the living room, then toward a staircase Taiga had not noticed from the courtyard.
 
 “You’re upstairs?”
 
@@ -446,7 +446,7 @@ Taiga looked past him.
 
 The room was unmistakably Leo’s even before Taiga knew what half the things in it meant. A framed football photograph hung near the desk, with two medals looped over one corner of a shelf and an old pair of boots pushed beneath the window. Across from them sat a gaming setup that had clearly been assembled over years rather than bought all at once: monitor, headset, controllers, cables, a chair that had survived at least one repair.
 
-Taiga stepped inside.
+Taiga stepped inside. His suitcase was already beside the wardrobe.
 
 “You play?”
 
@@ -540,9 +540,9 @@ Taiga looked at the seam again.
 
 “You’re the host.”
 
-“That sounds like discrimination.”
+“That’s not a rule.”
 
-“Society rules.”
+“It is now.”
 
 Leo dropped Taiga’s backpack beside the wardrobe.
 
@@ -646,7 +646,7 @@ Leo smiled.
 
 Taiga kissed him.
 
-It was brief, but still longer than the airport one. There was no crowd behind them this time and no suitcase moving toward a car.
+It was brief, but still longer than the airport one. There was no crowd behind them this time and nowhere they needed to move.
 
 When they separated, Leo rested his forehead against Taiga’s for a second.
 
@@ -1046,11 +1046,11 @@ Leo nodded.
 
 “That happens.”
 
-“Ramón changed stories halfway through telling them.”
+“Ramón argued with every correction.”
 
 “That also happens.”
 
-“I still don’t know where he lives.”
+“I still don’t know which door is his.”
 
 Leo pointed vaguely upward and behind them.
 
