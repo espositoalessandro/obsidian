@@ -1,5 +1,3 @@
-# Chapter 39 — Thirteen
-
 By the time Taiga got home, thirteen days had become twelve.
 
 Technically.
@@ -206,7 +204,7 @@ The Spanish started two days later.
 
 Not because Taiga had planned some romantic surprise.
 
-That would have been stupid.
+That would have been stupid. Kinda.
 
 It started because he opened the itinerary Leo had sent him, looked again at the address, remembered the conversation in Room 317, and arrived at the same practical problem he'd already identified there.
 
