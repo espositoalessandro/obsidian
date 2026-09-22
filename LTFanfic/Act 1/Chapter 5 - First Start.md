@@ -1222,7 +1222,9 @@ Taiga looked at his boots. One thing at a time.
 
 ---
 
-The first five minutes were terrible. Not disastrous. That would have been easier to classify. Just terrible. Taiga's first touch bounced too far. His second pass went backward and almost got intercepted. He misread a run and ended up occupying the same space as his own midfielder. Northbridge's right-back was bigger than him. Not slightly. Significantly. The first time Taiga tried to go around him, the guy leaned one shoulder into him and Taiga nearly left the field horizontally.
+The first five minutes were terrible. Not disastrous. That would have been easier to classify. Just terrible. Taiga's first touch bounced too far. His second pass went backward and almost got intercepted. He misread a run and ended up occupying the same space as his own midfielder. Northbridge's right-back was bigger than him. Not slightly. Significantly. Northbridge seemed to like football that way: direct, physical, every loose ball turned into a fight. Even their throw-ins went as far forward as somebody could launch them.
+
+The first time Taiga tried to go around the right-back, the guy leaned one shoulder into him and Taiga nearly left the field horizontally.
 
 No foul. Taiga stayed upright. Barely.
 
@@ -1334,19 +1336,17 @@ Aaron shrugged. “Both happened.”
 
 Before Taiga could answer, Gav crouched in front of the tactics board beside Mercer.
 
-“Their six stopped following when Taiga came inside,” Gav said, pointing. “He's watching the ball. If we keep the fullback wide, that pocket's open.”
+“The midfielder with the red boots keeps watching the ball,” Gav said. “When you move inside, he loses you.”
 
 Mercer nodded once.
 
-Leo dropped into the empty spot beside Taiga, already energized by the idea.
+Leo dropped into the empty spot beside Taiga.
 
-“That's what I was seeing. The right-back keeps waiting for you outside.”
+“And fourteen keeps waiting for you outside.”
 
 Taiga looked between them.
 
-Gav tapped the board. “Pull him out. Then come off the line. Don't force the first touch forward.”
-
-Leo traced the run with one finger. “And if their six switches on, bounce it back and go again. He's lazy after the first movement.”
+Gav tapped the board. “Make one of them choose. Don't force it.”
 
 “Curly guy?” Taiga asked.
 
@@ -1388,11 +1388,15 @@ The stand laughed. Taiga shook his head, smiling.
 
 Idiot.
 
-The match opened up. Northbridge tired. Taiga noticed number six stopped tracking. Leo and Gav had been right.
+The match opened up. Northbridge tired. Red boots stopped following. Leo and Gav had been right.
 
-At seventy minutes, Taiga drifted inside. Right-back followed halfway. Number six looked toward the ball. Taiga kept moving. Pass came through midfield. Taiga received between lines. Turned.
+At seventy minutes, Taiga drifted inside. Fourteen followed halfway. Red boots looked toward the ball instead of Taiga.
 
-For once, there was time.
+Taiga kept moving.
+
+The pass came. He turned.
+
+For once, nobody was close enough.
 
 Leo was sprinting on the opposite side. Center-forward checking short. Fullback overlapping left. Too many choices. Taiga saw the easiest one.
 
