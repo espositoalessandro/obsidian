@@ -734,30 +734,6 @@ Taiga understood that too.
 
 Leo wisely declined to translate that one.
 
-Carmen pointed upstairs with her fork and asked Taiga something he did not catch.
-
-He looked at Leo.
-
-“She wants to know if you found everything you need in the room.”
-
-Taiga nodded at Carmen.
-
-“*Yes. Thank you.*”
-
-Then he looked at Leo.
-
-“Tell her the bed is terrible.”
-
-“No.”
-
-Carmen looked between them.
-
-“*What?*”
-
-“Nothing,” Leo said.
-
-Taiga smiled into his plate.
-
 Across the table, Manuel waited until Taiga looked up.
 
 “*You like Olympus?*”
@@ -780,55 +756,7 @@ Leo stared at Taiga.
 
 “Traitor.”
 
-Isa leaned slightly toward Taiga.
-
-“*First time here?*”
-
-“Sí.”
-
-She gestured toward the open courtyard.
-
-“*The heat okay?*”
-
-Taiga considered.
-
-“*For now.*”
-
-Isa smiled.
-
-“*Wait until tomorrow.*”
-
-That sounded enough like a threat that Taiga looked at Leo.
-
-“She’s right,” Leo said.
-
-Ramón caught the word *Olympus* from across the table and asked Taiga something too quickly.
-
-Taiga looked at Leo.
-
-“He wants to know if the final was really as dramatic as I made it sound.”
-
-Taiga looked at Ramón.
-
-“Worse.”
-
-Leo translated.
-
-Ramón slapped the table once in approval and immediately started asking follow-up questions, most of which Taiga only caught after Leo shortened them.
-
-Yes, they had won.
-
-Yes, Taiga had scored.
-
-No, Leo had not exaggerated everything.
-
-“Thank you,” Leo said.
-
-“I said not everything.”
-
-Before Taiga could explain further, Ramón veered into a story of his own. Carmen corrected him twice; Ramón answered both times and kept going, and Mercedes watched the exchange with the expression of somebody who had seen it before.
-
-Then Dani leaned toward Taiga.
+Before he could defend himself, Dani leaned toward Taiga.
 
 “*Do you sleep in the same bed at university*?”
 
@@ -964,7 +892,41 @@ Leo covered his face.
 
 Taiga made a decision then: Doña Mercedes was dangerous, and he liked her.
 
+Isa leaned toward him while the table was still recovering.
+
+“*First time here?*”
+
+“Sí.”
+
+She gestured toward the open courtyard.
+
+“*The heat okay?*”
+
+Taiga considered.
+
+“*For now.*”
+
+Isa smiled.
+
+“*Wait until tomorrow.*”
+
+Taiga looked at Leo.
+
+“She’s right,” he said.
+
 The conversation moved on before he fully recovered.
+
+Ramón asked Taiga something too quickly and pointed toward Leo when Taiga failed to follow.
+
+“He wants to know if the final was really as dramatic as I made it sound.”
+
+Taiga looked at Ramón.
+
+“Worse.”
+
+Leo translated.
+
+Ramón slapped the table once in approval.
 
 Antonio, who had apparently been listening to more of the football conversation than Taiga realized, asked something while pointing between him and Leo.
 
@@ -1017,6 +979,30 @@ Leo laughed harder.
 “Papá says Tío missed the first penalty and they let him retake it because the goalkeeper moved early.”
 
 Ramón spread both hands as if this improved the story, then continued arguing his case while the others corrected him from three directions at once.
+
+Later, when the argument had moved on to something else, Carmen pointed upstairs and asked Taiga a question he did not catch.
+
+He looked at Leo.
+
+“She wants to know if you found everything you need in the room.”
+
+Taiga nodded at Carmen.
+
+“*Yes. Thank you.*”
+
+Then he looked at Leo.
+
+“Tell her the bed is terrible.”
+
+“No.”
+
+Carmen looked between them.
+
+“*What?*”
+
+“Nothing,” Leo said.
+
+Taiga smiled into his plate.
 
 By the time dinner ended, Taiga’s head felt full. Not in a bad way; there had simply been too much to process at once.
 
