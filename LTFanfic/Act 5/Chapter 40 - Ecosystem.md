@@ -1,5 +1,3 @@
-# Chapter 40 — Ecosystem
-
 The first thing Taiga understood was that Leo had lied.
 
 Not intentionally, probably. That would have required Leo to know that the phrase *my house* suggested one building with one front door and some reasonable relationship between the people living inside it.
