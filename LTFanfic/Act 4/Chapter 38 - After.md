@@ -1037,13 +1037,15 @@ Half empty.
 
 Quiet.
 
+Taiga packed alone for the next couple of hours. Without Caleb moving around on the other side of the room, every zipper, drawer and box sounded louder than it should have. By the time the sunlight had shifted across the floor, one suitcase was half full and the loose pile beside the desk had finally started to shrink.
+
 His phone buzzed.
 
 **Leo:** room?
 
 **Taiga:** yes
 
-Three minutes later, knock.
+A few minutes later, knock.
 
 Taiga opened the door.
 
@@ -1053,17 +1055,15 @@ Leo came in carrying a cardboard box.
 
 “I stole it.”
 
-Caleb looked over. Leo added:
+“From where?”
 
-“From recycling.”
-
-Caleb returned to packing.
+“Recycling.”
 
 “Then you acquired it.”
 
-Leo looked at Taiga.
+Leo looked at him.
 
-“I knew I liked him.”
+“You're spending too much time with Caleb.”
 
 Taiga took the box.
 
