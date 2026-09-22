@@ -265,11 +265,7 @@ Ten meters. Maybe twelve. Nobody close enough to tackle. He carried three. Then 
 
 Taiga saw him. Waited. One beat too long. St. Vincent's winger recovered. The lane disappeared. Taiga played inside instead. Nothing wrong. Nothing happened. At twenty-one, St. Vincent got their first real chance.
 
-Long ball. Their striker held off a center-back. Layoff. Shot from distance. Scott caught it. At twenty-four, Leo stood to warm up with the substitutes. Taiga saw movement near the bench.
-
-Looked once. Then back to the field.
-
----
+Long ball. Their striker held off a center-back. Layoff. Shot from distance. Scott caught it. 
 
 Thirty minutes. Zero-zero. Olympus had more of the ball. St. Vincent had more noise. Taiga had made no mistakes. At thirty-two, he received high and wide. Right-back square.
 
@@ -281,13 +277,13 @@ At forty-three, Taiga got the ball near halfway. Right-back five meters away. Aa
 
 “RUN!”
 
-Hiro again.
+Yoichi again.
 
 Then, much louder:
 
 “HE KNOWS, DIPSHIT!”
 
-Yoichi.
+Hiro.
 
 A few people in the Olympus section laughed.
 
@@ -331,7 +327,7 @@ Players stood. Boots hit tile. Enzo slapped Taiga once between the shoulders on 
 
 ---
 
-The first touch of the second half came to him. Of course. Aaron to Taiga. Right-back in front. Taiga controlled. Held it. One second. Two. The defender waited.
+The first touch of the second half came to him. Aaron to Taiga. Right-back in front. Taiga controlled. Held it. One second. Two. The defender waited.
 
 Taiga played back to Aaron. Fuck. They reset. At forty-eight, Gav switched left. Taiga received. Carried. Right-back retreated. Taiga moved inside. The central midfielder came. Taiga saw him.
 
@@ -345,7 +341,7 @@ Taiga looked away. Corner came in. Gav cleared. At fifty-six, the board went up.
 
 **23 OUT**
 
-**11 IN**
+**10 IN**
 
 Leo stepped onto the field. The blue corner roared. He ran carefully for three strides. Then normally. Taiga watched him take position central. Leo looked left. Found him.
 
@@ -407,8 +403,6 @@ Corner. Cleared. At eighty-one, Taiga was tired. Legs-heavy tired. The kind wher
 
 Not enough to stop him. Mercer looked at the clock. Did not substitute either of them.
 
----
-
 Eighty-four.
 
 Taiga got the ball on the left with a defender closing.
@@ -463,7 +457,11 @@ No extra touch. No square pass.
 
 Taiga hit it first time.
 
-Net. For one second, nothing made sense. The ball was inside. Then the blue corner behind the opposite goal exploded. Taiga turned. Ran.
+Net.
+
+---
+
+For one second, nothing made sense. The ball was inside. Then the blue corner behind the opposite goal exploded. Taiga turned. Ran.
 
 Did not know where. Enzo reached him first from the other side of the box. Aaron crashed into both of them. Gav arrived. The striker jumped onto somebody's back.
 
@@ -511,8 +509,6 @@ He won it. Ball dropped. Taiga moved toward it. Their midfielder arrived too. Ta
 
 Sound. End.
 
----
-
 For half a second, Taiga stopped. Then everybody moved. Aaron hit him first. Full body. Taiga nearly went down. Enzo came from somewhere screaming. Gav tackled both of them from the side.
 
 Scott sprinted out of goal. The bench emptied. Leo was already on the field. Olympus players crashed together near the edge of the center circle. Taiga lost the ground.
@@ -537,7 +533,7 @@ Taiga shoved him and got hugged by Aaron instead. Gav hit the back of his head. 
 
 Leo's arms went around his waist. Hard. Taiga remembered the ankle one second too late.
 
-“You good?”
+“YOU GOOD?”
 
 Leo shouted into his ear.
 
@@ -591,7 +587,7 @@ Keitaro grabbed the back of Hiro's jacket before he could fold himself over the 
 
 Hunter was laughing. Natsumi reached through and caught Taiga's wrist for a second.
 
-“Congratulations.”
+“Congratulations, Taiga!.”
 
 Simple. Somehow that one hit harder.
 
@@ -621,7 +617,7 @@ Then Scott. Eventually the message spread. Locker room. Taiga turned back once. 
 
 The visitors' locker room was already shaking before the door closed. Music. Shouting. Boots hitting benches. Enzo had somehow acquired a bottle of water and was spraying it like champagne.
 
-Gav took it away. Enzo found another. Scott sat on the bench with both hands over his face. Taiga could not tell whether he was laughing. Aaron stood on a bench for no reason.
+Gav took it away. Enzo found another. Scott sat on the bench with both hands over his face. Taiga could not tell whether he was laughing or crying. Aaron stood on a bench for no reason.
 
 Someone started the Olympus chant again. Taiga got shoved into a locker. Did not care. Leo came in last with one arm around an assistant's shoulder for three steps.
 
@@ -655,33 +651,40 @@ Taiga had one arm trapped between Enzo and somebody's shoulder. The other was fr
 
 For a few seconds, neither did. Leo's face was flushed from the match. Hair wet. Eyes bright. Still breathing hard. His smile faded into something smaller when he realized Taiga was staring.
 
-Taiga's heart kicked. Not from running. He reached up. Hand behind Leo's head. Fingers into his hair. Leo's eyes widened. Taiga pulled him down. And kissed him. One second there was a locker room.
+Taiga's heart kicked. Not from running. He reached up. Hand behind Leo's head. Fingers into his hair. Leo's eyes widened. Taiga pulled him down. 
 
-The next there was Leo's mouth. Warm. Surprised. Still. Taiga kissed him harder. Leo moved. Finally. His hands tightened at Taiga's waist. The noise around them thinned. Not all at once.
+And kissed him. 
 
-One voice stopped. Then another. Then enough that Taiga could hear his own breathing. Bodies loosened around them. The team made space without anyone announcing it. Taiga kept his hand behind Leo's head.
+One second there was a locker room.
+The next there was Leo's mouth. 
+Warm. Surprised. Still. Taiga kissed him harder. Leo moved. Finally. His hands tightened at Taiga's waist. Leo kissed him back. The noise around them thinned. Not all at once.
 
-Leo kissed him back. The locker room was silent. Actually silent. Taiga became aware of thirteen people looking at them. He didn't care much. He could only feel Leo's lips against his own.
+One voice stopped. Then another. Then enough that Taiga could hear his own breathing. Bodies loosened around them. The team made space without anyone announcing it. Taiga kept his hand behind Leo's head. Lips still locked together.
+The locker room was silent. Actually silent. Taiga became aware of thirteen people looking at them. He didn't care much. He could only feel Leo's lips against his own.
 
 Leo's hands tight around Taiga's waist. Taiga's hand behind his neck, gently pulling him in. Enzo's mouth was open. Scott's eyebrows had moved approximately half a centimeter. Aaron looked like somebody had just solved a problem he had been pretending not to understand for months.
 
-Then Enzo made a sound. The room exploded again. Shouting. Hands hitting lockers. Someone screamed:
+Then Enzo made a sound. 
 
 “FINALLY!”
 
+The room exploded again. Shouting. Hands hitting lockers. 
+
 Taiga laughed and slowly pulled out. Leo's face was stunned, breathless. A tear had marked his left cheek. At some point, Leo remembered how to breathe again. Taiga laughed into Leo's shoulder when three people hit them from different directions.
 
-Leo was smiling, still looking slightly stunned. Enzo was yelling something about having evidence now. Gav told him nobody needed evidence. Aaron shouted over both of them. Taiga tried to tell everyone to fuck off.
+Leo was smiling, still in shock. Enzo was yelling something about having evidence now. Gav told him nobody needed evidence. Aaron shouted over both of them. Taiga tried to tell everyone to fuck off.
 
 Nobody listened. Leo caught the front of Taiga's shirt. Taiga looked at him. Leo's expression was still slightly stunned beneath the grin.
 
 “Can you do that again?”
 
-Taiga laughed.
+Taiga laughed. Then he pulled Leo back in.
+His lips pressed to Leo's again. The team collapsed around them again.
+Enzo screamed, 
 
-“Yeah.”
+“I’M GONNA BE AN UNCLE!” 
 
-His lips pressed to Leo's again. The team collapsed around them again. Enzo screamed, “I’M GONNA BE AN UNCLE!” Everybody started laughing. When they finally released each other, Taiga felt his head pulsing, somehow producing enough heat to boil off the sweat.
+Everybody started laughing. When they finally released each other, Taiga felt his head pulsing, somehow producing enough heat to boil off the sweat.
 
 Leo recovered from the shock and slowly started to become incredibly red as well. Suddenly, someone grabbed Taiga's arms. Actually, he started feeling hands everywhere. Without knowing how, he found himself floating above the entire team.
 
