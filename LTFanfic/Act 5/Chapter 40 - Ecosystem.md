@@ -1461,9 +1461,7 @@ She smiled.
 
 “*Coffee?*”
 
-“Yes.”
-
-That answer required no Spanish.
+“*Yes, thanks*.”
 
 Leo reached for a cup.
 
@@ -1603,7 +1601,7 @@ Leo walked without thinking about the route.
 
 “I told you. Today is the local version.”
 
-They passed a small colmado where Leo knew the man behind the counter well enough to greet him without slowing down. The man called him Julio and asked something about university.
+They passed a small colmado where Leo knew the man behind the counter well enough to greet him without slowing down. The man asked something about university.
 
 Leo answered.
 
@@ -1710,10 +1708,6 @@ Leo looked offended on behalf of the establishment.
 “You’ve been insulting them for years.”
 
 “Yes, affectionately.”
-
-“That’s not how food works.”
-
-“It is here.”
 
 They ate outside under shade while Leo pointed farther down the road with the unfinished half of his empanada.
 
