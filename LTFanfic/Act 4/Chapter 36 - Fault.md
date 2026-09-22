@@ -126,11 +126,13 @@ Taiga wrote the name at the top of the page. Under it:
 
 **backward pass = they chase**
 
-**8 attacks first touch**
+**8 looks for the gap**
 
-**far side slow to recover**
+Then one line underneath:
 
-Mercer played another clip. Westlake's right-back stepped into midfield when they had possession. Space behind. Taiga watched it twice. The second time he stopped looking at the defender and watched the space.
+**if Aaron goes, stay**
+
+That was the part Mercer repeated. Westlake wanted both of them moving forward at once. Then number eight ran into whatever they left behind.
 
 ---
 
@@ -234,31 +236,27 @@ Scott closed his locker.
 
 “Both of you are loud.”
 
-Mercer walked in. Silence. Board. Westlake on screen. Number eight circled. Mercer tapped the left side.
+Mercer walked in. Silence. Westlake on screen. Number eight circled.
 
-“They'll invite you forward and go behind you.”
+Mercer pointed at Taiga. Then Aaron.
+
+“One of you goes. One of you stays.”
 
 Taiga nodded.
 
-“Akatora, if Aaron steps, you hold until the ball is secure.”
+“If both of you go, eight gets the space behind you.”
 
-“Yeah.”
+Aaron nodded too.
 
-“If you both go, eight runs into the space you leave.”
+Mercer looked at Leo.
 
-Mercer looked at Aaron.
-
-“Same information.”
-
-Aaron nodded. Then Mercer looked at Leo.
-
-“They will hit you from behind if you receive square.”
+“And they'll kick you if you receive with your back to them.”
 
 Leo made a face.
 
 “Noted.”
 
-“Scan before it arrives.”
+“Check before the ball comes.”
 
 “Yeah.”
 
@@ -270,27 +268,45 @@ Nobody said anything about Pinetree.
 
 ---
 
-Westlake came after Olympus from kickoff. Their three forwards shut down the easy passes while number eight stayed tight to Gav. The first ten minutes belonged to whoever could breathe while being shouted at.
+Westlake came after Olympus from kickoff. Every safe pass seemed to bring another shirt running.
 
-Taiga got his first clean touch at eleven. Aaron into him. Right-back closing. Taiga went inside first touch. Leo returned it. Taiga carried. Eight shifted. Space outside. Aaron went.
+The first ten minutes were mostly noise.
 
-Taiga played him. Cross. Cleared. Good. At fourteen, Westlake nearly scored. Long diagonal. Their winger beat Aaron to the bounce. Cutback. Shot. Scott saved with his foot. The rebound rolled wide.
+Taiga got his first clean touch at eleven. Aaron passed to him. Taiga moved it inside, got it back, then sent Aaron down the line.
+
+Cross. Cleared. Fine.
+
+At fourteen, Westlake nearly scored. Long ball. Their winger got there first. Cutback. Shot. Scott saved with his foot.
 
 Gav shouted everyone up. Taiga ran. At eighteen, Olympus found the other side. Enzo received. Beat his man. Crossed early. The striker got there. Header. Goal. One-zero. The away section behind the bench exploded.
 
 Enzo sprinted toward it. Leo got there first somehow. Taiga joined the pile later. The striker hit Enzo in the chest. Enzo screamed something about service. Mercer was already waving them back.
 
-Taiga jogged to position. One-zero. Westlake restarted hard. At twenty-three, Taiga won the ball near halfway. Eight came across. Taiga saw Leo central. Saw Aaron outside. Saw the right-back stepping.
+Taiga jogged to position. One-zero. Westlake restarted hard.
 
-He took one extra touch forward. Eight reached. Taiga got around him. The crowd reacted. Another midfielder came. Taiga tried to split them. Ball caught a shin. Westlake recovered.
+At twenty-three, Taiga tried to carry through midfield and lost it.
 
-Aaron had already started forward. There. The space behind him. Taiga turned and sprinted. Westlake played into it. Gav shifted over. Cross blocked. Corner. Aaron looked at Taiga. Taiga lifted one hand.
+Aaron had already gone forward.
 
-His fault. Corner cleared. Mercer shouted from the technical area:
+So had Taiga.
+
+There it was.
+
+Number eight ran straight into the empty space they had left.
+
+Taiga turned and sprinted. Gav came across and blocked the cross for a corner.
+
+Aaron looked at Taiga. Taiga lifted one hand.
+
+His fault.
+
+Mercer shouted from the technical area:
 
 “ONE GOES!”
 
-Taiga heard him. Next time Aaron went, Taiga stayed. At twenty-nine, Leo received with his back to goal. Number eight hit him from behind. Hard enough to move him two steps.
+Taiga heard him.
+
+Next time Aaron went, Taiga stayed. At twenty-nine, Leo received with his back to goal. Number eight hit him from behind. Hard enough to move him two steps.
 
 Leo kept the ball. Turned. Played Taiga. The referee gave advantage. Taiga drove toward the box. Right-back retreated. He could cross. He cut inside. Shot. Low. Keeper saved.
 
@@ -308,53 +324,57 @@ Taiga kept running. The rebound came loose for half a second. Center-back cleare
 
 “Fuck off.”
 
-They pressed the goal kick. At thirty-seven, Westlake equalized. Nothing complicated. Olympus lost a second ball. Westlake switched quickly. Taiga tracked back. Aaron closed the winger. Cross came anyway.
+They pressed the goal kick. At thirty-seven, Westlake equalized. Nothing complicated. Olympus failed to clear properly. Westlake moved it wide. Cross.
 
-Their striker got between both center-backs. Header. Scott got fingers to it. Not enough. One-one. The stadium came alive. Taiga stood near halfway while Westlake celebrated. The score changed.
+Header.
+
+Scott got fingers to it. Not enough.
+
+One-one. The stadium came alive. Taiga stood near halfway while Westlake celebrated. The score changed.
 
 He looked toward the bench. Mercer pointed two fingers at the pitch. Shape. Taiga turned back.
 
 ---
 
-Halftime was loud, though not because of Mercer. It was the room: boots on tile, players breathing, Enzo complaining about Westlake's left-back grabbing his shirt, Gav telling him to stop letting the left-back get close enough.
+Halftime was loud, though not because of Mercer. Boots on tile. Players breathing. Enzo complaining about Westlake's left-back grabbing his shirt.
 
-Leo drank half a bottle of water in one go. Taiga sat beside him. Mercer waited. Then:
+Mercer waited.
 
-“We're giving them exactly the break they want.”
+Then he pointed at Taiga and Aaron.
 
-He moved two magnets.
+“What did I say?”
 
-“Bennett goes. Akatora goes with him. Brennan gets dragged across. Eight gets this.”
+Taiga answered first.
 
-He tapped the empty space. Taiga looked at it. Exactly the first-half corner. Mercer looked at him.
+“One goes.”
 
-“One.”
+Aaron finished it.
 
-Taiga nodded.
+“One stays.”
 
-“One.”
+“Good. Do that.”
 
-“Good.”
+Then Leo.
 
-He shifted magnets.
+“They're late when you turn them. Keep doing it.”
 
-“Mendez, the midfielder behind eight is late every time you turn. Keep moving them.”
+Leo nodded.
 
-Leo wiped his mouth with his wrist.
+Mercer looked at Enzo.
 
-“Yeah.”
-
-“Rosario, stop arguing with the fullback.”
+“Stop arguing with the fullback.”
 
 “He started it.”
 
-Mercer stared. Enzo sighed.
+Mercer stared.
+
+Enzo sighed.
 
 “Fine.”
 
-“Second half, first ten minutes. Don't chase the score. It's one-one.”
+“It's one-one. Stop trying to win the whole match in one action.”
 
-Mercer stepped back.
+He stepped back.
 
 “Play.”
 
@@ -404,13 +424,25 @@ Leo disappeared toward the bench. Taiga turned toward halfway. His jaw hurt. He 
 
 ---
 
-The next tackle Taiga made was clean. Hard. Ball first. Their right-back hit the grass. Taiga came away with possession. The referee waved play on. Good. He carried.
+The next tackle Taiga made was clean. Hard. Ball first. Their right-back hit the grass. Taiga came away with possession.
 
-Played inside. Kept running. The return didn't come. He pressed the next pass anyway. Center-back went across. Taiga chased. Goalkeeper. Taiga chased. Goalkeeper played left. Mercer shouted:
+He kept going.
 
-“AKATORA! SHAPE!”
+Too far.
 
-Taiga stopped. Too late. Westlake had already played through the space behind him. Aaron stepped. Gav covered. Olympus recovered. Taiga ran back. His lungs burned. At sixty-four, he received near the box.
+The ball moved away from him and Taiga chased anyway. Center-back. Goalkeeper. Across again.
+
+Mercer shouted:
+
+“AKATORA! BACK!”
+
+Taiga stopped.
+
+Too late.
+
+Westlake had already attacked the space he had abandoned. Aaron and Gav covered it this time. Olympus survived.
+
+Taiga ran back. His lungs burned. At sixty-four, he received near the box.
 
 Right-back in front. Normally he would wait. He attacked immediately. Outside. Contact. Stayed up. Cross. Blocked. Corner. He grabbed the ball from the ball kid himself and threw it toward the corner taker.
 
@@ -424,13 +456,25 @@ Taiga turned.
 
 Taiga jogged back. He was settled. He was fine. Westlake restarted. At sixty-eight, the physio passed behind the bench. Taiga saw Leo sitting at the far end. Boot off.
 
-Ankle wrapped. Ice around it. He was talking to someone. Alive. Fine. Taiga turned back to the field. Westlake had the ball. He pressed. At seventy-one, Taiga tracked their right-back all the way into Westlake's half after the ball had already gone inside.
+Ankle wrapped. Ice around it. He was talking to someone. Alive. Fine. Taiga turned back to the field. Westlake had the ball. He pressed. At seventy-one, Taiga followed their right-back even after the ball had gone somewhere else.
 
-The right-back stopped. Taiga kept going. Gav shouted:
+The defender stopped.
+
+Taiga kept going.
+
+Gav shouted:
 
 “TAIGA!”
 
-He turned. Eight had run straight into the space Taiga had left. Aaron was alone. Pass came. Aaron fouled him before the box. Whistle. Taiga ran back. Aaron looked at him. Not angry.
+He turned.
+
+Number eight was already running into the space behind him.
+
+Aaron was alone. He had to foul him before the box.
+
+Whistle.
+
+Taiga ran back. Aaron looked at him. Not angry.
 
 Worse. Confused.
 
@@ -468,27 +512,77 @@ Taiga nodded.
 
 “Yeah.”
 
-He ran back on. For six minutes, he did. Held width. Tracked. Played simple. It felt like standing still while everything inside him moved. At seventy-nine, Olympus won the ball near their own box.
+He ran back on. For six minutes, he did exactly what Mercer asked. Stayed home when Aaron went. Played simple. Let the match come to him.
 
-Scott to Gav. Gav to Aaron. Aaron looked up. Taiga checked toward him. Pass came. Westlake's right-back was five meters away. Gav was inside. Aaron stayed behind. Safe.
+At seventy-nine, Aaron passed to him near their own half.
 
-Taiga could give it back. He saw it. He also saw Westlake's eight arriving late. There was a gap before him. One turn and Taiga could run. Taiga took the ball across his body.
+Aaron stayed behind.
 
-Eight read it. Got a foot in. The ball came loose.
+Gav was available inside.
+
+Safe.
+
+Taiga saw both options.
+
+He also saw number eight arriving a little late.
+
+There was space in front of him.
+
+One turn.
+
+Taiga took it.
+
+Eight got a foot in.
+
+The ball came loose.
 
 “Fuck.”
 
-Westlake recovered. Taiga lunged immediately. Missed. Not a foul. Worse. The midfielder escaped. Mercer shouted:
+Westlake recovered.
+
+Taiga tried to win it back immediately.
+
+Missed.
+
+Mercer shouted:
 
 “BACK!”
 
-Taiga turned. Westlake had numbers. Aaron stepped toward the ball. Eight released the right winger. Taiga sprinted after him. Too far. The winger reached the box. Gav shifted.
+Too late.
 
-Cutback. Their striker let it run. Midfielder arriving. Shot. Low. Far corner. Scott didn't move until it was already past him. Goal. The stadium broke open. Taiga stopped inside the box.
+Westlake were already running at them. Aaron had to step toward the ball. Number eight found the winger outside.
+
+Taiga chased.
+
+Too far.
+
+The winger reached the box and cut it back.
+
+Shot.
+
+Low. Far corner.
+
+Goal. The stadium broke open. Taiga stopped inside the box.
 
 The scorer ran away. Westlake players followed. Noise hit from every direction. Scott stood. Gav turned. Aaron looked at the grass. Taiga stared at the place where the ball had gone through.
 
-He could still see the first touch. His first touch. Across the body. Eight's foot. The lunge. The open space. Mercer's voice. Back. He had heard it. He had fucking heard it.
+He could still see it.
+
+Aaron behind him. Gav inside. Both safe passes available.
+
+The turn anyway.
+
+Eight's foot.
+
+The stupid lunge after it.
+
+Mercer's voice.
+
+*Back.*
+
+He had heard it.
+
+He had fucking heard it.
 
 The scoreboard changed.
 
@@ -1343,27 +1437,33 @@ Then walked away. Taiga stared after him.
 
 ---
 
-Wednesday film was worse than the match. Not because Mercer yelled. He didn't. The room was dark. Westlake on screen. Sixty-two minutes. Taiga pressing too far. Mercer paused.
+Wednesday film was worse than the match. Not because Mercer yelled. He didn't.
 
-“Where should you be?”
+Westlake on screen.
+
+First clip: Taiga chasing too far.
+
+Mercer paused.
+
+“What was the rule?”
 
 Taiga looked at the frame.
 
-“Five meters back.”
+“One goes. One stays.”
 
-“Why?”
+Mercer nodded.
 
-“Aaron's already stepped.”
+Next clip. Seventy-one. Taiga followed the right-back even after the ball moved away.
 
-Mercer nodded. Play. Seventy-one. Taiga tracks the right-back. The ball goes inside. Taiga keeps chasing. Space opens behind him. Pause.
+Pause.
 
-“Here?”
+“Same?”
 
-“Back.”
+“Yeah.”
 
-“Good.”
+Play.
 
-Play. Seventy-nine. Aaron to Taiga. Pause before the first touch. Mercer did not look at him.
+Seventy-nine. Aaron passed to Taiga. Mercer froze it before the first touch.
 
 “Options.”
 
@@ -1373,21 +1473,25 @@ Taiga's mouth was dry.
 
 “And?”
 
-“Gav inside.”
+“Gav.”
 
-“Risk?”
+“Both safe?”
 
-“Turn.”
+“Yeah.”
 
-Mercer nodded. Play. Turn. Interception. Taiga lunges. Mercer paused again.
+Mercer played it.
 
-“Now?”
+Taiga turned anyway. Lost it. Lunged after the ball.
 
-“Recover.”
+Pause.
 
-“Instead?”
+“What should you do?”
 
-“I chase.”
+“Get back.”
+
+“And what do you do?”
+
+“Chase.”
 
 “Result?”
 
