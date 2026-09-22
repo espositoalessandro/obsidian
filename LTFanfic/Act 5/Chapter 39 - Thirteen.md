@@ -1,4 +1,4 @@
-By the time Taiga got home, thirteen days had become twelve.
+By the time Taiga got home, fourteen days had become thirteen.
 
 Technically.
 
@@ -414,7 +414,7 @@ Taiga stared at him.
 
 Taiga leaned back in his chair.
 
-“You volunteered. Stop laughing.”
+“You're the one correcting me. Stop laughing.”
 
 “I am helping.”
 
@@ -1014,11 +1014,11 @@ The argument—or conversation; Taiga was beginning to suspect the distinction w
 
 Leo looked back at the camera.
 
-“He didn't need me.”
+“He wasn't talking to me.”
 
 “You answered.”
 
-“Habit.”
+“I thought he was.”
 
 Taiga looked at him.
 
@@ -1388,7 +1388,7 @@ Leo refused to accept the criticism.
 
 Taiga learned not to pronounce every S Leo wrote in messages as strongly as the course did.
 
-Leo told him not to worry about reproducing a Dominican accent after two weeks because he would sound insane.
+Leo told him not to worry about reproducing a Dominican accent after less than two weeks because he would sound insane.
 
 Taiga told him he already sounded insane.
 
@@ -1466,7 +1466,7 @@ The notebook.
 
 He held that one for a moment.
 
-Two weeks of Spanish.
+Nearly two weeks of Spanish.
 
 Enough pages to look impressive.
 
@@ -1600,19 +1600,15 @@ Leo laughed.
 
 Taiga shoved another shirt into the suitcase.
 
-“Papá's coming with me tomorrow.”
+“Papá's driving tomorrow.”
 
 “To the airport?”
 
-“Yeah. He said I'm not navigating arrivals and luggage and traffic with you alone after you've been traveling all day.”
+“Yeah. He says traffic will be terrible.”
 
-“You're not driving.”
+“Didn't he say traffic is always terrible?”
 
-“Exactly.”
-
-“That makes even less sense.”
-
-“Don't question him. Just accept that he has decided transportation is his responsibility.”
+“He did. Apparently that doesn't make it less terrible.”
 
 Taiga zipped one side of the suitcase.
 
@@ -1798,7 +1794,7 @@ He understood pieces.
 
 Not enough for the whole announcement.
 
-More than he'd understood two weeks ago.
+More than he'd understood when he'd started.
 
 He leaned back.
 
@@ -1842,7 +1838,7 @@ No call ending in an hour.
 
 Taiga looked through the window at the airport buildings sliding past.
 
-Thirteen days.
+Fourteen days.
 
 Apparently they'd counted after all.
 
@@ -1854,7 +1850,7 @@ Baggage took longer.
 
 Of course it did.
 
-Taiga stood beside the carousel watching the same collection of suitcases pass for the third time while people around him talked too quickly for his two weeks of Spanish to survive.
+Taiga stood beside the carousel watching the same collection of suitcases pass for the third time while people around him talked too quickly for less than two weeks of Spanish to survive.
 
 This was different.
 
@@ -1956,7 +1952,7 @@ Quick.
 
 Easy.
 
-Like thirteen days had been annoying rather than significant.
+Like two weeks had been annoying rather than significant.
 
 Taiga smiled anyway.
 
@@ -2130,7 +2126,7 @@ Leo stared at him.
 
 “We haven't seen each other in two weeks.”
 
-“Thirteen days.”
+“Fourteen days.”
 
 “See? Worse.”
 
@@ -2162,7 +2158,7 @@ Taiga finally turned.
 
 “You asked six questions.”
 
-“I have thirteen days of questions.”
+“I have fourteen days of questions.”
 
 “You called me every day.”
 
@@ -2460,7 +2456,7 @@ Not excitement exactly.
 
 Recognition.
 
-The kind Taiga had felt when he'd walked back into his own room thirteen days earlier.
+The kind Taiga had felt when he'd walked back into his own room two weeks earlier.
 
 Leo leaned between the front seats and pointed ahead.
 
