@@ -496,31 +496,31 @@ Scott opened one eye. Mercer looked directly at him. Scott closed it again. A co
 
 “We control one result tomorrow. Ours.”
 
-The table disappeared and Northbridge's shape replaced it: a compact, direct four-four-two with an aggressive right side. Taiga took out his notebook. Mercer saw and said nothing. Good.
+The table disappeared and Northbridge replaced it. Physical. Direct. The kind of team that treated throw-ins like free kicks and every loose ball like an argument. Taiga took out his notebook. Mercer saw and said nothing. Good.
 
-“Northbridge defend narrow until the first wide pass. Then the winger jumps and the fullback locks underneath. If you receive standing still, congratulations, you've volunteered for a two-v-one.”
+“Out wide, they wait until you get the ball. Then two of them come. If you receive and stand there admiring it, congratulations, you're trapped.”
 
-The next clip showed Northbridge against another school. A wide player received under pressure, got trapped, lost the ball, and Northbridge countered. Mercer paused.
+The next clip showed exactly that. A winger received near the sideline. One defender closed from inside, another came hard from outside. Nowhere to go. Turnover. Northbridge countered. Mercer paused.
 
 “Mendez.”
 
 Leo leaned forward.
 
-“Play through it before it gets wide or give the wide player an inside option immediately. If the fullback goes early, space opens behind him.”
+“Don't leave the wide player alone. Give him the inside pass immediately. If their fullback charges, somebody runs behind him.”
 
 “Akatora.”
 
 Taiga looked up.
 
-“Same thing. Bounce it inside before the trap closes. Don't try to beat both.”
+“Same thing. Play it inside before they close you in. Don't try to beat both.”
 
 Mercer changed clips. No speech about championships. No *this is our moment.* Good. Taiga wrote:
 
-**first touch inside if winger jumps**
+**two come = play inside**
 
 Then below it:
 
-**fullback goes = space behind**
+**fullback charges = run behind**
 
 The standings stayed in his head anyway. Forty-eight. Forty-seven. Four.
 
@@ -532,13 +532,13 @@ He pulled it on. Enzo was opposite him on the other side. Leo started central. A
 
 “First five passes free. Then live.”
 
-Ball started with Gav. Taiga held wide. Leo dropped between lines. Pass. Return. Switch. Taiga checked shoulder. Pressure came. Winger first. Fullback underneath. Exactly the film. He bounced inside to Aaron.
+Ball started with Gav. Taiga stayed wide. Leo came short. Pass. Return. Switch. Taiga checked shoulder. Two defenders started closing. Exactly the film. He played inside to Aaron.
 
-Started behind. Aaron found Leo. Leo turned. Taiga continued. Pass came into the channel. Clean. Taiga reached it. Cross. Blocked. Corner. Mercer shouted:
+Then ran behind them. Aaron found Leo. Leo turned. Taiga continued. Pass came into the open space. Clean. Taiga reached it. Cross. Blocked. Corner. Mercer shouted:
 
 “Again!”
 
-Reset. Second sequence. Same shape. This time Taiga received earlier. Defender late. He could attack. He did. One touch forward. Fullback stepped. Taiga cut inside. Leo moved away from him, dragging the six.
+Reset. Second sequence. Same shape. This time Taiga received earlier. Defender late. He could attack. He did. One touch forward. Fullback stepped. Taiga cut inside. Leo moved away from him and took their midfielder with him.
 
 Space opened. Taiga played square to Gav. Gav switched. Enzo attacked opposite side. Shot wide. Again. Third sequence. Leo got the ball under pressure. Taiga started behind the fullback.
 
@@ -560,9 +560,9 @@ Leo turned toward Taiga while jogging back.
 
 “You're ruining it.”
 
-Leo laughed. Next repetition. They ruined the defending side for twelve minutes. Then Mercer changed the constraints. Now transition. Lose it and recover. Taiga lost one immediately. Bad touch.
+Leo laughed. Next repetition. They ruined the defending side for twelve minutes. Then Mercer changed the drill. Lose it and get back. Taiga lost one immediately. Bad touch.
 
-Defender stole. Northbridge shape broke forward. Taiga sprinted. Aaron delayed. Gav covered. Taiga recovered enough to close the passing lane. Ball went backward. Mercer shouted:
+Defender stole. Northbridge broke forward. Taiga sprinted. Aaron delayed. Gav covered. Taiga recovered enough to close the passing lane. Ball went backward. Mercer shouted:
 
 “Good! Next action!”
 
