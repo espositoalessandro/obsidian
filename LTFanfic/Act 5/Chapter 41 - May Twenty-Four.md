@@ -1,8 +1,8 @@
-Taiga woke to sunlight, voices somewhere below and the uncomfortable realization that Leo had managed to occupy more of a single bed than physics should have allowed.
+Taiga woke to sunlight, voices somewhere below and Leo still completely motionless in the bed beside him.
 
-One of Leo’s legs was hooked over his. His face was buried against Taiga’s shoulder, and sometime during the night he had stolen enough of the blanket that Taiga’s right foot was cold.
+Taiga had slept on the opened sofa again. Leo had stayed on his own mattress, close enough across the narrow seam that Taiga could have reached him without getting up, but far enough that neither of them had spent the night fighting over blankets.
 
-Taiga looked at the ceiling.
+Taiga turned his head.
 
 “Birthday privilege lasts until midnight tonight.”
 
@@ -16,11 +16,7 @@ Leo made a noise without opening his eyes.
 
 “Also yes.”
 
-Taiga tried to move his leg.
-
-Leo tightened his hold.
-
-“Move.”
+“Get up.”
 
 “No.”
 
@@ -56,7 +52,7 @@ Nothing happened.
 
 “I’m twenty. Respect your elders.”
 
-Taiga shoved him.
+Taiga reached across the seam and shoved his shoulder.
 
 Leo laughed into the pillow.
 
@@ -156,11 +152,7 @@ Taiga pulled the blanket higher on instinct even though they were both wearing c
 
 Carmen stood in the doorway carrying a mug.
 
-Her eyes moved from Leo to Taiga, then to the improvised sofa bed sitting completely unused beside them.
-
-She said nothing about it.
-
-Instead she looked at Leo.
+Her eyes moved from Leo to Taiga, both still in their separate beds, then settled on her son.
 
 “*Happy birthday.*”
 
@@ -186,31 +178,11 @@ Taiga understood enough.
 
 “Gracias.”
 
-Carmen looked once more at the empty sofa bed.
-
-A smile appeared.
-
 Then she left.
 
-Leo stared at the open door.
+Leo stared at the open door for a second before reaching for the coffee.
 
-“She did that on purpose.”
-
-Taiga sat up.
-
-“What?”
-
-“The look.”
-
-“What look?”
-
-“You saw it.”
-
-“I have no idea what you’re talking about.”
-
-“You’re a terrible liar.”
-
-Taiga swung his legs off the bed.
+Taiga swung his legs off the sofa bed.
 
 “You have ten minutes before your grandmother invades.”
 
