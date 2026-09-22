@@ -447,9 +447,11 @@ Kieran sat on the edge of the bed. The cabin looked barely used. One towel. One 
 
 Taiga's jaw tightened.
 
-“So that's it?”
+“And now you're packing.”
 
-“What do you want me to do?”
+Kieran looked at him.
+
+“What did you expect?”
 
 “Not disappear back into your own misery because I said no.”
 
