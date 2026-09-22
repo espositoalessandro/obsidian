@@ -24,7 +24,7 @@ Leo tightened his hold.
 
 “No.”
 
-“It’s your birthday. Act like an adult.”
+“You’re twenty now. Act like an adult.”
 
 That got one eye open.
 
@@ -54,7 +54,7 @@ Nothing happened.
 
 “Future Leo is an asshole.”
 
-“It’s my birthday. Show some respect.”
+“I’m twenty. Respect your elders.”
 
 Taiga shoved him.
 
@@ -240,7 +240,7 @@ Then at Taiga.
 
 Then back at Leo.
 
-“*Another year.*”
+“*Twenty years.*”
 
 Leo nodded.
 
@@ -748,7 +748,7 @@ Taiga slapped his hand away.
 
 “I wanted confirmation.”
 
-“It’s your birthday and you’re still annoying.”
+“You’re twenty and still annoying.”
 
 “You keep mentioning my age like I’m supposed to have transformed overnight.”
 
@@ -1976,7 +1976,7 @@ Leo had not said anything yet.
 
 “You’re about to ask.”
 
-“I’m older now. Maybe I’ve matured.”
+“I’m twenty now. Maybe I’ve matured.”
 
 “No.”
 
