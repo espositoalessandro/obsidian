@@ -264,7 +264,7 @@ Leo looked at it.
 
 “*You can leave after you eat.*”
 
-“I am eating.”
+“*I am eating*.”
 
 “*That is why there is food in front of you.*”
 
