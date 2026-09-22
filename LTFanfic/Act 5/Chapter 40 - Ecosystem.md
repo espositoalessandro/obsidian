@@ -48,7 +48,7 @@ The car had not fully stopped before a woman appeared from one of the doors.
 
 Taiga knew immediately that she had to be Carmen. Leo had shown him pictures, but the pictures had not captured the speed. She crossed the courtyard while Manuel was still turning off the engine, spoke to him through the open window, looked into the back seat at Taiga, then switched attention to Leo without visibly pausing between any of it.
 
-“Julio, get his bag. Manuel, don’t leave the car there. Taiga, welcome.”
+“*Julio, get his bag. Manuel, don’t leave the car there. Taiga,* welcome.”
 
 The last word came in English.
 
@@ -56,35 +56,35 @@ Taiga opened the door.
 
 Carmen was shorter than he had expected. That did nothing to reduce the sense that the entire courtyard had reorganized itself around her arrival.
 
-“Buenas tardes,” Taiga said. “Mucho gusto.”
+“*Buenas tardes,*” Taiga said. “*Mucho gusto.*”
 
 Her expression changed immediately.
 
-“Oh.”
+“*Oh.*”
 
 Leo got out behind him.
 
-“I told you.”
+“*I told you.*”
 
-“You told me he was studying. You didn’t tell me he was going to arrive speaking.”
+“*You told me he was studying. You didn’t tell me he was going to arrive speaking.*”
 
-“I said he was studying Spanish.”
+“*I said he was studying Spanish.*”
 
 Carmen turned back to Taiga and spoke more slowly.
 
-“You understand me?”
+“*You understand me?*”
 
 Taiga caught that.
 
-“A little.”
+“*A little.*”
 
 He pinched two fingers together.
 
-“Un chin.”
+“*Un chin.*”
 
 Carmen laughed and looked over his shoulder.
 
-“Mercedes!”
+“*Mercedes!*”
 
 Taiga closed his eyes briefly.
 
@@ -124,7 +124,7 @@ Leo grinned.
 
 “Also yeah.”
 
-“Julio.”
+“*Julio.*”
 
 Carmen had heard that one.
 
@@ -142,15 +142,15 @@ A girl stood in the doorway behind Carmen, watching Taiga with the specific conc
 
 Leo noticed her.
 
-“Dani.”
+“*Dani.*”
 
-“I know.”
+“*I know.*”
 
-“You haven’t met him.”
+“*You haven’t met him.*”
 
-“I’ve seen pictures.”
+“*I’ve seen pictures.*”
 
-“That’s not meeting.”
+“*That’s not meeting.*”
 
 Dani stepped outside. She looked sixteen in the way Taiga had started recognizing at Olympus whenever somebody’s younger sibling visited: old enough to want everyone to stop treating them like a child and young enough to make adults regret agreeing.
 
@@ -192,13 +192,13 @@ Dani ignored him.
 
 Carmen turned around so quickly that Taiga almost laughed.
 
-“Daniela.”
+“*Daniela.*”
 
-“What? They’re already boyfriends.”
+“*What? They’re already boyfriends.*”
 
-“That doesn’t mean you ask that in the first thirty seconds.”
+“*That doesn’t mean you ask that in the first thirty seconds.*”
 
-“Why not? It already happened.”
+“*Why not? It already happened.*”
 
 Leo covered his face.
 
@@ -222,11 +222,11 @@ Taiga liked Dani a little more than he wanted to admit.
 
 Before anybody could continue, a boy ran across the courtyard from the direction of the stairs and went straight to Leo.
 
-“Julio!”
+“*Julio!*”
 
 Leo turned in time to catch him around the shoulders.
 
-“Hey.”
+“*Hey.*”
 
 The boy started talking immediately, fast enough that Taiga got almost nothing beyond Leo’s name and something about tomorrow. Leo answered in the same language without changing rhythm, crouching slightly so they were closer to the same height.
 
@@ -236,7 +236,7 @@ The kid stopped long enough to notice him.
 
 Leo pointed.
 
-“Antonio, this is Taiga.”
+“*Antonio, this is Taiga.*”
 
 Antonio looked at Taiga with complete seriousness.
 
@@ -258,7 +258,7 @@ Leo turned.
 
 Taiga crouched enough to address Antonio directly.
 
-“Sí.”
+“*Sí.*”
 
 Antonio grinned.
 
@@ -276,7 +276,7 @@ A broad man leaned over the upstairs railing.
 
 Unlike Manuel, he looked like he had been waiting specifically for an audience.
 
-“There he is!” he called, and then continued in Spanish at a speed that removed Taiga from the conversation almost immediately.
+“*There he is!*” he called, and then continued in Spanish at a speed that removed Taiga from the conversation almost immediately.
 
 Leo answered.
 
@@ -314,7 +314,7 @@ The woman came down the stairs more slowly. She had a calm expression that made 
 
 She greeted Taiga in Spanish, but clearly enough that he caught the welcome and the question about the flight. He answered in the simplest sentence he could manage.
 
-“Largo, pero bien.”
+“*Largo, pero bien.*”
 
 Long, but good.
 
@@ -322,7 +322,7 @@ Isa nodded as if this were a perfectly ordinary answer and moved on without cong
 
 Taiga immediately appreciated her.
 
-“Come,” Carmen said, already moving. “Mercedes is waiting.”
+“*Come,*” Carmen said, already moving. “*Mercedes is waiting.*”
 
 Taiga looked at Leo.
 
@@ -352,13 +352,13 @@ Mercedes sat near the open kitchen with a glass of something cold beside her. Sh
 
 Leo went to her first.
 
-“Abuela.”
+“*Abuela.*”
 
 She touched his cheek, said something that made him roll his eyes, and then looked past him at Taiga.
 
 Taiga stepped forward.
 
-“Buenas tardes, Doña Mercedes. Mucho gusto.”
+“*Buenas tardes, Doña Mercedes. Mucho gusto.*”
 
 Mercedes looked at him for a long second.
 
@@ -368,31 +368,31 @@ Then back at Taiga.
 
 Her smile was slow.
 
-“You studied.”
+“*You studied.*”
 
 Taiga understood because she said it carefully.
 
-“A little.”
+“*A little.*”
 
-“More than Julio told me.”
+“*More than Julio told me.*”
 
 Leo objected immediately.
 
-“I told everybody he was studying.”
+“*I told everybody he was studying.*”
 
-“You said he knew some words.”
+“*You said he knew some words.*”
 
-“I do know some words.”
+“*I do know some words.*”
 
 Mercedes waved one hand toward Leo without looking at him.
 
-“He talks too much.”
+“*He talks too much.*”
 
 Taiga understood that too.
 
 He smiled.
 
-“Sí.”
+“*Sí.*”
 
 Leo stared.
 
@@ -418,9 +418,9 @@ The food helped.
 
 There was rice, stewed chicken, beans, avocado and fried plantain, plus two other things Taiga did not know the names of and stopped trying to identify after Carmen put more food on his plate before he had finished the first serving.
 
-“I can do it,” he said.
+“*I can do it,*” he said.
 
-“I know.”
+“*I know.*”
 
 She added more anyway.
 
@@ -432,15 +432,15 @@ Leo leaned closer.
 
 Carmen heard her name in the English and looked over.
 
-“He needs to eat.”
+“*He needs to eat.*”
 
-“I am eating.”
+“*I am eating.*”
 
 Leo translated.
 
 Carmen pointed at Taiga’s plate like the evidence supported her.
 
-“He’s thin.”
+“*He’s thin.*”
 
 Taiga looked down at himself.
 
@@ -452,7 +452,7 @@ Across the table, Manuel was looking under a folded napkin.
 
 Dani watched him for several seconds.
 
-“Papá.”
+“*Papá.*”
 
 Manuel looked up.
 
@@ -504,17 +504,17 @@ Leo choked.
 
 Carmen closed her eyes.
 
-“Daniela.”
+“*Daniela.*”
 
 Dani looked genuinely confused.
 
-“What? I want to know where he sleeps.”
+“*What? I want to know where he sleeps.*”
 
-“At night,” Leo said.
+“*At night,*” Leo said.
 
-“That doesn’t answer it.”
+“*That doesn’t answer it.*”
 
-“That was intentional.”
+“*That was intentional.*”
 
 Dani looked back at Taiga.
 
@@ -544,7 +544,7 @@ Leo was trying not to smile.
 
 Mercedes looked up at the word *family* even though the rest had been English.
 
-“What did he say?”
+“*What did he say?*”
 
 Leo translated.
 
@@ -562,7 +562,7 @@ Taiga looked at Leo.
 
 Taiga answered before Leo could do anything else.
 
-“No.”
+“*No.*”
 
 The table laughed.
 
@@ -570,7 +570,7 @@ Mercedes repeated the question more slowly.
 
 Taiga understood enough this time.
 
-“He is a bad teacher,” Taiga said carefully in Spanish. “He knows when something is wrong, but he doesn’t know why.”
+“*He is a bad teacher,*” Taiga said carefully in Spanish. “*He knows when something is wrong, but he doesn’t know why.*”
 
 Leo turned toward him.
 
@@ -658,7 +658,7 @@ Ramón started another story, this one involving football.
 
 Leo sighed before the second sentence.
 
-“No.”
+“*No.*”
 
 Ramón pointed at Taiga. He had a fresh audience, and apparently that was enough.
 
@@ -932,7 +932,7 @@ Leo’s hands settled around his waist.
 
 When they separated, a voice called from somewhere outside the room.
 
-“Julio!”
+“*Julio!*”
 
 Leo closed his eyes.
 
@@ -1162,17 +1162,17 @@ Carmen was standing near the counter with a list in one hand and coffee in the o
 
 Dani came in through the patio door wearing shoes and carrying a bag.
 
-“Where are you going?” Leo asked.
+“*Where are you going?*” Leo asked.
 
-“Out.”
+“*Out.*”
 
-“With?”
+“*With?*”
 
-“People.”
+“*People.*”
 
-“That is not an answer.”
+“*That is not an answer.*”
 
-“It’s enough of one.”
+“*It’s enough of one.*”
 
 Taiga looked between them.
 
@@ -1186,15 +1186,15 @@ Antonio crossed the patio carrying a ball under one arm and something wrapped in
 
 Carmen looked at Taiga.
 
-“Did you sleep?”
+“*Did you sleep?*”
 
 He understood that.
 
-“Sí. Bien.”
+“*Sí. Bien.*”
 
 She smiled.
 
-“Coffee?”
+“*Coffee?*”
 
 “Yes.”
 
@@ -1214,13 +1214,13 @@ Leo looked wounded.
 
 Manuel walked into the kitchen again.
 
-“Keys?”
+“*Keys?*”
 
 Carmen looked at him.
 
-“You had them.”
+“*You had them.*”
 
-“I know.”
+“*I know.*”
 
 Dani pointed toward the counter.
 
@@ -1306,7 +1306,7 @@ Leo laughed.
 
 Taiga looked at Mercedes.
 
-“Gracias, Doña Mercedes.”
+“*Gracias, Doña Mercedes.*”
 
 Mercedes waved them away.
 
@@ -1472,7 +1472,7 @@ It was not much of a field. More of an open hard-packed space beside a small cou
 
 One recognized him first.
 
-“Julio!”
+“*Julio!*”
 
 Leo raised a hand.
 
@@ -1500,7 +1500,7 @@ The boy was still waiting.
 
 Taiga answered with the vocabulary he had.
 
-“Sí. Más rápido.”
+“*Sí. Más rápido.*”
 
 Leo looked betrayed.
 
@@ -1684,7 +1684,7 @@ She had moved from the patio table to a chair nearer the shade, with a small rad
 
 She looked up when they entered.
 
-“¿Comieron?”
+“*¿Comieron?*”
 
 Taiga understood immediately.
 
@@ -1692,7 +1692,7 @@ Taiga understood immediately.
 
 Then corrected himself.
 
-“Sí.”
+“*Sí.*”
 
 Mercedes asked what.
 
@@ -1700,7 +1700,7 @@ Taiga looked at Leo.
 
 He knew this one.
 
-“Empanadas.”
+“*Empanadas.*”
 
 Mercedes made a face.
 
@@ -1710,9 +1710,9 @@ Taiga recognized it.
 
 He pointed at Leo.
 
-“He likes them.”
+“*He likes them.*”
 
-“I do not.”
+“*I do not.*”
 
 “You keep going back.”
 
@@ -1726,7 +1726,7 @@ Leo laughed.
 
 Taiga looked at her.
 
-“Exacto.”
+“*Exacto.*”
 
 Mercedes smiled as though Taiga had made measurable progress.
 
@@ -1864,7 +1864,7 @@ By late afternoon, the property had repopulated.
 
 Manuel returned carrying more bags than seemed necessary and immediately realized one of them belonged in Ramón’s section. Carmen came in behind him with a box Leo tried to inspect before she slapped his hand away.
 
-“Tomorrow,” she said.
+“*Tomorrow,*” she said.
 
 That word Taiga understood.
 
@@ -1896,7 +1896,7 @@ Taiga watched for a moment.
 
 Then Carmen handed him one end of the table.
 
-“Taiga.”
+“*Taiga.*”
 
 He understood the gesture even if he missed the sentence.
 
@@ -1922,7 +1922,7 @@ Taiga put it down.
 
 She nodded.
 
-“Perfect.”
+“*Perfect.*”
 
 Taiga understood that too.
 
