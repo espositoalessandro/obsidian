@@ -888,11 +888,15 @@ Taiga almost answered something sharp. Instead he said:
 
 The guy laughed. They reset.
 
-Fifteen minutes in, Mendez got the ball centrally. Taiga had seen this shape from the stands. Defender stepped toward Leo. Space behind fullback. Taiga moved where he was supposed to go. Leo turned. Saw him. Pass came. Taiga received in stride. Too far from goal to shoot. He drove forward. Fullback recovering. Center-back shifting. He could cross. The near-post run wasn't there.
+Fifteen minutes in, Mendez drifted toward Taiga's side to receive. Taiga's defender stepped inside with him. The line opened.
 
-He looked inside: Mendez had continued into the box.
+Taiga went.
 
-One defender between them. Taiga cut the ball backward. Low. Leo hit it first time. Saved. Rebound. Aaron scored.
+Leo turned. Saw him. Pass came. Taiga received in stride and drove forward. The defender was already chasing back. He could cross. The near-post run wasn't there.
+
+He looked inside. Mendez had continued into the box. Aaron had kept running behind the play.
+
+Taiga cut the ball backward. Low. Leo hit it first time. Saved. Aaron arrived on the rebound and scored.
 
 “YES\!”
 

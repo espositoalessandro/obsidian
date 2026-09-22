@@ -703,25 +703,31 @@ Lina laughed so hard she had to cover her mouth. Rao moved on. Taiga stared at h
 
 It consumed the entire week anyway. Not visibly. Taiga still went to class. Still did assignments. Still ate. Still argued with Nora on Thursday about whether Hall's example of judicial restraint actually counted as restraint if the court had simply chosen a narrower doctrine. Still went to lunch. Still complained about Starbuffs pricing. Still trained. But Saturday existed behind everything. A fixed point. Mercer had told him to train normally. Taiga interpreted this as an accusation.
 
-Wednesday film made it worse. Westlake appeared on the screen. Their right-back, number two, was exactly what Leo had said. Aggressive step. Early commitment. Fast enough to recover if the winger hesitated. Mercer paused.
+Wednesday film made it worse. Westlake appeared on the screen. They pressed like hesitation offended them, and their right-back, number two, was exactly what Leo had warned about: aggressive, impatient, always trying to win the first duel.
+
+Mercer paused.
 
 “Wide players. What do we see?”
 
 Leo answered first.
 
-“He wants the first duel. If we keep feeding him isolated one-v-one, we're giving him exactly what he likes.”
+“Two wants you to attack him immediately.”
 
 Mercer nodded.
 
-“So what?”
+“So don't.”
 
-“Move him before we attack him. Wall pass, underlap, even just recycle once. If he starts cheating inside because he expects the combination, then the outside lane gets stupid big.”
+Leo pointed at the screen.
 
-Gav added, “Their eight doesn't always cover behind him.”
+“Pass inside. Move. Make him turn once. Then go. He hates turning.”
+
+Gav added, “And sometimes nobody follows behind him.”
 
 “That's good.”
 
-Mercer rewound. Taiga watched the movement. There. Right-back jumps. Eight late. Space. Information. He could work with information. Mercer changed clip. Set pieces. Taiga took notes. More notes than necessary. Leo leaned back from the row ahead and whispered, “You're going to have a novel by kickoff.” Taiga didn't look up.
+Mercer rewound. Taiga watched it again. Number two jumped. Winger passed. Moved. Got it back. Number two had to turn. Space.
+
+Information. He could work with information. Mercer changed clip. Set pieces. Taiga took notes. More notes than necessary. Leo leaned back from the row ahead and whispered, “You're going to have a novel by kickoff.” Taiga didn't look up.
 
 “Mind your business.”
 
