@@ -364,7 +364,7 @@ Reasons:
 | **Wed Apr 22** | Ch34 — Minutes | **Northbridge** | Olympus 2–1; Taiga enters 57'; direct assist to Leo |
 | **Sat Apr 25** | Ch35 — Eleven | **Cedar Ridge** | 1–1; Taiga's first senior start |
 | **Tue Apr 28** | Ch36 — Fault | **Westlake away** | Olympus lose 1–2; Taiga turnover begins winner; Leo suffers **mild ankle sprain** |
-| **Sat May 2** | Ch37 — Ninety | **St. Vincent away — final conference match** | Olympus win 1–0; Taiga scores championship goal; **Taiga and Leo's first kiss** |
+| **Sat May 2** | Ch37 — Ninety | **St. Vincent away — final conference match** | Olympus win 1–0; Taiga scores championship goal; **Yoichi, Keitaro, Hiro, Hunter and Natsumi attend as a surprise coordinated by Yoichi and Leo**; **Taiga and Leo's first kiss** |
 
 ### Relationship timing
 - Return from Camp Buddy: **Sun Apr 19**
