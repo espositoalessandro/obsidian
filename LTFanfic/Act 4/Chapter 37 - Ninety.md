@@ -800,10 +800,6 @@ Hunter stepped forward and offered Leo a hand.
 
 “You too.”
 
-Natsumi nodded.
-
-“Same.”
-
 Hiro stared at Leo for one second longer than necessary.
 
 Then:
@@ -1116,7 +1112,7 @@ That got another cheer.
 
 Enzo looked down at himself.
 
-“So this is the dress code?”
+“No dress code?”
 
 Mercer looked at the clean jeans, team sweatshirt and sneakers.
 
@@ -1156,7 +1152,7 @@ Enzo fell into step beside Taiga.
 
 “Probably.”
 
-“First dinner after the team discovered—”
+“First dinner after the—”
 
 Taiga stopped. Enzo stopped too. His smile widened. Taiga pointed at him.
 
@@ -1270,11 +1266,11 @@ The room laughed. Enzo looked between them. Taiga saw it happen. The decision. T
 
 Enzo smiled.
 
-“To the happy couple.”
+“TO THE HAPPY COUPLE!”
 
-The table exploded. Taiga dropped his forehead into one hand. Leo laughed so hard he nearly choked on water. Aaron hit Taiga between the shoulder blades. Scott, somehow, smiled.
+The table exploded. Taiga dropped his forehead into one hand. Leo laughed so hard he nearly choked on water. Aaron hit Taiga between the shoulder blades. Scott, somehow, smiled. Actually smiled. 
 
-Actually smiled. Taiga lifted his head.
+Taiga lifted his head.
 
 “I'm going to kill you.”
 
@@ -1320,7 +1316,7 @@ Leo blinked. Then looked at the phone. Then back at Taiga.
 
 “Oh.”
 
-Taiga's face warmed. Leo's did too. Neither said anything for several seconds. Across the table, Enzo was arguing that tiramisu counted as hydration. Useful. Taiga picked up his water.
+Taiga's face warmed. Leo's did too. Neither said anything for several seconds. Across the table, Enzo was arguing that tiramisù counted as hydration. Useful. Taiga picked up his water.
 
 Leo leaned closer.
 
@@ -1358,7 +1354,7 @@ Leo did too. They reached the Residential Zone. Taiga slowed at the path split. 
 
 Taiga shoved his hands into his pockets.
 
-“Come over.”
+“You coming?”
 
 Leo's eyebrows lifted. Taiga kept walking before the expression could get worse. Leo caught up.
 
@@ -1428,7 +1424,7 @@ Leo watched him.
 
 Taiga did. His mouth found the side of Leo's neck once, just beneath the jaw. Leo's fingers tightened lightly against his back. After that, the room got quieter.
 
-They already knew how to touch each other. Tonight there was simply more time. More room to stop, laugh, adjust around Leo's ankle, and start again without alcohol or a cabin full of other people ten meters away.
+They already knew how to touch each other. Tonight there was simply more time. More room to stop, laugh, adjust around Leo's ankle, and start again.
 
 At some point Taiga's phone buzzed on the desk. Neither moved. It buzzed again. Leo glanced toward it.
 
@@ -1486,7 +1482,7 @@ Taiga smiled. Leo's hand flattened against his stomach.
 
 Leo laughed. Then quieter:
 
-“I'm glad you did it.”
+“I'm so happy you did it.”
 
 Taiga's fingers slowed in his hair.
 
@@ -1524,14 +1520,20 @@ Leo pulled the blanket higher. His breathing gradually slowed. Taiga kept his ha
 
 The faint glow from outside the window. Taiga listened until Leo's breathing became even. He should have been exhausted enough to sleep immediately. Instead he lay there for a while.
 
-Conference champion. First-team starter. Goal scorer. Leo asleep against him. The categories did not arrange themselves into anything useful. They did not need to. Taiga reached toward the bedside table and set an alarm.
+Conference champion. First-team starter. Goal scorer. Leo asleep against him in his bed. The categories did not arrange themselves into anything useful. They did not need to. Taiga reached toward the bedside table and set an alarm.
 
 Then another thought occurred. He looked across the room at Caleb's perfectly made bed. His phone sat charging beside him. Taiga opened the chat.
 
 **Taiga:** thanks for the warning
 
-No reply. Probably asleep. Or busy. Taiga regretted the message instantly. He put the phone face-down. Leo shifted in his sleep and tightened one arm around Taiga's waist.
+**Caleb:** maya was right
 
-Taiga stopped thinking about Caleb. He closed his eyes. This time, sleep came.
+**Taiga:** ?
 
----
+**Caleb:** about experimenting
+
+Taiga laughed
+
+**Taiga:** fuck you.
+
+**Caleb:** you're welcome, champion.
