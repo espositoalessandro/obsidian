@@ -302,33 +302,27 @@ Taiga held up one thumb. Leo gave him the finger. Taiga smiled and returned to t
 
 ---
 
-The first ten minutes belonged to Northbridge. Not because they created much. Because Olympus kept giving them what they wanted. Wide pass. Trap. Backward pass. Reset. Wide again.
-
-Trap again. Mercer stood near the technical area with both arms folded. At seven minutes, Enzo received near the line. Northbridge’s winger delayed. Fullback came hard. Enzo bounced inside to Aaron.
-
-Correct. Then stayed still. Aaron returned it. Trap closed. Turnover. Northbridge countered. Gav stepped. Foul. Enzo jogged back, already swearing at himself. Taiga leaned forward on the bench.
-
+The first ten minutes belonged to Northbridge. Not because they created much. Because Olympus kept giving them what they wanted. Wide pass. Trap. Backward pass. Reset. Wide again. Trap again.
+Mercer stood near the technical area with both arms folded. At seven minutes, Enzo received near the line. Northbridge’s winger delayed. Fullback came hard. Enzo bounced inside to Aaron.
+Correct.
+Then stayed still. Aaron returned it. Trap closed. Turnover. Northbridge countered. Gav stepped. Foul. Enzo jogged back, already swearing at himself. Taiga leaned forward on the bench.
 The free kick came in. Scott punched. Leo collected the second ball and carried it thirty meters before getting clipped. Whistle. Breathing room. Olympus settled. At fourteen, Leo found space behind Northbridge’s midfield for the first time.
-
 Gav played through. Leo checked over one shoulder. Turned. Enzo ran behind. Leo slipped the pass. Fullback recovered. Cross blocked. Corner. The student section woke up. Taiga stood with the bench.
 
 Corner came in. Gav got his head to it. Over. He slapped both hands together once while jogging back. At twenty-two, Northbridge nearly scored. Long throw. Of course.
 
 Ball into the box. Header. Second ball. Shot through bodies. Scott dropped late and pushed it around the post. He stayed on the ground for half a second.
-
 Then stood. Enzo ran over and hit the back of his head. Scott shoved him away. Corner. Cleared. At twenty-eight, Olympus found the weak side. Finally. Leo dropped deeper.
-
 Northbridge followed. Aaron received. Enzo stayed wide. Pass. One touch. Inside again. Leo. Switch. Right winger into space. Cross. Striker hit it first time. Keeper saved. The rebound went wide.
-
 Taiga exhaled through his nose. That was the shape. Northbridge knew it too. They adjusted. Their left midfielder stopped collapsing as far. The next switch died before it reached the wing.
 
 Minute thirty-five. Zero-zero. Minute forty. Still zero-zero. The match had become ugly. Fouls. Throw-ins. Three minutes spent arguing over a corner that should have been a goal kick.
 
 Mercer did not argue. One of the assistants did enough for both of them. At forty-three, Leo got fouled again. This one harder. He hit the ground on his shoulder.
-
 Taiga stood. Leo rolled once and pushed himself up. Northbridge’s six offered a hand. Leo took it. Free kick. He rubbed his shoulder while walking toward the box.
-
-Taiga sat again. The free kick hit the wall. Halftime. Zero-zero.
+Taiga sat again. The free kick hit the wall. 
+Halftime. 
+Zero-zero.
 
 ---
 
@@ -405,9 +399,9 @@ Taiga stood. Evan followed. Two others too. He pulled the training top over his 
 Second half. Olympus started better. Leo moved left. Northbridge’s six followed. Aaron carried into the space twice. First ended in a blocked cross. Second ended with Leo shooting from the edge.
 
 Wide. At fifty-one, Northbridge got another long throw. Scott caught it. He immediately turned toward the bench. The assistant coach lifted both hands. Scott nodded once. Point made.
+Taiga laughed while jogging. 
 
-Taiga laughed while jogging. At fifty-four, Northbridge scored. Not from a throw. Worse. Olympus lost the ball in midfield. Northbridge went direct. One pass into the channel. Their striker held Gav off.
-
+At fifty-four, Northbridge scored. Not from a throw. Worse. Olympus lost the ball in midfield. Northbridge went direct. One pass into the channel. Their striker held Gav off.
 Right winger arrived underneath. Shot low. Scott got a hand to it. Post. In. The away corner exploded. Taiga stopped his warm-up. The scoreboard changed.
 
 **OLYMPUS 0 — 1 NORTHBRIDGE**
@@ -515,12 +509,12 @@ Taiga rubbed his hip.
 “Fuck off.”
 
 They pushed up. At seventy-five, Leo dropped beside Gav to receive. Northbridge’s six followed again. Taiga saw the space before Leo turned. He started. Leo turned. Ball came diagonally.
-
 Taiga took it in stride. Fourteen was half a step late. Taiga drove toward the box. Center-back moved across. Striker near post. Leo arriving at the edge. Taiga shaped to cross.
+Fourteen stretched. Taiga cut the ball backward instead. Leo met it. First time. Low. Inside the far post. 
+Two-one. 
+For half a second Taiga saw the net move.
 
-Fourteen stretched. Taiga cut the ball backward instead. Leo met it. First time. Low. Inside the far post. Two-one. For half a second Taiga saw the net move.
-
-Then Leo was coming at him. Fast. Too fast. Taiga barely got his feet set before Leo hit him with both arms around his shoulders. Taiga caught him around the waist.
+Then Leo was coming at him. Fast. Too fast. Taiga barely got his feet set before Leo jumped on him, hugging him tight. Taiga caught him around the waist.
 
 “Fucking perfect!”
 
@@ -531,8 +525,9 @@ Then Leo was coming at him. Fast. Too fast. Taiga barely got his feet set before
 “Barely!”
 
 The rest of the team arrived. Aaron crashed into them from one side. Gav from the other. The striker jumped onto somebody’s back. Taiga lost track of who was attached to what.
-
-The student section kept screaming. Eventually Mercer started waving everyone toward halfway. Leo backed away, still smiling. Taiga shoved his shoulder. Leo shoved him back. Two-one. Seventy-six minutes.
+The student section kept screaming.
+Eventually Mercer started waving everyone toward halfway. Leo backed away, still smiling. Taiga shoved his shoulder. Leo shoved him back. He had something resembling a proud smile on his face.
+Two-one. Seventy-six minutes.
 
 Fourteen looked annoyed now. Taiga liked him better that way.
 
@@ -543,7 +538,6 @@ The last fifteen minutes were uglier. Northbridge pushed. Olympus dropped five m
 “OUT!”
 
 Everyone stepped. Northbridge went long. Gav headed clear. Second ball. Northbridge again. At eighty-one, Taiga got a chance to run. Leo won possession and played him early. Halfway line.
-
 Open grass. Taiga carried thirty meters. Fourteen chasing. Striker central. Could force it. He waited. Aaron overlapped. Taiga played him. Aaron crossed. Defender cleared. Corner. Aaron turned while jogging toward the box.
 
 “Responsible.”
@@ -584,7 +578,10 @@ The defender laughed.
 
 “Fair.”
 
-Taiga waited for teammates to move up. Played backward. Olympus kept the ball. The referee checked the watch. One more long pass. Gav headed it. Whistle. Two-one.
+Taiga waited for teammates to move up. Played backward. Olympus kept the ball. The referee checked the watch. One more long pass. Gav headed it.
+Whistle.
+
+Two-one.
 
 ---
 
