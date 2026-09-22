@@ -348,11 +348,7 @@ They crossed the patio.
 
 Only then did Taiga fully register the architecture. Carmen and Manuel’s section had its own door and windows. Another entrance led toward what Leo had called Tío’s. Mercedes’s part sat closer to the center, older in small ways Taiga could not have named if asked: the shape of the doorway, the tile near the threshold, the furniture visible inside.
 
-It was not one house.
-
-It also was.
-
-Taiga understood why Leo had failed to explain it.
+It was not one house, and somehow it also was. Taiga understood why Leo had failed to explain it.
 
 Mercedes sat near the open kitchen with a glass of something cold beside her. She did not get up when they entered. Everybody else seemed to move toward her eventually, which probably made standing unnecessary.
 
@@ -532,9 +528,7 @@ She considered that.
 
 “Okay.”
 
-And that was it.
-
-No offense. No argument. She went back to eating.
+And that was it. Dani took no offense and offered no argument; she simply went back to eating.
 
 Taiga glanced at Leo.
 
@@ -642,11 +636,7 @@ Dani translated *that* too.
 
 Carmen finally gave up and laughed with everyone else.
 
-Taiga made a decision.
-
-Doña Mercedes was dangerous.
-
-He liked her.
+Taiga made a decision then: Doña Mercedes was dangerous, and he liked her.
 
 The conversation moved on before he fully recovered.
 
@@ -666,19 +656,13 @@ No, he was not better than Leo at everything.
 
 “You could have stopped earlier.”
 
-Ramón started another story.
-
-This one involved football.
+Ramón started another story, this one involving football.
 
 Leo sighed before the second sentence.
 
 “No.”
 
-Ramón pointed at Taiga.
-
-Fresh audience.
-
-That was apparently enough.
+Ramón pointed at Taiga. He had a fresh audience, and apparently that was enough.
 
 The story concerned a match from years ago in which Ramón had, according to his own version, scored from almost midfield against a team that had not lost in two seasons.
 
@@ -710,11 +694,7 @@ Ramón spread both hands as if this improved the story.
 
 Taiga understood none of the explanation that followed, but he understood Ramón perfectly.
 
-By the time dinner ended, Taiga’s head felt full.
-
-Not bad.
-
-Just full.
+By the time dinner ended, Taiga’s head felt full. Not in a bad way; there had simply been too much to process at once.
 
 Spanish had stopped being individual sentences and turned into currents. He could follow one if somebody addressed him directly, especially if they slowed down. The moment two people spoke across the table, his understanding collapsed. When three did it, he stopped trying.
 
@@ -726,9 +706,7 @@ It made the whole thing easier.
 
 Eventually chairs began scraping backward and people started moving again. Taiga thought dinner was over until he realized Mercedes and Ramón were still sitting at the table, Carmen was packing food into containers, Manuel had wandered outside, Dani had taken Antonio somewhere, and Isa was washing something despite Carmen telling her not to.
 
-Nobody announced an ending.
-
-They simply became other activities.
+Nobody announced an ending. Dinner simply dissolved into other activities.
 
 Leo touched Taiga’s shoulder.
 
@@ -844,11 +822,7 @@ Leo took the controller away.
 
 “Absolutely not.”
 
-Taiga turned.
-
-Then saw the beds.
-
-He stopped.
+Taiga turned, saw the beds and stopped.
 
 Leo followed his eyes.
 
@@ -1134,11 +1108,7 @@ Taiga shoved him away.
 
 They changed, argued over which mattress was worse, discovered that the difference in height was even more annoying when lying down and eventually solved the gap by pushing the furniture another few centimeters together.
 
-Outside, the family got quieter by degrees.
-
-Not silent.
-
-Never silent.
+Outside, the family got quieter by degrees, though never completely silent.
 
 Taiga fell asleep with Leo’s hand resting against his stomach and somebody laughing somewhere beyond the window.
 
@@ -1270,15 +1240,7 @@ Leo refused to translate.
 
 Breakfast spread itself across the morning while plans for Sunday happened around it. Taiga caught *cumpleaños* often enough to know when Leo’s birthday had entered the conversation, even when everything around the word escaped him.
 
-Carmen needed groceries.
-
-Ramón was apparently handling chairs.
-
-Isa had somewhere to go before lunch.
-
-Dani had already made plans.
-
-Antonio wanted to know whether tomorrow involved cake.
+Carmen needed groceries, Ramón was apparently handling chairs, Isa had somewhere to go before lunch, Dani had already made plans, and Antonio wanted to know whether tomorrow involved cake.
 
 Leo answered three different people while buttering bread.
 
@@ -1480,11 +1442,7 @@ Taiga stared.
 
 “It’s the best reason.”
 
-The empanadas were not terrible.
-
-They were also not especially good.
-
-Taiga told Leo that.
+The empanadas were not terrible, but they were not especially good either. Taiga told Leo exactly that.
 
 Leo looked offended on behalf of the establishment.
 
@@ -1552,9 +1510,7 @@ The boy laughed.
 
 Taiga smiled.
 
-They did not stay long.
-
-That helped.
+They did not stay long, which helped.
 
 Leo could have spent an hour there without effort, Taiga suspected. He knew people. People knew him. Nobody seemed surprised that he was back or that he had brought someone with him.
 
@@ -1652,9 +1608,7 @@ They stayed there a little longer without needing to fill the silence.
 
 That was different too.
 
-At the house, silence had felt temporary, something the next person would interrupt eventually. Out here it simply existed between them.
-
-Leo looked at his phone.
+At the house, silence had felt temporary, something the next person would interrupt eventually. Out here it simply existed between them, and neither seemed in a hurry to break it. Eventually Leo looked at his phone.
 
 “We should probably go back.”
 
@@ -1840,13 +1794,7 @@ Then she went inside.
 
 A little later Antonio appeared through the gate ahead of Ramón and Isa. He went directly to Leo, showed him something Taiga could not see and spent five minutes explaining it with the intensity of a legal argument.
 
-Leo listened.
-
-Actually listened.
-
-He asked questions.
-
-Antonio corrected him.
+Leo listened with full attention, asked questions, and let Antonio correct him when he got something wrong.
 
 Then the kid noticed Taiga and moved to sit beside him instead.
 
@@ -1980,17 +1928,11 @@ She nodded.
 
 Taiga understood that too.
 
-By evening, he knew where the glasses were in Mercedes’s kitchen.
-
-That felt more significant than it should have.
+By evening, he knew where the glasses were in Mercedes’s kitchen, which felt more significant than it probably should have.
 
 Dinner was smaller and less organized than the night before. People ate at different times because half the food was apparently preparation for Sunday and therefore forbidden. Taiga did not ask why there were already so many chairs.
 
-He had learned enough.
-
-Eventually, the patio settled.
-
-Not empty, but slower.
+He had learned enough to stop asking. Eventually, the patio settled into something slower without ever becoming empty.
 
 Taiga and Leo escaped to the bedroom before anyone could invent another reason for them to stay outside.
 
