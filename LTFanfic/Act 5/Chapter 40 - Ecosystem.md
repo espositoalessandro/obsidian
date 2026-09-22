@@ -398,6 +398,302 @@ Mercedes laughed.
 
 That was the beginning of the problem.
 
+Carmen said something to Leo from the doorway. Taiga caught *hora* and nothing useful around it.
+
+Leo looked at him.
+
+“Dinner in about an hour.”
+
+Taiga checked the time almost automatically. It was a little after seven.
+
+“Good.”
+
+“You want to put your stuff upstairs?”
+
+“I want to stop smelling like an airport.”
+
+Leo laughed.
+
+“That too.”
+
+Manuel had already carried the suitcase into Carmen and Manuel’s part of the house. Leo picked up Taiga’s backpack and led him through the living room, then toward a staircase Taiga had not noticed from the courtyard.
+
+“You’re upstairs?”
+
+“My room is.”
+
+“Of course it is.”
+
+“What does that mean?”
+
+“This place keeps producing stairs.”
+
+“It’s a house.”
+
+“It’s several houses pretending to be one.”
+
+Leo smiled and kept climbing.
+
+The upper floor was quieter. The noise from the courtyard followed them, but at a distance now, softened by walls and the turn in the stairs. Leo opened the last door along the short hallway and stopped immediately.
+
+“Oh, come on.”
+
+Taiga looked past him.
+
+“What?”
+
+“She moved my desk.”
+
+The room was unmistakably Leo’s even before Taiga knew what half the things in it meant. A framed football photograph hung near the desk, with two medals looped over one corner of a shelf and an old pair of boots pushed beneath the window. Across from them sat a gaming setup that had clearly been assembled over years rather than bought all at once: monitor, headset, controllers, cables, a chair that had survived at least one repair.
+
+Taiga stepped inside.
+
+“You play?”
+
+Leo turned.
+
+“Games?”
+
+“Yes.”
+
+“Obviously.”
+
+“That was not obvious.”
+
+“You never asked.”
+
+“You talk constantly.”
+
+“That doesn’t mean I’ve submitted a complete inventory of my personality.”
+
+Taiga looked back at the desk.
+
+One controller had worn rubber on the sticks. A stack of old game cases shared a shelf with schoolbooks and a small speaker. Beside the monitor was a photograph of a younger Leo in a football kit with several other boys.
+
+Taiga pointed at one of them.
+
+“Enzo?”
+
+Leo looked.
+
+“Yeah. We were fifteen, I think.”
+
+“You look twelve.”
+
+“Fuck you.”
+
+Taiga smiled and turned toward the rest of the room.
+
+That was when he saw the beds.
+
+Leo’s normal single bed had been pushed against the wall. Beside it, the sofa had been opened into a second sleeping surface and moved close enough that the two mattresses almost met. One sat slightly higher than the other, leaving a narrow seam between them.
+
+Both had fresh sheets.
+
+Taiga looked at Leo.
+
+“What the fuck is this?”
+
+Leo covered his face.
+
+“Moma.”
+
+“That doesn’t answer the question.”
+
+“It answers every question.”
+
+“You have two beds.”
+
+“I had one bed and one sofa.”
+
+“Now you have one badly constructed double bed.”
+
+“Yes.”
+
+Taiga pressed one hand against the sofa mattress.
+
+It was noticeably firmer.
+
+“Why are they different heights?”
+
+“Because one is a bed and one is a sofa.”
+
+“Your mother did this?”
+
+“She said my bed sleeps one person.”
+
+Taiga looked at him.
+
+“And?”
+
+“And there are two of us.”
+
+That was apparently the entire logic.
+
+There had been no conversation about whether Taiga would sleep somewhere else, no awkward explanation waiting for him on arrival. Carmen had counted people, counted beds and solved the problem.
+
+Taiga looked at the seam again.
+
+“You’re sleeping on that side.”
+
+“This is my room.”
+
+“You’re heavier.”
+
+“That sounds like discrimination.”
+
+“It’s physics.”
+
+Leo dropped Taiga’s backpack beside the wardrobe.
+
+“There’s space for your stuff there. Moma cleared it.”
+
+“She moved your desk and cleared my stuff.”
+
+“Yes.”
+
+“You’re never finding anything again.”
+
+“I know.”
+
+A pair of fresh towels had been folded on the chair beside the door. Taiga picked one up.
+
+“Bathroom?”
+
+“Across the hall.”
+
+“Good.”
+
+Leo pointed.
+
+“Hot water takes a second.”
+
+“I’ve survived worse.”
+
+“You say that now.”
+
+Taiga took his toiletries from the backpack and headed for the door.
+
+Leo leaned against the frame.
+
+“Need anything?”
+
+“A different family.”
+
+“You’ve been here twenty minutes.”
+
+“Exactly.”
+
+Leo laughed.
+
+The bathroom was ordinary enough that Taiga felt relieved by it. He closed the door, put his things beside the sink and looked at himself in the mirror.
+
+Travel had settled on him in layers. His hair had flattened in the wrong places, his shirt smelled faintly of airplane cabin and warm car, and the back of his neck still felt sticky from the humidity outside.
+
+The shower helped more than he expected.
+
+For ten minutes there was only water, tile and the muted sound of voices somewhere beyond the door. Nobody was asking him anything. Nobody was speaking too quickly for him to follow. Nobody was discovering that Leo’s foreign boyfriend had apparently learned enough Spanish to become tonight’s entertainment.
+
+By the time he stepped out, the flight felt farther away.
+
+He dried off, changed into clean clothes and spent another minute at the sink making his hair look less like he had slept against an airplane window for several hours.
+
+When he returned to Leo’s room, Leo was sitting at the desk with one of the old controllers in his hands.
+
+Taiga stopped in the doorway.
+
+“You started without me.”
+
+Leo looked at the controller.
+
+“It isn’t connected.”
+
+“Still rude.”
+
+“I was checking if it works.”
+
+“Does it?”
+
+Leo pressed a button.
+
+Nothing happened.
+
+“No.”
+
+Taiga dropped the towel over the chair.
+
+“Good system.”
+
+“Shut up.”
+
+He had enough energy now to look around again without feeling like the room was another thing happening to him. It was strange seeing Leo reduced to objects that had existed before Olympus: old football photographs, schoolbooks, games, a desk his mother had apparently moved while he was gone.
+
+Leo caught him looking.
+
+“What?”
+
+“Nothing.”
+
+“That keeps happening.”
+
+Taiga walked over and hooked two fingers into the front of Leo’s shirt.
+
+“Hi.”
+
+Leo smiled.
+
+“Hi.”
+
+Taiga kissed him.
+
+It was brief, but still longer than the airport one. There was no crowd behind them this time and no suitcase moving toward a car.
+
+When they separated, Leo rested his forehead against Taiga’s for a second.
+
+“Better?”
+
+Taiga knew what he meant.
+
+“Yeah.”
+
+A voice rose from downstairs.
+
+“Julio!”
+
+Leo closed his eyes.
+
+Taiga smiled.
+
+“That lasted.”
+
+Leo called something back.
+
+Another answer came from below.
+
+He looked at Taiga.
+
+“Dinner.”
+
+Taiga glanced toward the door.
+
+“Already?”
+
+“It’s been almost an hour.”
+
+Taiga checked the time again.
+
+Leo was right.
+
+He looked once more at the room, then at the hallway beyond it.
+
+“Fine.”
+
+Leo took his hand for the first few steps toward the stairs.
+
+“Round two.”
+
+“I hate that you called it that.”
+
 ---
 
 Dinner did not begin so much as accumulate.
@@ -690,277 +986,17 @@ Taiga followed him.
 
 ---
 
-Leo’s actual home was easier to understand once they stepped away from the courtyard.
+When they went back upstairs after dinner, Taiga no longer had enough energy to inspect anything.
 
-Carmen and Manuel’s part of the property felt like a normal house on its own. There was a living room, a kitchen, a hallway and doors that closed. The family compound had made the boundaries invisible from outside, but inside they existed.
+He closed Leo’s bedroom door behind them and stood there for a moment while the noise from downstairs softened into something he could finally ignore.
 
-Leo led Taiga down the hallway and opened the last door.
+Leo dropped onto the edge of his bed.
 
-Then stopped.
+Taiga sat on the sofa mattress beside him.
 
-“Oh, come on.”
+For a few seconds neither of them said anything.
 
-Taiga looked past him.
-
-“What?”
-
-“She moved my desk.”
-
-The room looked lived in despite the fresh sheets.
-
-Taiga stepped inside.
-
-Football appeared first, not as decoration so much as residue. A framed team photograph hung near the desk. Two medals were looped around the corner of a shelf. An old pair of boots sat on top of a box beneath the window. Another photograph showed a younger Leo beside several boys in matching kits.
-
-Taiga pointed.
-
-“Enzo?”
-
-Leo looked.
-
-“Yeah.”
-
-He smiled.
-
-“We were fifteen, I think.”
-
-“You look twelve.”
-
-“Fuck you.”
-
-The other side of the room answered a question Taiga had not known he had.
-
-There was a gaming setup on the desk: monitor, keyboard, headset, controllers, cables collected over years rather than arranged for appearance. A stack of old game cases occupied one shelf beside schoolbooks and a small speaker. The chair had clearly survived more than one attempt to repair it.
-
-Taiga looked at Leo.
-
-“You play?”
-
-Leo stared.
-
-“Play what?”
-
-“Games.”
-
-“Yes.”
-
-“You never said that.”
-
-“You never asked.”
-
-“You talk constantly.”
-
-“That doesn’t mean I have delivered a complete inventory of my personality.”
-
-Taiga walked toward the desk.
-
-“What do you play?”
-
-“Anything, basically. Soccer games, RPGs, shooters. I left the better controller here because I didn’t need two at Olympus.”
-
-Taiga picked up an older controller.
-
-The rubber on one stick was worn smooth.
-
-“This explains things.”
-
-“What things?”
-
-“Your terrible time management.”
-
-Leo took the controller away.
-
-“Absolutely not.”
-
-Taiga turned, saw the beds and stopped.
-
-Leo followed his eyes.
-
-His normal single bed had been pushed against the wall. Beside it, a sofa bed had been unfolded and moved close enough that the two mattresses almost met. Almost. One sat slightly higher than the other, leaving a narrow seam between them that looked specifically designed to swallow an elbow at three in the morning.
-
-Both had fresh sheets.
-
-Taiga looked at Leo.
-
-“What the fuck is this?”
-
-Leo covered his face.
-
-“Moma.”
-
-“That doesn’t answer the question.”
-
-“It answers every question.”
-
-“You have two beds.”
-
-“I had one bed and one sofa.”
-
-“Now you have one badly constructed double bed.”
-
-“Yes.”
-
-Taiga walked closer.
-
-“Why are they different heights?”
-
-“Because one is a bed and one is a sofa.”
-
-“Your mother did this?”
-
-“I told you she was going to reorganize the room.”
-
-Taiga pressed one hand against the sofa mattress.
-
-It was firmer than the bed.
-
-Leo opened one of the drawers in his desk and stared inside.
-
-“She moved everything.”
-
-“You’re upset about the drawer?”
-
-“I had a system.”
-
-“Was the system throwing things in it?”
-
-“Yes. I knew where they were.”
-
-Taiga laughed.
-
-Leo opened another drawer.
-
-“She threw away my cables.”
-
-“Maybe they were dead.”
-
-“They were backup cables.”
-
-“For what?”
-
-“I don’t know yet.”
-
-“That’s why she threw them away.”
-
-Leo turned with genuine betrayal on his face.
-
-“You’re taking her side already?”
-
-“I’ve known her four hours.”
-
-“Exactly.”
-
-Taiga set his backpack near the cleared space beside the wardrobe. There was room for his suitcase too. Fresh towels had been folded on a chair.
-
-Nobody had asked whether he and Leo should share a room.
-
-Nobody had made a point of saying it was okay.
-
-Somebody had simply looked at a single bed, counted two people and added another mattress.
-
-Taiga looked at the seam between them again.
-
-Leo caught the look.
-
-“What?”
-
-“Nothing.”
-
-“Suspicious.”
-
-Taiga stepped closer and pulled him forward by the shirt.
-
-Leo smiled immediately.
-
-“Hi.”
-
-“Hi.”
-
-Taiga kissed him.
-
-It lasted longer than the airport one, mostly because nobody was waiting behind them and Taiga finally had enough quiet to remember he had not actually seen Leo in two weeks.
-
-Leo’s hands settled around his waist.
-
-When they separated, a voice called from somewhere outside the room.
-
-“Julio!”
-
-Leo closed his eyes.
-
-Taiga laughed against his shoulder.
-
-“Welcome home.”
-
-“Shut up.”
-
-Leo called back in Spanish.
-
-The voice answered.
-
-He listened.
-
-Then shouted something else.
-
-Taiga waited.
-
-“What?”
-
-“Moma wants to know if you need another towel.”
-
-“There are two on the chair.”
-
-“I know.”
-
-“Why would I need a third?”
-
-“She wants to be sure.”
-
-“No.”
-
-Leo called back.
-
-Carmen answered.
-
-Leo translated without being asked.
-
-“She says okay.”
-
-Taiga stared.
-
-“That was the whole thing?”
-
-“Yes.”
-
-“Your family communicates by yelling through architecture.”
-
-“Correct.”
-
-Taiga sat on the edge of the sofa bed.
-
-The mattress barely moved.
-
-“You sleep on that side.”
-
-“This is my room.”
-
-“You’re heavier.”
-
-“That sounds like discrimination.”
-
-“The gap is on your side.”
-
-“There is no side.”
-
-“There will be when you fall into it.”
-
-Leo sat beside him.
-
-For a few seconds they listened to the house.
-
-The door muted most of it. Voices still traveled through the hallway and the open window, but here they were background instead of environment.
-
-Taiga leaned back on his hands.
+Then Taiga leaned back on his hands.
 
 “Your family is fucking insane.”
 
@@ -976,7 +1012,7 @@ Taiga looked at him.
 
 Leo’s expression was completely uncomplicated.
 
-Taiga thought about dinner. Carmen feeding him as if hunger were an emergency. Manuel laughing at a joke he barely understood. Dani asking a question and accepting the boundary without argument. Ramón turning a penalty kick into mythology. Isa giving him time to answer. Mercedes detonating the table while looking innocent.
+Taiga thought about dinner: Carmen making sure his plate never stayed empty for long, Dani asking exactly what she wanted to know, Ramón’s football story surviving increasingly destructive corrections, and Mercedes detonating the table while looking innocent.
 
 “Your grandmother is dangerous.”
 
@@ -994,9 +1030,7 @@ Then he looked at Taiga a little more carefully.
 
 “Was it too much?”
 
-Taiga considered lying.
-
-Not because the truth was bad. Because the truth required more than one answer.
+Taiga considered lying, not because the truth was bad but because the truth required more than one answer.
 
 “I understood maybe thirty percent of dinner.”
 
@@ -1032,7 +1066,7 @@ Leo smiled.
 
 “Too much?”
 
-Taiga lay back across the sofa bed and looked at the ceiling.
+Taiga let himself fall backward across the sofa bed.
 
 “A lot.”
 
@@ -1056,9 +1090,39 @@ Taiga shoved him away.
 
 “Sure.”
 
-They changed, argued over which mattress was worse, discovered that the difference in height was even more annoying when lying down and eventually solved the gap by pushing the furniture another few centimeters together.
+A few minutes later they finally dealt with the sleeping arrangement properly. The difference in mattress height was worse when they were lying down, and the narrow seam between them seemed specifically designed to catch an elbow or a hip.
 
-Outside, the family got quieter by degrees, though never completely silent.
+Taiga pushed at the sofa with his foot.
+
+“Closer.”
+
+“It’s already touching.”
+
+“It’s pretending to touch.”
+
+Leo got up and helped him move it another few centimeters.
+
+“There.”
+
+Taiga tested the gap with one hand.
+
+“Still terrible.”
+
+“You can sleep on the floor.”
+
+“You can sleep on the floor.”
+
+“This is my room.”
+
+“We covered this.”
+
+By the time they changed for bed, the family had grown quieter by degrees, though never completely silent. Voices still traveled through the open window now and then, followed by a laugh or a door closing somewhere below.
+
+Taiga lay on the firmer mattress.
+
+Leo took the bed.
+
+Within ten minutes, Leo had shifted close enough that the distinction barely mattered.
 
 Taiga fell asleep with Leo’s hand resting against his stomach and somebody laughing somewhere beyond the window.
 
