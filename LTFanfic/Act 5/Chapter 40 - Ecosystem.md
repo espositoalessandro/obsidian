@@ -426,21 +426,21 @@ Leo leaned closer.
 
 “I’ve noticed.”
 
-Carmen heard her name in the English and looked over.
+Carmen caught them looking at her.
 
-“*He needs to eat.*”
+“*What? He needs to eat.*”
+
+Taiga understood that much without help.
 
 “*I am eating.*”
 
-Leo translated.
+Carmen pointed at his plate like the evidence supported her.
 
-Carmen pointed at Taiga’s plate like the evidence supported her.
+“*Not enough.*”
 
-“*He’s thin.*”
+Taiga understood that too.
 
-Taiga looked down at himself.
-
-“I’m not.”
+“I’m not that hungry.”
 
 Leo wisely declined to translate that one.
 
