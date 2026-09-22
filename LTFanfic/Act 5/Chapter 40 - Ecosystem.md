@@ -446,7 +446,7 @@ Leo wisely declined to translate that one.
 
 Across the table, Manuel asked Leo something about Olympus. Before Leo could finish answering, Ramón cut in with a comment that sent Carmen straight back into the argument they had apparently been having before Taiga understood any of it.
 
-Taiga caught almost none of the words, but the structure was becoming easier to read. Carmen corrected Ramón twice; Ramón answered both times and kept going. Isa ate without hurrying. Mercedes watched the table with the expression of somebody who had seen every version of this conversation already and was prepared to enjoy it again.
+Taiga caught almost none of the words. What he could follow were the reactions: Carmen corrected Ramón twice, Ramón answered both times and kept going, and Mercedes watched the exchange with the expression of somebody who had seen it before.
 
 Then Dani leaned toward Taiga.
 
