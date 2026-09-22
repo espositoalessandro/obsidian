@@ -658,7 +658,7 @@ Taiga knew what he meant.
 
 A voice rose from downstairs.
 
-“Julio!”
+“Julio! Taiga!”
 
 Leo closed his eyes.
 
