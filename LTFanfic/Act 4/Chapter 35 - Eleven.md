@@ -1115,38 +1115,52 @@ Taiga stared at him.
 
 “Worse.”
 
-Caleb smiled without opening his eyes. Taiga grabbed his bag. His phone buzzed. Team chat. Enzo.
+Caleb smiled without opening his eyes. Taiga grabbed his bag.
+
+Recovery at ten was exactly what recovery was supposed to be: boring. Phones stayed in the locker room. Light work. Stretching. Mobility. Mercer spoke only when somebody tried to turn it into training.
+
+Taiga's legs were tired from Saturday. Good tired. Eighty-six minutes of first-team football. First start. A cutback that helped create the equalizer.
+
+One-one.
+
+He held the stretch. Then switched legs.
+
+By eleven-fifteen they were done.
+
+Pinetree–Hartwell kicked off at one that afternoon.
+
+Taiga did not watch the start. He showered, ate and went back to Residential. At two-twenty his phone buzzed on the desk.
+
+Team chat. Enzo.
 
 **Enzo:** pinetree scored
 
-Taiga opened the stream link. Seventy-two minutes. Pinetree two. Hartwell one. Another message.
+Taiga opened the stream link.
 
-**Gav:** Recovery starts in 38 minutes.
+Seventy-two minutes. Pinetree two. Hartwell one.
+
+Another message.
+
+**Gav:** you've been watching this the whole time haven't you
 
 **Enzo:** i can multitask
 
 **Scott:** no
 
-Taiga watched for ten seconds. Pinetree had the ball near the corner. Two-one. He locked the screen. At recovery, the match ended the same way. Pinetree won. The table moved.
+Taiga watched for ten seconds. Pinetree had the ball near the corner. Two-one.
+
+He locked the screen.
+
+The score did not change.
+
+Pinetree won. The table moved.
 
 **1. PINETREE — 52**
 
 **2. OLYMPUS — 51**
 
-Two matches left. Taiga looked at it while stretching his hamstring. One point. Again. On the next mat, Leo reached over and pushed Taiga's phone face-down against the floor.
+Two matches left.
 
-Taiga turned. Leo was stretching his calf.
+One point. Again.
 
-“Mercer is looking.”
-
-Taiga glanced up. Mercer was, in fact, looking. Taiga put the phone in his bag.
-
-“Thanks.”
-
-Leo smiled.
-
-“Anytime.”
-
-Taiga leaned forward into the stretch. His legs were tired from Saturday. Good tired. Eighty-six minutes of first-team football. First start. A cutback that helped create the equalizer.
-
-One-one. He held the stretch. Then switched legs. Tuesday was another match. Two left. There would be another chance.
+Tuesday was another match. There would be another chance.
