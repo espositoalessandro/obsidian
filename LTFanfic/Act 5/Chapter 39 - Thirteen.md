@@ -946,9 +946,7 @@ Leo laughed and turned the camera toward the storefront.
 
 By the end of the first week, Taiga had started recognizing the household before Leo explained it.
 
-Not people.
-
-Patterns.
+Not people, patterns.
 
 Someone called *Julio* from outside the room, Leo answered.
 
@@ -1195,12 +1193,6 @@ Leo leaned back against something.
 “It was loud.”
 
 Taiga understood that answer without needing the rest.
-
-He had seen Leo do this before.
-
-Not here.
-
-At Olympus.
 
 Five minutes somewhere quieter. Then back inside.
 
@@ -1543,10 +1535,6 @@ That changed the room somehow.
 Tomorrow.
 
 Not thirteen days.
-
-Not twelve.
-
-Not next week.
 
 Tomorrow.
 
@@ -1904,8 +1892,6 @@ Because Taiga knew exactly what he looked like in a crowd now.
 
 Leo was standing beside a man Taiga recognized from photographs and brief pieces of video calls, although photographs had failed to communicate how fucking large he was.
 
-Manuel.
-
 Leo saw him.
 
 His entire posture changed.
@@ -1925,8 +1911,6 @@ Hard.
 Leo smelled different from Olympus.
 
 Different detergent, maybe.
-
-Sun.
 
 Something Taiga couldn't identify.
 
@@ -2046,7 +2030,7 @@ Leo took the suitcase handle.
 
 “And I'm carrying it.”
 
-“Your ankle.”
+“Your ankle?”
 
 “Is fine.”
 
@@ -2398,8 +2382,6 @@ Taiga looked ahead.
 
 His stomach tightened again.
 
-This time he knew exactly why.
-
 Leo noticed.
 
 “You okay?”
@@ -2419,8 +2401,6 @@ Taiga looked at him.
 Leo studied him for half a second.
 
 Then nodded.
-
-No joke.
 
 No reassurance.
 
@@ -2451,12 +2431,6 @@ Manuel slowed.
 Leo sat forward.
 
 Something changed in his face.
-
-Not excitement exactly.
-
-Recognition.
-
-The kind Taiga had felt when he'd walked back into his own room two weeks earlier.
 
 Leo leaned between the front seats and pointed ahead.
 
