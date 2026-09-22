@@ -412,6 +412,7 @@ Recommended interpretation:
 ### Sun May 24
 
 Leo's birthday is **May 24**.
+- Leo is **19** before this date and turns **20** on May 24.
 
 The summer invitation should therefore be motivated explicitly by the birthday:
 
@@ -421,6 +422,7 @@ Suggested Act V opening rhythm:
 - **Fri May 22** — Taiga arrives in Santo Domingo / enters Leo's home world.
 - **Sat May 23** — first full day there; family/home adjustment.
 - **Sun May 24** — Leo's birthday.
+- **July 2026** — Taiga turns **21**. Exact date not yet locked here.
 
 This also leaves substantial calendar space after the Santo Domingo section for a later **summer Camp Buddy term / summer-season arc** if desired.
 
