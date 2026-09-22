@@ -2151,6 +2151,57 @@ Do:
 
 ---
 
+# 8A. Family Ensemble Introduction Rule — LOCKED
+
+The Méndez family must **not** be introduced as a checklist of predefined quirks.
+
+The character bibles describe patterns that should emerge through repeated behavior. They are **not instructions for the narration to explain each character immediately**.
+
+Core rule:
+
+> **Introduce relationships immediately. Introduce quirks accidentally.**
+
+On first meeting, the reader may need to understand:
+- who a person is in relation to Leo;
+- roughly where they belong in the household;
+- how they respond to Taiga in that specific moment.
+
+The reader does **not** need an immediate demonstration or explanation of every defining trait.
+
+Do not structure an arrival or dinner scene so that, one after another:
+- Manuel loses something;
+- Ramón exaggerates a story;
+- Isa demonstrates perfect social perception;
+- Dani asks an invasive question;
+- Mercedes makes a dirty joke;
+- Carmen aggressively manages everyone.
+
+Even if every beat is individually in-character, presenting all of them together makes the family feel like an ensemble performing assigned gimmicks.
+
+Instead, let traits surface when ordinary circumstances happen to expose them.
+
+Examples:
+- Ramón tells a story. The narration does not announce that he likes audiences or exaggerates. Over time, corrections from the family reveal the pattern.
+- Isa responds simply to Taiga. The narration does not explain that she is low-pressure or socially perceptive. Her restraint becomes visible across later interactions.
+- Manuel misplaces something on an ordinary morning. Nobody needs to identify this immediately as his defining absent-mindedness.
+- Dani asks a direct question because she genuinely wants the answer. The scene does not need to explain her lack of social filter.
+- Mercedes makes a devastating joke without prior narration warning the reader that she is mischievous.
+- Carmen starts organizing people because something actually needs organizing; the prose does not pause to label her as forceful or controlling.
+
+A useful test:
+
+> If the narration can be replaced by the character simply doing the thing, prefer the behavior.
+
+Another test:
+
+> If a reader could identify a character's entire bible entry from their first five minutes on-page, the introduction is probably too concentrated.
+
+Traits should gain definition through **recurrence**. Taiga can form increasingly confident opinions after he has observed a pattern several times, but the prose should avoid knowing the family better than he reasonably does on arrival.
+
+This rule is especially important during the first several Act V chapters, when the family should initially feel like people Taiga is meeting rather than archetypes being presented.
+
+---
+
 # 9. The House / Family Compound — LOCKED
 
 ## Geographic setting
