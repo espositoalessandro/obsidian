@@ -1001,17 +1001,17 @@ That made him realize he hadn't been looking much at anyone else. He shifted his
 
 Evan pointed.
 
-“He drags the fullback. Watch what opens behind him.”
+“Watch what happens when he moves.”
 
-Leo moved wide. Defender followed. Olympus midfielder drove into the space behind. Pass. Chance. Taiga frowned.
+Leo went wide. The defender followed. A gap opened inside and an Olympus midfielder ran straight into it. Pass. Chance. Taiga frowned.
 
 “He didn't touch the ball.”
 
-“Didn't need to. Defender went with him.”
+“Didn't need to. Defender followed him.”
 
-Taiga watched the replay in his head. Oh. That was the thing Mercer kept trying to teach. Movement could be useful even if you never received. Taiga hated how much soccer happened away from the ball. It felt unfair.
+Taiga watched the replay in his head. Oh. That was the thing Mercer kept trying to teach. Moving one defender could help somebody else even if the ball never came near you. Taiga hated how much soccer happened away from the ball. It felt unfair.
 
-The match began. St. Vincent pressed aggressively. Olympus struggled for ten minutes. From the stands, Taiga could hear Scott before he could make out half the individual voices closer to midfield.
+The match began. St. Vincent came after everything. Every backward pass brought another white shirt running. Olympus struggled for ten minutes. From the stands, Taiga could hear Scott before he could make out half the individual voices closer to midfield.
 
 “WALSH, STEP\!”
 
@@ -1047,7 +1047,7 @@ Taiga nodded.
 
 “Moving before the ball.”
 
-“Moving to change somebody else's decision,” Evan corrected. “Sometimes you never get the pass.”
+“Making somebody follow you,” Evan corrected. “Sometimes you never get the pass.”
 
 Taiga leaned forward.
 
