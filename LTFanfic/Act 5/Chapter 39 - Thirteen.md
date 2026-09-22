@@ -1,0 +1,2479 @@
+# Chapter 39 — Thirteen
+
+By the time Taiga got home, thirteen days had become twelve.
+
+Technically.
+
+Leo disagreed.
+
+“You don't get to count today.”
+
+Taiga propped his phone against a stack of books and pulled another shirt from his suitcase.
+
+“Why?”
+
+“Because you spent most of it traveling.”
+
+“That still counts as a day.”
+
+“It doesn't count as a day apart if I saw you this morning.”
+
+Taiga folded the shirt.
+
+“That isn't how days work.”
+
+“It's how these days work.”
+
+“You don't get your own calendar.”
+
+“I can make one.”
+
+“You'd fuck it up.”
+
+Leo looked offended through the screen.
+
+“I know what day it is.”
+
+“What day is it?”
+
+There was a pause.
+
+“Friday.”
+
+“The date.”
+
+Another pause.
+
+Taiga smiled.
+
+“Exactly.”
+
+“Okay, but that's not the point.”
+
+Leo was somewhere in transit. Taiga could tell mostly from the light changing behind him and the occasional announcement bleeding through the call. He had left Olympus a few hours after Taiga, and unlike Taiga, he was still nowhere near home.
+
+His backpack sat against his leg. One earbud was in. The other hung loose against his shirt.
+
+“You unpacking already?” Leo asked.
+
+“Yeah.”
+
+“You got there like twenty minutes ago.”
+
+“Thirty-six.”
+
+“That is worse.”
+
+Taiga put another shirt away.
+
+“What am I supposed to do? Leave everything on the floor for three days?”
+
+“Yes.”
+
+“No.”
+
+“That is what luggage is for.”
+
+“Travel?”
+
+“Temporary furniture.”
+
+Taiga stared at him.
+
+Leo smiled.
+
+There were things about being home that Taiga had expected to feel different after Olympus. His room. His desk. The arrangement of things he'd stopped noticing years ago. The fact that everything fit around habits that had existed before Room 317, before Apollo, before Leo.
+
+Instead, it mostly felt familiar.
+
+Smaller, maybe.
+
+Not physically. Just in the strange way places did after you'd learned another one well enough to miss it.
+
+Taiga picked up his charger and plugged it beside the bed.
+
+Leo shifted on-screen.
+
+“Hey.”
+
+“What?”
+
+“Show me.”
+
+Taiga frowned.
+
+“Show you what?”
+
+“Your room.”
+
+“No.”
+
+“Why?”
+
+“Because.”
+
+“You've seen mine.”
+
+“Your dorm room.”
+
+“Still my room.”
+
+“Not the same thing.”
+
+“Exactly. That's why I want to see yours.”
+
+Taiga reached for another shirt.
+
+“No.”
+
+“Taiga.”
+
+“No.”
+
+“Just one turn.”
+
+“No.”
+
+“Half a turn.”
+
+“What the fuck is half a turn?”
+
+Leo demonstrated by rotating his phone maybe twenty degrees.
+
+Taiga watched a wall slide into frame, then somebody's luggage, then a man asleep across three airport seats.
+
+“There. Half a turn.”
+
+“You're an idiot.”
+
+“You're avoiding the question.”
+
+“Correct.”
+
+Leo laughed.
+
+The announcement behind him changed language. Taiga caught none of it.
+
+Not one word.
+
+He looked at the screen.
+
+“You're going to be home tonight?”
+
+“Late. Very late.”
+
+“And you're calling me now.”
+
+“Yeah.”
+
+“You saw me this morning.”
+
+Leo blinked.
+
+“Wow. Sorry. I'll hang up.”
+
+His thumb moved deliberately toward the screen.
+
+“Do it and I'll block you.”
+
+Leo's grin appeared immediately.
+
+“That was fast.”
+
+“Shut up.”
+
+Taiga threw the last shirt into a drawer.
+
+Leo settled farther down in his seat.
+
+“So. Twelve days.”
+
+“Thirteen.”
+
+“Twelve.”
+
+“Thirteen.”
+
+“I'm not counting today.”
+
+“I am.”
+
+They argued about it until Leo's flight started boarding.
+
+---
+
+The Spanish started two days later.
+
+Not because Taiga had planned some romantic surprise.
+
+That would have been stupid.
+
+It started because he opened the itinerary Leo had sent him, looked again at the address, remembered the conversation in Room 317, and arrived at the same practical problem he'd already identified there.
+
+Leo's family mostly didn't speak English.
+
+Taiga was going to be living with them.
+
+For weeks.
+
+He was not spending weeks standing beside Leo waiting for him to translate every fucking sentence.
+
+So he started with the obvious things.
+
+Greetings.
+
+Numbers.
+
+Time.
+
+Food.
+
+Directions.
+
+Family.
+
+Common verbs.
+
+He found a beginner course, ignored the parts that wanted him to earn points for cartoon achievements, and started writing things down instead.
+
+The grammar was better.
+
+Grammar had rules.
+
+Rules could be learned.
+
+Pronunciation was irritating, but manageable when the person speaking sounded like the recording.
+
+Listening was worse.
+
+The course would teach him a sentence, let him replay it at exactly the same speed four times, then congratulate him for identifying a word he'd been staring at on-screen.
+
+That felt dishonest.
+
+By Monday, he had several pages of vocabulary and enough basic sentence structure to understand why half the sentences he'd memorized two days earlier worked.
+
+By Tuesday, he had discovered *por* and *para*.
+
+By Tuesday night, he hated both.
+
+Leo discovered the whole thing by accident.
+
+“What are you doing?”
+
+Taiga looked up from his notebook.
+
+“Nothing.”
+
+Leo narrowed his eyes.
+
+They were on video again. Leo was lying sideways on his bed, phone propped against something off-screen. Taiga had only seen fragments of the room so far. A wall. Part of a desk. A shelf. The edge of what looked like an old soccer photograph.
+
+He had respected Taiga's refusal to show his own room by becoming increasingly aggressive about showing pieces of his instead.
+
+“What are you writing?”
+
+“Stuff.”
+
+“That looked like Spanish.”
+
+Taiga closed the notebook.
+
+“It wasn't.”
+
+Leo sat up.
+
+“Oh my God.”
+
+“Don't.”
+
+“You're learning Spanish.”
+
+“I'm hanging up.”
+
+“You're learning Spanish.”
+
+Taiga reached for the phone.
+
+Leo grabbed his own like Taiga could somehow end the call faster by physically attacking it.
+
+“No, no, wait. Wait.”
+
+“Stop smiling like that.”
+
+“I can't.”
+
+“You look stupid.”
+
+“You're learning Spanish.”
+
+“You've said that three times.”
+
+“Because you didn't tell me.”
+
+“There was nothing to tell you.”
+
+“How long?”
+
+Taiga hesitated.
+
+Leo's eyes widened.
+
+“How long?”
+
+“Couple days.”
+
+“Couple days?”
+
+“It's not a big deal.”
+
+Leo stared at him for another second.
+
+Then his expression softened into something worse than the grin.
+
+Taiga pointed at the screen.
+
+“Don't.”
+
+“I didn't say anything.”
+
+“You were about to.”
+
+“I literally wasn't.”
+
+“Your face was.”
+
+“My face likes you.”
+
+Taiga looked away.
+
+“Fuck off.”
+
+Leo laughed.
+
+Then he shifted closer to the phone.
+
+“What do you know?”
+
+“Basic stuff.”
+
+“Like?”
+
+“No.”
+
+“Come on.”
+
+“No.”
+
+“Say something.”
+
+“I know how to say something.”
+
+“In Spanish.”
+
+“I know what you meant.”
+
+Leo waited.
+
+Taiga hated him.
+
+“Buenas noches.”
+
+Leo's smile returned.
+
+“What?”
+
+“That was good.”
+
+“Bullshit.”
+
+“No, it was. Just—”
+
+“There.”
+
+“What?”
+
+“That face.”
+
+“What face?”
+
+“The correction face.”
+
+Leo started laughing.
+
+“There is no correction face.”
+
+“You made it.”
+
+“Okay. Fine. It was good. You just said it like you were reading a hostage note.”
+
+Taiga stared at him.
+
+“How the fuck do you want me to say it?”
+
+“Again.”
+
+“Buenas noches.”
+
+“Relax your mouth.”
+
+“My mouth is relaxed.”
+
+“It absolutely isn't.”
+
+“It's saying the words.”
+
+“It's fighting the words.”
+
+Taiga leaned back in his chair.
+
+“You wanted me to learn Spanish.”
+
+“I do.”
+
+“Then stop being annoying.”
+
+“I am helping.”
+
+“You're laughing.”
+
+“I can do both.”
+
+Taiga opened the notebook again.
+
+“Fine. Explain *por* and *para*.”
+
+Leo's confidence disappeared.
+
+Taiga watched it happen.
+
+“Okay.”
+
+He waited.
+
+Leo rubbed his jaw.
+
+“So. *Por* is like... because of? Sometimes. And *para* is... for.”
+
+“They both mean for.”
+
+“Yes.”
+
+“So explain it.”
+
+“I'm explaining.”
+
+“You've explained nothing.”
+
+Leo frowned.
+
+“No, hold on. *Para* is destination. Like *voy para Santo Domingo*.”
+
+Taiga looked down.
+
+“And *por*?”
+
+“Reason. Sometimes.”
+
+“Sometimes.”
+
+“Yeah.”
+
+“What about duration?”
+
+Leo paused.
+
+“That's *por*.”
+
+“Exchange?”
+
+“Also *por*.”
+
+“Deadline?”
+
+“Para.”
+
+“Recipient?”
+
+“Para.”
+
+Taiga looked up.
+
+Leo looked relieved.
+
+“There.”
+
+“You only know because I'm listing examples.”
+
+“I know which one is right.”
+
+“You don't know why.”
+
+“I don't need to know why. I speak Spanish.”
+
+“That makes you a terrible teacher.”
+
+Leo pointed at the camera.
+
+“And yet you asked me.”
+
+“I made a mistake.”
+
+“Probably. But now you're stuck with me.”
+
+Taiga wrote another note.
+
+Leo watched him for a moment.
+
+Then said, “You know you're not going to need perfect grammar, right?”
+
+“I know.”
+
+“My family definitely isn't grading you.”
+
+“I know.”
+
+“And if you don't understand something, I'll translate.”
+
+“I know.”
+
+Taiga looked back at him.
+
+“I just don't want you doing it every five seconds.”
+
+Leo went quiet.
+
+Not dramatically. Just enough that Taiga noticed.
+
+Then he smiled.
+
+“Okay.”
+
+That one sounded different.
+
+Taiga looked back at the notebook.
+
+“Now explain why half the letters disappear when you talk.”
+
+Leo immediately objected.
+
+“They do not.”
+
+“They fucking do.”
+
+“They're still there.”
+
+“Where?”
+
+“In the word.”
+
+“Not when you say it.”
+
+“Yes, they are.”
+
+Taiga pulled up one of the messages Leo had sent him earlier.
+
+“You said this.”
+
+He read carefully.
+
+“*Para allá.*”
+
+“Yeah.”
+
+“Then when you said it out loud, it became *pa'llá*.”
+
+Leo laughed.
+
+“That is still *para allá*.”
+
+“No, it isn't. You deleted half of it.”
+
+“I shortened it.”
+
+“You deleted it.”
+
+“Dominican efficiency.”
+
+“That's not efficiency. That's vandalism.”
+
+Leo laughed hard enough to fall backward onto the pillow.
+
+Taiga kept writing.
+
+Spanish was going to be a problem.
+
+---
+
+After that, Leo became involved.
+
+Not officially.
+
+There was no schedule. No lesson time.
+
+Taiga would study during the day, write down things that made no sense, then ask Leo whenever they happened to call.
+
+Sometimes Leo knew.
+
+Sometimes he knew instantly that Taiga's sentence was wrong and had absolutely no idea how to explain why.
+
+“Can I say *yo gusto café*?”
+
+“No.”
+
+“Why?”
+
+“Because it's *me gusta el café*.”
+
+“I know what the right sentence is. Why?”
+
+“Because coffee pleases you.”
+
+“That sounds fucking stupid.”
+
+“I didn't invent Spanish.”
+
+“You're responsible until further notice.”
+
+“Okay, dictator.”
+
+Other times, Leo rejected perfectly grammatical sentences because nobody he knew would actually say them.
+
+Taiga hated those most.
+
+“If it's correct, why can't I use it?”
+
+“You can.”
+
+“You just laughed.”
+
+“Because you sounded like a government form.”
+
+“The sentence was right.”
+
+“Yes.”
+
+“Then what's wrong with it?”
+
+“Nothing. Technically.”
+
+“Technically?”
+
+Leo smiled.
+
+“Say it to my grandmother exactly like that.”
+
+“Why?”
+
+“Please.”
+
+“No.”
+
+“Coward.”
+
+The calls stretched.
+
+Twenty minutes of Spanish became an hour of everything else.
+
+Sometimes longer.
+
+And slowly, without Taiga really noticing when it started, Leo's home leaked into them.
+
+A voice would shout from somewhere outside his room.
+
+“¡Julio!”
+
+Leo would look toward the door.
+
+“¡Ya voy!”
+
+Then back at the screen.
+
+“My mom.”
+
+“I figured.”
+
+“She thinks if she says my name from far enough away it becomes legally binding.”
+
+Another voice joined the first.
+
+Leo closed his eyes.
+
+“That one's my sister.”
+
+Taiga could not understand the words. Only the speed.
+
+“What did she say?”
+
+“That I stole her charger.”
+
+“Did you?”
+
+“No.”
+
+A pause.
+
+Leo looked to his left.
+
+Then reached beside the bed and picked up a charger.
+
+Taiga stared.
+
+Leo looked at it.
+
+“Okay.”
+
+“You stole her charger.”
+
+“I borrowed it.”
+
+“She knows you.”
+
+“That is unfortunately true.”
+
+The door opened somewhere outside the camera.
+
+A rapid exchange followed.
+
+Taiga caught exactly one word.
+
+*Julio.*
+
+Then another.
+
+*Cargador.*
+
+Charger.
+
+He sat straighter.
+
+Leo noticed.
+
+“You got that?”
+
+“She wants the charger.”
+
+Leo grinned.
+
+“Oh, you're fucked now.”
+
+“What?”
+
+“Nothing. That's good.”
+
+He handed the charger off-screen.
+
+The Spanish continued.
+
+Leo answered.
+
+The voice answered back.
+
+Leo rolled his eyes.
+
+Then the door closed.
+
+Taiga frowned.
+
+“What else did she say?”
+
+“That I always take her stuff.”
+
+“Do you?”
+
+“No.”
+
+Taiga waited.
+
+Leo sighed.
+
+“Sometimes.”
+
+“Yeah.”
+
+“But she takes my hoodies, so legally we're even.”
+
+“You keep using legally wrong.”
+
+“I am bilingual. I get extra words.”
+
+“That isn't how languages work.”
+
+“You wouldn't know. You're on day five.”
+
+Taiga threw a pen at the phone.
+
+It hit the desk beside it.
+
+Leo laughed.
+
+---
+
+Another call came while Leo was outside.
+
+Taiga knew before the video even connected.
+
+Traffic. Wind. Voices. Music from somewhere nearby.
+
+Leo appeared in frame walking down a street, sunglasses on, one hand holding the phone slightly below his face.
+
+Taiga stared.
+
+“Where are you?”
+
+“Out.”
+
+“Useful.”
+
+“I went to get something.”
+
+“What?”
+
+“Bread.”
+
+Taiga looked behind him at what appeared to be several storefronts and a line of parked motorcycles.
+
+“You walked somewhere for bread and called me.”
+
+“Yes.”
+
+“Why?”
+
+Leo considered.
+
+“I wanted to call you.”
+
+That stopped the next sentence.
+
+Taiga looked down at his notes.
+
+“Fine.”
+
+“What are you studying?”
+
+“Verbs.”
+
+“Sexy.”
+
+“Shut up.”
+
+Leo turned a corner. Somebody called something toward him from off-screen.
+
+Leo answered immediately in Spanish.
+
+Fast.
+
+Too fast.
+
+Taiga caught nothing.
+
+“What was that?”
+
+“A guy I know.”
+
+“That doesn't answer the question.”
+
+“He asked when I got back.”
+
+“What did you say?”
+
+“Last week.”
+
+“That was all of that?”
+
+Leo smiled.
+
+“Pretty much.”
+
+Taiga hated listening.
+
+Reading was starting to work.
+
+Writing was slow, but possible.
+
+Listening to Leo speak normally felt like somebody taking all the words Taiga had learned, putting them into a blender and throwing the final consonants away.
+
+“I can't hear the words.”
+
+“You will.”
+
+“You say that because you already know them.”
+
+“Well, yeah.”
+
+“Helpful.”
+
+Leo slowed down deliberately.
+
+“*La semana pasada.* Last week.”
+
+Taiga repeated it.
+
+Leo corrected the stress.
+
+Taiga repeated it again.
+
+“Better.”
+
+They kept walking together like that, separated by a screen and however many hundreds of miles now sat between them.
+
+Leo showed him almost nothing deliberately.
+
+That was what made it useful.
+
+A corner.
+
+A wall painted too brightly.
+
+Cars squeezing past one another.
+
+A dog asleep under shade.
+
+A place Leo pointed at and said had sold him terrible empanadas for years because he kept buying them anyway.
+
+Someone else greeting him.
+
+Leo greeting them back.
+
+A motorbike passing close enough that Taiga lost half a sentence.
+
+Then Leo stopped.
+
+“What?”
+
+Taiga looked up.
+
+“What?”
+
+“You're smiling.”
+
+“No, I'm not.”
+
+“You are.”
+
+“Buy your fucking bread.”
+
+Leo laughed and turned the camera toward the storefront.
+
+---
+
+By the end of the first week, Taiga had started recognizing the household before Leo explained it.
+
+Not people.
+
+Patterns.
+
+Someone called *Julio* from outside the room, Leo answered.
+
+A second voice interrupted.
+
+Somebody laughed.
+
+A door opened.
+
+Something fell once with enough force that Taiga sat up.
+
+Leo didn't.
+
+“What was that?”
+
+“No idea.”
+
+“You're not checking?”
+
+“If it matters, somebody will yell.”
+
+Three seconds later:
+
+“¡Julio!”
+
+Leo sighed.
+
+“There it is.”
+
+Another evening, they were halfway through pronunciation when Leo suddenly stopped talking and looked past the camera.
+
+Taiga heard several people speaking at once.
+
+Then louder.
+
+Then laughing.
+
+Leo rubbed his forehead.
+
+“What?”
+
+“Nothing.”
+
+“That sounds like something.”
+
+“My uncle is explaining something.”
+
+“What?”
+
+“I don't know anymore.”
+
+“You're there.”
+
+“That doesn't help.”
+
+Another burst of Spanish came through.
+
+Leo listened.
+
+Then called back something Taiga couldn't follow.
+
+The argument—or conversation; Taiga was beginning to suspect the distinction worked differently in Leo's house—continued without him.
+
+Leo looked back at the camera.
+
+“He didn't need me.”
+
+“You answered.”
+
+“Habit.”
+
+Taiga looked at him.
+
+Leo shrugged.
+
+Then smiled.
+
+“Okay. Where were we?”
+
+“Your country hates the letter S.”
+
+“My country does not hate the letter S.”
+
+“You barely pronounce it.”
+
+“That is slander.”
+
+“You said *estás* yesterday and the S just died halfway through.”
+
+“It did not die.”
+
+“Gone.”
+
+“Still there spiritually.”
+
+Taiga laughed.
+
+“That's not better.”
+
+---
+
+Leo also started preparing him for the family.
+
+Not formally.
+
+Usually because Taiga learned a word and Leo immediately attached someone to it.
+
+“*Comer.* To eat.”
+
+“I know.”
+
+“My grandmother is going to use that one a lot.”
+
+“Why?”
+
+“Because she's going to ask if you ate.”
+
+“Okay.”
+
+“Then she's going to feed you.”
+
+“I can say no.”
+
+Leo looked genuinely delighted by that.
+
+“What?”
+
+“Nothing. Say it.”
+
+“No.”
+
+“Please tell my grandmother no when she offers you food.”
+
+“Why?”
+
+“I want to see what happens.”
+
+Taiga narrowed his eyes.
+
+“You're setting me up.”
+
+“I would never.”
+
+“You absolutely would.”
+
+“Okay, fine. You can say no. She'll just interpret it as the beginning of negotiations.”
+
+Taiga wrote something down.
+
+“What are you writing?”
+
+“Never answer your grandmother.”
+
+Leo laughed.
+
+“No, answer her. She'll like you.”
+
+“You sound very sure everyone is going to like me.”
+
+“They will.”
+
+“You don't know that.”
+
+“I do.”
+
+“How?”
+
+Leo shrugged.
+
+“Because I know them.”
+
+Taiga looked at the screen for a moment.
+
+Leo seemed completely unconcerned by the possibility.
+
+That should probably have made Taiga feel better.
+
+Mostly it did.
+
+Mostly.
+
+He looked back down.
+
+“What does *un chin* mean?”
+
+“A little bit.”
+
+“That's not what the thing says.”
+
+“What thing?”
+
+“The dictionary.”
+
+“Your dictionary is weak.”
+
+“It says *un poco*.”
+
+“That also means a little bit.”
+
+“So why do I need another one?”
+
+“Because if somebody asks if you want more food, and you say *un chin*, they'll understand you.”
+
+“If I say *un poco*, they won't?”
+
+“They will.”
+
+“Then again: why?”
+
+Leo thought about it.
+
+“Because *un chin* is better.”
+
+“You're useless.”
+
+“Dominican.”
+
+“Those aren't synonyms.”
+
+“Sometimes.”
+
+---
+
+The first time Taiga caught a whole sentence without help, Leo wasn't even talking to him.
+
+It happened late at night.
+
+Leo had called from outside.
+
+The screen showed mostly his face and darkness behind him, with warm light somewhere off to one side.
+
+“You hiding?”
+
+“No.”
+
+“You're outside.”
+
+“Yes.”
+
+“Why?”
+
+Leo leaned back against something.
+
+“It was loud.”
+
+Taiga understood that answer without needing the rest.
+
+He had seen Leo do this before.
+
+Not here.
+
+At Olympus.
+
+Five minutes somewhere quieter. Then back inside.
+
+“How long?”
+
+Leo smiled.
+
+“You timing me?”
+
+“No.”
+
+“Five minutes.”
+
+“Predictable.”
+
+“Efficient.”
+
+“Sure.”
+
+For a while they didn't say much.
+
+Taiga worked through an exercise.
+
+Leo watched something beyond the camera.
+
+There were still voices somewhere behind him, but farther away now.
+
+Home did not sound silent even from outside.
+
+Taiga finished the exercise.
+
+“Okay. This one is bullshit.”
+
+“Which one?”
+
+Before Taiga could answer, a woman's voice called from inside.
+
+“¡Julio! ¿Tú vas a comer o no?”
+
+Taiga froze.
+
+Leo turned his head.
+
+“¡Sí, ya voy!”
+
+Then he looked back.
+
+Taiga was still staring.
+
+“What?”
+
+“She asked if you're going to eat.”
+
+Leo's eyebrows went up.
+
+Taiga continued before he could react.
+
+“And you said yes, you're coming.”
+
+Leo's face changed.
+
+“Oh.”
+
+“Don't.”
+
+“I didn't do anything.”
+
+“You're doing the face.”
+
+“What face?”
+
+“That stupid proud face.”
+
+Leo laughed.
+
+“Okay, but you got all of it.”
+
+“She spoke slowly.”
+
+“She did not.”
+
+“I knew the words.”
+
+“That's how understanding languages works, babe.”
+
+Taiga looked away.
+
+Leo was still smiling.
+
+“Fuck you.”
+
+“You're doing really good.”
+
+“I've been doing this for a week.”
+
+“Exactly.”
+
+“That isn't long.”
+
+“No. It isn't.”
+
+Leo's voice softened.
+
+“And you're already catching things.”
+
+Taiga looked at him again.
+
+The screen shifted as Leo stood.
+
+“Anyway. I have been summoned.”
+
+“Go eat.”
+
+“Yes, sir.”
+
+“And stop calling me babe when you're trying to distract me.”
+
+Leo grinned.
+
+“So you noticed.”
+
+“Good night.”
+
+“Buenas noches.”
+
+Taiga rolled his eyes.
+
+Then, carefully:
+
+“Buenas noches.”
+
+Leo listened.
+
+This time he didn't correct him.
+
+“Perfect.”
+
+The call ended.
+
+Taiga stared at the dark screen for a moment.
+
+Then went back to the exercise.
+
+---
+
+The second week went faster.
+
+That was irritating.
+
+Taiga's notebook filled.
+
+His listening improved just enough for him to understand how bad his listening still was.
+
+Leo stopped slowing down every sentence when they practiced and started repeating things only after Taiga failed to catch them.
+
+Sometimes Taiga understood.
+
+Sometimes he understood three words and constructed the wrong sentence around them.
+
+Sometimes Leo spoke normally and Taiga looked at him until Leo started laughing.
+
+“You understood none of that.”
+
+“I understood *casa*.”
+
+“That was one word.”
+
+“And *mañana*.”
+
+“Two.”
+
+“You said too much.”
+
+“That was a normal sentence.”
+
+“Not anymore.”
+
+Leo taught him things the course didn't.
+
+Taiga learned that *ahorita* could apparently mean now, soon, later, or some undefined point in the future depending on who said it and how much they cared.
+
+He rejected this on principle.
+
+Leo refused to accept the criticism.
+
+Taiga learned not to pronounce every S Leo wrote in messages as strongly as the course did.
+
+Leo told him not to worry about reproducing a Dominican accent after two weeks because he would sound insane.
+
+Taiga told him he already sounded insane.
+
+Leo agreed.
+
+They talked every day.
+
+Not always long.
+
+One afternoon Leo called while carrying groceries and spent most of the conversation complaining that somebody had added three things to the list after he'd already left.
+
+Another time he called from a car and immediately lost the connection twice.
+
+Once Taiga called and Leo answered with his hair wet, apparently halfway through getting dressed, because declining and calling back five minutes later had never occurred to him.
+
+“You can call me later.”
+
+“No, it's fine.”
+
+“You're putting on pants.”
+
+“I can multitask.”
+
+“I don't need to watch.”
+
+“You've seen me without pants.”
+
+Taiga stared at him.
+
+Leo smiled.
+
+“That shut you up.”
+
+Taiga hung up.
+
+Leo called back fifteen seconds later.
+
+Taiga answered.
+
+“You're an asshole.”
+
+“Yeah, but now I have pants.”
+
+Taiga tried not to laugh.
+
+Failed.
+
+---
+
+Thursday night, Taiga packed again.
+
+The suitcase he'd emptied thirteen days earlier lay open on the floor.
+
+Different clothes this time.
+
+Summer.
+
+Three weeks, probably.
+
+Maybe longer if plans moved around.
+
+Leo had never settled on a precise answer.
+
+Neither had Taiga.
+
+His passport went into the front pocket of his backpack, then came back out because that felt too easy to lose, then went into a smaller inside pocket instead.
+
+Charger.
+
+Headphones.
+
+Documents.
+
+The notebook.
+
+He held that one for a moment.
+
+Two weeks of Spanish.
+
+Enough pages to look impressive.
+
+Not enough Spanish to actually be impressive.
+
+His phone buzzed.
+
+**Leo:** packed?
+
+Taiga took a picture of the open suitcase.
+
+**Taiga:** obviously
+
+The reply came immediately.
+
+**Leo:** that is not packed
+
+**Taiga:** it's being packed
+
+**Leo:** you leave tomorrow
+
+**Taiga:** thank you i forgot
+
+**Leo:** see this is why you need me
+
+Taiga smiled.
+
+**Taiga:** weren't you the one who forgot what date it was
+
+Three dots.
+
+They vanished.
+
+Returned.
+
+Vanished again.
+
+Then:
+
+**Leo:** irrelevant historical information
+
+Taiga put the phone down.
+
+He folded another shirt.
+
+A few seconds later the phone rang.
+
+Video.
+
+Taiga answered.
+
+Leo was in his bedroom.
+
+“Really?”
+
+“What?”
+
+“We were texting.”
+
+“Yeah.”
+
+“So?”
+
+“I wanted to see you.”
+
+Taiga continued packing.
+
+“You're seeing me tomorrow.”
+
+“I know.”
+
+That changed the room somehow.
+
+Tomorrow.
+
+Not thirteen days.
+
+Not twelve.
+
+Not next week.
+
+Tomorrow.
+
+Taiga looked at the screen.
+
+Leo smiled.
+
+“Flight still good?”
+
+“Yeah.”
+
+“Connection?”
+
+“Still there.”
+
+“Arrival?”
+
+“Same time I told you yesterday.”
+
+“I'm checking.”
+
+“You checked this morning.”
+
+“I know.”
+
+“And last night.”
+
+“Correct.”
+
+“You're worse than my airline.”
+
+“Your airline doesn't care about you.”
+
+“And you do?”
+
+Leo stared.
+
+Taiga immediately regretted setting that one up.
+
+“Yes.”
+
+“Fuck off.”
+
+“You asked.”
+
+“I didn't mean—”
+
+“I know.”
+
+Leo laughed.
+
+Taiga shoved another shirt into the suitcase.
+
+“Papá's coming with me tomorrow.”
+
+“To the airport?”
+
+“Yeah. He said I'm not navigating arrivals and luggage and traffic with you alone after you've been traveling all day.”
+
+“You're not driving.”
+
+“Exactly.”
+
+“That makes even less sense.”
+
+“Don't question him. Just accept that he has decided transportation is his responsibility.”
+
+Taiga zipped one side of the suitcase.
+
+“What do I say?”
+
+“To my dad?”
+
+“When I meet him.”
+
+Leo blinked.
+
+“Hi?”
+
+“In Spanish.”
+
+“Oh.”
+
+Leo thought.
+
+“Just say *mucho gusto*. Maybe *gracias por venir a buscarme* if you want.”
+
+Taiga repeated it.
+
+Leo corrected one vowel.
+
+Taiga repeated it again.
+
+“Good.”
+
+“That's it?”
+
+“Yes.”
+
+“What if he says something else?”
+
+“He will.”
+
+“Helpful.”
+
+“I'll be there.”
+
+Taiga looked at him.
+
+There it was again.
+
+The answer Leo gave every time Taiga hit the edge of what he could prepare for.
+
+I'll be there.
+
+It had annoyed him at first.
+
+Now, with the suitcase open and the flight less than a day away, it did something else.
+
+“Fine.”
+
+Leo smiled.
+
+“You nervous?”
+
+“No.”
+
+“Okay.”
+
+Taiga stopped.
+
+“You don't believe me.”
+
+“I didn't say that.”
+
+“You did the face.”
+
+“What is with you and my face?”
+
+“It talks too much.”
+
+“That runs in the family.”
+
+Taiga looked at the screen.
+
+“Am I going to survive these people?”
+
+Leo's grin widened.
+
+“No idea.”
+
+“Great.”
+
+“But it'll be fun.”
+
+“That sounds like a threat.”
+
+“It might be.”
+
+They stayed on the call until Taiga finished packing.
+
+Then longer.
+
+By the time they finally hung up, it was technically the day they were going to see each other.
+
+---
+
+Travel was mostly waiting.
+
+Taiga had always thought of it as movement.
+
+It wasn't.
+
+It was standing in lines so somebody could verify that you were allowed to move.
+
+Waiting to check in.
+
+Waiting at security.
+
+Waiting at the gate.
+
+Waiting on the aircraft.
+
+Waiting to get off it.
+
+Then doing it again.
+
+By the time he boarded the final flight to Santo Domingo, the day had already felt long enough to qualify as two.
+
+He put his backpack under the seat, sat by the window, and checked his phone one last time before airplane mode.
+
+There were six messages from Leo.
+
+The first asked whether he'd made the connection.
+
+The second arrived three minutes later and asked the same thing with more question marks.
+
+The third was a picture of Leo holding coffee.
+
+The fourth:
+
+**Leo:** papá says traffic will be terrible
+
+Then:
+
+**Leo:** he also says traffic is always terrible so this contains no information
+
+And finally:
+
+**Leo:** see you soon
+
+Taiga typed:
+
+**Taiga:** boarding
+
+He hesitated.
+
+Then added:
+
+**Taiga:** see you
+
+The reply came before he could lock the screen.
+
+A heart.
+
+Taiga stared at it.
+
+Then put the phone away.
+
+Outside, baggage carts moved beneath the aircraft.
+
+People shifted into seats around him.
+
+A child somewhere behind him objected loudly to the concept of a seatbelt.
+
+The cabin crew switched between English and Spanish during the announcements.
+
+Taiga listened.
+
+He understood pieces.
+
+*Bienvenidos.*
+
+*Vuelo.*
+
+*Equipaje.*
+
+*Gracias.*
+
+Not enough for the whole announcement.
+
+More than he'd understood two weeks ago.
+
+He leaned back.
+
+Good enough.
+
+For now.
+
+---
+
+Santo Domingo appeared through broken cloud.
+
+Green first.
+
+Then roads.
+
+Buildings.
+
+Dense stretches of them reaching farther than Taiga expected.
+
+The sea caught sunlight beyond the wing, bright enough that he had to look away for a second.
+
+The aircraft turned.
+
+Lower.
+
+Taiga felt the wheels hit the runway.
+
+His stomach tightened.
+
+Not from the landing.
+
+His phone was still in airplane mode.
+
+Leo was somewhere outside this airport.
+
+Actually outside it.
+
+No screen.
+
+No call ending in an hour.
+
+Taiga looked through the window at the airport buildings sliding past.
+
+Thirteen days.
+
+Apparently they'd counted after all.
+
+---
+
+Immigration was easier than he'd built it up to be.
+
+Baggage took longer.
+
+Of course it did.
+
+Taiga stood beside the carousel watching the same collection of suitcases pass for the third time while people around him talked too quickly for his two weeks of Spanish to survive.
+
+This was different.
+
+Completely.
+
+Leo speaking to one person on a phone call had been difficult.
+
+Twenty people speaking at once was noise with recognizable words trapped inside it.
+
+Taiga caught fragments.
+
+Numbers.
+
+Greetings.
+
+Somebody asking where something was.
+
+A woman telling a child to come here.
+
+*Ven acá.*
+
+He knew that.
+
+The rest vanished.
+
+His suitcase finally appeared.
+
+Taiga dragged it down before somebody else could grab it, adjusted his backpack and followed the signs toward arrivals.
+
+The doors opened.
+
+People.
+
+Signs.
+
+Drivers.
+
+Families pressed against the barrier.
+
+Voices.
+
+Heat waiting somewhere beyond the air-conditioning.
+
+And Leo.
+
+Taiga saw him almost immediately.
+
+Not because Leo was doing anything dramatic.
+
+Because Taiga knew exactly what he looked like in a crowd now.
+
+Leo was standing beside a man Taiga recognized from photographs and brief pieces of video calls, although photographs had failed to communicate how fucking large he was.
+
+Manuel.
+
+Leo saw him.
+
+His entire posture changed.
+
+Then he was moving.
+
+Taiga barely got the suitcase turned before Leo reached him.
+
+“Hey.”
+
+That was all Leo managed before pulling him into a hug.
+
+Taiga hugged back.
+
+Hard.
+
+Leo smelled different from Olympus.
+
+Different detergent, maybe.
+
+Sun.
+
+Something Taiga couldn't identify.
+
+It didn't matter.
+
+Leo pulled back just enough to look at him.
+
+“You're here.”
+
+“Apparently.”
+
+“That flight took forever.”
+
+“You weren't on it.”
+
+“I was tracking it.”
+
+“Of course you were.”
+
+Leo kissed him.
+
+Quick.
+
+Easy.
+
+Like thirteen days had been annoying rather than significant.
+
+Taiga smiled anyway.
+
+“Hi.”
+
+Leo smiled back.
+
+“Hi.”
+
+Then a hand landed on Leo's shoulder.
+
+Leo moved aside.
+
+“Okay. Sorry. Papá.”
+
+Manuel stepped forward.
+
+Up close, he was even more imposing.
+
+Broad shoulders. Thick arms. The kind of build that made Taiga instinctively straighten before the expression on the man's face made the reaction feel ridiculous.
+
+Manuel smiled warmly and held out a hand.
+
+“Taiga.”
+
+His pronunciation was careful.
+
+Taiga took the hand.
+
+“Mucho gusto.”
+
+Manuel's smile widened.
+
+Taiga continued before he could lose the sentence.
+
+“Gracias por venir a buscarme.”
+
+Manuel answered immediately.
+
+Too quickly.
+
+Taiga caught *nada* and possibly *bienvenido*.
+
+He looked at Leo.
+
+Leo was trying not to laugh.
+
+“What?”
+
+“He said it's nothing. And welcome.”
+
+“I got some of that.”
+
+“I know.”
+
+Manuel said something else.
+
+Slower this time.
+
+Taiga concentrated.
+
+*Julio... dijo... estudiando español.*
+
+Julio said—
+
+Taiga looked at Leo.
+
+“You told him.”
+
+“That you've been studying? Yeah.”
+
+“Why?”
+
+“Because I talk to my family.”
+
+“That seems unnecessary.”
+
+Manuel laughed.
+
+Taiga didn't need that translated.
+
+Leo took the suitcase handle.
+
+“I've got it.”
+
+“I can carry my own luggage.”
+
+“You've been traveling all day.”
+
+“And?”
+
+“And I'm carrying it.”
+
+“Your ankle.”
+
+“Is fine.”
+
+Manuel said something.
+
+Leo looked at him.
+
+Then at Taiga.
+
+“He says give him the suitcase.”
+
+Taiga looked at Manuel.
+
+Manuel held out one enormous hand.
+
+Taiga handed it over.
+
+“Fine.”
+
+Leo smiled.
+
+“See? You're learning.”
+
+“Fuck off.”
+
+Manuel looked between them.
+
+Leo translated that one.
+
+Taiga hit him in the arm.
+
+---
+
+Outside, the air changed instantly.
+
+Warm.
+
+Heavy.
+
+Not unbearable, but different enough that Taiga felt it on his skin before they'd reached the parking area.
+
+Leo noticed.
+
+“Yeah.”
+
+“What?”
+
+“The face.”
+
+“What face?”
+
+“The humidity face.”
+
+“I don't have a humidity face.”
+
+“You do now.”
+
+Manuel loaded the suitcase.
+
+Leo threw Taiga's backpack into the back with it before Taiga could object, then opened the rear door.
+
+Taiga got in.
+
+Leo followed him.
+
+Manuel took the driver's seat.
+
+“You're sitting back here?”
+
+Leo buckled his seatbelt.
+
+“Yes.”
+
+“Why?”
+
+Leo stared at him.
+
+“We haven't seen each other in two weeks.”
+
+“Thirteen days.”
+
+“See? Worse.”
+
+Manuel started the car.
+
+Taiga looked out through the window as they pulled away.
+
+The airport disappeared behind them.
+
+For the first few minutes Leo talked almost continuously.
+
+Not about anything important.
+
+The flight.
+
+Whether Taiga had eaten.
+
+Whether he was tired.
+
+Whether he wanted to stop somewhere.
+
+Whether the air-conditioning was too cold.
+
+Taiga finally turned.
+
+“I'm fine.”
+
+“I know.”
+
+“You asked six questions.”
+
+“I have thirteen days of questions.”
+
+“You called me every day.”
+
+“That doesn't count.”
+
+“How?”
+
+“Different medium.”
+
+Taiga stared.
+
+“You make rules for everything.”
+
+“I learned from you.”
+
+Manuel said something from the front.
+
+Leo answered in Spanish.
+
+Manuel laughed.
+
+“What?”
+
+Taiga asked.
+
+“Nothing.”
+
+“What did he say?”
+
+“That you haven't been here ten minutes and we're already arguing.”
+
+“We're not arguing.”
+
+Leo translated.
+
+Manuel answered.
+
+Leo started laughing.
+
+“What?”
+
+“He said that's what I always say.”
+
+Taiga looked at the back of Manuel's seat.
+
+“I like him.”
+
+“You've exchanged four sentences.”
+
+“Enough.”
+
+“That is incredibly unfair.”
+
+Taiga smiled and looked back outside.
+
+The road opened ahead.
+
+For a while he stopped asking questions.
+
+He just watched.
+
+The landscape around the airport gave way gradually rather than all at once. Wider roads. Traffic thickening. Buildings multiplying. Signs Taiga could sometimes read before they disappeared behind them.
+
+Spanish everywhere now.
+
+Not Spanish in a notebook.
+
+Not Spanish framed inside Leo's phone.
+
+Billboards.
+
+Storefronts.
+
+Radio.
+
+Two men arguing beside a car at a light.
+
+A woman speaking through an open window.
+
+Manuel answering a phone call through the car speakers before apparently deciding the conversation required more volume than technology could provide.
+
+Leo answered something from the back seat.
+
+Another voice came through.
+
+Taiga caught *Julio*.
+
+Again.
+
+Different here.
+
+At Olympus, Julio had been something printed on a class list.
+
+A technical fact.
+
+Here it seemed to reach for Leo from every direction.
+
+Leo answered it without hesitation.
+
+Taiga watched him.
+
+Leo noticed.
+
+“What?”
+
+“Nothing.”
+
+“That's suspicious.”
+
+Taiga looked outside again.
+
+The city thickened around them.
+
+Traffic slowed.
+
+Motorcycles found gaps that Taiga was fairly certain were not actually gaps.
+
+Leo pointed things out without turning the drive into a tour.
+
+A road he knew.
+
+A place he and Enzo used to go after school.
+
+A turn they weren't taking because, according to Manuel, only an idiot would take it at this hour.
+
+Manuel objected to Leo's translation.
+
+Leo revised.
+
+“Sorry. Only somebody with no respect for themselves would take it at this hour.”
+
+“That sounds more specific.”
+
+“He's a specific man.”
+
+Later, buildings began spreading farther apart again.
+
+The dense city loosened.
+
+The sun dropped lower.
+
+The light through the windows turned warmer.
+
+Taiga stopped trying to understand every Spanish sentence.
+
+That helped.
+
+Sometimes he caught something.
+
+Sometimes he didn't.
+
+Leo translated when it mattered.
+
+When it didn't, he let the conversation pass.
+
+Taiga was starting to understand that this might be the more useful skill.
+
+Not understanding everything.
+
+Understanding enough to know whether everything mattered.
+
+They passed through another stretch of traffic, then farther west.
+
+The roads changed.
+
+The buildings changed with them.
+
+Leo talked less now.
+
+Not because he was tired.
+
+Taiga could see him recognizing things.
+
+A shop.
+
+A wall.
+
+A junction.
+
+People.
+
+His attention kept moving toward the windows before returning to Taiga.
+
+Home getting closer.
+
+Taiga felt it too.
+
+Not recognition.
+
+The opposite.
+
+For months, almost everything he'd known about Leo before Olympus had existed as information.
+
+Dominican.
+
+Santo Domingo.
+
+Family.
+
+School with Enzo.
+
+Football.
+
+Julio.
+
+Pieces.
+
+Now there were roads attached to them.
+
+Heat.
+
+Noise.
+
+Distance.
+
+Places Leo didn't need directions to.
+
+The car turned again.
+
+The road narrowed.
+
+The city seemed farther away than it had twenty minutes earlier, though Taiga wasn't sure whether that was actually true.
+
+Manuel and Leo exchanged something in Spanish.
+
+Taiga caught one word.
+
+*Casa.*
+
+He looked at Leo.
+
+Leo smiled.
+
+“Almost.”
+
+Taiga looked ahead.
+
+His stomach tightened again.
+
+This time he knew exactly why.
+
+Leo noticed.
+
+“You okay?”
+
+“Yeah.”
+
+“You sure?”
+
+Taiga looked at him.
+
+“I flew all the way here.”
+
+“That does not answer the question.”
+
+“I'm fine.”
+
+Leo studied him for half a second.
+
+Then nodded.
+
+No joke.
+
+No reassurance.
+
+Just his knee pressing briefly against Taiga's.
+
+The car turned into a quieter street.
+
+Taiga looked through the windshield.
+
+Houses.
+
+Walls.
+
+Gates.
+
+Trees throwing long shadows across the road.
+
+A few people outside.
+
+Somebody sitting on a plastic chair near an open doorway.
+
+A kid with a ball.
+
+Music somewhere Taiga couldn't place.
+
+Manuel slowed.
+
+Leo sat forward.
+
+Something changed in his face.
+
+Not excitement exactly.
+
+Recognition.
+
+The kind Taiga had felt when he'd walked back into his own room thirteen days earlier.
+
+Leo leaned between the front seats and pointed ahead.
+
+“There we are.”
