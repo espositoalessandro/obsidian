@@ -86,7 +86,7 @@ Maybe.
 
 Westlake came next that afternoon. Mercer did not mention the table until Enzo asked. They were in the film room. Westlake on screen. Same opponent Taiga had faced months ago when first-team football still meant ten minutes and trying not to forget the back post.
 
-Different match. Different version of him. Westlake pressed higher now. Their left side had changed since the fall. Number eight hadn't. Taiga remembered him. Tall. Quick. Annoying. Mercer paused the clip.
+Different match. Different version of him. Westlake were even more aggressive now. They did not wait for mistakes; they tried to rush you into one. Their left side had changed since the fall. Number eight hadn't. Taiga remembered him. Tall. Quick. Annoying. Mercer paused the clip.
 
 “Questions?”
 
@@ -124,11 +124,11 @@ Then he changed the slide back.
 
 Taiga wrote the name at the top of the page. Under it:
 
-**press after backward pass**
+**backward pass = they chase**
 
-**8 jumps early**
+**8 attacks first touch**
 
-**weak side late**
+**far side slow to recover**
 
 Mercer played another clip. Westlake's right-back stepped into midfield when they had possession. Space behind. Taiga watched it twice. The second time he stopped looking at the defender and watched the space.
 
@@ -320,13 +320,13 @@ Halftime was loud, though not because of Mercer. It was the room: boots on tile,
 
 Leo drank half a bottle of water in one go. Taiga sat beside him. Mercer waited. Then:
 
-“We're giving them the transition they want.”
+“We're giving them exactly the break they want.”
 
 He moved two magnets.
 
-“Bennett goes. Akatora goes. Brennan gets pulled. Eight gets this.”
+“Bennett goes. Akatora goes with him. Brennan gets dragged across. Eight gets this.”
 
-He tapped the channel. Taiga looked at it. Exactly the first-half corner. Mercer looked at him.
+He tapped the empty space. Taiga looked at it. Exactly the first-half corner. Mercer looked at him.
 
 “One.”
 
@@ -338,7 +338,7 @@ Taiga nodded.
 
 He shifted magnets.
 
-“Mendez, number six is late every time you turn off eight. Keep moving him.”
+“Mendez, the midfielder behind eight is late every time you turn. Keep moving them.”
 
 Leo wiped his mouth with his wrist.
 
@@ -430,7 +430,7 @@ The right-back stopped. Taiga kept going. Gav shouted:
 
 “TAIGA!”
 
-He turned. Eight had found the channel again. Aaron was alone. Pass came. Aaron fouled him before the box. Whistle. Taiga ran back. Aaron looked at him. Not angry.
+He turned. Eight had run straight into the space Taiga had left. Aaron was alone. Pass came. Aaron fouled him before the box. Whistle. Taiga ran back. Aaron looked at him. Not angry.
 
 Worse. Confused.
 
@@ -472,7 +472,7 @@ He ran back on. For six minutes, he did. Held width. Tracked. Played simple. It 
 
 Scott to Gav. Gav to Aaron. Aaron looked up. Taiga checked toward him. Pass came. Westlake's right-back was five meters away. Gav was inside. Aaron stayed behind. Safe.
 
-Taiga could give it back. He saw it. He also saw Westlake's eight moving late. Space between them. A turn. One turn and he could run. Taiga took the ball across his body.
+Taiga could give it back. He saw it. He also saw Westlake's eight arriving late. There was a gap before him. One turn and Taiga could run. Taiga took the ball across his body.
 
 Eight read it. Got a foot in. The ball came loose.
 
@@ -1355,7 +1355,7 @@ Taiga looked at the frame.
 
 “Aaron's already stepped.”
 
-Mercer nodded. Play. Seventy-one. Taiga tracks the right-back. Ball goes inside. Channel opens. Pause.
+Mercer nodded. Play. Seventy-one. Taiga tracks the right-back. The ball goes inside. Taiga keeps chasing. Space opens behind him. Pause.
 
 “Here?”
 
