@@ -268,7 +268,7 @@ Leo pointed between them.
 
 A man’s voice came from above.
 
-“Julio!”
+“*Julio!*”
 
 Taiga looked up.
 
