@@ -234,7 +234,7 @@ Scott closed his locker.
 
 “Both of you are loud.”
 
-Mercer walked in. Silence. Board. Westlake in a four-three-three. Their eight circled. Mercer tapped the left side.
+Mercer walked in. Silence. Board. Westlake on screen. Number eight circled. Mercer tapped the left side.
 
 “They'll invite you forward and go behind you.”
 
@@ -244,7 +244,7 @@ Taiga nodded.
 
 “Yeah.”
 
-“If you go together, eight gets the channel.”
+“If you both go, eight runs into the space you leave.”
 
 Mercer looked at Aaron.
 
@@ -270,7 +270,7 @@ Nobody said anything about Pinetree.
 
 ---
 
-Westlake pressed from kickoff—not wildly, but with organization. Their front three curved runs toward the center-backs while number eight stepped onto Gav. The first ten minutes belonged to whoever could breathe while being shouted at.
+Westlake came after Olympus from kickoff. Their three forwards shut down the easy passes while number eight stayed tight to Gav. The first ten minutes belonged to whoever could breathe while being shouted at.
 
 Taiga got his first clean touch at eleven. Aaron into him. Right-back closing. Taiga went inside first touch. Leo returned it. Taiga carried. Eight shifted. Space outside. Aaron went.
 
@@ -284,7 +284,7 @@ Taiga jogged to position. One-zero. Westlake restarted hard. At twenty-three, Ta
 
 He took one extra touch forward. Eight reached. Taiga got around him. The crowd reacted. Another midfielder came. Taiga tried to split them. Ball caught a shin. Westlake recovered.
 
-Aaron had already started forward. There. Channel. Taiga turned and sprinted. Westlake played into it. Gav shifted over. Cross blocked. Corner. Aaron looked at Taiga. Taiga lifted one hand.
+Aaron had already started forward. There. The space behind him. Taiga turned and sprinted. Westlake played into it. Gav shifted over. Cross blocked. Corner. Aaron looked at Taiga. Taiga lifted one hand.
 
 His fault. Corner cleared. Mercer shouted from the technical area:
 
@@ -488,7 +488,7 @@ Cutback. Their striker let it run. Midfielder arriving. Shot. Low. Far corner. S
 
 The scorer ran away. Westlake players followed. Noise hit from every direction. Scott stood. Gav turned. Aaron looked at the grass. Taiga stared at the place where the ball had gone through.
 
-He could still see the first touch. His first touch. Across the body. Eight's foot. The lunge. The open channel. Mercer's voice. Back. He had heard it. He had fucking heard it.
+He could still see the first touch. His first touch. Across the body. Eight's foot. The lunge. The open space. Mercer's voice. Back. He had heard it. He had fucking heard it.
 
 The scoreboard changed.
 
@@ -540,7 +540,7 @@ Aaron sat beside him.
 
 Aaron waited. Taiga untied one boot.
 
-“Sorry about the channel.”
+“Sorry I couldn't slow him down.”
 
 Taiga looked at him. Aaron's face was tired. Not accusing. Taiga swallowed.
 
