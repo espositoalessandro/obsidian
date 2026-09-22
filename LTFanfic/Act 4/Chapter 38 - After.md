@@ -722,7 +722,37 @@ Leo laughed.
 
 Leo's expression softened.
 
-“I'll tell them you're coming.”
+“There are a lot of people around.”
+
+“How many is a lot?”
+
+Leo considered.
+
+“My parents. Dani. Abuela. Then other people are in and out all the time.”
+
+Taiga stared at him.
+
+“That is not a number.”
+
+“It's an ecosystem.”
+
+“That sounds worse.”
+
+Leo smiled.
+
+“It isn't.”
+
+Taiga looked at him.
+
+“They all speak English?”
+
+“Not really. Moma does some. Dani does. At home it's mostly Spanish.”
+
+Taiga filed that away.
+
+Leo leaned forward.
+
+“I'll tell everyone you're coming.”
 
 Taiga looked at him.
 
@@ -768,7 +798,7 @@ Taiga laughed.
 
 Taiga stared. Leo stopped. Caleb's hands paused over the mug. Leo's face went red.
 
-“I meant because my room has—”
+“I meant because my bed is a normal single, and there is no way Moma is going to let you sleep on the floor, so she's probably going to reorganize half my room before I even get home.”
 
 Taiga started laughing. Caleb put the mug into the box.
 
