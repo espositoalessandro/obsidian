@@ -758,7 +758,7 @@ Leo stared at Taiga.
 
 Before he could defend himself, Dani leaned toward Taiga.
 
-“*Do you sleep in the same bed at university*?”
+“Do you sleep in the same bed at university?”
 
 Taiga stopped with his fork halfway to his mouth.
 
@@ -772,7 +772,7 @@ Dani looked genuinely confused.
 
 “*What? I want to know where he sleeps.*”
 
-“*At night,*” Leo said.
+“*In bed,*” Leo said.
 
 “*That doesn’t answer it.*”
 
@@ -782,13 +782,13 @@ Dani looked back at Taiga.
 
 Taiga put the fork down.
 
-“I’m not answering that.”
+“No, we sleep in different dorms.”
 
 She considered that.
 
 “Okay.”
 
-And that was it. Dani took no offense and offered no argument; she simply went back to eating.
+And that was it.
 
 Taiga glanced at Leo.
 
@@ -827,10 +827,6 @@ Taiga answered before Leo could do anything else.
 “*No*.”
 
 The table laughed.
-
-Mercedes repeated the question more slowly.
-
-Taiga understood enough this time.
 
 “*He is bad teacher,*” Taiga said carefully. “*He know if something wrong, but he not know why.*”
 
@@ -886,7 +882,7 @@ Taiga smiled.
 
 “*I hope*.”
 
-Mercedes paused, then the whole table laughed.
+Mercedes paused, then she laughed.
 
 Leo covered his face.
 
@@ -1078,7 +1074,7 @@ Leo’s expression was completely uncomplicated.
 
 “Extremely.”
 
-“Your sister asks too many questions.”
+“Your sister too.”
 
 “She likes you.”
 
@@ -1124,17 +1120,15 @@ Taiga stared at him.
 
 Leo smiled.
 
-“Too much?”
-
 Taiga let himself fall backward across the sofa bed.
 
-“A lot.”
+“It was a lot.”
 
 Leo waited.
 
 Taiga turned his head.
 
-“Not bad, though.”
+“Not bad, though. They seem nice people.”
 
 Leo leaned over and kissed his forehead.
 
@@ -1200,11 +1194,11 @@ Leo rolled onto his side and looked at Taiga, a smile slowly appearing. Taiga wa
 
 Leo laughed.
 
-“You ruined the moment.”
+“You ruined the corny moment.”
 
 Taiga laughed too. After a couple of seconds, he rolled onto his side to face Leo and kissed him. Then he asked again, more gently,
 
-“So, what?”
+“What?”
 
 Leo kept smiling.
 
@@ -1352,9 +1346,9 @@ Taiga came straight into his mouth.
 
 Leo grabbed Taiga’s hip with one hand, holding himself there while he kept jerking off with the other.
 
-The world seemed to tilt as Taiga lost himself in the intensity of the climax.
+The world seemed to tilt as Taiga lost himself in the intensity of the climax. He laid down his head and closed his eyes.
 
-Leo swallowed everything, then gave a muffled grunt and came as well.
+He could hear a muffled grunt coming from Leo. He had came as well.
 
 A few seconds later, Taiga opened his eyes.
 
@@ -1378,7 +1372,7 @@ Leo grabbed a towel and cleaned the cum from his hand before lying down beside T
 
 Taiga turned his head toward him.
 
-“You were insanely good.”
+“Your grandma was right apparently.”
 
 Leo smiled, suddenly almost shy.
 
@@ -1408,42 +1402,15 @@ He swallowed, wiped his mouth with the back of his hand and looked at Taiga.
 
 “You knew what you signed up for.”
 
-Leo laughed and moved back toward the other mattress.
+Leo laughed, then laid back on his side, looking at Taiga.
 
-Taiga caught his wrist.
+"Are you planning on going back to your bed?"
 
-“Where are you going?”
-
-“My side.”
-
-Taiga glanced at the seam between the two mattresses, then back at him.
-
-“No.”
-
-Leo raised an eyebrow.
-
-“No?”
-
-“Stay here.”
-
-The surprise on Leo’s face lasted only a second.
-
-“Your bed now?”
-
-“Apparently.”
-
-“That is not how ownership works.”
-
-“Get in before I change my mind.”
-
-Leo smiled and slid back under the blanket.
+"Nope."
 
 Taiga made room without pretending not to. Leo settled against him, one arm across his stomach, and Taiga pulled the blanket over both of them.
 
-For once, neither of them argued about which mattress was worse.
-
 They fell asleep in Leo’s bed, close enough that the improvised second mattress beside them went unused.
-
 
 ---
 
