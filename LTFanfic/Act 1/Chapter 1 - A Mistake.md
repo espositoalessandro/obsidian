@@ -1008,11 +1008,11 @@ Bennett grinned and kept moving. Mercer moved Taiga two steps inward.
 
 “If he goes outside, you usually do not occupy the same strip of grass. Come inside. Make the defender choose. Follow you and the overlap is free. Stay with the overlap and you can receive inside.”
 
-Taiga looked at the shape. That made sense. Mercer pointed at the channel between the wide defender and the nearest center-back.
+Taiga looked at the shape. That made sense. Mercer pointed at the gap that had opened between two defenders.
 
-“This space is the half-space. Coaches call it that because apparently ‘the annoying bit between wide and central’ was too long.”
+“This is the part that matters. If Bennett makes one defender move, somebody has to notice what he left behind.”
 
-A couple of players laughed. Taiga did too.
+Taiga nodded.
 
 “Do I always move inside?”
 
@@ -1050,13 +1050,13 @@ Someone behind Taiga laughed. Taiga turned. Leo Mendez was grinning openly. Taig
 
 Mercer blew the whistle before Taiga could answer.
 
-“Again. Ball goes to their right-back. That is your trigger, Akatora. Curve the run so you close the line outside and show him toward our midfield.”
+“Again. Ball goes to their right-back. That's when you go, Akatora. Come from the outside so he can't just run down the line.”
 
-“Why inside?”
+“Why show him inside?”
 
 “Because Brennan and Romero are waiting there. We want the pass he thinks is safe.”
 
-Gav Brennan lifted one hand. “Show him inside. If he takes the safe pass, we're already there.”
+Gav Brennan lifted one hand. “Send him toward us. If he takes the easy pass, we're already there.”
 
 Isaac Romero tapped two fingers against his temple. Read it. Fine. Taiga nodded. They reset.
 
