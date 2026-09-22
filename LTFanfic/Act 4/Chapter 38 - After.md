@@ -210,13 +210,9 @@ The Camp Buddy group was waiting outside the Sports Zone.
 
 Hiro saw Taiga first and raised both arms.
 
-“DYNAMITE!”
+“TAIGA!”
 
 Taiga stopped.
-
-“You already used that yesterday.”
-
-“It still works.”
 
 Yoichi was sitting on the low wall beside the entrance with his elbows on his knees. Keitaro had his camera around his neck. Hunter held two coffees. Natsumi was looking at the stadium through the fence.
 
@@ -262,9 +258,7 @@ Leo laughed.
 
 They started with the stadium because they were already there.
 
-Taiga showed them the training pitches, the athletics building, the path back toward Residential. Keitaro stopped twice to take photographs. Hiro asked if Taiga had actually run every staircase he pointed at. Hunter wanted to know which building held the film room.
-
-Natsumi mostly watched.
+Taiga showed them the training pitches, the athletics building, the path back toward Residential. Keitaro stopped twice to take photographs. Hiro asked if Taiga had actually run every staircase he pointed at. Hunter wanted to know which building held the film room. Natsumi mostly watched.
 
 At the split toward Residential, Taiga pointed ahead.
 
@@ -366,7 +360,7 @@ Keitaro kicked him under the table.
 
 “Ow.”
 
-“Eat.”
+“Hiro.”
 
 “What? Everyone knows.”
 
@@ -480,11 +474,11 @@ Not long.
 
 Long enough.
 
-“Congratulations again.”
+“I'm happy for you. Seriously happy.”
 
 Taiga exhaled.
 
-“Thanks.”
+“I know.”
 
 Then Yoichi.
 
@@ -514,13 +508,25 @@ Taiga shoved him away.
 
 “You started it.”
 
+"If you don't come this summer I know where you live."
+
+"You don't know which window."
+
+"You know I can follow your scent."
+
+"You're really half dog."
+
+Taiga smiled.
+
+"Yeah, see you guys this summer."
+
 Leo was saying goodbye to the others behind him. Hiro gave him another handshake that became half a hug. Hunter told him to take care of the ankle. Natsumi said it had been good meeting him.
 
 Yoichi looked at Leo last.
 
 “Sunball.”
 
-“Wolfboy.”
+“Yoichi.”
 
 Taiga looked between them.
 
@@ -530,7 +536,7 @@ Both ignored him.
 
 Keitaro lifted one hand.
 
-“Summer.”
+“See you this summer then?”
 
 “Yeah.”
 
@@ -546,7 +552,7 @@ Taiga laughed.
 
 Leo stepped beside him.
 
-“They like you.”
+“They really are something.”
 
 Taiga looked at him.
 
@@ -633,7 +639,7 @@ Leo smiled.
 
 “That's not a hypothesis anymore.”
 
-Taiga looked at him. Leo took a drink of coffee. Kept walking. Taiga followed. He did not correct the word.
+Taiga looked at him. Leo took a drink of coffee. Kept walking. Taiga followed. He did not correct him.
 
 ---
 
@@ -710,9 +716,8 @@ Taiga put the paper into his bag. Leo bumped his shoulder. Taiga caught his hand
 
 ---
 
-The next two days turned into work. Not dramatically. Just completely. Soccer disappeared from the schedule faster than Taiga expected. One day there had been training every afternoon.
-
-Then there wasn't. The empty space immediately filled itself with Discrete Structures proofs, the Data Structures project, a Chemistry II lab write-up, review sessions, laundry, packing lists, forms and end-of-term housing checkout. A message from financial aid looked terrifying and turned out to require one checkbox.
+The next two days turned into work. Not dramatically. Just completely. Soccer disappeared from the schedule faster than Taiga expected. One day there had been training every afternoon. Then there wasn't. 
+The empty space immediately filled itself with Discrete Structures proofs, the Data Structures project, a Chemistry II lab write-up, review sessions, laundry, packing lists, forms and end-of-term housing checkout. A message from financial aid looked terrifying and turned out to require one checkbox.
 
 Taiga spent Tuesday evening in the library with Caleb. Leo sat opposite them. Maya was on a video call propped against Caleb's laptop. Four people. Three universities. One table covered in paper.
 
@@ -758,9 +763,8 @@ Leo pointed at Caleb.
 
 “I appreciate you.”
 
-Caleb returned to his notes. Taiga looked at Leo. Leo looked back. Then reached across the table and took Taiga's hand. Taiga let him. They stayed like that for maybe a minute until Taiga needed the hand to type.
-
-No discussion. Leo returned to pretending to read. Twenty minutes later he actually started working. Progress.
+Caleb returned to his notes. Taiga looked at Leo. Leo looked back. Then reached across the table and took Taiga's hand. Taiga let him. They stayed like that for maybe a minute until Taiga needed the hand to type. Leo returned to pretending to read. 
+Twenty minutes later he actually started working. Progress.
 
 ---
 
@@ -817,7 +821,6 @@ Taiga frowned.
 “This doesn't.”
 
 Taiga stared. Caleb put the headphone back. Conversation over. Taiga smiled despite himself. He changed. Got into bed. Leo woke enough to move automatically. Made space. Then immediately took half of it back.
-
 Taiga shoved him toward the wall. Leo muttered something incomprehensible. Taiga rested one hand against his back. Then slept.
 
 ---
@@ -1054,7 +1057,7 @@ Taiga sat on the desk chair.
 
 “How long is a while?”
 
-“I don't know. Two weeks? Three? Until you get sick of me?”
+“I don't know. three weeks? Four? Until you get sick of me?”
 
 “That could be forty minutes.”
 
@@ -1100,9 +1103,9 @@ Leo smiled.
 
 Taiga looked at him.
 
-“They all speak English?”
+“Do they speak English?”
 
-“Not really. Moma does some. Dani does. At home it's mostly Spanish.”
+“Not really. Maybe just my sister.”
 
 Taiga filed that away.
 
@@ -1154,7 +1157,7 @@ Taiga laughed.
 
 Taiga stared. Leo stopped. Caleb's hands paused over the mug. Leo's face went red.
 
-“I meant because my bed is a normal single, and there is no way Moma is going to let you sleep on the floor, so she's probably going to reorganize half my room before I even get home.”
+“I meant because my bed is a normal single, and there is no way my mum is going to let you sleep on the floor, so she's probably going to reorganize half my room before I even get home.”
 
 Taiga started laughing. Caleb put the mug into the box.
 
@@ -1232,15 +1235,11 @@ Enzo replied:
 
 **Enzo:** did u teleport
 
-Scott:
-
 **Scott:** Train.
-
-Enzo:
 
 **Enzo:** boring
 
-Taiga muted the chat. Five minutes later Leo sent him a screenshot of the exchange. Taiga unmuted it.
+Taiga muted the chat.
 
 ---
 
@@ -1296,11 +1295,7 @@ Caleb's expression remained neutral.
 
 Taiga narrowed his eyes.
 
-“How do you know that?”
-
-“You discussed it while I was in the room.”
-
-“Right.”
+“Yeah.”
 
 Caleb opened the door.
 
@@ -1444,4 +1439,6 @@ Three dots appeared immediately.
 
 **Leo:** better
 
-Taiga put the phone in his lap. The bus headed north. For once, there was nothing to fix before they saw each other again. Just two weeks.
+Taiga put the phone in his lap. 
+
+The bus headed north. 
