@@ -698,9 +698,199 @@ His face was still pumping heat. He thought he might never recover from that. Le
 
 The smiles didn't leave their faces until their cheeks started to hurt.
 
+Eventually somebody remembered they still had to leave.
+
+The showers became another argument. Enzo tried to bring the speaker in. Scott threatened to drown it. Gav confiscated it before either could prove a point.
+
+Taiga showered fast. Grass came off his legs. Sweat stopped drying into salt on his skin. By the time he pulled on clean jeans and a dark sweatshirt, the match finally felt like something that had actually ended.
+
+Leo came out a few minutes later in clean clothes, hair still damp, ankle rewrapped beneath the cuff of his pants.
+
+Taiga looked down.
+
+Leo caught him.
+
+“Still attached.”
+
+“Shut up.”
+
+“Just checking.”
+
+Bags packed. Boots zipped away. Tape and dirty kit disappeared into laundry sacks.
+
+When Taiga finally came out of the stadium, the air outside felt colder than it had before the match.
+
+And they were waiting.
+
+Yoichi saw him first.
+
+“There he is.”
+
+Keitaro lifted one hand. Hiro lifted both.
+
+“CHAMPION!”
+
+Several people nearby looked over.
+
+Keitaro grabbed Hiro's sleeve.
+
+“Volume.”
+
+“I'M OUTSIDE.”
+
+“That is not a defense.”
+
+Hunter laughed. Natsumi stepped closer and gave Taiga a quick hug before he could prepare for it.
+
+“Congratulations.”
+
+Taiga stood there for half a second, then hugged her back.
+
+“Thanks.”
+
+Hiro was next anyway. Too much momentum to stop. Taiga got hit with both arms.
+
+“You fucking scored.”
+
+“I know.”
+
+“You actually fucking scored.”
+
+“I was there.”
+
+Yoichi snorted.
+
+Keitaro smiled at Taiga in that irritatingly soft way that made him want to look somewhere else.
+
+“We're staying nearby tonight.”
+
+Taiga looked at him.
+
+“Nearby where?”
+
+“Hotel close to Olympus,” Hunter said. “Yoichi found it.”
+
+Yoichi immediately pointed at himself.
+
+“Because apparently I'm the only competent person here.”
+
+Natsumi said, “You booked the wrong room type first.”
+
+“That was the website's fault.”
+
+“It was not.”
+
+Taiga looked between them.
+
+“You're staying until tomorrow?”
+
+Keitaro nodded.
+
+“We didn't come all this way to watch ninety minutes of soccer and leave.”
+
+“Football,” Yoichi said.
+
+Keitaro looked at him.
+
+“You call it soccer when you're angry.”
+
+“Not relevant.”
+
+Hiro leaned in.
+
+“So tomorrow you're ours.”
+
+Taiga opened his mouth.
+
+Yoichi cut him off.
+
+“Not tonight, dumbass.”
+
+Taiga looked at him.
+
+Yoichi jerked his chin toward the Olympus bus.
+
+“Go do your champion shit. Team dinner. Whatever weird football cult thing happens after this.”
+
+Keitaro smiled.
+
+“We'll see you tomorrow.”
+
+Hunter nodded.
+
+“Take the evening.”
+
+Natsumi added, “You earned it.”
+
+Taiga looked at them.
+
+All five.
+
+They had traveled all the way here for him.
+
+His throat did something stupid.
+
+“Yeah.”
+
+Yoichi's expression changed just enough to notice.
+
+Then he ruined it.
+
+“Try not to cry, Dynamite.”
+
+“Fuck you.”
+
+“There he is.”
+
+Taiga laughed.
+
+Behind him, someone called for boarding.
+
+Keitaro stepped back.
+
+“Tomorrow.”
+
+“Yeah.”
+
+Taiga looked at Yoichi.
+
+“And thanks.”
+
+Yoichi stared at him.
+
+“For what?”
+
+Taiga pointed vaguely at all of them.
+
+“This.”
+
+Yoichi shrugged like he had arranged coffee instead of an interstate trip.
+
+“Blondie gave me the information. I did the easy part.”
+
+Taiga looked past him toward Leo, who was waiting near the bus with one hand on the rail.
+
+Still smiling.
+
+Little shit.
+
+Taiga turned back.
+
+“Tomorrow.”
+
+Hiro raised both hands again.
+
+“CHAMP—”
+
+Keitaro covered his mouth.
+
+Taiga walked toward the bus laughing.
+
 ---
 
-The bus left St. Vincent forty-eight minutes late. Nobody cared. The first ten minutes were loud enough that Taiga considered getting off while the bus was moving.
+The bus left St. Vincent forty-eight minutes late. Nobody cared. Everyone was showered, changed and carrying the match only in bruises, taped joints and dirty kit sealed inside their bags.
+
+The first ten minutes were loud enough that Taiga considered getting off while the bus was moving.
 
 Enzo had found a speaker. That had been the first problem. 
 The second was that everybody apparently knew the same three songs and believed volume could compensate for knowing only half the words.
@@ -816,11 +1006,13 @@ Enzo raised both hands. Mercer continued before he could speak.
 
 That got another cheer.
 
-“Change. Be there.”
+“We're going straight there.”
 
-Enzo pointed at himself.
+Enzo looked down at himself.
 
-“Dress code?”
+“So this is the dress code?”
+
+Mercer looked at the clean jeans, team sweatshirt and sneakers.
 
 “Clothes.”
 
@@ -842,27 +1034,13 @@ He caught it badly. Leo came down behind him, moving carefully on the ankle. The
 
 “Shut up.”
 
-Leo smiled. They went inside.
+Leo smiled.
 
----
+They did not go inside.
 
-By seven-thirty Taiga was in clean jeans and a dark sweatshirt, staring at himself in the locker-room mirror while trying to fix hair that had given up several hours ago.
+Bags went with the staff. The team crossed the Sports Zone together, still getting shouted at by people they passed.
 
-Enzo appeared behind him.
-
-“You're doing your hair.”
-
-Taiga looked at the mirror.
-
-“So are you.”
-
-“I'm naturally beautiful.”
-
-“You've used half a bottle of product.”
-
-“Natural enhancement.”
-
-Taiga walked away. Enzo followed.
+Enzo fell into step beside Taiga.
 
 “Big dinner.”
 
@@ -876,13 +1054,17 @@ Taiga walked away. Enzo followed.
 
 Taiga stopped. Enzo stopped too. His smile widened. Taiga pointed at him.
 
-“Finish that sentence and I'm throwing you into the ice bath.”
+“Finish that sentence and I'm throwing you into the fountain.”
 
-Enzo considered. Then nodded.
+Enzo considered.
+
+Then nodded.
 
 “Fair.”
 
-Taiga walked again. Behind him, Enzo said:
+Taiga started walking again.
+
+Behind him, Enzo said:
 
 “Worth it.”
 
