@@ -2378,4 +2378,40 @@ Leo kissed him once, then settled beside him.
 
 Outside, the compound slowly quieted around them.
 
+For a while, Taiga thought that was it.
+
+Then, sometime later, voices suddenly rose from downstairs.
+
+“¡Feliz cumpleaños!”
+
+More voices joined in from somewhere across the courtyard.
+
+Leo groaned into the pillow.
+
+Taiga opened one eye.
+
+“They beat me.”
+
+Leo turned his head.
+
+“You were going to wait until morning.”
+
+“I changed my mind.”
+
+“That sounds fake.”
+
+Taiga leaned over and kissed him.
+
+“Happy birthday.”
+
+Leo smiled against his mouth.
+
+“Thank you.”
+
+Taiga settled back down.
+
+A few seconds later, somebody downstairs shouted something else that made Leo laugh into the pillow.
+
+Taiga closed his eyes.
+
 Tomorrow, apparently, it would fill all over again.
