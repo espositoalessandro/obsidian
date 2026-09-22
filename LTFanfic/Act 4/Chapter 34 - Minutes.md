@@ -626,8 +626,8 @@ Leo put one hand over his heart.
 “Unprovoked.”
 
 Gav called everyone toward the student section. The team went. Applause. Hands raised. Somebody threw a scarf from the first row. Enzo caught it and immediately wore it around his head.
-
-One of the assistants made him give it back. They stayed on the field longer than usual. Not much. Enough for the stadium to empty around the edges.
+One of the assistants made him give it back.
+They stayed on the field longer than usual. Not much. Enough for the stadium to empty around the edges.
 
 When they finally went inside, Taiga looked at the scoreboard one more time.
 
@@ -637,9 +637,8 @@ Three points.
 
 ---
 
-The locker room was louder than the stadium hallway. Music appeared from somewhere. Probably Enzo. Taiga sat with an ice pack against his shin. Leo sat beside him with a towel around his neck, hair still wet from the shower.
-
-His knee pressed into Taiga’s. Enzo stood in front of them wearing one sock. Again. Taiga looked down.
+The locker room was louder than the stadium hallway. Music appeared from somewhere. Probably Enzo. Taiga sat with an ice pack against his shin. Leo sat beside him with a towel around his neck, hair still wet from the shower. His knee pressed into Taiga’s. 
+Enzo stood in front of them wearing one sock. Again. Taiga looked down.
 
 “Where is the other one?”
 
@@ -952,5 +951,3 @@ Taiga looked ahead.
 “And now I regret the assist.”
 
 Leo laughed. The residence halls came into view. Behind them, the stadium lights finally shut off.
-
----
