@@ -1128,12 +1128,6 @@ Dani came in through the patio door wearing shoes and carrying a bag.
 
 Taiga looked between them.
 
-“Runs in the family.”
-
-Leo pointed at him.
-
-“No.”
-
 Antonio crossed the patio carrying a ball under one arm and something wrapped in foil in the other. Mercedes sat at the table drinking coffee as if the activity around her belonged to a different weather system.
 
 Carmen looked at Taiga.
