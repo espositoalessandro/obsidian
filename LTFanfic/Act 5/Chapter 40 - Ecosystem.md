@@ -306,19 +306,17 @@ Leo smiled.
 
 “And Tía says it was fifty minutes, there was no storm, and the highway wasn’t blocked.”
 
-The woman came down the stairs more slowly. She had a calm expression that made Ramón’s entire performance look even larger by comparison.
+The woman came down the stairs as Ramón was still arguing his version of events.
 
 “Isa,” Leo said. “Tía.”
 
-She greeted Taiga in Spanish, but clearly enough that he caught the welcome and the question about the flight. He answered in the simplest sentence he could manage.
+She greeted Taiga in Spanish and asked about the flight. He answered in the simplest sentence he could manage.
 
 “Largo, pero bien.”
 
 Long, but good.
 
-Isa nodded as if this were a perfectly ordinary answer and moved on without congratulating him for producing a sentence.
-
-Taiga immediately appreciated her.
+Isa nodded and said something else Taiga missed before Carmen called them toward the house.
 
 “*Come,*” Carmen said, already moving. “Mami *is waiting.*”
 
@@ -446,51 +444,9 @@ Taiga looked down at himself.
 
 Leo wisely declined to translate that one.
 
-Across the table, Manuel was looking under a folded napkin.
+Across the table, Manuel asked Leo something about Olympus. Before Leo could finish answering, Ramón cut in with a comment that sent Carmen straight back into the argument they had apparently been having before Taiga understood any of it.
 
-Dani watched him for several seconds.
-
-“Papá.”
-
-Manuel looked up.
-
-She pointed at his left hand.
-
-His phone was in it.
-
-Manuel looked at the phone.
-
-Then at the napkin.
-
-Then laughed.
-
-Taiga turned slowly toward Leo.
-
-Leo had already seen his face.
-
-“Don’t.”
-
-“Runs in the family.”
-
-“No.”
-
-“You lose things.”
-
-“I overschedule. Different problem.”
-
-“Same blood.”
-
-“Absolutely not.”
-
-Manuel asked what they were talking about.
-
-Leo refused to translate.
-
-Ramón volunteered to do it for him.
-
-That created another argument.
-
-Taiga understood almost none of the words, but the structure was becoming easier to read. Carmen corrected Ramón twice. Ramón responded as if being corrected merely gave him more material. Isa ate without hurrying. Mercedes watched the table with the expression of somebody who had seen every version of this conversation already and was prepared to enjoy it again.
+Taiga caught almost none of the words, but the structure was becoming easier to read. Carmen corrected Ramón twice; Ramón answered both times and kept going. Isa ate without hurrying. Mercedes watched the table with the expression of somebody who had seen every version of this conversation already and was prepared to enjoy it again.
 
 Then Dani leaned toward Taiga.
 
@@ -658,7 +614,7 @@ Leo sighed before the second sentence.
 
 “*No.*”
 
-Ramón pointed at Taiga. He had a fresh audience, and apparently that was enough.
+Ramón pointed at Taiga and continued.
 
 The story concerned a match from years ago in which Ramón had, according to his own version, scored from almost midfield against a team that had not lost in two seasons.
 
@@ -686,9 +642,7 @@ Leo laughed harder.
 
 “Papá says Tío missed the first penalty and they let him retake it because the goalkeeper moved early.”
 
-Ramón spread both hands as if this improved the story.
-
-Taiga understood none of the explanation that followed, but he understood Ramón perfectly.
+Ramón spread both hands as if this improved the story, then continued arguing his case while the others corrected him from three directions at once.
 
 By the time dinner ended, Taiga’s head felt full. Not in a bad way; there had simply been too much to process at once.
 
@@ -1156,7 +1110,7 @@ Leo laughed and pushed himself upright.
 
 By the time they reached the kitchen, the compound had already become a logistics problem.
 
-Carmen was standing near the counter with a list in one hand and coffee in the other. Manuel was checking his pockets. Ramón had appeared from somewhere and was insisting he knew exactly where to find something Carmen needed for tomorrow. Isa was listening with the expression of someone who did not believe him but had not yet decided whether correction was worth the effort.
+Carmen was standing near the counter with a list in one hand and coffee in the other. Manuel was checking his pockets. Ramón had appeared from somewhere and was insisting he knew exactly where to find something Carmen needed for tomorrow. Isa stood beside the counter drinking coffee while he talked.
 
 Dani came in through the patio door wearing shoes and carrying a bag.
 
@@ -1224,15 +1178,7 @@ Dani pointed toward the counter.
 
 The keys were beside his coffee.
 
-Manuel picked them up.
-
-Taiga did not even need Leo this time.
-
-“Runs in the family.”
-
-Manuel heard the English phrase and looked at Leo.
-
-Leo refused to translate.
+Manuel picked them up, gave Dani a small nod and walked back out.
 
 Breakfast spread itself across the morning while plans for Sunday happened around it. Taiga caught *cumpleaños* often enough to know when Leo’s birthday had entered the conversation, even when everything around the word escaped him.
 
@@ -1870,21 +1816,7 @@ Ramón brought in folded chairs and claimed there had been none available until 
 
 The compound became noisy again, but it no longer sounded like one continuous wall.
 
-Taiga could separate pieces now.
-
-Ramón was the voice getting louder because the story was improving.
-
-Carmen was the one issuing instructions from one doorway to another.
-
-Dani’s tone changed when she switched into English to tell Taiga something directly.
-
-Antonio could apparently say Julio’s name from any point on the property and expect an answer.
-
-Isa spoke less often, which made Taiga notice when she did.
-
-Mercedes remained in the middle of everything without looking remotely hurried.
-
-And Leo moved between them all.
+Taiga could separate pieces now. Ramón was telling something near the patio table while Carmen called instructions from one doorway to another. Dani switched into English when she wanted to tell Taiga something directly, and Antonio could apparently say Julio’s name from any point on the property and expect an answer. Isa crossed through with a stack of plates, Mercedes remained in the middle of everything without looking remotely hurried, and Leo moved between them all.
 
 At one point Carmen called him to hold something while Manuel adjusted a folding table. Thirty seconds later Dani asked where a charger was. Antonio wanted him to see whatever he had been explaining earlier. Ramón needed help moving chairs.
 
