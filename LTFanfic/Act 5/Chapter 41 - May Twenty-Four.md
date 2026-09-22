@@ -1,7 +1,5 @@
 Taiga woke to sunlight, voices somewhere below and Leo still completely motionless in the bed beside him.
 
-Taiga had slept on the opened sofa again. Leo had stayed on his own mattress, close enough across the narrow seam that Taiga could have reached him without getting up, but far enough that neither of them had spent the night fighting over blankets.
-
 Taiga turned his head.
 
 “Birthday privilege lasts until midnight tonight.”
@@ -150,9 +148,9 @@ This time the door opened.
 
 Taiga pulled the blanket higher on instinct even though they were both wearing clothes.
 
-Carmen stood in the doorway carrying a mug.
+Carmen stood in the doorway carrying two mugs.
 
-Her eyes moved from Leo to Taiga, both still in their separate beds, then settled on her son.
+Her eyes moved from Leo to Taiga, then settled on her son.
 
 “*Happy birthday.*”
 
@@ -160,7 +158,7 @@ Leo’s expression softened immediately.
 
 “Gracias, Moma.”
 
-Carmen crossed the room, bent down and kissed his forehead. Then she put the mug on the bedside table.
+Carmen crossed the room, bent down and kissed his forehead. Then she put one mug on the bedside table and handed the other to Taiga.
 
 “*Coffee. Your father bought bread. Mami says you have ten minutes before she comes upstairs herself.*”
 
@@ -170,11 +168,7 @@ Leo sat up.
 
 “*Then move.*”
 
-She turned toward Taiga.
-
-“*Coffee downstairs.*”
-
-Taiga understood enough.
+Taiga took the mug.
 
 “Gracias.”
 
