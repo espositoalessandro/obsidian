@@ -516,7 +516,7 @@ Taiga looked at Leo.
 
 Taiga answered before Leo could do anything else.
 
-“*No.*”
+“No.”
 
 The table laughed.
 
@@ -612,7 +612,7 @@ Ramón started another story, this one involving football.
 
 Leo sighed before the second sentence.
 
-“*No.*”
+“No.”
 
 Ramón pointed at Taiga and continued.
 
