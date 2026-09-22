@@ -28,33 +28,31 @@ Win. That was it. No permutations left. No other scores. No waiting afterward. W
 
 “So we're actually—”
 
-Mercer restarted the clip. Conversation stopped. St. Vincent's right-back stepped high. Their winger moved inside. Space opened behind him. Mercer paused.
+Mercer restarted the clip. Conversation stopped.
 
-“Now you know.”
+St. Vincent's right-back charged forward. The space behind him opened immediately.
+
+Mercer paused.
+
+“That's the problem.”
 
 He rewound ten seconds.
 
 “Again.”
 
-The room watched. Taiga put his phone face-down beneath his chair. Mercer pointed at the left side of the screen.
+The room watched. Taiga put his phone face-down beneath his chair.
 
-“Akatora.”
+Mercer looked at him.
 
-Taiga looked up.
+“If he follows you inside?”
 
-“What happens if their right-back follows you inside?”
-
-“Aaron is free outside.”
-
-“And if their winger follows Aaron?”
-
-“Gav is free inside.”
+“Aaron gets the space outside.”
 
 “Good.”
 
 Mercer played the clip.
 
-“Stop trying to solve the table. Solve this.”
+“Stop solving the table. Solve that.”
 
 Nobody touched a phone again.
 
@@ -154,31 +152,25 @@ Enzo pointed after him.
 
 “Thank you.”
 
-Mercer entered. The room settled. He did not mention Hartwell. Did not mention Pinetree. Did not say championship. He put St. Vincent's shape on the board.
+Mercer entered. The room settled. He did not mention Hartwell. Did not mention Pinetree. Did not say championship.
 
-“First fifteen, they come at you.”
+“First fifteen, they'll come at us hard.”
 
-Marker. Arrows.
+He looked around.
 
-“They did it in the fall. They're doing it now.”
+“Get through that without panicking.”
 
-He looked at Gav.
+Then Aaron and Taiga.
 
-“If we get through the first wave, don't force the next pass.”
-
-Gav nodded.
-
-“Bennett. When their right-back charges, the winger comes inside. Make him choose who to follow.”
+“Their right-back likes to charge forward. If he does, use the space he leaves.”
 
 “Yeah.”
 
-“Rosario, stay wide until we settle.”
+Mercer looked at Enzo.
 
-Enzo nodded. Mercer looked at Taiga.
+“Same on your side. Stay wide until we settle.”
 
-“Same.”
-
-“Yeah.”
+Enzo nodded.
 
 Mercer capped the marker.
 
@@ -336,21 +328,49 @@ Not enough to stop him. Mercer looked at the clock. Did not substitute either of
 
 ---
 
-Eighty-four. Gav had the ball. St. Vincent dropped. Olympus spread. Pass left. Aaron. Then Taiga. The ball arrived slightly behind him. Taiga controlled across his body. Right-back five meters away.
+Eighty-four.
 
-Central midfielder coming. Aaron behind. Gav inside. The space between the two defenders existed. He could turn into it. For half a second, his body wanted to. The midfielder accelerated.
+Taiga got the ball on the left with a defender closing.
 
-Taiga played Gav. Simple. One touch. The ball left. Taiga ran. Forward. Gav switched right. Enzo received. Fullback closed. Enzo played back. Olympus kept it. St. Vincent shifted.
+For half a second, he saw the risky turn.
 
-Gav again. Leo checked toward the ball. Their midfielder followed. Gav played Aaron. Left side. Taiga had moved high. Aaron gave it to him. Right-back arrived. Taiga played inside to Leo.
+Westlake flashed through his head.
 
-Then ran behind. Leo did not return it. He turned the other way. St. Vincent collapsed. Leo found Enzo on the far side. Enzo took one touch and crossed.
+He played the simple pass instead.
 
-The striker attacked near post. Center-back got there first. The ball deflected upward. Not clear. Gav arrived at the edge. Headed it back into the box. Aaron was still forward.
+Then ran.
 
-He got there. One touch. Low cross. Chaos. A defender swung. Missed. The ball rolled through. Taiga was there. Not where he had started. Far post. Six yards.
+Olympus kept the ball moving. Left to right. Back again. St. Vincent shifted with it.
 
-He hit it first time. Net. For one second, nothing made sense. The ball was inside. Then the blue corner behind the opposite goal exploded. Taiga turned. Ran.
+When it returned to Taiga, he played Leo inside and ran behind him.
+
+Leo turned the other way instead.
+
+Good.
+
+The whole defense followed.
+
+Leo found Enzo on the far side. Enzo crossed.
+
+The striker attacked it. Defender got there first, but the clearance went straight up instead of out.
+
+Gav headed it back into the box.
+
+Aaron, still forward, reached it and drove a low ball across goal.
+
+A defender swung.
+
+Missed.
+
+The ball rolled through everyone.
+
+Taiga was at the far post.
+
+Six yards.
+
+He hit it first time.
+
+Net. For one second, nothing made sense. The ball was inside. Then the blue corner behind the opposite goal exploded. Taiga turned. Ran.
 
 Did not know where. Enzo reached him first from the other side of the box. Aaron crashed into both of them. Gav arrived. The striker jumped onto somebody's back.
 
