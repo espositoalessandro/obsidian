@@ -338,7 +338,7 @@ They crossed the patio.
 
 Only then did Taiga fully register the architecture. Carmen and Manuel’s section had its own door and windows. Another entrance led toward what Leo had called Tío’s. Mercedes’s part sat closer to the center, older in small ways Taiga could not have named if asked: the shape of the doorway, the tile near the threshold, the furniture visible inside.
 
-It was not one house, and somehow it also was. Taiga understood why Leo had failed to explain it.
+Taiga gave up trying to decide where one house ended and another began.
 
 Mercedes sat near the open kitchen with a glass of something cold beside her. She did not get up when they entered. Everybody else seemed to move toward her eventually, which probably made standing unnecessary.
 
@@ -391,8 +391,6 @@ Leo stared.
 “Oh, great.”
 
 Mercedes laughed.
-
-That was the beginning of the problem.
 
 Carmen said something to Leo from the doorway. Taiga caught *hora* and nothing useful around it.
 
@@ -526,9 +524,9 @@ Taiga looked at him.
 
 That was apparently the entire logic.
 
-There had been no conversation about whether Taiga would sleep somewhere else, no awkward explanation waiting for him on arrival. Carmen had counted people, counted beds and solved the problem.
+Taiga looked from the fresh sheets to the cleared space beside the wardrobe, then back at Leo.
 
-Taiga looked at the seam again.
+Then he looked at the seam again.
 
 “You’re sleeping on that side.”
 
@@ -936,9 +934,7 @@ Spanish had stopped being individual sentences and turned into currents. He coul
 
 Leo translated less than Taiga expected.
 
-At first Taiga thought he had forgotten. Then he realized Leo was choosing. If someone asked Taiga something, Leo helped. If Ramón and Carmen were arguing about a story Taiga had no reason to care about, Leo let them.
-
-It made the whole thing easier.
+When someone addressed Taiga directly, Leo stepped in if he needed him. When Ramón and Carmen started arguing across the table again, Leo kept eating.
 
 Eventually chairs began scraping backward and people started moving again. Taiga thought dinner was over until he realized Mercedes and Ramón were still sitting at the table, Carmen was packing food into containers, Manuel had wandered outside, Dani had taken Antonio somewhere, and Isa was washing something despite Carmen telling her not to.
 
