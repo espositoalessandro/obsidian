@@ -2,7 +2,7 @@
 
 Working structural bible for Act V.
 
-This is **not yet a chapter-by-chapter outline**. It defines the act's thematic conflict, emotional logic, pacing, relationship function and major structural phases. Individual scenes, relatives, locations and exact chapter breaks can be developed later.
+This defines the act's thematic conflict, emotional logic, pacing and relationship function, with a **revised chapter ladder grounded through Chapter 42**. Chapters 43–46 now have agreed structural endpoints; later chapter divisions remain flexible. The latest canonical prose controls events already written.
 
 Act V is intended to be **at least as substantial as Act I, potentially longer**. The central pattern must emerge slowly enough that it feels like character discovery rather than diagnosis-by-plot.
 
@@ -212,7 +212,7 @@ At Olympus he is:
 - boyfriend.
 
 At home he is:
-- Julio;
+- Leo, with Carmen, Mercedes and some older people calling him Julio;
 - son;
 - brother;
 - grandson;
@@ -221,7 +221,7 @@ At home he is:
 - old friend;
 - familiar neighborhood figure.
 
-For the first time, Taiga enters **Julio's world**.
+For the first time, Taiga enters **Leo's home world**. Julio is familiar family naming, not a separate identity.
 
 Leo cares enormously about the visit going well.
 
@@ -311,7 +311,7 @@ This gives Taiga the crucial realization:
 
 > **So it wasn't because of me.**
 
-That is the point where the pattern becomes observable.
+That is the point where the pattern becomes observable. In Chapter 43 this should remain an incomplete, concrete recognition: Taiga needs less help, but Leo does not seem less tired. Reserve their argument about the meaning for Chapter 44.
 
 ---
 
@@ -337,15 +337,17 @@ The intended emotional comparison is the **Casa Madrigal feeling from Encanto**:
 
 Do **not** literally reproduce Encanto or build a magical-house analogue.
 
-The eventual family structure should be culturally plausible for a Dominican Santo Domingo setting.
+The Family Bible and Chapters 40–42 establish a multigenerational compound in La Guáyiga / Pedro Brand, separate household units, a shared patio, real bedroom privacy and a wider neighborhood network.
 
-Possible spatial models to consider later:
-- large family house with several generations;
-- relatives occupying different floors;
-- nearby family homes with constant movement between them;
-- a mixture of blood relatives, godparents and family friends treated socially as family.
+## Quiet hours are part of the same routine
 
-The house should function as a social ecosystem.
+The home is not continuously crowded. Work and school create predictable quieter hours; people return in the afternoon and evening.
+
+Leo has learned to expect this rhythm. His established understanding that a silent home means something is wrong or nobody is home includes the ordinary explanation that everyone is out.
+
+Quiet can help him without becoming consciously recognizable as relief from interpersonal pressure. Those hours are familiar and bounded by the expected resumption of family life.
+
+The trip's contrast depends on **duration and normalization**: sustained days and nights without the cycle restarting. Do not erase daytime calm at home to manufacture that contrast.
 
 ## Family tone
 
@@ -376,67 +378,49 @@ The family may discover Leo's boundaries at the same time Leo begins discovering
 
 ---
 
-# 8. Julio vs. Leo
+# 8. Leo / Julio — Home Naming
 
-Taiga already knows Leo's legal given name is **Julio**.
+Taiga already knows Leo's legal given name is **Julio**. This is not a factual reveal or an Olympus-Leo / home-Julio personality split.
 
-Act V must not treat this as a factual reveal.
+Follow the locked Family Bible:
+- Leo is his normal everyday name at university and at home.
+- Carmen and Mercedes normally call him Julio.
+- Manuel, Dani, Ramón, Isa, Antonio, Enzo and peers normally call him Leo.
+- Older relatives or neighbors may naturally use Julio.
 
-The emotional discovery is hearing the name live inside its real context.
+The discovery is contextual: childhood stories, photographs, habits, family voices, football and gaming history, and friendships that predate Olympus.
 
-At Olympus:
-- almost everyone calls him Leo.
-
-At home:
-- family naturally calls him Julio.
-
-Taiga gets to experience:
-- the voice Leo responds to at home;
-- childhood stories attached to Julio;
-- habits that predate Olympus;
-- family jokes;
-- photographs;
-- old football history;
-- Enzo's shared pre-university context;
-- versions of Leo that Taiga did not create and cannot fully possess.
-
-This supports the act's larger purpose:
-
-> Taiga is not merely visiting Leo's country. He is meeting the person Leo was before Olympus.
+Taiga meets more of the person Leo already is.
 
 ---
 
 # 9. Relationship Function of Act V
 
-Act IV establishes:
+Act IV establishes **I want you**. Act V develops the lived understanding **I can rest beside you**.
 
-> **I want you.**
+## Relief exists before either character understands it
 
-Act V should deepen this into:
+Chapters 41–42 already contain bodily relief and quiet closeness. Preserve those moments without treating them as conscious psychological insight.
 
-> **I can rest beside you.**
+Leo can interpret the long release of breath as:
+> I wanted to be alone with you, and now I finally am.
 
-Until the weekend trip, Taiga and Leo have never truly gone anywhere alone.
+There is also a mechanism neither he nor Taiga has identified:
+> The pressure from everybody else has dropped, and being with you adds no new pressure.
 
-There are always other people.
+Taiga does not yet think of himself as a place where Leo recharges. Neither should explain the difference before experience earns it.
 
-- Olympus: teammates, classmates, roommates, friends.
-- Camp Buddy: staff, scouts, chores, Kieran, shared spaces.
-- Leo's home: family, old friends, obligations.
-- Even many private moments happen between responsibilities.
+## What makes the short trip new
 
-The short trip in Act V becomes the first environment containing only:
+The birthday date and Boca Chica are already outings alone together. They return to the household afterward.
 
-> **Taiga + Leo**
+The trip is their **first sustained stretch of whole days and nights on their own**, with no return to the familiar household between one day and the next. Duration and continuity distinguish it from dates, daytime quiet at home, and five-minute resets.
 
-with no one else waiting for either of them.
+- **First day:** travel, arrival, novelty, attraction and ordinary enjoyment. Relaxation can still be understood simply as having a good time.
+- **Second day:** they wake into another whole day together, with no household return that evening. The reduction in pressure becomes noticeably different, physically and behaviorally, before either explains it.
+- **Later in the trip:** Leo begins recognizing the contrast himself.
 
-This is a new intimacy threshold.
-
-It does not require another formal romantic milestone.
-
-Its importance comes from the absence of external demand.
-
+This is not a new formal romantic milestone. It lets them understand a form of ease their relationship has already begun to provide.
 
 ---
 
@@ -896,35 +880,45 @@ If the first family scenes reveal that another system reads more naturally, revi
 
 ---
 
-# 10. Act Length and Calendar Shape
+# 10. Act Length, Calendar and Revised Chapter Ladder
 
-Act V should cover roughly **five weeks**.
+The Santo Domingo visit still aims toward roughly **five weeks**, starting **Friday May 22, 2026**, with a substantial return-home phase in the second half of June. The final date and final chapter count remain open.
 
-Current calendar entry point:
-- **Fri May 22, 2026** — Taiga arrives to begin the visit.
-- **Sun May 24** — Leo's birthday.
+The earlier 14–17-chapter estimate is a guide, not a quota. Four chapters have now established the positive foundation. Do not add four more chapters of pre-conflict setup: **43 combines independence and noticing; 44 combines consequence and argument.**
 
-Do not lock an exact Act V end date yet, but the act should currently aim to conclude in the **second half of June 2026**.
+## Established opening
 
-Working shape:
+| Chapter | Calendar | Structural result |
+| --- | --- | --- |
+| 39 — Transition | May 8–22 | Separation, Spanish preparation, arrival. |
+| 40 — Ecosystem | May 22–23 | Family, bedroom and neighborhood immersion. |
+| 41 — Two wishes | May 24 into early May 25 | Joyful birthday; private couple time and family belonging. Relief beside Taiga remains unexamined. |
+| 42 — Stripe vs Full | May 25–31 | Shared ordinary life, gaming, errands, friends at the pool bar, Boca Chica and Mother's Day. Taiga becomes functional in familiar contexts. Light breadcrumbs remain part of happy days. |
 
-| Phase | Approximate duration | Function |
-| --- | ---: | --- |
-| Arrival / birthday / immersion | ~1 week | Establish Leo's home world as joyful and desirable |
-| Taiga becomes independent | ~1 week | Remove "hosting Taiga" as explanation for Leo's energy use |
-| Pattern recognition / denial | ~1 week | Taiga sees aggregate cost; Leo rationalizes individual demands |
-| Short trip away together | 2–3 days | Environmental proof: pressure drops |
-| Return home / active growth | ~1.5–2 weeks | Leo experiments with boundaries in the environment that triggers the pattern |
+## Agreed next steps
 
-The act should likely support **14–17 chapters**, possibly more if scene density justifies it.
+| Chapter | Working calendar | Movement and endpoint |
+| --- | --- | --- |
+| **43** | **June 1–7** | Comfortable independence and uneven energy develop together. Taiga occasionally chooses a separate activity; Leo trusts him. Freed attention fills elsewhere. Small costs become visible amid enjoyable life. **End with Taiga noticing a recurring discrepancy**, not diagnosing Leo or arguing the whole issue. Seed the desired overnight trip for ordinary couple reasons. |
+| **44** | **Following days, provisionally June 8–11** | Further examples produce a concrete consequence. Taiga's practical concern develops into disagreement about its meaning. Leo defends individually reasonable relationships and commitments; Taiga sees their aggregate. Taiga may overgeneralize. **End with them arguing about the pattern**, without a giant rupture or a tidy resolution. |
+| **45** | **Trip opening, provisionally June 12 onward** | The already-desired trip begins. Its first day is principally travel and enjoyment. No immediate explanatory transformation. |
+| **46** | **Second day onward within a 2–3-day trip** | Sustained absence of external demands becomes noticeable. Bodily ease precedes understanding. Leo owns the emerging recognition. Do not make the trip a cure. |
 
-Do not force the chapter count in advance.
+The trip must contain a second day with another night away, rather than a second day organized entirely around getting home. A Friday–Sunday shape can support that naturally. Exact dates, destination and scene breaks can be finalized with travel logistics.
 
-The important requirement is pacing:
-- pattern before explanation;
-- repetition before confrontation;
-- proof before acceptance;
-- practice before resolution.
+## Return-home ladder — flexible chapter divisions
+
+After the trip, preserve substantial space for:
+1. returning to the familiar environment and feeling automatic availability resume;
+2. first imperfect experiments: overexplaining a refusal, changing an automatic yes, tolerating mild disappointment;
+3. genuine pleasures and renewed overcommitment in the same week;
+4. Taiga learning not to supervise Leo's choices;
+5. a more difficult choice expressed as Leo's own preference, not an excuse involving Taiga;
+6. ordinary proof that chosen generosity, social pleasure, rest and boundaries can coexist.
+
+Do not compress this material merely because the pre-trip buildup has been shortened.
+
+**Pacing rule:** chapters mark changes in understanding, not switches that turn symptoms on. Affection, independent life, small demands and pleasure continue across all phases.
 
 ---
 
@@ -1012,7 +1006,7 @@ Leo is simply:
 - involved;
 - useful.
 
-Do not tell the reader what it means yet.
+In Chapter 43, let neutral or funny instances accumulate into small observable costs. By the ending, Taiga notices a recurring discrepancy; he does not yet understand its full emotional mechanism.
 
 ---
 
@@ -1080,11 +1074,11 @@ Leo hears criticism of the relationships themselves because he does not yet sepa
 - helping someone;
 - being constantly available to someone.
 
-This produces a **small but real confrontation** before the trip.
+This produces a **small but real confrontation in Chapter 44**, before the trip. Chapter 43 ends with noticing; Chapter 44 ends with disagreement about what the observations mean.
 
 Do not make it a giant rupture.
 
-They love each other and are already capable of repair.
+They are affectionate, committed to the relationship and already capable of repair. Do not invent a new spoken declaration merely to establish that security.
 
 The conflict is:
 - Taiga sees a pattern;
@@ -1096,7 +1090,7 @@ The conflict is:
 
 # 14. The Weekend Trip — Structural Hinge
 
-The short trip should last **2–3 days maximum**.
+The short trip should last **2–3 days maximum**, with enough time for the second day to unfold without returning to the household that evening. A two-night shape is preferred.
 
 Destination is not yet locked.
 
@@ -1130,7 +1124,7 @@ That is the structural hinge of Act V.
 
 # 15. What Changes on the Trip
 
-This is the first time Taiga and Leo are truly away together with nobody else.
+This is the first sustained stretch of whole days and nights Taiga and Leo spend away together on their own. Their earlier day outings remain real couple time.
 
 Remove:
 - family;
@@ -1147,7 +1141,7 @@ What remains:
 - Leo;
 - ordinary practical needs.
 
-Taiga is unusually undemanding.
+Taiga is relatively direct and does not require constant emotional anticipation. He still has desires, moods, needs and legitimate disappointments; do not idealize him as requiring nothing.
 
 He:
 - says when he wants something;
@@ -1158,7 +1152,13 @@ He:
 - does not need Leo to create a good time every minute;
 - will directly say if something is wrong.
 
-Leo therefore has almost nothing to monitor.
+Leo therefore experiences far less interpersonal monitoring. Ordinary shared decisions and mutual care remain.
+
+## Timing — the second day is the threshold
+
+Do not make the first day reveal the psychological contrast. Travel, novelty and enjoying each other explain it adequately at first.
+
+From the second day, the sustained low-demand environment becomes noticeably different. Leo wakes into more time alone with Taiga, rather than preparing to rejoin the household.
 
 ## The change should appear physically before intellectually
 
@@ -1176,7 +1176,9 @@ Possible signs:
 
 Important:
 
-> **The five-minute reset disappears because there is nothing to reset from.**
+> **During the sustained low-demand stretch, he does not need the familiar five-minute escape.**
+
+Do not treat one day without a reset as proof. Let the absence become meaningful through duration, beginning on the second day, and through Leo's own recognition.
 
 That is one of the strongest pieces of evidence available.
 
@@ -1194,16 +1196,13 @@ The evidence belongs to Leo's body.
 
 # 16. The First Experience of Pressurelessness
 
-The trip should establish something Leo may never have experienced in this form:
+The trip should make sustained and eventually recognizable something Leo has already felt in brief moments without understanding it:
 
 > Being close to someone he loves without needing to anticipate them.
 
 This can initially feel strange.
 
-Leo comes from an environment where prolonged silence can imply:
-- nobody is home;
-- something is wrong;
-- the social system has stopped.
+Leo's home has predictable quiet hours. He interprets them within the same household routine: people are out now and will return later. Silence outside that expectation can suggest something is wrong. He has not isolated how the duration and recurrence of external demands affect him.
 
 With Taiga, he can discover:
 
@@ -1639,7 +1638,8 @@ The short trip should be:
 - affordable;
 - geographically plausible;
 - already desired for ordinary couple reasons, not prescribed as therapy;
-- the first trip they take entirely on their own.
+- their first sustained overnight trip entirely on their own, beyond the established day outings;
+- a contrast that becomes noticeable from the second day, not an immediate first-day transformation.
 
 Do not characterize Leo as obsessive about itineraries.
 
@@ -1666,6 +1666,10 @@ Do not:
 - show Leo visibly breaking down immediately after Taiga arrives;
 - make Taiga identify the entire pattern in the first week;
 - explain the five-minute resets too early;
+- turn the end of Chapter 42 into a switch from perfect happiness to obvious symptoms;
+- spend four additional chapters reaching the first argument: 43 ends in noticing and 44 in disagreement;
+- confuse prior bodily relief beside Taiga with conscious understanding of why he feels it;
+- manufacture constant household noise or treat expected weekday silence as equivalent to several days away;
 - make the birthday secretly miserable;
 - make the family obviously toxic;
 - make every family scene serve the conflict;
@@ -1701,8 +1705,8 @@ Act V progression:
 
 Or emotionally:
 
-> Taiga meets Julio's world.  
-> Taiga sees what Julio gives it.  
+> Taiga meets Leo's home world.  
+> Taiga sees what Leo gives it.  
 > Leo refuses to believe the giving costs him.  
 > They leave the world briefly.  
 > Leo discovers how different he feels without its demands.  
