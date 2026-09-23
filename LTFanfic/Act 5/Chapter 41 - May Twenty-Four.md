@@ -2212,8 +2212,6 @@ Antonio tried to stand in front and was moved sideways by Dani.
 
 Leo got pushed into the middle behind the cake.
 
-Taiga stayed with everyone else.
-
 The first song started.
 
 Taiga recognized the situation.
@@ -2222,7 +2220,7 @@ He did not recognize the song.
 
 Everyone else did.
 
-The melody spread across the courtyard immediately, older voices and younger ones joining without needing instruction. Carmen sang. Manuel sang. Mercedes sang from her chair. Enzo sang loudly enough to become individually identifiable, which seemed unnecessary.
+The melody spread across the courtyard immediately, older voices and younger ones joining without needing instruction. Carmen sang. Manuel sang. Mercedes sang from her chair. Enzo sang loudly enough to become individually identifiable.
 
 Taiga listened.
 
@@ -2264,7 +2262,7 @@ Antonio shouted something.
 
 Leo stopped.
 
-“What?”
+“*What*?”
 
 Antonio repeated it.
 
