@@ -1332,31 +1332,1233 @@ Leo smiled into his dessert.
 
 Dinner ended at ten. Mercer left first. The assistants followed. The team remained another twenty minutes until the restaurant staff began making increasingly obvious movements with chairs. They finally spilled back into Central.
 
-Night air. Full stomachs. Dead legs. Too much energy anyway. Enzo wanted to go somewhere else. Gav refused. Scott had already started walking toward Residential. Aaron said he was calling Sofia.
+Night air. Full stomachs. Dead legs. Too much energy anyway.
 
-One by one, the group broke apart. Taiga and Leo ended up behind everyone else. Leo's limp had become slightly more obvious. Taiga noticed.
+Enzo stopped in the middle of the path.
+
+“We are not going to bed.”
+
+Gav kept walking.
+
+“I am.”
+
+“No.”
+
+Gav looked back.
+
+Enzo pointed at him.
+
+“We just won the conference.”
+
+“I was there.”
+
+“And your response is sleep?”
+
+“My response is that I played ninety-five minutes.”
+
+“So did I.”
+
+“You complained about standing up during dessert.”
+
+“That was tactical recovery.”
+
+Scott walked past both of them.
+
+“I'm going home.”
+
+Enzo turned.
+
+“No, you're not.”
+
+Scott did not stop.
+
+Enzo looked at Aaron.
+
+“Help.”
+
+Aaron already had his phone out.
+
+“I told Sofia I'd call.”
+
+“Call her from Apollo.”
+
+Aaron considered that.
+
+Enzo spread both hands.
+
+“See? Solutions.”
+
+Taiga looked at Leo. Leo's limp had become slightly more obvious since they left the restaurant, but he was still smiling.
+
+Enzo saw them looking at each other.
+
+“Absolutely not.”
+
+Taiga frowned.
+
+“What?”
+
+“You two are not disappearing either.”
+
+“We weren't.”
+
+“You were thinking about it.”
+
+“We were literally standing here.”
+
+“That has never stopped anyone from leaving.”
+
+Gav sighed.
+
+“Where are you even trying to go?”
+
+Enzo pointed toward House Apollo.
+
+“Home.”
+
+Scott stopped.
+
+Everybody looked at him.
+
+Scott looked back at the group.
+
+“That's not going home.”
+
+“It is for some of us.”
+
+Scott stared at him.
+
+Enzo smiled.
+
+“Come on. One hour.”
+
+Gav checked the time.
+
+“That's a lie.”
+
+“Two hours.”
+
+“Worse.”
+
+“Fine. Undefined championship time.”
+
+Aaron started walking toward Apollo.
+
+“I'm in.”
+
+Gav looked betrayed.
+
+Aaron shrugged.
+
+“I already told Sofia I'm not sleeping.”
+
+“You told her you were calling.”
+
+“I can do both.”
+
+Scott looked toward Residential.
+
+Then toward Apollo.
+
+Then at Enzo.
+
+“If you start singing, I'm leaving.”
+
+Enzo's face changed.
+
+Taiga saw the idea arrive.
+
+Scott saw it too.
+
+“No.”
+
+---
+
+House Apollo was louder than it should have been at ten forty-five on a weeknight.
+
+Apparently news traveled faster than the team bus.
+
+They had barely reached the front steps before somebody opened the door and shouted:
+
+“CHAMPIONS!”
+
+The entrance hall answered.
+
+Taiga stopped.
+
+Enzo lifted both arms like he had personally arranged the reception.
+
+“This is what I'm talking about.”
+
+Gav pushed him through the door.
+
+The common room had acquired people from three different floors, two blue scarves hanging from a lamp and a handwritten sign taped crookedly above the television.
+
+**CONGRATS APOLLO**
+
+Somebody had drawn a trophy beside it.
+
+It looked like a vase.
+
+Enzo stared at it.
+
+“That is not a trophy.”
+
+A second-year near the couch looked offended.
+
+“I had thirty seconds.”
+
+“You had all evening.”
+
+“We were watching the match.”
+
+Enzo considered.
+
+“Accepted.”
+
+There was another cheer when Scott entered.
+
+He looked like he wanted to reverse through the door.
+
+Then somebody shouted his name and three people started reenacting the save at fifty-three using a couch cushion as the ball.
+
+Scott watched for five seconds.
+
+“You're diving the wrong way.”
+
+The reenactment stopped.
+
+“What?”
+
+“The shot was to my right.”
+
+The student holding the cushion moved to the other side.
+
+Scott nodded.
+
+“Continue.”
+
+Taiga laughed.
+
+Leo bumped his shoulder lightly against Taiga's.
+
+“Good night to be him.”
+
+“Good night to be us.”
+
+Leo looked at him.
+
+Taiga realized what he had said.
+
+Leo's smile changed.
+
+Taiga looked away.
+
+“Don't.”
+
+“I didn't say anything.”
+
+“You were going to.”
+
+“I genuinely wasn't.”
+
+“Bullshit.”
+
+Leo laughed and followed the others inside.
+
+Someone found ice for his ankle before Taiga could ask.
+
+That someone turned out to be Gav.
+
+He dropped a wrapped cold pack onto Leo's lap.
+
+“Twenty minutes.”
+
+Leo looked at him.
+
+“Yes, doctor.”
+
+“I'm not a doctor.”
+
+“Future doctor.”
+
+“Still wrong.”
+
+Leo put the ice over the ankle anyway and stretched his leg onto an ottoman.
+
+Taiga sat on the arm of the couch beside him.
+
+For approximately forty seconds, the evening behaved normally.
+
+Then Enzo found a microphone.
+
+Scott stood up.
+
+“No.”
+
+Enzo held it against his chest.
+
+“I haven't even done anything.”
+
+“You found it.”
+
+“That is not a crime.”
+
+“It should be.”
+
+The television changed screens.
+
+A karaoke app appeared.
+
+Gav closed his eyes.
+
+Aaron looked delighted.
+
+“You planned this?”
+
+Enzo pointed the microphone at him.
+
+“Champions do not plan karaoke.”
+
+“What do they do?”
+
+“They answer when destiny calls.”
+
+Scott picked up his phone.
+
+“I'm leaving.”
+
+Five people objected at once.
+
+Enzo blocked the doorway.
+
+“You promised undefined championship time.”
+
+“I promised nothing.”
+
+“You came inside.”
+
+“That was my mistake.”
+
+Aaron grabbed the second microphone.
+
+That ended the argument.
+
+Not because Scott agreed.
+
+Because Aaron immediately started singing badly enough that everyone forgot Scott was trying to leave.
+
+Taiga did not recognize the song until the chorus.
+
+Then he wished he hadn't.
+
+Aaron pointed the microphone at Enzo.
+
+Enzo joined him.
+
+Neither of them was in the same key.
+
+Possibly not the same song.
+
+Gav sat down beside Leo.
+
+“This is why I wanted sleep.”
+
+Leo was laughing hard enough to hold his side.
+
+Taiga looked at him.
+
+“Your standards are low.”
+
+“My standards are excellent. This is objectively incredible.”
+
+Aaron missed something spectacularly.
+
+Leo clapped.
+
+Taiga shook his head.
+
+The room got worse from there.
+
+A defender Taiga barely knew attempted a ballad with enough commitment to qualify as a medical event. Enzo performed something fast while pacing across the common room like a stadium stage belonged to him. Gav refused until the entire room started chanting his name, then took the microphone, sang one verse with complete competence and handed it back.
+
+Enzo stared.
+
+“You can sing?”
+
+Gav sat down.
+
+“I can read.”
+
+“That is not the same skill.”
+
+“It was on the screen.”
+
+Scott lasted another twelve minutes before somebody handed him the microphone.
+
+He looked at it.
+
+Then at Enzo.
+
+“No.”
+
+Enzo pointed toward the television.
+
+“Truth or dare.”
+
+Scott frowned.
+
+“That isn't how karaoke works.”
+
+“It is now.”
+
+That was how karaoke ended.
+
+---
+
+The coffee table got pushed against the wall.
+
+People dropped onto couches, chairs and the floor. Someone brought chips despite everybody claiming to still be full from dinner. Enzo took the bag first.
+
+Gav looked at him.
+
+“You had two desserts.”
+
+“I am celebrating.”
+
+“You said that about the second dessert.”
+
+“I was also celebrating then.”
+
+Leo's ankle remained on the ottoman, ice pack secured over it with a kitchen towel. Taiga had moved from the arm of the couch to the cushion beside him.
+
+Aaron sat cross-legged on the floor.
+
+“Okay. Actual Truth or Dare?”
+
+Enzo pointed at him with a chip.
+
+“Yes.”
+
+Scott, somehow still present, leaned back in an armchair.
+
+“No dares involving property damage.”
+
+Enzo looked offended.
+
+“I have never—”
+
+“Last semester.”
+
+“That chair was already unstable.”
+
+“It was a table.”
+
+“Then it was definitely unstable.”
+
+Gav took the chip bag away from him.
+
+They used an empty water bottle because nobody had anything better.
+
+Enzo spun first.
+
+The bottle pointed at Scott.
+
+The room made the appropriate noise.
+
+Scott looked at it.
+
+“No.”
+
+“You can't say no before the question,” Aaron said.
+
+“I just did.”
+
+Enzo leaned forward.
+
+“Truth or dare?”
+
+Scott sighed.
+
+“Truth.”
+
+Enzo smiled.
+
+Scott pointed at him.
+
+“Think carefully.”
+
+Enzo's smile got worse.
+
+“What was the first thing you thought when Taiga scored?”
+
+Scott answered immediately.
+
+“Six minutes left.”
+
+The room booed.
+
+Scott looked around.
+
+“What?”
+
+“You're dead inside,” Enzo said.
+
+“We were one goal up.”
+
+“You could have felt joy.”
+
+“I did after the whistle.”
+
+Taiga laughed.
+
+“That sounds right.”
+
+Scott nodded at him.
+
+“Thank you.”
+
+He spun.
+
+The bottle landed on Gav.
+
+Gav looked unsurprised.
+
+“Truth.”
+
+Scott thought for a second.
+
+“Who on the team would be worst in goal?”
+
+Enzo sat straighter.
+
+“Don't say me.”
+
+Gav looked at him.
+
+“Enzo.”
+
+The room broke.
+
+Enzo put a hand over his chest.
+
+“Why?”
+
+“You leave your position when you're already a winger.”
+
+“That is tactical freedom.”
+
+“You would try to dribble a striker.”
+
+“I might succeed.”
+
+“You would absolutely try.”
+
+Enzo looked around for support.
+
+There was none.
+
+Gav spun.
+
+Aaron.
+
+“Dare.”
+
+Gav's expression barely changed.
+
+“Call Sofia.”
+
+Aaron stared.
+
+“I was going to do that anyway.”
+
+“And tell her you were the best player today.”
+
+Aaron's confidence disappeared.
+
+Enzo folded over laughing.
+
+“That is evil.”
+
+Aaron pointed at Gav.
+
+“You know she watched the match.”
+
+“Yes.”
+
+“She has eyes.”
+
+“Yes.”
+
+“She'll kill me.”
+
+Gav shrugged.
+
+“You chose dare.”
+
+Aaron looked at his phone.
+
+Then at the room.
+
+Then back at Gav.
+
+“You're a terrible person.”
+
+“Call her.”
+
+He did.
+
+The room went silent the moment Sofia answered.
+
+Aaron put the call on speaker for reasons Taiga could not understand.
+
+“Hey.”
+
+Sofia's voice came through.
+
+“Congratulations.”
+
+Aaron smiled despite himself.
+
+“Thanks.”
+
+A pause.
+
+“Why am I on speaker?”
+
+Everyone looked at Aaron.
+
+Aaron closed his eyes.
+
+“I have to tell you something.”
+
+“That sounds ominous.”
+
+Aaron inhaled.
+
+“I was the best player today.”
+
+There was a long silence.
+
+Then Sofia said:
+
+“Did Scott die?”
+
+The room exploded.
+
+Aaron dropped backward onto the carpet.
+
+Sofia heard the noise.
+
+“Are you playing Truth or Dare?”
+
+Aaron stared at the ceiling.
+
+“Yes.”
+
+“Okay. Congratulations again. Tell Taiga nice goal.”
+
+Taiga called toward the phone.
+
+“Thanks.”
+
+“And tell Leo to ice the ankle.”
+
+Leo lifted the ice pack.
+
+“Already doing it.”
+
+“Good.”
+
+Sofia hung up.
+
+Aaron sat up.
+
+“I hate all of you.”
+
+Gav spun the bottle.
+
+It landed on Enzo.
+
+Aaron pointed immediately.
+
+“Dare.”
+
+“It's my choice.”
+
+“Pick dare.”
+
+Enzo looked suspicious.
+
+Then smiled.
+
+“Dare.”
+
+Aaron sat straighter.
+
+“You have to say one sincere nice thing about Gav.”
+
+Enzo blinked.
+
+Gav looked at Aaron.
+
+“That punishes both of us.”
+
+“No escaping.”
+
+Enzo turned toward Gav.
+
+Gav stared back.
+
+Enzo's expression became painfully serious.
+
+“Your forehead was genuinely essential today.”
+
+Gav threw a cushion at him.
+
+“That was sincere!”
+
+“No, it wasn't.”
+
+“It saved at least two goals!”
+
+“Try again.”
+
+Enzo caught the cushion.
+
+He looked at Gav for a second longer.
+
+Then the performance dropped.
+
+“You keep everybody from losing their heads.”
+
+Gav stopped.
+
+Enzo shrugged.
+
+“On the field. Off it. Whatever. You notice when things are going wrong before the rest of us do.”
+
+The room went quieter.
+
+Gav looked at him.
+
+“Thanks.”
+
+Enzo immediately ruined it.
+
+“Also the forehead.”
+
+The cushion hit him again.
+
+Taiga laughed hard enough that his stomach hurt.
+
+Enzo spun from the floor.
+
+The bottle rotated twice.
+
+Slowed.
+
+Stopped at Leo.
+
+Enzo's face lit up.
+
+Leo pointed at him.
+
+“Be normal.”
+
+“I am always normal.”
+
+“No one here will support that statement.”
+
+Scott raised one hand slightly.
+
+“I will not.”
+
+Leo sighed.
+
+“Truth.”
+
+Enzo leaned forward with both elbows on his knees.
+
+The room waited.
+
+Enzo looked toward Taiga.
+
+Then back at Leo.
+
+“When did you know he was going to kiss you?”
+
+Taiga felt every eye move.
+
+Leo laughed.
+
+“That is your question?”
+
+“Yes.”
+
+“You have access to anything in the universe.”
+
+“Yes.”
+
+“And you chose something you personally witnessed.”
+
+“I want the internal experience.”
+
+Gav covered his face.
+
+Leo thought about it.
+
+“About half a second before it happened.”
+
+Enzo frowned.
+
+“That's it?”
+
+“Pretty much.”
+
+“What gave it away?”
+
+Leo looked at Taiga.
+
+Taiga immediately regretted being visible.
+
+“He grabbed the back of my head.”
+
+Aaron started laughing.
+
+“Fair clue.”
+
+Leo smiled.
+
+“I had just enough time to think, *oh*.”
+
+Taiga felt his face heating.
+
+Enzo looked delighted.
+
+“And then?”
+
+Leo looked at him.
+
+“You were there.”
+
+“Still asking.”
+
+“Then he kissed me.”
+
+“That is technically complete,” Scott said.
+
+Enzo pointed at him.
+
+“Nobody asked the goalkeeper.”
+
+Scott nodded.
+
+“Good.”
+
+Leo spun.
+
+The bottle moved around the circle and stopped in front of Taiga.
+
+The room became dangerous.
+
+Taiga stared at it.
+
+“No.”
+
+Leo laughed.
+
+“You told Scott he couldn't do that.”
+
+“I've changed my position.”
+
+“Truth or dare?”
+
+Taiga looked around.
+
+Enzo was almost vibrating.
+
+Aaron looked much too interested.
+
+Gav at least looked normal.
+
+Scott looked tired.
+
+Taiga chose the option that seemed less likely to create permanent damage.
+
+“Truth.”
+
+Enzo made a disappointed sound.
+
+Leo ignored him.
+
+“Did you plan it?”
+
+Taiga knew exactly what he meant.
+
+“No.”
+
+Leo's eyebrows lifted.
+
+“Not at all?”
+
+Taiga shook his head.
+
+“I didn't even know I was doing it until I was already doing it.”
+
+For some reason, that made Leo go quiet.
+
+Enzo pressed one hand to his chest.
+
+“That is disgustingly romantic.”
+
+Taiga threw the nearest cushion at him.
+
+Enzo caught it.
+
+“Violence cannot erase the truth.”
+
+“It can erase you.”
+
+Leo was still smiling.
+
+Not the huge grin from earlier.
+
+Smaller.
+
+Taiga looked away before it got worse.
+
+He spun the bottle.
+
+It landed on Aaron again.
+
+Aaron groaned.
+
+“Absolutely not.”
+
+The game continued.
+
+Thankfully, it moved away from them.
+
+Aaron had to wear an Olympus scarf as a belt for three rounds. Enzo admitted he had once pretended to understand an entire conversation with Mercer's assistant because he had stopped listening after the first sentence. Gav was dared to imitate Mercer and did such a good job that everybody went silent before laughing. Scott chose dare exactly once and was forced to take a celebratory selfie with Enzo.
+
+His expression in the photo looked like a hostage negotiation.
+
+Enzo made it the team chat icon.
+
+Scott threatened him.
+
+Nobody believed the threat was empty.
+
+By midnight, Truth or Dare had collapsed because nobody could remember whose turn it was.
+
+The bottle stayed on its side under the coffee table.
+
+---
+
+The common room slowly changed shape.
+
+Some people went upstairs. Others migrated into smaller conversations. The television stayed on with the sound low, replaying sports highlights nobody was really watching. The blue scarves remained on the lamp.
+
+Taiga sat deep in the couch now, finally feeling the match everywhere at once.
+
+Calves. Lower back. Shoulders.
+
+Leo was still beside him.
+
+The ice pack had gone back to the freezer. His ankle remained elevated on the ottoman, but the rest of him had gradually lost structure.
+
+First his shoulder rested against Taiga's.
+
+Then more of him did.
+
+Nobody commented.
+
+That helped.
+
+Gav sat in the chair opposite them talking to Scott about the final six minutes. Aaron had returned from an actual private call with Sofia and was pretending the smile on his face meant nothing.
+
+Enzo lay across the other couch with one arm over his eyes.
+
+“I think I'm dying.”
+
+Scott looked at him.
+
+“You sang for forty minutes.”
+
+“Art has a cost.”
+
+“You shouted for forty minutes.”
+
+“Jealousy is ugly on you.”
+
+Scott went back to his phone.
+
+Taiga looked toward the television.
+
+A replay from another match. Not theirs.
+
+Good.
+
+He had seen enough football for one day.
+
+Leo shifted carefully beside him.
+
+His head landed against Taiga's shoulder.
+
+Taiga looked down.
+
+Leo looked up.
+
+“What?”
+
+“Nothing.”
+
+“That sounded accusatory.”
+
+“You put your head there.”
+
+“Yes.”
+
+“Why?”
+
+Leo considered.
+
+“Comfortable.”
+
+Taiga stared at him.
+
+Leo waited.
+
+Taiga could have moved.
+
+He didn't.
+
+Instead he adjusted his shoulder slightly so Leo's neck wasn't bent at a stupid angle.
+
+Leo smiled and looked back toward the room.
+
+That should have been the end of it.
+
+A few minutes later, Taiga realized his arm was stretched along the back of the couch behind Leo.
+
+He did not remember putting it there.
+
+Leo apparently noticed too.
+
+He shifted backward until Taiga's arm naturally settled around his shoulders.
+
+Taiga looked at him again.
+
+Leo kept his eyes on Gav.
+
+Still talking about the match.
+
+Completely innocent.
+
+Taiga squeezed his shoulder once.
+
+Leo's mouth moved at the corner.
+
+Across from them, Aaron saw.
+
+Taiga saw Aaron see.
+
+Aaron's expression changed into something unbearable.
+
+Taiga narrowed his eyes.
+
+Aaron immediately looked away.
+
+Smart.
+
+The conversation moved from the match to summer plans.
+
+Then classes.
+
+Then whether Enzo's karaoke performance had violated any university statutes.
+
+It went nowhere important.
+
+Taiga liked that.
+
+Leo's hand rested on the couch between them.
+
+At some point Taiga put his own beside it.
+
+Their little fingers touched.
+
+Neither moved.
+
+A minute later Leo turned his hand over.
+
+Taiga looked down.
+
+Then slid his fingers between Leo's.
+
+No reaction from the room.
+
+No cheering.
+
+No Enzo screaming.
+
+Just Leo's hand warm against his and Leo's head on his shoulder while Scott argued that noise complaints were, in fact, real documents.
+
+Taiga leaned back.
+
+The championship still felt too large whenever he looked directly at it.
+
+This didn't.
+
+This fit easily.
+
+At twelve forty-eight, Gav stood.
+
+“I'm done.”
+
+Enzo lifted his arm from his face.
+
+“With what?”
+
+“Today.”
+
+“Coward.”
+
+“You've been horizontal for half an hour.”
+
+“Strategic recovery.”
+
+Gav looked at Leo.
+
+“How's the ankle?”
+
+Leo moved it experimentally.
+
+“Four.”
+
+Taiga looked down.
+
+“You said five.”
+
+Leo looked up at him.
+
+“That is usually how numbers work when pain improves.”
+
+“You're hilarious.”
+
+“I know.”
+
+Gav pointed at him.
+
+“Ice it again before you sleep.”
+
+“Yes, future doctor.”
+
+Gav ignored that.
+
+Scott was already standing.
+
+Aaron stretched.
+
+The room had finally run out of championship.
+
+Not happiness.
+
+Just volume.
+
+Taiga stood and immediately regretted having legs.
+
+Leo started to get up.
+
+Taiga held out a hand without thinking.
+
+Leo looked at it.
+
+Then at him.
+
+Taiga almost pulled it back.
+
+Leo took it.
+
+Taiga helped him up.
+
+No joke.
+
+No performance.
+
+Leo steadied himself, then kept hold of Taiga's hand for one extra second before letting go.
+
+Enzo saw that.
+
+For once, he said nothing.
+
+---
+
+Outside, campus had gone mostly quiet.
+
+It was after one.
+
+The walk toward Residential was slower now. Gav and Scott split away first. Aaron headed toward another path with his phone already back in his hand. Enzo made it halfway across Central before remembering he lived at Apollo and turned around swearing.
+
+That left Taiga and Leo alone.
+
+Leo's limp was more obvious again.
+
+Taiga noticed.
 
 “Hurting?”
 
-“Five.”
+“Four.”
 
-“You said four on the bus.”
+“You said four inside.”
 
-“I also walked around a restaurant for two hours.”
+“Yes.”
+
+“So it didn't improve.”
+
+“It also didn't get worse.”
+
+Taiga looked at him.
+
+Leo smiled.
+
+“Victory.”
 
 “Idiot.”
 
 “Champion idiot.”
 
-Taiga rolled his eyes. They crossed Central Park. The fountain lights reflected on wet stone. Students still passed them. A few recognized them. One shouted congratulations. Taiga lifted a hand.
+Taiga rolled his eyes.
 
-Leo did too. They reached the Residential Zone. Taiga slowed at the path split. Leo's building one way. Room 317 another. Leo looked toward his own residence. Then at Taiga.
+They crossed Central Park. The fountain lights reflected on wet stone. At this hour there was almost nobody left to recognize them.
+
+Leo walked close enough that their shoulders bumped once.
+
+Then again.
+
+Neither moved away.
+
+They reached the Residential Zone.
+
+Taiga slowed at the path split.
+
+Leo's building one way.
+
+Room 317 another.
+
+Leo looked toward his own residence.
+
+Then at Taiga.
 
 Taiga shoved his hands into his pockets.
 
 “You coming?”
 
-Leo's eyebrows lifted. Taiga kept walking before the expression could get worse. Leo caught up.
+Leo's eyebrows lifted.
+
+Taiga kept walking before the expression could get worse.
+
+Leo caught up.
 
 “Okay.”
 
