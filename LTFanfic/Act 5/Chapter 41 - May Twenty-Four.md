@@ -2370,7 +2370,7 @@ Leo looked at him.
 
 Taiga knew immediately what he meant.
 
-“Don’t.”
+“No.”
 
 “I’m just saying thank you.”
 
@@ -2385,10 +2385,6 @@ Taiga knew immediately what he meant.
 Taiga looked toward the stairs.
 
 “You put it somewhere safe?”
-
-“The book?”
-
-“Yes.”
 
 “On my desk.”
 
@@ -2502,8 +2498,6 @@ They went back upstairs.
 
 The bedroom looked almost exactly as they had left it. Enzo’s shirt now hung over the chair, and the photo book sat on Leo’s desk beside the old picture of him and Enzo at fifteen.
 
-Taiga saw it. Leo caught him looking, but neither of them commented.
-
 Leo closed the door.
 
 The noise from downstairs softened.
@@ -2520,9 +2514,9 @@ Leo dropped beside him.
 
 “You agreed.”
 
-“Under pressure.”
+“I did not, I was kidnapped.”
 
-“You had fun.”
+“But you had fun.”
 
 Taiga looked at him.
 
@@ -2584,7 +2578,7 @@ Taiga squeezed once.
 
 Leo smiled.
 
-“You said it already.”
+“It's over now.”
 
 “I know.”
 
@@ -2596,11 +2590,9 @@ Leo laughed.
 
 “Asshole.”
 
-“Birthday’s over.”
+“Birthday’s privileges are over.”
 
-Leo checked his phone.
-
-“Technically it’s still—”
+“It's still the same evening-”
 
 Taiga covered his mouth with one hand.
 
