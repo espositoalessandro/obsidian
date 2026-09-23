@@ -2080,9 +2080,9 @@ Taiga stayed exactly where he was through the first two pictures, until Enzo gra
 
 “You’re boyfriend.”
 
-“I know.”
+“So what?”
 
-“Then go.”
+“So go.”
 
 “Why?”
 
@@ -2116,15 +2116,7 @@ Taiga looked at Leo.
 
 Leo laughed.
 
-Enzo heard him.
-
-“What?”
-
-Taiga pointed toward the cake.
-
-“Two.”
-
-Enzo looked offended.
+Enzo heard and looked offended.
 
 “You only have one?”
 
@@ -2142,7 +2134,7 @@ Taiga looked over.
 
 Taiga immediately raised both hands.
 
-“I love both songs.”
+“*Songs were good*.”
 
 Mercedes looked satisfied.
 
@@ -2240,7 +2232,7 @@ It was wrapped badly enough that nobody could pretend he had tried.
 
 Leo tore the paper open and pulled out a football shirt, though not one Taiga recognized as anything current. He turned it over once, then looked at Enzo.
 
-“Is that your school?”
+“Is that our school?”
 
 Enzo looked proud.
 
