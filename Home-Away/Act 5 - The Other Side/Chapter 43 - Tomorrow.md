@@ -1,4 +1,4 @@
-The first time Leo went out without him, Taiga was halfway through an argument with a sentence.
+Taiga was halfway through an argument with a sentence.
 
 He had written it three different ways. All three looked wrong.
 

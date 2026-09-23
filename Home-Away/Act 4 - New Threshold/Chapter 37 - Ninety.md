@@ -1388,7 +1388,7 @@ Leo looked offended.
 
 Taiga smiled. Leo smiled back. The silence after that lasted just long enough. Taiga stepped closer. Leo met him halfway. This one was quieter than the locker room.
 
-No surprise. No teammates pressing in from every side. Taiga touched the side of Leo's face and kissed him slowly. When they separated, Leo stayed close. His forehead rested against Taiga's for a moment.
+Taiga touched the side of Leo's face and kissed him slowly. When they separated, Leo stayed close. His forehead rested against Taiga's for a moment.
 
 “You're still smiling,” Taiga said.
 
@@ -1414,7 +1414,7 @@ Scott's save. Mercer's smile. Enzo apparently becoming an uncle through mechanis
 
 Eventually Leo's hand slipped under the hem of Taiga's sweatshirt and rested against his side. Taiga looked at him. Leo's expression changed just slightly. Taiga pulled the sweatshirt off.
 
-Leo did the same with his shirt a little later. There was no rush to it. Taiga ran his fingers over Leo's shoulder, down his arm, back again.
+Leo did the same with his shirt a little later. Taiga ran his fingers over Leo's shoulder, down his arm, back again.
 
 Leo watched him.
 
@@ -1423,8 +1423,6 @@ Leo watched him.
 “Nothing. Keep going.”
 
 Taiga did. His mouth found the side of Leo's neck once, just beneath the jaw. Leo's fingers tightened lightly against his back. After that, the room got quieter.
-
-They already knew how to touch each other. Tonight there was simply more time. More room to stop, laugh, adjust around Leo's ankle, and start again.
 
 At some point Taiga's phone buzzed on the desk. Neither moved.
 
@@ -1500,7 +1498,7 @@ Taiga adjusted the pillow beneath the bad ankle until Leo stopped trying to help
 
 “I have hands.”
 
-“Apparently no survival instinct.”
+“But apparently no survival instinct.”
 
 “Also true.”
 
@@ -1867,10 +1865,6 @@ Taiga frowned.
 “Still four?”
 
 “Maybe three and a half.”
-
-“That isn't how the scale works.”
-
-“It does tonight.”
 
 “Sex isn't medical treatment.”
 
