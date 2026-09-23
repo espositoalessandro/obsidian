@@ -940,7 +940,8 @@ Just photographs.
 
 Some were good. Some were stupid. One was almost entirely Enzo’s hand because he had apparently ruined the picture at the last second. Another showed Leo holding something Taiga could no longer remember while arguing with somebody off-camera.
 
-The last page was empty except for the same plain paper as the front.
+The last page had a photo back from the arcade. The very first photo they were in together. Both of them focused on the shooter game.
+Shoulder almost touching.
 
 Leo closed the book.
 
