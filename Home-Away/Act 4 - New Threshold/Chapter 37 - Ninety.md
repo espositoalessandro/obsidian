@@ -1426,13 +1426,464 @@ Taiga did. His mouth found the side of Leo's neck once, just beneath the jaw. Le
 
 They already knew how to touch each other. Tonight there was simply more time. More room to stop, laugh, adjust around Leo's ankle, and start again.
 
-At some point Taiga's phone buzzed on the desk. Neither moved. It buzzed again. Leo glanced toward it.
+At some point Taiga's phone buzzed on the desk. Neither moved.
+
+It buzzed again.
+
+Leo glanced toward it.
 
 “Could be important.”
 
 “If the university is on fire, somebody else can deal with it.”
 
 Leo laughed. The phone stopped.
+
+Then Leo shifted.
+
+Not much. Just enough to turn farther toward Taiga and start pushing himself up.
+
+His face changed.
+
+Barely.
+
+Taiga caught it anyway.
+
+“No.”
+
+Leo froze.
+
+“No what?”
+
+“Whatever you were about to do.”
+
+“I wasn't about to do anything.”
+
+“You were literally moving.”
+
+“That happens sometimes.”
+
+Taiga looked pointedly at the ankle.
+
+Leo followed his eyes.
+
+“I'm fine.”
+
+“You were at five ten minutes ago.”
+
+“I've improved.”
+
+“In ten minutes.”
+
+“Fast healer.”
+
+Taiga stared at him.
+
+Leo held the expression for maybe two seconds before smiling.
+
+“Okay. Still five.”
+
+“Lie down.”
+
+Leo's eyebrows lifted.
+
+“Bossy.”
+
+“Your ankle is trying to detach itself.”
+
+“It is not.”
+
+“Lie down.”
+
+Leo did, still smiling.
+
+Taiga adjusted the pillow beneath the bad ankle until Leo stopped trying to help.
+
+“I have hands.”
+
+“Apparently no survival instinct.”
+
+“Also true.”
+
+Taiga sat back beside him.
+
+For a second neither moved.
+
+Then Leo reached up and hooked two fingers into the waistband of Taiga's jeans, pulling him closer.
+
+Taiga went willingly.
+
+They kissed again.
+
+Slower this time.
+
+Leo's hand moved up Taiga's side. Taiga's slid over Leo's chest and stomach. When Leo tried to shift again, Taiga pressed a hand lightly against his hip.
+
+“Don't.”
+
+Leo broke the kiss.
+
+“You're enjoying telling me what to do way too much.”
+
+“Maybe.”
+
+“That was disturbingly fast.”
+
+Taiga kissed him again before he could keep talking.
+
+Then lower.
+
+Jaw.
+
+Neck.
+
+Chest.
+
+Leo's fingers moved into his hair.
+
+Taiga kept going.
+
+The hand in his hair went still.
+
+“Taiga.”
+
+Taiga looked up.
+
+Leo was watching him differently now.
+
+Not worried.
+
+Just suddenly very aware of where Taiga was.
+
+“What?”
+
+Leo opened his mouth.
+
+Closed it.
+
+Taiga's own confidence slipped for half a second.
+
+“You want me to stop?”
+
+“No.”
+
+Immediate.
+
+Taiga waited.
+
+Leo swallowed.
+
+“No. Definitely not.”
+
+“Okay.”
+
+“You just—”
+
+Leo stopped.
+
+Taiga raised an eyebrow.
+
+“What?”
+
+Leo's mouth twitched.
+
+“Nothing.”
+
+“Good.”
+
+Taiga moved farther down the bed.
+
+Leo stared at him.
+
+Then realization finished arriving.
+
+“Oh.”
+
+Taiga almost laughed.
+
+“Still okay?”
+
+Leo nodded once.
+
+Then, apparently deciding that was insufficient:
+
+“Yes.”
+
+Taiga held his gaze another second.
+
+“Good.”
+
+[EXPLICIT INSERT 1 — Taiga begins blowing Leo here. Keep the first part tentative rather than technically perfect: Taiga is choosing to initiate, Leo is surprised by how direct he is, and Taiga is paying close attention to Leo's reactions. Leo stays mostly on his back with the injured ankle elevated.]
+
+When Taiga looked up again, Leo had one hand over his face.
+
+Taiga stopped.
+
+“What?”
+
+Leo moved the hand just enough to look at him.
+
+“You cannot look that pleased with yourself.”
+
+Taiga felt the corner of his mouth lift.
+
+“Why?”
+
+“Because you've been doing this for approximately five minutes.”
+
+“And?”
+
+“And apparently that's enough for an ego.”
+
+“You're the one hiding your face.”
+
+“I am not hiding.”
+
+“You literally are.”
+
+Leo dropped his hand.
+
+“Better?”
+
+His face was red.
+
+Much better.
+
+Taiga wisely did not say that.
+
+Instead he started again.
+
+Leo's head dropped back against the pillow.
+
+A few moments later his good leg shifted. Then the other one tried to follow on instinct.
+
+Leo sucked in a breath.
+
+Taiga stopped immediately.
+
+“Ankle?”
+
+Leo shut his eyes.
+
+“Fine.”
+
+“Number.”
+
+“Taiga.”
+
+“Number.”
+
+Leo exhaled.
+
+“Five.”
+
+“You moved it.”
+
+“I noticed.”
+
+“Then stop moving.”
+
+Leo opened his eyes.
+
+“That is becoming increasingly difficult.”
+
+Taiga understood exactly what he meant.
+
+His face warmed.
+
+Leo saw it.
+
+And smiled.
+
+“There he is.”
+
+“Shut up.”
+
+“Make me.”
+
+Taiga stared at him.
+
+Leo's smile faltered.
+
+“Oh, that was a mistake.”
+
+“Yeah.”
+
+Taiga went back down.
+
+[EXPLICIT INSERT 2 — Main section. Let Taiga gain confidence gradually rather than suddenly becoming an expert. Leo can guide him, but Taiga should increasingly take control. Keep the ankle constraint present: Leo cannot comfortably change position or take over, which is part of why Taiga chooses to focus entirely on him.]
+
+Taiga had expected embarrassment to catch up with him eventually.
+
+It didn't.
+
+If anything, the opposite happened.
+
+Leo was usually the one who stepped forward first. The one who smiled like he already knew what Taiga was going to do before Taiga had decided.
+
+Not now.
+
+Now Leo was flat on his back, hair spread badly across the pillow, trying and failing to maintain anything resembling composure.
+
+Taiga discovered he liked that.
+
+A lot.
+
+Leo caught him looking again.
+
+“Don't.”
+
+“Don't what?”
+
+“That face.”
+
+“What face?”
+
+“The one where you're realizing you have power.”
+
+Taiga smiled.
+
+Leo groaned.
+
+“This is going to be unbearable.”
+
+“You started it.”
+
+“When?”
+
+“Months ago.”
+
+“That is not a useful answer.”
+
+Taiga leaned up just enough to kiss the inside of Leo's knee above the bad ankle, careful not to disturb the joint.
+
+Leo looked down at him.
+
+The teasing disappeared for a second.
+
+Taiga saw something softer replace it.
+
+“You don't have to do all the work because I'm hurt,” Leo said.
+
+Taiga's expression flattened.
+
+“I know.”
+
+“I mean it.”
+
+“So do I.”
+
+Leo watched him.
+
+Taiga shrugged.
+
+“I want to.”
+
+That shut him up.
+
+For once.
+
+Taiga enjoyed that too.
+
+Then Leo reached down and touched the side of his face.
+
+Not guiding.
+
+Just there.
+
+Taiga turned his head enough to kiss his palm.
+
+Leo smiled.
+
+“Okay.”
+
+Taiga looked at him.
+
+“Okay?”
+
+“Yeah.”
+
+The hand left his face and settled back against the bed.
+
+“Keep going.”
+
+[EXPLICIT INSERT 3 — Build through Leo's climax here. Keep Taiga attentive to the injury and make this the point where Leo finally loses the last of his usual composure. The explicit mechanics can go here; the surrounding scene already establishes consent, position, and emotional intent.]
+
+For a few seconds afterward, the room was completely silent.
+
+Then Leo said:
+
+“Holy shit.”
+
+Taiga sat back on his heels.
+
+“That good?”
+
+Leo lifted one arm and covered his eyes again.
+
+Taiga smiled.
+
+“Thought so.”
+
+“Do not become this person.”
+
+“What person?”
+
+“This.”
+
+“That explains nothing.”
+
+Leo lowered his arm.
+
+“The smug one.”
+
+“You like the smug one.”
+
+Leo stared at him.
+
+Then laughed.
+
+“Unfortunately.”
+
+Taiga reached for the towel they had thrown near the bed earlier, cleaned up, and climbed back beside him.
+
+The first thing he looked at was the ankle.
+
+Leo noticed.
+
+“You're unbelievable.”
+
+“Number.”
+
+“You just—”
+
+“Number.”
+
+Leo sighed dramatically.
+
+“Four.”
+
+Taiga frowned.
+
+“Still four?”
+
+“Maybe three and a half.”
+
+“That isn't how the scale works.”
+
+“It does tonight.”
+
+“Sex isn't medical treatment.”
+
+Leo considered.
+
+“You don't know that.”
+
+“I absolutely know that.”
+
+Leo laughed and shifted closer without moving the bad leg.
+
+Taiga pulled the blanket over both of them.
+
 
 ---
 
