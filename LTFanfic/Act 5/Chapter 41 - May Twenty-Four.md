@@ -2578,7 +2578,7 @@ Taiga squeezed once.
 
 Leo smiled.
 
-“It's over now.”
+“It’s over now.”
 
 “I know.”
 
@@ -2590,19 +2590,155 @@ Leo laughed.
 
 “Asshole.”
 
-“Birthday’s privileges are over.”
+“Birthday privileges are over.”
 
-“It's still the same evening-”
+Leo stayed where Taiga had pushed him, looking up with an expression that immediately made Taiga suspicious.
 
-Taiga covered his mouth with one hand.
+“What?”
+
+“One last birthday wish.”
+
+Taiga stared.
+
+“You already made one downstairs.”
+
+“That was the official one.”
+
+“Of course it was.”
+
+Leo’s smile widened.
+
+“You had two birthday songs. Now you have two wishes. Is everything doubled here?”
+
+“Only the important things.”
+
+“That sounds fake.”
+
+“It probably is.”
+
+Taiga rolled his eyes, but Leo had gone quieter by the time he spoke again.
+
+“Sleep here tonight?”
+
+Taiga looked at him.
+
+Leo shifted farther toward the wall, making room beside him on the narrow mattress.
+
+“That’s your wish?”
+
+“Yeah.”
+
+There was no joke waiting behind it. After the noise of the courtyard, the dancing, the cake, the relatives and the endless people calling Leo’s name, the request felt almost absurdly small.
+
+Taiga looked toward the opened sofa bed a few feet away.
+
+“You know this bed barely fits you.”
+
+“It fits.”
+
+“You spent half of this morning on top of me.”
+
+“That sounds like evidence it fits two.”
+
+“That is not how evidence works.”
+
+Leo laughed, softer this time.
+
+Taiga let him wait another few seconds before standing up.
+
+“Move over.”
+
+Leo did immediately.
+
+“Seriously?”
+
+“Don’t make me change my mind.”
+
+“I’m not saying anything.”
+
+“You’re smiling too much.”
+
+“I’m allowed.”
+
+Taiga turned off the light and climbed in beside him. The mattress dipped under their combined weight, and for a moment they had to negotiate knees, elbows and the limited amount of blanket before Leo finally settled against him.
+
+It should have been uncomfortable.
+
+It probably was.
+
+Taiga stopped caring once Leo tucked his head beneath his chin and let out a long breath that sounded like he had been holding it since sometime around breakfast.
+
+Taiga rested an arm around him.
+
+“Good birthday?”
+
+Leo’s answer came against his chest.
+
+“Best one in a while.”
+
+“Because of the shirt?”
 
 “No.”
 
-Leo laughed against his palm.
+“The cake?”
 
-Taiga moved his hand and kissed him instead.
+“No.”
 
-Outside, somebody dragged one last chair across the courtyard.
+“Two songs?”
 
-Neither of them moved.
+Leo laughed quietly.
+
+“Definitely not.”
+
+Taiga felt the smile against him.
+
+“Then what?”
+
+Leo was silent long enough that Taiga thought he might not answer.
+
+Then his arm tightened around Taiga’s waist.
+
+“All of it.”
+
+Taiga looked toward the dark ceiling.
+
+“Corny.”
+
+“Yeah.”
+
+He could have left it there. Instead he lowered his chin against Leo’s hair.
+
+“Good.”
+
+Leo shifted closer.
+
+A few seconds passed.
+
+“Taiga?”
+
+“What?”
+
+“Thanks for coming.”
+
+Taiga’s hand moved once across his back.
+
+“Yeah.”
+
+“For real.”
+
+“I know.”
+
+Leo went quiet again.
+
+Outside, somebody dragged one last chair across the courtyard, followed by Mercedes saying something Taiga could not make out and Manuel laughing downstairs.
+
+Leo’s breathing had already started to slow.
+
+Taiga closed his eyes.
+
+“Happy birthday, Leo.”
+
+This time Leo did not argue that it didn’t count.
+
+He only held him a little tighter.
 
