@@ -380,7 +380,7 @@ Leo caught up.
 
 “Those aren’t mutually exclusive.”
 
-They made their way toward the city without anybody driving them, which Taiga appreciated mostly because it meant nobody could change the plan halfway through. Leo handled the route automatically, switching between directions, transport and small comments about where they were going without turning any of it into a lecture.
+They made their way toward the city without anybody driving them, which Taiga appreciated. Leo handled the route automatically, switching between directions, transport and small comments about where they were going.
 
 By the time the streets changed around them, the morning had become hotter.
 
@@ -664,7 +664,7 @@ Leo noticed.
 
 “That’s not how food works.”
 
-“It is today.”
+“It is.”
 
 Taiga pointed his fork at him.
 
@@ -854,7 +854,7 @@ Leo did.
 
 The first page had one line.
 
-For the photos you don’t have yet.
+'For the photos you don’t have yet.'
 
 Leo read it twice.
 
@@ -904,7 +904,7 @@ Leo looked up.
 
 “What face?”
 
-“The one where you’re about to say something.”
+“The one where you’re about to say something weird.”
 
 Leo looked back down.
 
@@ -934,7 +934,7 @@ Taiga could feel it without looking.
 
 Leo turned another page.
 
-There were no long captions. No dates. No explanations.
+There were no captions. No dates. No explanations.
 
 Just photographs.
 
