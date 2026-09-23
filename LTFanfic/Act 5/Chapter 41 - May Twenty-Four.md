@@ -2650,8 +2650,6 @@ Taiga let him wait another few seconds before standing up.
 
 Leo did immediately.
 
-“Seriously?”
-
 “Don’t make me change my mind.”
 
 “I’m not saying anything.”
@@ -2714,19 +2712,15 @@ Leo shifted closer.
 
 A few seconds passed.
 
-“Taiga?”
-
-“What?”
-
-“Thanks for coming.”
+“Thanks for being here.”
 
 Taiga’s hand moved once across his back.
 
 “Yeah.”
 
-“For real.”
+“That was the best birthday present.”
 
-“I know.”
+Taiga smiled and kissed his forehead.
 
 Leo went quiet again.
 
@@ -2736,7 +2730,7 @@ Leo’s breathing had already started to slow.
 
 Taiga closed his eyes.
 
-“Happy birthday, Leo.”
+“Happy birthday, dummy.”
 
 This time Leo did not argue that it didn’t count.
 
