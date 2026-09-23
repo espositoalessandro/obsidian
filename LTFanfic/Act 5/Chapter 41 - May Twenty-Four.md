@@ -1514,7 +1514,7 @@ Taiga remembered exactly one name.
 
 The oldest woman in the group took both of his hands and asked him something slowly.
 
-He caught Italia.
+He caught Nueva York.
 
 “Sí.”
 
@@ -2288,7 +2288,7 @@ By eleven-thirty, Taiga had stopped trying to follow every conversation.
 
 His Spanish worked better when people came to him one at a time. Several did.
 
-A cousin asked about Italy.
+A cousin asked about New York.
 
 An older woman asked whether his mother knew he was there.
 
