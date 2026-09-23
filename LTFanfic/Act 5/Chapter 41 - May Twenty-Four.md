@@ -852,22 +852,6 @@ The expression on his face had already become too serious for Taiga’s comfort.
 
 Leo did.
 
-The first page had one line.
-
-*For the things I wanted to keep.*
-
-Leo read it twice.
-
-Taiga looked toward the water.
-
-“This is the part where you’re supposed to keep going.”
-
-“I know.”
-
-“Then do that.”
-
-Leo turned the page.
-
 The first photo was not particularly good.
 
 That was why Taiga had chosen it.
@@ -944,31 +928,37 @@ The last page held the arcade photo. It was the first photo of just the two of t
 
 Taken from behind, both were leaning toward the shooter screen, Taiga’s plastic rifle angled left and Leo’s right, their shoulders almost touching.
 
+Under it, Taiga had put one line.
+
+*Sometimes I forget there was a version of Olympus where you weren’t here yet.*
+
+Leo stopped.
+
+Taiga looked toward the beach.
+
+There was a lot of sand. Enough, probably, to bury himself in before Leo finished reading the sentence a second time.
+
+“Don’t.”
+
+Leo looked at him.
+
+“I didn’t say anything.”
+
+“You were about to.”
+
+“You remembered that.”
+
+Taiga kept looking at the water.
+
+“Unfortunately.”
+
+“Taiga.”
+
+“Don’t make it worse.”
+
+Leo laughed quietly, but when Taiga finally glanced over, his expression had gone soft in exactly the way Taiga had been trying to avoid.
+
 Leo closed the book.
-
-Taiga waited.
-
-Leo did not say anything.
-
-That was worse.
-
-Taiga finally looked at him.
-
-Leo was staring at the cover.
-
-“What?”
-
-Leo shook his head.
-
-“Nothing.”
-
-“You’re doing the thing.”
-
-“What thing?”
-
-“The emotional thing.”
-
-Leo laughed quietly.
 
 “You made me a photo book.”
 
@@ -986,9 +976,7 @@ Leo laughed quietly.
 
 “They sent files. It was not difficult.”
 
-“You wrote that.”
-
-Leo tapped the first page through the cover.
+“And you put that in there.”
 
 Taiga frowned.
 
