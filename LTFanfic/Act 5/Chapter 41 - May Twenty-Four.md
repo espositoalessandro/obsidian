@@ -914,8 +914,6 @@ Leo smiled.
 
 Taiga could feel it without looking.
 
-“Keep going.”
-
 Leo turned another page.
 
 There were no captions. No dates. No explanations.
@@ -924,11 +922,11 @@ Just photographs.
 
 Some were good. Some were stupid. One was almost entirely Enzo’s hand because he had apparently ruined the picture at the last second. Another showed Leo holding something Taiga could no longer remember while arguing with somebody off-camera.
 
-The last page held the arcade photo. It was the first photo of just the two of them.
+The last one held the arcade photo. It was the first photo of just the two of them.
 
 Taken from behind, both were leaning toward the shooter screen, Taiga’s plastic rifle angled left and Leo’s right, their shoulders almost touching.
 
-Under it, Taiga had put one line.
+Beside it, on the last empty page, Taiga had put one line.
 
 *Sometimes I forget there was a version of Olympus where you weren’t here yet.*
 
@@ -937,14 +935,6 @@ Leo stopped.
 Taiga looked toward the beach.
 
 There was a lot of sand. Enough, probably, to bury himself in before Leo finished reading the sentence a second time.
-
-“Don’t.”
-
-Leo looked at him.
-
-“I didn’t say anything.”
-
-“You were about to.”
 
 “You remembered that.”
 
@@ -956,7 +946,7 @@ Taiga kept looking at the water.
 
 “Don’t make it worse.”
 
-Leo laughed quietly, but when Taiga finally glanced over, his expression had gone soft in exactly the way Taiga had been trying to avoid.
+Leo laughed quietly, but when Taiga finally glanced over, his expression had gone soft in exactly the way Taiga had been trying to avoid. Also, his eyes had gone suspiciously shiny.
 
 Leo closed the book.
 
@@ -1010,11 +1000,11 @@ Leo burst out laughing.
 
 “Moma is absolutely going to see this.”
 
-“She can see it later.”
+“She can see it when I go back home.”
 
 “Abuela too.”
 
-“Leo.”
+“Absolutely not.”
 
 “Enzo is in it.”
 
