@@ -98,19 +98,17 @@ Taiga listened. A radio played from Mercedes’s kitchen, and traffic was still 
 
 “Usually. Moma and Papá already should’ve left, actually. Tío too. Tía’s hours change.”
 
-“And your grandmother?”
+“And your abuela?”
 
 “Is about to have a much better morning.”
 
-“*I heard that,*” Mercedes said.
+“*What are you saying?*” Mercedes said.
 
 Leo smiled toward the kitchen.
 
 “*I said you love us.*”
 
 Mercedes replied too quickly for Taiga to follow, though her expression supplied enough.
-
-He had caught the first sentence and most of Leo’s answer.
 
 Breakfast was bread, fruit and eggs left covered on the counter. Leo found plates while Taiga took the mugs to the table. One birthday decoration hung crookedly above it, the end of its string caught on a nail.
 
@@ -932,8 +930,6 @@ Leo set the bottle down.
 
 Taiga laughed hard enough that Leo threatened to cancel Friday.
 
-He did not mean it, and Taiga did not bother answering.
-
 They left together a little before eleven. Mariela made Leo send her Taiga’s number so she could send the photograph she had taken of them arguing over the pool table. Samuel offered a hand again; Luis told Taiga, carefully, that they would play next time.
 
 Taiga understood him.
@@ -1412,7 +1408,7 @@ Taiga waited for him to notice.
 
 “You were enjoying it.”
 
-“I was enjoying it privately.”
+“I was enjoying it silently.”
 
 They were both hungry again by the time they reached home.
 
@@ -1514,17 +1510,17 @@ They spent the morning at home. The towels from the beach needed washing, Leo ha
 
 Dani brought the laptop upstairs while Taiga was hanging the second towel. By the time he returned, Leo had found three copies of the same folder.
 
-“They’re different,” Dani said.
+“*They’re different*,” Dani said.
 
-“They have the same name.”
+“*They have the same name*.”
 
-“One says final.”
+“*One says final*.”
 
-“All of them say final.”
+“*All of them say final*.”
 
 She leaned over his shoulder.
 
-“That one’s the actual final.”
+“*That one’s the actual final*.”
 
 Taiga sat beside Leo and pointed at a fourth folder.
 
@@ -1538,7 +1534,7 @@ Leo turned toward her slowly.
 
 She took the laptop.
 
-“Okay. I can do it.”
+“*Okay. I can do it*.”
 
 After she left, Leo laughed into Taiga’s shoulder.
 
