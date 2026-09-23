@@ -40,9 +40,7 @@ Taiga stared at him.
 
 Leo smiled and closed his eye again.
 
-Taiga waited.
-
-Nothing happened.
+Taiga waited, but Leo made no effort to move.
 
 “Are you getting up?”
 
@@ -62,11 +60,7 @@ Leo laughed into the pillow.
 
 The noise downstairs had changed since Saturday. Yesterday morning had sounded like people organizing things. This morning sounded like people who had already organized them and were now finding reasons to reorganize them anyway. Chairs scraped across the courtyard. Carmen called something from below. A male voice Taiga did not recognize answered. Someone laughed near the gate.
 
-Leo’s phone vibrated on the bedside table.
-
-Then again.
-
-Then twice more in quick succession.
+Leo’s phone vibrated on the bedside table, then again, followed by two more notifications in quick succession.
 
 Taiga looked at it.
 
@@ -128,17 +122,11 @@ Leo put the phone down and rolled closer.
 
 He kissed Taiga once, still half-asleep, then again because apparently the first one had not satisfied some private birthday requirement.
 
-A knock sounded against the door.
-
-Neither of them moved.
-
-Another knock.
+A knock sounded against the door. Neither of them moved, and a second knock followed a moment later.
 
 “Julio.”
 
-Carmen.
-
-Leo closed his eyes.
+Carmen. Leo closed his eyes.
 
 “See?”
 
@@ -198,19 +186,13 @@ Breakfast took longer than ten minutes because everybody who crossed the courtya
 
 Manuel hugged Leo hard enough to lift one shoulder off the ground. Dani handed him a wrapped package the size of a book and warned him not to open it until later because she wanted to leave before he could complain. Antonio had made something out of folded paper that seemed to require a five-minute explanation. Ramón announced his congratulations as if the rest of the compound had somehow missed the date. Isa kissed Leo’s cheek and gave him a small envelope.
 
-Mercedes waited.
+Mercedes waited for him instead, which somehow made the whole thing more suspicious.
 
-That was worse.
-
-Leo approached her with obvious suspicion.
+Leo approached her carefully.
 
 “Abuela.”
 
-She looked at him.
-
-Then at Taiga.
-
-Then back at Leo.
+She looked at him, then at Taiga, then back at Leo.
 
 “*Twenty years.*”
 
@@ -252,9 +234,7 @@ Taiga sat down.
 
 Breakfast was bread, eggs, cheese, fruit and coffee, but it kept expanding because Carmen kept bringing things out and because people kept wandering through. Taiga recognized one woman from the afternoon before and still could not remember whether she was technically related.
 
-Leo seemed to know.
-
-Probably.
+Leo seemed to know, at least.
 
 At some point Carmen put another plate in front of him.
 
@@ -298,13 +278,7 @@ Manuel laughed without knowing why.
 
 ---
 
-They escaped a little before ten.
-
-Carmen tried to give Leo a bag with food in it.
-
-Leo refused.
-
-Carmen put the bag in Taiga’s hands instead.
+They escaped a little before ten, although not before Carmen tried to send a bag of food with them. Leo refused it, so she put it directly into Taiga’s hands instead.
 
 Taiga accepted it.
 
@@ -852,9 +826,7 @@ The expression on his face had already become too serious for Taiga’s comfort.
 
 Leo did.
 
-The first photo was not particularly good.
-
-That was why Taiga had chosen it.
+The first photo was not particularly good, which was exactly why Taiga had chosen it.
 
 It was one of the earliest team pictures from the semester, taken after training when nobody looked ready for a camera. Leo was half turned toward somebody outside the frame. Enzo had one arm raised for no identifiable reason. Taiga himself looked irritated.
 
@@ -916,11 +888,7 @@ Taiga could feel it without looking.
 
 Leo turned another page.
 
-There were no captions. No dates. No explanations.
-
-Just photographs.
-
-Some were good. Some were stupid. One was almost entirely Enzo’s hand because he had apparently ruined the picture at the last second. Another showed Leo holding something Taiga could no longer remember while arguing with somebody off-camera.
+There were no captions, dates or explanations, only photographs. Some were good and some were stupid; one was almost entirely Enzo’s hand because he had apparently ruined the picture at the last second, while another showed Leo holding something Taiga could no longer remember as he argued with somebody off-camera.
 
 The last one held the arcade photo. It was the first photo of just the two of them.
 
@@ -1044,15 +1012,7 @@ Leo got up immediately.
 
 “Too late.”
 
-Leo backed away, laughing.
-
-Taiga stood.
-
-They did not actually run very far.
-
-The book was still sitting on the wall.
-
-Taiga pointed at it.
+Leo backed away laughing, and Taiga stood as if he intended to chase him. They made it only a few steps before Taiga remembered the book still sitting on the wall and pointed back at it.
 
 “Birthday boy. Your emotional evidence.”
 
@@ -1112,7 +1072,7 @@ Taiga saw the number.
 
 “That’s not better.”
 
-Leo opened one, typed something quickly and put the phone away.
+Leo opened one message, typed something quickly and put the phone away.
 
 “Done.”
 
@@ -1120,13 +1080,7 @@ Leo opened one, typed something quickly and put the phone away.
 
 “I’ll answer later.”
 
-Taiga looked at him.
-
-Leo took a drink.
-
-Taiga shrugged.
-
-It was his birthday. Forty-seven messages seemed reasonable enough.
+Taiga watched him take another drink, then let it go. It was his birthday; forty-seven messages seemed reasonable enough.
 
 ---
 
@@ -1150,15 +1104,11 @@ Antonio appeared first.
 
 “Leo!”
 
-He ran toward them, then stopped when he saw the book under Leo’s arm.
-
-He asked something.
-
-Leo lifted it higher.
+He ran toward them, only to stop when he noticed the book under Leo’s arm and immediately ask about it. Leo lifted it out of reach.
 
 “*Later*.”
 
-Antonio immediately objected.
+Antonio objected at once.
 
 Taiga smiled.
 
@@ -1194,13 +1144,7 @@ Leo answered in Spanish.
 
 Taiga understood his own name.
 
-Carmen looked up at him.
-
-Her expression changed.
-
-Taiga considered leaving.
-
-Then she smiled.
+Carmen looked up at him, and whatever passed across her face made Taiga briefly consider leaving. Then she smiled.
 
 “*Beautiful.*”
 
@@ -1236,17 +1180,11 @@ People were arriving through the gate in pairs and groups, sometimes carrying fo
 
 Taiga lost track after the fifth new person.
 
-Leo tried at first.
+Leo tried to keep up with the introductions at first.
 
 “This is my cousin—”
 
-Another person interrupted.
-
-“Okay, this is—”
-
-Someone else arrived.
-
-Leo laughed.
+Another person interrupted before he finished, and when Leo started again with somebody else, a new arrival cut across that one too. He finally laughed and gave up.
 
 “Never mind. You’ll learn.”
 
@@ -1490,11 +1428,7 @@ He turned another page.
 
 Enzo kept going.
 
-When he reached the Camp Buddy photo, his expression changed slightly.
-
-Not dramatically.
-
-He just looked at Taiga, then at Leo.
+When he reached the Camp Buddy photo, his expression shifted just enough for Taiga to catch it. Enzo looked at him, then at Leo.
 
 “Okay.”
 
@@ -1564,19 +1498,9 @@ Manuel stayed near the food for a while, talking to two men Taiga did not know, 
 
 Taiga did not need Spanish to know that anymore.
 
-Leo came back downstairs and was intercepted before he reached Taiga.
+Leo came back downstairs and was intercepted before he reached Taiga. A cousin caught him in a hug while somebody else called his name from the gate; Dani pulled him toward a phone for a picture, Antonio tugged at his sleeve because he wanted Leo to look at something, and Enzo shouted from beside the speaker that the playlist had become “a crime against momentum.”
 
-A cousin hugged him.
-
-Someone else called his name from the gate.
-
-Dani pulled him toward a phone for a picture.
-
-Antonio wanted him to look at something.
-
-Enzo shouted from beside the speaker that the playlist had become “a crime against momentum.”
-
-By the time Antonio let go of Leo's sleeve, the cousin at the gate had already pulled him into another hug. Dani called him back for a second picture before that conversation had finished, and Leo went laughing.
+By the time Antonio finally let go, the cousin from the gate had already claimed Leo for another hug, and Dani called him back for a second picture before that conversation had even finished. Leo went laughing.
 
 Taiga watched him move from one conversation into another, touching shoulders, stopping for pictures, pulling somebody else into a group before they could stand alone.
 
@@ -1658,25 +1582,13 @@ Taiga ate both.
 
 ---
 
-By seven, the compound had become impossible to count.
+By seven, the compound had become impossible to count. Taiga tried once, reached twenty-two, lost two children behind Ramón and gave up when another group arrived.
 
-Taiga tried once.
-
-He reached twenty-two, lost two children behind Ramón and gave up when another group arrived.
-
-Nobody seemed concerned about where everyone would sit.
-
-That turned out not to matter.
+Nobody seemed concerned about where everyone would sit, and it quickly became obvious that it did not matter.
 
 People sat when chairs existed and stood when they did not. The steps became seating. So did the low edge near the plants. Somebody brought in another folding table. A cousin leaned against the wall eating from a plate balanced in one hand.
 
-The food changed too.
-
-The small fried things disappeared first.
-
-Then larger trays arrived.
-
-Rice. Meat. Salad. Plantain. Something Carmen told Taiga the name of twice before he admitted he was not going to remember it.
+The food changed too. The small fried things disappeared first, replaced by larger trays of rice, meat, salad, plantain and something Carmen named twice before Taiga admitted he was not going to remember it.
 
 “*Later,*” she said.
 
@@ -1840,13 +1752,7 @@ The music got louder after dark.
 
 Taiga had noticed it changing all afternoon without understanding who controlled it. Somebody wanted bachata. Somebody else replaced it with merengue. Dani complained about one song and then somehow became responsible for the speaker for twenty minutes. Enzo intervened twice and was removed from authority both times.
 
-At one point Ramón started dancing with Isa beside the table.
-
-A few minutes later someone else joined.
-
-Then Carmen.
-
-Then the open space in the middle of the courtyard stopped being empty.
+At one point Ramón started dancing with Isa beside the table. A few minutes later somebody else joined them, then Carmen, and before long the open space in the middle of the courtyard had stopped being empty.
 
 Taiga stayed where he was.
 
@@ -2006,11 +1912,7 @@ Mostly.
 
 Leo showed him the basic rhythm without counting too loudly.
 
-Taiga got it wrong.
-
-Then wrong differently.
-
-Then almost right.
+Taiga got the rhythm wrong, adjusted in the opposite direction and somehow got it wrong differently before finally landing close enough to right.
 
 Leo’s hand shifted slightly against his side.
 
@@ -2106,13 +2008,9 @@ Leo smiled.
 
 Taiga kept dancing.
 
-By the end, he was still bad.
+By the end of the song Taiga was still bad, but less bad than when they had started, and Leo looked happy anyway.
 
-Less bad.
-
-Leo looked happy anyway.
-
-When the song changed, Taiga escaped.
+When the music changed, Taiga escaped.
 
 Leo did not follow immediately because Carmen intercepted him and dragged him into the next one.
 
@@ -2162,13 +2060,7 @@ Manuel looked at him and added,
 
 “*You look happy with him too.*”
 
-Taiga nearly choked on his drink.
-
-His whole face went hot.
-
-He coughed while Manuel laughed.
-
-Manuel patted him on the back with one enormous hand. Even gentle, it nearly knocked Taiga forward.
+Taiga nearly choked on his drink as his whole face went hot. Manuel laughed and patted him on the back with one enormous hand; even gentle, it nearly knocked Taiga forward.
 
 When he recovered, Taiga looked at Leo for a couple of seconds.
 
@@ -2200,55 +2092,17 @@ Then the music stopped.
 
 That got everybody’s attention faster than shouting would have.
 
-Carmen appeared carrying the cake with Isa beside her.
+Carmen appeared carrying the cake with Isa beside her, and the courtyard reorganized itself almost instantly. People crowded closer as phones came out; Antonio tried to claim a place in front until Dani shifted him sideways, while Leo was pushed into position behind the cake.
 
-The courtyard reorganized itself almost instantly.
-
-People moved closer.
-
-Phones appeared.
-
-Antonio tried to stand in front and was moved sideways by Dani.
-
-Leo got pushed into the middle behind the cake.
-
-Taiga stayed with everyone else.
-
-The first song started.
-
-Taiga recognized the situation.
-
-He did not recognize the song.
-
-Everyone else did.
+Taiga stayed with everyone else as the first song began. He recognized what was happening, but not the song itself. Everyone around him clearly did.
 
 The melody spread across the courtyard immediately, older voices and younger ones joining without needing instruction. Carmen sang. Manuel sang. Mercedes sang from her chair. Enzo sang loudly enough to become individually identifiable, which seemed unnecessary.
 
-Taiga listened.
+Taiga listened closely enough to catch Leo’s name, birthday words and something about happiness. Behind the candles, Leo’s smile widened every time somebody got louder.
 
-He caught Leo’s name.
+Taiga kept waiting for the part he knew, but the song reached its end without ever finding it. People clapped, and before he could decide whether that was it, the familiar melody of Cumpleaños feliz started.
 
-Birthday words.
-
-Something about happiness.
-
-Leo stood behind the candles with a smile that kept widening every time somebody got louder.
-
-Taiga waited for the part he knew.
-
-It did not arrive.
-
-The song ended.
-
-People clapped.
-
-Before Taiga could decide whether that was it, the familiar melody of Cumpleaños feliz started.
-
-Taiga stared.
-
-There were two.
-
-Of course there were fucking two.
+Taiga stared. Apparently there were two birthday songs. Of course there were fucking two.
 
 Across the cake, Leo caught his expression and nearly laughed.
 
@@ -2256,39 +2110,17 @@ Taiga narrowed his eyes at him.
 
 Leo only smiled wider.
 
-The second song finished to another round of clapping and people shouting over one another.
-
-Leo leaned forward toward the candles.
-
-Antonio shouted something.
-
-Leo stopped.
+The second song finished under another round of clapping and overlapping voices. Leo started to lean toward the candles, but Antonio shouted something that stopped him halfway.
 
 “What?”
 
-Antonio repeated it.
+Antonio repeated it, and Leo laughed before closing his eyes. Apparently he had forgotten the wish.
 
-Leo laughed.
-
-Then he closed his eyes.
-
-Apparently he had forgotten the wish.
-
-It took longer than Taiga expected.
-
-Leo opened his eyes and blew out the candles.
-
-Everybody cheered again.
-
-Phones immediately went up.
+He stayed like that longer than Taiga expected, then opened his eyes and blew out the candles to another burst of cheering. Phones went up almost immediately.
 
 Leo barely had time to straighten before Carmen was beside him. Manuel joined from the other side. Dani pulled Antonio forward. Mercedes stayed in her chair and ordered people around until somebody moved the cake table enough to fit her into the frame.
 
-Taiga stayed exactly where he was.
-
-That lasted through two pictures.
-
-Then Enzo grabbed his sleeve.
+Taiga stayed exactly where he was through the first two pictures, until Enzo grabbed his sleeve.
 
 “No.”
 
@@ -2446,29 +2278,15 @@ Carmen started cutting cake before the crowd could become worse.
 
 ---
 
-The party did not end with the cake.
-
-Taiga had assumed it might.
-
-That was his mistake.
-
-Some people left afterward, mostly those with younger children. Others arrived late enough that Taiga wondered whether they had misunderstood the date.
-
-The music started again.
-
-Someone opened another bottle of something.
+The party did not end with the cake, despite Taiga having assumed it might. Some people left afterward, mostly those with younger children, while others arrived late enough that he wondered whether they had misunderstood the date. The music started again, and somebody opened another bottle of something.
 
 Enzo finally gave Leo his gift.
 
 It was wrapped badly enough that nobody could pretend he had tried.
 
-Leo tore the paper open.
+Leo tore the paper open and pulled out a football shirt, though not one Taiga recognized as anything current.
 
-Inside was a football shirt.
-
-Not a normal one.
-
-Taiga looked at it.
+He looked at it.
 
 “Is that your school?”
 
@@ -2538,21 +2356,7 @@ Somebody wanted to know whether he liked Dominican food.
 
 A man who had apparently played football with Manuel when they were younger wanted to discuss Olympus despite knowing almost nothing about American college sports.
 
-Taiga answered slowly.
-
-Sometimes badly.
-
-People waited.
-
-Sometimes they corrected him.
-
-Sometimes they understood anyway.
-
-Dani translated when she felt like it.
-
-Leo translated when Taiga actually needed him.
-
-Enzo translated incorrectly twice on purpose and got hit both times.
+Taiga answered slowly and sometimes badly, but people waited. They corrected him when they needed to and understood him anyway when they could. Dani translated when she felt like it, Leo stepped in when Taiga actually needed him, and Enzo translated incorrectly twice on purpose and got hit both times.
 
 Nearly ten minutes into a conversation with Isa, Taiga looked across the courtyard and found Leo nowhere near them.
 
@@ -2576,13 +2380,7 @@ Progress.
 
 ---
 
-Leo found him near midnight again.
-
-Not exactly midnight.
-
-Later.
-
-Taiga had lost track.
+Leo found him sometime around midnight—or later. Taiga had lost track.
 
 “You okay?”
 
@@ -2744,11 +2542,7 @@ Leo smiled.
 
 “It still applies.”
 
-They cleaned just enough for the courtyard to stop looking destroyed.
-
-Not completely.
-
-Nobody seemed interested in completely.
+They cleaned just enough for the courtyard to stop looking destroyed. Nobody seemed particularly interested in getting it all the way back to normal.
 
 Enzo finally left after Carmen made him take food.
 
@@ -2804,17 +2598,9 @@ They went back upstairs.
 
 ---
 
-The bedroom looked exactly as they had left it except for two things.
+The bedroom looked almost exactly as they had left it. Enzo’s shirt now hung over the chair, and the photo book sat on Leo’s desk beside the old picture of him and Enzo at fifteen.
 
-Enzo’s shirt was hanging over the chair.
-
-The photo book sat on Leo’s desk beside the old picture of him and Enzo at fifteen.
-
-Taiga saw it.
-
-Leo saw him see it.
-
-Neither commented.
+Taiga saw it. Leo caught him looking, but neither of them commented.
 
 Leo closed the door.
 
