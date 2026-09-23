@@ -2150,35 +2150,43 @@ Taiga smiled.
 
 “Yeah.”
 
-Manuel kept looking at Leo. Then said
+Manuel kept looking at Leo.
 
-"*He looks happy with you*."
+Then he said,
 
-Taiga felt his ear warming up. Manuel looked at him and added
+“*He looks happy with you.*”
 
-"*You look happy with him too*."
+Taiga felt his ears getting warm.
 
-This time, Taiga nearly chocked on his drink. His face went totally on fire.
+Manuel looked at him and added,
 
-He coughed while Manuel laughed. 
+“*You look happy with him too.*”
 
-Manuel gently slapped his gigantic hand on his back. Taiga felt like he could have shoved him on the other side of the patio with zero effort.
+Taiga nearly choked on his drink.
 
-After he recovered, he Looked at Leo for a couple of seconds and said,
+His whole face went hot.
 
-"*Yes*."
+He coughed while Manuel laughed.
 
-Manuel smiled, then Taiga continued.
+Manuel patted him on the back with one enormous hand. Even gentle, it nearly knocked Taiga forward.
 
-"*He is very good person.*"
+When he recovered, Taiga looked at Leo for a couple of seconds.
+
+“Sí.”
+
+Manuel smiled.
+
+Taiga kept going.
+
+“*He is very good person.*”
 
 Manuel nodded.
 
-"*He always helps everyone.*"
+“*He always helps everyone.*”
 
 Taiga looked at him, then back at Leo.
 
-"Yeah."
+“Yeah.”
 
 ---
 
@@ -2202,45 +2210,9 @@ Phones appeared.
 
 Antonio tried to stand in front and was moved sideways by Dani.
 
-Leo got pushed into the middle.
+Leo got pushed into the middle behind the cake.
 
-Taiga stayed slightly behind him until Enzo grabbed his sleeve.
-
-“No.”
-
-“What?”
-
-“You’re boyfriend.”
-
-“I know.”
-
-“Then stand there.”
-
-“Why?”
-
-“Photos.”
-
-Taiga looked at the wall of phones.
-
-“I hate this.”
-
-“Correct.”
-
-Enzo pushed him forward anyway.
-
-Taiga ended up beside Leo.
-
-Leo looked over.
-
-“Hi.”
-
-“Your friend is annoying.”
-
-“He’s your friend too, you know.”
-
-“No.”
-
-“Too late.”
+Taiga stayed with everyone else.
 
 The first song started.
 
@@ -2260,55 +2232,111 @@ Birthday words.
 
 Something about happiness.
 
-He looked at Leo.
-
-Leo was singing too.
-
-Taiga leaned closer.
-
-“What is this?”
-
-Leo turned, still smiling.
-
-“My birthday song.”
-
-“I know that.”
-
-“No, I mean ours.”
-
-“What?”
-
-Leo laughed.
-
-The song continued.
+Leo stood behind the candles with a smile that kept widening every time somebody got louder.
 
 Taiga waited for the part he knew.
 
 It did not arrive.
 
-Then the song ended.
+The song ended.
 
 People clapped.
 
-Taiga looked at Leo.
-
-“There are different birthday songs?”
-
-Before Leo could answer, the familiar melody of Cumpleaños feliz started.
+Before Taiga could decide whether that was it, the familiar melody of Cumpleaños feliz started.
 
 Taiga stared.
 
-“There are two?”
+There were two.
 
-Leo started laughing in the middle of the first line.
+Of course there were fucking two.
+
+Across the cake, Leo caught his expression and nearly laughed.
+
+Taiga narrowed his eyes at him.
+
+Leo only smiled wider.
+
+The second song finished to another round of clapping and people shouting over one another.
+
+Leo leaned forward toward the candles.
+
+Antonio shouted something.
+
+Leo stopped.
+
+“What?”
+
+Antonio repeated it.
+
+Leo laughed.
+
+Then he closed his eyes.
+
+Apparently he had forgotten the wish.
+
+It took longer than Taiga expected.
+
+Leo opened his eyes and blew out the candles.
+
+Everybody cheered again.
+
+Phones immediately went up.
+
+Leo barely had time to straighten before Carmen was beside him. Manuel joined from the other side. Dani pulled Antonio forward. Mercedes stayed in her chair and ordered people around until somebody moved the cake table enough to fit her into the frame.
+
+Taiga stayed exactly where he was.
+
+That lasted through two pictures.
+
+Then Enzo grabbed his sleeve.
+
+“No.”
+
+“You’re boyfriend.”
+
+“I know.”
+
+“Then go.”
+
+“Why?”
+
+“Photo.”
+
+“I’m fine here.”
+
+“Incorrect.”
+
+Enzo pushed him forward anyway.
+
+Taiga ended up beside Leo just as somebody raised a phone.
+
+Leo looked over.
+
+“Hi.”
+
+“Your friend is annoying.”
+
+“He’s your friend too, you know.”
+
+“No.”
+
+“Too late.”
+
+The phone flashed.
+
+Taiga looked at Leo.
+
+“You have two birthday songs.”
+
+Leo laughed.
 
 Enzo heard him.
 
 “What?”
 
-Taiga pointed between the crowd and Leo.
+Taiga pointed toward the cake.
 
-“You have two birthday songs.”
+“Two.”
 
 Enzo looked offended.
 
@@ -2326,49 +2354,15 @@ Taiga looked over.
 
 “She says if you complain, they’ll start over.”
 
-Taiga immediately faced the cake.
+Taiga immediately raised both hands.
 
 “I love both songs.”
 
 Mercedes looked satisfied.
 
-The second song finished.
+Another phone flashed.
 
-People shouted over one another.
-
-Leo leaned forward to blow out the candles.
-
-Antonio shouted something.
-
-Leo stopped.
-
-“What?”
-
-Antonio repeated it.
-
-Leo laughed.
-
-Taiga looked at him.
-
-“He says I have to make a wish.”
-
-“You didn’t?”
-
-“I forgot.”
-
-“Terrible birthday technique.”
-
-Leo closed his eyes.
-
-Taiga watched.
-
-It took longer than expected.
-
-Then Leo opened them and blew out the candles.
-
-Everybody cheered again.
-
-Taiga leaned closer.
+Taiga waited until it lowered.
 
 “What did you wish for?”
 
