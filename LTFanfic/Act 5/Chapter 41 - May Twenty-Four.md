@@ -940,7 +940,7 @@ Just photographs.
 
 Some were good. Some were stupid. One was almost entirely Enzo’s hand because he had apparently ruined the picture at the last second. Another showed Leo holding something Taiga could no longer remember while arguing with somebody off-camera.
 
-The last page held the arcade photo. It was the first photo of the two of them Taiga had deliberately saved.
+The last page held the arcade photo. It was the first photo of just the two of them.
 
 Taken from behind, both were leaning toward the shooter screen, Taiga’s plastic rifle angled left and Leo’s right, their shoulders almost touching.
 
