@@ -854,7 +854,7 @@ Leo did.
 
 The first page had one line.
 
-'For the photos you don’t have yet.'
+*For the things I wanted to keep.*
 
 Leo read it twice.
 
@@ -940,8 +940,9 @@ Just photographs.
 
 Some were good. Some were stupid. One was almost entirely Enzo’s hand because he had apparently ruined the picture at the last second. Another showed Leo holding something Taiga could no longer remember while arguing with somebody off-camera.
 
-The last page had a photo back from the arcade. The very first photo they were in together. Both of them focused on the shooter game.
-Shoulder almost touching.
+The last page held the arcade photo. It was the first photo of the two of them Taiga had deliberately saved.
+
+Taken from behind, both were leaning toward the shooter screen, Taiga’s plastic rifle angled left and Leo’s right, their shoulders almost touching.
 
 Leo closed the book.
 
