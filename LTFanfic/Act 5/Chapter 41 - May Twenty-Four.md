@@ -1124,12 +1124,6 @@ Taiga looked at him.
 
 Leo took a drink.
 
-“What?”
-
-“Nothing.”
-
-“There it is.”
-
 Taiga shrugged.
 
 It was his birthday. Forty-seven messages seemed reasonable enough.
@@ -1138,9 +1132,7 @@ It was his birthday. Forty-seven messages seemed reasonable enough.
 
 They knew something had changed before they reached the gate because the music was audible from halfway down the street.
 
-Leo stopped.
-
-Taiga looked at him.
+Taiga stopped and looked at him.
 
 “You said dinner.”
 
@@ -1150,7 +1142,7 @@ Leo listened.
 
 “That is not a category.”
 
-“It is now.”
+“It is for tonight.”
 
 The gate opened before they reached it.
 
@@ -1164,7 +1156,7 @@ He asked something.
 
 Leo lifted it higher.
 
-“Later.”
+“*Later*.”
 
 Antonio immediately objected.
 
@@ -1182,7 +1174,7 @@ Carmen came through one of the doors carrying a tray.
 
 Leo lifted both hands.
 
-“I’m here.”
+“*I’m here*.”
 
 She crossed toward him, kissed his cheek again and immediately took the book from under his arm.
 
@@ -1212,7 +1204,7 @@ Then she smiled.
 
 “*Beautiful.*”
 
-“Gracias.”
+“...Gracias.”
 
 She turned another page.
 
@@ -1232,7 +1224,7 @@ Taiga closed his eyes.
 
 Leo put an arm around his shoulders.
 
-“You’re adorable when you regret things.”
+“You’re adorable when you regret life choices.”
 
 “I’m killing you.”
 
@@ -1276,9 +1268,7 @@ Taiga caught something about university and football.
 
 The man looked at Taiga.
 
-Leo said his name.
-
-Then novio.
+Leo said his name. Then novio.
 
 Taiga had started recognizing that word too quickly.
 
@@ -1288,7 +1278,7 @@ Taiga looked at Leo.
 
 “He says welcome and that anybody who can tolerate me deserves food.”
 
-“That I understand.”
+“That I agree.”
 
 Leo translated.
 
@@ -1306,7 +1296,7 @@ Leo paused.
 
 “I was checking which side.”
 
-“Your family tree needs software.”
+“Your family tree needs a database.”
 
 “I told you.”
 
@@ -1400,19 +1390,19 @@ Mercedes laughed.
 
 Dani appeared behind him.
 
-“You’re loud.”
+“*You’re loud*.”
 
 Enzo turned.
 
-“You got taller.”
+“*You got taller*.”
 
-“No.”
+“*No*.”
 
-“You did.”
+“*You did*.”
 
-“No.”
+“*No*.”
 
-“This is why nobody trusts science.”
+“*This is why nobody trusts science*.”
 
 Dani walked past him.
 
@@ -1472,7 +1462,7 @@ Leo was laughing too hard to help.
 
 Taiga let go.
 
-“Fine. Look.”
+“Fine. Go.”
 
 Enzo did.
 
@@ -1560,7 +1550,7 @@ Then at Taiga.
 
 “Fuck off.”
 
-“There he is.”
+“Missed you.”
 
 ---
 
@@ -1586,11 +1576,9 @@ Antonio wanted him to look at something.
 
 Enzo shouted from beside the speaker that the playlist had become “a crime against momentum.”
 
-Leo answered all of them.
+By the time Antonio let go of Leo's sleeve, the cousin at the gate had already pulled him into another hug. Dani called him back for a second picture before that conversation had finished, and Leo went laughing.
 
-By the time Antonio let go of his sleeve, the cousin at the gate had already pulled him into another hug. Dani called him back for a second picture before that conversation had finished, and Leo went laughing.
-
-Taiga watched him move from one conversation into another, switching languages whenever needed, touching shoulders, stopping for pictures, pulling somebody else into a group before they could stand alone.
+Taiga watched him move from one conversation into another, touching shoulders, stopping for pictures, pulling somebody else into a group before they could stand alone.
 
 Then Leo saw him watching.
 
@@ -1720,21 +1708,17 @@ Then gave him significantly more than un chin.
 
 Taiga stared at the plate.
 
-“You people lie.”
+“*You people lie*.”
 
 She kissed his temple and walked away.
 
 Taiga stood there holding too much food.
 
-Manuel passed.
-
-Taiga showed him the plate.
-
-Manuel laughed.
+Manuel passed, looked at his plate and laughed.
 
 “Carmen?”
 
-Taiga pointed at her.
+Taiga nodded in defeat.
 
 Manuel nodded as if this explained everything.
 
@@ -1764,13 +1748,11 @@ She laughed.
 
 “*I told you.*”
 
-“Yes.”
-
-That required no translation.
+“*Yes*.”
 
 Ramón appeared from nowhere and asked where they had eaten.
 
-Taiga looked at him.
+Taiga looked at him. Then at Leo.
 
 “Why do I understand every question when it’s about food?”
 
@@ -1790,7 +1772,7 @@ Ramón objected.
 
 Taiga looked between them.
 
-“Closed?”
+“*Closed*?”
 
 Isa nodded.
 
@@ -1804,7 +1786,7 @@ Ramón did not understand, so Taiga looked for Leo.
 
 Leo was in the middle of a photograph.
 
-Enzo saw Taiga looking and came over instead.
+He saw Enzo, and called for him instead.
 
 “What?”
 
@@ -1850,25 +1832,7 @@ Enzo took something from Taiga’s plate.
 
 “Hey.”
 
-“Birthday tax.”
-
-“It’s not your birthday.”
-
-“I’m the witness.”
-
-“That means nothing.”
-
-“It means I saw food.”
-
-Taiga took it back.
-
-Enzo looked offended.
-
-“You have changed.”
-
-“I met you months ago.”
-
-“Exactly.”
+“My fee.”
 
 ---
 
@@ -1877,8 +1841,6 @@ The music got louder after dark.
 Taiga had noticed it changing all afternoon without understanding who controlled it. Somebody wanted bachata. Somebody else replaced it with merengue. Dani complained about one song and then somehow became responsible for the speaker for twenty minutes. Enzo intervened twice and was removed from authority both times.
 
 At one point Ramón started dancing with Isa beside the table.
-
-Nobody reacted.
 
 A few minutes later someone else joined.
 
@@ -2068,7 +2030,7 @@ Leo’s hand shifted slightly against his side.
 
 “Because you’re smiling.”
 
-“I like you.”
+“Because I like you.”
 
 “Focus.”
 
@@ -2136,7 +2098,7 @@ Taiga looked at Leo.
 
 “That’s not how time works.”
 
-“Birthday rules.”
+“Birthday rules?”
 
 Leo smiled.
 
@@ -2168,7 +2130,7 @@ Manuel nodded toward Leo.
 
 Taiga understood.
 
-“Sí.”
+“*I can tell*.”
 
 Manuel watched his son for a second.
 
@@ -2187,6 +2149,36 @@ Enzo joined and ruined whatever shape the dance had been supposed to have.
 Taiga smiled.
 
 “Yeah.”
+
+Manuel kept looking at Leo. Then said
+
+"*He looks happy with you*."
+
+Taiga felt his ear warming up. Manuel looked at him and added
+
+"*You look happy with him too*."
+
+This time, Taiga nearly chocked on his drink. His face went totally on fire.
+
+He coughed while Manuel laughed. 
+
+Manuel gently slapped his gigantic hand on his back. Taiga felt like he could have shoved him on the other side of the patio with zero effort.
+
+After he recovered, he Looked at Leo for a couple of seconds and said,
+
+"*Yes*."
+
+Manuel smiled, then Taiga continued.
+
+"*He is very good person.*"
+
+Manuel nodded.
+
+"*He always helps everyone.*"
+
+Taiga looked at him, then back at Leo.
+
+"Yeah."
 
 ---
 
