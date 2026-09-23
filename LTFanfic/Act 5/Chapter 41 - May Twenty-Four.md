@@ -2236,7 +2236,7 @@ Leo looked over.
 
 “Your friend is annoying.”
 
-“He’s your friend too now.”
+“He’s your friend too, you know.”
 
 “No.”
 
