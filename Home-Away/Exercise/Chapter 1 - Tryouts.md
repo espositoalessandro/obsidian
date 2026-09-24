@@ -1,13 +1,13 @@
 Tryouts started at 16:00. Taiga was outside the Sport Zone by 15:45 and had already spent more than 5 minutes convincing himself that this was a stupid idea.
 Other candidates started arriving. Lots of them. Taiga seriously considered leaving.
-Most of them had already club football gears, proper equipment and visible confidence. 
+Most of them had already club football gear, proper equipment and visible confidence. 
 Taiga had none. 
 Just a couple of freshly bought cleats, because he needed them anyways.
 He forced himself to stay.
 Because he doesn't like to waste money, that's it.
 
-At 16:00, they let freshmen in the field. Team players were already helping coaches to set cones and other training equipments around the field. 
-He immediately spotted the blond guy again, who was carrying a box with bibs in it. He was laughing with another teammates about something.
+At 16:00, they let freshmen in the field. Team players were already helping coaches to set cones and other training equipment around the field. 
+He immediately spotted the blond guy again, who was carrying a box with bibs in it. He was laughing with another teammate about something.
 
 "MENDEZ! Put these bibs over there, we don't have all day."
 
@@ -17,14 +17,14 @@ Mendez accelerated and dropped the bibs where the coach asked him, then went bac
 
 The coach then approached the candidates.
 
-"I'm Mercer. Today we're dividing the first tryout phase in three stages. First, you show me you current physical capability, then we'll do basic drills. Last, basic one-versus-one. Now warm up."
+"I'm Mercer. Today we're dividing the first tryout phase in three stages. First, you show me your current physical capability, then we'll do basic drills. Last, basic one-versus-one. Now warm up."
 
 Apparently, that was it. No motivational speech. Taiga immediately liked him.
-His assistants guided the warm up session for the candidates, while team members stayed on the other side of the field with Mercer.
+His assistants guided the warm-up session for the candidates, while team members stayed on the other side of the field with Mercer.
 
 Then, the physical stage began.
 
-Taiga liked it. It was nothing he hadn't done before: sprints, endurance, coordination. He wasn't the best - there were candidates who clearly were already athletes - but he also saw other giving up way earlier.
+Taiga liked it. It was nothing he hadn't done before: sprints, endurance, coordination. He wasn't the best - there were candidates who clearly were already athletes - but he also saw others giving up way earlier.
 
 His confidence collapsed as soon as they started with the drills. They started with basic passes. Taiga immediately struggled with receiving and precision. Others did them with little to zero effort.
 Mercer was holding a clipboard, walking among the candidates. Sometimes he corrected someone, other times he just wrote something down without commenting.
@@ -57,7 +57,7 @@ Taiga didn't expect that. He looked at the blonde.
 
 Annoying.
 
-"It made me realize that I had a chance, afterall."
+"It made me realize that I had a chance, after all."
 
 Mendez laughed. 
 
@@ -86,7 +86,7 @@ Taiga corrected his first impression: very annoying.
 
 He tried again. And again. Somehow, Leo was always able to anticipate when Taiga was about to commit.
 
-"Your body talks to much," he said.
+"Your body talks too much," he said.
 
 "So does your mouth."
 
