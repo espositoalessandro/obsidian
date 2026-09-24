@@ -67,4 +67,4 @@ Taiga turned and started walking away.
 After a couple of meters, he stopped. 
 "Fuck it."
 He went back and snapped a picture.
-He felt immediately stupid for doing that.
+He immediately felt stupid for doing that.
