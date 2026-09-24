@@ -92,7 +92,7 @@ He tried again. And again. Somehow, Leo was always able to anticipate when Taiga
 
 Leo stopped. Then laughed.
 
-"Eheh, fair enough. Anyways, not to move your body before you move the ball."
+"Eheh, fair enough. Anyways, try not to move your body before you move the ball."
 
 Taiga inhaled. He was right. That made it worse.
 He tried again. 
@@ -127,7 +127,7 @@ Leo passed beside him.
 "Regardless of what Coach decides, I think you did pretty good."
 
 Again.
-Stupid consolation shit-talk that means nothing. 
+Stupid consolation bullshit that means nothing. 
 He had objectively done bad. He didn't need cheer ups from an annoying brat who just beat him repeatedly. 
 He felt again his nerves getting the best. He turned towards Leo, but before he could say anything, Leo shrugged and said
 
