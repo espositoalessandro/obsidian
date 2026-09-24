@@ -1,9 +1,9 @@
-Taiga was walking across campus, frantically zooming in and out the map on his phone. Whoever designed the Olympus app had a very personal interpretation of geography.
+Taiga was walking across campus, frantically zooming in and out on the map on his phone. Whoever designed the Olympus app had a very personal interpretation of geography.
 The position marker finally snapped on a route and Taiga realized he was going the wrong way. 
 Great.
 He turned to go back, when he heard a whistle and someone shouting, then a laugh. He looked up and realized he was just outside the Apollo Sport Zone and someone was doing sports.
 
-Curiosity got the best on him and he entered the gate, following the noise. 
+Curiosity got the better of him and he entered the gate, following the noise. 
 He found himself under the bleachers of a football pitch, right outside a metal net surrounding the field. Apparently, there was training in progress.
 As everything concerning sports in Olympus, the pitch wasn't exactly humble. Lights, scoreboards, enough seats for hundreds of people. 
 Definitely different from the sloped pitch he was used to in Camp Buddy.
@@ -11,11 +11,11 @@ Definitely different from the sloped pitch he was used to in Camp Buddy.
 Taiga approached the net. He had always appreciated sports: run, sweat, competition, strategies, adrenaline and frustration. All things that make your blood move.
 Although he had played sometimes, he was not necessarily a football fan. He didn't watch professional matches, nor supported any team in particular, but he knew enough to respect the sport itself.
 
-The players had apparently finished warming up. The coach spoke loudly with firm voice.
+The players had apparently finished warming up. The coach spoke loudly with a firm voice.
 
 "Okay, enough. Scrimmage next. Take your bibs and get ready."
 
-Players were casually talking to each others while getting ready for the scrimmage. They separated in two teams and took position on the field. 
+Players were casually talking to each other while getting ready for the scrimmage. They separated in two teams and took their positions on the field. 
 Taiga leaned closer to the net.
 The coach whistled and the match started.
 
@@ -59,7 +59,7 @@ and immediately underneath
 **Apollo Sport Zone**
 
 He looked at it for a couple of seconds. 
-He liked football. He had played some times back at school and at camp. 
+He liked football. He had played a few times back at school and at camp. 
 It was also definitely not worth it.
 Taiga turned and started walking away.
 
