@@ -1,7 +1,7 @@
 
 Taiga was still in the middle of unpacking his stuff when he heard the door opening. 
 A tall guy appeared at the doorway. Short hair dark, square glasses, dramatic poker face.
-He paused a second, glanced at Taiga's clothes laid on the bed, then back to Taiga.
+He paused a second, glanced at Taiga's clothes lying on the bed, then back to Taiga.
 
 "Hi."
 
@@ -26,7 +26,7 @@ Still a bit perplexed, Taiga shook it.
 
 "Nice to meet you."
 
-Caleb didn't add anything. He crossed the room put down his suitcase. He was about to turn, then he briefly went back to better align the suitcase to the wall. 
+Caleb didn't add anything. He crossed the room and put down his suitcase. He was about to turn, then he briefly went back to better align the suitcase to the wall. 
 
 "Caleb, where do you want this?"
 
@@ -63,7 +63,7 @@ Caleb looked around.
 
 "No."
 
-"Okay, perfect. Have a good terms guys! See you Caleb, don't make your mum worry too much."
+"Okay, perfect. Have a good term, guys! See you Caleb, don't make your mum worry too much."
 
 "Okay."
 
@@ -105,6 +105,6 @@ Taiga nodded. Then went back to unpack, until he found his Camp Buddy shirt. He 
 
 "Yeah."
 
-Taiga waited, but no follow up arrived. He raised an eyebrow while looking at his clothes, then lightly shrugged.
+Taiga waited, but no follow-up arrived. He raised an eyebrow while looking at his clothes, then lightly shrugged.
 Good.
 
