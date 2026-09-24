@@ -6,14 +6,14 @@ Just a couple of freshly bought cleats, because he needed them anyways.
 He forced himself to stay.
 Because he didn't like to waste money, that's it.
 
-At 16:00, they let freshmen in the field. Team players were already helping coaches to set cones and other training equipment around the field. 
+At 16:00, they let freshmen onto the field. Team players were already helping coaches to set cones and other training equipment around the field. 
 He immediately spotted the blond guy again, who was carrying a box with bibs in it. He was laughing with another teammate about something.
 
 "MENDEZ! Put these bibs over there, we don't have all day."
 
 "Yes, coach!"
 
-Mendez hurried up and dropped the bibs where the coach asked him, then went back in the storage room.
+Mendez hurried up and dropped the bibs where the coach asked him, then went back into the storage room.
 
 The coach then approached the candidates.
 
@@ -98,7 +98,7 @@ Taiga inhaled. He was right. That made it worse.
 He tried again. 
 He approached faster this time. Then his body went to the left for an instant. As soon as Leo followed, he immediately turned the ball on the right. Leo smiled and immediately tried to recover. Taiga shielded the ball with his body, and for a while he succeeded.
 
-Then he turned to shot in the goal, Leo managed a toe in and the ball had disappeared again.
+Then he turned to shoot at the goal, Leo managed to get a toe in and the ball had disappeared again.
 
 Leo was laughing, ball under his foot.
 
@@ -108,7 +108,7 @@ Leo was laughing, ball under his foot.
 
 "But you almost got me! I honestly wasn't expecting that."
 
-Taiga saw Mercer with the corner of his eyes and turned towards him. He was writing something on the clipboard. 
+Taiga saw Mercer out of the corner of his eye and turned towards him. He was writing something on the clipboard. 
 
 "You're doing good!", Leo continued, "You're way better at this than when we started."
 
@@ -128,7 +128,7 @@ Leo passed beside him.
 
 Again.
 Stupid consolation shit-talk that means nothing. 
-He had objectively done bad. He didn't need cheer ups from an annoying brat who just beat him repeatedly. 
+He had objectively done bad. He didn't need encouragement from an annoying brat who just beat him repeatedly. 
 He felt again his nerves getting the best. He turned towards Leo, but before he could say anything, Leo shrugged and said
 
 "I hope you make it. See you!"
