@@ -13,7 +13,7 @@ He immediately spotted the blond guy again, who was carrying a box with bibs in 
 
 "Yes, coach!"
 
-Mendez accelerated and dropped the bibs where the coach asked him, then went back in the storage room.
+Mendez hurried up and dropped the bibs where the coach asked him, then went back in the storage room.
 
 The coach then approached the candidates.
 
@@ -77,12 +77,12 @@ Taiga had the ball. He slowly approached him. Leo didn't move.
 Taiga tried to move left, but he immediately followed. 
 Then right. Leo was still there. 
 Eventually Taiga got impatient and tried to force his way on the right again.
-He surpassed Leo, then looked down and found out that the ball had disappeared.
+He tried to accelerate past him, but as soon as he did it, Leo immediately got a foot to it.
 He turned. Leo was standing there with the ball under his right foot.
 
 "That was too obvious, dude!"
 
-Taiga corrected his first impression: very annoying.
+Very annoying.
 
 He tried again. And again. Somehow, Leo was always able to anticipate when Taiga was about to commit.
 
@@ -97,7 +97,7 @@ Leo stopped. Then laughed.
 Taiga inhaled. He was right. That made it worse.
 He tried again. 
 He approached faster this time. Then his body went to the left for an instant. As soon as Leo followed, he immediately turned the ball on the right. Leo smiled and immediately tried to recover. Taiga shielded the ball with his body, and for a while he succeeded.
-Then he turned to shot in the goal, but the ball had disappeared again.
+Then he turned to shot in the goal, Leo managed a toe in and the ball had disappeared again.
 
 Leo was laughing, ball under his foot.
 
@@ -107,7 +107,7 @@ Leo was laughing, ball under his foot.
 
 "But you almost got me! I honestly wasn't expecting that."
 
-Taiga caught Mercer with the corner of his eyes. He was writing something on the clipboard. 
+Taiga saw Mercer with the corner of his eyes and turned towards him. He was writing something on the clipboard. 
 
 "You're doing good!", Leo continued, "You're way better at this than when we started."
 
@@ -119,21 +119,20 @@ Taiga was about to reply, when Mercer shouted.
 
 "Okay, enough for today. Results will be posted on the board tomorrow morning. Next phase will begin tomorrow afternoon."
 
-Taiga felt his stomach clenching again. That went like shit. He didn't manage to get past Mendez once. He sucked at the drills.
+Taiga felt his stomach clenching again. That went like shit. He didn't manage to get past Mendez once.
 
 Leo passed beside him.
 
 "Regardless of what Coach decides, I think you did pretty good."
 
 Again.
-Stupid assertion that meant nothing. 
+Stupid consolation shit-talk that means nothing. 
 He had objectively done bad. He didn't need cheer ups from an annoying brat who just beat him repeatedly. 
-He felt again his nerves getting the best. He turned towards Leo, but before he could say anything, he shrugged and said
+He felt again his nerves getting the best. He turned towards Leo, but before he could say anything, Leo shrugged and said
 
 "I hope you make it. See you!"
 
 And jogged away.
 
 Taiga watched him recovering the cones.
-He stood corrected once again. 
 Very, very annoying.
