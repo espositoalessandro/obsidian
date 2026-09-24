@@ -9,7 +9,7 @@ As everything concerning sports in Olympus, the pitch wasn't exactly humble. Lig
 Definitely different from the sloped pitch he was used to in Camp Buddy.
 
 Taiga approached the net. He had always appreciated sports: run, sweat, competition, strategies, adrenaline and frustration. All things that make your blood move.
-Although he had played sometimes, he was not necessarily a football fan. He didn't watch professional matches, nor supported any team in particular, but he knew enough to respect the sport itself.
+Although he had played a few times, he was not necessarily a football fan. He didn't watch professional matches, nor did he support any team in particular, but he knew enough to respect the sport itself.
 
 The players had apparently finished warming up. The coach spoke loudly with a firm voice.
 
@@ -23,7 +23,7 @@ Taiga had never seen a proper football match up close. The pitch was enormous, p
 The ball kept passing from one player to another. No one was keeping it for long and not everyone was running for it. 
 There were roles, positions. Taiga could immediately see that. 
 
-A blonde guy got hold of the ball near Taiga. He received on his chest, put it down and immediately started running. One player immediately started following him, but the blond was already ahead. He raised his head and looked inside. Another defender stood in his way. He fainted a movement on the right, then went on the left, leaving the defender in place. 
+A blonde guy got hold of the ball near Taiga. He received on his chest, put it down and immediately started running. One player immediately started following him, but the blond was already ahead. He raised his head and looked inside. Another defender stood in his way. He feinted a movement on the right, then went on the left, leaving the defender in place. 
 Taiga looked at him: he was slim and fast. 
 He turned inward, reached the penalty area and shot from an angle. 
 Out. 
@@ -32,7 +32,7 @@ Taiga raised an eyebrow.
 The blonde guy put his hands behind his head, looked up and squinted his eyes.
 One of his teammates yelled
 
-"You just launched a new satellite!
+"You just launched a new satellite!"
 
 The blonde one laughed.
 
