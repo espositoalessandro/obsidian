@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exercise/Chapter 1 - Tryouts.md",
+                "file": "Exercise/Chapter 1 - Leo intro.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 1 - Tryouts"
+              "title": "Chapter 1 - Leo intro"
             }
           }
         ],
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Exercise/Chapter 1 - Tryouts.md",
+                "file": "Exercise/Chapter 1 - Leo intro.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -230,8 +230,8 @@
   },
   "active": "c0a9480640bd6951",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Exercise/Chapter 1 - Tryouts.md",
+    "conflict-files-obsidian-git.md",
     "Exercise/Chapter 1 - Novel intro.md",
     "Exercise/Chapter 1 - Leo intro.md",
     "Exercise/Chapter 1 - Caleb intro.md",

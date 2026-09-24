@@ -23,18 +23,18 @@ Taiga had never seen a proper football match up close. The pitch was enormous, p
 The ball kept passing from one player to another. No one was keeping it for long and not everyone was running for it. 
 There were roles, positions. Taiga could immediately see that. 
 
-A blonde guy got hold of the ball near Taiga. He received on his chest, put it down and immediately started running. One player immediately started following him, but the blond was already ahead. He raised his head and looked inside. Another defender stood in his way. He feinted a movement on the right, then went on the left, leaving the defender in place. 
+A blond guy got hold of the ball near Taiga. He received on his chest, put it down and immediately started running. One player immediately started following him, but the blond was already ahead. He raised his head and looked inside. Another defender stood in his way. He feinted a movement on the right, then went on the left, leaving the defender in place. 
 Taiga looked at him: he was slim and fast. 
 He turned inward, reached the penalty area and shot from an angle. 
 Out. 
 Taiga raised an eyebrow.
 
-The blonde guy put his hands behind his head, looked up and squinted his eyes.
+The blond guy put his hands behind his head, looked up and squinted his eyes.
 One of his teammates yelled
 
 "You just launched a new satellite!"
 
-The blonde one laughed.
+The blond one laughed.
 
 "Wow Enzo, that one was almost good."
 
@@ -46,7 +46,7 @@ The guy named Enzo pointed at him.
 
 The goalkeeper interrupted, "RESET!"
 
-Still laughing, the blonde guy jogged back into position.
+Still laughing, the blond guy jogged back into position.
 
 Taiga shook his head, then turned to go back.
 Right outside the Sport Zone, there was a bulletin board. Among the useless notices, one caught Taiga's attention.
