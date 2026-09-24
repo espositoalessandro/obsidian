@@ -47,7 +47,7 @@ And indicated the blond guy. Of course.
 
 Mendez was bouncing on his heels when Taiga approached. 
 
-"Oh! You're the one who was looking yesterday!"
+"Oh, I remember you! You were looking at the training yesterday!"
 
 Taiga didn't expect that. He frowned a little and said,
 
@@ -130,7 +130,7 @@ Again.
 Stupid consolation bullshit that means nothing. 
 He had objectively done bad. He didn't need cheer ups from an annoying brat who just beat him repeatedly. 
 
-He felt again his nerves getting the best. He turned towards Leo, but before he could say anything, Leo shrugged and said
+Taiga felt again his nerves getting the best. He turned towards Leo, but before he could say anything, Leo shrugged and said
 
 "Well, I hope you make it. See you!"
 
