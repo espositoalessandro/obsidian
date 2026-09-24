@@ -1,10 +1,10 @@
 Taiga was walking across campus, frantically zooming in and out on the map on his phone. Whoever designed the Olympus app had a very personal interpretation of geography.
 The position marker finally snapped on a route and Taiga realized he was going the wrong way. 
 Great.
-He turned to go back, when he heard a whistle and someone shouting, then a laugh. He looked up and realized he was just outside the Apollo Sport Zone and someone was doing sports.
+He turned to go back, when he heard a whistle and someone shouting, then a laugh. He looked up and realized he was just outside the Apollo Sport Zone.
 
 Curiosity got the better of him and he entered the gate, following the noise. 
-He found himself under the bleachers of a football pitch, right outside a metal net surrounding the field. Apparently, there was training in progress.
+He found himself under the bleachers of a football pitch, right outside a metal net surrounding the field. There were players running, passing balls, shooting and laughing.
 As everything concerning sports in Olympus, the pitch wasn't exactly humble. Lights, scoreboards, enough seats for hundreds of people. 
 Definitely different from the sloped pitch he was used to in Camp Buddy.
 
@@ -19,16 +19,17 @@ Players were casually talking to each other while getting ready for the scrimmag
 Taiga leaned closer to the net.
 The coach whistled and the match started.
 
-It was nothing like Taiga had ever seen. Up close, the pitch was enormous, people were running everywhere and the goalkeeper immediately shouted about positioning.
-
-The ball kept bouncing from one player to another. No one was keeping it for long and not everyone was running for it. 
+Taiga had never seen a proper football match up close. The pitch was enormous, people were running everywhere and the goalkeeper immediately shouted about positioning.
+The ball kept passing from one player to another. No one was keeping it for long and not everyone was running for it. 
 There were roles, positions. Taiga could immediately see that. 
-A blonde guy got hold of the ball near Taiga. He received on his chest, put it down and immediately started running. A couple of other players tried to stop him, but he somehow dribbled them. Taiga looked at him: he was slim and fast. His body was sneaking between the defenders with ease.
-He turned inward, managed to reach the penalty area and shot from an angle. 
+
+A blonde guy got hold of the ball near Taiga. He received on his chest, put it down and immediately started running. One player immediately started following him, but the blond was already ahead. He raised his head and looked inside. Another defender stood in his way. He fainted a movement on the right, then went on the left, leaving the defender in place. 
+Taiga looked at him: he was slim and fast. 
+He turned inward, reached the penalty area and shot from an angle. 
 Out. 
 Taiga raised an eyebrow.
 
-The blonde guy put his hands behind his head with a suffering face.
+The blonde guy put his hands behind his head, looked up and squinted his eyes.
 One of his teammates yelled
 
 "You just launched a new satellite!
