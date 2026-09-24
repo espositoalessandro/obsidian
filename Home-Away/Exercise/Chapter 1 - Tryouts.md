@@ -49,7 +49,7 @@ Mendez was bouncing on his heels when Taiga approached.
 
 "Oh! You're the one who was looking yesterday!"
 
-Taiga didn't expect that. He looked at the blond.
+Taiga didn't expect that. He frowned a little and said,
 
 "Yeah."
 
@@ -77,7 +77,7 @@ Taiga had the ball. He slowly approached him. Leo didn't move.
 Taiga tried to move left, but he immediately followed. 
 Then right. Leo was still there. 
 Eventually Taiga got impatient and tried to force his way on the right again.
-He tried to accelerate past him, but as soon as he did it, Leo immediately got a foot to it.
+He tried to accelerate past him, but as soon as he did, Leo immediately got a foot to it.
 He turned. Leo was standing there with the ball under his right foot.
 
 "That was too obvious, dude!"
@@ -97,7 +97,6 @@ Leo stopped. Then laughed.
 Taiga inhaled. He was right. That made it worse.
 He tried again. 
 He approached faster this time. Then his body went to the left for an instant. As soon as Leo followed, he immediately turned the ball on the right. Leo smiled and immediately tried to recover. Taiga shielded the ball with his body, and for a while he succeeded.
-
 Then he turned to shoot at the goal, Leo managed to get a toe in and the ball had disappeared again.
 
 Leo was laughing, ball under his foot.
@@ -133,9 +132,10 @@ He had objectively done bad. He didn't need cheer ups from an annoying brat who 
 
 He felt again his nerves getting the best. He turned towards Leo, but before he could say anything, Leo shrugged and said
 
-"I hope you make it. See you!"
+"Well, I hope you make it. See you!"
 
 And jogged away.
 
 Taiga watched him recovering the cones.
+
 Very, very annoying.
