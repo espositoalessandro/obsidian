@@ -1,6 +1,6 @@
 
 Taiga was still in the middle of unpacking his stuff when he heard the door opening. 
-A tall guy appeared at the doorway. Short hair dark, square glasses, dramatic poker face.
+A tall guy appeared in the doorway. Short dark hair, square glasses, dramatic poker face.
 He paused a second, glanced at Taiga's clothes laid on the bed, then back to Taiga.
 
 "Hi."
@@ -16,9 +16,9 @@ Taiga made one sarcastic laugh.
 "No, I'm robbing him."
 
 The guy stood there and frowned confusedly. 
-Taiga stared at him, and for a couple of awkward seconds nobody said anything. 
+Taiga stared at him, and for a couple of seconds nobody said anything. 
 
-Then the guy blinked as if he had suddenly understood the absurdity of the implication, then slowly offered his hand awkwardly.
+Then the guy blinked as if he had suddenly understood the absurdity of the implication and awkwardly offered his hand.
 
 "Caleb. I'm your roommate."
 
@@ -26,11 +26,11 @@ Still a bit perplexed, Taiga shook it.
 
 "Nice to meet you."
 
-Caleb didn't add anything. He crossed the room put down his suitcase. He was about to turn, then he briefly went back to better align the suitcase to the wall. 
+Caleb didn't add anything. He crossed the room put down his suitcase. He was about to turn, then went back to better adjust the suitcase to the wall. 
 
 "Caleb, where do you want this?"
 
-Taiga turned towards the door. A man was standing there, oddly similar to Caleb, holding a mini-fridge and appearing to be struggling a bit.
+Taiga turned towards the door. A man was standing there, oddly similar to Caleb, holding a mini-fridge and struggling a bit.
 
 Caleb pointed under his desk without hesitation.
 
@@ -46,7 +46,7 @@ The man gave him an exasperated look and exhaled.
 
 "Of course you did."
 
-He crossed the room and put the fridge under the desk: it fit with almost no residual space.
+He crossed the room and put the fridge under the desk: it fit perfectly.
 Then he straightened and looked at Taiga. A small smile finally appeared in the room.
 
 "Hi, Caleb's dad. You must be his roommate, right?"
