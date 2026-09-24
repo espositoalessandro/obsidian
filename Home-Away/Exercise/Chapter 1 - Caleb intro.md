@@ -85,7 +85,7 @@ Taiga turned. Caleb was indicating an imaginary line going from the door to the 
 
 Caleb went back to unpack. He took out a mug perfectly wrapped in bubble-wrap and put it on his desk. Then he moved it a couple of centimeters on the left. Then one back on the right. Then he nodded and unwrapped it.
 
-Taiga looked at him and slowly frowned, still perplexed.
+Taiga looked at him.
 
 "So... where are you from?"
 
@@ -106,5 +106,4 @@ Taiga nodded. Then went back to unpack, until he found his Camp Buddy shirt. He 
 "Yeah."
 
 Taiga waited, but no follow up arrived. He raised an eyebrow while looking at his clothes, then lightly shrugged.
-
-It was better this way.
+Good.
