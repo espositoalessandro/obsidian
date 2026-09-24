@@ -37,7 +37,7 @@ Taiga nodded. Clear instruction. A direction. He could make that work.
 He adjusted. Still missed a couple of times, but eventually got the hang of it. 
 Mercer didn't comment and moved on.
 
-[i don't know enough about football to write more about drills]
+[dribbling drill goes here. Taiga sucks, then gets corrected and sucks less. Other people are better]
 
 Finally, Mercer formed pairs with candidates and team members. He pointed at Taiga:
 
@@ -49,7 +49,7 @@ Mendez was bouncing on his heels when Taiga approached.
 
 "Oh! You're the one who was looking yesterday!"
 
-Taiga didn't expect that. He looked at the blonde.
+Taiga didn't expect that. He looked at the blond.
 
 "Yeah."
 
