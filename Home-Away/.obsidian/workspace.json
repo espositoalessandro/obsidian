@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exercise/Chapter 1 - Leo intro.md",
+                "file": "Exercise/Chapter 1 - Tryouts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 1 - Leo intro"
+              "title": "Chapter 1 - Tryouts"
             }
           }
         ]
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Exercise/Chapter 1 - Leo intro.md",
+                "file": "Exercise/Chapter 1 - Tryouts.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -199,12 +199,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "34ae04c86a4b12ed",
+  "active": "9dfa41937f9f6279",
   "lastOpenFiles": [
-    "Exercise/Chapter 1 - Caleb intro.md",
-    "Exercise/Chapter 1 - Leo intro.md",
-    "conflict-files-obsidian-git.md",
     "Exercise/Chapter 1 - Novel intro.md",
+    "Exercise/Chapter 1 - Leo intro.md",
+    "Exercise/Chapter 1 - Tryouts.md",
+    "Exercise/Chapter 1 - Caleb intro.md",
+    "conflict-files-obsidian-git.md",
     "Act 5 - The Other Side/Chapter 43 - Tomorrow.md",
     "Exercise",
     "Act 4 - New Threshold/Chapter 37 - Ninety.md",
@@ -227,7 +228,6 @@
     "Act 3 - Moving On/Chapter 29 - No Reason.md",
     "Act 3 - Moving On/Chapter 28 - Old Language.md",
     "Act 3 - Moving On/Chapter 27 - Old Ground.md",
-    "Act 3 - Moving On/Chapter 26 - Easy.md",
     "Act 5 - The Other Side",
     "Act 4 - New Threshold",
     "Act 3 - Moving On",
