@@ -1,7 +1,7 @@
 
 Taiga was still in the middle of unpacking his stuff when he heard the door opening. 
-A tall guy appeared on the entrance. Short hair dark, square glasses, dramatic poker face.
-He paused a second, his eyes went briefly on Taiga's clothes laid on the bed, then back to Taiga.
+A tall guy appeared at the doorway. Short hair dark, square glasses, dramatic poker face.
+He paused a second, glanced at Taiga's clothes laid on the bed, then back to Taiga.
 
 "Hi."
 
@@ -15,7 +15,7 @@ Taiga made one sarcastic laugh.
 
 "No, I'm robbing him."
 
-He didn't get the reaction he expected: the guy stood on the door and frowned confusedly. 
+The guy stood there and frowned confusedly. 
 Taiga stared at him, and for a couple of awkward seconds nobody said anything. 
 
 Then the guy blinked as if he had suddenly understood the absurdity of the implication, then slowly offered his hand awkwardly.
@@ -26,13 +26,13 @@ Still a bit perplexed, Taiga shook it.
 
 "Nice to meet you."
 
-Caleb didn't add anything. He went near his desk and put down his suitcase. He was about to turn, then he briefly went back to better align the suitcase to the wall. 
+Caleb didn't add anything. He crossed the room put down his suitcase. He was about to turn, then he briefly went back to better align the suitcase to the wall. 
 
 "Caleb, where do you want this?"
 
 Taiga turned towards the door. A man was standing there, oddly similar to Caleb, holding a mini-fridge and appearing to be struggling a bit.
 
-Caleb pointed a space under his desk without hesitation.
+Caleb pointed under his desk without hesitation.
 
 "There."
 
