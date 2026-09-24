@@ -4,11 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "c23d89ba081c56d7",
+        "id": "cc9a76b653206491",
         "type": "tabs",
         "children": [
           {
-            "id": "08a680ef5d14a386",
+            "id": "145b5a0df1b18023",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "D&D - Test campaign/.obsidian/workspace.json",
+                "bFile": "D&D - Test campaign/.obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
+            }
+          },
+          {
+            "id": "a4ed577d0e53a5a9",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
@@ -19,21 +33,6 @@
               },
               "icon": "diff",
               "title": "Diff: .gitignore  (Working Tree)"
-            }
-          },
-          {
-            "id": "63dd079cd4745838",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "Home-Away/Exercise/Chapter 1 - Caleb intro.md",
-                "bFile": "Home-Away/Exercise/Chapter 1 - Caleb intro.md",
-                "aRef": "HEAD",
-                "bRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: Chapter 1 - Caleb intro  (Index)"
             }
           }
         ],
@@ -212,8 +211,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "63dd079cd4745838",
+  "active": "a4ed577d0e53a5a9",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md"
+    "conflict-files-obsidian-git.md",
+    "Campagna - Il Ciclo dell Eredità/Sessioni/6 - 2026-07-23.md",
+    "Campagna - Il Ciclo dell Eredità/I Figli di Chronos.md"
   ]
 }
