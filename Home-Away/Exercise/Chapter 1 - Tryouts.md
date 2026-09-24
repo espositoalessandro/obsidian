@@ -4,7 +4,7 @@ Most of them had already club football gear, proper equipment and visible confid
 Taiga had none. 
 Just a couple of freshly bought cleats, because he needed them anyways.
 He forced himself to stay.
-Because he doesn't like to waste money, that's it.
+Because he didn't like to waste money, that's it.
 
 At 16:00, they let freshmen in the field. Team players were already helping coaches to set cones and other training equipment around the field. 
 He immediately spotted the blond guy again, who was carrying a box with bibs in it. He was laughing with another teammate about something.
@@ -33,7 +33,7 @@ At some point, he approached Taiga. He could feel something tightening in his st
 
 "Before hitting the ball, adjust your positioning first. The other foot stays beside the ball."
 
-Taiga nodded. Clear instruction. A direction. He can make that work.
+Taiga nodded. Clear instruction. A direction. He could make that work.
 He adjusted. Still missed a couple of times, but eventually got the hang of it. 
 Mercer didn't comment and moved on.
 
@@ -97,7 +97,7 @@ Leo stopped. Then laughed.
 Taiga inhaled. He was right. That made it worse.
 He tried again. 
 He approached faster this time. Then his body went to the left for an instant. As soon as Leo followed, he immediately turned the ball on the right. Leo smiled and immediately tried to recover. Taiga shielded the ball with his body, and for a while he succeeded.
-Then he turned to shot in the goal, but the ball had disappeared again.
+Then he turned to shoot at the goal, but the ball had disappeared again.
 
 Leo was laughing, ball under his foot.
 
