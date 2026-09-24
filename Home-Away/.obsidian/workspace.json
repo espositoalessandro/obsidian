@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Act 5 - The Other Side/Chapter 43 - Tomorrow.md",
+                "file": "Exercise/Chapter 1 - Tryouts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 43 - Tomorrow"
+              "title": "Chapter 1 - Tryouts"
             }
           }
         ],
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Act 5 - The Other Side/Chapter 43 - Tomorrow.md",
+                "file": "Exercise/Chapter 1 - Tryouts.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -214,7 +214,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -230,12 +231,12 @@
   },
   "active": "c0a9480640bd6951",
   "lastOpenFiles": [
+    "Exercise/Chapter 1 - Novel intro.md",
+    "Act 5 - The Other Side/Chapter 43 - Tomorrow.md",
     "Exercise/Chapter 1 - Tryouts.md",
     "Exercise/Chapter 1 - Leo intro.md",
     "Exercise/Chapter 1 - Caleb intro.md",
-    "Exercise/Chapter 1 - Novel intro.md",
     "conflict-files-obsidian-git.md",
-    "Act 5 - The Other Side/Chapter 43 - Tomorrow.md",
     "Exercise",
     "Act 4 - New Threshold/Chapter 37 - Ninety.md",
     "Act 4 - New Threshold/Chapter 38 - Thirteen.md",
