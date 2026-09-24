@@ -23,7 +23,7 @@ Taiga could already feel the familiar heat climbing to his head.
 No.
 He took a small breath.
 
-"Wathever."
+"Whatever."
 
 Then he turned and continued. 
 There. Day one and he almost lost it to a random guy who just bumped him.
