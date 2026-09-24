@@ -2,7 +2,7 @@
 Taiga was still in the middle of unpacking his stuff when he heard the door opening. 
 
 A tall guy appeared in the doorway. Short dark hair, square glasses, dramatic poker face.
-He paused a second, glanced at Taiga's clothes laid on the bed, then back to Taiga.
+He paused a second, glanced at Taiga's clothes lying on the bed, then back to Taiga.
 
 "Hi."
 
@@ -27,7 +27,7 @@ Still a bit perplexed, Taiga shook it.
 
 "Nice to meet you."
 
-Caleb didn't add anything. He crossed the room put down his suitcase. He turned, glanced back at the suitcase, then adjusted it so that it aligned with the wall.
+Caleb didn't add anything. He crossed the room and put down his suitcase. He turned, glanced back at the suitcase, then adjusted it so that it aligned with the wall.
 
 "Caleb, where do you want this?"
 
@@ -74,7 +74,7 @@ Silence immediately fell into room 317.
 Caleb went straight to open his bag. He pulled out a couple of perfectly coiled cables, then opened a drawer and spent a couple of seconds arranging them inside. He did the same with the rest of his chargers.
 
 Taiga blinked, but didn't say anything. He turned back to his clothes.
-After a while, Caleb said
+After a while, Caleb said,
 
 "Are you okay with dividing the room in these two sides?"
 
@@ -100,7 +100,7 @@ He put it carefully near the left corner of his desk.
 
 "Yes, Maya."
 
-Taiga nodded. Then went back to unpack, until he found his Camp Buddy shirt. He stared at it for a couple of seconds, before folding it and putting it in a drawer.
+Taiga nodded. Then he went back to unpack, until he found his Camp Buddy shirt. He stared at it for a couple of seconds, before folding it and putting it in a drawer.
 
 "You're a scout?"
 
