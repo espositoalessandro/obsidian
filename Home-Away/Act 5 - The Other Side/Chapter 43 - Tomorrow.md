@@ -720,7 +720,7 @@ He understood enough to ask about a child’s age. His next question came out wr
 
 Leo, passing with two cups, caught the confusion.
 
-“He means how old she is.”
+“*He means how old she is*.”
 
 “*Oh!*”
 
