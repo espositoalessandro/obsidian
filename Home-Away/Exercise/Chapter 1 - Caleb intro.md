@@ -1,7 +1,7 @@
 
 Taiga was still in the middle of unpacking his stuff when he heard the door opening. 
 A tall guy appeared on the entrance. Short hair dark, square glasses, dramatic poker face.
-He paused a second, his eyes went briefly on Taiga's clothes laid on the bad, then back to Taiga.
+He paused a second, his eyes went briefly on Taiga's clothes laid on the bed, then back to Taiga.
 
 "Hi."
 
@@ -30,7 +30,7 @@ Caleb didn't add anything. He went near his desk and put down his suitcase. He w
 
 "Caleb, where do you want this?"
 
-Taiga turned towards to door. A man was standing there, oddly similar to Caleb, holding a mini-fridge and appearing to be struggling a bit.
+Taiga turned towards the door. A man was standing there, oddly similar to Caleb, holding a mini-fridge and appearing to be struggling a bit.
 
 Caleb pointed a space under his desk without hesitation.
 
@@ -47,7 +47,7 @@ The man gave him an exasperated look and exhaled.
 "Of course you did."
 
 He crossed the room and put the fridge under the desk: it fit with almost no residual space.
-Then he straightened and looked at Taiga. A small smiled finally appeared in the room.
+Then he straightened and looked at Taiga. A small smile finally appeared in the room.
 
 "Hi, Caleb's dad. You must be his roommate, right?"
 
@@ -67,7 +67,7 @@ Caleb looked around.
 
 "Okay."
 
-His dad smiled and left the room, closing his door behind him. 
+His dad smiled and left the room, closing the door behind him. 
 Silence immediately fell into room 317.
 
 Caleb went straight to open his bag. He pulled out a couple of perfectly coiled cables, then opened a drawer and spent a couple of seconds arranging them inside. He did the same with the rest of his chargers.
@@ -105,6 +105,6 @@ Taiga nodded. Then went back to unpack, until he found his Camp Buddy shirt. He 
 
 "Yeah."
 
-Taiga waited, but no follow up arrived. He raised an eyebrow while looking at his clothes, then lightly shrugged.
+Taiga waited, but no follow-up arrived. He raised an eyebrow while looking at his clothes, then lightly shrugged.
 
 It was better this way.
