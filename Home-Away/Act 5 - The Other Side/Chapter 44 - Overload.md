@@ -134,7 +134,14 @@ Taiga raised an eyebrow.
 Leo showed him the finger again from under the table.
 
 They continued planning the day: finishing organizing the trip before lunch, football with Antonio in the afternoon. 
-Leo proposed something with Enzo and his friends for the evening. 
+
+"Enzo said they wanted to go the same bar tonight, the one with the billiard." 
+
+"When?"
+
+"Sometime after dinner."
+
+Taiga considered.
 
 "Why don't we take it easy tonight?"
 
