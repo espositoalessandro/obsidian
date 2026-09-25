@@ -186,8 +186,8 @@ Leo smiled.
 "You're gonna meet your founding father tonight."
 
 ---
-They spent the rest of the morning finishing planning the trip. Eventually they settled for an accomodation twenty minutes by foot from the beach and close enough to a bus stop so that they could reach proper civilization.
-By the time they were finished, the home had already started populating back again. Isa and Ramon came back first with Antonio and started preparing lunch. Antonio immediately went looking for Taiga and Leo.
+They spent the rest of the morning finishing planning the trip. Eventually they settled for an accomodation twenty minutes on foot from the beach and close enough to a bus stop so that they could reach proper civilization.
+By the time they were finished, the house had started filling up again. Isa and Ramon came back first with Antonio and started preparing lunch. Antonio immediately went looking for Taiga and Leo.
 
 "*So today we're going to play?*"
 
@@ -196,7 +196,7 @@ Leo crouched and said,
 "*Yes, and as soon as you're finished your homework we're going to the court.*"
 
 Antonio clapped his hands and jumped away. 
-Then Taiga and Leo went downstairs to help Isa setting up the table.
+Then Taiga and Leo went downstairs to help Isa set the table.
 
 After lunch, they went back in Leo's bedroom. Leo helped Antonio with his homework at the desk, while Taiga was sitting on the bed fighting with another impossible sentence. 
 Why there were so many ways to say the exact same thing?
@@ -354,7 +354,7 @@ Taiga held him tighter and began moving as well.
 His dick, covered in soap, was squishing between his cheeks, moving up and down.
 
 Then Leo turned. His evil smile was back.
-He grabbed Taiga's dick and leaned with his head.
+He grabbed Taiga's dick and leaned closer to his face.
 
 "Maybe tonight you'll get the rest", he whispered in his ear.
 
