@@ -576,29 +576,7 @@ Leo froze a second.
 
 Then he ran upstairs.
 
-Taiga shook his head and went back to the beans. After a couple of seconds, Mercedes said:
-
-"*Did he do something to you?*"
-
-He looked at her.
-
-"*No*"
-
-"*He was being careful.*"
-
-Then she said something Taiga missed. She repeated more slowly:
-
-"*He does that when he feels guilty about something.*"
-
-Taiga stood still for a couple of seconds. Then he told her what happened yesterday.
-
-Mercedes nodded smiling, as if she already heard this story.
-
-"*He feels very bad when he disappoints someone.*"
-
-Taiga looked down at the beans.
-
-"*I see.*"
+Taiga shook his head and went back to the beans.
 
 ---
 Taiga watched the actors bow to the public. Then they thanked the orchestra and went back backstage. Credits appeared.
@@ -635,7 +613,13 @@ Leo considered.
 
 Taiga looked at him. Leo continued
 
-"Maybe she didn't care about one mistake Hamilton made, she decided that her marriage and her life with him was more valuable."
+"Maybe she decided that her marriage and her life with him was more valuable than her hatred."
+
+"You read that one up, didn't you?"
+
+"I can be wise on my own."
+
+Taiga smiled.
 
 "Would you forgive me, if I did something similar?"
 
@@ -679,7 +663,7 @@ Taiga couldn't help but smile. Leo continued.
 
 "Now that I think about it, it's been a while since we've done something just the two of us."
 
-"We're going on a trip in two days."
+"We're going on a trip tomorrow."
 
 "I know, but..."
 
@@ -707,7 +691,7 @@ Taiga looked down. After a couple of seconds he said
 
 "Okay. We leave at seven."
 
-"Aye sir. By the way, I know that they make some really good sanchoco."
+"Aye sir. By the way, I know that they make some really good sancocho."
 
 "What's that?"
 
