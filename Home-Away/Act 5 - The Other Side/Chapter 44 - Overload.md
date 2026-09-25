@@ -539,22 +539,22 @@ Taiga stayed silent for a second.
 
 ---
 
-Taiga was sitting on the patio with Mercedes, helping her with a basket full of beans to open. 
-It was early in the afternoon, the had finished lunch not long ago. Leo was doing the dishes in the kitchen. 
-The house was silent. Taiga could only hear the birds chirping and porcelain clanging distantly.
-Somehow, this brought him back to Camp, during the off-season. Not many people, mostly the sound of nature, him and his work to do. Maybe there was a reason Leo fitted in so well, afterall.
+Taiga was sitting on the patio with Mercedes, helping her with a basket of beans to shell. 
+It was early in the afternoon, they had finished lunch not long ago. Leo was doing the dishes in the kitchen. 
+The house was silent. Taiga could only hear birds chirping and the distant clink of dishes.
+Somehow, this brought him back to Camp, during the off-season. Not many people, mostly the sound of nature, him and his work to do. Maybe there was a reason Leo had fit in so well, after all.
 
 A couple of minutes later, Leo emerged from the kitchen. He brushed the sweat away from his forehead with his forearm and looked at Taiga. 
 
-"I'm done here, you two need a hand?"
+"I'm done here. You two need a hand?"
 
-Taiga look at the basket: there were still enough beans to benefit from another pair of hands.
+Taiga looked at the basket: there were still enough beans to benefit from another pair of hands.
 
 "It's okay, you can rest."
 
-Leo glanced over, then took a chair and sat with them. He started peeling beans as well.
+Leo glanced over, then took a chair and sat with them. He started shelling beans too.
 Taiga looked at him, but didn't comment.
-After a couple of minutes, Leo said hesitantly
+After a couple of minutes, Leo said hesitantly,
 
 "You still up for finishing the musical?"
 
@@ -568,7 +568,7 @@ Taiga considered.
 
 "How about tonight? We could do something else in the afternoon."
 
-"Okay, sounds good t-"
+"Okay, sounds good to—"
 
 Leo froze a second.
 
@@ -579,7 +579,7 @@ Then he ran upstairs.
 Taiga shook his head and went back to the beans.
 
 ---
-Taiga watched the actors bow to the public. Then they thanked the orchestra and went back backstage. Credits appeared.
+Taiga watched the actors bow to the audience. Then they thanked the orchestra and went backstage. Credits appeared.
 
 Leo closed the laptop.
 
@@ -605,23 +605,23 @@ Leo considered.
 
 "Come on, he cheated and only told her to save his ass."
 
-"But they had lost a son, imagine how devastating it should have been for them."
+"But they'd lost a son. Imagine how devastating that must have been for them."
 
 "Still. Hamilton was enough of a selfish asshole that Eliza should have stayed away from him."
 
 "Probably. But maybe that's not what she wanted."
 
-Taiga looked at him. Leo continued
+Taiga looked at him. Leo continued.
 
 "Maybe she decided that her marriage and her life with him was more valuable than her hatred."
 
-"You read that one up, didn't you?"
+"You looked that up, didn't you?"
 
 "I can be wise on my own."
 
 Taiga smiled.
 
-"Would you forgive me, if I did something similar?"
+"Would you forgive me if I did something similar?"
 
 Leo frowned. But he considered for a couple of seconds.
 
@@ -633,7 +633,7 @@ Taiga smiled.
 
 "I mean... it really depends on the situation. But yeah, I'd consider it. Probably."
 
-Leo looked back at him, smiling. Taiga caressed his cheek.
+Leo looked back at him, smiling. Taiga stroked his cheek.
 
 "You have zero survival instinct."
 
@@ -644,20 +644,19 @@ Leo looked back at him, smiling. Taiga caressed his cheek.
 "Then maybe it is true."
 
 Taiga's smile widened. He was so stupidly adorable.
-He leaned with his face and kissed him.
+He leaned in and kissed him.
 
 ---
 
-Taiga and Leo were going to buy some bread. It was Thursday morning.
-Wednesday was almost boring. Taiga spent most of the time studying Spanish and helping with some chores. Leo had spent more time outside, because he had some commission.
+Wednesday had been almost boring. Taiga spent most of the time studying Spanish and helping with some chores. Leo had spent more time out, running errands.
 
-They were walking towards the bakery. Leo had insisted on accompany him.
+On Thursday morning, they walked toward the bakery to buy some bread. Leo had insisted on coming with Taiga.
 
 "I know you know the way."
 
 "So you could have stayed home."
 
-"I just wanted to stay with you."
+"I just wanted to be with you."
 
 Taiga couldn't help but smile. Leo continued.
 
@@ -669,21 +668,21 @@ Taiga couldn't help but smile. Leo continued.
 
 Leo exhaled.
 
-"You know, the more time passes the more I think that the day you'll be going home approaches."
+"You know, the closer it gets to the day you go home, the more I think about it."
 
-Taiga looked at him. Leo continued
+Taiga looked at him. Leo continued.
 
 "I just want to make the most out of the time we have."
 
-Taiga looked down. After a couple of seconds he said
+Taiga looked down. After a couple of seconds, he said,
 
-"You know, I've been meaning to ask you if you wanted to go to a place I saw a few days ago."
+"You know, I've been meaning to ask if you want to try a place I saw a few days ago."
 
 "Which one?"
 
-"It was a restaurant, looked kinda interesting. It's on the main road, so we can also stroll a bit after dinner."
+"It's a restaurant. Looked kinda interesting. It's on the main road, so we can stroll a bit after dinner."
 
-"Oh okay, I get which one. Yeah, sure."
+"Oh, I know which one you mean. Yeah, sure."
 
 "Tonight?"
 
@@ -691,7 +690,7 @@ Taiga looked down. After a couple of seconds he said
 
 "Okay. We leave at seven."
 
-"Aye sir. By the way, I know that they make some really good sancocho."
+"Aye, sir. By the way, I know they make some really good sancocho."
 
 "What's that?"
 
