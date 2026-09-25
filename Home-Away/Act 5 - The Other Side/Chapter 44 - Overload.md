@@ -15,7 +15,7 @@ Leo slowly turned on his back, rubbing his eye.
 
 "Mh, morning."
 
-Taiga sighed with a smile.
+Taiga smiled and sighed.
 
 "I can take Antonio, you can keep sleeping."
 
@@ -67,11 +67,11 @@ Taiga smiled back and put the tray on the table. Then he pointed at it and said,
 
 "*Already eat breakfast? Can I get you something?*"
 
-Her smile widened,
+Her smile widened.
 
 "*Yes, I already ate. Thank you.*"
 
-Taiga nodded and began arranging plates, put jam on two slices of bread and peeled two boiled eggs.
+Taiga arranged the plates, spread jam on two slices of bread and peeled two boiled eggs.
 Then he sat with his cup of coffee.
 
 "*Are you waiting for Julio?*"
@@ -129,7 +129,7 @@ Taiga raised an eyebrow.
 
 "Manners."
 
-Leo showed him the finger again from under the table.
+Leo gave him the finger again under the table.
 
 They continued planning the day: finishing the trip plans before lunch, football with Antonio in the afternoon. 
 
