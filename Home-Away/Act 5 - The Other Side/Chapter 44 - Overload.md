@@ -661,7 +661,7 @@ They were walking towards the bakery. Leo had insisted on accompany him.
 
 Taiga couldn't help but smile. Leo continued.
 
-"Now that I think about it, it's been a while since we've done something just the two of us."
+"Now that I think about it, it's been a while since we've gone somewhere just the two of us."
 
 "We're going on a trip tomorrow."
 
