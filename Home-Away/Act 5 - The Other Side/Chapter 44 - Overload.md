@@ -229,7 +229,43 @@ He pointed with his pen,
 Leo laughed and turned back.
 It was around five when Antonio was finished and he immediately zoomed away to grab his shoes.
 
-[small section where they play football together. Leo tries to teach Antonio some tricks and Antonio watches them doing 1vs1.]
+When they reached the court, Antonio immediately grabbed the ball and passed it to Taiga before Leo had even closed the gate.
+
+“_Show me._”
+
+“_What?_”
+
+Antonio answered by pointing from Taiga to Leo, then at the space between them.
+
+“He wants to see us play,” Leo said.
+
+“Then why did he give me the ball?”
+
+“He knows who’s going to win.”
+
+Taiga pushed the ball through Leo’s legs. Leo turned too late, and Antonio shouted loud enough for someone across the street to look over.
+
+“That one doesn’t count,” Leo said.
+
+“You sound familiar.”
+
+Leo took the ball back and showed Antonio how to drag it behind his standing foot before changing direction. Antonio copied the first part, stepped on the ball and nearly fell over. He caught himself, glared at Leo and tried again.
+
+Taiga moved the ball back to him with his foot. On the third try, Antonio got past Leo, who had left him enough room.
+
+Antonio knew it. He pointed at Leo and said something Taiga understood without needing it translated.
+
+“*I agree*,” Taiga told him. “*He let you through*.”
+
+Leo straightened. “You two are impossible.”
+
+“Defend properly, then.”
+
+Leo did. Antonio lost the ball almost at once, protested, and demanded another turn. This time Taiga took Leo’s place. Antonio watched his feet, started one way and went the other. Taiga caught the ball, but only because Antonio pushed it farther ahead than he could reach.
+
+“*Again*,” Taiga said.
+
+Antonio went to get it.
 
 When it was time to get ready for dinner, they went back home. They were all sticky with sweat, so Carmen and Isa refused to let them at the table without showering first. 
 Taiga went upstairs, grabbed some clean clothes and started showering first. 
@@ -477,7 +513,7 @@ Taiga shrugged.
 
 Leo buried his face in his hands.
 
-"Fuck, I'm really, really sorry. It's just, I hand't seen her in years and-"
+"Fuck, I'm really, really sorry. It's just, I hand't seen her in months and-"
 
 "I said it's alright, don't worry. We can continue it tomorrow or another time."
 
@@ -497,4 +533,10 @@ Leo pulled back and looked at him. Then his mischievous grin appeared.
 
 "I have a couple of ideas."
 
-[sex scene?]
+Taiga smiled
+
+"Of course you have. But you'll show me tomorrow. Now, go to bed."
+
+"Yes, boss."
+
+---
