@@ -1,7 +1,6 @@
-The alarm on Leo's phone fired at 7:30. Taiga heard it almost immediately, but evidently Leo did not. 
-He was still dead asleep, leaning on his side while Taiga was wrapping him from his back.
-He waited, but the ringtone kept going for almost a minute. Eventually Taiga shut it and 
-gently kissed Leo's cheek.
+The alarm on Leo's phone went off at 7:30. Taiga heard it almost immediately, but evidently Leo did not. 
+He was still dead asleep on his side, with Taiga's arm around him from behind.
+He waited, but the ringtone kept going for almost a minute. Eventually Taiga silenced it and gently kissed Leo's cheek.
 
 "Hey."
 
@@ -16,7 +15,7 @@ Leo slowly turned on his back, rubbing his eye.
 
 "Mh, morning."
 
-Taiga sighed with a smile.
+Taiga smiled and sighed.
 
 "I can take Antonio, you can keep sleeping."
 
@@ -28,7 +27,7 @@ He somehow pushed himself up and sat on the edge of the bed. Then stopped for an
 
 "What year are we in?"
 
-Taiga briefly laughed and gently shoved him with a foot.
+Taiga laughed and nudged him with a foot.
 
 "Move, you lazy fuck."
 
@@ -36,8 +35,7 @@ Taiga briefly laughed and gently shoved him with a foot.
 
 "You did it to yourself."
 
-Slowly, Leo got dressed while Taiga stayed in bed, looking at him.
-Leo then turned,
+Leo dressed slowly while Taiga watched from bed. Then Leo turned.
 
 "You're not getting breakfast?"
 
@@ -47,7 +45,7 @@ Leo smiled, then leaned over to kiss him.
 
 "Alright, be right back."
 
-Taiga watched Leo going downstairs. He got up and went to the window. After a while, he could see Leo crossing the patio, holding Antonio's hand and already discussing about something.
+Taiga watched Leo go downstairs. He got up and went to the window. After a while, he could see Leo crossing the patio, holding Antonio's hand and already talking about something.
 
 He smiled and went downstairs.
 
@@ -55,34 +53,34 @@ He smiled and went downstairs.
 The house was already almost empty. Mercedes was the only one still there, sitting outside on her usual chair. 
 Taiga took two mugs, two plates, some bread, jam and a couple of eggs, put them all on a tray and brought it outside. 
 
-"*Good morning,* Doña Mercedes"
+"*Good morning,* Doña Mercedes."
 
-Mercedes turned and smiled,
+Mercedes turned and smiled.
 
-"*Good morning Taiga, did you sleep well?*."
+"*Good morning, Taiga. Did you sleep well?*"
 
-"*Yes, very. And you*?"
+"*Yes, very well. And you?*"
 
 "*Yes.*"
 
-Taiga smiled back and put the trail on the table. Then he pointed at it and said,
+Taiga smiled back and put the tray on the table. Then he pointed at it and said,
 
 "*Already eat breakfast? Can I get you something?*"
 
-Her smile widened,
+Her smile widened.
 
-"*Yes, already eat. Thanks*."
+"*Yes, I already ate. Thank you.*"
 
-Taiga nodded and began arranging plates, put jam on two slices of bread and peeled two boiled eggs.
+Taiga arranged the plates, spread jam on two slices of bread and peeled two boiled eggs.
 Then he sat with his cup of coffee.
 
-"*You wait for Julio*?"
+"*Are you waiting for Julio?*"
 
 Taiga nodded over his mug. Mercedes smiled again.
 
-They talked about trivial stuff, Taiga mentioned he and Leo were going somewhere for a couple of days and Mercedes mentioned being there in her youth.
+They talked about trivial things. Taiga mentioned where he and Leo were going for a couple of days, and Mercedes said she had been there in her youth.
 
-After a while, the gate opened and Leo came in. He approached them and stopped when he saw the tray. A big smile appeared on his face.
+After a while, the gate opened and Leo came in. He approached them and stopped when he saw the tray. He grinned.
 
 "I definitely don't deserve you."
 
@@ -95,7 +93,7 @@ He said that Antonio wanted to play football with them because he hadn't seen Ta
 
 "He thinks you're a scam."
 
-"No he doesn't."
+"No, he doesn't."
 
 "Okay, he doesn't, but he should."
 
@@ -103,7 +101,7 @@ He said that Antonio wanted to play football with them because he hadn't seen Ta
 
 "Kids don't believe what they don't see themselves."
 
-Leo then looked at Mercedes and translated that for her.
+Leo translated that for Mercedes.
 
 "*You could play together when he comes back.*"
 
@@ -121,21 +119,21 @@ Leo looked at Taiga.
 
 "That's debatable."
 
-Leo flipped him. Mercedes gave him a look.
+Leo flipped him off. Mercedes gave him a look.
 
 "Julio."
 
-"*Sorry* abuela."
+"*Sorry,* Abuela."
 
 Taiga raised an eyebrow.
 
 "Manners."
 
-Leo showed him the finger again from under the table.
+Leo gave him the finger again under the table.
 
-They continued planning the day: finishing organizing the trip before lunch, football with Antonio in the afternoon. 
+They continued planning the day: finishing the trip plans before lunch, football with Antonio in the afternoon. 
 
-"Enzo said they wanted to go the same bar tonight, the one with the billiard." 
+"Enzo said they wanted to go back to the pool bar tonight." 
 
 "When?"
 
@@ -147,15 +145,15 @@ Taiga considered.
 
 Leo raised an eyebrow.
 
-"You still want me to rest, don't you."
+"You still want me to rest, don't you?"
 
 "Yes, but that's not the point."
 
-"You start sounding like my mum."
+"You're starting to sound like my mum."
 
-"What about we watch something?"
+"How about we watch something?"
 
-"I don't need to-"
+"I don't need to—"
 
 "Musical."
 
@@ -167,7 +165,7 @@ Leo stopped immediately. Then narrowed his eyes.
 
 He narrowed them even further and leaned towards him.
 
-"Seriously seriously?"
+"Seriously, seriously?"
 
 "Say it once again and I'm changing my mind."
 
@@ -177,7 +175,7 @@ Leo finally brightened up.
 
 "What?"
 
-"Movie musical is a movie with songs in it. Proper musical is actors on stage."
+"A movie musical is a movie with songs in it. A proper musical has actors on stage."
 
 Taiga considered.
 
