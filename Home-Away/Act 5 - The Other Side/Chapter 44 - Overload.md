@@ -291,18 +291,47 @@ Taiga rolled his eyes.
 "The planet is dying while you're being a creep."
 
 Leo laughed and came in.
-The shower definitely didn't fit both of them. 
-Once they were wet, Taiga shut the water so they could wash with soap.
-It was basically impossible not to touch each other.
-Leo then said,
+The shower definitely too cramped. Taiga had to shut the water before soaping.
+They both start scrubbing their bodies and it quickly became impossible not to touch each other.
+
+"Told you there wasn't space."
+
+"It's working."
+
+"We're almost wrestling."
+
+"So what? Suddenly you're shy?"
+
+Taiga was trying really hard to avoid contact and not to look down.
+
+"No."
+
+"Then why are you so tensed up? Relax."
+
+Leo put a hand on Taiga's chest. Then another on his waist. He leaned closer.
+Taiga felt the familiar heat on his face coming back.
+
+"If you're uncomfortable you can tell me."
+
+Taiga looked at him into the eyes.
+
+"I know."
+
+Leo waited a second, then smiled. 
+
+"I see."
+
+He pulled Taiga closer, until their bodies touched. Taiga felt Leo's dick pressing against his own.
+Then Leo slowly kissed him. Taiga couldn't help but kissing back. 
+After a few second, Leo pulled back and said
 
 "Turn, I'll scrub your back."
 
-"There you go."
+Taiga smiled, then turned. 
 
-Taiga turned. 
 He could feel Leo's hands moving from his shoulders all the way down to his lower back.
-Then up again, following the line of his back muscles. Leo's hands lingered a while near his neck, before going down again. 
+Then up again, following the line of his back muscles. 
+Leo's hands lingered for a while near his neck.
 Then they went on his sides. 
 Ribs. 
 Waist. 
@@ -322,7 +351,7 @@ Taiga exhaled.
 Leo pressed his chest against his back and Taiga could also feel something poking him.
 He still said nothing.
 Leo's hands kept slowly massaging both his dick and his balls.
-Taiga could feel Leo's breath on his neck, as he leaned closer and kissed him under his ear.
+Taiga could feel Leo's breath on his neck. Leo leaned closer and kissed him under his ear.
 Then he whispered.
 
 "That looks pretty corruptible to me."
@@ -332,7 +361,7 @@ Leo moved to Taiga's other side and whispered in his ear.
 
 "How about you wash my back now?"
 
-Taiga slowly turned his head. Their faces a few centimeters apart.
+Taiga slowly turned his head. Their faces just a few centimeters apart.
 
 "You are the worst," he whispered before kissing him on the lips.
 Leo smiled and turned his back.
@@ -346,19 +375,14 @@ Taiga was so focused on it that he realized too late that Leo was slowly arching
 
 Taiga looked down.
 
-That ass, that stupidly round ass that haunted his mind for the previous months, was now gently pressing on his cock. 
-
-His hands automatically went slowly down, until they rested on Leo's waist. 
+Leo's ass was gently pushing against his dick. Taiga tried to fall back, but he met the cold tiles.
+He lowered his arms and put his hands on the wall. 
 Leo leaned back further, moving his hips back and forth, pressing him more and more.
-Taiga held him tighter and began moving as well.
-His dick, covered in soap, slid between his cheeks, moving up and down.
+Taiga's dick, covered in soap, slid between his cheeks, moving up and down.
+He let out a soft groan.
 
 Then Leo turned. His evil smile was back.
-He grabbed Taiga's dick and leaned toward his ear.
-
-"Maybe tonight you'll get the rest," he whispered.
-
-He let it go. Then he pointed theatrically at the shower.
+He pointed theatrically at the shower.
 
 "Okay, we're all washed up. Turn the water on."
 
@@ -368,7 +392,7 @@ Taiga looked at him in disbelief.
 
 Leo pressed a finger to Taiga's lips.
 
-"Ah, ah! Save it for later." 
+"They're waiting for us." 
 
 Then he reached for the water handle behind Taiga and turned the water on.
 Taiga rinsed in silence.
@@ -380,38 +404,18 @@ Taiga dropped on the bed beside him.
 
 "Okay, there it is!"
 
-"What's there? I still don't know what we're watching."
+"There it is what? I still don't know what we're watching."
 
 "Easy. It's a stage play! Recorded in a theater."
 
-Taiga frowned. Leo sighed.
-
-"Have you ever been to a play?"
-
-Taiga considered.
-
-"Maybe when I was younger. My little cousin was in a play."
-
-Leo bit his lip.
-
-"It's a start. But this is different."
-
-"Different how?"
-
-"Well, first there are songs."
-
-"This was pretty much obvious."
-
-"Second... well, let's just watch it. It's easier than explaining it."
-
-Taiga was still uncertain what he had signed for. But Leo was cute as fuck when he got excited. 
+Taiga was still uncertain what he had signed for. But Leo was cute as fuck when he got excited. That was enough of a reason.
 He smiled and settled himself against the wall.
 
 "Let's go then."
 
 Leo leaned beside him and pressed play.
 
-*How does a bastard, orphan, son of whore and a scotsman...*
+*How does a bastard, orphan, son of whore and a Scotsman...*
 
 Taiga frowned. 
 
@@ -526,17 +530,5 @@ Leo exhaled and collapsed on Taiga's chest.
 Leo hugged him tight.
 
 "I'll make it up to you, promise."
-
-"And how do you plan on doing it?"
-
-Leo pulled back and looked at him. Then his mischievous grin appeared.
-
-"I have a couple of ideas."
-
-Taiga smiled.
-
-"Of course you have. But you'll show me tomorrow. Now, go to bed."
-
-"Yes, boss."
 
 ---
