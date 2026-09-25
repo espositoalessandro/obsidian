@@ -186,7 +186,7 @@ Leo smiled.
 "You're gonna meet your founding father tonight."
 
 ---
-They spent the rest of the morning finishing planning and booking the trip. Eventually they settled on a place twenty minutes' walk from the beach and close enough to a bus stop to reach proper civilization.
+They spent the rest of the morning settling the details and booking the trip. Eventually they settled on a place twenty minutes' walk from the beach and close enough to a bus stop to reach proper civilization.
 By the time they were finished, the house had started filling up again. Isa and Ramón came back first with Antonio and started preparing lunch. Antonio immediately went looking for Taiga and Leo.
 
 "*So today we're going to play?*"
