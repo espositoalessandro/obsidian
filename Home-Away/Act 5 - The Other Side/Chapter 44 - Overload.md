@@ -291,8 +291,8 @@ Taiga rolled his eyes.
 "The planet is dying while you're being a creep."
 
 Leo laughed and came in.
-The shower definitely too cramped. Taiga had to shut the water before soaping.
-They both start scrubbing their bodies and it quickly became impossible not to touch each other.
+The shower was definitely too cramped. Taiga had to turn off the water before soaping up.
+They both started washing, and it quickly became impossible not to touch each other.
 
 "Told you there wasn't space."
 
@@ -306,14 +306,14 @@ Taiga was trying really hard to avoid contact and not to look down.
 
 "No."
 
-"Then why are you so tensed up? Relax."
+"Then why are you so tense? Relax."
 
 Leo put a hand on Taiga's chest. Then another on his waist. He leaned closer.
 Taiga felt the familiar heat on his face coming back.
 
 "If you're uncomfortable you can tell me."
 
-Taiga looked at him into the eyes.
+Taiga looked him in the eye.
 
 "I know."
 
@@ -322,8 +322,8 @@ Leo waited a second, then smiled.
 "I see."
 
 He pulled Taiga closer, until their bodies touched. Taiga felt Leo's dick pressing against his own.
-Then Leo slowly kissed him. Taiga couldn't help but kissing back. 
-After a few second, Leo pulled back and said
+Then Leo slowly kissed him. Taiga couldn't help kissing him back. 
+After a few seconds, Leo pulled back and said,
 
 "Turn, I'll scrub your back."
 
@@ -375,7 +375,7 @@ Taiga was so focused on it that he realized too late that Leo was slowly arching
 
 Taiga looked down.
 
-Leo's ass was gently pushing against his dick. Taiga tried to fall back, but he met the cold tiles.
+Leo's ass was gently pushing against his dick. Taiga tried to step back, but he met the cold tiles.
 He lowered his arms and put his hands on the wall. 
 Leo leaned back further, moving his hips back and forth, pressing him more and more.
 Taiga's dick, covered in soap, slid between his cheeks, moving up and down.
@@ -404,7 +404,7 @@ Taiga dropped on the bed beside him.
 
 "Okay, there it is!"
 
-"There it is what? I still don't know what we're watching."
+"What's there? I still don't know what we're watching."
 
 "Easy. It's a stage play! Recorded in a theater."
 
