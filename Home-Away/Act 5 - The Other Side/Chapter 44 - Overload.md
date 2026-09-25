@@ -186,20 +186,20 @@ Leo smiled.
 "You're gonna meet your founding father tonight."
 
 ---
-They spent the rest of the morning finishing planning the trip. Eventually they settled for an accomodation twenty minutes on foot from the beach and close enough to a bus stop so that they could reach proper civilization.
-By the time they were finished, the house had started filling up again. Isa and Ramon came back first with Antonio and started preparing lunch. Antonio immediately went looking for Taiga and Leo.
+They spent the rest of the morning finishing planning the trip. Eventually they settled on a place twenty minutes' walk from the beach and close enough to a bus stop to reach proper civilization.
+By the time they were finished, the house had started filling up again. Isa and Ramón came back first with Antonio and started preparing lunch. Antonio immediately went looking for Taiga and Leo.
 
 "*So today we're going to play?*"
 
 Leo crouched and said,
 
-"*Yes, and as soon as you're finished your homework we're going to the court.*"
+"*Yes, and as soon as you've finished your homework we're going to the court.*"
 
 Antonio clapped his hands and jumped away. 
 Then Taiga and Leo went downstairs to help Isa set the table.
 
-After lunch, they went back in Leo's bedroom. Leo helped Antonio with his homework at the desk, while Taiga was sitting on the bed fighting with another impossible sentence. 
-Why there were so many ways to say the exact same thing?
+After lunch, they went back to Leo's bedroom. Leo helped Antonio with his homework at the desk, while Taiga was sitting on the bed fighting with another impossible sentence. 
+Why were there so many ways to say the exact same thing?
 
 "It depends on the context," said Leo when Taiga asked him.
 
@@ -213,12 +213,12 @@ Why there were so many ways to say the exact same thing?
 
 "You bribed him with football."
 
-"Then tell me how can I bribe you as well."
+"Then tell me how I can bribe you too."
 
 "I'm not corruptible."
 
 Leo raised an eyebrow. Taiga felt a gentle heat climbing on his neck. 
-He pointed with his pen,
+He pointed with his pen.
 
 "You are a bad influence for children."
 
@@ -231,9 +231,9 @@ It was around five when Antonio was finished and he immediately zoomed away to g
 
 When they reached the court, Antonio immediately grabbed the ball and passed it to Taiga before Leo had even closed the gate.
 
-“_Show me._”
+“*Show me.*”
 
-“_What?_”
+“*What?*”
 
 Antonio answered by pointing from Taiga to Leo, then at the space between them.
 
@@ -255,7 +255,7 @@ Taiga moved the ball back to him with his foot. On the third try, Antonio got pa
 
 Antonio knew it. He pointed at Leo and said something Taiga understood without needing it translated.
 
-“*I agree*,” Taiga told him. “*He let you through*.”
+“*I agree,*” Taiga told him. “*He let you through.*”
 
 Leo straightened. “You two are impossible.”
 
@@ -275,14 +275,14 @@ Someone knocked at the bathroom door. Taiga heard Leo's voice.
 
 "There's barely space for one."
 
-"We save water and time. Think about the planet!"
+"We'd save water and time. Think about the planet!"
 
 "That was almost believable."
 
 "I know, right? Coming in."
 
 The door opened and a blond head popped inside.
-Leo looked at him from top to bottom, then raised an eyebrow.
+Leo looked him up and down, then raised an eyebrow.
 
 "Now, that's a familiar view."
 
@@ -301,7 +301,7 @@ Leo then said,
 "There you go."
 
 Taiga turned. 
-He could feel his hands moving from his shoulders all the way down to his lower back.
+He could feel Leo's hands moving from his shoulders all the way down to his lower back.
 Then up again, following the line of his back muscles. Leo's hands lingered a while near his neck, before going down again. 
 Then they went on his sides. 
 Ribs. 
@@ -327,60 +327,60 @@ Then he whispered.
 
 "That looks pretty corruptible to me."
 
-Taiga didn't answer, his breath was getting heavier.
-Leo's head slowly went on the other side of his, and whispered in his other ear.
+Taiga didn't answer. His breathing grew heavier.
+Leo moved to Taiga's other side and whispered in his ear.
 
-"How about you washing my back now?"
+"How about you wash my back now?"
 
 Taiga slowly turned his head. Their faces a few centimeters apart.
 
-"You are the worst," he whispered before kissing him on his lips.
+"You are the worst," he whispered before kissing him on the lips.
 Leo smiled and turned his back.
 
 They were both still covered in soap.
 
 Taiga began scrubbing his back, trying hard not to poke him with his boner.
 He tried to focus on Leo's back. 
-He could feel every muscle, every shape, every bone as he gently moves his hands all over.
-Taiga was so concentrated, that he realized too late that Leo was slowly arching his back until his ass finally found his dick.
+He could feel every muscle, every shape, every bone as he gently moved his hands over it.
+Taiga was so focused on it that he realized too late that Leo was slowly arching his back until his ass finally found his dick.
 
 Taiga looked down.
 
 That ass, that stupidly round ass that haunted his mind for the previous months, was now gently pressing on his cock. 
 
-His hands automatically went slowly down, until they rest on Leo's waist. 
-Leo leaned back further, moving his hip back and forward, pressing him more and more.
+His hands automatically went slowly down, until they rested on Leo's waist. 
+Leo leaned back further, moving his hips back and forth, pressing him more and more.
 Taiga held him tighter and began moving as well.
-His dick, covered in soap, was squishing between his cheeks, moving up and down.
+His dick, covered in soap, slid between his cheeks, moving up and down.
 
 Then Leo turned. His evil smile was back.
-He grabbed Taiga's dick and leaned closer to his face.
+He grabbed Taiga's dick and leaned toward his ear.
 
-"Maybe tonight you'll get the rest", he whispered in his ear.
+"Maybe tonight you'll get the rest," he whispered.
 
-He let it go. Then pointed theatrically at the shower
+He let it go. Then he pointed theatrically at the shower.
 
-"Okay, we're all washed up, open the water."
+"Okay, we're all washed up. Turn the water on."
 
 Taiga looked at him in disbelief. 
 
-"You little sh-"
+"You little sh—"
 
-Leo put a finger on his mouth.
+Leo pressed a finger to Taiga's lips.
 
 "Ah, ah! Save it for later." 
 
-Then he reached for the water handle behind Taiga and opened the water.
+Then he reached for the water handle behind Taiga and turned the water on.
 Taiga rinsed in silence.
 
 ---
 As soon as they were finished eating, Leo grabbed Taiga's hand and pulled him upstairs.
-He took his laptop, sat on the edge of the bed and began scrolling his movie archive.
+He took his laptop, sat on the edge of the bed and began scrolling through his movie collection.
 Taiga dropped on the bed beside him.
 
 "Okay, there it is!"
 
-"There it is what? I still don't understand what we're watching."
+"What's there? I still don't know what we're watching."
 
 "Easy. It's a stage play! Recorded in a theater."
 
@@ -390,7 +390,7 @@ Taiga frowned. Leo sighed.
 
 Taiga considered.
 
-"Maybe when I was young, my little cousin was doing theater."
+"Maybe when I was younger. My little cousin was in a play."
 
 Leo bit his lip.
 
@@ -402,9 +402,9 @@ Leo bit his lip.
 
 "This was pretty much obvious."
 
-"Second... well, let's just watch it. It's easier than explain it."
+"Second... well, let's just watch it. It's easier than explaining it."
 
-Taiga was still uncertain what he had signed for. But Leo was cute as fuck when he gets excited. 
+Taiga was still uncertain what he had signed for. But Leo was cute as fuck when he got excited. 
 He smiled and settled himself against the wall.
 
 "Let's go then."
@@ -421,13 +421,13 @@ Leo paused the recording and turned, his face was slightly anxious.
 
 "Yeah?"
 
-"Why the fuck didn't you say it."
+"Why the fuck didn't you say it?"
 
-"I... Uh- we can watch another one?"
+"I... uh—we can watch another one?"
 
 "I fucking love rap!"
 
-Leo's shoulders suddenly dropped. His face happier than before.
+Leo's shoulders dropped. His expression brightened.
 
 "Oh, okay, cool."
 
@@ -448,7 +448,7 @@ Taiga stretched.
 
 "Yeah, it's good. Those actors are insane. How the fuck do they remember every single word?"
 
-"I guess you just need watch it enough times."
+"I guess you just have to rehearse it enough times."
 
 Taiga looked at him.
 
@@ -460,13 +460,13 @@ Taiga looked at him.
 
 "Well I-"
 
-"Julio! *Come here, Tìa Miranda is here, she wants to see you!*"
+"Julio! *Come here! Tía Miranda is here, and she wants to see you!*"
 
 Carmen was shouting from the patio.
 
 Leo answered without hesitating.
 
-"*Coming*."
+"*Coming.*"
 
 Taiga looked at him. Leo kissed him briefly on the cheek.
 
@@ -487,17 +487,17 @@ Taiga looked up from his phone.
 
 "I've never seen that aunt."
 
-"Yeah, she doesn't live here anymore. She arrived yesterday, I haven't seen her in months."
+"Yeah, she doesn't live here anymore. She arrived yesterday. I haven't seen her in months."
 
 "Cool."
 
 Leo sat beside him on the bed.
 
-"Okay let's continue."
+"Okay, let's continue."
 
 Taiga looked at his phone.
 
-"Isn't it a bit late? We still got more than an hour left to watch"
+"Isn't it a bit late? We've still got more than an hour left to watch."
 
 Leo looked at the time.
 
@@ -505,7 +505,7 @@ Leo looked at the time.
 
 Then looked at Taiga. 
 
-"Oh my God I'm sorry, I hadn't realized I was gone that long."
+"Oh my God, I'm sorry. I hadn't realized I was gone that long."
 
 Taiga shrugged.
 
@@ -513,7 +513,7 @@ Taiga shrugged.
 
 Leo buried his face in his hands.
 
-"Fuck, I'm really, really sorry. It's just, I hand't seen her in months and-"
+"Fuck, I'm really, really sorry. It's just, I hadn't seen her in months and—"
 
 "I said it's alright, don't worry. We can continue it tomorrow or another time."
 
@@ -521,7 +521,7 @@ Leo exhaled and collapsed on Taiga's chest.
 
 "You sure you don't mind?"
 
-"It's not like I'm happy with it, but it happens, I understand."
+"It's not like I'm happy with it, but it happens. I understand."
 
 Leo hugged him tight.
 
@@ -533,7 +533,7 @@ Leo pulled back and looked at him. Then his mischievous grin appeared.
 
 "I have a couple of ideas."
 
-Taiga smiled
+Taiga smiled.
 
 "Of course you have. But you'll show me tomorrow. Now, go to bed."
 
