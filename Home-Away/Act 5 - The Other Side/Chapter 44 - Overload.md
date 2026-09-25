@@ -186,8 +186,11 @@ Leo smiled.
 "You're gonna meet your founding father tonight."
 
 ---
+
 They spent the rest of the morning settling the details and booking the trip. Eventually they settled on a place twenty minutes' walk from the beach and close enough to a bus stop to reach proper civilization.
-By the time they were finished, the house had started filling up again. Isa and Ramón came back first with Antonio and started preparing lunch. Antonio immediately went looking for Taiga and Leo.
+At lunchtime, Taiga and Leo helped Mercedes set the table. The three of them ate together while the rest of the family were still out.
+
+Isa brought Antonio home later that afternoon. He came looking for Taiga and Leo as soon as he crossed the patio.
 
 "*So today we're going to play?*"
 
@@ -195,10 +198,9 @@ Leo crouched and said,
 
 "*Yes, and as soon as you've finished your homework we're going to the court.*"
 
-Antonio clapped his hands and jumped away. 
-Then Taiga and Leo went downstairs to help Isa set the table.
+Antonio clapped his hands and ran to get his books.
 
-After lunch, they went back to Leo's bedroom. Leo helped Antonio with his homework at the desk, while Taiga was sitting on the bed fighting with another impossible sentence. 
+Leo helped Antonio with his homework at the desk, while Taiga sat on the bed fighting with another impossible sentence. 
 Why were there so many ways to say the exact same thing?
 
 "It depends on the context," said Leo when Taiga asked him.
@@ -227,7 +229,7 @@ He pointed with his pen.
 "Just... do the homework, will you?"
 
 Leo laughed and turned back.
-It was around five when Antonio was finished and he immediately zoomed away to grab his shoes.
+It was around four when Antonio finished and he immediately zoomed away to grab his shoes.
 
 When they reached the court, Antonio immediately grabbed the ball and passed it to Taiga before Leo had even closed the gate.
 
