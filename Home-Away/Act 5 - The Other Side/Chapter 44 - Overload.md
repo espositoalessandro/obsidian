@@ -28,7 +28,7 @@ He somehow pushed himself up and sat on the edge of the bed. Then stopped for an
 
 "What year are we in?"
 
-Taiga briefly laughed and shoved him off.
+Taiga briefly laughed and gently shoved him with a foot.
 
 "Move, you lazy fuck."
 
@@ -79,20 +79,6 @@ Then he sat with his cup of coffee.
 "*You wait for Julio*?"
 
 Taiga nodded over his mug. Mercedes smiled again.
-
-After a while, she said.
-
-"*Abuela*"
-
-Taiga turned,
-
-"*What*?"
-
-"*Call me* abuela, *not* doña. *You are family here.*"
-
-Taiga stared at her for a second. He felt something so warm inside that he smiled automatically.
-
-"*Thanks.*"
 
 They talked about trivial stuff, Taiga mentioned he and Leo were going somewhere for a couple of days and Mercedes mentioned being there in her youth.
 
@@ -145,10 +131,10 @@ Taiga raised an eyebrow.
 
 "Manners."
 
-Leo flipped him again from under the table.
+Leo showed him the finger again from under the table.
 
 They continued planning the day: finishing organizing the trip before lunch, football with Antonio in the afternoon. 
-Leo was about to propose something with Enzo and his friends for the evening. 
+Leo proposed something with Enzo and his friends for the evening. 
 
 "Why don't we take it easy tonight?"
 
