@@ -538,3 +538,181 @@ Taiga stayed silent for a second.
 "Yeah."
 
 ---
+
+Taiga was sitting on the patio with Mercedes, helping her with a basket full of beans to open. 
+It was early in the afternoon, the had finished lunch not long ago. Leo was doing the dishes in the kitchen. 
+The house was silent. Taiga could only hear the birds chirping and porcelain clanging distantly.
+Somehow, this brought him back to Camp, during the off-season. Not many people, mostly the sound of nature, him and his work to do. Maybe there was a reason Leo fitted in so well, afterall.
+
+A couple of minutes later, Leo emerged from the kitchen. He brushed the sweat away from his forehead with his forearm and looked at Taiga. 
+
+"I'm done here, you two need a hand?"
+
+Taiga look at the basket: there were still enough beans to benefit from another pair of hands.
+
+"It's okay, you can rest."
+
+Leo glanced over, then took a chair and sat with them. He started peeling beans as well.
+Taiga looked at him, but didn't comment.
+After a couple of minutes, Leo said hesitantly
+
+"You still up for finishing the musical?"
+
+Mercedes perked up, but said nothing.
+
+"Yeah."
+
+"Wanna go after we finish this?"
+
+Taiga considered.
+
+"How about tonight? We could do something else in the afternoon."
+
+"Okay, sounds good t-"
+
+Leo froze a second.
+
+"Oh shit. I forgot I had to call Rachel! I told her that I'd do it after lunch."
+
+Then he ran upstairs.
+
+Taiga shook his head and went back to the beans. After a couple of seconds, Mercedes said:
+
+"*Did he do something to you?*"
+
+He looked at her.
+
+"*No*"
+
+"*He was being careful.*"
+
+Then she said something Taiga missed. She repeated more slowly:
+
+"*He does that when he feels guilty about something.*"
+
+Taiga stood still for a couple of seconds. Then he told her what happened yesterday.
+
+Mercedes nodded smiling, as if she already heard this story.
+
+"*He feels very bad when he disappoints someone.*"
+
+Taiga looked down at the beans.
+
+"*I see.*"
+
+---
+Taiga watched the actors bow to the public. Then they thanked the orchestra and went back backstage. Credits appeared.
+
+Leo closed the laptop.
+
+They were in Leo's bedroom, sitting on his bed.
+
+"So?"
+
+"I'll be honest, I missed most of the political passages."
+
+Leo laughed.
+
+"That's normal the first time."
+
+"Everyone's an asshole somehow."
+
+Leo considered.
+
+"I might agree."
+
+"Eliza should have left him for good."
+
+"Why?"
+
+"Come on, he cheated and only told her to save his ass."
+
+"But they had lost a son, imagine how devastating it should have been for them."
+
+"Still. Hamilton was enough of a selfish asshole that Eliza should have stayed away from him."
+
+"Probably. But maybe that's not what she wanted."
+
+Taiga looked at him. Leo continued
+
+"Maybe she didn't care about one mistake Hamilton made, she decided that her marriage and her life with him was more valuable."
+
+"Would you forgive me, if I did something similar?"
+
+Leo frowned. But he considered for a couple of seconds.
+
+"I don't know?"
+
+Taiga smiled.
+
+"You would consider staying with me? After that?"
+
+"I mean... it really depends on the situation. But yeah, I'd consider it. Probably."
+
+Leo looked back at him, smiling. Taiga caressed his cheek.
+
+"You have zero survival instinct."
+
+"You already told me that."
+
+"And you are still here."
+
+"Then maybe it is true."
+
+Taiga's smile widened. He was so stupidly adorable.
+He leaned with his face and kissed him.
+
+---
+
+Taiga and Leo were going to buy some bread. It was Thursday morning.
+Wednesday was almost boring. Taiga spent most of the time studying Spanish and helping with some chores. Leo had spent more time outside, because he had some commission.
+
+They were walking towards the bakery. Leo had insisted on accompany him.
+
+"I know you know the way."
+
+"So you could have stayed home."
+
+"I just wanted to stay with you."
+
+Taiga couldn't help but smile. Leo continued.
+
+"Now that I think about it, it's been a while since we've done something just the two of us."
+
+"We're going on a trip in two days."
+
+"I know, but..."
+
+Leo exhaled.
+
+"You know, the more time passes the more I think that the day you'll be going home approaches."
+
+Taiga looked at him. Leo continued
+
+"I just want to make the most out of the time we have."
+
+Taiga looked down. After a couple of seconds he said
+
+"You know, I've been meaning to ask you if you wanted to go to a place I saw a few days ago."
+
+"Which one?"
+
+"It was a restaurant, looked kinda interesting. It's on the main road, so we can also stroll a bit after dinner."
+
+"Oh okay, I get which one. Yeah, sure."
+
+"Tonight?"
+
+"Sounds good to me."
+
+"Okay. We leave at seven."
+
+"Aye sir. By the way, I know that they make some really good sanchoco."
+
+"What's that?"
+
+"Uhh... It's basically a stew with... everything in it?"
+
+Taiga frowned.
+
+"You'll see."
