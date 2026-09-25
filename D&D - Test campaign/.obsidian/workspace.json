@@ -1,13 +1,25 @@
 {
   "main": {
-    "id": "190d1388615975b4",
+    "id": "716435b3c40ad65b",
     "type": "split",
     "children": [
       {
-        "id": "62db673b11108c4f",
+        "id": "97cc8996bede80a8",
         "type": "tabs",
         "children": [
           {
+<<<<<<< HEAD:D&D - Test campaign/.obsidian/workspace.json
+            "id": "60104aec5f593c0a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+=======
             "id": "34ae04c86a4b12ed",
             "type": "leaf",
             "state": {
@@ -51,27 +63,28 @@
           }
         ],
         "currentTab": 2
+>>>>>>> origin/main:Home-Away/.obsidian/workspace.json
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "6260fddda66a906c",
+    "id": "b8ee57c16cff9615",
     "type": "split",
     "children": [
       {
-        "id": "2df4d53bcb870cbc",
+        "id": "243cfe5ecb870de4",
         "type": "tabs",
         "children": [
           {
-            "id": "c7f5406e547e887c",
+            "id": "e932df51ec709095",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
                 "autoReveal": false,
-                "showSearch": true,
+                "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
@@ -79,12 +92,12 @@
             }
           },
           {
-            "id": "307df57e3c4d9864",
+            "id": "e1c17f34da507d01",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "line:(sixteen)",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -96,7 +109,7 @@
             }
           },
           {
-            "id": "3165f476a949e9a5",
+            "id": "23e02b17e7e96dcf",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -112,23 +125,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 228.59299087524414
+    "width": 300
   },
   "right": {
-    "id": "6d9715a9d542104a",
+    "id": "514e2d74e085b325",
     "type": "split",
     "children": [
       {
-        "id": "ffb1cd4a3300cf8d",
+        "id": "1259196a42395041",
         "type": "tabs",
         "children": [
           {
-            "id": "ab377fbb86bf9870",
+            "id": "2e5dd08e7014982a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bibles/Leo Family.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,12 +154,11 @@
             }
           },
           {
-            "id": "fa8dbb40e8dad36f",
+            "id": "eafe65acf53c4886",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bibles/Leo Family.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -156,7 +167,7 @@
             }
           },
           {
-            "id": "d1ada91bcba3b41f",
+            "id": "a1aaa4ee803b7552",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -171,7 +182,7 @@
             }
           },
           {
-            "id": "06c06114c278034c",
+            "id": "b72b854ac148b9df",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -185,12 +196,15 @@
             }
           },
           {
-            "id": "6c338ab303e9af53",
+            "id": "787ceb3eb0f58b35",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD:D&D - Test campaign/.obsidian/workspace.json
+=======
                 "file": "Exercise/Chapter 1 - Tryouts.md",
+>>>>>>> origin/main:Home-Away/.obsidian/workspace.json
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -198,19 +212,8 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
-          },
-          {
-            "id": "9dfa41937f9f6279",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -225,10 +228,13 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "bases:Create new base": false
     }
   },
+<<<<<<< HEAD:D&D - Test campaign/.obsidian/workspace.json
+  "active": "60104aec5f593c0a",
+  "lastOpenFiles": []
+=======
   "active": "c0a9480640bd6951",
   "lastOpenFiles": [
     "Exercise/Chapter 1 - Novel intro.md",
@@ -268,4 +274,5 @@
     "Bibles",
     "Untitled.base"
   ]
+>>>>>>> origin/main:Home-Away/.obsidian/workspace.json
 }
