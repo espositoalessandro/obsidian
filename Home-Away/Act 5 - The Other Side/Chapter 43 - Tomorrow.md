@@ -1,4 +1,4 @@
-Taiga was halfway through an argument with a sentence.
+ was halfway through an argument with a sentence.
 
 He had written it three different ways. All three looked wrong.
 
@@ -1670,13 +1670,13 @@ Taiga took two before he could stack them.
 
 “Then you know it won’t take long.”
 
-He said it easily, without irritation, and carried the glasses inside.
+"No, I mean, I could do it."
 
-Taiga followed.
+Leo smiled and kissed him on his cheek.
 
-There was nothing particularly unreasonable about taking Antonio to school. Isa had asked because the morning was awkward, Leo knew the way, and neither he nor Taiga had anywhere they needed to be.
+"Thank you. But don't worry, if I need some sleep I'll rest during the day."
 
-Taiga rinsed the glasses while Leo put them away.
+Taiga hesitated, but decided to let go. He rinsed the glasses while Leo put them away.
 
 The part that stayed with him was how quickly Leo had answered.
 
@@ -1687,12 +1687,7 @@ He had still been rubbing sleep out of one eye.
 Taiga dried his hands and followed him upstairs.
 
 Leo sat at the desk and opened the map. Taiga took the edge of the bed beside him, close enough to see the screen.
-
-He thought of Friday evening, when Leo had been sitting in front of the blank monitor. Last night’s film. The laundry he had meant to do on Monday and finally done on Tuesday, after Taiga had already gone out for bread.
-
-None of it had seemed worth thinking about separately.
-
-Leo turned the phone toward him.
+Then he turned the phone toward him.
 
 “That connection looks annoying, but the other place is farther.”
 
@@ -1706,11 +1701,7 @@ He liked hearing him like this. He liked the way Leo included him in the picture
 
 But when Leo paused to read something, his shoulders dropped again.
 
-Taiga had spent the week finding ways to need him less. He could get food, do his washing, talk to people and spend an afternoon without waiting for Leo to give it a shape.
-
-Yet Leo seemed to have less energy left than when Taiga had needed him to explain almost everything.
-
-He looked at the hand resting on his leg, then back at the screen.
+Taiga looked at the hand resting on his leg, then back at the screen.
 
 “Show me the walk,” he said.
 
