@@ -531,4 +531,8 @@ Leo hugged him tight.
 
 "I'll make it up to you, promise."
 
+Taiga stayed silent for a second.
+
+"Yeah."
+
 ---
