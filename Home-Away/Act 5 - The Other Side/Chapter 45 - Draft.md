@@ -469,9 +469,9 @@ Leo said they could ask.
 
 Leo kept looking toward the boats as they walked. Taiga nudged his shoulder, and Leo nudged back.
 
-They found a place to sit for a while, where the sand gave way to a short paved stretch above the water. Leo rested his elbows on his knees. When a family passed with two children arguing over a pair of sandals, he watched them go, still smiling faintly. Taiga took another picture of the sea. His screen showed a message from Carmen sent an hour earlier, asking whether they were having a good time.
+They found a place to sit for a while, where the sand gave way to a short paved stretch above the water. Leo rested his elbows on his knees. When a family passed with two children arguing over a pair of sandals, he watched them go, still smiling faintly. Taiga took another picture of the sea. Leo checked his phone: Carmen had written an hour earlier to ask whether they were having a good time.
 
-He showed Leo. Leo wrote back, then tilted his phone toward Taiga so he could see the photograph he'd attached. It was the one from yesterday, Leo caught midrun and Taiga turning toward him.
+He showed Taiga the message, wrote back, then tilted his phone toward him so Taiga could see the photograph he'd attached. It was the one from yesterday, Leo caught midrun and Taiga turning toward him.
 
 "You're sending her that?"
 
