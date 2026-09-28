@@ -361,9 +361,9 @@ Taiga snapped his fingers. Leo looked at him.
 
 "I'm going to brush my teeth, I'll leave you alone with your inner monsters."
 
-Leo flipped him.
+Leo flipped him off.
 
-By the time Taiga was done with the bathroom, Leo was laying on the bad, looking at the ceiling with his hands behind his head.
+By the time Taiga was done with the bathroom, Leo was lying on the bed, looking at the ceiling with his hands behind his head.
 
 "I'm done if you need the bathroom."
 
@@ -399,9 +399,9 @@ Leo turned towards him immediately.
 
 Taiga felt his shoulders dropping. Leo noticed and smiled.
 
-"Sorry, wrong start. It's just... this is a sensible topic for me."
+"Sorry, wrong start. It's just... this is a sensitive topic for me."
 
-"I'm sorry If I've been careless with what I said."
+"I'm sorry if I've been careless with what I said."
 
 "No, as I said, you were right. I fucked up, and you were right to be mad."
 
@@ -439,7 +439,7 @@ Then Taiga wrapped him with his arms, still saying nothing.
 
 After a while, Leo said
 
-"I've been living with this for as long as I remember. The fear of letting down, the fear of not being able to help or worse, the fear of hurting. Being the one who always smiles, being the funny one, the one you talk to, the one always available when you need him."
+"I've been living with this for as long as I remember. The fear of letting someone down, the fear of not being able to help or worse, the fear of hurting. Being the one who always smiles, being the funny one, the one you talk to, the one always available when you need him."
 
 Leo took a deep breath.
 
@@ -502,7 +502,7 @@ Leo stopped a second. Taiga smiled
 
 "...How?"
 
-"You never asked me to be different. You never forced me into parties, Apollo evenings or going outs. You never complained about me not talking much."
+"You never asked me to be different. You never forced me into parties, Apollo evenings or nights out. You never complained about me not talking much."
 
 Leo slowly looked down. Taiga continued.
 
@@ -515,7 +515,7 @@ Then he took a deep breath. His heart started pounding hard.
 Leo looked at him. Taiga couldn't bear his gaze for more than two seconds.
 Then Leo said
 
-"Whenever I'm with you, I feel like... I don't know, as if someone lifts the pressure all of sudden. I guess I never really managed to articulate this before tonight."
+"Whenever I'm with you, I feel like... I don't know, as if someone lifts the pressure all of a sudden. I guess I never really managed to articulate this before tonight."
 
 Taiga smiled. Leo held his hands tighter.
 
