@@ -1,18 +1,18 @@
 *Time behaves funnily. People always say that it stretches when you don't want it to and it shrinks when you need more of it.*
 *Why?* 
-*Who decided that is a fucking sadist.*
+*Whoever decided that is a fucking sadist.*
 
 That was what Taiga thought while he was unpacking his clothes in his bedroom.
 
 Two weeks.
-Two weeks and he and Leo will be together again.
+Two weeks, and he and Leo would be together again.
 Two weeks before Camp Buddy.
 
 "Two weeks is stupid."
 
-"Yeah, you already said me this."
+"Yeah, you've already told me that."
 
-"It doesn't change that it is."
+"That doesn't make it any less stupid."
 
 Leo was lying on his bed, behind the small screen of Taiga's phone. 
 
@@ -20,7 +20,7 @@ Leo was lying on his bed, behind the small screen of Taiga's phone.
 
 "You still have to show me your room."
 
-"You'll see it when you'll come here."
+"You'll see it when you get here."
 
 "COME ON! Why can't I have a peek?"
 
@@ -56,7 +56,7 @@ Taiga laughed.
 
 "Why wouldn't they like you?"
 
-"I don't know? You tell me. Brief me on what should I tell them."
+"I don't know? You tell me. Tell me what I should say to them."
 
 Taiga rested his head on his fingers and sighed.
 
@@ -70,18 +70,18 @@ Taiga rested his head on his fingers and sighed.
 
 "Don't do it in front of them."
 
-"Fuuuuuuck, why had it be the cheese."
+"Fuuuuuuck, why did it have to be cheese?"
 
-"You asked it."
+"You asked."
 
-*But I guess the trick to survive when time stretches, is to fill it up anyways with things you like. Afterall, longing for something is already something worth looking for.* 
+*But I guess the trick to survive when time stretches, is to fill it up anyways with things you like. After all, longing for something is already something worth looking forward to.* 
 
 ---
 Leo froze. His face showed confusion. Then disdain. Then amusement. 
 
 "You didn't really do it."
 
-Taiga was laughing at his face. 
+Taiga laughed at the look on his face. 
 
 "Oh my god, you should see your face."
 
@@ -89,7 +89,7 @@ Taiga was laughing at his face.
 
 "Come on, I've always dreamed to do it."
 
-Leo finally surrendered to a smile. He rushed towards Taiga and jumped on him, hugging him tight. His trolley laying flat on the ground.
+Leo finally surrendered to a smile. He rushed towards Taiga and jumped on him, hugging him tight. His trolley lying flat on the ground.
 After Leo let go of him, Taiga took it. They left the "Arrivals" gate behind.
 
 "Give it to me, I want to keep it."
@@ -97,16 +97,16 @@ After Leo let go of him, Taiga took it. They left the "Arrivals" gate behind.
 Still laughing, Taiga handed him the sheet he was holding.
 Leo looked at him.
 
-"You could've at very least written 'Mr.' rather than 'señor'."
+"You could've at least written 'Mr.' rather than 'señor'."
 
-"It would have lost half of its meaning."
+"It would've lost half its meaning."
 
 "Fair."
 
-They reached the car. Leo took exactly one hour to conquer his mother's heart. He expected even less, but good enough.
+They reached the car. Leo took exactly one hour to conquer his mother's heart. Taiga had expected it to take less time, but an hour wasn't bad.
 
 ---
-Finally Leo, opened the door. He stood in the doorway, eyes closed.
+Finally, Leo opened the door. He stood in the doorway, eyes closed.
 
 "Are you coming in or not?"
 
@@ -116,12 +116,12 @@ Taiga shook his head and pushed Leo's trolley in his bedroom.
 
 "Okay, I'm ready."
 
-He took a dramatic deep breath and opened his eyes.
+He took a long, dramatic breath and opened his eyes.
 
 "Oh. My. God."
 
 He stepped in. 
-Taiga mocked him: "A small step for a man..."
+Taiga said: "A small step for a man..."
 
 "Shush. I'm in my boyfriend's sacred temple. Have some respect."
 
@@ -137,7 +137,7 @@ Leo looked around. Then smiled.
 
 Taiga frowned.
 
-"And how exactly had you pictured it?"
+"And how exactly did you picture it?"
 
 "I won't tell you."
 
@@ -157,7 +157,7 @@ Taiga looked at him.
 
 ---
 
-Taiga and Leo went off on the familiar bus stop. 
+Taiga and Leo got off at the familiar bus stop. 
 
 "Guess this time no one is gonna fetch us, right?"
 
@@ -222,7 +222,7 @@ Hunter and Natsumi were approaching. After they both hugged them, Natsumi said:
 
 "It's gonna be pretty crowded this year," said Taiga.
 
-Hiro pointed Yoichi.
+Hiro pointed at Yoichi.
 
 "We can always let Wolfboy sleep with Yuki."
 
@@ -234,9 +234,9 @@ Hunter added:
 
 "Yeah but Wolfboy snores too loudly."
 
-"You snore as well Torch-head."
+"You snore too, Torch-head."
 
-Keitaro laughed,
+Keitaro laughed.
 
 "Yeah, sometimes you do."
 
@@ -273,7 +273,7 @@ Hunter added:
 
 Yoichi glanced at the animal patch.
 
-"Tch. At least someone as good taste in animals."
+"Tch. At least someone has good taste in animals."
 
 Natsumi said:
 
@@ -285,7 +285,7 @@ Hiro zoomed around him.
 
 Leo was simply overwhelmed by all this.
 
-"Thanks guys."
+"Thanks, guys."
 
 He glanced at Taiga, who simply smiled back.
 
@@ -293,6 +293,6 @@ He took his hand.
 
 "Let's go."
 
-They crossed the cabin's door, and went to the gathering.
+They stepped out of the cabin and headed for the gathering.
 
 A new adventure was about to start.
