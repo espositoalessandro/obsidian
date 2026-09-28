@@ -398,7 +398,7 @@ Leo turned towards him immediately.
 
 "I'm not mad at you. I don't think you did anything wrong."
 
-Taiga's shoulders dropped. Leo noticed and smiled.
+Taiga felt his shoulders dropping. Leo noticed and smiled.
 
 "Sorry, wrong start. It's just... this is a sensitive topic for me."
 
@@ -546,7 +546,7 @@ The kiss.
 
 Leo wasn't watching for an answer. He'd lowered his gaze.
 Taiga grabbed his face with both hands and kissed him like he had never done before.
-He kept Leo close.
+He kept him close. Feeling his desire. Feeling his affection. Letting every emotion flow into that one kiss.
 
 He pulled back.
 
