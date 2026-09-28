@@ -806,8 +806,7 @@ Leo waited a couple of seconds before answering. He took a breath as well and sa
 
 "No, you're right. It was me who told you that I want to spend more time together."
 
-He took his phone and went outside.
-After a couple of minutes, Leo came back.
+He took his phone and went outside for a couple of minutes.
 
 "Alright, Enzo said that they could manage without me."
 
