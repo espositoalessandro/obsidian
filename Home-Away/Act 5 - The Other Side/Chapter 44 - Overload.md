@@ -699,28 +699,28 @@ Taiga frowned.
 "You'll see."
 
 ---
-After lunch, Leo and Taiga went packing things for the trip. 
+After lunch, Leo and Taiga started packing for the trip. 
 
-"Do you think it's gonna get somehow cold in the evening?"
+"Do you think it'll get even a little cold in the evening?"
 
-"Unless we spend the evening on a mountain, I wouldn't get my hopes high."
+"Unless we spend the evening on a mountain, I wouldn't get my hopes up."
 
 Taiga sighed.
 
-"How do you manage to live like this."
+"How do you manage to live like this?"
 
 Leo laughed.
 
-"You get used to, I guess?"
+"You get used to it, I guess?"
 
-Taiga looked at his jacket laying on the bed in resignation.
-Leo's phone buzzed: Enzo. He put him on speaker and dropped the phone on the bed, keeping folding clothes.
+Taiga looked at his jacket lying on the bed in resignation.
+Leo's phone buzzed: Enzo. He put the call on speaker and dropped the phone on the bed, continuing to fold clothes.
 
 "Hey."
 
 Enzo started speaking too fast for Taiga to understand. He only caught some words like "*coach, session, kids, tonight, help*".
 
-Leo froze for a couple of seconds. Then Enzo said more slowly
+Leo froze for a couple of seconds. Then Enzo said more slowly,
 
 "*...you forgot.*"
 
@@ -736,7 +736,7 @@ Taiga had stopped as well several seconds ago. He looked at Leo.
 
 "What happened?"
 
-Leo's face was still in his hands. When he reemerged he said
+Leo's face was still in his hands. When he reemerged, he said,
 
 "I totally forgot that I told Enzo I'd help our coach for a kids session tonight."
 
@@ -750,7 +750,7 @@ Taiga didn't answer immediately.
 
 "We'd barely have time to eat."
 
-"But we can still do it anyways, don't we?"
+"But we can still go, can't we?"
 
 Taiga looked back at the clothes on the bed.
 
@@ -835,7 +835,7 @@ Leo nodded. Taiga continued
 
 "Okay, sounds good."
 
-"You sure it won't bother your family? I'll been here basically a month."
+"You sure it won't bother your family? I've been here for basically a month."
 
 Leo snorted.
 
@@ -864,7 +864,7 @@ Leo laughed.
 "Fair enough."
 
 ---
-The restaurant turned out to be pretty good, afterall. When the waiter put a bowl of sancocho in front of Taiga, he looked at Leo.
+The restaurant turned out to be pretty good, after all. When the waiter put a bowl of sancocho in front of Taiga, he looked at Leo.
 
 "What the...?"
 
@@ -880,7 +880,7 @@ After dinner, they strolled on the main road, where apparently Leo used to go ou
 
 "A crowd of teens. Sounds amazing."
 
-"Dude, you've been teen as well."
+"Dude, you were a teen too."
 
 "Unfortunately."
 
@@ -888,11 +888,11 @@ Leo chuckled.
 
 "What did you use to do during high school?"
 
-"I used to go in places like that as well."
+"I used to go to places like that as well."
 
 Leo's eyes widened. Taiga smiled and continued
 
-"Yeah, I know. I used to be different. I've never liked crowds, but peer pressure was stronger. Eventually I though that disliking crowds was wrong and that I simply had to 'let me go'."
+"Yeah, I know. I used to be different. I've never liked crowds, but peer pressure was stronger. Eventually I thought that disliking crowds was wrong and that I simply had to 'loosen up'."
 
 "I can already picture you being the center of the party."
 
@@ -907,13 +907,13 @@ Taiga shoved him, Leo laughed.
 ---
 They returned home around ten. Carmen immediately wanted to know if they had eaten enough. She looked at Taiga with suspicion but decided to let him go. 
 
-"When I was younger, I had to send her picture of what I was eating if I wasn't home."
+"When I was younger, I had to send her a picture of what I was eating if I wasn't home."
 
 "Talk about distrust."
 
 They went upstairs and got ready for bed. 
 
-When done with the bathroom, Leo came back to the room and closed the door. Taiga was already in bed, checking his phone.
+After he finished in the bathroom, Leo came back to the room and closed the door. Taiga was already in bed, checking his phone.
 
 "Everything still in order for tomorrow?" 
 
@@ -944,7 +944,7 @@ Taiga turned as well.
 
 Taiga didn't answer immediately.
 
-"Look, I understand. You didn't to bail on him."
+"Look, I understand. You didn't want to bail on him."
 
 "Yeah, but I shouldn't have forgotten in the first place."
 
@@ -952,7 +952,7 @@ Taiga sighed.
 
 "You do see that this keeps happening, right?"
 
-"Yeah I know. I keep forgetting to actually use a calendar."
+"Yeah, I know. I keep forgetting to actually use a calendar."
 
 He stopped a second, then continued.
 
@@ -964,7 +964,7 @@ He stopped a second, then continued.
 
 "It's... you keep overscheduling. It's not about forgetting things, it's that you say yes to anyone before even considering saying no."
 
-"You know that I like being helpful and I don't like missing things out. Look-"
+"You know that I like being helpful and I don't like missing out. Look-"
 
 Leo put the palm of his hand on Taiga's cheek.
 
