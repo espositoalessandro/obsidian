@@ -187,7 +187,7 @@ Leo smiled.
 
 ---
 
-They spent the rest of the morning settling the details and booking the trip. Eventually they settled on a place twenty minutes' walk from the beach and close enough to a bus stop to reach proper civilization.
+They spent the rest of the morning settling the details and booking three nights away. Eventually they settled on a place twenty minutes' walk from the beach and close enough to a bus stop to reach proper civilization.
 At lunchtime, Taiga and Leo helped Mercedes set the table. The three of them ate together while the rest of the family were still out.
 
 Isa brought Antonio home later that afternoon. He came looking for Taiga and Leo as soon as he crossed the patio.
