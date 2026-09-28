@@ -91,7 +91,7 @@ The woman nearest the rope asked if they wanted to join.
 
 Leo looked at Taiga.
 
-"Sure," Taiga said. "But you've seen us play football. Don't expect that."
+"Sure," Taiga said. "Put us on opposite sides."
 
 The woman grinned and called to the others. They split into two teams of three. Taiga ended up beside a man who introduced himself as David and the woman who'd invited them. Leo was across the rope, already trying to remember two names at once.
 
