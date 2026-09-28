@@ -2,7 +2,7 @@ The bus left at seven. By the time they had changed buses in Santo Domingo and t
 
 Leo was halfway through a story about coming here with Ramón when a strip of sea appeared between the hills. He broke off to point it out. The bus turned and the water vanished again.
 
-They found the guesthouse a few streets from the stop. Their room had one bed, a fan that rattled when Leo switched it on, and a window facing the backs of other buildings. The beach was twenty minutes away, as promised. The woman at the desk had marked the way there on a folded map.
+They found the guesthouse a few streets from the stop. Their room had one bed, an air conditioner, and a window facing the backs of other buildings. The beach was twenty minutes away, as promised. The woman at the desk had marked the way there on a folded map.
 
 Taiga put his bag down.
 
@@ -171,7 +171,7 @@ By the time they came out, neither of them could agree which side had won. Taiga
 
 They ate lunch from a counter along the road behind the beach. Leo recognized one of the players passing on a motorbike and called goodbye with his mouth full. Taiga made him swallow before attempting the story he'd started about how he'd nearly hit David in the face.
 
-They spent the hottest part of the afternoon in their room. Taiga stretched out under the fan, his calves aching pleasantly, while Leo sent photographs of the beach to Carmen. The pictures looked nothing like the morning they'd actually had. Leo put the phone away and rolled onto his side.
+They spent the hottest part of the afternoon in their room. Taiga stretched out in the cool air, his calves aching pleasantly, while Leo sent photographs of the beach to Carmen. The pictures looked nothing like the morning they'd actually had. Leo put the phone away and rolled onto his side.
 
 "I want to go back later," he said.
 
@@ -245,7 +245,7 @@ They stayed for another song. Leo talked to the pair until the musicians started
 
 They ended up walking the long way back. Leo kept trying to teach Taiga a line from the song, though neither of them could sing it over the noise from the road. By the time they reached the guesthouse, Taiga had the rhythm and none of the words. He used it to insult Leo's volleyball serve. Leo laughed and took the stairs two at a time.
 
-In the room, Leo opened the window, still singing. Taiga came up behind him and pulled him away by the waist.
+In the room, Leo turned on the AC, still singing. Taiga came up behind him and pulled him away by the waist.
 
 "Finish it properly," Taiga said.
 
@@ -255,7 +255,7 @@ In the room, Leo opened the window, still singing. Taiga came up behind him and 
 
 "Because you keep getting them wrong."
 
-Taiga turned Leo to face him. Whatever line Leo had been about to sing didn't make it out. They kissed until the sounds from the street blurred into the fan and Leo backed Taiga toward the bed. Taiga caught the edge of the mattress with his leg and took Leo down with him. Leo laughed against his neck. Taiga had sand in his hair again; he'd have to deal with it later.
+Taiga turned Leo to face him. Whatever line Leo had been about to sing didn't make it out. They kissed with the AC humming above them until Leo backed Taiga toward the bed. Taiga caught the edge of the mattress with his leg and took Leo down with him. Leo laughed against his neck. Taiga had sand in his hair again; he'd have to deal with it later.
 
 Much later, Leo sat up to reach for the water on the table. Taiga caught his wrist before he could get far.
 
@@ -348,6 +348,6 @@ In the picture, Taiga had his arms raised beneath a ball that was nowhere near t
 
 They ate on the way back. Taiga told Leo he wanted to take his mum somewhere with a beach once they worked out when he'd be home. Leo asked where his mum would want to go. Halfway through Taiga's answer, he looked up at him as if he'd missed a word. Taiga finished anyway.
 
-Back at the guesthouse, Taiga set the bag of sweets on the table, away from their clothes, and opened the window. He heard Leo put his phone down behind him. When he turned, Leo was sitting on the edge of the bed, looking at him.
+Back at the guesthouse, Taiga set the bag of sweets on the table, away from their clothes, and went to stand by the window. He heard Leo put his phone down behind him. When he turned, Leo was sitting on the edge of the bed, looking at him.
 
 Taiga sat beside him.
