@@ -294,5 +294,3 @@ He took his hand.
 "Let's go."
 
 They stepped out of the cabin and headed for the gathering.
-
-A new adventure was about to start.
