@@ -583,8 +583,6 @@ Taiga watched the actors bow to the audience. Then they thanked the orchestra an
 
 Leo closed the laptop.
 
-They were in Leo's bedroom, sitting on his bed.
-
 "So?"
 
 "I'll be honest, I missed most of the political passages."
@@ -643,7 +641,7 @@ Leo looked back at him, smiling. Taiga stroked his cheek.
 
 "Then maybe it is true."
 
-Taiga's smile widened. He was so stupidly adorable.
+Taiga's smile widened. Leo was so stupidly adorable.
 He leaned in and kissed him.
 
 ---
@@ -676,7 +674,7 @@ Taiga looked at him. Leo continued.
 
 Taiga looked down. After a couple of seconds, he said,
 
-"You know, I've been meaning to ask if you want to try a place I saw a few days ago."
+"There is a place I'd like to try. I saw it a few days ago."
 
 "Which one?"
 
