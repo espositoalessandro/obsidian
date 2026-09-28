@@ -901,10 +901,10 @@ The earlier 14–17-chapter estimate is a guide, not a quota. Four chapters have
 | --- | --- | --- |
 | **43** | **June 1–7** | Comfortable independence and uneven energy develop together. Taiga occasionally chooses a separate activity; Leo trusts him. Freed attention fills elsewhere. Small costs become visible amid enjoyable life. **End with Taiga noticing a recurring discrepancy**, not diagnosing Leo or arguing the whole issue. Seed the desired overnight trip for ordinary couple reasons. |
 | **44** | **Following days, provisionally June 8–11** | Further examples produce a concrete consequence. Taiga's practical concern develops into disagreement about its meaning. Leo defends individually reasonable relationships and commitments; Taiga sees their aggregate. Taiga may overgeneralize. **End with them arguing about the pattern**, without a giant rupture or a tidy resolution. |
-| **45** | **Trip opening, provisionally June 12 onward** | The already-desired trip begins. Its first day is principally travel and enjoyment. No immediate explanatory transformation. |
-| **46** | **Second day onward within a 2–3-day trip** | Sustained absence of external demands becomes noticeable. Bodily ease precedes understanding. Leo owns the emerging recognition. Do not make the trip a cure. |
+| **45** | **Friday June 12 through Sunday June 14** | Three-night couple trip. Friday is travel and settling in; Saturday's full day culminates in Leo noticing he has not needed his usual five-minute reset; on Sunday he thinks it through and acknowledges to Taiga that he has been carrying too much. Leave room for his own imperfect response. |
+| **46** | **Monday June 15 onward** | They travel back to the family home. Leo's insight is tested by familiar demands; finding new boundaries takes time. Do not make the trip a cure. |
 
-The trip must contain a second day with another night away, rather than a second day organized entirely around getting home. A Friday–Sunday shape can support that naturally. Exact dates, destination and scene breaks can be finalized with travel logistics.
+The trip runs from Friday morning through Monday morning, with three nights away. Saturday is an uninterrupted second day, and Sunday gives Leo time to consider what he has noticed before talking with Taiga. Las Terrenas is the working destination in the Chapter 45 draft.
 
 ## Return-home ladder — flexible chapter divisions
 
@@ -1090,7 +1090,7 @@ The conflict is:
 
 # 14. The Weekend Trip — Structural Hinge
 
-The short trip should last **2–3 days maximum**, with enough time for the second day to unfold without returning to the household that evening. A two-night shape is preferred.
+The short trip runs **Friday through Monday morning, three nights away**. Saturday and Sunday unfold without returning to the household between them.
 
 Destination is not yet locked.
 
@@ -1634,7 +1634,7 @@ The conflict is about **how Leo participates in relationships**, not about Domin
 # 30. Vacation Guardrails
 
 The short trip should be:
-- **2–3 days maximum**;
+- **Friday through Monday morning, three nights**;
 - affordable;
 - geographically plausible;
 - already desired for ordinary couple reasons, not prescribed as therapy;
