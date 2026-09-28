@@ -161,10 +161,6 @@ Taiga stood. "Enough to get the sand out of my shirt."
 
 They went down to the water with the other players still laughing behind them. Taiga waded in and rinsed his arms. A wave reached the back of his legs before he was ready and he stepped into Leo to keep his balance.
 
-"Sorry."
-
-"I survived."
-
 Taiga shook a handful of water at him. Leo backed out of range, which was unfair considering how far he'd run for a volleyball ten minutes ago. Taiga followed him until the water was above their knees. They stayed there talking about the game; Leo insisted Taiga's winning shot had been an accident. Taiga offered to demonstrate it again, provided Leo found them another rope.
 
 By the time they came out, neither of them could agree which side had won. Taiga thought that meant it had been his.
@@ -320,7 +316,7 @@ Leo got the fruit past Taiga on the third try and went sprinting down the beach 
 
 On the walk back, they passed the people from yesterday's volleyball game. The woman called Leo over. He told her about the goalposts, and within a minute she had an opinion on who should have won. Leo waved Taiga in to defend himself. Taiga did, badly, since Leo had already translated the story with his own score. They left with an invitation to play again if they came back. Leo promised to bring a proper ball.
 
-It was after lunch when Leo went quiet for the first time. He was looking at a group of people crossing the road, following their conversation with his eyes. Taiga nudged his leg beneath the table.
+They had lunch in a place nearby. Leo was looking at a group of people crossing the road, following their conversation with his eyes. Taiga nudged his leg beneath the table.
 
 "Are you listening?"
 
