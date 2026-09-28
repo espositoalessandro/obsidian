@@ -324,7 +324,7 @@ Leo turned toward him.
 
 “I know what staying means. I’m making sure you’re suggesting what I think you’re suggesting.”
 
-“Two nights, maybe. Depends what it costs.”
+“Three nights, maybe. Depends what it costs.”
 
 Leo’s smile arrived slowly enough that Taiga had time to regret how much he liked causing it.
 
@@ -358,7 +358,7 @@ Taiga wanted somewhere they could walk around. Leo wanted decent food nearby. Bo
 
 They did not choose a destination.
 
-They did choose two nights.
+They did choose three nights.
 
 “The weekend after this?” Leo asked.
 
@@ -1560,7 +1560,7 @@ After lunch, Taiga took the plates inside while Leo helped Manuel move the table
 
 Taiga went upstairs, read for a while and sent Caleb the explanation he had finally finished. Then he checked the prices on one of the places he and Leo had saved.
 
-There was still a room for two nights.
+There was still a room for three nights.
 
 He carried the phone downstairs to show him.
 
@@ -1693,7 +1693,7 @@ Then he turned the phone toward him.
 
 Taiga leaned closer.
 
-They compared the routes, then the rooms, then the cost of staying two nights instead of one. Leo became more animated when they found a photograph of a place they could walk to nearby. He put his hand on Taiga’s leg and started describing something he remembered from another visit.
+They compared the routes, then the rooms, then the cost of staying three nights instead of two. Leo became more animated when they found a photograph of a place they could walk to nearby. He put his hand on Taiga’s leg and started describing something he remembered from another visit.
 
 Taiga listened.
 
