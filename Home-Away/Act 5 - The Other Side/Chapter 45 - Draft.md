@@ -1,514 +1,353 @@
-The seven o'clock bus reached the stop just as Taiga finished the bread Carmen had pressed into his hand on their way out. Leo took the paper wrapper from him and put it in the bin beside the shelter.
+The bus left at seven. By the time they had changed buses in Santo Domingo and the road began winding down toward Las Terrenas, Taiga had eaten the bread Carmen packed for both of them.
 
-There were still crumbs on Taiga's shirt. He brushed them off before climbing aboard.
+Leo was halfway through a story about coming here with Ramón when a strip of sea appeared between the hills. He broke off to point it out. The bus turned and the water vanished again.
 
-The first bus took them into Santo Domingo. Leo had his bag between his feet and one hand on the rail; Taiga sat by the window with the address of their room open on his phone. Every time the bus stopped, somebody else got on. By the time they reached the terminal, Taiga had to turn sideways to get past a man with a box balanced on his knees.
+They found the guesthouse a few streets from the stop. Their room had one bed, a fan that rattled when Leo switched it on, and a window facing the backs of other buildings. The beach was twenty minutes away, as promised. The woman at the desk had marked the way there on a folded map.
 
-They found the next bus without much trouble. Leo bought the tickets while Taiga checked the departure point against the route they'd looked up on Sunday. Then they waited under a fan that moved the hot air around without improving it.
+Taiga put his bag down.
 
-Leo offered him the last of Carmen's bread.
+"Food first," he said.
 
-"You ate yours already."
+"I know a place near the water."
 
-"I know. Do you want it?"
+"Does it have food?"
 
-Taiga took half. Leo kept the rest.
+"Yes."
 
-On the longer ride, Taiga watched the buildings thin out. They passed stretches of road with nothing alongside them but trees, then another cluster of shops and houses. When the signal returned, Leo showed Taiga where they were on the map.
+"Lead."
 
-When the bus finally began descending toward Las Terrenas, Taiga caught a patch of water between the hills. It disappeared behind a row of buildings before he could get a better look.
-
-They got off in town with their bags and followed the directions on Taiga's phone. Leo knew which way led to the beach, but their room was inland. The walk took them past a bakery, a row of motorcycles outside a shop, and a dog asleep where the pavement narrowed. Taiga stepped into the road to get around it. The dog didn't move.
-
-The woman at the guesthouse checked their booking and handed them a key. Taiga understood her directions well enough to find the stairs. Their room was at the end of the corridor.
-
-It had one bed, a fan and a small table under the window. Nothing in it matched the photographs exactly, but it was clean. Leo set down his bag and opened the window. Somewhere below, a motorcycle started up; the sea was still out of sight.
-
-Taiga put his bag beside the bed.
-
-Leo turned from the window.
-
-"Okay. What do you want to do first?"
-
-
-"Food," Taiga said.
-
-Leo looked down at the bag he'd just set on the floor.
-
-"First?"
-
-"I had half a roll on a bus four hours ago."
-
-"That was my half."
-
-"And I appreciate your sacrifice."
-
-Leo picked his bag back up. Taiga left his by the bed, checked that he had the key and followed him downstairs.
-
-The woman at the desk directed them to a place a few streets away. Taiga caught enough to know they had to turn after a pharmacy. Leo thanked her, and they found the pharmacy without needing the map.
-
-Lunch came on two plates crowded with rice, beans and fish. The little table rocked whenever Taiga put his elbow on it; Leo found a folded napkin and wedged it under one leg. Taiga ate until the remaining fish was mostly bones.
-
-"Better?" Leo asked.
-
-"Much."
-
-"Now can I show you the water?"
-
-Taiga looked at him over his glass.
-
-"You've been waiting to say that since we arrived."
-
-"Maybe."
-
-The walk to the beach took them past more places they could eat, several closed shutters and a man washing sand off a motorbike with a hose. The road grew busier before it opened toward the shore. People crossed in front of them carrying towels and plastic bags. Farther down, a few narrow boats had been pulled up above the waterline.
-
-Taiga stopped where the pavement ended. The sea stretched beyond the boats, with a line of palms running along the shore in both directions. Boca Chica had been bright and crowded when they arrived; here the first stretch of sand was narrow enough that he could see where the road began again behind it.
-
-Leo came up beside him.
-
-"That's the part I saw from the bus?"
-
-"I think so. From farther up."
-
-Taiga found a piece of shade near the boats and took off his shoes. Leo had already started toward the water, then noticed and came back. He left his own shoes beside Taiga's.
-
-They walked along the edge of the beach, keeping clear of people carrying chairs and a man dragging a cooler over the sand. Taiga could feel the water through the soles of his feet each time a wave reached them. They didn't swim. Neither had brought towels from the room, and Taiga wanted to know where the path led before they committed themselves to anything.
-
-The path brought them past a small row of shops and another opening onto sand. Leo pointed out a place where he'd eaten with his family on a previous visit. It was closed now, its chairs stacked behind the windows.
-
-"You remembered the food?"
-
-"I remember Ramón ordering for the entire table. We ended up with twice as much as we needed."
-
-"That sounds expensive."
-
-"Papá agreed."
-
-By late afternoon they had seen enough of the town to know where the beach was, where to get breakfast and which street would take them back without consulting the map. They bought water from a shop near the guesthouse. Leo carried both bottles while Taiga searched his pockets for the room key.
-
-He had put it in the wrong one.
-
-"I saw your face," Leo said.
-
-"You didn't see anything."
-
-"You thought you'd lost it."
-
-Taiga found the key and held it up.
-
-"Evidence says otherwise."
-
-Back in the room, they took turns in the small bathroom. The fan shifted the curtains a little but did almost nothing about the heat. Taiga sat on the bed in clean clothes, rubbing the damp ends of his hair with a towel, while Leo looked for somewhere to charge his phone.
-
-"There's one behind the table," Taiga said.
-
-"I found it."
-
-Leo plugged the charger in and checked a message from Carmen. He read it aloud: she wanted to know whether they'd arrived and whether they'd eaten. Taiga took the phone from him and held the button to record a reply.
-
-"*We're here. We ate lunch. It was good.*"
-
-He played it back once, decided it was intelligible and sent it. Leo was watching him.
-
-"What?"
-
-"Nothing. She'll like that."
-
-"We have to go find dinner too, or I'll have to send a correction."
-
-Leo laughed and put the phone down.
-
-They went out again after the sun dropped lower. Taiga chose the direction this time, taking them toward the busier part of the seafront. A few tables had been set outside a restaurant. Someone nearby was playing music from a speaker, loud enough to hear over the motorcycles passing behind them but not loud enough to follow when they sat down.
-
-They ordered food, watched people moving along the road and argued briefly over whether the man across the street was trying to sell a hat to the same couple for a third time. Taiga thought he was. Leo couldn't tell from where they sat.
-
-The couple walked away without a hat.
-
-"Three," Taiga said.
-
-"You couldn't possibly know that."
-
-"He recognized them."
-
-"You don't know that either."
-
-Taiga pushed the bowl of fried plantains toward him.
-
-Leo took one.
-
-They returned to the guesthouse along the quieter road. The window of their room was still open, and Taiga could hear someone shutting up a shop below. Leo pulled the curtains across but left the fan running.
-
-"Anything you want to do tomorrow?" he asked, sitting on the other side of the bed.
-
-"I'll tell you tomorrow."
-
-"Okay."
-
-Taiga reached across the gap and hooked two fingers into Leo's shirt, drawing him closer. Leo kissed him, then stayed there with his forehead against Taiga's for a moment.
-
-They undressed and got under the sheet. Leo was still talking about the hat seller when Taiga turned off the light. He lost the thread halfway through his sentence. A few minutes later, he asked what he'd been saying.
-
-"Something about hats."
-
-"Right."
-
-Neither of them picked it up again.
-
-
----
-
-Taiga woke to someone pushing a cart along the street below. Light came through a gap in the curtains. Leo had ended up sideways across the bed, with his hand tucked beneath Taiga's pillow and one foot out of the sheet.
-
-Taiga looked at the time. It was almost nine.
-
-He eased himself up, went to the bathroom and washed his face. When he came back, Leo hadn't moved. Taiga opened the window a little wider and sat at the table to look through the photographs he'd taken the day before. He deleted two of the street and kept the one of Leo holding both water bottles while Taiga searched for the key.
-
-Leo woke while he was still looking at it.
-
-"Why did you take that?"
-
-"Evidence."
-
-"Of what?"
-
-"Nothing yet."
-
-Leo stretched, rolled onto his side and looked at the window.
-
-"Is the bakery open?"
-
-"It was when we came past yesterday."
-
-"Good. Give me a minute."
-
-Taiga went downstairs ahead of him to ask the woman at the desk where he could get coffee. She pointed him to the same bakery, then added something about bread that he had to ask her to repeat. By the time he understood, Leo had joined him.
-
-They took coffee and something warm from the bakery and ate outside. Leo took one bite of Taiga's and decided he should have bought it instead. Taiga moved the rest out of reach.
-
-"There's more inside."
-
-"I don't need another whole one."
-
-"Then suffer."
-
-Leo went inside anyway. 
-
-They walked west after breakfast, following the shore when there was room for it and the streets when there wasn't. Near Las Ballenas, the sand widened and the buildings stood farther back. Taiga found a place under a tree where they could leave their shoes while they went down to the water.
-
-The sea was rougher than it had looked from the road. Taiga went in up to his knees, let the next wave hit and came back with the hem of his shorts wet. Leo stood where the water only reached his ankles.
-
-"You coming in?"
-
-"Not with the bag."
-
-"I can stay with it."
-
-"You just got here."
-
-Taiga looked at the bag. They had brought water, their phones and more food than they needed for a morning walk. Leo held it up.
-
-"We can take turns."
-
-Taiga took it from him and set it beneath the tree. Leo ran into the water and stopped at about the same depth Taiga had reached. A wave broke against his legs, and he threw up both hands to keep his balance.
-
-"That's as far as you're going?" Taiga called.
-
-"I was assessing the conditions."
-
-"From three meters away?"
-
-Leo pointed at him with one dripping hand.
-
-Taiga moved the bag a few steps closer to the water, where he could still see it, and came down to meet him. They stayed near the shallows, talking when they could hear each other and letting the water interrupt when they couldn't. Neither tried to repeat their wrestling match from Boca Chica; there were enough people nearby that they might hit someone if they fell.
-
-Afterward they sat in the shade and drank most of what they'd brought. Leo took out his phone to photograph the curve of the shore. Taiga moved into his frame on purpose.
-
-"Now it's better," he said.
-
-"It's mostly your shoulder."
-
-"Then aim better."
-
-Leo took another. Taiga tried to get both of them into one photograph, but the screen filled with his own forehead. He handed the phone back. Leo balanced it against a water bottle, set the timer and hurried across the sand. The first picture caught him halfway down; the second caught Taiga turning to tell him to stop running.
-
-They kept that one. Taiga took another photograph from the shade, holding the phone out with the sea behind them. His finger covered half the lens. He saved it anyway.
-
-Lunch was a place a little farther along the shore with a counter facing the street. They ordered at the counter and ate outside. By then the sun had reached their table, and Leo shifted his chair until the narrow strip of shade covered Taiga's arm as well as his own.
-
-"That's barely helping," Taiga said.
-
-"It helped your arm."
-
-"It helped half my arm."
-
-Leo looked at it and moved the chair another few centimeters. Taiga let him.
-
-They walked back by a different route, through the streets behind the beach. Taiga recognized the pharmacy from yesterday only after they had passed it. He told Leo, who said that meant they were close to the guesthouse.
-
-They weren't. Twenty minutes later they reached the road they should have taken.
-
-"You recognized the wrong pharmacy," Leo said.
-
-"I said I recognized a pharmacy."
-
-"Sure."
-
-A short rain caught them outside a shop with an awning. They moved beneath it with several other people, close enough to the shelves that Taiga could smell soap through the open door. Someone inside turned up the music. Leo tried to identify the song from the first few notes, failed and laughed at himself when the singing began.
-
-The rain passed before either of them bought anything. They made the rest of the walk with damp shoulders and sand sticking to their ankles.
-
-In the room, Taiga left his shoes by the door and went to wash the salt off. Leo took his turn after him. When he came out, Taiga was sitting on the bed trying to decide which of their photographs to send to Caleb.
-
-"Send him the one where I'm running," Leo said.
-
-"You look like you're falling."
-
-"Exactly. He'll appreciate it."
-
-Taiga sent it with no explanation.
-
-Caleb replied several minutes later: **Is he all right?**
-
-Taiga showed Leo. He laughed hard enough to lean against Taiga's shoulder, then reached for the phone to tell Caleb that he was alive. Taiga pulled it away.
-
-"Let him worry."
-
-"That's cruel."
-
-"He'll figure it out."
-
-Leo made another attempt for the phone. Taiga kept it above his head until Leo gave up and dropped beside him on the bed. They stayed there a while. The fan ran over them, and noise from the street came through the open window. Eventually Taiga sent Caleb a second photograph in which Leo was unmistakably standing upright.
-
-Leo didn't see him do it.
-
----
-
-They found a place for dinner near the water. Tables had been arranged outside, and music was coming from farther along the road. By the time they finished eating, more people had gathered around the source of it.
-
-Leo wanted to see who was playing. Taiga paid their part of the bill while Leo waited, then followed him toward the sound.
-
-Three musicians had set up under an awning, with just enough room in front of them for people to dance without blocking the way past. Leo watched for a song. Taiga could see his foot moving before the next one began.
+Leo led quickly enough that Taiga had to tell him to slow down while they crossed a street. They bought lunch from a counter with tables outside. Leo kept turning to look past the buildings while they ate. When Taiga had finished, he picked up the map before Leo could reach for it.
 
 "Go on," Taiga said.
 
-"You don't want to?"
+They came out onto a stretch of sand with boats pulled above the waterline and people walking between the beach and the road. Taiga stopped to take off his shoes. Leo left his beside them and headed toward the sea with his shirt in one hand.
 
-"I said go on."
+"We didn't bring towels," Taiga called.
 
-Leo went to the edge of the small crowd, looked back and held out his hand. Taiga shook his head.
+"I'm not swimming."
 
-Leo dropped his hand and turned toward the crowd. Taiga had no intention of dancing in front of strangers. Before Leo had gone two steps, Taiga caught his hand and followed him into the space beside the awning.
+"You say that now."
 
-"This was not the agreement," Taiga said.
+Leo waded in far enough to wet his shorts. Taiga left his shoes beside Leo's on dry sand and went after him. The water reached his knees. Leo turned with his hair in his face, grinning as if he'd been the one to discover the place.
 
-"We didn't make one."
+They stayed until their clothes began drying on them, then followed the shore in one direction and the road back in the other. Leo talked about places he remembered from an earlier family visit; half the businesses had changed, and one restaurant he wanted to show Taiga had become a shop selling beach clothes. He went inside anyway. Taiga found him holding up a hat wide enough to shade both of them.
 
-"You've been spending too much time with me."
+"We could fit both of us under that," Taiga said.
 
-They moved badly for the first few measures. Leo tried to show him where the beat fell, but Taiga could already hear it; what he couldn't do was make his feet follow. When he stepped on Leo's shoe, Leo checked whether anybody had noticed.
+Leo tilted the brim forward until he couldn't see. "Where did you go?"
 
-"I did," Taiga said.
+"Behind your fucking hat."
 
-"I know. That's the problem."
+Leo put it back, then picked up a smaller one and tried it on. Taiga took a photograph before Leo saw his phone.
 
-They made it through the song without colliding with anyone else. Leo looked ready to stay for another. Taiga caught the front of his shirt and pulled him away from the crowd.
+They ate near the guesthouse that evening. Leo sent Carmen a message to say they'd arrived. Upstairs, he caught Taiga looking at the picture of the hat on his phone.
 
-"That's enough."
+"Delete it."
 
-"That was the first one you got right."
+"Never."
 
-"I intend to retire undefeated."
+Leo lunged for the phone. Taiga held it out of reach until Leo caught his wrist and both of them fell onto the bed. The phone landed safely against the pillow.
 
-"You stepped on me."
-
-"Once."
-
-"Twice."
-
-Taiga let go of his shirt but kept his hand. They stayed to listen to the next song from the side of the road, where there was room to stand without moving. Leo sang along under his breath. Taiga recognized none of the words, but by the end he knew where Leo would come in.
-
-On the way back they stopped for cold drinks and took the long route through town. When they reached the guesthouse, Leo was still humming. He missed a step on the stairs and looked over his shoulder to make sure Taiga hadn't seen.
-
-Taiga had.
-
-Inside their room, Leo closed the window against the noise from below, though the music was distant now. Taiga put both glasses on the little table. Leo came to stand between him and the bed.
-
-"You're doing the song again," Taiga said.
-
-"I know."
-
-"You don't know the last line."
-
-"I do. I'm just getting it wrong."
-
-"Same thing."
-
-Leo leaned in and kissed him. Taiga reached for him and pulled him close. When Leo tried to bring them both down onto the bed, Taiga's elbow caught the little table. One of the glasses tipped. Leo grabbed it before it fell, then stood there holding it while Taiga laughed at him.
-
-"Put it down."
-
-"I'm trying. You're in the way."
-
-Taiga stepped aside. Leo moved both glasses to the floor, safely beyond their feet, and came back for him. This time Taiga drew him onto the bed. Leo started the song again against his mouth and lost it when Taiga pulled his shirt up.
-
-Later, the glasses beside the bed had gone warm. Taiga stretched across the bed for one while Leo sat up to get the other.
-
-"Five-minute escape?" Taiga asked.
-
-Leo laughed. "I'm getting water."
-
-"You haven't taken one since we got here. You're behind schedule."
-
-Leo picked up the glass, still smiling. He took a drink, then lowered it.
-
-"Huh."
-
-"What?"
-
-"Nothing. You want yours?"
-
-"Yeah."
-
-Leo passed it over. He lay back down beside Taiga, but for a while he kept his eyes on the ceiling, even after Taiga turned off the lamp.
+For a while they stayed where they'd fallen, kissing and talking over each other about whose idea the hat had been. Taiga eventually reached back to turn off the light.
 
 
 ---
 
-On Sunday, Leo was already awake when Taiga opened his eyes. He lay on his back, looking at the fan.
+Taiga woke with Leo's arm across his chest and a strip of sunlight in his eyes. He tried to roll away from the light. Leo caught him around the waist and pulled him back.
 
-"How long have you been up?"
+"You awake?" Leo asked.
 
-"Not long."
+"I am now."
 
-Taiga rolled closer. Leo turned his head and kissed him, then sat up to find his shorts.
+"Come on. I want to show you the other end of the beach."
 
-They ate at the bakery again. The woman behind the counter recognized them and had already started reaching for the same pastries before they asked for anything. Taiga changed his order. She put his first choice back and smiled as she gave him the other one.
+Taiga turned his head. Leo looked ready to go. His hair was sticking up and he was still in bed, but he'd apparently been planning to get out of it for some time.
 
-Leo took his coffee outside and waited at a table. He was halfway through a story about a teammate at Olympus when he stopped to stir a drink he hadn't touched.
+"You could've told me last night."
 
-"What happened to him?" Taiga asked.
+"I thought you wanted to decide in the morning."
 
-"To who?"
+Taiga had said something like that. He slid out from under Leo's arm and went to wash his face.
 
-"The guy with the locker."
+They got breakfast from the bakery they'd passed on the way in. Leo was halfway through a pastry when he spotted someone across the street carrying a volleyball. He watched the ball disappear around a corner, then took another bite.
 
-"Oh. He got it open. Sorry."
+"What?" Taiga said.
 
-Leo picked up where he'd left off. The ending involved a broken handle and an argument about who had been supposed to report it. Taiga could believe both parts. When Leo laughed about it, he sounded like himself.
+"Nothing."
 
-They spent the morning in town. Leo wanted something for Antonio, and Taiga pointed out that Antonio would be just as happy with the photographs from their trip. Leo agreed, then bought him a small bag of sweets anyway.
+"If you want to play, say so."
 
-"You're going to have to share those with the entire house," Taiga said.
+"I want to see if there's a game."
 
-"I bought enough."
+"Then eat before you start running after strangers."
 
-"Of course you did."
+Leo finished the pastry while they walked.
 
-Leo turned the bag over to check how many were inside. It had barely fit in his hand, much less the whole household. Taiga went back into the shop and bought a second bag.
+The sand was wider farther west. They found the game near a line of trees, where four people were taking turns with a ball and two more were sitting on a fallen trunk. A rope stretched between two poles. Nobody seemed interested in whether it was straight.
 
-"Now you bought sweets for them too," Leo said.
+Leo stopped to watch. Taiga could hear him following the ball each time it went over the rope. One of the players served, missed the court entirely and called something that made the others laugh. The ball rolled toward Leo. He picked it up and threw it back.
 
-"I bought evidence that we remembered them. You bought enough for a fight."
+The woman nearest the rope asked if they wanted to join.
 
-Leo put both bags in his backpack. They took a street they hadn't used yet and came out near the shore farther east. There were more people on this part of the beach, but also more space along the path. Taiga found a spot where they could sit on a low wall without getting sand on the sweets.
+Leo looked at Taiga.
 
-They watched a group attempt to keep a ball in the air. A man farther down the wall shouted advice nobody seemed interested in following. Leo answered one of his remarks in Spanish, then looked at Taiga.
+"Sure," Taiga said. "But you've seen us play football. Don't expect that."
 
-"He says the one in blue is cheating."
+The woman grinned and called to the others. They split into two teams of three. Taiga ended up beside a man who introduced himself as David and the woman who'd invited them. Leo was across the rope, already trying to remember two names at once.
 
-"He probably is."
+The first serve came at Taiga. He put both arms together the way he'd seen on television and sent the ball almost straight up. It dropped behind him.
 
-"You don't even know the rules."
+David jogged to retrieve it. "We can work with that."
 
-"I recognize a cheater."
+"Can we?"
 
-The man laughed when Leo passed it on. They watched for a few more minutes, then went to find somewhere to eat.
+"You got under it."
 
-After lunch, the sun drove them inside. Taiga used the guesthouse's wireless connection to look at flights home. The first few were more expensive than he'd expected. He left the search open to compare them on Monday when they got back.
+Across the rope, Leo was laughing with one of his new teammates. He served next. The ball cleared the rope, hit the sand near Taiga's foot and bounced away.
 
-Leo lay across the bed looking at the photographs from yesterday. He found the one of them on the beach, with his feet blurred where he'd been running, and made Taiga look at it again.
+"You're standing on the wrong side," Taiga told him.
 
-"I still think the second one was better," Taiga said.
+"Come over here, then."
 
-"I like this one."
+"That wasn't an invitation."
 
-"You look like someone shoved you into the picture."
+Leo tried another serve. This one went out by a considerable distance, and Taiga pointed at the mark it left. Leo put his hands on his hips and argued with the woman beside him about whether the boundary included a patch of shade. She gave him the point to shut him up. Taiga complained on principle. They played on with the score belonging to whoever could remember it.
 
-"I ran into it."
+Once Taiga stopped trying to hit the ball like a person who knew what he was doing, he got better. David called for the ball when he had space. The woman beside Taiga leapt for a shot that seemed lost, knocked it into the air, and Taiga managed to send it over. It clipped the rope, sat there for a terrifying second, then fell on Leo's side.
 
-"That's why it looks like that."
+Leo lunged. The ball hit his fingers and went into the sand.
 
-Leo smiled and swiped to the next one. The next photograph, taken from the shade, was mostly obscured by a finger across the lens. Leo enlarged the visible corner, where Taiga was laughing at something outside the frame.
+Taiga raised both hands.
 
-"Don't delete that one."
+"That was the rope," Leo said.
 
-"I wasn't going to."
+"Still counts."
 
-Taiga went back to the flight prices. He could hear a few guests talking in the corridor, then their footsteps heading downstairs. When he put his phone aside, Leo was still on the same photograph.
+"I was going to get it."
 
-"Want to go out again?" Taiga asked.
+"You didn't."
 
-"Yeah. In a bit."
+Leo swept sand off his knees and walked back into position, smiling too much for somebody arguing about a point.
 
-Taiga lay down beside him. Leo turned the screen so they could both see. They went backward through the photographs, including the blurred ones neither of them had bothered to delete. When Taiga reached for the phone, Leo let him take it. They stayed on the bed until the room began to cool.
+They switched sides a few rounds later. The sand nearest the water was firmer, and Leo used it to run for everything, including a ball one of his teammates had already called. They missed it because they nearly collided. Leo apologized, got shoved on the shoulder, and spent the next rally shouting that he was staying exactly where he was. When a ball finally came to him, he forgot and chased it halfway across their side.
 
-Later, they walked back toward the stretch of shore they'd passed on Friday. The boats had been pulled up in different places. One stood farther back from the water with its painted name half hidden by another. Taiga took a photograph for Antonio; the kid would probably ask how fast it went, which neither of them knew.
+"Reliable as ever," Taiga called.
 
-Leo said they could ask.
+Leo sent the next one directly at him.
 
-"You're not going to interrupt somebody's dinner to find out the speed of a boat for a kid who hasn't asked yet," Taiga said.
+Taiga got his arms beneath it. The ball rose crookedly and David rescued it. Their side made three contacts, each uglier than the last, before it crossed the rope. Leo's teammate tapped it back into empty sand.
 
-"No. I was joking."
+Taiga looked at David. "We worked for nothing."
 
-"I couldn't tell."
+"That's volleyball."
 
-"I know. That was part of it."
+"Terrible sport."
 
-Leo kept looking toward the boats as they walked. Taiga nudged his shoulder, and Leo nudged back.
+"Again?"
 
-They found a place to sit for a while, where the sand gave way to a short paved stretch above the water. Leo rested his elbows on his knees. When a family passed with two children arguing over a pair of sandals, he watched them go, still smiling faintly. Taiga took another picture of the sea. Leo checked his phone: Carmen had written an hour earlier to ask whether they were having a good time.
+"Obviously."
 
-He showed Taiga the message, wrote back, then tilted his phone toward him so Taiga could see the photograph he'd attached. It was the one from yesterday, Leo caught midrun and Taiga turning toward him.
+They stopped only when one of the original players had to leave. Taiga sat on the trunk beside the rope and found sand on his arms, behind one knee, and somehow inside his shirt. Leo stayed standing to help pull the rope loose. He was flushed from playing and still talking to the woman about a point from twenty minutes ago. She demonstrated where she'd thought the ball landed; he showed her where he thought his foot had been. Neither looked convinced.
 
-"You're sending her that?"
+When Leo finally came over, Taiga held out their water. Leo drank, passed it back, and looked toward the sea.
 
-"We're both in it."
+"Do you want to go in?" he asked.
 
-"You look like you need rescuing."
+"You still have energy?"
 
-"Moma will appreciate that you tried."
+"Yes. Do you?"
 
-Taiga reached for the phone, but Leo had already sent the message. When he put it in his pocket, he looked back out over the water. A moment later he asked if Taiga wanted to eat there or closer to the room.
+Taiga stood. "Enough to get the sand out of my shirt."
 
-"Closer," Taiga said. "I don't want another twenty-minute walk after dinner."
+They went down to the water with the other players still laughing behind them. Taiga waded in and rinsed his arms. A wave reached the back of his legs before he was ready and he stepped into Leo to keep his balance.
+
+"Sorry."
+
+"I survived."
+
+Taiga shook a handful of water at him. Leo backed out of range, which was unfair considering how far he'd run for a volleyball ten minutes ago. Taiga followed him until the water was above their knees. They stayed there talking about the game; Leo insisted Taiga's winning shot had been an accident. Taiga offered to demonstrate it again, provided Leo found them another rope.
+
+By the time they came out, neither of them could agree which side had won. Taiga thought that meant it had been his.
+
+They ate lunch from a counter along the road behind the beach. Leo recognized one of the players passing on a motorbike and called goodbye with his mouth full. Taiga made him swallow before attempting the story he'd started about how he'd nearly hit David in the face.
+
+They spent the hottest part of the afternoon in their room. Taiga stretched out under the fan, his calves aching pleasantly, while Leo sent photographs of the beach to Carmen. The pictures looked nothing like the morning they'd actually had. Leo put the phone away and rolled onto his side.
+
+"I want to go back later," he said.
+
+"To the rope?"
+
+"No. There's music near where we ate last night. I saw them setting up."
+
+"You saw them while you were arguing about the volleyball?"
+
+"I can do both."
+
+Taiga looked at the sand they'd dragged in on the floor. "First we have to shower."
+
+Leo held out a hand to pull him up. He pulled too hard and Taiga landed half across him on the bed. They stayed there until Taiga remembered that he was still covered in salt.
+
+By the time they went out again, the road along the shore was crowded. Someone had set chairs facing a small group of musicians under an awning, and people were moving between the chairs with drinks in their hands. Taiga could hear the percussion from the end of the street. Leo picked up speed.
+
+"Leo."
+
+Leo turned.
+
+"If we're doing this, I want a drink first."
 
 "Okay."
 
-They got up. On the way back, Leo showed him a turning that cut across toward the guesthouse. It brought them past the bakery and out onto the road where the bus had dropped them two days ago. Taiga recognized the shelter only when he saw the bin beside it.
+"You buy it."
 
-"At least we won't have to look for it tomorrow," he said.
+"Why?"
 
-Leo checked the sign to make sure it was the right stop. He read it twice before they continued.
+"You're the one who dragged me out."
 
-They ate near the guesthouse. Leo kept his phone face down beside his plate. He talked about the food and asked whether Taiga had decided on a flight, then waited while Taiga explained which days were cheaper. When Taiga asked him what he thought, Leo looked briefly at the table before answering.
+"I invited you. You came."
 
-"I'd take the earlier one," he said. "You'll want some time at home."
+Taiga considered the difference while Leo bought them drinks. He took his and followed Leo closer to the music.
 
-Taiga nodded. He knew his mum would say the same thing. The conversation moved on to what they had to carry back on the bus, and whether Carmen would claim the sweets were actually for her.
+They found a place to stand at the side of the awning. A few people were dancing; others talked through the song or watched from the chairs. Leo knew the chorus and sang it once, too loud, before catching himself. Taiga didn't know the words, but Leo caught his hand and showed him when to move.
 
-Back in the room, Taiga packed most of his clothes. Leo folded his towel and hung it over the chair to dry. He came to the window while Taiga tried to fit his shoes into the bag, leaving the sweets intact on top.
+At first Taiga stayed just outside the patch of open ground. Leo turned back to dance with him there, between the chairs and a couple who were trying to get past. Taiga set his drink down on a wall and pulled Leo into the open where at least they could move without tripping somebody.
 
-"You can put those in mine," Leo said.
+"Better?" Leo asked.
 
-"You'll eat them on the bus."
+"You were blocking traffic."
 
-"I'll eat some of them."
+Leo spun him by the hand. Taiga came back too fast and knocked against his chest. Leo caught his shoulders; Taiga pushed off and tried it again, on purpose this time. The spin went worse. He had to laugh.
 
-"Then we need another bag."
+Someone beside them called encouragement. Leo answered without missing the beat. Taiga tried to copy the woman's footwork, lost count halfway through and ended up moving in the wrong direction. Leo followed him until they nearly backed into another couple.
 
-Leo laughed. Taiga got the shoes in and pulled the zip closed.
+"Your fault," Taiga said.
 
-When he looked up, Leo was still at the window. The street below had quieted. Taiga waited for him to say something about tomorrow's bus, but Leo turned, took the chair beside the table and moved it closer to the bed.
+"You chose the direction."
 
-He sat facing Taiga.
+"You chose to follow me."
+
+"Then you should've picked a better direction."
+
+Taiga had an answer ready and forgot it when Leo pulled him back on the beat.
+
+The music changed. Leo clapped along with the people around them, then took Taiga's hand again. Taiga tried one of the steps he'd seen and got it wrong in a new way. Leo looked down at their feet and laughed so hard he almost lost his own. When they finally needed to stop, Taiga took his drink from the wall. It had gone warm. He finished it anyway.
+
+Leo was still moving one shoulder to the music. He spotted the woman from their volleyball game standing near the musicians and went over to say hello, taking Taiga with him. She introduced them to a friend who wanted to hear how two football players had managed to lose to her team. Taiga said they hadn't lost. The woman turned to Leo for confirmation.
+
+Leo considered it for half a second. "We didn't keep score."
+
+"Traitor," Taiga said.
+
+They stayed for another song. Leo talked to the pair until the musicians started again, then rejoined Taiga with a broad grin and a story about David trying to organize a rematch for the following weekend.
+
+"We won't be here," Taiga said.
+
+"I told him. He said next time."
+
+They ended up walking the long way back. Leo kept trying to teach Taiga a line from the song, though neither of them could sing it over the noise from the road. By the time they reached the guesthouse, Taiga had the rhythm and none of the words. He used it to insult Leo's volleyball serve. Leo laughed and took the stairs two at a time.
+
+In the room, Leo opened the window, still singing. Taiga came up behind him and pulled him away by the waist.
+
+"Finish it properly," Taiga said.
+
+"I have been. You don't know the words."
+
+"You keep changing them."
+
+"Because you keep getting them wrong."
+
+Taiga turned Leo to face him. Whatever line Leo had been about to sing didn't make it out. They kissed until the sounds from the street blurred into the fan and Leo backed Taiga toward the bed. Taiga caught the edge of the mattress with his leg and took Leo down with him. Leo laughed against his neck. Taiga had sand in his hair again; he'd have to deal with it later.
+
+Much later, Leo sat up to reach for the water on the table. Taiga caught his wrist before he could get far.
+
+"Going for your five minutes?" Taiga asked.
+
+"I'm going for the water."
+
+"You've been running since breakfast. I'd take five."
+
+Leo brought the bottle back for both of them. "I haven't needed to."
+
+"You didn't take one yesterday, either."
+
+Leo laughed at first. Then he unscrewed the cap and looked at it.
+
+"Did I?"
+
+Taiga took the bottle from him. "Apparently I'm keeping count."
+
+Leo gave him an odd look, then kissed his shoulder. He lay down and pulled Taiga against him. After a while Taiga could feel Leo's hand moving slowly over the back of his own, even when the rest of him had gone still.
+
+
+---
+
+On Sunday, Taiga woke to a sound like someone dropping cutlery on the street below. Leo was awake beside him. He smiled when Taiga turned over. Taiga reached under the sheet for his hand.
+
+"Breakfast?" Leo asked.
+
+"Eventually."
+
+Leo stayed. By the time they got out of bed, the sun had reached the far wall.
+
+At the bakery, Leo picked something they hadn't tried and made Taiga taste it. Taiga went back for his own.
+
+Leo offered to show him a quieter street he'd remembered from the last trip with his family. He got one turn wrong. Taiga noticed when the houses began looking familiar.
+
+"Is this the way you meant?"
+
+"I don't think so."
+
+"We passed that dog yesterday."
+
+"We can go back."
+
+Taiga caught his hand before he turned around. "Keep going. We have all day."
+
+The road eventually brought them to a strip of beach they hadn't seen yet. Leo took off his shoes and started along the wet sand. Taiga followed with both pairs in his hands. A fishing boat was being pulled higher up shore by two men; they moved around it and kept walking until the houses were farther apart.
+
+Leo found a fallen palm frond with a thick end like a handle. He picked it up and planted it in the sand.
+
+"Goalpost."
+
+"There's only one."
+
+Leo dragged a second frond over and set it several paces away. "Now there's two."
+
+"What's the ball?"
+
+Leo looked around. He found a small round fruit washed up above the waterline and rolled it toward Taiga with his foot. It didn't roll straight. Taiga sent it back, too hard, and Leo ran after it before the water could take it. They played for five minutes with no rules except that each goal counted twice if the other argued.
+
+Leo got the fruit past Taiga on the third try and went sprinting down the beach in celebration. The fruit split the next time Taiga kicked it. They put the fronds back out of the way and went to wash the sticky pulp off their feet.
+
+On the walk back, they passed the people from yesterday's volleyball game. The woman called Leo over. He told her about the goalposts, and within a minute she had an opinion on who should have won. Leo waved Taiga in to defend himself. Taiga did, badly, since Leo had already translated the story with his own score. They left with an invitation to play again if they came back. Leo promised to bring a proper ball.
+
+It was after lunch when Leo went quiet for the first time. He was looking at a group of people crossing the road, following their conversation with his eyes. Taiga nudged his leg beneath the table.
+
+"Are you listening?"
+
+"Sorry. What did you say?"
+
+"That you're paying for lunch. You agreed."
+
+"I did?"
+
+"No."
+
+Leo smiled and reached for Taiga's hand across the table, but he was still somewhere else for a moment. Then he asked what Taiga had actually said. Taiga told him which food he preferred and watched Leo steal the last bite of it.
+
+They stopped at a shop for sweets to bring home to Antonio. Leo got an extra bag for Carmen, who would claim them anyway.
+
+Toward evening, they walked back to the shore. Taiga had thought Leo might want to see the music again, but he steered them toward the quieter stretch with the boats. They sat on the low wall above the sand. Leo took out his phone and showed Taiga a picture David had sent him from yesterday's volleyball game.
+
+"How did he find you?"
+
+"The woman gave him my number. I told her he could send it."
+
+"Show me."
+
+In the picture, Taiga had his arms raised beneath a ball that was nowhere near them. Leo was in the background, laughing. Taiga made him send it over.
+
+They ate on the way back. Taiga told Leo he wanted to take his mum somewhere with a beach once they worked out when he'd be home. Leo asked where his mum would want to go. Halfway through Taiga's answer, he looked up at him as if he'd missed a word. Taiga finished anyway.
+
+Back at the guesthouse, Taiga set the bag of sweets on the table, away from their clothes, and opened the window. He heard Leo put his phone down behind him. When he turned, Leo was sitting on the edge of the bed, looking at him.
+
+Taiga sat beside him.
