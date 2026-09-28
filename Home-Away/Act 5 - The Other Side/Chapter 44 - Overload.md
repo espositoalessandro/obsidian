@@ -864,15 +864,21 @@ Leo laughed.
 "Fair enough."
 
 ---
-The restaurant turned out to be pretty good, after all. When the waiter put a bowl of sancocho in front of Taiga, he looked at Leo.
+When the waiter put a bowl of sancocho in front of Taiga, he looked at Leo.
 
 "What the...?"
 
-Leo laughed,
+Leo laughed.
 
 "Told you. Stew with basically everything in it."
 
-Yet somehow it worked.
+Taiga tried a spoonful. Then another. By the time he got to the bottom of the bowl, Leo was watching him over his own.
+
+"Don't start," Taiga said.
+
+"I didn't say anything."
+
+Leo tore off a piece of bread and pushed it across the table. Taiga took it and wiped the last of the broth from his bowl.
 
 After dinner, they strolled on the main road, where apparently Leo used to go out with his friends when he was a teen.
 
