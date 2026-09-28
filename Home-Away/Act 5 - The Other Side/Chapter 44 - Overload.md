@@ -697,3 +697,287 @@ Taiga looked down. After a couple of seconds, he said,
 Taiga frowned.
 
 "You'll see."
+
+---
+After lunch, Leo and Taiga went packing things for the trip. 
+
+"Do you think it's gonna get somehow cold in the evening?"
+
+"Unless we spend the evening on a mountain, I wouldn't get my hopes high."
+
+Taiga sighed.
+
+"How do you manage to live like this."
+
+Leo laughed.
+
+"You get used to, I guess?"
+
+Taiga looked at his jacket laying on the bed in resignation.
+Leo's phone buzzed: Enzo. He put him on speaker and dropped the phone on the bed, keeping folding clothes.
+
+"Hey."
+
+Enzo started speaking too fast for Taiga to understand. He only caught some words like "*coach, session, kids, tonight, help*".
+
+Leo froze for a couple of seconds. Then Enzo said more slowly
+
+"*...you forgot.*"
+
+Leo rubbed his face. 
+
+"*Shit. No, uh- I might have overplanned a bit.*"
+
+"And nobody was surprised."
+
+"*Fuck you. Uh... give me a minute, I'll call you back.*"
+
+Taiga had stopped as well several seconds ago. He looked at Leo.
+
+"What happened?"
+
+Leo's face was still in his hands. When he reemerged he said
+
+"I totally forgot that I told Enzo I'd help our coach for a kids session tonight."
+
+Taiga didn't answer immediately.
+
+"Fuck me. Okay, I can still fix this. If we go at like eight-thirty instea-"
+
+"Leo, we have the bus tomorrow at seven."
+
+"Yes I know, we'll still make it."
+
+"We'd barely have time to eat."
+
+"But we can still do it anyways, don't we?"
+
+Taiga looked back at the clothes on the bed.
+
+"This isn't what we agreed on."
+
+"I know, but... I'm sorry, I totally forgot! Okay, maybe I can ask the coach if he can do the session earlier."
+
+Taiga felt some heat climbing up. 
+
+"Why do you always do that?"
+
+Leo stopped.
+
+"Do what?"
+
+"This. You always say yes to anyone. Then someone has to pay somehow because you forget."
+
+"What? Nobody has to pay anything-"
+
+"No? Then what about when we were watching Hamilton?"
+
+Leo looked at him and frowned.
+
+"I told you, I hadn't seen my aunt in months. Should I have ignored her?"
+
+"No, but we had planned an evening together and it got fucked up. Now the same thing is happening tonight."
+
+"But I'm not saying that we can't go, we can still do this."
+
+"Yeah, by cutting our time in half."
+
+"I know, and I'm sorry for that, but I had promised him first."
+
+"You also promised me."
+
+Leo stopped. 
+
+"Then what should I do? Dump him? I'm trying to compromise for everyone."
+
+"Maybe just start using your fucking calendar."
+
+That came out harsher than he intended to. He sat on his bed and rubbed his eyes.
+
+"Sorry."
+
+Leo looked at him, but didn't answer.
+
+Taiga took a breath and continued,
+
+"I just... I don't want our time to be the one you can always negotiate."
+
+Leo waited a couple of seconds before answering. He took a breath as well and said
+
+"No, you're right. It was me who told you that I want to spend more time together."
+
+He took his phone and went outside.
+After a couple of minutes, Leo came back.
+
+"Alright, Enzo said that they could manage without me."
+
+Taiga looked up.
+
+"Okay."
+
+They spent the next hour finishing packing and getting ready for the night. They didn't talk much in the meantime.
+
+---
+At seven, they went out. The air was still a bit awkward, but neither of them brought the argument back.
+At some point, Leo asked
+
+"Have you decided when you're going home?"
+
+"Not yet, but my mum wants me another couple of weeks at home before the camp's summer term begins."
+
+"Fair enough, when does it begin?"
+
+"Usually early July."
+
+Leo nodded. Taiga continued
+
+"I guess I'll book the flight when we come back. Sometime in the second half of June, depending on the prices."
+
+"Okay, sounds good."
+
+"You sure it won't bother your family? I'll been here basically a month."
+
+Leo snorted.
+
+"You've seen them. If you asked, they'd let you stay for good."
+
+Taiga smiled.
+
+"I gotta say, I've never seen a family like that."
+
+"Like... what?"
+
+Taiga tried to better articulate. 
+
+"They never really treated me as a guest."
+
+Leo laughed.
+
+"In my family, you're allowed to be a guest for maximum one day."
+
+"I noticed."
+
+"Plus, they really like you. Like, really."
+
+"They liked Enzo. Bar is pretty low."
+
+"Fair enough."
+
+---
+The restaurant turned out to be pretty good, afterall. When the waiter put a bowl of sancocho in front of Taiga, he looked at Leo.
+
+"What the...?"
+
+Leo laughed,
+
+"Told you. Stew with basically everything in it."
+
+Yet somehow it worked.
+
+After dinner, they strolled on the main road, where apparently Leo used to go out with his friends when he was a teen.
+
+"And that bar over there is where everyone usually went. During the weekend it gets pretty crowded with teens."
+
+"A crowd of teens. Sounds amazing."
+
+"Dude, you've been teen as well."
+
+"Unfortunately."
+
+Leo chuckled.
+
+"What did you use to do during high school?"
+
+"I used to go in places like that as well."
+
+Leo's eyes widened. Taiga smiled and continued
+
+"Yeah, I know. I used to be different. I've never liked crowds, but peer pressure was stronger. Eventually I though that disliking crowds was wrong and that I simply had to 'let me go'."
+
+"I can already picture you being the center of the party."
+
+Taiga smiled.
+
+"I was mostly awkward."
+
+"That sounds more realistic."
+
+Taiga shoved him, Leo laughed.
+
+---
+They returned home around ten. Carmen immediately wanted to know if they had eaten enough. She looked at Taiga with suspicion but decided to let him go. 
+
+"When I was younger, I had to send her picture of what I was eating if I wasn't home."
+
+"Talk about distrust."
+
+They went upstairs and got ready for bed. 
+
+When done with the bathroom, Leo came back to the room and closed the door. Taiga was already in bed, checking his phone.
+
+"Everything still in order for tomorrow?" 
+
+"Yeah."
+
+"Good."
+
+Leo turned off the lights and leaned beside him in bed.
+After a while, Taiga set the alarm and locked the phone. Leo asked,
+
+"What time do we wake up?"
+
+"Six."
+
+Leo groaned.
+
+"Great."
+
+They stayed in silence for a while. Then Leo turned towards him.
+
+"Taiga?"
+
+Taiga turned as well.
+
+"Mhm?"
+
+"I'm... sorry for earlier."
+
+Taiga didn't answer immediately.
+
+"Look, I understand. You didn't to bail on him."
+
+"Yeah, but I shouldn't have forgotten in the first place."
+
+Taiga sighed.
+
+"You do see that this keeps happening, right?"
+
+"Yeah I know. I keep forgetting to actually use a calendar."
+
+He stopped a second, then continued.
+
+"Now I also have boyfriend duties, so I guess I'll need to fix that. Or hire a secretary."
+
+"No, that's not what I mean."
+
+"What then?"
+
+"It's... you keep overscheduling. It's not about forgetting things, it's that you say yes to anyone before even considering saying no."
+
+"You know that I like being helpful and I don't like missing things out. Look-"
+
+Leo put the palm of his hand on Taiga's cheek.
+
+"I promise I'll try to make more room for you. For us."
+
+There was something in that promise that made Taiga really uncomfortable. 
+
+"I don't want to be another thing you have to manage."
+
+Leo leaned and kissed him.
+
+"You won't."
+
+Taiga decided to leave it there anyways since it was getting late.
+
+That feeling didn't go away, though. 
