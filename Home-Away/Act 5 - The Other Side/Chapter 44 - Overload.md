@@ -756,7 +756,7 @@ Taiga looked back at the clothes on the bed.
 
 "This isn't what we agreed on."
 
-"I know, but... I'm sorry, I totally forgot! Okay, maybe I can ask the coach if he can do the session earlier."
+"I know, but... I'm sorry, I totally forgot! Okay, maybe I can ask the coach if I can leave earlier."
 
 Taiga felt some heat climbing up. 
 
@@ -971,12 +971,9 @@ Leo put the palm of his hand on Taiga's cheek.
 "I promise I'll try to make more room for you. For us."
 
 There was something in that promise that made Taiga really uncomfortable. 
-
-"I don't want to be another thing you have to manage."
-
 Leo leaned and kissed him.
 
-"You won't."
+"Promised."
 
 Taiga decided to leave it there anyways since it was getting late.
 
