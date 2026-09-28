@@ -14,17 +14,17 @@ Leo offered him the last of Carmen's bread.
 
 Taiga took half. Leo kept the rest.
 
-On the longer ride, Taiga watched the buildings thin out. They passed stretches of road with nothing alongside them but trees, then another cluster of shops and houses. Leo showed him where they were on the map when they lost signal and it loaded again. Taiga could have checked himself, but Leo already had his phone out.
+On the longer ride, Taiga watched the buildings thin out. They passed stretches of road with nothing alongside them but trees, then another cluster of shops and houses. When the signal returned, Leo showed Taiga where they were on the map.
 
 When the bus finally began descending toward Las Terrenas, Taiga caught a patch of water between the hills. It disappeared behind a row of buildings before he could get a better look.
 
 They got off in town with their bags and followed the directions on Taiga's phone. Leo knew which way led to the beach, but their room was inland. The walk took them past a bakery, a row of motorcycles outside a shop, and a dog asleep where the pavement narrowed. Taiga stepped into the road to get around it. The dog didn't move.
 
-The woman at the guesthouse checked their booking and handed them a key. Taiga understood her directions well enough to find the stairs without waiting for Leo to repeat them. Their room was at the end of the corridor.
+The woman at the guesthouse checked their booking and handed them a key. Taiga understood her directions well enough to find the stairs. Their room was at the end of the corridor.
 
 It had one bed, a fan and a small table under the window. Nothing in it matched the photographs exactly, but it was clean. Leo set down his bag and opened the window. Somewhere below, a motorcycle started up; the sea was still out of sight.
 
-Taiga put his bag beside the bed. They had two nights here, and neither of them had to catch another bus today.
+Taiga put his bag beside the bed.
 
 Leo turned from the window.
 
