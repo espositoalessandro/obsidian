@@ -328,7 +328,15 @@ They had lunch in a place nearby. Leo was looking at a group of people crossing 
 
 "No."
 
-Leo smiled and reached for Taiga's hand across the table, but he was still somewhere else for a moment. Then he asked what Taiga had actually said. Taiga told him which food he preferred and watched Leo steal the last bite of it.
+Leo reached for Taiga's hand across the table.
+
+"What did you actually say?"
+
+"That mine's better than yours."
+
+Leo took the last bite from Taiga's plate.
+
+"Was," Taiga said.
 
 They stopped at a shop for sweets to bring home to Antonio. Leo got an extra bag for Carmen, who would claim them anyway.
 
