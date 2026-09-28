@@ -817,8 +817,8 @@ Taiga looked up.
 They spent the next hour finishing packing and getting ready for the night. They didn't talk much in the meantime.
 
 ---
-At seven, they went out. The air was still a bit awkward, but neither of them brought the argument back.
-At some point, Leo asked
+At seven, they went out. At the corner, Leo's fingers brushed Taiga's. Taiga took his hand, and they kept walking.
+After a while, Leo asked,
 
 "Have you decided when you're going home?"
 
@@ -975,11 +975,8 @@ Leo put the palm of his hand on Taiga's cheek.
 
 "I promise I'll try to make more room for you. For us."
 
-There was something in that promise that made Taiga really uncomfortable. 
-Leo leaned and kissed him.
+Taiga didn't answer. Leo leaned in and kissed him.
 
 "Promised."
 
-Taiga decided to leave it there anyways since it was getting late.
-
-That feeling didn't go away, though. 
+Taiga looked at him for a moment. Then he put his arm around Leo and drew him in. Leo settled against him, and after a while his breathing slowed. Taiga kept his eyes open a little longer. 
