@@ -462,7 +462,7 @@ Leo sat up, pulled away from Taiga, and turned to face him. His eyes were still 
 
 He looked down and grabbed Taiga's hand. Leo let out a short laugh and smiled sadly.
 
-"These three days with you... maybe it's been the first time I wasn't surrounded by people who expected something from me."
+"These three days with you... I felt lighter. Maybe for the first time."
 
 Something lurched inside Taiga. Leo looked straight at him.
 
