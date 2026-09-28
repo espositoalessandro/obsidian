@@ -718,8 +718,6 @@ Leo was quiet for a while.
 
 "...I would really like that."
 
-Taiga kissed him on the forehead.
-
 "Ask your mother, then I'll tell Yoshi."
 
 Leo turned and kissed him on the lips.
