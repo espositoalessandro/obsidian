@@ -85,7 +85,7 @@ Leo finished the pastry while they walked.
 
 The sand was wider farther west. They found the game near a line of trees, where four people were taking turns with a ball and two more were sitting on a fallen trunk. A rope stretched between two poles. Nobody seemed interested in whether it was straight.
 
-Leo stopped to watch. Taiga could hear him following the ball each time it went over the rope. One of the players served, missed the court entirely and called something that made the others laugh. The ball rolled toward Leo. He picked it up and threw it back.
+Leo stopped to watch. His head followed the ball each time it went over the rope. One of the players served, missed the court entirely and called something that made the others laugh. The ball rolled toward Leo. He picked it up and threw it back.
 
 The woman nearest the rope asked if they wanted to join.
 
@@ -93,7 +93,7 @@ Leo looked at Taiga.
 
 "Opposite sides," Taiga told him.
 
-Leo told the woman they'd play and pointed to either side of the rope. She grinned and called to the others. They split into two teams of three. Taiga ended up beside a man who introduced himself as David and the woman who'd invited them. Leo was across the rope, already trying to remember two names at once.
+Leo told the woman they'd play and pointed to either side of the rope. She grinned and called to the others. They split into two teams of three. Taiga ended up beside a man who introduced himself as David and the woman who'd invited them. Leo was across the rope, pointing to each new teammate as he repeated their names.
 
 The first serve came at Taiga. He put both arms together the way he'd seen on television and sent the ball almost straight up. It dropped behind him.
 
@@ -398,7 +398,7 @@ Leo turned towards him immediately.
 
 "I'm not mad at you. I don't think you did anything wrong."
 
-Taiga felt his shoulders dropping. Leo noticed and smiled.
+Taiga felt his shoulders dropping. Leo looked at him and smiled.
 
 "Sorry, wrong start. It's just... this is a sensitive topic for me."
 
