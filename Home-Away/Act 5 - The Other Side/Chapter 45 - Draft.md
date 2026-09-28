@@ -30,7 +30,7 @@ They came out onto a stretch of sand with boats pulled above the waterline and p
 
 Leo waded in far enough to wet his shorts. Taiga left his shoes beside Leo's on dry sand and went after him. The water reached his knees. Leo turned with his hair in his face, grinning as if he'd been the one to discover the place.
 
-They stayed until their clothes began drying on them, then followed the shore in one direction and the road back in the other. Leo talked about places he remembered from an earlier family visit; half the businesses had changed, and one restaurant he wanted to show Taiga had become a shop selling beach clothes. He went inside anyway. Taiga found him holding up a hat wide enough to shade both of them.
+They stayed until their clothes started to dry, then followed the shore in one direction and the road back in the other. Leo talked about places he remembered from an earlier family visit; half the businesses had changed, and one restaurant he wanted to show Taiga had become a shop selling beach clothes. He went inside anyway. Taiga found him holding up a hat wide enough to shade both of them.
 
 "We could fit both of us under that," Taiga said.
 
@@ -165,7 +165,7 @@ Taiga shook a handful of water at him. Leo backed out of range, which was unfair
 
 By the time they came out, neither of them could agree which side had won. Taiga thought that meant it had been his.
 
-They ate lunch from a counter along the road behind the beach. Leo recognized one of the players passing on a motorbike and called goodbye with his mouth full. Taiga made him swallow before attempting the story he'd started about how he'd nearly hit David in the face.
+They ate lunch from a counter along the road behind the beach. Leo recognized one of the players passing on a motorbike and called goodbye with his mouth full. Taiga made him swallow before Leo could finish the story he'd started about nearly hitting David in the face.
 
 They spent the hottest part of the afternoon in their room. Taiga stretched out in the cool air, his calves aching pleasantly, while Leo sent photographs of the beach to Carmen. The pictures looked nothing like the morning they'd actually had. Leo put the phone away and rolled onto his side.
 
@@ -350,16 +350,17 @@ Toward evening, they walked back to the shore. Taiga had thought Leo might want 
 
 In the picture, Taiga had his arms raised beneath a ball that was nowhere near them. Leo was in the background, laughing. Taiga made him send it over.
 
-Back at the guesthouse, Taiga set the bag of sweets on the table, away from their clothes, and went to stand by the window. He heard Leo put his phone down behind him. When he turned, Leo was sitting on the edge of the bed looking at the floor, spacing out.
+Back at the guesthouse, Taiga set the bag of sweets on the table, away from their clothes, and went to stand by the window. He heard Leo put his phone down behind him. When he turned, Leo was sitting on the edge of the bed, staring at the floor.
+
 Taiga snapped his fingers. Leo looked at him.
 
 "What?"
 
-"Nothing. You looked lost in your head and I just wanted to annoy you."
+"Nothing. You were miles away, and I wanted to annoy you."
 
 "Well, good job then."
 
-"I'm going to brush my teeth, I'll leave you alone with your inner monsters."
+"I'm going to brush my teeth. I'll leave you alone with your inner monsters."
 
 Leo flipped him off.
 
@@ -367,7 +368,7 @@ By the time Taiga was done with the bathroom, Leo was lying on the bed, looking 
 
 "I'm done if you need the bathroom."
 
-Leo snapped out of his thoughts, and turned his head toward Taiga.
+Leo turned his head toward Taiga.
 
 "Yeah."
 
@@ -379,7 +380,7 @@ Taiga raised an eyebrow, but said nothing.
 
 "Fuck you, I'm trying to be serious."
 
-Taiga didn't answer. He leaned on the bed beside him on his side, resting the head on his hand and looking at him.
+Taiga didn't answer. He lay beside Leo on his side, propping his head on one hand.
 
 "What's bugging you?"
 
@@ -397,7 +398,7 @@ Leo turned towards him immediately.
 
 "I'm not mad at you. I don't think you did anything wrong."
 
-Taiga felt his shoulders dropping. Leo noticed and smiled.
+Taiga's shoulders dropped. Leo noticed and smiled.
 
 "Sorry, wrong start. It's just... this is a sensitive topic for me."
 
@@ -407,12 +408,11 @@ Taiga felt his shoulders dropping. Leo noticed and smiled.
 
 Leo exhaled.
 
-"I guess I simply didn't have enough energy to face that discussion in that moment."
+"I guess I didn't have the energy for that discussion then."
 
-He went back staring at the ceiling.
+He stared at the ceiling again.
 
-"I hate when it happens. I hate when I disappoint someone who was relying on me.
-Every time I try to make it pass as if it was nothing, as if it's something fixable, because I'm too afraid to admit it."
+"I hate when it happens. I hate when I disappoint someone who was relying on me. Every time, I try to brush it off as nothing, as something I can fix, because I'm too afraid to admit it."
 
 "Admit what?"
 
@@ -424,28 +424,27 @@ Leo closed his eyes.
 
 Then he turned towards Taiga.
 
-"Then it happened with you. Two times. If I can't tolerate this happening with friends, let alone with you. I-"
+"Then it happened with you. Two times. I can't stand it when it happens with friends, let alone with you. I—"
 
-His voice broke and he put his forearm on his eyes. His breath went uneven. 
-Taiga sat and pulled his arm. Leo leaned his head on his thigh. 
-Taiga slowly caressed his hair, while he cried.
+His voice broke and he covered his eyes with his forearm. His breathing turned uneven.
+
+Taiga sat up and pulled Leo's arm away from his face. Leo rested his head on Taiga's thigh. Taiga stroked his hair while he cried.
 
 Eventually, Leo sat as well, rubbing his eyes.
 
 "Sorry, that came out of nowhere."
 
-Taiga didn't answer. He leaned with his back to the wall and pulled Leo again in, making him laying with his back on his chest.
-Then Taiga wrapped him with his arms, still saying nothing.
+Taiga didn't answer. He leaned back against the wall and drew Leo against his chest, wrapping both arms around him.
 
-After a while, Leo said
+After a while, Leo said:
 
-"I've been living with this for as long as I remember. The fear of letting someone down, the fear of not being able to help or worse, the fear of hurting. Being the one who always smiles, being the funny one, the one you talk to, the one always available when you need him."
+"I've been living with this for as long as I remember. The fear of letting someone down, the fear of not being able to help or, worse, the fear of hurting someone. Being the one who always smiles, being the funny one, the one you talk to, the one always available when you need him."
 
 Leo took a deep breath.
 
 "It's fucking heavy."
 
-Taiga waited a second and said
+Taiga waited a second and said:
 
 "No wonder you need your five minutes."
 
@@ -453,22 +452,21 @@ Leo nodded.
 
 "Yesterday you told me that I hadn't taken them yet."
 
-Taiga became careful again. Leo continued
+Leo continued:
 
 "That made me realize that maybe for the first time I actually didn't need them."
 
-Leo sat straight, pulling out from Taiga's embrace and turned to face him. His eyes were still red and swollen.
+Leo sat up, pulled away from Taiga, and turned to face him. His eyes were still red and swollen.
 
 "And I didn't know how much fucking weight I was carrying until it lifted."
 
-He looked down and grabbed Taiga's hand. Leo exhaled one laugh from the nose, putting on a sad smile.
+He looked down and grabbed Taiga's hand. Leo let out a short laugh and smiled sadly.
 
-"These three days with you... maybe It's been the first time I wasn't surrounded by people who expected something from me."
+"These three days with you... maybe it's been the first time I wasn't surrounded by people who expected something from me."
 
-Taiga felt something lurching inside him. He was feeling Leo's pain, because he knew it all too well.
-Leo gazed directly at him. 
+Something lurched inside Taiga. Leo looked straight at him.
 
-"So... that's why I said you were right. About me, saying yes to everyone."
+"So... that's why I said you were right. About me saying yes to everyone."
 
 Taiga looked down and rubbed his thumb on Leo's hand.
 
@@ -484,7 +482,7 @@ Leo nodded.
 
 Leo frowned. Taiga scratched the back of his head.
 
-"At the time I thought that it didn't matter anymore. If I worked so hard to be liked and it took so little to break everything apart... it was just not worth it."
+"At the time I thought that it didn't matter anymore. If I worked that hard to be liked and it took so little to break everything apart... it wasn't worth it."
 
 "But you didn't really stop caring, right? You told me your story with Keitaro."
 
@@ -496,7 +494,7 @@ Taiga nodded.
 
 "You can be liked even if you are yourself."
 
-Leo stopped a second. Taiga smiled
+Leo paused. Taiga smiled.
 
 "In fact, it was you guys who actually made me understand this, back at Olympus."
 
@@ -508,14 +506,15 @@ Leo slowly looked down. Taiga continued.
 
 "I'm pretty sure you can be yourself and everybody will still love you as well."
 
-Then he took a deep breath. His heart started pounding hard.
+Then he took a deep breath. His heart started racing.
 
 "...I, for one, sure will."
 
-Leo looked at him. Taiga couldn't bear his gaze for more than two seconds.
-Then Leo said
+Leo looked at him. Taiga couldn't hold his gaze for more than two seconds.
 
-"Whenever I'm with you, I feel like... I don't know, as if someone lifts the pressure all of a sudden. I guess I never really managed to articulate this before tonight."
+Then Leo said:
+
+"Whenever I'm with you, I feel like... I don't know, as if the pressure lifts all of a sudden. I guess I never really managed to articulate this before tonight."
 
 Taiga smiled. Leo held his hands tighter.
 
@@ -525,9 +524,9 @@ He looked up.
 
 "I love you."
 
-Taiga's entire body reacted all at once. His face became red instantly. His heart started pounding like never before. His stomach clenched. His palms started sweating.
+Taiga's face burned. His heart pounded, his stomach clenched, and his palms went damp.
 
-Flashes of memories started appearing unrequested before his eyes.
+Memories flashed through his mind without warning.
 
 Leo walking with hands behind his head.
 *I can't imagine a version of Olympus without you*
@@ -545,11 +544,11 @@ The conference match.
 The goal.
 The kiss.
 
-Leo wasn't looking at him expectantly. In fact, he had lowered his gaze shortly after. 
+Leo wasn't watching for an answer. He'd lowered his gaze.
 Taiga grabbed his face with both hands and kissed him like he had never done before.
-He kept him close. Feeling his desire. Feeling his affection. Letting every emotion flow into that one kiss.
+He kept Leo close.
 
-Then he finally pulled back. 
+He pulled back.
 
 "I love you too."
 
