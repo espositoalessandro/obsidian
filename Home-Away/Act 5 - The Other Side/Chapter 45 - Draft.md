@@ -91,17 +91,17 @@ The woman nearest the rope asked if they wanted to join.
 
 Leo looked at Taiga.
 
-"Sure," Taiga said. "Put us on opposite sides."
+"Opposite sides," Taiga told him.
 
-The woman grinned and called to the others. They split into two teams of three. Taiga ended up beside a man who introduced himself as David and the woman who'd invited them. Leo was across the rope, already trying to remember two names at once.
+Leo told the woman they'd play and pointed to either side of the rope. She grinned and called to the others. They split into two teams of three. Taiga ended up beside a man who introduced himself as David and the woman who'd invited them. Leo was across the rope, already trying to remember two names at once.
 
 The first serve came at Taiga. He put both arms together the way he'd seen on television and sent the ball almost straight up. It dropped behind him.
 
-David jogged to retrieve it. "We can work with that."
+David jogged to retrieve it. "*We can work with that.*"
 
-"Can we?"
+"*Can we?*"
 
-"You got under it."
+"*You got under it.*"
 
 Across the rope, Leo was laughing with one of his new teammates. He served next. The ball cleared the rope, hit the sand near Taiga's foot and bounced away.
 
@@ -137,15 +137,15 @@ Leo sent the next one directly at him.
 
 Taiga got his arms beneath it. The ball rose crookedly and David rescued it. Their side made three contacts, each uglier than the last, before it crossed the rope. Leo's teammate tapped it back into empty sand.
 
-Taiga looked at David. "We worked for nothing."
+Taiga looked at David. "*We worked for nothing.*"
 
-"That's volleyball."
+"*That's volleyball.*"
 
-"Terrible sport."
+"*Terrible sport.*"
 
-"Again?"
+"*Again?*"
 
-"Obviously."
+"*Obviously.*"
 
 They stopped only when one of the original players had to leave. Taiga sat on the trunk beside the rope and found sand on his arms, behind one knee, and somehow inside his shirt. Leo stayed standing to help pull the rope loose. He was flushed from playing and still talking to the woman about a point from twenty minutes ago. She demonstrated where she'd thought the ball landed; he showed her where he thought his foot had been. Neither looked convinced.
 
@@ -231,9 +231,9 @@ Taiga had an answer ready and forgot it when Leo pulled him back on the beat.
 
 The music changed. Leo clapped along with the people around them, then took Taiga's hand again. Taiga tried one of the steps he'd seen and got it wrong in a new way. Leo looked down at their feet and laughed so hard he almost lost his own. When they finally needed to stop, Taiga took his drink from the wall. It had gone warm. He finished it anyway.
 
-Leo was still moving one shoulder to the music. He spotted the woman from their volleyball game standing near the musicians and went over to say hello, taking Taiga with him. She introduced them to a friend who wanted to hear how two football players had managed to lose to her team. Taiga said they hadn't lost. The woman turned to Leo for confirmation.
+Leo was still moving one shoulder to the music. He spotted the woman from their volleyball game standing near the musicians and went over to say hello, taking Taiga with him. She introduced them to a friend who wanted to hear how Taiga and Leo had managed to lose to her team. Taiga said they hadn't lost. The woman turned to Leo for confirmation.
 
-Leo considered it for half a second. "We didn't keep score."
+Leo considered it for half a second. "*We didn't keep score.*"
 
 "Traitor," Taiga said.
 
