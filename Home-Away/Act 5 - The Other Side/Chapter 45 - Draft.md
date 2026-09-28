@@ -85,8 +85,6 @@ The path brought them past a small row of shops and another opening onto sand. L
 
 "Papá agreed."
 
-Leo bent to pick a pebble out of his sandal. When he straightened, Taiga was already walking toward the next turn. He called after him, and Taiga waited while he caught up.
-
 By late afternoon they had seen enough of the town to know where the beach was, where to get breakfast and which street would take them back without consulting the map. They bought water from a shop near the guesthouse. Leo carried both bottles while Taiga searched his pockets for the room key.
 
 He had put it in the wrong one.
@@ -194,7 +192,7 @@ They took coffee and something warm from the bakery and ate outside. Leo took on
 
 "Then suffer."
 
-Leo went inside anyway. He came back with a second one and broke it in half. Taiga ate his share.
+Leo went inside anyway. 
 
 They walked west after breakfast, following the shore when there was room for it and the streets when there wasn't. Near Las Ballenas, the sand widened and the buildings stood farther back. Taiga found a place under a tree where they could leave their shoes while they went down to the water.
 
