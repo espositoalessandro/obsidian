@@ -350,8 +350,6 @@ Toward evening, they walked back to the shore. Taiga had thought Leo might want 
 
 In the picture, Taiga had his arms raised beneath a ball that was nowhere near them. Leo was in the background, laughing. Taiga made him send it over.
 
-They ate on the way back. Taiga told Leo he wanted to take his mum somewhere with a beach once they worked out when he'd be home. Leo asked where his mum would want to go. Halfway through Taiga's answer, he looked up at him as if he'd missed a word. Taiga finished anyway.
-
 Back at the guesthouse, Taiga set the bag of sweets on the table, away from their clothes, and went to stand by the window. He heard Leo put his phone down behind him. When he turned, Leo was sitting on the edge of the bed, looking at him.
 
 Taiga sat beside him.
