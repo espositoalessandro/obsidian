@@ -553,4 +553,180 @@ He pulled back.
 "I love you too."
 
 Leo stared at him for a couple of seconds, then he kissed him again. 
-This time they didn't stop.
+Lust took over almost instantly. Taiga pushed Leo on his back and leaned over. Their lips stayed locked together, separating just enough time for them to pull each other's shirt over. 
+Leo put one hand behind Taiga's head, the other on his back, pulling him closer until their body touched. 
+Taiga felt his warm skin on his chest and his abdomen, while his hand kept moving on his back. 
+Suddenly, Leo grabbed his shoulder and rolled, positioning himself on top. He kept kissing Taiga, while taking his hands and putting them over his ass.
+Underneath the thin fabric of his shorts, Taiga could feel its shape, its softness.
+Without hesitation, he started grabbing his cheeks tight, making Leo groan softly. 
+Leo began grinding his crotch on Taiga's, making him feeling a jolt of pleasure.
+One of his hands slipped under his shorts and pants, firmly groping the warm cheek. Then it slowly slid towards the middle, gently caressing the area around his hole with his fingers.
+Leo moaned with pleasure and pulled his face from Taiga's. 
+
+"Taiga I... I want you. Inside."
+
+Taiga's heart began rushing again. He felt no hesitation though. 
+
+"You got lube?"
+
+Leo shook his head.
+
+"Then we'll do it in another way."
+
+Before Leo could say anything else, Taiga grabbed him and laid him on the bed on his front. He then leaned over and kissed the back of his neck, then, his shoulder blade, slowly making his way downward. 
+His hands grabbed the waistband of Leo's shorts and pants and pulled them down, finally exposing his ass in front of his face. 
+Taiga continued kissing him downwards, from the lower back to on cheek. Then the other.
+He lingered there for a second, making sure Leo was comfortable with this. 
+After hearing no complain, Taiga stretched Leo's cheeks and put his face right in. 
+Leo ghasped with pleasure as he licked his hole.
+
+"Fuck-"
+
+Taiga's hands firmly grasped both cheeks, keeping them apart, while his tongue moved around the rim.
+Then he pulled over and gently pressed one finger on the hole, slowly massaging it. 
+After it relaxed enough, he put his face in again, this time pressing his tongue inside it.
+Leo buried his face in the mattress to muffle his moans.
+After a while, Taiga decided he was ready. He pulled off his shorts and pants, then spat on his dick.
+
+"You sure about this?"
+
+"Just put it in already."
+
+Taiga smiled and pressed the tip on the hole. 
+
+"Tell me if it hurts."
+
+He slowly pushed in. Leo's face was in the mattress, his hand tightly squeezing the sheets. 
+Taiga moved another centimeter in, still no response.
+When he was halfway in, Leo's arms contracted for an instant. Taiga stopped.
+
+"You good?"
+
+"Y-yeah, you're just fucking huge. Just give me a second."
+
+Taiga leaned and kissed his neck. After a while, Leo began pushing his ass upward, so Taiga kept going in.
+His head went fuzzy when he buried his whole dick in Leo, overwhelmed by the pleasure. 
+Leo let out a loud moan as well.
+
+"Ohhh fuck, yeah."
+
+Taiga wrapped him with his arms and continued kissing his neck, then his cheek, without moving yet. Then Leo said:
+
+"Okay, you can move. Just- slowly, please."
+
+Taiga began pulling it out slowly, then when he was about to exit he pushed it in again. He repeated this until he felt that Leo had relaxed enough. Then he started going slightly faster.
+
+"Oh fuck, this feels amazing."
+
+"Y-Yeah, you're so fucking tight. It's so warm inside."
+
+"Keep going."
+
+Taiga did, thrusting faster. After a while, Leo said:
+
+"Wait I- "
+
+Taiga stopped.
+
+"You hurt?"
+
+"N-No, I just want to look at you."
+
+Taiga smiled. 
+
+"I got you."
+
+He pulled it out and turned Leo on his back. Then he grabbed his legs and raised them. 
+He drooled another bit of saliva on his dick and entered him again.
+
+Leo rolled his eyes and moaned even harder. 
+Taiga kept on moving, but he let go of his legs and leaned closer until their faces were centimeters apart. 
+Leo put his arms around Taiga's head, pulling him in and kissing him in. Their tongues intertwined while Taiga kept thrusting. He began jerking off as well.
+
+"H-Harder."
+
+Taiga looked at him straight into the eyes and obeyed. Their breaths were heavy, sweat was covering their foreheads, but their face stayed close.
+
+"I- I think I'm close."
+
+Leo grabbed the back of his head firmly.
+
+"Do it inside, please."
+
+Taiga kept his rhythm steady, while he got closer and closer. Leo stroked his dick faster.
+
+"Ugh, c-cumming-"
+
+He slammed his dick in one last time and came straight inside him.
+
+"Shit-"
+
+Leo kept their foreheads locked, jerking himself off even faster, until he came as well. He shot all over his abdomen, some even reached the base of his neck.
+
+They stayed like this for a while, catching their breath. Eventually a smile appeared on both of their faces.
+Taiga kissed his forehead.
+
+"You alright?"
+
+Leo's smile widened. He kissed him on the lips.
+
+"More than alright."
+
+Taiga softly laughed.
+
+"Come on, let's get cleaned up."
+
+---
+They returned from the bathroom slowly after and went to bed. Taiga laid on his back while Leo rested his head on his chest.
+They stayed in silence like this for a while in the dark. The AC was the only noise in the room. Then Leo said:
+
+"Thank you."
+
+"For what?"
+
+"I'm just so grateful to have met you."
+
+Taiga smiled.
+
+"Me too."
+
+Leo snuggled closer.
+
+"Now I really wish you didn't have to leave."
+
+Taiga stayed silent for a while.
+
+"There is still Camp Buddy."
+
+"Yeah I thought about it. A lot. But..."
+
+"But?"
+
+"If the term ends in August, then it means I'll have to come back here before Olympus preseason begins. I don't think I can afford going back and forth two times."
+
+"Then we'll stay in the camp."
+
+"What?"
+
+"We can stay in the camp after the term."
+
+"But... it's gonna be something like a month. No, a month and a half."
+
+"Yeah. Postseason gets just as busy as preseason, don't worry."
+
+Leo went silent for a while.
+
+"...I would really like that."
+
+Taiga kissed him on the forehead.
+
+"Ask your mother, then I'll tell Yoshi."
+
+Leo turned and kissed him on the lips.
+
+"I freaking love you."
+
+Taiga smiled.
+
+"You'd better."
+
