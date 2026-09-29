@@ -44,6 +44,24 @@ The narrative camera belongs to Taiga.
 
 Taiga does not need to consciously formulate every narrative observation. Close-third narration may express his instincts, judgments and associations more cleanly than he would say them aloud, but it must remain plausible as **his way of perceiving the situation**.
 
+The narration should use a **mix of direct thought and biased external narration**.
+
+Direct thought may appear as:
+
+- *Why the fuck did they have to do it this way?*
+- *Of course.*
+- *Great.*
+
+Biased external narration may instead frame the world through Taiga without quoting a thought:
+
+- The room was way too crowded for his tastes.
+- The explanation took three times longer than it needed to.
+- Leo had apparently decided that one bag was not enough.
+
+Both modes are valid.
+
+Do not force every subjective judgment into an italicized thought, and do not make external narration neutral when Taiga's bias would naturally color it.
+
 The narration must not become an omniscient emotional diagnosis of other characters.
 
 ---
@@ -388,7 +406,44 @@ The underlying person remains Taiga.
 
 ---
 
-## 3.13 Short Internal Reactions
+## 3.13 Attraction and Physical Attention
+
+Taiga may notice physical attraction directly.
+
+Early in the novel, he is more likely to:
+
+- notice a body, face, voice, gesture or physical detail;
+- react to it;
+- then dismiss, minimize or redirect the thought.
+
+As his attraction to Leo becomes acknowledged, the **dismissal should gradually disappear**.
+
+Later Taiga does not need to argue with himself every time he notices:
+
+- Leo's body;
+- his mouth;
+- his hands;
+- the way clothes fit him;
+- sweat after training;
+- physical closeness;
+- other concrete details of attraction.
+
+This should remain:
+
+- physical;
+- specific;
+- matter-of-fact;
+- recognizably Taiga.
+
+It should not become purple, reverent or voyeuristic by default.
+
+The development is not that Taiga suddenly notices more.
+
+It is that he becomes comfortable admitting what the noticing means.
+
+---
+
+## 3.14 Short Internal Reactions
 
 Fragments such as:
 
@@ -505,10 +560,7 @@ During every chapter rewrite, check:
 
 To define during the rewrite:
 
-- exact narrative-distance limits;
-- frequency of free-indirect fragments;
 - section-by-section calibration of Taiga's growth;
 - balance between humor and seriousness;
-- Taiga's attraction/physical gaze and how it changes with intimacy;
 - sensory priorities and recurring descriptive habits;
 - how much anime-style exaggeration is appropriate for each cast group.
