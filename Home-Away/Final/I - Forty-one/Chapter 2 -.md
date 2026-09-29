@@ -6,7 +6,7 @@ At 6:30, all of them went off within approximately twelve seconds of one another
 
 “What the fuck?”
 
-Caleb's hand emerged from beneath his blanket only at the third alarm and slapped vaguely at the nightstand. The physical alarm continued shrieking. His phone joined it. Then his watch. Then a pleasant female voice announced from the speaker:
+Caleb's hand emerged from beneath his blanket only after the third alarm and slapped vaguely at the nightstand. The physical alarm continued shrieking. His phone joined it. Then his watch. Then a pleasant female voice announced from the speaker:
 
 “Good morning, Caleb. It is six-thirty A.M.”
 
@@ -147,7 +147,7 @@ After his assistants completed the warm-up session with the candidates, Mercer a
 
 He looked each of them straight in the eye.
 
-"I don't need good players. I already have enough. I need people who can grow with my team and become better."
+"I don't need good players. I already have enough. I need people who can grow into my team and get better."
 
 He then looked at his clipboard.
 
@@ -196,7 +196,7 @@ Taiga nodded.
 
 “I guess I don't always have to move inside.”
 
-“Right. Soccer would be much easier if every answer was always.” Mercer stepped back. “Read the defender. Read your fullback. Read where the ball is. The diagram gives you options, not permission to stop thinking.”
+“Right. Soccer would be much easier if the same answer always worked.” Mercer stepped back. “Read the defender. Read your fullback. Read where the ball is. The diagram gives you options, not permission to stop thinking.”
 
 Then he moved on to the others. After assigning each of them a role, Mercer and his assistants divided them into four groups, mixing current players and candidates. He spotted Leo among the candidates who wanted to play in attack.
 Bennett was in his group. 
@@ -292,7 +292,7 @@ Finally. Something he recognized.
 
 She put a short example on the screen and asked what would happen after each iteration.
 
-Taiga knew the answer before she finished asking. He considered raising his hands, before someone answered correctly. 
+Taiga knew the answer before she finished asking. He considered raising his hand before someone else answered correctly. 
 
 At least this class looked promising.
 
@@ -383,7 +383,7 @@ His phone buzzed again. A private message from Keitaro.
 
 **Keitaro:** Taiga? Are you alright?
 
-Taiga stared at it. Then he opened the Camp Buddy group chat and sent a screenshot of the email.
+Taiga stared at it. Then he opened the Camp Buddy group chat and sent a screenshot of the email there.
 
 The phone exploded.
 
@@ -613,7 +613,7 @@ A student in the front row raised his hand.
 
 Taiga looked up. Seriously? 
 
-The girl crossed her arms, listening.
+The girl crossed her arms and listened.
 Front Row Guy kept talking.
 
 “If people stay and keep following the rules, at some point that has to mean they accept them.”
@@ -727,7 +727,7 @@ Maybe this class wouldn't be completely terrible.
 At lunch, Caleb insisted on walking another four minutes to a smaller dining hall on the opposite side of campus. Taiga discovered why as soon as they entered: it was quieter.
 The main dining hall at noon sounded like somebody had trapped three hundred people inside an aluminum drum. This one held maybe fifty. Caleb visibly relaxed. They collected food and took a table near the window.
 
-Caleb removed one earbud. He almost always had something in his ears now. Sometimes music, often nothing. Taiga had asked once and Caleb had replied:
+Caleb removed one earbud. He almost always had something in his ears now. Sometimes music, often nothing at all. Taiga had asked once and Caleb had replied:
 
 “They reduce the high frequencies.”
 
@@ -839,7 +839,7 @@ It was just equipment.
 
 Five minutes later he was standing in the locker room surrounded by approximately twenty men who had apparently never experienced embarrassment in their lives. Shirts came off. Shorts changed. Someone was playing music from a phone.
 
-Near the middle benches, a guy Taiga recognized as Enzo was conducting an argument about whether a woman named Jenna had actually broken up with somebody named Marcus. Taiga learned more about Marcus's relationship in ninety seconds than he wanted to know about anybody.
+Near the middle benches, a guy Taiga recognized as Enzo was arguing about whether a woman named Jenna had actually broken up with somebody named Marcus. Taiga learned more about Marcus's relationship in ninety seconds than he wanted to know about anybody.
 
 “I'm telling you, ‘I need space’ is not automatically a breakup,” Enzo declared, pulling on one sock. “It could be a tactical withdrawal. A cooling period. A dramatic second act.”
 
@@ -873,7 +873,7 @@ Another teammate called him and he turned immediately.
 
 Taiga tied his cleats. The locker beside his belonged to Aaron, one of the players from tryouts. Aaron arrived late, half-dressed and carrying a banana.
 
-“Move please.”
+“Move, please.”
 
 Taiga stepped aside. Aaron opened the locker.
 
@@ -918,7 +918,7 @@ Later on the field, Taiga immediately understood why.
 
 The first team moved almost before Scott's voice finished crossing the field.
 
-As soon as he stepped into goal, the stutter disappeared.
+As soon as he stepped into the goal, the stutter disappeared.
 
 "RECOVER! ENZO, YOU'RE LATE!"
 
@@ -971,7 +971,7 @@ Taiga looked at him.
 
 “All the winger, fullback, six stuff. First few weeks you translate every word. Then you just see people.”
 
-Cole sounded calm in the way older players often sounded when they already knew the answer. Taiga was suspicious of that.
+Cole sounded calm in the way older players often did when they already knew the answer. Taiga was suspicious of that.
 
 “How long?”
 
@@ -989,7 +989,7 @@ After training, the locker room was even louder. Someone had won a bet. Taiga di
 
 Enzo was still arguing with three people at once while pulling a shirt over his head.
 
-“Scott. Tell them that tackle on Leo was a foul.”
+“Scott. Tell them that the tackle on Leo was a foul.”
 
 Scott, who had spent the previous forty minutes shouting instructions at everybody within hearing distance, sat two lockers down drying his hair with a towel.
 
@@ -1101,7 +1101,7 @@ Maya had curly hair and a university sweatshirt Taiga didn't recognize.
 
 “No.”
 
-Caleb propped the phone against his water bottle. Maya looked toward Taiga.
+Caleb propped the phone against his water bottle. Maya looked over at Taiga.
 
 “Oh\! Is that your roommate?”
 
@@ -1177,7 +1177,7 @@ Maya smiled.
 
 “Okay, then.”
 
-Taiga found himself watching them. Caleb, who sometimes spoke to people like an instruction manual that had learned profanity, somehow knew exactly how to be with her. Or maybe he didn't. Maybe she'd simply learned how to be with him too. Maya eventually said goodbye and they hung up.
+Taiga found himself watching them. Caleb, who sometimes spoke to people like an instruction manual that had learned profanity, somehow knew exactly how to be around her. Or maybe he didn't. Maybe she'd simply learned how to be with him too. Maya eventually said goodbye and they hung up.
 
 “She seems normal.”
 
