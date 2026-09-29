@@ -57,14 +57,14 @@ Athletics is different: training, film, recovery, strength work and travel are *
 
 ## Fall semester — Taiga
 
-| Day | Academic schedule | Stable continuity notes |
-| --- | --- | --- |
-| **Monday** | 08:30–09:20 Political Institutions; 10:00–10:50 Calculus I; 11:00–11:50 General Chemistry I lecture | Political Institutions → Calculus → Chemistry is the normal morning chain. |
-| **Tuesday** | 11:00–12:15 Foundations of Computer Science lecture | This is Taiga's Rao section. Leo's fall Foundations section is **Monday morning**, so they do not normally attend this lecture together. |
-| **Wednesday** | 08:30–09:20 Political Institutions; 10:00–10:50 Calculus I; 11:00–11:50 General Chemistry I lecture; 13:30–16:30 General Chemistry I lab | Chemistry lab is a **Wednesday** anchor. |
-| **Thursday** | 14:30–16:30 Foundations of Computer Science lab | Taiga normally returns from this lab by about 17:00. |
-| **Friday** | 08:30–09:20 Political Institutions; 10:00–10:50 Calculus I; 11:00–11:50 General Chemistry I lecture | Friday classes end around noon. |
-| **Saturday–Sunday** | No regular classes | Matches, training, recovery and personal plans vary. |
+| Day                 | Academic schedule                                                                                                                        | Stable continuity notes                                                                                                                  |
+| ------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| **Monday**          | 08:30–09:20 Political Institutions; 10:00–10:50 Calculus I; 11:00–11:50 General Chemistry I lecture                                      | Political Institutions → Calculus → Chemistry is the normal morning chain.                                                               |
+| **Tuesday**         | 11:00–12:15 Foundations of Computer Science lecture                                                                                      | This is Taiga's Rao section. Leo's fall Foundations section is **Monday morning**, so they do not normally attend this lecture together. |
+| **Wednesday**       | 08:30–09:20 Political Institutions; 10:00–10:50 Calculus I; 11:00–11:50 General Chemistry I lecture; 13:30–16:30 General Chemistry I lab | Chemistry lab is a **Wednesday** anchor.                                                                                                 |
+| **Thursday**        | 14:30–16:30 Foundations of Computer Science lab                                                                                          | Taiga normally returns from this lab by about 17:00.                                                                                     |
+| **Friday**          | 08:30–09:20 Political Institutions; 10:00–10:50 Calculus I; 11:00–11:50 General Chemistry I lecture                                      | Friday classes end around noon.                                                                                                          |
+| **Saturday–Sunday** | No regular classes                                                                                                                       | Matches, training, recovery and personal plans vary.                                                                                     |
 
 ### Fall athletics guardrails
 
