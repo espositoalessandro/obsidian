@@ -28,6 +28,7 @@ The core contrast is:
 | **Mia** | Find the workable solution and keep moving |
 | **Sofia** | Cut through the performance and state the practical reality |
 | **Rachel** | Verify before trusting the conclusion |
+| **Maya** | Make the space warmer and adapt when plans change |
 
 They do not need equal narrative weight.
 
@@ -550,7 +551,233 @@ That is enough.
 
 ---
 
-# 6. Rewrite Audit
+# 6. Maya
+
+## Core role
+
+**The warm improviser.**
+
+Maya is affectionate, expressive, outdoorsy and comfortable adapting when plans change.
+
+Her relationship with Caleb should not be built on the cliché that she is the extrovert who drags the quiet, structured boyfriend into having a life.
+
+She respects the way Caleb works.
+
+The complement is simpler:
+
+> **Caleb provides structure. Maya provides elasticity.**
+
+Neither is fixing the other.
+
+---
+
+## Relationship with Caleb
+
+Caleb likes:
+
+- plans;
+- routines;
+- clear logistics;
+- knowing what is happening;
+- systems that behave predictably.
+
+Maya is much more comfortable with:
+
+- changing plans;
+- improvising;
+- taking a longer route because it is nicer;
+- deciding something is worth the inconvenience;
+- adapting when reality does not match the schedule.
+
+She does not mock Caleb for wanting structure.
+
+Caleb does not treat Maya's spontaneity as irresponsibility.
+
+Their relationship works because:
+
+- Caleb makes plans concrete;
+- Maya prevents the plan from becoming sacred;
+- Caleb gives shape to ideas;
+- Maya makes room for the unexpected.
+
+This can create low-stakes conflict without making them fundamentally incompatible.
+
+---
+
+## Environmental / outdoors identity
+
+Lean more strongly into Maya's environmental-science interests.
+
+She can become genuinely animated about:
+
+- plants;
+- trails;
+- conservation;
+- public land;
+- ecosystems;
+- weather;
+- erosion;
+- wildlife;
+- fieldwork;
+- environmental policy when relevant.
+
+Her interest should feel lived-in rather than like a trivia dispenser.
+
+This also gives her and Caleb a useful shared mode.
+
+Caleb likes:
+
+- infrastructure;
+- transit;
+- bridges;
+- systems;
+- urban planning.
+
+Maya likes the natural systems surrounding them.
+
+They can enjoy the same outing for completely different reasons.
+
+A hike can naturally become:
+
+- Caleb noticing trail design or access;
+- Maya noticing vegetation, drainage, erosion or habitat.
+
+They share curiosity without sharing the same subject.
+
+---
+
+## Social instinct
+
+**Warm the space.**
+
+Maya is more likely than the other Olympus women to:
+
+- laugh openly;
+- ask directly how somebody is doing;
+- offer food;
+- invite people somewhere;
+- hug;
+- touch an arm or shoulder;
+- make practical gestures of care;
+- notice when a room feels stiff and soften it without turning the moment into analysis.
+
+She should feel socially generous without becoming Leo-like.
+
+Leo expands outward toward everyone.
+
+Maya's warmth is more grounded and local.
+
+---
+
+## Sentence shape
+
+Use:
+
+- natural conversational sentences;
+- expressive reactions;
+- concrete observations;
+- less abstraction than Nora;
+- less internet-chaos than Mia;
+- less clipped practicality than Sofia.
+
+When excited about something outdoors or environmental, she can become more animated and detailed.
+
+---
+
+## Humor mechanism
+
+Maya's humor should feel affectionate.
+
+Use:
+
+- open laughter;
+- gently calling out Caleb's systems;
+- treating his overplanning as familiar rather than bizarre;
+- choosing the inconvenient option on purpose and making him deal with it;
+- teasing that lands warmly rather than surgically.
+
+She should not compete with Nora or Sofia for the driest line.
+
+---
+
+## Stubbornness
+
+Maya can be stubborn in a very different way from Caleb.
+
+Caleb's stubbornness often comes from:
+
+> the system makes sense.
+
+Maya's can come from:
+
+> I know what I want.
+
+Example energy:
+
+> "That place is twenty minutes farther."
+
+> "Yes."
+
+> "There is another restaurant here."
+
+> "I don't want that one."
+
+> "That is inefficient."
+
+> "Correct."
+
+This makes them funny without turning either into the other's antagonist.
+
+---
+
+## Independence
+
+Maya must feel like a person Taiga likes independently, not merely Caleb's girlfriend.
+
+Retain or strengthen:
+
+- her own university;
+- presentations and coursework;
+- field obligations;
+- environmental interests;
+- friends;
+- plans Caleb is not part of;
+- opinions Caleb does not automatically share.
+
+Her life should occasionally interfere with Caleb's plans just as Caleb's life can interfere with hers.
+
+---
+
+## Distinguish from the others
+
+**Nora:** Nora challenges ideas. Maya responds to people and environments.
+
+**Mia:** Mia embraces functional chaos. Maya improvises without necessarily being disorganized.
+
+**Sofia:** Sofia cuts through nonsense. Maya softens spaces.
+
+**Rachel:** Rachel verifies. Maya adapts.
+
+**Leo:** both are warm, but Leo is socially expansive and high-energy. Maya is more grounded, physically affectionate and situational.
+
+---
+
+## Failure mode
+
+Do not invent a major dramatic weakness unless the rewrite needs one.
+
+Useful lower-stakes flaws:
+
+- can decide an improvised option is obviously better and underestimate how stressful the change is for somebody else;
+- may become impatient when Caleb keeps optimizing a situation she thinks is already good enough;
+- can be stubborn about plans she emotionally prefers;
+- sometimes assumes flexibility is easier for other people than it actually is.
+
+Keep these human and ordinary.
+
+---
+
+# 7. Rewrite Audit
 
 When revising scenes involving this group, check:
 
@@ -562,5 +789,9 @@ When revising scenes involving this group, check:
 - Does Sofia cut through performance without becoming emotionally flat?
 - Does Sofia exist outside Aaron?
 - Is Rachel recognizable through method rather than through an unnecessary gimmick?
+- Does Maya make scenes feel warmer without becoming generic "nice girlfriend" energy?
+- Does Maya respect Caleb's need for structure rather than trying to cure it?
+- Does Caleb/Maya tension come from structure vs flexibility rather than introvert vs extrovert?
+- Does Maya have environmental/outdoors interests and plans independent of Caleb?
 - Could Nora and Mia exchange dialogue without the lines obviously belonging to the wrong person?
 
