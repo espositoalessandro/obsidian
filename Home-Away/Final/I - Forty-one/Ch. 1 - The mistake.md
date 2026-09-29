@@ -3,23 +3,25 @@
 ---
 ### Chapter 1 - The mistake
 
-Crowded. Hot. Noisy.
+The bus doors opened onto a parking lot packed with families, luggage and enough expensive cars to make Taiga check the bus number again.
 
-That was Taiga's first impression of Olympus University as he got off the bus.
+Beyond them stood the entrance to Olympus University.
 
-The parking lot was full of people. Three more buses were unloading passengers. Countless cars. Students dragged luggage behind them, creating a constant static noise in the background.
-
-He looked up at the entrance arch to Olympus University: statues, fountains, gardens, white walls. And above all of it, bells were ringing from the stone tower somewhere on campus. Taiga stopped on the pavement and stared.
-Everything was fucking huge and pointlessly fancy.
+White stone. Iron gates. Fountains. Actual freaking statues.
 
 He adjusted the duffel on his shoulder and walked around the side of the bus to retrieve his suitcase.
+
+Of course there were statues.
+And above all of it, bells were ringing from the stone tower somewhere on campus. He stopped on the pavement and stared.
+
+Everything was fucking huge and pointlessly fancy.
 
 Things didn't improve when he started walking towards the entrance: mothers on the verge of tears, cringing students trying to shoo them away, some fancy-asses with personal valets carrying their stuff. 
 At the arch, a girl behind a small booth stacked with pamphlets gave him a bright smile and waved him over.
 
 "Hi! Welcome to Olympus University!"
 
-Her voice sounded so aggressively warm that Taiga almost considered getting back on the bus. Instead, he nodded and gave her a quick "Thanks." Then he moved on before she could trap him.
+Her voice sounded so aggressively warm and fake that Taiga almost considered getting back on the bus. Instead, he nodded and gave her a quick "Thanks." Then he moved on before she could trap him.
 
 He crossed the arch. The asphalt had already given way to light-grey paving stones. A gigantic plaza lay before him, with a large statue at the center: a Greek-looking athletic guy with a spear in one hand and a book in the other. At the base, Latin words were carved into the stone:
 
@@ -41,19 +43,21 @@ The guy nearly fell face-first onto the pavement. He recovered and immediately t
 
 Taiga could already feel the familiar heat climbing to his head. 
 Why can't people just look where they're going?
-No.
+
 He took a small breath.
+No.
 
 "Yeah."
 
 Then he turned and continued. 
 There. Day one and he almost lost it to a random guy who just bumped him.
+
 Great start.
 
 If it weren't for Camp Buddy, Taiga probably wouldn't have stopped himself. 
 He just didn't expect Olympus University to hit all his senses at once.
 
-He took a deep breath and moved on.
+He took another deep breath and moved on.
 
 ---
 He reached the residential zone. He checked the Olympus app for his block.
@@ -91,7 +95,8 @@ Room 317 was halfway down the corridor. Two names were printed beside the door.
 **AKATORA, TAIGA**  
 **MORRISON, CALEB**
 
-Taiga already knew who his roommate was. The application form included a housing questionnaire that offered **sometimes** where any sane person would have written **depends**. Still, seeing the name written there made the arrangement more real. He stepped inside.
+Taiga already knew who his roommate was. The application form included a housing questionnaire that offered **sometimes** where any sane person would have written **depends**. 
+Still, seeing the name written there made the arrangement more real. He stepped inside.
 The room was somehow better than expected, which still meant small: two beds, two desks, two wardrobes and a window over the quad.
 
 For a moment he stood there with his suitcase upright beside him. The room was nothing like the cabin he was used to. Too different.
@@ -640,7 +645,7 @@ Finally, Mercer formed pairs with candidates and team members. He pointed at Tai
 
 And indicated the blond guy. Of course.
 
-Up close, he looked around Taiga's age. 
+Up close, he looked around Taiga's age.
 His face was surprisingly gentle. Soft features, warm eyes, an easy smile.
 His skin was warm brown, darker than most of the guys around him, and the blond hair made the contrast even sharper. The hair was messy enough that it looked intentional.
 
@@ -811,6 +816,10 @@ Taiga stared at it for a second. Then he looked at the title again:
 
 **CANDIDATES ADMITTED TO SECOND PHASE**
 
+Then beneath:
+
+**Second phase will take place this afternoon at 16:00**
+
 His heart pounded hard. 
 Another notification appeared on top of his screen.
 
@@ -837,4 +846,7 @@ Send. The response was immediate.
 **Lee:** Congratulations, Taiga. Advancing through an open selection with limited organized experience is objectively significant, so please refrain from dismissing it as luck before anyone has even had time to celebrate.
 
 **Taiga:** i hate all of you
+
+He locked his phone and kept walking towards the administrative building.
+
 
