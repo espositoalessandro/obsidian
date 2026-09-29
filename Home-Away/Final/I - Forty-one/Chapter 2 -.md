@@ -1,6 +1,6 @@
 ### Chapter 2 - 
 
-Monday morning, Taiga had discovered that Caleb Morrison owned six alarms. Not six alarms set on one phone. Six separate alarms. One on his phone. One on his watch. One on the little digital clock beside his bed. One on his laptop. One on some kind of smart speaker that Taiga hadn't realized was connected to anything. And, inexplicably, one physical alarm clock that looked like it had survived the Cold War.
+By Monday morning, Taiga had discovered that Caleb Morrison owned six alarms. Not six alarms set on one phone. Six separate alarms. One on his phone. One on his watch. One on the little digital clock beside his bed. One on his laptop. One on some kind of smart speaker that Taiga hadn't realized was connected to anything. And, inexplicably, one physical alarm clock that looked like it had survived the Cold War.
 
 At 6:30, all of them went off within approximately twelve seconds of one another. Taiga sat upright.
 
@@ -60,7 +60,7 @@ There was silence. Then Caleb said, completely seriously,
 Taiga slowly lowered the blanket. Caleb was already walking toward the bathroom. Taiga stared after him.
 
 ---
-After the orientation week, Olympus stopped pretending to be nice.
+After orientation week, Olympus stopped pretending to be nice.
 
 During orientation week, the university had been covered in smiling volunteers, directional signs, free drinks and people asking if anyone needed help.
 Now it was Monday.
@@ -84,7 +84,7 @@ Who the fuck was that? Did people study before the first proper lecture? Was tha
 Hall continued. Taiga's fingers returned to the keyboard. His notes suddenly looked inadequate. 
 He opened the course portal. There was a reading list, and it was long. Very long. His stomach tightened.
 
-Fine. He'll read tonight. 
+Fine. He'd read tonight. 
 
 Then Hall mentioned their first response paper. Eight hundred words.
 
@@ -95,18 +95,18 @@ Still fine. Then Hall said:
 Taiga looked at the assigned reading. Then at Hall. Then back down. Challenge what argument? He had not even properly identified it yet. A small pulse of irritation climbed his neck. 
 First class and he was already behind.
 
-He forced himself to type again. The cursor blinked on an unfinished line while scholarship letter returned to his mind with unpleasant clarity.
+He forced himself to type again. The cursor blinked on an unfinished line while the scholarship letter returned to his mind with unpleasant clarity.
 
 **The Olympus Academic Merit and Leadership Award recognizes students demonstrating exceptional academic promise, resilience, community contribution and leadership potential—**
 
 Academic promise. Right. Sure. He had probably been the diversity pick for assholes. Congratulations, we needed one emotionally constipated redhead.
 Taiga almost laughed. The girl beside him glanced over. He covered it with a cough.
 
-He close his eyes and took a deep breath.
+He closed his eyes and took a deep breath.
 
 Okay.
 Enough spiraling.
-Facts: first lecture, one student knew someone he didn't. That was because he had ignored the readings. That was on him and it was fixable.
+Facts: first lecture, one student knew a theorist he didn't. That was because he had ignored the readings. That was on him and it was fixable.
 
 He opened a fresh line at the top of the document.
 
@@ -121,30 +121,30 @@ He stared at the second line for a second before deleting it. Some things did no
 ---
 Next, he had Calculus I at eleven-sharp and General Chemistry before lunch.
 
-Taiga liked them slightly better. These were topics that he already covered in high school, so he wasn't starting from zero.
+Taiga liked them slightly better. These were topics that he had already covered in high school, so he wasn't starting from zero.
 
-Still, his intuition that the usual method of listening and remembering wouldn't have helped here, proved right once again.
+Still, his intuition that his usual method of listening and remembering wouldn't help here proved right once again.
 
 [insert something else here]
 
 ---
-Callback began that afternoon. Taiga arrived earlier enough to watch an assistant set out mannequins and flat markers along the left side of the pitch.
+Callback began that afternoon. Taiga arrived early enough to watch an assistant set out mannequins and flat markers along the left side of the pitch.
 At 16:00, Mercer called them in. Taiga looked around.
-At the first phase there were at least 30-40 people. Now he counted around 15.
+In the first phase, there had been at least 30-40 people. Now he counted around 15.
 
-After his assistants completed the warming up session with the candidates, Mercer approached them. Clipboard in one hand, whistle in the other.
+After his assistants completed the warm-up session with the candidates, Mercer approached them. Clipboard in one hand, whistle in the other.
 
 "Some of the guys you saw yesterday were better players than some of you. I corrected the same mistake twice with them. I corrected yours once and watched you spend the rest of the session trying to solve it."
 
-He looked at all of them straight into their eyes.
+He looked each of them straight in the eye.
 
 "I don't need good players. I already have enough. I need people who can grow in my team and become better."
 
 He then looked at his clipboard.
 
-"Today we will see how do you actually fare on the field. I don't care how good you are at shooting, dribbling or whatever. I want to see if you can read the field and move accordingly."
+"Today we will see how you actually fare on the field. I don't care how good you are at shooting, dribbling or whatever. I want to see if you can read the field and move accordingly."
 
-Then he began calling them one by one and assigning a position. Most of them already played and already had a preferred one. 
+Then he began calling them one by one and assigning a position. Most of them had already played and already had a preferred one. 
 Taiga, of course, had no idea.
 
 "Akatora."
@@ -189,10 +189,10 @@ Taiga nodded.
 
 “Right. Soccer would be much easier if every answer was always.” Mercer stepped back. “Read the defender. Read your fullback. Read where the ball is. The diagram gives you options, not permission to stop thinking.”
 
-Then he proceeded with the others. After assigning each of them a role, Mercer and his assistants divided them in four groups, mixing current players and candidates. He saw the blond guy, Leo, going with the candidates who wanted to play in attack.
-Bennet was in his group. 
+Then he proceeded with the others. After assigning each of them a role, Mercer and his assistants divided them into four groups, mixing current players and candidates. He saw the blond guy, Leo, going with the candidates who wanted to play in attack.
+Bennett was in his group. 
 
-Then the assistant made them position in formation and move to test the basics.
+Then the assistant had them line up in formation and move through the basics.
 
 They started. First repetition: Bennett went. Taiga stayed wide. Whistle.
 
@@ -215,7 +215,7 @@ Taiga frowned.
 Heat climbed his neck. Third repetition. He checked over his shoulder first. Bennett starting high. Defender watching him. Central midfielder already occupying the inside lane. Taiga held width for another second. Then the midfielder dropped, the lane opened, and Taiga stepped into it. 
 Pass inside. One touch. Bennett around him. Return ball outside.
 Clean. 
-Mercer appeared on his side and said, “Better,” and was already resetting the drill.
+Mercer appeared at his side and said, “Better,” then was already resetting the drill.
 Good. 
 They ran it from the other side and everything became backwards.
 
@@ -223,7 +223,7 @@ Taiga wanted to murder geometry.
 
 Later came pressing. That word he knew. The details were worse.
 
-Mercer collapsed all groups in two teams on the whole pitch.
+Mercer combined all the groups into two teams on the whole pitch.
 
 “You do not sprint at every person who receives it. Pressing is coordinated pressure. If Akatora goes and the rest of you stay home, Akatora is not pressing. He is jogging angrily by himself.”
 
@@ -240,7 +240,7 @@ He pressed his lips together with exaggerated effort.
 Mercer blew the whistle before Taiga could answer.
 
 Reading when to move and when not to was way harder than Taiga had anticipated.
-By the sixth repetition Taiga could feel the structure rather than recite it. 
+By the sixth repetition, Taiga could feel the structure rather than recite it. 
 Then the scrimmage began and the structure immediately became less polite. Players moved before he expected them to. Passing lanes existed for half a second. A correct position became wrong when somebody else made a different decision. He lost the ball six times. Won it five. Created one assist after beating the right-back and cutting the ball toward Price, the striker, who finished first time.
 Price pointed at Taiga while jogging back.
 
@@ -256,23 +256,23 @@ Taiga intended to remember both the miss and the comment at three in the morning
 
 The tryout lasted almost two hours. Eventually, Mercer gathered everybody at midfield.
 
-"That's all. Thank you for coming. Final selections will be emailed tomorrow in the afternoon."
+"That's all. Thank you for coming. Final selections will be emailed tomorrow afternoon."
 
 That was it. Taiga picked up his bag with his stomach tied into a knot.
 Waiting was worse than failure. Failure, at least, was information.
 
 ---
-Tuesday morning he had his first Foundations of Computer Science lecture. That was the class Taiga was looking for the most. 
+Tuesday morning, he had his first Foundations of Computer Science lecture. That was the class Taiga was looking forward to the most. 
 He had never been a computer nerd, but during last summer Hyunjin showed him enough coding to make him interested.
 
-Since then he, had messed with some basic Git, JavaScript and even a bit of Java. 
+Since then, he had messed with some basic Git, JavaScript and even a bit of Java. 
 He liked it. Computers don't argue. Or at least, that's what he had been thinking until the class.
 
-Professor Rao took less then half an hour to destroy every certainty Taiga had. 
+Professor Rao took less than half an hour to destroy every certainty Taiga had. 
 Nothing he had learned showed up during the lecture.
 Instead, Rao talked about algorithms, complexity and computational cost.
 
-Then he described the basics of variables and loops. That part, Taiga liked it better.
+Then Rao described the basics of variables and loops. Taiga liked that part better.
 
 ---
 
@@ -313,7 +313,7 @@ At some point, he had silenced them and put the phone face down on the desk.
 
 "Yeah."
 
-Caleb stopped a second.
+Caleb paused for a second.
 
 "If they don't take you, will they still notify you?"
 
@@ -331,13 +331,13 @@ A fight started immediately in his brain. 4.35 was still early enough to not jum
 
 "Because it would be unnecessarily cruel not to. And if nobody was selected, then you could think of a system failure."
 
-Taiga considered. It made enough sense to slightly loosen the knot inside.
+Taiga considered. It made enough sense to loosen the knot inside slightly.
 
 He looked at the reading opened on his laptop. He rubbed his face with his hands.
 That was stupid.
-There was no point in stop functioning until a fucking email arrived.
+There was no point in stopping functioning until a fucking email arrived.
 
-He had managed to get almost to the ending of the readings when a small notification appeared on the top right of his screen. A new mail.
+He had managed to get almost to the end of the reading when a small notification appeared at the top right of his screen. A new email.
 
 **Olympus University Athletics**  
 **Men's Soccer — Freshman Selection**
@@ -352,7 +352,7 @@ Training access, reserve selection, a six-week review.
 
 "Fuck me."
 
-He heard Caleb glancing over.
+Caleb glanced over.
 
 "Oh. That looks like good news."
 
@@ -466,7 +466,7 @@ Taiga looked at him.
 
 Keitaro just looked at him, smiling.
 
-"I'll never say it you know."
+"I'll never say it, you know."
 
 Keitaro laughed.
 
@@ -514,7 +514,7 @@ Taiga glanced down. His leg had stopped bouncing.
 Taiga smiled faintly. The campus still felt too big and too loud, but for the first time since arriving, one place on the map felt slightly less theoretical.  
 
 ---
-The following morning started with the Political Institution again. 
+The following morning started with Political Institutions again. 
 
 Taiga arrived eight minutes early and took the same seat as Monday. Third row from the back. Near enough to see. Far enough that nobody would mistake his existence for enthusiasm.
 
@@ -547,7 +547,7 @@ Taiga raised an eyebrow. She continued:
 
 She smiled.
 
-"No, no. But since you read them, I want you opinion on something."
+"No, no. But since you read them, I want your opinion on something."
 
 "Still sounds like an interrogation."
 
@@ -629,7 +629,7 @@ Hall pointed at her.
 
 Hall nodded again.
 
-“Exactly. Behaviour is evidence. It isn't an explanation by itself.”
+“Exactly. Behavior is evidence. It isn't an explanation by itself.”
 
 He wrote something on the board and continued.
 Taiga glanced at her.
