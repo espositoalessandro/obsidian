@@ -514,304 +514,191 @@ Taiga glanced down. His leg had stopped bouncing.
 Taiga smiled faintly. The campus still felt too big and too loud, but for the first time since arriving, one place on the map felt slightly less theoretical.  
 
 ---
-The following day, started again with Political Institution.
+The following morning started with the Political Institution again. 
 
-He arrived eight minutes early and chose the same seat he'd used on Monday. Third row from the back. 
-Near enough to see. Far enough that nobody would mistake his existence for enthusiasm. 
+Taiga arrived eight minutes early and took the same seat as Monday. Third row from the back. Near enough to see. Far enough that nobody would mistake his existence for enthusiasm.
+
 The girl who had sat beside him last time arrived a minute later.
 
-Dark hair tied up, glasses, coffee in one hand. The assigned book was tucked under her arm, half the pages crowded with tabs.
+Dark hair tied up, glasses, coffee in one hand. The assigned book was tucked under her arm, with lots of colored tabs sticking out of it. 
+She stopped beside him.
 
-She looked at the empty chair beside him.
+"Is this taken?"
 
-“Taken?”
+Taiga shook his head.
 
-“No.”
+She sat and immediately opened his notebook. Taiga was checking some passages from the readings.
 
-She sat, opened the book and glanced at his laptop.
-
-“You did the reading?”
-
-Taiga looked at her.
-
-“Why?”
-
-“Because you spent half of last lecture looking like you'd been personally betrayed by the syllabus.”
-
-Taiga stared.
-
-“You were watching me?”
-
-“You were sitting next to me.”
-
-“That doesn't answer the question.”
-
-“It does, actually.”
-
-She opened the book to one of the marked pages.
-
-“So?”
-
-Taiga sighed.
-
-“Yes. I did the reading.”
-
-“All of it?”
-
-“Yes.”
-
-Her eyebrows rose.
-
-“What?”
-
-“That was eighty-seven pages.”
-
-“I know.”
-
-She looked at him for another second.
-
-“Did you take notes?”
-
-“No.”
-
-“None?”
-
-“I remember what I read.”
-
-Nora frowned.
-
-“That sounds unnecessarily risky.”
-
-“It works.”
-
-“That isn't the same thing.”
-
-Taiga opened his laptop.
-
-“Good talk.”
-
-“It wasn't finished.”
-
-“It was for me.”
-
-Professor Hall entered before she could answer.
-
-He'd spent most of the rest of the previous day catching up on the reading after the first lecture had made it painfully obvious that his old strategy of listening once and remembering everything wasn't going to survive university.
-
-Eighty-seven pages.
-
-He'd read all eighty-seven out of spite.
-
-Hall started with political legitimacy, moving quickly through the previous week's material before putting a definition on the screen.
-
-Taiga followed easily enough.
-
-Then Hall introduced an argument that made him stop typing.
-
-He reread the premise. Then the conclusion.
-Something didn't click for him. He wrote a note underneath it. Then another.
-
-Beside him, the girl flipped three pages back in her book and underlined something.
-
-Hall continued.
-
-The argument somehow got worse.
-
-Taiga frowned.
-
-The girl glanced sideways.
-
-“You've written four lines under one bullet point.”
-
-“So?”
-
-“So you disagree.”
-
-Taiga looked at her.
-
-“Are you reading my screen?”
-
-“Not intentionally. Your font is enormous.”
-
-“It isn't.”
-
-“It absolutely is.”
-
-Taiga turned the laptop slightly away from her.
-
-At the front, Hall finished explaining the argument and asked whether anyone saw a problem with it.
-
-Front Row Guy's hand went up immediately.
-
-He started making a point Taiga mostly agreed with, then halfway through somehow managed to ruin it.
-
-Taiga's jaw tightened. Beside him:
-
-“No.”
-
-Taiga looked over.
-The girl was frowning at Front Row Guy now.
-
-“What?”
-
-“That's not the problem.”
-
-Taiga raised an eyebrow.
-
-“He's treating consent and participation as interchangeable.”
-
-Taiga stared at her.
-
-“Yes.”
-
-“And they're obviously not.”
-
-“Apparently not obviously enough.”
-
-She flipped back to one of her tabs and tapped a paragraph with her finger.
-
-“The author doesn't even need actual consent for the argument. He needs participation to function as evidence of legitimacy. That's weaker, but it's still a problem.”
-
-Taiga looked down at the passage. That was annoyingly close to what he'd written.
-
-At the front, Hall responded to Front Row Guy and moved the discussion forward.
-
-The girl whispered, “You're going to say something.”
-
-“No.”
-
-“You clearly want to.”
-
-“I clearly don't.”
-
-“You've been glaring at the professor for thirty seconds.”
-
-“Maybe I don't like his face.”
-
-She looked at Hall, considered that seriously for a moment, then shook her head.
-
-“No, that's not it.”
-
-Taiga stared at her.
-
-“Do you always do this?”
-
-“Do what?”
-
-“Keep going until people regret talking to you.”
-
-“If the premise is still wrong, yes.”
-
-Taiga almost laughed. Then Hall asked another question, which nobody answered immediately.
-Taiga lasted maybe ten seconds, then he raised his hand.
-
-Beside him, the girl quietly said, “Obviously.”
-
-Hall pointed toward him.
-
-“Yes?”
-
-Taiga suddenly became aware that eighty people were looking at him. Wonderful. 
-
-“If legitimacy depends on meaningful consent, then using continued participation as evidence of consent doesn't work.”
-
-Hall tilted his head.
-
-“Why not?”
-
-“Because participation isn't necessarily optional.”
-
-“Explain.”
-
-Taiga's pulse climbed into his neck.
-
-“If every realistic alternative still operates under the same institutional structure, staying inside it doesn't tell you whether somebody accepts that structure. It can just mean leaving isn't practical.”
-
-Hall nodded.
-
-“So you're distinguishing consent from compliance.”
-
-“Yes.”
-
-“Then what would count as meaningful consent?”
-
-Taiga paused. That part was harder.
-He looked down at his notes. The room had gone completely quiet.
-
-“Some form of actual participation in making the rules,” he said. “Or at least a realistic way to reject them.”
-
-Hall smiled slightly.
-
-“And now you've created a problem of scale.”
-
-“Yeah.”
-
-“How much participation is enough?”
-
-Taiga frowned.
-
-“Depends on what decisions we're talking about.”
-
-“Good. Why?”
-
-Because—
-
-Taiga stopped.
-
-The girl beside him had turned slightly in her seat now, watching too.
-
-“If every decision needs direct consent, the system stops functioning,” he said. “But if participation is too indirect, then we're back to calling compliance consent.”
-
-Hall nodded.
-
-“Exactly. That's the tension I want you to keep.”
-
-Then he moved on. Taiga could feel his palms being wet.
-He wiped Them against his jeans under the desk and started typing again.
-
-Beside him, the girl said quietly:
-
-“You skipped a step.”
+"You actually did the readings?"
 
 Taiga turned.
 
-“What?”
+"Why?"
 
-“Between participation not being optional and participation therefore not proving legitimacy.”
+She shrugged. 
 
-“I explained it.”
+"It was 87 pages. Not everybody does it."
 
-“After he asked.”
+Taiga raised an eyebrow. She continued:
 
-Taiga stared at her. She tapped the margin of her book.
+"Can I ask a question then?"
 
-“Your conclusion was right. You just assumed everyone would follow you there.”
+"You sound like you want to interrogate me."
 
-“Did you?”
+She smiled.
 
-“Yes.”
+"No, no. But since you read them, I want you opinion on something."
 
-“Then apparently it wasn't impossible.”
+"Still sounds like an interrogation."
 
-“That isn't the standard.”
+"Then say no."
 
-Taiga narrowed his eyes. Her smug clearly indicated she was enjoying this.
+Taiga sighed. 
 
-“You're annoying.”
+"What?"
 
-“My name is Nora.”
+She tapped the page.
+
+“This. Do you think that actually counts as a choice?”
+
+Taiga leaned over enough to read the highlighted sentence. It was something about people accepting political authority by continuing to live under it.
+
+"No."
+
+"Why?"
+
+"Because leaving is actually pretty hard."
+
+"But technically, it's still a choice."
+
+"When staying is the only realistic decision you can make, can you really say it's a choice?"
+
+"It's forced, but still a choice."
+
+“That's a stupid definition of choice.”
+
+“No, it's an inconvenient definition of choice.”
+
+Taiga stared at her. She looked completely serious.
+Before he could reply, Professor Hall walked in.
+
+He started where they had left off. This time Taiga could actually follow without opening three tabs and wondering what the hell everyone else knew that he didn't.
+
+He felt much better.
+
+About twenty minutes in, Hall returned to the same section the girl had shown him.
+
+A student in the front row raised his hand.
+
+“If someone really rejects the system they're living under, can't they just leave?”
+
+Taiga looked up. Seriously? 
+
+The girl crossed her arms, listening.
+Front Row Guy kept talking.
+
+“If people stay and keep following the rules, at some point that has to mean they accept them.”
+
+Taiga raised his hand before thinking too much about it.
+
+Hall looked toward him.
+
+“Yes?”
+
+Taiga became painfully aware of everyone behind him. 
+He took a breath and said:
+
+“If leaving means giving up your job, your home, your family and basically your entire life, then staying doesn't prove you agree with anything.”
+
+Hall nodded.
+
+“So what does it prove?”
+
+Taiga paused.
+
+“Mostly that leaving would suck.”
+
+A few people laughed.
+
+“Less academically phrased than I would prefer, but yes.”
+
+Taiga leaned back. Good enough.
+Then the girl beside him raised her hand.
+
+Hall pointed at her.
+
+“But staying still tells us something,” she said. “If people keep following rules even when nobody is forcing them every single time, that matters. It just doesn't tell us why they're doing it.”
+
+Hall nodded again.
+
+“Exactly. Behaviour is evidence. It isn't an explanation by itself.”
+
+He wrote something on the board and continued.
+Taiga glanced at her.
+
+“You really had to add that?”
+
+She glanced over.
+
+“You made it sound completely useless.”
+
+“It mostly is.”
+
+“No, it isn't.”
+
+“Here we go.”
+
+“You're collapsing two different questions.”
+
+Taiga stared at her.
+
+“Do you talk like this all the time?”
+
+“Like what?”
+
+“Like there's going to be a test on the conversation.”
+
+She frowned.
+
+“There probably will be a test on this conversation.”
+
+Taiga laughed before he could stop himself.
+The girl smiled as well.
+
+“I'm Nora, by the way.”
 
 “Taiga.”
 
-Taiga turned back toward the professor.
-After a few seconds, Nora added:
+“Nice to meet you.”
 
-“For what it's worth, your objection was better than Front Row Guy's.”
+“Sure.”
 
-Taiga glanced at her.
+She looked over.
 
-“That sounds like a very low bar.”
+“That's a weird response.”
 
-“It was.”
+Taiga shrugged.
 
-He snorted before he could stop himself. Nora smiled and returned to her notes.
+“You'll survive.”
+
+By the end of class, Taiga had three pages of notes, two more chapters to read and apparently another annoying figure in his academic life.
+
+As everyone started packing, Nora closed her book.
+
+“I still think staying counts as a choice.”
+
+Taiga put his laptop in his bag.
+
+“And I still think that's stupid.”
+
+“Good.”
+
+He looked at her.
+
+“Good?”
+
+“It would've been boring if you changed your mind already.”
+
+Then she picked up her coffee and left. Taiga watched her disappear into the aisle.
+
+Maybe this class will not be completely terrible.
