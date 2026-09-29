@@ -462,7 +462,617 @@ The stronger test is whether the sentence, observation or description could plau
 
 ---
 
-# 4. Prose Style
+# 4. Taiga Voice Progression by Section
+
+This map is calibrated from the completed Draft.
+
+It is not a rigid slider. Individual scenes may move backward or forward depending on stress, familiarity and who Taiga is with.
+
+The purpose is to prevent the final rewrite from applying one static version of Taiga across the entire novel.
+
+---
+
+## Section I — Forty-One
+
+### Narrative state
+**Guarded newcomer who is already trying to be better.**
+
+Taiga does not arrive at Olympus as the same person he was before Camp Buddy.
+
+He already has:
+
+- some self-control;
+- established trust with the Camp Buddy cast;
+- awareness that his anger can hurt people;
+- the ability to stop himself before every irritation becomes a confrontation.
+
+The opening voice should therefore not read as an origin story for emotional growth.
+
+It is the voice of someone who has already changed once and does not entirely trust that change yet.
+
+### Dominant narration
+
+Strongest traits:
+
+- skeptical;
+- blunt;
+- defensive;
+- judgmental;
+- threat-oriented;
+- easily irritated by noise, crowds, inefficiency and social intrusion;
+- strongly biased external description;
+- frequent short direct thoughts;
+- quick sarcasm.
+
+Olympus is initially evaluated from the outside.
+
+Taiga notices what is:
+
+- loud;
+- badly organized;
+- inconvenient;
+- unnecessary;
+- expensive;
+- socially exhausting.
+
+His first instinct is often rejection.
+
+### Social position
+
+Camp Buddy is already inside the wall.
+
+Olympus is not.
+
+With Keitaro, Yoshinori and sometimes the rest of the Camp Buddy group, Taiga may already show vulnerability that he would never offer a new Olympus acquaintance.
+
+This contrast is important.
+
+The question in Section I is not whether Taiga can care about people.
+
+It is whether **new people can become important without him deciding that this is dangerous**.
+
+### Emerging change
+
+Across the section:
+
+- Caleb becomes easy to exist around;
+- Nora becomes someone Taiga actively engages with;
+- football stops being something provisional and becomes something he wants;
+- Leo becomes noticeable before Taiga can explain why.
+
+The narration should begin allowing small positive observations without immediately turning every one into sentiment.
+
+Taiga may still dismiss them.
+
+But the world is already becoming less hostile.
+
+### Attraction
+
+Attraction to Leo appears before Taiga accepts it as meaningful.
+
+Physical reactions may be:
+
+- noticed;
+- isolated;
+- rationalized;
+- dismissed as situational.
+
+The key early mechanism is not ignorance.
+
+It is **compartmentalization**.
+
+### Anger and regression
+
+Anger remains close to the surface.
+
+However, even in Chapter 1, Taiga can interrupt the old reflex before acting on it.
+
+That self-interruption is part of the baseline.
+
+### Final-section calibration
+
+By the end of Section I, Taiga should feel:
+
+- less like Olympus is temporary;
+- more invested in football;
+- more accustomed to Caleb and Nora;
+- increasingly aware that other people know and notice him;
+- uncomfortable with how much that matters.
+
+He is not warm yet.
+
+He is **participating**.
+
+---
+
+## Section II — Past Mistakes
+
+### Narrative state
+**Attachment becomes visible enough to become threatening.**
+
+Section II should not simply make Taiga angrier.
+
+Its central movement is that relationships he could previously treat as casual now produce consequences.
+
+Leo is no longer merely interesting.
+
+Caleb is no longer merely a tolerable roommate.
+
+Olympus is no longer somewhere Taiga can leave emotionally untouched.
+
+### Dominant narration
+
+Compared with Section I:
+
+- less blanket hostility toward Olympus;
+- more relational attention;
+- more awareness of absence;
+- more attention to routines and changed behavior;
+- stronger discomfort when closeness becomes visible to other people.
+
+The external world itself should require less hostile commentary because it is becoming familiar.
+
+The sharper narration increasingly attaches to **relationships rather than surroundings**.
+
+### Social position
+
+Taiga begins to develop an Olympus inner circle.
+
+He may not call it that.
+
+His narration nevertheless reveals it through:
+
+- noticing when Caleb is gone;
+- recognizing Nora's habits;
+- expecting Leo beside him;
+- reacting when normal patterns change.
+
+This is a major shift from Section I.
+
+### Vulnerability
+
+Taiga can disclose difficult things, but access remains highly selective.
+
+When pushed into genuine exposure, he may:
+
+- become angry;
+- shorten;
+- deflect;
+- say something cruel before saying something honest;
+- retreat after feeling seen.
+
+The Pinetree rupture is a major regression point.
+
+Outside attention names a closeness Taiga has not yet accepted.
+
+His fear is converted into anger and distance.
+
+The narration should make this understandable without endorsing his interpretation.
+
+### Reliability
+
+This section should make especially clear that Taiga's emotional reading can be wrong.
+
+Under threat, he may mistake:
+
+- care for pressure;
+- visibility for humiliation;
+- closeness for loss of control.
+
+His interpretation is the narrative lens.
+
+It is not objective truth.
+
+### Emerging change
+
+The repair matters more than the rupture.
+
+By the end of Section II, Taiga has learned that:
+
+- pushing someone away has consequences;
+- another person may establish a boundary without abandoning him;
+- disclosure does not automatically destroy the relationship;
+- ordinary life can resume without pretending the rupture never happened.
+
+### Final-section calibration
+
+By the end of Section II, Taiga should feel:
+
+- more attached;
+- more cautious about what his anger can damage;
+- somewhat better at recognizing when he is afraid rather than merely irritated;
+- no longer able to plausibly treat Leo as interchangeable with any other friend.
+
+His defenses remain strong.
+
+They have become **specific**, rather than global.
+
+---
+
+## Section III — Moving On
+
+### Narrative state
+**Recognition without comfortable definition.**
+
+This is the section where Taiga's narration should become substantially more self-aware.
+
+He can no longer explain away:
+
+- physical attraction;
+- jealousy;
+- preference;
+- Leo's special place;
+- the emotional significance of bringing Leo into Camp Buddy.
+
+But recognition does not make him comfortable.
+
+### Dominant narration
+
+Compared with Section II:
+
+- more attention to bodies and proximity;
+- more relational comparison;
+- more direct acknowledgment of discomfort;
+- less ability to dismiss every reaction as meaningless;
+- stronger conflict between what Taiga knows and what he wants to define.
+
+The narration may still contain denial, but the denial should become increasingly weak and visibly strategic.
+
+### Attraction
+
+Section III is the main transition from:
+
+> notice → dismiss
+
+to:
+
+> notice → understand → avoid deciding what to do with it
+
+Taiga may look away.
+
+He may get embarrassed.
+
+He may become annoyed.
+
+But the narration should stop pretending the physical attraction itself is mysterious.
+
+### Camp Buddy and selective trust
+
+Bringing Leo into Camp Buddy is narratively important because two trust systems overlap.
+
+Taiga already knows how to be vulnerable there.
+
+The destabilizing element is that Leo now enters a place previously associated with people already inside Taiga's wall.
+
+Taiga's narration should register this through:
+
+- practical attention to whether Leo fits;
+- relief when he does;
+- discomfort when old history returns;
+- sensitivity to Leo's place relative to Kieran and the Camp Buddy cast.
+
+### Kieran and old patterns
+
+Kieran should trigger older defensive structures without returning Taiga wholesale to an older personality.
+
+Taiga is capable of:
+
+- anger;
+- suspicion;
+- resentment;
+- old bodily memories;
+- recognizing Kieran's vulnerability;
+- revising his understanding of what forgiveness means.
+
+This section is an important test of **judgment → revision**.
+
+Taiga can acknowledge complexity without restoring a relationship he does not want back.
+
+### Vulnerability
+
+Taiga becomes more capable of saying things he previously would have left implicit.
+
+However, he should still be awkward.
+
+Honesty may arrive through:
+
+- incomplete sentences;
+- irritation;
+- silence followed by one direct statement;
+- practical framing;
+- admission only after another person forces the issue into the open.
+
+### Final-section calibration
+
+By the end of Section III, Taiga should feel:
+
+- consciously attracted to Leo;
+- consciously emotionally invested;
+- capable of admitting that Leo has a special place;
+- more willing to revise old judgments;
+- still uncomfortable with labels and definition;
+- increasingly able to remain present after vulnerability instead of fleeing from it.
+
+He is no longer mainly asking **what is happening to me?**
+
+He is increasingly asking **what am I going to do about it?**
+
+---
+
+## Section IV — New Threshold
+
+### Narrative state
+**Comfort, mutuality and chosen investment.**
+
+Section IV begins after the most destabilizing ambiguity has already been reduced.
+
+Taiga and Leo can now occupy physical and emotional closeness without every interaction requiring analysis.
+
+This should produce one of the clearest shifts in narration.
+
+### Dominant narration
+
+Compared with Section III:
+
+- less self-surveillance;
+- less dismissal of attraction;
+- more participatory sarcasm;
+- more physical ease;
+- more practical care;
+- more confident use of "normal" for routines involving Leo;
+- stronger attention to shared goals rather than only private emotional uncertainty.
+
+The narration should be warmer without announcing that it is warmer.
+
+### Attraction and intimacy
+
+Physical attention becomes straightforward.
+
+Taiga does not need to:
+
+- justify looking;
+- interrogate every touch;
+- treat attraction as evidence requiring analysis.
+
+He can simply notice Leo and continue.
+
+The significance increasingly moves from **whether attraction exists** to **what closeness means and what they choose**.
+
+### Football and control
+
+Much of Taiga's remaining rigidity can now surface through football rather than romance.
+
+He may still:
+
+- overanalyze mistakes;
+- replay decisions;
+- try to solve matches before they happen;
+- become frustrated when performance cannot be controlled.
+
+This keeps his control-oriented personality active even while relational defenses soften.
+
+### Social belonging
+
+Olympus should now feel familiar in the narration.
+
+Caleb, Nora, teammates and campus routines no longer need introductory interpretation.
+
+Taiga's attention can assume knowledge.
+
+That assumption itself communicates belonging.
+
+### Vulnerability
+
+Taiga increasingly permits other people to see:
+
+- pride;
+- disappointment;
+- need;
+- affection;
+- embarrassment.
+
+He may still react badly to being teased or exposed, but the response is more often comic embarrassment than true defensive threat.
+
+### Final-section calibration
+
+By the end of Section IV, Taiga should feel:
+
+- comfortable being wanted;
+- comfortable wanting Leo;
+- capable of chosen romantic commitment;
+- strongly invested in his Olympus relationships;
+- still sarcastic, competitive, blunt and proud;
+- significantly less likely to turn emotional exposure into hostility.
+
+The important shift is that closeness has stopped feeling inherently dangerous.
+
+---
+
+## Section V — The Other Side
+
+### Narrative state
+**Warm, trusting Taiga in unfamiliar territory.**
+
+Section V reverses the environmental setup of Section I.
+
+Taiga is once again the outsider.
+
+But he is no longer the same kind of outsider.
+
+He enters Leo's world with:
+
+- an established relationship;
+- broader trust;
+- more emotional vocabulary;
+- greater willingness to participate;
+- much less need to protect himself from every new person.
+
+This contrast should be one of the clearest demonstrations of his growth.
+
+### Dominant narration
+
+The final rewrite should strengthen Taiga's POV here because the Draft often becomes too neutral.
+
+The intended Section V voice is:
+
+- curious;
+- observant;
+- affectionate;
+- practical;
+- socially cautious without being hostile;
+- willing to be amused;
+- willing to like people quickly;
+- still sarcastic;
+- still capable of irritation.
+
+The narration should remain strongly Taiga-shaped even when he is happy.
+
+### Attention
+
+Threat-oriented attention should be at its weakest here.
+
+Taiga increasingly notices:
+
+- family routines;
+- who calls Leo what;
+- who needs help;
+- who is tired;
+- who occupies which role in the household;
+- how Leo changes around family;
+- when Leo is stretching himself too thin;
+- the difference between Leo enjoying people and Leo automatically serving them.
+
+This is mature **relational attention**.
+
+### Social trust
+
+Taiga can allow Leo's family to become meaningful without requiring years of defensive testing first.
+
+That does not mean instant intimacy.
+
+He may remain:
+
+- quieter with unfamiliar adults;
+- careful with language;
+- embarrassed by attention;
+- selective about disclosure.
+
+The difference is that he no longer assumes closeness is a threat.
+
+### Care
+
+Taiga's affection should be most visible through action here.
+
+He:
+
+- waits;
+- notices;
+- prepares food;
+- learns Spanish;
+- participates in Leo's interests;
+- tracks Leo's exhaustion;
+- tries to create space for him;
+- becomes upset when repeated obligations consume their time together.
+
+This care should not be converted into sentimental narration.
+
+It remains Taiga-shaped.
+
+### Anger
+
+Section V should demonstrate the mature version of Taiga's anger.
+
+When conflict arrives, the trigger is no longer primarily:
+
+> I feel exposed, therefore I need distance.
+
+It is more often:
+
+> Something important is being ignored, and I do not know how long I can tolerate it.
+
+He may still become sharp.
+
+He may still say the wrong thing.
+
+But anger is more differentiated and more connected to identifiable needs.
+
+The rewrite should allow him to understand, sooner than early Taiga would, that beneath the anger are:
+
+- worry about Leo;
+- frustration at being deprioritized;
+- disappointment;
+- wanting time with him;
+- fear that Leo is exhausting himself.
+
+### Participation
+
+The Las Terrenas material shows an important final-stage Taiga:
+
+- willing to join strangers in a game;
+- willing to dance badly in public;
+- willing to laugh at himself;
+- willing to be pulled into Leo's social world without treating participation as defeat.
+
+He remains competitive and sarcastic.
+
+But participation itself is no longer threatening.
+
+### Final-section calibration
+
+By the end of Section V, Taiga should feel:
+
+- warm without becoming soft-focus;
+- trusting without becoming gullible;
+- emotionally perceptive without becoming a therapist;
+- openly invested without becoming broadly confessional;
+- less prone to anger without losing it;
+- comfortable with attraction and affection;
+- capable of enjoying unfamiliar people and situations;
+- still unmistakably Taiga.
+
+The final voice should not feel like a different narrator from Section I.
+
+It should feel like **the same narrator after the novel happened to him**.
+
+---
+
+## 4.1 Regression Rule
+
+The progression above is not monotonic.
+
+Older versions of Taiga may reappear under pressure.
+
+Likely regression triggers include:
+
+- humiliation;
+- public exposure;
+- jealousy;
+- fear of abandonment;
+- feeling manipulated;
+- loss of control;
+- serious football failure;
+- old Camp Buddy wounds;
+- believing that someone important is being harmed.
+
+Regression should affect:
+
+- what he notices;
+- how quickly he judges;
+- how hostile his direct thoughts become;
+- how much he trusts another person's intent;
+- how easily anger substitutes for a more precise emotion.
+
+However, later Taiga should usually recover faster.
+
+That is part of the growth.
+
+The question is not whether an old reaction ever returns.
+
+The question is **how long he remains trapped inside it and what he can do afterward**.
+
+---
+
+# 5. Prose Style
 
 Prefer:
 
@@ -482,7 +1092,7 @@ The final rewrite should become **more authored, not more decorative**.
 
 ---
 
-# 5. Emotional Writing
+# 6. Emotional Writing
 
 Big emotional moments should usually become simpler rather than more poetic.
 
@@ -503,7 +1113,7 @@ Self-awareness and polished emotional analysis are not the same thing.
 
 ---
 
-# 6. Dialogue Philosophy
+# 7. Dialogue Philosophy
 
 Dialogue should preserve heightened character distinction while remaining believable.
 
@@ -521,7 +1131,7 @@ A character should remain recognizable even when their usual verbal quirk is abs
 
 ---
 
-# 7. Character Distinction Rule
+# 8. Character Distinction Rule
 
 **Anime-level character distinction; novel-level human behavior.**
 
@@ -539,7 +1149,7 @@ Do not give the whole cast the same dry, competent, mildly sarcastic register.
 
 ---
 
-# 8. Rewrite Audit Questions
+# 9. Rewrite Audit Questions
 
 During every chapter rewrite, check:
 
@@ -556,7 +1166,7 @@ During every chapter rewrite, check:
 
 ---
 
-# 9. Open Questions
+# 10. Open Questions
 
 To define during the rewrite:
 
