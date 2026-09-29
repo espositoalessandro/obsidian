@@ -1,4 +1,5 @@
-# Chapter 46
+
+[chapters needs way more space and direct dialogues]
 
 On the way back, Leo fell asleep against the bus window with one hand still tangled in Taiga's. He woke when they stopped in Santo Domingo and insisted he'd only been resting his eyes. Taiga showed him the photograph he'd taken as evidence.
 
