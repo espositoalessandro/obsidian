@@ -496,8 +496,6 @@ Taiga looked at him. “No promises.”
 
 Aaron grinned. A few people laughed. Mercer continued.
 
-“Brennan sits deepest in midfield today. If somebody calls him the six, that is what they mean.”
-
 Gav Brennan said, “He means there will be a quiz every possession.”
 
 “That is unfortunately true.”

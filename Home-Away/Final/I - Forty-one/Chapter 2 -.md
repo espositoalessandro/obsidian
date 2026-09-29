@@ -700,3 +700,535 @@ He looked at her.
 Then she picked up her coffee and left. Taiga watched her disappear into the aisle.
 
 Maybe this class wouldn't be completely terrible.
+
+---
+
+At lunch, Caleb insisted on walking another four minutes to a smaller dining hall on the opposite side of campus. Taiga discovered why as soon as they entered: it was quieter.
+The main dining hall at noon sounded like somebody had trapped three hundred people inside an aluminum drum. This one held maybe fifty. Caleb visibly relaxed. They collected food and took a table near the window.
+
+Caleb removed one earbud. He almost always had something in his ears now. Sometimes music, often nothing. Taiga had asked once and Caleb had replied:
+
+“They reduce the high frequencies.”
+
+That had been the entire explanation.
+
+Today Caleb arranged his plate before eating. Chicken on one side, rice on another, vegetables separated. Taiga watched for a second. Caleb looked up. Taiga nodded at his plate.  
+
+“You always separate everything like that?”
+
+“Yes.”
+
+“The peas too?”
+
+“They taste different mixed with the sauce.”
+
+Taiga looked at the neat little green pile.
+
+“That seems exhausting.”
+
+“It takes approximately three seconds.”
+
+“So what?”
+
+“I don't like that.”
+
+“Okay, then.”
+
+Caleb nodded. Conversation over. Taiga appreciated conversations that knew when to die. They ate in silence for several minutes. 
+People seemed weirdly frightened of it. Keitaro especially. Keitaro could not exist beside another human being for more than ninety seconds without attempting to create emotional intimacy. Caleb could apparently eat an entire meal without saying anything. 
+
+Taiga's phone buzzed. He glanced down.
+
+**Hiro:** GUYS I HAVE SURVIVED
+
+A photo loaded. Hiro stood outside a lecture hall holding a coffee. Keitaro was beside him looking deeply unimpressed.
+
+**Keitaro:** Hiro, it's 11:14. We left home three hours ago.
+
+**Hiro:** THREE VERY DIFFICULT HOURS   
+**Hiro:** my lecturer used 9pt font on a projector keitaro   
+**Hiro:** i have seen things
+
+Hunter sent a photo from an art studio. Both hands were black with charcoal.
+
+**Hunter:** Um... I may have underestimated how much of this gets everywhere.   
+**Hunter:** My professor says I should “accept the material” but I think the material has accepted me.
+
+**Natsumi:** Warm water and soap first. Don't scrub your hands raw, Hunter. Charcoal looks much more permanent than it is.
+
+**Hunter:** Thank you. That is significantly more useful than my professor 😭
+
+**Yoichi:** psh   
+**Yoichi:** twinkerbell got defeated by a pencil
+
+Taiga smiled. Caleb looked up from his peas.
+
+“Your friends?”
+
+Taiga locked the screen.
+
+“Unfortunately, yes.”
+
+“You smile when they message.”
+
+Taiga stared at him. Caleb continued eating, apparently unaware that he had committed an offense.
+
+“I've known you a week.”
+
+“Yes.”
+
+“And you're already keeping statistics?”
+
+“No.”
+
+“That sounded like statistics.”
+
+“It was an observation.”
+
+Taiga stabbed a piece of chicken. The phone buzzed again.
+
+**Yoichi:** dynamite alive or did college finally kill him
+
+**Taiga:** unfortunately
+
+**Yoichi:** lame
+
+Taiga's mouth moved before he could stop it. Caleb glanced up once. Taiga pointed his fork at him.
+
+“Don't document that.”
+
+---
+
+The equipment room gave him number forty-one. Taiga decided he disliked the number immediately. Developmental roster numbers started at forty. The equipment manager slid the folded training kit across the counter.
+
+“Akatora?”
+
+“Yeah.”
+
+“Two training shirts, two shorts, socks. Travel kit later if you get selected.”
+
+If.
+
+“Got it.”
+
+“Locker eighteen.”
+
+Taiga took the clothes. The shirt had his surname printed across the back. He paused. Only briefly. Then folded it into his bag. 
+It was just equipment.
+
+Five minutes later he was standing in the locker room surrounded by approximately twenty men who had apparently never experienced embarrassment in their lives. Shirts came off. Shorts changed. Someone was playing music from a phone.
+
+Near the middle benches, A guy that Taiga recognized as Enzo was conducting an argument about whether a woman named Jenna had actually broken up with somebody named Marcus. Taiga learned more about Marcus's relationship in ninety seconds than he wanted to know about anybody.
+
+“I'm telling you, ‘I need space’ is not automatically a breakup,” 
+
+Enzo declared, pulling on one sock. 
+
+“It could be a tactical withdrawal. A cooling period. A dramatic second act.”
+
+Another guy how looked older than the other shook his head.
+
+"Listen to me. If a girl asks you for space, then it's already over."
+
+“You have no romance in your body.”
+
+Taiga found locker eighteen. He changed quickly. A voice behind him said:
+
+"Mr. AG!"
+
+Taiga looked over. Leo was already dressed, blond hair held back by a thin band. 
+
+"You're talking to me?"
+
+"Of course! You're the only Angry Guy I know."
+
+"You're not calling me that."
+
+Leo ignored him and pointed at his shirt.
+
+"You've got a number."
+
+"Very observant."
+
+Leo grinned. “I know, right.”
+
+Another teammate called him and he turned immediately.
+
+Taiga tied his cleats. The locker beside his belonged to Aaron, one of the players from tryouts. Aaron arrived late, half-dressed and carrying a banana.
+
+“Move please.”
+
+Taiga stepped aside. Aaron opened the locker.
+
+“You make development?”
+
+Taiga looked at the number on his own chest.
+
+“No, I stole this.”
+
+Aaron nodded.
+
+“Cool.”
+
+Among the chaos in the locker room, one guy caught Taiga's attention. He recognized him as the goalkeeper.
+
+He hadn't say a single word. He just sat there, slowly gearing 
+up. 
+
+He had a band over his arm. The captain.
+Taiga frowned.
+
+Suddenly Enzo pointed at him.
+
+"Scott!"
+
+Scott was startled.
+
+"Uh- what?"
+
+"Do you think Jenna and Marcus are going to break up?"
+
+Scott looked terrified by the question.
+
+"I- Uh... I-I don't k-know?"
+
+Taiga looked away. That was his captain.
+
+---
+
+Later on the field, Taiga immediately understood why.
+
+“SHAPE\!”
+
+The first team moved almost before Scott's voice finished crossing the field.
+
+As soon as he took place in the goal, Scott's whole figure changed dramatically. 
+
+"RECOVER! ENZO YOU'RE LATE!"
+
+Taiga blinked.
+
+Two seconds later Mercer echoed the correction from midfield, but by then Walsh and Carter had already shifted.
+
+Taiga followed. Around him, the names from the roster were becoming actual people. Scott Pierce in goal. Walsh and Carter at center-back. Ellis on the right. Bennett on the left. Brennan deeper in midfield. Romero beside him. Rosario wide right. Mendez central. Price up front. Cole, another winger, with the second group. Taiga still had to translate half of them in his head.
+
+Mercer stopped the ball beneath one shoe and pointed to Walsh and Carter.
+
+“Center-backs. Their first job is protecting the middle in front of Pierce. Ellis and Bennett are fullbacks: defenders on the outside, but when we have the ball they can move forward and give us width.”
+
+Aaron Bennett lifted a hand toward Taiga.
+
+“Brennan sits deepest in midfield today. If somebody calls him the six, that is what they mean.”
+
+Mercer moved the ball with his foot.
+
+“Price stays highest. Mendez underneath him. Rosario and Cole wide. Learn the jobs before the vocabulary.”
+
+That, at least, sounded reasonable. They started with buildup from the back. Walsh played into Brennan. Brennan turned. Taiga held the left wing. Too wide. Whistle.
+
+“Akatora. Five yards in.”
+
+Taiga moved. Mercer asked, “Why?”
+
+Taiga looked behind him. Aaron had started forward from left-back.
+
+“To leave the outside lane for Bennett.”
+
+“Right. If your fullback comes around you, do not both stand in the same place and congratulate yourselves.”
+
+Aaron jogged past.
+
+“I do appreciate congratulations, though.”
+
+Play resumed. Thirty seconds later:
+
+“Akatora. Higher.”
+
+“Akatora. Open your body.”
+
+“Akatora. You checked the ball. Did you check the defender?”
+
+Taiga's ears heated.
+
+“No.”
+
+“So do that next time.”
+
+The corrections were infuriating because none of them were vague. He could not even argue properly.
+The patterns made sense when Mercer froze the field. Then the ball moved, ten people moved with it, and the solution became a different solution. 
+Technical mistakes Taiga understood. A bad touch was a bad touch. Tactical mistakes felt like being wrong about a question he had not realized anyone had asked.
+
+They did it again. And again. Then from the other side. Then with defenders allowed to break the pattern. That was when everything became difficult again.
+During the water break, Evan Cole, the older one, dropped onto the grass near Taiga and started retaping one shin guard.
+
+“You'll stop hearing the position names eventually.”
+
+Taiga looked at him.
+
+“What?”
+
+“All the winger, fullback, six stuff. First few weeks you translate every word. Then you just see people.”
+
+Cole sounded calm in the way older players often sounded when they already knew the answer. Taiga was suspicious of that.
+
+“How long?”
+
+Cole shrugged. “Depends how stubborn you are.”
+
+“Great.”
+
+From two yards away Enzo Rosario said, “He's fucked, then.”
+
+Taiga looked over. Enzo was tying his boot, expression completely serious. Cole laughed. Taiga smiled despite himself.
+
+---
+
+After training, the locker room was even louder. Someone had won a bet. Taiga didn't know what the bet was. It apparently justified screaming.
+
+Enzo was still arguing with three people at once while pulling a shirt over his head.
+
+“Scott. Tell them that tackle on Leo was a foul.”
+
+Scott, who had spent the previous forty minutes shouting instructions at everybody within hearing distance, sat two lockers down drying his hair with a towel.
+
+“I- Uh... I think so?”
+
+“You were in the other goal.”
+
+“Y-Yeah I guess.”
+
+Taiga showered quickly, changed and left before anybody could decide the developmental players needed to participate in whatever ritual involved slapping lockers. 
+Outside, evening had settled over campus. His body hurt. His head hurt more. He checked his phone. 
+
+**Caleb**: Dining hall at 7:15 instead of 7. Too loud before then
+
+Taiga checked the time. 6:48. He typed:
+
+**Taiga**: fine
+
+Then Keitaro.
+
+**Keitaro:** First real practice today right?
+
+Taiga stared. Of course he remembered.
+
+**Taiga:** unfortunately
+
+**Keitaro:** 😂 How was it?
+
+Taiga began typing.
+
+**Taiga:** fine
+
+Stopped. Deleted. Typed:
+
+**Taiga:** got yelled at for two hours
+
+**Keitaro:** So you loved it.
+
+Taiga frowned.
+
+**Taiga:** die
+
+**Keitaro:** ❤️
+
+Taiga put the phone away. He walked slowly toward the dorm. A group of students passed in the opposite direction. Two girls, three guys. One of the girls was telling a story with enormous hand gestures. A guy beside her had his arm around her shoulders. Another couple sat beneath a tree nearby, sharing earbuds. Somebody rode past on a bicycle. Olympus at night was beginning to look less theatrical now that Taiga had seen the same paths repeatedly.
+
+He knew where the shortcut behind the library went. He knew which vending machine accepted his card and which one pretended to. He knew the humanities building's second-floor bathroom was cleaner than the first. He knew the smaller dining hall was tolerable at noon. He knew the residence hall's elevator made a suspicious sound between floors two and three. Information. Small information. 
+That was how places became manageable. 
+
+---
+
+Caleb was already downstairs at 7:15 exactly. Taiga found him outside the dining hall wearing large black headphones.
+
+“You own normal headphones?”
+
+Caleb looked at him.
+
+“These are normal.”
+
+“You know what I mean.”
+
+“No.”
+
+They entered. The crowd had thinned. Caleb removed the headphones and folded them into his bag. Taiga got pasta. Caleb got the same meal he'd eaten Friday. Taiga noticed.
+
+“You eat that a lot.”
+
+“Yes.”
+
+“Why?”
+
+“I like it.”
+
+“That's it?”
+
+Caleb looked confused.
+
+“What else would there be?”
+
+Taiga shrugged. They sat. Halfway through dinner, Caleb's phone rang. The screen lit up.
+
+**Maya ❤️**
+
+Caleb looked at Taiga.
+
+“I need to answer.”
+
+“Sure.”
+
+“You don't have to leave.”
+
+“I wasn't going to.”
+
+Caleb answered. A girl's face appeared.
+
+“Hi.”
+
+Caleb's entire expression changed. Not dramatically. Just opened.
+
+“Hi.”
+
+Maya had curly hair and a university sweatshirt Taiga didn't recognize.
+
+“Oh, you're eating.”
+
+“Yeah, I am.”
+
+“Want me to call later?”
+
+“No.”
+
+Caleb propped the phone against his water bottle. Maya looked toward Taiga.
+
+“Oh\! Is that your roommate?”
+
+Caleb looked toward him.
+
+“Yes.”
+
+Taiga raised one hand.
+
+“Hey.”
+
+“Taiga, right?”
+
+“Yeah, that's right.”
+
+“I've heard about you.”
+
+Taiga slowly turned toward Caleb. Caleb continued eating.
+
+“What the fuck have you told her?”
+
+Maya laughed. Caleb swallowed.
+
+“That you threw a pillow at me.”
+
+“That was justified.”
+
+“And that you dislike the main dining hall.”
+
+“I dislike everything.”
+
+“That was also mentioned.”
+
+Taiga stared. Maya said, “He likes you.”
+
+Caleb looked at the phone.
+
+“That is not a quotation.”
+
+“I know. It's an observation.”
+
+Caleb's brow furrowed.
+
+“Then label it as one.”
+
+Maya smiled in a way that suggested this conversation had occurred before. Taiga immediately liked her. Maya turned back to him.
+
+“He'll pretend that sentence was about communication theory.”
+
+“It was.”
+
+“Sure, why not.”
+
+Caleb looked faintly offended. Taiga took a drink to hide his smile. Maya talked about her own classes. Environmental science. A professor who had apparently assigned a lab report before they'd even completed the lab. Caleb listened. Actually listened. Not the distracted half-listening most people did while preparing their next sentence. When Maya paused, he asked:
+
+“Did you email him?”
+
+“Yeah, I did.”
+
+“What did he say?”
+
+“That the instructions were clear.”
+
+“They aren't.”
+
+“I know.”
+
+“Do you want me to look at it?”
+
+Maya smiled.
+
+“Later.”
+
+“Okay, then.”
+
+Taiga found himself watching them. Caleb, who sometimes spoke to people like an instruction manual that had learned profanity, somehow knew exactly how to be with her. Or maybe he didn't. Maybe she'd simply learned how to be with him too. Maya eventually said goodbye and they hung up.
+
+“She seems normal.”
+
+Caleb looked at him.
+
+“That is an unusual compliment.”
+
+“It was a compliment.”
+
+“I know.”
+
+“How long have you been together?”
+
+“Two years.”
+
+Taiga's eyebrows rose.
+
+“Are you serious?”
+
+“Yes.”
+
+“You don't seem like somebody who could maintain a relationship for two years.”
+
+Caleb stared. Taiga realized what he'd said.
+
+“Sorry, that came out wrong.”
+
+“I know what you mean.”
+
+“You do?”
+
+“Maya said the same thing after our third date.”
+
+Taiga snorted. Caleb smiled slightly. Then returned to his food. After a while, he said:
+
+“I don't always know when people want something unless they say it.”
+
+Taiga listened.
+
+“Maya says things.”
+
+“That's… useful.”
+
+“Yes.”
+
+Caleb ate another bite.
+
+“And she doesn't change plans without telling me.”
+
+“Romance.”
+
+“It is, actually.”
+
+Taiga looked at him. Caleb was completely serious. That made the sentence better.
+
+---
