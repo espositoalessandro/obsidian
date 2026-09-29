@@ -584,29 +584,20 @@ Do not duplicate detailed Apollo voice rules here.
 
 ---
 
-# 6. Olympus Cast Audit
+# 6. Olympus Social / Academic Cast
 
-The following characters need special attention because their voices currently risk collapsing into one another.
+The recurring Olympus women have their own final-rewrite bible:
 
-Add individual sections during the rewrite audit.
+**See `Final Bibles/Olympus Girls.md`.**
 
-Candidates include:
+That file is authoritative for:
 
-- Maya;
 - Nora;
 - Mia;
-- Gav;
-- other recurring teammates;
-- recurring classmates;
-- secondary Apollo social-circle characters.
+- Sofia;
+- Rachel.
 
-For each one, answer:
-
-1. What does this character sound like when relaxed?
-2. What do they do socially that another character would not?
-3. What kind of joke belongs specifically to them?
-4. What happens to their voice when they stop functioning well?
-5. Could five untagged lines from this character be recognized?
+Additional recurring Olympus characters can be added there if they become part of the same social/academic circle.
 
 ---
 
