@@ -1253,7 +1253,7 @@ They went back upstairs.
 
 Caleb put his headphones on and opened whatever economics thing he was working on. Taiga dropped his training clothes beside the laundry bag, then sat at his desk.
 
-He took down his timetable and added soccer practice three times a week.
+He took down his timetable and added this week's soccer practices.
 Then he looked at the folded shirt in his bag, his name printed across the back.
 
 **AKATORA**
