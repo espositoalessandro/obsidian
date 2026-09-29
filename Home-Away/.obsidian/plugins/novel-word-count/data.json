@@ -7,7 +7,7 @@
       "customSuffix": "w",
       "$sessionCountType": "word"
     },
-    "countType2": "none",
+    "countType2": "readtime",
     "countConfig2": {
       "$sessionCountType": "word"
     },
@@ -16,7 +16,7 @@
       "$sessionCountType": "word"
     },
     "pipeSeparator": "|",
-    "abbreviateDescriptions": false,
+    "abbreviateDescriptions": true,
     "alignment": "inline",
     "showSameCountsOnFolders": true,
     "folderCountType": "word",
