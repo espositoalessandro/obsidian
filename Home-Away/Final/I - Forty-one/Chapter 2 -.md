@@ -1232,3 +1232,38 @@ Caleb ate another bite.
 Taiga looked at him. Caleb was completely serious. That made the sentence better.
 
 ---
+
+They went back upstairs.
+
+Caleb put his headphones on and opened whatever economics thing he was working on. Taiga dropped his training clothes beside the laundry bag then sat at his desk.
+
+He took his timetable and added soccer practices, three times per week.
+Then he looked at the folded shirt with his name in his bag.
+
+**AKATORA**
+**41**
+
+Still felt weird about it. Good weird.
+
+Caleb’s physical alarm clock clicked as he changed the time.
+Taiga looked over.
+
+“You're seriously doing all six again?”
+
+“Yes.”
+
+“Why?”
+
+Caleb paused.
+
+“I need redundancy.”
+
+“Six is way past redundancy, it approaches insanity.”
+
+"It works."
+
+Caleb went back to setting them.
+
+Taiga sighed and opened his Political Institutions reading.
+
+Tomorrow was going to start at six-thirty whether he liked it or not.
