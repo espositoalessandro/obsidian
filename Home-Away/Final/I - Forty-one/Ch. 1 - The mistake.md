@@ -770,7 +770,7 @@ Very, very annoying.
 ---
 Friday morning, Taiga was walking towards the main administrative building. He had just refreshed the portal for the fourth time: still nothing.
 
-What was the point anyway? He sucked at basically everything. 
+What was the point anyway? He sucked at almost everything. 
 He decided not to check it again before the scholarship reception.
 
 Ten minutes later, he was crossing the central park. He saw a couple of students looking at a phone, both visibly disappointed.
