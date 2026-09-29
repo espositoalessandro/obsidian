@@ -730,7 +730,7 @@ Taiga caught Mercer out of the corner of his eye and glanced toward him. He was 
 
 Taiga was about to reply when Mercer shouted.
 
-"Okay, enough for today. Results will be posted on the portal tomorrow morning. Next phase will begin tomorrow afternoon."
+"Okay, enough for today. Results will be posted on the portal tomorrow morning. Expect next phase at the beginning of the week."
 
 Taiga felt his stomach clenching again. That went like shit. He didn't manage to get past Mendez once.
 
@@ -818,7 +818,7 @@ Taiga stared at it for a second. Then he looked at the title again:
 
 Then beneath:
 
-**Second phase will take place this afternoon at 16:00**
+**Second phase will take place Monday afternoon at 16:00**
 
 His heart pounded hard. 
 Another notification appeared on top of his screen.
