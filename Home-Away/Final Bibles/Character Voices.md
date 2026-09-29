@@ -565,78 +565,43 @@ To refine.
 
 ---
 
-# 5. Scott Pierce
+# 5. Apollo Team
 
-## Sentence Shape
-To refine.
+Apollo's recurring team cast has its own final-rewrite bible:
 
-## Social Instinct
-To refine.
+**See `Final Bibles/Apollo Team.md`.**
 
-## Humor Mechanism
-To refine.
+That file is authoritative for:
 
-## Failure Mode
-To refine.
+- Scott;
+- Enzo;
+- Aaron;
+- Evan;
+- supporting Apollo players;
+- team hierarchy and recurring ensemble behavior.
 
----
-
-# 6. Enzo Rosario
-
-## Sentence Shape
-Known baseline:
-
-- expansive;
-- declarative;
-- theatrical;
-- hyperbolic.
-
-## Social Instinct
-To refine.
-
-## Humor Mechanism
-Known baseline:
-
-- performance;
-- mock outrage;
-- escalation;
-- invented principles;
-- committing too hard to a joke.
-
-## Failure Mode
-Known baseline:
-
-- performance can disappear abruptly when something is actually serious.
+Do not duplicate detailed Apollo voice rules here.
 
 ---
 
-# 7. Olympus Cast Audit
+# 6. Olympus Social / Academic Cast
 
-The following characters need special attention because their voices currently risk collapsing into one another.
+The recurring Olympus women have their own final-rewrite bible:
 
-Add individual sections during the rewrite audit.
+**See `Final Bibles/Olympus Girls.md`.**
 
-Candidates include:
+That file is authoritative for:
 
-- Maya;
 - Nora;
 - Mia;
-- Gav;
-- other recurring teammates;
-- recurring classmates;
-- secondary Apollo social-circle characters.
+- Sofia;
+- Rachel.
 
-For each one, answer:
-
-1. What does this character sound like when relaxed?
-2. What do they do socially that another character would not?
-3. What kind of joke belongs specifically to them?
-4. What happens to their voice when they stop functioning well?
-5. Could five untagged lines from this character be recognized?
+Additional recurring Olympus characters can be added there if they become part of the same social/academic circle.
 
 ---
 
-# 8. Source Material
+# 7. Source Material
 
 Use when useful:
 
