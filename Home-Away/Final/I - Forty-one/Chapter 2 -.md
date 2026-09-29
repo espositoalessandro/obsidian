@@ -914,35 +914,57 @@ Taiga looked away. That was his captain.
 
 Later on the field, Taiga immediately understood why.
 
-“SHAPE\!”
+“SHAPE!”
 
 The first team moved almost before Scott's voice finished crossing the field.
 
 As soon as he stepped into the goal, the stutter disappeared.
 
-"RECOVER! ENZO, YOU'RE LATE!"
+“RECOVER! ENZO, YOU'RE LATE!”
 
 Taiga blinked.
 
 Two seconds later Mercer echoed the correction from midfield, but by then Walsh and Carter had already shifted.
 
-Taiga followed. Around him, the names from the roster were becoming actual people.
-Mercer stopped the ball beneath one shoe and pointed to Walsh and Carter.
+Taiga followed.
 
-“Center-backs. Their first job is protecting the middle in front of Pierce. Ellis and Bennett are fullbacks: defenders on the outside, but when we have the ball they can move forward and give us width.”
+Mercer stopped the ball beneath one shoe.
 
-Aaron Bennett lifted a hand toward Taiga.
+“Reset.”
 
-“Brennan sits deepest in midfield today. If somebody calls him the six, that is what they mean.”
+Everybody moved back into position.
 
-Mercer moved the ball with his foot.
+“Walsh, Carter, middle.”
 
-“Price stays highest. Mendez underneath him. Rosario and Cole wide. Learn the jobs before the vocabulary.”
+The two defenders settled in front of Scott.
 
-That, at least, sounded reasonable. They started with buildup from the back. Walsh played into Brennan. Brennan turned. 
+“Ellis right, Bennett left.”
 
+Aaron lifted a hand as he moved outside Taiga.
+
+“Brennan in front of them. Romero beside him.”
+
+Gav Brennan dropped into the space between the defense and the rest of midfield.
+
+“If somebody calls Brennan the six, that's what they mean. Don't worry about the number yet.”
+
+Good. Because Taiga already had enough numbers to remember.
+
+“Price stays highest. Mendez underneath him. Rosario right, Cole left.”
+
+People moved as Mercer spoke. Price pushed toward the halfway line. Leo dropped several yards behind him. Enzo drifted wide on the opposite side while Cole took Taiga's side.
+
+Around him, the names from the roster were slowly becoming actual people.
+
+“Learn the jobs before the vocabulary,” Mercer said.
+
+That, at least, sounded reasonable.
+
+They started from the back.
+Walsh played into Brennan. Brennan turned and immediately looked forward. Ellis started moving up the right. 
+Bennett did the same beside Taiga.
+Right. Fullback. 
 Taiga held the left wing. Too wide. Whistle.
-Play resumed. Thirty seconds later:
 
 “Akatora. Higher.”
 
