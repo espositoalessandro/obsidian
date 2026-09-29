@@ -926,8 +926,7 @@ Taiga blinked.
 
 Two seconds later Mercer echoed the correction from midfield, but by then Walsh and Carter had already shifted.
 
-Taiga followed. Around him, the names from the roster were becoming actual people. Scott Pierce in goal. Walsh and Carter at center-back. Ellis on the right. Bennett on the left. Brennan deeper in midfield. Romero beside him. Rosario wide right. Mendez central. Price up front. Cole, another winger, with the second group. Taiga still had to translate half of them in his head.
-
+Taiga followed. Around him, the names from the roster were becoming actual people.
 Mercer stopped the ball beneath one shoe and pointed to Walsh and Carter.
 
 “Center-backs. Their first job is protecting the middle in front of Pierce. Ellis and Bennett are fullbacks: defenders on the outside, but when we have the ball they can move forward and give us width.”
@@ -940,22 +939,9 @@ Mercer moved the ball with his foot.
 
 “Price stays highest. Mendez underneath him. Rosario and Cole wide. Learn the jobs before the vocabulary.”
 
-That, at least, sounded reasonable. They started with buildup from the back. Walsh played into Brennan. Brennan turned. Taiga held the left wing. Too wide. Whistle.
+That, at least, sounded reasonable. They started with buildup from the back. Walsh played into Brennan. Brennan turned. 
 
-“Akatora. Five yards in.”
-
-Taiga moved. Mercer asked, “Why?”
-
-Taiga looked behind him. Aaron had started forward from left-back.
-
-“To leave the outside lane for Bennett.”
-
-“Right. If your fullback comes around you, do not both stand in the same place and congratulate yourselves.”
-
-Aaron jogged past.
-
-“I do appreciate congratulations, though.”
-
+Taiga held the left wing. Too wide. Whistle.
 Play resumed. Thirty seconds later:
 
 “Akatora. Higher.”
