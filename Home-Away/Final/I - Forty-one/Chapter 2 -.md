@@ -60,7 +60,7 @@ There was silence. Then Caleb said, completely seriously,
 Taiga slowly lowered the blanket. Caleb was already walking toward the bathroom. Taiga stared after him.
 
 ---
-After orientation week, Olympus stopped pretending to be nice.
+By Monday, Olympus had stopped pretending to be nice.
 
 During orientation week, the university had been covered in smiling volunteers, directional signs, free drinks and people asking if anyone needed help.
 Now it was Monday.
@@ -71,7 +71,7 @@ His first real Political Institutions lecture almost ruined his mood. Taiga had 
 Within twelve minutes, he reconsidered every decision that had led him there. 
 
 Professor Hall spoke quickly. Not impossibly. Just quickly enough that Taiga realized his old habit of listening and trusting himself to remember everything was not going to work. 
-He opened his laptop and started notes.
+He opened his laptop and started taking notes.
 Three slides later he was behind.
 Fine. He typed faster.
 
@@ -106,7 +106,7 @@ He closed his eyes and took a deep breath.
 
 Okay.
 Enough spiraling.
-Facts: first lecture, one student knew a theorist he didn't. That was because he had ignored the readings. That was on him and it was fixable.
+Facts: first lecture, one student knew a theorist he'd never heard of. That was because he had ignored the readings. That was on him and it was fixable.
 
 He opened a fresh line at the top of the document.
 
@@ -138,18 +138,18 @@ After his assistants completed the warm-up session with the candidates, Mercer a
 
 He looked each of them straight in the eye.
 
-"I don't need good players. I already have enough. I need people who can grow in my team and become better."
+"I don't need good players. I already have enough. I need people who can grow with my team and become better."
 
 He then looked at his clipboard.
 
-"Today we will see how you actually fare on the field. I don't care how good you are at shooting, dribbling or whatever. I want to see if you can read the field and move accordingly."
+"Today we'll see how you actually fare on the field. I don't care how good you are at shooting, dribbling or whatever. I want to see if you can read the field and move accordingly."
 
-Then he began calling them one by one and assigning a position. Most of them had already played and already had a preferred one. 
+Then he began calling them one by one and assigning them positions. Most of them had already played and already had a preferred one. 
 Taiga, of course, had no idea.
 
 "Akatora."
 
-He approached.
+Taiga stepped forward.
 
 "I'm assuming you've never played organized soccer."
 
@@ -157,7 +157,7 @@ Taiga's stomach clenched. Was it that obvious?
 
 "No."
 
-"You're pretty fast and stubborn enough. Do you know what a winger is?"
+"You're fast, and you're stubborn enough. Do you know what a winger is?"
 
 "A wide attacker?"
 
@@ -189,10 +189,10 @@ Taiga nodded.
 
 “Right. Soccer would be much easier if every answer was always.” Mercer stepped back. “Read the defender. Read your fullback. Read where the ball is. The diagram gives you options, not permission to stop thinking.”
 
-Then he proceeded with the others. After assigning each of them a role, Mercer and his assistants divided them into four groups, mixing current players and candidates. He saw the blond guy, Leo, going with the candidates who wanted to play in attack.
+Then he moved on to the others. After assigning each of them a role, Mercer and his assistants divided them into four groups, mixing current players and candidates. He spotted Leo among the candidates who wanted to play in attack.
 Bennett was in his group. 
 
-Then the assistant had them line up in formation and move through the basics.
+Then an assistant had them line up in formation and move through the basics.
 
 They started. First repetition: Bennett went. Taiga stayed wide. Whistle.
 
@@ -202,7 +202,7 @@ They started. First repetition: Bennett went. Taiga stayed wide. Whistle.
 
 “Then go there before I have to tell you.”
 
-Reset. Second repetition, Taiga moved too early and dragged himself into the central midfielder's lane. The assistants stopped them again.
+Reset. On the second repetition, Taiga moved too early and dragged himself into the central midfielder's lane. The assistants stopped them again.
 
 “Different problem. Same cause.”
 
@@ -215,7 +215,7 @@ Taiga frowned.
 Heat climbed his neck. Third repetition. He checked over his shoulder first. Bennett starting high. Defender watching him. Central midfielder already occupying the inside lane. Taiga held width for another second. Then the midfielder dropped, the lane opened, and Taiga stepped into it. 
 Pass inside. One touch. Bennett around him. Return ball outside.
 Clean. 
-Mercer appeared at his side and said, “Better,” then was already resetting the drill.
+Mercer appeared at his side, said, “Better,” and moved on.
 Good. 
 They ran it from the other side and everything became backwards.
 
@@ -239,9 +239,9 @@ He pressed his lips together with exaggerated effort.
 
 Mercer blew the whistle before Taiga could answer.
 
-Reading when to move and when not to was way harder than Taiga had anticipated.
+Knowing when to move and when not to was way harder than Taiga had anticipated.
 By the sixth repetition, Taiga could feel the structure rather than recite it. 
-Then the scrimmage began and the structure immediately became less polite. Players moved before he expected them to. Passing lanes existed for half a second. A correct position became wrong when somebody else made a different decision. He lost the ball six times. Won it five. Created one assist after beating the right-back and cutting the ball toward Price, the striker, who finished first time.
+Then the scrimmage began and the structure immediately became less polite. Players moved before he expected them to. Passing lanes existed for half a second. A correct position became wrong when somebody else made a different decision. He lost the ball six times. Won it five. Set up one goal after beating the right-back and cutting the ball toward Price, the striker, who finished first time.
 Price pointed at Taiga while jogging back.
 
 “Do that again.”
@@ -263,13 +263,13 @@ Waiting was worse than failure. Failure, at least, was information.
 
 ---
 Tuesday morning, he had his first Foundations of Computer Science lecture. That was the class Taiga was looking forward to the most. 
-He had never been a computer nerd, but during last summer Hyunjin showed him enough coding to make him interested.
+He had never been a computer nerd, but last summer Hyunjin had shown him enough about coding to make him interested.
 
 Since then, he had messed with some basic Git, JavaScript and even a bit of Java. 
-He liked it. Computers don't argue. Or at least, that's what he had been thinking until the class.
+He liked it. Computers didn't argue. Or at least, that's what he'd thought until the class started.
 
 Professor Rao took less than half an hour to destroy every certainty Taiga had. 
-Nothing he had learned showed up during the lecture.
+Almost nothing he had learned showed up during the lecture.
 Instead, Rao talked about algorithms, complexity and computational cost.
 
 Then Rao described the basics of variables and loops. Taiga liked that part better.
@@ -279,7 +279,7 @@ Then Rao described the basics of variables and loops. Taiga liked that part bett
 That afternoon, Taiga was trying hard to focus on the readings for Political Institutions. 
 Every time his phone buzzed, he jumped at it, only to be disappointed with a useless notification.
 
-By 4:15, he hadn't yet gone through the first half of the first reading.
+By 4:15, he hadn't made it through half of the first reading.
 
 Caleb looked across the room. “Are you waiting for something?”
 
@@ -318,10 +318,10 @@ Caleb paused for a second.
 "If they don't take you, will they still notify you?"
 
 Taiga froze. He hadn't thought about that.
-He looked at the time: 4.35
+He looked at the time: 4:35.
 He felt suddenly sick.
 
-A fight started immediately in his brain. 4.35 was still early enough to not jump at any conclusion. But it was also late enough to justify worrying.
+An argument started immediately in his brain. 4:35 was still early enough not to jump to conclusions. But it was also late enough to justify worrying.
 
 "I don't know."
 
@@ -329,11 +329,11 @@ A fight started immediately in his brain. 4.35 was still early enough to not jum
 
 "Why?"
 
-"Because it would be unnecessarily cruel not to. And if nobody was selected, then you could think of a system failure."
+"Because it would be unnecessarily cruel not to. Otherwise, you wouldn't know whether you'd been rejected or the system had failed."
 
-Taiga considered. It made enough sense to loosen the knot inside slightly.
+Taiga considered. It made enough sense for the knot inside him to loosen slightly.
 
-He looked at the reading opened on his laptop. He rubbed his face with his hands.
+He looked at the reading open on his laptop. He rubbed his face with his hands.
 That was stupid.
 There was no point in stopping functioning until a fucking email arrived.
 
@@ -357,11 +357,11 @@ Caleb glanced over.
 "Oh. That looks like good news."
 
 Taiga didn't answer immediately.
-His phone buzzed again. Keitaro, private message.
+His phone buzzed again. A private message from Keitaro.
 
 **Keitaro:** Taiga? Are you alright?
 
-Taiga stared at it. Then he opened Camp Buddy group chat and sent him a picture of the mail.
+Taiga stared at it. Then he opened the Camp Buddy group chat and sent a screenshot of the email.
 
 The phone exploded.
 
@@ -377,7 +377,7 @@ Keitaro started a video call. Taiga answered before it could ring twice.
 
 “You got in\!”
 
-“Just developmental roster.”
+“Just the developmental roster.”
 
 Keitaro laughed.
 
@@ -483,7 +483,6 @@ Taiga looked at the roster email. “Keitaro.”
 Keitaro did not make him repeat it. “Anytime.”
 
 After the call ended, Taiga reread the offer.
-A familiar feeling suddenly awoke.
 
 Two months earlier, when the Olympus scholarship email arrived at Camp Buddy, his first response had been:
 
@@ -527,7 +526,7 @@ She stopped beside him.
 
 Taiga shook his head.
 
-She sat and immediately opened her book. Taiga was checking some passages from the readings.
+She sat and immediately opened her book. Taiga went back to checking a passage from the reading.
 
 "You actually did the readings?"
 
@@ -793,7 +792,7 @@ Taiga stabbed a piece of chicken. The phone buzzed again.
 
 **Yoichi:** lame
 
-Taiga's mouth moved before he could stop it. Caleb glanced up once. Taiga pointed his fork at him.
+The corner of Taiga's mouth moved before he could stop it. Caleb glanced up once. Taiga pointed his fork at him.
 
 “Don't document that.”
 
@@ -818,15 +817,11 @@ It was just equipment.
 
 Five minutes later he was standing in the locker room surrounded by approximately twenty men who had apparently never experienced embarrassment in their lives. Shirts came off. Shorts changed. Someone was playing music from a phone.
 
-Near the middle benches, A guy that Taiga recognized as Enzo was conducting an argument about whether a woman named Jenna had actually broken up with somebody named Marcus. Taiga learned more about Marcus's relationship in ninety seconds than he wanted to know about anybody.
+Near the middle benches, a guy Taiga recognized as Enzo was conducting an argument about whether a woman named Jenna had actually broken up with somebody named Marcus. Taiga learned more about Marcus's relationship in ninety seconds than he wanted to know about anybody.
 
-“I'm telling you, ‘I need space’ is not automatically a breakup,” 
+“I'm telling you, ‘I need space’ is not automatically a breakup,” Enzo declared, pulling on one sock. “It could be a tactical withdrawal. A cooling period. A dramatic second act.”
 
-Enzo declared, pulling on one sock. 
-
-“It could be a tactical withdrawal. A cooling period. A dramatic second act.”
-
-Another guy how looked older than the other shook his head.
+Another guy who looked older than most of them shook his head.
 
 "Listen to me. If a girl asks you for space, then it's already over."
 
@@ -860,7 +855,7 @@ Taiga tied his cleats. The locker beside his belonged to Aaron, one of the playe
 
 Taiga stepped aside. Aaron opened the locker.
 
-“You make development?”
+“You make the developmental roster?”
 
 Taiga looked at the number on his own chest.
 
@@ -870,12 +865,11 @@ Aaron nodded.
 
 “Cool.”
 
-Among the chaos in the locker room, one guy caught Taiga's attention. He recognized him as the goalkeeper.
+Among the chaos in the locker room, the goalkeeper from the tryout caught Taiga's attention.
 
-He hadn't say a single word. He just sat there, slowly gearing 
-up. 
+He hadn't said a single word. He just sat there, slowly gearing up.
 
-He had a band over his arm. The captain.
+He had an armband. The captain.
 Taiga frowned.
 
 Suddenly Enzo pointed at him.
@@ -902,9 +896,9 @@ Later on the field, Taiga immediately understood why.
 
 The first team moved almost before Scott's voice finished crossing the field.
 
-As soon as he took place in the goal, Scott's whole figure changed dramatically. 
+As soon as he stepped into goal, the stutter disappeared.
 
-"RECOVER! ENZO YOU'RE LATE!"
+"RECOVER! ENZO, YOU'RE LATE!"
 
 Taiga blinked.
 
@@ -959,7 +953,7 @@ The patterns made sense when Mercer froze the field. Then the ball moved, ten pe
 Technical mistakes Taiga understood. A bad touch was a bad touch. Tactical mistakes felt like being wrong about a question he had not realized anyone had asked.
 
 They did it again. And again. Then from the other side. Then with defenders allowed to break the pattern. That was when everything became difficult again.
-During the water break, Evan Cole, the older one, dropped onto the grass near Taiga and started retaping one shin guard.
+During the water break, Evan Cole, the older guy from the locker room, dropped onto the grass near Taiga and started retaping one shin guard.
 
 “You'll stop hearing the position names eventually.”
 
@@ -977,7 +971,7 @@ Cole shrugged. “Depends how stubborn you are.”
 
 “Great.”
 
-From two yards away Enzo Rosario said, “He's fucked, then.”
+From two yards away, Enzo Rosario said, “He's fucked, then.”
 
 Taiga looked over. Enzo was tying his boot, expression completely serious. Cole laughed. Taiga smiled despite himself.
 
@@ -991,11 +985,11 @@ Enzo was still arguing with three people at once while pulling a shirt over his 
 
 Scott, who had spent the previous forty minutes shouting instructions at everybody within hearing distance, sat two lockers down drying his hair with a towel.
 
-“I- Uh... I think so?”
+“I—uh... I think so?”
 
 “You were in the other goal.”
 
-“Y-Yeah I guess.”
+“Y-Yeah, I guess.”
 
 Taiga showered quickly, changed and left before anybody could decide the developmental players needed to participate in whatever ritual involved slapping lockers. 
 Outside, evening had settled over campus. His body hurt. His head hurt more. He checked his phone. 
@@ -1008,7 +1002,7 @@ Taiga checked the time. 6:48. He typed:
 
 Then Keitaro.
 
-**Keitaro:** First real practice today right?
+**Keitaro:** First real practice today, right?
 
 Taiga stared. Of course he remembered.
 
@@ -1235,15 +1229,15 @@ Taiga looked at him. Caleb was completely serious. That made the sentence better
 
 They went back upstairs.
 
-Caleb put his headphones on and opened whatever economics thing he was working on. Taiga dropped his training clothes beside the laundry bag then sat at his desk.
+Caleb put his headphones on and opened whatever economics thing he was working on. Taiga dropped his training clothes beside the laundry bag, then sat at his desk.
 
-He took his timetable and added soccer practices, three times per week.
-Then he looked at the folded shirt with his name in his bag.
+He took down his timetable and added soccer practice three times a week.
+Then he looked at the folded shirt in his bag, his name printed across the back.
 
 **AKATORA**
 **41**
 
-Still felt weird about it. Good weird.
+It still felt weird. Good weird.
 
 Caleb’s physical alarm clock clicked as he changed the time.
 Taiga looked over.
@@ -1258,7 +1252,7 @@ Caleb paused.
 
 “I need redundancy.”
 
-“Six is way past redundancy, it approaches insanity.”
+“Six is way past redundancy. It's approaching insanity.”
 
 "It works."
 
