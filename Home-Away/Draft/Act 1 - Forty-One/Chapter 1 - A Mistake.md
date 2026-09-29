@@ -179,6 +179,7 @@ Taiga ended the call.
 **Hiro:** THEN REPORT HOT SOCCER BOYS
 
 **Taiga:** die  
+
 He locked the phone before Hiro could answer. The room was still half empty and the corridor was still loud, but for several seconds Taiga smiled anyway. Nobody saw it. That was the important part.  
 His roommate turned out not to be an axe murderer. Unfortunately, he was also not absent. Caleb Morrison arrived forty minutes later carrying a large plastic storage bin while an older man followed him with a mini-fridge balanced against his chest. Caleb was tall, dark-skinned, wearing a sleeveless basketball shirt and noise-reduction earbuds around his neck. He stopped as soon as he saw Taiga.
 
