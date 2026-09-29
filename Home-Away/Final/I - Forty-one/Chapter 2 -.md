@@ -527,7 +527,7 @@ She stopped beside him.
 
 Taiga shook his head.
 
-She sat and immediately opened his notebook. Taiga was checking some passages from the readings.
+She sat and immediately opened her book. Taiga was checking some passages from the readings.
 
 "You actually did the readings?"
 
@@ -583,8 +583,6 @@ Taiga stared at her. She looked completely serious.
 Before he could reply, Professor Hall walked in.
 
 He started where they had left off. This time Taiga could actually follow without opening three tabs and wondering what the hell everyone else knew that he didn't.
-
-He felt much better.
 
 About twenty minutes in, Hall returned to the same section the girl had shown him.
 
@@ -648,7 +646,7 @@ She glanced over.
 
 “Here we go.”
 
-“You're collapsing two different questions.”
+“Those are two different questions.”
 
 Taiga stared at her.
 
@@ -701,4 +699,4 @@ He looked at her.
 
 Then she picked up her coffee and left. Taiga watched her disappear into the aisle.
 
-Maybe this class will not be completely terrible.
+Maybe this class wouldn't be completely terrible.
