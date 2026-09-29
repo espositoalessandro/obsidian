@@ -848,5 +848,6 @@ Send. The response was immediate.
 **Taiga:** i hate all of you
 
 He locked his phone and kept walking towards the administrative building.
+One piece of evidence. Annoyingly, not the kind he'd expected.
 
-
+Fine, point for Olympus.
