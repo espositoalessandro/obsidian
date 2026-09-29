@@ -6,7 +6,7 @@ At 6:30, all of them went off within approximately twelve seconds of one another
 
 “What the fuck?”
 
-Caleb's hand emerged from beneath his blanket and slapped vaguely at the nightstand. The physical alarm continued shrieking. His phone joined it. Then his watch. Then a pleasant female voice announced from the speaker:
+Caleb's hand emerged from beneath his blanket only at the third alarm and slapped vaguely at the nightstand. The physical alarm continued shrieking. His phone joined it. Then his watch. Then a pleasant female voice announced from the speaker:
 
 “Good morning, Caleb. It is six-thirty A.M.”
 
@@ -73,7 +73,7 @@ Within twelve minutes, he reconsidered every decision that had led him there.
 Professor Hall spoke quickly. Not impossibly. Just quickly enough that Taiga realized his old habit of listening and trusting himself to remember everything was not going to work. 
 He opened his laptop and started taking notes.
 Three slides later he was behind.
-Fine. He typed faster.
+He typed faster.
 
 A student in the front row raised his hand and asked a question involving a political theorist Taiga had never heard of. Hall smiled.
 
@@ -119,15 +119,24 @@ Then underneath:
 He stared at the second line for a second before deleting it. Some things did not need written evidence.
 
 ---
-Next, he had Calculus I at eleven-sharp and General Chemistry before lunch.
+Next, he had Calculus I at ten and General Chemistry before lunch.
 
-Taiga liked them slightly better. These were topics that he had already covered in high school, so he wasn't starting from zero.
+Taiga liked them slightly better.
 
-Still, his intuition that his usual method of listening and remembering wouldn't help here proved right once again.
+Calculus was familiar enough that he could follow without feeling like everybody else had received a secret handbook before arriving. Professor Chen spent most of the lecture reviewing material Taiga had already seen in high school, then moved just far enough past it to make him stop pretending he didn't need to take notes.
 
-[insert something else here]
+Chemistry was messier.
+
+Professor Hassan started with measurements, significant figures and enough rules about units to make Taiga wonder how humanity had managed to discover anything before inventing spreadsheets.
+
+Still, he liked the logic of it. Do something. Measure what happened. Work out why. That made sense.
+
+By lunchtime, his notebook already looked more organized than the one from Political Institutions.
+
+Apparently that class was going to be the problem child.
 
 ---
+
 Callback began that afternoon. Taiga arrived early enough to watch an assistant set out mannequins and flat markers along the left side of the pitch.
 At 16:00, Mercer called them in. Taiga looked around.
 In the first phase, there had been at least 30-40 people. Now he counted around 15.
@@ -262,17 +271,30 @@ That was it. Taiga picked up his bag with his stomach tied into a knot.
 Waiting was worse than failure. Failure, at least, was information.
 
 ---
-Tuesday morning, he had his first Foundations of Computer Science lecture. That was the class Taiga was looking forward to the most. 
-He had never been a computer nerd, but last summer Hyunjin had shown him enough about coding to make him interested.
+Tuesday morning brought Foundations of Computer Science.
 
-Since then, he had messed with some basic Git, JavaScript and even a bit of Java. 
-He liked it. Computers didn't argue. Or at least, that's what he'd thought until the class started.
+That was the class Taiga had been looking forward to most.
 
-Professor Rao took less than half an hour to destroy every certainty Taiga had. 
-Almost nothing he had learned showed up during the lecture.
-Instead, Rao talked about algorithms, complexity and computational cost.
+He had never considered himself a computer nerd, but during the summer Hyunjin had shown him enough coding to get him interested. Since then, Taiga had messed around with some Git, JavaScript and even a little Java.
 
-Then Rao described the basics of variables and loops. Taiga liked that part better.
+Mostly small things.
+
+Scripts. Broken experiments. Stuff that worked after enough swearing.
+
+Professor Rao took less than half an hour to destroy his confidence.
+
+She started talking about algorithms, efficiency and why two programs that produced the same answer could still be very different solutions.
+
+Taiga frowned at the slide. That was new.
+
+Then Rao moved into variables and loops.
+Finally. Something he recognized.
+
+She put a short example on the screen and asked what would happen after each iteration.
+
+Taiga knew the answer before she finished asking. He considered raising his hands, before someone answered correctly. 
+
+At least this class looked promising.
 
 ---
 
