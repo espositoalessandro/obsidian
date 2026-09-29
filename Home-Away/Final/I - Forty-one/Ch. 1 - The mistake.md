@@ -50,8 +50,7 @@ Then he turned and continued.
 There. Day one and he almost lost it to a random guy who just bumped him.
 Great start.
 
-If it weren't for Camp Buddy, he probably wouldn't have stopped. 
-He had sworn to leave that part of him there, buried at that fucking pier. 
+If it weren't for Camp Buddy, Taiga probably wouldn't have stopped. 
 He just didn't expect Olympus University to bomb all his senses straight away.
 
 He took a deep breathed and moved on.
@@ -719,8 +718,6 @@ Leo was laughing, ball under his foot.
 "But you almost got me! I honestly wasn't expecting that."
 
 Taiga saw Mercer out of the corner of his eye and turned towards him. He was writing something on the clipboard. 
-
-"You're doing good!", Leo continued, "You're way better at this than when we started."
 
 "You still took the ball."
 
