@@ -955,7 +955,7 @@ Taiga's ears heated.
 
 The corrections were infuriating because none of them were vague. He could not even argue properly.
 The patterns made sense when Mercer froze the field. Then the ball moved, ten people moved with it, and the solution became a different solution. 
-Technical mistakes were easier: a bad touch was bad, a shot that missed the goal, there was an immediate and definable solution. But when it came about tactical, lines became blurrier. An error was not objectively an error, it was simply a poor choice.
+Technical mistakes Taiga understood. A bad touch was a bad touch. Tactical mistakes felt like being wrong about a question he had not realized anyone had asked.
 
 They did it again. And again. Then from the other side. Then with defenders allowed to break the pattern. That was when everything became difficult again.
 During the water break, Evan Cole, the older guy from the locker room, dropped onto the grass near Taiga and started retaping one shin guard.
@@ -1119,15 +1119,21 @@ Taiga slowly turned toward Caleb. Caleb continued eating.
 
 “What the fuck have you told her?”
 
-Maya laughed. Caleb swallowed.
+Maya laughed. Caleb counted with his fingers.
 
-“That you threw a pillow at me.”
+“That you do soccer, you are a scout, you dislike my alarm system-”
 
-“That was justified.”
+Maya interrupted,
 
-“And that you dislike the main dining hall.”
+"You attacked him with a pillow."
+
+"He attacked me first with six fucking alarms."
+
+“And that you dislike the main dining hall as well.”
 
 “I dislike everything.”
+
+Caleb added:
 
 “That was also mentioned.”
 
@@ -1143,7 +1149,7 @@ Caleb's brow furrowed.
 
 “Then label it as one.”
 
-Maya smiled in a way that suggested this conversation had occurred before. Taiga immediately liked her. Maya turned back to him.
+Maya smiled resignedly. Taiga assumed that conversation had happened before.
 
 “He'll pretend that sentence was about communication theory.”
 
@@ -1152,15 +1158,11 @@ Maya smiled in a way that suggested this conversation had occurred before. Taiga
 “Sure, why not.”
 
 Caleb looked faintly offended. Taiga took a drink to hide his smile. Maya talked about her own classes. Environmental science. A professor who had apparently assigned a lab report before they'd even completed the lab.
-Caleb actually listened and when Maya paused, he asked:
+Caleb listened and when Maya paused, he asked:
 
 “Did you email him?”
 
-“Yeah, I did.”
-
-“What did he say?”
-
-“That the instructions were clear.”
+“Yeah, I did. He said the instructions were clear.”
 
 “They aren't.”
 
@@ -1174,8 +1176,7 @@ Maya smiled.
 
 “Okay, then.”
 
-Taiga watched them. Caleb, who sometimes spoke to people like he was reading an instruction manual, somehow knew exactly how to be around her. Or maybe he didn't. Maybe she'd simply learned how to be with him too. 
-Yet, somehow there was no friction in their conversation.
+Taiga watched them. Caleb, who sometimes spoke to people like he was reading an instruction manual, somehow felt more confident with her.
 Maya eventually said goodbye and they hung up.
 
 “She seems normal.”
@@ -1226,7 +1227,7 @@ Caleb ate another bite.
 
 “And she doesn't change plans without telling me.”
 
-“Romance at its finest.”
+“Romance.”
 
 “It is, actually.”
 
