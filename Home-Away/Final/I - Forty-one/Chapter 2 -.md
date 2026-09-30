@@ -63,7 +63,8 @@ Taiga slowly lowered the blanket. Caleb was already walking toward the bathroom.
 By Monday, Olympus had stopped pretending to be nice.
 
 During orientation week, the university had been covered in smiling volunteers, directional signs, free drinks and people asking if anyone needed help.
-Now it was Monday.
+
+Then things changed.
 The signs were disappearing. The volunteers had gone back to their own classes. Nobody stood outside the humanities building handing out bottled water. 
 Taiga approved. At least the place was being honest now.
 
@@ -143,7 +144,7 @@ In the first phase, there had been at least 30-40 people. Now he counted around 
 
 After his assistants completed the warm-up session with the candidates, Mercer approached them. Clipboard in one hand, whistle in the other.
 
-"Some of the guys you saw yesterday were better players than some of you. I corrected the same mistake twice with them. I corrected yours once and watched you spend the rest of the session trying to solve it."
+"Some of the guys you saw the other day were better players than some of you. I corrected the same mistake twice with them. I corrected yours once and watched you spend the rest of the session trying to solve it."
 
 He looked each of them straight in the eye.
 
@@ -153,7 +154,7 @@ He then looked at his clipboard.
 
 "Today we'll see how you actually fare on the field. I don't care how good you are at shooting, dribbling or whatever. I want to see if you can read the field and move accordingly."
 
-Then he began calling them one by one and assigning them positions. Most of them had already played and already had a preferred one. 
+Then he began calling them one by one and assigning them positions. Most of them had already played and already had a preferred position. 
 Taiga, of course, had no idea.
 
 "Akatora."
@@ -532,9 +533,10 @@ Taiga glanced down. His leg had stopped bouncing.
 
 “Mostly my mother.”
 
-Taiga smiled faintly. The campus still felt too big and too loud, but for the first time since arriving, one place on the map felt slightly less theoretical.  
+Taiga smiled faintly. The campus still felt too big and too loud, but one other place on the map felt slightly less theoretical.  
 
 ---
+
 The following morning started with Political Institutions again. 
 
 Taiga arrived eight minutes early and took the same seat as Monday. Third row from the back. Near enough to see. Far enough that nobody would mistake his existence for enthusiasm.
@@ -764,7 +766,7 @@ Taiga's phone buzzed. He glanced down.
 
 A photo loaded. Hiro stood outside a lecture hall holding a coffee. Keitaro was beside him looking deeply unimpressed.
 
-**Keitaro:** Hiro, it's 11:14. We left home three hours ago.
+**Keitaro:** Hiro, it's 12:14. We left home three hours ago.
 
 **Hiro:** THREE VERY DIFFICULT HOURS   
 **Hiro:** my lecturer used 9pt font on a projector keitaro   
@@ -1058,8 +1060,9 @@ Taiga frowned.
 
 Taiga put the phone away. He walked slowly toward the dorm. A group of students passed in the opposite direction. Two girls, three guys. One of the girls was telling a story with enormous hand gestures. A guy beside her had his arm around her shoulders. Another couple sat beneath a tree nearby, sharing earbuds. Somebody rode past on a bicycle. Olympus at night was beginning to look less theatrical now that Taiga had seen the same paths repeatedly.
 
-He knew where the shortcut behind the library went. He knew which vending machine accepted his card and which one pretended to. He knew the humanities building's second-floor bathroom was cleaner than the first. He knew the smaller dining hall was tolerable at noon. He knew the residence hall's elevator made a suspicious sound between floors two and three. Information. Small information. 
-That was how places became manageable. 
+He knew where the shortcut behind the library went. He knew which vending machine accepted his card and which one pretended to. He knew the humanities building's second-floor bathroom was cleaner than the first. He knew the smaller dining hall was tolerable at noon. He knew the residence hall's elevator made a suspicious sound between floors two and three. 
+Information. 
+Small information. 
 
 ---
 
