@@ -359,11 +359,11 @@ There was no point in stopping functioning until a fucking email arrived.
 He had managed to get almost to the end of the reading when a small notification appeared at the top right of his screen. A new email.
 
 **Olympus University Athletics**  
-**Men's Soccer — Freshman Selection**
+**Apollo Men's Soccer — Freshman Selection**
 
 Everything stopped. He stared at it for half a minute. Then he opened it.
 
-**We are pleased to offer you a developmental roster position with the Olympus University Men's Soccer Club for the upcoming semester.**
+**We are pleased to offer you a developmental roster position with Apollo Men's Soccer for the upcoming semester.**
 
 He read the sentence twice. 
 Developmental. Not first squad. 
@@ -720,8 +720,8 @@ Then she picked up her coffee and left. Taiga watched her disappear into the ais
 
 ---
 
-At lunch, Caleb insisted on walking another four minutes to a smaller dining hall on the opposite side of campus. Taiga discovered why as soon as they entered: it was quieter.
-The main dining hall at noon sounded like somebody had trapped three hundred people inside an aluminum drum. This one held maybe fifty. Caleb visibly relaxed. They collected food and took a table near the window.
+At lunch, Caleb insisted on walking another four minutes to a smaller cafeteria on the opposite side of campus. Taiga discovered why as soon as they entered: it was quieter.
+The Oyster at noon sounded like somebody had trapped three hundred people inside an aluminum drum. This one held maybe fifty. Caleb visibly relaxed. They collected food and took a table near the window.
 
 Caleb removed one earbud. He almost always had something in his ears now. Sometimes music, often nothing at all. Taiga had asked once and Caleb had replied:
 
@@ -1024,7 +1024,7 @@ Taiga showered quickly, changed and left before anybody could decide the develop
 Outside, evening had settled over campus. His body hurt. His head hurt more. 
 He checked his phone. 
 
-**Caleb**: Dining hall at 7:15 instead of 7. Too loud before then
+**Caleb**: The Oyster at 7:15 instead of 7. Too loud before then
 
 Taiga checked the time. 6:48. He typed:
 
@@ -1060,11 +1060,11 @@ Taiga put the phone away and walked slowly toward the dorm.
 A group of students passed in the opposite direction. Two girls, three guys. One of the girls was telling a story with enormous hand gestures. A guy beside her had his arm around her shoulders. Another couple sat beneath a tree nearby, sharing earbuds. Somebody rode past on a bicycle.
 Olympus at night was beginning to look less theatrical now that Taiga had seen the same paths repeatedly.
 
-He knew where the shortcut behind the library went. He knew which vending machine accepted his card and which one pretended to. He knew the humanities building's second-floor bathroom was cleaner than the first. He knew the smaller dining hall was tolerable at noon. He knew the residence hall's elevator made a suspicious sound between floors two and three, even after they had repaired it. 
+He knew where the shortcut behind the library went. He knew which vending machine accepted his card and which one pretended to. He knew the humanities building's second-floor bathroom was cleaner than the first. He knew the smaller cafeteria was tolerable at noon. He knew the residence hall's elevator made a suspicious sound between floors two and three, even after they had repaired it. 
 
 ---
 
-Caleb was already downstairs at 7:15 exactly. Taiga found him outside the dining hall wearing large black headphones.
+Caleb was already downstairs at 7:15 exactly. Taiga found him outside The Oyster wearing large black headphones.
 
 “You own normal headphones?”
 
@@ -1156,7 +1156,7 @@ Maya interrupted him.
 
 "He attacked me first with six fucking alarms."
 
-“And that you dislike the main dining hall as well.”
+“And that you dislike The Oyster as well.”
 
 “I dislike everything.”
 
