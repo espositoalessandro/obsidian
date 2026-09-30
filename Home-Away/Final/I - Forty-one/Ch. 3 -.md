@@ -533,7 +533,7 @@ The drill continued for another four minutes. Nobody looked at him.
 
 Mercer finally called for water. The whole field scattered. Taiga took his without making eye contact with anyone. 
 
-Mercer didn't approach him. Of course he didn't. He had finally done it, he crossed the line once and for all. 
+Mercer didn't approach him. Of course he didn't. Taiga had finally fucked it up. 
 All that work, all that progress, and he managed to screw it all up because he was pissed at himself.
 
 He could hear Leo and Enzo joking about something in the distance. Leo laughed.
