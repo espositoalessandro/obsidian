@@ -137,7 +137,7 @@ Leo considered for a second.
 
 “He’s new. But he learns stupidly fast.”
 
-Taiga blinked. Nora raised an eyebrow. 
+Taiga blinked. Nora frowned. 
 
 “So yes?”
 
@@ -251,3 +251,407 @@ Taiga laughed despite himself.
 “Thanks.”
 
 “You're welcome.”
+
+--- 
+
+By the third week, Taiga had learned that Olympus University had moods. Monday morning was hostile. Friday afternoon was useless.
+
+He also learned that if he left room 317 at 8:05 instead of 8:10, he could reach Political Institutions without getting trapped behind the slow-moving wall of students that formed outside the library. Three minutes transformed the walk from infuriating to manageable. Caleb agreed.
+
+“8:05 works. 8:07 is better,” he said one morning.
+
+Taiga stopped halfway through tying his shoe.
+
+“That’s just two minutes.”
+
+“I timed pedestrian density.”
+
+Taiga stared.
+
+“What?”
+
+“The central path gets crowded between eight-ten and eight-twenty. People tend to leave on multiples of five, so 8:07 avoids the first clump.”
+
+“You made a study of this?”
+
+“No.”
+
+“That sounds exactly like a study.”
+
+“I looked at it for four days.”
+
+Taiga straightened.
+
+“That's a study.”
+
+Caleb considered.
+
+“Informally.”
+
+Taiga grabbed his bag.
+
+“You're insane.”
+
+“You should leave now.”
+
+Taiga checked the clock. 8:07. He left.
+
+Apparently, Nora had decided to save him a seat every time. Taiga didn't remember agreeing to that.
+Professor Hall entered a few minutes later and the lecture began.
+
+By now Taiga had developed a system: Laptop for notes, assigned reading open in a second window, physical notebook beside him for thoughts he didn't want buried inside the lecture transcript. So now his notebook contained things like:
+
+*Assumes rational voters. Why?*
+
+*This contradicts week 2\. Ask.*
+
+*Nora wrong about institutional legitimacy. Fight later.*
+
+Nora had seen that last one. She'd written underneath:
+
+*coward*
+
+After class, Nora packed her bag.
+
+“I'm starting to believe that you actually like arguing with Professor Hall.”
+
+Taiga shut his laptop.
+
+“I don't argue with him.”
+
+“You told him his example was misleading.”
+
+“Because it was.”
+
+“And you enjoyed saying it.”
+
+Taiga rolled his eyes and started toward the door. Nora followed. 
+
+"Have you already picked a major?"
+
+Taiga felt something tightening. 
+
+"No."
+
+"Any ideas?"
+
+"Yes, one different from yours."
+
+Nora smiled.
+
+“You should do political science.”
+
+“No.”
+
+“Why not?”
+
+“Because you said I should.”
+
+“Wow. Solid reasoning.”
+
+When they reached the stairs, Nora was headed towards the dorm. Taiga had his Calculus lecture.
+
+"How about lunch? Tomorrow at one."
+
+Taiga stopped. His reflex arrived immediately.
+No. 
+He forced himself to check his schedule.
+
+“Can't. Training at two.”
+
+“Wednesday?”
+
+“Same.”
+
+“Thursday?”
+
+“Class.”
+
+Nora frowned.
+
+“You're disturbingly busy for someone who claims not to have a life.”
+
+“That sounds like your problem.”
+
+“Okay. Friday then.”
+
+Taiga hesitated.
+
+“Maybe. I don't know.”
+
+Nora rolled her eyes and smiled.
+
+"See you Friday."
+
+She walked away. Taiga watched her go.
+Annoying.
+He added lunch appointment on Friday on his calendar.  
+
+---
+
+Soccer was supposed to become easier. That's what he had been told. 
+Some things actually did: fitness, technical drills, one-to-one. Even his finishings, although strongly inconsistent, were starting to take shape.
+
+Positioning was a conspiracy. Mercer could freeze a play, ask Taiga and he could see where he should be almost immediately. 
+Then, as soon as players moved again, everything immediately stopped making sense.
+
+Taiga could see his progress. He could see he was getting better. 
+That made everything worse.
+Before, he'd been totally lost and he knew it. Mistakes were expected.
+Now, every right answer immediately inflated his confidence and every mistake immediately burst it.
+
+And to make things worse, it seems like he was the only one who made the tryouts not knowing anything about positioning. Everyone was making mistakes, sure. Taiga was clearly worse though. 
+He was leaving every practice with his head almost exploding, trying to keep up.
+
+Tuesday's session was particularly intense. 
+Mercer had split them into four-on-four groups inside a narrow rectangle of pitch. Two small goals at either end. No goalkeepers. Two touches maximum.
+
+“Move it before they can settle,” Mercer said. “And when you lose it, don't all become heroes at once.”
+
+Taiga understood that part.
+
+Unfortunately, understanding instructions before the whistle and understanding them while eight people moved at the same time were apparently different skills.
+
+Romero received, backs to the goal. Taiga went immediately and tried to steal the ball, but Romero shifted and left him there.
+
+"Akatora."
+
+Taiga stopped. Mercer was pointing between him and the goal.
+
+"You don't need the ball."
+
+Taiga frowned.
+
+"He had his back turned-"
+
+"And where was he going?"
+
+Taiga looked. Right. Inside. 
+
+"Inside."
+
+"And you gave him inside. Don't commit every time. Force him to make a decision."
+
+Fine, clear enough. Taiga nodded.
+
+Next whistle. This time, Evan Cole received. Taiga closed down, but leaving enough space so that Evan faced him when he turned. 
+Taiga still didn't commit. 
+Evan made a step. Then another. Taiga slowly backed.
+
+Whistle.
+Why?
+Taiga looked at Mercer.
+
+"Now you're giving him a guided tour."
+
+Mercer pointed toward cole.
+
+“You're still defending. Make him uncomfortable.”
+
+Taiga pressed his lips together. 
+Apparently there was a correct distance measured in fucking centimeters that everyone else had been issued during childhood.
+
+They reset again.
+
+Cole received again. This time Taiga didn't let leave him too much space. At some point, Cole had to stop and passed backward.
+
+Mercer shouted from outside the grid.
+
+“Good, Akatora.”
+
+Okay, that made sense. He hadn't won the ball, but it didn't matter. Cole had gone backward. Now he was getting it.
+
+The next few repetition were better.
+Then Price received, but his touch got away from him. Taiga pressed a second too early and Price knocked the ball beyond him and ran.
+
+"Fuck."
+
+Taiga immediately turned and chased. Price passed, Cole shot: goal.
+He put his hands on his sides and exhaled. Cole passed beside him.
+
+"Don't chase a bad touch."
+
+"It was loose."
+
+"Doesn't mean it's automatically yours. Be patient."
+
+Taiga didn't answer. They reset. 
+This time, Taiga spent one second too much checking the man in front of him, the ball and then behind him. By the time he looked forward again, his player had already moved. 
+Taiga tried to recover, but with just one pass through they scored again.
+He kicked the grass.
+
+“Akatora,” Mercer called.
+
+“I know.”
+
+Mercer didn't answer. That was somehow worse. He bit his lip and reset.
+The next repetition was safe again. The following one, Taiga was late again. He immediately chased Price, shoulder to shoulder. He saw the ball and tried to put a foot to it but Price immediately pulled it away. His momentum carried him past, and he could only see Price scoring again.
+
+Taiga bit the inner side of his cheek until it almost hurt.
+
+Mercer blew the whistle harder this time.
+
+“Akatora. Stop trying to fix the last mistake with the next one.”
+
+Taiga looked over.
+
+“What?”
+
+“You lose him once, then the next time you try to win everything immediately.”
+
+Taiga said nothing, his face felt hot.
+Mercer pointed back onto the pitch.
+
+“Play the situation you're in. Not the one from thirty seconds ago.”
+
+Easy for him to say.
+Taiga reset.
+
+Again, the attacker received. Taiga moved immediately. Pierce turned and faced Taiga, who hesitated just enough to let him through.
+Gone.
+Evan intercepted the pass before it reached the goal.
+
+“Hold him there,” Evan said as he returned the ball. “You don't have to win it.”
+
+“I know.”
+
+It came out sharper than Taiga intended.
+Evan glanced at him.
+
+“Okay.”
+
+Why was it so freaking easy for everyone else?
+
+Taiga flexed his fingers. They reset.
+
+Another ball. Another receive. Another time Taiga committed too early.
+What the fuck was his problem?
+
+Evan passed the ball back toward the restart.
+
+“You're still diving in.”
+
+Taiga looked at him. Seriously?
+
+"Yeah, I fucking noticed."
+
+Evan looked at him, his face didn't change. Which made it worse.
+
+“Then stop trying to win it,” Evan said. “Make him choose.”
+
+Taiga could hear his pulse.
+
+"I said I know."
+
+"Then why—"
+
+"Can you worry about your fucking game?"
+
+His group went silent. Evan looked taken aback.
+Taiga knew immediately that he crossed a line. And he immediately hated himself for it.
+
+Whistle followed.
+
+"AKATORA."
+
+Taiga looked over: Mercer was pointing outside the grid.
+
+“Out.”
+
+Taiga's stomach dropped.
+
+“Coach—”
+
+“Out.”
+
+Everything else disappeared from his vision. There was only Mercer pointing at the bench.
+Taiga walked out like he was walking into a court.
+Mercer didn't come over, he immediately restarted the drill.
+
+"Play."
+
+And just like that everyone moved again. Humiliation burned much hotter than anger. 
+The drill continued for another four minutes. Nobody looked at him. 
+
+Mercer finally called for water. The whole field scattered. Taiga took his without making eye contact with anyone. 
+
+Mercer didn't approach him. Of course he didn't. He had finally done it, he crossed the line once and for all. 
+All that work, all that progress, and he managed to screw it all up because he was pissed at himself.
+
+He could hear Leo and Enzo joking about something in the distance. Leo laughed.
+Scott had already transitioned in his quiet form.
+
+Taiga immediately stopped looking, he felt like throwing up.
+He went to the bench and sat down, looking at the grass between his feet. 
+He was already thinking about what Keitaro would have said, when he noticed someone had approached him.
+
+"Hey."
+
+Taiga forced himself to look up. Evan.
+
+"Hey."
+
+Evan sat next to him.
+
+"I'm sorry if I pried too much. I wasn't trying to be a dick."
+
+Taiga took a drink.
+
+"I know."
+
+Evan looked surprised. Taiga was very tempted to leave it there.
+
+"...I was."
+
+Evan smiled. 
+
+"Yeah."
+
+"Sorry about that."
+
+Evan stood up. 
+
+"Forget it. I'll try to be more considered next time."
+
+He walked away before Taiga could say anything.
+
+Finally, Mercer came over.
+There it was.
+
+He stood, his mouth was dry.
+
+"Why did I pull you out?"
+
+Taiga took a second before answering.
+
+"I was being a jerk."
+
+"No."
+
+Taiga frowned. What?
+
+"You can be angry. Frustrated. You can hate the whole team. I don't care."
+
+He pointed the field behind him.
+
+"You don't get to ruin others' practice."
+
+That felt way worse. He wished Mercer just said he was an asshole and call it done.
+
+Taiga nodded and lowered his head.
+
+"You want to play here?"
+
+Taiga looked up immediately.
+
+"Yes."
+
+"Then learn the difference. Wait for the end of practice before murdering your teammates."
+
+Taiga almost laughed. He was unsure if for the joke or for the sudden relief.
+
+Mercer pointed at the field again.
+
+"Back in."
+
+---
