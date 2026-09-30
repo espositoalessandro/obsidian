@@ -211,10 +211,8 @@ Taiga frowned.
 “You moved because you remembered a rule. You need to move because you saw something.”
 
 Heat climbed his neck. Third repetition. He checked over his shoulder first. Bennett starting high. Defender watching him. Central midfielder already occupying the inside lane. Taiga held width for another second. Then the midfielder dropped, the lane opened, and Taiga stepped into it. 
-Pass inside. One touch. Bennett around him. Return ball outside.
-Clean. 
+Pass inside. One touch. Bennett around him. Return ball outside. Clean. 
 Mercer appeared at his side, said, “Better,” and moved on.
-Good. 
 They ran it from the other side and everything became backwards.
 
 Taiga wanted to murder geometry. 
@@ -225,7 +223,7 @@ Mercer combined all the groups into two teams on the whole pitch.
 
 “You do not sprint at every person who receives it. Pressing is coordinated pressure. If Akatora goes and the rest of you stay home, Akatora is not pressing. He is jogging angrily by himself.”
 
-Someone behind Taiga laughed. He turned: Mendez was grinning openly.
+Someone behind Taiga snorted. He turned: Mendez was grinning openly.
 Taiga glared at him. 
 He pressed his lips together with exaggerated effort.
 
@@ -847,15 +845,18 @@ Leo ignored him and pointed at his shirt.
 
 Leo grinned. “I know, right.”
 
-Another teammate called him and he turned immediately.
+Another teammate called him.
 
-Taiga tied his cleats. The locker beside his belonged to Aaron, one of the players from tryouts. Aaron arrived late, half-dressed and carrying a banana.
+"Coming! Anyways, congrats. I'm happy you made it!"
+
+Then he walked away before Taiga could respond. He shook his head and continued tying his cleats. 
+The locker beside his belonged to Aaron, one of the players from tryouts. Aaron arrived late, half-dressed and carrying a banana.
 
 “Move, please.”
 
 Taiga stepped aside. Aaron opened the locker.
 
-“You make the developmental roster?”
+“So, you make the developmental roster?”
 
 Taiga looked at the number on his own chest.
 
