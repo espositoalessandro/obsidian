@@ -861,7 +861,7 @@ Taiga looked at the number on his own chest.
 
 “No, I stole this.”
 
-Aaron nodded.
+Aaron snorted.
 
 “Cool.”
 
