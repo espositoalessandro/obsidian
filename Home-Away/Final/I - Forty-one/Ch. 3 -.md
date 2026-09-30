@@ -551,25 +551,40 @@ Taiga forced himself to look up. Evan.
 
 Evan sat next to him.
 
-"I wasn't trying to be a dick or to make you sound stupid."
+"You good?"
+
+Taiga stared at his bottle. 
+
+"Yeah."
+
+"Doesn't look like it."
+
+"No shit."
+
+Evan let it sit for a second.
+
+"Probably should've stopped prying earlier."
+
+Taiga looked at him, frowning.
+Then again at the grass.
+
+"No. You were just trying to help. I was being a dick."
+
+Evan smiled faintly.
+
+"Yeah and also yeah."
 
 Taiga took a drink.
 
 "I know."
 
-Evan looked surprised. Taiga was very tempted to leave it there.
-
-"I was an asshole."
-
-Evan smiled. 
-
-"Yeah."
+Taiga was very tempted to leave it there.
 
 "Sorry about that."
 
 Evan stood up. 
 
-"Forget it. I pried too much anyways, I'll try to be more considerate."
+"We're good."
 
 He walked away before Taiga could say anything.
 
