@@ -179,13 +179,9 @@ He tapped Bennett's tag behind it.
 
 “That's your fullback. Defender first. When we have the ball, he can come forward outside you.”
 
-Then he turned towards Aaron.
+Then he turned towards Bennett.
 
 "Show him."
-
-A current player stepped into the deeper wide position. Mercer continued.
-
-“That is the fullback. Defender first. When we have the ball, he can come forward outside you. That run is an overlap.”
 
 Bennett jogged past the mannequin to demonstrate. As he passed Taiga, he said, “Try not to run into me.”
 
@@ -205,7 +201,8 @@ Taiga nodded.
 
 “Right. Soccer would be much easier if the same answer always worked.” Mercer stepped back. “Read the defender. Read your fullback. Read where the ball is. The diagram gives you options, not permission to stop thinking.”
 
-Then he moved on to the others. After assigning each of them a role, Mercer and his assistants divided them into four groups, mixing current players and candidates. He spotted Mendez among the candidates who wanted to play in attack.
+Then he moved on to the others. After assigning each of them a role, Mercer and his assistants divided them into four groups, mixing current players and candidates. 
+
 Bennett was in his group. 
 
 Then an assistant had them line up in formation and move through the basics.
@@ -966,7 +963,7 @@ They started from the back.
 Walsh played into Brennan. Brennan turned and immediately looked forward. Ellis started moving up the right. 
 Bennett did the same beside Taiga.
 Right. Fullback. 
-Taiga held the left wing. Then he went in too deep.
+Taiga held the left wing. Then he dropped in too deep.
 
 “Akatora. Higher.”
 
@@ -1113,7 +1110,7 @@ Caleb answered. A girl's face appeared.
 
 “Hi.”
 
-Caleb's entire expression changed. It's like the room had stopped being an hostile environment.
+Caleb's entire expression changed. He became more relaxed.
 
 “Hi.”
 
