@@ -234,7 +234,7 @@ They ran it from the other side and everything became backwards.
 
 Taiga wanted to murder geometry. 
 
-Later came pressing. He knew the word, but here he learnt to hate it.
+Later came pressing. He knew the word, but here he learned to hate it.
 
 Mercer combined all the groups into two teams on the whole pitch.
 
@@ -879,7 +879,7 @@ The locker beside his belonged to Aaron, one of the players from tryouts. Aaron 
 
 Taiga stepped aside. Aaron opened the locker.
 
-“So, you make the developmental roster?”
+“So, you made the developmental roster?”
 
 Taiga looked at the number on his own chest.
 
@@ -1148,9 +1148,9 @@ Taiga slowly turned toward Caleb. Caleb continued eating.
 
 Maya laughed. Caleb counted with his fingers.
 
-“That you do soccer, you are a scout, you dislike my alarm system-”
+“That you play soccer, you're a scout, and you dislike my alarm system—”
 
-Maya interrupted,
+Maya interrupted him.
 
 "You attacked him with a pillow."
 
@@ -1185,7 +1185,7 @@ Maya smiled resignedly. Taiga assumed that conversation had happened before.
 “Sure, why not.”
 
 Caleb looked faintly offended. Taiga took a drink to hide his smile. Maya talked about her own classes. Environmental science. A professor who had apparently assigned a lab report before they'd even completed the lab.
-Caleb listened and when Maya paused, he asked:
+Caleb listened, and when Maya paused, he asked:
 
 “Did you email him?”
 
@@ -1203,7 +1203,7 @@ Maya smiled.
 
 “Okay, then.”
 
-Taiga watched them. Caleb, who sometimes spoke to people like he was reading an instruction manual, somehow felt more confident with her.
+Taiga watched them. Caleb, who sometimes spoke to people like he was reading an instruction manual, somehow seemed more confident around her.
 Maya eventually said goodbye and they hung up.
 
 “She seems normal.”
