@@ -159,7 +159,7 @@ Taiga's stomach clenched. Was it that obvious?
 
 "A wide attacker?"
 
-Mercer pointed at a magnetic board on a easel just outside the pitch. The board had a pitch drawn in the background and eleven magnetic tags with players names.
+Mercer pointed at a magnetic board on an easel just outside the pitch. The board had a pitch drawn in the background and eleven magnetic tags with players' names.
 
 		                PRICE J.
 
@@ -171,13 +171,13 @@ Mercer pointed at a magnetic board on a easel just outside the pitch. The board 
 
 	                    PIERCE S.
 
-Mercer pointed at Rosario and Cole. 
+Mercer pointed at Cole's tag on the magnetic board.
 
-“More or less. It does not mean ‘stand next to the touchline and wait for the ball.’ Your job changes depending on what the fullback does.”
+“More or less. This is where you'll play. Left wing.”
 
-Mercer pointed then on the Cole tag.
+He tapped Bennett's tag behind it.
 
-"I'm putting you on as left winger. Your fullback is Bennet."
+“That's your fullback. Defender first. When we have the ball, he can come forward outside you.”
 
 Then he turned towards Aaron.
 
