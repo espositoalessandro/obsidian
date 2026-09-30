@@ -1,4 +1,4 @@
-### Chapter 2 - 
+### Chapter 2 - Fog of war
 
 By Monday morning, Taiga had discovered that Caleb Morrison owned six alarms. Not six alarms set on one phone. Six separate alarms. One on his phone. One on his watch. One on the little digital clock beside his bed. One on his laptop. One on some kind of smart speaker that Taiga hadn't realized was connected to anything. And, inexplicably, one physical alarm clock that looked like it had survived the Cold War.
 
