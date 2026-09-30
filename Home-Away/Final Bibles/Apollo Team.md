@@ -25,11 +25,11 @@ The recurring Apollo cast should instead have:
 
 The primary recurring Apollo group is:
 
-- **Enzo Rosario**
-- **Scott Pierce**
+- **Vincenzo “Enzo” Delos Reyes**
+- **Scott Stirling**
 - **Aaron Bennett**
 - **Evan Cole**
-- **Gav Brennan**
+- **Gavin “Gav” Foster**
 
 Leo belongs to the team but is defined separately as co-lead.
 
@@ -37,7 +37,26 @@ Other squad members recur to create team density without requiring equal subplot
 
 ---
 
-# 2. Enzo Rosario
+# 2. Vincenzo “Enzo” Delos Reyes
+
+## Canon identity and visual anchor
+
+Official Blits concept material identifies him as **Vincenzo “Enzo” Delos Reyes**.
+
+Use:
+- **Enzo** in ordinary narration, dialogue and teammate interactions;
+- **Delos Reyes** when Mercer/coaches or formal football contexts use surnames;
+- **Vincenzo** only where a full/legal given name is naturally required.
+
+Visual anchor from the official concept sketch:
+- dark brown skin;
+- short, spiky black hair;
+- athletic footballer's build;
+- highly expressive face and posture.
+
+These visual traits are canon anchors, not instructions to repeat a full physical description every time he appears.
+
+---
 
 ## Core role
 
@@ -193,7 +212,25 @@ Do not make him stupid in order to make him funny.
 
 ---
 
-# 3. Scott Pierce
+# 3. Scott Stirling
+
+## Canon identity and visual anchor
+
+Official Blits concept material identifies him as **Scott Stirling**.
+
+Use:
+- **Scott** in ordinary narration and teammate interactions;
+- **Stirling** when Mercer/coaches or formal football contexts use surnames.
+
+Visual anchor from the official concept sketch:
+- pale skin;
+- long dark blue-gray hair that falls over and obscures his eyes;
+- a comparatively narrow, withdrawn-looking silhouette off the pitch;
+- goalkeeper presentation in the concept art.
+
+The hidden-eyes silhouette works especially well with the final-rewrite contrast between off-pitch shyness and on-pitch authority. Keep that contrast behavioral rather than repeatedly explaining what his appearance “means.”
+
+---
 
 ## Core role
 
@@ -743,7 +780,25 @@ His age and experience should not make him infallible.
 
 ---
 
-# 6. Gav Brennan
+# 6. Gavin “Gav” Foster
+
+## Canon identity and visual anchor
+
+Official Blits concept material identifies him as **Gavin “Gav” Foster**.
+
+Use:
+- **Gav** in ordinary narration, dialogue and teammate interactions;
+- **Foster** when Mercer/coaches or formal football contexts use surnames;
+- **Gavin** only when the full given name is natural.
+
+Visual anchor from the official concept sketch:
+- light, tousled curly hair;
+- rectangular dark-framed glasses;
+- visibly muscular, athletic build.
+
+The glasses/nerd presentation should not make him physically slight: he is still very obviously a serious college footballer.
+
+---
 
 ## Core role
 
