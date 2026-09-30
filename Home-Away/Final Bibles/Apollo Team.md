@@ -45,7 +45,8 @@ Official Blits concept material identifies him as **Vincenzo “Enzo” Delos Re
 
 Use:
 - **Enzo** in ordinary narration, dialogue and teammate interactions;
-- **Delos Reyes** when Mercer/coaches or formal football contexts use surnames;
+- **Reyes** when Mercer refers to him by surname;
+- **Delos Reyes** in full-name, roster, or other formal contexts;
 - **Vincenzo** only where a full/legal given name is naturally required.
 
 Visual anchor from the official concept sketch:
