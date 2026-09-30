@@ -949,7 +949,7 @@ Gav Foster dropped into the space between the defense and the rest of midfield.
 
 Good. Because Taiga already had enough numbers to remember.
 
-“Price stays highest. Mendez underneath him. Delos Reyes right, Cole left.”
+“Price stays highest. Mendez underneath him. Reyes right, Cole left.”
 
 People moved as Mercer spoke. Price pushed toward the halfway line. Leo dropped several yards behind him. Enzo drifted wide on the opposite side while Cole took Taiga's side.
 
