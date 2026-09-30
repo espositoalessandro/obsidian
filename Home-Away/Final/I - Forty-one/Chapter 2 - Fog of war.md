@@ -159,11 +159,29 @@ Taiga's stomach clenched. Was it that obvious?
 
 "A wide attacker?"
 
+Mercer pointed at a magnetic board on a easel just outside the pitch. The board had a pitch drawn in the background and eleven magnetic tags with players names.
+
+		                PRICE J.
+
+	    COLE E.         MENDEZ J.        ROSARIO E.
+
+	            BRENNAN G.     ROMERO I.
+
+     BENNETT A.     CARTER M.     WALSH T.      ELLIS J.
+
+	                    PIERCE S.
+
+Mercer pointed at Rosario and Cole. 
+
 “More or less. It does not mean ‘stand next to the touchline and wait for the ball.’ Your job changes depending on what the fullback does.”
 
-Mercer pointed behind Taiga.
+Mercer pointed then on the Cole tag.
 
-“Bennett. Show him.”
+"I'm putting you on as left winger. Your fullback is Bennet."
+
+Then he turned towards Aaron.
+
+"Show him."
 
 A current player stepped into the deeper wide position. Mercer continued.
 
@@ -221,7 +239,7 @@ Later came pressing. That word he knew. The details were worse.
 
 Mercer combined all the groups into two teams on the whole pitch.
 
-“You do not sprint at every person who receives it. Pressing is coordinated pressure. If Akatora goes and the rest of you stay home, Akatora is not pressing. He is jogging angrily by himself.”
+“You do not sprint at every person who receives it. Pressing is coordinated pressure. If Akatora goes and the rest of you stay home, that's not our press. Akatora is jogging angrily by himself.”
 
 Someone behind Taiga snorted. He turned: Mendez was grinning openly.
 Taiga glared at him. 
@@ -940,13 +958,13 @@ They started from the back.
 Walsh played into Brennan. Brennan turned and immediately looked forward. Ellis started moving up the right. 
 Bennett did the same beside Taiga.
 Right. Fullback. 
-Taiga held the left wing. Too wide. Whistle.
+Taiga held the left wing. Too deep. Whistle.
 
 “Akatora. Higher.”
 
 “Akatora. Open your body.”
 
-“Akatora. You checked the ball. Did you check the defender?”
+“Akatora. You saw the ball. Did you check the defender?”
 
 Taiga's ears heated.
 
