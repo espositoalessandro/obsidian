@@ -347,21 +347,21 @@ He added lunch appointment on Friday on his calendar.
 
 ---
 
-Soccer was supposed to become easier. That's what he had been told. 
-Some things actually did: fitness, technical drills, one-to-one. Even his finishings, although strongly inconsistent, were starting to take shape.
+Soccer was supposed to become easier. That's what he'd been told.
+Some things actually did: fitness, technical drills, one-on-ones. Even his finishing, although still inconsistent, was starting to take shape.
 
-Positioning was a conspiracy. Mercer could freeze a play, ask Taiga and he could see where he should be almost immediately. 
-Then, as soon as players moved again, everything immediately stopped making sense.
+Positioning was a conspiracy. Mercer could freeze a play, ask Taiga where he should be, and Taiga could see the answer almost immediately.
+Then, as soon as everyone started moving again, it stopped making sense.
 
-Taiga could see his progress. He could see he was getting better. 
+Taiga could see his progress. He could see himself getting better.
 That made everything worse.
-Before, he'd been totally lost and he knew it. Mistakes were expected.
-Now, every right answer immediately inflated his confidence and every mistake immediately burst it.
+Before, he'd been completely lost and he knew it. Mistakes were expected.
+Now, every right answer inflated his confidence and every mistake immediately burst it.
 
-And to make things worse, it seems like he was the only one who made the tryouts not knowing anything about positioning. Everyone was making mistakes, sure. Taiga was clearly worse though. 
-He was leaving every practice with his head almost exploding, trying to keep up.
+And to make things worse, it seemed like he was the only one who'd made it through tryouts without knowing anything about positioning. Everyone made mistakes, sure. Taiga was clearly worse, though.
+He left every practice with his head almost exploding from trying to keep up.
 
-Tuesday's session was particularly intense. 
+Tuesday's session was particularly intense.
 Mercer had split them into four-on-four groups inside a narrow rectangle of pitch. Two small goals at either end. No goalkeepers. Two touches maximum.
 
 “Move it before they can settle,” Mercer said. “And when you lose it, don't all become heroes at once.”
@@ -370,7 +370,7 @@ Taiga understood that part.
 
 Unfortunately, understanding instructions before the whistle and understanding them while eight people moved at the same time were apparently different skills.
 
-Romero received, backs to the goal. Taiga went immediately and tried to steal the ball, but Romero shifted and left him there.
+Romero received with his back to goal. Taiga went immediately and tried to steal the ball, but Romero shifted it away and left him behind.
 
 "Akatora."
 
@@ -380,21 +380,21 @@ Taiga stopped. Mercer was pointing between him and the goal.
 
 Taiga frowned.
 
-"He had his back turned-"
+"He had his back turned—"
 
 "And where was he going?"
 
-Taiga looked. Right. Inside. 
+Taiga looked. Right. Inside.
 
 "Inside."
 
 "And you gave him inside. Don't commit every time. Force him to make a decision."
 
-Fine, clear enough. Taiga nodded.
+Fine. Clear enough. Taiga nodded.
 
-Next whistle. This time, Evan Cole received. Taiga closed down, but leaving enough space so that Evan faced him when he turned. 
-Taiga still didn't commit. 
-Evan made a step. Then another. Taiga slowly backed.
+Next rep. This time, Evan Cole received. Taiga closed him down, leaving enough space for Evan to turn and face him.
+Taiga still didn't commit.
+Evan took a step. Then another. Taiga slowly backed away.
 
 Whistle.
 Why?
@@ -402,16 +402,16 @@ Taiga looked at Mercer.
 
 "Now you're giving him a guided tour."
 
-Mercer pointed toward cole.
+Mercer pointed toward Cole.
 
 “You're still defending. Make him uncomfortable.”
 
-Taiga pressed his lips together. 
+Taiga pressed his lips together.
 Apparently there was a correct distance measured in fucking centimeters that everyone else had been issued during childhood.
 
 They reset again.
 
-Cole received again. This time Taiga didn't let leave him too much space. At some point, Cole had to stop and passed backward.
+Cole received again. This time Taiga didn't leave him as much space. Eventually, Cole had to stop and pass backward.
 
 Mercer shouted from outside the grid.
 
@@ -419,13 +419,13 @@ Mercer shouted from outside the grid.
 
 Okay, that made sense. He hadn't won the ball, but it didn't matter. Cole had gone backward. Now he was getting it.
 
-The next few repetition were better.
-Then Price received, but his touch got away from him. Taiga pressed a second too early and Price knocked the ball beyond him and ran.
+The next few repetitions were better.
+Then Price received, but his touch got away from him. Taiga pressed a second too early, and Price knocked the ball beyond him and ran.
 
 "Fuck."
 
 Taiga immediately turned and chased. Price passed, Cole shot: goal.
-He put his hands on his sides and exhaled. Cole passed beside him.
+Taiga put his hands on his hips and exhaled. Cole passed beside him.
 
 "Don't chase a bad touch."
 
@@ -433,19 +433,19 @@ He put his hands on his sides and exhaled. Cole passed beside him.
 
 "Doesn't mean it's automatically yours. Be patient."
 
-Taiga didn't answer. They reset. 
-This time, Taiga spent one second too much checking the man in front of him, the ball and then behind him. By the time he looked forward again, his player had already moved. 
-Taiga tried to recover, but with just one pass through they scored again.
-He kicked the grass.
+Taiga didn't answer. They reset.
+This time, Taiga spent a second too long checking the man in front of him, the ball, then the space behind him. By the time he looked forward again, his player had already moved.
+Taiga tried to recover, but one pass through was enough for them to score again.
+He kicked at the grass.
 
 “Akatora,” Mercer called.
 
 “I know.”
 
-Mercer didn't answer. That was somehow worse. He bit his lip and reset.
-The next repetition was safe again. The following one, Taiga was late again. He immediately chased Price, shoulder to shoulder. He saw the ball and tried to put a foot to it but Price immediately pulled it away. His momentum carried him past, and he could only see Price scoring again.
+Mercer didn't answer. That was somehow worse. Taiga bit his lip and reset.
+The next repetition was safe again. On the one after that, Taiga was late. He immediately chased Price, shoulder to shoulder. He saw the ball and tried to get a foot to it, but Price pulled it away. Taiga's momentum carried him past, and all he could do was turn in time to see Price score again.
 
-Taiga bit the inner side of his cheek until it almost hurt.
+Taiga bit the inside of his cheek until it almost hurt.
 
 Mercer blew the whistle harder this time.
 
@@ -457,7 +457,7 @@ Taiga looked over.
 
 “You lose him once, then the next time you try to win everything immediately.”
 
-Taiga said nothing, his face felt hot.
+Taiga said nothing. His face felt hot.
 Mercer pointed back onto the pitch.
 
 “Play the situation you're in. Not the one from thirty seconds ago.”
@@ -465,7 +465,7 @@ Mercer pointed back onto the pitch.
 Easy for him to say.
 Taiga reset.
 
-Again, the attacker received. Taiga moved immediately. Price turned and faced Taiga, who hesitated just enough to let him through.
+Again, the attacker received. Taiga moved immediately. Price turned and faced him. Taiga hesitated just long enough to let him through.
 Gone.
 Evan intercepted the pass before it reached the goal.
 
@@ -493,7 +493,7 @@ Taiga looked at him. Seriously?
 
 "Yeah, I fucking noticed."
 
-Evan looked at him, his face didn't change. Which made it worse.
+Evan looked at him. His expression didn't change, which somehow made it worse.
 
 “Then stop trying to win it,” Evan said. “Make him choose.”
 
@@ -506,13 +506,13 @@ Taiga could hear his pulse.
 "Can you worry about your fucking game?"
 
 His group went silent. Evan looked taken aback.
-Taiga knew immediately that he crossed a line. And he immediately hated himself for it.
+Taiga knew immediately that he'd crossed a line. He hated himself for it just as quickly.
 
-Whistle followed.
+Mercer's whistle followed.
 
 "AKATORA."
 
-Taiga looked over: Mercer was pointing outside the grid.
+Taiga looked over. Mercer was pointing outside the grid.
 
 “Out.”
 
@@ -523,25 +523,25 @@ Taiga's stomach dropped.
 “Out.”
 
 Everything else disappeared from his vision. There was only Mercer pointing at the bench.
-Taiga walked out like he was walking into a courtroom.
-Mercer didn't come over, he immediately restarted the drill.
+Taiga walked off like he was walking into a courtroom.
+Mercer didn't come over. He immediately restarted the drill.
 
 "Play."
 
-And just like that everyone moved again. Humiliation burned much hotter than anger. 
-The drill continued for another four minutes. Nobody looked at him. 
+And just like that, everyone moved again. Humiliation burned much hotter than anger.
+The drill continued for another four minutes. Nobody looked at him.
 
-Mercer finally called for water. The whole field scattered. Taiga took his without making eye contact with anyone. 
+Mercer finally called for water. The whole field scattered. Taiga grabbed his bottle without making eye contact with anyone.
 
-Mercer didn't approach him. Of course he didn't. Taiga had finally fucked it up. 
-All that work, all that progress, and he managed to screw it all up because he was pissed at himself.
+Mercer didn't approach him. Of course he didn't. Taiga had finally fucked it up.
+All that work, all that progress, and he'd managed to screw it all up because he was pissed at himself.
 
 He could hear Leo and Enzo joking about something in the distance. Leo laughed.
-Scott had already transitioned in his quiet form.
+Scott had already gone quiet again.
 
-Taiga immediately stopped looking, he felt like throwing up.
-He went to the bench and sat down, looking at the grass between his feet. 
-He was already thinking about what Keitaro would have said, when he noticed someone had approached him.
+Taiga looked away. He felt like throwing up.
+He went to the bench and sat down, staring at the grass between his feet.
+He was already thinking about what Keitaro would've said when he noticed someone approaching.
 
 "Hey."
 
@@ -553,7 +553,7 @@ Evan sat next to him.
 
 "You good?"
 
-Taiga stared at his bottle. 
+Taiga stared at his bottle.
 
 "Yeah."
 
@@ -561,12 +561,11 @@ Taiga stared at his bottle.
 
 "No shit."
 
-Evan let it sit for a second.
+Evan let that sit for a second.
 
 "Probably should've stopped earlier."
 
-Taiga looked at him, frowning.
-Then again at the grass.
+Taiga looked at him, frowning, then back at the grass.
 
 "No. You were just trying to help. I was being a dick."
 
@@ -578,7 +577,7 @@ Taiga took a drink. He was very tempted to leave it there.
 
 "Sorry."
 
-Evan stood up. 
+Evan stood up.
 
 "We're good."
 
@@ -587,7 +586,7 @@ He walked away before Taiga could say anything.
 Finally, Mercer came over.
 There it was.
 
-He stood, his mouth was dry.
+Taiga stood. His mouth was dry.
 
 "Why did I pull you out?"
 
@@ -601,11 +600,11 @@ Taiga frowned. What?
 
 "You can be angry. Frustrated. You can hate the whole team. I don't care."
 
-He pointed the field behind him.
+He pointed at the field behind him.
 
-"You don't get to ruin others' practice."
+"You don't get to ruin other people's practice."
 
-That felt way worse. He wished Mercer just said he was an asshole and call it done.
+That felt way worse. Taiga wished Mercer had just called him an asshole and been done with it.
 
 Taiga nodded and lowered his head.
 
@@ -615,9 +614,9 @@ Taiga looked up immediately.
 
 "Yes."
 
-"Then learn the difference. Wait for the end of practice before murdering your teammates."
+"Then learn the difference. Wait until the end of practice before murdering your teammates."
 
-Taiga almost laughed. He was unsure if for the joke or for the sudden relief.
+Taiga almost laughed. He wasn't sure whether it was the joke or the sudden relief.
 
 Mercer pointed at the field again.
 
