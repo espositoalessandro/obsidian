@@ -60,9 +60,9 @@ He just didn't expect Olympus University to hit all his senses at once.
 He took another deep breath and moved on.
 
 ---
-He reached the residential zone. He checked the Olympus app for his block.
+He reached the Residential Zone. He checked the Olympus app for his room.
 
-Block 2 - Room 317.
+Room 317.
 
 His room was on the third floor. Of course it was. The elevator had a handwritten **OUT OF SERVICE — WE'RE SORRY\!** sign taped over the buttons.
 
@@ -588,7 +588,7 @@ The tryout sign was still in his head.
 “Fuck it.”
 
 ---
-Tryouts started at 16:00. Taiga was outside the Sport Zone by 15:45 and had already spent more than five minutes convincing himself that this was a stupid idea.
+Tryouts started at 16:00. Taiga was outside the Sports Zone by 15:45 and had already spent more than five minutes convincing himself that this was a stupid idea.
 Other candidates started arriving. Lots of them. Taiga seriously considered leaving.
 Most of them already had club football gear, proper equipment, and visible confidence. 
 Taiga had none. 
@@ -768,12 +768,12 @@ Taiga watched him collect the cones.
 Very, very annoying.
 
 ---
-Friday morning, Taiga was walking towards the main administrative building. He had just refreshed the portal for the fourth time: still nothing.
+Friday morning, Taiga was walking towards the University Center. He had just refreshed the portal for the fourth time: still nothing.
 
 What was the point anyway? He sucked at almost everything. 
 He decided not to check it again before the scholarship reception.
 
-Ten minutes later, he was crossing the central park. He saw a couple of students looking at a phone, both visibly disappointed.
+Ten minutes later, he was crossing Central Park. He saw a couple of students looking at a phone, both visibly disappointed.
 
 "Aw shit, I thought I could make it."
 
@@ -847,7 +847,7 @@ Send. The response was immediate.
 
 **Taiga:** i hate all of you
 
-He locked his phone and kept walking towards the administrative building.
+He locked his phone and kept walking towards the University Center.
 One piece of evidence. Annoyingly, not the kind he'd expected.
 
 Fine. One point for Olympus.
