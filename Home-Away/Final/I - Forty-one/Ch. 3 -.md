@@ -523,7 +523,7 @@ Taiga's stomach dropped.
 “Out.”
 
 Everything else disappeared from his vision. There was only Mercer pointing at the bench.
-Taiga walked off like he was walking into a courtroom.
+Taiga walked off as if he were heading into a courtroom.
 Mercer didn't come over. He immediately restarted the drill.
 
 "Play."
