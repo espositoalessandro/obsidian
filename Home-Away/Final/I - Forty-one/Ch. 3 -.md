@@ -254,49 +254,7 @@ Taiga laughed despite himself.
 
 --- 
 
-By the third week, Taiga had learned that Olympus University had moods. Monday morning was hostile. Friday afternoon was useless.
-
-He also learned that if he left room 317 at 8:05 instead of 8:10, he could reach Political Institutions without getting trapped behind the slow-moving wall of students that formed outside the library. Three minutes transformed the walk from infuriating to manageable. Caleb agreed.
-
-“8:05 works. 8:07 is better,” he said one morning.
-
-Taiga stopped halfway through tying his shoe.
-
-“That’s just two minutes.”
-
-“I timed pedestrian density.”
-
-Taiga stared.
-
-“What?”
-
-“The central path gets crowded between eight-ten and eight-twenty. People tend to leave on multiples of five, so 8:07 avoids the first clump.”
-
-“You made a study of this?”
-
-“No.”
-
-“That sounds exactly like a study.”
-
-“I looked at it for four days.”
-
-Taiga straightened.
-
-“That's a study.”
-
-Caleb considered.
-
-“Informally.”
-
-Taiga grabbed his bag.
-
-“You're insane.”
-
-“You should leave now.”
-
-Taiga checked the clock. 8:07. He left.
-
-Apparently, Nora had decided to save him a seat every time. Taiga didn't remember agreeing to that.
+At Political Institution, he saw that Nora had saved a seat for him, again.
 Professor Hall entered a few minutes later and the lecture began.
 
 By now Taiga had developed a system: Laptop for notes, assigned reading open in a second window, physical notebook beside him for thoughts he didn't want buried inside the lecture transcript. So now his notebook contained things like:
@@ -593,7 +551,7 @@ Taiga forced himself to look up. Evan.
 
 Evan sat next to him.
 
-"I'm sorry if I pried too much. I wasn't trying to be a dick."
+"I wasn't trying to be a dick or to make you sound stupid."
 
 Taiga took a drink.
 
@@ -601,7 +559,7 @@ Taiga took a drink.
 
 Evan looked surprised. Taiga was very tempted to leave it there.
 
-"...I was."
+"I was an asshole."
 
 Evan smiled. 
 
@@ -611,7 +569,7 @@ Evan smiled.
 
 Evan stood up. 
 
-"Forget it. I'll try to be more considered next time."
+"Forget it. I pried too much anyways, I'll try to be more considerate."
 
 He walked away before Taiga could say anything.
 
