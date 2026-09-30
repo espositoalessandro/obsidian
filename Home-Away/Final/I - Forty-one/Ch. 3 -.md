@@ -465,7 +465,7 @@ Mercer pointed back onto the pitch.
 Easy for him to say.
 Taiga reset.
 
-Again, the attacker received. Taiga moved immediately. Pierce turned and faced Taiga, who hesitated just enough to let him through.
+Again, the attacker received. Taiga moved immediately. Price turned and faced Taiga, who hesitated just enough to let him through.
 Gone.
 Evan intercepted the pass before it reached the goal.
 
@@ -523,7 +523,7 @@ Taiga's stomach dropped.
 “Out.”
 
 Everything else disappeared from his vision. There was only Mercer pointing at the bench.
-Taiga walked out like he was walking into a court.
+Taiga walked out like he was walking into a courtroom.
 Mercer didn't come over, he immediately restarted the drill.
 
 "Play."
@@ -563,7 +563,7 @@ Taiga stared at his bottle.
 
 Evan let it sit for a second.
 
-"Probably should've stopped prying earlier."
+"Probably should've stopped earlier."
 
 Taiga looked at him, frowning.
 Then again at the grass.
@@ -574,13 +574,9 @@ Evan smiled faintly.
 
 "Yeah and also yeah."
 
-Taiga took a drink.
+Taiga took a drink. He was very tempted to leave it there.
 
-"I know."
-
-Taiga was very tempted to leave it there.
-
-"Sorry about that."
+"Sorry."
 
 Evan stood up. 
 
