@@ -261,7 +261,7 @@ Price pointed at Taiga while jogging back.
 “Do that again.”
 
 Taiga almost told him to fuck off. Then realized it was probably praise. 
-He missed an easy shot ten minutes later, sending it straight at the goalkeeper Mercer had called Pierce. Pierce caught it without moving, then shouted:
+He missed an easy shot ten minutes later, sending it straight at the goalkeeper Mercer had called Stirling. Pierce caught it without moving, then shouted:
 
 “WALSH, STEP\! BENNETT, TUCK IN\!”
 
@@ -941,15 +941,15 @@ The two defenders settled in front of Scott.
 
 Aaron lifted a hand as he moved outside Taiga.
 
-“Brennan in front of them. Romero beside him.”
+“Foster in front of them. Romero beside him.”
 
-Gav Brennan dropped into the space between the defense and the rest of midfield.
+Gav Foster dropped into the space between the defense and the rest of midfield.
 
-“If somebody calls Brennan the six, that's what they mean. Don't worry about the number yet.”
+“If somebody calls Foster the six, that's what they mean. Don't worry about the number yet.”
 
 Good. Because Taiga already had enough numbers to remember.
 
-“Price stays highest. Mendez underneath him. Rosario right, Cole left.”
+“Price stays highest. Mendez underneath him. Delos Reyes right, Cole left.”
 
 People moved as Mercer spoke. Price pushed toward the halfway line. Leo dropped several yards behind him. Enzo drifted wide on the opposite side while Cole took Taiga's side.
 
@@ -960,7 +960,7 @@ Around him, the names from the roster were slowly becoming actual people.
 That, at least, sounded reasonable.
 
 They started from the back.
-Walsh played into Brennan. Brennan turned and immediately looked forward. Ellis started moving up the right. 
+Walsh played into Foster. Foster turned and immediately looked forward. Ellis started moving up the right. 
 Bennett did the same beside Taiga.
 Right. Fullback. 
 Taiga held the left wing. Then he dropped in too deep.
@@ -1000,7 +1000,7 @@ Cole shrugged. “Depends how stubborn you are.”
 
 “Great.”
 
-From two yards away, Enzo Rosario said, “He's fucked, then.”
+From two yards away, Enzo Delos Reyes said, “He's fucked, then.”
 
 Taiga looked over. Enzo was tying his boot, expression completely serious. Cole laughed. Taiga smiled despite himself.
 
