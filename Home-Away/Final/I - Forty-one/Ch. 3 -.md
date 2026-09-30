@@ -623,3 +623,63 @@ Mercer pointed at the field again.
 "Back in."
 
 ---
+
+The locker room after training smelled like sweat, wet grass and approximately eighteen different deodorants fighting for dominance.
+
+Taiga sat on the bench pulling off his socks. He swore when his right calf cramped. 
+
+"Fuckin-"
+
+Aaron looked over.
+
+"You good?"
+
+"Perfect."
+
+"Doesn't look like perfect."
+
+"Fuck off."
+
+“That's the spirit.”
+
+Taiga pressed his thumb into the muscle until it released. Evan walked past with his shirt over one shoulder.
+
+“Drink water before that locks again.”
+
+Taiga looked up: Evan was grinning.
+He smiled as well and raised a middle finger. Evan flipped him back.
+Apparently, conflict resolved. 
+
+The showers at Olympus were arranged in two rows of individual stalls facing each other across a tiled aisle. Frosted glass panels on the sides that covered most of a person and somehow still managed to make privacy feel theoretical. The door itself only reached his shoulders.
+Taiga preferred the far end. Less traffic.
+
+Today he was halfway through rinsing shampoo from his hair when the stall opposite opened. Taiga looked up automatically to see Leo stepping him with his towel around the waist.
+
+He looked away. Whatever.
+
+“Ah, shit. I always forget.”
+
+Taiga looked up again.
+
+Leo rushed outside to hang his towel on the hood. 
+Taiga's eyes refused to look away for just a couple of seconds, but that was enough to register more information than he needed to.
+
+Leo's back was lean and defined, ending with a narrow waist. Tan lines at the shoulder and neck. 
+That Taiga already knew, he had seen him plenty of times without a shirt.
+
+What instead caught most of his attention, were his freaking round cheeks. 
+Taiga blinked and looked away.
+
+What the heck? Naked men weren't something new for him. Camp showers were way less private than these ones. And Yoichi and Aiden were totally incapable of shame. 
+Yet his brain decided to file this new information anyways. Leo Mendez. Firm ass. Round cheeks.
+- VARIATION:
+Yet his brain decided to assign an opinionated ass to Leo's face.
+
+"Hey AG."
+
+Taiga closed his eyes.
+
+"What."
+
+""
+
