@@ -7,7 +7,7 @@
 Caleb had made the mistake of agreeing to attend a floor party. 
 Past-Taiga made the larger mistake of attending as well and now Present-Taiga was complaining. 
 
-"I thought you hate parties."
+"I thought you hated parties."
 
 "I don't hate parties."
 
@@ -25,12 +25,12 @@ Taiga considered.
 
 “That's exactly it.”
 
-The party was hosted on the second floor of the residence hall. It was no big event, at least that's what Caleb said, but Taiga could still eyeball at least forty people.
+The party was hosted on the second floor of the residence hall. It wasn't a big event, at least according to Caleb, but Taiga could still count at least forty people without trying.
 He sighed and grabbed something to drink. Almost everything was alcoholic.
 Taiga found soda and poured himself a glass.
-He had nothing against alcohol, he simply disliked being less aware of himself around strangers.
+He had nothing against alcohol; he simply disliked being less aware of himself around strangers.
 
-Caleb had a beer and appeared to be conducting a detailed conversation with a woman about subway systems. Taiga had missed the transition. He walked past them twenty minutes earlier while they were discussing rent.
+Caleb had a beer and appeared to be conducting a detailed conversation with a woman about subway systems. Taiga had missed the transition. He'd walked past them twenty minutes earlier while they were discussing rent.
 
 Now Caleb was showing her a map on his phone.
 
@@ -70,7 +70,7 @@ Taiga glanced toward Caleb again. The crowd had grown around him. Three people w
 
 “You have no idea.”
 
-Suddenly, another voice came from behind him. Familiar and loud enough to make Taiga regret even more leaving his room.
+Suddenly, another voice came from behind him. Familiar and loud enough to make Taiga regret leaving his room even more.
 
 "Mr. AG!"
 
@@ -79,9 +79,9 @@ Taiga closed his eyes and exhaled. Then he said without turning,
 "I told you. You're not calling me like that."
 
 Leo suddenly appeared in his field of view. Taiga was taken aback for a second.
-It was weird seeing him outside the pitch, without soccer uniform.
+It was weird seeing him off the pitch, out of his soccer uniform.
 
-He was wearing a loose white zipped hoodie on a black tank top. He had a small golden pendant representing the outline of a sun with a red lace around his neck and white shorts.
+He was wearing a loose white zipped hoodie on a black tank top. A small golden pendant shaped like the outline of a sun hung from a red cord around his neck. He wore white shorts.
 Nothing in his hair had changed. It still looked perfectly messy.
 
 He was smiling very loudly.
@@ -114,7 +114,7 @@ Nora ignored him. She turned to Leo.
 
 Leo laughed.
 
-"Teammates dark humor."
+"Teammate humor."
 
 Taiga narrowed his eyes a bit. He appreciated him not telling, though. Nora raised an eyebrow.
 
@@ -124,7 +124,7 @@ Taiga narrowed his eyes a bit. He appreciated him not telling, though. Nora rais
 
 "He'll never admit it, but he joined because of me."
 
-"I saw your shot hitting the moon."
+"I saw your shot hit the moon."
 
 "Exactly! Very inspiring."
 
@@ -145,7 +145,7 @@ Leo grinned.
 
 “I’m not giving him that much satisfaction.”
 
-"But that me-"
+"But that means—"
 
 A cheer erupted from the other side of the room. Someone had started a drinking game. Everybody suddenly began shouting.
 Taiga winced. He saw Caleb visibly stiffening. Tiny movement. Caleb's shoulders rose. He looked toward the speaker. Then toward the hallway.
@@ -154,7 +154,7 @@ Taiga waited another twenty seconds, then he put his cup down.
 
 "That's my cue."
 
-Leo and Nora looked at him confusedly. He didn't wait for their answer and crossed the room.
+Leo and Nora looked at him, confused. He didn't wait for their answer and crossed the room.
 
 “Caleb.”
 
@@ -172,7 +172,7 @@ The woman said, “Already?”
 
 Caleb hesitated. Taiga could almost see calculation happening.
 
-“Yeah,” Taiga said. “Gotta go early to library tomorrow.”
+“Yeah,” Taiga said. “Gotta go to the library early tomorrow.”
 
 Caleb looked at him. Taiga stared back. The woman shrugged.
 
@@ -218,7 +218,7 @@ Taiga immediately felt uncomfortable.
 
 “Good.”
 
-Caleb opened the door. He sat on the edge of his bed and removed his shoe. Taiga sat at his desk.
+Caleb opened the door. He sat on the edge of his bed and removed his shoes. Taiga sat at his desk.
 
 “You didn't want to stay either.”
 
@@ -238,7 +238,7 @@ Taiga stared. Caleb stared back.
 
 “No, I can't.”
 
-Taiga sighed. Caleb opened his economics textbook. Then added:
+Taiga sighed. Caleb opened his economics textbook. Then he added:
 
 “It was mutually beneficial.”
 
