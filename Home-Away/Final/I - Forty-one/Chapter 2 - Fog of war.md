@@ -113,28 +113,16 @@ He opened a fresh line at the top of the document.
 
 **READ THE FUCKING CHAPTERS TONIGHT**
 
-Then underneath:
-
-**STOP BEING DRAMATIC**
-
-He stared at the second line for a second before deleting it. Some things did not need written evidence.
-
----
 Next, he had Calculus I at ten and General Chemistry before lunch.
-
-Taiga liked them slightly better.
 
 Calculus was familiar enough that he could follow without feeling like everybody else had received a secret handbook before arriving. Professor Chen spent most of the lecture reviewing material Taiga had already seen in high school, then moved just far enough past it to make him stop pretending he didn't need to take notes.
 
-Chemistry was messier.
+Then there was Chemistry.
 
 Professor Hassan started with measurements, significant figures and enough rules about units to make Taiga wonder how humanity had managed to discover anything before inventing spreadsheets.
 
-Still, he liked the logic of it. Do something. Measure what happened. Work out why. That made sense.
-
+Still, he liked the logic of it: Do something, measure what happened, work out why.
 By lunchtime, his notebook already looked more organized than the one from Political Institutions.
-
-Apparently that class was going to be the problem child.
 
 ---
 
@@ -266,38 +254,29 @@ Taiga intended to remember both the miss and the comment at three in the morning
 
 The tryout lasted almost two hours. Eventually, Mercer gathered everybody at midfield.
 
-"That's all. Thank you for coming. Final selections will be emailed tomorrow afternoon."
+"That's all. Final selections will be emailed tomorrow afternoon."
 
 That was it. Taiga picked up his bag with his stomach tied into a knot.
-Waiting was worse than failure. Failure, at least, was information.
+He wished Mercer had told them straight away. 
+Waiting was far worse.
 
 ---
+
 Tuesday morning brought Foundations of Computer Science.
 
 That was the class Taiga had been looking forward to most.
 
 He had never considered himself a computer nerd, but during the summer Hyunjin had shown him enough coding to get him interested. Since then, Taiga had messed around with some Git, JavaScript and even a little Java.
 
-Mostly small things.
-
-Scripts. Broken experiments. Stuff that worked after enough swearing.
-
 Professor Rao took less than half an hour to destroy his confidence.
 
-She started talking about algorithms, efficiency and why two programs that produced the same answer could still be very different solutions.
+She started talking about algorithms, efficiency and why two programs that produced the same answer could still be very different solutions. 
 
-Taiga frowned at the slide. That was new.
-
-Then Rao moved into variables and loops.
-Finally. Something he recognized.
-
+Then Rao moved into variables and loops. That at least was something he recognized.  
 She put a short example on the screen and asked what would happen after each iteration.
-
-Taiga knew the answer before she finished asking. He considered raising his hand before someone else answered correctly. 
+Taiga knew the answer before she finished asking. He considered raising his hand before someone else answered. 
 
 At least this class looked promising.
-
----
 
 That afternoon, Taiga was trying hard to focus on the readings for Political Institutions. 
 Every time his phone buzzed, he jumped at it, only to be disappointed with a useless notification.
@@ -722,8 +701,6 @@ He looked at her.
 
 Then she picked up her coffee and left. Taiga watched her disappear into the aisle.
 
-Maybe this class wouldn't be completely terrible.
-
 ---
 
 At lunch, Caleb insisted on walking another four minutes to a smaller dining hall on the opposite side of campus. Taiga discovered why as soon as they entered: it was quieter.
@@ -758,7 +735,8 @@ Taiga looked at the neat little green pile.
 “Okay, then.”
 
 Caleb nodded. Conversation over. Taiga appreciated conversations that knew when to die. They ate in silence for several minutes. 
-People seemed weirdly frightened of it. Keitaro especially. Keitaro could not exist beside another human being for more than ninety seconds without attempting to create emotional intimacy. Caleb could apparently eat an entire meal without saying anything. 
+People seemed weirdly frightened of it. Keitaro especially. Keitaro could not exist beside another human being for more than ninety seconds without starting to worry that something was wrong.
+Caleb could apparently eat an entire meal without saying anything. 
 
 Taiga's phone buzzed. He glanced down.
 
@@ -769,12 +747,10 @@ A photo loaded. Hiro stood outside a lecture hall holding a coffee. Keitaro was 
 **Keitaro:** Hiro, it's 12:14. We left home three hours ago.
 
 **Hiro:** THREE VERY DIFFICULT HOURS   
-**Hiro:** my lecturer used 9pt font on a projector keitaro   
-**Hiro:** i have seen things
 
 Hunter sent a photo from an art studio. Both hands were black with charcoal.
 
-**Hunter:** Um... I may have underestimated how much of this gets everywhere.   
+**Hunter:** Uhm... I may have underestimated how much of this gets everywhere.   
 **Hunter:** My professor says I should “accept the material” but I think the material has accepted me.
 
 **Natsumi:** Warm water and soap first. Don't scrub your hands raw, Hunter. Charcoal looks much more permanent than it is.
@@ -794,7 +770,7 @@ Taiga locked the screen.
 
 “You smile when they message.”
 
-Taiga stared at him. Caleb continued eating, apparently unaware that he had committed an offense.
+Taiga stared at him. Caleb continued eating.
 
 “I've known you a week.”
 
@@ -812,7 +788,7 @@ Taiga stabbed a piece of chicken. The phone buzzed again.
 
 **Yoichi:** dynamite alive or did college finally kill him
 
-**Taiga:** unfortunately
+**Taiga:** it is trying
 
 **Yoichi:** lame
 
@@ -912,14 +888,11 @@ Scott looked terrified by the question.
 
 Taiga looked away. That was his captain.
 
----
-
 Later on the field, Taiga immediately understood why.
 
 “SHAPE!”
 
 The first team moved almost before Scott's voice finished crossing the field.
-
 As soon as he stepped into the goal, the stutter disappeared.
 
 “RECOVER! ENZO, YOU'RE LATE!”
@@ -982,7 +955,7 @@ Taiga's ears heated.
 
 The corrections were infuriating because none of them were vague. He could not even argue properly.
 The patterns made sense when Mercer froze the field. Then the ball moved, ten people moved with it, and the solution became a different solution. 
-Technical mistakes Taiga understood. A bad touch was a bad touch. Tactical mistakes felt like being wrong about a question he had not realized anyone had asked.
+Technical mistakes were easier: a bad touch was bad, a shot that missed the goal, there was an immediate and definable solution. But when it came about tactical, lines became blurrier. An error was not objectively an error, it was simply a poor choice.
 
 They did it again. And again. Then from the other side. Then with defenders allowed to break the pattern. That was when everything became difficult again.
 During the water break, Evan Cole, the older guy from the locker room, dropped onto the grass near Taiga and started retaping one shin guard.
@@ -1060,9 +1033,7 @@ Taiga frowned.
 
 Taiga put the phone away. He walked slowly toward the dorm. A group of students passed in the opposite direction. Two girls, three guys. One of the girls was telling a story with enormous hand gestures. A guy beside her had his arm around her shoulders. Another couple sat beneath a tree nearby, sharing earbuds. Somebody rode past on a bicycle. Olympus at night was beginning to look less theatrical now that Taiga had seen the same paths repeatedly.
 
-He knew where the shortcut behind the library went. He knew which vending machine accepted his card and which one pretended to. He knew the humanities building's second-floor bathroom was cleaner than the first. He knew the smaller dining hall was tolerable at noon. He knew the residence hall's elevator made a suspicious sound between floors two and three. 
-Information. 
-Small information. 
+He knew where the shortcut behind the library went. He knew which vending machine accepted his card and which one pretended to. He knew the humanities building's second-floor bathroom was cleaner than the first. He knew the smaller dining hall was tolerable at noon. He knew the residence hall's elevator made a suspicious sound between floors two and three, even after they had repaired it. 
 
 ---
 
@@ -1112,7 +1083,7 @@ Caleb answered. A girl's face appeared.
 
 “Hi.”
 
-Caleb's entire expression changed. Not dramatically. Just opened.
+Caleb's entire expression changed. It's like the room had stopped being an hostile environment.
 
 “Hi.”
 
@@ -1180,7 +1151,8 @@ Maya smiled in a way that suggested this conversation had occurred before. Taiga
 
 “Sure, why not.”
 
-Caleb looked faintly offended. Taiga took a drink to hide his smile. Maya talked about her own classes. Environmental science. A professor who had apparently assigned a lab report before they'd even completed the lab. Caleb listened. Actually listened. Not the distracted half-listening most people did while preparing their next sentence. When Maya paused, he asked:
+Caleb looked faintly offended. Taiga took a drink to hide his smile. Maya talked about her own classes. Environmental science. A professor who had apparently assigned a lab report before they'd even completed the lab.
+Caleb actually listened and when Maya paused, he asked:
 
 “Did you email him?”
 
@@ -1202,7 +1174,9 @@ Maya smiled.
 
 “Okay, then.”
 
-Taiga found himself watching them. Caleb, who sometimes spoke to people like an instruction manual that had learned profanity, somehow knew exactly how to be around her. Or maybe he didn't. Maybe she'd simply learned how to be with him too. Maya eventually said goodbye and they hung up.
+Taiga watched them. Caleb, who sometimes spoke to people like he was reading an instruction manual, somehow knew exactly how to be around her. Or maybe he didn't. Maybe she'd simply learned how to be with him too. 
+Yet, somehow there was no friction in their conversation.
+Maya eventually said goodbye and they hung up.
 
 “She seems normal.”
 
@@ -1252,15 +1226,13 @@ Caleb ate another bite.
 
 “And she doesn't change plans without telling me.”
 
-“Romance.”
+“Romance at its finest.”
 
 “It is, actually.”
 
-Taiga looked at him. Caleb was completely serious. That made the sentence better.
+Taiga looked at him. Caleb was completely serious. 
 
----
-
-They went back upstairs.
+Once they finished, they went back upstairs.
 
 Caleb put his headphones on and opened whatever economics thing he was working on. Taiga dropped his training clothes beside the laundry bag, then sat at his desk.
 
