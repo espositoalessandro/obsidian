@@ -228,14 +228,16 @@ Taiga frowned.
 
 “You moved because you remembered a rule. You need to move because you saw something.”
 
-Heat climbed his neck. Third repetition. He checked over his shoulder first. Bennett starting high. Defender watching him. Central midfielder already occupying the inside lane. Taiga held width for another second. Then the midfielder dropped, the lane opened, and Taiga stepped into it. 
-Pass inside. One touch. Bennett around him. Return ball outside. Clean. 
+Heat climbed his neck. Third repetition. 
+He checked over his shoulder first: Bennett starting high. Defender watching him. Central midfielder already occupying the inside lane. 
+Taiga held width for another second. Then the midfielder dropped, the lane opened, and Taiga stepped into it. 
+Pass inside. One touch. Bennett around him. Return ball outside.
 Mercer appeared at his side, said, “Better,” and moved on.
 They ran it from the other side and everything became backwards.
 
 Taiga wanted to murder geometry. 
 
-Later came pressing. That word he knew. The details were worse.
+Later came pressing. He knew the word, but here he learnt to hate it.
 
 Mercer combined all the groups into two teams on the whole pitch.
 
@@ -255,12 +257,14 @@ Mercer blew the whistle before Taiga could answer.
 
 Knowing when to move and when not to was way harder than Taiga had anticipated.
 By the sixth repetition, Taiga could feel the structure rather than recite it. 
-Then the scrimmage began and the structure immediately became less polite. Players moved before he expected them to. Passing lanes existed for half a second. A correct position became wrong when somebody else made a different decision. He lost the ball six times. Won it five. Set up one goal after beating the right-back and cutting the ball toward Price, the striker, who finished first time.
+Then the scrimmage began and the structure immediately became less polite. Players moved before he expected them to. Passing lanes existed for half a second. A correct position became wrong when somebody else made a different decision.
+He lost the ball six times. Won it five. Set up one goal after beating the right-back and cutting the ball toward Price, the striker, who scored with one touch.
 Price pointed at Taiga while jogging back.
 
 “Do that again.”
 
-Taiga almost told him to fuck off. Then realized it was probably praise. He missed an easy shot ten minutes later, sending it straight at the goalkeeper Mercer had called Pierce. Pierce caught it without moving, then shouted:
+Taiga almost told him to fuck off. Then realized it was probably praise. 
+He missed an easy shot ten minutes later, sending it straight at the goalkeeper Mercer had called Pierce. Pierce caught it without moving, then shouted:
 
 “WALSH, STEP\! BENNETT, TUCK IN\!”
 
@@ -835,7 +839,11 @@ Five minutes later he was standing in the locker room surrounded by approximatel
 
 Near the middle benches, a guy Taiga recognized as Enzo was arguing about whether a woman named Jenna had actually broken up with somebody named Marcus. Taiga learned more about Marcus's relationship in ninety seconds than he wanted to know about anybody.
 
-“I'm telling you, ‘I need space’ is not automatically a breakup,” Enzo declared, pulling on one sock. “It could be a tactical withdrawal. A cooling period. A dramatic second act.”
+“I'm telling you, ‘I need space’ is not automatically a breakup,” 
+
+Enzo declared, pulling on one sock.
+
+“It could be a tactical withdrawal. A cooling period. A dramatic second act.”
 
 Another guy who looked older than most of them shook his head.
 
@@ -958,7 +966,7 @@ They started from the back.
 Walsh played into Brennan. Brennan turned and immediately looked forward. Ellis started moving up the right. 
 Bennett did the same beside Taiga.
 Right. Fullback. 
-Taiga held the left wing. Too deep. Whistle.
+Taiga held the left wing. Then he went in too deep.
 
 “Akatora. Higher.”
 
@@ -1016,7 +1024,8 @@ Scott, who had spent the previous forty minutes shouting instructions at everybo
 “Y-Yeah, I guess.”
 
 Taiga showered quickly, changed and left before anybody could decide the developmental players needed to participate in whatever ritual involved slapping lockers. 
-Outside, evening had settled over campus. His body hurt. His head hurt more. He checked his phone. 
+Outside, evening had settled over campus. His body hurt. His head hurt more. 
+He checked his phone. 
 
 **Caleb**: Dining hall at 7:15 instead of 7. Too loud before then
 
@@ -1050,7 +1059,9 @@ Taiga frowned.
 
 **Keitaro:** ❤️
 
-Taiga put the phone away. He walked slowly toward the dorm. A group of students passed in the opposite direction. Two girls, three guys. One of the girls was telling a story with enormous hand gestures. A guy beside her had his arm around her shoulders. Another couple sat beneath a tree nearby, sharing earbuds. Somebody rode past on a bicycle. Olympus at night was beginning to look less theatrical now that Taiga had seen the same paths repeatedly.
+Taiga put the phone away and walked slowly toward the dorm.
+A group of students passed in the opposite direction. Two girls, three guys. One of the girls was telling a story with enormous hand gestures. A guy beside her had his arm around her shoulders. Another couple sat beneath a tree nearby, sharing earbuds. Somebody rode past on a bicycle.
+Olympus at night was beginning to look less theatrical now that Taiga had seen the same paths repeatedly.
 
 He knew where the shortcut behind the library went. He knew which vending machine accepted his card and which one pretended to. He knew the humanities building's second-floor bathroom was cleaner than the first. He knew the smaller dining hall was tolerable at noon. He knew the residence hall's elevator made a suspicious sound between floors two and three, even after they had repaired it. 
 
