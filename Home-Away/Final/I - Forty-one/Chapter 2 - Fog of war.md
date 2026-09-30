@@ -187,7 +187,7 @@ Taiga nodded.
 
 “Right. Soccer would be much easier if the same answer always worked.” Mercer stepped back. “Read the defender. Read your fullback. Read where the ball is. The diagram gives you options, not permission to stop thinking.”
 
-Then he moved on to the others. After assigning each of them a role, Mercer and his assistants divided them into four groups, mixing current players and candidates. He spotted Leo among the candidates who wanted to play in attack.
+Then he moved on to the others. After assigning each of them a role, Mercer and his assistants divided them into four groups, mixing current players and candidates. He spotted Mendez among the candidates who wanted to play in attack.
 Bennett was in his group. 
 
 Then an assistant had them line up in formation and move through the basics.
