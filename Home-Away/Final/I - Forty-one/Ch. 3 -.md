@@ -1,7 +1,5 @@
 ### Chapter 3 - 
 
-Friday evening, Caleb was getting ready in the room. Taiga was dressing up as well. Nothing fancy, just presentable.
-
 "I still think this is a very bad idea."
 
 "It'll be just an hour. And we'll be close by."
@@ -83,8 +81,8 @@ Taiga closed his eyes and exhaled. Then he said without turning,
 Leo suddenly appeared in his field of view. Taiga was taken aback for a second.
 It was weird seeing him outside the pitch, without soccer uniform.
 
-He was wearing a loose white zipped hoodie on a black tank top. He had a small golden pendant representing the outline of a sun with a red lace around his neck and white trousers shorts.
-Nothing in his hair had changed. They still looked perfectly messy.
+He was wearing a loose white zipped hoodie on a black tank top. He had a small golden pendant representing the outline of a sun with a red lace around his neck and white shorts.
+Nothing in his hair had changed. It still looked perfectly messy.
 
 He was smiling very loudly.
 
@@ -135,19 +133,19 @@ Nora asked Leo:
 "Is he actually good?"
 
 Taiga glared at him.
-Leo considered for a couple of seconds.
+Leo considered for a second.
 
-"Well, coach took him in. And I think the team is better with him."
+“He’s new. But he learns stupidly fast.”
 
-Taiga blinked. 
+Taiga blinked. Nora raised an eyebrow. 
 
-Nora wasn't convinced though.
+“So yes?”
 
-"That didn't answer the question."
+Leo grinned.
 
-"It answered the more important one."
+“I’m not giving him that much satisfaction.”
 
-"That me-"
+"But that me-"
 
 A cheer erupted from the other side of the room. Someone had started a drinking game. Everybody suddenly began shouting.
 Taiga winced. He saw Caleb visibly stiffening. Tiny movement. Caleb's shoulders rose. He looked toward the speaker. Then toward the hallway.
@@ -190,7 +188,7 @@ They left. The hallway door closed behind them. Noise dropped by half. Caleb exh
 
 “Why did you lie?”
 
-Taiga looked over. Caleb's face was difficult to read. More difficult than most people's. Taiga still hadn't learned the dictionary.
+Taiga looked over.
 
 “You looked like you wanted to leave.”
 
