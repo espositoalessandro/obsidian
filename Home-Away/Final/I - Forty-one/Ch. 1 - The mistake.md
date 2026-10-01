@@ -3,7 +3,7 @@
 ---
 ### Chapter 1 - The mistake
 
-The bus doors opened onto a parking lot packed with families, luggage and enough expensive cars to make Taiga check the bus number again.
+The bus doors opened onto a parking lot packed with families, luggage and cars that probably cost more than his house.
 
 Beyond them stood the entrance to Olympus University.
 
@@ -95,7 +95,7 @@ Room 317 was halfway down the corridor. Two names were printed beside the door.
 **AKATORA, TAIGA**
 **MORRISON, CALEB**
 
-Taiga already knew who his roommate was. The application form included a housing questionnaire that offered **sometimes** where any sane person would have written **depends**.
+Taiga already knew who his roommate was. The application form included a housing questionnaire with answer choices vaguer than the questions.
 Still, seeing the name written there made the arrangement more real. He stepped inside.
 The room was somehow better than expected, which still meant small: two beds, two desks, two wardrobes and a window over the quad.
 
@@ -351,7 +351,7 @@ Orientation began at three. Taiga considered skipping it. Then remembered the sc
 **Recipients are expected to participate fully in first-year orientation and academic advising requirements.**
 
 Expected. Such a polite word.
-The main auditorium contained what felt like half the population of a small country. Taiga chose a seat near the back and immediately learned that somebody behind him had brought a bag of hard candy in the loudest wrapper ever manufactured. The university president spoke. Then the dean. Then an alumnus whose biography included three companies, two foundations and one sentence about "failing forward" that made Taiga want to fail directly through the floor.
+The main auditorium contained what felt like half the population of a small country. Taiga chose a seat near the back and immediately learned that somebody behind him had brought a bag of hard candy in the loudest wrapper ever manufactured. The university president spoke. Then the dean. Then an alumnus whose biography included three companies, two foundations and a speech about "failing forward".
 
 The student council president took over. Taiga looked at him. He had to be around the same age, although seeing a guy his age wearing a full suit and speaking like a freaking CEO made him slightly uncomfortable.
 
