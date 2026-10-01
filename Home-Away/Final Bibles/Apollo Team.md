@@ -56,7 +56,7 @@ This is especially important for Leo: he often occupies the role traditionally c
 | **6** | **Gav Foster** | Defensive / holding midfielder (DM) | Returning player |
 | **8** | **Isaac Romero** | Central midfielder (CM) | Returning player |
 | **9** | **Jordan Price** | Striker (ST) | Returning player; starting striker / primary 9 |
-| **11** | **Evan Cole** | Left winger (LW) | Third-year player; Taiga's main positional competition |
+| **11** | **Evan Cole** | Left winger (LW) | Senior; final year; graduates at the end of the year; Taiga's main positional competition |
 | **12** | **Nate Kim** | Goalkeeper (GK) | Returning reserve goalkeeper |
 | **23** | **Aaron Bennett** | Left-back (LB) | Freshman; joins through the freshman tryout |
 | **24** | **Leo Mendez** | Attacking midfielder / central attacking player (AM) | Freshman; newly joined Apollo |
@@ -70,8 +70,9 @@ This is especially important for Leo: he often occupies the role traditionally c
 - **All freshmen use numbers above 11.**
 - Numbers **1–11 are reserved for players who were already in the Apollo program before the current freshman class arrived**.
 - It is fine for some classic 1–11 numbers to be absent from the named cast. Do not force #3, #7 or #10 onto a freshman merely to complete a traditional XI.
-- **Taiga remains #41** through the current first-year rewrite unless a later explicit story event gives him a new senior number.
-- Do not give another Apollo player one of these locked numbers.
+- **Taiga remains #41** through the current first-year rewrite.
+- **At the end of the year, Evan graduates and Taiga inherits #11.** This is Taiga's earned senior number and a payoff to his progression as Apollo's left winger.
+- Do not give another Apollo player one of these locked numbers before the planned number transitions.
 
 ---
 
@@ -687,11 +688,13 @@ Aaron is especially sensitive to **being seen as incompetent**.
 
 Evan is the oldest recurring Apollo player in the main cast.
 
-He should read as an upper-year player, roughly **22–23**, with the exact age left unimportant unless chronology later requires it.
+He is a **senior in his final year at Olympus** and will graduate at the end of the academic year.
 
 He has already experienced many of the things the younger players are currently panicking about.
 
 That gives him a natural confidence.
+
+His departure also has a concrete football consequence: Evan currently owns Apollo's **#11**, the traditional left-wing shirt. After Evan graduates, **Taiga inherits #11** as the symbolic payoff to his first-year progression from development player #41 into the senior left-wing role.
 
 ---
 
