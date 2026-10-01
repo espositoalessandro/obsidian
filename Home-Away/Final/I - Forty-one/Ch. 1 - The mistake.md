@@ -371,38 +371,42 @@ University was going to be hard.
 
 ---
 Taiga was walking across campus, frantically zooming in and out on the map on his phone. Whoever designed the Olympus app apparently had no idea how distances work.
-The position marker finally snapped onto a route, and Taiga realized he was going the wrong way.
+The position marker finally snapped onto a route. The wrong one.
 Great.
-He turned to go back, when he heard a whistle and someone shouting, then a laugh. He looked up and realized he was wandering into the Sports Zone.
+He turned back, then heard a whistle somewhere ahead. Someone shouted. Another voice answered with a laugh.
 
-Curiosity got the better of him and he followed the noise.
-He found himself under the bleachers of a soccer pitch, right outside a metal net surrounding the field. There were players running, passing balls, shooting and laughing.
-Like everything related to sports at Olympus, the pitch wasn't exactly humble. Lights, scoreboards, enough seats for hundreds of people.
-Definitely different from the sloped pitch he was used to in Camp Buddy.
+Taiga looked up.
 
-Taiga approached the net. He had always appreciated sports: running, sweating, competition, strategy, adrenaline, frustration. 
-All things that got his blood moving.
-He wasn't necessarily a soccer fan, though. He'd played a few times at school and at camp, but never seriously.
+The Sports Zone opened beside him, and beyond the bleachers sat one of the soccer pitches. Players moved behind the metal fence surrounding it, passing balls between them while a coach yelled something Taiga couldn't make out.
 
-The players had apparently finished warming up. The coach shouted:
+He followed the noise.
+
+Like everything related to sports at Olympus, the place wasn't exactly humble. Floodlights. Scoreboards. Enough seats for hundreds of people.
+Definitely different from the sloped pitch at Camp Buddy.
+
+Taiga stopped beside the fence. He'd played soccer a few times at school and at camp. Never seriously. 
+
+The coach's whistle cut across the field.
 
 "Okay, enough. Scrimmage next. Take your bibs and get ready."
 
-Players were casually talking to each other while getting ready for the scrimmage. They separated in two teams and took their positions on the field.
-Taiga leaned closer to the net.
-The coach whistled and the match started.
+Taiga moved closer.
+A few moments later, the ball was moving again.
 
-Taiga had never seen a proper soccer match up close. The pitch was enormous. People were running everywhere, and the goalkeeper immediately shouted about positioning.
-The ball kept passing from one player to another. No one was keeping it for long and not everyone was running for it.
-There were roles, positions. Taiga could immediately see that.
+He'd never watched a proper match this close before. The pitch looked even bigger from ground level. Players spread across all of it, calling to each other, changing direction before the ball even reached them.
 
-A blond guy got hold of the ball near Taiga. He received it on his chest, brought it down, and took off. One player started following him, but the blond was already ahead. He raised his head and looked inside. Another defender stood in his way. He feinted right, then cut left, leaving the defender in place.
-Taiga looked at him: he was relatively short, slim and fast. Very fast.
-He turned inward, reached the penalty area and shot from an angle.
+What caught his attention was that almost nobody was running towards the ball. Half of them were moving somewhere else entirely, like they already knew where the next pass was going.
+
+Then the ball reached a blond guy on the near side.  He received it on his chest, brought it down, and took off. 
+One player started following him, but the blond was already ahead. He raised his head and looked inside. Another defender stood in his way. 
+He was freaking fast.
+He feinted right, then cut left, leaving the defender in place.
+Then turned inward, reached the penalty area and shot from an angle.
+
 Out.
 Taiga raised an eyebrow.
 
-The blond guy put his hands behind his head, looked up, and squinted.
+The blond put both hands behind his head and looked toward the sky.
 One of his teammates yelled:
 
 "You just launched a new satellite!"
@@ -421,25 +425,24 @@ The goalkeeper interrupted, "RESET!"
 
 Still laughing, the blond guy jogged back into position.
 
-Taiga shook his head, then turned to go back.
-Right outside the soccer field, there was a bulletin board. Among the useless notices, one caught Taiga's attention.
+He turned to leave.
+A bulletin board stood just outside the pitch. Most of it was covered in useless notices but one caught his attention.
 
-**OLYMPUS MEN'S SOCCER OPEN TRYOUT**
+**APOLLO SOCCER - MEN'S OPEN TRYOUTS**
 
-and immediately underneath:
+Underneath:
 
 **Freshmen open tryouts**
 **Thursday, 16:00**
 
 He looked at it for a couple of seconds.
-He liked soccer. He had played a few times back at school and at camp.
-It was also definitely not worth it.
-Taiga turned and started walking away.
+Definitely not worth it.
+Taiga turned and walked away. 
 
-After a couple of meters, he stopped.
-"Fuck it."
-He went back and snapped a picture.
-He immediately felt stupid for doing that.
+Then he stopped.
+"Whatever."
+
+He went back and snapped a picture. Then immediately felt stupid for doing that.
 
 ---
 
