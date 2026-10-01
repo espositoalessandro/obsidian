@@ -666,12 +666,13 @@ Taiga's eyes refused to look away for just a couple of seconds, but that was eno
 
 Leo's back was lean and defined, ending with a narrow waist. Tan lines at the shoulder and neck. 
 That Taiga already knew, he had seen him plenty of times without a shirt.
+His eyes, though, didn't stop there. They went lower than his waist and sat for a second on his ass.
+Not big. Just shaped annoyingly well.
 
-What instead caught most of his attention, were his freaking round cheeks. 
 Taiga blinked and looked away.
 
 What the heck? Naked men weren't something new for him. Camp showers were way less private than these ones. And Yoichi and Aiden were totally incapable of shame. 
-Yet his brain decided to file this new information anyways. Leo Mendez. Round cheeks. Nice ass.
+Yet his brain decided to file this new information anyways. Leo Mendez. Nice ass.
 Nice?
 Was the opinion really necessary?
 
