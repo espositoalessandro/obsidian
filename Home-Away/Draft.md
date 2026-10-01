@@ -369,9 +369,11 @@ Then:
 **Table 3**
 
 - Lucas Campbell  
-- Leo Mendez  
+- Julio Mendez  
 - Mia Harper  
 - Anne Anderson
+
+Taiga looked at the other tables on the screen but didn't find another Mendez. So Leo wasn't actually Leo. Or not legally, anyway. That seemed obvious now that he thought about it.
 
 Then he read the next name.
 
