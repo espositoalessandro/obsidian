@@ -1055,3 +1055,34 @@ He laughed at himself.
 
 ___
 
+Saturday's match against St. Vincent University was the first time Taiga watched an actual Apollo match.
+Conference championship had only recently started and this was the second official match of the season.
+
+Mercer required developmental players to watch the game from the bleachers. 
+
+"Don't follow the ball. Watch where players go. If a team scores, ask yourself why did it work for one what went wrong for the other. Don't assume that everything they do is the right choice. Think about what you would have done in their place."
+
+Fine.
+
+"Good morning and welcome to the second official Conference Championship day."
+
+Taiga was startled. Of course there was a speaker. And he also noticed a small space on the central bleachers where a TV troupe had set up giant cameras.
+His stomach clenched slightly. 
+This was more official than he thought.
+
+"Give a warm applause for our Apollo! Today they will be facing St. Vincent university."
+
+Everyone clapped and shouted hard. Teams came out and shook hands. 
+Meanwhile the speaker started announcing names.
+
+"Number one, Stirling!" 
+
+For every one of them, the whole home section of the bleachers cheered vigorously. 
+
+"Number, Delos Reyes! Number , Cole, Number ten, Mendez!"
+
+Taiga noticed that when Leo got called, people cheered louder.
+The speaker ended with Pierce and proceeded with the away team.
+
+
+
