@@ -1,4 +1,4 @@
-### Chapter 3 - 
+### Chapter 3 - Crossing the line
 
 "I still think this is a very bad idea."
 
