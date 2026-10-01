@@ -97,7 +97,7 @@ Room 317 was halfway down the corridor. Two names were printed beside the door.
 
 Taiga already knew who his roommate was. The application form included a housing questionnaire with answer choices vaguer than the questions.
 Still, seeing the name written there made the arrangement more real. He stepped inside.
-The room was somehow better than expected, which still meant small: two beds, two desks, two wardrobes and a window over the quad.
+The room was small, but somehow better than expected: two beds, two desks, two wardrobes and a window over the quad.
 
 For a moment he stood there with his suitcase upright beside him. The room was nothing like the cabin he was used to. Too different.
 No wood creaking. No birds chirping outside. No bunk beds.
