@@ -885,7 +885,7 @@ Taiga frowned.
 
 Nora raised an eyebrow.
 
-"Yes Taiga, but last Friday. A week ago."
+"Yes, Taiga, but last Friday. A week ago."
 
 Taiga shrugged and pulled out a chair to sit. The Oyster was crowded as usual.
 
@@ -921,7 +921,7 @@ Nora rolled her eyes and sat down as well. Taiga was halfway through his pasta w
 
 "I'll take what I can."
 
-Taiga opened his phone and looked at the mail once again.
+Taiga opened his phone and looked at the email again.
 After a while, Nora pointed at him.
 
 "See? Weird."
@@ -946,7 +946,7 @@ Nora raised an eyebrow and waited.
 
 Annoying, as always.
 
-Taiga unlocked his phone and showed her the mail. 
+Taiga unlocked his phone and showed her the email. 
 
 **From: Mercer, Daniel — Apollo Men's Soccer**
 **Subject: Developmental Review — Week 3**
@@ -981,7 +981,7 @@ She looked up.
 
 Nora waited a couple of seconds.
 
-"I'd summarize it in 'you're stubborn, but sometimes too stubborn'."
+"I'd summarize it as 'you're stubborn, but sometimes too stubborn'."
 
 She smiled.
 
@@ -999,7 +999,7 @@ Taiga frowned.
 
 "It needs work."
 
-"See? We've both received feedbacks today."
+"See? We've both received feedback today."
 
 Taiga snorted before he could control himself. Nora smiled for a second, then she continued.
 
@@ -1019,11 +1019,11 @@ She nodded.
 
 "Why?"
 
-"That's what I'm supposed to understand. Create spaces, move other players."
+"That's what I'm supposed to understand. Create space, move other players."
 
-Nora laughed from her nose.
+Nora laughed through her nose.
 
-"There are men who literally die to mansplain soccer to girls and you give me 'create spaces, move other players'."
+"There are men who are literally dying to mansplain soccer to girls and you give me 'create space, move other players'."
 
 Taiga took a drink.
 
@@ -1043,9 +1043,9 @@ Taiga frowned.
 
 Taiga didn't answer.
 
-She made it sound like it was easy. It was not. Not when you're in the middle of twenty player who all move all around you.
+She made it sound like it was easy. It was not. Not when you're in the middle of twenty players who all move all around you.
 
-They spent the rest of lunch arguing whether Hall intentionally bait them to provoke discussions during classes.
+They spent the rest of lunch arguing over whether Hall intentionally baited them into discussions during class.
 He obviously did.
 
 When they were done, Nora had another class at two. Taiga watched her leave.
