@@ -348,7 +348,7 @@ Orientation began at three. Taiga considered skipping it. Then remembered the sc
 **Recipients are expected to participate fully in first-year orientation and academic advising requirements.**
 
 Expected. Such a polite word.
-The main auditorium was probably fitting the whole campus. Taiga chose a seat near the back. The university president spoke. Then the dean. Then an alumnus whose biography included three companies, two foundations and a speech about "failing forward".
+The main auditorium was probably hosting the whole campus. Taiga chose a seat near the back. The university president spoke. Then the dean. Then an alumnus whose biography included three companies, two foundations and a speech about "failing forward".
 
 The student council president took over. Taiga looked at him. He had to be around Taiga's age. Full suit, perfect posture, talking like a freaking CEO.
 
@@ -375,7 +375,7 @@ He turned back, then heard a whistle somewhere ahead. Someone shouted. Another v
 
 Taiga looked up.
 
-He realized he was wandering in the Sports Zone, and beyond the bleachers sat one of the soccer pitches. Players moved behind the metal fence surrounding it, passing balls between them while a coach yelled something Taiga couldn't make out.
+He realized he was wandering into the Sports Zone, and beyond the bleachers sat one of the soccer pitches. Players moved behind the metal fence surrounding it, passing balls between them while a coach yelled something Taiga couldn't make out.
 
 He followed the noise.
 
@@ -649,7 +649,7 @@ And indicated the blond guy. Of course.
 
 Up close, he looked around Taiga's age.
 His face was surprisingly gentle: soft features, warm eyes, an easy smile.
-He had skin was warm brown, darker than most of the guys around him. Against it, the messy blond hair stood out even more.
+He had a warm brown skin, darker than most of the guys around him. Against it, the messy blond hair stood out even more.
 
 Mendez was bouncing on his tiptoes when Taiga approached. He pointed at him.
 
