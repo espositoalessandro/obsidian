@@ -16,7 +16,7 @@ And above all of it, bells were ringing from the stone tower somewhere on campus
 
 Everything was fucking huge and pointlessly fancy.
 
-Things didn't improve when he started walking towards the entrance: mothers on the verge of tears, cringing students trying to shoo them away, some fancy-asses with personal valets carrying their stuff. 
+Things didn't improve when he started walking towards the entrance: mothers on the verge of tears, cringing students trying to shoo them away, some fancy-asses with personal valets carrying their stuff.
 At the arch, a girl behind a small booth stacked with pamphlets gave him a bright smile and waved him over.
 
 "Hi! Welcome to Olympus University!"
@@ -28,11 +28,11 @@ He crossed the arch. The asphalt had already given way to light-grey paving ston
 *Fortis mente, fortis corpore*
 
 Strong in mind, strong in body.
-Taiga raised an eyebrow. 
+Taiga raised an eyebrow.
 
-Pretentious. 
+Pretentious.
 
-That described almost perfectly what he thought about Olympus. 
+That described almost perfectly what he thought about Olympus.
 He was still looking at the statue when a student suddenly rushed toward the entrance and bumped into him.
 
 "What the fuck, man?"
@@ -41,7 +41,7 @@ The guy nearly fell face-first onto the pavement. He recovered and immediately t
 
 "Oh shit, sorry dude I didn't see you. You alright?"
 
-Taiga could already feel the familiar heat climbing to his head. 
+Taiga could already feel the familiar heat climbing to his head.
 Why can't people just look where they're going?
 
 He took a small breath.
@@ -49,12 +49,12 @@ No.
 
 "Yeah."
 
-Then he turned and continued. 
+Then he turned and continued.
 There. Day one and he almost lost it to a random guy who just bumped him.
 
 Great start.
 
-If it weren't for Camp Buddy, Taiga probably wouldn't have stopped himself. 
+If it weren't for Camp Buddy, Taiga probably wouldn't have stopped himself.
 He just didn't expect Olympus University to hit all his senses at once.
 
 He took another deep breath and moved on.
@@ -64,26 +64,26 @@ He reached the Residential Zone. He checked the Olympus app for his room.
 
 Room 317.
 
-His room was on the third floor. Of course it was. The elevator had a handwritten **OUT OF SERVICE — WE'RE SORRY\!** sign taped over the buttons.
+His room was on the third floor. Of course it was. The elevator had a handwritten **OUT OF SERVICE — WE'RE SORRY!** sign taped over the buttons.
 
 Taiga stared at it.
 
-“If you're going to swear at it, I should warn you it hasn't responded to anyone so far.”
+"If you're going to swear at it, I should warn you it hasn't responded to anyone so far."
 
 Taiga turned. An orientation volunteer stood beside a stack of moving bins, clipboard under one arm.
 
-“I wasn't going to.”
+"I wasn't going to."
 
 Of course he was.
-The volunteer looked at the suitcase. “What floor?”
+The volunteer looked at the suitcase. "What floor?"
 
-“Third.”
+"Third."
 
-“I can grab the other end if you want.”
+"I can grab the other end if you want."
 
-“No, I'm fine.”
+"No, I'm fine."
 
-The volunteer raised an eyebrow at him. 
+The volunteer raised an eyebrow at him.
 
 "Alright, suit yourself."
 
@@ -92,10 +92,10 @@ By the second flight, Taiga's forearm hurt badly enough to make him swear at the
 
 Room 317 was halfway down the corridor. Two names were printed beside the door.
 
-**AKATORA, TAIGA**  
+**AKATORA, TAIGA**
 **MORRISON, CALEB**
 
-Taiga already knew who his roommate was. The application form included a housing questionnaire that offered **sometimes** where any sane person would have written **depends**. 
+Taiga already knew who his roommate was. The application form included a housing questionnaire that offered **sometimes** where any sane person would have written **depends**.
 Still, seeing the name written there made the arrangement more real. He stepped inside.
 The room was somehow better than expected, which still meant small: two beds, two desks, two wardrobes and a window over the quad.
 
@@ -104,7 +104,7 @@ No wood creaking. No birds chirping outside. No bunk beds.
 No annoying idiot—
 
 Taiga's phone buzzed.
-As if summoned, Keitaro's name appeared on an incoming video call. 
+As if summoned, Keitaro's name appeared on an incoming video call.
 He answered.
 
 "Hey."
@@ -119,71 +119,71 @@ He answered.
 
 "Yes, I wanted to call earlier but Hiro made me wait."
 
-“You're insane.”
+"You're insane."
 
-“Probably. How is it?”
+"Probably. How is it?"
 
-“It's a university.”
+"It's a university."
 
-Keitaro laughed. “I meant you.”
+Keitaro laughed. "I meant you."
 
-Taiga turned the camera toward the room. “Two beds. Two desks. Window. Riveting.”
+Taiga turned the camera toward the room. "Two beds. Two desks. Window. Riveting."
 
-“Honestly, not bad. Hiro's first dorm had one tiny window so high up he had to stand on the bed to see anything except sky.”
+"Honestly, not bad. Hiro's first dorm had one tiny window so high up he had to stand on the bed to see anything except sky."
 
-“The elevator's dead. I carried twenty kilos up three floors. If I look miserable, that's why.”
+"The elevator's dead. I carried twenty kilos up three floors. If I look miserable, that's why."
 
-“I was going to say you look like you're trying to process the whole campus at once.”
+"I was going to say you look like you're trying to process the whole campus at once."
 
-“Same thing.”
+"Same thing."
 
-“First days are weird. Last week you knew every path at Camp Buddy. Give it a week and you'll know the quiet stairwell here too.”
+"First days are weird. Last week you knew every path at Camp Buddy. Give it a week and you'll know the quiet stairwell here too."
 
 That was annoyingly plausible. Taiga looked out at freshmen crossing the courtyard with lamps, boxes and rolled rugs.
 
-“It's loud.”
+"It's loud."
 
-“Yeah. You hate loud.”
+"Yeah. You hate loud."
 
-“Thank you for the diagnosis.”
+"Thank you for the diagnosis."
 
 Movement appeared behind him. Hiro leaned into frame with his backpack still on.
 
-“Is that Taiga? Move.”
+"Is that Taiga? Move."
 
-“I've been here fourteen minutes,” Taiga said.
+"I've been here fourteen minutes," Taiga said.
 
-“Exactly. Enough time for one room picture and at least one complaint about food.”
+"Exactly. Enough time for one room picture and at least one complaint about food."
 
-“I haven't eaten.”
+"I haven't eaten."
 
-Hiro looked appalled. “EHH?? Then fix that first. Oh, also, roommate. Did you meet him?”
+Hiro looked appalled. "EHH?? Then fix that first. Oh, also, roommate. Did you meet him?"
 
-“No.”
+"No."
 
-“What do we know?”
+"What do we know?"
 
 Taiga shrugged.
 
-“Caleb Morrison.”
+"Caleb Morrison."
 
-“Important question. Is he hot?”
+"Important question. Is he hot?"
 
-“I haven't even met him.”
+"I haven't even met him."
 
-“You've seen the housing photo.”
+"You've seen the housing photo."
 
-“I'm hanging up.”
+"I'm hanging up."
 
-Hiro pointed at the screen. “Fine. Eat something first, then report hot college guys.”
+Hiro pointed at the screen. "Fine. Eat something first, then report hot college guys."
 
 Keitaro laughed and added:
 
-“Also find the laundry room ASAP. Last year, Hiro wore the same shirt three days.”
+"Also find the laundry room ASAP. Last year, Hiro wore the same shirt three days."
 
-Hiro shouted, “IT WAS CLEAN\!”
+Hiro shouted, "IT WAS CLEAN!"
 
-“It absolutely was not, Hiro.”
+"It absolutely was not, Hiro."
 
 "You're making me sound like Wolfboy."
 
@@ -195,19 +195,19 @@ Keitaro closed his eyes, exasperated.
 
 "Take care, Taiga."
 
-Taiga ended the call. 
+Taiga ended the call.
 His phone buzzed again almost immediately.
 
-**Hiro:** EAT SOMETHING  
+**Hiro:** EAT SOMETHING
 **Hiro:** THEN REPORT HOT COLLEGE BOYS
 
-**Taiga:** die  
+**Taiga:** die
 
-He locked the phone before Hiro could answer. 
-The room was still almost empty and the corridor was still loud, but for several seconds Taiga smiled anyway. 
+He locked the phone before Hiro could answer.
+The room was still almost empty and the corridor was still loud, but for several seconds Taiga smiled anyway.
 
 ---
-Taiga was still in the middle of unpacking when he heard the door open. 
+Taiga was still in the middle of unpacking when he heard the door open.
 
 A tall guy appeared in the doorway. Short dark hair, square glasses, an impressive poker face.
 He paused a second, glanced at Taiga's clothes lying on the bed, then back to Taiga.
@@ -224,8 +224,8 @@ Taiga gave a short, sarcastic laugh.
 
 "No, I'm robbing him."
 
-The guy stood there and frowned in confusion. 
-Taiga stared at him, and for a couple of seconds nobody said anything. 
+The guy stood there and frowned in confusion.
+Taiga stared at him, and for a couple of seconds nobody said anything.
 
 Then the guy blinked as if he had suddenly understood the absurdity of the implication and awkwardly offered his hand.
 
@@ -276,7 +276,7 @@ Caleb looked around.
 
 "Okay."
 
-His dad smiled and left the room, closing the door behind him. 
+His dad smiled and left the room, closing the door behind him.
 
 Silence immediately fell over Room 317.
 
@@ -324,61 +324,61 @@ Good.
 
 Caleb chose the one by the window because, he explained, the overhead light had a faint electrical buzz and daylight made it easier to leave the fluorescent fixture off. Taiga stopped unpacking.
 
-“You can hear that?”
+"You can hear that?"
 
 Caleb looked up.
 
-“The light?”
+"The light?"
 
-“Yeah.”
+"Yeah."
 
-“Yes.”
+"Yes."
 
 Taiga listened. There was a buzz. Barely. He would never have noticed it without being told. Caleb glanced toward the switch.
 
-“Does it bother you if we use the lamps instead at night?”
+"Does it bother you if we use the lamps instead at night?"
 
-“No. The overhead light is ugly anyway.”
+"No. The overhead light is ugly anyway."
 
-“That's good.”
+"That's good."
 
-That seemed to settle everything. They finished unpacking in silence. 
+That seemed to settle everything. They finished unpacking in silence.
 Taiga appreciated that.
 
---- 
+---
 Orientation began at three. Taiga considered skipping it. Then remembered the scholarship agreement.
 
 **Recipients are expected to participate fully in first-year orientation and academic advising requirements.**
 
 Expected. Such a polite word.
-The main auditorium contained what felt like half the population of a small country. Taiga chose a seat near the back and immediately learned that somebody behind him had brought a bag of hard candy in the loudest wrapper ever manufactured. The university president spoke. Then the dean. Then an alumnus whose biography included three companies, two foundations and one sentence about “failing forward” that made Taiga want to fail directly through the floor.
+The main auditorium contained what felt like half the population of a small country. Taiga chose a seat near the back and immediately learned that somebody behind him had brought a bag of hard candy in the loudest wrapper ever manufactured. The university president spoke. Then the dean. Then an alumnus whose biography included three companies, two foundations and one sentence about "failing forward" that made Taiga want to fail directly through the floor.
 
 The student council president took over. Taiga looked at him. He had to be around the same age, although seeing a guy his age wearing a full suit and speaking like a freaking CEO made him slightly uncomfortable.
 
 "Good morning. I'm Avan Geiserford, president of the Student Council. I extend the university president's welcome, along with my own. The council's job is to ensure that students are always met with Olympus's highest standards in activities, sports, and academics. We expect you to be..."
 
-Taiga stopped listening. He opened the orientation app instead. 
+Taiga stopped listening. He opened the orientation app instead.
 Tomorrow: academic advising.
-Thursday: department welcome events. 
-Friday: scholarship reception. 
+Thursday: department welcome events.
+Friday: scholarship reception.
 He tapped the last one.
 
 **Attendance required.**
 
-Taiga winced. “No.”
+Taiga winced. "No."
 
 The student beside him looked over. Taiga lowered his phone. Applause erupted. Everyone stood. Taiga stood too.
 Apparently university involved pretending you knew what was happening until eventually somebody gave you a degree. Maybe he'd fit in after all.
 
 ---
 Taiga was walking across campus, frantically zooming in and out on the map on his phone. Whoever designed the Olympus app had a very personal interpretation of geography.
-The position marker finally snapped onto a route, and Taiga realized he was going the wrong way. 
+The position marker finally snapped onto a route, and Taiga realized he was going the wrong way.
 Great.
 He turned to go back, when he heard a whistle and someone shouting, then a laugh. He looked up and realized he was wandering into the Sports Zone.
 
-Curiosity got the better of him and he followed the noise. 
+Curiosity got the better of him and he followed the noise.
 He found himself under the bleachers of a soccer pitch, right outside a metal net surrounding the field. There were players running, passing balls, shooting and laughing.
-Like everything related to sports at Olympus, the pitch wasn't exactly humble. Lights, scoreboards, enough seats for hundreds of people. 
+Like everything related to sports at Olympus, the pitch wasn't exactly humble. Lights, scoreboards, enough seats for hundreds of people.
 Definitely different from the sloped pitch he was used to in Camp Buddy.
 
 Taiga approached the net. He had always appreciated sports: running, sweating, competition, strategy, adrenaline, frustration. All things that got his blood moving.
@@ -388,18 +388,18 @@ The players had apparently finished warming up. The coach spoke loudly with a fi
 
 "Okay, enough. Scrimmage next. Take your bibs and get ready."
 
-Players were casually talking to each other while getting ready for the scrimmage. They separated in two teams and took their positions on the field. 
+Players were casually talking to each other while getting ready for the scrimmage. They separated in two teams and took their positions on the field.
 Taiga leaned closer to the net.
 The coach whistled and the match started.
 
 Taiga had never seen a proper soccer match up close. The pitch was enormous. People were running everywhere, and the goalkeeper immediately shouted about positioning.
-The ball kept passing from one player to another. No one was keeping it for long and not everyone was running for it. 
-There were roles, positions. Taiga could immediately see that. 
+The ball kept passing from one player to another. No one was keeping it for long and not everyone was running for it.
+There were roles, positions. Taiga could immediately see that.
 
-A blond guy got hold of the ball near Taiga. He received it on his chest, brought it down, and took off. One player started following him, but the blond was already ahead. He raised his head and looked inside. Another defender stood in his way. He feinted right, then cut left, leaving the defender in place. 
+A blond guy got hold of the ball near Taiga. He received it on his chest, brought it down, and took off. One player started following him, but the blond was already ahead. He raised his head and looked inside. Another defender stood in his way. He feinted right, then cut left, leaving the defender in place.
 Taiga looked at him: he was relatively short, slim and fast. Very fast.
-He turned inward, reached the penalty area and shot from an angle. 
-Out. 
+He turned inward, reached the penalty area and shot from an angle.
+Out.
 Taiga raised an eyebrow.
 
 The blond guy put his hands behind his head, looked up, and squinted.
@@ -431,34 +431,34 @@ and immediately underneath:
 **Freshmen open tryouts**
 **Thursday, 16:00**
 
-He looked at it for a couple of seconds. 
-He liked soccer. He had played a few times back at school and at camp. 
+He looked at it for a couple of seconds.
+He liked soccer. He had played a few times back at school and at camp.
 It was also definitely not worth it.
 Taiga turned and started walking away.
 
-After a couple of meters, he stopped. 
+After a couple of meters, he stopped.
 "Fuck it."
 He went back and snapped a picture.
 He immediately felt stupid for doing that.
 
 ---
 
-“You should go.”
+"You should go."
 
-“No.”
+"No."
 
 It was nine-thirty that evening. Taiga sat on his bed with his back against the wall, laptop open across his thighs. Keitaro occupied one corner of the screen. Hiro was in the shower, which meant the conversation was temporarily survivable. Caleb was outside on his phone.
 Taiga regretted mentioning the soccer sign approximately three seconds after mentioning it.
 
-“I didn't say join the team,” Keitaro said. “Just go to the tryouts. Give it a shot.”
+"I didn't say join the team," Keitaro said. "Just go to the tryouts. Give it a shot."
 
 "I told you, it's pointless."
 
-"And yet you have spent the last twenty minutes telling me how serious their program is while their roster is open behind this call.”
+"And yet you have spent the last twenty minutes telling me how serious their program is while their roster is open behind this call."
 
 Taiga glanced at the browser tab.
 
-“I'm just doing research.”
+"I'm just doing research."
 
 "That means you're at the very least interested."
 
@@ -485,118 +485,118 @@ Keitaro frowned.
 There. He said it.
 Outside, campus lights cut across the courtyard. Students moved between buildings with the confidence of people who had apparently been born knowing where everything was.
 
-“You know the people here?” Taiga said. “National competitions. Research programs. Debate. One guy started a nonprofit at sixteen. The Student Council president is my age and talks like he owns a corporation.”
+"You know the people here?" Taiga said. "National competitions. Research programs. Debate. One guy started a nonprofit at sixteen. The Student Council president is my age and talks like he owns a corporation."
 
 "Taiga..."
 
-“While I spent the last year fixing fucking cabins at a summer camp.”
+"While I spent the last year fixing fucking cabins at a summer camp."
 
 Keitaro looked at him for a couple of seconds.
 
-“Did the admissions committee know your grades?”
+"Did the admissions committee know your grades?"
 
-“Yes.”
+"Yes."
 
-“Your interview?”
+"Your interview?"
 
-“Yes.”
+"Yes."
 
-“Your application?”
+"Your application?"
 
-“Obviously.”
+"Obviously."
 
-“Did Yoshinori lie in the recommendation?”
+"Did Yoshinori lie in the recommendation?"
 
 Taiga frowned.
 
-“No.”
+"No."
 
-“He knew you before any of that. He knew the difficult parts too. He still wrote it.”
+"He knew you before any of that. He knew the difficult parts too. He still wrote it."
 
-“That's biased.”
+"That's biased."
 
-“Of course he's biased. He knows you.” Keitaro smiled faintly. “That's the useful kind of bias.”
+"Of course he's biased. He knows you." Keitaro smiled faintly. "That's the useful kind of bias."
 
 Taiga looked down. Keitaro continued, warmer now.
 
-“You made me read that personal statement nine times.”
+"You made me read that personal statement nine times."
 
-“You volunteered.”
+"You volunteered."
 
-“You sent it at two in the morning with ‘tell me why this is shit’.”
+"You sent it at two in the morning with ‘tell me why this is shit’."
 
-“It was shit.”
+"It was shit."
 
-“It wasn't. It was uncomfortable because you had to write about things you actually cared about.”
+"It wasn't. It was uncomfortable because you had to write about things you actually cared about."
 
 Taiga looked up. Keitaro shrugged.
 
-“Maybe Yoshinori, admissions, the scholarship committee and everybody else completely misread you.”
+"Maybe Yoshinori, admissions, the scholarship committee and everybody else completely misread you."
 
-“You're all idiots, so possible.”
+"You're all idiots, so possible."
 
-“Exactly. So, do you want to prove them right or prove them wrong?”
+"Exactly. So, do you want to prove them right or prove them wrong?"
 
-“What?”
+"What?"
 
-“You're there now. Take the classes. Try the things you actually want to try. Go to soccer. If four years from now you're still convinced they were wrong, you can call me and say ‘I told you so’.”
+"You're there now. Take the classes. Try the things you actually want to try. Go to soccer. If four years from now you're still convinced they were wrong, you can call me and say ‘I told you so’."
 
-“That is manipulative.”
+"That is manipulative."
 
-“A little.”
+"A little."
 
-“Don't look so proud of yourself.”
+"Don't look so proud of yourself."
 
-“Hey, I'm—”
+"Hey, I'm—"
 
 The bathroom door opened behind him. Hiro appeared with wet hair and a towel around his neck.
 
-“Are we still doing soccer?”
+"Are we still doing soccer?"
 
-“No,” Taiga said.
+"No," Taiga said.
 
-“Yes,” Keitaro said.
+"Yes," Keitaro said.
 
 Hiro leaned into frame.
 
-“Oh, good. Just go.”
+"Oh, good. Just go."
 
 Taiga stared.
 
-“That is your contribution?”
+"That is your contribution?"
 
-“No, I have more. Worst case, the tryout sucks and you come home with new material to complain about. Best case, you make it and then I get to become unbearable every time you play.”
+"No, I have more. Worst case, the tryout sucks and you come home with new material to complain about. Best case, you make it and then I get to become unbearable every time you play."
 
-“You're already unbearable.”
+"You're already unbearable."
 
-“Exactly\! Nothing to lose.”
+"Exactly! Nothing to lose."
 
-“I hate you both.”
+"I hate you both."
 
 Keitaro laughed.
 
-“You should go to sleep, Taiga.”
+"You should go to sleep, Taiga."
 
-“Fuck you.”
+"Fuck you."
 
-“Good night.”
+"Good night."
 
 Taiga ended the call. He threw the phone onto his pillow, turned off the lamp and closed his eyes.
-Five minutes passed before he opened them. 
+Five minutes passed before he opened them.
 The tryout sign was still in his head.
 
-“Fuck it.”
+"Fuck it."
 
 ---
 Tryouts started at 16:00. Taiga was outside the Sports Zone by 15:45 and had already spent more than five minutes convincing himself that this was a stupid idea.
 Other candidates started arriving. Lots of them. Taiga seriously considered leaving.
-Most of them already had club football gear, proper equipment, and visible confidence. 
-Taiga had none. 
+Most of them already had club football gear, proper equipment, and visible confidence.
+Taiga had none.
 Just a pair of freshly bought cleats, because he needed them anyway.
 He forced himself to stay.
 Because he didn't like wasting money. That was it.
 
-At 16:00, they let freshmen onto the field. Current players were already helping the coaches set cones and other training equipment around the field. 
+At 16:00, they let freshmen onto the field. Current players were already helping the coaches set cones and other training equipment around the field.
 He immediately spotted the blond guy again, who was carrying a box with bibs in it. He was laughing with another teammate about something.
 
 "MENDEZ! Put these bibs over there, we don't have all day."
@@ -605,7 +605,7 @@ He immediately spotted the blond guy again, who was carrying a box with bibs in 
 
 Mendez hurried up and dropped the bibs where the coach asked him, then went back into the storage room.
 
-The coach then approached the candidates. He was tall, with broad shoulders and a bit of a belly. He had a thick mustache and a constant stern look. 
+The coach then approached the candidates. He was tall, with broad shoulders and a bit of a belly. He had a thick mustache and a constant stern look.
 
 "I'm Mercer. Today we're dividing the first tryout phase into three stages. First, you show me your current physical ability. Then we'll do basic drills. Last, basic one-on-ones. Now warm up."
 
@@ -624,7 +624,7 @@ At some point, he approached Taiga. He could feel something tightening in his st
 "Before hitting the ball, adjust your positioning first. The other foot stays beside the ball."
 
 Taiga nodded. Clear instruction. A direction. He could work with that.
-He adjusted. Still missed a couple of times, but eventually got the hang of it. 
+He adjusted. Still missed a couple of times, but eventually got the hang of it.
 Mercer didn't comment and moved on.
 
 Dribbling drills were even worse.
@@ -633,7 +633,7 @@ Taiga nudged the ball through the first pair of cones and immediately let it run
 
 Around him, shoes tapped quick, neat rhythms. One player was already turning back for another run while Taiga was still halfway through.
 
-“Smaller touches,” the coach called. “Keep it close. Inside, outside. Don’t kick it forward.”
+"Smaller touches," the coach called. "Keep it close. Inside, outside. Don’t kick it forward."
 
 Taiga closed his eyes. He was about to tell the coach where he could keep something. Instead he exhaled and reset.
 
@@ -641,7 +641,7 @@ This time the ball stayed near his feet. He still clipped the last cone, and nob
 
 Finally, Mercer formed pairs with candidates and team members. He pointed at Taiga:
 
-"You. Go with Mendez." 
+"You. Go with Mendez."
 
 And indicated the blond guy. Of course.
 
@@ -655,9 +655,9 @@ Mendez was bouncing on his tiptoes when Taiga approached. He pointed at him.
 
 Taiga didn't expect that. He frowned.
 
-“You remember my bag?”
+"You remember my bag?"
 
-“Apparently. That's weird now that I say it out loud.”
+"Apparently. That's weird now that I say it out loud."
 
 Taiga blinked.
 
@@ -667,7 +667,7 @@ Annoying.
 
 "It made me realize that I had a chance after all."
 
-Mendez laughed. 
+Mendez laughed.
 
 "Sorry you had to see that! I'm usually not that bad, I swear."
 
@@ -682,23 +682,23 @@ Leo positioned himself in front of two cones they were using as a goal.
 "No promises."
 
 Taiga had the ball. He slowly approached him. Leo didn't move.
-Taiga tried to move left, but Leo immediately followed. 
-Then right. Leo was still there. 
+Taiga tried to move left, but Leo immediately followed.
+Then right. Leo was still there.
 Eventually Taiga got impatient and tried to force his way on the right again.
 He tried to accelerate past him, but Leo got a foot to it as soon as he committed.
 Taiga turned. Leo was standing there with the ball under his right foot.
 
 "What the-"
 
-“That first cut was good. You had me leaning for a second, but your second touch got a little too far ahead of you, so I could reach it.”
+"That first cut was good. You had me leaning for a second, but your second touch got a little too far ahead of you, so I could reach it."
 
 Very annoying.
 Leo passed the ball to Taiga.
 
 "Keep the ball closer after the cut."
 
-He tried again. 
-And again. 
+He tried again.
+And again.
 Somehow, Leo always seemed to know when Taiga was about to commit.
 
 "Your body talks too much," he said.
@@ -710,7 +710,7 @@ Leo stopped. Then laughed.
 "Heh, fair enough. Anyway, try not to move your body before you move the ball."
 
 Taiga inhaled. He was right. That made it worse.
-He tried again. 
+He tried again.
 He approached faster this time. Then his body went to the left for an instant. The instant Leo followed, Taiga cut the ball to the right. Leo smiled and tried to recover. Taiga shielded the ball with his body, and for a few steps, it worked.
 Then, as Taiga turned to shoot, Leo managed to get a toe in, and the ball disappeared again.
 
@@ -722,7 +722,7 @@ Leo was laughing, ball under his foot.
 
 "But you almost got me! I honestly wasn't expecting that."
 
-Taiga caught Mercer out of the corner of his eye and glanced toward him. He was writing something on the clipboard. 
+Taiga caught Mercer out of the corner of his eye and glanced toward him. He was writing something on the clipboard.
 
 "You still took the ball."
 
@@ -740,8 +740,8 @@ Leo walked past him.
 
 Again.
 
-Stupid consolation bullshit that means nothing. 
-He had objectively done bad. He didn't need encouragement from an annoying brat who had just beaten him repeatedly. 
+Stupid consolation bullshit that means nothing.
+He had objectively done bad. He didn't need encouragement from an annoying brat who had just beaten him repeatedly.
 
 Taiga inhaled and turned towards Leo, but before he could say anything, Leo raised his hands.
 
@@ -754,7 +754,7 @@ Leo smiled and unmuted himself almost instantly.
 "Anyway, you got a name or should I just call you Mr. Angry Guy?"
 
 Taiga looked at him.
-The guy had some nerve. 
+The guy had some nerve.
 
 "Taiga."
 
@@ -770,7 +770,7 @@ Very, very annoying.
 ---
 Friday morning, Taiga was walking towards the University Center. He had just refreshed the portal for the fourth time: still nothing.
 
-What was the point anyway? He sucked at almost everything. 
+What was the point anyway? He sucked at almost everything.
 He decided not to check it again before the scholarship reception.
 
 Ten minutes later, he was crossing Central Park. He saw a couple of students looking at a phone, both visibly disappointed.
@@ -794,16 +794,16 @@ After another couple of minutes, his phone buzzed: Camp Buddy group chat.
 
 **Yoichi:** probably for the dumbass club
 
-Taiga typed: 
+Taiga typed:
 
 didn't make it
 
 Then he deleted it.
 
-no point in checking 
+no point in checking
 
 He deleted it again.
-He took a deep breath. 
+He took a deep breath.
 Fine. If he had to provide evidence, it might as well be official.
 
 He refreshed the portal once again: the list was up. He scrolled to the top:
@@ -820,7 +820,7 @@ Then beneath:
 
 **Second phase will take place Monday afternoon at 16:00**
 
-His heart pounded hard. 
+His heart pounded hard.
 Another notification appeared on top of his screen.
 
 **Keitaro:** well?
@@ -831,11 +831,11 @@ Taiga clicked on it. His fingers shook slightly.
 
 Send. The response was immediate.
 
-**Keitaro:** I KNEW IT\!\!\!\!\!\! ❤️❤️❤️
+**Keitaro:** I KNEW IT!!!!!! ❤️❤️❤️
 
 **Hiro:** LETS FUCKING GOOOOOO
 
-**Natsumi:** Congratulations, Taiga\!\! That's amazing.
+**Natsumi:** Congratulations, Taiga!! That's amazing.
 
 **Hunter:** Nice work :) seriously, you should be proud of yourself
 
