@@ -647,7 +647,7 @@ And indicated the blond guy. Of course.
 
 Up close, he looked around Taiga's age.
 His face was surprisingly gentle. Soft features, warm eyes, an easy smile.
-His skin was warm brown, darker than most of the guys around him, and the blond hair made the contrast even sharper. The hair was messy enough that it looked intentional.
+His skin was warm brown, darker than most of the guys around him. Against it, the blond and messy hair stood out even more.
 
 Mendez was bouncing on his tiptoes when Taiga approached. He pointed at him.
 
