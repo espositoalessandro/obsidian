@@ -70,7 +70,7 @@ Taiga glanced toward Caleb again. The crowd had grown around him. Three people w
 
 “You have no idea.”
 
-Suddenly, another voice came from behind him. Familiar and loud enough to make Taiga regret leaving his room even more.
+Another voice came from behind him. Familiar and loud enough to make Taiga regret leaving his room even more.
 
 "Mr. AG!"
 
@@ -78,7 +78,7 @@ Taiga closed his eyes and exhaled. Then he said without turning,
 
 "I told you. You're not calling me like that."
 
-Leo suddenly appeared in his field of view. Taiga was taken aback for a second.
+Leo appeared in his field of view. Taiga was taken aback for a second.
 It was weird seeing him off the pitch, out of his soccer uniform.
 
 He was wearing a loose white zipped hoodie on a black tank top. A small golden pendant shaped like the outline of a sun hung from a red cord around his neck. He wore white shorts.
@@ -147,7 +147,7 @@ Leo grinned.
 
 "But that means—"
 
-A cheer erupted from the other side of the room. Someone had started a drinking game. Everybody suddenly began shouting.
+A cheer erupted from the other side of the room. Someone had started a drinking game. Everybody began shouting.
 Taiga winced. He saw Caleb visibly stiffening. Tiny movement. Caleb's shoulders rose. He looked toward the speaker. Then toward the hallway.
 
 Taiga waited another twenty seconds, then he put his cup down. 
@@ -210,7 +210,7 @@ They reached the third floor. Caleb stopped outside their door.
 
 “Thank you.”
 
-Taiga immediately felt uncomfortable.
+Taiga felt uncomfortable.
 
 “You don't need to make it a thing.”
 
@@ -311,7 +311,7 @@ When they reached the stairs, Nora headed toward the residence hall. Taiga had h
 
 "How about lunch? Tomorrow at one."
 
-Taiga stopped. His reflex arrived immediately.
+Taiga stopped. His reflex arrived.
 No. 
 He forced himself to check his schedule.
 
@@ -370,7 +370,7 @@ Taiga understood that part.
 
 Unfortunately, understanding instructions before the whistle and understanding them while eight people moved at the same time were apparently different skills.
 
-Romero received with his back to goal. Taiga went immediately and tried to steal the ball, but Romero shifted it away and left him behind.
+Romero received with his back to goal. Taiga went for the ball and tried to steal it, but Romero shifted it away and left him behind.
 
 "Akatora."
 
@@ -424,7 +424,7 @@ Then Price received, but his touch got away from him. Taiga pressed a second too
 
 "Fuck."
 
-Taiga immediately turned and chased. Price passed, Cole shot: goal.
+Taiga turned and chased. Price passed, Cole shot: goal.
 Taiga put his hands on his hips and exhaled. Cole passed beside him.
 
 "Don't chase a bad touch."
@@ -443,7 +443,7 @@ He kicked at the grass.
 “I know.”
 
 Mercer didn't answer. That was somehow worse. Taiga bit his lip and reset.
-The next repetition was safe again. On the one after that, Taiga was late. He immediately chased Price, shoulder to shoulder. He saw the ball and tried to get a foot to it, but Price pulled it away. Taiga's momentum carried him past, and all he could do was turn in time to see Price score again.
+The next repetition was safe again. On the one after that, Taiga was late. He chased Price, shoulder to shoulder. He saw the ball and tried to get a foot to it, but Price pulled it away. Taiga's momentum carried him past, and all he could do was turn in time to see Price score again.
 
 Taiga bit the inside of his cheek until it almost hurt.
 
@@ -465,7 +465,7 @@ Mercer pointed back onto the pitch.
 Easy for him to say.
 Taiga reset.
 
-Again, the attacker received. Taiga moved immediately. Price turned and faced him. Taiga hesitated just long enough to let him through.
+Again, the attacker received. Taiga closed him down. Price turned and faced him. Taiga hesitated just long enough to let him through.
 Gone.
 Evan intercepted the pass before it reached the goal.
 
@@ -506,7 +506,7 @@ Taiga could hear his pulse.
 "Can you worry about your fucking game?"
 
 His group went silent. Evan looked taken aback.
-Taiga knew immediately that he'd crossed a line. He hated himself for it just as quickly.
+Taiga knew that he'd crossed a line. He hated himself for it just as quickly.
 
 Mercer's whistle followed.
 
@@ -524,7 +524,7 @@ Taiga's stomach dropped.
 
 Everything else disappeared from his vision. There was only Mercer pointing at the bench.
 Taiga walked off as if he were heading into a courtroom.
-Mercer didn't come over. He immediately restarted the drill.
+Mercer didn't come over. He restarted the drill.
 
 "Play."
 
@@ -610,7 +610,7 @@ Taiga nodded and lowered his head.
 
 "You want to play here?"
 
-Taiga looked up immediately.
+Taiga looked up.
 
 "Yes."
 
@@ -1084,12 +1084,12 @@ For every one of them, the whole home section of the bleachers cheered vigorousl
 Taiga noticed that when Leo got called, people cheered louder.
 The speaker ended with Price and proceeded with the away team.
 
-Teams took positions on the pitch. Taiga's eyes immediately found Evan.
+Teams took positions on the pitch. Taiga's eyes found Evan first.
 He played the same position, so that seemed like the obvious place to start.
 
 Finally, the referee blew his whistle and the match began.
 
-St. Vincent pressed immediately. Every pass backward brought another white shirt forward. For the first few minutes, Apollo barely got the ball out of their own half.
+St. Vincent pressed from kickoff. Every pass backward brought another white shirt forward. For the first few minutes, Apollo barely got the ball out of their own half.
 
 Taiga tried to watch Evan rather than the ball, but it turned out to be much harder than expected. His attention kept trying to follow whoever had possession.
 He forced it back.
@@ -1106,7 +1106,7 @@ The St. Vincent fullback followed and Evan took one touch, returning the ball to
 What?
 That was it?
 
-Aaron immediately carried forward into the space Evan had just left.
+Aaron carried forward into the space Evan had just left.
 
 Taiga leaned forward. Why did Aaron-
 
@@ -1138,11 +1138,11 @@ His attention shifted to Enzo, the other winger.
 St. Vincent had just broken from a corner.
 
 Ellis, the right fullback, was caught high. Their winger took off into the space behind him.
-Enzo turned, did not run immediately. Scott immediately shouted from the goal.
+Enzo turned, did not run immediately. Scott shouted from the goal.
 
 "ENZO! MOVE YOUR ASS!"
 
-Enzo immediately sprinted at full speed, trying to catch him, but didn't keep chasing for long.
+Enzo broke into a full sprint, trying to catch him, but didn't keep chasing for long.
 Taiga would have probably kept going.
 
 *Defensive effort*
@@ -1175,10 +1175,10 @@ Ridiculous sport.
 Around the 36th minute, Leo received between two St. Vincent midfielders.
 He looked left before the ball reached him. 
 One touch to Evan, who was wide. 
-The fullback immediately moved toward him.
-Evan passed back to Aaron and immediately stepped inside. St. Vincent fullback followed him.
+The fullback moved toward him.
+Evan passed back to Aaron and stepped inside. St. Vincent fullback followed him.
 
-Taiga saw it immediately: space. 
+Taiga saw it this time: space. 
 
 Aaron ran into the now-open lane in front of him. He reached the line and crossed. Price met it with a header. Goal.
 
