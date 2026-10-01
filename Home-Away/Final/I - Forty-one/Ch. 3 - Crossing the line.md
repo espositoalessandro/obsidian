@@ -1122,7 +1122,7 @@ A few minutes later, Evan received again and this time the fullback gave him spa
 Taiga expected him to run but Evan didn't. Instead he passed inside to Leo, then he stayed where he was.
 Taiga narrowed his eyes. There was grass behind the fullback. Evan had enough space.
 
-Leo turned, switched the ball to the other side and Apollo attacked through Rosario instead.
+Leo turned, switched the ball to the other side and Apollo attacked through Enzo instead.
 
 Taiga, meanwhile, kept watching Evan.
 He jogged inward. Stopped. Drifted wide again. 
@@ -1184,7 +1184,7 @@ Aaron ran into the now-open lane in front of him. He reached the line and crosse
 
 The stadium erupted, Apollo players ran toward the corner. Price grabbed Bennett around the shoulders. Leo arrived from behind. Evan joined a second later.
 
-Taiga laughed at himself for how blind he had been. 
+Taiga laughed at himself.
 
 St. Vincent equalized in the second half. In the next five minutes, Apollo responded badly: rushed passes, Price complained about service, Enzo chased a center-back too far and had to sprint back.
 
@@ -1192,14 +1192,13 @@ Taiga watched Evan again.
 At this moment, Taiga would have chased everything that moved in front of his eyes.
 Evan was calm. He actually slowed down, playing even more carefully.
 If he ran, it was because it was really worth it. If he committed, he did it only when he was certain.
-Yeah, that was something Taiga had to work on.
 
 He shifted his attention to other players. He locked automatically on Leo for a few minutes.
 Taiga never actually focused on him, but now that he was looking, Leo was a real pain in the ass.
 He was capable of turning almost instantly. The ball never went more than thirty fucking centimeters from his feet. His head going up and down constantly, always scanning.
 He took on defenders one-on-one whenever he could, and actually won most of them. 
 
-But Taiga now managed to see more than just technique.
+But there was more.
 He constantly moved up and down the field. Giving both midfield and attack space and numbers. Most of his job still happened when he didn't have the ball.
 
 Yeah, Leo was good. Really good. Also annoying.
