@@ -715,4 +715,4 @@ A shampoo bottle came flying over the stall and bounced off Evan's shoulder.
 “Asshole.”
 
 Evan laughed and walked away.
-Taiga shut off the water, then went dressed and left before his brain found anything else to file.
+Taiga shut off the water, then went dressed and left before his brain found any other useless information to file.
