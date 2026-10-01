@@ -3,16 +3,15 @@
 ---
 ### Chapter 1 - The mistake
 
+"Final stop: Olympus University."
+
 The bus doors opened onto a parking lot packed with families, luggage and cars that probably cost more than his house.
 
 Beyond them stood the entrance to Olympus University.
 
-White stone. Iron gates. Fountains. Actual freaking statues.
-
-He adjusted the duffel on his shoulder and walked around the side of the bus to retrieve his suitcase.
-
-Of course there were statues.
-And above all of it, bells were ringing from the stone tower somewhere on campus. He stopped on the pavement and stared.
+White stone. Iron gates. Fountains. Actual statues.
+And above all of it, bells were ringing from the stone tower somewhere on campus. 
+Taiga stopped on the pavement and stared.
 
 Everything was fucking huge and pointlessly fancy.
 
@@ -44,25 +43,21 @@ Taiga could already feel the familiar heat climbing to his head.
 Why can't people just look where they're going?
 
 He took a small breath.
-No.
 
 "Yeah."
 
 Then he turned and continued.
 There. Day one and he almost lost it to a random guy who just bumped him. Great start.
 
-Maybe once he wouldn't have stopped. 
-That was a poor consolation. 
-Then again, he didn't expect Olympus University to hit all his senses at once.
+Apparently, Olympus had decided to attack all his senses at once.
 
 He took another deep breath and moved on.
 
----
-He reached the Residential Zone. He checked the Olympus app for his room.
+He reached the Residential Zone, then he checked the Olympus app for his room.
 
 Room 317.
 
-His room was on the third floor. Of course it was. The elevator had a handwritten **OUT OF SERVICE — WE'RE SORRY!** sign taped over the buttons.
+His room was on the third floor. The elevator had a handwritten **OUT OF SERVICE — WE'RE SORRY!** sign taped over the buttons.
 
 Taiga stared at it.
 
@@ -93,18 +88,18 @@ Room 317 was halfway down the corridor. Two names were printed beside the door.
 **AKATORA, TAIGA**
 **MORRISON, CALEB**
 
-Taiga already knew who his roommate was. The application form included a housing questionnaire with answer choices vaguer than the questions.
+Taiga already knew who his roommate was. The application form included a housing questionnaire.
 Still, seeing the name written there made the arrangement more real. He stepped inside.
 The room was small. Better than expected, somehow. Two beds, two desks, two wardrobes and a window over the quad.
 
-For a moment he stood there with his suitcase upright beside him. The room was nothing like the cabin he was used to. Too different.
+For a moment he stood there with his suitcase upright beside him.
+
+The room was nothing like the cabin he was used to. Too different.
 No wood creaking. No birds chirping outside. No bunk beds.
 No annoying idiot—
 
 Taiga's phone buzzed.
 Video call from Keitaro. Didn't take long.
-
-He answered.
 
 "Hey."
 
@@ -178,7 +173,7 @@ Hiro pointed at the screen. "Fine. Eat something first, then report hot college 
 
 Keitaro laughed and added:
 
-"Also find the laundry room ASAP. Last year, Hiro wore the same shirt three days."
+"Also find the laundry room ASAP. Last year, Hiro wore the same shirt three days because he couldn't find it."
 
 Hiro shouted, "IT WAS CLEAN!"
 
@@ -206,6 +201,7 @@ He locked the phone before Hiro could answer.
 The room was still almost empty and the corridor was still loud, but for several seconds Taiga smiled anyway.
 
 ---
+
 Taiga was still in the middle of unpacking when he heard the door open.
 
 A tall guy appeared in the doorway. Short dark hair, square glasses, an impressive poker face.
@@ -646,7 +642,7 @@ Finally, Mercer formed pairs with candidates and team members. He pointed at Tai
 
 "You. Go with Mendez."
 
-And indicated the blond guy. Of course.
+And indicated the blond guy.
 
 Up close, he looked around Taiga's age.
 His face was surprisingly gentle: soft features, warm eyes, an easy smile.
