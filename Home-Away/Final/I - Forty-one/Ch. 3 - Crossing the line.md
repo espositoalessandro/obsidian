@@ -650,7 +650,7 @@ Taiga looked up. Evan was grinning.
 Taiga smiled too and raised a middle finger. Evan flipped him off in return.
 Men were simple sometimes.
 
-The showers at Olympus were arranged in two rows of individual stalls facing each other across a tiled aisle. Frosted glass panels along the sides obscured most of a person, provided you weren't standing too close. The stall doors only reached shoulder height.
+The showers at Olympus were arranged in two rows of individual stalls facing each other across a tiled aisle. Frosted glass panels along the sides blurred most details unless someone stood too close. The stall doors only reached shoulder height.
 Taiga preferred the far end. Less traffic.
 
 Today he was halfway through rinsing shampoo from his hair when the stall opposite opened. Taiga looked up automatically to see Leo stepping in with a towel around his waist.
