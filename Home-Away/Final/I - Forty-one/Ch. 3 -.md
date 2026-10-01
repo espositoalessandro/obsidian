@@ -672,7 +672,8 @@ Not big. Just shaped annoyingly well.
 Taiga blinked and looked away.
 
 What the heck? Naked men weren't new to him. Camp showers were way less private than these. And Yoichi and Aiden were totally incapable of shame.
-Yet his brain had decided to file this new information anyway. Leo Mendez. Nice ass.
+Yet his brain had decided to file this new information anyway.
+Leo Mendez. Nice ass.
 Nice?
 Was that opinion really necessary?
 
@@ -716,3 +717,6 @@ A shampoo bottle came flying over the stall and bounced off Evan's shoulder.
 
 Evan laughed and walked away.
 Taiga shut off the water, got dressed and left before his brain found any other useless information to file.
+
+---
+
