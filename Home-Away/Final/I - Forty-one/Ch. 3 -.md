@@ -671,9 +671,9 @@ What instead caught most of his attention, were his freaking round cheeks.
 Taiga blinked and looked away.
 
 What the heck? Naked men weren't something new for him. Camp showers were way less private than these ones. And Yoichi and Aiden were totally incapable of shame. 
-Yet his brain decided to file this new information anyways. Leo Mendez. Firm ass. Round cheeks.
-- VARIATION:
-Yet his brain decided to assign an opinionated ass to Leo's face.
+Yet his brain decided to file this new information anyways. Leo Mendez. Round cheeks. Nice ass.
+Nice?
+Was the opinion really necessary?
 
 "Hey AG."
 
@@ -681,5 +681,37 @@ Taiga closed his eyes.
 
 "What."
 
-""
+"You all right? Mercer didn't bury you under the pitch, did he?"
 
+“I survived.”
+
+“Good. I was going to say he only does the public executions on Thursdays.”
+
+Taiga snorted. Evan entered the aisle.
+
+“Hey Leo\!”
+
+“What?”
+
+“Are you still going out with Mia tonight?”
+
+Taiga kept rinsing his hair. Leo answered over the water.
+
+"I guess? She has lab until seven."
+
+"Ohhh, she's leaving you hanging till the end, eh?"
+
+"What? We just said maybe if she finish lab in time."
+
+"Typical girl tactics. Never say directly yes. Always leave doubt."
+
+"Fuck off."
+
+"Come on! Dinner? Just the two of you? I'm not implying bu-"
+
+A shampoo bottle came flying over the stall and bounced off Evan's shoulder.
+
+“Asshole.”
+
+Evan laughed and walked away.
+Taiga shut off the water, then went dressed and left before his brain found anything else to file.
