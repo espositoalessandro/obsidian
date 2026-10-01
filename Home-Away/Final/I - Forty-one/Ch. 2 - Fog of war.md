@@ -1,6 +1,6 @@
 ### Chapter 2 - Fog of war
 
-By Monday morning, Taiga had discovered that Caleb Morrison owned six alarms. Not six alarms set on one phone. Six separate alarms. One on his phone. One on his watch. One on the little digital clock beside his bed. One on his laptop. One on some kind of smart speaker that Taiga hadn't realized was connected to anything. And, inexplicably, one physical alarm clock that looked like it had survived the Cold War.
+By Monday morning, Taiga had discovered that Caleb Morrison owned six alarms. Not six alarms set on one phone. Six separate alarms. One on his phone. One on his watch. One on the little digital clock beside his bed. One on his laptop. One on some kind of smart speaker and an actual physical alarm clock. That was the worst one.
 
 At 6:30, all of them went off within approximately twelve seconds of one another. Taiga sat upright.
 
@@ -119,9 +119,7 @@ Calculus was familiar enough that he could follow without feeling like everybody
 
 Then there was Chemistry.
 
-Professor Hassan started with measurements, significant figures and enough rules about units to make Taiga wonder how humanity had managed to discover anything before inventing spreadsheets.
-
-Still, he liked the logic of it: Do something, measure what happened, work out why.
+Professor Hassan started with measurements, significant figures and rules. He liked the logic of it: Do something, measure what happened, work out why.
 By lunchtime, his notebook already looked more organized than the one from Political Institutions.
 
 ---
@@ -535,7 +533,7 @@ Taiga smiled faintly. The campus still felt too big and too loud, but one other 
 
 The following morning started with Political Institutions again.
 
-Taiga arrived eight minutes early and took the same seat as Monday. Third row from the back. Near enough to see. Far enough that nobody would mistake his existence for enthusiasm.
+Taiga arrived eight minutes early and took the same seat as Monday. Third row from the back. Near enough to see. Far enough to be ignored.
 
 The girl who had sat beside him last time arrived a minute later.
 
@@ -832,7 +830,8 @@ If.
 Taiga took the clothes. The shirt had his surname printed across the back. He paused. Only briefly. Then folded it into his bag.
 It was just equipment.
 
-Five minutes later he was standing in the locker room surrounded by approximately twenty men who had apparently never experienced embarrassment in their lives. Shirts came off. Shorts changed. Someone was playing music from a phone.
+Five minutes later he was standing in the locker room surrounded by approximately twenty men. Shirts came off. Shorts changed. Someone was playing music from a phone. 
+Apparently, embarrassment wasn't a thing in this locker.
 
 Near the middle benches, a guy Taiga recognized as Enzo was arguing about whether a woman named Jenna had actually broken up with somebody named Marcus. Taiga learned more about Marcus's relationship in ninety seconds than he wanted to know about anybody.
 

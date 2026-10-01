@@ -351,7 +351,7 @@ Orientation began at three. Taiga considered skipping it. Then remembered the sc
 **Recipients are expected to participate fully in first-year orientation and academic advising requirements.**
 
 Expected. Such a polite word.
-The main auditorium contained what felt like half the population of a small country. Taiga chose a seat near the back and immediately learned that somebody behind him had brought a bag of hard candy in the loudest wrapper ever manufactured. The university president spoke. Then the dean. Then an alumnus whose biography included three companies, two foundations and a speech about "failing forward".
+The main auditorium was packing the whole campus. Taiga chose a seat near the back. The university president spoke. Then the dean. Then an alumnus whose biography included three companies, two foundations and a speech about "failing forward".
 
 The student council president took over. Taiga looked at him. He had to be around the same age, although seeing a guy his age wearing a full suit and speaking like a freaking CEO made him slightly uncomfortable.
 
@@ -368,10 +368,10 @@ He tapped the last one.
 Taiga winced. "No."
 
 The student beside him looked over. Taiga lowered his phone. Applause erupted. Everyone stood. Taiga stood too.
-Apparently university involved pretending you knew what was happening until eventually somebody gave you a degree. Maybe he'd fit in after all.
+University was going to be hard.
 
 ---
-Taiga was walking across campus, frantically zooming in and out on the map on his phone. Whoever designed the Olympus app had a very personal interpretation of geography.
+Taiga was walking across campus, frantically zooming in and out on the map on his phone. Whoever designed the Olympus app apparently had no idea how distances work.
 The position marker finally snapped onto a route, and Taiga realized he was going the wrong way.
 Great.
 He turned to go back, when he heard a whistle and someone shouting, then a laugh. He looked up and realized he was wandering into the Sports Zone.
@@ -447,7 +447,7 @@ He immediately felt stupid for doing that.
 
 "No."
 
-It was nine-thirty that evening. Taiga sat on his bed with his back against the wall, laptop open across his thighs. Keitaro occupied one corner of the screen. Hiro was in the shower, which meant the conversation was temporarily survivable. Caleb was outside on his phone.
+It was nine-thirty that evening. Taiga sat on his bed with his back against the wall, laptop open across his thighs. Keitaro occupied one corner of the screen while Hiro was in the shower. Caleb was outside on his phone.
 Taiga regretted mentioning the soccer sign approximately three seconds after mentioning it.
 
 "I didn't say join the team," Keitaro said. "Just go to the tryouts. Give it a shot."
@@ -483,7 +483,7 @@ Keitaro frowned.
 "You know. The whole scholarship shit."
 
 There. He said it.
-Outside, campus lights cut across the courtyard. Students moved between buildings with the confidence of people who had apparently been born knowing where everything was.
+Outside, campus lights cut across the courtyard.
 
 "You know the people here?" Taiga said. "National competitions. Research programs. Debate. One guy started a nonprofit at sixteen. The Student Council president is my age and talks like he owns a corporation."
 

@@ -624,7 +624,7 @@ Mercer pointed at the field again.
 
 ---
 
-The locker room after training smelled like sweat, wet grass and approximately eighteen different deodorants fighting for dominance.
+The locker room after training smelled like sweat, wet grass and approximately eighteen different deodorants.
 
 Taiga sat on the bench pulling off his socks. He swore when his right calf cramped.
 
@@ -650,7 +650,7 @@ Taiga looked up. Evan was grinning.
 Taiga smiled too and raised a middle finger. Evan flipped him off in return.
 Men were simple sometimes.
 
-The showers at Olympus were arranged in two rows of individual stalls facing each other across a tiled aisle. Frosted glass panels along the sides covered most of a person and somehow still managed to make privacy feel theoretical. The stall doors only reached shoulder height.
+The showers at Olympus were arranged in two rows of individual stalls facing each other across a tiled aisle. Frosted glass panels along the sides covered most of a person, as long as you keep distant form it. The stall doors only reached shoulder height.
 Taiga preferred the far end. Less traffic.
 
 Today he was halfway through rinsing shampoo from his hair when the stall opposite opened. Taiga looked up automatically to see Leo stepping in with a towel around his waist.
