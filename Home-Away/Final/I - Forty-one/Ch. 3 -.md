@@ -636,7 +636,7 @@ Aaron looked over.
 
 "Perfect."
 
-"Doesn't look like perfect."
+"Doesn't look perfect."
 
 "Fuck off."
 
@@ -672,7 +672,7 @@ Not big. Just shaped annoyingly well.
 Taiga blinked and looked away.
 
 What the heck? Naked men weren't new to him. Camp showers were way less private than these. And Yoichi and Aiden were totally incapable of shame.
-Yet his brain had decided to file this new information anyway. Leo Mendez. Ass shaped annoyingly well.
+Yet his brain had decided to file this new information anyway. Leo Mendez. Apparently that was something he knew now.
 Was that opinion really necessary?
 
 "Hey AG."
