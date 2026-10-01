@@ -722,6 +722,34 @@ Unlike Scott, he is socially comfortable.
 
 ---
 
+## Taiga mentorship
+
+Evan becomes Taiga's **informal senior mentor** within Apollo.
+
+This is not an assigned role and should not turn Evan into a substitute coach. The relationship grows because:
+
+- Evan and Taiga play the same primary position on the **left wing**;
+- Evan is the senior player whose minutes and role Taiga is gradually growing toward;
+- Evan is experienced enough to recognize which of Taiga's problems are normal freshman problems;
+- Taiga is much more likely to accept practical advice from a teammate who has actually done the job than from someone trying to manage his emotions.
+
+Evan can teach Taiga things Mercer cannot teach in the same way:
+
+- how to survive a bad training session without treating it as a verdict;
+- how to interpret criticism from coaches and teammates;
+- how to recover after making a mistake during a match;
+- how to understand winger-specific movement, timing and defensive responsibility;
+- how Apollo's locker-room culture actually works;
+- when to compete for a place and when to learn from the player currently ahead of him.
+
+The mentorship should remain **informal, teasing and behavior-based**. Evan does not announce that he is mentoring Taiga. He corrects him, gives him context, makes fun of him, occasionally checks on him, and keeps treating him like somebody who is expected to improve.
+
+Taiga should not immediately recognize Evan as a mentor either. Their early friction is useful: Taiga initially experiences Evan's advice as interference. Over time, the same kind of advice becomes one of the few forms of correction he can receive without automatically bristling.
+
+Because Evan is graduating, the relationship has a natural endpoint. Taiga inheriting **#11** is therefore not simply a vacant-number reassignment. It represents the role Evan has been preparing him to occupy, whether either of them ever says that explicitly.
+
+---
+
 ## Sentence shape
 
 Use:
