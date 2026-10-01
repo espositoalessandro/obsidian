@@ -987,7 +987,7 @@ Sofia replied:
 
 Sofia laughed and went back to the bench.
 
-During the men's warm-up, Taiga watched the field. Leo was playing right wing. There was a difference between seeing him in training and seeing him in a match. Training showed skill. Matches showed speed. Not physical speed. Decision speed. Leo seemed to know where the ball would go before it got there. He checked his shoulder constantly. Moved before defenders reacted. Changed pace. Stopped. Started. Occupied spaces that looked pointless until somebody passed into them.
+During the men's warm-up, Taiga watched the field. Leo started behind Price, but he kept drifting toward the right instead of staying in one place. There was a difference between seeing him in training and seeing him in a match. Training showed skill. Matches showed speed. Not physical speed. Decision speed. Leo seemed to know where the ball would go before it got there. He checked his shoulder constantly. Moved before defenders reacted. Changed pace. Stopped. Started. Occupied spaces that looked pointless until somebody passed into them.
 
 Taiga leaned forward without realizing. Evan sat beside him.
 
@@ -1023,7 +1023,7 @@ Gav was different. He rarely shouted unless the ball demanded it. Mostly he poin
 
 Olympus adapted. Taiga watched patterns now. Not players. Or tried. It was easier from above. The whole pitch was visible. He could see lines appear and collapse.
 
-The game slowed when viewed from a distance. Leo got the ball near the sideline. Defender close. Taiga expected him to attack. Instead Leo passed backward immediately. Moved inside. Received again. Two defenders shifted. Leo laid it off. Jonah Ellis, the right-back, overlapped outside him. Cross. Jordan Price met it at the near post. Goal.
+The game slowed when viewed from a distance. Leo got the ball near the right sideline. Defender close. Taiga expected him to attack. Instead Leo passed backward immediately and moved inside. The return came with two defenders closing. Leo took one short touch across his body, slowed for half a second, and both of them shifted with him. Then he laid it off into the space they'd left outside. Jonah Ellis, the right-back, was already overlapping into it. Cross. Jordan Price met it at the near post. Goal.
 
 The crowd exploded. Taiga stood without realizing. Aaron grabbed his shoulders.
 
