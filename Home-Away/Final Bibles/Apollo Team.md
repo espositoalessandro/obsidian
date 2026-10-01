@@ -74,6 +74,42 @@ This is especially important for Leo: he often occupies the role traditionally c
 - **At the end of the year, Evan graduates and Taiga inherits #11.** This is Taiga's earned senior number and a payoff to his progression as Apollo's left winger.
 - Do not give another Apollo player one of these locked numbers before the planned number transitions.
 
+### Leo — playing identity
+
+Leo's football should draw from the **creative, roaming No. 10 / right-sided playmaker** tradition rather than from a conventional touchline winger.
+
+He is not meant to be an implausible college-level copy of Lionel Messi. The useful reference is the **logic of the play**:
+
+- exceptional close control in small spaces;
+- frequent shoulder checks before receiving;
+- receives between midfield and defense whenever possible;
+- starts centrally but naturally drifts into the **right half-space** and, when useful, all the way toward the touchline;
+- changes pace rather than simply sprinting at maximum speed;
+- is comfortable slowing or stopping while he reads the next movement;
+- turns toward goal quickly when the space is available;
+- draws one defender, then sometimes a second, before releasing the ball;
+- uses short combinations, wall passes and quick give-and-goes;
+- carries the ball through pressure when the defense gives him the lane;
+- creates chances by making defenders move before making the pass;
+- can become the scorer himself when defenders keep protecting the pass instead;
+- should often appear to find space **before the reader understands why that space matters**.
+
+His movement should therefore feel different from Taiga's.
+
+**Taiga attacks space. Leo creates it.**
+
+Taiga's natural weapon is directness: acceleration, aggressive runs, attacking a defender or an open channel. Leo is more manipulative. He changes the defender's problem until a channel appears for himself or somebody else.
+
+This distinction should become part of their football chemistry:
+
+- early Taiga may react only after Leo has created the opening;
+- later Taiga recognizes what Leo is doing and starts his run while Leo is still drawing the defender;
+- by the late-season matches, some combinations can happen with almost no verbal coordination.
+
+Do not describe every Leo possession with all of these traits. Pick the one or two visible details that matter to the current action. His intelligence should be **shown through movement and consequence**, not repeatedly explained as tactical genius.
+
+His eventual move from **#24 to #10** should feel like the shirt catching up with the role he has already grown into.
+
 ---
 
 # 2. Vincenzo “Enzo” Delos Reyes
