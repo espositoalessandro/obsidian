@@ -648,7 +648,7 @@ Taiga pressed his thumb into the muscle until it released. Evan walked past with
 
 Taiga looked up. Evan was grinning.
 Taiga smiled too and raised a middle finger. Evan flipped him off in return.
-Apparently, conflict resolved. 
+Men were simple sometimes. 
 
 The showers at Olympus were arranged in two rows of individual stalls facing each other across a tiled aisle. Frosted glass panels along the sides covered most of a person and somehow still managed to make privacy feel theoretical. The stall doors only reached shoulder height.
 Taiga preferred the far end. Less traffic.
@@ -949,7 +949,7 @@ Annoying, as always.
 Taiga unlocked his phone and showed her the email. 
 
 **From: Mercer, Daniel — Apollo Men's Soccer**
-**Subject: Developmental Review
+**Subject: Developmental Progress Notes
 
 *These are the current staff notes. Nothing here is final. Use them.*
 
@@ -1082,7 +1082,7 @@ For every one of them, the whole home section of the bleachers cheered vigorousl
 "Number twenty-seven, Delos Reyes! Number eleven, Cole, Number twenty-four, Mendez!"
 
 Taiga noticed that when Leo got called, people cheered louder.
-The speaker ended with Pierce and proceeded with the away team.
+The speaker ended with Price and proceeded with the away team.
 
 Teams took positions on the pitch. Taiga's eyes immediately found Evan.
 He played the same position, so that seemed like the obvious place to start.
