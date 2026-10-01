@@ -29,9 +29,9 @@ The arch opened onto a gigantic plaza. In the middle stood a statue of some Gree
 
 Strong in mind, strong in body.
 Taiga raised an eyebrow.
+
 Pretentious.
 
-That described almost perfectly what he thought about Olympus.
 He was still looking at the statue when a student suddenly rushed toward the entrance and bumped into him.
 
 "What the fuck, man?"
@@ -49,12 +49,10 @@ No.
 "Yeah."
 
 Then he turned and continued.
-There. Day one and he almost lost it to a random guy who just bumped him.
+There. Day one and he almost lost it to a random guy who just bumped him. Great start.
 
-Great start.
-
-If it weren't for Camp Buddy, Taiga probably wouldn't have stopped himself.
-He just didn't expect Olympus University to hit all his senses at once.
+Maybe once he wouldn't have stopped. 
+That was a poor consolation. Although, he didn't expect Olympus University to hit all his senses at once.
 
 He took another deep breath and moved on.
 
@@ -103,7 +101,8 @@ No wood creaking. No birds chirping outside. No bunk beds.
 No annoying idiot—
 
 Taiga's phone buzzed.
-As if summoned, Keitaro's name appeared on an incoming video call.
+Video call from Keitaro. Didn't take long.
+
 He answered.
 
 "Hey."
@@ -276,8 +275,7 @@ Caleb looked around.
 "Okay."
 
 His dad smiled and left the room, closing the door behind him.
-
-Silence immediately fell over Room 317.
+The room went silent.
 
 Caleb went straight to his bag and opened it. He pulled out a couple of perfectly coiled cables, then opened a drawer and spent a couple of seconds arranging them inside. He did the same with the rest of his chargers.
 
@@ -350,7 +348,7 @@ Orientation began at three. Taiga considered skipping it. Then remembered the sc
 **Recipients are expected to participate fully in first-year orientation and academic advising requirements.**
 
 Expected. Such a polite word.
-The main auditorium was packing the whole campus. Taiga chose a seat near the back. The university president spoke. Then the dean. Then an alumnus whose biography included three companies, two foundations and a speech about "failing forward".
+The main auditorium was probably fitting the whole campus. Taiga chose a seat near the back. The university president spoke. Then the dean. Then an alumnus whose biography included three companies, two foundations and a speech about "failing forward".
 
 The student council president took over. Taiga looked at him. He had to be around Taiga's age. Full suit, perfect posture, talking like a freaking CEO.
 
@@ -608,7 +606,7 @@ He immediately spotted the blond guy again, who was carrying a box with bibs in 
 
 Mendez hurried up and dropped the bibs where the coach asked him, then went back into the storage room.
 
-The coach then approached the candidates. He was tall, with broad shoulders and a bit of a belly. He had a thick mustache and a constant stern look.
+The coach then approached the candidates. Tall, broad shoulder and stern look. The mustache was doing most of the job.
 
 "I'm Mercer. Today we're dividing the first tryout phase into three stages. First, you show me your current physical ability. Then we'll do basic drills. Last, basic one-on-ones. Now warm up."
 
@@ -619,10 +617,11 @@ Then, the physical stage began.
 
 Taiga liked it. It was nothing he hadn't done before: sprints, endurance, coordination. He wasn't the best—some candidates were clearly already athletes—but he also saw others giving up way earlier.
 
-His confidence collapsed as soon as they started with the drills. They started with basic passes. Taiga immediately struggled with receiving and precision. Others did them with little or no effort.
+Drills were a separate matter, though.
+They started with basic passes and Taiga immediately struggled with receiving and precision. Others did them with little or no effort.
 Mercer was holding a clipboard, walking among the candidates. Sometimes he corrected someone; other times, he just wrote something down without commenting.
 
-At some point, he approached Taiga. He could feel something tightening in his stomach.
+At some point, he approached Taiga. He's stomach tightened.
 
 "Before hitting the ball, adjust your positioning first. The other foot stays beside the ball."
 
@@ -649,8 +648,8 @@ Finally, Mercer formed pairs with candidates and team members. He pointed at Tai
 And indicated the blond guy. Of course.
 
 Up close, he looked around Taiga's age.
-His face was surprisingly gentle. Soft features, warm eyes, an easy smile.
-His skin was warm brown, darker than most of the guys around him. Against it, the blond and messy hair stood out even more.
+His face was surprisingly gentle: soft features, warm eyes, an easy smile.
+He had skin was warm brown, darker than most of the guys around him. Against it, the messy blond hair stood out even more.
 
 Mendez was bouncing on his tiptoes when Taiga approached. He pointed at him.
 
