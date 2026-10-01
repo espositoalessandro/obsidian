@@ -704,9 +704,9 @@ Taiga kept rinsing his hair, not his business. Leo answered over the water.
 
 "What? We just said maybe if she finish lab in time."
 
-"Typical girl tactics. Never say directly yes. Always leave doubt."
+"See? This is what I'm talking about. She says maybe, you spend all afternoon thinking about her. Effective."
 
-"Fuck off."
+"Why should I think about her?"
 
 "Come on! Dinner? Just the two of you? I'm not implying bu-"
 
