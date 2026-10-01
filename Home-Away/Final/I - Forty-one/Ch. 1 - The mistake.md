@@ -23,13 +23,12 @@ At the arch, a girl behind a small booth stacked with pamphlets gave him a brigh
 
 Her voice sounded so aggressively warm and fake that Taiga almost considered getting back on the bus. Instead, he nodded and gave her a quick "Thanks." Then he moved on before she could trap him.
 
-He crossed the arch. The asphalt had already given way to light-grey paving stones. A gigantic plaza lay before him, with a large statue at the center: a Greek-looking athletic guy with a spear in one hand and a book in the other. At the base, Latin words were carved into the stone:
+The arch opened onto a gigantic plaza. In the middle stood a statue of some Greek-looking athletic guy with a spear in one hand and a book in the other. At the base, Latin words were carved into the stone:
 
 *Fortis mente, fortis corpore*
 
 Strong in mind, strong in body.
 Taiga raised an eyebrow.
-
 Pretentious.
 
 That described almost perfectly what he thought about Olympus.
@@ -97,7 +96,7 @@ Room 317 was halfway down the corridor. Two names were printed beside the door.
 
 Taiga already knew who his roommate was. The application form included a housing questionnaire with answer choices vaguer than the questions.
 Still, seeing the name written there made the arrangement more real. He stepped inside.
-The room was small, but somehow better than expected: two beds, two desks, two wardrobes and a window over the quad.
+The room was small. Better than expected, somehow. Two beds, two desks, two wardrobes and a window over the quad.
 
 For a moment he stood there with his suitcase upright beside him. The room was nothing like the cabin he was used to. Too different.
 No wood creaking. No birds chirping outside. No bunk beds.
@@ -227,7 +226,7 @@ Taiga gave a short, sarcastic laugh.
 The guy stood there and frowned in confusion.
 Taiga stared at him, and for a couple of seconds nobody said anything.
 
-Then the guy blinked as if he had suddenly understood the absurdity of the implication and awkwardly offered his hand.
+Then the guy blinked and awkwardly offered his hand.
 
 "Caleb. I'm your roommate."
 
@@ -287,7 +286,7 @@ After a while, Caleb said,
 
 "Are you okay with dividing the room into these two sides?"
 
-Taiga turned. Caleb was indicating an imaginary line going from the door to the window in front of it.
+Caleb traced an invisible line from the door to the window.
 
 "Yeah, sure."
 
@@ -322,7 +321,7 @@ Good.
 
 "Uh, no."
 
-Caleb chose the one by the window because, he explained, the overhead light had a faint electrical buzz and daylight made it easier to leave the fluorescent fixture off. Taiga stopped unpacking.
+Caleb chose the desk by the window. The overhead light had a faint electrical buzz, apparently, and daylight meant he could leave it off. Taiga stopped unpacking.
 
 "You can hear that?"
 
@@ -353,7 +352,7 @@ Orientation began at three. Taiga considered skipping it. Then remembered the sc
 Expected. Such a polite word.
 The main auditorium was packing the whole campus. Taiga chose a seat near the back. The university president spoke. Then the dean. Then an alumnus whose biography included three companies, two foundations and a speech about "failing forward".
 
-The student council president took over. Taiga looked at him. He had to be around the same age, although seeing a guy his age wearing a full suit and speaking like a freaking CEO made him slightly uncomfortable.
+The student council president took over. Taiga looked at him. He had to be around Taiga's age. Full suit, perfect posture, talking like a freaking CEO.
 
 "Good morning. I'm Avan Geiserford, president of the Student Council. I extend the university president's welcome, along with my own. The council's job is to ensure that students are always met with Olympus's highest standards in activities, sports, and academics. We expect you to be..."
 
@@ -381,10 +380,11 @@ He found himself under the bleachers of a soccer pitch, right outside a metal ne
 Like everything related to sports at Olympus, the pitch wasn't exactly humble. Lights, scoreboards, enough seats for hundreds of people.
 Definitely different from the sloped pitch he was used to in Camp Buddy.
 
-Taiga approached the net. He had always appreciated sports: running, sweating, competition, strategy, adrenaline, frustration. All things that got his blood moving.
-Although he had played a few times, he wasn't exactly a soccer fan. He didn't watch professional matches, nor did he support any team in particular, but he knew enough to respect the sport itself.
+Taiga approached the net. He had always appreciated sports: running, sweating, competition, strategy, adrenaline, frustration. 
+All things that got his blood moving.
+He wasn't necessarily a soccer fan, though. He'd played a few times at school and at camp, but never seriously.
 
-The players had apparently finished warming up. The coach spoke loudly with a firm voice.
+The players had apparently finished warming up. The coach shouted:
 
 "Okay, enough. Scrimmage next. Take your bibs and get ready."
 
