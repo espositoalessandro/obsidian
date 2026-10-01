@@ -1,91 +1,94 @@
-- **1. Floor party — mild social friction / Caleb observation**  
-    **Source: Draft Ch. 2 – _Provisional_**
-    
-    - Taiga and Caleb attend the floor party.
-    - Nora is there.
-    - As it gets louder, Taiga notices Caleb getting increasingly uncomfortable and looking for an exit.
-    - Taiga invents an excuse so they can leave.
-    - Caleb later points out that Taiga lied for him; Taiga insists he wanted to leave too.
-    - Keep the “mutually beneficial” dynamic.
-    - **Purpose:** opens the chapter with Taiga already participating enough to notice and accommodate someone else, without making Caleb the center of the chapter.
-- **2. Time jump into a more established campus routine**  
-    **Source: Draft Ch. 3 – _Noise_, opening material**
-    
-    - Compress heavily.
-    - No long catalogue of routes/routines because Final Ch. 2 already did that.
-    - Just enough to establish that another week or so has passed and Olympus is becoming ordinary.
-    - Possibly retain Nora now routinely saving him a seat / their academic interaction becoming more natural.
-    - **Purpose:** get us from the immediate aftermath of Ch. 2 into the period where Taiga is genuinely invested.
-- **3. Bad Apollo practice — Taiga snaps at Evan**  
-    **Source: Draft Ch. 3 – _Noise_**
-    
-    - Positioning drill / small-sided game.
-    - Taiga struggles with knowing where to be rather than with the physical execution.
-    - Evan corrects him.
-    - Taiga takes it as criticism, gets increasingly frustrated and eventually snaps at him.
-    - Mercer removes him from the drill.
-    - Evan later explains what he was actually trying to tell him.
-    - Taiga admits he was being a dick and apologizes.
-    - Mercer makes clear that frustration is allowed; making practice worse for everyone isn't.
-    - Taiga chooses to go back in.
-    - **Purpose:** main friction scene. Football matters enough now that being bad at part of it actually hurts.
-- **4. Locker room / shower — first unmistakable physical noticing of Leo**  
-    **Source: Draft Ch. 3 – _Noise_**
-    
-    - Happens naturally after that practice.
-    - Taiga sees Leo naked and looks a little too long.
-    - Keep the observation concrete and Taiga-filtered rather than romantic.
-    - He notices that this feels different from simply knowing another guy looks good.
-    - Aaron asks Leo about **Mia / Friday dinner**.
-    - Taiga immediately tells himself it has nothing to do with him.
-    - **Purpose:** another kind of friction: his own attention is beginning to behave in ways he doesn't particularly want to examine.
-    - Keep this important, but relatively short so the later Draft Ch. 4 attraction material can escalate rather than repeat it.
-- **5. Room argument with Caleb — personal-space friction**  
-    **Source: Draft Ch. 3 – _Noise_**
-    
-    - Taiga comes back already irritated from practice.
-    - Discovers Caleb moved the speakers/fan because of the low-frequency hum.
-    - Taiga gets angry because Caleb touched his things.
-    - Caleb explains why he did it.
-    - Both eventually identify their part in the problem:
-        - Caleb shouldn't have moved Taiga's belongings without asking.
-        - Taiga was already angry and came at him harder than necessary.
-    - They establish the boundary and move on.
-    - **Purpose:** mirrors the Evan conflict in a completely different relationship. Caring about his room as _his space_ means another person's actions there can now genuinely bother him.
-- **6. St. Vincent home match — Taiga watches instead of playing**  
-    **Source: Draft Ch. 3 – _Noise_**
-    
-    - Developmental players watch the first team.
-    - Compress the football considerably.
-    - Main thing Taiga learns: Leo moves wide, takes a defender with him, and creates useful space even without receiving the ball.
-    - Evan helps him understand the basic principle.
-    - **Purpose:** after the earlier practice failure, Taiga starts learning the exact conceptual part of football he struggled with. It also gives him a legitimate reason to watch Leo closely.
-- **7. After the match — invitation + developmental evaluation**  
-    **Source: Draft Ch. 3 – _Noise_**
-    
-    - Apollo wins.
-    - Leo gives Taiga the small “Hey, forty-one” interaction.
-    - Enzo invites everyone out; Taiga declines because it's too many people.
-    - Taiga receives Mercer's developmental note:
-        - strengths: pace, defensive effort, correction response, direct running;
-        - weaknesses: scanning, decision speed, off-ball positioning, emotional control after mistakes.
-    - Evan tells him to read the whole thing before fighting with the bottom half.
-    - **Purpose:** crystallizes the chapter's football conflict into something measurable without resolving it.
-- **8. Ending — Taiga changes how he reads the evaluation**  
-    **Source: Draft Ch. 3 – _Noise_, final scene/concept**
-    
-    - Cut the repeated six-alarm Monday opening.
-    - Cut or heavily reduce the Caleb debrief.
-    - Taiga eventually looks at the evaluation again and **deliberately reads the positives first**.
-    - We can retain a shortened version of the “people have patterns now” idea:
-        - Evan's advice,
-        - Scott's transformation in goal,
-        - Enzo's social performance,
-        - Aaron's behavior,
-        - etc.
-    - Then:
-        - **Leo—**
-        - pause.
-        - Still not something Taiga has figured out.
-    - End around the #41 shirt/bag and the idea that he still doesn't exactly like the number, but doesn't hate it anymore.
-    - **Purpose:** show the effect of the chapter rather than explain it.
+- **1. Floor party — Caleb / Nora / Leo outside football**
+  - **Status: drafted in Final Ch. 3**
+  - Taiga and Caleb attend the floor party.
+  - Nora is there; Leo appears briefly outside the football context.
+  - Taiga notices Caleb reaching his limit once the room gets louder and gets them both out.
+  - Keep the “mutually beneficial” ending.
+  - **Purpose:** opens with Taiga participating socially and already noticing other people's limits without turning the scene sentimental.
+
+- **2. Political Institutions — Nora becomes routine**
+  - **Status: drafted in Final Ch. 3**
+  - Nora saves Taiga a seat again.
+  - Their notebook argument / “coward” exchange shows the friendship becoming habitual without explaining it.
+  - Nora lightly probes his undecided major.
+  - She forces Friday lunch onto his calendar.
+  - **Purpose:** keeps the chapter from becoming football-only and establishes Nora as someone Taiga is beginning to make room for voluntarily.
+
+- **3. Tuesday bad practice — Taiga snaps at Evan**
+  - **Status: drafted in Final Ch. 3**
+  - Positioning / small-sided drill.
+  - Taiga repeatedly misjudges when to press, when to delay and when to hold shape.
+  - He gets it right once, then starts overcorrecting again.
+  - Evan keeps giving normal teammate corrections.
+  - Taiga's frustration builds until he snaps at him.
+  - Mercer pulls him out.
+  - Evan later acknowledges that he could have backed off sooner, while Taiga owns the actual outburst and apologizes.
+  - Mercer makes the boundary explicit: frustration is allowed; ruining other people's practice is not.
+  - Taiga goes back in.
+  - **Purpose:** main chapter climax. Football matters enough now that being bad at part of it genuinely hurts.
+
+- **4. Locker room / shower — first unmistakable physical noticing of Leo**
+  - **Status: drafted in Final Ch. 3**
+  - Taiga and Evan are already back to normal.
+  - Taiga sees Leo naked and looks a little too long.
+  - Keep the noticing concrete and mildly irritating to Taiga rather than romantic.
+  - Leo's body registers as information Taiga did not need to catalogue.
+  - Evan teases Leo about Mia / possible Friday dinner.
+  - Taiga immediately classifies it as none of his business.
+  - **Purpose:** attraction becomes physically specific for the first time, but remains smaller than the stronger Ch. 4 escalation.
+
+- **5. Tuesday room conflict — Caleb / personal-space boundary**
+  - **Status: drafted in Final Ch. 3**
+  - Taiga returns still keyed up from practice.
+  - Caleb has moved Taiga's desk fan because its vibration bothers him.
+  - Taiga is right about the boundary but comes at Caleb harder than necessary.
+  - Caleb explains that he had mentioned the buzz before and assumed Taiga would not care where the fan sat.
+  - Taiga catches himself earlier than he did with Evan.
+  - They agree Caleb will ask before moving Taiga's things.
+  - **Purpose:** echoes the practice conflict in a different relationship, but shows a small improvement in how quickly Taiga repairs.
+
+- **6. Friday morning evaluation email → Friday lunch with Nora**
+  - **New scene**
+  - Mercer / Apollo sends Taiga his developmental notes by email Friday morning rather than handing him anything after a match.
+  - Keep the evaluation concise:
+    - **Positives:** pace; defensive effort; improves quickly with correction; direct running.
+    - **Needs work:** scanning; decision speed; off-ball positioning; emotional control after mistakes.
+  - Taiga immediately gives disproportionate weight to the bottom half, especially the final line.
+  - He carries the evaluation into the Friday lunch Nora already scheduled.
+  - Nora gets the topic out of him and attacks the logic of his interpretation rather than reassuring him emotionally.
+  - She points out that he is treating four strengths as irrelevant and four improvable weaknesses as a verdict.
+  - Taiga admits enough about Tuesday for her to understand why “emotional control” is there.
+  - Do **not** fully resolve the evaluation here. The football terms should still feel abstract to Taiga.
+  - **Purpose:** moves the football problem into a different social setting, pays off the Nora lunch invitation, and gives Nora a meaningful chapter function without making her Taiga's therapist.
+
+- **7. Saturday St. Vincent home match — Taiga watches the notes become visible**
+  - **Source: Draft Ch. 3 – _Noise_, heavily refactored**
+  - Developmental players watch from their designated area.
+  - Aaron is **not** sitting with Taiga; he is an actual first-team player and should be with the squad if selected.
+  - Drop the Sofia material from this chapter for now; the character itself can be reassessed separately.
+  - Do not have Evan sit beside Taiga narrating the game if Evan is playing / with the first team.
+  - Taiga watches with Mercer's notes already in his head:
+    - **scanning:** notices players checking shoulders before receiving;
+    - **decision speed:** sees quick simple choices made before pressure arrives;
+    - **off-ball positioning:** sees movement create space even when the player never receives the ball.
+  - Leo is a natural reference point because he is a winger and Taiga already watches him, but the match should not become “Taiga studies only Leo.”
+  - Preserve the useful Draft concept where Leo moves wide, drags a defender with him and opens an inside lane without touching the ball.
+  - Preserve a simple attacking sequence where a quick pass / movement / overlap produces a goal.
+  - Taiga should work out more of the lesson himself instead of having a senior player explain every beat.
+  - **No Mercer evaluation after the match.**
+  - A very small post-match “Hey, forty-one” / Enzo invitation can survive only if the chapter still needs a social button; it is not structurally required.
+  - **Purpose:** turns Friday's abstract criticism into observable football. Taiga responds to feedback by watching and learning instead of spiraling.
+
+- **Chapter shape / pacing**
+  - Current movement:
+    - **social event → academic/social → football crisis → attraction → room conflict → lunch/social processing → match observation**
+  - Avoid returning to the old rhythm of:
+    - **match → room → training → room**
+  - Cut from this chapter:
+    - Mercer notes after the match;
+    - Caleb/Thai-food evaluation debrief;
+    - Monday alarms/evaluation reread;
+    - Yoichi phone call;
+    - extra training/room cycles;
+    - Sofia match material for now.
+  - Target final length: roughly **5k words**. The chapter can grow from the current ~3.5k while still remaining heavily compressed versus the Draft because the 74/office-hours material and several repetitive room/routine scenes have moved or been cut.
