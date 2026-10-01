@@ -720,7 +720,7 @@ Taiga shut off the water, got dressed and left before his brain found any other 
 
 ---
 
-Taiga was still lost in his own thoughts when he went back to his room. He dropped his bag near the bed. Caleb was reading something on his laptop at his desk. 
+Taiga was still reeling the practice when he went back to his room. He dropped his bag near the bed. Caleb was reading something on his laptop at his desk. 
 He sat at his own and opened the laptop.
 
 Something was wrong.
