@@ -1240,7 +1240,7 @@ Enzo raised his hands.
 
 "Alright, alright."
 
-And followed Evan to the lockers.
+Then followed Evan to the lockers.
 
 Once he dropped the bag in the storage room, he waited for Mercer to come out of the locker room.
 
