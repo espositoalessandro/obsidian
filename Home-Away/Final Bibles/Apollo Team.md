@@ -35,6 +35,36 @@ Leo belongs to the team but is defined separately as co-lead.
 
 Other squad members recur to create team density without requiring equal subplot weight.
 
+## Locked squad numbers and positions
+
+Use this as the **Final-rewrite roster reference** whenever shirts, lineup boards, substitutions, match prose or positional relationships require a number.
+
+The regular first-team shape places **Leo underneath Jordan Price in the central attacking line**, so Leo wears **#10**. The rest of the senior XI uses a deliberately traditional 1–11 mapping that makes the lineup easy to read without turning shirt numbers into tactical exposition.
+
+| No. | Player | Position | Status / note |
+| ---: | --- | --- | --- |
+| **1** | **Scott Stirling** | Goalkeeper (GK) | First-choice goalkeeper; captain |
+| **2** | **Jonah Ellis** | Right-back (RB) | First-team right-back |
+| **3** | **Aaron Bennett** | Left-back (LB) | First-team left-back; Taiga's usual overlap partner on the left |
+| **4** | **Theo Walsh** | Centre-back (CB) | Experienced first-team centre-back |
+| **5** | **Malik Carter** | Centre-back (CB) | First-team centre-back |
+| **6** | **Gav Foster** | Defensive / holding midfielder (DM) | Deepest regular midfielder |
+| **7** | **Vincenzo “Enzo” Delos Reyes** | Right winger (RW) | First-team wide attacker |
+| **8** | **Isaac Romero** | Central midfielder (CM) | Central link between the holding and attacking lines |
+| **9** | **Jordan Price** | Striker (ST) | Starting striker / primary 9 |
+| **10** | **Leo Mendez** | Attacking midfielder / No. 10 (AM) | Plays centrally underneath Price |
+| **11** | **Evan Cole** | Left winger (LW) | Senior first-team left winger; Taiga's main positional competition |
+| **12** | **Nate Kim** | Goalkeeper (GK) | Reserve goalkeeper |
+| **41** | **Taiga Akatora** | Left winger (LW) | Development-roster number; established in Final Chapter 2 |
+
+### Numbering continuity rules
+
+- Treat these as **player squad numbers**, not positions that change whenever the formation changes.
+- **Leo remains #10** even if he moves higher, wider or deeper within a specific phase of play.
+- **Taiga remains #41** through the current first-year rewrite unless a later explicit story event gives him a new senior number.
+- Do not give another Apollo player one of these locked numbers.
+- The recognizable positional spine is: **Scott 1; Ellis 2; Bennett 3; Walsh 4; Carter 5; Gav 6; Enzo 7; Isaac 8; Price 9; Leo 10; Evan 11.**
+
 ---
 
 # 2. Vincenzo “Enzo” Delos Reyes
