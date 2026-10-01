@@ -1056,21 +1056,21 @@ He laughed at himself.
 ___
 
 Saturday's match against St. Vincent University was the first time Taiga watched an actual Apollo match.
-Conference championship had only recently started and this was the second official match of the season.
+The conference season had only recently started and this was the second official match of the season.
 
 Mercer required developmental players to watch the game from the bleachers. 
 
-"Don't follow the ball. Watch where players go. If a team scores, ask yourself why did it work for one what went wrong for the other. Don't assume that everything they do is the right choice. Think about what you would have done in their place."
+"Don't follow the ball. Watch where players go. If a team scores, ask yourself why it worked for one and what went wrong for the other. Don't assume that everything they do is the right choice. Think about what you would have done in their place."
 
 Fine.
 
 "Good morning and welcome to the second official Conference Championship day."
 
-Taiga was startled. Of course there was a speaker. And he also noticed a small space on the central bleachers where a TV troupe had set up giant cameras.
+Taiga was startled. Of course there was a speaker. And he also noticed a small space on the central bleachers where a TV crew had set up giant cameras.
 His stomach clenched slightly. 
 This was more official than he thought.
 
-"Give a warm applause for our Apollo! Today they will be facing St. Vincent university."
+"Give a warm round of applause for our Apollo! Today they will be facing St. Vincent University."
 
 Everyone clapped and shouted hard. Teams came out and shook hands. 
 Meanwhile the speaker started announcing names.
@@ -1087,7 +1087,7 @@ The speaker ended with Pierce and proceeded with the away team.
 Teams took positions on the pitch. Taiga's eyes immediately found Evan.
 He played the same position, so that seemed like the obvious place to start.
 
-Finally, the referee blew his whistle and the match begun.
+Finally, the referee blew his whistle and the match began.
 
 St. Vincent pressed immediately. Every pass backward brought another white shirt forward. For the first few minutes, Apollo barely got the ball out of their own half.
 
@@ -1101,7 +1101,7 @@ Then a third time. Taiga frowned. There wasn't even anyone near him yet.
 
 The ball went to Aaron behind him. Evan checked over his shoulder once more just before the pass arrived, then came short.
 
-The St. Vincent fullback followed and Evan took one touch returning the ball back to Bennett.
+The St. Vincent fullback followed and Evan took one touch, returning the ball to Bennett.
 
 What?
 That was it?
@@ -1118,7 +1118,7 @@ He'd simply moved the defender.
 
 Fine. Taiga crossed his arms and watched closely.
 
-Few minutes later, Evan received again and this time the fullback gave him space. 
+A few minutes later, Evan received again and this time the fullback gave him space. 
 Taiga expected him to run but Evan didn't. Instead he passed inside to Leo, then he stayed where he was.
 Taiga narrowed his eyes. There was grass behind the fullback. Evan had enough space.
 
@@ -1126,7 +1126,7 @@ Leo turned, switched the ball to the other side and Apollo attacked through Rosa
 
 Taiga, meanwhile, kept watching Evan.
 He jogged inward. Stopped. Drifted wide again. 
-No sprinting, no demanding for the ball.
+No sprinting, no demanding the ball.
 
 He was cautious. 
 
@@ -1137,12 +1137,12 @@ Maybe that was exactly why Mercer had written *direct running*.
 His attention shifted to Enzo, the other winger. 
 St. Vincent had just broken from a corner.
 
-Ellis, the right fullback, was caught high. Their winger took off into the space behind them.
+Ellis, the right fullback, was caught high. Their winger took off into the space behind him.
 Enzo turned, did not run immediately. Scott immediately shouted from the goal.
 
 "ENZO! MOVE YOUR ASS!"
 
-Enzo immediately sprinted at full speed, trying to catch him, but didn't insist much.
+Enzo immediately sprinted at full speed, trying to catch him, but didn't keep chasing for long.
 Taiga would have probably kept going.
 
 *Defensive effort*
@@ -1150,7 +1150,7 @@ Taiga would have probably kept going.
 Huh. Maybe it was just Enzo who was lazy.
 
 The match went on. He tried to focus on Evan again.
-St. Vincent tried the same side again. Evans stepped toward the ball carrier too early.
+St. Vincent tried the same side again. Evan stepped toward the ball carrier too early.
 The midfielder slipped a pass around him.
 Taiga sat forward. 
 
@@ -1172,7 +1172,7 @@ Once Taiga knew what he was looking for, he started seeing it everywhere.
 Half the team seemed to be doing useful things without touching the ball.
 Ridiculous sport.
 
-Around the 36th minute, Leo received between to St. Vincent midfielders.
+Around the 36th minute, Leo received between two St. Vincent midfielders.
 He looked left before the ball reached him. 
 One touch to Evan, who was wide. 
 The fullback immediately moved toward him.
@@ -1180,24 +1180,24 @@ Evan passed back to Aaron and immediately stepped inside. St. Vincent fullback f
 
 Taiga saw it immediately: space. 
 
-Aaron run in the now open lane in front of him. He reached the line and crossed. Price got it with the head. Goal.
+Aaron ran into the now-open lane in front of him. He reached the line and crossed. Price met it with a header. Goal.
 
 The stadium erupted, Apollo players ran toward the corner. Price grabbed Bennett around the shoulders. Leo arrived from behind. Evan joined a second later.
 
 Taiga laughed at himself for how blind he had been. 
 
-St. Vincent equalized in the second half. In the next five minutes, Apollo responded badly: rushed passages, Price complained about service, Enzo chased a center-back too far and had to spring back.
+St. Vincent equalized in the second half. In the next five minutes, Apollo responded badly: rushed passes, Price complained about service, Enzo chased a center-back too far and had to sprint back.
 
 Taiga watched Evan again. 
 At this moment, Taiga would have chased everything that moved in front of his eyes.
 Evan was calm. He actually slowed down, playing even more carefully.
-If he run, it was because it was really worth it. If he committed, he did only when he was certain.
+If he ran, it was because it was really worth it. If he committed, he did it only when he was certain.
 Yeah, that was something Taiga had to work on.
 
-He moved his eyes on other players. He locked automatically on Leo for a few minutes.
+He shifted his attention to other players. He locked automatically on Leo for a few minutes.
 Taiga never actually focused on him, but now that he was looking, Leo was a real pain in the ass.
 He was capable of turning almost instantly. The ball never went more than thirty fucking centimeters from his feet. His head going up and down constantly, always scanning.
-He faced as many one-on-one as he could, and actually won most of them. 
+He took on defenders one-on-one whenever he could, and actually won most of them. 
 
 But Taiga now managed to see more than just technique.
 He constantly moved up and down the field. Giving both midfield and attack space and numbers. Most of his job still happened when he didn't have the ball.
@@ -1219,8 +1219,8 @@ Evan passed him in the corridor, still sweaty, shirt sticking to his back.
 
 “You look like you were doing homework.”
 
-Taiga simply flipped him on his way. Cole laughed and went to the lockers.
-Once he dropped the bag in the storage room, he waited for Mercer to come out from the lockers.
+Taiga simply flipped him off on his way. Cole laughed and went to the locker room.
+Once he dropped the bag in the storage room, he waited for Mercer to come out of the locker room.
 
 “Coach.”
 
@@ -1242,7 +1242,7 @@ Mercer looked at him. Then pointed at the pitch.
 
 "What did you see?"
 
-Taiga took a breath and recollect what he saw during the match.
+Taiga took a breath and recollected what he'd seen during the match.
 
 “Cole doesn't run as much as I do.”
 
@@ -1258,9 +1258,9 @@ That got a small smile.
 
 “Yes.”
 
-Mercer took a blank page on his clipboard and started writing. Then he gave taiga the sheet.
+Mercer took a blank page on his clipboard and started writing. Then he gave Taiga the sheet.
 
-"Look at these matches. Pick an action, dissect it. Understand who moves when and why."
+"Watch the winger, not the ball. Pick ten-minute sections and track him. Where he starts. When he checks his shoulder. When he stays wide. When he comes inside. And when he doesn't run even though he could."
 
 Taiga looked at the list, then nodded at Mercer. 
 
