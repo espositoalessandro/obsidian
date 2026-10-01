@@ -39,31 +39,39 @@ Other squad members recur to create team density without requiring equal subplot
 
 Use this as the **Final-rewrite roster reference** whenever shirts, lineup boards, substitutions, match prose or positional relationships require a number.
 
-The regular first-team shape places **Leo underneath Jordan Price in the central attacking line**, so Leo wears **#10**. The rest of the senior XI uses a deliberately traditional 1–11 mapping that makes the lineup easy to read without turning shirt numbers into tactical exposition.
+### Numbering principle
 
-| No. | Player | Position | Status / note |
+The traditional **1–11 range belongs to returning Apollo players**. A freshman can already be a regular first-team player without inheriting the classic number associated with his position.
+
+Freshmen use higher squad numbers because they have only just entered the program. Their shirt number should therefore communicate **seniority / roster history**, not simply tactical position.
+
+This is especially important for Leo: he often occupies the role traditionally called the **No. 10**, but as a newly arrived freshman he wears **#24**, not #10.
+
+| No. | Player | Position | Year / status |
 | ---: | --- | --- | --- |
-| **1** | **Scott Stirling** | Goalkeeper (GK) | First-choice goalkeeper; captain |
-| **2** | **Jonah Ellis** | Right-back (RB) | First-team right-back |
-| **3** | **Aaron Bennett** | Left-back (LB) | First-team left-back; Taiga's usual overlap partner on the left |
-| **4** | **Theo Walsh** | Centre-back (CB) | Experienced first-team centre-back |
-| **5** | **Malik Carter** | Centre-back (CB) | First-team centre-back |
-| **6** | **Gav Foster** | Defensive / holding midfielder (DM) | Deepest regular midfielder |
-| **7** | **Vincenzo “Enzo” Delos Reyes** | Right winger (RW) | First-team wide attacker |
-| **8** | **Isaac Romero** | Central midfielder (CM) | Central link between the holding and attacking lines |
-| **9** | **Jordan Price** | Striker (ST) | Starting striker / primary 9 |
-| **10** | **Leo Mendez** | Attacking midfielder / No. 10 (AM) | Plays centrally underneath Price |
-| **11** | **Evan Cole** | Left winger (LW) | Senior first-team left winger; Taiga's main positional competition |
-| **12** | **Nate Kim** | Goalkeeper (GK) | Reserve goalkeeper |
-| **41** | **Taiga Akatora** | Left winger (LW) | Development-roster number; established in Final Chapter 2 |
+| **1** | **Scott Stirling** | Goalkeeper (GK) | Returning player; first-choice goalkeeper and captain |
+| **2** | **Jonah Ellis** | Right-back (RB) | Returning player |
+| **4** | **Theo Walsh** | Centre-back (CB) | Returning / experienced player |
+| **5** | **Malik Carter** | Centre-back (CB) | Second-year player |
+| **6** | **Gav Foster** | Defensive / holding midfielder (DM) | Returning player |
+| **8** | **Isaac Romero** | Central midfielder (CM) | Returning player |
+| **9** | **Jordan Price** | Striker (ST) | Returning player; starting striker / primary 9 |
+| **11** | **Evan Cole** | Left winger (LW) | Third-year player; Taiga's main positional competition |
+| **12** | **Nate Kim** | Goalkeeper (GK) | Returning reserve goalkeeper |
+| **23** | **Aaron Bennett** | Left-back (LB) | Freshman; joins through the freshman tryout |
+| **24** | **Leo Mendez** | Attacking midfielder / central attacking player (AM) | Freshman; newly joined Apollo |
+| **27** | **Vincenzo “Enzo” Delos Reyes** | Right winger (RW) | Freshman; same incoming class as Leo |
+| **41** | **Taiga Akatora** | Left winger (LW) | Freshman development player; number established in Final Chapter 2 |
 
 ### Numbering continuity rules
 
-- Treat these as **player squad numbers**, not positions that change whenever the formation changes.
-- **Leo remains #10** even if he moves higher, wider or deeper within a specific phase of play.
+- Treat these as **player squad numbers**, not positional labels.
+- **Leo is #24.** He may function tactically as Apollo's “10,” but prose should distinguish the role from the shirt number whenever confusion is possible.
+- **All freshmen use numbers above 11.**
+- Numbers **1–11 are reserved for players who were already in the Apollo program before the current freshman class arrived**.
+- It is fine for some classic 1–11 numbers to be absent from the named cast. Do not force #3, #7 or #10 onto a freshman merely to complete a traditional XI.
 - **Taiga remains #41** through the current first-year rewrite unless a later explicit story event gives him a new senior number.
 - Do not give another Apollo player one of these locked numbers.
-- The recognizable positional spine is: **Scott 1; Ellis 2; Bennett 3; Walsh 4; Carter 5; Gav 6; Enzo 7; Isaac 8; Price 9; Leo 10; Evan 11.**
 
 ---
 
