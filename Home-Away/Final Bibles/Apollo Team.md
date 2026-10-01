@@ -110,6 +110,22 @@ Do not describe every Leo possession with all of these traits. Pick the one or t
 
 His eventual move from **#24 to #10** should feel like the shirt catching up with the role he has already grown into.
 
+### Main-cast football shorthand
+
+For reader-facing football scenes, the six recurring Apollo players should each have an immediately legible football personality.
+
+The target audience does **not** need to understand tactics to recognize how each of them plays.
+
+- **Taiga — aggressive.** Direct, physical, attacks space and defenders, wants to force the action.
+- **Leo — slippery.** Finds small gaps, changes direction, drifts into spaces defenders struggle to track, creates openings through movement and close control.
+- **Enzo — explosive.** Can look lazy or uninvolved, then suddenly accelerates and produces a precise cross or finish.
+- **Evan — wise.** Experienced, cautious, rarely wastes an action, chooses the useful option over the spectacular one.
+- **Gav — calculating.** Reads the overall structure, adjusts position early, keeps the system connected and controls where the next phase should go.
+- **Scott — loud.** Quiet off the field; in goal he constantly organizes, warns, commands and corrects.
+- **Aaron — flashy.** Plays with swagger, likes technically showy solutions and often makes ordinary actions look more elaborate than necessary.
+
+These are **storytelling handles**, not rigid limits. A player may behave differently in a specific moment, but repeated match scenes should reinforce these associations naturally.
+
 ---
 
 # 2. Vincenzo “Enzo” Delos Reyes
@@ -466,6 +482,31 @@ No uncertainty.
 
 ---
 
+## Football identity
+
+**Loud.**
+
+Scott's most recognizable football trait is not spectacular shot-stopping. It is constant organization.
+
+He tries to prevent the emergency before it happens.
+
+He should frequently:
+
+- warn defenders about runners;
+- call when the line should step or drop;
+- demand marks and second balls;
+- identify danger earlier than players facing the other direction;
+- claim straightforward balls cleanly instead of turning them into dramatic moments;
+- use positioning to reduce how difficult the eventual save has to be.
+
+He is fully capable of difficult saves, but highlight-reel acrobatics are not his defining style.
+
+A good Scott performance can look almost boring because the defense keeps ending up where he told them to be.
+
+When the structure repeatedly breaks, his weakness is that his communication can become too controlling or harsh: more volume, more commands, less patience.
+
+---
+
 ## Captaincy
 
 Scott is captain because the team trusts the version of him that appears when responsibility becomes concrete.
@@ -581,6 +622,41 @@ He is:
 - unnervingly certain of himself.
 
 He can make mistakes and still behave as though the mistake is a temporary inconvenience rather than evidence of anything important.
+
+---
+
+## Football identity
+
+**Flashy.**
+
+Aaron plays with visible swagger.
+
+He likes football actions that feel stylish even when a simpler option exists. Depending on the moment, he may use:
+
+- stepovers and body feints;
+- backheels;
+- cheeky first touches;
+- nutmeg attempts;
+- dramatic overlaps;
+- technically difficult passes when a safe one is available;
+- exaggerated confidence after a clean tackle or successful move.
+
+This should not make him incompetent. Aaron has enough technique that many of these choices actually work, which is why the habit survives.
+
+His football confidence is normally instinctive and fun. He does not usually stop to calculate whether he looks impressive; he simply likes playing that way.
+
+Under pressure, however, this becomes part of his failure mode.
+
+When he feels publicly evaluated or incompetent, Aaron may start trying to **prove** that he knows what he is doing. That can make him force the impressive option instead of the useful one.
+
+This preserves the intentional psychological parallel with Taiga while keeping their football behavior distinct:
+
+- **Taiga under pressure:** force the action harder.
+- **Aaron under pressure:** prove himself with something impressive.
+
+If enough corrections accumulate, Aaron can also swing in the opposite direction and begin second-guessing actions that are normally automatic.
+
+That deterioration is important for Pinetree.
 
 ---
 
@@ -1157,6 +1233,29 @@ Unlike Enzo, he is not performing for the room.
 He genuinely cares about the subject.
 
 ---
+
+## Football identity
+
+**Calculating.**
+
+Gav should feel like the player who sees the team as a structure.
+
+His football intelligence is easiest to show through small positional decisions rather than lectures.
+
+He tends to:
+
+- move early to keep a passing lane open;
+- fill space another teammate has vacated;
+- offer himself as the safe outlet when a move stalls;
+- redirect play from one side to the other;
+- recognize when Apollo should accelerate and when the team needs to calm the possession;
+- make adjustments before the danger becomes obvious.
+
+Leo manipulates defenders around himself.
+
+Gav thinks about **how the whole shape fits together**.
+
+His weakness is that he can become overly committed to the solution that makes structural sense. If the system says something should work, he may take too long to accept that the match has become messier than the pattern.
 
 ## Football
 
