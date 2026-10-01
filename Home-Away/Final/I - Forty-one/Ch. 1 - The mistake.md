@@ -48,12 +48,11 @@ He took a small breath.
 
 Then he turned and continued.
 There. Day one and he almost lost it to a random guy who just bumped him. Great start.
+He didn't expect Olympus University to hit all his senses at once.
 
-Apparently, Olympus had decided to attack all his senses at once.
+Taiga took another deep breath and moved on.
 
-He took another deep breath and moved on.
-
-He reached the Residential Zone, then he checked the Olympus app for his room.
+He reached the Residential Zone, then checked the Olympus app for his room.
 
 Room 317.
 
@@ -646,7 +645,7 @@ And indicated the blond guy.
 
 Up close, he looked around Taiga's age.
 His face was surprisingly gentle: soft features, warm eyes, an easy smile.
-He had a warm brown skin, darker than most of the guys around him. Against it, the messy blond hair stood out even more.
+He had warm brown skin, darker than most of the guys around him. Against it, the messy blond hair stood out even more.
 
 Mendez was bouncing on his tiptoes when Taiga approached. He pointed at him.
 
