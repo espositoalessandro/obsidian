@@ -949,19 +949,17 @@ Annoying, as always.
 Taiga unlocked his phone and showed her the email. 
 
 **From: Mercer, Daniel — Apollo Men's Soccer**
-**Subject: Developmental Review — Week 3**
+**Subject: Developmental Review
 
 *These are the current staff notes. Nothing here is final. Use them.*
 
 **Positives**
-
 - pace
 - defensive effort
 - improves quickly with correction
 - direct running
 
 **Needs work**
-
 - scanning
 - decision speed
 - off-ball positioning
