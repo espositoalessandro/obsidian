@@ -424,7 +424,7 @@ The goalkeeper shouted, "RESET!"
 Still laughing, the blond guy jogged back into position.
 
 Taiga turned to leave.
-A bulletin board stood just outside the pitch. Most of it was covered in useless notices but one caught his attention.
+A bulletin board stood just outside the pitch. Most of it was covered in useless notices, but one caught his attention.
 
 **APOLLO SOCCER - MEN'S OPEN TRYOUTS**
 
@@ -524,7 +524,7 @@ Taiga looked down. Keitaro continued, warmer now.
 
 "You volunteered."
 
-"You sent it at two in the morning with ‘tell me why this is shit’."
+"You sent it at two in the morning with 'tell me why this is shit'."
 
 "It was shit."
 
@@ -606,7 +606,7 @@ He immediately spotted the blond guy again, who was carrying a box with bibs in 
 
 Mendez hurried up and dropped the bibs where the coach asked him, then went back into the storage room.
 
-The coach then approached the candidates. Tall, broad shoulder and stern look. The mustache was doing most of the job.
+The coach then approached the candidates. Tall, broad shoulders and stern look. The mustache was doing most of the job.
 
 "I'm Mercer. Today we're dividing the first tryout phase into three stages. First, you show me your current physical ability. Then we'll do basic drills. Last, basic one-on-ones. Now warm up."
 
@@ -621,7 +621,7 @@ Drills were a separate matter, though.
 They started with basic passes and Taiga immediately struggled with receiving and precision. Others did them with little or no effort.
 Mercer was holding a clipboard, walking among the candidates. Sometimes he corrected someone; other times, he just wrote something down without commenting.
 
-At some point, he approached Taiga. He's stomach tightened.
+At some point, he approached Taiga. His stomach tightened.
 
 "Before hitting the ball, adjust your positioning first. The other foot stays beside the ball."
 
@@ -635,7 +635,7 @@ Taiga nudged the ball through the first pair of cones and immediately let it run
 
 Around him, shoes tapped quick, neat rhythms. One player was already turning back for another run while Taiga was still halfway through.
 
-"Smaller touches," the coach called. "Keep it close. Inside, outside. Don’t kick it forward."
+"Smaller touches," the coach called. "Keep it close. Inside, outside. Don't kick it forward."
 
 Taiga closed his eyes. He was about to tell the coach where he could keep something. Instead he exhaled and reset.
 
@@ -788,7 +788,7 @@ After another couple of minutes, his phone buzzed: Camp Buddy group chat.
 
 **Keitaro:** so?
 
-**Natsumi**: ?
+**Natsumi:** ?
 
 **Hiro:** taiga's tryout results
 
