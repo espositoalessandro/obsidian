@@ -4,26 +4,26 @@
 
 "It'll be just an hour. And we'll be close by."
 
-Caleb had made the mistake of agreeing to attend a floor party. 
-Past-Taiga made the larger mistake of attending as well and now Present-Taiga was complaining. 
+Caleb had made the mistake of agreeing to attend a floor party.
+Past-Taiga made the larger mistake of attending as well and now Present-Taiga was complaining.
 
 "I thought you hated parties."
 
 "I don't hate parties."
 
-“You left orientation because somebody was playing music too loudly.”
+"You left orientation because somebody was playing music too loudly."
 
-“That was different.”
+"That was different."
 
-“How exactly?”
+"How exactly?"
 
-“There were two speakers playing different songs.”
+"There were two speakers playing different songs."
 
 Taiga considered.
 
-“That is actually criminal.”
+"That is actually criminal."
 
-“That's exactly it.”
+"That's exactly it."
 
 The party was hosted on the second floor of the residence hall. It wasn't a big event, at least according to Caleb, but Taiga could still count at least forty people without trying.
 He sighed and grabbed something to drink. Almost everything was alcoholic.
@@ -34,41 +34,41 @@ Caleb had a beer and appeared to be conducting a detailed conversation with a wo
 
 Now Caleb was showing her a map on his phone.
 
-“No, because if you extend the line west here, ridership density collapses.”
+"No, because if you extend the line west here, ridership density collapses."
 
 The woman leaned closer.
 
-“What if they added a transfer?”
+"What if they added a transfer?"
 
-“That would make it worse.”
+"That would make it worse."
 
-“How exactly?”
+"How exactly?"
 
 Caleb zoomed in. Taiga watched from across the room. Apparently he had made a friend. Or was giving an unsolicited lecture. Possibly both. Someone beside Taiga said:
- 
-“You look miserable.”
+
+"You look miserable."
 
 He turned. Nora. Of course. She wore jeans and a green top, hair down for once.
 
-“What are you doing here?”
+"What are you doing here?"
 
-“I know people.”
+"I know people."
 
-“I assumed you lived in the library.”
+"I assumed you lived in the library."
 
-“You're very charming.”
+"You're very charming."
 
-“I've been told.”
+"I've been told."
 
 Taiga glanced toward Caleb again. The crowd had grown around him. Three people were now looking at the transit map. Caleb seemed perfectly content. Interesting. Nora followed his gaze.
 
-“You know him?”
+"You know him?"
 
-“Yeah, he's my roommate.”
+"Yeah, he's my roommate."
 
-“He looks intense.”
+"He looks intense."
 
-“You have no idea.”
+"You have no idea."
 
 Another voice came from behind him. Familiar and loud enough to make Taiga regret leaving his room even more.
 
@@ -81,7 +81,7 @@ Taiga closed his eyes and exhaled. Then he said without turning,
 Leo appeared in his field of view. Taiga was taken aback for a second.
 It was weird seeing him off the pitch, out of his soccer uniform.
 
-He was wearing a loose white zipped hoodie on a black tank top. A small golden pendant shaped like the outline of a sun hung from a red cord around his neck. He wore white shorts.
+He was wearing a loose white zipped hoodie over a black tank top. A small golden pendant shaped like the outline of a sun hung from a red cord around his neck. He wore white shorts.
 Nothing in his hair had changed. It still looked perfectly messy.
 
 He was smiling very loudly.
@@ -118,7 +118,7 @@ Leo laughed.
 
 Taiga narrowed his eyes a bit. He appreciated him not telling, though. Nora raised an eyebrow.
 
-"Oh you play soccer with him?"
+"Oh, you play soccer with him?"
 
 "Unfortunately," said Taiga.
 
@@ -135,124 +135,124 @@ Nora asked Leo:
 Taiga glared at him.
 Leo considered for a second.
 
-“He’s new. But he learns stupidly fast.”
+"He’s new. But he learns stupidly fast."
 
-Taiga blinked. Nora frowned. 
+Taiga blinked. Nora frowned.
 
-“So yes?”
+"So yes?"
 
 Leo grinned.
 
-“I’m not giving him that much satisfaction.”
+"I’m not giving him that much satisfaction."
 
 "But that means—"
 
 A cheer erupted from the other side of the room. Someone had started a drinking game. Everybody began shouting.
 Taiga winced. He saw Caleb visibly stiffening. Tiny movement. Caleb's shoulders rose. He looked toward the speaker. Then toward the hallway.
 
-Taiga waited another twenty seconds, then he put his cup down. 
+Taiga waited another twenty seconds, then he put his cup down.
 
 "That's my cue."
 
 Leo and Nora looked at him, confused. He didn't wait for their answer and crossed the room.
 
-“Caleb.”
+"Caleb."
 
 Caleb turned immediately.
 
-“What?”
+"What?"
 
-“You ready?”
+"You ready?"
 
 A pause.
 
-“Yes.”
+"Yes."
 
-The woman said, “Already?”
+The woman said, "Already?"
 
 Caleb hesitated. Taiga could almost see calculation happening.
 
-“Yeah,” Taiga said. “Gotta go to the library early tomorrow.”
+"Yeah," Taiga said. "Gotta go to the library early tomorrow."
 
 Caleb looked at him. Taiga stared back. The woman shrugged.
 
-“Okay. Nice meeting you.”
+"Okay. Nice meeting you."
 
-“You too,” Caleb said.
+"You too," Caleb said.
 
 They left. The hallway door closed behind them. Noise dropped by half. Caleb exhaled. Taiga walked toward the stairs. After several seconds:
 
-“We don't have any library appointments tomorrow.”
+"We don't have any library appointments tomorrow."
 
-“I know.”
+"I know."
 
-“Why did you lie?”
+"Why did you lie?"
 
 Taiga looked over.
 
-“You looked like you wanted to leave.”
+"You looked like you wanted to leave."
 
-“Yes.”
+"Yes."
 
-“So we left.”
+"So we left."
 
 Caleb walked another few steps.
 
-“I could've said that.”
+"I could've said that."
 
-“You weren't.”
+"You weren't."
 
-“No.”
+"No."
 
-“Then whatever.”
+"Then whatever."
 
 They reached the third floor. Caleb stopped outside their door.
 
-“Thank you.”
+"Thank you."
 
 Taiga felt uncomfortable.
 
-“You don't need to make it a thing.”
+"You don't need to make it a thing."
 
-“I wasn't planning to.”
+"I wasn't planning to."
 
-“Good.”
+"Good."
 
 Caleb opened the door. He sat on the edge of his bed and removed his shoes. Taiga sat at his desk.
 
-“You didn't want to stay either.”
+"You didn't want to stay either."
 
 Taiga looked over.
 
-“What?”
+"What?"
 
-“At the party.”
+"At the party."
 
-“So what?”
+"So what?"
 
-“So you made it sound like you left for me.”
+"So you made it sound like you left for me."
 
 Taiga stared. Caleb stared back.
 
-“Can you stop analyzing every fucking thing I do?”
+"Can you stop analyzing every fucking thing I do?"
 
-“No, I can't.”
+"No, I can't."
 
 Taiga sighed. Caleb opened his economics textbook. Then he added:
 
-“It was mutually beneficial.”
+"It was mutually beneficial."
 
-“Great.”
+"Great."
 
-“That makes it less emotionally complicated.”
+"That makes it less emotionally complicated."
 
 Taiga laughed despite himself.
 
-“Thanks.”
+"Thanks."
 
-“You're welcome.”
+"You're welcome."
 
---- 
+---
 
 At Political Institutions, he saw that Nora had saved him a seat again.
 Professor Hall entered a few minutes later and the lecture began.
@@ -261,7 +261,7 @@ By now Taiga had developed a system: laptop for notes, assigned reading open in 
 
 *Assumes rational voters. Why?*
 
-*This contradicts week 2\. Ask.*
+*This contradicts week 2. Ask.*
 
 *Nora wrong about institutional legitimacy. Fight later.*
 
@@ -271,23 +271,23 @@ Nora had seen that last one. She'd written underneath:
 
 After class, Nora packed her bag.
 
-“I'm starting to believe that you actually like arguing with Professor Hall.”
+"I'm starting to believe that you actually like arguing with Professor Hall."
 
 Taiga shut his laptop.
 
-“I don't argue with him.”
+"I don't argue with him."
 
-“You told him his example was misleading.”
+"You told him his example was misleading."
 
-“Because it was.”
+"Because it was."
 
-“And you enjoyed saying it.”
+"And you enjoyed saying it."
 
-Taiga rolled his eyes and started toward the door. Nora followed. 
+Taiga rolled his eyes and started toward the door. Nora followed.
 
 "Have you already picked a major?"
 
-Taiga felt something tightening. 
+Taiga felt something tightening.
 
 "No."
 
@@ -297,45 +297,45 @@ Taiga felt something tightening.
 
 Nora smiled.
 
-“You should do political science.”
+"You should do political science."
 
-“No.”
+"No."
 
-“Why not?”
+"Why not?"
 
-“Because you said I should.”
+"Because you said I should."
 
-“Wow. Solid reasoning.”
+"Wow. Solid reasoning."
 
 When they reached the stairs, Nora headed toward the residence hall. Taiga had his Calculus lecture.
 
 "How about lunch? Tomorrow at one."
 
 Taiga stopped. His reflex arrived.
-No. 
+No.
 He forced himself to check his schedule.
 
-“Can't. Training at two.”
+"Can't. Training at two."
 
-“Wednesday?”
+"Wednesday?"
 
-“Same.”
+"Same."
 
-“Thursday?”
+"Thursday?"
 
-“Class.”
+"Class."
 
 Nora frowned.
 
-“You're disturbingly busy for someone who claims not to have a life.”
+"You're disturbingly busy for someone who claims not to have a life."
 
-“That sounds like your problem.”
+"That sounds like your problem."
 
-“Okay. Friday then.”
+"Okay. Friday then."
 
 Taiga hesitated.
 
-“Maybe. I don't know.”
+"Maybe. I don't know."
 
 Nora rolled her eyes and smiled.
 
@@ -343,7 +343,7 @@ Nora rolled her eyes and smiled.
 
 She walked away. Taiga watched her go.
 Annoying.
-He added Friday lunch to his calendar.  
+He added Friday lunch to his calendar.
 
 ---
 
@@ -362,9 +362,9 @@ And to make things worse, it seemed like he was the only one who'd made it throu
 He left every practice with his head almost exploding from trying to keep up.
 
 Tuesday's session was particularly intense.
-Mercer had split them into four-on-four groups inside a narrow rectangle of pitch. Two small goals at either end. No goalkeepers. Two touches maximum.
+Mercer had split them into four-on-four groups inside a narrow rectangle on the pitch. Two small goals at either end. No goalkeepers. Two touches maximum.
 
-“Move it before they can settle,” Mercer said. “And when you lose it, don't all become heroes at once.”
+"Move it before they can settle," Mercer said. "And when you lose it, don't all become heroes at once."
 
 Taiga understood that part.
 
@@ -404,7 +404,7 @@ Taiga looked at Mercer.
 
 Mercer pointed toward Cole.
 
-“You're still defending. Make him uncomfortable.”
+"You're still defending. Make him uncomfortable."
 
 Taiga pressed his lips together.
 Apparently there was a correct distance measured in fucking centimeters that everyone else had been issued during childhood.
@@ -415,7 +415,7 @@ Cole received again. This time Taiga didn't leave him as much space. Eventually,
 
 Mercer shouted from outside the grid.
 
-“Good, Akatora.”
+"Good, Akatora."
 
 Okay, that made sense. He hadn't won the ball, but it didn't matter. Cole had gone backward. Now he was getting it.
 
@@ -438,9 +438,9 @@ This time, Taiga spent a second too long checking the man in front of him, the b
 Taiga tried to recover, but one pass through was enough for them to score again.
 He kicked at the grass.
 
-“Akatora,” Mercer called.
+"Akatora," Mercer called.
 
-“I know.”
+"I know."
 
 Mercer didn't answer. That was somehow worse. Taiga bit his lip and reset.
 The next repetition was safe again. On the one after that, Taiga was late. He chased Price, shoulder to shoulder. He saw the ball and tried to get a foot to it, but Price pulled it away. Taiga's momentum carried him past, and all he could do was turn in time to see Price score again.
@@ -449,18 +449,18 @@ Taiga bit the inside of his cheek until it almost hurt.
 
 Mercer blew the whistle harder this time.
 
-“Akatora. Stop trying to fix the last mistake with the next one.”
+"Akatora. Stop trying to fix the last mistake with the next one."
 
 Taiga looked over.
 
-“What?”
+"What?"
 
-“You lose him once, then the next time you try to win everything immediately.”
+"You lose him once, then the next time you try to win everything immediately."
 
 Taiga said nothing. His face felt hot.
 Mercer pointed back onto the pitch.
 
-“Play the situation you're in. Not the one from thirty seconds ago.”
+"Play the situation you're in. Not the one from thirty seconds ago."
 
 Easy for him to say.
 Taiga reset.
@@ -469,14 +469,14 @@ Again, the attacker received. Taiga closed him down. Price turned and faced him.
 Gone.
 Evan intercepted the pass before it reached the goal.
 
-“Hold him there,” Evan said as he returned the ball. “You don't have to win it.”
+"Hold him there," Evan said as he returned the ball. "You don't have to win it."
 
-“I know.”
+"I know."
 
 It came out sharper than Taiga intended.
 Evan glanced at him.
 
-“Okay.”
+"Okay."
 
 Why was it so freaking easy for everyone else?
 
@@ -487,7 +487,7 @@ What the fuck was his problem?
 
 Evan passed the ball back toward the restart.
 
-“You're still diving in.”
+"You're still diving in."
 
 Taiga looked at him. Seriously?
 
@@ -495,7 +495,7 @@ Taiga looked at him. Seriously?
 
 Evan looked at him. His expression didn't change, which somehow made it worse.
 
-“Then stop trying to win it,” Evan said. “Make him choose.”
+"Then stop trying to win it," Evan said. "Make him choose."
 
 Taiga could hear his pulse.
 
@@ -514,13 +514,13 @@ Mercer's whistle followed.
 
 Taiga looked over. Mercer was pointing outside the grid.
 
-“Out.”
+"Out."
 
 Taiga's stomach dropped.
 
-“Coach—”
+"Coach—"
 
-“Out.”
+"Out."
 
 Everything else disappeared from his vision. There was only Mercer pointing at the bench.
 Taiga walked off as if he were heading into a courtroom.
@@ -531,7 +531,7 @@ Mercer didn't come over. He restarted the drill.
 And just like that, everyone moved again. Humiliation burned much hotter than anger.
 The drill continued for another four minutes. Nobody looked at him.
 
-Mercer finally called for water. The whole field scattered. Taiga grabbed his bottle without making eye contact with anyone.
+Mercer finally called for water. Everyone scattered. Taiga grabbed his bottle without making eye contact with anyone.
 
 Mercer didn't approach him. Of course he didn't. Taiga had finally fucked it up.
 All that work, all that progress, and he'd managed to screw it all up because he was pissed at himself.
@@ -626,7 +626,7 @@ Mercer pointed at the field again.
 
 The locker room after training smelled like sweat, wet grass and approximately eighteen different deodorants fighting for dominance.
 
-Taiga sat on the bench pulling off his socks. He swore when his right calf cramped. 
+Taiga sat on the bench pulling off his socks. He swore when his right calf cramped.
 
 "Fuckin'—"
 
@@ -640,15 +640,15 @@ Aaron looked over.
 
 "Fuck off."
 
-“That's the spirit.”
+"That's the spirit."
 
 Taiga pressed his thumb into the muscle until it released. Evan walked past with his shirt over one shoulder.
 
-“Drink water before that locks again.”
+"Drink water before that locks again."
 
 Taiga looked up. Evan was grinning.
 Taiga smiled too and raised a middle finger. Evan flipped him off in return.
-Men were simple sometimes. 
+Men were simple sometimes.
 
 The showers at Olympus were arranged in two rows of individual stalls facing each other across a tiled aisle. Frosted glass panels along the sides covered most of a person and somehow still managed to make privacy feel theoretical. The stall doors only reached shoulder height.
 Taiga preferred the far end. Less traffic.
@@ -657,11 +657,11 @@ Today he was halfway through rinsing shampoo from his hair when the stall opposi
 
 He looked away. Whatever.
 
-“Ah, shit. I always forget.”
+"Ah, shit. I always forget."
 
 Taiga looked up again.
 
-Leo stepped back out to hang his towel on the hook. 
+Leo stepped back out to hang his towel on the hook.
 Taiga's eyes stayed there a couple of seconds too long, which was enough to register more information than he needed.
 
 Leo's back was lean and defined, narrowing at the waist. Tan lines marked his shoulders and neck.
@@ -685,17 +685,17 @@ Taiga closed his eyes.
 
 "You all right? Mercer didn't bury you under the pitch, did he?"
 
-“I survived.”
+"I survived."
 
-“Good. I was going to say he only does the public executions on Thursdays.”
+"Good. I was going to say he only does the public executions on Thursdays."
 
 Taiga snorted. Evan entered the aisle.
 
-“Hey Leo\!”
+"Hey Leo!"
 
-“What?”
+"What?"
 
-“Are you still going out with Mia tonight?”
+"Are you still going out with Mia tonight?"
 
 Taiga kept rinsing his hair. None of his business. Leo answered over the water.
 
@@ -713,14 +713,14 @@ Taiga kept rinsing his hair. None of his business. Leo answered over the water.
 
 A shampoo bottle came flying over the stall and bounced off Evan's shoulder.
 
-“Asshole.”
+"Asshole."
 
 Evan laughed and walked away.
 Taiga shut off the water, got dressed and left before his brain found any other useless information to file.
 
 ---
 
-Taiga was still reeling from practice when he went back to his room. He dropped his bag near the bed. Caleb was reading something on his laptop at his desk. 
+Taiga was still reeling from practice when he went back to his room. He dropped his bag near the bed. Caleb was reading something on his laptop at his desk.
 He sat at his own desk and opened his laptop.
 
 Something was wrong.
@@ -750,9 +750,9 @@ He blinked.
 
 "The motor. Your desk amplifies it."
 
-“It barely makes any noise.”
+"It barely makes any noise."
 
-“It does from my side.”
+"It does from my side."
 
 Taiga's irritation sharpened.
 
@@ -762,7 +762,7 @@ Taiga's irritation sharpened.
 
 He looked completely calm. That made it worse.
 
-“You don't touch people's shit because something annoys you.”
+"You don't touch people's shit because something annoys you."
 
 There. He finally got a reaction. Good job.
 Caleb went still, not much but enough for Taiga to recognize the withdrawal.
@@ -785,41 +785,41 @@ That somehow made him more irritated.
 He tried to focus on the assignment. After ten minutes, he turned to Caleb.
 Caleb saw him and removed his headphones again.
 
-“You could've just told me it was bothering you.”
+"You could've just told me it was bothering you."
 
-“I did.”
+"I did."
 
 Taiga looked over.
 
-“When?”
+"When?"
 
-“Monday. I asked if the fan always made that low buzzing sound.”
+"Monday. I asked if the fan always made that low buzzing sound."
 
 Taiga barely remembered.
 
-“That wasn't you asking me to move it.”
+"That wasn't you asking me to move it."
 
-“No.”
+"No."
 
-“Then how was I supposed to know?”
+"Then how was I supposed to know?"
 
-“I didn't expect you to know.”
+"I didn't expect you to know."
 
 Taiga frowned.
 
-“I thought if you couldn't hear it, you wouldn't care where the fan was.”
+"I thought if you couldn't hear it, you wouldn't care where the fan was."
 
 Taiga opened his mouth, but stopped. That was—
 Actually, from Caleb's perspective, probably reasonable.
 Still wrong, but annoyingly reasonable.
 
-“You still shouldn't have touched it.”
+"You still shouldn't have touched it."
 
-“I know.”
+"I know."
 
-“You know now.”
+"You know now."
 
-“Yes.”
+"Yes."
 
 Taiga leaned back in the chair. Silence fell again for a while.
 
@@ -835,27 +835,27 @@ He exhaled.
 
 He bit his lip. Caleb waited.
 
-“I came in pissed off already.”
+"I came in pissed off already."
 
-“From practice?”
+"From practice?"
 
-“Yeah.”
+"Yeah."
 
 Caleb nodded.
 
-“That explains the volume.”
+"That explains the volume."
 
 Taiga frowned.
 
-“What volume?”
+"What volume?"
 
-“You were louder than necessary.”
+"You were louder than necessary."
 
-“I'm gonna throw the fan at you.”
+"I'm gonna throw the fan at you."
 
 Caleb considered that.
 
-“That would probably damage it.”
+"That would probably damage it."
 
 Taiga laughed before he could stop himself. Caleb's mouth moved slightly. Then he said,
 
@@ -869,7 +869,7 @@ Caleb frowned slightly.
 
 Taiga exhaled.
 
-"I know."     
+"I know."
 
 ---
 
@@ -905,7 +905,7 @@ Nora gave him a look.
 
 Taiga put his food down.
 
-“You're impossible to satisfy.”
+"You're impossible to satisfy."
 
 Nora rolled her eyes and sat down as well. Taiga was halfway through his pasta when she said,
 
@@ -946,10 +946,10 @@ Nora raised an eyebrow and waited.
 
 Annoying, as always.
 
-Taiga unlocked his phone and showed her the email. 
+Taiga unlocked his phone and showed her the email.
 
 **From: Mercer, Daniel — Apollo Men's Soccer**
-**Subject: Developmental Progress Notes
+**Subject: Developmental Progress Notes**
 
 *These are the current staff notes. Nothing here is final. Use them.*
 
@@ -969,13 +969,13 @@ Taiga unlocked his phone and showed her the email.
 
 Taiga locked his phone and put it down.
 
-“Because apparently I can't stand in the right place, make decisions fast enough or control myself like a normal person.”
+"Because apparently I can't stand in the right place, make decisions fast enough or control myself like a normal person."
 
 She looked up.
 
-“You skipped half of it. You gave me three negatives and one insult you added yourself.”
+"You skipped half of it. You gave me three negatives and one insult you added yourself."
 
-“The good stuff is basic, generic things they say to everyone.”
+"The good stuff is basic, generic things they say to everyone."
 
 Nora waited a couple of seconds.
 
@@ -1029,15 +1029,15 @@ Taiga took a drink.
 
 "Are these things you can improve?"
 
-“Obviously.”
+"Obviously."
 
-“Then why are you reading them like permanent characteristics?”
+"Then why are you reading them like permanent characteristics?"
 
 Taiga frowned.
 
-“They're still things I'm bad at.”
+"They're still things I'm bad at."
 
-“Then improve.”
+"Then improve."
 
 Taiga didn't answer.
 
@@ -1048,41 +1048,41 @@ He obviously did.
 
 When they were done, Nora had another class at two. Taiga watched her leave.
 
-Annoying. 
+Annoying.
 
 Apparently he was a magnet for annoying people.
 He laughed at himself.
 
-___
+---
 
 Saturday's match against St. Vincent University was the first time Taiga watched an actual Apollo match.
 The conference season had only recently started and this was the second official match of the season.
 
-Mercer required developmental players to watch the game from the bleachers. 
+Mercer required developmental players to watch the game from the bleachers.
 
 "Don't follow the ball. Watch where players go. If a team scores, ask yourself why it worked for one and what went wrong for the other. Don't assume that everything they do is the right choice. Think about what you would have done in their place."
 
 Fine.
 
-"Good morning and welcome to the second official Conference Championship day."
+"Good morning and welcome to the second Conference Championship matchday."
 
 Taiga was startled. Of course there was a speaker. And he also noticed a small space on the central bleachers where a TV crew had set up giant cameras.
-His stomach clenched slightly. 
+His stomach clenched slightly.
 This was more official than he thought.
 
 "Give a warm round of applause for our Apollo! Today they will be facing St. Vincent University."
 
-Everyone clapped and shouted hard. Teams came out and shook hands. 
-Meanwhile the speaker started announcing names.
+Everyone clapped and cheered. Teams came out and shook hands.
+Meanwhile, the announcer started announcing names.
 
-"Number one, Stirling!" 
+"Number one, Stirling!"
 
-For every one of them, the whole home section of the bleachers cheered vigorously. 
+With each name, the whole home section of the bleachers cheered.
 
 "Number twenty-seven, Delos Reyes! Number eleven, Cole, Number twenty-four, Mendez!"
 
 Taiga noticed that when Leo got called, people cheered louder.
-The speaker ended with Price and proceeded with the away team.
+The announcer ended with Price and proceeded with the away team.
 
 Teams took positions on the pitch. Taiga's eyes found Evan first.
 He played the same position, so that seemed like the obvious place to start.
@@ -1094,7 +1094,7 @@ St. Vincent pressed from kickoff. Every pass backward brought another white shir
 Taiga tried to watch Evan rather than the ball, but it turned out to be much harder than expected. His attention kept trying to follow whoever had possession.
 He forced it back.
 Evan was standing wide on the left, almost on the touchline. The ball was on the other side of the field.
-And yet Taiga saw him scanning and checking his shoulder. 
+And yet Taiga saw him scanning and checking his shoulder.
 Once.
 Twice.
 Then a third time. Taiga frowned. There wasn't even anyone near him yet.
@@ -1112,29 +1112,29 @@ Taiga leaned forward. Why did Aaron-
 
 Oh. Their fullback had moved. Evan hadn't beaten anyone. Hadn't even turned with the ball.
 
-He'd simply moved the defender. 
+He'd simply moved the defender.
 
 *Off-ball positioning*
 
 Fine. Taiga crossed his arms and watched closely.
 
-A few minutes later, Evan received again and this time the fullback gave him space. 
+A few minutes later, Evan received again and this time the fullback gave him space.
 Taiga expected him to run but Evan didn't. Instead he passed inside to Leo, then he stayed where he was.
 Taiga narrowed his eyes. There was grass behind the fullback. Evan had enough space.
 
 Leo turned, switched the ball to the other side and Apollo attacked through Enzo instead.
 
 Taiga, meanwhile, kept watching Evan.
-He jogged inward. Stopped. Drifted wide again. 
+He jogged inward. Stopped. Drifted wide again.
 No sprinting, no demanding the ball.
 
-He was cautious. 
+He was cautious.
 
 A thought came automatically: Taiga would've run. Harder.
 If a defender gave him that much grass, Taiga would've attacked it.
 Maybe that was exactly why Mercer had written *direct running*.
 
-His attention shifted to Enzo, the other winger. 
+His attention shifted to Enzo, the other winger.
 St. Vincent had just broken from a corner.
 
 Ellis, the right fullback, was caught high. Their winger took off into the space behind him.
@@ -1152,19 +1152,19 @@ Huh. Maybe it was just Enzo who was lazy.
 The match went on. He tried to focus on Evan again.
 St. Vincent tried the same side again. Evan stepped toward the ball carrier too early.
 The midfielder slipped a pass around him.
-Taiga sat forward. 
+Taiga sat forward.
 
 There it was. Same mistake as Taiga's.
 
-For half a second, Taiga expected him to turn and chase the ball. 
+For half a second, Taiga expected him to turn and chase the ball.
 Instead, he didn't.
-The receiver came forward, Evan stayed on his feet and moved with him, without committing again. Just stayed between him and the middle of the pitch.
+The receiver came forward. Evan stayed on his feet and moved with him without committing again, just staying between him and the middle of the pitch.
 The attacker slowed, looked inside: nothing. He passed backward.
 
-Taiga went still. 
+Taiga went still.
 *Don't commit every time. Force him to make a decision.*
 
-Taiga would have chased, he would have tried to fix the mistake. Evan didn't, and somehow the situation didn't get worse.
+Taiga would have chased. He would have tried to fix the mistake. Evan didn't, and somehow the situation didn't get worse.
 
 The game continued.
 
@@ -1173,39 +1173,39 @@ Half the team seemed to be doing useful things without touching the ball.
 Ridiculous sport.
 
 Around the 36th minute, Leo received between two St. Vincent midfielders.
-He looked left before the ball reached him. 
-One touch to Evan, who was wide. 
+He looked left before the ball reached him.
+One touch to Evan, who was wide.
 The fullback moved toward him.
 Evan passed back to Aaron and stepped inside. St. Vincent fullback followed him.
 
-Taiga saw it this time: space. 
+Taiga saw it this time: space.
 
 Aaron ran into the now-open lane in front of him. He reached the line and crossed. Price met it with a header. Goal.
 
-The stadium erupted, Apollo players ran toward the corner. Price grabbed Bennett around the shoulders. Leo arrived from behind. Evan joined a second later.
+The stadium erupted. Apollo players ran toward the corner. Price grabbed Bennett around the shoulders. Leo arrived from behind. Evan joined a second later.
 
 Taiga laughed at himself.
 
 St. Vincent equalized in the second half. In the next five minutes, Apollo responded badly: rushed passes, Price complained about service, Enzo chased a center-back too far and had to sprint back.
 
-Taiga watched Evan again. 
+Taiga watched Evan again.
 At this moment, Taiga would have chased everything that moved in front of his eyes.
 Evan was calm. He actually slowed down, playing even more carefully.
 If he ran, it was because it was really worth it. If he committed, he did it only when he was certain.
 
-He shifted his attention to other players. He locked automatically on Leo for a few minutes.
-Taiga never actually focused on him, but now that he was looking, Leo was a real pain in the ass.
-He was capable of turning almost instantly. The ball never went more than thirty fucking centimeters from his feet. His head going up and down constantly, always scanning.
-He took on defenders one-on-one whenever he could, and actually won most of them. 
+He shifted his attention to other players. His attention automatically locked onto Leo for a few minutes.
+Taiga had never actually focused on him, but now that he was looking, Leo was a real pain in the ass.
+He was capable of turning almost instantly. The ball never went more than thirty fucking centimeters from his feet. His head went up and down constantly, always scanning.
+He took on defenders one-on-one whenever he could, and actually won most of them.
 
 But there was more.
-He constantly moved up and down the field. Giving both midfield and attack space and numbers. Most of his job still happened when he didn't have the ball.
+He constantly moved up and down the field, giving both midfield and attack space and numbers. Most of his job still happened when he didn't have the ball.
 
 Yeah, Leo was good. Really good. Also annoying.
 
 Apollo scored again in the sixty-eighth minute after St. Vincent pushed too many players forward.
 
-Final whistle : two-one.
+Final whistle: two-one.
 
 Taiga barely noticed he'd spent most of the second half leaning forward.
 
@@ -1216,16 +1216,16 @@ He went on the pitch with the other developmental players to help collect equipm
 Taiga carried a bag of cones toward storage while the first team filtered back inside.
 Evan passed him in the corridor, still sweaty, shirt sticking to his back.
 
-“You look like you were doing homework.”
+"You look like you were doing homework."
 
 Taiga simply flipped him off on his way. Cole laughed and went to the locker room.
 Once he dropped the bag in the storage room, he waited for Mercer to come out of the locker room.
 
-“Coach.”
+"Coach."
 
 Mercer looked over.
 
-“What?”
+"What?"
 
 Taiga looked at him.
 
@@ -1241,27 +1241,27 @@ Mercer looked at him. Then pointed at the pitch.
 
 "What did you see?"
 
-Taiga took a breath and recollected what he'd seen during the match.
+Taiga took a breath and thought about what he'd seen during the match.
 
-“Cole doesn't run as much as I do.”
+"Cole doesn't run as much as I do."
 
 Mercer raised an eyebrow. Taiga continued before he could respond.
 
-“Not because he can't. He waits more. He checks where people are before he gets the ball. And when he screws something up, he doesn't immediately chase it trying to fix it.”
+"Not because he can't. He waits more. He checks where people are before he gets the ball. And when he screws something up, he doesn't immediately chase it trying to fix it."
 
 Mercer nodded once. Taiga glanced toward the locker-room corridor.
 
-“And he knows when not to do something.”
+"And he knows when not to do something."
 
 That got a small smile.
 
-“Yes.”
+"Yes."
 
-Mercer took a blank page on his clipboard and started writing. Then he gave Taiga the sheet.
+Mercer pulled a blank sheet from his clipboard and started writing. Then he gave it to Taiga.
 
 "Watch the winger, not the ball. Pick ten-minute sections and track him. Where he starts. When he checks his shoulder. When he stays wide. When he comes inside. And when he doesn't run even though he could."
 
-Taiga looked at the list, then nodded at Mercer. 
+Taiga looked at the list, then nodded at Mercer.
 
 "Thanks."
 
