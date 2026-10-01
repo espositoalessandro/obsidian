@@ -254,10 +254,10 @@ Taiga laughed despite himself.
 
 --- 
 
-At Political Institution, he saw that Nora had saved a seat for him, again.
+At Political Institutions, he saw that Nora had saved him a seat again.
 Professor Hall entered a few minutes later and the lecture began.
 
-By now Taiga had developed a system: Laptop for notes, assigned reading open in a second window, physical notebook beside him for thoughts he didn't want buried inside the lecture transcript. So now his notebook contained things like:
+By now Taiga had developed a system: laptop for notes, assigned reading open in a second window, physical notebook beside him for thoughts he didn't want buried inside the lecture transcript. So now his notebook contained things like:
 
 *Assumes rational voters. Why?*
 
@@ -307,7 +307,7 @@ Nora smiled.
 
 “Wow. Solid reasoning.”
 
-When they reached the stairs, Nora was headed towards the dorm. Taiga had his Calculus lecture.
+When they reached the stairs, Nora headed toward the residence hall. Taiga had his Calculus lecture.
 
 "How about lunch? Tomorrow at one."
 
@@ -343,7 +343,7 @@ Nora rolled her eyes and smiled.
 
 She walked away. Taiga watched her go.
 Annoying.
-He added lunch appointment on Friday on his calendar.  
+He added Friday lunch to his calendar.  
 
 ---
 
@@ -628,7 +628,7 @@ The locker room after training smelled like sweat, wet grass and approximately e
 
 Taiga sat on the bench pulling off his socks. He swore when his right calf cramped. 
 
-"Fuckin-"
+"Fuckin'—"
 
 Aaron looked over.
 
@@ -646,14 +646,14 @@ Taiga pressed his thumb into the muscle until it released. Evan walked past with
 
 “Drink water before that locks again.”
 
-Taiga looked up: Evan was grinning.
-He smiled as well and raised a middle finger. Evan flipped him back.
+Taiga looked up. Evan was grinning.
+Taiga smiled too and raised a middle finger. Evan flipped him off in return.
 Apparently, conflict resolved. 
 
-The showers at Olympus were arranged in two rows of individual stalls facing each other across a tiled aisle. Frosted glass panels on the sides that covered most of a person and somehow still managed to make privacy feel theoretical. The door itself only reached his shoulders.
+The showers at Olympus were arranged in two rows of individual stalls facing each other across a tiled aisle. Frosted glass panels along the sides covered most of a person and somehow still managed to make privacy feel theoretical. The stall doors only reached shoulder height.
 Taiga preferred the far end. Less traffic.
 
-Today he was halfway through rinsing shampoo from his hair when the stall opposite opened. Taiga looked up automatically to see Leo stepping him with his towel around the waist.
+Today he was halfway through rinsing shampoo from his hair when the stall opposite opened. Taiga looked up automatically to see Leo stepping in with a towel around his waist.
 
 He looked away. Whatever.
 
@@ -661,20 +661,19 @@ He looked away. Whatever.
 
 Taiga looked up again.
 
-Leo rushed outside to hang his towel on the hood. 
-Taiga's eyes refused to look away for just a couple of seconds, but that was enough to register more information than he needed to.
+Leo stepped back out to hang his towel on the hook. 
+Taiga's eyes stayed there a couple of seconds too long, which was enough to register more information than he needed.
 
-Leo's back was lean and defined, ending with a narrow waist. Tan lines at the shoulder and neck. 
-That Taiga already knew, he had seen him plenty of times without a shirt.
-His eyes, though, didn't stop there. They went lower than his waist and sat for a second on his ass.
+Leo's back was lean and defined, narrowing at the waist. Tan lines marked his shoulders and neck.
+That much Taiga already knew. He'd seen him shirtless plenty of times.
+His eyes, though, didn't stop there. They dropped below his waist and lingered for a second on his ass.
 Not big. Just shaped annoyingly well.
 
 Taiga blinked and looked away.
 
-What the heck? Naked men weren't something new for him. Camp showers were way less private than these ones. And Yoichi and Aiden were totally incapable of shame. 
-Yet his brain decided to file this new information anyways. Leo Mendez. Nice ass.
-Nice?
-Was the opinion really necessary?
+What the heck? Naked men weren't new to him. Camp showers were way less private than these. And Yoichi and Aiden were totally incapable of shame.
+Yet his brain had decided to file this new information anyway. Leo Mendez. Ass shaped annoyingly well.
+Was that opinion really necessary?
 
 "Hey AG."
 
@@ -696,23 +695,23 @@ Taiga snorted. Evan entered the aisle.
 
 “Are you still going out with Mia tonight?”
 
-Taiga kept rinsing his hair, not his business. Leo answered over the water.
+Taiga kept rinsing his hair. None of his business. Leo answered over the water.
 
 "I guess? She has lab until seven."
 
 "Ohhh, she's leaving you hanging till the end, eh?"
 
-"What? We just said maybe if she finish lab in time."
+"What? We just said maybe if she finishes lab in time."
 
 "See? This is what I'm talking about. She says maybe, you spend all afternoon thinking about her. Effective."
 
 "Why should I think about her?"
 
-"Come on! Dinner? Just the two of you? I'm not implying bu-"
+"Come on! Dinner? Just the two of you? I'm not implying bu—"
 
 A shampoo bottle came flying over the stall and bounced off Evan's shoulder.
 
 “Asshole.”
 
 Evan laughed and walked away.
-Taiga shut off the water, then went dressed and left before his brain found any other useless information to file.
+Taiga shut off the water, got dressed and left before his brain found any other useless information to file.
