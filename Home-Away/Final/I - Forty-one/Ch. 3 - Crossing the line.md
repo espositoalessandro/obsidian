@@ -720,8 +720,8 @@ Taiga shut off the water, got dressed and left before his brain found any other 
 
 ---
 
-Taiga was still reeling the practice when he went back to his room. He dropped his bag near the bed. Caleb was reading something on his laptop at his desk. 
-He sat at his own and opened the laptop.
+Taiga was still reeling from practice when he went back to his room. He dropped his bag near the bed. Caleb was reading something on his laptop at his desk. 
+He sat at his own desk and opened his laptop.
 
 Something was wrong.
 
@@ -756,7 +756,7 @@ He blinked.
 
 Taiga's irritation sharpened.
 
-"Why didn't you asked me?"
+"Why didn't you ask me?"
 
 "You were at training."
 
@@ -771,7 +771,7 @@ Caleb went still, not much but enough for Taiga to recognize the withdrawal.
 
 That flat tone. Taiga knew he'd gone too hard.
 
-"Just... don't move my stuff alright?"
+"Just... don't move my stuff, alright?"
 
 "Alright."
 
@@ -783,7 +783,7 @@ The annoying part was that the windowsill actually made sense. It was closer to 
 That somehow made him more irritated.
 
 He tried to focus on the assignment. After ten minutes, he turned to Caleb.
-Caleb saw him and removed is headphones again.
+Caleb saw him and removed his headphones again.
 
 “You could've just told me it was bothering you.”
 
@@ -821,7 +821,7 @@ Still wrong, but annoyingly reasonable.
 
 “Yes.”
 
-Taiga leaned back in the chair, silence fell again for a while.
+Taiga leaned back in the chair. Silence fell again for a while.
 
 "I'll leave it there, it makes sense. Just..."
 
@@ -831,7 +831,7 @@ He exhaled.
 
 "Alright."
 
-"And-"
+"And—"
 
 He bit his lip. Caleb waited.
 
@@ -857,13 +857,13 @@ Caleb considered that.
 
 “That would probably damage it.”
 
-Taiga laughed before he could stop himself. Caleb's mouth moved slightly. Then he said
+Taiga laughed before he could stop himself. Caleb's mouth moved slightly. Then he said,
 
 "I don't like when people move my stuff. So you're right to be annoyed."
 
 "Thanks for permission."
 
-Caleb slightly frowned.
+Caleb frowned slightly.
 
 "That wasn't for permission."
 
