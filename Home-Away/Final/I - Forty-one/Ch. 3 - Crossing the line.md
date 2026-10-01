@@ -1242,7 +1242,7 @@ Enzo raised his hands.
 
 Then followed Evan to the lockers.
 
-Once he dropped the bag in the storage room, he waited for Mercer to come out of the locker room.
+Once Taiga dropped the bag in the storage room, he waited for Mercer to come out of the locker room.
 
 "Coach."
 
