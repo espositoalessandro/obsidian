@@ -891,7 +891,7 @@ Taiga shrugged and pulled out a chair to sit. The Oyster was crowded as usual.
 
 "I got busy."
 
-"You basically bailed me."
+"Half an hour before? That's almost bailing."
 
 "I said 'maybe'."
 
