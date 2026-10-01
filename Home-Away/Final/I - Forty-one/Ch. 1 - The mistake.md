@@ -536,7 +536,7 @@ Taiga looked up. Keitaro shrugged.
 
 "What?"
 
-"You're there now. Take the classes. Try the things you actually want to try. Go to soccer. If four years from now you're still convinced they were wrong, you can call me and say ‘I told you so’."
+"You're there now. Take the classes. Try the things you actually want to try. Go to soccer. If four years from now you're still convinced they were wrong, you can call me and say 'I told you so'."
 
 "That is manipulative."
 
@@ -635,7 +635,7 @@ Around him, shoes tapped quick, neat rhythms. One player was already turning bac
 
 Taiga closed his eyes. He was about to tell the coach where he could keep something. Instead he exhaled and reset.
 
-This time the ball stayed near his feet. He still clipped the last cone, and nobody would’ve called it graceful, but at least he finished without having to sprint after it.
+This time the ball stayed near his feet. He still clipped the last cone, and nobody would've called it graceful, but at least he finished without having to sprint after it.
 
 Finally, Mercer formed pairs with candidates and team members. He pointed at Taiga:
 
