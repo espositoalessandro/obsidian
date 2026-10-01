@@ -1,315 +1,397 @@
-Back in room 317, Taiga stopped just inside the door.
+Friday morning, Taiga's phone buzzed while he was walking toward Political Institutions.
 
-Something was wrong with his desk.
+He almost ignored it.
 
-It took him a second.
+Then he saw the sender.
 
-The fan.
+**Mercer, Daniel — Apollo Men's Soccer**
 
-His small desk fan usually sat beside the laptop stand, angled toward his chair. Now it was on the windowsill. The cable had been unplugged from his laptop and rerouted to the outlet beside the window.
+Taiga stopped near the entrance and opened the message.
 
-Taiga stared at it.
+**Developmental Review — Week 3**
 
-“Caleb.”
+There was no introduction beyond one sentence.
 
-Caleb was reading on his bed.
+*These are the current staff notes. Nothing here is final. Use them.*
 
-“Yes?”
+Then the list.
 
-“Did you move my fan?”
+**Positives**
 
-“Yeah.”
+- pace
+- defensive effort
+- improves quickly with correction
+- direct running
 
-Taiga dropped his bag beside the desk.
+**Needs work**
 
-“Why?”
+- scanning
+- decision speed
+- off-ball positioning
+- emotional control after mistakes
 
-“The vibration was bothering me.”
+Taiga read the last line twice.
 
-Taiga looked at the fan.
+Of course.
 
-“What vibration?”
+His thumb moved back up.
 
-Caleb closed his book.
+*Improves quickly with correction.*
 
-“The motor. Your desk amplifies it.”
+Then down again.
 
-“It barely makes any noise.”
+*Emotional control after mistakes.*
 
-“It does from my side.”
+Fantastic.
 
-“So you moved it.”
+Someone nearly walked into him from behind.
+
+“Move.”
+
+Taiga stepped aside without looking up.
+
+He read the list once more, locked his phone and went to class.
+
+---
+
+By lunch, he had opened the email four more times.
+
+Not because anything had changed.
+
+Apparently he was checking.
+
+Nora had chosen one of the tables outside the University Center, far enough from the busiest path that they could actually hear each other. She had already started eating by the time Taiga sat down.
+
+“You're late.”
+
+“Two minutes.”
 
 “Yes.”
 
-Taiga's irritation sharpened much faster than it should have.
+“That doesn't count as late.”
 
-“You could've asked.”
+“It literally does.”
 
-“You were at training.”
+Taiga put his food down.
 
-“So?”
+“You're exhausting.”
 
-Caleb looked at him.
+Nora looked at his phone.
 
-“So I moved it.”
+“So is whatever you've been staring at since you got here.”
 
-“You don't touch people's shit because something annoys you.”
+Taiga turned the screen facedown.
 
-Caleb went still.
+“Nothing.”
 
-Not much. His expression barely changed, but Taiga recognized the withdrawal now.
+“You checked it while sitting down.”
 
-“It was a fan.”
+“No, I didn't.”
 
-“I know what it was.”
+“You did.”
 
-“I didn't damage it.”
+Taiga opened his drink.
 
-“That isn't the point.”
+Nora waited.
 
-“Okay.”
+He hated when people did that.
 
-That flat tone.
+“What?”
 
-Taiga knew he'd gone too hard.
+“Nothing.”
 
-He was still too pissed off to stop.
+“You're doing the thing.”
 
-Caleb stood and crossed to the windowsill.
+“What thing?”
 
-“It vibrates less here.”
+“The thing where you wait until I say something.”
 
-“I don't care where it vibrates less.”
+“I asked one question.”
 
-“You probably should if you're using it.”
-
-“Caleb.”
-
-Caleb stopped.
-
-“Don't move my stuff without asking me.”
-
-A pause.
-
-“All right.”
-
-He went back to his bed and opened his book.
-
-Conversation over.
-
-Apparently.
-
-Taiga pulled off his training jacket and threw it over his chair. His calf still felt tight. His entire body felt wrong after practice—tired enough to ache, awake enough that sitting still made him want to punch something.
-
-Caleb turned a page.
-
-Taiga sat at the desk.
-
-The fan was still on the windowsill.
-
-He looked at it.
-
-Then at Caleb.
-
-Then back at the fan.
-
-The annoying part was that the windowsill actually made sense. It was closer to the bed, so it would probably move more air through the room. The cable wasn't stretched across the desk anymore either.
-
-That somehow made him more irritated.
-
-He opened his laptop.
-
-Nothing.
-
-Closed it again.
-
-Caleb turned another page.
-
-“You could've just told me it was bothering you.”
-
-“I did.”
-
-Taiga looked over.
-
-“When?”
-
-“Monday.”
-
-“What did you say?”
-
-“I asked if the fan always made that low buzzing sound.”
-
-Taiga remembered.
-
-Barely.
-
-He'd been reading something for Political Institutions. Caleb had asked. Taiga had listened for maybe three seconds and said, _What buzzing sound?_
-
-“That wasn't you asking me to move it.”
-
-“No.”
-
-“Then how was I supposed to know?”
-
-“I didn't expect you to know.”
-
-Taiga frowned.
-
-Caleb looked up from the book.
-
-“I thought if you couldn't hear it, you wouldn't care where the fan was.”
-
-Taiga opened his mouth.
-
-Stopped.
-
-That was—
-
-Actually, from Caleb's perspective, probably reasonable.
-
-Still wrong.
-
-But annoyingly reasonable.
-
-“You still shouldn't have touched it.”
-
-“I know.”
-
-“You know now.”
+“And now you're waiting.”
 
 “Yes.”
 
-Taiga leaned back in the chair.
+Taiga stared at her.
 
-Silence.
+Nora took another bite.
 
-Caleb returned to his book.
+He lasted maybe ten seconds.
 
-Taiga stared at his laptop screen without reading anything.
+“Coach sent an evaluation.”
 
-The anger was cooling now, which was inconvenient because it left everything underneath it exposed.
-
-Evan's face when Taiga snapped at him.
-
-Mercer pointing at the sideline.
-
-_Out._
-
-Great.
-
-Apparently today was dedicated to Taiga realizing he was technically right about something only after expressing it in the worst possible way.
-
-He lasted maybe five minutes.
-
-“Hey.”
-
-Caleb looked over.
-
-Taiga scratched the side of his neck.
-
-“You can leave it there.”
-
-Caleb glanced toward the window.
-
-“Okay.”
-
-“But ask next time.”
-
-“I will.”
-
-“And…”
-
-Taiga stopped.
-
-Caleb waited.
-
-Of course he waited.
-
-Taiga hated that.
-
-“I came in pissed off already.”
-
-“From practice?”
-
-“Yeah.”
-
-Caleb nodded.
-
-“That explains the volume.”
-
-Taiga frowned.
-
-“What volume?”
-
-“You were louder than necessary.”
+“There we go.”
 
 “Fuck you.”
 
-Caleb considered that.
+“Is it bad?”
 
-“That was normal volume.”
+“No.”
 
-Taiga laughed before he could stop himself.
+Nora stopped chewing for a second.
 
-Caleb's mouth moved slightly.
+“Then why do you look annoyed?”
 
-The room loosened.
+Taiga unlocked his phone and opened the email again.
 
-Then Caleb said:
+“Because apparently I can't stand in the right place, make decisions fast enough or control myself like a normal person.”
 
-“You were still right.”
+Nora held out her hand.
 
-Taiga looked over.
+“What?”
 
-“About what?”
+“Give me the phone.”
 
-“I shouldn't move your things.”
+“No.”
+
+“Then stop paraphrasing it like you're presenting evidence to a jury.”
+
+Taiga frowned.
+
+“You don't even know what it says.”
+
+“Exactly.”
+
+He hesitated, then handed it over.
+
+Nora read silently.
+
+Her expression barely changed.
+
+Taiga watched anyway.
+
+“Well?”
+
+She looked up.
+
+“You skipped half of it.”
+
+“No, I didn't.”
+
+“You gave me three negatives and one insult you added yourself.”
+
+“I read the rest.”
+
+“That wasn't what I said.”
+
+Taiga leaned back.
+
+“The good stuff is basic.”
+
+Nora looked at the screen again.
+
+“Pace. Defensive effort. Improves quickly with correction. Direct running.”
+
+“Yes.”
+
+“Which part says basic?”
+
+“It doesn't have to.”
+
+“So that's your addition too.”
+
+Taiga took his phone back.
+
+“You don't understand soccer.”
+
+“I understand lists.”
+
+“Congratulations.”
+
+“And this one has four things you're doing well and four things you need to improve.”
+
+“That's not how it feels.”
+
+Nora raised an eyebrow.
+
+“That doesn't change how counting works.”
+
+Taiga looked away.
+
+Students crossed the square in front of them. Somebody nearly dropped a tray. A group at the next table laughed too loudly.
+
+Nora tore a piece from her sandwich.
+
+“What happened with the last one?”
+
+Taiga looked back.
+
+“What?”
+
+“Emotional control after mistakes.”
+
+“Nothing.”
+
+“Right.”
+
+He exhaled.
+
+“I got pissed off at practice.”
+
+“And?”
+
+“And I told a teammate to worry about his own fucking game.”
+
+Nora paused.
+
+“Was he?”
+
+Taiga frowned.
+
+“What?”
+
+“Worrying about his own game.”
+
+“No.”
+
+“So he was helping you.”
+
+“Yes.”
+
+“And you told him to fuck off.”
+
+“I didn't say fuck off.”
+
+Nora waited.
+
+Taiga looked at her.
+
+“I said, ‘Can you worry about your fucking game?’”
+
+“That distinction is doing a lot of work.”
+
+“He kept correcting me.”
+
+“Was he wrong?”
+
+Taiga stabbed at his food.
+
+“No.”
+
+“Then that note seems unusually well-supported.”
+
+“Whose side are you on?”
+
+“The side where sentences continue to mean what they mean.”
+
+Taiga glared at her.
+
+Nora smiled.
+
+“Did you apologize?”
+
+“Yes.”
+
+“Then I don't understand the crisis.”
+
+“I'm not having a crisis.”
+
+“You've checked the email at least five times.”
+
+“Four.”
+
+“Excellent. Everything is fine.”
+
+Taiga took a drink.
+
+For a while they ate without talking.
+
+He opened the evaluation again.
+
+Nora noticed.
+
+Of course she did.
+
+“What does off-ball positioning mean?”
+
+Taiga looked up.
+
+“You really don't understand soccer.”
+
+“I already told you that.”
+
+He looked back at the line.
+
+“It means where you are when you don't have the ball.”
+
+“That sounds important.”
+
+“It is.”
+
+“And you're bad at it.”
+
+Taiga stared.
+
+Nora shrugged.
+
+“I'm trying your method.”
+
+“What method?”
+
+“Being aggressively concise.”
+
+“Needs work.”
+
+“See? Now we're both receiving feedback.”
+
+Taiga snorted despite himself.
+
+Nora pointed at the phone.
+
+“Can you improve those things?”
+
+“Obviously.”
+
+“Then why are you reading them like permanent characteristics?”
+
+Taiga frowned.
+
+“They're still things I'm bad at.”
+
+“Currently.”
+
+He didn't answer.
+
+Nora went back to eating.
+
+Taiga looked at the list again.
+
+Scanning.
+
+Decision speed.
+
+Off-ball positioning.
+
+He understood what the words meant. That wasn't the problem.
+
+On a frozen board, Mercer could point somewhere and Taiga could usually see the answer.
+
+On the field, everybody moved.
+
+The answer moved with them.
+
+He locked his phone.
+
+Nora looked satisfied for some reason.
+
+“Don't.”
+
+“I didn't say anything.”
+
+“You were about to.”
+
+“I was going to ask if you wanted the rest of my fries.”
+
+Taiga looked at them.
 
 “Oh.”
 
-“I don't like when people move mine.”
+Nora pushed the tray toward him.
 
-Taiga stared at him.
+He took one.
 
-“Then why the hell did you move mine?”
+“Fine.”
 
-Caleb frowned.
+“Very gracious.”
 
-“I already explained that.”
-
-“Yeah, I know.”
-
-“You couldn't hear it.”
-
-“I know.”
-
-“So I assumed—”
-
-“I know, Caleb.”
-
-Caleb stopped.
-
-Taiga rubbed both hands over his face.
-
-“You're unbelievable.”
-
-Caleb returned to his book.
-
-Three minutes passed.
-
-Then:
-
-“The fan is quieter on the windowsill.”
-
-Taiga slowly looked over.
-
-Caleb didn't look up.
-
-“I'm going to throw it at you.”
-
-“That would probably damage it.”
-
-“Thank you, Caleb.”
-
-“You're welcome.”
+“Shut up.”
