@@ -47,21 +47,21 @@ Freshmen use higher squad numbers because they have only just entered the progra
 
 This is especially important for Leo: he often occupies the role traditionally called the **No. 10**, but as a newly arrived freshman he wears **#24**, not #10.
 
-| No. | Player | Position | Year / status |
-| ---: | --- | --- | --- |
-| **1** | **Scott Stirling** | Goalkeeper (GK) | Returning player; first-choice goalkeeper and captain |
-| **2** | **Jonah Ellis** | Right-back (RB) | Returning player |
-| **4** | **Theo Walsh** | Centre-back (CB) | Returning / experienced player |
-| **5** | **Malik Carter** | Centre-back (CB) | Second-year player |
-| **6** | **Gav Foster** | Defensive / holding midfielder (DM) | Returning player |
-| **8** | **Isaac Romero** | Central midfielder (CM) | Returning player |
-| **9** | **Jordan Price** | Striker (ST) | Returning player; starting striker / primary 9 |
-| **11** | **Evan Cole** | Left winger (LW) | Senior; final year; graduates at the end of the year; Taiga's main positional competition |
-| **12** | **Nate Kim** | Goalkeeper (GK) | Returning reserve goalkeeper |
-| **23** | **Aaron Bennett** | Left-back (LB) | Freshman; joins through the freshman tryout |
-| **24** | **Leo Mendez** | Attacking midfielder / central attacking player (AM) | Freshman; newly joined Apollo |
-| **27** | **Vincenzo “Enzo” Delos Reyes** | Right winger (RW) | Freshman; same incoming class as Leo |
-| **41** | **Taiga Akatora** | Left winger (LW) | Freshman development player; number established in Final Chapter 2 |
+|    No. | Player                          | Position                                             | Year / status                                                                             |
+| -----: | ------------------------------- | ---------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+|  **1** | **Scott Stirling**              | Goalkeeper (GK)                                      | Returning player; first-choice goalkeeper and captain                                     |
+|  **2** | **Jonah Ellis**                 | Right-back (RB)                                      | Returning player                                                                          |
+|  **4** | **Theo Walsh**                  | Centre-back (CB)                                     | Returning / experienced player                                                            |
+|  **5** | **Malik Carter**                | Centre-back (CB)                                     | Second-year player                                                                        |
+|  **6** | **Gav Foster**                  | Defensive / holding midfielder (DM)                  | Returning player                                                                          |
+|  **8** | **Isaac Romero**                | Central midfielder (CM)                              | Returning player                                                                          |
+|  **9** | **Jordan Price**                | Striker (ST)                                         | Returning player; starting striker / primary 9                                            |
+| **11** | **Evan Cole**                   | Left winger (LW)                                     | Senior; final year; graduates at the end of the year; Taiga's main positional competition |
+| **12** | **Nate Kim**                    | Goalkeeper (GK)                                      | Returning reserve goalkeeper                                                              |
+| **23** | **Aaron Bennett**               | Left-back (LB)                                       | Freshman; joins through the freshman tryout                                               |
+| **24** | **Leo Mendez**                  | Attacking midfielder / central attacking player (AM) | Freshman; newly joined Apollo                                                             |
+| **27** | **Vincenzo “Enzo” Delos Reyes** | Right winger (RW)                                    | Freshman; same incoming class as Leo                                                      |
+| **41** | **Taiga Akatora**               | Left winger (LW)                                     | Freshman development player; number established in Final Chapter 2                        |
 
 ### Numbering continuity rules
 

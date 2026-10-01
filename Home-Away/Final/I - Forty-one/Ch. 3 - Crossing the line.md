@@ -1135,3 +1135,141 @@ If a defender gave him that much grass, Taiga would've attacked it.
 Maybe that was exactly why Mercer had written *direct running*.
 
 His attention shifted to Enzo, the other winger. 
+St. Vincent had just broken from a corner.
+
+Ellis, the right fullback, was caught high. Their winger took off into the space behind them.
+Enzo turned, did not run immediately. Scott immediately shouted from the goal.
+
+"ENZO! MOVE YOUR ASS!"
+
+Enzo immediately sprinted at full speed, trying to catch him, but didn't insist much.
+Taiga would have probably kept going.
+
+*Defensive effort*
+
+Huh. Maybe it was just Enzo who was lazy.
+
+The match went on. He tried to focus on Evan again.
+St. Vincent tried the same side again. Evans stepped toward the ball carrier too early.
+The midfielder slipped a pass around him.
+Taiga sat forward. 
+
+There it was. Same mistake as Taiga's.
+
+For half a second, Taiga expected him to turn and chase the ball. 
+Instead, he didn't.
+The receiver came forward, Evan stayed on his feet and moved with him, without committing again. Just stayed between him and the middle of the pitch.
+The attacker slowed, looked inside: nothing. He passed backward.
+
+Taiga went still. 
+*Don't commit every time. Force him to make a decision.*
+
+Taiga would have chased, he would have tried to fix the mistake. Evan didn't, and somehow the situation didn't get worse.
+
+The game continued.
+
+Once Taiga knew what he was looking for, he started seeing it everywhere.
+Half the team seemed to be doing useful things without touching the ball.
+Ridiculous sport.
+
+Around the 36th minute, Leo received between to St. Vincent midfielders.
+He looked left before the ball reached him. 
+One touch to Evan, who was wide. 
+The fullback immediately moved toward him.
+Evan passed back to Aaron and immediately stepped inside. St. Vincent fullback followed him.
+
+Taiga saw it immediately: space. 
+
+Aaron run in the now open lane in front of him. He reached the line and crossed. Price got it with the head. Goal.
+
+The stadium erupted, Apollo players ran toward the corner. Price grabbed Bennett around the shoulders. Leo arrived from behind. Evan joined a second later.
+
+Taiga laughed at himself for how blind he had been. 
+
+St. Vincent equalized in the second half. In the next five minutes, Apollo responded badly: rushed passages, Price complained about service, Enzo chased a center-back too far and had to spring back.
+
+Taiga watched Evan again. 
+At this moment, Taiga would have chased everything that moved in front of his eyes.
+Evan was calm. He actually slowed down, playing even more carefully.
+If he run, it was because it was really worth it. If he committed, he did only when he was certain.
+Yeah, that was something Taiga had to work on.
+
+He moved his eyes on other players. He locked automatically on Leo for a few minutes.
+Taiga never actually focused on him, but now that he was looking, Leo was a real pain in the ass.
+He was capable of turning almost instantly. The ball never went more than thirty fucking centimeters from his feet. His head going up and down constantly, always scanning.
+He faced as many one-on-one as he could, and actually won most of them. 
+
+But Taiga now managed to see more than just technique.
+He constantly moved up and down the field. Giving both midfield and attack space and numbers. Most of his job still happened when he didn't have the ball.
+
+Yeah, Leo was good. Really good. Also annoying.
+
+Apollo scored again in the sixty-eighth minute after St. Vincent pushed too many players forward.
+
+Final whistle : two-one.
+
+Taiga barely noticed he'd spent most of the second half leaning forward.
+
+---
+
+He went on the pitch with the other developmental players to help collect equipment.
+
+Taiga carried a bag of cones toward storage while the first team filtered back inside.
+Evan passed him in the corridor, still sweaty, shirt sticking to his back.
+
+“You look like you were doing homework.”
+
+Taiga simply flipped him on his way. Cole laughed and went to the lockers.
+Once he dropped the bag in the storage room, he waited for Mercer to come out from the lockers.
+
+“Coach.”
+
+Mercer looked over.
+
+“What?”
+
+Taiga looked at him.
+
+"Can you give me some material to watch?"
+
+Mercer frowned.
+
+"For what?"
+
+"Positioning. Winger stuff."
+
+Mercer looked at him. Then pointed at the pitch.
+
+"What did you see?"
+
+Taiga took a breath and recollect what he saw during the match.
+
+“Cole doesn't run as much as I do.”
+
+Mercer raised an eyebrow. Taiga continued before he could respond.
+
+“Not because he can't. He waits more. He checks where people are before he gets the ball. And when he screws something up, he doesn't immediately chase it trying to fix it.”
+
+Mercer nodded once. Taiga glanced toward the locker-room corridor.
+
+“And he knows when not to do something.”
+
+That got a small smile.
+
+“Yes.”
+
+Mercer took a blank page on his clipboard and started writing. Then he gave taiga the sheet.
+
+"Look at these matches. Pick an action, dissect it. Understand who moves when and why."
+
+Taiga looked at the list, then nodded at Mercer. 
+
+"Thanks."
+
+Mercer nodded back.
+
+Taiga left the stadium. He opened his phone and looked again at the review.
+Same eight lines, nothing about them had changed.
+That was fine.
+
+He had something to do with them now.
