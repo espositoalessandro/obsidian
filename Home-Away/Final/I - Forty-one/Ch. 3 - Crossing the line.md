@@ -1219,6 +1219,29 @@ Evan passed him in the corridor, still sweaty, shirt sticking to his back.
 "You look like you were doing homework."
 
 Taiga simply flipped him off on his way. Cole laughed and went to the locker room.
+
+On his way, Enzo stopped him.
+
+"Oi, forty-one. Important thing."
+
+"What?"
+
+"Dinner with team after victory, obviously. We earned carbs!"
+
+Taiga answered before even thinking.
+
+"No."
+
+"That was fast."
+
+"Yeah, not in the mood tonight."
+
+Enzo raised his hands.
+
+"Alright, alright."
+
+And followed Evan to the lockers.
+
 Once he dropped the bag in the storage room, he waited for Mercer to come out of the locker room.
 
 "Coach."
