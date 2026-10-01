@@ -163,13 +163,13 @@ Mercer pointed at a magnetic board on an easel just outside the pitch. The board
 
 		                PRICE J.
 
-	    COLE E.         MENDEZ J.        ROSARIO E.
+	    COLE E.         MENDEZ J.        REYES E.
 
-	            BRENNAN G.     ROMERO I.
+	            FOSTER G.     ROMERO I.
 
      BENNETT A.     CARTER M.     WALSH T.      ELLIS J.
 
-	                    PIERCE S.
+	                    STIRLING S.
 
 Mercer pointed at Cole's tag on the magnetic board.
 
@@ -261,7 +261,7 @@ Price pointed at Taiga while jogging back.
 “Do that again.”
 
 Taiga almost told him to fuck off. Then realized it was probably praise. 
-He missed an easy shot ten minutes later, sending it straight at the goalkeeper Mercer had called Stirling. Pierce caught it without moving, then shouted:
+He missed an easy shot ten minutes later, sending it straight at the goalkeeper Mercer had called Stirling. Stirling caught it without moving, then shouted:
 
 “WALSH, STEP\! BENNETT, TUCK IN\!”
 
