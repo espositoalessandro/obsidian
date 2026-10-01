@@ -1079,10 +1079,59 @@ Meanwhile the speaker started announcing names.
 
 For every one of them, the whole home section of the bleachers cheered vigorously. 
 
-"Number, Delos Reyes! Number , Cole, Number ten, Mendez!"
+"Number twenty-seven, Delos Reyes! Number eleven, Cole, Number twenty-four, Mendez!"
 
 Taiga noticed that when Leo got called, people cheered louder.
 The speaker ended with Pierce and proceeded with the away team.
 
+Teams took positions on the pitch. Taiga's eyes immediately found Evan.
+He played the same position, so that seemed like the obvious place to start.
 
+Finally, the referee blew his whistle and the match begun.
 
+St. Vincent pressed immediately. Every pass backward brought another white shirt forward. For the first few minutes, Apollo barely got the ball out of their own half.
+
+Taiga tried to watch Evan rather than the ball, but it turned out to be much harder than expected. His attention kept trying to follow whoever had possession.
+He forced it back.
+Evan was standing wide on the left, almost on the touchline. The ball was on the other side of the field.
+And yet Taiga saw him scanning and checking his shoulder. 
+Once.
+Twice.
+Then a third time. Taiga frowned. There wasn't even anyone near him yet.
+
+The ball went to Aaron behind him. Evan checked over his shoulder once more just before the pass arrived, then came short.
+
+The St. Vincent fullback followed and Evan took one touch returning the ball back to Bennett.
+
+What?
+That was it?
+
+Aaron immediately carried forward into the space Evan had just left.
+
+Taiga leaned forward. Why did Aaron-
+
+Oh. Their fullback had moved. Evan hadn't beaten anyone. Hadn't even turned with the ball.
+
+He'd simply moved the defender. 
+
+*Off-ball positioning*
+
+Fine. Taiga crossed his arms and watched closely.
+
+Few minutes later, Evan received again and this time the fullback gave him space. 
+Taiga expected him to run but Evan didn't. Instead he passed inside to Leo, then he stayed where he was.
+Taiga narrowed his eyes. There was grass behind the fullback. Evan had enough space.
+
+Leo turned, switched the ball to the other side and Apollo attacked through Rosario instead.
+
+Taiga, meanwhile, kept watching Evan.
+He jogged inward. Stopped. Drifted wide again. 
+No sprinting, no demanding for the ball.
+
+He was cautious. 
+
+A thought came automatically: Taiga would've run. Harder.
+If a defender gave him that much grass, Taiga would've attacked it.
+Maybe that was exactly why Mercer had written *direct running*.
+
+His attention shifted to Enzo, the other winger. 
