@@ -873,3 +873,187 @@ Taiga exhaled.
 
 ---
 
+"You're here."
+
+"Why do you sound surprised?"
+
+"Because I am."
+
+Taiga frowned.
+
+"We agreed on a time and a place."
+
+Nora raised an eyebrow.
+
+"Yes Taiga, but last Friday. A week ago."
+
+Taiga shrugged and pulled out a chair to sit. The Oyster was crowded as usual.
+
+"I got busy."
+
+"You basically bailed me."
+
+"I said 'maybe'."
+
+"You said maybe for today too."
+
+"That's what maybe means."
+
+Nora gave him a look.
+
+"Convenient."
+
+Taiga put his food down.
+
+“You're impossible to satisfy.”
+
+Nora rolled her eyes and sat down as well. Taiga was halfway through his pasta when she said,
+
+"You're weirdly silent."
+
+"I am always silent."
+
+"Yes, but not weirdly."
+
+"That almost sounded like a compliment."
+
+"You are weird in other ways."
+
+"I'll take what I can."
+
+Taiga opened his phone and looked at the mail once again.
+After a while, Nora pointed at him.
+
+"See? Weird."
+
+Taiga looked up.
+
+"I'm looking at my phone."
+
+Nora raised an eyebrow and waited.
+
+"Fine. Coach sent a progress evaluation this morning."
+
+"There we go."
+
+"Fuck you."
+
+"Is it bad?"
+
+"No."
+
+"Taiga."
+
+Annoying, as always.
+
+Taiga unlocked his phone and showed her the mail. 
+
+**From: Mercer, Daniel — Apollo Men's Soccer**
+**Subject: Developmental Review — Week 3**
+
+*These are the current staff notes. Nothing here is final. Use them.*
+
+**Positives**
+
+- pace
+- defensive effort
+- improves quickly with correction
+- direct running
+
+**Needs work**
+
+- scanning
+- decision speed
+- off-ball positioning
+- emotional control after mistakes
+
+"Doesn't look that bad. Why do you sound so annoyed?"
+
+Taiga locked his phone and put it down.
+
+“Because apparently I can't stand in the right place, make decisions fast enough or control myself like a normal person.”
+
+She looked up.
+
+“You skipped half of it. You gave me three negatives and one insult you added yourself.”
+
+“The good stuff is basic, generic things they say to everyone.”
+
+Nora waited a couple of seconds.
+
+"I'd summarize it in 'you're stubborn, but sometimes too stubborn'."
+
+She smiled.
+
+"And I basically agree."
+
+Taiga frowned.
+
+"You've never seen me play soccer."
+
+"No, but it applies incredibly well in other areas."
+
+"Fuck you. Was that your attempt to be encouraging?"
+
+"Kind of."
+
+"It needs work."
+
+"See? We've both received feedbacks today."
+
+Taiga snorted before he could control himself. Nora smiled for a second, then she continued.
+
+"What's scanning?"
+
+"When you check around you before receiving the ball."
+
+She nodded.
+
+"And what does off-ball positioning mean?"
+
+"It's... where you stand and how you move when you don't have the ball."
+
+"What? Do you move when you don't have the ball?"
+
+"Apparently."
+
+"Why?"
+
+"That's what I'm supposed to understand. Create spaces, move other players."
+
+Nora laughed from her nose.
+
+"There are men who literally die to mansplain soccer to girls and you give me 'create spaces, move other players'."
+
+Taiga took a drink.
+
+"Good for them."
+
+"Are these things you can improve?"
+
+“Obviously.”
+
+“Then why are you reading them like permanent characteristics?”
+
+Taiga frowned.
+
+“They're still things I'm bad at.”
+
+“Then improve.”
+
+Taiga didn't answer.
+
+She made it sound like it was easy. It was not. Not when you're in the middle of twenty player who all move all around you.
+
+They spent the rest of lunch arguing whether Hall intentionally bait them to provoke discussions during classes.
+He obviously did.
+
+When they were done, Nora had another class at two. Taiga watched her leave.
+
+Annoying. 
+
+Apparently he was a magnet for annoying people.
+He laughed at himself.
+
+___
+

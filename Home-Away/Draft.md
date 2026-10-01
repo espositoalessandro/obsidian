@@ -12,7 +12,7 @@ Taiga stopped near the entrance and opened the message.
 
 There was no introduction beyond one sentence.
 
-*These are the current staff notes. Nothing here is final. Use them.*
+
 
 Then the list.
 
