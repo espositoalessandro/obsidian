@@ -377,7 +377,7 @@ He turned back, then heard a whistle somewhere ahead. Someone shouted. Another v
 
 Taiga looked up.
 
-The Sports Zone opened beside him, and beyond the bleachers sat one of the soccer pitches. Players moved behind the metal fence surrounding it, passing balls between them while a coach yelled something Taiga couldn't make out.
+He realized he was wandering in the Sports Zone, and beyond the bleachers sat one of the soccer pitches. Players moved behind the metal fence surrounding it, passing balls between them while a coach yelled something Taiga couldn't make out.
 
 He followed the noise.
 
@@ -395,13 +395,13 @@ A few moments later, the ball was moving again.
 
 He'd never watched a proper match this close before. The pitch looked even bigger from ground level. Players spread across all of it, calling to each other, changing direction before the ball even reached them.
 
-What caught his attention was that almost nobody was running towards the ball. Half of them were moving somewhere else entirely, like they already knew where the next pass was going.
+Almost nobody was running towards the ball. Half of them were moving somewhere else entirely, like they already knew where the next pass was going.
 
-Then the ball reached a blond guy on the near side.  He received it on his chest, brought it down, and took off. 
+Then the ball reached a blond guy on the near side. He received it on his chest, brought it down, and took off. 
 One player started following him, but the blond was already ahead. He raised his head and looked inside. Another defender stood in his way. 
 He was freaking fast.
 He feinted right, then cut left, leaving the defender in place.
-Then turned inward, reached the penalty area and shot from an angle.
+Then he turned inward, reached the penalty area and shot from an angle.
 
 Out.
 Taiga raised an eyebrow.
@@ -411,9 +411,9 @@ One of his teammates yelled:
 
 "You just launched a new satellite!"
 
-The blond one laughed.
+He laughed.
 
-"Wow Enzo, that one was almost good."
+"Wow, Enzo. That one was almost good."
 
 The guy named Enzo pointed at him.
 
@@ -421,11 +421,11 @@ The guy named Enzo pointed at him.
 
 "It was out of mercy."
 
-The goalkeeper interrupted, "RESET!"
+The goalkeeper shouted, "RESET!"
 
 Still laughing, the blond guy jogged back into position.
 
-He turned to leave.
+Taiga turned to leave.
 A bulletin board stood just outside the pitch. Most of it was covered in useless notices but one caught his attention.
 
 **APOLLO SOCCER - MEN'S OPEN TRYOUTS**
