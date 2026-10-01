@@ -1,661 +1,938 @@
-Saturday's match against St. Vincent was the first time Taiga watched Apollo with Mercer's evaluation open on his phone.
+# Chapter 4 - Margins
 
-Developmental players sat together a few rows behind the home bench, in team warm-ups but not dressed to play. Taiga had expected that to feel worse than it did.
+## Scene 1 — Olympus has become sortable
 
-Mostly, he was busy.
+By the fourth week, Taiga had begun to recognize people whose names he did not know. There was the tall girl with silver headphones who always bought tea from the kiosk outside the library at 8:20. There was the guy from chemistry who rode a skateboard badly enough that Taiga had now seen him fall three separate times. There was the older woman who worked the morning shift at the small dining hall and automatically started making Taiga's coffee when she saw him in line.
 
-He read the list one more time before kickoff.
+There were two students who always sat beneath the same oak tree between ten and eleven, usually with notebooks open and almost never studying. There was a red-haired girl from the women's volleyball team who seemed to know Caleb, though Taiga had no idea from where. Olympus had stopped being populated exclusively by strangers. That didn't mean these people mattered. But they existed in categories now. Known unknowns. Taiga liked known unknowns. Unknown unknowns were where problems came from.
 
-**Positives**
+People were becoming easier too. Mercer got louder when he expected more. Evan gave advice as if disagreement was part of the process. Scott seemed to save most of his daily vocabulary for the goal. Caleb noticed almost everything and explained almost nothing unless asked. Nora argued because she enjoyed getting to the bottom of things.
 
-- pace
-- defensive effort
-- improves quickly with correction
-- direct running
+Leo was soccer. Loud, fast, usually somewhere near Enzo, occasionally in Taiga's way.
 
-**Needs work**
+Simple enough.
 
-- scanning
-- decision speed
-- off-ball positioning
-- emotional control after mistakes
+Taiga was thinking about this while walking toward Political Institutions when Nora appeared beside him without warning.
 
-He locked the phone.
+“You walk ridiculously fast.”
 
-Fine.
+Taiga looked over.
 
-If Mercer wanted him to use it, he could use it.
+“You're short.”
 
-The teams came out.
+Nora frowned.
 
-Taiga found Evan first.
+“You're not exactly towering over the general population.”
 
-Same position.
+“Still taller than you.”
 
-That seemed like the obvious place to start.
+“By maybe five centimeters.”
 
-St. Vincent pressed immediately. Every pass backward brought another white shirt forward. For the first few minutes, Apollo barely got the ball out of their own half.
+“That's enough.”
 
-Taiga watched Evan instead of the ball.
+She adjusted the strap of her bag. Taiga noticed she had a paper cup in one hand and three books tucked under the other arm.
 
-It was harder than expected.
+“You know they make backpacks for that.”
 
-His attention kept trying to follow whoever had possession. He forced it back.
+“I have a backpack.”
 
-Evan was standing wide on the left, almost on the touchline.
+“Then why are you carrying everything?”
 
-Nothing happened.
+“Because if I put the books away, I'll forget I need to return one.”
 
-The ball moved through Carter. Romero. Back to Walsh.
+Taiga looked at her.
 
-Evan looked over his shoulder.
+“That doesn't make sense.”
 
-Then again.
+“It makes perfect sense.”
 
-Then a third time.
+“You are physically inconveniencing yourself because you're afraid you'll forget a book.”
 
-Taiga frowned.
+“Yes.”
 
-There wasn't even anyone near him yet.
+“Put a reminder on your phone.”
 
-The ball went to Bennett behind him. Evan checked over his shoulder once more just before the pass arrived, then came short.
+“I'll ignore it.”
 
-The St. Vincent fullback followed.
+“Then that's a you problem.”
 
-Evan took one touch and returned the ball to Bennett.
+“It currently is a me problem.”
 
-Taiga stared.
+Nora shifted the books. Taiga looked forward again. They walked another few seconds. Then he reached over and took the top two books from her. Nora blinked.
 
-That was it?
+“What are you doing?”
 
-Bennett immediately carried forward into the space Evan had just left.
+“You're walking crooked.”
 
-Oh.
+“I was not.”
 
-Taiga leaned forward.
+“You were leaning.”
 
-Evan hadn't beaten anyone. Hadn't even turned with the ball.
+“I can carry my own books.”
 
-He'd moved the defender.
+“I know. You're still walking crooked.”
 
-*Off-ball positioning.*
+She looked at him. Taiga immediately regretted touching anything.
 
-Fine.
+“Do you want them back?”
 
-One down.
+“No, I don't.”
 
-A few minutes later, Evan received again.
+“Then stop glaring at me.”
 
-This time the fullback gave him space.
+“I was going to say thank you.”
 
-Taiga expected him to run at him.
+“You have a terrible way of showing gratitude.”
 
-Evan didn't.
+Nora laughed.
 
-One touch inside to Leo. Then he stayed where he was.
+“Caleb is rubbing off on you.”
 
-Taiga frowned.
+Taiga's head turned.
 
-There was grass behind the defender. Evan could have gone.
+“What does that mean?”
 
-Leo turned, switched the ball to the other side and Apollo attacked through Rosario instead.
+“You're starting to catalogue people's expressions.”
 
-Taiga kept watching Evan.
+“I am not.”
 
-He jogged inward. Stopped. Drifted wide again.
+“You just called me predictable.”
 
-No sprint.
+“Everybody is predictable eventually.”
 
-No demand for the ball.
+“That's somehow worse.”
 
-Nothing.
+Taiga gave her the books back.
 
-Taiga would've run.
+“Carry your own shit.”
 
-The thought came automatically.
+Nora laughed harder and nearly spilled her coffee.
 
-If a defender gave him that much grass, Taiga would've attacked it.
+---
 
-Maybe that was exactly why Mercer had written *direct running*.
+## Scene 2 — 74/100
 
-The phrase had looked almost insulting yesterday. Like something a coach wrote when he needed a fourth positive and had run out of ideas.
+Professor Hall returned their first response papers that morning. Taiga received a seventy-four. He stared at the number.
 
-Now Taiga wasn't so sure.
+**74/100**
 
-The ball came back left.
+Below it:
 
-This time Evan did go.
+**Strong instincts and an interesting objection, but the argument needs greater engagement with the assigned text. Several claims are asserted rather than demonstrated.**
 
-One touch forward and then straight at the fullback.
+Taiga read the comment twice. Then the grade. Seventy-four. He had not received a seventy-four on written work in years. His stomach dropped. Ridiculous reaction. It was one response paper. Worth five percent. Objectively almost irrelevant. His brain ignored all of that. He opened the grading rubric. Argument: 16/25. Evidence: 17/25. Engagement: 18/25. Clarity: 23/25. Clarity. Great. At least he'd clearly explained his mediocre argument. Nora sat beside him. The professor hadn't arrived yet. She leaned over.
 
-The defender turned.
+“What'd you get?”
 
-Evan accelerated past him and drove toward the box.
+Taiga closed the tab.
 
-There.
+“None of your business.”
 
-Taiga knew that feeling.
+“Bad?”
 
-Space in front. Defender retreating. Go.
+“No.”
 
-The cross got blocked and went out for a corner.
+“That means yes.”
 
-Evan didn't look particularly bothered.
+Taiga turned.
 
-Taiga opened the email again.
+“What did you get?”
 
-*direct running*
+“Eighty-one.”
 
-He looked back at the field.
+He felt something ugly and immediate. Not anger at her. Comparison. He hated it. Nora grimaced.
 
-Okay.
+“I thought mine was better.”
 
-Maybe not generic.
-
-The corner came to nothing.
-
-St. Vincent broke immediately.
-
-Bennett was caught high. Their right winger took off into the space behind him.
-
-Evan turned and ran back.
-
-Not as fast as Taiga would've.
-
-Taiga knew that too.
-
-He would've sprinted until his lungs hurt.
-
-Evan tracked the runner for a few seconds, then slowed when Carter stepped across and the danger moved inside.
-
-Taiga would've kept going.
-
-Probably.
-
-Mercer had written *defensive effort*.
-
-Taiga looked at the words again.
-
-He'd dismissed that one too.
-
-On the field, St. Vincent recycled possession.
-
-Apollo reset.
-
-Maybe the positives weren't there to make the bottom half hurt less.
-
-That was annoying.
-
-St. Vincent tried the same side again.
-
-Evan stepped toward the ball carrier.
-
-Too early.
-
-The midfielder slipped a pass around him.
-
-Taiga sat forward.
-
-Evan had made the same mistake Taiga had made Tuesday.
-
-For half a second, Taiga expected him to turn and chase the ball.
-
-He didn't.
-
-Evan dropped.
-
-The receiver came forward.
-
-Evan stayed on his feet and moved with him.
-
-Didn't reach.
-
-Didn't jump.
-
-Just stayed between him and the middle of the pitch.
-
-The attacker slowed.
-
-Looked inside.
-
-Nothing.
-
-Passed backward.
-
-Taiga went still.
-
-*Don't commit every time.*
-
-*Force him to make a decision.*
-
-There it was.
-
-Not on a frozen board.
-
-Not with Mercer pointing at cones.
-
-Moving.
-
-Evan had lost the first moment and then simply played the next one.
-
-He hadn't tried to win the ball back immediately.
-
-Hadn't tried to erase the mistake.
-
-Taiga heard Mercer's voice from Tuesday.
-
-*Stop trying to fix the last mistake with the next one.*
-
-Right.
-
-That was what he'd meant.
-
-Taiga sat back.
-
-For the first time all week, the sentence didn't annoy him.
-
-The game continued.
-
-Once Taiga knew what he was looking for, he started seeing it everywhere.
-
-Evan checked behind himself before passes arrived.
-
-Leo did it constantly in the middle, sometimes twice in the second before receiving.
-
-Rosario moved before the ball reached his side.
-
-Price spent entire stretches making runs that nobody used.
-
-Half the team seemed to be doing useful things without touching the ball.
-
-Ridiculous sport.
-
-Around the twenty-fifth minute, Leo received between two St. Vincent midfielders.
-
-Before the ball reached him, he'd already looked left.
-
-One touch.
-
-Pass to Evan.
-
-Evan was wide.
-
-The fullback moved toward him.
-
-Evan passed backward to Bennett and immediately stepped inside.
-
-The defender followed.
-
-Bennett ran into the empty lane outside them.
-
-Taiga saw it before the pass came.
-
-“There.”
-
-The developmental player beside him looked over.
+Taiga paused.
 
 “What?”
 
-“Nothing.”
+She showed him. Her feedback was almost identical.
 
-Bennett reached the line and crossed.
+**Insufficient engagement with counterargument.**
 
-Price got there first.
+Nora sighed.
 
-Goal.
+“He grades hard.”
 
-The stadium erupted.
+Taiga stared at her screen.
 
-Taiga stood with everyone else.
+“You got an eighty-one.”
 
-Apollo players ran toward the corner. Price grabbed Bennett around the shoulders. Leo arrived from behind. Evan joined a second later.
+“Yes.”
 
-Taiga sat again.
+“And you're complaining.”
 
-That move had looked complicated two weeks ago.
+“Yes.”
 
-Now it looked—
+Taiga looked back at his own laptop. Professor entered. Class began. Taiga took notes. He had too many thoughts to contribute any of them. Every time he considered raising his hand, the seventy-four sat in the corner of his mind. *Strong instincts.* Which sounded suspiciously like: *Good effort.* The phrase adults used when children produced terrible drawings.
 
-Not simple.
+By the end of class, irritation had fermented into something colder. He packed quickly. Nora said, “Hey.”
 
-But readable.
+“What?”
 
-He liked that better.
-
----
-
-Apollo went into halftime one goal up.
-
-Taiga stayed in his seat while people around him got drinks or went to the bathroom.
-
-He opened Mercer's email again.
-
-This time he started at the top.
-
-Pace.
-
-Yes.
-
-Defensive effort.
-
-Yes.
-
-Improves quickly with correction.
-
-He stopped there.
-
-Annoying.
-
-Also yes.
-
-Direct running.
-
-He looked toward the tunnel where the team had disappeared.
-
-Yes.
-
-Then the bottom half.
-
-Scanning.
-
-Decision speed.
-
-Off-ball positioning.
-
-All things he'd just watched other players do better than him.
-
-Not because they were faster.
-
-Because they saw the next thing earlier.
-
-Emotional control after mistakes.
-
-Taiga locked the phone.
-
-That one didn't require further research.
-
-Fine.
-
-The report was accurate.
-
-He hated how anticlimactic that realization was.
-
-No revelation. No sudden confidence.
-
-Just—
-
-Fine.
-
-Accurate.
-
-Which meant useful.
-
----
-
-St. Vincent equalized early in the second half.
-
-Apollo responded badly for about five minutes.
-
-Passes got rushed. Price complained about service. Enzo chased a center-back too far and had to sprint back.
-
-Then the shape settled again.
-
-Taiga watched Evan.
-
-And, now that he was looking for it, noticed something else.
-
-Evan did less than Taiga.
-
-Not worse.
-
-Less.
-
-He didn't attack every time he received wide.
-
-Didn't sprint into every piece of open grass.
-
-Didn't chase every loose ball.
-
-Sometimes he stayed where he was and let somebody else run.
-
-Sometimes the defender backed off and Evan still passed backward.
-
-Taiga would've hated doing that.
-
-Probably still would.
-
-But when Evan finally did accelerate, it meant something.
-
-The defender had already shifted.
-
-The lane was actually there.
-
-Taiga looked down at his hands.
-
-His problem wasn't that he ran too much.
-
-Mercer had literally listed the running as a strength.
-
-The problem was that Taiga treated every possible run like it had to happen now.
-
-Same with defending.
-
-Same with mistakes.
-
-Effort wasn't the problem.
-
-Choosing where to put it was.
-
-That—
-
-That he could work with.
-
-Apollo scored again in the sixty-eighth minute.
-
-The third came late, after St. Vincent pushed too many players forward.
-
-Three-one.
-
-Final whistle.
-
-Taiga barely noticed he'd spent most of the second half leaning forward.
-
----
-
-Developmental players helped collect equipment after the match.
-
-Taiga carried a bag of cones toward storage while the first team filtered back inside.
-
-Evan passed him in the corridor, still sweaty, shirt sticking to his back.
-
-He pointed at Taiga.
-
-“You look like you were doing homework.”
-
-Taiga adjusted the bag on his shoulder.
-
-“Fuck off.”
-
-Evan grinned and kept walking.
+“Office hours.”
 
 Taiga stopped.
 
-“Cole.”
+“What about them?”
 
-Evan turned.
+“You should go.”
 
-Taiga almost asked him.
+“Why?”
 
-Then changed his mind.
+“Because you're clearly going to spend the next six days being angry at a number.”
 
-“No. Nothing.”
+Taiga stared.
 
-Evan gave him a suspicious look, but left.
+“You don't know me.”
 
-Mercer was near the equipment room talking to one of the assistants. Taiga waited until they finished.
+“I know that you've checked the grade three times during this lecture.”
 
-“Coach.”
+Fuck. Was everyone at Olympus conducting surveillance? Nora put her laptop away.
 
-Mercer looked over.
-
-“What?”
-
-Taiga put the cones down.
-
-“The review.”
-
-Mercer waited.
-
-Taiga hated that coaches did that too.
-
-“Do you have match videos I can use?”
-
-Mercer's expression changed slightly.
-
-“For what?”
-
-“The positioning stuff.”
-
-“That's most of football.”
-
-“You know what I mean.”
-
-Mercer folded his arms.
-
-“Winger movement?”
-
-“Yeah. Scanning too. Decision making.”
-
-Mercer looked toward the corridor.
-
-“You watched the match?”
+“I'm going tomorrow.”
 
 Taiga frowned.
 
-“I was sitting there for ninety minutes.”
+“Why?”
 
-“That wasn't the question.”
+“Because I want to know what he wanted.”
 
-Taiga understood.
+“That seems obvious.”
 
-“Yes.”
+“Then why'd you get seventy-four?”
 
-“What did you see?”
+Taiga stared. Nora smiled sweetly.
 
-Taiga thought about it.
+“See you Friday.”
 
-“Cole doesn't run as much as I do.”
+She left. Taiga remained seated for several seconds. Then muttered:
 
-Mercer raised an eyebrow.
+“Bitch.”
 
-Taiga continued before he could respond.
+---
 
-“Not because he can't. He waits more. He checks where people are before he gets the ball. And when he screws something up, he doesn't immediately chase it trying to fix it.”
+## Scene 3 — Leo follows him home
 
-Mercer nodded once.
+At 2:17 that night, Taiga woke up.
 
-“And?”
+For several seconds he lay still, staring into the dark and trying to work out what had pulled him awake.
 
-Taiga glanced toward the locker-room corridor.
+Then his brain supplied the answer.
 
-“He's better at knowing when not to do something.”
+White tile.
 
-That got a small smile.
+Running water.
 
-“Yes.”
+Leo turning beneath the shower.
 
-Taiga shoved his hands into his pockets.
+Taiga shut his eyes.
 
-“But I run more.”
+“Fuck.”
 
-“You do.”
+The word barely made sound.
 
-“And I track back harder.”
+Across the room, Caleb did not move. His blanket rose and fell with slow, regular breaths. The digital clock beside his bed cast a faint blue rectangle across the wall.
 
-“Usually.”
+Taiga rolled onto his side, facing away from him.
 
-“So those weren't filler.”
+This was stupid.
 
-Mercer looked at him.
+He had seen naked men before. Camp showers existed. Yoichi had once made privacy seem like a personal insult. None of this qualified as new information.
 
-“What?”
+His body apparently disagreed.
 
-“The positives.”
+Taiga pulled the blanket higher and waited for the problem to resolve itself.
 
-A pause.
+It did not.
 
-Then Mercer laughed once.
+Instead, the shower came back in pieces.
 
-“No, Akatora. I did not run out of things to write halfway through your evaluation.”
+Leo's shoulders when he'd turned around. Water running down the narrow line of his back. His waist. The glance Taiga had absolutely not needed to take lower down.
 
-Taiga looked away.
 
-“Whatever.”
+Taiga pressed his face into the pillow.
 
-Mercer pulled out his phone.
+Great.
 
-“I'll send you access to the film library.”
+He tried thinking about the match instead. Aaron's goal. Mercer's comment. The run before the cutback. Useful things. Football things.
 
-Taiga looked back.
+Leo had been in those too.
 
-“There's a library?”
+Of course he had.
 
-“Try not to sound excited.”
+Another minute passed.
 
-“I'm not.”
+Caleb slept through six alarms most mornings. Taiga had watched an entire electronic ecosystem scream at him while he remained mostly unconscious.
 
-“Obviously.”
+He looked over his shoulder anyway.
 
-Mercer tapped something on the screen.
+Nothing.
 
-“Don't watch the ball.”
+“This is fucking ridiculous,” he whispered.
 
-Taiga frowned.
+No response.
 
-“What?”
+Fine.
 
-“Pick a winger. Ten minutes at a time. Watch him, not the ball. Where he starts. When he checks his shoulder. When he stays wide. When he comes inside.”
+Taiga turned back toward the wall and slipped one hand beneath the blanket.
 
-Taiga nodded.
+Every tiny movement suddenly sounded enormous. Fabric shifting. Mattress springs. His own breathing. He stopped when Caleb moved, but Caleb only rolled farther toward the wall and went still again.
 
-Mercer looked at him.
+Taiga waited.
 
-“And when he doesn't run even though he could.”
+Then continued.
 
-Taiga thought about Evan standing still while space opened in front of him.
+He tried, briefly, not to think about anyone in particular.
+
+That lasted maybe ten seconds.
+
+His mind gave him Leo again with insulting precision: wet hair pushed back from his forehead, water on his chest, the easy way he'd stood there talking as if being completely naked in front of Taiga were the least interesting thing happening in the room.
+
+Then lower.
+
+Taiga's breath caught.
+
+Fuck it.
+
+He stopped trying to replace the image.
+
+Leo laughing. Leo turning. The shape of him from behind. That stupid round ass Taiga had already noticed once and apparently had not forgotten. The open showers had left nowhere useful to look, and his memory had apparently kept considerably more than he wanted to admit.
+
+His pace quickened.
+
+Caleb kept sleeping.
+
+Taiga bit the inside of his cheek and kept quiet.
+
+As he neared his climax, he rolled onto his back and pulled up his shirt.
+God, that would be a really bad moment for Caleb to wake up.
+
+Taiga bit the hem of his shirt to keep it raised and continued stroking his dick. Harder. Faster.
+Right before cumming, he kicked the blanket away. Barely in time.
+He closed his eyes and made a muffled “ugh” sound, biting hard into his shirt.
+His whole body arched upward as he started shooting.
+The first bursts reached his chest, then his abdomen.
+Eventually, the rest slowly dripped from his hand.
+
+Taiga glanced at Caleb. Nothing. Thank God.
+
+He started catching his breath again.
+
+Then nothing.
+
+Dark room. Caleb breathing. The clock now read 2:44.
+
+Taiga stared at the ceiling, finally releasing his shirt from his teeth, breathing heavily.
+
+“Fuck,” he whispered.
+
+He stayed still until his breathing settled, then slipped out of bed, cleaned himself up in the bathroom and returned as quietly as possible. Caleb never moved.
+
+Back under the blanket, embarrassment arrived now that the physical problem was gone.
+
+Taiga refused to do anything with it.
+
+He'd been horny. He'd seen an attractive guy naked. His brain had used what was available.
+
+That was it.
+
+He was not holding an investigation at two-thirty in the fucking morning.
+
+Taiga turned the pillow over, closed his eyes and went back to sleep.
+
+---
+
+## Scene 4 — First Chemistry lab
+
+Wednesday brought the first General Chemistry lab session. Taiga had disliked the laboratory before anything happened in it. Goggles fogged. Gloves made his hands feel clumsy. The benches were too crowded. Every bottle had three labels, two hazard symbols and a warning written as if somebody in a previous year had attempted to drink it.
+
+He looked around and saw a familiar blond head. A small, private wave of embarrassment arrived with the recognition. Taiga ignored it. Leo was sitting next to a girl and talking. Taiga didn't bother making him aware of his presence.
+
+Professor Dalia Hassan handled the lecture course. The lab belonged mostly to Seth Miller, a graduate assistant who began every session by saying, “I know you are all adults,” and then describing a new way adults had injured themselves. Today he stood at the front beside four trays of glassware.
+
+“New table groups. These will stay the same through the next unit.”
+
+Taiga looked at the screen.
+
+**Table 6**
+
+- Taiga Akatora  
+- Priya Shah  
+- Marcus Reed  
+- Daniel Wu
+
+Then:
+
+**Table 3**
+
+- Lucas Campbell  
+- Leo Mendez  
+- Mia Harper  
+- Anne Anderson
+
+Then he read the next name.
+
+Mia Harper.
+
+“Forty-one\!”
+
+Taiga closed his eyes and sighed. Apparently he wasn't the only one reading other tables.
+
+Leo had turned and was waving at him with a big smile. Taiga lifted one hand in response.
+
+Before Leo could say anything else—and he definitely would have—Seth told everyone to form their groups.
+
+Priya was two benches away. She saw the list at the same time and pointed at him.
+
+“Hi. You're ours.”
+
+That sounded threatening. Marcus dragged his stool over. Daniel arrived carrying his lab notebook, a ruler and two pens. Taiga looked at the pens.
+
+“Backup?”
+
+Daniel nodded. “One leaked last week.”
+
+“Of course it did.”
+
+Their assignment was simple on paper: prepare three salt solutions at specific concentrations, verify the masses and volumes, then compare expected and observed density. In practice, four people immediately developed four preferred ways of doing it. Priya read the procedure aloud once and started dividing tasks. Marcus said, “Can we just make one solution each and have somebody check the math?” Daniel said, “We should all check the math before anybody touches the stock.” Taiga had already calculated all three.
+
+Priya looked at his notebook.
+
+“You did them?”
 
 “Yeah.”
 
-“That one's going to hurt you.”
+“Can we see?”
 
-“Fuck you.”
+He hesitated. Then turned the notebook around. Marcus read the first line.
 
-Mercer smiled.
+“You skipped a step.”
 
-“Very emotionally controlled.”
+“I did it mentally.”
 
-Taiga stared at him.
+“That isn't helpful if we're checking you.”
 
-Mercer pointed toward the equipment room.
+Taiga looked at him. Marcus looked back, entirely unbothered. Fair. Taiga wrote the missing conversion. Priya smiled. “Excellent. We have achieved documentation.”
 
-“Put the cones away.”
+“Don't make it a thing.”
 
-Taiga picked up the bag.
+“Too late.”
 
-His phone buzzed before he reached the door.
+They worked. Priya was fast and exact about procedure. She checked the label twice before pouring anything and became visibly irritated when Marcus set a clean pipette too close to the waste beaker. Marcus cared less about elegance than whether the result made sense. Daniel recorded everything, including room temperature, because the instructions said to. Taiga measured well but kept wanting to move ahead before the others had finished recording.
 
-**Apollo Film — access granted**
+“Wait,” Daniel said for the third time.
 
-He stopped for half a second.
+“The number isn't changing.”
 
-Then kept walking.
+“The notebook is.”
 
-The review was still in his inbox.
+Taiga stopped. Daniel wrote.
 
-Same eight lines.
+“Okay.”
 
-Nothing about them had changed.
+Taiga moved. Annoying. Reasonable. Across the room, Leo and Mia were working at the next bank of benches. Leo had been talking for most of the session. Not loudly enough for the TA to stop him. Just continuously. Mia said something Taiga couldn't hear. Leo turned to answer while reaching behind himself for a clamp. His lab coat cuff passed too close to the blue flame beneath their beaker. There was a brief orange flare.
 
-That was fine.
+Mia slapped his forearm. Leo jerked back. Seth crossed the room in three steps and shut the gas valve. Everyone nearby went quiet. Leo stared at the blackened edge of his sleeve. Then at Mia.
 
-He had something to do with them now.
+“You hit me.”
+
+“You were on fire.”
+
+“That feels like relevant context.”
+
+Seth took Leo's wrist and checked the skin beneath the cuff.
+
+“You burned?”
+
+“No.”
+
+“Sure?”
+
+“Yes.”
+
+Seth looked at the sleeve. A brown-black crescent had eaten through the outer fabric but stopped well before Leo's skin.
+
+“Good. New coat after lab. And from now on, when you're reaching around an open flame, your conversation can survive a two-second pause.”
+
+Leo rubbed the back of his neck.
+
+“Fair.”
+
+Mia looked at Taiga across the aisle. Taiga was already smiling when Leo noticed.
+
+“Enjoying yourself?”
+
+“A lot.”
+
+“Great. Fantastic.”
+
+Taiga's smile widened. Priya whispered, “Do you know him?”
+
+“Soccer.”
+
+Marcus looked toward the scorched sleeve. “Is he always like that?”
+
+“More or less.”
+
+Leo heard.
+
+“I can hear you.”
+
+Mia said, “Great. Then hear this: new rule. No storytelling while operating fire.”
+
+“That is authoritarian.”
+
+“That is survival.”
+
+Seth clapped once.
+
+“Everybody who is not currently combusting, back to work.”
+
+The room restarted. Taiga's group finished all three solutions. One density measurement came out wrong. Not slightly wrong. Impossible. Priya frowned at the graduated cylinder. Marcus said, “We fucked something.” Daniel checked the recorded masses. Taiga checked the calculations. All correct. They ran through the procedure backward. No answer.
+
+Priya looked at him.
+
+“You look like the universe has personally insulted you.”
+
+Taiga stared. Marcus laughed. Daniel said, “The cylinder was still wet.” All three turned. Daniel pointed.
+
+“We rinsed it with distilled water after the first trial and didn't dry it before the second. That dilutes the sample.”
+
+Taiga looked at the cylinder. There. Physical state. Not hidden. Just forgotten. He exhaled.
+
+“Okay. Again.”
+
+They repeated the measurement. This time it landed where it should. Seth checked their sheet.
+
+“Good recovery. Put the error in the report. Do not pretend the first value never existed.”
+
+Taiga frowned.
+
+“Why would we include a bad measurement?”
+
+“Because explaining why data are bad is part of the experiment.”
+
+“Fair.”
+
+Daniel started writing the error note. By the time lab ended, Taiga's gloves smelled faintly of ethanol, his goggles had left marks on his face and their shared report already had four different styles of note in the margin. He should have hated the group. Instead, when Priya created a chat called **TABLE SIX — DO NOT DRINK ANYTHING**, Taiga joined before she had to ask. That was probably progress.
+
+When Seth dismissed the class, Taiga looked up. Leo was already heading out with Mia.
+
+Taiga packed his goggles.
+
+---
+
+## Scene 5 — Mia's Git problem
+
+Thursday afternoon, Taiga headed toward training.
+
+The athletic complex appeared ahead. Players crossed the parking lot. Women's team finishing. Men's team arriving. Leo was standing near the entrance talking to Mia. She was showing Leo something on her laptop. Leo looked horrified. Taiga passed close enough to hear:
+
+“You deleted the branch?”
+
+Mia groaned.
+
+“I thought it was merged.”
+
+“You *thought*?”
+
+“Do not use that tone.”
+
+“What tone? There is no tone. I'm just asking why you deleted—”
+
+Mia saw Taiga.
+
+“Save me.”
+
+Taiga stopped. Leo looked over.
+
+“Do not save her. She's a criminal.”
+
+Taiga looked at the laptop.
+
+“What happened?”
+
+“Deleted a branch before checking the merge.”
+
+Taiga stared at Mia. Mia's eyes widened.
+
+“Why do you both look like I killed somebody?”
+
+Taiga said, “Because that's insane.”
+
+“Oh my God.”
+
+Leo pointed at him.
+
+“Thank you.”
+
+Taiga handed the laptop back.
+
+“Restore it from remote.”
+
+Mia frowned.
+
+“You know Git?”
+
+“That's enough.”
+
+Leo looked between them. Mia said:
+
+“Can either of you just fix it?”
+
+Taiga looked at the time.
+
+“We got training.”
+
+Leo checked too.
+
+“Shit.”
+
+Mia crossed her arms.
+
+“You promised.”
+
+“I said I'd look.”
+
+“You have looked.”
+
+“I need five minutes.”
+
+“You have three.”
+
+Leo opened the laptop again. Taiga started walking away. Leo called:
+
+“Wait. Taiga.”
+
+Taiga looked back.
+
+“What?”
+
+“You said you know Git. Come here.”
+
+Taiga sighed.
+
+“I have to change.”
+
+“So do I.”
+
+Mia held out the laptop like an offering.
+
+“Please.”
+
+Taiga returned. Three minutes later, they restored the branch. Mia closed the laptop.
+
+“I love both of you.”
+
+That landed weird.
+
+Leo said:
+
+“Buy me dinner.”
+
+Mia pointed.
+
+“See? This is why he keeps getting fed.”
+
+Taiga frowned.
+
+“What does that mean?”
+
+“He fixes one branch and starts invoicing me in food.”
+
+Leo laughed. Mia looked at Taiga.
+
+“Apparently Git support has a dinner surcharge.”
+
+Taiga shrugged.
+
+“Sounds efficient.”
+
+Mia smiled.
+
+“I like him.”
+
+Leo slung his bag over his shoulder.
+
+“He's terrible.”
+
+“Still.”
+
+They separated. Mia toward the computer science building. Leo and Taiga toward the locker room. For several seconds they walked together. Not awkward. Not comfortable either. Just walking.
+
+Leo said:
+
+“Thanks.”
+
+“She's lucky the branch was still remote.”
+
+“I told her not to delete anything else until tonight.”
+
+“That might be beyond her.”
+
+Leo laughed.
+
+“You code?”
+
+“A little.”
+
+“What kind?”
+
+Taiga shrugged.
+
+“Mostly scripts. Some web stuff. Nothing serious.”
+
+“That is always what people say right before describing a project that took six months.”
+
+“It didn't.”
+
+Leo smiled.
+
+“Okay, then.”
+
+They entered the locker room. Aaron shouted something from across the room. Leo answered and walked away. Conversation finished. Taiga changed. Again. He liked normal.
+
+---
+
+## Scene 6 — Hall office hours
+
+Friday morning, Taiga went to office hours. He told nobody. Not Nora. Not Keitaro. Definitely not Caleb. He booked the first available slot. Professor Hall's office contained too many books and one dying plant. Taiga stood in the doorway. The professor looked up.
+
+“Ah, Akatora.”
+
+Of course professors knew names. That seemed unfair.
+
+“Come in.”
+
+Taiga sat. Hall folded his hands.
+
+“What can I do for you?”
+
+Taiga hated the question. He knew why he was there. Saying it out loud made it sound vulnerable.
+
+“I wanted to ask about the response paper.”
+
+Hall nodded.
+
+“That's good.”
+
+Good? Taiga immediately distrusted this.
+
+“What specifically?”
+
+“The engagement score.”
+
+“Okay, then.”
+
+Taiga opened the paper on his laptop.
+
+“You said I asserted things without demonstrating them.”
+
+“Yes.”
+
+“I thought I did.”
+
+Hall smiled slightly.
+
+“Show me.”
+
+Taiga found the paragraph. Read it. Pointed.
+
+“This.”
+
+Hall leaned closer.
+
+“You identify a weakness in the author's assumption.”
+
+“Yes.”
+
+“But you don't establish that the weakness is fatal.”
+
+Taiga frowned.
+
+“It is.”
+
+“To you.”
+
+Taiga looked at him. Hall continued.
+
+“You're very quick.”
+
+Taiga didn't respond.
+
+“That can be an advantage.”
+
+Here came the compliment before the criticism. Taiga knew this structure. Hall pointed at the paragraph.
+
+“But I suspect your mind is finishing steps you aren't putting on the page.”
+
+Taiga looked down. Hall continued.
+
+“You see the endpoint. Your reader doesn't.”
+
+That— Was irritating. Because it made sense. Taiga reread the paragraph. There was a jump. Not huge. But yes. He knew what connected the two ideas. He hadn't written it. Hall leaned back.
+
+“I don't need you to think more slowly. I need you to show me the bridge.”
+
+Taiga stared at the screen. Something loosened. Barely.
+
+They spent another fifteen minutes on the paper. Specific sentences. Specific gaps. Concrete. When Taiga left, the grade was still seventy-four. Strangely, it felt smaller. Not better. Just— Contained. A problem with edges. Problems with edges could be fixed. Outside the building, his phone buzzed. Nora.
+
+**Nora:** office hrs monday if you change your mind
+
+Taiga stared. Then typed:
+
+**Taiga:** already went
+
+Three dots.
+
+**Nora:** HA
+
+**Nora:** KNEW IT
+
+**Taiga:** shut up
+
+**Nora:** what did he say
+
+Taiga thought.
+
+**Taiga:** i skip logical steps
+
+Nora responded:
+
+**Nora:** shocking
+
+Taiga smiled. Then:
+
+Taiga smiled and locked the phone.
+
+---
+
+## Scene 7 — Familiar context, contaminated categories
+
+Friday afternoon, Athletics looked exactly the way it always did.
+
+Same concrete corridor. Same smell of detergent and grass. Same argument somewhere near the equipment room about whose turn it was to carry the water crate.
+
+Taiga changed at his locker and pulled on number forty-one.
+
+Across the room, Leo was trying to tape one wrist while Enzo talked at him from two lockers away.
+
+“You're doing that wrong,” Enzo said.
+
+“I have been taping my own wrists for years.”
+
+“And yet.”
+
+Leo looked over and caught Taiga watching.
+
+“Forty-one. Settle this.”
+
+“No.”
+
+“You don't even know the question.”
+
+“Still no.”
+
+Enzo pointed at Leo's wrist. “See? Democracy.”
+
+“That is not democracy.”
+
+Taiga bent to tie his boots.
+
+Leo said, “By the way, did Table Six survive?”
+
+Taiga looked up.
+
+“What?”
+
+“Chemistry.”
+
+Right.
+
+For half a second, the locker room and the laboratory existed in the same place in his head. Leo in a training shirt. Leo in goggles. Leo's scorched lab coat.
+
+“We survived.”
+
+“No fires?”
+
+“No fires.”
+
+Leo pressed a hand to his chest.
+
+“Show-off.”
+
+“You set yourself on fire.”
+
+“My sleeve.”
+
+“Important distinction.”
+
+“It is.”
+
+Enzo looked between them.
+
+“Why was Leo on fire?”
+
+“He wasn't,” Leo said.
+
+“He was,” Taiga said at the same time.
+
+Enzo's face lit up.
+
+Leo pointed at Taiga.
+
+“You're a terrible person.”
+
+“Still not the one who caught fire in chemistry.”
+
+Aaron shouted for Leo from the corridor.
+
+Leo grabbed his boots and started toward the door.
+
+Then he stopped.
+
+“Oh. Mia says the branch is still alive.”
+
+“Congratulations.”
+
+“She also says next time she breaks Git she's calling you.”
+
+“No.”
+
+“I told her that.”
+
+“Good.”
+
+“She didn't care.”
+
+Of course she didn't.
+
+Leo grinned and disappeared into the corridor.
+
+Taiga looked back down at his boots.
+
+Number forty-one. Training. Athletics.
+
+Everything where it was supposed to be.
+
+His phone buzzed inside his bag.
+
+**TABLE SIX — DO NOT DRINK ANYTHING**
+
+Priya had sent a photo of their draft report with three question marks beside one calculation.
+
+Taiga stared at the notification for a second, then opened it.
+
+From the corridor, Leo shouted:
+
+“FORTY-ONE, YOU COMING?”
+
+Taiga shoved the phone back into his bag.
+
+“Yeah.”
+
+He followed.
