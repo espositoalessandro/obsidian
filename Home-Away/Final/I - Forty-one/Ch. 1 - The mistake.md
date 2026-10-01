@@ -52,7 +52,8 @@ Then he turned and continued.
 There. Day one and he almost lost it to a random guy who just bumped him. Great start.
 
 Maybe once he wouldn't have stopped. 
-That was a poor consolation. Although, he didn't expect Olympus University to hit all his senses at once.
+That was a poor consolation. 
+Then again, he didn't expect Olympus University to hit all his senses at once.
 
 He took another deep breath and moved on.
 
