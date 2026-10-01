@@ -272,6 +272,47 @@ The joke should usually have a social target or purpose.
 
 ---
 
+## Football identity
+
+**The luxury winger.**
+
+Enzo is a right winger whose effort level can look suspiciously low until the play enters a zone he cares about.
+
+His defining contrast is **economy of effort versus quality of execution**.
+
+He may:
+
+- walk or jog while Apollo recycle possession elsewhere;
+- dislike unnecessary defensive running;
+- be late tracking a fullback if he decides the danger is low;
+- conserve energy instead of constantly showing for the ball;
+- occasionally need Scott, Gav or Mercer to demand more work from him.
+
+Do not write this as lack of fitness. Enzo is extremely athletic.
+
+When the moment becomes useful, he can accelerate from almost nothing to full speed very quickly. His best weapons are:
+
+- explosive short acceleration;
+- genuine top-end pace;
+- precise crosses at speed;
+- early crosses before the defense is fully set;
+- hard low balls across goal;
+- accurate cutbacks after reaching the byline;
+- clean finishing when he arrives in the box;
+- calmness in one-touch or two-touch shooting situations.
+
+He should therefore be dangerous even in matches where he seems quiet for long stretches.
+
+A useful visual rhythm is:
+
+> walking → sees the opening → sudden sprint → decisive action.
+
+His weakness is that the team sometimes has to cover the work he chooses not to do. His quality is high enough that coaches tolerate some of this, but not enough that he is exempt from defensive responsibility.
+
+Enzo should not become a mindless speedster. He is tactically aware; the laziness is partly selective effort. Often he knows perfectly well where he is supposed to be and simply believes he can arrive later.
+
+This makes his partnership with **Jonah Ellis** useful: Ellis is the more relentless, task-oriented right-sided runner, while Enzo provides the explosive final action.
+
 ## Stable traits
 
 Enzo remains:
@@ -755,6 +796,36 @@ Unlike Mercer, he is still one of the players.
 Unlike Gav, his authority comes from experience rather than obsessive knowledge.
 
 Unlike Scott, he is socially comfortable.
+
+---
+
+## Football identity
+
+**The experienced, cautious winger.**
+
+Evan's game is built around **judgment, positioning and risk management** rather than spectacular physical tools.
+
+He is not passive. He is selective.
+
+He tends to:
+
+- scan repeatedly before the ball reaches his side;
+- stay wide when width is useful and come short when pulling the fullback matters more;
+- use off-ball movement to move defenders rather than demanding possession;
+- recycle the ball instead of forcing a one-on-one that is not favorable;
+- wait for the defender to make the first mistake;
+- choose the moment to sprint instead of running at maximum speed on every possession;
+- protect the ball and preserve possession when Apollo need control;
+- track his fullback reliably and understand when the left side needs defensive help;
+- cross when the picture is clean rather than because he has reached a crossing position.
+
+Taiga's first instinct is often **more**: run harder, attack the grass, beat the man.
+
+Evan's instinct is **only if it improves the play**.
+
+This difference is central to their mentorship. Taiga should not simply learn Evan's style and become cautious himself. He should learn **why Evan chooses not to attack**, then eventually combine that judgment with his own more aggressive strengths.
+
+Evan's experience should be visible in the number of situations he resolves without doing anything dramatic.
 
 ---
 
