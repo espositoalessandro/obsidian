@@ -696,7 +696,7 @@ Taiga snorted. Evan entered the aisle.
 
 “Are you still going out with Mia tonight?”
 
-Taiga kept rinsing his hair. Leo answered over the water.
+Taiga kept rinsing his hair, not his business. Leo answered over the water.
 
 "I guess? She has lab until seven."
 
