@@ -62,7 +62,7 @@ Do not resolve Taiga's belonging here. Familiarity is not yet attachment.
 
 Participation starts having consequences because Taiga now cares.
 
-Football criticism can hurt because he wants to be good. Caleb can violate a space Taiga has begun considering his. Attraction to Leo introduces an unwanted variable that does not fit neatly into the categories Taiga has been building.
+Football criticism can hurt because he wants to be good. Caleb can violate a space Taiga has begun considering his. Taiga also notices Leo physically for the first time in a way he cannot quite dismiss as neutral observation, but Chapter 3 should stop there: he thinks Leo has a nice ass; he does not yet turn that into a larger realization about attraction.
 
 Friction should arise from investment, not from Olympus simply becoming hostile again.
 
@@ -73,32 +73,34 @@ Friction should arise from investment, not from Olympus simply becoming hostile 
 ### Current likely anchors
 
 - bad practice / conflict and repair with Evan;
-- first unmistakable physical noticing of Leo and the Mia mention;
+- first unmistakable physical noticing of Leo and the Mia mention, without escalating it into a settled attraction;
 - room-boundary argument with Caleb.
 
 The Political Institutions 74/100 is currently **not preferred here**, because stacking every form of friction into one chapter risks making the structure feel engineered.
 
 ---
 
-## Chapter 4 — Exposure
+## Chapter 4 — Known Unknowns / Exposure
 
 ### Dramatic role
 
-Taiga starts encountering parts of himself and Olympus that do not fit neatly into the competence/control systems he has been building.
+By the fourth week, Olympus and the people in it are becoming easier for Taiga to summarize. He reduces familiar people to compact personality buckets because those summaries are useful.
 
-Leo stops being containable as merely "soccer guy." Chemistry places him somewhere Taiga did not expect him. Academic weakness may begin surfacing. Football can also start giving Taiga more concrete responsibility.
+The chapter does not need to prove those summaries wrong. Instead, it keeps adding information that the summaries did not contain. The 74/100 exposes a gap in Taiga's academic self-model. Chemistry and Git add new facets to people he already thinks he understands, especially Leo. Hall's office-hours explanation gives Taiga one concrete way to deal with a gap rather than simply being angry that it exists.
 
-This chapter should puncture the feeling that Taiga has successfully categorized his new life.
+The chapter should puncture the feeling that familiarity means complete understanding.
 
 ### Movement
 
-**I know where everything belongs → apparently I don't.**
+**I know enough to summarize this place → apparently the summaries are incomplete.**
 
 ### Current planning note
 
-The **74/100 Political Institutions scene** is currently a strong candidate to move here, but this is **not locked**. Its final placement should be decided once Chapter 4 is actually structured.
+The **74/100 Political Institutions scene is now locked here** as the chapter's first major puncture.
 
-The first General Chemistry lab / discovery that Leo is in the same lab section remains an important Chapter 4 anchor.
+The first General Chemistry lab remains an important anchor. The official table list also reveals **Julio Mendez** as Leo's legal name.
+
+Do not place the masturbation scene here. Chapter 4 should deepen familiarity and complexity without confirming Taiga's attraction beyond the physical noticing already established in Chapter 3.
 
 ---
 
@@ -110,6 +112,8 @@ Football stops being something Taiga is testing and becomes something he is emot
 
 His first reserve start creates real performance pressure. He makes mistakes and has to continue playing rather than immediately correcting, erasing or escaping them. Socially, he begins staying with the team after football rather than automatically leaving.
 
+The romantic thread also advances one deliberate step. A second shower encounter with Leo confirms that Taiga's earlier physical noticing was not a one-off. Later that night, Taiga masturbates while thinking about Leo and immediately rationalizes it as purely physical. Only **after** that does Mia clarify that she and Leo are not dating and that she does not think Leo is into girls. Taiga feels unexpectedly good about that information without understanding why.
+
 ### Movement
 
 **I want to be good at this → I'm staying even when I'm not.**
@@ -117,6 +121,12 @@ His first reserve start creates real performance pressure. He makes mistakes and
 ### Guardrail
 
 The chapter should not imply that commitment means confidence. Taiga can be deeply invested while still insecure about whether he is good enough.
+
+For the romantic thread, preserve the order:
+
+**second shower → masturbation / physical rationalization → Mia says Leo may not be into girls → Taiga likes that information without naming why.**
+
+Mia's information must not create the attraction. The reader should already know the attraction exists before Taiga learns Leo may be available to men.
 
 ---
 
