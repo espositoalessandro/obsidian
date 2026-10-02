@@ -1,104 +1,248 @@
-## Chapter 4 — Known unknowns
+## Chapter 5 — The next one
 
-- **1. Opening + Political Institutions — Olympus becomes sortable, then the 74 punctures it**
-  - **Status: drafting in Final Ch. 4**
-  - By the fourth week, Olympus is no longer populated only by strangers.
-  - Taiga mentally reduces the people he already knows to compact, useful personality summaries.
-  - Keep the cast refresh selective: Scott, Enzo, Evan, Leo, Caleb and Nora. Do not introduce Gav / Aaron through a summary before their proper characterization earns it.
-  - The “bucket” idea is about Taiga simplifying people, not assigning them to physical domains.
-  - Professor Hall returns the first response paper: **74/100**.
-  - Nora scores **81** and intends to use office hours herself.
-  - Hall's written criticism remains specific: Taiga has strong instincts / an interesting objection, but some claims are asserted rather than demonstrated.
-  - Nora's useful question is whether Taiga actually agrees with the feedback.
-  - **Purpose:** Taiga feels that Olympus and its people are becoming legible; the grade immediately shows that familiarity does not equal complete understanding.
+### Core movement
 
-- **2. First Chemistry lab — more information than the bucket held**
-  - **Status: planned / assembled in Draft.md**
-  - Establish **Table Six**:
-    - Priya Shah
-    - Marcus Reed
-    - Daniel Wu
-  - Across the room: **Julio Mendez**, Mia Harper and Anne Anderson.
-  - Keep the **Julio** reveal: Taiga learns through the official class list that Leo is apparently not Leo's legal name.
-  - The scene does **not** need to prove that Leo exists outside soccer; Ch. 3 already showed him socially at the floor party.
-  - Instead, Chemistry adds more texture to Taiga's compressed “annoying and loud” model of Leo: student, classmate, mistake-prone, socially expansive, functional despite the chaos.
-  - Taiga mentally skips a calculation/documentation step because the connection is obvious to him.
-  - This should quietly echo Hall's complaint without the narration announcing the parallel.
-  - Keep Leo/Mia chaotic but competent.
-  - **Purpose:** people Taiga thinks he understands keep acquiring extra information.
+**I want to be good at this → I'm staying even when I'm not.**
 
-- **3. Outside Athletics — Mia's Git problem**
-  - **Status: planned / assembled in Draft.md**
-  - Preserve the deleted-branch problem.
-  - Leo and Taiga both immediately understand why it is bad.
-  - Taiga helps restore it.
-  - Keep Leo's **“You code?”** beat.
-  - Taiga gives the modest version of his background: scripts / web work / enough Git to know what happened.
-  - Keep it compact; this is character overlap, not a coding tutorial.
-  - **Purpose:** Taiga learns another unexpected point of overlap with Leo without making the relationship intimate yet.
+Chapter 5 is the first time Taiga's “one mistake becomes the next decision” problem is tested under meaningful pressure.
 
-- **4. Hall office hours — “show me the bridge”**
-  - **Status: planned / assembled in Draft.md**
-  - Taiga goes to Hall because he does not actually agree with the 74 feedback.
-  - Preserve the core diagnosis: Taiga's mind completes connective steps that never reach the page.
-  - Hall does **not** tell him to think more slowly.
-  - Core line / concept: **show the bridge** between claim and conclusion.
-  - Taiga leaves with a concrete problem he can work on.
-  - **Do not resolve the academic arc here.**
-  - Ch. 6 keeps the payoff: **87 / “There's the bridge.”**
-  - **Purpose:** the chapter turns vague irritation into a specific missing piece.
+The chapter is **not** about proving he belongs.
 
-- **5. Closing — the buckets still work, but they are getting fuller**
-  - **Status: planned / assembled in Draft.md**
-  - Return to a familiar context, most naturally Athletics.
-  - Let Chemistry / Git intrude naturally into conversation.
-  - Do not narrate that Taiga's categories are “wrong” or “breaking.”
-  - The point is subtler: his summaries were useful, but people keep becoming more detailed than the summaries.
-  - Taiga and Leo should still not feel notably intimate.
-  - Do not let Taiga accept the major team-social invitation here; Ch. 5 should own that step.
-  - **Purpose:** close on increased complexity rather than a solved problem.
+Ch. 6 owns the formal retained / “you're staying” payoff.
 
-- **Chapter shape / pacing**
-  - Internal movement:
-    - **Olympus is becoming understandable → the 74 exposes a gap → people keep accumulating unexpected details → Taiga gets one concrete tool for dealing with gaps.**
-  - Core chapter function: **Exposure / incomplete knowledge**.
-  - The chapter title **Known Unknowns** names the concept externally; Taiga does not need to use that phrase in his own narration.
-  - Protect later payoffs:
-    - Ch. 5 owns the second Leo shower, the first explicit masturbation fantasy about Leo, the first meaningful reserve start, the first real team-social commitment, and Mia's sexuality reveal.
-    - Ch. 6 owns **87 / “There's the bridge.”**
-    - Major-choice / five-year-plan material belongs closer to Ch. 8.
-    - Stronger belonging language belongs later, especially around Ch. 9.
-  - Keep cut from old Ch. 4:
-    - long Nora civil-disobedience debate;
-    - extended Nora lunch / Caleb discussion;
-    - Jess birthday invitation for now;
-    - Caleb's mother / five-year-plan conversation;
-    - closed reserve scrimmage;
-    - old open-shower sequence;
-    - masturbation scene — **moved to Ch. 5 after the second shower**;
-    - Caleb building Maya's bridge;
-    - extra football evaluation;
-    - heavy “people expect me somewhere tomorrow” ending.
-  - Salvaged from old Draft Ch. 3:
-    - the broader **pattern / personality-cataloguing** instinct, now used as a selective cast refresher.
-    - Save Yoichi's **“everyone's coming back different”** idea for a later Act I chapter.
+The win here is narrower:
 
-## Chapter 5 — Commitment / attraction becomes undeniable
+> Taiga makes a consequential mistake, cannot erase it, and remains inside the game anyway.
 
-- **Romantic progression to preserve**
-  - Ch. 3 only establishes that Taiga notices Leo physically and thinks he has a nice ass. Do not turn that into a larger realization.
-  - Ch. 4 develops familiarity / complexity without a direct sexual escalation.
-  - After Taiga's **first reserve start**, the later locker-room shower puts Leo opposite him again.
-  - This is the **second** physical-noticing beat. Taiga now recognizes that his eyes are doing the same thing again.
-  - **That night**, move the masturbation scene here.
-  - Taiga fantasizes about Leo and then rationalizes it as purely physical: Leo is attractive, Taiga was horny, nothing to investigate.
-  - **Mia's conversation must come after the masturbation scene.**
-  - Mia clarifies that she and Leo are not dating and says she does not think Leo is into girls.
-  - Taiga should feel unexpectedly pleased / relieved / interested by that information without understanding or naming why.
-  - Do **not** let the sexuality information cause the attraction. The reader already knows the attraction exists before Mia says anything.
-  - **Purpose:** the reader understands the implication before Taiga does. Sexual attraction becomes undeniable to the reader while Taiga still refuses to treat it as romantic possibility.
+---
 
-- **Other Ch. 5 anchors remain**
-  - first meaningful reserve start;
-  - Taiga makes a consequential mistake and keeps playing instead of trying to erase it immediately;
-  - first meaningful choice to stay with the team socially after football.
+- **1. Reserve lineup — first start becomes real**
+  - Open at Athletics with the Saturday reserve fixture sheet.
+  - Taiga sees **LW — 41 AKATORA**.
+  - He is starting.
+  - Aaron is on the bench; quietly reinforce that Mercer made an actual selection rather than distributing generic developmental minutes.
+  - Taiga immediately asks about Northbridge.
+  - Gav gives the useful shorthand:
+    - physical;
+    - right-back steps early / wants the duel;
+    - do not let him turn it into a strength contest.
+  - Keep football language accessible.
+  - **Purpose:** Taiga now has something concrete he can fail at.
+
+- **2. Training — do not make the next decision because of the previous one**
+  - In shape work, Taiga repeatedly attacks Evan because the previous attempt failed.
+  - Mercer catches the pattern.
+  - Preserve the diagnosis:
+    - Taiga is trying to prove he can beat Evan;
+    - the inside pass is available;
+    - the problem is not dribbling, but making the new decision out of anger about the old one.
+  - Taiga resets, plays the simple pass, moves and gets a better situation.
+  - No large reflection.
+  - **Purpose:** establish the exact behavioral problem Saturday will test.
+
+- **3. Second Leo shower — physical attraction repeats**
+  - Place this **before the match**.
+  - Ch. 3 already supplied the first clear body-noticing beat.
+  - This is the second.
+  - Taiga looks again and gets the same answer:
+    - lean waist;
+    - thighs;
+    - ass;
+    - whatever concrete detail earns the glance.
+  - Keep the narration blunt and physical, not romantic or lyrical.
+  - Taiga does not ask what it means.
+  - No information yet about Leo's sexuality or availability.
+  - **Purpose:** repetition makes the attraction harder for the reader to dismiss as incidental.
+
+- **4. Masturbation scene — attraction becomes undeniable before possibility exists**
+  - Move the old Draft Ch. 4 masturbation beat here.
+  - Rewrite it shorter and less mechanically explicit.
+  - Taiga wakes horny / cannot settle.
+  - The shower image returns.
+  - He tries not to use Leo as the fantasy.
+  - Fails.
+  - Gets off thinking about Leo.
+  - Afterward, he rationalizes:
+    - Leo is hot;
+    - Taiga was horny;
+    - convenient mental material;
+    - nothing to investigate.
+  - **Critical order:** this must happen **before** Zoe says anything about Leo not being into girls.
+  - **Purpose:** the attraction is independently established; later sexuality information cannot be its cause.
+
+- **5. Caleb + Maya — Taiga wants someone there**
+  - Remove the old bridge subplot.
+  - Maya is visiting / on call when the match comes up.
+  - Maya immediately assumes they can go.
+  - Caleb asks the actual question:
+    - **“Do you want me there?”**
+  - Taiga's reflex says no.
+  - He realizes he does want Caleb in the stand.
+  - Answer can remain:
+    - **“If you want.”**
+  - Caleb understands.
+  - Saturday morning, Taiga is pacing.
+  - Caleb asks:
+    - **“Are you scared?”**
+  - Taiga answers:
+    - **“Yeah.”**
+  - Caleb offers Maya's presentation trick:
+    - reduce the event to the concrete sequence before it;
+    - first steps, not whole outcome.
+  - **Purpose:** Taiga lets an Olympus relationship matter to the event before it happens.
+
+- **6. Pre-match — Leo gives the football version**
+  - Taiga keeps retying one boot.
+  - Leo notices.
+  - Preserve the light joke:
+    - **“Boot betrayed you?”**
+  - Leo's advice:
+    - first five minutes;
+    - one clean touch;
+    - one easy pass;
+    - nothing heroic;
+    - let the body remember this is football.
+  - Optional: keep Leo's line-touch superstition.
+  - Do not explain the parallel with Caleb.
+  - **Purpose:** Caleb structures uncertainty; Leo knows how to inhabit football anxiety from inside.
+
+- **7. First half — the consequential mistake**
+  - Northbridge should read immediately as:
+    - direct;
+    - physical;
+    - every loose ball becomes a fight.
+  - Taiga's first few minutes are poor but survivable.
+  - He settles through simple actions.
+  - Then he receives near midfield with the safe inside option available.
+  - He turns into pressure.
+  - Loses possession.
+  - Northbridge counters and scores.
+  - **0–1.**
+  - Taiga's immediate internal command:
+    - ***Fix it.***
+  - Mercer stops the impulse with a call / gesture.
+  - Scott:
+    - **“RESET! NEXT ONE!”**
+  - Taiga then does nothing special:
+    - simple pass;
+    - track;
+    - press;
+    - another simple pass.
+  - The mistake stays true.
+  - The game continues.
+  - **Purpose:** first real demonstration that Taiga can refuse to convert one mistake into the next one.
+
+- **8. Second half — contribution, not erasure**
+  - Halftime analysis stays short.
+  - Taiga correctly identifies what he did wrong.
+  - Mercer moves on to the next football problem.
+  - Olympus equalizes without Taiga's involvement.
+  - Taiga celebrates anyway.
+  - Leo comes on later.
+  - Taiga eventually exploits the space Northbridge gives them.
+  - Low cross / slight deflection.
+  - Leo adjusts and scores.
+  - **2–1.**
+  - Preserve the natural celebration contact.
+  - Taiga plays roughly eighty minutes.
+  - Caleb and Maya are in the stand.
+  - Caleb simply raises one hand when Taiga comes off.
+  - **Purpose:** Taiga contributes after the mistake without the new contribution canceling the old one.
+
+- **9. Scott — “Next one was clean.”**
+  - Cut the old double-explanation through Evan + narrator.
+  - Evan may offer a brief **good game** / joke.
+  - Scott owns the important observation:
+    - **“Next one was clean.”**
+    - **“What?”**
+    - **“After the goal. First pass.”**
+  - Then Scott leaves.
+  - Do not explain the line.
+  - **Purpose:** somebody else noticed the exact behavioral victory that matters.
+
+- **10. Taiga stays with the team**
+  - After changing / showering, the team is getting food.
+  - Leo / Enzo invite Taiga.
+  - Old default would be dorm.
+  - Taiga goes.
+  - Keep this smaller than Ch. 9:
+    - he is already there;
+    - he is hungry;
+    - he has been invited;
+    - he simply does not take the first exit.
+  - No “these are my people now” language.
+  - **Purpose:** first meaningful post-football social commitment.
+
+- **11. Short team dinner — Zoe resolves the dating ambiguity**
+  - Compress the old dinner heavily.
+  - Use enough ensemble texture to preserve voices:
+    - Enzo performs;
+    - Gav cuts through nonsense;
+    - Scott is sparse;
+    - Aaron / Sofia retain their dynamic;
+    - Leo remains socially expansive;
+    - Zoe is chaotic, fandom-flavored and technically competent.
+  - Replace old-draft **Mia** with **Zoe**.
+  - Do not turn dinner into another tactical review.
+  - Late in the scene, Taiga bluntly asks whether Zoe and Leo are dating / together.
+  - Zoe says no and indicates that, as far as she knows, Leo is not really into girls.
+  - She is giving her impression, not formally declaring Leo's sexuality for him.
+  - Taiga likes the answer more than the question warrants.
+  - He does not name that reaction.
+  - **Purpose:** romantic possibility enters only after the reader already knows Taiga is sexually attracted to Leo.
+
+---
+
+### Closing
+
+Do not restore the old explanatory ending that summarizes:
+- the mistake;
+- the recovery;
+- the remaining minutes;
+- the win.
+
+The chapter has shown those facts.
+
+Preferred closing possibilities:
+
+- **Football-weighted ending:** Scott's **“Next one was clean”** remains with Taiga later that night.
+- **Romance-weighted ending:** after Zoe's reveal, Taiga catches himself looking at Leo and no longer has a credible reason to pretend he does not know why.
+
+Choose one based on the balance of the rewritten chapter.
+
+Do not combine them into a thematic explanation.
+
+---
+
+### Pacing / structural protections
+
+- Cut the old Ch. 5 Calculus **89** opening.
+- Cut the full Chemistry report meeting.
+- Cut the Hunter exhibition setup from this chapter.
+- Cut the Maya bridge subplot.
+- Compress the dinner substantially.
+- Do not let Ch. 5 steal:
+  - Ch. 6's formal retained payoff;
+  - Ch. 7's broader voluntary participation;
+  - Ch. 9's stronger social-belonging payoff.
+- Football should remain legible to readers who do not care about football:
+  - one opponent quirk;
+  - one tactical problem;
+  - one mistake;
+  - one adjustment.
+- Protect Taiga POV:
+  - direct emotion only when he actually knows it;
+  - no external narrator explaining what his reaction “really means”;
+  - attraction remains concrete and physical;
+  - sexuality information does not retroactively create attraction.
+
+### Chapter shape
+
+**pressure → desire confirmed → pressure intensifies → failure → continuation → reward → staying → possibility**
+
+### Working title
+
+# **The next one**
+
+It quietly answers **The mistake**:
+a mistake is not the whole story because there is always another action after it.
