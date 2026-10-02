@@ -1,4 +1,4 @@
-### Chapter 4
+### Chapter 4 - Known unknowns
 
 By the fourth week, Taiga had begun to recognize people around campus.
 There was the tall girl with silver headphones who always bought tea from the kiosk outside the library at 8:20.
@@ -6,15 +6,13 @@ A guy from chemistry always rides a skateboard, and he's bad. Taiga had now seen
 There were two students who always sat beneath the same oak tree between ten and eleven, usually with notebooks open and almost never studying. 
 
 Olympus had stopped being populated exclusively by strangers. 
-Not that Taiga cared about them, but they were now categorized: known unknowns. 
-Taiga liked known unknowns. Unknown unknowns were where problems came from.
-
-Known knowns were becoming easier too. Most of his teammates were already cataloged.
+Not that Taiga cared about them, but they were now categorized.
+Also the people he actually talked to were put in their buckets. Teammates. Roommate. Class pars.
+They also started to make more sense individually:
 Scott saved most of his daily words allowance for the goal.
 Enzo was pure chaos.
 Evan had always some unsolicited advice for any kind of situation.
 Leo was annoying and loud.
-And even outside soccer people started to make sense too.
 Caleb noticed almost everything and explained almost nothing unless asked.
 Nora argued for the sake of it.
 
