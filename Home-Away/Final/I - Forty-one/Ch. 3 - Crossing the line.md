@@ -285,7 +285,7 @@ Taiga rolled his eyes and started toward the door. Nora followed.
 
 "Have you already picked a major?"
 
-Taiga felt something tightening.
+His stomach tightened.
 
 "No."
 
