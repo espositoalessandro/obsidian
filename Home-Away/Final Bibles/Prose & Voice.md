@@ -1113,6 +1113,116 @@ Self-awareness and polished emotional analysis are not the same thing.
 
 ---
 
+## 6.1 Rendering Taiga's Emotions
+
+When Taiga feels something important, prefer the most immediate form that fits his current level of self-awareness.
+
+Use this hierarchy:
+
+1. **Direct thought, judgment or reaction**
+   - *Great.*
+   - *Annoying.*
+   - *Fuck.*
+   - *Why did that matter?*
+
+   This is usually the strongest Taiga-filtered option when he can consciously frame the reaction.
+
+2. **Concrete bodily or sensory response**
+   - stomach dropping or tightening;
+   - heat in his face, neck or ears;
+   - dry mouth;
+   - shaking hands;
+   - jaw or fingers tightening;
+   - looking away, going still, losing his breath.
+
+   This is especially useful when Taiga is feeling something he does not yet want or know how to name.
+
+3. **Behavior that reveals the emotion**
+   - deleting a message;
+   - staying or leaving;
+   - changing the subject;
+   - snapping;
+   - checking something again;
+   - avoiding eye contact;
+   - doing something helpful instead of verbalizing care.
+
+4. **Explicit emotional naming**
+   - *Taiga felt uncomfortable.*
+   - *He felt satisfied.*
+   - *He was embarrassed.*
+   - *He felt relieved.*
+
+   Use this only when clarity genuinely requires it.
+
+The goal is **not** to ban emotion words or the verb *felt*. Sensory constructions such as *his stomach dropped*, *he felt sick*, or *Taiga felt heat in his ears* remain close POV because the reader is experiencing the body with him.
+
+The risky construction is narration that diagnoses the emotion for him when his thought, body or behavior could carry it instead.
+
+Prefer:
+
+> "Thank you."  
+> "You don't need to make it a thing."
+
+over:
+
+> "Thank you."  
+> Taiga felt uncomfortable.
+
+Likewise, do not explain an emotion after behavior has already shown it.
+
+### Vague bodily metaphors
+
+Use constructions such as:
+
+- *something tightened;*
+- *something loosened;*
+- *something shifted;*
+- *something warm settled in his chest*
+
+sparingly.
+
+Concrete sensation is usually stronger than a vague internal metaphor.
+
+### Development across the novel
+
+This rule should support Taiga's character progression.
+
+Early Taiga often stops at:
+
+> body → reaction → deflection
+
+Later Taiga may increasingly be able to name the underlying emotion directly.
+
+For example, early vulnerability may appear as:
+
+> His stomach dropped.  
+> Fuck.
+
+where later Taiga may be able to think or say:
+
+> I was scared.
+
+Greater emotional clarity is part of his development. It should not turn the narration into polished psychological analysis.
+
+### Mental-state verbs that remain valid
+
+Direct judgments such as:
+
+- *Taiga hated the question.*
+- *He appreciated that.*
+- *He regretted mentioning it.*
+- *He disliked the noise.*
+
+are still strongly filtered through Taiga and do not count as detached emotional diagnosis.
+
+The test is:
+
+> **Does the sentence sound like Taiga experiencing or judging something, or like an outside narrator reporting Taiga's emotional condition?**
+
+Prefer the former.
+
+---
+
 # 7. Dialogue Philosophy
 
 Dialogue should preserve heightened character distinction while remaining believable.
