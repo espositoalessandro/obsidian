@@ -1,4 +1,4 @@
-# Chapter 4 - Margins
+# Chapter 4 - Known Unknowns
 
 ## Scene 1 — Olympus has become sortable
 
@@ -214,138 +214,7 @@ She left. Taiga remained seated for several seconds. Then muttered:
 
 ---
 
-## Scene 3 — Leo follows him home
-
-At 2:17 that night, Taiga woke up.
-
-For several seconds he lay still, staring into the dark and trying to work out what had pulled him awake.
-
-Then his brain supplied the answer.
-
-White tile.
-
-Running water.
-
-Leo turning beneath the shower.
-
-Taiga shut his eyes.
-
-“Fuck.”
-
-The word barely made sound.
-
-Across the room, Caleb did not move. His blanket rose and fell with slow, regular breaths. The digital clock beside his bed cast a faint blue rectangle across the wall.
-
-Taiga rolled onto his side, facing away from him.
-
-This was stupid.
-
-He had seen naked men before. Camp showers existed. Yoichi had once made privacy seem like a personal insult. None of this qualified as new information.
-
-His body apparently disagreed.
-
-Taiga pulled the blanket higher and waited for the problem to resolve itself.
-
-It did not.
-
-Instead, the shower came back in pieces.
-
-Leo's shoulders when he'd turned around. Water running down the narrow line of his back. His waist. The glance Taiga had absolutely not needed to take lower down.
-
-
-Taiga pressed his face into the pillow.
-
-Great.
-
-He tried thinking about the match instead. Aaron's goal. Mercer's comment. The run before the cutback. Useful things. Football things.
-
-Leo had been in those too.
-
-Of course he had.
-
-Another minute passed.
-
-Caleb slept through six alarms most mornings. Taiga had watched an entire electronic ecosystem scream at him while he remained mostly unconscious.
-
-He looked over his shoulder anyway.
-
-Nothing.
-
-“This is fucking ridiculous,” he whispered.
-
-No response.
-
-Fine.
-
-Taiga turned back toward the wall and slipped one hand beneath the blanket.
-
-Every tiny movement suddenly sounded enormous. Fabric shifting. Mattress springs. His own breathing. He stopped when Caleb moved, but Caleb only rolled farther toward the wall and went still again.
-
-Taiga waited.
-
-Then continued.
-
-He tried, briefly, not to think about anyone in particular.
-
-That lasted maybe ten seconds.
-
-His mind gave him Leo again with insulting precision: wet hair pushed back from his forehead, water on his chest, the easy way he'd stood there talking as if being completely naked in front of Taiga were the least interesting thing happening in the room.
-
-Then lower.
-
-Taiga's breath caught.
-
-Fuck it.
-
-He stopped trying to replace the image.
-
-Leo laughing. Leo turning. The shape of him from behind. That stupid round ass Taiga had already noticed once and apparently had not forgotten. The open showers had left nowhere useful to look, and his memory had apparently kept considerably more than he wanted to admit.
-
-His pace quickened.
-
-Caleb kept sleeping.
-
-Taiga bit the inside of his cheek and kept quiet.
-
-As he neared his climax, he rolled onto his back and pulled up his shirt.
-God, that would be a really bad moment for Caleb to wake up.
-
-Taiga bit the hem of his shirt to keep it raised and continued stroking his dick. Harder. Faster.
-Right before cumming, he kicked the blanket away. Barely in time.
-He closed his eyes and made a muffled “ugh” sound, biting hard into his shirt.
-His whole body arched upward as he started shooting.
-The first bursts reached his chest, then his abdomen.
-Eventually, the rest slowly dripped from his hand.
-
-Taiga glanced at Caleb. Nothing. Thank God.
-
-He started catching his breath again.
-
-Then nothing.
-
-Dark room. Caleb breathing. The clock now read 2:44.
-
-Taiga stared at the ceiling, finally releasing his shirt from his teeth, breathing heavily.
-
-“Fuck,” he whispered.
-
-He stayed still until his breathing settled, then slipped out of bed, cleaned himself up in the bathroom and returned as quietly as possible. Caleb never moved.
-
-Back under the blanket, embarrassment arrived now that the physical problem was gone.
-
-Taiga refused to do anything with it.
-
-He'd been horny. He'd seen an attractive guy naked. His brain had used what was available.
-
-That was it.
-
-He was not holding an investigation at two-thirty in the fucking morning.
-
-Taiga turned the pillow over, closed his eyes and went back to sleep.
-
----
-
-## Scene 4 — First Chemistry lab
+## Scene 3 — First Chemistry lab
 
 Wednesday brought the first General Chemistry lab session. Taiga had disliked the laboratory before anything happened in it. Goggles fogged. Gloves made his hands feel clumsy. The benches were too crowded. Every bottle had three labels, two hazard symbols and a warning written as if somebody in a previous year had attempted to drink it.
 
@@ -527,7 +396,7 @@ Taiga packed his goggles.
 
 ---
 
-## Scene 5 — Mia's Git problem
+## Scene 4 — Mia's Git problem
 
 Thursday afternoon, Taiga headed toward training.
 
@@ -699,7 +568,7 @@ They entered the locker room. Aaron shouted something from across the room. Leo 
 
 ---
 
-## Scene 6 — Hall office hours
+## Scene 5 — Hall office hours
 
 Friday morning, Taiga went to office hours. He told nobody. Not Nora. Not Keitaro. Definitely not Caleb. He booked the first available slot. Professor Hall's office contained too many books and one dying plant. Taiga stood in the doorway. The professor looked up.
 
@@ -813,7 +682,7 @@ Taiga smiled and locked the phone.
 
 ---
 
-## Scene 7 — Familiar context, contaminated categories
+## Scene 6 — Familiar context, contaminated categories
 
 Friday afternoon, Athletics looked exactly the way it always did.
 
