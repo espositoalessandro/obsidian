@@ -1,4 +1,4 @@
-# Chapter 4 - Known Unknowns
+# Chapter 4 - Known unknowns
 
 ## Scene 1 — Olympus has become sortable
 
@@ -682,7 +682,7 @@ Taiga smiled and locked the phone.
 
 ---
 
-## Scene 6 — Familiar context, contaminated categories
+## Scene 6 — Familiar context, fuller buckets
 
 Friday afternoon, Athletics looked exactly the way it always did.
 
