@@ -465,8 +465,7 @@ Taiga blinked. Mia looked at him in desperation.
 
 "I don't think that I'll recover from this, though."
 
-He opened the remote repository. The situation was even worse: he counted fifteen different branches.
-
+He opened the remote repository. The situation was even worse.
 Taiga took a deep breath.
 
 "Which one of these?"
@@ -642,7 +641,7 @@ Hall leaned back.
 
 “I don't need you to think more slowly. I need you to show me the bridge.”
 
-Taiga stared at the screen. Something loosened.
+Taiga stared at the screen. Right.
 
 They spent another fifteen minutes on the paper. Specific sentences. Specific gaps. When Taiga left, the grade was still seventy-four. 
 Strangely, it felt smaller, contained.
