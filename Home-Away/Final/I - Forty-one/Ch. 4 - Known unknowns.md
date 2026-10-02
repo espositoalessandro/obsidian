@@ -564,3 +564,107 @@ Taiga stood and grabbed his duffel. Leo didn't move.
 "Yeah, thanks again!"
 
 Then he walked away.
+
+---
+
+Friday morning, Taiga had booked the first available slot for Professor Hall's office hours.
+He told no one about that.
+Taiga knocked on the door.
+
+"Come in."
+
+Hall's office contained too many books and one dying plant. Taiga stood in the doorway. The professor looked up.
+
+“Ah, Akatora. Come in.”
+
+Taiga sat. Hall folded his hands.
+
+“What can I do for you?”
+
+Taiga hated the question. 
+
+“I wanted to ask about the response paper.”
+
+Hall nodded.
+
+"Okay, that's good. What specifically?"
+
+Taiga hesitated.
+
+"The engagement score."
+
+“Okay, then.”
+
+Taiga opened the paper on his laptop.
+
+“You said I asserted things without demonstrating them.”
+
+“Yes.”
+
+“I thought I did.”
+
+Hall smiled slightly.
+
+“Show me.”
+
+Taiga found the paragraph. Read it. Pointed.
+
+“This.”
+
+Hall leaned closer.
+
+“You identify a weakness in the author's assumption.”
+
+“Yes.”
+
+“But you don't establish that the weakness is fatal.”
+
+Taiga frowned.
+
+“But... it is.”
+
+“Yes. To you.”
+
+Taiga looked at him. Hall continued.
+
+“You're very quick. That can be an advantage.”
+
+Here came the compliment before the criticism. Taiga knew this structure. Hall pointed at the paragraph.
+
+“But I suspect your mind is finishing steps you aren't putting on the page.”
+
+Taiga looked down. Hall continued.
+
+“You see the endpoint. Your reader doesn't.”
+
+ Taiga reread the paragraph and found the jump. He knew what connected the two ideas but hadn't written it.
+ Hall leaned back.
+
+“I don't need you to think more slowly. I need you to show me the bridge.”
+
+Taiga stared at the screen. Something loosened.
+
+They spent another fifteen minutes on the paper. Specific sentences. Specific gaps. When Taiga left, the grade was still seventy-four. 
+Strangely, it felt smaller, contained.
+
+When he went out, he took his phone.
+
+**Taiga:** went to hall's office
+
+**Nora:** What did he say?
+
+**Taiga:** i skipped logical bridges
+
+**Nora:** Sounds like you.
+
+**Taiga:** fuck you
+
+**Nora:** Do you feel better about it?
+
+Taiga considered. Actually, yeah.
+
+**Taiga:** no
+
+**Nora:** You're hopeless.
+
+Taiga smiled and locked the phone.
