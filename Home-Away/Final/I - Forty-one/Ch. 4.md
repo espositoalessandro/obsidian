@@ -6,17 +6,17 @@ A guy from chemistry always rides a skateboard, and he's bad. Taiga had now seen
 There were two students who always sat beneath the same oak tree between ten and eleven, usually with notebooks open and almost never studying. 
 
 Olympus had stopped being populated exclusively by strangers. 
-That didn't mean these people mattered. But they existed in categories now. Known unknowns. 
+Not that Taiga cared about them, but they were now categorized: known unknowns. 
 Taiga liked known unknowns. Unknown unknowns were where problems came from.
 
-Known knowns were becoming easier too. Mercer apparently got louder when he expected more.
+Known knowns were becoming easier too. Most of his teammates were already cataloged.
 Scott saved most of his daily words allowance for the goal.
 Enzo was pure chaos.
 Evan had always some unsolicited advice for any kind of situation.
-Leo was annoying, loud and good at soccer.
+Leo was annoying and loud.
+And even outside soccer people started to make sense too.
 Caleb noticed almost everything and explained almost nothing unless asked.
 Nora argued for the sake of it.
-Simple enough.
 
 He was thinking about this while walking toward Political Institutions when Nora appeared beside him without warning.
 
@@ -58,3 +58,93 @@ Clarity. Great. At least he'd clearly explained his mediocre argument.
 Nora leaned over.
 
 "What did you get?"
+
+Taiga closed his laptop.
+
+"None of your business."
+
+"So bad."
+
+"Fuck you."
+
+"That means yes."
+
+Taiga turned.
+
+"Okay, then what about you?"
+
+"Eighty-one."
+
+He felt something ugly and immediate. Nora grimaced.
+
+"I thought I did better."
+
+Taiga paused. 
+
+"What?"
+
+She showed him. Her feedback was almost identical.
+
+**Insufficient engagement with counterargument.**
+
+Nora sighed.
+
+“He grades hard.”
+
+Taiga looked back at his own assignment. The professor entered and class began.
+He took plenty of notes and he considered raising his hand at least three times.
+Every time, though, the seventy-four appeared in his mind.
+*Strong instincts*. Which was basically the same thing as "Good effort", the thing adults say to children when they produce terrible drawings.
+
+By the end of the class, irritation had rooted into something else, much calmer and much worse.
+He packed quickly.
+
+"You're weirdly silent."
+
+"Not again."
+
+Nora bit her lip.
+
+"I'm going to office hours tomorrow."
+
+"Why?"
+
+"Because I want to know what he wants"
+
+"Seemed pretty obvious to me?"
+
+She shrugged.
+
+"I thought as well. Apparently I was wrong."
+
+Taiga waited a second.
+
+"I got a seventy-four."
+
+Her face didn't change.
+
+"If you're not happy, then go ask him."
+
+"He already wrote what he wanted."
+
+"And do you agree?"
+
+Taiga opened his mouth.
+Actually, no. He didn't.
+
+Nora nodded.
+
+"See you Friday at lunch?"
+
+"Maybe."
+
+She laughed.
+
+"You're starting to sound predictable."
+
+Nora left. Taiga remained seated for several seconds. Then muttered:
+
+“Annoying.”
+
+---
+
