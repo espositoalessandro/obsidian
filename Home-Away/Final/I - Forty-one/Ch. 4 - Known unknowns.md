@@ -185,26 +185,24 @@ Taiga closed his eyes and sighed.
 Leo had turned and was waving at him with a big smile. Taiga lifted one hand in response.
 Leo was already opening his mouth to say something when Seth told everyone to form their groups.
 
-A girl at Table Six was pointing at him. Her tag said *Priya*.
+A girl at Table Six was pointing at him. 
 
 "Taiga! Hi. You're ours."
 
-That sounded threatening. Marcus dragged his stool over. Daniel arrived shortly after carrying his lab notebook.
+That sounded threatening. Taiga brought his stool there, followed shortly after by two other guys.
 
 Their first assignment was pretty simple on paper: prepare three salt solutions at specific concentrations, then verify their masses and volumes and compare expected and observed density.
 
 In practice, four people immediately came up with four different ways of doing it.
-Priya read the procedure aloud once and started dividing tasks.
-Marcus said,
+The girl read the procedure aloud once and started dividing tasks.
+
+One of the guys disagreed
 
 "Can we just make one solution each and have somebody check the math?"
-
-Daniel disagreed.
 
 "We should all check the math before anybody touches the stock."
 
 Taiga had already calculated all three.
-Priya looked at his notebook.
 
 "You did them?"
 
@@ -212,7 +210,7 @@ Priya looked at his notebook.
 
 "Can we see?"
 
-He hesitated. Then turned the notebook around. Marcus read the first line.
+He hesitated. Then turned the notebook around. 
 
 "You skipped a step."
 
@@ -223,23 +221,23 @@ He hesitated. Then turned the notebook around. Marcus read the first line.
 He hated working with people.
 Fine. He added the bloody step.
 
-Priya smiled.
+The girl smiled.
 
 "Excellent. We have documentation."
 
-They somehow kept working together. Priya was fast and exact about procedure, Marcus cared less about elegance and more about having a result that made sense, Daniel recorded everything, including room temperature.
+They somehow kept working together. One of them was totally obsessed with measuring everything.
 
 "The instructions said so."
 
 Taiga measured as well, but kept wanting to move ahead before others had finished recording.
 
-"Wait," Daniel said for the third time.
+"Wait," one said for the third time.
 
 "The number isn't changing."
 
 "But the notebook is."
 
-Taiga stopped. Daniel wrote.
+Taiga stopped.
 
 "Okay."
 
@@ -278,13 +276,11 @@ Then he turned to the girl.
 
 "Okay, context doesn't justify violence."
 
-Taiga's smile widened. Priya whispered,
+Taiga's smile widened. The girl at his table whispered,
 
 "Do you know him?"
 
 "Yeah, soccer."
-
-Marcus looked toward the scorched sleeve.
 
 "Is he always like that?"
 
@@ -303,27 +299,27 @@ Seth clapped once.
 "Everybody who is not currently combusting, back to work."
 
 They went back to work. Taiga's group finished all three solutions, but one density came out wrong.
-Priya frowned at the graduated cylinder.
+One of the guys frowned at the graduated cylinder.
 
 "We fucked something."
 
-Taiga went back over his calculations while Daniel checked the recorded masses. All correct. They ran through the procedure backward, but still no answer.
+Taiga went back over his calculations while the guy checked the recorded masses. All correct. They ran through the procedure backward, but still no answer.
 
-Priya looked at him.
+The girl looked at him.
 
 "You look personally betrayed by science."
 
 "I am."
 
-Marcus laughed, then Daniel said,
+Then one of the guys suddenly said:
 
 "Fuck me. The cylinder was still wet."
 
-All three turned. Daniel pointed.
+All three turned. He pointed.
 
 "We rinsed it with distilled water after the first trial and didn't dry it before the second. That dilutes the sample."
 
-Marcus dropped his forehead on the table, Priya buried her face in her hands.
+The other guy dropped his forehead on the table, the girl buried her face in her hands.
 Taiga looked at the cylinder. He exhaled and said,
 
 "Okay, again."
@@ -338,10 +334,10 @@ Taiga frowned.
 
 "Because explaining why data are bad is part of the experiment."
 
-Daniel started writing the note. By the time lab ended, Taiga's gloves smelled faintly of ethanol, he had marks on his face from his goggles and their shared report already had four different note styles in the margins.
+By the time lab ended, Taiga's gloves smelled faintly of ethanol, he had marks on his face from his goggles and their shared report already had four different note styles in the margins.
 He expected worse.
 
-Then Priya created a group chat:
+Then the girl created a group chat:
 
 **TABLE SIX — DO NOT DRINK ANYTHING**
 
@@ -941,7 +937,7 @@ Taiga's phone buzzed inside his bag.
 
 **TABLE SIX — DO NOT DRINK ANYTHING**
 
-Priya had sent a photo of their draft report with three question marks beside one calculation.
+Someone had sent a photo of their draft report with three question marks beside one calculation.
 
 Taiga stared at the notification for a second, then opened it.
 
