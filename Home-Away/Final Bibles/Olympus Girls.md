@@ -25,14 +25,14 @@ The core contrast is:
 | Character | Default instinct |
 | --- | --- |
 | **Nora** | Challenge the argument until it actually makes sense |
-| **Mia** | Find the workable solution and keep moving |
+| **Zoe** | Find the workable solution and keep moving |
 | **Sofia** | Cut through the performance and state the practical reality |
 | **Rachel** | Verify before trusting the conclusion |
 | **Maya** | Make the space warmer and adapt when plans change |
 
 They do not need equal narrative weight.
 
-Nora and Mia deserve stronger recurring identities.
+Nora and Zoe deserve stronger recurring identities.
 
 Sofia is already sufficiently distinct and mainly needs consistency.
 
@@ -141,7 +141,7 @@ Use:
 - explicit premises;
 - occasional lists or multi-part explanations when activated.
 
-She should sound more formal than Mia or Sofia, but still like a student rather than a textbook.
+She should sound more formal than Zoe or Sofia, but still like a student rather than a textbook.
 
 ---
 
@@ -194,13 +194,13 @@ Avoid:
 
 ---
 
-# 3. Mia
+# 3. Zoe
 
 ## Core role
 
 **The chaotic weeb CS girl who is somehow still functional.**
 
-Mia's chaos should have a specific identity.
+Zoe's chaos should have a specific identity.
 
 She is not merely "messy."
 
@@ -218,7 +218,7 @@ She is:
 
 ## Weeb identity
 
-Mia is genuinely into:
+Zoe is genuinely into:
 
 - anime;
 - manga;
@@ -254,7 +254,7 @@ Use sparingly.
 
 **Make it work and move on.**
 
-Mia is comfortable with pragmatic solutions.
+Zoe is comfortable with pragmatic solutions.
 
 She may:
 
@@ -284,13 +284,13 @@ She should not sound like Leo.
 
 Leo rambles socially.
 
-Mia ricochets.
+Zoe ricochets.
 
 ---
 
 ## Humor mechanism
 
-Mia's humor can come from:
+Zoe's humor can come from:
 
 - treating bugs as hostile entities;
 - applying absurdly dramatic language to mundane technical failures;
@@ -321,7 +321,7 @@ She may:
 
 - procrastinate;
 - underestimate cleanup;
-- trust future-Mia too much;
+- trust future-Zoe too much;
 - leave temporary solutions in place;
 - misjudge how long something will take;
 - become overconfident because she usually pulls things off.
@@ -332,7 +332,7 @@ This should occasionally cost her.
 
 ## Social instinct
 
-Mia is less interested than Nora in fully resolving a discussion.
+Zoe is less interested than Nora in fully resolving a discussion.
 
 Her instinct is often:
 
@@ -348,19 +348,19 @@ That is a useful distinction from more socially analytical characters.
 
 ## Distinguish from others
 
-**Nora:** Nora wants the reasoning resolved. Mia wants the problem functioning.
+**Nora:** Nora wants the reasoning resolved. Zoe wants the problem functioning.
 
 **Leo:** both can be pragmatic and energetic, but Leo is much more socially expansive and people-focused.
 
-**Taiga:** Taiga tends toward structure and abstraction. Mia is far more willing to tolerate ugly but functional solutions.
+**Taiga:** Taiga tends toward structure and abstraction. Zoe is far more willing to tolerate ugly but functional solutions.
 
-**Rachel:** Rachel verifies. Mia improvises.
+**Rachel:** Rachel verifies. Zoe improvises.
 
 ---
 
 ## Stable traits
 
-Keep Mia:
+Keep Zoe:
 
 - competent;
 - chaotic;
@@ -418,7 +418,7 @@ Use:
 
 She should not debate like Nora.
 
-She should not riff chaotically like Mia.
+She should not riff chaotically like Zoe.
 
 ---
 
@@ -543,7 +543,7 @@ Do not force more personality onto her than her screen time supports.
 
 **Leo:** pragmatic implementation and social energy.
 
-**Mia:** chaotic pragmatism.
+**Zoe:** chaotic pragmatism.
 
 **Rachel:** verification and testing.
 
@@ -677,7 +677,7 @@ Use:
 - expressive reactions;
 - concrete observations;
 - less abstraction than Nora;
-- less internet-chaos than Mia;
+- less internet-chaos than Zoe;
 - less clipped practicality than Sofia.
 
 When excited about something outdoors or environmental, she can become more animated and detailed.
@@ -752,7 +752,7 @@ Her life should occasionally interfere with Caleb's plans just as Caleb's life c
 
 **Nora:** Nora challenges ideas. Maya responds to people and environments.
 
-**Mia:** Mia embraces functional chaos. Maya improvises without necessarily being disorganized.
+**Zoe:** Zoe embraces functional chaos. Maya improvises without necessarily being disorganized.
 
 **Sofia:** Sofia cuts through nonsense. Maya softens spaces.
 
@@ -783,8 +783,8 @@ When revising scenes involving this group, check:
 
 - Does Nora challenge ideas rather than merely deliver generic sarcasm?
 - Is Nora occasionally too pushy because she thinks the reasoning is obvious?
-- Does Mia's chaos have a recognizable fandom/CS flavor?
-- Is Mia still visibly competent?
+- Does Zoe's chaos have a recognizable fandom/CS flavor?
+- Is Zoe still visibly competent?
 - Are anime/manga/game references occasional texture rather than every line?
 - Does Sofia cut through performance without becoming emotionally flat?
 - Does Sofia exist outside Aaron?
@@ -793,5 +793,5 @@ When revising scenes involving this group, check:
 - Does Maya respect Caleb's need for structure rather than trying to cure it?
 - Does Caleb/Maya tension come from structure vs flexibility rather than introvert vs extrovert?
 - Does Maya have environmental/outdoors interests and plans independent of Caleb?
-- Could Nora and Mia exchange dialogue without the lines obviously belonging to the wrong person?
+- Could Nora and Zoe exchange dialogue without the lines obviously belonging to the wrong person?
 
