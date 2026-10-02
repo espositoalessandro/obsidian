@@ -265,7 +265,30 @@ Word count is not the target.
 
 ---
 
-# 15. Sentence Rhythm
+# 15. Cognitive Load
+
+Check how much active attention and working memory the reader needs from scene to scene.
+
+Ask:
+
+- Are several dialogue-heavy or information-heavy scenes stacked without a lower-demand stretch between them?
+- Is every conversation delivering new names, facts, relationship information, setup or plot at once?
+- Are too many new names introduced close together, especially characters the reader does not actually need to remember?
+- Does the prose clearly signal which names, facts and details matter and which are background texture?
+- After a dense scene, does the reader get time to process through action, observation, atmosphere, routine, humor or silence?
+- Are scene breaks providing a real cognitive reset, or does the next scene immediately resume the same information load?
+- Could some dialogue be summarized or converted into action/narration without losing voice or important character beats?
+- Are low-stakes conversations allowed to remain low-stakes, or has every exchange been made narratively significant?
+- Does an important line have enough quieter material around it to stand out?
+- Is a passage exhausting despite not being boring?
+
+Do not add filler merely to lower the load.
+
+Breathing room should arise naturally from the characters' schedules, actions, environment or ordinary life. Its function may simply be to let the reader inhabit the story without having to memorize or interpret something new.
+
+---
+
+# 16. Sentence Rhythm
 
 Read paragraphs aloud when useful.
 
@@ -285,7 +308,7 @@ They are not the entire narrative voice.
 
 ---
 
-# 16. LLM-Style Pass
+# 17. LLM-Style Pass
 
 Look specifically for prose that feels mechanically constructed.
 
@@ -308,7 +331,7 @@ Do not deliberately make good prose worse in order to avoid an imagined AI detec
 
 ---
 
-# 17. Over-Explanation Pass
+# 18. Over-Explanation Pass
 
 Check whether the prose trusts what it already showed.
 
@@ -322,7 +345,7 @@ Ask:
 
 ---
 
-# 18. Specificity and Abstraction
+# 19. Specificity and Abstraction
 
 Prefer precise ordinary language.
 
@@ -341,7 +364,7 @@ Do not replace simple language merely to sound literary.
 
 ---
 
-# 19. Repetition
+# 20. Repetition
 
 Audit repetition at multiple levels:
 
@@ -359,7 +382,7 @@ Accidental redundancy is not.
 
 ---
 
-# 20. Chapter Opening
+# 21. Chapter Opening
 
 Check the first page as an entry point.
 
@@ -373,7 +396,7 @@ Ask:
 
 ---
 
-# 21. Chapter Ending
+# 22. Chapter Ending
 
 Check whether the chapter stops at the right moment.
 
@@ -388,7 +411,7 @@ Ask:
 
 ---
 
-# 22. Title
+# 23. Title
 
 The title should belong to the whole chapter.
 
@@ -402,7 +425,7 @@ Check:
 
 ---
 
-# 23. Grammar and Natural English
+# 24. Grammar and Natural English
 
 Perform this after content and craft decisions are stable.
 
@@ -426,7 +449,7 @@ Small grammar and natural-English fixes may be corrected directly at this stage.
 
 ---
 
-# 24. Formatting
+# 25. Formatting
 
 Check final Markdown and eventual publication rendering.
 
@@ -447,7 +470,7 @@ When unusual formatting appears, consider eventual AO3 rendering.
 
 ---
 
-# 25. Normal-Reader Pass
+# 26. Normal-Reader Pass
 
 Stop editing sentence by sentence.
 
@@ -464,7 +487,7 @@ Notice:
 
 ---
 
-# 26. Story / Romance Reader Test
+# 27. Story / Romance Reader Test
 
 Use the likely audience as another check.
 
@@ -481,7 +504,7 @@ It does need continuing human interest.
 
 ---
 
-# 27. Must-Fix vs Taste
+# 28. Must-Fix vs Taste
 
 Before another polishing pass, classify remaining issues.
 
@@ -506,7 +529,7 @@ Be suspicious of continuing to polish the second.
 
 ---
 
-# 28. Freeze Decision
+# 29. Freeze Decision
 
 Ask:
 
@@ -524,7 +547,7 @@ Do not repeatedly reread a frozen chapter looking for sentences that could theor
 
 ---
 
-# 29. Before Moving On
+# 30. Before Moving On
 
 After freezing:
 
