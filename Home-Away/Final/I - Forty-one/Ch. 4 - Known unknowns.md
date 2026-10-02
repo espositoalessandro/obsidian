@@ -516,9 +516,9 @@ She quickly packed her laptop and rushed off.
 
 "See you tomorrow, Leo."
 
-Leo raised one hand, then said to Taiga:
+Leo raised one hand. After a while he said to Taiga:
 
-"Thanks."
+"Thanks, by the way."
 
 "She's lucky the branch was still on the remote."
 
@@ -560,13 +560,28 @@ Leo snorted.
 
 "Okay, fair."
 
-Taiga stood and grabbed his duffel. Leo didn't move.
+Leo turned back to his laptop.
+Taiga looked at the time. He didn't actually have anywhere to be yet.
 
-"See you at practice."
+He pulled his own laptop out of his bag and opened the Political Institutions reading he'd been avoiding.
 
-"Yeah, thanks again!"
+For a while, they worked.
 
-Then Taiga walked away.
+Leo occasionally muttered something under his breath at his screen. Taiga stopped paying attention after the third time.
+
+Outside the windows, the campus lights started coming on.
+
+When Taiga finally checked the time again, nearly an hour had passed. 
+
+He closed his laptop and shoved it into his bag.
+
+"I'm going."
+
+Leo looked up.
+
+"Okay. See you."
+
+Taiga nodded and left.
 
 ---
 
