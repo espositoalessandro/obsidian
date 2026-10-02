@@ -427,33 +427,28 @@ Leo sighed.
 
 "You're a criminal."
 
-Taiga watched the two of them bickering. It was none of his business, after all. He put his duffel on his shoulder.
+Taiga watched the two of them bickering. It was none of his business. He put his duffel over his shoulder.
 
 Fuck it.
 
-"Did you also delete the remote?"
+"I can take a look."
 
-They both turned to him. Zoe's eyes lit up.
+Zoe immediately brightened.
 
-"You... know Git? Actually know?"
+"Seriously?"
 
-Taiga shrugged.
+"I said look. Not resurrect whatever you murdered."
 
-"A bit."
-
-She slumped.
-
-"OH GOD. Please help me, I lost like three days' worth of work."
-
-Taiga looked at her. Too late now.
+"Library? Six?"
 
 "Fine."
 
 ---
 
-He went with them to the library. Zoe showed him her repository.
-Taiga was horrified at what he saw.
-Three different naming conventions. Seven branches, two of them unmerged.
+At six, Zoe had already taken over half a table in the library.
+Leo was there too.
+Taiga sat down, opened her repository and immediately regretted every decision that had brought him there.
+Three naming conventions. Seven branches. Two unmerged.
 
 Taiga blinked. Zoe looked at him in desperation.
 
