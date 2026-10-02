@@ -567,7 +567,7 @@ Then he walked away.
 
 ---
 
-By Friday morning, Taiga had booked the first available slot for Professor Hall's office hours.
+By Thursday morning, Taiga had booked the first available slot for Professor Hall's office hours.
 He hadn't told anyone.
 Taiga knocked on the door.
 
@@ -810,6 +810,10 @@ For a while they talked about nothing important. Taiga complained about soccer p
 "Well, now that you left, camp shit's all on me."
 
 Taiga waited a second.
+
+“You were the one telling me to go.”
+
+“Took you long enough.”
 
 "You could just say you miss me."
 
