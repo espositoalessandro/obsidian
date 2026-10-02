@@ -593,7 +593,7 @@ The recurring Olympus women have their own final-rewrite bible:
 That file is authoritative for:
 
 - Nora;
-- Mia;
+- Zoe;
 - Sofia;
 - Rachel.
 
