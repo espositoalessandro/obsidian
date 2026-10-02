@@ -73,7 +73,7 @@ Friction should arise from investment, not from Olympus simply becoming hostile 
 ### Current likely anchors
 
 - bad practice / conflict and repair with Evan;
-- first unmistakable physical noticing of Leo and the Mia mention, without escalating it into a settled attraction;
+- first unmistakable physical noticing of Leo and the Zoe mention, without escalating it into a settled attraction;
 - room-boundary argument with Caleb.
 
 The Political Institutions 74/100 is currently **not preferred here**, because stacking every form of friction into one chapter risks making the structure feel engineered.
@@ -112,7 +112,7 @@ Football stops being something Taiga is testing and becomes something he is emot
 
 His first reserve start creates real performance pressure. He makes mistakes and has to continue playing rather than immediately correcting, erasing or escaping them. Socially, he begins staying with the team after football rather than automatically leaving.
 
-The romantic thread also advances one deliberate step. A second shower encounter with Leo confirms that Taiga's earlier physical noticing was not a one-off. Later that night, Taiga masturbates while thinking about Leo and immediately rationalizes it as purely physical. Only **after** that does Mia clarify that she and Leo are not dating and that she does not think Leo is into girls. Taiga feels unexpectedly good about that information without understanding why.
+The romantic thread also advances one deliberate step. A second shower encounter with Leo confirms that Taiga's earlier physical noticing was not a one-off. Later that night, Taiga masturbates while thinking about Leo and immediately rationalizes it as purely physical. Only **after** that does Zoe clarify that she and Leo are not dating and that she does not think Leo is into girls. Taiga feels unexpectedly good about that information without understanding why.
 
 ### Movement
 
@@ -124,9 +124,9 @@ The chapter should not imply that commitment means confidence. Taiga can be deep
 
 For the romantic thread, preserve the order:
 
-**second shower → masturbation / physical rationalization → Mia says Leo may not be into girls → Taiga likes that information without naming why.**
+**second shower → masturbation / physical rationalization → Zoe says Leo may not be into girls → Taiga likes that information without naming why.**
 
-Mia's information must not create the attraction. The reader should already know the attraction exists before Taiga learns Leo may be available to men.
+Zoe's information must not create the attraction. The reader should already know the attraction exists before Taiga learns Leo may be available to men.
 
 ---
 
