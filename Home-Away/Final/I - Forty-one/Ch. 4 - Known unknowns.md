@@ -186,7 +186,7 @@ Taiga closed his eyes and sighed.
 Leo had turned and was waving at him with a big smile. Taiga lifted one hand in response.
 Leo was already opening his mouth to say something when Seth told everyone to form their groups.
 
-He saw a girl pointing at him.
+A girl at Table Six was pointing at him. Her tag said *Priya*.
 
 "Taiga! Hi. You're ours."
 
