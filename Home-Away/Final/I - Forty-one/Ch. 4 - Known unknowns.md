@@ -451,6 +451,8 @@ Taiga showered, changed and found Leo waiting outside the locker room.
 
 Leo talked most of the walk to the library. Taiga contributed when necessary.
 Which, with Leo, was very near to total silence.
+He used that to book the first available slot with Professor Hall. 
+Tomorrow morning. Perfect.
 
 Somewhere between the Sports Zone and Central Park, Leo told him a story about Enzo losing a shoe during practice the previous year. Taiga wasn't entirely sure how they'd gotten onto the subject.
 
@@ -568,9 +570,7 @@ Then Taiga walked away.
 
 ---
 
-By Thursday morning, Taiga had booked the first available slot for Professor Hall's office hours.
-He hadn't told anyone.
-Taiga knocked on the door.
+The next morning, Taiga knocked on the professor's door.
 
 "Come in."
 
