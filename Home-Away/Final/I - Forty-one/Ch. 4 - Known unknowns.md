@@ -34,7 +34,7 @@ Nora frowned.
 
 “That's enough.”
 
-They reached the lecture hall and took their usual seat.
+They reached the lecture hall and took their usual seats.
 
 Professor Hall returned their first response papers that morning. Taiga received a seventy-four. He stared at the number.
 
@@ -445,7 +445,7 @@ Taiga shrugged.
 
 "A bit."
 
-She lost all her posture.
+Her posture collapsed.
 
 "OH GOD. Please help me, I lost like three days' worth of work."
 
@@ -517,7 +517,7 @@ Leo raised one hand, then said to Taiga:
 
 "Thanks."
 
-“She's lucky the branch was still remote.”
+“She's lucky the branch was still on the remote.”
 
 "Yeah. So, you code?"
 
@@ -683,7 +683,7 @@ Yoichi's face appeared sideways.
 
 “Your camera's fucked.”
 
-“Your phone is tilted the wrong way idiot.”
+“Your phone is tilted the wrong way, idiot.”
 
 "It's not."
 
@@ -721,7 +721,7 @@ Yoichi rotated the phone the right way. Behind him was darkness, trees and the w
 
 “Yeah no shit.”
 
-Yoichi clicked his tongue and turned the camera. Through the trees, Taiga could make out one of the Camp Buddy building.
+Yoichi clicked his tongue and turned the camera. Through the trees, Taiga could make out one of the Camp Buddy buildings.
 
 “Sheriff Brokeback wanted help stacking chairs in the lodge.”
 
@@ -739,7 +739,7 @@ Yuki barked somewhere ahead. Yoichi immediately looked away from the camera.
 
 "Good girl."
 
-“You joined soccer team.”
+“You joined the soccer team.”
 
 Taiga blinked for a second.
 
@@ -747,7 +747,7 @@ Taiga blinked for a second.
 
 "Who cares."
 
-"I didn't, I'm still in the development roster."
+"Not really. I'm still on the development roster."
 
 "The fuck does that mean?"
 
@@ -789,7 +789,7 @@ Caleb looked over.
 
 "Assuming that Dynamite is a nickname for Taiga, no, he hasn't."
 
-"What the heck have you been doing there all this time."
+"What the heck have you been doing there all this time?"
 
 "Things you do in college, dumbass. Study, eat. Sports."
 
@@ -807,7 +807,7 @@ For a while they talked about nothing important. Taiga complained about soccer p
 
 "That's always your excuse."
 
-"Well, now that you left, camp shit's all on me."
+"Well, now that you've left, camp shit's all on me."
 
 Taiga waited a second.
 
@@ -831,7 +831,7 @@ Taiga grinned. Yoichi continued:
 
 "Annoyingly."
 
-"Means you're looking forward for it."
+"Means you're looking forward to it."
 
 "Yeah, so scoutmasters stop bothering me with chores."
 
@@ -872,14 +872,14 @@ Taiga looked at the blank screen for another second before setting the phone dow
 
 ---
 
-Fiday afternoon, Taiga was getting changed in his usual locker.
+Friday afternoon, Taiga was changing at his usual locker.
 Across the room, Leo was trying to tape one wrist while Enzo talked at him from two lockers away.
 
 “You're doing that wrong,” Enzo said.
 
 “I have been taping my own wrists for years.”
 
-"Ask anyone, they'll tell the same."
+"Ask anyone. They'll tell you the same thing."
 
 Leo looked over and caught Taiga watching.
 
@@ -927,7 +927,7 @@ Enzo's face lit up. Leo pointed at Taiga.
 
 Someone shouted for Leo from the corridor. He stood up.
 
-"By the way, Mia submitted so I'd consider the saving operation a success."
+"By the way, Mia submitted it, so I'd consider the saving operation a success."
 
 “Congratulations.”
 
