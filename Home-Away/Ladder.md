@@ -1,4 +1,4 @@
-## Chapter 4 — Known Unknowns
+## Chapter 4 — Known unknowns
 
 - **1. Opening + Political Institutions — Olympus becomes sortable, then the 74 punctures it**
   - **Status: drafting in Final Ch. 4**
