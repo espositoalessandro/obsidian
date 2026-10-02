@@ -445,8 +445,19 @@ Zoe immediately brightened.
 
 ---
 
+Training ended a little after five-thirty.
+
+Taiga showered, changed and found Leo waiting outside the locker room.
+
+Leo talked most of the walk to the library. Taiga contributed when necessary.
+Which, with Leo, was very near to total silence.
+
+Somewhere between the Sports Zone and Central Park, Leo told him a story about Enzo losing a shoe during practice the previous year. Taiga wasn't entirely sure how they'd gotten onto the subject.
+
+He also wasn't entirely sure why he was still listening.
+The library came into view before Leo ran out of things to say.
+
 At six, Zoe had already taken over half a table in the library.
-Leo was there too.
 Taiga sat down, opened her repository and immediately regretted every decision that had brought him there.
 Three naming conventions. Seven branches. Two unmerged.
 
