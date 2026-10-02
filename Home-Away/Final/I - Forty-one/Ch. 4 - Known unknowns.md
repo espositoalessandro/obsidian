@@ -668,3 +668,288 @@ Taiga considered. Actually, yeah.
 **Nora:** You're hopeless.
 
 Taiga smiled and locked the phone.
+
+---
+
+Taiga was in his room when his phone buzzed. It was 9:34.
+
+Video call from Yoichi. 
+Taiga looked at the screen and frowned. 
+Yoichi barely texted full sentences, let alone actually calling.
+
+"What?"
+
+Yoichi's face appeared sideways.
+
+“Your camera's fucked.”
+
+“Your phone is tilted the wrong way idiot.”
+
+"It's not."
+
+"It is."
+
+Yoichi rotated the phone. Now he was upside down.
+
+Taiga stared.
+
+“You're doing this on purpose.”
+
+Yoichi grinned.
+
+“Maybe.”
+
+“Why are you calling?”
+
+“I was bored.”
+
+“Call the others.”
+
+"Bugging you is funnier."
+
+"Fuck you."
+
+Yoichi rotated the phone the right way. Behind him was darkness, trees and the weak cone of a flashlight pointed at the ground. Yuki's ears appeared at the bottom of the frame for half a second before disappearing again.
+
+“It's almost ten.”
+
+“So?”
+
+“The fuck are you doing in the woods?”
+
+“Walking.”
+
+“Yeah no shit.”
+
+Yoichi clicked his tongue and turned the camera. Through the trees, Taiga could make out one of the Camp Buddy building.
+
+“Sheriff Brokeback wanted help stacking chairs in the lodge.”
+
+“And you left.”
+
+“They're chairs. They already know how to stand.”
+
+Taiga laughed once.
+
+Yuki barked somewhere ahead. Yoichi immediately looked away from the camera.
+
+“How's Yuki?”
+
+"Fine."
+
+"Good girl."
+
+“You joined soccer team.”
+
+Taiga blinked for a second.
+
+“That transition made no sense.”
+
+"Who cares."
+
+"I didn't, I'm still in the development roster."
+
+"The fuck does that mean?"
+
+"Means they're still deciding whether to keep me or not."
+
+"Tch. Bet you're giving them a hard time."
+
+"I'm hanging up."
+
+Yoichi smiled and leaned closer.
+
+"Bunch of sweaty college dudes?"
+
+Taiga closed his eyes.
+
+"No."
+
+Yoichi's grin became filthy.
+
+"Found a boyfriend yet?"
+
+"No."
+
+“Roommate?”
+
+“No.”
+
+“That wasn't the question.”
+
+Across the room Caleb said, without looking up from his book:
+
+“I can hear both of you.”
+
+Yoichi's eyes lit up.
+
+“Roommate, has Dynamite already asked you to leave the room for a night?”
+
+Caleb looked over.
+
+"Assuming that Dynamite is a nickname for Taiga, no, he hasn't."
+
+"What the heck have you been doing there all this time."
+
+"Things you do in college, dumbass. Study, eat. Sports."
+
+"Sounds freaking boring."
+
+"Only because you're a dumb dog."
+
+"Dogs are not dumb."
+
+"You're the exception."
+
+For a while they talked about nothing important. Taiga complained about soccer positioning. Yoichi complained that Aiden had asked him to unload lumber that afternoon and had somehow interpreted Yoichi disappearing for three hours as avoiding work.
+
+"I had to walk Yuki."
+
+"That's always your excuse."
+
+"Well, now that you left, camp shit's all on me."
+
+Taiga waited a second.
+
+"You could just say you miss me."
+
+"No."
+
+Taiga grinned. Yoichi continued:
+
+"Since you went to college, y'all think you're getting clever with jokes."
+
+"We didn't need college for that."
+
+"Tch."
+
+"Besides, you know that Keitaro is already planning the next reunion for this winter."
+
+"Annoyingly."
+
+"Means you're looking forward for it."
+
+"Yeah, so scoutmasters stop bothering me with chores."
+
+"Nice excuse. I'll tell Natsumi to keep an eye on you."
+
+"Psh. As if he needs you to tell him."
+
+"Heh, fair."
+
+Yuki barked again, farther away this time.
+Yoichi's head snapped toward the sound.
+
+“Yuki!”
+
+He started walking faster.
+
+“Fucking cats. Gotta go. Later, Dynamite.”
+
+“Later.”
+
+Caleb was looking at him from the other side of the room.
+
+“What?”
+
+“You sound different with him.”
+
+Taiga stared.
+
+“Stop listening to me.”
+
+“I live here.”
+
+“Unfortunately.”
+
+Caleb returned to his book.
+
+Taiga looked at the blank screen for another second before setting the phone down.
+
+---
+
+Fiday afternoon, Taiga was getting changed in his usual locker.
+Across the room, Leo was trying to tape one wrist while Enzo talked at him from two lockers away.
+
+“You're doing that wrong,” Enzo said.
+
+“I have been taping my own wrists for years.”
+
+"Ask anyone, they'll tell the same."
+
+Leo looked over and caught Taiga watching.
+
+"AG, settle this."
+
+"You're wrong."
+
+"About what?"
+
+"Everything."
+
+Enzo pointed at Leo's wrist. “See?”
+
+"That was not an informed opinion."
+
+Taiga bent to tie his boots.
+
+Leo said, “By the way, did Table Six survive?”
+
+"Apparently."
+
+"No fires?"
+
+"None."
+
+Leo grimaced.
+
+"Show-off."
+
+"You set yourself on fire."
+
+Enzo perked up and looked between them.
+
+“Why was Leo on fire?”
+
+“He wasn't,” Leo said.
+
+“He was,” Taiga said at the same time.
+
+Enzo's face lit up. Leo pointed at Taiga.
+
+"You're a terrible person."
+
+"But fireproof."
+
+Someone shouted for Leo from the corridor. He stood up.
+
+"By the way, Mia submitted so I'd consider the saving operation a success."
+
+“Congratulations.”
+
+“She also says next time she breaks Git she's calling you.”
+
+“No.”
+
+“Told her that. She didn't care.”
+
+"I hate both of you."
+
+Leo grinned and disappeared into the corridor.
+Taiga's phone buzzed inside his bag.
+
+**TABLE SIX — DO NOT DRINK ANYTHING**
+
+Priya had sent a photo of their draft report with three question marks beside one calculation.
+
+Taiga stared at the notification for a second, then opened it.
+
+From the corridor, Leo shouted:
+
+“AG, YOU COMING?”
+
+Taiga shoved the phone back into his bag.
+
+“Yeah.”
+
+He followed.
