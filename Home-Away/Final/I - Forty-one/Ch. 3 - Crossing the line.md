@@ -693,7 +693,7 @@ Taiga snorted. Evan entered the aisle.
 
 "What?"
 
-"Are you still going out with Mia tonight?"
+"Are you still going out with Zoe tonight?"
 
 Taiga kept rinsing his hair. None of his business. Leo answered over the water.
 
