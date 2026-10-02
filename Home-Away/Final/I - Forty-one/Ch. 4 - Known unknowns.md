@@ -381,15 +381,19 @@ Taiga looked at him.
 
 "Uhh-"
 
-"He said, and I'm quoting, a rather challenging guy joined the competition."
+“He said you were going to be a problem.”
 
 Taiga frowned.
 
-"What the fuck does it mean?"
+“What the fuck does that mean?”
 
-Leo was getting slightly pink.
+“I asked him the same thing.”
 
-"Fuck you, Mia. Don't snitch me like that."
+“Hey!”
+
+“What? Those were your words.”
+
+"Fuck you. Don't snitch me like that."
 
 Mia shrugged.
 
