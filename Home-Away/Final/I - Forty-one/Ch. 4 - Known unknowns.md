@@ -185,20 +185,22 @@ Taiga closed his eyes and sighed.
 Leo had turned and was waving at him with a big smile. Taiga lifted one hand in response.
 Leo was already opening his mouth to say something when Seth told everyone to form their groups.
 
-A girl at Table Six was pointing at him. 
+A girl at Table Six was pointing at him.
 
 "Taiga! Hi. You're ours."
 
-That sounded threatening. Taiga brought his stool there, followed shortly after by two other guys.
+That sounded threatening. Taiga brought his stool over. The other two guys followed shortly after.
 
 Their first assignment was pretty simple on paper: prepare three salt solutions at specific concentrations, then verify their masses and volumes and compare expected and observed density.
 
 In practice, four people immediately came up with four different ways of doing it.
 The girl read the procedure aloud once and started dividing tasks.
 
-One of the guys disagreed
+One of the guys disagreed.
 
 "Can we just make one solution each and have somebody check the math?"
+
+The other shook his head.
 
 "We should all check the math before anybody touches the stock."
 
@@ -225,7 +227,7 @@ The girl smiled.
 
 "Excellent. We have documentation."
 
-They somehow kept working together. One of them was totally obsessed with measuring everything.
+They somehow kept working together. One of the guys recorded everything, including room temperature.
 
 "The instructions said so."
 
