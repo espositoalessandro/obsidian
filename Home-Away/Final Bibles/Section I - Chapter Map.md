@@ -12,7 +12,7 @@
 
 The current intended movement is:
 
-**resist → adapt → experience friction → lose some neat compartments → commit → earn a place → participate voluntarily → choose a future → belong socially → integrate old and new → achieve → normalize the achievement**
+**resist → adapt → experience friction → discover the limits of neat summaries → commit → earn a place → participate voluntarily → choose a future → belong socially → integrate old and new → achieve → normalize the achievement**
 
 This should remain compatible with the Section I calibration in `Prose & Voice.md`: Taiga begins as a guarded newcomer who is already capable of growth, and ends the section not broadly warm or fully settled, but **participating**.
 
@@ -80,7 +80,7 @@ The Political Institutions 74/100 is currently **not preferred here**, because s
 
 ---
 
-## Chapter 4 — Known Unknowns / Exposure
+## Chapter 4 — Known unknowns / Exposure
 
 ### Dramatic role
 
