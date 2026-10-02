@@ -373,7 +373,7 @@ The girl named Mia then said,
 
 "Hey."
 
-"You're the one who made developmental? Leo told me about you."
+"You're the one who made the developmental roster? Leo told me about you."
 
 Taiga looked at him.
 
@@ -747,7 +747,7 @@ Taiga blinked for a second.
 
 "Who cares."
 
-"Not really. I'm still on the development roster."
+"Not really. I'm still on the developmental roster."
 
 "The fuck does that mean?"
 
