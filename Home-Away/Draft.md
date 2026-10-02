@@ -807,3 +807,304 @@ Taiga shoved the phone back into his bag.
 “Yeah.”
 
 He followed.
+
+---
+
+## Scene 7 — Yoichi calls
+
+At 10:46 that night, Taiga's phone rang.
+
+Yoichi.
+
+Taiga looked at the screen. Yoichi did not call. Yoichi barely texted full sentences.
+
+He answered.
+
+“What?”
+
+Yoichi's face appeared sideways.
+
+“Your camera's fucked.”
+
+“Yours is sideways.”
+
+“No.”
+
+“Yes.”
+
+Yoichi rotated the phone. Now he was upside down.
+
+Taiga stared.
+
+“You're doing this on purpose.”
+
+Yoichi grinned.
+
+“Maybe.”
+
+“Why are you calling?”
+
+“Bored.”
+
+“Call Frogboy.”
+
+“Busy.”
+
+“Torch-head.”
+
+“Annoying.”
+
+“Twinkerbell.”
+
+“Studio.”
+
+“Mr. Perfect.”
+
+“Training.”
+
+Taiga paused.
+
+“So I'm the emergency option.”
+
+“Yeah.”
+
+“Fuck you.”
+
+“Psh. You answered.”
+
+Yoichi rotated the phone the right way. Behind him was darkness, trees and the weak cone of a flashlight pointed at the ground. Yuki's ears appeared at the bottom of the frame for half a second before disappearing again.
+
+Taiga frowned.
+
+“You're in the woods.”
+
+“No shit.”
+
+“At almost eleven.”
+
+“So?”
+
+“What are you doing?”
+
+“Walking.”
+
+“With Yuki.”
+
+“Wow. College made you smart.”
+
+Taiga smiled despite himself.
+
+“Shouldn't you be at camp?”
+
+“I am at camp.”
+
+“You know what I mean.”
+
+Yoichi clicked his tongue and turned the camera. Through the trees, Taiga could make out one of the Camp Buddy lights farther downhill.
+
+“Yoshinori wanted help stacking chairs in the lodge.”
+
+“And you left.”
+
+“They're chairs. They already know how to stand.”
+
+“That isn't how chairs work.”
+
+“Works enough.”
+
+Yuki barked somewhere ahead. Yoichi immediately looked away from the camera.
+
+“How's Yuki?”
+
+“Good.”
+
+“Thought so.”
+
+Yoichi looked pleased for approximately half a second before remembering he had a reputation.
+
+“You joined soccer.”
+
+“That transition made no sense.”
+
+“Don't care.”
+
+“Development roster.”
+
+“I dunno what that means.”
+
+“That's brilliant.”
+
+Yoichi leaned closer.
+
+“Bunch of sweaty college dudes?”
+
+Taiga closed his eyes.
+
+“There it is.”
+
+“What?”
+
+“The reason you called.”
+
+“I called because walking around here alone gets boring.”
+
+“And yet somehow we're here.”
+
+Yoichi's grin became filthy.
+
+“Got a boyfriend yet?”
+
+“No.”
+
+“Roommate?”
+
+“No.”
+
+“That wasn't the question.”
+
+Across the room Caleb said, without looking up from his book:
+
+“I can hear both of you.”
+
+Yoichi's eyes lit up.
+
+“Roommate, has Dynamite already asked you to leave the room for a night?”
+
+Taiga sighed.
+
+“Caleb, ignore him.”
+
+Caleb looked over.
+
+“No, he hasn't.”
+
+“Boring. Is he annoying you?”
+
+“Yes.”
+
+“Fuck you both.”
+
+Yoichi laughed.
+
+For a while they talked about nothing important. Taiga complained about soccer positioning. Yoichi complained that Aiden had asked him to unload lumber that afternoon and had somehow interpreted Yoichi disappearing for three hours as avoiding work.
+
+“You were avoiding work.”
+
+“I was with Yuki.”
+
+“That does not make it less true.”
+
+“Fuck you.”
+
+There was a pause. Leaves shifted beneath Yoichi's shoes.
+
+Then he said:
+
+“Place is weird now.”
+
+Taiga looked at the screen.
+
+“How?”
+
+“People keep leaving.”
+
+“They come back.”
+
+“Not the same.”
+
+Taiga waited.
+
+Yoichi kicked at something out of frame.
+
+“Everyone comes back different.”
+
+Taiga frowned.
+
+“You're still there.”
+
+“Yeah. That's why I notice, dumbass.”
+
+Yuki moved through the flashlight beam ahead of him. Yoichi followed without looking at the screen.
+
+Taiga said:
+
+“Keitaro's already planning the next reunion.”
+
+“Course Frogboy is.”
+
+“You can't wait for it.”
+
+“Psh.”
+
+“That means yes.”
+
+Yoichi clicked his tongue.
+
+“Place is too fucking quiet without you idiots.”
+
+Taiga smiled.
+
+“Thought you liked quiet.”
+
+“Not that much.”
+
+For a couple of seconds neither said anything.
+
+Then Yoichi added:
+
+“You were the last one to leave anyway.”
+
+Taiga looked at him.
+
+“Eventually.”
+
+Yoichi snorted.
+
+“Yeah. Eventually.”
+
+Taiga narrowed his eyes.
+
+“What?”
+
+“Nothing.”
+
+“That sounded like something.”
+
+“Psh.”
+
+“Great argument.”
+
+Yuki barked again, farther away this time.
+
+Yoichi's head snapped toward the sound.
+
+“Yuki!”
+
+He started walking faster.
+
+“Gotta go. Later, Dynamite.”
+
+“Later.”
+
+The call ended.
+
+Taiga lowered the phone.
+
+Caleb was looking at him from the other side of the room.
+
+“What?”
+
+“You sound different with him.”
+
+Taiga stared.
+
+“Stop listening to me.”
+
+“I live here.”
+
+“Tragic.”
+
+Caleb returned to his book.
+
+Taiga looked at the blank screen for another second before setting the phone down.
+
