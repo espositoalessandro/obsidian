@@ -567,8 +567,8 @@ Then he walked away.
 
 ---
 
-Friday morning, Taiga had booked the first available slot for Professor Hall's office hours.
-He told no one about that.
+By Friday morning, Taiga had booked the first available slot for Professor Hall's office hours.
+He hadn't told anyone.
 Taiga knocked on the door.
 
 "Come in."
@@ -637,8 +637,8 @@ Taiga looked down. Hall continued.
 
 “You see the endpoint. Your reader doesn't.”
 
- Taiga reread the paragraph and found the jump. He knew what connected the two ideas but hadn't written it.
- Hall leaned back.
+Taiga reread the paragraph and found the jump. He knew what connected the two ideas but hadn't written it.
+Hall leaned back.
 
 “I don't need you to think more slowly. I need you to show me the bridge.”
 
@@ -647,7 +647,7 @@ Taiga stared at the screen. Something loosened.
 They spent another fifteen minutes on the paper. Specific sentences. Specific gaps. When Taiga left, the grade was still seventy-four. 
 Strangely, it felt smaller, contained.
 
-When he went out, he took his phone.
+Outside the office, he took out his phone.
 
 **Taiga:** went to hall's office
 
