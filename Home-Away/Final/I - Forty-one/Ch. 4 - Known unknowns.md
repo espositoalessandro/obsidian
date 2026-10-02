@@ -172,7 +172,7 @@ Taiga winced and looked back at the screen.
 
 - Lucas Campbell
 - Julio Mendez
-- Mia Harper
+- Zoe Harper
 - Anne Anderson
 
 He narrowed his eyes. No other Mendez. Of course, Leo couldn't be his actual legal name.
@@ -272,7 +272,7 @@ People went back to work. Taiga was laughing silently when Leo noticed him.
 
 Then he turned to the girl.
 
-"You hit me, Mia."
+"You hit me, Zoe."
 
 "You were on freaking fire."
 
@@ -294,7 +294,7 @@ Leo heard.
 
 "I can hear you."
 
-Mia said,
+Zoe said,
 
 "Great. Then hear this: new rule. No storytelling while operating fire."
 
@@ -361,11 +361,11 @@ Leo's eyes narrowed.
 
 Taiga snorted. Leo smiled as well.
 
-Mia then said,
+Zoe then said,
 
 "He'll probably say it himself."
 
-"At least I'll make it worth telling. Anyway, this is Taiga. Taiga, Mia."
+"At least I'll make it worth telling. Anyway, this is Taiga. Taiga, Zoe."
 
 "Hi Taiga!"
 
@@ -393,7 +393,7 @@ Taiga frowned.
 
 "Fuck you. Don't snitch on me like that."
 
-Mia shrugged.
+Zoe shrugged.
 
 "You need to start taking responsibility for what you say."
 
@@ -403,7 +403,7 @@ Taiga nodded.
 
 "Right, you two have known each other for one minute and have already allied against me."
 
-Mia put a hand on his shoulder.
+Zoe put a hand on his shoulder.
 
 "You brought it on yourself."
 
@@ -435,7 +435,7 @@ Fuck it.
 
 "Did you also delete the remote?"
 
-They both turned to him. Mia's eyes lit up.
+They both turned to him. Zoe's eyes lit up.
 
 "You... know Git? Actually know?"
 
@@ -453,11 +453,11 @@ Taiga looked at her. Too late now.
 
 ---
 
-He went with them to the library. Mia showed him her repository.
+He went with them to the library. Zoe showed him her repository.
 Taiga was horrified at what he saw.
 Three different naming conventions. Seven branches, two of them unmerged.
 
-Taiga blinked. Mia looked at him in desperation.
+Taiga blinked. Zoe looked at him in desperation.
 
 "Please tell me that you can recover it."
 
@@ -468,7 +468,7 @@ Taiga took a deep breath.
 
 "Which one of these?"
 
-Mia looked.
+Zoe looked.
 
 "THIS! This one!"
 
@@ -476,7 +476,7 @@ He restored the branch.
 
 "Check it."
 
-Mia took her laptop. Taiga couldn't bring himself to look at her code.
+Zoe took her laptop. Taiga couldn't bring himself to look at her code.
 
 "OH MY GOD. Taiga, you're an angel. You saved me."
 
@@ -502,7 +502,7 @@ Leo chuckled.
 
 "Too late."
 
-Mia looked at her watch.
+Zoe looked at her watch.
 
 "Shit, I gotta go. Thanks again, Taiga!"
 
@@ -538,7 +538,7 @@ Again. The freaking major.
 
 "No."
 
-"Well, me and Mia are in Computer Science."
+"Well, me and Zoe are in Computer Science."
 
 "Good for you."
 
@@ -924,7 +924,7 @@ Enzo's face lit up. Leo pointed at Taiga.
 
 Someone shouted for Leo from the corridor. He stood up.
 
-"By the way, Mia submitted it, so I'd consider the saving operation a success."
+"By the way, Zoe submitted it, so I'd consider the saving operation a success."
 
 "Congratulations."
 
