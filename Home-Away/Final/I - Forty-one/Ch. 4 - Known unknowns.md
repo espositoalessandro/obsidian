@@ -2,16 +2,16 @@
 
 By the fourth week, Taiga had begun to recognize people around campus.
 There was the tall girl with silver headphones who always bought tea from the kiosk outside the library at 8:20.
-A guy from chemistry always rides a skateboard, and he's bad. Taiga had now seen him fall three separate times. 
+There was a guy from chemistry who always rode a skateboard, and he was bad at it. Taiga had now seen him fall three separate times. 
 There were two students who always sat beneath the same oak tree between ten and eleven, usually with notebooks open and almost never studying. 
 
 Olympus had stopped being populated exclusively by strangers. 
 Not that Taiga cared about them, but they were now categorized.
-Also the people he actually talked to were put in their buckets. Teammates. Roommate. Class pars.
-They also started to make more sense individually:
-Scott saved most of his daily words allowance for the goal.
+The people he actually talked to had ended up in their own buckets too. Teammates. Roommate. Classmates.
+They had started to make more sense individually, too:
+Scott saved most of his daily word allowance for the goal.
 Enzo was pure chaos.
-Evan had always some unsolicited advice for any kind of situation.
+Evan always had some unsolicited advice for any kind of situation.
 Leo was annoying and loud.
 Caleb noticed almost everything and explained almost nothing unless asked.
 Nora argued for the sake of it.
@@ -94,7 +94,7 @@ He took plenty of notes and he considered raising his hand at least three times.
 Every time, though, the seventy-four appeared in his mind.
 *Strong instincts*. Which was basically the same thing as "Good effort", the thing adults say to children when they produce terrible drawings.
 
-By the end of the class, irritation had rooted into something else, much calmer and much worse.
+By the end of class, irritation had settled into something else, much calmer and much worse.
 He packed quickly.
 
 "You're weirdly silent."
@@ -107,13 +107,13 @@ Nora bit her lip.
 
 "Why?"
 
-"Because I want to know what he wants"
+"Because I want to know what he wants."
 
-"Seemed pretty obvious to me?"
+"Seems pretty obvious to me."
 
 She shrugged.
 
-"I thought as well. Apparently I was wrong."
+"I thought so too. Apparently I was wrong."
 
 Taiga waited a second.
 
