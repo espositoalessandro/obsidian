@@ -146,12 +146,12 @@ Nora left. Taiga remained seated for several seconds. Then muttered:
 
 ---
 
-With Wednesday, the first General Chemistry lab session arrived. Taiga was genuinely curious about it, although he disliked it immediately after the first five minutes.
-Fogged googles, absurdly sturdy gloves, crowded benches. He also noticed that every bottle had at least three labels: one announcing what it contained, an hazard symbol and an enormous "WARNING". 
+Wednesday brought the first General Chemistry lab session. Taiga was genuinely curious about it, although he disliked it within the first five minutes.
+Fogged goggles, absurdly sturdy gloves, crowded benches. He also noticed that every bottle had at least three labels: one announcing what it contained, a hazard symbol and an enormous "WARNING". 
 He wondered if somebody had attempted to drink it.
 
-He was still busy putting on all his gear when Seth Miller, a graduated assistant who handled the lab, entered.
-He began with the assumption that he knew everyone was an adult. Yet, he warned them nonetheless because, apparently, adults tended to be more creative with how they injured themselves.
+He was still busy putting on all his gear when Seth Miller, a graduate assistant who handled the lab, entered.
+He began by saying that he knew everyone was an adult. Yet he warned them anyway because, apparently, adults tended to be more creative with how they injured themselves.
 
 "With that being said, I divided you into groups of four. These will stay the same through the next unit."
 
@@ -164,8 +164,8 @@ Then a slide appeared on the screen.
 - Marcus Reed  
 - Daniel Wu
 
-Taiga looked around the class automatically, but he had no idea who was who. Luckily their lab coat had a name tag.
-His eyes spotted something familiar though. There was a blond head, talking to a girl.
+Taiga looked around the class automatically, but he had no idea who was who. Luckily, their lab coats had name tags.
+His eyes spotted something familiar, though. There was a blond head, talking to a girl.
 
 Taiga winced and looked back at the screen.
 
@@ -184,24 +184,24 @@ It didn't take long.
 
 Taiga closed his eyes and sighed.
 Leo had turned and was waving at him with a big smile. Taiga lifted one hand in response.
-Leo was already opening his mouth to say something before Seth told everyone to form their groups.
+Leo was already opening his mouth to say something when Seth told everyone to form their groups.
 
-She saw a girl who was pointing at him.
+He saw a girl pointing at him.
 
 "Taiga! Hi. You're ours."
 
 That sounded threatening. Marcus dragged his stool over. Daniel arrived shortly after carrying his lab notebook.
 
-Their first assignment was pretty simple on paper: prepare thee salt solutions at specific concentrations.
+Their first assignment was pretty simple on paper: prepare three salt solutions at specific concentrations.
 Then, verify their masses and volumes and compare expected and observed density.
 
-In practice, four people immediately pointed out four different ways of doing it.
+In practice, four people immediately came up with four different ways of doing it.
 Priya read the procedure aloud once and started dividing tasks. 
 Marcus said,
 
-“Can we just make one solution each and have somebody check the math?” 
+“Can we just make one solution each and have somebody check the math?”
 
-Daniel instead, 
+Daniel disagreed.
 
 “We should all check the math before anybody touches the stock.” 
 
@@ -233,7 +233,7 @@ They somehow kept working together. Priya was fast and exact about procedure, Ma
 
 "The instructions said so."
 
-Taiga measured as well, but kept wanting to moved ahead before others had finished recording.
+Taiga measured as well, but kept wanting to move ahead before others had finished recording.
 
 “Wait,” Daniel said for the third time.
 
@@ -246,7 +246,7 @@ Taiga stopped. Daniel wrote.
 “Okay.”
 
 While he waited, he looked around. Across the room, Leo and another girl were working at the next bank of benches.
-Of course, Leo was talking non-stop. The girl looked resigned, then said something. Leo turned to answer while reaching behind himself for a clamp and his lab coat cuff passed too close to the blue flame beneath the beaker.
+Of course, Leo was talking nonstop. The girl looked resigned, then said something. Leo turned to answer while reaching behind himself for a clamp and his lab coat cuff passed too close to the blue flame beneath the beaker.
 There was a brief orange flame.
 The girl immediately slapped his forearm and Leo jerked back. Seth crossed the room in three steps and immediately shut the gas valve.
 Then he took Leo's wrist and checked the skin beneath the cuff.
@@ -272,7 +272,7 @@ People went back to work. Taiga was laughing silently when Leo noticed him.
 
 "Great. Fantastic."
 
-Then he turned to the girl
+Then he turned to the girl.
 
 "You hit me, Mia."
 
@@ -304,12 +304,12 @@ Seth clapped once.
 
 “Everybody who is not currently combusting, back to work.”
 
-They went back to work. Taiga's group finished all three solution, but one density came out wrong.
+They went back to work. Taiga's group finished all three solutions, but one density came out wrong.
 Priya frowned at the graduated cylinder.
 
 "We fucked something."
 
-Taiga went back at his calculations while Daniel checked the recorded masses. All correct. They ran through the procedure backward, but still no answer.
+Taiga went back over his calculations while Daniel checked the recorded masses. All correct. They ran through the procedure backward, but still no answer.
 
 Priya looked at him.
 
@@ -321,7 +321,7 @@ Marcus laughed, then Daniel said,
 
 "Fuck me. The cylinder was still wet."
 
-All three turned, Daniel pointed:
+All three turned. Daniel pointed.
 
 “We rinsed it with distilled water after the first trial and didn't dry it before the second. That dilutes the sample.”
 
@@ -340,7 +340,7 @@ Taiga frowned.
 
 “Because explaining why data are bad is part of the experiment.”
 
-Daniel started writing the note. By the time lab ended, Taiga's gloves smelled faintly of ethanol, he had marks on his face from his googles and their shared report already had four different styles of note in the margin.
+Daniel started writing the note. By the time lab ended, Taiga's gloves smelled faintly of ethanol, he had marks on his face from his goggles and their shared report already had four different styles of note in the margin.
 He felt satisfied, though.
 
 Then Priya created a group chat:
@@ -349,11 +349,11 @@ Then Priya created a group chat:
 
 Taiga laughed and joined before she asked him to.
 
-When Seth dismissed the class, Taiga packed his things up. Before he left his table, Leo approached him with a finger pointed.
+When Seth dismissed the class, Taiga packed his things up. Before he left his table, Leo approached him, pointing a finger at him.
 
 "I swear. If you mention this to the team."
 
-Taiga smiled,
+Taiga smiled.
 
 "Then what?"
 
@@ -367,7 +367,7 @@ The girl named Mia then said,
 
 "He'll probably say it himself."
 
-"At least I'll make it worth telling. Anyways, this is Taiga. Taiga, Mia."
+"At least I'll make it worth telling. Anyway, this is Taiga. Taiga, Mia."
 
 "Hi Taiga!"
 
@@ -393,17 +393,17 @@ Taiga frowned.
 
 “What? Those were your words.”
 
-"Fuck you. Don't snitch me like that."
+"Fuck you. Don't snitch on me like that."
 
 Mia shrugged.
 
-"You need to start taking responsibilities for what you say."
+"You need to start taking responsibility for what you say."
 
 Taiga nodded.
 
 "Yeah, I strongly agree."
 
-"Right, you two have known each other for one minutes and have already allied against me."
+"Right, you two have known each other for one minute and have already allied against me."
 
 Mia put a hand on his shoulder.
 
@@ -431,13 +431,13 @@ Leo sighed.
 
 "You're a criminal."
 
-Taiga watched the two of them bickering. It was none of his business, afterall. He put his duffel on his shoulder. 
+Taiga watched the two of them bickering. It was none of his business, after all. He put his duffel on his shoulder. 
 
 Fuck it.
 
 "Did you also delete the remote?"
 
-They both turned at him. Mia's eyes started to glisten.
+They both turned to him. Mia's eyes started to glisten.
 
 "You... know Git? Actually know?"
 
@@ -447,7 +447,7 @@ Taiga shrugged.
 
 She lost all her posture.
 
-"OH GOD. Please help me, I lost like three days worth of work."
+"OH GOD. Please help me, I lost like three days' worth of work."
 
 Taiga looked at her. Too late now.
 
@@ -457,7 +457,7 @@ Taiga looked at her. Too late now.
 
 He accompanied them to the library. Mia showed him her repository.
 Taiga was horrified at what he saw.
-Three different naming conventions. Seven branches with two being unmerged. 
+Three different naming conventions. Seven branches, two of them unmerged. 
 
 Taiga blinked. Mia looked at him in desperation.
 
@@ -481,7 +481,7 @@ He restored the branch.
 
 Mia took her laptop. Taiga couldn't bring himself to look at her code. 
 
-"OH MY GOD. Taiga you're an angel. You saved me."
+"OH MY GOD. Taiga, you're an angel. You saved me."
 
 Leo then said,
 
@@ -495,7 +495,7 @@ Leo then said,
 
 "I still indirectly fixed your situation."
 
-"I'd rather buy Taiga a dinner."
+"I'd rather buy Taiga dinner."
 
 Taiga felt heat on his ear.
 
@@ -509,7 +509,7 @@ Mia looked at her watch.
 
 "Shit, I gotta go. Thanks again, Taiga!"
 
-She quickly packed her laptop and rushed.
+She quickly packed her laptop and rushed off.
 
 "See you tomorrow, Leo."
 
@@ -555,9 +555,9 @@ Again. The freaking major.
 
 Leo snorted.
 
-"Okay fair."
+"Okay, fair."
 
-Taiga stood and grabbed his duffel, Leo didn't move.
+Taiga stood and grabbed his duffel. Leo didn't move.
 
 "See you at practice."
 
