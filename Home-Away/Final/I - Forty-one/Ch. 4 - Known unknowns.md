@@ -73,7 +73,7 @@ Taiga turned.
 
 "Eighty-one."
 
-He felt something ugly and immediate. Nora grimaced.
+Taiga bit the inside of his cheek. Nora grimaced.
 
 "I thought I did better."
 
@@ -94,8 +94,7 @@ He took plenty of notes and he considered raising his hand at least three times.
 Every time, though, the seventy-four appeared in his mind.
 *Strong instincts*. Which was basically the same thing as "Good effort", the thing adults say to children when they produce terrible drawings.
 
-By the end of class, irritation had settled into something else, much calmer and much worse.
-He packed quickly.
+At the end of the class, he packed quickly.
 
 "You're weirdly silent."
 
@@ -436,7 +435,7 @@ Fuck it.
 
 "Did you also delete the remote?"
 
-They both turned to him. Mia's eyes started to glisten.
+They both turned to him. Mia's eyes lit up.
 
 "You... know Git? Actually know?"
 
@@ -444,7 +443,7 @@ Taiga shrugged.
 
 "A bit."
 
-Her posture collapsed.
+She slumped.
 
 "OH GOD. Please help me, I lost like three days' worth of work."
 
@@ -454,7 +453,7 @@ Taiga looked at her. Too late now.
 
 ---
 
-He accompanied them to the library. Mia showed him her repository.
+He went with them to the library. Mia showed him her repository.
 Taiga was horrified at what he saw.
 Three different naming conventions. Seven branches, two of them unmerged.
 
