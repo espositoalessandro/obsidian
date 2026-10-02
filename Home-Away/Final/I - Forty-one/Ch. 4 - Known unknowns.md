@@ -146,3 +146,417 @@ Nora left. Taiga remained seated for several seconds. Then muttered:
 
 ---
 
+With Wednesday, the first General Chemistry lab session arrived. Taiga was genuinely curious about it, although he disliked it immediately after the first five minutes.
+Fogged googles, absurdly sturdy gloves, crowded benches. He also noticed that every bottle had at least three labels: one announcing what it contained, an hazard symbol and an enormous "WARNING". 
+He wondered if somebody had attempted to drink it.
+
+He was still busy putting on all his gear when Seth Miller, a graduated assistant who handled the lab, entered.
+He began with the assumption that he knew everyone was an adult. Yet, he warned them nonetheless because, apparently, adults tended to be more creative with how they injured themselves.
+
+"With that being said, I divided you into groups of four. These will stay the same through the next unit."
+
+Then a slide appeared on the screen.
+
+**Table 6**
+
+- Priya Shah  
+- Taiga Akatora  
+- Marcus Reed  
+- Daniel Wu
+
+Taiga looked around the class automatically, but he had no idea who was who. Luckily their lab coat had a name tag.
+His eyes spotted something familiar though. There was a blond head, talking to a girl.
+
+Taiga winced and looked back at the screen.
+
+**Table 3**
+
+- Lucas Campbell  
+- Julio Mendez  
+- Mia Harper  
+- Anne Anderson
+
+He narrowed his eyes. No other Mendez. Of course, Leo couldn't be his actual legal name.
+
+It didn't take long.
+
+"AG!"
+
+Taiga closed his eyes and sighed.
+Leo had turned and was waving at him with a big smile. Taiga lifted one hand in response.
+Leo was already opening his mouth to say something before Seth told everyone to form their groups.
+
+She saw a girl who was pointing at him.
+
+"Taiga! Hi. You're ours."
+
+That sounded threatening. Marcus dragged his stool over. Daniel arrived shortly after carrying his lab notebook.
+
+Their first assignment was pretty simple on paper: prepare thee salt solutions at specific concentrations.
+Then, verify their masses and volumes and compare expected and observed density.
+
+In practice, four people immediately pointed out four different ways of doing it.
+Priya read the procedure aloud once and started dividing tasks. 
+Marcus said,
+
+“Can we just make one solution each and have somebody check the math?” 
+
+Daniel instead, 
+
+“We should all check the math before anybody touches the stock.” 
+
+Taiga had already calculated all three.
+Priya looked at his notebook.
+
+“You did them?”
+
+“Yeah.”
+
+“Can we see?”
+
+He hesitated. Then turned the notebook around. Marcus read the first line.
+
+“You skipped a step.”
+
+“I did it mentally.”
+
+“That isn't helpful if we're checking you.”
+
+He hated working with people.
+Fine. He added the bloody step.
+
+Priya smiled.
+
+“Excellent. We have documentation.”
+
+They somehow kept working together. Priya was fast and exact about procedure, Marcus cared less about elegance and more about having a result that made sense, Daniel recorded everything, including room temperature.
+
+"The instructions said so."
+
+Taiga measured as well, but kept wanting to moved ahead before others had finished recording.
+
+“Wait,” Daniel said for the third time.
+
+“The number isn't changing.”
+
+“But the notebook is.”
+
+Taiga stopped. Daniel wrote.
+
+“Okay.”
+
+While he waited, he looked around. Across the room, Leo and another girl were working at the next bank of benches.
+Of course, Leo was talking non-stop. The girl looked resigned, then said something. Leo turned to answer while reaching behind himself for a clamp and his lab coat cuff passed too close to the blue flame beneath the beaker.
+There was a brief orange flame.
+The girl immediately slapped his forearm and Leo jerked back. Seth crossed the room in three steps and immediately shut the gas valve.
+Then he took Leo's wrist and checked the skin beneath the cuff.
+
+"Did you get burned?"
+
+"Nope, don't think so."
+
+Seth looked at the sleeve. A brown-black crescent had eaten through the outer fabric but stopped well before Leo's skin.
+He sighed.
+
+“Good. New coat after lab. And from now on, when you're reaching around an open flame, your conversation can survive a two-second pause.”
+
+Leo rubbed the back of his neck.
+
+“Fair.”
+
+People went back to work. Taiga was laughing silently when Leo noticed him.
+
+"Enjoying yourself?"
+
+"A lot."
+
+"Great. Fantastic."
+
+Then he turned to the girl
+
+"You hit me, Mia."
+
+"You were on freaking fire."
+
+"Okay, context doesn't justify violence."
+
+Taiga's smile widened. Priya whispered,
+
+“Do you know him?”
+
+“Yeah, soccer.”
+
+Marcus looked toward the scorched sleeve. 
+
+“Is he always like that?”
+
+“More or less.”
+
+Leo heard.
+
+“I can hear you.”
+
+Mia said,
+
+“Great. Then hear this: new rule. No storytelling while operating fire.”
+
+Seth clapped once.
+
+“Everybody who is not currently combusting, back to work.”
+
+They went back to work. Taiga's group finished all three solution, but one density came out wrong.
+Priya frowned at the graduated cylinder.
+
+"We fucked something."
+
+Taiga went back at his calculations while Daniel checked the recorded masses. All correct. They ran through the procedure backward, but still no answer.
+
+Priya looked at him.
+
+"You look personally betrayed by science."
+
+"I am."
+
+Marcus laughed, then Daniel said,
+
+"Fuck me. The cylinder was still wet."
+
+All three turned, Daniel pointed:
+
+“We rinsed it with distilled water after the first trial and didn't dry it before the second. That dilutes the sample.”
+
+Marcus dropped his forehead on the table, Priya buried her face in her hands.
+Taiga looked at the cylinder. He exhaled and said,
+
+"Okay, again."
+
+They repeated the measurement. This time it landed where it should. Seth checked their sheet.
+
+“Good recovery. Put the error in the report. Do not pretend the first value never existed.”
+
+Taiga frowned.
+
+“Why would we include a bad measurement?”
+
+“Because explaining why data are bad is part of the experiment.”
+
+Daniel started writing the note. By the time lab ended, Taiga's gloves smelled faintly of ethanol, he had marks on his face from his googles and their shared report already had four different styles of note in the margin.
+He felt satisfied, though.
+
+Then Priya created a group chat:
+
+**TABLE SIX — DO NOT DRINK ANYTHING**
+
+Taiga laughed and joined before she asked him to.
+
+When Seth dismissed the class, Taiga packed his things up. Before he left his table, Leo approached him with a finger pointed.
+
+"I swear. If you mention this to the team."
+
+Taiga smiled,
+
+"Then what?"
+
+Leo's eyes narrowed.
+
+"I'll say you got intoxicated by ethanol and saw things."
+
+Taiga snorted. Leo smiled as well.
+
+The girl named Mia then said,
+
+"He'll probably say it himself."
+
+"At least I'll make it worth telling. Anyways, this is Taiga. Taiga, Mia."
+
+"Hi Taiga!"
+
+"Hey."
+
+"You're the one who made developmental? Leo told me about you."
+
+Taiga looked at him.
+
+"What did you tell her?"
+
+"Uhh-"
+
+"He said, and I'm quoting, a rather challenging guy joined the competition."
+
+Taiga frowned.
+
+"What the fuck does it mean?"
+
+Leo was getting slightly pink.
+
+"Fuck you, Mia. Don't snitch me like that."
+
+Mia shrugged.
+
+"You need to start taking responsibilities for what you say."
+
+Taiga nodded.
+
+"Yeah, I strongly agree."
+
+"Right, you two have known each other for one minutes and have already allied against me."
+
+Mia put a hand on his shoulder.
+
+"You brought it on yourself."
+
+"Okay, fuck both of you."
+
+"Now, come on. You told me that you'd help me fix my Git repo."
+
+"I told you that I'd try, I don't know Git really well."
+
+Taiga was finishing packing his stuff.
+
+"What happened?"
+
+Leo sighed.
+
+"She deleted her branch."
+
+"I thought it was merged."
+
+"Yeah. You thought."
+
+"Don't look at me like that."
+
+"You're a criminal."
+
+Taiga watched the two of them bickering. It was none of his business, afterall. He put his duffel on his shoulder. 
+
+Fuck it.
+
+"Did you also delete the remote?"
+
+They both turned at him. Mia's eyes started to glisten.
+
+"You... know Git? Actually know?"
+
+Taiga shrugged. 
+
+"A bit."
+
+She lost all her posture.
+
+"OH GOD. Please help me, I lost like three days worth of work."
+
+Taiga looked at her. Too late now.
+
+"Fine."
+
+---
+
+He accompanied them to the library. Mia showed him her repository.
+Taiga was horrified at what he saw.
+Three different naming conventions. Seven branches with two being unmerged. 
+
+Taiga blinked. Mia looked at him in desperation.
+
+"Please tell me that you can recover it."
+
+"I don't think that I'll recover from this, though."
+
+He opened the remote repository. The situation was even worse: he counted fifteen different branches.
+
+Taiga took a deep breath.
+
+"Which one of these?"
+
+Mia looked.
+
+"THIS! This one!"
+
+He restored the branch.
+
+"Check it."
+
+Mia took her laptop. Taiga couldn't bring himself to look at her code. 
+
+"OH MY GOD. Taiga you're an angel. You saved me."
+
+Leo then said,
+
+"You owe me dinner again."
+
+"No, you didn't do anything."
+
+"I introduced you."
+
+"You didn't know he could fix it."
+
+"I still indirectly fixed your situation."
+
+"I'd rather buy Taiga a dinner."
+
+Taiga felt heat on his ear.
+
+"Leave me out of this."
+
+Leo chuckled.
+
+"Too late."
+
+Mia looked at her watch.
+
+"Shit, I gotta go. Thanks again, Taiga!"
+
+She quickly packed her laptop and rushed.
+
+"See you tomorrow, Leo."
+
+Leo raised one hand, then said to Taiga:
+
+"Thanks."
+
+“She's lucky the branch was still remote.”
+
+"Yeah. So, you code?"
+
+Taiga shrugged.
+
+"A little."
+
+“What kind?”
+
+“Mostly scripts. Some web stuff. Nothing serious.”
+
+“That is always what people say right before describing a project that took six months.”
+
+“It didn't.”
+
+Leo smiled.
+
+"Already picked a major?"
+
+Again. The freaking major.
+
+"No."
+
+"Well, me and Mia are in Computer Science."
+
+"Good for you."
+
+"You could consider it if you like it. You seem good at it."
+
+"You haven't seen my code."
+
+"You fixed a problem that two CS students couldn't fix."
+
+"That says more about you than me."
+
+Leo snorted.
+
+"Okay fair."
+
+Taiga stood and grabbed his duffel, Leo didn't move.
+
+"See you at practice."
+
+"Yeah, thanks again!"
+
+Then he walked away.
