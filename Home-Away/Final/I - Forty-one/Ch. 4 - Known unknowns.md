@@ -2,10 +2,10 @@
 
 By the fourth week, Taiga had begun to recognize people around campus.
 There was the tall girl with silver headphones who always bought tea from the kiosk outside the library at 8:20.
-There was a guy from chemistry who always rode a skateboard, and he was bad at it. Taiga had now seen him fall three separate times. 
-There were two students who always sat beneath the same oak tree between ten and eleven, usually with notebooks open and almost never studying. 
+There was a guy from chemistry who always rode a skateboard, and he was bad at it. Taiga had now seen him fall three separate times.
+There were two students who always sat beneath the same oak tree between ten and eleven, usually with notebooks open and almost never studying.
 
-Olympus had stopped being populated exclusively by strangers. 
+Olympus had stopped being populated exclusively by strangers.
 Not that Taiga cared about them, but they were now categorized.
 The people he actually talked to had ended up in their own buckets too. Teammates. Roommate. Classmates.
 They had started to make more sense individually, too:
@@ -18,21 +18,21 @@ Nora argued for the sake of it.
 
 He was thinking about this while walking toward Political Institutions when Nora appeared beside him without warning.
 
-“You walk ridiculously fast.”
+"You walk ridiculously fast."
 
 Taiga looked over.
 
-“You're short.”
+"You're short."
 
 Nora frowned.
 
-“You're not exactly towering over the general population.”
+"You're not exactly towering over the general population."
 
-“Still taller than you.”
+"Still taller than you."
 
-“By maybe five centimeters.”
+"By maybe five centimeters."
 
-“That's enough.”
+"That's enough."
 
 They reached the lecture hall and took their usual seats.
 
@@ -44,15 +44,15 @@ Below it:
 
 *Strong instincts and an interesting objection, but the argument needs greater engagement with the assigned text. Several claims are asserted rather than demonstrated.*
 
-Taiga read the comment twice, then the number again: seventy-four. 
-He opened the grading rubric. 
+Taiga read the comment twice, then the number again: seventy-four.
+He opened the grading rubric.
 
-Argument: 16/25. 
-Evidence: 17/25. 
-Engagement: 18/25. 
-Clarity: 23/25. 
+Argument: 16/25.
+Evidence: 17/25.
+Engagement: 18/25.
+Clarity: 23/25.
 
-Clarity. Great. At least he'd clearly explained his mediocre argument. 
+Clarity. Great. At least he'd clearly explained his mediocre argument.
 Nora leaned over.
 
 "What did you get?"
@@ -77,7 +77,7 @@ He felt something ugly and immediate. Nora grimaced.
 
 "I thought I did better."
 
-Taiga paused. 
+Taiga paused.
 
 "What?"
 
@@ -87,7 +87,7 @@ She showed him. Her feedback was almost identical.
 
 Nora sighed.
 
-“He grades hard.”
+"He grades hard."
 
 Taiga looked back at his own assignment. The professor entered and class began.
 He took plenty of notes and he considered raising his hand at least three times.
@@ -142,16 +142,16 @@ She laughed.
 
 Nora left. Taiga remained seated for several seconds. Then muttered:
 
-“Annoying.”
+"Annoying."
 
 ---
 
 Wednesday brought the first General Chemistry lab session. Taiga was genuinely curious about it, although he disliked it within the first five minutes.
-Fogged goggles, absurdly sturdy gloves, crowded benches. He also noticed that every bottle had at least three labels: one announcing what it contained, a hazard symbol and an enormous "WARNING". 
+Fogged goggles, absurdly sturdy gloves, crowded benches. He also noticed that every bottle had at least three labels: one announcing what it contained, a hazard symbol and an enormous "WARNING".
 He wondered if somebody had attempted to drink it.
 
 He was still busy putting on all his gear when Seth Miller, a graduate assistant who handled the lab, entered.
-He began by saying that he knew everyone was an adult. Yet he warned them anyway because, apparently, adults tended to be more creative with how they injured themselves.
+He began by saying that he knew everyone was an adult. Yet he warned them anyway because, apparently, adults tended to be more creative in the ways they injured themselves.
 
 "With that being said, I divided you into groups of four. These will stay the same through the next unit."
 
@@ -159,21 +159,21 @@ Then a slide appeared on the screen.
 
 **Table 6**
 
-- Priya Shah  
-- Taiga Akatora  
-- Marcus Reed  
+- Priya Shah
+- Taiga Akatora
+- Marcus Reed
 - Daniel Wu
 
 Taiga looked around the class automatically, but he had no idea who was who. Luckily, their lab coats had name tags.
-His eyes spotted something familiar, though. There was a blond head, talking to a girl.
+He spotted something familiar, though: a blond head talking to a girl.
 
 Taiga winced and looked back at the screen.
 
 **Table 3**
 
-- Lucas Campbell  
-- Julio Mendez  
-- Mia Harper  
+- Lucas Campbell
+- Julio Mendez
+- Mia Harper
 - Anne Anderson
 
 He narrowed his eyes. No other Mendez. Of course, Leo couldn't be his actual legal name.
@@ -192,42 +192,41 @@ A girl at Table Six was pointing at him. Her tag said *Priya*.
 
 That sounded threatening. Marcus dragged his stool over. Daniel arrived shortly after carrying his lab notebook.
 
-Their first assignment was pretty simple on paper: prepare three salt solutions at specific concentrations.
-Then, verify their masses and volumes and compare expected and observed density.
+Their first assignment was pretty simple on paper: prepare three salt solutions at specific concentrations, then verify their masses and volumes and compare expected and observed density.
 
 In practice, four people immediately came up with four different ways of doing it.
-Priya read the procedure aloud once and started dividing tasks. 
+Priya read the procedure aloud once and started dividing tasks.
 Marcus said,
 
-“Can we just make one solution each and have somebody check the math?”
+"Can we just make one solution each and have somebody check the math?"
 
 Daniel disagreed.
 
-“We should all check the math before anybody touches the stock.” 
+"We should all check the math before anybody touches the stock."
 
 Taiga had already calculated all three.
 Priya looked at his notebook.
 
-“You did them?”
+"You did them?"
 
-“Yeah.”
+"Yeah."
 
-“Can we see?”
+"Can we see?"
 
 He hesitated. Then turned the notebook around. Marcus read the first line.
 
-“You skipped a step.”
+"You skipped a step."
 
-“I did it mentally.”
+"I did it mentally."
 
-“That isn't helpful if we're checking you.”
+"That isn't helpful if we're checking you."
 
 He hated working with people.
 Fine. He added the bloody step.
 
 Priya smiled.
 
-“Excellent. We have documentation.”
+"Excellent. We have documentation."
 
 They somehow kept working together. Priya was fast and exact about procedure, Marcus cared less about elegance and more about having a result that made sense, Daniel recorded everything, including room temperature.
 
@@ -235,15 +234,15 @@ They somehow kept working together. Priya was fast and exact about procedure, Ma
 
 Taiga measured as well, but kept wanting to move ahead before others had finished recording.
 
-“Wait,” Daniel said for the third time.
+"Wait," Daniel said for the third time.
 
-“The number isn't changing.”
+"The number isn't changing."
 
-“But the notebook is.”
+"But the notebook is."
 
 Taiga stopped. Daniel wrote.
 
-“Okay.”
+"Okay."
 
 While he waited, he looked around. Across the room, Leo and another girl were working at the next bank of benches.
 Of course, Leo was talking nonstop. The girl looked resigned, then said something. Leo turned to answer while reaching behind himself for a clamp and his lab coat cuff passed too close to the blue flame beneath the beaker.
@@ -258,11 +257,11 @@ Then he took Leo's wrist and checked the skin beneath the cuff.
 Seth looked at the sleeve. A brown-black crescent had eaten through the outer fabric but stopped well before Leo's skin.
 He sighed.
 
-“Good. New coat after lab. And from now on, when you're reaching around an open flame, your conversation can survive a two-second pause.”
+"Good. New coat after lab. And from now on, when you're reaching around an open flame, your conversation can survive a two-second pause."
 
 Leo rubbed the back of his neck.
 
-“Fair.”
+"Fair."
 
 People went back to work. Taiga was laughing silently when Leo noticed him.
 
@@ -282,27 +281,27 @@ Then he turned to the girl.
 
 Taiga's smile widened. Priya whispered,
 
-“Do you know him?”
+"Do you know him?"
 
-“Yeah, soccer.”
+"Yeah, soccer."
 
-Marcus looked toward the scorched sleeve. 
+Marcus looked toward the scorched sleeve.
 
-“Is he always like that?”
+"Is he always like that?"
 
-“More or less.”
+"More or less."
 
 Leo heard.
 
-“I can hear you.”
+"I can hear you."
 
 Mia said,
 
-“Great. Then hear this: new rule. No storytelling while operating fire.”
+"Great. Then hear this: new rule. No storytelling while operating fire."
 
 Seth clapped once.
 
-“Everybody who is not currently combusting, back to work.”
+"Everybody who is not currently combusting, back to work."
 
 They went back to work. Taiga's group finished all three solutions, but one density came out wrong.
 Priya frowned at the graduated cylinder.
@@ -323,7 +322,7 @@ Marcus laughed, then Daniel said,
 
 All three turned. Daniel pointed.
 
-“We rinsed it with distilled water after the first trial and didn't dry it before the second. That dilutes the sample.”
+"We rinsed it with distilled water after the first trial and didn't dry it before the second. That dilutes the sample."
 
 Marcus dropped his forehead on the table, Priya buried her face in her hands.
 Taiga looked at the cylinder. He exhaled and said,
@@ -332,15 +331,15 @@ Taiga looked at the cylinder. He exhaled and said,
 
 They repeated the measurement. This time it landed where it should. Seth checked their sheet.
 
-“Good recovery. Put the error in the report. Do not pretend the first value never existed.”
+"Good recovery. Put the error in the report. Do not pretend the first value never existed."
 
 Taiga frowned.
 
-“Why would we include a bad measurement?”
+"Why would we include a bad measurement?"
 
-“Because explaining why data are bad is part of the experiment.”
+"Because explaining why data are bad is part of the experiment."
 
-Daniel started writing the note. By the time lab ended, Taiga's gloves smelled faintly of ethanol, he had marks on his face from his goggles and their shared report already had four different styles of note in the margin.
+Daniel started writing the note. By the time lab ended, Taiga's gloves smelled faintly of ethanol, he had marks on his face from his goggles and their shared report already had four different note styles in the margins.
 He felt satisfied, though.
 
 Then Priya created a group chat:
@@ -363,7 +362,7 @@ Leo's eyes narrowed.
 
 Taiga snorted. Leo smiled as well.
 
-The girl named Mia then said,
+Mia then said,
 
 "He'll probably say it himself."
 
@@ -381,17 +380,17 @@ Taiga looked at him.
 
 "Uhh-"
 
-“He said you were going to be a problem.”
+"He said you were going to be a problem."
 
 Taiga frowned.
 
-“What the fuck does that mean?”
+"What the fuck does that mean?"
 
-“I asked him the same thing.”
+"I asked him the same thing."
 
-“Hey!”
+"Hey!"
 
-“What? Those were your words.”
+"What? Those were your words."
 
 "Fuck you. Don't snitch on me like that."
 
@@ -413,7 +412,7 @@ Mia put a hand on his shoulder.
 
 "Now, come on. You told me that you'd help me fix my Git repo."
 
-"I told you that I'd try, I don't know Git really well."
+"I told you that I'd try. I don't know Git really well."
 
 Taiga was finishing packing his stuff.
 
@@ -431,7 +430,7 @@ Leo sighed.
 
 "You're a criminal."
 
-Taiga watched the two of them bickering. It was none of his business, after all. He put his duffel on his shoulder. 
+Taiga watched the two of them bickering. It was none of his business, after all. He put his duffel on his shoulder.
 
 Fuck it.
 
@@ -441,7 +440,7 @@ They both turned to him. Mia's eyes started to glisten.
 
 "You... know Git? Actually know?"
 
-Taiga shrugged. 
+Taiga shrugged.
 
 "A bit."
 
@@ -457,7 +456,7 @@ Taiga looked at her. Too late now.
 
 He accompanied them to the library. Mia showed him her repository.
 Taiga was horrified at what he saw.
-Three different naming conventions. Seven branches, two of them unmerged. 
+Three different naming conventions. Seven branches, two of them unmerged.
 
 Taiga blinked. Mia looked at him in desperation.
 
@@ -478,7 +477,7 @@ He restored the branch.
 
 "Check it."
 
-Mia took her laptop. Taiga couldn't bring himself to look at her code. 
+Mia took her laptop. Taiga couldn't bring himself to look at her code.
 
 "OH MY GOD. Taiga, you're an angel. You saved me."
 
@@ -516,7 +515,7 @@ Leo raised one hand, then said to Taiga:
 
 "Thanks."
 
-“She's lucky the branch was still on the remote.”
+"She's lucky the branch was still on the remote."
 
 "Yeah. So, you code?"
 
@@ -524,13 +523,13 @@ Taiga shrugged.
 
 "A little."
 
-“What kind?”
+"What kind?"
 
-“Mostly scripts. Some web stuff. Nothing serious.”
+"Mostly scripts. Some web stuff. Nothing serious."
 
-“That is always what people say right before describing a project that took six months.”
+"That is always what people say right before describing a project that took six months."
 
-“It didn't.”
+"It didn't."
 
 Leo smiled.
 
@@ -562,7 +561,7 @@ Taiga stood and grabbed his duffel. Leo didn't move.
 
 "Yeah, thanks again!"
 
-Then he walked away.
+Then Taiga walked away.
 
 ---
 
@@ -574,15 +573,15 @@ Taiga knocked on the door.
 
 Hall's office contained too many books and one dying plant. Taiga stood in the doorway. The professor looked up.
 
-“Ah, Akatora. Come in.”
+"Ah, Akatora. Come in."
 
 Taiga sat. Hall folded his hands.
 
-“What can I do for you?”
+"What can I do for you?"
 
-Taiga hated the question. 
+Taiga hated the question.
 
-“I wanted to ask about the response paper.”
+"I wanted to ask about the response paper."
 
 Hall nodded.
 
@@ -592,58 +591,58 @@ Taiga hesitated.
 
 "The engagement score."
 
-“Okay, then.”
+"Okay, then."
 
 Taiga opened the paper on his laptop.
 
-“You said I asserted things without demonstrating them.”
+"You said I asserted things without demonstrating them."
 
-“Yes.”
+"Yes."
 
-“I thought I did.”
+"I thought I did."
 
 Hall smiled slightly.
 
-“Show me.”
+"Show me."
 
 Taiga found the paragraph. Read it. Pointed.
 
-“This.”
+"This."
 
 Hall leaned closer.
 
-“You identify a weakness in the author's assumption.”
+"You identify a weakness in the author's assumption."
 
-“Yes.”
+"Yes."
 
-“But you don't establish that the weakness is fatal.”
+"But you don't establish that the weakness is fatal."
 
 Taiga frowned.
 
-“But... it is.”
+"But... it is."
 
-“Yes. To you.”
+"Yes. To you."
 
 Taiga looked at him. Hall continued.
 
-“You're very quick. That can be an advantage.”
+"You're very quick. That can be an advantage."
 
 Here came the compliment before the criticism. Taiga knew this structure. Hall pointed at the paragraph.
 
-“But I suspect your mind is finishing steps you aren't putting on the page.”
+"But I suspect your mind is finishing steps you aren't putting on the page."
 
 Taiga looked down. Hall continued.
 
-“You see the endpoint. Your reader doesn't.”
+"You see the endpoint. Your reader doesn't."
 
 Taiga reread the paragraph and found the jump. He knew what connected the two ideas but hadn't written it.
 Hall leaned back.
 
-“I don't need you to think more slowly. I need you to show me the bridge.”
+"I don't need you to think more slowly. I need you to show me the bridge."
 
 Taiga stared at the screen. Right.
 
-They spent another fifteen minutes on the paper. Specific sentences. Specific gaps. When Taiga left, the grade was still seventy-four. 
+They spent another fifteen minutes on the paper. Specific sentences. Specific gaps. When Taiga left, the grade was still seventy-four.
 Strangely, it felt smaller, contained.
 
 Outside the office, he took out his phone.
@@ -672,17 +671,17 @@ Taiga smiled and locked the phone.
 
 Taiga was in his room when his phone buzzed. It was 9:34.
 
-Video call from Yoichi. 
-Taiga looked at the screen and frowned. 
-Yoichi barely texted full sentences, let alone actually calling.
+Video call from Yoichi.
+Taiga looked at the screen and frowned.
+Yoichi barely texted full sentences, let alone made actual calls.
 
 "What?"
 
 Yoichi's face appeared sideways.
 
-“Your camera's fucked.”
+"Your camera's fucked."
 
-“Your phone is tilted the wrong way, idiot.”
+"Your phone is tilted the wrong way, idiot."
 
 "It's not."
 
@@ -692,57 +691,57 @@ Yoichi rotated the phone. Now he was upside down.
 
 Taiga stared.
 
-“You're doing this on purpose.”
+"You're doing this on purpose."
 
 Yoichi grinned.
 
-“Maybe.”
+"Maybe."
 
-“Why are you calling?”
+"Why are you calling?"
 
-“I was bored.”
+"I was bored."
 
-“Call the others.”
+"Call the others."
 
 "Bugging you is funnier."
 
 "Fuck you."
 
-Yoichi rotated the phone the right way. Behind him was darkness, trees and the weak cone of a flashlight pointed at the ground. Yuki's ears appeared at the bottom of the frame for half a second before disappearing again.
+Yoichi rotated the phone the right way. Behind him: darkness, trees and the weak cone of a flashlight pointed at the ground. Yuki's ears appeared at the bottom of the frame for half a second before disappearing again.
 
-“It's almost ten.”
+"It's almost ten."
 
-“So?”
+"So?"
 
-“The fuck are you doing in the woods?”
+"The fuck are you doing in the woods?"
 
-“Walking.”
+"Walking."
 
-“Yeah no shit.”
+"Yeah no shit."
 
 Yoichi clicked his tongue and turned the camera. Through the trees, Taiga could make out one of the Camp Buddy buildings.
 
-“Sheriff Brokeback wanted help stacking chairs in the lodge.”
+"Sheriff Brokeback wanted help stacking chairs in the lodge."
 
-“And you left.”
+"And you left."
 
-“They're chairs. They already know how to stand.”
+"They're chairs. They already know how to stand."
 
 Taiga laughed once.
 
 Yuki barked somewhere ahead. Yoichi immediately looked away from the camera.
 
-“How's Yuki?”
+"How's Yuki?"
 
 "Fine."
 
 "Good girl."
 
-“You joined the soccer team.”
+"You joined the soccer team."
 
 Taiga blinked for a second.
 
-“That transition made no sense.”
+"That transition made no sense."
 
 "Who cares."
 
@@ -770,19 +769,19 @@ Yoichi's grin became filthy.
 
 "No."
 
-“Roommate?”
+"Roommate?"
 
-“No.”
+"No."
 
-“That wasn't the question.”
+"That wasn't the question."
 
 Across the room Caleb said, without looking up from his book:
 
-“I can hear both of you.”
+"I can hear both of you."
 
 Yoichi's eyes lit up.
 
-“Roommate, has Dynamite already asked you to leave the room for a night?”
+"Roommate, has Dynamite already asked you to leave the room for a night?"
 
 Caleb looked over.
 
@@ -810,9 +809,9 @@ For a while they talked about nothing important. Taiga complained about soccer p
 
 Taiga waited a second.
 
-“You were the one telling me to go.”
+"You were the one telling me to go."
 
-“Took you long enough.”
+"Took you long enough."
 
 "You could just say you miss me."
 
@@ -843,27 +842,27 @@ Taiga grinned. Yoichi continued:
 Yuki barked again, farther away this time.
 Yoichi's head snapped toward the sound.
 
-“Yuki!”
+"Yuki!"
 
 He started walking faster.
 
-“Fucking cats. Gotta go. Later, Dynamite.”
+"Fucking cats. Gotta go. Later, Dynamite."
 
-“Later.”
+"Later."
 
 Caleb was looking at him from the other side of the room.
 
-“What?”
+"What?"
 
-“You sound different with him.”
+"You sound different with him."
 
 Taiga stared.
 
-“Stop listening to me.”
+"Stop listening to me."
 
-“I live here.”
+"I live here."
 
-“Unfortunately.”
+"Unfortunately."
 
 Caleb returned to his book.
 
@@ -874,9 +873,9 @@ Taiga looked at the blank screen for another second before setting the phone dow
 Friday afternoon, Taiga was changing at his usual locker.
 Across the room, Leo was trying to tape one wrist while Enzo talked at him from two lockers away.
 
-“You're doing that wrong,” Enzo said.
+"You're doing that wrong," Enzo said.
 
-“I have been taping my own wrists for years.”
+"I have been taping my own wrists for years."
 
 "Ask anyone. They'll tell you the same thing."
 
@@ -890,13 +889,13 @@ Leo looked over and caught Taiga watching.
 
 "Everything."
 
-Enzo pointed at Leo's wrist. “See?”
+Enzo pointed at Leo's wrist. "See?"
 
 "That was not an informed opinion."
 
 Taiga bent to tie his boots.
 
-Leo said, “By the way, did Table Six survive?”
+Leo said, "By the way, did Table Six survive?"
 
 "Apparently."
 
@@ -912,11 +911,11 @@ Leo grimaced.
 
 Enzo perked up and looked between them.
 
-“Why was Leo on fire?”
+"Why was Leo on fire?"
 
-“He wasn't,” Leo said.
+"He wasn't," Leo said.
 
-“He was,” Taiga said at the same time.
+"He was," Taiga said at the same time.
 
 Enzo's face lit up. Leo pointed at Taiga.
 
@@ -928,13 +927,13 @@ Someone shouted for Leo from the corridor. He stood up.
 
 "By the way, Mia submitted it, so I'd consider the saving operation a success."
 
-“Congratulations.”
+"Congratulations."
 
-“She also says next time she breaks Git she's calling you.”
+"She also says next time she breaks Git she's calling you."
 
-“No.”
+"No."
 
-“Told her that. She didn't care.”
+"Told her that. She didn't care."
 
 "I hate both of you."
 
@@ -949,10 +948,10 @@ Taiga stared at the notification for a second, then opened it.
 
 From the corridor, Leo shouted:
 
-“AG, YOU COMING?”
+"AG, YOU COMING?"
 
 Taiga shoved the phone back into his bag.
 
-“Yeah.”
+"Yeah."
 
 He followed.
