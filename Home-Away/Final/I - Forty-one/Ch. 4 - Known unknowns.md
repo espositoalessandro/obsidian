@@ -339,7 +339,7 @@ Taiga frowned.
 "Because explaining why data are bad is part of the experiment."
 
 Daniel started writing the note. By the time lab ended, Taiga's gloves smelled faintly of ethanol, he had marks on his face from his goggles and their shared report already had four different note styles in the margins.
-He felt satisfied, though.
+He expected worse.
 
 Then Priya created a group chat:
 

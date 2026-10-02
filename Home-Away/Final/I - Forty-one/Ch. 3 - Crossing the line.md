@@ -210,8 +210,6 @@ They reached the third floor. Caleb stopped outside their door.
 
 "Thank you."
 
-Taiga felt uncomfortable.
-
 "You don't need to make it a thing."
 
 "I wasn't planning to."
