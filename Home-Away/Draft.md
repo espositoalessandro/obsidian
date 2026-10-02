@@ -1,1110 +1,651 @@
-# Chapter 4 - Known unknowns
+# Chapter 5 - The next one
 
-## Scene 1 — Olympus has become sortable
-
-By the fourth week, Taiga had begun to recognize people whose names he did not know. There was the tall girl with silver headphones who always bought tea from the kiosk outside the library at 8:20. There was the guy from chemistry who rode a skateboard badly enough that Taiga had now seen him fall three separate times. There was the older woman who worked the morning shift at the small dining hall and automatically started making Taiga's coffee when she saw him in line.
-
-There were two students who always sat beneath the same oak tree between ten and eleven, usually with notebooks open and almost never studying. There was a red-haired girl from the women's volleyball team who seemed to know Caleb, though Taiga had no idea from where. Olympus had stopped being populated exclusively by strangers. That didn't mean these people mattered. But they existed in categories now. Known unknowns. Taiga liked known unknowns. Unknown unknowns were where problems came from.
-
-People were becoming easier too. Mercer got louder when he expected more. Evan gave advice as if disagreement was part of the process. Scott seemed to save most of his daily vocabulary for the goal. Caleb noticed almost everything and explained almost nothing unless asked. Nora argued because she enjoyed getting to the bottom of things.
-
-Leo was soccer. Loud, fast, usually somewhere near Enzo, occasionally in Taiga's way.
-
-Simple enough.
-
-Taiga was thinking about this while walking toward Political Institutions when Nora appeared beside him without warning.
-
-“You walk ridiculously fast.”
-
-Taiga looked over.
-
-“You're short.”
-
-Nora frowned.
-
-“You're not exactly towering over the general population.”
-
-“Still taller than you.”
-
-“By maybe five centimeters.”
-
-“That's enough.”
-
-She adjusted the strap of her bag. Taiga noticed she had a paper cup in one hand and three books tucked under the other arm.
-
-“You know they make backpacks for that.”
-
-“I have a backpack.”
-
-“Then why are you carrying everything?”
-
-“Because if I put the books away, I'll forget I need to return one.”
-
-Taiga looked at her.
-
-“That doesn't make sense.”
-
-“It makes perfect sense.”
-
-“You are physically inconveniencing yourself because you're afraid you'll forget a book.”
-
-“Yes.”
-
-“Put a reminder on your phone.”
-
-“I'll ignore it.”
-
-“Then that's a you problem.”
-
-“It currently is a me problem.”
-
-Nora shifted the books. Taiga looked forward again. They walked another few seconds. Then he reached over and took the top two books from her. Nora blinked.
-
-“What are you doing?”
-
-“You're walking crooked.”
-
-“I was not.”
-
-“You were leaning.”
-
-“I can carry my own books.”
-
-“I know. You're still walking crooked.”
-
-She looked at him. Taiga immediately regretted touching anything.
-
-“Do you want them back?”
-
-“No, I don't.”
-
-“Then stop glaring at me.”
-
-“I was going to say thank you.”
-
-“You have a terrible way of showing gratitude.”
-
-Nora laughed.
-
-“Caleb is rubbing off on you.”
-
-Taiga's head turned.
-
-“What does that mean?”
-
-“You're starting to catalogue people's expressions.”
-
-“I am not.”
-
-“You just called me predictable.”
-
-“Everybody is predictable eventually.”
-
-“That's somehow worse.”
-
-Taiga gave her the books back.
-
-“Carry your own shit.”
-
-Nora laughed harder and nearly spilled her coffee.
+> Working rewrite scaffold.  
+> Core movement: **I want to be good at this → I’m staying even when I’m not.**
+>
+> Chapter 5 is not about Taiga succeeding. It is about Taiga discovering that caring about something means remaining inside it after failure.
+>
+> Protect the later arc:
+> - Ch. 6 owns the formal **retained / you're staying** payoff.
+> - Ch. 7 owns broader voluntary participation outside the team.
+> - Ch. 9 owns the stronger **I actively chose a social night with these people** belonging payoff.
+> - Ch. 5 only needs the first crack: after football, Taiga does not immediately leave.
 
 ---
 
-## Scene 2 — 74/100
+## Scene 1 — The lineup makes Saturday real
 
-Professor Hall returned their first response papers that morning. Taiga received a seventy-four. He stared at the number.
+Open at Athletics with the reserve fixture sheet.
 
-**74/100**
+Taiga sees his name before the heading.
 
-Below it:
-
-**Strong instincts and an interesting objection, but the argument needs greater engagement with the assigned text. Several claims are asserted rather than demonstrated.**
-
-Taiga read the comment twice. Then the grade. Seventy-four. He had not received a seventy-four on written work in years. His stomach dropped. Ridiculous reaction. It was one response paper. Worth five percent. Objectively almost irrelevant. His brain ignored all of that. He opened the grading rubric. Argument: 16/25. Evidence: 17/25. Engagement: 18/25. Clarity: 23/25. Clarity. Great. At least he'd clearly explained his mediocre argument. Nora sat beside him. The professor hadn't arrived yet. She leaned over.
-
-“What'd you get?”
-
-Taiga closed the tab.
-
-“None of your business.”
-
-“Bad?”
-
-“No.”
-
-“That means yes.”
-
-Taiga turned.
-
-“What did you get?”
-
-“Eighty-one.”
-
-He felt something ugly and immediate. Not anger at her. Comparison. He hated it. Nora grimaced.
-
-“I thought mine was better.”
-
-Taiga paused.
-
-“What?”
-
-She showed him. Her feedback was almost identical.
-
-**Insufficient engagement with counterargument.**
-
-Nora sighed.
-
-“He grades hard.”
-
-Taiga stared at her screen.
-
-“You got an eighty-one.”
-
-“Yes.”
-
-“And you're complaining.”
-
-“Yes.”
-
-Taiga looked back at his own laptop. Professor entered. Class began. Taiga took notes. He had too many thoughts to contribute any of them. Every time he considered raising his hand, the seventy-four sat in the corner of his mind. *Strong instincts.* Which sounded suspiciously like: *Good effort.* The phrase adults used when children produced terrible drawings.
-
-By the end of class, irritation had fermented into something colder. He packed quickly. Nora said, “Hey.”
-
-“What?”
-
-“Office hours.”
-
-Taiga stopped.
-
-“What about them?”
-
-“You should go.”
-
-“Why?”
-
-“Because you're clearly going to spend the next six days being angry at a number.”
-
-Taiga stared.
-
-“You don't know me.”
-
-“I know that you've checked the grade three times during this lecture.”
-
-Fuck. Was everyone at Olympus conducting surveillance? Nora put her laptop away.
-
-“I'm going tomorrow.”
-
-Taiga frowned.
-
-“Why?”
-
-“Because I want to know what he wanted.”
-
-“That seems obvious.”
-
-“Then why'd you get seventy-four?”
-
-Taiga stared. Nora smiled sweetly.
-
-“See you Friday.”
-
-She left. Taiga remained seated for several seconds. Then muttered:
-
-“Bitch.”
-
----
-
-## Scene 3 — First Chemistry lab
-
-Wednesday brought the first General Chemistry lab session. Taiga had disliked the laboratory before anything happened in it. Goggles fogged. Gloves made his hands feel clumsy. The benches were too crowded. Every bottle had three labels, two hazard symbols and a warning written as if somebody in a previous year had attempted to drink it.
-
-He looked around and saw a familiar blond head. A small, private wave of embarrassment arrived with the recognition. Taiga ignored it. Leo was sitting next to a girl and talking. Taiga didn't bother making him aware of his presence.
-
-Professor Dalia Hassan handled the lecture course. The lab belonged mostly to Seth Miller, a graduate assistant who began every session by saying, “I know you are all adults,” and then describing a new way adults had injured themselves. Today he stood at the front beside four trays of glassware.
-
-“New table groups. These will stay the same through the next unit.”
-
-Taiga looked at the screen.
-
-**Table 6**
-
-- Taiga Akatora  
-- Priya Shah  
-- Marcus Reed  
-- Daniel Wu
+**RESERVE FIXTURE — SATURDAY**
 
 Then:
 
-**Table 3**
+**LW — 41 AKATORA**
 
-- Lucas Campbell  
-- Julio Mendez  
-- Mia Harper  
-- Anne Anderson
+Starter.
 
-Taiga looked at the other tables on the screen but didn't find another Mendez. So Leo wasn't actually Leo. Or not legally, anyway. That seemed obvious now that he thought about it.
+Not “expected thirty minutes.” Not development notes. Not maybe.
 
-Then he read the next name.
+Someone chose him to start.
 
-Mia Harper.
+Aaron appears beside him and notices immediately. Keep the light comedy, but do not let the moment turn into a celebration scene.
 
-“Forty-one\!”
+Useful old-draft energy:
 
-Taiga closed his eyes and sighed. Apparently he wasn't the only one reading other tables.
+> “Oh, shit.”
+>
+> “What?”
+>
+> “You're starting.”
+>
+> “I can read.”
+>
+> “I know. I'm being supportive.”
+>
+> “Try less.”
 
-Leo had turned and was waving at him with a big smile. Taiga lifted one hand in response.
+Aaron is on the bench. This matters quietly: Taiga has not merely been handed generic developmental minutes. Mercer made a choice.
 
-Before Leo could say anything else—and he definitely would have—Seth told everyone to form their groups.
+Taiga's first response is practical and slightly obsessive:
 
-Priya was two benches away. She saw the list at the same time and pointed at him.
+> “What formation do they play?”
 
-“Hi. You're ours.”
+Aaron does not remember. Gav does.
 
-That sounded threatening. Marcus dragged his stool over. Daniel arrived carrying his lab notebook, a ruler and two pens. Taiga looked at the pens.
+Northbridge:
+- physical;
+- direct;
+- right-back likes the duel;
+- do not let the opponent turn the whole matchup into a strength contest.
 
-“Backup?”
+Do not over-explain tactics. The reader only needs:
+- Northbridge is physical;
+- their right-back wants Taiga to fight him;
+- Taiga's better option will often be to use the inside pass rather than prove he can beat the defender.
 
-Daniel nodded. “One leaked last week.”
-
-“Of course it did.”
-
-Their assignment was simple on paper: prepare three salt solutions at specific concentrations, verify the masses and volumes, then compare expected and observed density. In practice, four people immediately developed four preferred ways of doing it. Priya read the procedure aloud once and started dividing tasks. Marcus said, “Can we just make one solution each and have somebody check the math?” Daniel said, “We should all check the math before anybody touches the stock.” Taiga had already calculated all three.
-
-Priya looked at his notebook.
-
-“You did them?”
-
-“Yeah.”
-
-“Can we see?”
-
-He hesitated. Then turned the notebook around. Marcus read the first line.
-
-“You skipped a step.”
-
-“I did it mentally.”
-
-“That isn't helpful if we're checking you.”
-
-Taiga looked at him. Marcus looked back, entirely unbothered. Fair. Taiga wrote the missing conversion. Priya smiled. “Excellent. We have achieved documentation.”
-
-“Don't make it a thing.”
-
-“Too late.”
-
-They worked. Priya was fast and exact about procedure. She checked the label twice before pouring anything and became visibly irritated when Marcus set a clean pipette too close to the waste beaker. Marcus cared less about elegance than whether the result made sense. Daniel recorded everything, including room temperature, because the instructions said to. Taiga measured well but kept wanting to move ahead before the others had finished recording.
-
-“Wait,” Daniel said for the third time.
-
-“The number isn't changing.”
-
-“The notebook is.”
-
-Taiga stopped. Daniel wrote.
-
-“Okay.”
-
-Taiga moved. Annoying. Reasonable. Across the room, Leo and Mia were working at the next bank of benches. Leo had been talking for most of the session. Not loudly enough for the TA to stop him. Just continuously. Mia said something Taiga couldn't hear. Leo turned to answer while reaching behind himself for a clamp. His lab coat cuff passed too close to the blue flame beneath their beaker. There was a brief orange flare.
-
-Mia slapped his forearm. Leo jerked back. Seth crossed the room in three steps and shut the gas valve. Everyone nearby went quiet. Leo stared at the blackened edge of his sleeve. Then at Mia.
-
-“You hit me.”
-
-“You were on fire.”
-
-“That feels like relevant context.”
-
-Seth took Leo's wrist and checked the skin beneath the cuff.
-
-“You burned?”
-
-“No.”
-
-“Sure?”
-
-“Yes.”
-
-Seth looked at the sleeve. A brown-black crescent had eaten through the outer fabric but stopped well before Leo's skin.
-
-“Good. New coat after lab. And from now on, when you're reaching around an open flame, your conversation can survive a two-second pause.”
-
-Leo rubbed the back of his neck.
-
-“Fair.”
-
-Mia looked at Taiga across the aisle. Taiga was already smiling when Leo noticed.
-
-“Enjoying yourself?”
-
-“A lot.”
-
-“Great. Fantastic.”
-
-Taiga's smile widened. Priya whispered, “Do you know him?”
-
-“Soccer.”
-
-Marcus looked toward the scorched sleeve. “Is he always like that?”
-
-“More or less.”
-
-Leo heard.
-
-“I can hear you.”
-
-Mia said, “Great. Then hear this: new rule. No storytelling while operating fire.”
-
-“That is authoritarian.”
-
-“That is survival.”
-
-Seth clapped once.
-
-“Everybody who is not currently combusting, back to work.”
-
-The room restarted. Taiga's group finished all three solutions. One density measurement came out wrong. Not slightly wrong. Impossible. Priya frowned at the graduated cylinder. Marcus said, “We fucked something.” Daniel checked the recorded masses. Taiga checked the calculations. All correct. They ran through the procedure backward. No answer.
-
-Priya looked at him.
-
-“You look like the universe has personally insulted you.”
-
-Taiga stared. Marcus laughed. Daniel said, “The cylinder was still wet.” All three turned. Daniel pointed.
-
-“We rinsed it with distilled water after the first trial and didn't dry it before the second. That dilutes the sample.”
-
-Taiga looked at the cylinder. There. Physical state. Not hidden. Just forgotten. He exhaled.
-
-“Okay. Again.”
-
-They repeated the measurement. This time it landed where it should. Seth checked their sheet.
-
-“Good recovery. Put the error in the report. Do not pretend the first value never existed.”
-
-Taiga frowned.
-
-“Why would we include a bad measurement?”
-
-“Because explaining why data are bad is part of the experiment.”
-
-“Fair.”
-
-Daniel started writing the error note. By the time lab ended, Taiga's gloves smelled faintly of ethanol, his goggles had left marks on his face and their shared report already had four different styles of note in the margin. He should have hated the group. Instead, when Priya created a chat called **TABLE SIX — DO NOT DRINK ANYTHING**, Taiga joined before she had to ask. That was probably progress.
-
-When Seth dismissed the class, Taiga looked up. Leo was already heading out with Mia.
-
-Taiga packed his goggles.
+**Purpose:** the developmental place stops being theoretical. Saturday is now something Taiga can fuck up.
 
 ---
 
-## Scene 4 — Mia's Git problem
+## Scene 2 — Training: he is already trying to avenge the previous touch
 
-Thursday afternoon, Taiga headed toward training.
+Mercer announces the Saturday group and warns them not to become different players because their names are on a lineup sheet.
 
-The athletic complex appeared ahead. Players crossed the parking lot. Women's team finishing. Men's team arriving. Leo was standing near the entrance talking to Mia. She was showing Leo something on her laptop. Leo looked horrified. Taiga passed close enough to hear:
+Taiga hears:
 
-“You deleted the branch?”
+*Prove you're worth keeping.*
 
-Mia groaned.
+Do not narrate that as objective truth; keep it as his translation.
 
-“I thought it was merged.”
+During shape work, Taiga attacks Evan.
 
-“You *thought*?”
+Loses it.
 
-“Do not use that tone.”
+Next possession, tries again.
 
-“What tone? There is no tone. I'm just asking why you deleted—”
+Loses it again.
 
-Mia saw Taiga.
+Mercer stops him.
 
-“Save me.”
+Core exchange:
 
-Taiga stopped. Leo looked over.
+> “What are you doing?”
+>
+> “Attacking.”
+>
+> “No. You're trying to prove you can beat him.”
 
-“Do not save her. She's a criminal.”
+Mercer points out the free inside pass.
 
-Taiga looked at the laptop.
+The important diagnosis is:
 
-“What happened?”
+> Do not make the next decision because you are angry about the previous one.
 
-“Deleted a branch before checking the merge.”
+This connects directly to Ch. 3 without repeating Ch. 3's conflict. Taiga has already learned the lesson intellectually. Now the coming start gives it consequences.
 
-Taiga stared at Mia. Mia's eyes widened.
+Reset.
 
-“Why do you both look like I killed somebody?”
+Ball comes.
 
-Taiga said, “Because that's insane.”
+Evan closes.
 
-“Oh my God.”
+Taiga sees the inside option.
 
-Leo pointed at him.
+Passes.
 
-“Thank you.”
+Moves.
 
-Taiga handed the laptop back.
+Gets it back with Evan turned.
 
-“Restore it from remote.”
+Now the run works.
 
-Mia frowned.
+No grand realization. Just a better action.
 
-“You know Git?”
+Scott / Gav can reinforce the football picture with one short line if useful.
 
-“That's enough.”
-
-Leo looked between them. Mia said:
-
-“Can either of you just fix it?”
-
-Taiga looked at the time.
-
-“We got training.”
-
-Leo checked too.
-
-“Shit.”
-
-Mia crossed her arms.
-
-“You promised.”
-
-“I said I'd look.”
-
-“You have looked.”
-
-“I need five minutes.”
-
-“You have three.”
-
-Leo opened the laptop again. Taiga started walking away. Leo called:
-
-“Wait. Taiga.”
-
-Taiga looked back.
-
-“What?”
-
-“You said you know Git. Come here.”
-
-Taiga sighed.
-
-“I have to change.”
-
-“So do I.”
-
-Mia held out the laptop like an offering.
-
-“Please.”
-
-Taiga returned. Three minutes later, they restored the branch. Mia closed the laptop.
-
-“I love both of you.”
-
-That landed weird.
-
-Leo said:
-
-“Buy me dinner.”
-
-Mia pointed.
-
-“See? This is why he keeps getting fed.”
-
-Taiga frowned.
-
-“What does that mean?”
-
-“He fixes one branch and starts invoicing me in food.”
-
-Leo laughed. Mia looked at Taiga.
-
-“Apparently Git support has a dinner surcharge.”
-
-Taiga shrugged.
-
-“Sounds efficient.”
-
-Mia smiled.
-
-“I like him.”
-
-Leo slung his bag over his shoulder.
-
-“He's terrible.”
-
-“Still.”
-
-They separated. Mia toward the computer science building. Leo and Taiga toward the locker room. For several seconds they walked together. Not awkward. Not comfortable either. Just walking.
-
-Leo said:
-
-“Thanks.”
-
-“She's lucky the branch was still remote.”
-
-“I told her not to delete anything else until tonight.”
-
-“That might be beyond her.”
-
-Leo laughed.
-
-“You code?”
-
-“A little.”
-
-“What kind?”
-
-Taiga shrugged.
-
-“Mostly scripts. Some web stuff. Nothing serious.”
-
-“That is always what people say right before describing a project that took six months.”
-
-“It didn't.”
-
-Leo smiled.
-
-“Okay, then.”
-
-They entered the locker room. Aaron shouted something from across the room. Leo answered and walked away. Conversation finished. Taiga changed. Again. He liked normal.
+**Purpose:** establish the exact problem the match will test.
 
 ---
 
-## Scene 5 — Hall office hours
+## Scene 3 — Second shower: repetition makes the attraction harder to dismiss
 
-Friday morning, Taiga went to office hours. He told nobody. Not Nora. Not Keitaro. Definitely not Caleb. He booked the first available slot. Professor Hall's office contained too many books and one dying plant. Taiga stood in the doorway. The professor looked up.
+Place this **before the match**, after training.
 
-“Ah, Akatora.”
+This is the second clear Leo-body beat.
 
-Of course professors knew names. That seemed unfair.
+Ch. 3 already gave Taiga:
+- a glance;
+- a concrete opinion;
+- *nice ass*;
+- immediate dismissal.
 
-“Come in.”
+Now it happens again.
 
-Taiga sat. Hall folded his hands.
+Keep it extremely Taiga:
+- Leo enters the opposite stall / nearby stall;
+- Taiga looks automatically;
+- looks away;
+- notices anyway;
+- gets annoyed that the result is the same.
 
-“What can I do for you?”
+Concrete details only:
+- lean waist;
+- strong thighs;
+- ass;
+- wet hair / shoulders if useful.
 
-Taiga hated the question. He knew why he was there. Saying it out loud made it sound vulnerable.
+Do **not** turn the narration lyrical.
+Do **not** let Taiga ask what this means.
+Do **not** mention whether Leo is available.
 
-“I wanted to ask about the response paper.”
+The useful shift is simply:
 
-Hall nodded.
+> Once was an accident.
+>
+> Twice is apparently a pattern.
 
-“That's good.”
+Not necessarily that exact line.
 
-Good? Taiga immediately distrusted this.
+Leo can talk during the shower about Saturday, Caleb, the team, or some ordinary topic. Taiga's body-awareness and the normal conversation should coexist awkwardly.
 
-“What specifically?”
+If Leo mentions Caleb:
 
-“The engagement score.”
+> “Does he like soccer?”
+>
+> “No.”
+>
+> “Then why'd he come last time / why would he come?”
+>
+> “Because I asked.”
 
-“Okay, then.”
+That can seed the support beat without making Leo the interpreter.
 
-Taiga opened the paper on his laptop.
-
-“You said I asserted things without demonstrating them.”
-
-“Yes.”
-
-“I thought I did.”
-
-Hall smiled slightly.
-
-“Show me.”
-
-Taiga found the paragraph. Read it. Pointed.
-
-“This.”
-
-Hall leaned closer.
-
-“You identify a weakness in the author's assumption.”
-
-“Yes.”
-
-“But you don't establish that the weakness is fatal.”
-
-Taiga frowned.
-
-“It is.”
-
-“To you.”
-
-Taiga looked at him. Hall continued.
-
-“You're very quick.”
-
-Taiga didn't respond.
-
-“That can be an advantage.”
-
-Here came the compliment before the criticism. Taiga knew this structure. Hall pointed at the paragraph.
-
-“But I suspect your mind is finishing steps you aren't putting on the page.”
-
-Taiga looked down. Hall continued.
-
-“You see the endpoint. Your reader doesn't.”
-
-That— Was irritating. Because it made sense. Taiga reread the paragraph. There was a jump. Not huge. But yes. He knew what connected the two ideas. He hadn't written it. Hall leaned back.
-
-“I don't need you to think more slowly. I need you to show me the bridge.”
-
-Taiga stared at the screen. Something loosened. Barely.
-
-They spent another fifteen minutes on the paper. Specific sentences. Specific gaps. Concrete. When Taiga left, the grade was still seventy-four. Strangely, it felt smaller. Not better. Just— Contained. A problem with edges. Problems with edges could be fixed. Outside the building, his phone buzzed. Nora.
-
-**Nora:** office hrs monday if you change your mind
-
-Taiga stared. Then typed:
-
-**Taiga:** already went
-
-Three dots.
-
-**Nora:** HA
-
-**Nora:** KNEW IT
-
-**Taiga:** shut up
-
-**Nora:** what did he say
-
-Taiga thought.
-
-**Taiga:** i skip logical steps
-
-Nora responded:
-
-**Nora:** shocking
-
-Taiga smiled. Then:
-
-Taiga smiled and locked the phone.
+**Purpose:** Taiga's attraction exists independently of any information about Leo's sexuality.
 
 ---
 
-## Scene 6 — Familiar context, fuller buckets
+## Scene 4 — That night: Taiga uses Leo as the fantasy and refuses to investigate it
 
-Friday afternoon, Athletics looked exactly the way it always did.
+Move the masturbation beat here from old Draft Ch. 4.
 
-Same concrete corridor. Same smell of detergent and grass. Same argument somewhere near the equipment room about whose turn it was to carry the water crate.
+Rewrite it substantially tighter.
 
-Taiga changed at his locker and pulled on number forty-one.
+Narrative sequence:
 
-Across the room, Leo was trying to tape one wrist while Enzo talked at him from two lockers away.
+- Taiga wakes horny / unable to settle.
+- The shower returns to him.
+- He tries to think about something else.
+- Leo remains the image his brain supplies.
+- Taiga gives up resisting the obvious.
+- He masturbates thinking about Leo.
+- Afterward, embarrassment / awareness arrives.
+- Taiga refuses to turn the incident into an identity or romance investigation.
 
-“You're doing that wrong,” Enzo said.
+The rationalization should be simple:
 
-“I have been taping my own wrists for years.”
+Leo is attractive. Taiga was horny. His brain used the obvious material.
 
-“And yet.”
+End inquiry.
 
-Leo looked over and caught Taiga watching.
+Do not make the scene pornographic for its own sake. The point is not the physical choreography; the point is that Taiga can no longer pretend his noticing of Leo is merely aesthetic or incidental.
 
-“Forty-one. Settle this.”
+Caleb sleeping nearby can preserve the old-draft comic tension, but keep it shorter.
 
-“No.”
-
-“You don't even know the question.”
-
-“Still no.”
-
-Enzo pointed at Leo's wrist. “See? Democracy.”
-
-“That is not democracy.”
-
-Taiga bent to tie his boots.
-
-Leo said, “By the way, did Table Six survive?”
-
-Taiga looked up.
-
-“What?”
-
-“Chemistry.”
-
-Right.
-
-For half a second, the locker room and the laboratory existed in the same place in his head. Leo in a training shirt. Leo in goggles. Leo's scorched lab coat.
-
-“We survived.”
-
-“No fires?”
-
-“No fires.”
-
-Leo pressed a hand to his chest.
-
-“Show-off.”
-
-“You set yourself on fire.”
-
-“My sleeve.”
-
-“Important distinction.”
-
-“It is.”
-
-Enzo looked between them.
-
-“Why was Leo on fire?”
-
-“He wasn't,” Leo said.
-
-“He was,” Taiga said at the same time.
-
-Enzo's face lit up.
-
-Leo pointed at Taiga.
-
-“You're a terrible person.”
-
-“Still not the one who caught fire in chemistry.”
-
-Aaron shouted for Leo from the corridor.
-
-Leo grabbed his boots and started toward the door.
-
-Then he stopped.
-
-“Oh. Mia says the branch is still alive.”
-
-“Congratulations.”
-
-“She also says next time she breaks Git she's calling you.”
-
-“No.”
-
-“I told her that.”
-
-“Good.”
-
-“She didn't care.”
-
-Of course she didn't.
-
-Leo grinned and disappeared into the corridor.
-
-Taiga looked back down at his boots.
-
-Number forty-one. Training. Athletics.
-
-Everything where it was supposed to be.
-
-His phone buzzed inside his bag.
-
-**TABLE SIX — DO NOT DRINK ANYTHING**
-
-Priya had sent a photo of their draft report with three question marks beside one calculation.
-
-Taiga stared at the notification for a second, then opened it.
-
-From the corridor, Leo shouted:
-
-“FORTY-ONE, YOU COMING?”
-
-Taiga shoved the phone back into his bag.
-
-“Yeah.”
-
-He followed.
+**Purpose:** sexual attraction becomes undeniable to the reader while Taiga still treats it as a contained physical fact.
 
 ---
 
-## Scene 7 — Yoichi calls
+## Scene 5 — Caleb asks the useful question
 
-At 10:46 that night, Taiga's phone rang.
+Friday evening or Saturday morning.
 
-Yoichi.
+Maya is with Caleb / visiting / on call. No bridge subplot.
 
-Taiga looked at the screen. Yoichi did not call. Yoichi barely texted full sentences.
+The match comes up.
 
-He answered.
+Maya's instinct can be warm and immediate:
 
-“What?”
+> “Oh, we're going.”
 
-Yoichi's face appeared sideways.
+Taiga objects reflexively.
 
-“Your camera's fucked.”
+Caleb does **not** let Maya decide for him and does not assume Taiga wants support.
 
-“Yours is sideways.”
+He asks:
 
-“No.”
+> “Do you want me there?”
 
-“Yes.”
+Taiga's reflex is no.
 
-Yoichi rotated the phone. Now he was upside down.
+Then he actually imagines looking toward the small stand and seeing Caleb there.
 
-Taiga stared.
+He wants that.
 
-“You're doing this on purpose.”
+Answer:
 
-Yoichi grinned.
+> “If you want.”
 
-“Maybe.”
+Caleb understands the translation.
 
-“Why are you calling?”
+Maya can come too, but do not make the scene about the invitation logistics.
 
-“Bored.”
+Later, Saturday morning, Taiga is pacing.
 
-“Call Frogboy.”
+Caleb notices.
 
-“Busy.”
+> “Are you scared?”
 
-“Torch-head.”
+Taiga answers directly:
 
-“Annoying.”
+> “Yeah.”
 
-“Twinkerbell.”
+This is a good use of explicit emotion because Taiga knows exactly what this one is.
 
-“Studio.”
+Caleb does not provide therapy language. He offers a tool Maya uses before presentations:
+- reduce the event to the first concrete steps;
+- know what happens before the thing;
+- stop trying to mentally survive the entire event at once.
 
-“Mr. Perfect.”
+Taiga converts it into:
+- locker room;
+- warm-up;
+- team talk;
+- tunnel / touchline;
+- kickoff;
+- first five minutes.
 
-“Training.”
+**Purpose:** Taiga allows somebody from Olympus to matter to the event before it happens.
 
-Taiga paused.
+---
 
-“So I'm the emergency option.”
+## Scene 6 — Locker room: Leo gives him the football version
 
-“Yeah.”
+Pre-match.
 
-“Fuck you.”
+Taiga keeps retying one boot.
 
-“Psh. You answered.”
+Leo notices.
 
-Yoichi rotated the phone the right way. Behind him was darkness, trees and the weak cone of a flashlight pointed at the ground. Yuki's ears appeared at the bottom of the frame for half a second before disappearing again.
+> “Boot betrayed you?”
 
-Taiga frowned.
+Taiga eventually admits he is nervous.
 
-“You're in the woods.”
+Leo's advice:
 
-“No shit.”
+> First five minutes, just get a touch.
+>
+> Nothing heroic.
+>
+> One clean touch. One easy pass.
+>
+> Let your body remember it is football rather than an execution.
 
-“At almost eleven.”
+Leo may also keep the old superstition about touching the line before a match.
 
-“So?”
+The parallel with Caleb should be visible but unannounced:
 
-“What are you doing?”
+- Caleb reduces uncertainty through sequence.
+- Leo reduces it through embodied football routine.
 
-“Walking.”
+Taiga can call both pieces of advice terrible.
 
-“With Yuki.”
+He still uses them.
 
-“Wow. College made you smart.”
+**Purpose:** Leo is useful to Taiga in a way specific to football, not as emotional interpreter.
 
-Taiga smiled despite himself.
+---
 
-“Shouldn't you be at camp?”
+## Scene 7 — First half: mistake
 
-“I am at camp.”
+Northbridge should be simple to read even for someone who does not care about football.
 
-“You know what I mean.”
+Establish in a few strokes:
+- direct;
+- physical;
+- long balls / long throws if useful;
+- Taiga's right-back is significantly bigger;
+- every loose ball becomes a fight.
 
-Yoichi clicked his tongue and turned the camera. Through the trees, Taiga could make out one of the Camp Buddy lights farther downhill.
+Taiga's first minutes are ugly without being catastrophic.
 
-“Yoshinori wanted help stacking chairs in the lodge.”
+Bad touch.
+Safe pass nearly intercepted.
+Wrong space once.
 
-“And you left.”
+Then:
 
-“They're chairs. They already know how to stand.”
+one clean touch;
+one easy pass;
+another.
 
-“That isn't how chairs work.”
+His breathing settles.
 
-“Works enough.”
+This becomes a football match rather than an examination.
 
-Yuki barked somewhere ahead. Yoichi immediately looked away from the camera.
+Then the consequential mistake.
 
-“How's Yuki?”
+Taiga drops to receive near midfield.
+He has the safe inside / backward option.
+He sees space forward.
+Turns.
+Right-back anticipates and steals it.
 
-“Good.”
+Northbridge counter.
 
-“Thought so.”
+Three passes / cross / finish.
 
-Yoichi looked pleased for approximately half a second before remembering he had a reputation.
+**0–1.**
 
-“You joined soccer.”
+Important:
+Taiga did not literally “give them a goal.”
+There are still defenders and actions after the turnover.
+But to him the causal chain is immediate.
 
-“That transition made no sense.”
+His body gives him the command:
 
-“Don't care.”
+***Fix it.***
 
-“Development roster.”
+He wants the ball immediately.
+He wants the next action to cancel the previous one.
 
-“I dunno what that means.”
+Mercer calls:
 
-“That's brilliant.”
+> “Akatora!”
 
-Yoichi leaned closer.
+One gesture toward his head is enough.
 
-“Bunch of sweaty college dudes?”
+Scott from behind:
 
-Taiga closed his eyes.
+> “RESET! NEXT ONE!”
 
-“There it is.”
+Taiga does the hardest thing available to him:
 
-“What?”
+Nothing special.
 
-“The reason you called.”
+Simple pass.
+Press.
+Track.
+Another simple pass.
 
-“I called because walking around here alone gets boring.”
+The mistake remains true.
 
-“And yet somehow we're here.”
+The match continues anyway.
 
-Yoichi's grin became filthy.
+Do not explain the lesson here.
 
-“Got a boyfriend yet?”
+---
 
-“No.”
+## Scene 8 — Halftime / second half: reward without absolution
 
-“Roommate?”
+At halftime, Mercer asks what happened.
 
-“No.”
+Taiga identifies it accurately:
+- turned without enough space;
+- inside pass was available.
 
-“That wasn't the question.”
+Mercer does not punish him emotionally.
 
-Across the room Caleb said, without looking up from his book:
+Then move directly to what Northbridge is giving them.
 
-“I can hear both of you.”
+Gav / Leo can identify the exploitable space, but keep the explanation visual and simple.
 
-Yoichi's eyes lit up.
+Second half:
+- Olympus equalizes from something Taiga is not involved in;
+- Taiga celebrates anyway;
+- Leo comes on later as the ten;
+- his presence immediately adds energy / noise.
 
-“Roommate, has Dynamite already asked you to leave the room for a night?”
+Taiga eventually sees the same basic picture they discussed:
+- defender follows;
+- another player loses track;
+- Taiga gets room;
+- simple combination;
+- Taiga reaches the box;
+- low cross;
+- slight deflection if desired;
+- Leo adjusts and finishes.
 
-Taiga sighed.
+**2–1.**
 
-“Caleb, ignore him.”
+Leo celebrates with Taiga.
 
-Caleb looked over.
+Keep the physical contact natural and brief:
+- arm around shoulders / collision / team pile;
+- Taiga laughs.
 
-“No, he hasn't.”
+No romantic narration required.
 
-“Boring. Is he annoying you?”
+The goal is not “Taiga erased the mistake.”
+Both events happened.
 
-“Yes.”
+The reader should understand that without Taiga stating it.
 
-“Fuck you both.”
+Taiga plays roughly eighty minutes, then comes off.
 
-Yoichi laughed.
+Caleb and Maya are in the stand.
 
-For a while they talked about nothing important. Taiga complained about soccer positioning. Yoichi complained that Aiden had asked him to unload lumber that afternoon and had somehow interpreted Yoichi disappearing for three hours as avoiding work.
+Caleb simply raises one hand.
 
-“You were avoiding work.”
+Taiga smiles before catching himself.
 
-“I was with Yuki.”
+**Purpose:** Taiga contributes after failure instead of replacing failure with success.
 
-“That does not make it less true.”
+---
 
-“Fuck you.”
+## Scene 9 — Scott notices the thing that actually mattered
 
-There was a pause. Leaves shifted beneath Yoichi's shoes.
+Post-match locker room.
 
-Then he said:
+Do **not** over-explain through Evan.
 
-“Place is weird now.”
+Evan can give:
+- “Good game.”
+- a small joke.
+- maybe one short reference to the turnover.
 
-Taiga looked at the screen.
+But Scott should own the important observation.
 
-“How?”
+As he passes:
 
-“People keep leaving.”
+> “Next one was clean.”
 
-“They come back.”
+Taiga looks up.
 
-“Not the same.”
+> “What?”
 
-Taiga waited.
+> “After the goal. First pass.”
 
-Yoichi kicked at something out of frame.
+Then Scott keeps walking.
 
-“Everyone comes back different.”
+That is enough.
 
-Taiga frowned.
+No narrator paragraph explaining why this matters.
 
-“You're still there.”
+Taiga knows exactly what Scott noticed.
 
-“Yeah. That's why I notice, dumbass.”
+**Purpose:** external recognition of the behavioral win without turning it into a speech.
 
-Yuki moved through the flashlight beam ahead of him. Yoichi followed without looking at the screen.
+---
 
-Taiga said:
+## Scene 10 — Taiga stays
 
-“Keitaro's already planning the next reunion.”
+After showers / changing, the team is getting food.
 
-“Course Frogboy is.”
+Leo / Enzo invite him.
 
-“You can't wait for it.”
+Old Taiga's default:
+- leave;
+- dorm;
+- done.
 
-“Psh.”
+This time:
+- he is exhausted;
+- hungry;
+- seven or eight people still sounds like a lot;
+- but he goes.
 
-“That means yes.”
+Important boundary:
 
-Yoichi clicked his tongue.
+This is **not** Ch. 9's full voluntary social-night payoff.
 
-“Place is too fucking quiet without you idiots.”
+Taiga is already with the team after a match.
+He has been invited.
+He is hungry.
+He simply does not take the first exit.
 
-Taiga smiled.
+That is enough.
 
-“Thought you liked quiet.”
+A useful line can remain:
 
-“Not that much.”
+> “Come once. If you hate it, you never have to do it again.”
 
-For a couple of seconds neither said anything.
+Taiga:
 
-Then Yoichi added:
+> “Where exactly?”
 
-“You were the last one to leave anyway.”
+Leo names the place.
 
-Taiga looked at him.
+Taiga knows it / agrees.
 
-“Eventually.”
+No victory lap from Leo.
 
-Yoichi snorted.
+**Purpose:** first meaningful choice to remain with the team after football.
 
-“Yeah. Eventually.”
+---
 
-Taiga narrowed his eyes.
+## Scene 11 — Short team dinner + Zoe reveal
 
-“What?”
+Keep this dinner **much shorter** than old Draft Ch. 5.
 
-“Nothing.”
+The purpose is not to establish that these are now Taiga's full social group.
 
-“That sounded like something.”
+Give us enough ensemble texture to keep personalities distinct:
+- Enzo makes everything public;
+- Gav cuts through nonsense;
+- Scott contributes minimally but effectively;
+- Aaron performs;
+- Sofia punctures him;
+- Leo is everywhere;
+- Zoe ricochets through whatever CS / fandom / scheduling nonsense fits the scene.
 
-“Psh.”
+Replace old-draft Mia with **Zoe** and write her in the Final Bible voice.
 
-“Great argument.”
+Do not repeat major football analysis. The match is over.
 
-Yuki barked again, farther away this time.
+The romantic information comes late in the dinner.
 
-Yoichi's head snapped toward the sound.
+Taiga has already:
+- noticed Leo twice;
+- masturbated thinking about him;
+- confirmed physical attraction entirely on his own.
 
-“Yuki!”
+Only now does he bluntly ask Zoe whether she and Leo are together / dating.
 
-He started walking faster.
+Zoe reacts as if the premise is ridiculous.
 
-“Gotta go. Later, Dynamite.”
+Core information:
 
-“Later.”
+- no, they are not dating;
+- as far as she can tell, Leo is not particularly into girls.
 
-The call ended.
+Do not make Zoe omniscient. Phrase it as her impression / knowledge, not a formal declaration on Leo's behalf.
 
-Taiga lowered the phone.
+Taiga's response should be tiny.
 
-Caleb was looking at him from the other side of the room.
+He likes the information more than the question warrants.
 
-“What?”
+That is the beat.
 
-“You sound different with him.”
+Do not let him immediately ask why.
+Do not let him label it hope.
+Do not let him run a sexuality analysis.
 
-Taiga stared.
+File it under **interesting** and continue eating.
 
-“Stop listening to me.”
+**Purpose:** romantic possibility enters only after attraction is already undeniable.
 
-“I live here.”
+---
 
-“Tragic.”
+## Closing
 
-Caleb returned to his book.
+Do **not** restore the old explanatory ending:
 
-Taiga looked at the blank screen for another second before setting the phone down.
+> His first start was over. He had made a mistake that led to a goal. He had not fixed it immediately. He had played another fifty minutes. They had won.
 
+The chapter has already shown all of that.
+
+Better closing options:
+
+### Option A — Echo Scott
+
+Taiga gets back to room 317.
+
+Camp Buddy is blowing up his phone about the result.
+
+He lets it buzz for a minute.
+
+What stays with him is Scott's line:
+
+**Next one was clean.**
+
+Not as a grand thesis.
+Just something he remembers.
+
+### Option B — End at dinner
+
+Zoe's “not into girls” information lands.
+
+Conversation moves on without waiting for Taiga.
+
+Taiga catches himself looking at Leo across the table.
+
+This time there is no point pretending he does not know why.
+
+He still does not do anything with the knowledge.
+
+### Preferred
+
+**Option A** if the chapter needs the football arc to own the final note.
+
+**Option B** if the rewrite feels football-heavy and needs the romance thread to remain alive at the cut.
+
+Do not combine both into an explanatory summary.
+
+---
+
+## Chapter shape
+
+**pressure → desire confirmed → pressure intensifies → failure → continuation → reward → staying → possibility**
+
+Core thematic line:
+
+> A mistake does not need to become the next mistake.
+
+Possible title:
+
+# **The next one**
+
+This answers **The mistake** without announcing the parallel.
