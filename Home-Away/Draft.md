@@ -714,6 +714,77 @@ Leo's curtain opened a few seconds later. Taiga was pulling on underwear when Le
 > - Trim football debrief if the match section already did enough.
 > - Preserve Leo overscheduling himself; it adds character texture without making the chapter about romance.
 >
+> ### Gav + Evan — reveal their off-field personalities
+>
+> This dinner is also the first good opportunity for Taiga to experience the difference between **who Gav and Evan are on the field** and **who they are socially**.
+>
+> **Evan = horny senpai.**
+>
+> On the field Taiga mostly knows him as:
+> - experienced;
+> - cautious;
+> - useful;
+> - the senior winger who gives practical advice.
+>
+> At dinner, show the other half of him:
+> - enthusiastically obsessed with women in the classic anime-senpai way;
+> - socially comfortable;
+> - strong opinions about types / dating;
+> - convinced he has valuable romantic wisdom;
+> - harmless and sincere, not predatory.
+>
+> Taiga should get at least one clear **“oh, so this is what he's like outside football”** beat.
+>
+> This can come from Evan:
+> - noticing / flirting with a woman nearby;
+> - telling a dating story;
+> - launching a completely confident “type” discussion;
+> - offering relationship advice nobody asked for.
+>
+> Do not make the joke that Evan is sleazy. The joke is that the otherwise composed senior player becomes an embarrassingly confident horny senpai on this subject.
+>
+> **Gav = the nerd.**
+>
+> Do **not** preserve the old source version where Gav mostly sits back, corrects facts, and acts as the group's dry stabilizer. That characterization is obsolete.
+>
+> Gav's social instinct is **share the thing**:
+> - explain;
+> - recommend;
+> - invite;
+> - recruit;
+> - provide much more context than anybody requested once a subject activates him.
+>
+> Dinner is a good place to expose one or two of his locked interests naturally:
+> - D&D;
+> - chess;
+> - birdwatching;
+> - biology / sports medicine.
+>
+> A particularly useful beat is Gav trying to recruit Taiga into something:
+>
+> > “We need another player Thursday.”
+> >
+> > “For football?”
+> >
+> > “D&D.”
+> >
+> > “No.”
+> >
+> > “You haven't heard the campaign premise.”
+>
+> Not necessarily those exact lines, but preserve that mechanism: Gav treats Taiga's refusal as an **information problem** and starts explaining why the thing is interesting.
+>
+> Zoe can also activate Gav's nerd mode if one of her CS / game / anime comments gives him an adjacent subject to latch onto.
+>
+> **Important source correction:** the copied line later in this scene saying **“Gav mostly listened, occasionally correcting facts or dragging a conversation back when Enzo sent it somewhere useless”** belongs to the old development version of Gav and should be replaced during rewrite.
+>
+> The useful contrast for Taiga is:
+>
+> - **on field:** Evan = experienced / cautious; Gav = tactically calculating;
+> - **at dinner:** Evan = horny senpai; Gav = enormous enthusiastic nerd.
+>
+> Do not explain this contrast in narration as a character thesis. Let Taiga simply experience the extra information.
+>
 > ### Romantic beat
 >
 > Taiga eventually asks whether Zoe and Leo are dating.
