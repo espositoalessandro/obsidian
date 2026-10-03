@@ -1,1007 +1,351 @@
 # Chapter 5 - The next one
 
-> **ASSEMBLED SOURCE DRAFT — NOT A FRESH REWRITE**
+> **ASSEMBLED SOURCE DRAFT — STRUCTURE REBUILT**
 >
-> Rule for this chapter: **reuse old-draft prose verbatim whenever it still works.**
-> Only rewrite:
-> - material that contradicts Final Ch. 1–4;
-> - material moved to a different context and therefore requiring staging changes;
-> - old Mia material that now belongs to Zoe and must match Zoe's Final voice;
-> - genuinely new connective tissue.
+> Rule: **reuse old-draft prose wherever it still works.** Do not rewrite a scene simply because its structural role changed.
 >
-> Core movement: **I want to be good at this → I'm staying even when I'm not.**
+> ## Two major events
 >
-> Current structural order:
-> **lineup / training → second shower → masturbation → Caleb/Maya support → match → Scott → stay for dinner → Zoe reveal**
+> 1. **Taiga gets his first reserve minutes.**
+> 2. **Taiga goes to dinner with the team and has the conversation with Zoe.**
 >
-> The source blocks below are deliberately copied from the original Draft chapters rather than paraphrased.
+> Everything else exists to support those two events.
+>
+> ## Reserve-match canon for this chapter
+>
+> Olympus reserve fixtures are **development matches for the broader varsity squad**, not a separate fixed B team.
+>
+> The match group can include:
+> - freshmen / development players;
+> - first-team substitutes who need minutes;
+> - players who did not play much in the previous first-team match;
+> - players Mercer wants to evaluate in a lower-pressure setting.
+>
+> That is why **Leo can play reserve fixtures naturally** even though he is ahead of Taiga in the squad hierarchy.
+>
+> Taiga has already been dressing for reserve matches and sitting on the bench by default. That is normal. He has **not played yet**.
+>
+> This week the change is simply that Mercer tells him:
+>
+> > **“Akatora. Saturday. Expect to play at some point.”**
+>
+> No first-start reveal. No full training scene. No Caleb spectator invitation.
+>
+> ## Pacing rule
+>
+> **Bench waiting + first minutes together: ~1,000–1,500 words maximum in the final chapter.**
+>
+> The match is important because Taiga finally plays, not because the reserve fixture itself needs to become a major sports climax.
+>
+> ## Romance rule
+>
+> Ch. 3 already established the first physical glance at Leo.
+>
+> Ch. 5 may contain a **brief second glance after the match**, then Zoe's information at dinner.
+>
+> **The masturbation scene is removed from Ch. 5 and returns to the unplaced-material pool.**
+>
+> Romance progression here is only:
+>
+> **noticed once → notices again → learns Leo may not be into girls.**
+>
+> That is enough.
 
 ---
 
-## Scene 1 — Lineup + training
+## Scene 1 — Opening: Mercer tells him to expect minutes
 
-> **SOURCE:** old Draft Ch. 5, copied verbatim.
+> **NEW MATERIAL — keep short.**
 >
-> **KEEP / EDIT LATER:** The Calculus and Chemistry opening that originally preceded this has been cut. This is now the chapter opening.
+> Open after an ordinary training session or during the usual post-training dismissal.
 >
-> **CONTINUITY CHECK LATER:** any old roster/player-name details against the Final Apollo bible.
+> Establish in only a few lines that reserve Saturdays have already become routine:
+> - Taiga dresses with the squad;
+> - sits on the bench;
+> - warms up when told;
+> - has not been used yet.
+>
+> Do **not** make this sound humiliating or like a failed promotion. This is simply how Mercer has been introducing him to organized college football.
+>
+> Then Mercer stops him:
+>
+> > “Akatora.”
+> >
+> > Taiga turns.
+> >
+> > “Saturday. Expect to play at some point.”
+>
+> Taiga immediately wants specifics.
+>
+> Mercer does not give them.
+>
+> > “How long?”
+> >
+> > “Depends.”
+>
+> That uncertainty is useful. Taiga now knows he will probably play, but not when, how much, or under what game state.
+>
+> **Purpose:** one small sentence makes the coming reserve match matter enormously to Taiga without pretending he has been promoted or named a starter.
 
-When Taiga arrived at soccer that afternoon, there was a sheet taped to the locker-room door. He saw his name before he saw the heading.
+---
 
-**RESERVE FIXTURE — SATURDAY**
+## Scene 2 — Keitaro laundry call
 
-He stopped. The list was divided into starters and substitutes. Taiga scanned. Goalkeeper. Defense. Midfield. Attack. Then:
+> **SOURCE:** old Draft Ch. 5, copied verbatim below.
+>
+> This remains useful because it gives the first-minutes event emotional weight without adding more football.
+>
+> **ONLY NECESSARY ADAPTATIONS:**
+> - “I'm starting Saturday” must become something like **“Mercer said to expect minutes Saturday.”**
+> - any later wording that assumes a start must be adjusted accordingly;
+> - the Hunter exhibition tangent stays cut;
+> - keep the core admission that Taiga is nervous because he cares whether Mercer thinks the opportunity was worth giving him.
+>
+> Do not broadly rewrite this scene.
 
-**LW — 41 AKATORA**
+Thursday night, Keitaro called while Taiga was in the laundry room. Taiga answered with one hand while transferring shirts into the dryer. Keitaro's face appeared.
 
-He read it again. Starter. Not expected thirty minutes. Not development. Start. His stomach gave one hard drop.
+“Hey.”
 
-Aaron appeared beside him.
+“Hey.”
 
-“Oh, shit.”
+Behind him, Taiga could see a dorm-room wall covered in photos. Hiro wasn't there.
 
-Taiga didn't look away from the sheet.
+“Where's your parasite?”
+
+Keitaro laughed.
+
+“Study group.”
+
+“Voluntarily?”
+
+“He has an exam.”
+
+“Still suspicious.”
+
+Taiga shoved clothes into the dryer. Keitaro watched.
+
+“Laundry?”
+
+“No, I'm rebuilding an engine.”
+
+“You're in a laundry room.”
+
+“Then why'd you ask?”
+
+Keitaro smiled. Taiga fed two coins into the machine. Nothing happened. He pressed start. Nothing.
+
+“Come on.”
 
 “What?”
 
-“You're starting.”
+“Machine’s eaten my cash.”
 
-“I can read.”
+Taiga hit the button again. Dead. Keitaro said, “Maybe the door isn't shut.”
 
-“I know. I'm being supportive.”
+“It is.”
 
-“Try less.”
+“Push it.”
 
-Aaron leaned closer.
+“I did.”
 
-“I'm on the bench.”
+“Again.”
 
-Taiga finally looked at him.
+Taiga pushed harder. Click. Machine started. He looked at the screen. Keitaro was smiling. Taiga narrowed his eyes.
 
-“You are?”
+“If that's the concerned smile, retire it.”
 
-“Yeah. Mercer wants to give some of you development guys proper minutes.”
+“It wasn't. I was going to ask how soccer is.”
 
-Taiga looked back at the list. The opponent was Northbridge University reserves. He knew almost nothing about them. That suddenly seemed unacceptable.
+“That smile asks questions before you do.”
 
-“What formation do they play?”
+Keitaro laughed. Taiga leaned against the dryer. That was actually the reason he'd answered. Probably.
 
-Aaron stared.
+“I'm starting Saturday.”
 
-“Who?”
+Keitaro's face changed immediately.
 
-“Northbridge.”
+“Are you serious?”
 
-“I don't know.”
+“Reserve game.”
 
-“You've played them before.”
+“But that still counts.”
 
-“Last year.”
+Taiga shrugged.
 
-“And then?”
+“It's not first team.”
 
-“And I don't remember.”
+“It’s not.”
 
-Taiga looked at him with disgust. Aaron laughed.
+“Just saying.”
 
-“You're already scouting.”
+Keitaro watched him. Taiga waited for the therapist face. The question reached Keitaro's face before his mouth. Taiga sighed.
 
-“I'm asking one question.”
+“Just ask.”
 
-“About a reserve match four days away.”
+Keitaro hesitated.
 
-“So what?”
+“Are you actually enjoying it?”
 
-From behind them, Gav said, “Usually 4-2-3-1. Right-back likes to step early.”
+“You're nervous.”
 
-Taiga turned.
+“No shit.”
 
-Gav was halfway through the door, training bag over one shoulder.
+Keitaro laughed softly. Taiga looked toward the machines. A dryer thumped unevenly somewhere behind him. For once, he didn't immediately end the conversation.
 
-“You remember that?” Aaron asked.
+“It's stupid.”
 
-“He kicked me twice.”
+“What is?”
 
-“That would do it.”
-
-Gav looked at Taiga. “Don't let him turn it into a strength contest. He wants that.”
-
-“Got it.”
-
-Gav nodded and went inside.
-
-Aaron looked after him, then back at Taiga.
-
-“See? Actual scouting department.”
-
-Taiga took a photo of the sheet.
-
-“For informational purposes.”
-
-“Obviously.”
-
-Inside the locker room, people were changing. Leo was standing near his locker with one shoe on and one shoe off, somehow talking to three people at once.
-
-“—I'm telling you, if you put pineapple on it after baking, that's different.”
-
-Evan stared at him. “That is still pineapple on pizza.”
-
-“No, because then it's basically garnish.”
-
-“That's worse.”
-
-From the next row, Enzo joined without invitation.
-
-“Pineapple is innocent. The real crime is people putting chicken on pizza and pretending it belongs there.”
-
-Leo pointed at him. “Finally. A man of culture.”
-
-Evan looked between them. “You both need supervision.”
-
-Leo spotted Taiga.
-
-“Hey, forty-one. Important question. Pineapple on pizza.”
-
-“No.”
-
-Leo pointed both hands at him.
-
-“Thank you.”
-
-Evan frowned.
-
-“That wasn't your position thirty seconds ago.”
-
-Leo looked at him.
-
-“It evolved.”
-
-“You argued the opposite.”
-
-“Growth.”
-
-Enzo raised both arms. “This team has no ideological consistency.”
-
-Scott, sitting two lockers down and taping his fingers, said, “Good.”
-
-Enzo turned. “You can't just drop one word into a constitutional crisis and leave.”
-
-Scott kept taping.
-
-“I can.”
-
-Taiga laughed under his breath and opened his locker.
-
-Leo's phone buzzed. He looked at the screen and froze.
-
-“Oh, shit.”
-
-“Mia?” Enzo asked immediately.
-
-Leo answered before anyone else could say anything.
-
-“Right! Sorry. Culinary ethics hijacked the meeting. No, no, I know I promised I didn't forget.”
-
-He listened, then started pacing one shoe on, one shoe off.
-
-“The library printer on two is dead, and engineering is stupidly far from here, so don't do that. Jonah has lab access in the CS building. I'll message him. If he's still there, he can let you in.”
-
-Then he grinned.
-
-“You owe me another dinner.”
-
-He locked the phone and went back to tying his shoe.
-
-Enzo looked at him. “You negotiate favors like organized crime.”
-
-“Networking.”
-
-“Extortion.”
-
-“Community.”
-
-Taiga changed while the argument moved on without him.
-
----
-
-Coach Mercer started practice by pointing at Saturday's lineup.
-
-“Reserve squad, don't overthink the word *start*. Some of you are getting minutes because I want to see what you do with them.”
-
-Taiga heard that correctly. Unfortunately, his brain translated it into: *Prove you're worth keeping.* Mercer continued.
-
-“If you spend four days trying to become a different player because your name is on a sheet, I will notice.”
-
-Several people laughed. Taiga suspected this was aimed at him.
-
-“Akatora.”
-
-Of course.
-
-“Yes?”
-
-“You've got Northbridge's right side Saturday.”
-
-Taiga nodded.
-
-“They're physical. Don't make every possession a wrestling match.”
-
-“Okay, then.”
-
-“I mean it.”
-
-“I said okay.”
-
-Mercer raised an eyebrow. Taiga sighed.
-
-“I mean okay.”
-
-“That's good.”
-
-Training began. For the first half hour, Taiga played normally. Then they switched into eleven-versus-eleven shape. Saturday starters wore yellow bibs. Taiga pulled one over his shirt. Something about the color changed the entire session. Stupid. It was fabric. The same field. Same teammates. Same coach. But now every mistake seemed to have context.
-
-Saturday.
-
-He received wide. Tried to beat Evan. Lost the ball. Next possession, he tried again. Lost it again. Mercer blew the whistle.
-
-“Akatora.”
-
-Taiga stopped. Mercer walked closer.
-
-“What are you doing?”
-
-“Attacking.”
-
-“No. You're trying to prove you can beat him.”
-
-Taiga said nothing. Mercer pointed toward the center.
-
-“Your midfielder was free.”
-
-Taiga knew. He had seen him. Ignored him.
-
-“Yeah.”
-
-“So why didn't you pass?”
-
-Taiga looked at the grass. Mercer waited. No escape.
-
-“Thought I could get past.”
-
-“Once?”
-
-Taiga looked up. Mercer waited.
-
-“Twice, actually.”
-
-Coach nodded.
-
-“Third time?”
-
-“I'll pass.”
-
-“Maybe. Or maybe you beat him. I don't care which. Just don't make the decision because you're annoyed about the last one.”
-
-There it was again. Mercer walked away. Taiga reset. Evan jogged backward.
-
-“You know he's right.”
-
-Taiga looked at him.
-
-“Do you have a death wish?”
-
-Evan smiled.
-
-The drill restarted. Ball came. Evan closed. Taiga checked inside. Midfielder free. Pass. Run. Return ball. Now Evan was turned. Taiga accelerated around him. Not spectacular. Just correct. Evan caught up and shouldered him. Taiga stayed upright. Cross. Cleared.
-
-From the far end, Scott's voice tore across the field.
-
-“RESET! BENNETT, GET BACK IN! CARTER, STEP!”
-
-Mercer shouted:
-
-“Better!”
-
-Taiga jogged back. Evan said beside him:
-
-“That was annoying.”
-
-“That's good.”
-
-“You passed.”
-
-“Don't sound so surprised.”
-
-“I was mostly surprised you listened.”
-
-Taiga looked at him. Evan laughed and peeled away.
-
-Gav passed them on the way back into shape.
-
-“Same picture Saturday. Don't wrestle if the inside pass is free.”
-
-Taiga nodded.
-
-“Yeah.”
-
-Then play restarted.
-
----
-
-## Scene 2 — Second Leo shower
-
-> **SOURCE:** old Draft Ch. 4 shower sequence, copied verbatim.
->
-> **MOVE:** This material now belongs in Ch. 5 after the training scene above.
->
-> **ADAPT ONLY WHAT IS NECESSARY:**
-> - shower staging must match the Final Ch. 3 locker-room/shower layout;
-> - remove/replace references that depend on the old closed-scrimmage context (“run before the second goal,” St. Vincent, bus timing);
-> - preserve as much of the actual exchange as possible;
-> - preserve the physical-noticing progression and Leo's “one mistake into the next five minutes” idea if it still fits naturally.
->
-> Do **not** rewrite the whole scene just because it moved.
-
-Taiga hung his towel and opened one shower. Leo was at the central one, back turned toward him, still defending his structural integrity.
-
-“Okay,” Enzo said. “We need an independent authority. Forty-one.”
-
-Taiga shut his eyes for half a second.
-
-“What?”
-
-“Is Leo too skinny for contact sports?”
-
-“Find another witness.”
-
-Leo turned his head. “No, no, he plays my side. Relevant expertise.”
-
-“That's not how expertise works.”
-
-“Just answer the question.”
-
-Taiga gave him a quick glance.
-
-Leo was lean, narrow through the waist, broader at the shoulders than he looked in a shirt. Soap ran down his back and made looking anywhere for too long a terrible idea.
-
-“You're skinny.”
-
-Leo pointed at Enzo triumphantly. “See? Athletic.”
-
-“That is not what he said.”
-
-“Context matters.”
-
-Taiga shook his head.
-
-“I thought attacking midfielders didn't need to be huge.”
-
-Leo's face brightened.
-
-“Exactly. Purpose-built.”
-
-Enzo slapped a hand against the tile. “He called you skinny and you turned it into a scouting report.”
-
-“He is better built than you. Of course I respect his opinion.”
-
-Taiga froze for half a second.
-
-Enzo looked at Leo. “That made even less sense.”
-
-“It made perfect sense. I refuse to explain it to people without vision.”
-
-Enzo shut off his shower and grabbed his towel.
-
-Gav followed a moment later.
-
-“Bus in fifteen.”
-
-“I know,” Enzo said.
-
-Scott stood and reached for his towel.
-
-“Fourteen.”
-
-Enzo stared at him. “You save all your words for violence.”
-
-Scott left without answering.
-
-Leo laughed. Gav shook his head and followed them out.
-
-Only Taiga and Leo remained.
-
-Silence lasted approximately eight seconds.
-
-“So,” Leo said, “that run before the second goal was good.”
-
-Taiga rinsed shampoo from his hair.
-
-“The pass was obvious.”
-
-“It was obvious after you moved. That's the whole point.”
-
-“You had the ball facing forward and the fullback stepped.”
-
-“Yeah, but at tryouts you would've waited until I had the ball and then started running. Today you went while he was still deciding whether to step. That's different.”
-
-Taiga glanced at him. Leo continued, talking with his hands despite being under running water.
-
-“You're watching people now. Shoulders, hips, where the defender's looking. You're still late sometimes, obviously, but everybody is. Football would be unbearable if everyone guessed right every time.”
-
-The words *shoulders, hips* did not help Taiga's concentration.
-
-“You aren't late that often.”
-
-Leo laughed.
-
-“Dude, I am late constantly.”
-
-“I've watched you.”
-
-The sentence sounded different once it existed outside his head.
-
-“With St. Vincent,” Taiga added.
-
-“Then you have selective memory, because St. Vincent took the ball off me like six times. Two of those were me trying to be clever when the boring pass was right there.”
-
-“You created two chances.”
-
-“So what? Both things happened.”
-
-Taiga rinsed the last shampoo out.
-
-“You're annoyingly normal about mistakes.”
-
-For once, Leo didn't answer immediately. Water ran against the tile.
-
-“I don't know if I'm normal about them,” he said. “I just hate turning one mistake into the next five minutes. If I screw up a pass and spend the next play thinking about the pass, congratulations, now I bought two mistakes for the price of one.”
-
-“That sounds healthy.”
-
-Leo laughed once.
-
-“It sounds healthy. Whether I actually manage it every time is another question.”
-
-Taiga didn't answer immediately. He lost himself in his thoughts for a while.
-Then looked over again.
-His attention dipped a little too far.
-
-“Floor's that interesting?”
-
-Taiga looked up. Leo's mouth had gone crooked.
-
-“I was thinking.”
-
-“Sure.”
-
-He could feel his face starting to redden.
-
-“About the mistakes.”
-
-Leo held the look for another second, then let him have it.
-
-“Alright.”
-
-“Shut up.”
-
-Leo laughed and reached for the shower handle.
-
-“We should hurry. Bus is leaving soon.”
-
-“Yeah.”
-
----
-
-## Scene 3 — That night
-
-> **SOURCE:** old Draft Ch. 4 masturbation sequence, copied verbatim.
->
-> **MOVE:** This follows the second shower above.
->
-> **EDIT LATER, NOT NOW:** tighten only if pacing requires it. The core logic already works:
-> Taiga tries not to think about Leo → does anyway → gets off → refuses to investigate what that means.
->
-> This must remain **before** any information that Leo may not be into girls.
-
-At 2:17 that night, Taiga woke up.
-
-For several seconds he lay still, staring into the dark and trying to work out what had pulled him awake.
-
-Then his brain supplied the answer.
-
-White tile.
-
-Running water.
-
-Leo turning beneath the shower.
-
-Taiga shut his eyes.
-
-“Fuck.”
-
-The word barely made sound.
-
-Across the room, Caleb did not move. His blanket rose and fell with slow, regular breaths. The digital clock beside his bed cast a faint blue rectangle across the wall.
-
-Taiga rolled onto his side, facing away from him.
-
-This was stupid.
-
-He had seen naked men before. Camp showers existed. Yoichi had once made privacy seem like a personal insult. He had seen Leo naked before, too.
-
-None of this qualified as new information.
-
-His body apparently disagreed.
-
-Taiga pulled the blanket higher and waited for the problem to resolve itself.
-
-It did not.
-
-Instead, the shower came back in pieces.
-
-Leo's shoulders when he'd turned around. Water running down the narrow line of his back. His waist. The glance Taiga had absolutely not needed to take lower down.
-
-*Floor's that interesting?*
-
-That crooked smile afterward.
-
-Taiga pressed his face into the pillow.
-
-Great.
-
-He tried thinking about the match instead. Aaron's goal. Mercer's comment. The run before the cutback. Useful things. Football things.
-
-Leo had been in those too.
-
-Of course he had.
-
-Another minute passed.
-
-Caleb slept through six alarms most mornings. Taiga had watched an entire electronic ecosystem scream at him while he remained mostly unconscious.
-
-He looked over his shoulder anyway.
-
-Nothing.
-
-“This is fucking ridiculous,” he whispered.
-
-No response.
-
-Fine.
-
-Taiga turned back toward the wall and slipped one hand beneath the blanket.
-
-Every tiny movement suddenly sounded enormous. Fabric shifting. Mattress springs. His own breathing. He stopped when Caleb moved, but Caleb only rolled farther toward the wall and went still again.
-
-Taiga waited.
-
-Then continued.
-
-He tried, briefly, not to think about anyone in particular.
-
-That lasted maybe ten seconds.
-
-His mind gave him Leo again with insulting precision: wet hair pushed back from his forehead, water on his chest, the easy way he'd stood there talking as if being completely naked in front of Taiga were the least interesting thing happening in the room.
-
-Then lower.
-
-Taiga's breath caught.
-
-Fuck it.
-
-He stopped trying to replace the image.
-
-Leo laughing. Leo turning. The shape of him from behind. That stupid round ass Taiga had already noticed once and apparently had not forgotten. The open showers had left nowhere useful to look, and his memory had apparently kept considerably more than he wanted to admit.
-
-His pace quickened.
-
-Caleb kept sleeping.
-
-Taiga bit the inside of his cheek and kept quiet.
-
-As he neared his climax, he rolled onto his back and pulled up his shirt.
-God, that would be a really bad moment for Caleb to wake up.
-
-Taiga bit the hem of his shirt to keep it raised and continued stroking his dick. Harder. Faster.
-Right before cumming, he kicked the blanket away. Barely in time.
-He closed his eyes and made a muffled “ugh” sound, biting hard into his shirt.
-His whole body arched upward as he started shooting.
-The first bursts reached his chest, then his abdomen.
-Eventually, the rest slowly dripped from his hand.
-
-Taiga glanced at Caleb. Nothing. Thank God.
-
-He started catching his breath again.
-
-Then nothing.
-
-Dark room. Caleb breathing. The clock now read 2:44.
-
-Taiga stared at the ceiling, finally releasing his shirt from his teeth, breathing heavily.
-
-“Fuck,” he whispered.
-
-He stayed still until his breathing settled, then slipped out of bed, cleaned himself up in the bathroom and returned as quietly as possible. Caleb never moved.
-
-Back under the blanket, embarrassment arrived now that the physical problem was gone.
-
-Taiga refused to do anything with it.
-
-He'd been horny. He'd seen an attractive guy naked a few hours earlier. His brain had used what was available.
-
-That was it.
-
-He was not holding an investigation at two-thirty in the fucking morning.
-
-Taiga turned the pillow over, closed his eyes and went back to sleep.
-
----
-
-## Scene 4 — Caleb and Maya / Taiga wants them there
-
-> **SOURCE:** old Draft Ch. 5, copied verbatim.
->
-> **CUT/ADAPT LATER:** the cardboard-bridge material at the top is no longer needed for Ch. 5. Do not rewrite the useful match-invitation exchange; simply enter the source later, around the point where Maya notices Taiga looking at Northbridge.
->
-> Preserve:
-> - “Oh, we're going.”
-> - Caleb asking **“Do you want me there?”**
-> - Taiga realizing he actually does.
-> - “If you want.”
->
-> Maya should remain warm rather than acting as a generic extrovert dragging Caleb somewhere.
-
-Friday, Maya arrived at room 317 carrying a cardboard bridge and a bag of takeout. Taiga opened the door. She held up the food.
-
-“Peace offering.”
-
-“For what?”
-
-“I'm stealing Caleb.”
-
-“You can keep him.”
-
-Maya entered. The bridge had survived the competition. Mostly. One support was cracked. Caleb immediately took it from her.
-
-“What happened?”
-
-Maya kicked the door shut with her heel.
-
-“It held forty-eight point six.”
-
-Caleb looked at her.
-
-“Forty-eight?”
-
-“Forty-eight point six.”
-
-“That is six point six more than the test model.”
-
-“I know.”
-
-Caleb put the bridge carefully on his desk. Taiga looked between them.
-
-“So you won?”
-
-Maya made a face.
-
-“Third.”
-
-Caleb said:
-
-“They overloaded the joint.”
-
-“We did not.”
-
-“You did.”
-
-“We got third.”
-
-“You could have gotten first.”
-
-Maya dropped onto Caleb's bed.
-
-“Can I celebrate for five minutes before you perform the autopsy?”
-
-Caleb stopped. Looked at her. Then at the bridge. Then back at her.
-
-“Yes.”
-
-“Thank you.”
-
-He sat beside her. Maya handed him a container of noodles. Taiga took his own.
-
-“You brought me food too?”
-
-“You're easier to tolerate when fed.”
-
-“Fair enough.”
-
-They ate. Maya talked. Mostly about the competition. Then about a professor who had somehow uploaded the wrong assignment sheet for three different classes. Caleb listened. Taiga half-listened while reading Northbridge's athletics page on his laptop. Maya eventually noticed.
-
-“Are you stalking someone?”
-
-“No, I'm not.”
-
-She leaned.
-
-“Oh, soccer.”
-
-“I start tomorrow.”
-
-Caleb looked up immediately.
-
-“You didn't tell me.”
-
-Taiga frowned.
-
-“I thought I did.”
-
-“No.”
-
-Maya pointed at Caleb.
-
-“He's offended.”
-
-“I am not offended.”
-
-“You have the offended forehead.”
-
-Taiga looked at him. Caleb frowned.
-
-“What is an offended forehead?”
-
-Maya touched the space between his eyebrows.
-
-“This.”
-
-Caleb moved her hand away.
-
-“That is just my forehead.”
-
-Taiga laughed. Caleb looked at him.
-
-“You are not allowed to participate.”
+“Being nervous.”
 
 “Why?”
 
-“You encouraged this.”
+“Because it's not even an important game.”
 
-“I did not.”
+Keitaro's expression stayed neutral.
 
-“You absolutely did.”
+“So what?”
 
-Maya smiled.
+“So if I fuck it up, nobody cares.”
 
-“Anyway, what time tomorrow?”
+“Except you.”
 
-Taiga looked at Caleb.
+“That doesn't make it important.”
 
-“Three.”
+“To you, it does.”
 
-Caleb nodded.
+Taiga rubbed his thumb against the edge of the phone case.
 
-“Where exactly?”
+“I know.”
 
-“Reserve field.”
+Keitaro waited. Longer sentences had become easier with him. Not easy. Easier. Taiga sighed.
 
-Maya looked between them.
+“I keep thinking that if I play badly, Mercer is going to look at me and wonder why he bothered.”
 
-“Oh, we're going.”
+“Has he given you any reason to think that?”
 
-Taiga froze.
-
-“We?”
-
-Caleb looked at Maya.
-
-“You have expanded the plan without consultation.”
-
-Maya ignored him.
-
-“You're his roommate. You have to.”
-
-“No, he doesn't.”
-
-Caleb looked at Taiga.
-
-“Do you want me there?”
-
-Taiga's reflex said no. Then he imagined looking toward the small stand and seeing Caleb sitting there, probably expressionless, probably analyzing the field markings instead of the match. Weirdly— He wanted that.
-
-“If you want.”
-
-Caleb nodded.
+“No, he hasn't.”
 
 “Okay, then.”
 
-Maya smiled.
+“And spare me the evidence thing. I know.”
 
-“I'll come too.”
+Keitaro smiled.
 
-Taiga pointed at her with his fork.
+“I was going to say maybe you're allowed to be nervous because you're doing something new.”
 
-“I didn't invite you.”
+Taiga looked away.
 
-“You just did indirectly.”
+“That sounds worse.”
 
-“That isn't how invitations work.”
+“Why?”
 
-Caleb said:
+“Because it sounds reasonable.”
 
-“I agree with Taiga.”
+Keitaro laughed. Taiga let the dryer noise fill the silence for a moment. Then Keitaro asked:
 
-Maya looked betrayed.
+“You still like it?”
 
-“Wow.”
+“Soccer?”
+
+“Yeah.”
+
+Taiga thought.
+
+“More than I expected.”
+
+“That sounds promising.”
+
+“It also pisses me off constantly.”
+
+“That sounds even more promising.”
 
 Taiga smiled.
 
-“But you can come.”
+“Mercer keeps telling me I try to fix mistakes immediately.”
 
-Maya leaned back triumphantly.
+Keitaro nodded.
 
-“See?”
+“Sounds familiar.”
 
-Caleb frowned.
+Taiga looked at him.
 
-“You changed the outcome after making the rule.”
+“You really want to die tonight.”
 
-“Yes.”
+“No, I'm just saying—”
 
-“That is inconsistent.”
+“Then stop saying it.”
 
-“Welcome to people.”
+Keitaro held up both hands.
 
-Caleb looked genuinely dissatisfied with this. Taiga laughed.
+“All right, fine.”
+
+Taiga checked the dryer. Forty-two minutes.
+
+“Anyway.”
+
+“Will you send me the result?”
+
+“Maybe. I don't know.”
+
+“Taiga, come on.”
+
+“I will.”
+
+Keitaro smiled.
+
+“That's good.”
+
+Taiga hesitated.
+
+“How's Hiro?”
+
+“He is very stressed for his exam.”
+
+“Why?”
+
+“Because he's convinced he's failing.”
+
+“Is he?”
+
+“No, he isn't. He got eighty-seven on the last one.”
+
+Taiga snorted.
+
+“Tell him he's an idiot.”
+
+“I have.”
+
+“Tell him again.”
+
+“I'll say it came from you.”
+
+“That's good.”
 
 ---
 
-## Scene 5 — Saturday morning
+## Scene 3 — Saturday: bench, waiting, first minutes
 
-> **SOURCE:** old Draft Ch. 5, copied verbatim.
+> **MAJOR EVENT #1**
 >
-> This already fits the new chapter very closely. Preserve the direct **“Are you scared?” / “Yeah, I am.”**
+> Final rendered length for **the bench + Taiga's actual minutes combined: 1,000–1,500 words maximum.**
 >
-> Caleb's advice is useful specifically because it is concrete rather than therapeutic.
-
-Saturday morning moved too slowly. Taiga woke at seven. The match was at three. He tried reading. Nothing stayed in his head. He tried playing something on his laptop. Quit after fifteen minutes. He cleaned his boots. They were already clean. Caleb watched all of this from his desk.
-
-At 10:13, he said:
-
-“You are pacing.”
-
-Taiga stopped.
-
-“No, I'm not.”
-
-“You have walked between the window and your bed fourteen times.”
-
-Taiga looked at the floor.
-
-“I'm thinking.”
-
-“You can think while sitting.”
-
-“It’s not the same.”
-
-Caleb considered.
-
-“No.”
-
-Taiga glanced at him.
-
-“No what?”
-
-“You look worse when you sit.”
-
-Taiga frowned.
-
-“Thanks.”
-
-“When you sit, you bounce your leg.”
-
-Taiga looked down. His leg was still.
-
-“I'm standing.”
-
-“Yes.”
-
-Taiga sighed. Caleb returned to his reading. After a minute:
-
-“Are you scared?”
-
-Taiga looked over. Caleb didn't soften the question. Didn't decorate it. Just asked.
-
-“Yeah, I am.”
-
-Caleb nodded. Taiga waited. Nothing.
-
-“What?”
-
-“What is it?”
-
-“You asked if I'm scared.”
-
-“Yes.”
-
-“And then?”
-
-Caleb looked confused.
-
-“What do you want me to say?”
-
-“I don't know.”
-
-“Then I don't know either.”
-
-Taiga laughed despite himself.
-
-“Jesus.”
-
-Caleb was quiet for a moment. Then he closed his book.
-
-“Maya gets scared before presentations.”
-
-Taiga leaned against the desk.
-
-“Okay, then.”
-
-“She says it helps if she knows exactly what happens before the presentation.”
-
-Taiga listened.
-
-“So she writes the first five minutes out. Where she goes, what she opens, what she says.”
-
-Taiga frowned.
-
-“I know what happens before the game.”
-
-“Then maybe think about that instead of the game.”
-
-Taiga considered. Locker room. Warm-up. Team talk. Walk out. Whistle. First five minutes. Concrete. Edges.
-
-“That's not terrible advice.”
-
-Caleb nodded.
-
-“Maya is useful.”
-
-“You could've said it was your advice.”
-
-“It wasn't.”
-
-Of course. Taiga checked the time again. 10:16. Still four hours and forty-four minutes. Fuck.
-
----
-
-## Scene 6 — Pre-match + Northbridge + Scott
-
-> **SOURCE:** old Draft Ch. 5, copied verbatim through Scott's **“Next one was clean.”**
+> Do not recreate the old 82-minute match.
 >
-> This is the main spine of the chapter. Do not rewrite it from scratch.
+> ### Before kickoff
 >
-> **EDIT LATER ONLY FOR:**
-> - football readability for non-football readers;
-> - Final player-name / role continuity;
-> - sentence-level POV/style alignment with Final Ch. 1–4;
-> - trimming duplicated explanation.
+> Taiga is on the bench by default, as he has been for previous reserve fixtures.
 >
-> Protect these beats exactly:
-> - one clean touch / one easy pass;
-> - the turnover leading into 0–1;
-> - ***Fix it.***
-> - Mercer stopping the impulse;
-> - Scott: **“RESET! NEXT ONE!”**
-> - Taiga doing nothing special for several minutes;
-> - second-half contribution;
-> - Leo scoring from Taiga's ball;
-> - Caleb's raised hand;
-> - Scott: **“Next one was clean.”**
-
-By 2:28, Taiga was in the reserve locker room. He had followed Caleb's advice without admitting it. Bag under bench. Training top. Tape left wrist. Boots last. Water bottle filled. Warm-up at 2:35. Mercer talk at 2:50. Tunnel at 2:57. Kickoff at three.
-
-Around him, teammates talked normally. That was offensive. Aaron was arguing about a movie. Evan was scrolling through his phone. Enzo was trying to convince Gav that Northbridge's away kit looked “like wet cement.” Scott sat near the end of the bench eating half a banana and saying absolutely nothing.
+> Leo is part of the match group as well. He may start or simply be expected to play substantial minutes. The point is that a reserve fixture is a developmental squad game, so his presence is ordinary.
+>
+> The source dialogue below is useful, but the old context must change:
+> - Taiga is **not starting**;
+> - delete the line that Leo is also on the bench because of first-team minutes if we decide Leo starts;
+> - remove the Caleb-advice callback;
+> - preserve the boot joke / one-clean-touch advice if it still fits.
+>
+> **SOURCE POOL — old Draft Ch. 5:**
 
 Taiga tied his left boot. Untied it. Retied.
 
@@ -1113,11 +457,43 @@ Leo stood and bounced once on the balls of his feet.
 
 “That doesn't improve it.”
 
-Leo grinned. Then Mercer entered. The room changed instantly. Conversation died.
-
-Taiga looked at his boots. One thing at a time.
-
----
+> ### Bench waiting — NEW, brief
+>
+> Let Taiga actually wait.
+>
+> Useful beats:
+> - kickoff happens without him;
+> - for once he watches the match knowing Mercer has already told him he is likely to enter;
+> - every substitution movement becomes relevant;
+> - he starts reading the opposing fullback / space because he may need that information;
+> - Leo playing gives him an easy visual anchor for understanding the reserve-match level;
+> - Mercer eventually says **“Akatora. Warm up.”**
+>
+> Do not spend hundreds of words on tactics. The emotional event is hearing his name.
+>
+> ### First minutes
+>
+> Salvage the strongest material from the source below, but **compress aggressively**.
+>
+> We need:
+> - first touch / first pass not clean;
+> - physical difference feels real;
+> - he settles through simple actions;
+> - one moment where his instinct is to overcorrect after a mistake;
+> - a “next action” correction from Scott / Mercer if it still serves the chapter;
+> - by the end, Taiga is actually playing rather than surviving an examination.
+>
+> We do **not** need:
+> - Taiga's turnover directly causing a dramatic 0–1 unless it earns its space;
+> - halftime tactical board material;
+> - a full comeback;
+> - Taiga assisting the winner;
+> - 82 minutes;
+> - Caleb/Maya in the stand.
+>
+> The achievement is simply: **Mercer put him on the field, and Taiga wants more minutes afterward.**
+>
+> **SOURCE POOL — old Draft Ch. 5:**
 
 The first five minutes were terrible. Not disastrous. That would have been easier to classify. Just terrible. Taiga's first touch bounced too far. His second pass went backward and almost got intercepted. He misread a run and ended up occupying the same space as his own midfielder. Northbridge's right-back was bigger than him. Not slightly. Significantly. Northbridge seemed to like football that way: direct, physical, every loose ball turned into a fight. Even their throw-ins went as far forward as somebody could launch them.
 
@@ -1197,282 +573,164 @@ The defender nodded. Whistle. Restart.
 
 Taiga did absolutely nothing special for the next four minutes. That might have been the hardest thing he'd done all afternoon. Simple pass. Press. Track runner. Another simple pass. Then a tackle. Then a run. The mistake remained. But it stopped growing.
 
-By halftime, still 0–1.
-
-Taiga walked to the bench drenched in sweat. Mercer met him halfway.
-
-“What happened on the goal?”
-
-Taiga swallowed.
-
-“I turned without enough space.”
-
-“And then?”
-
-“I had the inside pass.”
-
-“Good. Drink.”
-
-Taiga sat.
-
-Aaron handed him water.
-
-“You're fine.”
-
-Taiga drank.
-
-“I gave them the goal.”
-
-“You gave them possession.”
-
-“They scored from it.”
-
-“Yeah.”
-
-Aaron shrugged. “Both happened.”
-
-Before Taiga could answer, Gav crouched in front of the tactics board beside Mercer.
-
-“The midfielder with the red boots keeps watching the ball,” Gav said. “When you move inside, he loses you.”
-
-Mercer nodded once.
-
-Leo dropped into the empty spot beside Taiga.
-
-“And fourteen keeps waiting for you outside.”
-
-Taiga looked between them.
-
-Gav tapped the board. “Make one of them choose. Don't force it.”
-
-“Curly guy?” Taiga asked.
-
-Leo grinned. “Red boots. See? Now we're speaking the same language.”
-
-Mercer called everyone in.
-
-Gav stood. “Simple first. Then hurt them.”
-
-Leo slapped Taiga lightly on the shoulder as he got up.
-
-“See? Professional advice.”
-
-Taiga looked at him. “Yours was about touching paint.”
-
-“Also professional.”
-
 ---
 
-He stayed on for the second half. That surprised him. Mercer could have substituted him. Didn't.
+## Scene 4 — Post-match shower: second glance
 
-Olympus equalized in the fifty-sixth minute from a corner. Taiga wasn't involved. He celebrated anyway.
+> **SOURCE:** old Draft Ch. 5, copied below.
+>
+> This is **not** a major scene anymore.
+>
+> Final version should probably be only ~150–300 words.
+>
+> Preserve:
+> - Leo opposite him again;
+> - Taiga's eyes betray him once;
+> - same physical result as Ch. 3;
+> - Taiga immediately redirects his attention.
+>
+> Cut:
+> - all Caleb spectator discussion;
+> - any long conversation needed only by the old first-start structure.
+>
+> This is enough to establish that Ch. 3 was not a one-off.
+>
+> **SOURCE POOL:**
 
-At sixty-five, Mercer sent Leo on as the ten, behind the striker. He immediately began shouting.
+Most people had already gone. He took his usual stall. Water hot. Head down. His muscles gradually loosened.
 
-“Higher! Higher! Come on!”
+Someone entered the stall opposite. Leo. Again. Apparently they had synchronized hygiene now. Taiga did not find that funny.
 
-He clapped at the fullback. Pointed. Pressed. Called for the ball. Lost it. Chased it. Won a throw. Turned toward the bench with both arms raised like he'd accomplished something magnificent.
+Leo pulled his shirt off first. Then shorts. Taiga looked away automatically. Not dramatically. Just basic locker-room etiquette. Then Leo turned around to hang his towel. Taiga's eyes betrayed him once.
 
-Aaron shouted:
+Same result as before.
 
-“THROW-IN OF THE YEAR!”
+Lean waist. Strong thighs. That stupidly round ass.
 
-Leo bowed.
+Taiga looked at the shampoo bottle. Immediately.
 
-Enzo, warming up nearby, added, “BUILD THE STATUE!”
+The label said **SPORT MINT ACTIVE**. He had read it four times now.
 
-The stand laughed. Taiga shook his head, smiling.
+Across the aisle, Leo turned the shower on.
 
-Idiot.
+They showered in silence for a while. Taiga preferred it.
 
-The match opened up. Northbridge tired. Red boots stopped following. Leo and Gav had been right.
+Then Leo said:
 
-At seventy minutes, Taiga drifted inside. Fourteen followed halfway. Red boots looked toward the ball instead of Taiga.
+“I saw you got support today.”
 
-Taiga kept moving.
-
-The pass came. He turned.
-
-For once, nobody was close enough.
-
-Leo was sprinting on the opposite side. Center-forward checking short. Fullback overlapping left. Too many choices. Taiga saw the easiest one.
-
-Played forward into the striker. Continued his run. Return ball. Now right-back was behind him. Taiga entered the box. Goalkeeper shifted. Shoot? Angle tight. He saw Leo arriving far post. Crossed low. Defender got a foot. Ball changed direction. Leo adjusted. Hit it first time.
-
-Goal.
-
-2–1.
-
-The Olympus bench exploded.
-
-Leo ran toward the corner, arms out. Taiga stopped for half a second. Assist? Technically maybe. Deflection. Whatever.
-
-Leo turned mid-run and saw him.
-
-Pointed.
-
-“TAIGA!”
-
-Then changed direction and ran straight back toward him. Taiga barely had time to react before Leo jumped into him. An arm around his shoulders.
-
-“THAT'S IT!”
-
-Taiga laughed despite himself.
-
-“You almost missed.”
-
-“Fuck you, that was beautiful.”
-
-Aaron arrived from the bench somehow. Then Evan. Then three others. Enzo came last and nearly flattened all of them from behind.
-
-“WE HAVE CREATED FOOTBALL!”
-
-“Get off!” somebody shouted.
-
-For a few seconds there was no room to think about anything except noise and sweat and somebody's elbow against his back.
-
-Then Scott's voice tore through the celebration from thirty yards away.
-
-“GET BACK! SHAPE!”
-
-Mercer echoed him a second later.
-
-Everyone scattered.
-
-Leo jogged beside Taiga. Still smiling.
-
-“Nice ball.”
-
-“Yeah. Good finish.”
-
-“See? We can be civilized.”
-
-“Don't ruin it.”
-
-Leo laughed and sprinted away.
-
----
-
-Olympus won 2–1. Taiga played eighty-two minutes. When Mercer finally substituted him, his legs barely worked. He walked off to applause from approximately thirty people. Not exactly a stadium roar. Still.
-
-Caleb was in the stand. Taiga saw him immediately. Maya beside him. Caleb raised one hand. No jumping. No screaming. Just a hand.
-
-Taiga smiled. Then caught himself smiling and looked away.
-
-Aaron saw.
-
-“That’s your roommate?”
-
-“Yeah.”
-
-“Supportive guy.”
-
-“He'll probably tell me my positioning was inefficient.”
-
-Aaron laughed.
-
-“That counts.”
-
----
-
-In the locker room afterward, Taiga sat for a long time before showering. His body had that strange post-match heaviness where every movement felt delayed. Socks off. Tape off. Shirt. Shorts. He had a bruise beginning on one hip from Northbridge's right-back.
-
-Evan walked past.
-
-“First start.”
-
-Taiga nodded.
-
-“Yeah.”
-
-“You did okay.”
-
-Taiga looked up.
-
-“Okay?”
-
-Evan grinned.
-
-“I'm not feeding your ego.”
-
-“You don't have enough information to feed anything.”
-
-“You conceded possession for their goal.”
-
-Taiga's stomach tightened. Then Evan continued:
-
-“And then you didn't lose your head, which is probably more important.”
-
-Taiga looked at him. Evan shrugged.
-
-“You know you would've three weeks ago.”
-
-He was right. Taiga hated that.
-
-“Maybe.”
-
-“Good game.”
-
-“...Thanks.”
-
-Evan left.
-
-Scott walked past a moment later carrying his gloves under one arm.
-
-“Next one was clean.”
-
-Taiga looked up.
+Taiga looked toward the frosted panel.
 
 “What?”
 
-“After the goal. First pass.”
+“There was a guy and a girl who shouted at you.”
 
-Then Scott kept walking.
+“Yeah, my roommate and his girlfriend.”
 
-Taiga stared after him.
+“That’s nice! I remember him. He opened Apollo for me when I forgot my card.”
 
-Apparently that was a compliment.
+“Yeah, he mentioned that.”
+
+“Good to know I made an impression.”
+
+“You’re difficult to ignore.”
+
+“That is the nicest thing you’ve ever said to me.”
+
+“That’s a low bar. And it wasn’t actually a compliment.”
+
+“It was to me.”
+
+Taiga smiled.
+
+Leo rinsed shampoo from his hair.
+
+“Does he like soccer?”
+
+“No.”
+
+“Then why'd he come?”
+
+“Because I asked.”
+
+Simple answer.
+
+Leo nodded.
+
+“That's nice.”
+
+“Yeah.”
+
+Taiga shut off the water. Stepped out. Wrapped the towel around himself.
+
+Leo's curtain opened a few seconds later. Taiga was pulling on underwear when Leo came out, towel low around his hips, hair dripping. Taiga looked once. Then pulled on his shirt.
 
 ---
 
-## Scene 7 — Transition into dinner
+## Scene 5 — Invitation to dinner
 
-> **NEW / MINIMAL CONNECTIVE MATERIAL NEEDED**
+> **MINIMAL BRIDGE.**
 >
-> The old Draft places the second shower here and uses it to deliver the dinner invitation.
-> The second shower has now moved earlier so the masturbation beat can precede the sexuality reveal.
+> Reuse the old post-match invitation rather than inventing another social setup.
 >
-> Therefore **do not invent a new social scene**.
-> Reuse the old invitation dialogue from Ch. 5, but restage it in the locker room after the match:
+> Leo / Enzo mention food.
 >
-> - Leo mentions Enzo organizing tacos.
-> - Taiga asks how many.
-> - “Seven? Eight?”
-> - “Still a lot.”
-> - Leo: **“Come once. If you hate it, you never have to do it again.”**
-> - Taiga: **“Where exactly?”**
-> - Tacos.
-> - **“All right, fine.”**
+> Taiga asks how many.
 >
-> This should be only a short bridge into the copied dinner below.
+> Seven or eight still sounds like too many people.
+>
+> Preserve the useful old exchange:
+>
+> > “Come once. If you hate it, you never have to do it again.”
+>
+> Taiga hesitates, asks where, and goes.
+>
+> This is **not** yet Ch. 9's deliberate decision to organize his night around these people.
+>
+> He is already with them after a match, he is hungry, and he accepts the invitation instead of immediately going back to room 317.
+>
+> That is enough.
 
 ---
 
-## Scene 8 — Team dinner + dating ambiguity
+## Scene 6 — Team dinner + Zoe
 
-> **SOURCE:** old Draft Ch. 5 dinner, copied verbatim.
+> **MAJOR EVENT #2**
 >
-> **IMPORTANT:** the source still says **Mia** because this is an untouched source transplant.
-> In Final continuity, this role belongs to **Zoe**.
+> **SOURCE:** old Draft Ch. 5 dinner, copied verbatim below.
 >
-> Do **not** simply global-replace the name and call it done.
-> When editing this scene:
-> - preserve usable staging/dialogue;
-> - rewrite only the lines that need Zoe's actual Final voice;
-> - keep Zoe chaotic, fandom-flavored, pragmatic and competent;
-> - preserve the blunt dating question and the information that, as far as Zoe knows, Leo is not really into girls.
+> Do not rebuild the scene from zero. Much of the ensemble material is useful.
 >
-> Because the masturbation scene now occurs earlier, the reveal can stay in this dinner without causing the attraction.
+> ### Required adaptations
+>
+> - **Mia → Zoe**, but not as a blind name replacement.
+> - Preserve source staging/dialogue wherever Zoe would plausibly say/do the same thing.
+> - Rewrite only what must change to fit Zoe's locked Final voice:
+>   - chaotic / weeb;
+>   - CS student;
+>   - technically competent;
+>   - pragmatic;
+>   - socially direct.
+> - Trim football debrief if the match section already did enough.
+> - Preserve Leo overscheduling himself; it adds character texture without making the chapter about romance.
+>
+> ### Romantic beat
+>
+> Taiga eventually asks whether Zoe and Leo are dating.
+>
+> Zoe says no.
+>
+> She adds, as **her impression**, that Leo does not seem particularly interested in girls.
+>
+> This happens **after** Taiga has already physically noticed Leo twice across Ch. 3 and Ch. 5.
+>
+> Taiga's response remains small.
+>
+> No masturbation scene. No identity analysis. No sudden realization.
+>
+> He simply likes / notices the information more than the question should warrant.
+>
+> **SOURCE POOL:**
 
 It ended up being eight people. Taiga almost turned around. Then he saw the tables outside and realized they could spread out. Fine.
 
@@ -1944,27 +1202,30 @@ Taiga smiled.
 
 ---
 
-## Scene 9 — Old closing material
+## Scene 7 — Room 317 close
 
-> **SOURCE:** old Draft Ch. 5, copied verbatim.
+> **SOURCE:** old Draft Ch. 5, copied below.
 >
-> Most of this can still be reused.
+> Keep the **“fine differently”** material if it still lands after the rewritten dinner.
 >
-> **LIKELY CUT:** the final explanatory paragraph beginning “His first start was over...” because the rewritten chapter should not explain again what the match already showed.
+> Caleb does **not** need to have attended the match.
 >
-> Decide the final cut only after the chapter is assembled in full.
-
-Caleb and Maya were still awake when Taiga got back. Maya sat cross-legged on Caleb's bed. Caleb was at his desk. They both looked over. Maya smiled.
-
-“You won.”
-
-Taiga shut the door.
-
-“You were there.”
-
-“I know. I'm congratulating you afterward.”
-
-“Oh, right.”
+> Maya can simply be visiting room 317 when Taiga returns.
+>
+> Preserve the useful social payoff:
+> - Caleb asks how dinner was;
+> - Taiga says “fine” incorrectly;
+> - eventually admits it was actually good;
+> - Caleb refuses to catalogue the emotion because Taiga previously asked him not to.
+>
+> Cut all old references to:
+> - Caleb/Maya being at the match;
+> - Taiga starting;
+> - 82 minutes;
+> - assist;
+> - the explanatory match-summary ending.
+>
+> The closing should stay on the social experience / quiet sense that he enjoyed himself, not explain the chapter's theme.
 
 Caleb asked:
 
@@ -2078,28 +1339,39 @@ Taiga lay back on his bed. His legs ached. His shoulder hurt. The bruise on his 
 
 Worth it.
 
-His phone buzzed. Camp Buddy group. Keitaro.
+---
 
-**Keitaro:** RESULT???
+## Current chapter shape
 
-Taiga smiled. He sent:
+**Mercer says expect minutes → Taiga realizes he cares → waits → first Olympus minutes → brief repeated attraction → stays for dinner → Zoe changes the available information → Taiga admits the evening was good**
 
-**Taiga:** 2-1
+## Pacing target
 
-Then, after a second:
+This does **not** need another major subplot to reach chapter length.
 
-**Taiga:** started. 82 mins. assist.
+Approximate balance:
+- Mercer opening: **300–500**
+- Keitaro: **800–1,200**
+- bench + match: **1,000–1,500 MAX**
+- shower: **150–300**
+- invitation + dinner: **2,000–3,000**
+- room 317 close: **500–800**
 
-He watched the typing indicators appear. All of them. At once. He already knew what was coming. Hiro would overreact. Keitaro would send hearts. Hunter would say something sincere enough to make Taiga uncomfortable. Natsumi would congratulate him properly. Yoichi would call him Messi and then immediately insult his height.
+Expected chapter: roughly **5–7k**, depending on how much of the dinner survives.
 
-Taiga put the phone face down. Let it buzz. He'd read them in a minute.
-
-For now the room was warm.
-
-Maya and Caleb were arguing quietly about whether a bridge could be aesthetically ugly but structurally elegant. Rain had started again outside. His boots were drying near the radiator.
-
-His first start was over. He had made a mistake that led to a goal. He had not fixed it immediately. He had played another fifty minutes. They had won.
-
-Taiga lay there and let them be true.
+The chapter's weight should be split between:
+1. **first participation in Olympus football**, and
+2. **first substantial participation in the team's social space**.
 
 ---
+
+## Material explicitly removed / deferred
+
+- old first-start lineup reveal;
+- full training scene;
+- Caleb/Maya spectator invitation;
+- Saturday-morning presentation advice;
+- 82-minute match;
+- dramatic assist / winner as required payoff;
+- Hunter exhibition tangent;
+- masturbation scene — **unplaced for now, not automatically moved to Ch. 6**.
