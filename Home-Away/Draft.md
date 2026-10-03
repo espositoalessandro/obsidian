@@ -55,38 +55,195 @@
 
 ## Scene 1 — Opening: Mercer tells him to expect minutes
 
-> **NEW MATERIAL — keep short.**
->
-> Open after an ordinary training session or during the usual post-training dismissal.
->
-> Establish in only a few lines that reserve Saturdays have already become routine:
-> - Taiga dresses with the squad;
-> - sits on the bench;
-> - warms up when told;
-> - has not been used yet.
->
-> Do **not** make this sound humiliating or like a failed promotion. This is simply how Mercer has been introducing him to organized college football.
->
-> Then Mercer stops him:
->
-> > “Akatora.”
-> >
-> > Taiga turns.
-> >
-> > “Saturday. Expect to play at some point.”
->
-> Taiga immediately wants specifics.
->
-> Mercer does not give them.
->
-> > “How long?”
-> >
-> > “Depends.”
->
-> That uncertainty is useful. Taiga now knows he will probably play, but not when, how much, or under what game state.
->
-> **Purpose:** one small sentence makes the coming reserve match matter enormously to Taiga without pretending he has been promoted or named a starter.
+“Again.”
 
+Taiga jogged back into position.
+
+Mercer had been making them repeat the same sequence for fifteen minutes. Ball from one side to the other. Move. Pass. Reset.
+
+A few weeks ago, Taiga would have hated every second of it.
+
+Now he mostly hated that Evan kept being right.
+
+“Too close,” Evan said.
+
+“I know.”
+
+“You're still doing it.”
+
+“Then stop talking.”
+
+Evan smiled.
+
+The ball moved again.
+
+Taiga watched Gav receive it in the middle. Leo moved before Gav even looked up.
+
+Taiga moved too.
+
+The pass went somewhere else.
+
+Fine.
+
+They reset.
+
+Next time Leo made the same run. Taiga stayed wider.
+
+Gav passed to him instead.
+
+Taiga controlled it, sent it back inside and kept moving.
+
+“Good,” Mercer called.
+
+That was it.
+
+No whistle. No explanation.
+
+They kept going.
+
+It was starting to make more sense.
+
+Not all of it. Half the time somebody still moved somewhere Taiga wouldn't have expected and the ball followed them anyway.
+
+But not everything looked random anymore.
+
+Scott shouted before somebody got caught out.
+
+Gav pointed somewhere and, two passes later, the ball ended up there.
+
+Evan sometimes barely moved at all and still somehow ended up free.
+
+Leo moved constantly, which was less useful as a general rule.
+
+“AG!”
+
+Taiga looked over.
+
+Leo pointed behind him.
+
+Taiga stepped aside just before Aaron ran through the space.
+
+“Yeah, I saw him.”
+
+“Sure.”
+
+“Fuck off.”
+
+Leo laughed.
+
+Mercer blew the whistle.
+
+“Reset.”
+
+They went again.
+
+This time Taiga checked behind him first.
+
+Aaron was already there.
+
+Taiga stayed put.
+
+Aaron frowned.
+
+Taiga smiled.
+
+The ball went the other way.
+
+Good.
+
+Practice continued for another twenty minutes. Mercer corrected him twice. Evan corrected him once. Taiga ignored Leo three separate times on principle.
+
+Then Mercer finally blew the whistle.
+
+“That’s enough. Cool down.”
+
+Leo immediately dropped onto the grass.
+
+“Thank God.”
+
+Enzo walked past him.
+
+“You've contributed nothing for the last five minutes.”
+
+“I was conserving energy.”
+
+“For what?”
+
+“Tomorrow.”
+
+“What's tomorrow?”
+
+Leo stared up at him.
+
+“I don't know yet.”
+
+Taiga grabbed his water bottle.
+
+“Akatora.”
+
+He turned.
+
+Mercer was standing a few meters away.
+
+“What?”
+
+“Saturday. Reserve match.”
+
+Taiga waited.
+
+“Expect to play at some point.”
+
+He stopped drinking.
+
+“For how long?”
+
+“Depends.”
+
+“On what?”
+
+Mercer looked at him.
+
+“The match.”
+
+Taiga frowned.
+
+“That doesn't answer anything.”
+
+“It answers exactly what I know.”
+
+Right.
+
+Mercer started walking away.
+
+“So I'm definitely playing?”
+
+Mercer looked back.
+
+“I said expect to.”
+
+“That isn't the same thing.”
+
+“No.”
+
+Great.
+
+Then he left.
+
+Taiga stood there with the bottle still in his hand.
+
+He'd spent the last two reserve matches sitting on the bench. Warmed up once. Almost got called once. Nothing happened.
+
+Apparently something might happen Saturday.
+
+Leo shouted from behind him.
+
+“AG! You coming?”
+
+Taiga looked toward the locker room.
+
+“Yeah.”
+
+He followed.
 ---
 
 ## Scene 2 — Keitaro laundry call
