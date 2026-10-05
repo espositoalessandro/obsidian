@@ -321,9 +321,7 @@ His pulse was suddenly everywhere—throat, ears, fingertips. His breathing felt
 
 He turned: Aaron was in his space and Taiga had not moved. He jogged inside almost automatically.
 
-The ball moved at a totally different speed. Unknown faces were all around him, moving in ways he wasn't familiar with.
-
-"TAIGA! TRACK!"
+ "TAIGA! TRACK!"
 
 He suddenly heard Scott yelling at him from the goal. Right, track. 
 Taiga turned again towards the #4.
@@ -332,7 +330,7 @@ He took a deep breath. Alright, five minutes. He had to survive five minutes. Bo
 
 Taiga started easy. One touch, one pass. He scanned, then received. 
 The fullback was immediately on him, but Taiga didn't face him. He moved ten meters inside, then passed back. Nothing happened, good.
-Slowly, his breathing went back to normal and he was in a game again.
+Slowly, his breathing went back to normal.
 
 A minute later, he did it again, this time turning before the ball reached him because he already knew where the space was. Again, nothing happened.
 
@@ -347,6 +345,19 @@ A few minutes earlier, number four had seemed to fill half the pitch. Now he was
 
 A very large, very annoying defender.
 
+After that, the match stopped feeling like something happening to him.
 
+Taiga still had to work for every bit of space, and number four made sure none of it came easily. Twice he tried to take him down the line and nearly got shouldered straight over the touchline, which was enough to convince him that testing the guy's balance was probably a waste of time.
+
+So he stopped trying to beat him every time.
+
+Sometimes he passed inside. Sometimes he moved the ball back and started again. Once, when Aaron went past him, Taiga stayed wide and watched number four hesitate for half a second before following the run. That was enough.
+
+Nothing came from it, but that stopped mattering.
+Northbridge kept pressing. Olympus kept pushing back. Neither side found the goal.
+
+By the time the final whistle came, Taiga was tired, sweaty, and mildly furious that number four had nearly thrown him off the field twice.
+
+The score was 0-0, and it was okay.
 
 
