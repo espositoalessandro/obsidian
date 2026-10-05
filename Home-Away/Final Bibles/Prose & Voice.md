@@ -64,6 +64,30 @@ Do not force every subjective judgment into an italicized thought, and do not ma
 
 The narration must not become an omniscient emotional diagnosis of other characters.
 
+## 2.1 Free indirect style and grammatical elasticity
+
+Because the narration is tightly filtered through Taiga, **free indirect style may deliberately inherit the shortcuts, fragments, omissions and roughness of his internal language**.
+
+This means that a sentence does not always need to be grammatically complete if the imperfection makes the perception feel more immediate, natural or recognizably Taiga.
+
+Examples of acceptable effects include:
+
+- omitted verbs or subjects when the meaning remains obvious;
+- compressed or fragmentary description;
+- thought-shaped syntax that would be awkward in neutral narration;
+- abrupt changes in sentence structure under stress, irritation or sensory overload;
+- colloquial constructions that sound like Taiga mentally sizing something up rather than a narrator formally describing it.
+
+Do **not** automatically "correct" these during grammar passes merely because a neutral narrator would phrase them differently.
+
+The test is:
+
+> **Does the imperfection strengthen Taiga's lived perception without making the sentence genuinely confusing?**
+
+If yes, preserve it.
+
+Grammar remains important for ordinary narration, dialogue clarity and accidental errors. This rule is not permission for random mistakes; it is permission to let **voice outrank formal correctness when the effect is clearly intentional and readable**.
+
 ---
 
 # 3. Taiga's Narrative Voice
