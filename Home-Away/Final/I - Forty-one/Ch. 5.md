@@ -12,10 +12,10 @@ He received the ball and looked over his shoulder. He saw Leo coming down into s
 
 "No, not to me!"
 
-Too late, ball got intercepted.
+Too late, the pass got intercepted.
 He had seen his movement, but he didn't see that he was just dragging the defender to create space.
 
-Evan jogged beside Taiga and looked at him with both eyebrows raised.
+Evan jogged beside Taiga and looked at him raising his eyebrow.
 Taiga looked back.
 
 "Fine, say it."
@@ -71,15 +71,15 @@ He blinked. What?
 
 "Why?"
 
-"Because the sooner you get out in real match, the better it is. I don't want you to wait to become confident in scrimmages before actually playing with someone else. Besides, that's what reserve matches are for."
+“Because the sooner you get out in a real match, the better. I don't want you waiting until you're comfortable in scrimmages before playing another team. Besides, that's what reserve matches are for.”
 
-Right, exposure to hostile environment. 
+Right. Exposure to hostile environment. 
 
 "How long?"
 
 Mercer shrugged.
 
-"Depends on the match. My intention is letting you in at some point. Don't know if, don't know when and don't know how long."
+"Depends on the match. My intention is to put you in at some point. Don't know if, don't know when and don't know how long."
 
 Taiga didn't answer immediately. Mercer looked at him and added:
 
@@ -87,10 +87,13 @@ Taiga didn't answer immediately. Mercer looked at him and added:
 
 Was Mercer able to read his fucking mind? 
 
-He nodded, "Yes, coach."
-Mercer said "Good" and left.
+He nodded.
 
-Taiga stood there for a couple of seconds more. Then someone lightly bumped his shoulder. Evan was looking at him with a raised eyebrow.
+“Yes, coach.”
+
+“Good.”
+
+Taiga stood there for a couple of seconds more watching Mercer leaving with his assistant. Then someone lightly bumped his shoulder. Evan was looking at him with a raised eyebrow.
 
 "You good?"
 
