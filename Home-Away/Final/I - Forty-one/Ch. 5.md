@@ -219,7 +219,7 @@ Evan laughed.
 
 Leo grinned.
 
-"Mercifully, coach put me on bench this time."
+"Mercifully, coach put me on the bench this time."
 
 Evan sighed.
 
@@ -233,7 +233,7 @@ Taiga sat with his bib between Leo and another development player. He immediatel
 Now that he knew he was *probably* going to play, he didn't just see the match. 
 He started analyzing everything.
 
-Their right-back was huge. Taiga estimated at least 1.90mt or so and was built like a tank. Not only, but from the very start he saw that he was not a novice at all.
+Their right-back was huge. Taiga estimated at least 1.90 m or so and was built like a tank. Not only that, but from the very start he saw that he was not a novice at all.
 In the first twenty minutes, he had already forced Evan backwards three times and taken the ball off him once. 
 
 Great, how the fuck was he supposed to go past him?
@@ -257,7 +257,7 @@ Taiga looked at him.
 
 Leo kept smiling.
 
-"I think you're faster though. Plus, you don't have to face him one-on-one all the times."
+"I think you're faster though. Plus, you don't have to face him one-on-one all the time."
 
 "I know."
 
@@ -266,16 +266,16 @@ Leo kept smiling.
 "Great."
 
 Taiga kept looking at the #4 towering among the others. He was pressing on Evan now, who had the ball. 
-Shortly after, Evan was rolling on the pitch and the referee called for free kick.
+Shortly after, Evan was rolling on the pitch and the referee called a free kick.
 
 Taiga gulped.
 
-Half time, still 0-0.
+Halftime, still 0-0.
 
 Northbridge was aggressive. They pressed hard and recovered fast. They didn't give Olympus much time on the ball, and whenever they won it back, they pushed forward immediately.
 
-Olympus risked two times: once Scott saved, the other hit the post. At some point, Aaron had found space on his lane and managed to cross in the middle. 
-Of course, the #4 got it with the head first.
+Olympus came close to conceding twice: once Scott saved, and once the ball hit the post. At some point, Aaron had found space on his flank and managed to cross into the middle. 
+Of course, the #4 got his head to it first.
 
 Taiga looked at Evan. He was visibly tired, because the fullback kept forcing him backward and making him work for every bit of space. Even when Evan got past him, the guy recovered fast enough to stay on his shoulder.
 
@@ -296,11 +296,11 @@ The board went up:
 **11 OUT**
 **41 IN**
 
-Taiga stood on the touchline, his legs apparently were having trouble with basic maneuvering.
+Taiga stood on the touchline, his legs were apparently having trouble with basic maneuvering.
 Mercer said something about keeping it easy and avoiding physical contact, although he couldn't make out the exact words.
-He nodded anyways.
+He nodded anyway.
 
-Evan approached and slapped his hands.
+Evan approached and slapped his hand.
 
 "Good luck, Taiga."
 
@@ -315,13 +315,13 @@ Mercer had shown him this exact shape dozens of times, but now every piece refus
 
 His pulse was suddenly everywhere—throat, ears, fingertips. His breathing felt wrong, too shallow even though he wasn't tired yet, and every thought seemed to arrive already half-finished.
 
- Then he watched the fullback. Jesus Christ, up close he was even bigger.
+Then he watched the fullback. Jesus Christ, up close he was even bigger.
 
 "Taiga!"
 
 He turned: Aaron was in his space and Taiga had not moved. He jogged inside almost automatically.
 
- "TAIGA! TRACK!"
+"TAIGA! TRACK!"
 
 He suddenly heard Scott yelling at him from the goal. Right, track. 
 Taiga turned again towards the #4.
