@@ -61,7 +61,7 @@ Taiga turned his head to hide his smile.
 
 He lifted up his head to see Mercer calling him. He took a deep breath and approached.
 
-"Saturday, reserve match."
+"Saturday, reserve match with Northbridge."
 
 Taiga waited. He'd spent the last two reserve matches on the bench, knowing he wasn't playing either of them.
 
@@ -228,11 +228,12 @@ Evan sighed.
 The door opened and Mercer shouted them to go out.
 
 The match began. 
+Northbridge versus Olympus.
 Taiga sat with his bib between Leo and another development player. He immediately looked for their fullback and their winger.
 Now that he knew he was *probably* going to play, he didn't just see the match. 
 He started analyzing everything.
 
-Their right-back was huge. Taiga estimated at least 1.85mt or so and was built like a tank. Not only, but from the very start he saw that he was not a novice at all.
+Their right-back was huge. Taiga estimated at least 1.90mt or so and was built like a tank. Not only, but from the very start he saw that he was not a novice at all.
 In the first twenty minutes, he had already forced Evan backwards three times and taken the ball off him once. 
 
 Great, how the fuck was he supposed to go past him?
@@ -268,4 +269,84 @@ Taiga kept looking at the #4 towering among the others. He was pressing on Evan 
 Shortly after, Evan was rolling on the pitch and the referee called for free kick.
 
 Taiga gulped.
+
+Half time, still 0-0.
+
+Northbridge was aggressive. They pressed hard and recovered fast. They didn't give Olympus much time on the ball, and whenever they won it back, they pushed forward immediately.
+
+Olympus risked two times: once Scott saved, the other hit the post. At some point, Aaron had found space on his lane and managed to cross in the middle. 
+Of course, the #4 got it with the head first.
+
+Taiga looked at Evan. He was visibly tired, because the fullback kept forcing him backward and making him work for every bit of space. Even when Evan got past him, the guy recovered fast enough to stay on his shoulder.
+
+"Akatora."
+
+Taiga looked up at Mercer.
+
+"Warm up."
+
+Taiga remained still for another couple of seconds. Then he felt Leo's hand on his shoulder.
+
+"First five minutes: keep it boring as hell. Take your time to adjust."
+
+He nodded, then took a deep breath and started jogging.
+
+The board went up:
+
+**11 OUT**
+**41 IN**
+
+Taiga stood on the touchline, his legs apparently were having trouble with basic maneuvering.
+Mercer said something about keeping it easy and avoiding physical contact, although he couldn't make out the exact words.
+He nodded anyways.
+
+Evan approached and slapped his hands.
+
+"Good luck, Taiga."
+
+That made his stomach drop even more.
+He reached his position and looked around. On the opposite side, Aaron was holding the ball on the touchline with his hands.
+
+Then he heard the whistle and nothing made sense anymore.
+
+Taiga saw their winger, then he disappeared.
+What was he supposed to do again? Where the fuck was the ball?
+Mercer had shown him this exact shape dozens of times, but now every piece refused to stay where he put it. The second he focused on one thing, something else vanished. His attention snapped back and forth so fast it stopped feeling like attention at all.
+
+His pulse was suddenly everywhere—throat, ears, fingertips. His breathing felt wrong, too shallow even though he wasn't tired yet, and every thought seemed to arrive already half-finished.
+
+ Then he watched the fullback. Jesus Christ, up close he was even bigger.
+
+"Taiga!"
+
+He turned: Aaron was in his space and Taiga had not moved. He jogged inside almost automatically.
+
+The ball moved at a totally different speed. Unknown faces were all around him, moving in ways he wasn't familiar with.
+
+"TAIGA! TRACK!"
+
+He suddenly heard Scott yelling at him from the goal. Right, track. 
+Taiga turned again towards the #4.
+
+He took a deep breath. Alright, five minutes. He had to survive five minutes. Boring as hell.
+
+Taiga started easy. One touch, one pass. He scanned, then received. 
+The fullback was immediately on him, but Taiga didn't face him. He moved ten meters inside, then passed back. Nothing happened, good.
+Slowly, his breathing went back to normal and he was in a game again.
+
+A minute later, he did it again, this time turning before the ball reached him because he already knew where the space was. Again, nothing happened.
+
+The next time Olympus moved forward, Taiga recognized the pattern before he had to think about it. The midfielder dropped, Aaron pushed past him, and number four hesitated between following the run and staying with Taiga.
+
+There: for the first time since coming on, Taiga saw the space before it disappeared and immediately moved into it.
+
+The pass reached him cleanly. Number 4 closed immediately, but Taiga was ready this time. He took one touch away from him and laid the ball inside before the defender could get close enough to use his shoulder.
+
+Simple, but when Taiga turned and ran forward again, his chest felt lighter.
+A few minutes earlier, number four had seemed to fill half the pitch. Now he was just a defender.
+
+A very large, very annoying defender.
+
+
+
 
