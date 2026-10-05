@@ -13,7 +13,7 @@ He received the ball and looked over his shoulder. He saw Leo coming down into s
 "No, not to me!"
 
 Too late, the pass got intercepted.
-He had seen his movement, but he didn't see that he was just dragging the defender to create space.
+He had seen Leo move, but he hadn't seen that he was dragging the defender with him to create space.
 
 Evan jogged beside Taiga and looked at him raising his eyebrow.
 Taiga looked back.
@@ -104,3 +104,30 @@ Taiga stood there for a couple of seconds more watching Mercer leaving with his 
 Taiga followed him in the lockers.
 
 ---
+
+Thursday evening, Taiga was doing laundry when Keitaro called. He answered with one hand while transferring shirts into the dryer.
+
+"Hey Taiga!"
+
+"Hey."
+
+Taiga looked past him. Nobody else seems to be in his room.
+
+"Where's your parasite?"
+
+Keitaro laughed.
+
+"He's doing a study group. I see you're doing laundry, want me to call later?"
+
+"It's alright, I wouldn't have answered otherwise."
+
+"Fair enough. So, how's Olympus treating you so far?"
+
+Taiga shrugged while putting the last shirt in.
+
+"The usual."
+
+"Have you met someone? Any friends? Oh, how's going with Caleb?"
+
+"Caleb's fine. He doesn't talk much."
+

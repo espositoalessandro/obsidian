@@ -258,8 +258,6 @@ He followed.
 > - the Hunter exhibition tangent stays cut;
 > - keep the core admission that Taiga is nervous because he cares whether Mercer thinks the opportunity was worth giving him.
 >
-> Do not broadly rewrite this scene.
-
 Thursday night, Keitaro called while Taiga was in the laundry room. Taiga answered with one hand while transferring shirts into the dryer. Keitaro's face appeared.
 
 “Hey.”
