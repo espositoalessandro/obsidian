@@ -566,6 +566,401 @@ Hunter sent the date. Then:
 **Hunter:** Thank you.
 
 Taiga stared at that one longer than necessary. He added it to his calendar.
+
+### Rewrite pass — Camp Buddy voice calibration
+
+> **ALTERNATIVE VERSION — do not delete the source above.**
+>
+> Same scene information and function, but dialogue is recalibrated toward the Camp Buddy corpus:
+> - Keitaro carries more conversational weight, volunteers context, asks follow-ups and teases warmly;
+> - Taiga stays shorter/blunter, with profanity doing emotional work;
+> - when Taiga gets genuinely exposed about the match, his sentences become less controlled rather than more polished;
+> - Keitaro's occasional hesitation appears when **he** is embarrassed or realizes he has said too much, not as a constant tic.
+>
+> This version already uses the new continuity: Mercer told Taiga to **expect to play**, not that he is starting.
+
+Thursday night, Keitaro called while Taiga was in the laundry room. Taiga answered with one hand while shoving the last of his shirts into the dryer.
+
+“Hey, Taiga! Bad time?”
+
+“I'm doing laundry.”
+
+“That wasn't a no.”
+
+“Then no.”
+
+Keitaro laughed. Behind him, the wall beside his bed was covered in photos. Hiro wasn't there.
+
+“Where's your parasite?”
+
+“Hiro? Study group. He has that exam tomorrow, so he's been panicking about it since breakfast.”
+
+“He went voluntarily?”
+
+“Eventually. I may have suggested that staring at the same page and complaining wasn't technically studying.”
+
+“Brave.”
+
+“I know.”
+
+Taiga fed two coins into the machine and pressed start.
+
+Nothing happened.
+
+He pressed it again.
+
+“Come on.”
+
+Keitaro leaned closer to the screen.
+
+“What happened?”
+
+“Fucking thing ate my money.”
+
+“Did you close the door all the way?”
+
+“Yes.”
+
+“Push it again.”
+
+“I closed it.”
+
+“Taiga, just try it.”
+
+Taiga shoved the door harder.
+
+Click.
+
+The dryer started.
+
+He looked at the screen. Keitaro was trying very hard not to smile.
+
+“Don't.”
+
+“I'm not doing anything!”
+
+“You're enjoying this.”
+
+“A little.”
+
+“Asshole.”
+
+Keitaro laughed again. Taiga leaned against the dryer while it started turning behind him.
+
+“So, how's soccer?” Keitaro asked. “Last time you said the positioning stuff was finally starting to make sense.”
+
+“Kind of.”
+
+“That sounds better than ‘it's a conspiracy.’”
+
+“It can be both.”
+
+“Fair.”
+
+Taiga rubbed his thumb against the edge of his phone case.
+
+“Mercer told me to expect to play Saturday.”
+
+Keitaro's expression changed immediately.
+
+“Wait, really? In the reserve match?”
+
+“Maybe.”
+
+“What do you mean, maybe?”
+
+“He said expect to play. He didn't say I will.”
+
+“Oh.” Keitaro paused. “But that's still different, right? The last two you already knew you were staying on the bench.”
+
+“Yeah.”
+
+“So this time you actually have to be ready.”
+
+“That was more or less his point.”
+
+Keitaro smiled.
+
+“That's exciting.”
+
+“It's reserves.”
+
+“I know it's reserves.”
+
+“And I might not even get on.”
+
+“I know that too.” Keitaro tilted his head. “You're still nervous, aren't you?”
+
+Taiga looked away.
+
+“No shit.”
+
+Keitaro laughed softly.
+
+“Sorry. That was probably obvious.”
+
+“It's stupid.”
+
+“What part?”
+
+“The whole thing. It's a reserve friendly. Nobody gives a shit.”
+
+“I mean…” Keitaro shifted against his pillow. “You've spent a month learning something you barely knew how to do, and this is the first time Mercer thinks you might be ready to use it against another team. I think you're allowed to care about that.”
+
+Taiga stared at the dryer turning behind him.
+
+“That's annoyingly reasonable.”
+
+“Thank you.”
+
+“That wasn't a compliment.”
+
+“I'll take it anyway.”
+
+For a few seconds, neither of them said anything.
+
+Then Taiga sighed.
+
+“It's just—”
+
+He stopped.
+
+Keitaro waited.
+
+Taiga hated when he did that. Not pushing. Somehow it made finishing the sentence worse.
+
+“If I go in and I'm fucking terrible, then Mercer gets to sit there and wonder why he bothered.”
+
+Keitaro frowned.
+
+“Taiga, he watches you train every day.”
+
+“I know.”
+
+“He already knows what you're good at and what you're bad at. You're not going to surprise him by suddenly not playing like somebody who's been doing this for ten years.”
+
+“I know.”
+
+“And if he thinks you're ready enough that he might put you in, then he made that decision with all of that information already.”
+
+Taiga rubbed at the corner of the phone case again.
+
+“I said I know.”
+
+“I know you know.” Keitaro smiled slightly. “I'm still saying it.”
+
+Taiga looked at him.
+
+“Annoying.”
+
+“I've had practice.”
+
+That got a small laugh out of him.
+
+Keitaro's smile widened.
+
+“Are you still enjoying it, at least?”
+
+“Soccer?”
+
+“Yeah.”
+
+Taiga thought about practice. Mercer's whistle. Evan correcting him. Scott screaming from the other end of the pitch. The brief satisfaction when something that had made no sense the week before suddenly worked.
+
+“More than I expected.”
+
+“I figured.”
+
+Taiga frowned.
+
+“From what?”
+
+“You complain about it in way too much detail for somebody who doesn't like it.”
+
+“Fuck you.”
+
+Keitaro laughed.
+
+“See? You just proved my point.”
+
+“It also pisses me off constantly.”
+
+“That part I definitely knew.”
+
+Taiga smiled.
+
+“Mercer keeps telling me I try to fix mistakes immediately.”
+
+Keitaro's mouth twitched.
+
+“That does sound a little like you.”
+
+Taiga pointed at the screen.
+
+“You have one chance to change the subject.”
+
+“Okay! New subject.” Keitaro laughed. “Will you text me after the match?”
+
+“Probably.”
+
+“Taiga.”
+
+“I'll text you.”
+
+“Even if you don't play?”
+
+Taiga hesitated.
+
+“Yeah.”
+
+“Thank you. Because otherwise Hiro will find out from somebody's Instagram six hours later and then I'll have to listen to him complain that you hate us.”
+
+“He'd do that anyway.”
+
+“Probably.”
+
+Taiga checked the dryer. Forty-two minutes.
+
+“How bad is the exam thing?”
+
+Keitaro sighed.
+
+“Oh, Hiro is completely convinced he's going to fail. He got an eighty-seven on the last one, his professor told him he's doing fine, and somehow neither of those facts has helped. He made me go through his notes with him twice and then told me I was explaining one section wrong, so now he's in the study group.”
+
+Taiga snorted.
+
+“Tell him he's an idiot.”
+
+“I have! Apparently that isn't useful feedback.”
+
+“Tell him it came from me.”
+
+“That might make it worse.”
+
+“Good.”
+
+Keitaro laughed.
+
+“Oh! And Hunter's exhibition is next month, so—”
+
+He stopped.
+
+Taiga frowned.
+
+“His what?”
+
+Keitaro went very still.
+
+“...Oh.”
+
+“What exhibition?”
+
+“Umm.” Keitaro looked away from the camera. “Okay, I think I just told you something Hunter was supposed to tell you himself.”
+
+“Keitaro.”
+
+“It's just a student showcase! I thought he'd put it in the group chat already.”
+
+“He didn't.”
+
+“Oh.”
+
+Taiga stared at him.
+
+Keitaro winced.
+
+“Sorry, Hunter.”
+
+“Why didn't he say anything?”
+
+“I don't know. Maybe he hasn't decided how to bring it up yet.” Keitaro paused. “You know how Hunter gets with his own work. If he thinks something isn't important enough, he'll convince himself he's bothering everybody by mentioning it.”
+
+“That's stupid.”
+
+“I didn't say it made sense.”
+
+Taiga was already opening the group chat.
+
+“Maybe ask him before you decide you're angry at him.”
+
+“I'm not angry.”
+
+“You're frowning at his name and he hasn't even answered you yet.”
+
+Taiga clicked his tongue.
+
+“Whatever.”
+
+Keitaro smiled.
+
+“I should go. Hiro's probably going to call me in ten minutes and announce that his academic career is over.”
+
+“Tell him statistically he survives every exam.”
+
+“I will.” Keitaro adjusted the phone, then looked back into the camera. “And Taiga? Good luck Saturday. Seriously. Whether Mercer puts you in or not.”
+
+Taiga looked away for half a second.
+
+“Yeah. Thanks.”
+
+“Talk to you later!”
+
+“Later.”
+
+The call ended.
+
+Taiga looked at Hunter's name in the group chat. Opened it. Closed it.
+
+He didn't want to make it weird.
+
+So he sent:
+
+**Taiga:** keitaro snitched. exhibition next month?
+
+Five minutes later:
+
+**Hunter:** Oh.
+
+Then:
+
+**Hunter:** yes 😅
+
+Taiga waited.
+
+**Hunter:** I wasn't sure if it was worth mentioning. It's only student work.
+
+Taiga frowned.
+
+That sounded familiar. Too familiar.
+
+He typed:
+
+**Taiga:** that's a dumb reason
+
+Deleted it.
+
+Then:
+
+**Taiga:** send me the date
+
+Hunter responded almost immediately.
+
+**Hunter:** Really?
+
+Taiga rolled his eyes.
+
+**Taiga:** no i want the date so i can avoid it
+
+Hunter sent the date.
+
+Then:
+
+**Hunter:** Thank you.
+
+Taiga stared at that one longer than necessary.
+
+He added it to his calendar.
+
 ---
 
 ## Scene 3 — Saturday: bench, waiting, first minutes
