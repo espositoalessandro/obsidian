@@ -40,3 +40,68 @@ Finally, Mercer whistled.
 
 Taiga put his hands on his knees and caught his breath. A few meters from him, he saw Leo collapsing on the grass.
 
+"Tell my mother I loved her. And that I ate this morning, or she'll kill me again."
+
+Taiga snorted. Leo heard him and raised his head.
+
+"Oh my God, I made you laugh."
+
+Taiga looked at him.
+
+"No."
+
+"I definitely heard you snorting."
+
+"Lack of oxygen made you delusional."
+
+"It's good enough for me."
+
+"Weren't you dying?"
+
+"Working on it."
+
+Taiga turned his head to hide his smile.
+
+"Akatora."
+
+He lifted up his head to see Mercer calling him. He took a deep breath and approached.
+
+"Saturday, reserve match."
+
+Taiga waited.
+Reserve matches were friendly matches between colleges to let developmental and new players get some minutes. Taiga had been on bench for every home match, although he knew it was too soon for him to play.
+
+"Expect to play this time."
+
+He blinked. What?
+
+"What?"
+
+"You heard me."
+
+"How long?"
+
+Mercer shrugged.
+
+"Depends on the match. My intention is letting you in at some point. Don't know if, don't know when and don't know how long."
+
+Taiga didn't answer immediately. Mercer looked at him and added:
+
+"Just to be clear. Don't try to earn your minutes in the next training sessions. Whether you'll play or not does not depend on your performance here."
+
+Was Mercer able to read his fucking mind? 
+
+He nodded, "Yes, coach."
+Mercer said "Good" and left.
+
+Taiga stood there for a couple of seconds more. Then someone lightly bumped his shoulder. Evan was looking at him with a raised eyebrow.
+
+"You good?"
+
+"Yeah."
+
+"Cool, let's get changed then."
+
+Taiga followed him in the lockers.
+
+---
