@@ -107,23 +107,23 @@ Taiga followed him in the lockers.
 
 He was sitting on a bench in the laundry room. It wasn't crowded at all, just as Caleb had foretold. 
 
- "From my observations, laundry room has fewer people on Thursday late evening."
+"From my observations, the laundry room has fewer people late on Thursday evenings."
 
 How the heck did he manage to observe that? 
-The washing machine beeped loud, communicating that it had done its job.
+The washing machine beeped loudly, communicating that it had done its job.
 Taiga emptied the drum and started putting all the clothes in the dryer.
 
 He stopped when he pulled out his shirt.
 
 **41 - AKATORA**
 
-Looking at it, it still felt weird somehow. His surname, on the official Olympus team's shirt. 
+Looking at it, it still felt weird somehow. His surname on the official Olympus team's shirt. 
 His mind went to his drawer in room 317. The Camp Buddy shirt, with his name and the little red tiger motif.
 
 Well, Apollo's home shirt was partially red, so they got the color right. He didn't mind the blue sleeves at all.
 
 He blinked and put the shirt in the dryer, along with the others.
-It still meant nothing, he would probably need to give it back soon anyway.
+It still meant nothing. He would probably need to give it back soon anyway.
 
 His phone buzzed. Hunter? 
 
@@ -141,7 +141,7 @@ Three dots reappeared and stayed there for a while.
 
 **Hunter:** My university is doing a student exhibition and some of my work will be there. I thought I'd ask if you wanted to come. I've invited the others too
 
-Then immediately
+Then, immediately:
 
 **Hunter:** But don't worry if you can't or don't want to, like I said it's not important at all
 
@@ -161,7 +161,7 @@ A long pause followed.
 
 **Hunter:** Then thank you! I'll send the details in the group.
 
-Taiga smiled and locked the phone. Apparently the reunion Yoichi dreaded will happen sooner than expected.
+Taiga smiled and locked the phone. Apparently the reunion Yoichi dreaded would happen sooner than expected.
 
 He turned again to the dryer: the shirt with the 41 was tumbling around. 
 
