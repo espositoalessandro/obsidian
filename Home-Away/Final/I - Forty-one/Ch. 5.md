@@ -163,13 +163,10 @@ A long pause followed.
 
 Taiga smiled an locked the phone. Apparently the dreaded reunion will happen sooner than expected.
 
-He turned again to the dryer. The shirt with 41 was tumbling around. 
+He turned again to the dryer: the shirt with the 41 was tumbling around. 
 
-...As long as he survived the following month, that is.
 
 ---
-
-
 
 
 
