@@ -189,15 +189,15 @@ Leo frowned.
 
 "For what?"
 
-Evan gave him a "seriously?" look. Leo lit up and looked at Taiga.
+Evan gave him a *seriously?* look. Leo lit up and looked at Taiga.
 
 "No way! Mercer is gonna let you play?"
 
 Taiga picked up the other boot.
 
-"He said 'might'."
+"He said might."
 
-"Oh, come on that's still great news! That means the thinks you're ready for the field!"
+"Oh, come on that's still great news! That means he thinks you're ready for the field!"
 
 He shrugged.
 
@@ -223,19 +223,19 @@ Leo grinned.
 
 Evan sighed.
 
-"See? He has favorites."
+"See? He picks favorites."
 
 The door opened and Mercer shouted them to go out.
 
 The match began. 
 Taiga sat with his bib between Leo and another development player. He immediately looked for their fullback and their winger.
-Now that he knew he was *probably* going to play, he didn't just see the match. He started analyzing everything.
+Now that he knew he was *probably* going to play, he didn't just see the match. 
+He started analyzing everything.
 
-Their right-back was huge. Taiga estimated at least 1.85mt or so. Not only, but from the very start he saw that he was not a novice at all.
+Their right-back was huge. Taiga estimated at least 1.85mt or so and was built like a tank. Not only, but from the very start he saw that he was not a novice at all.
 In the first twenty minutes, he had already forced Evan backwards three times and taken the ball off him once. 
 
 Great, how the fuck was he supposed to go past him?
-
 After a while Leo leaned closer.
 
 "You're looking at their 4?"
@@ -260,12 +260,12 @@ Leo kept smiling.
 
 "I know."
 
-"Well, he's gonna get physical. Look at him. Of course he is."
+"Well, he's gonna get physical."
 
 "Great."
 
-Taiga didn't answer, he kept looking at the #4 towering among the others. He was pressing on Evan now, who had the ball. Shortly after, Evan was rolling on the pitch.
-The referee called for free kick.
+Taiga kept looking at the #4 towering among the others. He was pressing on Evan now, who had the ball. 
+Shortly after, Evan was rolling on the pitch and the referee called for free kick.
 
 Taiga gulped.
 
