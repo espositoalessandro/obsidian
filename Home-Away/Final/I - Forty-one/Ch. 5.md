@@ -364,9 +364,9 @@ The score was 0-0.
 Taiga stayed under the shower longer than usual.
 
 The water was almost too hot, which was exactly what he wanted. It hit the back of his neck and ran down between his shoulders, taking some of the stiffness with it. His legs had started complaining the moment he'd stopped moving. 
-Now his thighs felt heavy, one hip was already developing a bruise, and his left shoulder still remembered every time number 4 tried to send him out of campus.
+Now his thighs felt heavy, one hip was already developing a bruise, and his left shoulder still remembered every time number 4 tried to send him off campus.
 
-The locker room outside was still loud enough to hear through the showers. Enzo was apparently trying to organize dinner while three different people talked over him.
+The locker room outside was still loud enough that he could hear it through the showers. Enzo was apparently trying to organize dinner while three different people talked over him.
 
 “Tacos!”
 
@@ -380,13 +380,13 @@ The locker room outside was still loud enough to hear through the showers. Enzo 
 
 Somebody laughed.
 Taiga closed his eyes and let the water run over his face.
-For once, he didn't mind the noise, it was farther away in here.
+For once, he didn't mind the noise. It was farther away in here.
 
 A few minutes later, the locker-room voices started thinning out. Doors opened and closed. Somebody shouted that they'd meet everyone there. Enzo yelled something about reservations that Taiga didn't bother trying to understand.
 
 Then the stall next to his opened. 
 
-"Are you drowned in there?"
+"Did you drown in there?"
 
 Taiga didn't open his eyes.
 
@@ -422,7 +422,7 @@ Taiga snorted and tilted his head back under the water.
 
 "My roommate does. He says it's much quieter."
 
-"Oh I remember him, the one who was talking about city maps at the floor party, right?"
+"Oh, I remember him, the one who was talking about city maps at the floor party, right?"
 
 "Him. Funnily enough, he said he remembers you as well."
 
@@ -462,7 +462,7 @@ Taiga thought about it.
 
 "Who's Sofia?"
 
-"Female soccer team. Aaron's hard into her, but he'll never admit it."
+"She's on the women's soccer team. Aaron's really into her, but he'll never admit it."
 
 “That part does sound entertaining.”
 
@@ -478,7 +478,7 @@ Taiga shut off the water and started drying off with the towel.
 
 “I'll take it.”
 
-Leo shut off the water as well. Then he opened the stall and went out in the aisle. 
+Leo shut off the water as well. Then he opened the stall and stepped out into the aisle. 
 
 "Oh, and by the way."
 
@@ -488,9 +488,9 @@ Taiga looked up over the short door.
 
 He stopped for a second.
 Leo's towel was not around his waist. He was still using it to dry his hair. 
-Taiga's eyes automatically went downwards. 
+Taiga's eyes automatically went down. 
 First his chest, then his waist, then his-
-He blinked and looked away, his face was becoming warm.
+He blinked and looked away. His face was getting warm.
 
 "What?"
 
