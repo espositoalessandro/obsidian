@@ -480,11 +480,11 @@ Taiga shut off the water and started drying off with the towel.
 
 Leo shut off the water as well. Then he opened the stall and went out in the aisle. 
 
-"You done?"
+"Oh, and by the way."
 
 Taiga looked up over the short door.
 
-"Ye-"
+"Wha-"
 
 He stopped for a second.
 Leo's towel was not around his waist. He was still using it to dry his hair. 
@@ -492,13 +492,9 @@ Taiga's eyes automatically went downwards.
 First his chest, then his waist, then his-
 He blinked and looked away, his face was becoming warm.
 
-"Yeah."
+"What?"
 
-Jesus, that guy was shameless.
-
-"Ah, and by the way."
-
-Taiga forced himself not to look up again.
+Jesus, that guy was shameless. Taiga forced himself not to look up again.
 
 "You did pretty good today."
 
