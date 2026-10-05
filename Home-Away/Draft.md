@@ -971,6 +971,16 @@ He added it to his calendar.
 >
 > Do not recreate the old 82-minute match.
 >
+> ### Plain-English overview
+>
+> This is Taiga's **first reserve match where he might actually get on the field**. He has already sat on the bench for previous reserve fixtures, but those times he knew he was not playing. This time Mercer has told him to **expect to play**, so Taiga spends the match knowing that at any moment he may be called.
+>
+> He is still a very inexperienced winger. He does not need to understand the whole match. He mainly needs to watch what is happening on his side, notice the opponent he may have to face, and stay ready. Eventually Mercer calls him to warm up and then puts him in.
+>
+> Once Taiga enters, the football stays simple: his first actions are shaky, the opposition feels faster and more physical than training, and he initially treats every touch like an exam. A few ordinary passes and runs let him settle. Later he makes one mistake that triggers his old instinct to immediately compensate for it, but he manages not to spiral.
+>
+> The payoff is intentionally small: Taiga does not need a goal, assist, comeback or heroic moment. He just discovers that he can survive real match minutes—and that he wants more.
+>
 > ### Before kickoff
 >
 > Taiga is on the bench by default, as he has been for previous reserve fixtures.
@@ -982,6 +992,8 @@ He added it to his calendar.
 > - delete the line that Leo is also on the bench because of first-team minutes if we decide Leo starts;
 > - remove the Caleb-advice callback;
 > - preserve the boot joke / one-clean-touch advice if it still fits.
+>
+> **What is happening here:** Taiga is getting ready before kickoff while knowing he may be used later. His nerves show through small repetitive behavior instead of a speech about anxiety. Leo notices and gives him one very simple piece of practical advice: when he eventually enters, make one easy touch/pass first instead of trying to prove himself immediately. The locker-room banter around them keeps the moment light.
 >
 > **SOURCE POOL — old Draft Ch. 5:**
 
@@ -1130,6 +1142,8 @@ Leo stood and bounced once on the balls of his feet.
 > - Caleb/Maya in the stand.
 >
 > The achievement is simply: **Mercer put him on the field, and Taiga wants more minutes afterward.**
+>
+> **What is happening here:** Taiga enters as an inexperienced winger and immediately finds that a real opponent is harder to read and more physical than teammates in training. He starts badly, then deliberately simplifies his game until his nerves settle. Later he loses the ball trying to force something forward. His first instinct is to erase the mistake immediately, which would make him reckless; Mercer and Scott instead push him toward the next action. Taiga then spends a few minutes doing ordinary things correctly, and that is the actual success of the sequence.
 >
 > **SOURCE POOL — old Draft Ch. 5:**
 
