@@ -131,3 +131,216 @@ Taiga shrugged while putting the last shirt in.
 
 "Caleb's fine. He doesn't talk much."
 
+Keitaro chuckled.
+
+"So he basically ticks all the boxes for the perfect roommate."
+
+"He's still annoying in his own ways."
+
+"Of course he is. Any other annoying people you've met?"
+
+"There's this girl from Political Institution class that's basically stalking me, but she's tolerable."
+
+"You mean... she's into you?"
+
+Taiga froze for a second. He actually never thought about that.
+
+"I don't know. But I don't think so."
+
+"You said she's stalking you."
+
+"I meant that she's annoyingly persistent in wanting to interact with me."
+
+"Oh, so you like her."
+
+"Fuck you."
+
+"Come on, you told me basically the same thing and here we are."
+
+"Because you are fucking annoying as well."
+
+"At this point that's become a compliment."
+
+Taiga flipped him.
+
+"How about the soccer team?"
+
+"What about them?"
+
+"Well, you know... have you met them outside training?"
+
+"No I-"
+
+Then he remembered about the floor party and the chemistry lab.
+
+"Yeah, I share a lab with one of them."
+
+Keitaro grimaced.
+
+"That's not what I meant, come on."
+
+"No, I don't go out with them. Not planning to either."
+
+"Why not?"
+
+"Because I'm good."
+
+"Taiga."
+
+There it was. The look Keitaro made when he was about to bring some corny or dangerous shit back.
+Taiga waited.
+
+"Come on, you sound like when it was just you, Lee and Ed back at camp. You said you were longing to meet new people. Why should be different there?"
+
+Taiga exhaled and sat on the floor, back on the wall.
+
+"Because this is not camp."
+
+"No it isn't, but is it still that hostile for you?"
+
+Taiga considered. A bit, sure, but not as much.
+
+"No."
+
+Keitaro just shrugged with a faint smile.
+
+"There! Are your teammates annoying?"
+
+"Definitely."
+
+"Then go out with them!"
+
+"Have you got nothing better to do?"
+
+Keitaro grinned.
+
+"Okay, I'll leave it. So, besides pesky teammates, how's soccer treating you?"
+
+"It's tolerable, at least-"
+
+He paused a second and bit his lip.
+
+"Coach told me that I might play a reserve match next Saturday."
+
+Keitaro lit up.
+
+"OH, really? You're gonna play an actual match?"
+
+"Not actual, it's a reserve match."
+
+"Uhh, what's the difference?"
+
+"It's a match for developmental/freshmen players who needs minutes to practice on a real match."
+
+"Well, it sounds even better, right?"
+
+"I dunno, he said expect to play. He didn't say I will."
+
+"But he thinks that you're ready for it."
+
+"What's the point if I don't play?"
+
+Keitaro looked at him for a second, slightly narrowing his eyes.
+
+"Are you nervous?"
+
+"No shit."
+
+He laughed softly.
+
+“Sorry. That was probably obvious.”
+
+“It's stupid.”
+
+“What?”
+
+“The whole thing. It's a reserve friendly. Nobody gives a shit.”
+
+"Then what scares you?"
+
+"I'm not scared it's just-"
+
+Taiga paused a second.
+
+“If I go in and I'm fucking terrible, then Mercer gets to sit there and wonder why he bothered with me.”
+
+"Are you terrible in trainings?"
+
+"It's not the same things."
+
+"I know, but... I think your coach knows what you can actual do. This match sounds more like practice to me rather than another evaluation."
+
+"What's the point in being decent at training if I'm shit in the actual game?"
+
+"Well, I think you can be shit at first. Maybe that's what those matches are for."
+
+Taiga didn't answer that, he just lowered his head. 
+When he looked back, Keitaro was smiling.
+
+"What's so funny?"
+
+"Nothing. But it's good to see that you care enough to be that nervous."
+
+"Okay. I give you one chance to change topic before I hang up."
+
+"Eheh alright. Well, Hunter's exhibition is next month, so—”
+
+He stopped.
+Taiga frowned.
+
+“His what?”
+
+Keitaro went very still.
+
+“What exhibition?”
+
+“Umm.” Keitaro looked away from the camera. “Okay, I think I just told you something Hunter was supposed to tell you himself.”
+
+“Keitaro.”
+
+“It's just a student showcase! I thought he'd put it in the group chat already.”
+
+“He didn't.”
+
+“Oh.”
+
+Taiga stared at him. Keitaro winced.
+
+“Sorry, Hunter.”
+
+“Why didn't he say anything?”
+
+“I don't know. Maybe he hasn't decided how to bring it up yet.” 
+
+He paused.
+
+“You know how Hunter gets with his own work. If he thinks something isn't important enough, he'll convince himself he's bothering everybody by mentioning it.”
+
+"That's stupid."
+
+"Just... give him time, alright? He'll tell you for sure."
+
+
+Taiga clicked his tongue.
+
+“Whatever.”
+
+Keitaro smiled.
+
+“I should go. Hiro's probably going to call me in ten minutes and announce that his academic career is over.”
+
+“Tell him statistically he survives every exam.”
+
+“I will.” Keitaro adjusted the phone, then looked back into the camera. “And Taiga? Good luck Saturday. Seriously. Whether Mercer puts you in or not.”
+
+Taiga looked away for half a second.
+
+“Yeah. Thanks.”
+
+“Talk to you later!”
+
+“Later.”
+
+He stared at the rotating dryer's drum. 
+So, he'll probably be seeing them again soon.
+
