@@ -248,16 +248,15 @@ He followed.
 
 ## Scene 2 — Keitaro laundry call
 
-> **SOURCE:** old Draft Ch. 5, copied verbatim below.
+> **SOURCE:** old Draft Ch. 5, restored here **in full and verbatim**.
 >
-> This remains useful because it gives the first-minutes event emotional weight without adding more football.
+> Keep the complete conversation as source material, including the Hunter exhibition material that had previously been trimmed.
 >
-> **ONLY NECESSARY ADAPTATIONS:**
-> - “I'm starting Saturday” must become something like **“Mercer said to expect minutes Saturday.”**
-> - any later wording that assumes a start must be adjusted accordingly;
-> - the Hunter exhibition tangent stays cut;
-> - keep the core admission that Taiga is nervous because he cares whether Mercer thinks the opportunity was worth giving him.
->
+> **ADAPT ONLY WHEN WRITING THE final chapter:**
+> - “I'm starting Saturday” must become the new first-minutes setup: Mercer told Taiga to **expect to play**;
+> - any wording that assumes Taiga is starting must be adjusted accordingly;
+> - otherwise preserve the source conversation unless pacing later proves a specific cut necessary.
+
 Thursday night, Keitaro called while Taiga was in the laundry room. Taiga answered with one hand while transferring shirts into the dryer. Keitaro's face appeared.
 
 “Hey.”
@@ -478,6 +477,95 @@ Taiga snorted.
 
 “That's good.”
 
+Keitaro leaned closer to the camera.
+
+“And Hunter's exhibition is next month.”
+
+Taiga blinked.
+
+“What exhibition?”
+
+Keitaro's face went blank.
+
+“Oh, right.”
+
+“What exhibition?”
+
+“He didn't tell you?”
+
+“No.”
+
+“Maybe I wasn't supposed to—”
+
+“Keitaro.”
+
+“It's just a student showcase.”
+
+Taiga frowned. Hunter hadn't mentioned it in the group chat. That bothered him more than it should have.
+
+“Why didn't he say anything?”
+
+“I don't know.”
+
+Taiga stared at the screen. Keitaro watched him for a second.
+
+“Maybe it’s better if you ask him.”
+
+“I will.”
+
+“Without sounding angry.”
+
+“I don't sound angry.”
+
+“You do right now.”
+
+Taiga clicked his tongue. Keitaro smiled.
+
+“I have to go. Hiro's probably going to call me in ten minutes to explain why his life is over.”
+
+“Tell him statistically he survives every exam.”
+
+“I will. Goodbye Taiga! And good luck with your match.”
+
+“Yeah. Later.”
+
+The call ended. Taiga looked at Hunter's name in the group chat. Opened it. Closed it. He didn't want to make it weird. So he sent:
+
+**Taiga:** keitaro snitched. exhibition next month?
+
+Five minutes later:
+
+**Hunter:** Oh.
+
+Then:
+
+**Hunter:** yes 😅
+
+Taiga waited.
+
+**Hunter:** I wasn't sure if it was worth mentioning. It's only student work.
+
+Taiga frowned. That sounded familiar. Too familiar. He typed:
+
+**Taiga:** that's a dumb reason
+
+Deleted it. Typed:
+
+**Taiga:** send me the date
+
+Hunter responded almost immediately.
+
+**Hunter:** Really?
+
+Taiga rolled his eyes.
+
+**Taiga:** no i want the date so i can avoid it
+
+Hunter sent the date. Then:
+
+**Hunter:** Thank you.
+
+Taiga stared at that one longer than necessary. He added it to his calendar.
 ---
 
 ## Scene 3 — Saturday: bench, waiting, first minutes
