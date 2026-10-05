@@ -169,13 +169,105 @@ He turned again to the dryer: the shirt with the 41 was tumbling around.
 ---
 
 
+Taiga was tying his boot. Then he flexed his ankle. No, too tight.
+He untied it and retied. Still too tight. 
 
+"Did you forget how boots work?"
 
+Taiga looked up: Leo was two lockers away, looking at him.
 
+"No."
 
+"You've strangled the poor guy three times."
 
+Taiga exhaled. Then finally tied it the right way.
+Evan intervened before he could answer.
 
+"Let him be, he's probably nervous."
 
+Leo frowned.
 
+"For what?"
 
+Evan gave him a "seriously?" look. Leo lit up and looked at Taiga.
+
+"No way! Mercer is gonna let you play?"
+
+Taiga picked up the other boot.
+
+"He said 'might'."
+
+"Oh, come on that's still great news! That means the thinks you're ready for the field!"
+
+He shrugged.
+
+"Guess we'll see about that."
+
+Evan then said.
+
+"Well, I seriously hope that he makes you play because I've already done my share in the last match."
+
+"You're getting old."
+
+Evan laughed.
+
+"They say 24 is the peak."
+
+"And yet you complain."
+
+"Hey, I already did my 90 minutes. Cut me some slack!"
+
+Leo grinned.
+
+"Mercifully, coach put me on bench this time."
+
+Evan sighed.
+
+"See? He has favorites."
+
+The door opened and Mercer shouted them to go out.
+
+Match begun. 
+Taiga sat with his bib between Leo and another development player. He immediately looked for their fullback and their winger.
+Now that he knew he was *probably* going to play, he didn't just see the match. He started analyzing everything.
+
+Their left right back was huge. Taiga estimated at least 1.85mt or so. Not only, but from the very start he saw that he was not a novice at all.
+In the first twenty minutes, he managed to make Evan pass back three times and also stole him the ball once. 
+
+Great, how the fuck was he supposed to go past him?
+
+After a while Leo leaned with his head.
+
+"You're looking at their 4?"
+
+"It's hard to miss."
+
+Leo chuckled.
+
+"Yeah I know, it's humongous."
+
+"I noticed."
+
+"So, how many ways have you already simulated in which he steals you the ball and scores?"
+
+Taiga looked at him.
+
+"Really helpful."
+
+Leo kept smiling.
+
+"I think you're faster though. Plus, you don't have to face him one-on-one all the times."
+
+"I know."
+
+"Well, he's gonna go rough. He's got the bod, he's gonna use it."
+
+"Great."
+
+"So just don't give him the chance."
+
+Taiga didn't answer, he kept looking at the #4 towering among the others. He was pressing on Evan now, who had the ball. Shortly after, Evan was rolling on the pitch.
+The referee called for free kick.
+
+Taiga gulped.
 
