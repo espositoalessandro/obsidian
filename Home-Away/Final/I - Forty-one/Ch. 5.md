@@ -8,14 +8,14 @@ Mercer had been making them repeat the freaking position drill for fifteen minut
 Things were slowly starting to make sense, although that didn't mean that Taiga didn't hate every minute of it.
 Just as Evan said, he had stopped translating people into their roles. Right now, he knew usually who moved where and when. Usually.
 
-He received and looked over his shoulder. He saw Leo coming down into space and one touched to him.
+He received the ball and looked over his shoulder. He saw Leo coming down into space and sent it straight to him.
 
 "No, not to me!"
 
 Too late, ball got intercepted.
 He had seen his movement, but he didn't see that he was just dragging the defender to create space.
 
-Evan jogged beside Taiga and looked at him.
+Evan jogged beside Taiga and looked at him with both eyebrows raised.
 Taiga looked back.
 
 "Fine, say it."
@@ -26,18 +26,13 @@ Evan laughed.
 
 "Thanks. Feel better with yourself now?"
 
-Evan considered.
-
-"If you'll get it right next time, maybe yes."
+"I do."
 
 Taiga flipped him as they reset.
 
 "Again!"
 
-Ten minutes later, Taiga had got three touches right, created two good spaces and chased too much once.
-
-Finally, Mercer whistled.
-
+Ten minutes later, he'd lost the ball once and only gotten yelled at twice; then finally, Mercer whistled.
 Taiga put his hands on his knees and caught his breath. A few meters from him, he saw Leo collapsing on the grass.
 
 "Tell my mother I loved her. And that I ate this morning, or she'll kill me again."
@@ -68,16 +63,17 @@ He lifted up his head to see Mercer calling him. He took a deep breath and appro
 
 "Saturday, reserve match."
 
-Taiga waited.
-Reserve matches were friendly matches between colleges to let developmental and new players get some minutes. Taiga had been on bench for every home match, although he knew it was too soon for him to play.
+Taiga waited. He'd spent the last two reserve matches on the bench, knowing he wasn't playing either of them.
 
 "Expect to play this time."
 
 He blinked. What?
 
-"What?"
+"Why?"
 
-"You heard me."
+"Because the sooner you get out in real match, the better it is. I don't want you to wait to become confident in scrimmages before actually playing with someone else. Besides, that's what reserve matches are for."
+
+Right, exposure to hostile environment. 
 
 "How long?"
 
