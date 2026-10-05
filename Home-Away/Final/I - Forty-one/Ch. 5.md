@@ -359,4 +359,151 @@ By the time the final whistle came, Taiga was tired, sweaty, and mildly furious 
 
 The score was 0-0.
 
+---
 
+Taiga stayed under the shower longer than usual.
+
+The water was almost too hot, which was exactly what he wanted. It hit the back of his neck and ran down between his shoulders, taking some of the stiffness with it. His legs had started complaining the moment he'd stopped moving. 
+Now his thighs felt heavy, one hip was already developing a bruise, and his left shoulder still remembered every time number 4 tried to send him out of campus.
+
+The locker room outside was still loud enough to hear through the showers. Enzo was apparently trying to organize dinner while three different people talked over him.
+
+“Tacos!”
+
+“Again?”
+
+“There is no such thing as again with tacos.”
+
+“You said that Tuesday.”
+
+“And I was right Tuesday.”
+
+Somebody laughed.
+Taiga closed his eyes and let the water run over his face.
+For once, he didn't mind the noise, it was farther away in here.
+
+A few minutes later, the locker-room voices started thinning out. Doors opened and closed. Somebody shouted that they'd meet everyone there. Enzo yelled something about reservations that Taiga didn't bother trying to understand.
+
+Then the stall next to his opened. 
+
+"Are you drowned in there?"
+
+Taiga didn't open his eyes.
+
+"I'm trying."
+
+“I saw number four try to send you into the parking lot.”
+
+"Yeah, twice."
+
+Leo laughed.
+
+“I told you he'd get physical.”
+
+“Very useful prediction after I'd already watched him assault Evan for sixty minutes.”
+
+“Hey, I was trying to prepare you.”
+
+“You made it worse.”
+
+“That also counts as preparation.”
+
+Taiga snorted and tilted his head back under the water.
+
+"By the way, we're getting food after."
+
+"I heard."
+
+"Enzo said tacos."
+
+"Wasn't expecting the Oyster."
+
+"Who goes to the Oyster on Saturday?"
+
+"My roommate does. He says it's much quieter."
+
+"Oh I remember him, the one who was talking about city maps at the floor party, right?"
+
+"Him. Funnily enough, he said he remembers you as well."
+
+"Really? How?"
+
+"Mostly for the noise."
+
+“Good to know I made an impression.”
+
+“You're difficult to ignore.”
+
+There was a beat.
+
+“That is the nicest thing you've ever said to me.”
+
+Taiga laughed under his breath.
+
+“That's a low bar. And it wasn't actually a compliment.”
+
+“I'll still consider it one.”
+
+Taiga reached for the shampoo.
+
+“So, you coming?”
+
+"What's the plan and how many people?"
+
+"Uhh, I guess seven or eight, not many. Plan is tacos, I told you that."
+
+"Just tacos?"
+
+"Just tacos. We eat, Enzo says something offensive about somebody's food choices, Gav explains something nobody asked about, Scott contributes four words and then everyone goes home."
+
+Taiga thought about it.
+
+“And Aaron spends half the night pretending he isn't trying to sit next to Sofia,” Leo added.
+
+"Who's Sofia?"
+
+"Female soccer team. Aaron's hard into her, but he'll never admit it."
+
+“That part does sound entertaining.”
+
+"Is that a yes then?"
+
+Taiga shut off the water and started drying off with the towel.
+
+"Fine."
+
+“Fine as in yes?”
+
+“Fine as in stop asking.”
+
+“I'll take it.”
+
+Leo shut off the water as well. Then he opened the stall and went out in the aisle. 
+
+"You done?"
+
+Taiga looked up over the short door.
+
+"Ye-"
+
+He stopped for a second.
+Leo's towel was not around his waist. He was still using it to dry his hair. 
+Taiga's eyes automatically went downwards. 
+First his chest, then his waist, then his-
+He blinked and looked away, his face was becoming warm.
+
+"Yeah."
+
+Jesus, that guy was shameless.
+
+"Ah, and by the way."
+
+Taiga forced himself not to look up again.
+
+"You did pretty good today."
+
+"Uh- thanks."
+
+He heard Leo walking away and couldn't stop himself from peeking once again.
+
+---
