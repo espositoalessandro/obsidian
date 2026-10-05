@@ -347,9 +347,8 @@ A very large, very annoying defender.
 
 After that, the match stopped feeling like something happening to him.
 
-Taiga still had to work for every bit of space, and number four made sure none of it came easily. Twice he tried to take him down the line and nearly got shouldered straight over the touchline, which was enough to convince him that testing the guy's balance was probably a waste of time.
-
-So he stopped trying to beat him every time.
+Taiga still had to work for every bit of space, and number four made sure none of it came easily. Twice he tried to take him down the line and nearly got shouldered straight over the touchline. 
+Fine, no physical contact. So he stopped trying to beat him every time.
 
 Sometimes he passed inside. Sometimes he moved the ball back and started again. Once, when Aaron went past him, Taiga stayed wide and watched number four hesitate for half a second before following the run. That was enough.
 
@@ -358,6 +357,6 @@ Northbridge kept pressing. Olympus kept pushing back. Neither side found the goa
 
 By the time the final whistle came, Taiga was tired, sweaty, and mildly furious that number four had nearly thrown him off the field twice.
 
-The score was 0-0, and it was okay.
+The score was 0-0.
 
 
