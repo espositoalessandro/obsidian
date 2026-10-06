@@ -548,9 +548,9 @@ Leo dropped on the empty chair beside Taiga and Zoe sat across rom him. He took 
 
 They started reading the menu. A girl came to pick up their orders.
 
-After that, conversations naturally started. He overheard Aaron and Evan discussing the match, Sofia occasionally contributed. Leo and Zoe talked about their class. Zoe was about to bring up again the Git problem, but Leo stopped at once.
+After that, conversations naturally started. He overheard Aaron and Evan discussing the match, The new girl, who turned out to be Sofia, occasionally contributed. Leo and Zoe talked about their class. Zoe was about to bring up again the Git problem, but Leo stopped at once.
 
-Enzo was apparently trying to convince Scott that spicy sauce adds character. Scott wasn't entirely sure that putting the mouth on fire counted as characterization.
+Enzo was apparently trying to convince Scott that spicy sauce adds character. Apparently, Scott wasn't sure that putting the mouth on fire counted as characterization.
 
 Gav was trying to open a conversation with everyone about something Taiga couldn't place. Enzo got caught at some point.
 
@@ -670,7 +670,7 @@ It was 8:12.
 
 Leo rested the forehead on the table.
 
-"Thanks Aaron. This is why I don't come to you for emotional support."
+"Thanks Gav. This is why I don't come to you for emotional support."
 
 "I was just stating the facts."
 
