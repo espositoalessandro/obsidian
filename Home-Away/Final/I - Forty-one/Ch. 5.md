@@ -936,12 +936,12 @@ Taiga bit the hem of his shirt to keep it raised and continued stroking his dick
 
 Leo's hand kept moving. Faster. So did his own.
 
-He closed his eyes and made a muffled “ugh” sound, biting hard into his shirt, as climax finally arrived.
-His whole body arched upward as he started shooting.
+He closed his eyes and made a muffled “ugh” sound, biting hard into his shirt as the buildup reached its peak.
+His whole body arched upward as he started cumming.
 The first bursts reached his chest, then his abdomen.
 Eventually, the rest slowly dripped from his hand.
 
-Taiga glanced at Caleb. Nothing. Thank God.
+Taiga immediately glanced at Caleb. Nothing. Thank God.
 
 He started catching his breath again.
 
