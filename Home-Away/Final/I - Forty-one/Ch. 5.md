@@ -503,12 +503,12 @@ He heard Leo chuckling and walking away and couldn't stop himself from peeking o
 
 ---
 
-By the time Taiga arrived, Enzo had already arranged two tables. Aaron was whispering something with Evan, there was a girl Taiga had never seen looking at her phone, while Scott and Gav were laughing at something.
+By the time Taiga arrived, Enzo had already arranged two tables. Aaron was whispering something with Evan, a girl Taiga had never seen before was looking at her phone, and Scott and Gav were laughing at something.
 
-When finally Enzo found all the chair they needed, they sat.
+When Enzo finally found all the chairs they needed, they sat.
 Taiga took the chair at one end beside Evan. Gav sat across from him. Scott picked the far corner and immediately started reading the menu.
 
-Zoe and Leo arrived a minute later. Taiga saw Zoe putting a hand inside her bag and pulling out a laptop. Leo pointed at her immediately.
+Zoe and Leo arrived a minute later. Taiga saw Zoe reach into her bag and pull out a laptop. Leo pointed at her immediately.
 
 “No.”
 
@@ -540,7 +540,7 @@ Zoe sighed and put the laptop in the bag. Enzo watched the whole thing with visi
 
 “We have rules now? Nobody consulted me. I thought this was a democracy.”
 
-Leo dropped on the empty chair beside Taiga and Zoe sat across rom him. He took one menu and threw it at Enzo.
+Leo dropped onto the empty chair beside Taiga and Zoe sat across from him. He took one menu and threw it at Enzo.
 
 "Order food."
 
@@ -548,11 +548,15 @@ Leo dropped on the empty chair beside Taiga and Zoe sat across rom him. He took 
 
 They started reading the menu. A girl came to pick up their orders.
 
-After that, conversations naturally started. He overheard Aaron and Evan discussing the match, Sofia occasionally contributed. Leo and Zoe talked about their class. Zoe was about to bring up again the Git problem, but Leo stopped at once.
+After that, conversations naturally started. He overheard Aaron and Evan discussing the match; the girl occasionally contributed. Leo and Zoe talked about their class. Zoe was about to bring up the Git problem again, but Leo stopped her at once.
+
+At some point Evan's attention wandered to a girl at another table. Aaron noticed and smirked. Evan didn't even pretend he hadn't looked.
+
+Evan had a horny side, apparently.
 
 Enzo was apparently trying to convince Scott that spicy sauce adds character. Scott wasn't entirely sure that putting the mouth on fire counted as characterization.
 
-Gav was trying to open a conversation with everyone about something Taiga couldn't place. Enzo got caught at some point.
+Gav had been trying to pull everyone into some conversation Taiga hadn't followed. Eventually Enzo made the mistake of asking a question.
 
 "Yeah, man, sounds like a disaster!"
 
@@ -566,7 +570,7 @@ Gav looked at him.
 
 "Nope, D&D."
 
-He smelled the danger immediately. Gav's eyes narrowed, still locked on Taiga.
+He smelled the danger immediately. Gav's eyes lit up, still locked on Taiga.
 
 "No."
 
@@ -628,7 +632,7 @@ Conversations split apart on their own. He could listen to one, ignore another, 
 At some point Gav and Zoe ended up discussing a game. Taiga stopped following when Gav started explaining why randomness and perceived fairness were not the same thing.
 Enzo declared the discussion illegal.
 
-Leo was laughing at something Aaron said, when his phone buzzed. He pulled it out and his expression changed immediately.
+Leo was laughing at something Aaron said when his phone buzzed. He pulled it out and his expression changed immediately.
 
 "Shit!"
 
@@ -636,7 +640,7 @@ Aaron looked over.
 
 "What?"
 
-"I told my roommate that we'd taken thai tonight."
+"I told my roommate we'd get Thai tonight."
 
 Zoe didn't even look surprised.
 
@@ -656,7 +660,7 @@ Zoe rubbed her face.
 
 "I swear Leo."
 
-Aaron asked:
+Gav asked:
 
 "What time?"
 
@@ -668,17 +672,17 @@ It was 8:12.
 
 “So you've already missed one and you're about to be late to the other.”
 
-Leo rested the forehead on the table.
+Leo rested his forehead on the table.
 
-"Thanks Aaron. This is why I don't come to you for emotional support."
+"Thanks, Gav. This is why I don't come to you for emotional support."
 
 "I was just stating the facts."
 
 "Exactly. Emotional support doesn't need the truth."
 
-He lift his head, took his phone and put it to his ear.
+He lifted his head, picked up his phone and put it to his ear.
 
-"Hey, Gabe! Happy Birthday!"
+"Hey, Gabe! Happy birthday!"
 
 He stood and walked a few meters away, already apologizing and rebuilding his evening in real time.
 
@@ -686,7 +690,7 @@ Taiga raised both eyebrows. Zoe looked resigned.
 
 "This happens often?"
 
-"Yeah, he constantly schedules himself into three places at once"
+"Yeah, he constantly schedules himself into three places at once."
 
 "Calendar?"
 
@@ -753,7 +757,7 @@ Oh. Right. His shoulders dropped.
 That was apparently enough for her. 
 Dinner kept moving.
 
-Leo came back after a couple of minutes. Apparently, he had managed to move the thai dinner the following day and Gabe didn't mind him being late. 
+Leo came back after a couple of minutes. Apparently, he had managed to move the Thai dinner to the following day and Gabe didn't mind him being late. 
 
 "And I survived once again."
 
@@ -763,7 +767,7 @@ Zoe raised an eyebrow.
 
 Leo huffed. 
 
-"Right. But Taiga could help you, he's way better at it."
+"Right. But Taiga could help you. He's way better at it."
 
 Taiga and Zoe stared at him. She went first, luckily for Leo.
 
@@ -771,7 +775,7 @@ Taiga and Zoe stared at him. She went first, luckily for Leo.
 
 Leo stopped and turned to Taiga.
 
-"Right sorry. Do you want to look at it tomorrow? You can say no and Zoe can face the consequences of her own commits."
+"Right, sorry. Do you want to look at it tomorrow? You can say no and Zoe can face the consequences of her own commits."
 
 "What happened this time?"
 
