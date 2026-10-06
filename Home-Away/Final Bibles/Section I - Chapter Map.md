@@ -128,6 +128,8 @@ For the romantic thread, preserve the order:
 
 Zoe's information must not create the attraction. The reader already knows the attraction exists before Taiga learns Leo may be available to men. The meaningful threshold is not the dream itself, which is involuntary, but Taiga choosing while awake to continue the fantasy and take it further.
 
+This still does **not** begin the later nervous-crush phase. Chapter 5 establishes sexual attraction. Early Chapter 6 should let Taiga consciously file the result under a simple explanation — **Leo is hot; that explained enough** — and return to normal behavior around him.
+
 ---
 
 ## Chapter 6 — Earned Place
@@ -147,6 +149,18 @@ The development review gives the football thread an institutional answer. Academ
 If the 74/100 academic thread begins in Chapter 4, this chapter is a natural place for meaningful payoff or visible improvement.
 
 Do not make improvement total. "Earned place" is not the same as "everything is easy now."
+
+Caleb and Maya should receive meaningful domestic space here. Maya needs to become a person Taiga actually spends time with, not merely Caleb's girlfriend on a screen, while Caleb's roommate relationship with Taiga should remain active as the football plot grows.
+
+### Romantic guardrail
+
+Chapter 6 is a **step back into normality**, not an escalation.
+
+Taiga may briefly acknowledge the obvious conclusion from Chapter 5: Leo is hot, and that explains the shower, dream and conscious fantasy well enough for now. After that, do not make Taiga nervous, fixated or unusually attentive around Leo. Leo can be present without automatically initiating a Taiga scene, and Taiga can react to his name or presence normally.
+
+The point is that Taiga believes the question is settled.
+
+Do not spend the later Chapter 12 turning point here.
 
 ---
 
@@ -192,7 +206,7 @@ The choice should not resolve Taiga's entire future. It is meaningful because it
 
 Apollo stops functioning primarily as "the soccer team" and becomes a group of people Taiga actively wants to spend time with.
 
-A social event such as Arcadia matters because Taiga attends despite having no obligation to. Leo becomes increasingly personally distinct within the group, especially through quieter one-on-one interaction.
+A social event such as Arcadia matters because Taiga attends despite having no obligation to. Leo can have quieter one-on-one interaction inside that social growth, but Taiga should still be able to file him as an attractive teammate/friend rather than someone carrying special emotional charge.
 
 ### Movement
 
@@ -200,7 +214,7 @@ A social event such as Arcadia matters because Taiga attends despite having no o
 
 ### Guardrail
 
-This is still Section I. Taiga does not need to identify Leo as emotionally special in explicit terms. The attraction and preference can remain compartmentalized.
+This is still before the Chapter 12 romantic turn. Taiga should **not** yet become nervous around Leo, track him automatically, or treat ordinary one-on-one interaction as evidence of a crush. The attraction remains compartmentalized as physical and ordinary.
 
 ---
 
@@ -251,6 +265,8 @@ The call-up should feel earned through the preceding football progression. Do no
 The things that once felt new have become ordinary life.
 
 First-team football, reserve football, Apollo, Nora, Caleb, Computer Science and Leo are no longer isolated novelties. Missing a first-team match does not erase the first appearance. Returning to reserve football is not a demotion of self-worth. Olympus has become the baseline from which the next section can begin.
+
+The romantic thread deliberately changes state here. Something Leo says in Chapter 12 should be the first event that destabilizes Taiga's comfortable explanation that Leo is simply hot. Taiga begins to see **Leo specifically** differently from this point. Do not turn that into an instant solved crush; the later rink material should deepen and clarify the shift.
 
 ### Movement
 
