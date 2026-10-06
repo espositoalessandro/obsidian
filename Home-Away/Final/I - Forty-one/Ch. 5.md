@@ -846,7 +846,7 @@ Leo was fully naked, slowly walking towards him.
 He kept walking.
 Had the stall always been this large?
 
-Eventually he stopped right in front of him, smirking.
+Eventually he stopped right in front of him. He looked hesitant.
 His hands reached for Taiga's chest.
 They were only a few centimeters away-
 
@@ -860,8 +860,8 @@ Taiga kept panting and rubbed his face.
 
 What in the name of sanity was that?
 
-He tried to remember the dream, but nothing. It was like trying to hold water with bare hands.
-The only thing stuck in his mind, was the feeling of seeing Leo in front of him.
+He tried to remember the dream but it was like trying to hold water with bare hands.
+The only thing stuck in his mind was the feeling of seeing Leo in front of him.
 Naked. Centimeters away. He could actually remember the sound of his breath. 
 Then his hands, reaching for him.
 
@@ -871,7 +871,7 @@ Okay, it was just a dream. Brains were stupid during night.
 
 He felt the pressure under the blankets though. Of course.
 His dick was throbbing, basically begging for attention.
-One hand began moving down, before he shoved it under the pillow.
+One hand automatically began moving down, before he shoved it under the pillow.
 
 No. Definitely not.
 He turned on his side and closed his eyes again.
@@ -916,14 +916,14 @@ Unrequested, his mind kept giving him images from the shower. At some point, he 
 
 He went faster.
 
-The way he was looking at him. The smirk. Then his hands, reaching for him.
+The way he was looking at him. His hands, reaching for him.
 He hadn't noticed if Leo was actually hard in his dream.
 
 Why the fuck was that important?
 
 Still, that made him go faster.
 
-Again. His breath. He was merely centimeters away. Heat irradiating from his body. 
+Again. His breath. He was merely centimeters away. He could almost feel the heat coming from his body. 
 He imagined Leo's hands on his chest. Their warmth. Then one moved downwards.
 On his abdomen. 
 Then he grabbed Taiga's shaft.
