@@ -2067,3 +2067,5 @@ The chapter's weight should be split between:
 - dramatic assist / winner as required payoff;
 - Hunter exhibition tangent;
 - masturbation scene — **unplaced for now, not automatically moved to Ch. 6**.
+
+

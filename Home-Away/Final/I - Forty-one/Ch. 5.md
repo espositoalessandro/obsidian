@@ -228,7 +228,6 @@ Evan sighed.
 The door opened and Mercer shouted them to go out.
 
 The match began. 
-Northbridge versus Olympus.
 Taiga sat with his bib between Leo and another development player. He immediately looked for their fullback and their winger.
 Now that he knew he was *probably* going to play, he didn't just see the match. 
 He started analyzing everything.
@@ -803,3 +802,158 @@ He zoomed away. Taiga shook his head.
 
 ---
 
+"Since you disagree, Mr. Akatora, why don't you explain us your point?"
+
+Professor Hall was looking at him. Everyone was actually looking at him. 
+He turned towards Nora, but she was busy taking notes.
+
+Didn't she notice that Hall had stopped?
+
+Taiga tried to talk but words wouldn't come out. What was his argument again? He didn't even remember the topic.
+A smile appeared on Hall's face.
+
+"As I thought."
+
+No. Fuck, he had to reply, he knew there was something he saw.
+
+"Akatora."
+
+He turned. Mercer was sitting at the desk behind him. 
+Yes, he remembered. Coach wanted to see how developmental players were faring in classes, to make sure soccer wasn't affecting their academic career.
+
+Now he had seen him. Was that the end?
+
+That was stupid. Keitaro would have scolded him for thinking something like that. Taiga kicked the grass and looked at the pitch, hands on his knees, his breath short from all the running. 
+
+Finally, the whistle. 
+
+"Enough for today."
+
+The scrimmage sucked. How could they win against Olympus alumni who were playing in the nationals right now?
+
+Water was running on his head, down to his body. It probably didn't matter, it was just a scrimmage.
+He heard steps. Someone was in the aisle. 
+Weird, he thought that the team had a dinner and everybody already left.
+
+Steps approached. Maybe it was the janitor doing cleanups?
+
+Then the door of his stall opened. Someone entered. Taiga rushed back, until he touched the cold tiles.
+
+Leo was closing the door behind him. His towel was, again, not around his waist. 
+
+Taiga tried to say something. Again, words didn't come out. The fuck was wrong with him today?
+Leo was fully naked, slowly walking towards him. 
+He kept walking.
+Had the stall always been this large?
+
+Eventually he stopped right in front of him, smirking.
+His hands reached for Taiga's chest.
+They were only a few centimeters away-
+
+"Shit."
+
+Taiga suddenly sat down. 
+Room 317 was dark and silent. He could feel his heart beating hard under his ribs. His breath was heavy.
+
+He looked around, Caleb was peacefully asleep in his bed.
+Taiga kept panting and rubbed his face.
+
+What in the name of sanity was that?
+
+He tried to remember the dream, but nothing. It was like trying to hold water with bare hands.
+The only thing stuck in his mind, was the feeling of seeing Leo in front of him.
+Naked. Centimeters away. He could actually remember the sound of his breath. 
+Then his hands, reaching for him.
+
+He looked at the time: 2:17, then laid down on his back. One hand still rubbing his eyes.
+
+Okay, it was just a dream. Brains were stupid during night.
+
+He felt the pressure under the blankets though. Of course.
+His dick was throbbing, basically begging for attention.
+One hand began moving down, before he shoved it under the pillow.
+
+No. Definitely not.
+He turned on his side and closed his eyes again.
+
+*Oh and by the way...*
+
+Jesus fucking Christ.
+He turned on the other side and stayed like that for a couple of minutes.
+
+*I don't think he's into girls.*
+
+Okay, that was unnecessary. Totally unnecessary. Why even bring that up?
+Taiga turned again on his belly and shoved his face into the pillow.
+
+Bad idea. 
+Now he could feel even more pressure down there. His hips began moving slowly, without his permission.
+
+Absolutely not. 
+
+He turned on his back, then watched the time again.
+
+2:26
+Fuck.
+
+Taiga peeked again at Caleb: still no movements. He could sleep through six alarms most mornings, so that shouldn't be a surprise.
+
+He took a deep breath.
+
+“This is fucking ridiculous,” he whispered.
+Fine.
+
+Taiga turned back toward the wall and pulled down a bit his shorts.
+
+He grabbed his dick and started moving his hand. Slowly first.
+Every tiny movement suddenly sounded enormous. Fabric shifting. Mattress springs. His own breathing.
+He stopped when Caleb moved, but Caleb only rolled farther toward the wall and went still again.
+
+Taiga waited a couple of seconds, then continued.
+He was trying not to think about anyone in particular. That lasted maybe ten seconds.
+
+Unrequested, his mind kept giving him images from the shower. At some point, he wasn't sure anymore what was from the dream and what actually happened.
+
+He went faster.
+
+The way he was looking at him. The smirk. Then his hands, reaching for him.
+He hadn't noticed if Leo was actually hard in his dream.
+
+Why the fuck was that important?
+
+Still, that made him go faster.
+
+Again. His breath. He was merely centimeters away. Heat irradiating from his body. 
+He imagined Leo's hands on his chest. Their warmth. Then one moved downwards.
+On his abdomen. 
+Then he grabbed Taiga's shaft.
+
+"F-Fuck-"
+
+He rolled onto his back and pulled up his shirt.
+God, that would be a really bad moment for Caleb to wake up.
+Taiga bit the hem of his shirt to keep it raised and continued stroking his dick. 
+
+Leo's hand kept moving. Faster. So did his own.
+
+He closed his eyes and made a muffled “ugh” sound, biting hard into his shirt, as climax finally arrived.
+His whole body arched upward as he started shooting.
+The first bursts reached his chest, then his abdomen.
+Eventually, the rest slowly dripped from his hand.
+
+Taiga glanced at Caleb. Nothing. Thank God.
+
+He started catching his breath again.
+
+Then nothing.
+Dark room. Caleb breathing. The clock now read 2:37.
+
+Taiga stared at the ceiling, finally releasing his shirt from his teeth, breathing heavily.
+
+He stayed still until his breathing settled, then slipped out of bed, cleaned himself up in the bathroom and returned as quietly as possible. Caleb never moved. Bless him.
+
+His mind finally started to let go of the dream. Taiga slowly could think straight again.
+
+It was just a dream. It had happened before.
+
+No need to make anything out of a horny dream.
