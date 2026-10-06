@@ -726,7 +726,7 @@ She smiled and turned to Taiga. This time, she lowered her voice.
 
 "Nah, we met because we share some classes and we hang out. And that's already too much for me sometimes."
 
-Taiga felt immediately stupid for asking.
+Right. That was a stupid question.
 
 "And between you and me, I honestly don't think he's into girls anyway."
 
