@@ -1360,6 +1360,7 @@ Leo's curtain opened a few seconds later. Taiga was pulling on underwear when Le
 > **Aaron**
 > - socially confident and quick to join the bit;
 > - obvious interest in Sofia while insisting nothing is happening;
+> - **Sofia herself stays marginal**: she is present mainly as the person Aaron is obviously interested in, not as a character being introduced; give her little or no substantive dialogue;
 > - likes flashy football solutions and defends them immediately when somebody criticizes them;
 > - normal criticism pattern should appear once or twice in harmless form: reject it, insult / argue with the messenger, then move on;
 > - do not make him genuinely angry here.
@@ -1417,15 +1418,9 @@ Aaron was directly behind him.
 
 “I was going to sit there anyway.”
 
-Sofia looked over from the chair she'd just taken.
+Sofia had already taken a chair near the middle.
 
-“You asked me which side of the table I wanted.”
-
-“That's called being polite.”
-
-“You asked twice.”
-
-“Thoroughly polite.”
+Aaron glanced at the empty seat beside her.
 
 Enzo spread both hands.
 
@@ -1433,7 +1428,7 @@ Enzo spread both hands.
 
 “Fuck you.”
 
-Aaron sat beside Sofia anyway.
+Aaron sat there anyway.
 
 Taiga took the chair at one end beside Evan. Gav sat across from him. Scott picked the far corner and immediately started reading the menu.
 
@@ -1599,27 +1594,19 @@ Enzo inspected the salsa and looked personally insulted.
 
 “This is cowardly.”
 
-“You haven't tasted it,” Sofia said.
-
-“I can see fear.”
-
 Aaron reached for the darkest one.
 
-Sofia stopped him.
+Enzo looked at him.
 
-“That one's actually hot.”
-
-Aaron looked at her.
+“That one might actually fight back.”
 
 “So?”
 
-“Nothing. Just warning you.”
-
-He poured far too much onto his taco.
+Aaron poured far too much onto his taco.
 
 Five minutes later his eyes were watering.
 
-Sofia glanced over.
+Taiga looked at him.
 
 “You good?”
 
@@ -1643,31 +1630,33 @@ Aaron pointed at him.
 
 “Exactly.”
 
-Sofia said, “He's crying into a taco.”
+Enzo looked at Aaron's face.
+
+“He's crying into a taco.”
 
 “That's different.”
 
 The conversation moved on.
 
-At some point Sofia brought up the match.
+At some point Gav brought up the match.
 
-“That backheel was stupid, by the way.”
+“That backheel was not a successful pass, by the way.”
 
 Aaron barely looked up.
 
-“It worked.”
+“It reached Price.”
 
-“It hit Romero in the shin.”
+“It hit Romero in the shin first.”
 
-“And reached Price.”
+“And then reached Price.”
 
 “By accident.”
 
 “Still reached him.”
 
-Gav said, “That's not really a successful pass if the intended target was—”
+Gav opened his mouth again.
 
-Aaron pointed at him without turning.
+Aaron pointed at him.
 
 “Don't.”
 
@@ -1675,15 +1664,13 @@ Gav stopped.
 
 Then added:
 
-“It isn't.”
+“It still wasn't successful.”
 
-“Your face isn't a successful pass.”
+“Your face isn't successful.”
 
 “That doesn't mean anything.”
 
 “It doesn't have to.”
-
-Sofia laughed.
 
 Aaron grinned and took another bite.
 
@@ -1703,23 +1690,17 @@ Aaron sighed.
 
 Then he went back to his taco like the discussion had never happened.
 
-A few minutes later Enzo nodded toward Aaron and Sofia.
+A few minutes later Enzo nodded toward Aaron, then toward the chair beside him.
 
-“So. When are you two going out?”
-
-“We're not,” Aaron said immediately.
-
-Sofia kept eating.
-
-Enzo looked at her.
-
-“Counterpoint?”
-
-“He hasn't asked.”
+“So. When are you going to stop pretending that seat was accidental?”
 
 Aaron almost choked.
 
-“I don't need to ask because we're not going out.”
+“It was accidental.”
+
+“You crossed half the table.”
+
+“There were chairs.”
 
 Evan shook his head.
 
@@ -1729,7 +1710,7 @@ Aaron stared at him.
 
 “Doing what?”
 
-“If you like her, ask her. All this pretending you don't is wasted effort.”
+“If you like a girl, ask her out. All this pretending you don't is wasted effort.”
 
 “I don't need dating advice from you.”
 
@@ -1754,10 +1735,6 @@ Enzo put a hand over his heart.
 Evan pointed at him.
 
 “Mock me all you want. Confidence works.”
-
-Sofia said, “He's currently denying he likes me while sitting next to me.”
-
-“Exactly. Terrible strategy.”
 
 Aaron looked betrayed.
 
@@ -1939,13 +1916,13 @@ Taiga didn't follow every conversation. He didn't need to.
 
 Enzo started an argument about whether salsa could be cowardly. Scott contributed three words and somehow ended up deciding it. Zoe and Gav spent several minutes discussing whether a game mechanic counted as bad design or merely hostile design, which somehow became Gav explaining the difference between randomness and probability until Zoe told him she knew what probability was.
 
-Aaron kept leaning toward Sofia whenever she spoke, then acting completely normal whenever Enzo noticed.
+Aaron kept leaning toward Sofia whenever the conversation drifted her way, then acting completely normal whenever Enzo noticed.
 
-At one point Sofia said something too quietly for Taiga to hear.
+At one point she said something Taiga didn't catch.
 
 Aaron laughed.
 
-Then Enzo immediately said:
+Enzo immediately said:
 
 “You're smiling.”
 
@@ -1979,7 +1956,7 @@ Scott looked up.
 
 “Movie setup until eight-thirty. Birthday after.”
 
-Sofia frowned.
+Zoe looked at his food.
 
 “And dinner?”
 
@@ -2099,13 +2076,9 @@ Then at everyone else:
 
 Leo headed off at a fast walk, close enough to running that the distinction was mostly legal.
 
-Sofia watched him go.
+Zoe watched him go.
 
-“He does that to himself.”
-
-Zoe nodded.
-
-“Every week.”
+“He does that to himself every week.”
 
 Enzo reached for one of Leo's abandoned fries.
 
