@@ -108,11 +108,11 @@ Do not place the masturbation scene here. Chapter 4 should deepen familiarity an
 
 ### Dramatic role
 
-Football stops being something Taiga is testing and becomes something he is emotionally committed to.
+Football stops being something Taiga is merely testing and becomes something he is emotionally committed to.
 
-His first reserve start creates real performance pressure. He makes mistakes and has to continue playing rather than immediately correcting, erasing or escaping them. Socially, he begins staying with the team after football rather than automatically leaving.
+His first actual reserve minutes create real performance pressure. He enters against Northbridge overwhelmed, simplifies his game long enough to settle, then begins recognizing space and making decisions inside the match rather than experiencing it as something happening to him. The match ends 0–0. Socially, he accepts the post-match team dinner instead of automatically leaving, another small step from proximity toward participation.
 
-The romantic thread also advances one deliberate step. A second shower encounter with Leo confirms that Taiga's earlier physical noticing was not a one-off. Later that night, Taiga masturbates while thinking about Leo and immediately rationalizes it as purely physical. Only **after** that does Zoe clarify that she and Leo are not dating and that she does not think Leo is into girls. Taiga feels unexpectedly good about that information without understanding why.
+The romantic thread also advances one deliberate step. A second shower encounter with Leo confirms that Taiga's earlier physical noticing was not a one-off. At dinner, Zoe clarifies that she and Leo are not dating and says she does not think Leo is into girls. The information matters to Taiga, but he does not consciously classify why. Later that night, an involuntary dream about Leo becomes an awake choice: after resisting, Taiga consciously continues and develops the fantasy while masturbating. He recognizes afterward that the dream cannot explain what he chose to do once awake, but postpones confronting what that means.
 
 ### Movement
 
@@ -124,9 +124,9 @@ The chapter should not imply that commitment means confidence. Taiga can be deep
 
 For the romantic thread, preserve the order:
 
-**second shower → masturbation / physical rationalization → Zoe says Leo may not be into girls → Taiga likes that information without naming why.**
+**second shower → Zoe says Leo may not be into girls → dream → conscious awake fantasy / masturbation → postponement of interpretation.**
 
-Zoe's information must not create the attraction. The reader should already know the attraction exists before Taiga learns Leo may be available to men.
+Zoe's information must not create the attraction. The reader already knows the attraction exists before Taiga learns Leo may be available to men. The meaningful threshold is not the dream itself, which is involuntary, but Taiga choosing while awake to continue the fantasy and take it further.
 
 ---
 
