@@ -1349,133 +1349,99 @@ Leo's curtain opened a few seconds later. Taiga was pulling on underwear when Le
 
 > **MAJOR EVENT #2**
 >
-> **SOURCE:** old Draft Ch. 5 dinner, copied verbatim below.
+> **SOURCE:** rebuilt from the old Draft Ch. 5 dinner, preserving useful staging and dialogue while applying the Final Bibles.
 >
-> Do not rebuild the scene from zero. Much of the ensemble material is useful.
+> ### Main ensemble job
 >
-> ### Required adaptations
+> This is the first scene where **Aaron and Gav become socially legible**, rather than simply existing as players Taiga recognizes.
 >
-> - **Mia → Zoe**, but not as a blind name replacement.
-> - Preserve source staging/dialogue wherever Zoe would plausibly say/do the same thing.
-> - Rewrite only what must change to fit Zoe's locked Final voice:
->   - chaotic / weeb;
->   - CS student;
->   - technically competent;
->   - pragmatic;
->   - socially direct.
-> - Trim football debrief if the match section already did enough.
-> - Preserve Leo overscheduling himself; it adds character texture without making the chapter about romance.
+> Do not explain either personality in neutral narration. Let the reader experience them.
 >
-> ### Gav + Evan — reveal their off-field personalities
+> **Aaron**
+> - socially confident and quick to join the bit;
+> - obvious interest in Sofia while insisting nothing is happening;
+> - likes flashy football solutions and defends them immediately when somebody criticizes them;
+> - normal criticism pattern should appear once or twice in harmless form: reject it, insult / argue with the messenger, then move on;
+> - do not make him genuinely angry here.
 >
-> This dinner is also the first good opportunity for Taiga to experience the difference between **who Gav and Evan are on the field** and **who they are socially**.
+> **Gav**
+> - enthusiastic nerd rather than dry team stabilizer;
+> - his instinct is to share / explain / recruit;
+> - D&D is enough for this scene; do not list every hobby;
+> - once activated, he should keep supplying information after Taiga has already made it clear he does not need any;
+> - the humor comes from Gav sincerely assuming Taiga's refusal is caused by insufficient information.
 >
-> **Evan = horny senpai.**
+> **Evan**
+> - he is already established as Taiga's experienced, cautious senior winger;
+> - this dinner may reveal the embarrassing senpai side of him through unsolicited dating advice;
+> - Taiga-filtered narration such as **“Evan had a horny side, apparently.”** is fine. That is POV, not an explanatory character thesis.
 >
-> On the field Taiga mostly knows him as:
-> - experienced;
-> - cautious;
-> - useful;
-> - the senior winger who gives practical advice.
+> ### Other continuity
 >
-> At dinner, show the other half of him:
-> - enthusiastically obsessed with women in the classic anime-senpai way;
-> - socially comfortable;
-> - strong opinions about types / dating;
-> - convinced he has valuable romantic wisdom;
-> - harmless and sincere, not predatory.
->
-> Taiga should get at least one clear **“oh, so this is what he's like outside football”** beat.
->
-> This can come from Evan:
-> - noticing / flirting with a woman nearby;
-> - telling a dating story;
-> - launching a completely confident “type” discussion;
-> - offering relationship advice nobody asked for.
->
-> Do not make the joke that Evan is sleazy. The joke is that the otherwise composed senior player becomes an embarrassingly confident horny senpai on this subject.
->
-> **Gav = the nerd.**
->
-> Do **not** preserve the old source version where Gav mostly sits back, corrects facts, and acts as the group's dry stabilizer. That characterization is obsolete.
->
-> Gav's social instinct is **share the thing**:
-> - explain;
-> - recommend;
-> - invite;
-> - recruit;
-> - provide much more context than anybody requested once a subject activates him.
->
-> Dinner is a good place to expose one or two of his locked interests naturally:
-> - D&D;
-> - chess;
-> - birdwatching;
-> - biology / sports medicine.
->
-> A particularly useful beat is Gav trying to recruit Taiga into something:
->
-> > “We need another player Thursday.”
-> >
-> > “For football?”
-> >
-> > “D&D.”
-> >
-> > “No.”
-> >
-> > “You haven't heard the campaign premise.”
->
-> Not necessarily those exact lines, but preserve that mechanism: Gav treats Taiga's refusal as an **information problem** and starts explaining why the thing is interesting.
->
-> Zoe can also activate Gav's nerd mode if one of her CS / game / anime comments gives him an adjacent subject to latch onto.
->
-> **Important source correction:** the copied line later in this scene saying **“Gav mostly listened, occasionally correcting facts or dragging a conversation back when Enzo sent it somewhere useless”** belongs to the old development version of Gav and should be replaced during rewrite.
->
-> The useful contrast for Taiga is:
->
-> - **on field:** Evan = experienced / cautious; Gav = tactically calculating;
-> - **at dinner:** Evan = horny senpai; Gav = enormous enthusiastic nerd.
->
-> Do not explain this contrast in narration as a character thesis. Let Taiga simply experience the extra information.
+> - **Mia is Zoe.**
+> - Zoe is chaotic / weeb / CS, technically competent, pragmatic and socially direct.
+> - Preserve Leo overscheduling himself.
+> - Do not turn the dinner into another football debrief.
+> - Scott can remain sparse off the pitch.
+> - Enzo should keep filling dead air and escalating jokes.
 >
 > ### Romantic beat
 >
 > Taiga eventually asks whether Zoe and Leo are dating.
 >
-> Zoe says no.
+> Zoe says no and adds, explicitly as **her impression**, that Leo does not seem particularly interested in girls.
 >
-> She adds, as **her impression**, that Leo does not seem particularly interested in girls.
+> Taiga's response stays small.
 >
-> This happens **after** Taiga has already physically noticed Leo twice across Ch. 3 and Ch. 5.
+> No identity analysis. No sudden realization.
 >
-> Taiga's response remains small.
->
-> No masturbation scene. No identity analysis. No sudden realization.
->
-> He simply likes / notices the information more than the question should warrant.
->
-> **SOURCE POOL:**
+> **SOURCE POOL — revised dinner:**
 
-It ended up being eight people. Taiga almost turned around. Then he saw the tables outside and realized they could spread out. Fine.
+It ended up being nine people.
+
+Taiga almost turned around when he saw them. Then he noticed the tables outside, far enough apart that nobody had to sit on top of anybody else.
+
+Fine.
 
 Enzo had somehow taken control of two tables before everyone even arrived.
 
 “Forty-one! Here. Strategic seating.”
 
-Taiga stopped. “What does that mean?”
+Taiga stopped.
 
-“It means if Aaron sits across from Sofia, he will stop pretending this dinner is not about Sofia.”
+“What does that mean?”
 
-Aaron, behind him, said, “I can hear you.”
+“It means Aaron has spent the last three minutes pretending he doesn't care where Sofia sits.”
 
-“That is intentional.”
+Aaron was directly behind him.
 
-Sofia laughed and sat wherever she wanted.
+“I was going to sit there anyway.”
 
-Taiga took a seat at one end beside Evan. Gav sat across from him. Scott took the far corner and immediately started reading the menu in silence.
+Sofia looked over from the chair she'd just taken.
 
-Leo dropped into the chair beside Taiga. Mia arrived late, carrying her laptop.
+“You asked me which side of the table I wanted.”
 
-Leo immediately pointed.
+“That's called being polite.”
+
+“You asked twice.”
+
+“Thoroughly polite.”
+
+Enzo spread both hands.
+
+“The prosecution rests.”
+
+“Fuck you.”
+
+Aaron sat beside Sofia anyway.
+
+Taiga took the chair at one end beside Evan. Gav sat across from him. Scott picked the far corner and immediately started reading the menu.
+
+Leo dropped into the chair beside Taiga.
+
+Zoe arrived a minute later with a laptop under one arm.
+
+Leo pointed at it immediately.
 
 “No.”
 
@@ -1485,63 +1451,343 @@ She stopped.
 
 “No computers.”
 
-“I have homework.”
+“I have a merge conflict.”
 
-“You're at dinner.”
+“You have dinner.”
 
-Mia looked at Taiga.
+“The merge conflict also has dinner. It's eating my evening.”
+
+Zoe looked at Taiga.
 
 “Tell him.”
 
-Taiga unwrapped a taco.
+Taiga hadn't even opened the menu yet.
 
-“Why do I keep getting dragged into your arguments?”
+“Why am I involved?”
 
-“Because you're sensible.”
+“Because you understand computers.”
 
-Leo laughed loudly.
+Leo laughed.
 
-“He is absolutely not.”
+“He's not automatically on your side because he knows what Git is.”
 
 Taiga looked at him.
 
-“Excuse me?”
+“I'm rarely on anyone's side.”
 
-Leo raised both hands.
+“See?” Leo said. “Neutral authority.”
 
-“You're sensible about computers.”
+“That isn't what neutral means.”
 
-“That's better.”
+Zoe sighed and slid the laptop under her chair.
 
-Mia sat and put the laptop under her chair.
+Enzo watched the whole thing with visible offense.
 
-Enzo watched this, scandalized.
+“We have rules now? Nobody consulted me.”
 
-“We have rules now? I wasn't consulted.”
+Scott looked up from the menu.
 
-Gav opened a sauce packet. “That's why they work.”
+“Order food.”
 
-Enzo stared at him. “Betrayal from leadership.”
+Enzo pointed at him.
 
-Scott said, without looking up, “Order food.”
+“See? Tyranny.”
 
-Enzo pointed at him. “See? Tyranny.”
+Scott went back to reading.
 
-Scott kept reading.
+While they waited, Gav's phone buzzed.
 
-The food arrived.
+He looked at it and frowned.
 
-Leo's phone buzzed. He checked it. His expression changed.
+“Damn.”
+
+Enzo leaned over.
+
+“Disaster?”
+
+“We're down a player Thursday.”
+
+Taiga looked up automatically.
+
+“For football?”
+
+“D&D.”
+
+“No.”
+
+Gav looked at him.
+
+“You don't even know what I was going to ask.”
+
+“You need a player Thursday.”
+
+“Yes.”
+
+“For D&D.”
+
+“Yes.”
+
+“No.”
+
+“You haven't heard the campaign.”
+
+Taiga stared at him.
+
+“I don't need to.”
+
+“You might. We're doing an urban campaign where the city resets every seven days, but only the party remembers the previous cycle. So the whole thing is basically information management because—”
+
+“No.”
+
+“—because every reset lets you test a different solution to the same political structure.”
+
+Taiga paused.
+
+Gav noticed.
+
+“There. See?”
+
+“I said no.”
+
+“But that part interested you.”
+
+“It didn't.”
+
+“It did a little.”
+
+Leo leaned toward Taiga.
+
+“You made eye contact. Rookie mistake.”
+
+Gav continued as if neither of them had spoken.
+
+“We're missing divine support, but you wouldn't necessarily have to play a cleric. There are other ways to cover healing depending on what class you—”
+
+“I understood maybe four words of that.”
+
+“I can explain the classes.”
+
+“Please don't.”
+
+“Okay. Short version—”
+
+“That was not permission.”
+
+Zoe laughed.
+
+“What's the party composition?”
+
+Taiga looked at her.
+
+“Don't encourage him.”
+
+Gav immediately turned toward Zoe.
+
+“Barbarian, rogue, wizard, artificer. We had a cleric, but Marco has a lab now, which is the problem.”
+
+Zoe nodded seriously.
+
+“Yeah, that's bad.”
+
+Taiga looked between them.
+
+Of course there were two of them.
+
+The food arrived before Gav could recruit anyone else.
+
+Enzo inspected the salsa and looked personally insulted.
+
+“This is cowardly.”
+
+“You haven't tasted it,” Sofia said.
+
+“I can see fear.”
+
+Aaron reached for the darkest one.
+
+Sofia stopped him.
+
+“That one's actually hot.”
+
+Aaron looked at her.
+
+“So?”
+
+“Nothing. Just warning you.”
+
+He poured far too much onto his taco.
+
+Five minutes later his eyes were watering.
+
+Sofia glanced over.
+
+“You good?”
+
+“Perfect.”
+
+“You're sweating.”
+
+“It's hot outside.”
+
+“It is not.”
+
+Aaron took another bite on principle.
+
+Taiga smiled into his drink.
+
+Evan noticed.
+
+“Never let them see weakness.”
+
+Aaron pointed at him.
+
+“Exactly.”
+
+Sofia said, “He's crying into a taco.”
+
+“That's different.”
+
+The conversation moved on.
+
+At some point Sofia brought up the match.
+
+“That backheel was stupid, by the way.”
+
+Aaron barely looked up.
+
+“It worked.”
+
+“It hit Romero in the shin.”
+
+“And reached Price.”
+
+“By accident.”
+
+“Still reached him.”
+
+Gav said, “That's not really a successful pass if the intended target was—”
+
+Aaron pointed at him without turning.
+
+“Don't.”
+
+Gav stopped.
+
+Then added:
+
+“It isn't.”
+
+“Your face isn't a successful pass.”
+
+“That doesn't mean anything.”
+
+“It doesn't have to.”
+
+Sofia laughed.
+
+Aaron grinned and took another bite.
+
+Scott finally looked up.
+
+“Don't do it near our box.”
+
+Aaron leaned back.
+
+“I know.”
+
+Scott kept looking at him.
+
+Aaron sighed.
+
+“Fine. I know now.”
+
+Then he went back to his taco like the discussion had never happened.
+
+A few minutes later Enzo nodded toward Aaron and Sofia.
+
+“So. When are you two going out?”
+
+“We're not,” Aaron said immediately.
+
+Sofia kept eating.
+
+Enzo looked at her.
+
+“Counterpoint?”
+
+“He hasn't asked.”
+
+Aaron almost choked.
+
+“I don't need to ask because we're not going out.”
+
+Evan shook his head.
+
+“You're doing this completely wrong.”
+
+Aaron stared at him.
+
+“Doing what?”
+
+“If you like her, ask her. All this pretending you don't is wasted effort.”
+
+“I don't need dating advice from you.”
+
+“Everybody needs dating advice from me.”
+
+Zoe looked across the table.
+
+“How many relationships makes you qualified?”
+
+Evan thought about it.
+
+“Relationships or dates?”
+
+“That answer made it worse.”
+
+“It shouldn't. Larger sample size.”
+
+Enzo put a hand over his heart.
+
+“Professor Cole, scholar of women.”
+
+Evan pointed at him.
+
+“Mock me all you want. Confidence works.”
+
+Sofia said, “He's currently denying he likes me while sitting next to me.”
+
+“Exactly. Terrible strategy.”
+
+Aaron looked betrayed.
+
+“Whose side are you on?”
+
+“Love's.”
+
+Zoe groaned.
+
+Evan had a horny side, apparently.
+
+Taiga had mostly seen the calm senior who knew when to pass backward and when to stop running. Apparently off the field he considered himself some kind of romantic authority.
+
+That information felt unfortunate.
+
+Leo's phone buzzed.
+
+He checked it.
+
+His expression changed.
 
 “Oh, shit.”
 
-Aaron said:
+Aaron looked over.
 
 “What?”
 
 “I forgot I told Jonah I'd help set up Apollo movie night.”
 
-Mia looked at him.
+Zoe didn't even look surprised.
 
 “You told him yesterday.”
 
@@ -1549,47 +1795,51 @@ Mia looked at him.
 
 “You said six-thirty.”
 
-Leo checked the time. 7:11.
+Leo checked the time.
 
 “Oh, shit.”
 
-Enzo slapped the table. “THE CALENDAR HAS CLAIMED ANOTHER VICTIM.”
+Enzo slapped the table.
 
-Mia exhaled.
+“THE CALENDAR HAS CLAIMED ANOTHER VICTIM.”
 
 “I thought it was tomorrow.”
 
-Leo covered his face.
+Aaron frowned.
 
-“Okay, that's bad.”
+“Didn't you also say you were going to Gabe's birthday?”
 
-Aaron said:
+Leo froze.
 
-“You also said you were coming to Gabe's birthday.”
-
-Leo stopped. Everyone looked at him. Leo slowly lowered his taco.
+Slowly, he lowered his taco.
 
 “That's tonight?”
 
-Aaron started laughing. Mia said:
+Aaron started laughing.
 
-“Oh my God.”
+Zoe covered her face.
 
-Sofia leaned back. “You are impossible.”
+“Leo.”
 
-Gav asked, “What time did you tell Gabe?”
+“What time?” Gav asked.
 
-“Eight.”
+“Birthday?”
 
-“What time did you tell Jonah?”
+“Both.”
 
-“Six-thirty.”
+“Jonah was six-thirty. Gabe said eight.”
 
-Gav looked at the clock.
+Gav checked his phone.
 
 “So you've already missed one and you're about to be late to the other.”
 
-Leo pointed at him. “This is why I don't come to you for emotional support.”
+Leo pointed at him.
+
+“This is why I don't come to you for emotional support.”
+
+“I was answering the scheduling problem.”
+
+“Exactly.”
 
 Scott said:
 
@@ -1597,21 +1847,23 @@ Scott said:
 
 Everyone laughed.
 
-Leo's phone buzzed again. He looked.
+Leo's phone buzzed again.
+
+He looked at the screen.
 
 “Gabe.”
 
-He stood and answered immediately.
+He stood.
 
 “Hey! Happy birthday!”
 
-He walked a few feet away, already apologizing and rebuilding his evening in real time.
+He walked a few meters away, already apologizing and rebuilding his evening in real time.
 
-Mia leaned toward Taiga.
+Zoe watched him go.
 
 “He does this constantly.”
 
-“What?”
+“What?” Taiga asked.
 
 “Schedules himself into three places at once.”
 
@@ -1621,67 +1873,103 @@ Mia leaned toward Taiga.
 
 “Then how?”
 
-Mia laughed.
+“I've asked. There is no useful answer.”
 
-“You'd have to ask him.”
+Taiga looked toward Leo again.
 
-Taiga watched Leo for another second.
+Then back at Zoe.
 
-“Must be hard for you to keep up with him.”
+“Aren't you two, like, dating?”
 
-Mia frowned.
+Zoe stared at him.
 
-“Why me, specifically?”
+“Me and Leo?”
 
-Taiga looked at her. He tried to sound casual.
+Taiga immediately regretted asking.
 
-“Aren’t you two, like, dating?”
+“That's what I said.”
 
-Mia looked at him as if he had just said the most ridiculous thing in the world.
+“No. Absolutely not.”
 
-“Me? Leo? Dating? Hell no. Please no.”
+His ears were getting warm.
 
-Taiga felt his ears getting red.
+“Team was talking about you two getting dinner, so I assumed.”
 
-“Oh. Team was talking about you two getting dinner, so I assumed.”
+From farther down the table, Enzo raised both hands.
 
-Mia glanced toward Enzo.
+“I report facts. Interpretation is the responsibility of the audience.”
 
-Enzo, somehow aware of being implicated from three seats away, raised both hands.
+“Nobody asked you,” Zoe said.
 
-“I report facts. What people do with them is beyond my jurisdiction.”
+“I felt implicated.”
 
-Mia turned back to Taiga.
+She turned back to Taiga.
 
-“No, we're not dating. We became friends because we share some classes. Plus, I think he's not into girls. Luckily for me, I'm safe.”
+“We share classes. We hang out. That's it.”
 
-Not dating. Maybe not into girls.
+“Oh.”
+
+“And honestly, I don't think he's particularly interested in girls anyway. That's just my impression.”
 
 Taiga nodded once.
 
 “Got it.”
 
-Mia looked at him for a second, then mercifully moved on.
+Zoe looked at him for a second.
 
-“What about you? Anyone?”
+Then, mercifully:
 
-Taiga looked at her.
+“So, are you?”
 
-“Why do you ask?”
+“Am I what?”
 
-“Casual conversation. But you can also tell me to mind my business.”
+“Dating anyone.”
 
-Taiga considered.
+“No.”
 
-“I'm not dating anyone.”
+“Okay.”
 
-Mia nodded.
+That was apparently enough for her.
 
-“Fair enough.”
+She stole one of Leo's fries.
 
-Then Sofia asked her something about a class, and the conversation moved away before Taiga had to provide anything else.
+Dinner kept moving.
 
-Leo returned.
+Taiga didn't follow every conversation. He didn't need to.
+
+Enzo started an argument about whether salsa could be cowardly. Scott contributed three words and somehow ended up deciding it. Zoe and Gav spent several minutes discussing whether a game mechanic counted as bad design or merely hostile design, which somehow became Gav explaining the difference between randomness and probability until Zoe told him she knew what probability was.
+
+Aaron kept leaning toward Sofia whenever she spoke, then acting completely normal whenever Enzo noticed.
+
+At one point Sofia said something too quietly for Taiga to hear.
+
+Aaron laughed.
+
+Then Enzo immediately said:
+
+“You're smiling.”
+
+Aaron's face flattened.
+
+“I smile.”
+
+“Not like that.”
+
+“Eat your taco.”
+
+Taiga snorted.
+
+Aaron looked at him.
+
+“You too?”
+
+“I didn't say anything.”
+
+“Your face did.”
+
+“Skill issue.”
+
+Leo returned while Aaron was still telling him to fuck off.
 
 “Okay. Solved.”
 
@@ -1709,181 +1997,95 @@ Leo smiled.
 
 “Not today.”
 
-Dinner continued. The conversation moved constantly. Not every sentence was funny. Mostly it was ordinary.
+Zoe nudged her laptop with one shoe.
 
-Aaron talked about Sofia's match. Sofia corrected almost every detail. Evan complained about a statistics professor. Mia told a story about her roommate accidentally sending a private voice message to a class group. Enzo declared the salsa “cowardly” and requested something hotter. Scott argued that campus housing should allow electric kettles, using fewer words than everyone else used to disagree with him. Gav mostly listened, occasionally correcting facts or dragging a conversation back when Enzo sent it somewhere useless.
-
-Taiga contributed here and there. Nobody demanded more.
-
-At one point the conversation split into three smaller ones.
-
-Taiga ended up talking to Evan about Northbridge. Evan explained how the right-back had been baiting him into wide runs.
-
-“You beat him when you stopped treating the sideline like the only direction available,” Evan said.
-
-Taiga nodded. “Gav said the same thing before training.”
-
-“Then maybe listen to both of us and save Mercer some blood pressure.”
-
-Across from them, Gav heard his name.
-
-“I don't care who gets credit if he stops running into the fullback.”
-
-Taiga flipped him off. Gav smiled into his drink.
-
-Then Sofia leaned over.
-
-“You're new to organized soccer, right?”
-
-“Yeah.”
-
-“How new?”
-
-“About five weeks.”
-
-She stared.
-
-“Seriously?”
-
-Taiga's shoulders tightened automatically.
-
-Sofia noticed.
-
-“I'm not saying you were bad. I thought you'd played club.”
-
-Taiga relaxed a little.
-
-“No. School. Camp. Friends.”
-
-“That explains the way you defend.”
-
-“What does that mean?”
-
-“You chase everything.”
-
-“That sounds bad.”
-
-“It can be.”
-
-She took a drink.
-
-“You don't always need to win the ball. Sometimes just force them somewhere.”
-
-“Mercer keeps saying that.”
-
-“He's right.”
-
-“I know.”
-
-Sofia smiled.
-
-“You hate that.”
-
-“Usually.”
-
-Enzo leaned across from farther down the table.
-
-“Do not listen to defenders. Their entire philosophy is fear.”
-
-Sofia looked at him.
-
-“You play winger.”
-
-“Exactly. Freedom.”
-
-Gav said, “You tracked back forty yards today.”
-
-Enzo pointed at him. “Under protest.”
-
-Taiga laughed.
-
-Then Leo tapped his shoulder.
-
-“Mia says her repo is trying to kill her.”
-
-Mia's head snapped toward Leo.
-
-“I said the branch history was a mess.”
-
-“Exactly. Haunted.”
-
-Taiga raised his eyebrows.
-
-“Sounds terrible. Also, not surprising.”
-
-“Precisely.”
-
-Leo turned back to Mia.
-
-“So tomorrow we'll go ghostbusting your repo.”
-
-Mia gave him a look.
-
-“What?”
-
-“Have you asked him first?”
+“Since you're apparently immortal, are you still helping me with this tomorrow?”
 
 Leo looked at Taiga.
 
-“Right. Sorry. Skipped a step. Do you want to look at it tomorrow? You can say no and Mia can face the consequences of her own commits.”
+“Right. Repo.”
+
+Taiga frowned.
+
+“What repo?”
+
+“Mine,” Zoe said. “Branch history is a crime scene.”
+
+Leo pointed between them.
+
+“You two should look at it together.”
+
+Zoe stared at him.
+
+“You skipped the part where you ask him.”
+
+Leo stopped.
+
+“Right. Sorry.”
+
+He turned to Taiga.
+
+“Do you want to look at it tomorrow? You can say no and Zoe can face the consequences of her own commits.”
+
+Zoe nodded.
+
+“That is fair.”
 
 Taiga considered.
 
 “Yeah, I can look.”
 
-Mia frowned.
-
-“You don't have to.”
-
-“I know.”
-
-Leo grinned.
-
-“Great. Consent-based debugging.”
+“Great,” Leo said. “Consent-based debugging.”
 
 Taiga pointed at him.
 
-“You're making it worse.”
+“Don't call it that.”
 
-“Probably.”
+“Too late.”
 
 Scott checked the time.
 
-“Mendez. Movie setup.”
+“Mendez.”
 
-Leo looked at his phone. His eyes widened.
+Leo looked at him.
 
-“Oh, shit. Right.”
+“Movie.”
 
-Mia said, “You booked dinner and setup back-to-back again.”
+Leo checked his phone.
 
-“They fit on the calendar.”
+“Oh, shit.”
 
-“They fit mathematically.”
+Zoe stared.
 
-“That is how calendars work.”
+“You literally just reorganized this.”
 
-“No, that's how numbers work.”
+“I know.”
 
-Leo was already standing and shoving his chair in.
+He was already standing and pulling his bag over one shoulder.
 
-“I can make it. Ten-minute walk, six if I commit crimes against pedestrian etiquette.”
+“I can make it. Ten-minute walk.”
 
-Scott said, “Seven.”
+“Seven,” Scott said.
 
-Leo looked at him. “What?”
+Leo stopped.
+
+“What?”
+
+Scott looked down at his drink.
 
 “Fastest I've done it.”
 
-Everyone stared.
+Everyone stared at him.
 
-Enzo slowly pointed at Scott. “There is lore.”
+Enzo slowly pointed.
 
-Scott picked up his drink.
+“There is lore.”
+
+Scott's ears went red.
 
 “No.”
 
-Leo laughed, slung his bag over one shoulder and pointed at Taiga and Mia.
+Leo laughed, then pointed at Taiga and Zoe.
 
 “Tomorrow. Repo exorcism. Text me if the plan changes.”
 
@@ -1895,21 +2097,21 @@ Then at everyone else:
 
 “Then tell him time is socially constructed.”
 
-Leo headed off at a fast walk—not running, but close enough that the distinction was mostly legal.
+Leo headed off at a fast walk, close enough to running that the distinction was mostly legal.
 
 Sofia watched him go.
 
 “He does that to himself.”
 
-Mia nodded.
+Zoe nodded.
 
 “Every week.”
 
-Enzo took one of Leo's abandoned fries.
+Enzo reached for one of Leo's abandoned fries.
 
-“Natural selection.”
+Gav slapped his hand away.
 
-Gav slapped his hand away. “That's his.”
+“That's his.”
 
 “He has left the territory.”
 
@@ -1917,7 +2119,9 @@ Gav slapped his hand away. “That's his.”
 
 “Possession requires presence.”
 
-Scott said, “Thief.”
+Scott said:
+
+“Thief.”
 
 Enzo put the fry back.
 
