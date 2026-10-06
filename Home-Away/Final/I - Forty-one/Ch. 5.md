@@ -503,16 +503,14 @@ He heard Leo chuckling and walking away and couldn't stop himself from peeking o
 
 ---
 
-By the time Taiga and Leo arrived, Enzo had already arranged two tables. Aaron was whispering something with Evan, there was a girl Taiga had never seen looking at her phone, while Scott and Gav were laughing at something.
+By the time Taiga arrived, Enzo had already arranged two tables. Aaron was whispering something with Evan, there was a girl Taiga had never seen looking at her phone, while Scott and Gav were laughing at something.
 
 When finally Enzo found all the chair they needed, they sat.
-Taiga took the chair at one end beside Evan, Leo dropped on the other side. Gav sat across from him. Scott picked the far corner and immediately started reading the menu.
+Taiga took the chair at one end beside Evan. Gav sat across from him. Scott picked the far corner and immediately started reading the menu.
 
-Zoe arrived a minute later with a laptop under one arm. Leo pointed at her immediately.
+Zoe and Leo arrived a minute later. Taiga saw Zoe putting a hand inside her bag and pulling out a laptop. Leo pointed at her immediately.
 
 “No.”
-
-She stopped.
 
 “What?”
 
@@ -523,6 +521,8 @@ She stopped.
 “Computers are not invited at dinner.”
 
 “Just five minutes please!”
+
+Then Leo suddenly pointed at Taiga.
 
 "AG, tell her."
 
@@ -536,15 +536,15 @@ Taiga hadn't even opened the menu yet.
 
 "See? Authority has spoken."
 
-Zoe sighed and slid the laptop under her chair. Enzo watched the whole thing with visible offense.
+Zoe sighed and put the laptop in the bag. Enzo watched the whole thing with visible offense.
 
-“We have rules now? Nobody consulted me.”
+“We have rules now? Nobody consulted me. I thought this was a democracy.”
 
-Leo throw a menu at him.
+Leo dropped on the empty chair beside Taiga and Zoe sat across rom him. He took one menu and threw it at Enzo.
 
 "Order food."
 
-"Now, that's tyranny."
+"Okay. We've escalated to tyranny."
 
 They started reading the menu. A girl came to pick up their orders.
 
@@ -636,4 +636,170 @@ Aaron looked over.
 
 "What?"
 
+"I told my roommate that we'd taken thai tonight."
+
+Zoe didn't even look surprised.
+
+"Again?"
+
+He checked the time. Too late apparently.
+
+"Oh fuck. I thought it was tomorrow."
+
+"Didn't you say you were going to Gabe's birthday?"
+
+Leo froze and slowly lowered his taco.
+
+"Okay, wait a second. That's tonight?"
+
+Zoe rubbed her face.
+
+"I swear Leo."
+
+Aaron asked:
+
+"What time?"
+
+Leo picked his phone again.
+
+"Thai was around seven, Gabe at eight thirty."
+
+It was 8:12.
+
+“So you've already missed one and you're about to be late to the other.”
+
+Leo rested the forehead on the table.
+
+"Thanks Aaron. This is why I don't come to you for emotional support."
+
+"I was just stating the facts."
+
+"Exactly. Emotional support doesn't need the truth."
+
+He lift his head, took his phone and put it to his ear.
+
+"Hey, Gabe! Happy Birthday!"
+
+He stood and walked a few meters away, already apologizing and rebuilding his evening in real time.
+
+Taiga raised both eyebrows. Zoe looked resigned.
+
+"This happens often?"
+
+"Yeah, he constantly schedules himself into three places at once"
+
+"Calendar?"
+
+"He puts things in it. Somehow, it's still not enough."
+
+Taiga looked at him for a couple of seconds more.
+
+"Doesn't that bother you?"
+
+Zoe frowned.
+
+"Why would it?"
+
+"Uh... aren't you two, like, dating or something?"
+
+She blinked.
+
+"Wait, me and Leo?"
+
+"Yeah?"
+
+"My god no. Absolutely not."
+
+His ears were getting warm.
+
+“Team was talking about you two getting dinner, so I assumed.”
+
+From farther down the table, Enzo raised both hands.
+
+“I report facts. Interpretation is the responsibility of the audience.”
+
+“Nobody asked you,” Zoe said.
+
+“I felt implicated.”
+
+She smiled and turned to Taiga. This time, she lowered her voice.
+
+"Nah, we met because we share some classes and we hang out. And that's already too much for me sometimes."
+
+Taiga felt immediately stupid for asking.
+
+"And between you and me, I honestly don't think he's into girls anyway."
+
+The fuck? Unnecessary.
+
+"Uh- Okay?"
+
+She shrugged.
+
+"Are you?"
+
+Taiga felt the heat crawling up his neck.
+
+"Am I... what?"
+
+"Well, dating someone."
+
+Oh. Right. His shoulders dropped.
+
+"Ah, no."
+
+“Okay.”
+
+That was apparently enough for her. 
+Dinner kept moving.
+
+Leo came back after a couple of minutes. Apparently, he had managed to move the thai dinner the following day and Gabe didn't mind him being late. 
+
+"And I survived once again."
+
+Zoe raised an eyebrow.
+
+"Yeah, barely. Speaking of which, are you still gonna help me with Git tomorrow?"
+
+Leo huffed. 
+
+"Right. But Taiga could help you, he's way better at it."
+
+Taiga and Zoe stared at him. She went first, luckily for Leo.
+
+“You skipped the part where you ask him.”
+
+Leo stopped and turned to Taiga.
+
+"Right sorry. Do you want to look at it tomorrow? You can say no and Zoe can face the consequences of her own commits."
+
+"What happened this time?"
+
+Zoe scratched her head.
+
+"Well, branch history is a bit of a crime scene. One merge got fucked up and I can't restore it properly."
+
+Taiga considered.
+
+“Yeah, I can look.”
+
+“Great,” Leo said. “Consent-based debugging.”
+
+He stood up.
+
+"Well, time to go before Gabe murders me."
+
+He pointed at Taiga and Zoe.
+
+“Tomorrow. Repo exorcism. Text me if the plan changes.”
+
+Then at everyone else:
+
+“Love you. If Gabe asks, I am absolutely on time.”
+
+“You are already late,” Aaron said.
+
+He zoomed away. Taiga shook his head.
+
+---
 
