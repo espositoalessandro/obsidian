@@ -163,7 +163,7 @@ A long pause followed.
 
 Taiga smiled and locked the phone. Apparently the reunion Yoichi dreaded would happen sooner than expected.
 
-He turned again to the dryer: the shirt with the 41 was tumbling around. 
+He turned back to the dryer: the shirt with the 41 was tumbling around. 
 
 
 ---
@@ -295,7 +295,7 @@ The board went up:
 **11 OUT**
 **41 IN**
 
-Taiga stood on the touchline, his legs were apparently having trouble with basic maneuvering.
+Taiga stood on the touchline, his legs were having trouble with basic maneuvering.
 Mercer said something about keeping it easy and avoiding physical contact, although he couldn't make out the exact words.
 He nodded anyway.
 
@@ -457,19 +457,13 @@ Taiga reached for the shampoo.
 
 Taiga thought about it.
 
-“And Aaron spends half the night pretending he isn't trying to sit next to Sofia,” Leo added.
-
-"Who's Sofia?"
-
-"She's on the women's soccer team. Aaron's really into her, but he'll never admit it."
-
-“That part does sound entertaining.”
+"Fine."
 
 "Is that a yes then?"
 
 Taiga shut off the water and started drying off with the towel.
 
-"Fine."
+"It's a fine."
 
 “Fine as in yes?”
 
@@ -498,11 +492,11 @@ Jesus, that guy was shameless. Taiga forced himself not to look up again, but he
 
 "Uh- thanks."
 
-He heard Leo chuckling and walking away and couldn't stop himself from peeking once again.
+He heard Leo chuckling and walking away and couldn't stop himself from peeking one more time.
 
 ---
 
-By the time Taiga arrived, Enzo had already arranged two tables. Aaron was whispering something with Evan, there was a girl Taiga had never seen looking at her phone, while Scott and Gav were laughing at something.
+By the time Taiga arrived, Enzo had already arranged two tables. Aaron was whispering something with Evan, while Scott and Gav were laughing at something.
 
 When finally Enzo found all the chairs they needed, they sat.
 Taiga took the chair at one end beside Evan. Gav sat across from him. Scott picked the far corner and immediately started reading the menu.
@@ -547,9 +541,9 @@ Leo dropped onto the empty chair beside Taiga and Zoe sat across from him. He to
 
 They started reading the menu. A girl came to take their orders.
 
-After that, conversations naturally started. He overheard Aaron and Evan discussing the match. The new girl, who turned out to be Sofia, occasionally contributed. Leo and Zoe talked about their class. Zoe was about to bring up the Git problem again, but Leo stopped her at once.
+After that, conversations naturally started. He overheard Aaron and Evan discussing the match. Leo and Zoe talked about their class. Zoe was about to bring back the Git problem, but Leo stopped her at once.
 
-Enzo was apparently trying to convince Scott that spicy sauce adds character. Although, Scott looked rather unconvinced.
+Enzo was trying to convince Scott that spicy sauce adds character. Although, Scott looked rather unconvinced.
 
 Gav was trying to open a conversation with everyone about something Taiga couldn't place. Enzo got caught at some point.
 
@@ -613,7 +607,7 @@ Taiga looked at her.
 
 Gav immediately turned toward Zoe.
 
-“Barbarian, rogue, wizard, artificer. We had a cleric, but Marco has a lab now, which is the problem.”
+“Barbarian, rogue, wizard, artificer. We had a cleric, but one of them has a lab now, which is the problem.”
 
 Zoe nodded seriously.
 
@@ -641,7 +635,7 @@ Zoe didn't even look surprised.
 
 "Again?"
 
-He checked the time. Too late apparently.
+He checked the time.
 
 "Oh fuck. I thought it was tomorrow."
 
@@ -659,7 +653,7 @@ Aaron asked:
 
 "What time?"
 
-Leo picked up his phone again.
+Leo picked up his phone.
 
 "Thai was around seven, Gabe at eight thirty."
 
@@ -875,7 +869,7 @@ His dick was throbbing, basically begging for attention.
 One hand automatically began moving down, before he shoved it under the pillow.
 
 No. Definitely not.
-He turned on his side and closed his eyes again.
+He turned on his side and closed his eyes.
 
 *Oh and by the way...*
 
@@ -924,7 +918,7 @@ Why the fuck was that important?
 
 Still, that made him go faster.
 
-Again. His breath. He was merely centimeters away. He could almost feel the heat coming from his body. 
+The memories became clearer. His breath. He was merely centimeters away. He could almost feel the heat coming from his body. 
 He imagined Leo's hands on his chest. Their warmth. Then one moved downwards.
 On his abdomen. 
 Then he grabbed Taiga's shaft.
@@ -944,7 +938,7 @@ Eventually, the rest slowly dripped from his hand.
 
 Taiga immediately glanced at Caleb. Nothing. Thank God.
 
-He started catching his breath again.
+He started catching his breath.
 
 Then nothing.
 Dark room. Caleb breathing. The clock now read 2:37.
