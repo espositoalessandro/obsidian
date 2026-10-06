@@ -843,6 +843,7 @@ Leo was closing the door behind him. His towel was, again, not around his waist.
 
 Taiga tried to say something. Again, words didn't come out. The fuck was wrong with him today?
 Leo was fully naked, slowly walking towards him. 
+
 He kept walking.
 Had the stall always been this large?
 
@@ -955,5 +956,8 @@ He stayed still until his breathing settled, then slipped out of bed, cleaned hi
 His mind finally started to let go of the dream. Taiga could slowly think straight again.
 
 It was just a dream. It had happened before.
-
 No need to make anything out of a horny dream.
+
+What happened after, though... that was another story.
+
+Still, nothing worth facing tonight.
