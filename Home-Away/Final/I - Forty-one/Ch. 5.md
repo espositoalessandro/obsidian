@@ -802,7 +802,7 @@ He zoomed away. Taiga shook his head.
 
 ---
 
-"Since you disagree, Mr. Akatora, why don't you explain us your point?"
+"Since you disagree, Mr. Akatora, why don't you explain your point to us?"
 
 Professor Hall was looking at him. Everyone was actually looking at him. 
 He turned towards Nora, but she was busy taking notes.
@@ -814,7 +814,7 @@ A smile appeared on Hall's face.
 
 "As I thought."
 
-No. Fuck, he had to reply, he knew there was something he saw.
+No. Fuck, he had to reply, he knew he'd seen something.
 
 "Akatora."
 
@@ -865,9 +865,9 @@ The only thing stuck in his mind was the feeling of seeing Leo in front of him.
 Naked. Centimeters away. He could actually remember the sound of his breath. 
 Then his hands, reaching for him.
 
-He looked at the time: 2:17, then laid down on his back. One hand still rubbing his eyes.
+He looked at the time: 2:17, then lay down on his back. One hand still rubbing his eyes.
 
-Okay, it was just a dream. Brains were stupid during night.
+Okay, it was just a dream. Brains were stupid at night.
 
 He felt the pressure under the blankets though. Of course.
 His dick was throbbing, basically begging for attention.
@@ -896,14 +896,14 @@ He turned on his back, then watched the time again.
 2:26
 Fuck.
 
-Taiga peeked again at Caleb: still no movements. He could sleep through six alarms most mornings, so that shouldn't be a surprise.
+Taiga peeked again at Caleb: still no movement. He could sleep through six alarms most mornings, so that shouldn't be a surprise.
 
 He took a deep breath.
 
 “This is fucking ridiculous,” he whispered.
 Fine.
 
-Taiga turned back toward the wall and pulled down a bit his shorts.
+Taiga turned back toward the wall and pulled his shorts down a bit.
 
 He grabbed his dick and started moving his hand. Slowly first.
 Every tiny movement suddenly sounded enormous. Fabric shifting. Mattress springs. His own breathing.
@@ -952,7 +952,7 @@ Taiga stared at the ceiling, finally releasing his shirt from his teeth, breathi
 
 He stayed still until his breathing settled, then slipped out of bed, cleaned himself up in the bathroom and returned as quietly as possible. Caleb never moved. Bless him.
 
-His mind finally started to let go of the dream. Taiga slowly could think straight again.
+His mind finally started to let go of the dream. Taiga could slowly think straight again.
 
 It was just a dream. It had happened before.
 
