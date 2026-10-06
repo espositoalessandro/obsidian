@@ -15,7 +15,7 @@ He received the ball and looked over his shoulder. He saw Leo coming down into s
 Too late, the pass got intercepted.
 He had seen Leo move, but he hadn't seen that he was dragging the defender with him to create space.
 
-Evan jogged beside Taiga and looked at him raising his eyebrow.
+Evan jogged beside Taiga and looked at him.
 Taiga looked back.
 
 "Fine, say it."
