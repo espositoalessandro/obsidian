@@ -440,17 +440,30 @@ Early in the novel, he is more likely to:
 - react to it;
 - then dismiss, minimize or redirect the thought.
 
-As his attraction to Leo becomes acknowledged, the **dismissal should gradually disappear**.
+For Leo, preserve a strict distinction between **sexual attraction** and **personal romantic charge**.
 
-Later Taiga does not need to argue with himself every time he notices:
+The Section I progression is:
 
-- Leo's body;
-- his mouth;
-- his hands;
-- the way clothes fit him;
-- sweat after training;
-- physical closeness;
-- other concrete details of attraction.
+- **Chapter 3:** first unmistakable physical noticing. Taiga registers that Leo has a nice body; this does not yet become a larger question.
+- **Chapter 5:** the attraction becomes undeniable. The second shower, Zoe's comment, the dream and Taiga's conscious awake fantasy establish that he is sexually attracted to Leo.
+- **Early Chapter 6:** Taiga settles on a deliberately simple interpretation. In substance: **Leo is hot. That explained enough.** The text may state this once, briefly and Taiga-shaped, so the reader understands that Chapter 5 has not been forgotten.
+- **Chapters 6–11:** do **not** turn that admission into nervousness, fixation, intrusive thoughts or special narrative gravity. Taiga can know Leo is hot and still behave normally around him. He does not start seeking Leo out with his attention, getting flustered by his presence, or wondering what every interaction means. The attraction is compartmentalized and, from Taiga's perspective, adequately explained.
+- **Chapter 12:** something Leo says destabilizes that compartment. This is the point where Taiga begins to see **Leo specifically**, rather than merely an attractive teammate he likes being around.
+- **After the Chapter 12 turn, especially around the rink material:** the narration may begin snagging on Leo in a more personal way. Physical details, presence, absence and interaction can now carry emotional weight that they did not before.
+
+Do not spend the Chapter 12 token early.
+
+The reader should be able to distinguish:
+
+> **Leo is hot.**
+
+from:
+
+> **Leo matters to me in a way I have to think about.**
+
+The first is established by Chapter 5 and consciously filed away in Chapter 6. The second begins later.
+
+As Taiga's attraction eventually becomes personally acknowledged, the **dismissal should gradually disappear**. Later Taiga does not need to argue with himself every time he notices Leo's body, mouth, hands, the way clothes fit him, sweat after training, physical closeness or other concrete details.
 
 This should remain:
 
@@ -461,9 +474,9 @@ This should remain:
 
 It should not become purple, reverent or voyeuristic by default.
 
-The development is not that Taiga suddenly notices more.
+The development is not simply that Taiga notices more.
 
-It is that he becomes comfortable admitting what the noticing means.
+It is that the **meaning attached to the noticing changes**.
 
 ---
 
@@ -562,7 +575,7 @@ Across the section:
 - Caleb becomes easy to exist around;
 - Nora becomes someone Taiga actively engages with;
 - football stops being something provisional and becomes something he wants;
-- Leo becomes noticeable before Taiga can explain why.
+- Leo becomes physically attractive to Taiga before that attraction becomes personally meaningful.
 
 The narration should begin allowing small positive observations without immediately turning every one into sentiment.
 
@@ -572,7 +585,7 @@ But the world is already becoming less hostile.
 
 ### Attraction
 
-Attraction to Leo appears before Taiga accepts it as meaningful.
+Attraction to Leo appears before Taiga accepts it as personally meaningful.
 
 Physical reactions may be:
 
@@ -581,9 +594,15 @@ Physical reactions may be:
 - rationalized;
 - dismissed as situational.
 
+By the end of Chapter 5, Taiga can no longer honestly treat the attraction itself as accidental. Chapter 6 should therefore give him one brief conscious conclusion — effectively **Leo is hot; that explains enough** — and then let him move on.
+
+From Chapters 6–11, compartmentalization is stable rather than anxious. Taiga should not become newly nervous around Leo merely because he has admitted the physical attraction. Their ordinary banter and teammate/friend dynamic can continue without romantic self-surveillance.
+
 The key early mechanism is not ignorance.
 
 It is **compartmentalization**.
+
+Chapter 12 is the later break in that compartment: what Leo says there begins shifting Taiga from physical attraction toward seeing Leo as personally charged. The rink material can deepen that shift afterward.
 
 ### Anger and regression
 
