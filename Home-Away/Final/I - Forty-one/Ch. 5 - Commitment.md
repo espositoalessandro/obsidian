@@ -304,7 +304,7 @@ Evan approached and slapped his hand.
 "Good luck, Taiga."
 
 That made his stomach drop even more.
-He reached his position and looked around. On the opposite side, Aaron was holding the ball on the touchline with his hands.
+He reached his position and looked around. Aaron was holding the ball on the touchline with his hands.
 
 Then he heard the whistle and nothing made sense anymore.
 
