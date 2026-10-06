@@ -1,4 +1,4 @@
-### Chapter 5
+### Chapter 5 - Commitment 
 
 "Again!"
 
@@ -549,7 +549,7 @@ They started reading the menu. A girl came to take their orders.
 
 After that, conversations naturally started. He overheard Aaron and Evan discussing the match. The new girl, who turned out to be Sofia, occasionally contributed. Leo and Zoe talked about their class. Zoe was about to bring up the Git problem again, but Leo stopped her at once.
 
-Enzo was apparently trying to convince Scott that spicy sauce adds character. Apparently, Scott wasn't sure that putting the mouth on fire counted as characterization.
+Enzo was apparently trying to convince Scott that spicy sauce adds character. Although, Scott looked rather unconvinced.
 
 Gav was trying to open a conversation with everyone about something Taiga couldn't place. Enzo got caught at some point.
 
