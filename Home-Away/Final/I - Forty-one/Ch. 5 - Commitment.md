@@ -663,7 +663,7 @@ Leo picked up his phone again.
 
 "Thai was around seven, Gabe at eight thirty."
 
-It was 8:12.
+It was 8:12. Gav stated:
 
 “So you've already missed one and you're about to be late to the other.”
 
