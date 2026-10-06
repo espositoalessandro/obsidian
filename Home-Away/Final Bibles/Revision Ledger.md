@@ -100,3 +100,47 @@ Differentiate recurring characters through sentence shape, social instinct, humo
 - [ ] Character Voices Bible updated
 - [ ] Early appearances checked
 - [ ] Later appearances checked
+
+---
+
+## Chapter 5 Northbridge continuity
+
+**First discovered:** Final Chapter 5 — Commitment  
+**Scope:** Continuity / football / timeline  
+**Affected chapters:** Draft Chapter 6, Draft Chapter 12, and any later reference to Taiga's first reserve start  
+**Status:** Open
+
+### Issue
+
+Final Chapter 5 substantially changed the Northbridge reserve match.
+
+The final version establishes:
+
+- this is Taiga's **first actual reserve appearance / first reserve minutes**, not his first reserve start;
+- he enters for Evan at left wing;
+- his initial problem is overload rather than a decisive turnover;
+- he settles by simplifying his play and beginning to recognize space;
+- the match ends **0–0**.
+
+The existing Draft still contains stale references to the discarded version, including Chapter 6 references to **82 minutes**, a turnover leading to a goal, and Chapter 12 treating Northbridge as Taiga's first reserve start.
+
+### Final rule or intended fix
+
+All future Final chapters must inherit the frozen Chapter 5 version.
+
+Do not restore the discarded Northbridge events in order to preserve Draft wording. Solve the discrepancy forward when Chapters 6 and 12 are rewritten.
+
+Taiga's **first reserve start remains a later milestone**.
+
+### Cross-novel checks
+
+- [x] Earlier Final chapters checked
+- [x] Later Draft dependencies identified
+- [x] Section I Chapter Map updated
+- [ ] Chapter 6 Final rewrite corrected
+- [ ] Chapter 12 Final rewrite corrected
+- [ ] Final manuscript consistency verified
+
+### Notes
+
+The legacy development bibles do not need to be retroactively rewritten merely to match the Final manuscript. Current Final manuscript and Final Bibles control the rewrite.
