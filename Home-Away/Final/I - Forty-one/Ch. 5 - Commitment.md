@@ -6,7 +6,9 @@ Taiga exhaled and jogged back into position.
 Mercer had been making them repeat the freaking position drill for fifteen minutes.
 
 Things were slowly starting to make sense, although that didn't mean that Taiga didn't hate every minute of it.
-Just as Evan said, he had stopped translating people into their roles. Right now, he knew usually who moved where and when. Usually.
+Just as Evan said, he had stopped translating people into their roles. Right now, he knew usually who moved where and when.
+
+Usually.
 
 He received the ball and looked over his shoulder. He saw Leo coming down into space and sent it straight to him.
 
@@ -55,7 +57,7 @@ Taiga looked at him.
 
 "Working on it."
 
-Taiga turned his head to hide his smile.
+Taiga turned to hide his smile.
 
 "Akatora."
 
@@ -89,7 +91,7 @@ Was Mercer able to read his fucking mind?
 
 He nodded.
 
-“Yes, coach.”
+“Alright.”
 
 “Good.”
 
@@ -120,7 +122,7 @@ He stopped when he pulled out his shirt.
 Looking at it, it still felt weird somehow. His surname on the official Olympus team's shirt. 
 His mind went to his drawer in room 317. The Camp Buddy shirt, with his name and the little red tiger motif.
 
-Well, Apollo's home shirt was partially red, so they got the color right. He didn't mind the blue sleeves at all.
+Well, Apollo's home shirt was mainly red, so they got the color right. He didn't mind the blue sleeves at all.
 
 He blinked and put the shirt in the dryer, along with the others.
 It still meant nothing. He would probably need to give it back soon anyway.
