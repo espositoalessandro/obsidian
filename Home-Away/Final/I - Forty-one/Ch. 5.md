@@ -422,7 +422,7 @@ Taiga snorted and tilted his head back under the water.
 
 "My roommate does. He says it's much quieter."
 
-"Oh, I remember him, the one who was talking about city maps at the floor party, right?"
+"Oh, I remember him. The one who was talking about city maps at the floor party, right?"
 
 "Him. Funnily enough, he said he remembers you as well."
 
@@ -487,19 +487,153 @@ Taiga looked up over the short door.
 "Wha-"
 
 He stopped for a second.
-Leo's towel was not around his waist. He was still using it to dry his hair. 
-Taiga's eyes automatically went down. 
-First his chest, then his waist, then his-
-He blinked and looked away. His face was getting warm.
+Leo's towel was not around his waist, he was still using it to dry his hair.
+Taiga's eyes automatically went down.
+He blinked and looked away. 
 
 "What?"
 
-Jesus, that guy was shameless. Taiga forced himself not to look up again.
+Jesus, that guy was shameless. Taiga forced himself not to look up again, but he could feel his face getting warm.
 
 "You did pretty good today."
 
 "Uh- thanks."
 
-He heard Leo walking away and couldn't stop himself from peeking once again.
+He heard Leo chuckling and walking away and couldn't stop himself from peeking once again.
 
 ---
+
+By the time Taiga and Leo arrived, Enzo had already arranged two tables. Aaron was whispering something with Evan, there was a girl Taiga had never seen looking at her phone, while Scott and Gav were laughing at something.
+
+When finally Enzo found all the chair they needed, they sat.
+Taiga took the chair at one end beside Evan, Leo dropped on the other side. Gav sat across from him. Scott picked the far corner and immediately started reading the menu.
+
+Zoe arrived a minute later with a laptop under one arm. Leo pointed at her immediately.
+
+“No.”
+
+She stopped.
+
+“What?”
+
+“No computers.”
+
+“Please! I have a merge conflict I can't resolve.”
+
+“Computers are not invited at dinner.”
+
+“Just five minutes please!”
+
+"AG, tell her."
+
+Taiga hadn't even opened the menu yet.
+
+"Why am I involved?"
+
+"Because Mr. Git is here apparently."
+
+"Kick him out."
+
+"See? Authority has spoken."
+
+Zoe sighed and slid the laptop under her chair. Enzo watched the whole thing with visible offense.
+
+“We have rules now? Nobody consulted me.”
+
+Leo throw a menu at him.
+
+"Order food."
+
+"Now, that's tyranny."
+
+They started reading the menu. A girl came to pick up their orders.
+
+After that, conversations naturally started. He overheard Aaron and Evan discussing the match, Sofia occasionally contributed. Leo and Zoe talked about their class. Zoe was about to bring up again the Git problem, but Leo stopped at once.
+
+Enzo was apparently trying to convince Scott that spicy sauce adds character. Scott wasn't entirely sure that putting the mouth on fire counted as characterization.
+
+Gav was trying to open a conversation with everyone about something Taiga couldn't place. Enzo got caught at some point.
+
+"Yeah, man, sounds like a disaster!"
+
+“I know, right? We're down one player now.”
+
+Taiga looked up automatically.
+
+“For the team?”
+
+Gav looked at him.
+
+"Nope, D&D."
+
+He smelled the danger immediately. Gav's eyes narrowed, still locked on Taiga.
+
+"No."
+
+"So you know D&D."
+
+"I didn't say it."
+
+"You didn't ask what it was."
+
+"Because I don't care."
+
+"You said no, so you knew. Come on, you haven't even heard the campaign."
+
+“I don't need to.”
+
+“You might. We're doing an urban campaign where the city resets every seven days, but only the party remembers the previous cycle. So the whole thing is basically information management because—”
+
+“No.”
+
+“—because every reset lets you test a different solution to the same political structure.”
+
+Taiga paused a second. As Gav smiled, he understood that was his biggest mistake.
+
+"Got you."
+
+"I said no."
+
+Leo leaned toward Taiga.
+
+“You made eye contact. Rookie mistake.”
+
+Gav continued as if neither of them had spoken.
+
+“We're missing divine support, but you wouldn't necessarily have to play a cleric. There are other ways to cover healing depending on what class you—”
+
+"It's still no."
+
+Zoe laughed.
+
+“What's the party composition?”
+
+Taiga looked at her.
+
+“Don't encourage him.”
+
+Gav immediately turned toward Zoe.
+
+“Barbarian, rogue, wizard, artificer. We had a cleric, but Marco has a lab now, which is the problem.”
+
+Zoe nodded seriously.
+
+“Yeah, that's bad.”
+
+Taiga looked between them. Of course there were two of them.
+
+Luckily, food arrived and saved the situation. Actually, that turned out to be one of the better things about eating with this many people.
+Conversations split apart on their own. He could listen to one, ignore another, answer when somebody asked him something and go back to his food when they moved on.
+
+At some point Gav and Zoe ended up discussing a game. Taiga stopped following when Gav started explaining why randomness and perceived fairness were not the same thing.
+Enzo declared the discussion illegal.
+
+Leo was laughing at something Aaron said, when his phone buzzed. He pulled it out and his expression changed immediately.
+
+"Shit!"
+
+Aaron looked over.
+
+"What?"
+
+
