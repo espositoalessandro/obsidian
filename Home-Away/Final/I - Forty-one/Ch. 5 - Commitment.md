@@ -432,6 +432,8 @@ Taiga snorted and tilted his head back under the water.
 
 "Mostly for the noise."
 
+Leo laughed.
+
 “Good to know I made an impression.”
 
 “You're difficult to ignore.”
@@ -489,7 +491,8 @@ He blinked and looked away.
 
 "What?"
 
-Jesus, that guy was shameless. Taiga forced himself not to look up again, but he could feel his face getting warm.
+Jesus, that guy was shameless. The image of his dick was burnt into his eyes.
+Taiga forced himself not to look up again, but he could feel his face getting warm.
 
 "You did pretty good today."
 
@@ -545,7 +548,6 @@ Leo dropped onto the empty chair beside Taiga and Zoe sat across from him. He to
 They started reading the menu. A girl came to take their orders.
 
 After that, conversations naturally started. He overheard Aaron and Evan discussing the match. Leo and Zoe talked about their class. Zoe was about to bring up the Git problem again, but Leo stopped her at once.
-
 Enzo was trying to convince Scott that spicy sauce adds character, although Scott looked rather unconvinced.
 
 Gav was trying to start a conversation with everyone about something Taiga couldn't place. Enzo got caught at some point.
@@ -598,7 +600,7 @@ Gav continued as if neither of them had spoken.
 
 “We're missing divine support, but you wouldn't necessarily have to play a cleric. There are other ways to cover healing depending on what class you—”
 
-"It's still no."
+"Still no."
 
 Zoe laughed.
 
@@ -672,7 +674,7 @@ Leo rested his forehead on the table.
 
 "Exactly. Emotional support doesn't need the truth."
 
-He lifted his head and raised his phone to his ear.
+He lifted his head and took his phone, then raised it to his ear.
 
 "Hey, Gabe! Happy birthday!"
 
@@ -684,7 +686,7 @@ Taiga raised both eyebrows. Zoe looked resigned.
 
 "Yeah, he constantly schedules himself into three places at once."
 
-"Calendar?"
+"How about a calendar?"
 
 "He puts things in it. Somehow, it's still not enough."
 
@@ -710,15 +712,14 @@ His ears were getting warm.
 
 “The team was talking about you two getting dinner, so I assumed.”
 
-From farther down the table, Enzo raised both hands.
+Evan made an innocent face.
 
-“I report facts. Interpretation is the responsibility of the audience.”
+“A boy and a girl go to dinner, one assumes things.”
 
-“Nobody asked you,” Zoe said.
+“Just because you'd date every girl you see.” Zoe said.
 
-“I felt implicated.”
-
-She smiled and turned to Taiga. This time, she lowered her voice.
+Evan raised his hands in surrender.
+She turned to Taiga. This time, she lowered her voice.
 
 "Nah, we met because we share some classes and we hang out. And that's already too much for me sometimes."
 
@@ -742,7 +743,7 @@ Taiga felt the heat crawling up his neck.
 
 Oh. Right. His shoulders dropped.
 
-"Ah, no."
+"No."
 
 “Okay.”
 
@@ -801,7 +802,7 @@ He zoomed away. Taiga shook his head.
 
 "Since you disagree, Mr. Akatora, why don't you explain your point to us?"
 
-Professor Hall was looking at him. Everyone was actually looking at him. 
+Professor Hall was looking at him. Actually, everyone was looking at him. 
 He turned towards Nora, but she was busy taking notes.
 
 Didn't she notice that Hall had stopped?
@@ -816,11 +817,11 @@ No. Fuck, he had to reply, he knew he'd seen something.
 "Akatora."
 
 He turned. Mercer was sitting at the desk behind him. 
-Yes, he remembered. Coach wanted to see how developmental players were faring in classes, to make sure soccer wasn't affecting their academic careers.
+Right, he remembered. Coach wanted to see how developmental players were faring in classes, to make sure soccer wasn't affecting their academic careers.
 
 Now he had seen him. Was that the end?
 
-That was stupid. Keitaro would have scolded him for thinking something like that. Taiga kicked the grass and looked at the pitch, hands on his knees, his breath short from all the running. 
+No, that was stupid. Keitaro would have scolded him for thinking something like that. Taiga kicked the grass and looked at the pitch, hands on his hips, his breath short from all the running. 
 
 Finally, the whistle. 
 
@@ -902,7 +903,6 @@ He took a deep breath.
 Fine.
 
 Taiga turned back toward the wall and pulled his shorts down a bit.
-
 He grabbed his dick and started moving his hand. Slowly first.
 Every tiny movement suddenly sounded enormous. Fabric shifting. Mattress springs. His own breathing.
 He stopped when Caleb moved, but Caleb only rolled farther toward the wall and went still again.
@@ -914,8 +914,8 @@ His mind kept giving him images from the shower anyway. At some point, he wasn't
 
 He went faster.
 
-The way he was looking at him. His hands, reaching for him.
-He hadn't noticed if Leo was actually hard in his dream.
+The way he was looking at him. His hands, reaching for him. His-
+Wait. Thinking about it, he hadn't noticed if Leo was actually hard in his dream.
 
 Why the fuck was that important?
 
@@ -928,7 +928,7 @@ Then he grabbed Taiga's shaft.
 
 "F-Fuck-"
 
-He rolled onto his back and pulled up his shirt.
+He rolled onto his back, kicked off the sheets and pulled up his shirt.
 God, that would be a really bad time for Caleb to wake up.
 Taiga bit the hem of his shirt to keep it raised and continued stroking his dick. 
 
@@ -948,7 +948,8 @@ Dark room. Caleb breathing. The clock now read 2:37.
 
 Taiga stared at the ceiling, finally releasing his shirt from his teeth, breathing heavily.
 
-He stayed still until his breathing settled, then slipped out of bed, cleaned himself up in the bathroom and returned as quietly as possible. Caleb never moved. Bless him.
+He stayed still until his breathing settled, then slipped out of bed, cleaned himself up in the bathroom and returned as quietly as possible. 
+Caleb never moved. Bless him.
 
 His mind finally started to let go of the dream. Taiga could think straight again.
 
