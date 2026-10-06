@@ -6,13 +6,13 @@ Taiga exhaled and jogged back into position.
 Mercer had been making them repeat the freaking position drill for fifteen minutes.
 
 Things were slowly starting to make sense, although that didn't mean that Taiga didn't hate every minute of it.
-Just as Evan said, he had stopped translating people into their roles. Right now, he knew usually who moved where and when. Usually.
+Just as Evan said, he had stopped translating people into their roles. Right now, he usually knew who moved where and when. Usually.
 
 He received the ball and looked over his shoulder. He saw Leo coming down into space and sent it straight to him.
 
 "No, not to me!"
 
-Too late, the pass got intercepted.
+Too late. The pass got intercepted.
 He had seen Leo move, but he hadn't seen that he was dragging the defender with him to create space.
 
 Evan jogged beside Taiga and looked at him.
@@ -24,11 +24,11 @@ Evan laughed.
 
 "Watch the space, not just the player."
 
-"Thanks. Feel better with yourself now?"
+"Thanks. Feel better about yourself now?"
 
 "I do."
 
-Taiga flipped him as they reset.
+Taiga flipped him off as they reset.
 
 "Again!"
 
@@ -59,7 +59,7 @@ Taiga turned his head to hide his smile.
 
 "Akatora."
 
-He lifted up his head to see Mercer calling him. He took a deep breath and approached.
+He looked up to see Mercer calling him over. He took a deep breath and approached.
 
 "Saturday, reserve match with Northbridge."
 
@@ -93,7 +93,7 @@ He nodded.
 
 “Good.”
 
-Taiga stood there for a couple of seconds more watching Mercer leaving with his assistant. Then someone lightly bumped his shoulder. Evan was looking at him with a raised eyebrow.
+Taiga stood there for a couple more seconds, watching Mercer leave with his assistant. Then someone lightly bumped his shoulder. Evan was looking at him with a raised eyebrow.
 
 "You good?"
 
@@ -101,7 +101,7 @@ Taiga stood there for a couple of seconds more watching Mercer leaving with his 
 
 "Cool, let's get changed then."
 
-Taiga followed him in the lockers.
+Taiga followed him into the locker room.
 
 ---
 
@@ -117,7 +117,7 @@ He stopped when he pulled out his shirt.
 
 **41 - AKATORA**
 
-Looking at it, it still felt weird somehow. His surname on the official Olympus team's shirt. 
+Looking at it still felt weird somehow. His surname on the official Olympus team shirt. 
 His mind went to his drawer in room 317. The Camp Buddy shirt, with his name and the little red tiger motif.
 
 Well, Apollo's home shirt was partially red, so they got the color right. He didn't mind the blue sleeves at all.
@@ -131,7 +131,7 @@ His phone buzzed. Hunter?
 
 **Taiga:** hey
 
-Three dots appeared. Then disappeared. Then reappeared again. 
+Three dots appeared. Then disappeared. Then reappeared. 
 
 **Hunter:** Sorry to bother you, I just wanted to ask if you're free on November the 1st
 
@@ -161,7 +161,7 @@ A long pause followed.
 
 **Hunter:** Then thank you! I'll send the details in the group.
 
-Taiga smiled and locked the phone. Apparently the reunion Yoichi dreaded would happen sooner than expected.
+Taiga smiled and locked the phone. Apparently, the reunion Yoichi dreaded would happen sooner than expected.
 
 He turned back to the dryer: the shirt with the 41 was tumbling around. 
 
@@ -170,7 +170,7 @@ He turned back to the dryer: the shirt with the 41 was tumbling around.
 
 
 Taiga was tying his boot. Then he flexed his ankle. No, too tight.
-He untied it and retied. Still too tight. 
+He untied it and retied it. Still too tight. 
 
 "Did you forget how boots work?"
 
@@ -195,9 +195,9 @@ Evan gave him a *seriously?* look. Leo lit up and looked at Taiga.
 
 Taiga picked up the other boot.
 
-"He said might."
+"He said he might."
 
-"Oh, come on that's still great news! That means he thinks you're ready for the field!"
+"Oh, come on, that's still great news! That means he thinks you're ready to get on the field!"
 
 He shrugged.
 
@@ -225,17 +225,17 @@ Evan sighed.
 
 "See? He picks favorites."
 
-The door opened and Mercer shouted them to go out.
+The door opened and Mercer called them out.
 
 The match began. 
-Taiga sat with his bib between Leo and another development player. He immediately looked for their fullback and their winger.
-Now that he knew he was *probably* going to play, he didn't just see the match. 
+Taiga sat between Leo and another development player, his bib still on. He immediately looked for their fullback and their winger.
+Now that he knew he was *probably* going to play, he didn't just watch the match. 
 He started analyzing everything.
 
 Their right-back was huge. Taiga estimated at least 1.90 m or so and was built like a tank. Not only that, but from the very start he saw that he was not a novice at all.
 In the first twenty minutes, he had already forced Evan backwards three times and taken the ball off him once. 
 
-Great, how the fuck was he supposed to go past him?
+Great, how the fuck was he supposed to get past him?
 After a while Leo leaned closer.
 
 "You're looking at their 4?"
@@ -248,7 +248,7 @@ Leo chuckled.
 
 "I noticed."
 
-"So, how many ways have you already simulated in which he steals you the ball and scores?"
+"So, how many scenarios have you already simulated where he steals the ball from you and scores?"
 
 Taiga looked at him.
 
@@ -264,7 +264,7 @@ Leo kept smiling.
 
 "Great."
 
-Taiga kept looking at the #4 towering among the others. He was pressing on Evan now, who had the ball. 
+Taiga kept looking at the #4 towering among the others. He was pressing Evan now, who had the ball. 
 Shortly after, Evan was rolling on the pitch and the referee called a free kick.
 
 Taiga gulped.
@@ -273,10 +273,10 @@ Halftime, still 0-0.
 
 Northbridge was aggressive. They pressed hard and recovered fast. They didn't give Olympus much time on the ball, and whenever they won it back, they pushed forward immediately.
 
-Olympus came close to conceding twice: once Scott saved, and once the ball hit the post. At some point, Aaron had found space on his flank and managed to cross into the middle. 
+Olympus came close to conceding twice: once Scott made a save, and once the ball hit the post. At some point, Aaron had found space on his flank and managed to cross into the middle. 
 Of course, the #4 got his head to it first.
 
-Taiga looked at Evan. He was visibly tired, because the fullback kept forcing him backward and making him work for every bit of space. Even when Evan got past him, the guy recovered fast enough to stay on his shoulder.
+Taiga looked at Evan. He was visibly tired because the fullback kept forcing him backward and making him work for every bit of space. Even when Evan got past him, the guy recovered fast enough to stay on his shoulder.
 
 "Akatora."
 
@@ -295,8 +295,8 @@ The board went up:
 **11 OUT**
 **41 IN**
 
-Taiga stood on the touchline, his legs were having trouble with basic maneuvering.
-Mercer said something about keeping it easy and avoiding physical contact, although he couldn't make out the exact words.
+Taiga stood on the touchline, his legs having trouble with basic maneuvering.
+Mercer said something about keeping it simple and avoiding physical contact, although he couldn't make out the exact words.
 He nodded anyway.
 
 Evan approached and slapped his hand.
@@ -304,7 +304,7 @@ Evan approached and slapped his hand.
 "Good luck, Taiga."
 
 That made his stomach drop even more.
-He reached his position and looked around. Aaron was holding the ball on the touchline with his hands.
+He got into position and looked around. Aaron was holding the ball on the touchline with his hands.
 
 Then he heard the whistle and nothing made sense anymore.
 
@@ -461,7 +461,7 @@ Taiga thought about it.
 
 "Is that a yes then?"
 
-Taiga shut off the water and started drying off with the towel.
+Taiga shut off the water and started drying off with his towel.
 
 "It's a fine."
 
@@ -480,7 +480,7 @@ Taiga looked up over the short door.
 "Wha-"
 
 He stopped for a second.
-Leo's towel was not around his waist, he was still using it to dry his hair.
+Leo's towel was not around his waist. He was still using it to dry his hair.
 Taiga's eyes automatically went down.
 He blinked and looked away. 
 
@@ -496,12 +496,12 @@ He heard Leo chuckling and walking away and couldn't stop himself from peeking o
 
 ---
 
-By the time Taiga arrived, Enzo had already arranged two tables. Aaron was whispering something with Evan, while Scott and Gav were laughing at something.
+By the time Taiga arrived, Enzo had already arranged two tables. Aaron was whispering with Evan, while Scott and Gav were laughing at something.
 
-When finally Enzo found all the chairs they needed, they sat.
+When Enzo finally found all the chairs they needed, they sat.
 Taiga took the chair at one end beside Evan. Gav sat across from him. Scott picked the far corner and immediately started reading the menu.
 
-Zoe and Leo arrived a minute later. Taiga saw Zoe putting a hand inside her bag and pulling out a laptop. Leo pointed at her immediately.
+Zoe and Leo arrived a minute later. Taiga saw Zoe reach into her bag and pull out a laptop. Leo pointed at her immediately.
 
 “No.”
 
@@ -513,7 +513,7 @@ Zoe and Leo arrived a minute later. Taiga saw Zoe putting a hand inside her bag 
 
 “Computers are not invited at dinner.”
 
-“Just five minutes please!”
+“Just five minutes, please!”
 
 Then Leo suddenly pointed at Taiga.
 
@@ -523,17 +523,17 @@ Taiga hadn't even opened the menu yet.
 
 "Why am I involved?"
 
-"Because Mr. Git is here apparently."
+"Because Mr. Git is here, apparently."
 
 "Kick him out."
 
 "See? Authority has spoken."
 
-Zoe sighed and put the laptop in the bag. Enzo watched the whole thing with visible offense.
+Zoe sighed and put the laptop back in her bag. Enzo watched the whole thing with visible offense.
 
 “We have rules now? Nobody consulted me. I thought this was a democracy.”
 
-Leo dropped onto the empty chair beside Taiga and Zoe sat across from him. He took one menu and threw it at Enzo.
+Leo dropped onto the empty chair beside Taiga and Zoe sat across from him. He took a menu and threw it at Enzo.
 
 "Order food."
 
@@ -541,11 +541,11 @@ Leo dropped onto the empty chair beside Taiga and Zoe sat across from him. He to
 
 They started reading the menu. A girl came to take their orders.
 
-After that, conversations naturally started. He overheard Aaron and Evan discussing the match. Leo and Zoe talked about their class. Zoe was about to bring back the Git problem, but Leo stopped her at once.
+After that, conversations naturally started. He overheard Aaron and Evan discussing the match. Leo and Zoe talked about their class. Zoe was about to bring up the Git problem again, but Leo stopped her at once.
 
-Enzo was trying to convince Scott that spicy sauce adds character. Although, Scott looked rather unconvinced.
+Enzo was trying to convince Scott that spicy sauce adds character, although Scott looked rather unconvinced.
 
-Gav was trying to open a conversation with everyone about something Taiga couldn't place. Enzo got caught at some point.
+Gav was trying to start a conversation with everyone about something Taiga couldn't place. Enzo got caught at some point.
 
 "Yeah, man, sounds like a disaster!"
 
@@ -581,7 +581,7 @@ He smelled the danger immediately. Gav's eyes narrowed, still locked on Taiga.
 
 “—because every reset lets you test a different solution to the same political structure.”
 
-Taiga paused a second. As Gav smiled, he understood that was his biggest mistake.
+Taiga paused for a second. As Gav smiled, he realized that was his biggest mistake.
 
 "Got you."
 
@@ -618,7 +618,7 @@ Taiga looked between them. Of course there were two of them.
 Luckily, food arrived and saved the situation. Actually, that turned out to be one of the better things about eating with this many people.
 Conversations split apart on their own. He could listen to one, ignore another, answer when somebody asked him something and go back to his food when they moved on.
 
-At some point Gav and Zoe ended up discussing a game. Taiga stopped following when Gav started explaining why randomness and perceived fairness were not the same thing.
+At some point, Gav and Zoe ended up discussing a game. Taiga stopped following when Gav started explaining why randomness and perceived fairness were not the same thing.
 Enzo declared the discussion illegal.
 
 Leo was laughing at something Aaron said when his phone buzzed. He pulled it out and his expression changed immediately.
@@ -647,7 +647,7 @@ Leo froze and slowly lowered his taco.
 
 Zoe rubbed her face.
 
-"I swear Leo."
+"I swear, Leo."
 
 Aaron asked:
 
@@ -669,7 +669,7 @@ Leo rested his forehead on the table.
 
 "Exactly. Emotional support doesn't need the truth."
 
-He lifted his head, took his phone and put it to his ear.
+He lifted his head and raised his phone to his ear.
 
 "Hey, Gabe! Happy birthday!"
 
@@ -701,11 +701,11 @@ She blinked.
 
 "Yeah?"
 
-"My god no. Absolutely not."
+"My God, no. Absolutely not."
 
 His ears were getting warm.
 
-“Team was talking about you two getting dinner, so I assumed.”
+“The team was talking about you two getting dinner, so I assumed.”
 
 From farther down the table, Enzo raised both hands.
 
@@ -756,7 +756,7 @@ Zoe raised an eyebrow.
 
 Leo huffed. 
 
-"Right. But Taiga could help you, he's way better at it."
+"Right. But Taiga could help you. He's way better at it."
 
 Taiga and Zoe stared at him. She went first, luckily for Leo.
 
@@ -770,7 +770,7 @@ Leo stopped and turned to Taiga.
 
 Zoe scratched her head.
 
-"Well, branch history is a bit of a crime scene. One merge got fucked up and I can't restore it properly."
+"Well, the branch history is a bit of a crime scene. One merge got fucked up and I can't restore it properly."
 
 Taiga considered.
 
@@ -803,7 +803,7 @@ He turned towards Nora, but she was busy taking notes.
 
 Didn't she notice that Hall had stopped?
 
-Taiga tried to talk but words wouldn't come out. What was his argument again? He didn't even remember the topic.
+Taiga tried to talk, but words wouldn't come out. What was his argument again? He didn't even remember the topic.
 A smile appeared on Hall's face.
 
 "As I thought."
@@ -813,7 +813,7 @@ No. Fuck, he had to reply, he knew he'd seen something.
 "Akatora."
 
 He turned. Mercer was sitting at the desk behind him. 
-Yes, he remembered. Coach wanted to see how developmental players were faring in classes, to make sure soccer wasn't affecting their academic career.
+Yes, he remembered. Coach wanted to see how developmental players were faring in classes, to make sure soccer wasn't affecting their academic careers.
 
 Now he had seen him. Was that the end?
 
@@ -825,13 +825,13 @@ Finally, the whistle.
 
 The scrimmage sucked. How could they win against Olympus alumni who were playing in the nationals right now?
 
-Water was running on his head, down to his body. It probably didn't matter, it was just a scrimmage.
+Water ran over his head and down his body. It probably didn't matter, it was just a scrimmage.
 He heard steps. Someone was in the aisle. 
-Weird, he thought that the team had a dinner and everybody already left.
+Weird. He thought the team had dinner and everybody had already left.
 
-Steps approached. Maybe it was the janitor doing cleanups?
+Steps approached. Maybe it was the janitor cleaning up?
 
-Then the door of his stall opened. Someone entered. Taiga rushed back, until he touched the cold tiles.
+Then the door of his stall opened. Someone entered. Taiga backed up until his back touched the cold tiles.
 
 Leo was closing the door behind him. His towel was, again, not around his waist. 
 
@@ -847,10 +847,10 @@ They were only a few centimeters away-
 
 "Shit."
 
-Taiga suddenly sat down. 
+Taiga suddenly sat up. 
 Room 317 was dark and silent. He could feel his heart beating hard under his ribs. His breath was heavy.
 
-He looked around, Caleb was peacefully asleep in his bed.
+He looked around. Caleb was peacefully asleep in his bed.
 Taiga kept panting and rubbed his face.
 
 What in the name of sanity was that?
@@ -860,13 +860,13 @@ The only thing stuck in his mind was the feeling of seeing Leo in front of him.
 Naked. Centimeters away. He could actually remember the sound of his breath. 
 Then his hands, reaching for him.
 
-He looked at the time: 2:17, then lay down on his back. One hand still rubbing his eyes.
+He checked the time—2:17—then lay down on his back. One hand still rubbing his eyes.
 
 Okay, it was just a dream. Brains were stupid at night.
 
-He felt the pressure under the blankets though. Of course.
+He felt the pressure under the blankets, though. Of course.
 His dick was throbbing, basically begging for attention.
-One hand automatically began moving down, before he shoved it under the pillow.
+One hand automatically began moving down before he shoved it under the pillow.
 
 No. Definitely not.
 He turned on his side and closed his eyes.
@@ -874,19 +874,19 @@ He turned on his side and closed his eyes.
 *Oh and by the way...*
 
 Jesus fucking Christ.
-He turned on the other side and stayed like that for a couple of minutes.
+He turned onto his other side and stayed like that for a couple of minutes.
 
 *I don't think he's into girls.*
 
 Okay, that was unnecessary. Totally unnecessary. Why even bring that up?
-Taiga turned again on his belly and shoved his face into the pillow.
+Taiga rolled onto his stomach again and shoved his face into the pillow.
 
 Bad idea. 
 Now he could feel even more pressure down there. His hips began moving slowly, without his permission.
 
 Absolutely not. 
 
-He turned on his back, then watched the time again.
+He turned onto his back, then watched the time again.
 
 2:26
 Fuck.
@@ -907,7 +907,7 @@ He stopped when Caleb moved, but Caleb only rolled farther toward the wall and w
 Taiga waited a couple of seconds, then continued.
 He was trying not to think about anyone in particular. That lasted maybe ten seconds.
 
-Unrequested, his mind kept giving him images from the shower. At some point, he wasn't sure anymore what was from the dream and what actually happened.
+His mind kept giving him images from the shower anyway. At some point, he wasn't sure anymore which parts came from the dream and which had actually happened.
 
 He went faster.
 
@@ -918,7 +918,7 @@ Why the fuck was that important?
 
 Still, that made him go faster.
 
-The memories became clearer. His breath. He was merely centimeters away. He could almost feel the heat coming from his body. 
+The memories became clearer. His breath. He was only centimeters away. He could almost feel the heat coming from his body. 
 He imagined Leo's hands on his chest. Their warmth. Then one moved downwards.
 On his abdomen. 
 Then he grabbed Taiga's shaft.
@@ -926,7 +926,7 @@ Then he grabbed Taiga's shaft.
 "F-Fuck-"
 
 He rolled onto his back and pulled up his shirt.
-God, that would be a really bad moment for Caleb to wake up.
+God, that would be a really bad time for Caleb to wake up.
 Taiga bit the hem of his shirt to keep it raised and continued stroking his dick. 
 
 Leo's hand kept moving. Faster. So did his own.
@@ -947,7 +947,7 @@ Taiga stared at the ceiling, finally releasing his shirt from his teeth, breathi
 
 He stayed still until his breathing settled, then slipped out of bed, cleaned himself up in the bathroom and returned as quietly as possible. Caleb never moved. Bless him.
 
-His mind finally started to let go of the dream. Taiga could slowly think straight again.
+His mind finally started to let go of the dream. Taiga could think straight again.
 
 It was just a dream. It had happened before.
 No need to make anything out of a horny dream.
