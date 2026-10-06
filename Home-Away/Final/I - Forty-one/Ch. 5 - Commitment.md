@@ -743,7 +743,7 @@ Oh. Right. His shoulders dropped.
 
 “Okay.”
 
-That was apparently enough for her. 
+That seemed to be enough for her. 
 Dinner kept moving.
 
 Leo came back after a couple of minutes. Apparently, he had managed to move the Thai dinner to the following day and Gabe didn't mind him being late. 
