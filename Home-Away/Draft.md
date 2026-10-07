@@ -496,244 +496,71 @@ Wednesday's General Chemistry lab was graded as a table.
 
 Taiga would have preferred an exam.
 
-If he got something wrong on an individual test, fine. His grade. His problem. Submitting one set of results meant a bad reading or a stupid mistake became the guys from chemistry's problem too.
+If he screwed up alone, fine. His grade, his problem. Here, one bad reading belonged to everyone.
 
-That was worse.
+That made him careful in the worst possible way.
 
-By the time he reached the lab, one of them had already checked that the burette stopcock did not leak. Another was reading the procedure.
+The practical was a titration. One of the guys overshot the first endpoint, and Taiga's hand moved toward the burette before he stopped it. The guy reset the flask himself. Taiga watched anyway.
 
-“You look like you're about to fight the glassware,” one of them said.
+Across the aisle, Leo and Zoe somehow turned their solution purple. Seth made them start over. Taiga laughed once and went back to his own table.
 
-“I'm fine.”
+His trial landed cleanly. Then one of the guys read the burette a hundredth higher than Taiga did.
 
-“You're going to try to do everybody's job.”
+Normally, Taiga would have argued until somebody gave up.
 
-“I wasn't.”
+He checked again.
 
-The guy looked at him.
-
-Taiga put on his goggles.
-
-“You can't grade thoughts.”
-
-Across the aisle, Leo and Zoe were setting up their own station. Leo had folded both lab-coat cuffs neatly above his wrists.
-
-At least he'd learned something from last time.
-
-Seth Miller clapped twice from the front.
-
-“Goggles on. Conversation down. Table results are shared, but I am still perfectly capable of giving individual consequences for individual stupidity.”
-
-Their practical was a titration of an unknown solution. Professor Hassan made one thing clear before they started.
-
-“This is not a speed competition.”
-
-Taiga looked away.
-
-One of the guys noticed.
-
-“Don't.”
-
-“I didn't say anything.”
-
-“You didn't have to.”
-
-They drew Unknown C.
-
-The first trial went badly. The guy at the burette overshot the endpoint. Not dramatically. The solution went from colorless to a pink that was obviously too pink.
-
-He stared at the flask.
-
-Taiga's first impulse was to take the burette.
-
-He didn't.
-
-“Again,” he said.
-
-The guy rinsed the flask and reset it himself.
-
-Taiga watched his hands anyway.
-
-“You are being very calm about this.”
-
-“I am using all my strength.”
-
-From the next table, Seth's voice cut across the room.
-
-“Mendez.”
-
-Taiga looked over.
-
-Leo and Zoe's flask was bright purple.
-
-Leo looked at it. Then at Seth.
-
-“Yes?”
-
-“Why is it purple?”
-
-Zoe pointed at Leo.
-
-“He said one more drop.”
-
-“One drop did not do all of that.”
-
-“It may have been more than one,” Leo admitted.
-
-Seth closed his eyes briefly.
-
-“Start again.”
-
-Taiga laughed and turned back to his own table.
-
-His trial went better. He slowed to single drops near the endpoint. One. Swirl. Nothing. One. Swirl. The faintest color held.
-
-“Stop.”
-
-One of the guys leaned down to read the burette.
-
-“Twenty-three point four six.”
-
-Taiga looked.
-
-“Four five.”
-
-“Bottom of the meniscus is closer to six.”
-
-“Move your head.”
-
-He did.
-
-“Still six.”
-
-Taiga leaned in.
+The guy might have been right.
 
 Annoying.
 
-Possible.
+They wrote his number.
 
-“Write six.”
+The next two trials agreed. The one after that didn't.
 
-The guy looked at him.
+Taiga immediately wanted to discard it. The value was wrong, therefore something had gone wrong, therefore they should throw it out and move on.
 
-“That easy?”
+One of the others stopped him before he could.
 
-“Don't make me change my mind.”
+They didn't know what the correct value was yet. Using the expected answer to decide which data counted defeated the point.
 
-The next trial came close enough to the first. The one after that did not.
+Also annoying.
 
-Taiga frowned at the numbers.
+Also correct.
 
-“That makes no sense.”
+The problem turned out to be a small air bubble in the burette tip.
 
-He already had the calculator open.
+Taiga reached for the setup, then pulled his hand back. The guy who had spotted it purged the line and reset the apparatus himself.
 
-“If C is what I think it is, that one's wrong.”
-
-One of the guys looked over.
-
-“We don't know what C is.”
-
-“I know.”
-
-“Then don't use the expected answer to decide which data you like.”
-
-Taiga looked at him.
-
-Annoying.
-
-Correct.
-
-The other guy crouched beside the setup.
-
-“Burette tip.”
-
-A small air bubble clung near the end.
-
-Taiga felt the irritation spike. They had usable data. One bad trial could force another run. More time. More chances for something stupid to happen.
-
-He reached for the burette, then stopped himself.
-
-“Reset it.”
-
-The guy nearest it looked at him.
-
-“Me?”
-
-“You found it.”
-
-He purged the tip.
-
-Seth came over. He made them explain what the bubble changed before he let them repeat. Taiga answered first.
-
-Seth lifted one hand.
-
-“I asked the table.”
+When Seth came over, Taiga started explaining what had happened out of reflex. Seth stopped him with one raised hand and made the rest of the table answer instead.
 
 Taiga shut his mouth.
 
-One of the guys explained it. The other added what it meant for delivered volume.
+One guy explained the bubble. Another explained what it had done to the delivered volume. Taiga stood there and let them finish.
 
-Taiga forced himself to let them finish.
+They repeated the trial, got two concordant values and documented the bad one instead of pretending it had never happened.
 
-They repeated. Two concordant trials. Calculation. Unknown C identified.
+Professor Hassan checked the sheet, signed it and moved on.
 
-Professor Hassan checked their sheet.
+Good recovery.
 
-“You discarded the fourth trial.”
+That was apparently it.
 
-“Air bubble in the tip,” one of the guys said. “We documented it before repeating.”
+In the hallway afterward, one of the guys pointed out that Taiga had gone an entire lab without taking over once.
 
-“And the first?”
+He had almost done it several times.
 
-The guy who had overshot raised one hand slightly.
-
-“My fault.”
-
-Hassan looked at the pink flask still near the sink.
-
-“I can see that.”
-
-She signed the sheet.
-
-“Good recovery.”
-
-Taiga exhaled before he could stop himself.
-
-When the session ended, the four of them stood in the hallway stripping off goggles and coats.
-
-One of the guys looked at Taiga.
-
-“You didn't take over once.”
-
-“I almost did.”
-
-“But you didn't.”
-
-Another one nodded.
-
-“I feel trusted.”
-
-“Don't make it weird.”
-
-The first guy laughed.
+Still counted.
 
 Taiga shoved his goggles into his bag.
 
 “I didn't want to fuck yours.”
 
-There was a beat.
-
-“That was almost sweet.”
-
-“Shut up.”
-
-They split at the stairs.
+The guy stared at him for a second, then laughed.
 
 Taiga headed for his next class without checking whether the others had uploaded the sheet correctly.
 
 Almost.
-
 ---
 
 That evening, Maya arrived at room 317 carrying a cardboard bridge and a bag of takeout. Taiga opened the door. She held up the food.
