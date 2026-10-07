@@ -1,10 +1,9 @@
 ### Chapter 6
 
-Monday morning was pale and humid. October finally managed to wash away what was left of the heat of the summer.
+Monday morning was pale and humid. Rain was definitely in the air. October finally managed to wash away what was left of the heat of the summer.
 Dry leaves were beginning to accumulate along the edges of the pavement.
 
 Taiga breathed in the cold air as he walked towards the Lecture Hall. Finally that walk didn't require his body to release coolant.
-
 
 Nora was already in their usual row when Taiga reached Political Institutions. She had his seat beside her empty and a paper cup balanced on top of her notebook.
 
@@ -135,5 +134,243 @@ Taiga briefly closed his eyes. Not now.
 
 "Yeah. A friend of his."
 
+By the time they reached the library, the rain had started properly.
 
+The fourth floor was already crowded. Taiga spotted Zoe first because she was waving both arms from a table by the windows.
+Leo sat beside her with his laptop open and looked up as well, raising one arm.
+
+"Taiga!"
+
+He used the same volume he used during soccer.
+Zoe grabbed his sleeve and pulled his arm down.
+
+Nora glanced at Taiga.
+
+"Yeah, now I properly remember him."
+
+Taiga giggled and approached them. He dropped into the empty chair across from Zoe. Nora took the one beside him and pulled out her notebook.
+
+Leo pointed at her.
+
+"Oh, I remember you. You were at the floor party right?"
+
+"Yes, hello again!"
+
+Zoe then held out her hand.
+
+"Hi, I'm Zoe."
+
+"Nora."
+
+Zoe pointed at the two of them.
+
+"Are you...?"
+
+Taiga and Nora immediately answered together.
+
+"Classmates."
+
+Zoe giggled.
+
+"Alright."
+
+"So, what's the damage?"
+
+Zoe pushed her laptop toward him.
+
+“Please tell me this is fixable.”
+
+Nora leaned.
+
+"What are you helping with?"
+
+"Git."
+
+Nora frowned.
+
+"Who's Git?"
+
+Taiga elaborated for a second.
+
+"Basically, it's a system to share what you write, so that more people can work together without changing each other's lines."
+
+"Something like a shared file?"
+
+"Kinda, but you don't edit in real time. Every modification you submit first gets compared with what's already online. If two people modify the same line, there's a conflict and it must be manually resolved."
+
+"That sounds like CS stuff."
+
+Taiga shrugged.
+
+"It basically is."
+
+"How do you know it?"
+
+"I've tinkered with it during summer."
+
+Nora raised an eyebrow.
+
+"You're full of surprises, Taiga Akatora."
+
+Leo chuckled from behind his laptop. 
+Taiga looked at the Git history and stopped.
+
+“What did you do?”
+
+“That tone is unnecessary.”
+
+“You have branches called `final`, `final-new`, `final-real`, `final-fixed` and `final-fixed-2`.”
+
+Nora looked at the screen.
+
+"Is that some naming convention you use?"
+
+"Absolutely not," Taiga answered.
+
+"Then why?"
+
+Zoe looked at her.
+
+“Why what?”
+
+“Why are they all called final?”
+
+“They were final when I made them.”
+
+Nora stared at her.
+
+“That is not what final means.”
+
+“It was temporally accurate.”
+
+Leo turned slowly toward the screen, then raised both hands.
+
+“I'm choosing maturity.”
+
+“You had a joke?” Zoe asked.
+
+“Several.”
+
+She had watched a rebasing tutorial, rebased onto the wrong branch, then merged the result back into the original. The graph looked like public transportation going through a civil war.
+
+“I thought I was simplifying it.”
+
+“You made a circle.”
+
+Leo rolled his chair closer.
+
+“That is actually impressive.”
+
+Taiga took a deep breath, then started working on it.
+It took almost an hour, several research on StackOverflow and a couple of swears. 
+Eventually, he reset one branch, preserved the useful commits and rebuilt the clean line. 
+Zoe ran the project and it worked.
+
+"Oh bless you. You are a life saver."
+
+"Commit and push. Stop doing clever things because somebody online say they are elegant."
+
+Nora and Leo giggled. Zoe frowned.
+
+"You make me look incompetent."
+
+"Do you prefer ambitious over actual skills?"
+
+She considered.
+
+"Yeah. That sounds better, actually."
+
+Nora had gone back to her notes at some point. She looked up.
+
+“So that's it?”
+
+“For the part she admitted to,” Taiga said.
+
+He looked outside: rain was pouring heavily against the windows. 
+So he pulled his laptop and started working on his own assignment. Zoe went back to hers.
+
+For another hour, they actually worked. 
+Taiga glanced towards Leo a couple of times, because apparently his brain couldn't let go of that fucking night.
+
+Okay. Leo was objectively attractive. So what? 
+
+...Fine, hot.
+
+Still, irrelevant. Plenty of hot guys out there. Leo was simply the easiest one his mind could provide when it needed it.
+End of the story.
+
+His phone buzzed on the table. Taiga looked at the screen without picking it up.
+Incoming mail from Apollo Soccer Club.
+The header read:
+
+**Final developmental review**
+
+Taiga froze and his heard dropped several meters.
+
+He slowly picked it up and opened it.
+
+*Dear Mr. Akatora,
+your finale evaluation for a permanent position in the Apollo Soccer Team is scheduled for Thursday at 17:30.
+Best regards,
+Olympus Soccer Office*
+
+He stood at the phone for what felt like an eternity. The whole library stopped existing for a while.
+
+Someone tapped his shoulder. Nora had her head tilted and was looking at him.
+
+"You alive?"
+
+"W-What?"
+
+"I've called you three times. You spaced out, is everything alright?"
+
+"Yeah. Fine. Wonderful."
+
+She raised an eyebrow. Leo and Zoe looked preoccupied as well.
+
+"I got the Apollo evaluation this Thursday."
+
+Zoe frowned.
+
+“The thing where they decide if you stay?”
+
+“Basically.”
+
+Leo made a small face.
+
+“Kind of. Mercer also uses it to tell you where you're at.”
+
+“Wonderful,” Taiga said. “So I can get cut with detailed notes.”
+
+Leo laughed once.
+
+“That is technically possible.”
+
+Zoe punched his shoulder.
+
+"You're terrible."
+
+"Ouch. I was just stating a fact. Besides, my bet is on forty-three. If I know Mercer, I think he's gonna kick him."
+
+Taiga frowned.
+
+"Why?"
+
+Leo considered for a couple of seconds.
+
+"Well, mostly because Mercer isn't correcting him much lately."
+
+"He screamed at him last session."
+
+"Because he was angry. That's different. That guy's a real airhead."
+
+Taiga thought about it. Yes, there was something different in how Mercer approached forty-three.
+
+Hope. Exactly what he didn't need right now.
+
+He'd rather be sure he's gonna get kicked out than stay in doubt until Thursday.
+
+That was a great way to start the week.
+
+---
 
