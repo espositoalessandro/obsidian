@@ -33,7 +33,7 @@ Taiga blinked.
 
 Professor Hall entered and conversation across the room died quickly. He was carrying a stack of papers that for some reason made Taiga's stomach drop.
 
-“Before we start, I've returned the first midterm papers.”
+“Before we start, I've returned the first midterm essays.”
 
 Taiga's attention snapped forward. Papers moved down each row. 
 
@@ -192,17 +192,11 @@ Nora frowned.
 
 Taiga elaborated for a second.
 
-"Basically, it's a system to share what you write, so that more people can work together without changing each other's lines."
+“Basically, it keeps track of changes to files. Makes it easier for multiple people to work on the same project without overwriting each other.”
 
 "Something like a shared file?"
 
-"Kinda, but you don't edit in real time. Every modification you submit first gets compared with what's already online. If two people modify the same line, there's a conflict and it must be manually resolved."
-
-"That sounds like CS stuff."
-
-Taiga shrugged.
-
-"It basically is."
+“Kind of. More annoying.”
 
 "How do you know it?"
 
@@ -288,15 +282,16 @@ Nora had gone back to her notes at some point. She looked up.
 
 He looked outside: rain was pouring heavily against the windows. 
 So he pulled his laptop and started working on his own assignment. Zoe went back to hers.
-
 For another hour, they actually worked. 
-Taiga glanced towards Leo a couple of times, because apparently his brain couldn't let go of that fucking night.
 
+Taiga glanced towards Leo a couple of times. 
+
+Oh, for fuck's sake.
 Okay. Leo was objectively attractive. So what? 
 
 ...Fine, hot.
 
-Still, irrelevant. Plenty of hot guys out there. Leo was simply the easiest one his mind could provide when it needed it.
+Still, irrelevant. Plenty of hot guys out there. Leo was simply the easiest his brain could provide when it needed one.
 End of the story.
 
 His phone buzzed on the table. Taiga looked at the screen without picking it up.
@@ -310,7 +305,7 @@ Taiga froze and his heard dropped several meters.
 He slowly picked it up and opened it.
 
 *Dear Mr. Akatora,
-your finale evaluation for a permanent position in the Apollo Soccer Team is scheduled for Thursday at 17:30.
+your final six-week developmental review is scheduled for Thursday at 17:30.
 Best regards,
 Olympus Soccer Office*
 
@@ -330,7 +325,7 @@ She raised an eyebrow. Leo and Zoe looked preoccupied as well.
 
 "I got the Apollo evaluation this Thursday."
 
-Zoe frowned.
+Nora frowned.
 
 “The thing where they decide if you stay?”
 
@@ -352,11 +347,9 @@ Zoe punched his shoulder.
 
 "Ouch. I was just stating a fact. Besides, my bet is on forty-three. If I know Mercer, I think he's gonna kick him."
 
-Taiga frowned.
+Taiga looked at him.
 
 "Why?"
-
-Leo considered for a couple of seconds.
 
 "Well, mostly because Mercer isn't correcting him much lately."
 
@@ -366,7 +359,7 @@ Leo considered for a couple of seconds.
 
 Taiga thought about it. Yes, there was something different in how Mercer approached forty-three.
 
-Hope. Exactly what he didn't need right now.
+Great, hope. Exactly what he didn't need right now.
 
 He'd rather be sure he's gonna get kicked out than stay in doubt until Thursday.
 
