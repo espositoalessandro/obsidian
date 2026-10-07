@@ -561,6 +561,7 @@ The guy stared at him for a second, then laughed.
 Taiga headed for his next class without checking whether the others had uploaded the sheet correctly.
 
 Almost.
+
 ---
 
 That evening, Maya arrived at room 317 carrying a cardboard bridge and a bag of takeout. Taiga opened the door. She held up the food.
