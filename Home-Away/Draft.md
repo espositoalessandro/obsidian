@@ -102,11 +102,103 @@ Taiga couldn't stop the smile.
 
 Hall cleared his throat from the front. Nora turned around. Taiga tucked the paper into his notebook. The comment about the bridge stayed visible at the edge until he closed it.
 
----
+When class ended, Nora caught up with him in the corridor.
 
-That afternoon, Leo's name appeared in the team chat.
+“Library?”
 
-For half a second, Taiga's brain supplied the shower. Then the dream. Then the part that had happened after he woke up, which was significantly harder to blame on his subconscious.
+Taiga adjusted the strap of his bag.
+
+“I'm going anyway.”
+
+“That was surprisingly easy.”
+
+“I promised somebody I'd fix something.”
+
+Nora looked over.
+
+“That sounds ominous.”
+
+“Git.”
+
+“Less ominous.”
+
+“You haven't seen the repository.”
+
+She pushed through the doors into the courtyard.
+
+“Who?”
+
+“Zoe. The girl from chemistry.”
+
+“The one whose lab partner set himself on fire?”
+
+“He set himself on fire.”
+
+“You laughed.”
+
+“It was funny.”
+
+Nora considered that.
+
+“Fair.”
+
+Zoe had texted Sunday morning to move the repo thing to Monday. Taiga hadn't cared enough to ask why.
+
+By the time they reached the library, the rain had started properly.
+
+The fourth floor was already crowded. Taiga spotted Zoe first because she was waving both arms from a table by the windows.
+
+Leo sat beside her with his laptop open.
+
+“Taiga!” Leo called, somehow at soccer volume without actually shouting.
+
+Zoe grabbed his sleeve and pulled his arm down.
+
+“Library.”
+
+“I said his name.”
+
+“You say everything like you're calling for a through ball.”
+
+Nora glanced at Taiga.
+
+“You weren't exaggerating.”
+
+“About what?” Leo asked.
+
+“Nothing,” Taiga said.
+
+They reached the table.
+
+Zoe looked at Nora.
+
+“Hi.”
+
+“Nora.”
+
+“Zoe.”
+
+Leo pointed between them.
+
+“You two haven't met?”
+
+“No,” Nora said.
+
+“Great. Now everybody knows everybody.”
+
+“That is not how meeting people works,” Taiga said.
+
+“It literally is.”
+
+Taiga dropped into the empty chair across from Zoe. Nora took the one beside him and pulled out her notebook.
+
+For a second, Taiga looked at Leo.
+
+The shower came back first.
+
+Then the dream.
+
+Then 2:26 and the part that had happened while he was very much awake.
 
 Fine.
 
@@ -114,11 +206,537 @@ Leo was hot.
 
 That explained enough.
 
-Taiga read the message, put his phone away and went back to what he was doing.
+Zoe pushed her laptop toward him.
+
+“Please tell me this is fixable.”
+
+Taiga looked at the Git history and stopped.
+
+“What did you do?”
+
+“That tone is unnecessary.”
+
+“You have branches called `final`, `final-new`, `final-real`, `final-fixed` and `final-fixed-2`.”
+
+Nora stopped opening her notebook.
+
+“Why?”
+
+Zoe looked at her.
+
+“Why what?”
+
+“Why are they all called final?”
+
+“They were final when I made them.”
+
+Nora stared at her.
+
+“That is not what final means.”
+
+“It was temporally accurate.”
+
+Taiga looked between them.
+
+“Great. There's two of you now.”
+
+Leo turned slowly toward the screen, raised both hands, then lowered them again.
+
+“I'm choosing maturity.”
+
+“You had a joke?” Zoe asked.
+
+“Several.”
+
+She had watched a rebasing tutorial, rebased onto the wrong branch, then merged the result back into the original. The graph looked like public transportation designed during a civil war.
+
+“I thought I was simplifying it.”
+
+“You made a circle.”
+
+Leo rolled his chair closer.
+
+“That is actually impressive.”
+
+Nora leaned over too.
+
+“I don't understand what I'm looking at and even I know that's wrong.”
+
+“Thank you for the support,” Zoe said.
+
+“Can you fix it?” Leo asked.
+
+“Most of it.”
+
+Taiga reset one branch, preserved the useful commits and rebuilt the clean line. Zoe ran the project.
+
+It built.
+
+“Oh, thank God.”
+
+“Commit. Push. Then stop doing clever Git operations because somebody online called them elegant.”
+
+“But rebasing *is* elegant.”
+
+“Not when you do it.”
+
+Leo laughed hard enough that the next table looked over.
+
+Zoe committed and pushed.
+
+“You make me sound incompetent.”
+
+“You deleted a branch yesterday.”
+
+“I recovered it.”
+
+“We recovered it.”
+
+“You were present during the recovery.”
+
+Taiga stared at her.
+
+Zoe smiled.
+
+“Thank you.”
+
+Nora had gone back to her notes at some point. She looked up.
+
+“So that's it?”
+
+“For the part she admitted to,” Taiga said.
+
+Zoe made an offended noise.
+
+“I told you everything.”
+
+Taiga clicked through the graph once more.
+
+“You have a branch called `backup-dont-touch`.”
+
+“That one is self-explanatory.”
+
+Nora put her pen down.
+
+“I'm starting to understand why he sounds like that.”
+
+“Like what?” Taiga asked.
+
+“Personally betrayed.”
+
+Leo pointed at Nora.
+
+“Exactly.”
+
+“Shut up.”
+
+Every other table nearby was occupied, and rain hammered the windows hard enough that leaving would be stupid anyway.
+
+Taiga pulled his own laptop out.
+
+Leo glanced over.
+
+“Staying?”
+
+“I came to the library.”
+
+“That wasn't an answer.”
+
+“It was enough of one.”
+
+Zoe nodded toward the rain.
+
+“Nature has chosen friendship.”
+
+“Nature has chosen not getting soaked.”
+
+“Same result.”
+
+For a while they actually worked.
+
+Nora went through readings for another class, marking the margins hard enough to nearly tear the paper. Zoe cleaned up the rest of her repository. Leo returned to an assignment, typing quickly, stopping to check documentation, then typing again. His leg bounced under the table.
+
+Taiga opened the Political Institutions reading Hall had assigned.
+
+Ten minutes later, Nora slid her paper sideways.
+
+“Read this sentence.”
+
+Taiga did.
+
+“It says nothing.”
+
+“Exactly.”
+
+“You've highlighted half the paragraph.”
+
+“Because all of it says nothing.”
+
+From across the table, Zoe looked up.
+
+“What class?”
+
+“Political Institutions.”
+
+Zoe immediately looked back down.
+
+“No.”
+
+Nora frowned.
+
+“No what?”
+
+“I don't want to know.”
+
+“That is a remarkably anti-intellectual position.”
+
+“I do computer science because institutions can't make me cite them.”
+
+Taiga looked at her.
+
+“That is not why you do computer science.”
+
+“It is now.”
+
+Leo smiled at his screen.
+
+“Nora, don't encourage her. She'll build a political ideology around not writing bibliographies.”
+
+“I already have one.”
+
+“Of course you do,” Taiga said.
+
+His phone buzzed beside the laptop.
+
+He checked it.
+
+**DEVELOPMENTAL REVIEW — THURSDAY 17:30**
+
+The rest of the table disappeared for half a second.
+
+Thursday.
+
+Leo saw the header before Taiga locked the screen.
+
+“Review week.”
+
+Taiga put the phone face down.
+
+“Yeah.”
+
+Nora looked over.
+
+“What review?”
+
+“Soccer.”
+
+Zoe frowned.
+
+“The thing where they decide if you stay?”
+
+“Basically.”
+
+Leo made a small face.
+
+“Kind of. Mercer also uses it to tell you where you're at.”
+
+“Wonderful,” Taiga said. “So I can get cut with detailed notes.”
+
+Leo laughed once.
+
+“That is technically possible.”
+
+Zoe stared at him.
+
+“You're terrible at reassurance.”
+
+“I wasn't reassuring him.”
+
+“Good.”
+
+Taiga reopened the article.
+
+Nora watched him for maybe a second, then went back to her notes.
+
+Nobody tried to make him feel better.
+
+Good.
+
+Twenty minutes later Zoe swore at another merge conflict, Nora asked why there was another one if Taiga had supposedly fixed the repository, and Leo offered advice that Zoe ignored.
+
+Taiga ended up fixing exactly one more thing before closing her laptop for her.
+
+“I'm invoicing you.”
+
+Zoe pulled it back.
+
+“You can't invoice friends.”
+
+“Watch me.”
+
+Leo pointed at him.
+
+“See? He gets it now.”
+
+Nora looked between them.
+
+“Gets what?”
+
+“Nothing,” Taiga said.
+
+“Friendship,” Leo said at the same time.
+
+Taiga kicked his chair under the table.
+
+Leo laughed.
 
 ---
 
-Tuesday evening, Maya arrived at room 317 carrying a cardboard bridge and a bag of takeout. Taiga opened the door. She held up the food.
+Wednesday's General Chemistry lab was graded as a table.
+
+Taiga would have preferred an exam.
+
+If he got something wrong on an individual test, fine. His grade. His problem. Submitting one set of results meant a bad reading or a stupid mistake became the guys from chemistry's problem too.
+
+That was worse.
+
+By the time he reached the lab, one of them had already checked that the burette stopcock did not leak. Another was reading the procedure.
+
+“You look like you're about to fight the glassware,” one of them said.
+
+“I'm fine.”
+
+“You're going to try to do everybody's job.”
+
+“I wasn't.”
+
+The guy looked at him.
+
+Taiga put on his goggles.
+
+“You can't grade thoughts.”
+
+Across the aisle, Leo and Zoe were setting up their own station. Leo had folded both lab-coat cuffs neatly above his wrists.
+
+At least he'd learned something from last time.
+
+Seth Miller clapped twice from the front.
+
+“Goggles on. Conversation down. Table results are shared, but I am still perfectly capable of giving individual consequences for individual stupidity.”
+
+Their practical was a titration of an unknown solution. Professor Hassan made one thing clear before they started.
+
+“This is not a speed competition.”
+
+Taiga looked away.
+
+One of the guys noticed.
+
+“Don't.”
+
+“I didn't say anything.”
+
+“You didn't have to.”
+
+They drew Unknown C.
+
+The first trial went badly. The guy at the burette overshot the endpoint. Not dramatically. The solution went from colorless to a pink that was obviously too pink.
+
+He stared at the flask.
+
+Taiga's first impulse was to take the burette.
+
+He didn't.
+
+“Again,” he said.
+
+The guy rinsed the flask and reset it himself.
+
+Taiga watched his hands anyway.
+
+“You are being very calm about this.”
+
+“I am using all my strength.”
+
+From the next table, Seth's voice cut across the room.
+
+“Mendez.”
+
+Taiga looked over.
+
+Leo and Zoe's flask was bright purple.
+
+Leo looked at it. Then at Seth.
+
+“Yes?”
+
+“Why is it purple?”
+
+Zoe pointed at Leo.
+
+“He said one more drop.”
+
+“One drop did not do all of that.”
+
+“It may have been more than one,” Leo admitted.
+
+Seth closed his eyes briefly.
+
+“Start again.”
+
+Taiga laughed and turned back to his own table.
+
+His trial went better. He slowed to single drops near the endpoint. One. Swirl. Nothing. One. Swirl. The faintest color held.
+
+“Stop.”
+
+One of the guys leaned down to read the burette.
+
+“Twenty-three point four six.”
+
+Taiga looked.
+
+“Four five.”
+
+“Bottom of the meniscus is closer to six.”
+
+“Move your head.”
+
+He did.
+
+“Still six.”
+
+Taiga leaned in.
+
+Annoying.
+
+Possible.
+
+“Write six.”
+
+The guy looked at him.
+
+“That easy?”
+
+“Don't make me change my mind.”
+
+The next trial came close enough to the first. The one after that did not.
+
+Taiga frowned at the numbers.
+
+“That makes no sense.”
+
+He already had the calculator open.
+
+“If C is what I think it is, that one's wrong.”
+
+One of the guys looked over.
+
+“We don't know what C is.”
+
+“I know.”
+
+“Then don't use the expected answer to decide which data you like.”
+
+Taiga looked at him.
+
+Annoying.
+
+Correct.
+
+The other guy crouched beside the setup.
+
+“Burette tip.”
+
+A small air bubble clung near the end.
+
+Taiga felt the irritation spike. They had usable data. One bad trial could force another run. More time. More chances for something stupid to happen.
+
+He reached for the burette, then stopped himself.
+
+“Reset it.”
+
+The guy nearest it looked at him.
+
+“Me?”
+
+“You found it.”
+
+He purged the tip.
+
+Seth came over. He made them explain what the bubble changed before he let them repeat. Taiga answered first.
+
+Seth lifted one hand.
+
+“I asked the table.”
+
+Taiga shut his mouth.
+
+One of the guys explained it. The other added what it meant for delivered volume.
+
+Taiga forced himself to let them finish.
+
+They repeated. Two concordant trials. Calculation. Unknown C identified.
+
+Professor Hassan checked their sheet.
+
+“You discarded the fourth trial.”
+
+“Air bubble in the tip,” one of the guys said. “We documented it before repeating.”
+
+“And the first?”
+
+The guy who had overshot raised one hand slightly.
+
+“My fault.”
+
+Hassan looked at the pink flask still near the sink.
+
+“I can see that.”
+
+She signed the sheet.
+
+“Good recovery.”
+
+Taiga exhaled before he could stop himself.
+
+When the session ended, the four of them stood in the hallway stripping off goggles and coats.
+
+One of the guys looked at Taiga.
+
+“You didn't take over once.”
+
+“I almost did.”
+
+“But you didn't.”
+
+Another one nodded.
+
+“I feel trusted.”
+
+“Don't make it weird.”
+
+The first guy laughed.
+
+Taiga shoved his goggles into his bag.
+
+“I didn't want to fuck yours.”
+
+There was a beat.
+
+“That was almost sweet.”
+
+“Shut up.”
+
+They split at the stairs.
+
+Taiga headed for his next class without checking whether the others had uploaded the sheet correctly.
+
+Almost.
+
+---
+
+That evening, Maya arrived at room 317 carrying a cardboard bridge and a bag of takeout. Taiga opened the door. She held up the food.
 
 “Peace offering.”
 
@@ -381,250 +999,6 @@ Maya kicked his ankle under the desk.
 “You deserved it.”
 
 Taiga laughed and went back to his food.
-
----
-
-Wednesday's General Chemistry lab was graded as a table.
-
-Taiga would have preferred an exam.
-
-If he got something wrong on an individual test, fine. His grade. His problem. Submitting one set of results meant a bad reading or a stupid mistake became the guys from chemistry's problem too.
-
-That was worse.
-
-By the time he reached the lab, one of them had already checked that the burette stopcock did not leak. Another was reading the procedure.
-
-“You look like you're about to fight the glassware,” one of them said.
-
-“I'm fine.”
-
-“You're going to try to do everybody's job.”
-
-“I wasn't.”
-
-The guy looked at him.
-
-Taiga put on his goggles.
-
-“You can't grade thoughts.”
-
-Across the aisle, Leo and Zoe were setting up their own station. Leo had folded both lab-coat cuffs neatly above his wrists.
-
-At least he'd learned something from last time.
-
-Seth Miller clapped twice from the front.
-
-“Goggles on. Conversation down. Table results are shared, but I am still perfectly capable of giving individual consequences for individual stupidity.”
-
-Their practical was a titration of an unknown solution. Professor Hassan made one thing clear before they started.
-
-“This is not a speed competition.”
-
-Taiga looked away.
-
-One of the guys noticed.
-
-“Don't.”
-
-“I didn't say anything.”
-
-“You didn't have to.”
-
-They drew Unknown C.
-
-The first trial went badly. The guy at the burette overshot the endpoint. Not dramatically. The solution went from colorless to a pink that was obviously too pink.
-
-He stared at the flask.
-
-Taiga's first impulse was to take the burette.
-
-He didn't.
-
-“Again,” he said.
-
-The guy rinsed the flask and reset it himself.
-
-Taiga watched his hands anyway.
-
-“You are being very calm about this.”
-
-“I am using all my strength.”
-
-From the next table, Seth's voice cut across the room.
-
-“Mendez.”
-
-Taiga looked over.
-
-Leo and Zoe's flask was bright purple.
-
-Leo looked at it. Then at Seth.
-
-“Yes?”
-
-“Why is it purple?”
-
-Zoe pointed at Leo.
-
-“He said one more drop.”
-
-“One drop did not do all of that.”
-
-“It may have been more than one,” Leo admitted.
-
-Seth closed his eyes briefly.
-
-“Start again.”
-
-Taiga laughed and turned back to his own table.
-
-His trial went better. He slowed to single drops near the endpoint. One. Swirl. Nothing. One. Swirl. The faintest color held.
-
-“Stop.”
-
-One of the guys leaned down to read the burette.
-
-“Twenty-three point four six.”
-
-Taiga looked.
-
-“Four five.”
-
-“Bottom of the meniscus is closer to six.”
-
-“Move your head.”
-
-He did.
-
-“Still six.”
-
-Taiga leaned in.
-
-Annoying.
-
-Possible.
-
-“Write six.”
-
-The guy looked at him.
-
-“That easy?”
-
-“Don't make me change my mind.”
-
-The next trial came close enough to the first. The one after that did not.
-
-Taiga frowned at the numbers.
-
-“That makes no sense.”
-
-He already had the calculator open.
-
-“If C is what I think it is, that one's wrong.”
-
-One of the guys looked over.
-
-“We don't know what C is.”
-
-“I know.”
-
-“Then don't use the expected answer to decide which data you like.”
-
-Taiga looked at him.
-
-Annoying.
-
-Correct.
-
-The other guy crouched beside the setup.
-
-“Burette tip.”
-
-A small air bubble clung near the end.
-
-Taiga felt the irritation spike. They had usable data. One bad trial could force another run. More time. More chances for something stupid to happen.
-
-He reached for the burette, then stopped himself.
-
-“Reset it.”
-
-The guy nearest it looked at him.
-
-“Me?”
-
-“You found it.”
-
-He purged the tip.
-
-Seth came over. He made them explain what the bubble changed before he let them repeat. Taiga answered first.
-
-Seth lifted one hand.
-
-“I asked the table.”
-
-Taiga shut his mouth.
-
-One of the guys explained it. The other added what it meant for delivered volume.
-
-Taiga forced himself to let them finish.
-
-They repeated. Two concordant trials. Calculation. Unknown C identified.
-
-Professor Hassan checked their sheet.
-
-“You discarded the fourth trial.”
-
-“Air bubble in the tip,” one of the guys said. “We documented it before repeating.”
-
-“And the first?”
-
-The guy who had overshot raised one hand slightly.
-
-“My fault.”
-
-Hassan looked at the pink flask still near the sink.
-
-“I can see that.”
-
-She signed the sheet.
-
-“Good recovery.”
-
-Taiga exhaled before he could stop himself.
-
-When the session ended, the four of them stood in the hallway stripping off goggles and coats.
-
-One of the guys looked at Taiga.
-
-“You didn't take over once.”
-
-“I almost did.”
-
-“But you didn't.”
-
-Another one nodded.
-
-“I feel trusted.”
-
-“Don't make it weird.”
-
-The first guy laughed.
-
-Taiga shoved his goggles into his bag.
-
-“I didn't want to fuck yours.”
-
-There was a beat.
-
-“That was almost sweet.”
-
-“Shut up.”
-
-They split at the stairs.
-
-Taiga headed for his next class without checking whether the others had uploaded the sheet correctly.
-
-Almost.
 
 ---
 
