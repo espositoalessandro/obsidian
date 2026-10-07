@@ -766,7 +766,7 @@ Taiga and Zoe stared at him. She went first, luckily for Leo.
 
 Leo stopped and turned to Taiga.
 
-"Right, sorry. Do you want to look at it tomorrow? You can say no and Zoe can face the consequences of her own commits."
+"Right, sorry. Do you want to look at it? You can say no and Zoe can face the consequences of her own commits."
 
 "What happened this time?"
 
@@ -776,7 +776,7 @@ Zoe scratched her head.
 
 Taiga considered.
 
-"Yeah, I can look."
+"Tomorrow I got stuff. Monday morning."
 
 "Great," Leo said. "Consent-based debugging."
 
@@ -786,7 +786,7 @@ He stood up.
 
 He pointed at Taiga and Zoe.
 
-"Tomorrow. Repo exorcism. Text me if the plan changes."
+"Monday, library. Repo exorcism. Text me if the plan changes."
 
 Then at everyone else:
 
