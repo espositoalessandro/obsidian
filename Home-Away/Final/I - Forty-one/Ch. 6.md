@@ -381,7 +381,7 @@ That made him careful in the worst possible way.
 He checked every instruction at least three times before adding even a single drop. Then compared the result twice with the calculations.
 One of the guys overshot the first endpoint and Taiga almost swore. He managed to contain himself and let him reset the flask.
 
-While he waited, he turned to see table three. Leo had carefully cuffed his sleeves and Professor Hassan was holding a flask with a very bright purple liquid inside. Zoe was insisting that it was Leo's fault because "one drop more just to be sure" isn't a correct approach in chemistry. 
+While he waited, he turned to see table three. Leo had carefully cuffed his sleeves and Professor Hassan was holding a flask with a very bright purple liquid inside. Zoe was insisting that it was Leo's fault because "one drop more just to be sure" wasn't a correct approach in chemistry. 
 
 Luckily, nobody at his table fucked up badly enough to affect the general result. But the whole class left Taiga exhausted, because he checked everything, even the results that the others had already verified.
 
