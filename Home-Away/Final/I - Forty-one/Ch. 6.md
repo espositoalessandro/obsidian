@@ -47,7 +47,7 @@ He stopped for a second. His brain immediately started with *still under ninety*
 
 Taiga closed his eyes and exhaled.
 
-Stupid brain. Eighty-seven was thirteen point more than his last one. 
+Stupid brain. Eighty-seven was thirteen points higher than his last one. 
 
 Beside one paragraph:
 
@@ -71,8 +71,8 @@ Taiga covered the number with his hand.
 
 "Eighty-four."
 
-Taiga raised on eyebrow and slid the paper toward her.
-Nora stare ad the number.
+Taiga raised an eyebrow and slid the paper toward her.
+Nora stared at the number.
 
 "Oh, fuck you."
 
@@ -87,19 +87,19 @@ Taiga couldn't stop the smile.
 “That makes it worse.”
 
 Class began and they both turned towards Hall.
-The lecture went on as usual, although suddenly Political Instruction felt much more interesting.
+The lecture went on as usual, although suddenly Political Institutions felt much more interesting.
 
 When he was done, Nora turned towards Taiga.
 
 "Wanna go to the library?"
 
-Taiga shrugged while packing his back.
+Taiga shrugged while packing his bag.
 
 "I'm going there anyway."
 
 "That was unusually easy."
 
-"I promised somebody to help with a thing."
+"I promised someone I’d help with something."
 
 Nora paused a second and blinked.
 
@@ -256,13 +256,13 @@ Leo rolled his chair closer.
 “That is actually impressive.”
 
 Taiga took a deep breath, then started working on it.
-It took almost an hour, several research on StackOverflow and a couple of swears. 
+It took almost an hour, several searches on Stack Overflow and a couple of swears. 
 Eventually, he reset one branch, preserved the useful commits and rebuilt the clean line. 
 Zoe ran the project and it worked.
 
 "Oh bless you. You are a life saver."
 
-"Commit and push. Stop doing clever things because somebody online say they are elegant."
+"Commit and push. Stop doing clever things because somebody online says they’re elegant."
 
 Nora and Leo giggled. Zoe frowned.
 
@@ -281,7 +281,7 @@ Nora had gone back to her notes at some point. She looked up.
 “For the part she admitted to,” Taiga said.
 
 He looked outside: rain was pouring heavily against the windows. 
-So he pulled his laptop and started working on his own assignment. Zoe went back to hers.
+So he pulled out his laptop and started working on his own assignment. Zoe went back to hers.
 For another hour, they actually worked. 
 
 Taiga glanced towards Leo a couple of times. 
@@ -300,7 +300,7 @@ The header read:
 
 **Final developmental review**
 
-Taiga froze and his heard dropped several meters.
+Taiga froze and his heart dropped several meters.
 
 He slowly picked it up and opened it.
 
@@ -309,7 +309,7 @@ your final six-week developmental review is scheduled for Thursday at 17:30.
 Best regards,
 Olympus Soccer Office*
 
-He stood at the phone for what felt like an eternity. The whole library stopped existing for a while.
+He stared at the phone for what felt like an eternity. The whole library stopped existing for a while.
 
 Someone tapped his shoulder. Nora had her head tilted and was looking at him.
 
@@ -321,7 +321,7 @@ Someone tapped his shoulder. Nora had her head tilted and was looking at him.
 
 "Yeah. Fine. Wonderful."
 
-She raised an eyebrow. Leo and Zoe looked preoccupied as well.
+She raised an eyebrow. Leo and Zoe looked concerned as well.
 
 "I got the Apollo evaluation this Thursday."
 
