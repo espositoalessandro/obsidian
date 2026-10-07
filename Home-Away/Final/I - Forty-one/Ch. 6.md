@@ -359,7 +359,7 @@ Taiga looked at him.
 
 Taiga thought about it. Yes, there was something different in how Mercer approached forty-three.
 
-Great, hope. Exactly what he didn't need right now.
+Hope. Exactly what he didn't need right now.
 
 He'd rather be sure he's gonna get kicked out than stay in doubt until Thursday.
 
