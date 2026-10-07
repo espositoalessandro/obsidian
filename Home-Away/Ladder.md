@@ -10,11 +10,12 @@ Chapter 6 answers a different question:
 
 > **Has he actually earned a place here?**
 
-The answer should arrive from several directions at once:
+The answer should accumulate from several directions:
 
 - academically, the work he has been doing begins to show;
-- domestically, Caleb and Maya treat his football review as something that matters because **he** matters;
+- socially, people from different parts of Olympus begin to overlap instead of existing as isolated Taiga-orbits;
 - in chemistry, Taiga behaves more like someone responsible for a shared outcome rather than someone trying to control everything himself;
+- domestically, Caleb and Maya treat his football review as something that matters because **he** cares about being there;
 - in football, Mercer gives the institutional answer: **you are staying**.
 
 The chapter should not feel like a victory lap.
@@ -33,23 +34,24 @@ Chapter 5 has already established sexual attraction.
 
 Chapter 6 should **not** escalate that into nervousness, fixation or a crush.
 
-Early in the chapter, give Taiga one brief conscious acknowledgement that makes the reader understand he has processed the previous night:
+The acknowledgement belongs inside the opening library sequence, not in a separate bridge scene.
+
+When Taiga sees Leo, Chapter 5 can flash back briefly:
+
+- shower;
+- dream;
+- what Taiga consciously did after waking.
+
+Then Taiga reaches the simple conclusion:
 
 > **Leo was hot. That explained enough.**
-
-This does not need to be that exact sentence, but the function must be clear.
-
-Taiga's internal logic is effectively:
-
-**shower → dream → conscious fantasy → Leo is hot → case closed**
 
 After that:
 
 - Taiga behaves normally around Leo;
-- Leo's name can come up without Taiga reacting strangely;
-- Leo can be present in chemistry or training without automatically seeking Taiga out;
-- Taiga does not start tracking Leo across rooms;
-- no "why am I noticing him?" material;
+- Leo can sit beside him for an entire library session without becoming the center of Taiga's attention;
+- Leo's name or presence does not make him flustered;
+- no “why am I noticing him?” material;
 - no nervousness merely because Leo is nearby;
 - no romantic self-surveillance.
 
@@ -59,79 +61,46 @@ Until Chapter 12, Taiga can comfortably think of Leo as an attractive teammate/f
 
 ---
 
-## Ensemble priority
+## Ensemble principle
 
-Chapter 5 gave Leo a lot of narrative gravity.
+Avoid building separate character islands around Taiga.
 
-Chapter 6 should rebalance the cast.
+The opening should deliberately overlap social groups:
 
-### Caleb
-Bring him back into substantial page space.
+**Nora + Taiga → Zoe + Leo → four-person library scene**
 
-His roommate relationship with Taiga should still feel like one of Taiga's central Olympus relationships, not something that faded once football and Leo became more important.
+This matters because Olympus should increasingly feel like one lived-in environment rather than:
 
-His role in the review-anxiety scene should remain characteristically Caleb:
+**Nora scene → Caleb/Maya scene → Leo/Zoe scene → Apollo scene**
 
-- observable facts;
-- literal answers;
-- no therapist voice;
-- no fake reassurance;
-- he asks the exact question Taiga is avoiding.
+The library scene should allow the relationships to cross:
 
-### Maya
-This chapter should be her first meaningful in-person presence in the final rewrite.
+- Nora meets / interacts with Zoe;
+- Nora already knows Leo well enough from previous social contact not to require a major introduction;
+- Zoe and Nora should have a small ideological/comedic clash in working style;
+- Taiga's Git promise from Chapter 5 gets paid off;
+- Leo is present without automatically monopolizing Taiga.
 
-She should stop existing primarily as **Caleb's girlfriend on a screen** and begin existing as someone Taiga himself knows.
-
-Use the old cardboard-bridge/takeout material as source texture if useful:
-
-- Maya arrives at room 317;
-- she and Caleb have their structure-vs-elasticity rhythm;
-- she talks to Taiga directly;
-- she already knows small things about his life through Caleb, but does not act like she knows him deeply;
-- Taiga begins to understand them as a couple rather than as Caleb + remote girlfriend.
-
-The scene's emotional job is not "Maya reads Taiga."
-
-She can simply notice the obvious:
-
-> if getting cut scares him this much, he actually wants to stay.
-
-Then let Caleb's more precise questioning produce the stronger line.
-
-### Chemistry group
-The chemistry group remains intentionally anonymous.
-
-They are **the guys from chemistry**, not a new supporting cast.
-
-Do not restore:
-
-- Priya;
-- Marcus;
-- Daniel;
-- individual personalities;
-- recurring names;
-- mini-arcs.
-
-They exist only as functional classmates around the lab task.
-
-### Leo
-Present but non-dominant.
-
-His Chapter 6 presence should feel ordinary.
-
-He does **not** need to engage Taiga every time he appears.
+Caleb/Maya then get their own substantial domestic scene later in the chapter.
 
 ---
 
 # Scene ladder
 
-## 1. Monday — Political Institutions: 87
+## 1. Monday — Political Institutions → library ensemble
 
 ### Job
-Immediate academic proof that Taiga can improve when he understands what is being asked of him.
 
-### Preserve from old Draft Ch. 6
+Combine three functions into one continuous opening sequence:
+
+1. pay off the 74/100 academic thread;
+2. pay off the Chapter 5 promise to help Zoe with Git;
+3. show Olympus relationships beginning to overlap.
+
+### Political Institutions
+
+Preserve from old Draft Ch. 6:
+
 - Nora already seated;
 - second response papers returned;
 - Nora gets **84**;
@@ -149,147 +118,172 @@ Immediate academic proof that Taiga can improve when he understands what is bein
   >
   > “Skill issue.”
 
-### Cut
-The long café conversation about choosing a major.
-
-That belongs to Chapter 8 — **Choice**.
-
-### Important tone
 Taiga's first thought can still be *not ninety* before he corrects himself.
 
 Improvement is real, not total.
 
----
+### Transition to library
 
-## 2. Early-week bridge — Chapter 5 aftermath, once
+After class, Nora asks whether Taiga is going to the library.
 
-### Job
-Close the loop on the previous night's masturbation scene without beginning the crush arc.
+Taiga says he is going anyway because he promised to help Zoe with Git.
 
-This should be brief.
+Final Chapter 5 explicitly promised the repo session for **Sunday**, so preserve continuity with one light line:
 
-Possible triggers:
-- Taiga sees Leo at a distance;
-- Leo's name appears in a team message;
-- Caleb or Maya mentions him;
-- Taiga remembers something while getting ready for the day.
+> Zoe texted Sunday morning and moved it to Monday.
 
-The exact trigger is not important.
+Do not turn the scheduling change into a subplot.
 
-The internal conclusion is.
+### Library setup
 
-### Required function
-Taiga consciously lands on:
+Zoe and Leo are already at a table.
 
-> **Fine. Leo was hot. That explained enough.**
+Useful old Draft material to preserve:
 
-Then the narration moves on.
+- Leo calling Taiga at near-soccer volume;
+- Zoe telling him “Library”;
+- branch names:
+  - `final`
+  - `final-new`
+  - `final-real`
+  - `final-fixed`
+  - `final-fixed-2`
+- Zoe rebased onto the wrong branch and merged it back;
+- Taiga:
+  > “You made a circle.”
+- the graph resembling public transportation designed during a civil war;
+- Taiga repairs the useful history;
+- project builds;
+- Zoe is warned to stop doing clever Git operations because somebody online called them elegant.
 
-No fluster.
-No investigation.
-No recurring intrusive images.
+### Nora's integration
 
-This is a **settling beat**, not an escalation beat.
+Nora should not merely sit beside them as decoration.
 
----
+Let her interact naturally with Zoe's workflow.
 
-## 3. Room 317 — Maya + Caleb + review anxiety
+Good contrast:
 
-### Job
-Restore Caleb's importance, properly introduce Maya in person, and expose what Taiga is actually afraid of losing.
+- Nora = structured / definitional / “words mean things”;
+- Zoe = pragmatic / chaotic / “it worked at the time.”
 
-### Setup
-Maya visits room 317.
+Example energy:
 
-Use the old Chapter 5 cardboard-bridge/takeout material as a source pool if it still feels natural:
+> “Why are they all called final?”
+>
+> “They were final when I made them.”
+>
+> “That is not what final means.”
 
-- Maya arrives with takeout;
-- maybe the bridge competition has just happened;
-- Caleb immediately starts analyzing the cracked support;
-- Maya wants five minutes to enjoy third place before he performs the autopsy;
-- Taiga gets pulled into their rhythm.
+The joke should reveal both of them, not just make Zoe incompetent.
 
-This should make Maya feel distinct quickly:
+After the Git repair, all four can remain at the table and work.
 
-- warm;
-- improvisational;
-- willing to change the plan;
-- comfortable with Caleb's literalness without treating him like a puzzle;
-- talks to Taiga directly.
+Allow cross-talk:
+- Nora complaining about empty academic prose;
+- Zoe rejecting the entire concept of citations;
+- Leo joining briefly;
+- Taiga participating without being the only bridge between them.
 
-### Review setup
-Taiga's developmental review is Thursday at 17:30.
+### Leo aftermath acknowledgement
 
-Caleb notices it.
+Place it immediately after Taiga sits down / sees Leo.
 
-He asks whether Taiga is worried.
+Brief sequence:
 
-Taiga initially gives the obvious denial, then admits he is.
-
-### Adapt the strongest old Draft Ch. 6 beat
-
-Caleb should not cite stale "82 minutes."
-
-Use current evidence instead:
-
-- Mercer put Taiga into the Northbridge match;
-- he stayed on;
-- training has continued normally;
-- Mercer has continued correcting him as usual;
-- nobody has behaved as though he is already gone.
-
-Caleb can state this as evidence, not reassurance.
+> shower → dream → 2:26 / awake choice → fine.
 
 Then:
 
-> “What part are you worried about?”
->
-> “Getting cut.”
->
-> ...
->
-> “I don't know. I got used to it.”
->
-> “To soccer?”
->
-> **“To being there.”**
+> **Leo was hot. That explained enough.**
 
-That is the chapter's emotional thesis.
+Move on immediately.
 
-Maya can provide the simpler human response afterward:
+The rest of the library scene should prove that Taiga considers the matter settled.
 
-> “Yeah. Then I get why you're nervous.”
+### Review notification
 
-Do **not** let either of them explain the meaning back to Taiga.
+Keep the old library beat where Taiga receives:
+
+> **DEVELOPMENTAL REVIEW — THURSDAY 17:30**
+
+Leo recognizes review week.
+
+Zoe / Nora can ask what it means.
+
+Taiga reduces it to:
+> they decide whether I stay.
+
+Leo clarifies that Mercer also gives development feedback.
+
+Keep:
+
+> “Wonderful. So I can get cut with detailed notes.”
+
+Do not let anybody reassure him.
+
+This seeds the anxiety that becomes explicit later with Caleb/Maya.
+
+### Cut
+
+Do not restore the old major/future conversation:
+
+- Nora discussing law/family expectations;
+- Zoe talking about software vs florist;
+- Leo talking about soccer career / coding fallback;
+- “pick what you want more of.”
+
+That belongs to Chapter 8.
 
 ---
 
-## 4. Wednesday — Chemistry: shared grade
+## 2. Wednesday — Chemistry: shared grade
 
 ### Job
-Show Taiga changing in a group context without promoting the chemistry classmates into characters.
+
+Shift immediately from a dialogue-heavy opening to a task/action scene.
+
+This gives the chapter a cleaner rhythm:
+
+**dialogue/social → physical task → intimate dialogue → football action → climactic dialogue**
+
+It also gives Taiga objective evidence of improvement before he admits how afraid he is of being cut.
+
+### Canon rule
+
+The chemistry group remains intentionally anonymous.
+
+Do not restore:
+
+- Priya;
+- Marcus;
+- Daniel;
+- Anne;
+- individual personalities;
+- recurring names.
+
+They are simply **the guys from chemistry**.
 
 ### Structure
+
 The practical is graded as a group/table.
 
 Taiga immediately hates this because somebody else's mistake can become his grade and his mistake can become theirs.
 
-The experiment can remain a titration or similar shared procedure.
-
-Useful beats from old Draft Ch. 6:
+Useful beats:
 
 - one of the guys overshoots the endpoint;
 - Taiga's first impulse is to take over;
 - he does not;
-- later Taiga and another guy disagree over a reading;
-- the other guy makes a correct objection;
-- Taiga accepts it;
+- Taiga and another guy disagree over a meniscus reading;
+- Taiga accepts the other reading when it may be right;
 - a bad result is traced to an air bubble / setup issue;
 - instructor makes **the group** explain the problem rather than letting Taiga answer everything;
 - they recover.
 
 ### End beat
-One of the guys can say something like:
+
+One of the guys:
 
 > “You didn't take over once.”
 
@@ -297,81 +291,185 @@ Taiga:
 
 > “I almost did.”
 
-Then perhaps:
+Then:
 
 > “But you didn't.”
 
-If the "trusted" beat survives, keep it generic and short.
+Possible follow-up:
 
-Taiga's useful line can remain:
+> “I feel trusted.”
+>
+> “Don't make it weird.”
+
+Keep Taiga's line:
 
 > **“I didn't want to fuck yours.”**
 
 Meaning: their grade mattered to him too.
 
-### Guardrail
-Do not name or individualize the group.
-
-They are simply:
-
-- one of the guys;
-- the guy at the burette;
-- the other guy;
-- the chemistry group.
+Do not explain it.
 
 ### Leo
-He may exist at another table and provide one tiny comic beat if needed.
 
-He does **not** need to come over afterward or turn the scene into a Taiga/Leo interaction.
+Leo and Zoe can exist at another table for one brief callback/comic beat.
+
+The purple titration material can survive.
+
+Do **not** create a post-lab Taiga/Leo scene.
 
 ---
 
-## 5. Thursday training — review paranoia
+## 3. Wednesday evening — Room 317: Maya + Caleb + review anxiety
 
 ### Job
-Build tension before the review while also showing that Taiga is objectively better.
 
-Every Mercer correction becomes evidence in Taiga's head.
+Restore Caleb's importance, properly introduce Maya in person, and expose what Taiga is actually afraid of losing.
+
+Placing this after chemistry prevents two long dialogue scenes from sitting back-to-back.
+
+### Setup
+
+Maya visits room 317 with takeout.
+
+Use the old Chapter 5 cardboard-bridge material:
+
+- bridge survived the competition;
+- one cracked support;
+- Maya placed third;
+- Caleb immediately starts diagnosing why she did not win;
+- Maya:
+  > “Can I celebrate for five minutes before you perform the autopsy?”
+- Caleb:
+  > “Yes.”
+
+This efficiently establishes:
+
+**Caleb = structure. Maya = elasticity.**
+
+### Maya's relationship to Taiga
+
+She should talk to him directly.
+
+She can know:
+- he plays football;
+- he has a review;
+- Caleb has mentioned him.
+
+She does **not** know his internal life.
+
+Avoid:
+- therapist dialogue;
+- uncanny emotional reading;
+- explanations of Taiga's own feelings.
+
+### Review setup
+
+The library notification has already planted the review.
+
+Caleb notices the Thursday 17:30 entry on Taiga's schedule.
+
+He asks whether Taiga is worried.
+
+Taiga denies it once, then admits the obvious.
+
+### Evidence
+
+Do not use stale 82-minute material.
+
+Caleb can cite:
+
+- Mercer used Taiga against Northbridge;
+- he stayed on through the end of his appearance;
+- training continued normally afterward;
+- Mercer is still correcting and involving him.
+
+Caleb does not guarantee anything.
+
+His position is simply:
+
+> being cut is possible; current evidence does not especially point there.
+
+### Core beat
+
+Preserve:
+
+> “What part are you worried about?”
+>
+> “Getting cut.”
+>
+> “I understood that.”
+
+Then:
+
+> “I don't know. I got used to it.”
+>
+> “To soccer?”
+>
+> **“To being there.”**
+
+Maya should answer simply:
+
+> **“Yeah. Then I get why you're nervous.”**
+
+No speech about belonging.
+
+No one explains the chapter's thesis.
+
+Then let the scene return to the bridge / food / Caleb-Maya rhythm so it does not end like a therapy session.
+
+---
+
+## 4. Thursday training — review paranoia
+
+### Job
+
+Build tension before the review while showing that Taiga is objectively better.
+
+Every Mercer correction becomes evidence.
 
 Every praise becomes evidence too.
 
-He can internally construct both the prosecution and defense of his roster spot.
+Taiga can internally construct both the prosecution and defense of his roster spot.
 
 ### Evan
+
 Use Evan as the experienced senior who recognizes exactly what Taiga is doing.
 
-Keep the function of:
+Keep:
 
-> “Stop reading every whistle like a verdict.”
+> **“Stop reading every whistle like a verdict.”**
 
 Evan can point out concrete improvement:
 
 - Taiga is scanning earlier;
 - he no longer chases every moving object;
 - he understands when to hold;
-- he is less likely to attack the first opening simply because it exists.
+- he is less likely to attack the first opening merely because it exists.
 
 No emotional pep talk.
 
-### Leo / team
-The team should simply behave normally.
+### Team texture
+
+The team behaves normally around Taiga.
 
 This itself matters.
 
-Leo can call an instruction during play or banter with Enzo.
+Leo can call a football instruction or banter with Enzo.
 
-He does not need a private Taiga exchange.
+Nothing about that interaction is romantically charged.
 
 ---
 
-## 6. Thursday 17:30 — Mercer review
+## 5. Thursday 17:30 — Mercer review
 
 ### Job
+
 Climax.
 
 This is the institutional answer to the chapter's question.
 
 ### Opening
+
 Preserve:
 
 > “You want the answer first?”
@@ -382,23 +480,22 @@ Preserve:
 
 Let Taiga's body release before his brain catches up.
 
-### Rebuild the review around final Chapter 5 canon
+### Final Northbridge canon
 
 Delete every stale reference to:
 
 - 82 minutes;
 - first reserve start;
 - turnover leading to a goal;
-- losing Northbridge because of Taiga;
-- dramatic recovery from that old version.
+- losing Northbridge because of Taiga.
 
 Northbridge final canon:
 
-- Taiga's **first reserve appearance / first reserve minutes**;
-- he enters for Evan at left wing;
+- first reserve appearance / first reserve minutes;
+- enters for Evan at left wing;
 - initial problem is overload;
-- he simplifies;
-- he regains the picture;
+- simplifies;
+- regains the picture;
 - begins recognizing space and making decisions;
 - match ends **0–0**.
 
@@ -421,65 +518,76 @@ The biggest improvement:
 Early Taiga:
 > mistake → frustration → force the next action → second mistake
 
-Northbridge Taiga:
+Northbridge:
 > overload → simplify → regain the picture → start making decisions again
 
 ### Why he stays
-This should be the key point.
 
-Not because Taiga is already good enough for the first team.
-
-Because he is **coachable**.
+Coachability is central.
 
 Possible Mercer logic:
 
-> “The speed gets attention. The reason you're still here is that when we correct something, it changes.”
+> “Your pace gets attention. Your aggression gets attention. The reason I'm keeping you is that you absorb information.”
 
-The exact wording can be refined in prose.
+Or:
+
+> “The speed gets you noticed. The reason you're still here is that when we correct something, it changes.”
+
+Keep Mercer concise.
 
 ### Developmental status
+
 Taiga remains developmental.
 
-Give him a flash of disappointment.
-
-That is important because six weeks ago he was afraid of being cut; now **staying** is not quite enough.
+Give him the flash of disappointment.
 
 Mercer notices.
+
+This matters because the target has moved:
+
+six weeks ago:
+> don't cut me.
+
+now:
+> when do I get more?
 
 Do not promote him here.
 
 ### Next targets
-Mercer gives measurable targets because he knows Taiga wants them:
 
 - scan early enough to know next options before receiving;
-- recognize press triggers without being told;
+- recognize press triggers without Evan yelling;
 - keep shape when play becomes messy;
-- stop trying to avenge mistakes.
+- stop trying to avenge mistakes;
+- continue recovering after overload instead of forcing the next action.
 
-Mercer may say a **first reserve start can come later** if training continues well.
+Reserve minutes continue.
+
+A first reserve start can be **on the table later** if training stays good.
 
 Do not guarantee it.
 
 ### Cut
-- “Why winger?” discussion — already established.
-- another request for winger film — Final Chapter 3 already did this.
-- any material that re-explains football Taiga already knows.
+
+- repeat “why winger?” discussion;
+- repeat winger-film request;
+- any explanation already established in Chapters 2–3.
 
 ### Closing line
+
 Preserve:
 
 > **“You earned the review. Don't thank me for reading it.”**
 
 ---
 
-## 7. Immediate aftermath
+## 6. Immediate aftermath
 
 ### Job
+
 Show that the result matters socially without turning it into a celebration chapter.
 
 Taiga tells Caleb first because Caleb asked.
-
-Possible simple message:
 
 > **Taiga:** retained
 
@@ -487,60 +595,68 @@ Caleb:
 
 > **Congratulations.**
 
-Potential second Caleb line:
+Potential second line:
 
 > **I expected that.**
 
-Then Camp Buddy chat can react briefly.
+Then brief Camp Buddy reaction.
 
-Keep it compressed.
-
-This is not a Camp Buddy chapter.
+Keep compressed.
 
 ---
 
-## 8. Coda — ordinary Saturday / youth clinic invitation
+## 7. Saturday — ordinary training / youth clinic coda
 
 ### Job
-Show that after the official verdict, life simply continues.
 
-That is the point.
+Show that after the verdict, life simply continues.
 
-Taiga is still #41.
-Still developmental.
-Still being corrected.
-Still there.
+Taiga is still:
+- #41;
+- developmental;
+- being corrected;
+- there.
 
 ### Training
+
 Small evidence of progress.
 
 Mercer asks a press question.
+
 Taiga answers correctly.
-Evan notes he did not have to yell at him.
+
+Evan:
+
+> “Didn't have to yell at you once.”
+
+Taiga:
+
+> “Give it time.”
 
 No big milestone.
 
 ### Youth clinic
-This can remain, but keep it shorter than the old Draft.
 
-Its main functions are:
+Keep shorter than the original Draft.
 
-1. give Leo a facet that exists independently of Taiga;
-2. create a natural invitation for Chapter 7's voluntary-participation theme.
+Main functions:
 
-Leo is good with the kids because he:
-- remembers what they asked;
+1. show a facet of Leo that exists independently of Taiga;
+2. create a natural invitation into Chapter 7's voluntary-participation theme.
+
+Leo:
+- remembers what kids asked;
 - slows explanations down;
 - listens;
-- treats them like people.
+- treats them like people;
+- is still loud / playful / recognizably Leo.
 
-Taiga can notice this without romantic charge.
+Taiga can smile because the situation is funny or endearing.
 
-He may smile because Leo is funny / good with kids.
-
-That does **not** mean "Taiga starts seeing Leo differently."
+Do **not** frame that smile as romantic discovery.
 
 ### Invitation
+
 Preserve:
 
 > “You should help sometime.”
@@ -550,32 +666,40 @@ Preserve:
 That line hands Chapter 7 an open door.
 
 ### Ending
-Prefer ending on **I'll think about it** or the ordinary clinic chaos immediately after.
 
-The ending should imply:
+Prefer the ordinary clinic chaos after the invitation.
+
+The implication:
 
 Taiga has been told he belongs.
 
-Now the next question is whether he will start choosing to participate even when nobody requires it.
+Now the next question is whether he starts choosing to participate when nobody requires it.
 
 ---
 
 # Material explicitly moved / cut
 
+## Keep in Chapter 6 now
+
+- Zoe Git payoff from Chapter 5;
+- Leo/Zoe library material, rebuilt into the four-person Nora/Taiga/Zoe/Leo scene.
+
 ## Move to Chapter 8
-- Nora café discussion about majors;
-- "pick something you want to spend more time learning";
+
+- Nora major discussion;
+- “pick something you want to spend more time learning”;
 - future-job anxiety;
-- Leo/CS future discussion;
+- Leo/Zoe career discussion;
 - post-university plans.
 
 ## Move / preserve for Chapter 7
-- Nora pub invitation;
-- Taiga choosing to go out simply because he wants to;
-- broader voluntary social participation.
 
-## Cut as duplicate / stale
-- library Git debugging scene with Leo/Zoe — Final Chapter 4 already covered this;
+- Nora pub invitation;
+- choosing optional social activity;
+- broader voluntary participation.
+
+## Cut as stale / duplicate
+
 - named chemistry-group characters;
 - 82-minute Northbridge references;
 - Northbridge turnover/goal;
@@ -585,27 +709,47 @@ Now the next question is whether he will start choosing to participate even when
 
 ---
 
+# Chapter rhythm
+
+The sequence should alternate modes:
+
+1. **Political Institutions + library ensemble** — dialogue/social
+2. **Chemistry** — task/action
+3. **Caleb + Maya** — intimate dialogue
+4. **Training** — sport/action
+5. **Mercer review** — climactic dialogue
+6. **Aftermath + clinic** — decompression
+
+This avoids the previous rhythm problem:
+
+> dialogue → dialogue → narration/action → narration/action
+
+and gives the chapter a more natural pulse.
+
+---
+
 # Chapter balance
 
-The chapter should feel more ensemble-balanced than Chapter 5.
+Approximate:
 
-Approximate weight:
-
-- Political Institutions: **700–1,000**
-- Leo aftermath acknowledgement: **50–150**
-- Maya + Caleb / review anxiety: **1,000–1,500**
+- Political Institutions + library: **1,800–2,500**
 - Chemistry: **700–1,000**
+- Maya + Caleb: **1,000–1,500**
 - Training paranoia: **600–900**
 - Mercer review: **1,200–1,700**
-- aftermath + coda: **700–1,100**
+- aftermath / Saturday coda: **700–1,100**
 
-Likely total: **5–7k**
+Likely total:
+
+**6–8k**
+
+The opening is now deliberately larger because it pays off both the academic thread and Chapter 5's Git promise while integrating the cast.
 
 ---
 
 # Working chapter shape
 
-**87 → Leo filed away → Maya/Caleb + “to being there” → chemistry shared responsibility → training paranoia → “you're staying” → retained → “I'll think about it”**
+**87 → Nora joins Git session → Leo is hot / case closed → four-person library overlap → review notification → chemistry shared responsibility → Maya/Caleb + “to being there” → training paranoia → “you're staying” → retained → “I'll think about it”**
 
 ---
 
