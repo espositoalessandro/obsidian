@@ -371,20 +371,20 @@ The dooming feel of Thursday made the week almost unbearable.
 
 At practice, every single mistake was another reason for Mercer to kick him out. Anytime Mercer said "Good" was just a reset so that the next mistake could hit again. 
 
-Once, during a Foundation of Computer Science class, he raised his hand and gave a wrong answer. When Professor Rao turned to ask another one, Taiga instinctively turned back to make sure Mercer wasn't actually there.
+Once, during a Foundations of Computer Science class, he raised his hand and gave a wrong answer. When Professor Rao turned to ask another one, Taiga instinctively turned back to make sure Mercer wasn't actually there.
 
-Idiot. He didn't actually care of his academic career.
+Idiot. Mercer didn't actually care about his academic career.
 
 Then, Wednesday's General Chemistry lab decided to make things worse because his group was graded as a table.
 
 Taiga would have preferred an exam. At least, if he screwed up, no one else had to pay.
 That made him careful in the worst possible way.
 
-He checked every instruction at least three times before adding even a single drop. Then confronted the result twice with the calculations.
+He checked every instruction at least three times before adding even a single drop. Then compared the result twice with the calculations.
 One of the guys overshot the first endpoint and Taiga almost swore. He managed to contain himself and let him reset the flask.
 
 While he waited, he turned to see table three. Leo had carefully cuffed his sleeves and Professor Hassan was holding a flask with a very bright purple liquid inside. Zoe was insisting that it was Leo's fault because "one drop more just to be sure" isn't a correct approach in chemistry. 
 
-Luckily, nobody at his table fucked badly enough to affect the general result. But the whole class left Taiga exhausted, because he checked everything, even the results that the others had already verified.
+Luckily, nobody at his table fucked up badly enough to affect the general result. But the whole class left Taiga exhausted, because he checked everything, even the results that the others had already verified.
 
 That evening, Maya arrived at room 317 carrying a cardboard bridge and a bag of takeout. Taiga opened the door. She held up the food.
