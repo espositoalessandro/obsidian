@@ -373,8 +373,6 @@ At practice, every single mistake was another reason for Mercer to kick him out.
 
 Once, during a Foundations of Computer Science class, he raised his hand and gave a wrong answer. When Professor Rao turned to ask another one, Taiga instinctively turned back to make sure Mercer wasn't actually there.
 
-Idiot. Mercer didn't actually care about his academic career.
-
 Then, Wednesday's General Chemistry lab decided to make things worse because his group was graded as a table.
 
 Taiga would have preferred an exam. At least, if he screwed up, no one else had to pay.
