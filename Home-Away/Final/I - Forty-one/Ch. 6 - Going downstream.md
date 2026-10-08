@@ -88,7 +88,7 @@ Taiga couldn't stop the smile.
 Class began and they both turned towards Hall.
 The lecture went on as usual, although suddenly Political Institutions felt much more interesting.
 
-When he was done, Nora turned towards Taiga.
+When class was done, Nora turned towards Taiga.
 
 "Wanna go to the library?"
 
@@ -147,7 +147,7 @@ Nora glanced at Taiga.
 
 "Yeah, now I properly remember him."
 
-Taiga giggled and approached them. He dropped into the empty chair across from Zoe. Nora took the one beside him and pulled out her notebook.
+Taiga snorted and approached them. He dropped into the empty chair across from Zoe. Nora took the one beside him and pulled out her notebook.
 
 Leo pointed at her.
 
@@ -272,7 +272,7 @@ Nora and Leo giggled. Zoe frowned.
 
 "You make me look incompetent."
 
-"Do you prefer overly ambitious?"
+"Would you prefer overly ambitious?"
 
 She considered.
 
@@ -297,7 +297,7 @@ Okay. Leo was objectively attractive. So what?
 ...Fine, hot.
 
 Still, irrelevant. Plenty of hot guys out there. Leo was simply the easiest option his brain could provide when it needed one.
-End of the story.
+End of story.
 
 His phone buzzed on the table. Taiga stared at the screen without picking it up.
 Incoming mail from Apollo Soccer Club.
@@ -362,10 +362,10 @@ Taiga looked at him.
 
 "Because he was angry. That's different. That guy's a real airhead."
 
-Taiga knew Leo was probably right.
+Taiga thought about it.
 Hope.
 Exactly what he didn't need right now. 
-He'd rather be sure he's gonna get kicked out than stay in doubt until Thursday.
+He'd rather know he was getting kicked out than be stuck wondering until Thursday.
 
 That was a great way to start the week.
 
@@ -385,7 +385,7 @@ That made him careful in the worst possible way.
 He checked every instruction at least three times before adding even a single drop and compared the result twice with the calculations.
 One of the guys overshot the first endpoint and Taiga almost swore. He managed to contain himself and let him reset the flask.
 
-While he waited, he turned to look at table three. Leo had carefully cuffed his sleeves and Professor Hassan was holding a flask with a very bright purple liquid inside. Zoe was insisting that it was Leo's fault because "one drop more just to be sure" wasn't a correct approach in chemistry.
+While he waited, he turned to look at table three. Leo had carefully cuffed his sleeves and Professor Seth was holding a flask with a very bright purple liquid inside. Zoe was insisting that it was Leo's fault because "one drop more just to be sure" wasn't a correct approach in chemistry.
 
 Luckily, nobody at his table fucked up badly enough to affect the overall result. But the whole class left Taiga exhausted: he kept checking everything, even the results that the others had already verified.
 
@@ -417,14 +417,14 @@ Then she turned to Taiga.
 
 "We had to design an erosion-control layout, then build it in the lab with the same soil, slope and rainfall setup as everybody else."
 
-Taiga approached to see her screen.
+Taiga moved closer to see her screen.
 
 She switched from the model to a video. Artificial rain hammered the little slope.
 For several seconds, the surface held. Then muddy water began cutting a thin channel along one side.
 
 Maya grimaced. "Yeah, I know."
 
-Caleb was going back and forth on that section. Then he pointed at the screen.
+Caleb replayed that section a few times. Then he pointed at the screen.
 
 "There, the barriers were too dis—"
 
@@ -465,7 +465,7 @@ Taiga shrugged.
 
 "It was a pillow. And you should be thankful I didn't have anything heavier on hand."
 
-"He's not letting that go." Maya said, giggling.
+"He's not letting that go," Maya said, giggling.
 
 "His alarm system counts as a daily murder attempt."
 
@@ -553,7 +553,7 @@ She turned towards Caleb. Without being asked, he said:
 
 "Do you have any information that could indicate otherwise?"
 
-Yes. He had a lot, actually. He was a bomb with legs. He kept going into the wrong spaces, chased too much, rushed to fix stuff, hesitated to-
+Yes. He had a lot, actually. He was a bomb with legs. He kept going into the wrong spaces, chased too much, rushed to fix stuff, hesitated to—
 
 "What happens if they actually kick you?" Maya asked at some point.
 
@@ -569,7 +569,7 @@ He blinked and frowned. The question was too obvious.
 
 Taiga paused a second. Go back to what exactly?
 Caleb was looking at him, waiting for the missing piece of information.
-Maya, on the other hand, just kept eating. She just glanced at him from time to time.
+Maya, on the other hand, kept eating, glancing at him from time to time.
 
 Taiga looked again at the weekly schedule. His eyes landed on "Practice" before the circled 5:30 slot.
 
@@ -619,7 +619,7 @@ At 4:30, Professor Rao dismissed the class. Taiga slowly packed his laptop and s
 After a couple of minutes, he decided to take a detour, since he had plenty of time to kill.
 He stopped outside the soccer field.
 
-Taiga stood in the exact same spot where he watched the Apollo team for the very first time. Only seven weeks had passed since then, yet it felt like a life ago.
+Taiga stood in the exact same spot where he'd first watched the Apollo team. Only seven weeks had passed since then, yet it felt like a life ago.
 A life that might not exist anymore after 5:30.
 The day before, his training was hell. Every mistake, a death sentence. Every time Mercer corrected him, a small ray of hope.
 At the end, he couldn't help wondering if that had been his last training with the team.
@@ -638,7 +638,7 @@ At 5:28, the guy came out of Mercer's office and called for Taiga.
 
 "Taiga? Mercer said to go in."
 
-The world reduced to that single door. He slowly stood and walked towards it. He looked at the guy who just came out, who was simply smiling.
+The world reduced to that single door. He slowly stood and walked towards it. The guy who'd just come out was smiling.
 
 "It's easier than it sounds. Relax."
 
@@ -675,7 +675,7 @@ Mercer picked up the sheet.
 
 "You've improved faster than I expected. Especially since the provisional review. You actually used the information I gave you."
 
-"That's what I recommended to the Soccer Office," he continued. "They approved it."
+"I recommended that you stay. The Soccer Office approved it."
 
 An image of several people in suits talking about whether to keep or kick him formed in his mind. Taiga dismissed it immediately because it was making him sick.
 
@@ -687,7 +687,7 @@ Taiga nodded.
 
 Mercer put the sheet down.
 
-"It's interesting what happens now after you make a mistake. I saw what you did on Saturday. You entered and immediately tried to read five things at once. You were late seeing the picture. Late to pressure."
+"It's interesting what happens now when you make a mistake. I saw what you did on Saturday. You entered and immediately tried to read five things at once. You were late seeing the picture. Late to pressure."
 
 Taiga grimaced. "Yeah."
 
@@ -705,7 +705,7 @@ Taiga made a face.
 
 He said nothing.
 
-"The bigger improvement is what happens when something goes wrong. First week, one bad action changed your next three decisions. Now I can usually get you back in the game with one instruction, sometimes none."
+"The bigger improvement is what happens when something goes wrong. The first week, one bad action changed your next three decisions. Now I can usually get you back in the game with one instruction, sometimes none."
 
 Taiga leaned back slightly.
 
@@ -765,7 +765,7 @@ Mercer looked up.
 
 "Thanks."
 
-Mercer nodded. "You earned the review. Don't thank me for reading it."
+Mercer nodded. "You earned what's on that sheet. Don't thank me for writing it down."
 
 Taiga left before the answer could make him smile too obviously.
 
@@ -922,7 +922,7 @@ Leo brightened up.
 
 Leo shrugged. "Well, the way you handle kids, for example. You don't baby them so much."
 
-He relaxed.
+Right. That.
 
 "They won't learn if you treat them like idiots."
 
