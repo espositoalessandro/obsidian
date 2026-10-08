@@ -824,8 +824,8 @@ Taiga looked at Enzo, his expression remained grave.
 
 Taiga narrowed his eyes, but said nothing and went back to get changed. 
 
-Training felt different. His skill didn't obviously magically improved, although his mind was clearer than usual.
-Mercer corrections were just corrections now, not death sentences.
+Training felt different. His skill didn't obviously magically improve, although his mind was clearer than usual.
+Mercer's corrections were just corrections now, not death sentences.
 
 A few weeks earlier, Taiga would have remembered only whether the pass had worked.
 Now he noticed the rest of it too. Evan already moving before the switch. Aaron holding the opposite side. Gav pointing without looking up. Scott reorganizing the line behind them. Enzo complaining about a run while making another one anyway.
@@ -833,15 +833,15 @@ Now he noticed the rest of it too. Evan already moving before the switch. Aaron 
 He was somewhere inside all of that now.
 
 By the end of training, Taiga was tired in the normal way again. Mercer asked him to pick up cones and he went. 
-After a couple of minutes, he noticed that Leo and other 3 players hadn't left yet. They were talking near the benches.
+After a couple of minutes, he noticed that Leo and three other players hadn't left yet. They were talking near the benches.
 
 A youth team had begun arriving for the clinic by the time he reached the far sideline. One boy kicked a ball too hard and sent it rolling toward him. Taiga trapped it and passed it back.
 
-"Thank you." said the kid.
+"Thank you," said the kid.
 
 "No problem."
 
-The he saw the kid pointing at his shirt.
+Then he saw the kid pointing at his shirt.
 
 "Forty-one? That's a weird number."
 
@@ -853,7 +853,7 @@ Taiga blinked.
 
 A voice came from behind, "It's because we have lots of players."
 
-Leo appeared on his side and the kid immediately lit up. 
+Leo appeared beside him and the kid immediately lit up. 
 
 "LEO!"
 
@@ -888,7 +888,7 @@ Somehow, he got swallowed by the kids and ended up showing them offside examples
 This was... different. Fun. 
 He never considered soccer fun until now. It was always a test. Performance. Improvement.
 
-Taiga watched Leo putting all children in line and making them practice finishes. It wasn't a different version of him. He had the same volume, same energy, same habit of remembering things people had told him and acting like they always mattered.
+Taiga watched Leo putting the kids in line and making them practice finishes. It wasn't a different version of him. He had the same volume, same energy, same habit of remembering things people had told him and acting like they always mattered.
 
 Eventually, their coach called it a day and brought them back on the bus. 
 They watched them running off, still shouting to each other.
@@ -907,7 +907,7 @@ Taiga considered for a couple of seconds.
 
 "You ever work with them?"
 
-"Kids? Yeah, sometimes this summer during camp."
+"Kids? Yeah, sometimes at camp this summer."
 
 "Camp?"
 
