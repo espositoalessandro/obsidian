@@ -608,15 +608,15 @@ Eventually, Thursday arrived. Way too quickly.
 During Foundations of Computer Science lab, he barely spoke. He mostly listened and tried writing code that ended up making no sense at all.
 Every time he ran it, his eyes went to the clock. With every minute passing, his stomach felt heavier.
 
-At 4:30, [professor] dismissed the class. Taiga slowly packed his laptop and started walking towards the administrative buildings.
+At 4:30, Professor Rao dismissed the class. Taiga slowly packed his laptop and started walking towards the administrative buildings.
 
 After a couple of minutes, he decided to take a detour, since he had plenty of time to kill. 
 He stopped outside the soccer field.
 
 Taiga stood in the exact same spot where he watched the Apollo team for the very first time. Only seven weeks had passed since then, yet it felt like a life ago. 
-A life that may not exist anymore after 5:30. 
+A life that might not exist anymore after 5:30. 
 The day before, his training was hell. Every mistake, a death sentence. Every time Mercer corrected him, a small ray of hope.
-At the end, he couldn't help himself but wondering if that had been his last training with the team.
+At the end, he couldn't help wondering if that had been his last training with the team.
 
 God, he was such a drama queen.
 For a brief moment, he wished Eduard was there to smack some sense into him again.
@@ -624,17 +624,17 @@ For a brief moment, he wished Eduard was there to smack some sense into him agai
 Taiga looked at the time: 5:07. He took a deep breath and began walking towards the administrative buildings.
 
 At 5:24, he was sitting outside Mercer's office. A developmental player was already inside, while the one Leo said was probably being kicked was sitting a couple of chairs beside him. 
-He looked extremely relaxed: legs crossed, scrolling his phone, chewing a gum. 
+He looked extremely relaxed: legs crossed, scrolling his phone, chewing gum. 
 
 Taiga didn't know if he simply didn't care or if he was actually confident.
 
-At 5.28, the guy came out of Mercer's office and called for Taiga.
+At 5:28, the guy came out of Mercer's office and called for Taiga.
 
 "Taiga? Mercer said to go in."
 
 The whole world reduced to that single door. He slowly stood and walked towards it. He looked at the guy who just came out, who was simply smiling.
 
-"It's easier than it sounds like. Relax."
+"It's easier than it sounds. Relax."
 
 That didn't relax him at all. He opened the door and entered.
 
@@ -653,7 +653,7 @@ Taiga nodded.
 
 He did. Mercer rested his elbows on the desk and crossed his fingers.
 
-You want the answer first?”
+“You want the answer first?”
 
 Taiga frowned. “What?”
 
@@ -679,7 +679,7 @@ An image of several people in suits talking about whether to keep or kick him fo
 
 Taiga nodded.
 
-"Scanning is better", Mercer continued. "Still late, but better. Positioning is better when the pattern is familiar. When the game gets messy, you start chasing again.”
+"Scanning is better," Mercer continued. "Still late, but better. Positioning is better when the pattern is familiar. When the game gets messy, you start chasing again.”
 
 Mercer put the sheet down.
 
@@ -741,7 +741,7 @@ Taiga thought for another couple of seconds.
 
 "You mean what you should work on?"
 
-"Yeah. I'd like to have something more concrete than 'work hard'"
+"Yeah. I'd like to have something more concrete than 'work hard'."
 
 “Fine, I'll give you concrete. I want you checking early enough that you know your next two options before the ball arrives. I want you recognizing when to press without Evan yelling at you. I want you still knowing where to stand when the play gets messy. And I want another month of you not trying to personally avenge every mistake.”
 
