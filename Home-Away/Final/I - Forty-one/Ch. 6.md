@@ -569,7 +569,7 @@ Maya, on the other hand, just kept eating. She just glanced at him from time to 
 
 Taiga looked again at the weekly schedule. His eyes landed on "Practice" before the circled 5:30 slot.
 
-It had became as routine as classes. Deleting every "Practice" session would mean loosing half of his Olympus involvements. 
+Practice had become as routine as classes. Delete every “Practice” from the schedule, and half his life at Olympus disappeared with it.
 
 He exhaled.
 
