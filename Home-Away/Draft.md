@@ -564,7 +564,7 @@ Almost.
 
 ---
 
-That evening, Maya arrived at room 317 carrying a cardboard bridge and a bag of takeout. Taiga opened the door. She held up the food.
+That evening, Maya arrived at room 317 with a bag of takeout and her laptop tucked under one arm. Taiga opened the door. She held up the food.
 
 “Peace offering.”
 
@@ -574,55 +574,51 @@ That evening, Maya arrived at room 317 carrying a cardboard bridge and a bag of 
 
 “You can keep him.”
 
-Maya entered. The bridge had survived the competition. Mostly. One support was cracked. Caleb immediately took it from her.
+Maya kicked the door shut with her heel and dropped onto Caleb's bed.
 
-“What happened?”
+“I got my practical midterm back.”
 
-Maya kicked the door shut with her heel.
+Caleb looked up immediately.
 
-“It held forty-eight point six.”
+“How did it go?”
 
-Caleb looked at her.
+“Eighty-eight.”
 
-“Forty-eight?”
+Maya opened the laptop before he could answer. On the screen was a digital model of a sloped patch of terrain, divided into sections with vegetation, mesh and runoff channels marked across it.
 
-“Forty-eight point six.”
+“We had to design an erosion-control layout, then build it in the lab with the same soil, slope and rainfall setup as everybody else.”
 
-“That is six point six more than the test model.”
+She switched to a video.
+
+Artificial rain hammered the little slope. For several seconds, the surface held. Then muddy water began cutting a thin channel along one side.
+
+Caleb leaned closer.
+
+“There.”
+
+Maya paused the video herself.
+
+“Yes. I know.”
+
+“The runoff bypassed this section.”
 
 “I know.”
 
-Caleb put the bridge carefully on his desk. Taiga looked between them.
+“If you'd moved the barrier—”
 
-“So you won?”
+“Caleb.”
 
-Maya made a face.
+He stopped.
 
-“Third.”
+“Can I celebrate an eighty-eight for five minutes before you perform the autopsy?”
 
-Caleb said:
-
-“They overloaded the joint.”
-
-“We did not.”
-
-“You did.”
-
-“We got third.”
-
-“You could have gotten first.”
-
-Maya dropped onto Caleb's bed.
-
-“Can I celebrate for five minutes before you perform the autopsy?”
-
-Caleb stopped. Looked at her. Then at the bridge. Then back at her.
+Caleb looked at her. Then at the frozen frame.
 
 “Yes.”
 
 “Thank you.”
 
-He sat beside her. Maya handed him a container of noodles. Taiga took his own.
+He sat beside her. Maya handed Taiga a container of noodles.
 
 “You brought me food too?”
 
@@ -630,7 +626,7 @@ He sat beside her. Maya handed him a container of noodles. Taiga took his own.
 
 “Fair enough.”
 
-They ate. Maya talked. Mostly about the competition. Then about a professor who had somehow uploaded the wrong assignment sheet for three different classes. Caleb listened. Taiga half-listened while scraping sauce off the lid of his container.
+They ate. Maya talked a little more about the assessment, mostly about how much dirt the rainfall rig had managed to throw outside the tray. Then about a professor who had somehow uploaded the wrong assignment sheet for three different classes. Caleb listened. Taiga half-listened while scraping sauce off the lid of his container.
 
 Maya pointed at the weekly schedule above his desk.
 
@@ -796,11 +792,11 @@ Maya's expression softened, but she didn't make a production out of it.
 
 That was enough.
 
-A minute later she pointed at the bridge.
+A minute later Maya nudged the laptop toward Caleb.
 
-“Now can I celebrate third place?”
+“Now can I celebrate the eighty-eight?”
 
-Caleb looked at the cracked support.
+Caleb looked at the paused runoff video.
 
 “Yes.”
 
