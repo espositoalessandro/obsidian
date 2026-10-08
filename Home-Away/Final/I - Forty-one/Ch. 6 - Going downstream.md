@@ -240,7 +240,7 @@ Leo turned slowly toward Zoe's screen, then leaned back with a poker face.
 
 Zoe rolled her eyes.
 
-"Say it".
+"Say it."
 
 Leo raised both hands.
 
@@ -248,7 +248,7 @@ Leo raised both hands.
 
 "That would be new."
 
-Then she turned to explain Taiga what happened.
+Then she turned to explain to Taiga what had happened.
 She had watched a rebasing tutorial, rebased onto the wrong branch, then merged the result back into the original. The graph looked like public transportation going through a civil war.
 
 "I thought I was simplifying it."
@@ -288,7 +288,7 @@ He looked outside: rain was pouring heavily against the windows. No point in goi
 So he pulled out his laptop and started working on his own assignment. Zoe went back to hers.
 For another hour, they actually worked.
 
-Leo moved beside Zoe and Taiga glanced over without thinking.
+Leo shifted in his chair and Taiga glanced over without thinking.
 He caught himself doing it again a few minutes later.
 
 Oh, for fuck's sake.
@@ -426,7 +426,7 @@ Maya grimaced. "Yeah, I know."
 
 Caleb was going back and forth on that section. Then he pointed at the screen.
 
-"There, the barriers were too dis-"
+"There, the barriers were too dis—"
 
 Maya put a finger on his mouth.
 
@@ -565,7 +565,7 @@ Taiga snapped out of it.
 
 He blinked and frowned. The question was too obvious.
 
-"What would I do? Go back to-"
+"What would I do? Go back to—"
 
 Taiga paused a second. Go back to what exactly?
 Caleb was looking at him, waiting for the missing piece of information.
@@ -675,7 +675,7 @@ Mercer picked up the sheet.
 
 "You've improved faster than I expected. Especially since the provisional review. You actually used the information I gave you."
 
-"That's what I recommended to the Soccer Office", he continued. "They approved it."
+"That's what I recommended to the Soccer Office," he continued. "They approved it."
 
 An image of several people in suits talking about whether to keep or kick him formed in his mind. Taiga dismissed it immediately because it was making him sick.
 
@@ -826,7 +826,8 @@ Mercer's corrections were just corrections now, not death sentences.
 A few weeks earlier, Taiga would have remembered only whether the pass had worked.
 Now he noticed the rest of it too. Evan already moving before the switch. Aaron holding the opposite side. Gav pointing without looking up. Scott reorganizing the line behind them. Enzo complaining about a run while making another one anyway.
 
-He was somewhere inside all of that now and by the end of training, Taiga was tired in the normal way again.
+He was somewhere inside all of that now.
+By the end of training, Taiga was tired in the normal way again.
 
 On his way to the lockers, Mercer asked him to pick up cones.
 After a couple of minutes, he noticed that Leo and three other players hadn't left yet. They were talking near the benches.
@@ -917,7 +918,7 @@ Leo brightened up.
 
 "That explains a lot."
 
-"What the fuck does that explain?", said Taiga frowning.
+"What the fuck does that explain?" Taiga said, frowning.
 
 Leo shrugged. "Well, the way you handle kids, for example. You don't baby them so much."
 
