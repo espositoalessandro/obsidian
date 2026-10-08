@@ -3,7 +3,7 @@
 Monday morning was pale and humid. Rain was definitely in the air. October finally managed to wash away what was left of the heat of the summer.
 Dry leaves were beginning to accumulate along the edges of the pavement.
 
-Taiga breathed in the cold air as he walked towards the Lecture Hall. Finally that walk didn't require his body to release coolant.
+Taiga breathed in the cold air as he walked towards the Lecture Hall. Finally, that walk didn't require his body to release coolant.
 
 Nora was already in their usual row when Taiga reached Political Institutions. She had his seat beside her empty and a paper cup balanced on top of her notebook.
 
@@ -29,7 +29,7 @@ Taiga blinked.
 
 "I remember, but we didn't talk."
 
-"It spread anyway apparently."
+"It spread anyway, apparently."
 
 Professor Hall entered and conversation across the room died quickly. He was carrying a stack of papers that for some reason made Taiga's stomach drop.
 
@@ -152,7 +152,7 @@ Taiga giggled and approached them. He dropped into the empty chair across from Z
 
 Leo pointed at her.
 
-"Oh, I remember you. You were at the floor party right?"
+"Oh, I remember you. You were at the floor party, right?"
 
 "Yes, hello again!"
 
@@ -200,7 +200,7 @@ Taiga elaborated for a second.
 
 "How do you know it?"
 
-"I've tinkered with it during summer."
+"I've tinkered with it over the summer."
 
 Nora raised an eyebrow.
 
@@ -260,7 +260,7 @@ It took almost an hour, several searches on Stack Overflow and a couple of swear
 Eventually, he reset one branch, preserved the useful commits and rebuilt the clean line. 
 Zoe ran the project and it worked.
 
-"Oh bless you. You are a life saver."
+"Oh bless you. You are a lifesaver."
 
 "Commit and push. Stop doing clever things because somebody online says they’re elegant."
 
@@ -291,7 +291,7 @@ Okay. Leo was objectively attractive. So what?
 
 ...Fine, hot.
 
-Still, irrelevant. Plenty of hot guys out there. Leo was simply the easiest his brain could provide when it needed one.
+Still, irrelevant. Plenty of hot guys out there. Leo was simply the easiest option his brain could provide when it needed one.
 End of the story.
 
 His phone buzzed on the table. Taiga looked at the screen without picking it up.
@@ -317,7 +317,7 @@ Someone tapped his shoulder. Nora had her head tilted and was looking at him.
 
 "W-What?"
 
-"I've called you three times. You spaced out, is everything alright?"
+"I've called you three times. You spaced out. Is everything alright?"
 
 "Yeah. Fine. Wonderful."
 
@@ -371,17 +371,17 @@ The looming threat of Thursday made the week almost unbearable.
 
 At practice, every single mistake was another reason for Mercer to kick him out. Anytime Mercer said "Good" was just a reset so that the next mistake could hit again. 
 
-Once, during a Foundations of Computer Science class, he raised his hand and gave a wrong answer. When Professor Rao turned to ask another one, Taiga instinctively turned back to make sure Mercer wasn't actually there.
+Once, during a Foundations of Computer Science class, he raised his hand and gave a wrong answer. When Professor Rao turned to ask someone else, Taiga instinctively turned back to make sure Mercer wasn't actually there.
 
 Then, Wednesday's General Chemistry lab decided to make things worse because his group was graded as a table.
 
 Taiga would have preferred an exam. At least, if he screwed up, no one else had to pay.
 That made him careful in the worst possible way.
 
-He checked every instruction at least three times before adding even a single drop. Then compared the result twice with the calculations.
+He checked every instruction at least three times before adding even a single drop. Then he compared the result twice with the calculations.
 One of the guys overshot the first endpoint and Taiga almost swore. He managed to contain himself and let him reset the flask.
 
-While he waited, he turned to see table three. Leo had carefully cuffed his sleeves and Professor Hassan was holding a flask with a very bright purple liquid inside. Zoe was insisting that it was Leo's fault because "one drop more just to be sure" wasn't a correct approach in chemistry.
+While he waited, he turned to look at table three. Leo had carefully cuffed his sleeves and Professor Hassan was holding a flask with a very bright purple liquid inside. Zoe was insisting that it was Leo's fault because "one drop more just to be sure" wasn't a correct approach in chemistry.
 
 Luckily, nobody at his table fucked up badly enough to affect the general result. But the whole class left Taiga exhausted: he checked everything, even the results that the others had already verified.
 
@@ -400,14 +400,14 @@ Taiga blinked. "Yeah, I figured. Nice to meet you too."
 
 Then he shifted to let her in. Caleb turned from his desk and a warm smile appeared on his face. Not as wide as Maya's, but enough to make Taiga notice.
 
-"So? How did it go?", Caleb asked.
+"So? How did it go?" Caleb asked.
 
 She dropped the bag on his desk and sat on the bed.
 
 “Eighty-eight.”
 
 Caleb frowned. 
-Maya picked her laptop and went to his desk. On the screen was a digital model of a sloped patch of terrain, divided into sections with vegetation, mesh and runoff channels marked across it.
+Maya picked up her laptop and went to his desk. On the screen was a digital model of a sloped patch of terrain, divided into sections with vegetation, mesh and runoff channels marked across it.
 
 Then she turned to Taiga.
 
@@ -418,9 +418,9 @@ Taiga approached to see her screen.
 She switched from the model to a video. Artificial rain hammered the little slope. 
 For several seconds, the surface held. Then muddy water began cutting a thin channel along one side.
 
-Maya grimaced, "Yeah I know."
+Maya grimaced. "Yeah, I know."
 
-Caleb was going backwards and forward on that section. Then he pointed at the screen.
+Caleb was going back and forth on that section. Then he pointed at the screen.
 
 "There, the barriers were too dis-"
 
@@ -434,7 +434,7 @@ Caleb looked at her for a second.
 
 She took out boxes from the takeaway bag and handed Taiga a container of noodles.
 
-"You brought me food to?", Taiga said in surprise.
+"You brought me food too?" Taiga said in surprise.
 
 "Peace offering for invading your personal space."
 
@@ -442,10 +442,10 @@ Seemed fair.
 
 "Thanks."
 
-While the ate, Maya talked a little more about the assessment. Mostly about how much dirt the rainfall rig had managed throw outside the tray. She also said that another student had the entire slope collapsing after the first drops.
-Taiga was sitting at his desk, half-listening all of that while scraping sauce off the lid of his container and scrolling through a nasty Calculus assignment. 
+While they ate, Maya talked a little more about the assessment. Mostly about how much dirt the rainfall rig had managed to throw outside the tray. She also said that another student had the entire slope collapse after the first drops.
+Taiga was sitting at his desk, half-listening to all of that while scraping sauce off the lid of his container and scrolling through a nasty Calculus assignment. 
 
-"So, Taiga", said Maya at some point looking at him.
+"So, Taiga," Maya said at some point, looking at him.
 
 Taiga turned towards her.
 
@@ -455,7 +455,7 @@ Taiga shrugged.
 
 "I'm still alive. And so is he."
 
-"Talk about roommates relationship goals. First month without assassination."
+"Talk about roommate relationship goals. First month without assassination."
 
 "He tried," said Caleb from his container.
 
@@ -463,7 +463,7 @@ Taiga shrugged.
 
 "He's not letting that go," Maya giggled.
 
-"His alarm system counts as daily murdering attempt."
+"His alarm system counts as a daily murder attempt."
 
 "I reduced it on your request."
 
@@ -475,11 +475,11 @@ Taiga shrugged.
 
 Maya laughed.
 
-"Oh my God, this is exactly how I imagined being Caleb's roommate was."
+"Oh my God, this is exactly what I imagined being Caleb's roommate would be like."
 
-Taiga looked ad her.
+Taiga looked at her.
 
-"Waking up everyday with murderous intentions?"
+"Waking up every day with murderous intentions?"
 
 "Yeah. Pretty much."
 
@@ -498,15 +498,15 @@ Caleb glanced over.
 
 "There we go."
 
-"Is it an important match?", asked Maya.
+"Is it an important match?" Maya asked.
 
 "No, I got the final review. They're gonna tell me if I stay or not."
 
-Cale stared for a second.
+Caleb stared for a second.
 
 "You didn't tell me."
 
-Taiga shrugged, "Now you know."
+Taiga shrugged. "Now you know."
 
 Maya pointed at Caleb.
 
@@ -528,7 +528,7 @@ Caleb moved her hand away.
 
 “That is just my forehead.”
 
-Taiga and Maya laughed, Caleb eventually smiled as well.
+Taiga and Maya laughed. Caleb eventually smiled as well.
 She turned to Taiga:
 
 "You worried?"
@@ -539,7 +539,7 @@ He didn't even try to brush it off.
 
 "Do you think they have a reason to?"
 
-Taiga shrugged, "I don't know."
+Taiga shrugged. "I don't know."
 
 She turned towards Caleb. Without being asked anything he said:
 
@@ -549,13 +549,13 @@ She turned towards Caleb. Without being asked anything he said:
 
 "Do you have any information that could indicate otherwise?"
 
-Yes. He had a lot, actually. He was a bomb with legs, he kept going in wrong spaces, chased too much, rushed to fix stuff, hesitated to-
+Yes. He had a lot, actually. He was a bomb with legs. He kept going into the wrong spaces, chased too much, rushed to fix stuff, hesitated to-
 
 "What happens if they actually kick you?", Maya asked at some point.
 
 Taiga snapped out. 
 
-"What? What you mean what happens?"
+"What? What do you mean, what happens?"
 
 "To you. I mean, what would you do?"
 
@@ -569,7 +569,7 @@ Maya, on the other hand, just kept eating. She just glanced at him from time to 
 
 Taiga looked again at the weekly schedule. His eyes landed on "Practice" before the circled 5:30 slot.
 
-Practice had become as routine as classes. Delete every “Practice” from the schedule, and half his life at Olympus disappeared with it.
+Practice had become as routine as classes. Delete every “Practice” from the schedule, and half his life at Olympus would disappear with it.
 
 He exhaled.
 
