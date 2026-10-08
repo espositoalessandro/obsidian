@@ -888,7 +888,7 @@ Somehow, he got swallowed by the kids and ended up showing them offside examples
 This was... different. Fun. 
 He never considered soccer fun until now. It was always a test. Performance. Improvement.
 
-Taiga watched Leo putting the kids in line and making them practice finishes. It wasn't a different version of him. He had the same volume, same energy, same habit of remembering things people had told him and acting like they always mattered.
+Taiga watched Leo putting the kids in line and making them practice finishes. It wasn't a different version of him. He had the same volume, same energy, same habit of remembering things people had told him.
 
 Eventually, their coach called it a day and brought them back on the bus. 
 They watched them running off, still shouting to each other.
