@@ -34,7 +34,7 @@ Professor Hall entered and conversations across the room died quickly. He was ca
 
 "Before we start, I've returned the first midterm essays."
 
-Taiga's heartbeat began accelerating, as papers moved down each row.
+Taiga's heartbeat sped up as papers moved down each row.
 
 **87/100**
 
