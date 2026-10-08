@@ -600,3 +600,175 @@ Maya looked at Taiga.
 “I know.”
 
 Taiga laughed and went back to his food.
+
+---
+
+Eventually, Thursday arrived. Way too quickly.
+
+During Foundations of Computer Science lab, he barely spoke. He mostly listened and tried writing code that ended up making no sense at all.
+Every time he ran it, his eyes went to the clock. With every minute passing, his stomach felt heavier.
+
+At 4:30, [professor] dismissed the class. Taiga slowly packed his laptop and started walking towards the administrative buildings.
+
+After a couple of minutes, he decided to take a detour, since he had plenty of time to kill. 
+He stopped outside the soccer field.
+
+Taiga stood in the exact same spot where he watched the Apollo team for the very first time. Only seven weeks had passed since then, yet it felt like a life ago. 
+A life that may not exist anymore after 5:30. 
+The day before, his training was hell. Every mistake, a death sentence. Every time Mercer corrected him, a small ray of hope.
+At the end, he couldn't help himself but wondering if that had been his last training with the team.
+
+God, he was such a drama queen.
+For a brief moment, he wished Eduard was there to smack some sense into him again.
+
+Taiga looked at the time: 5:07. He took a deep breath and began walking towards the administrative buildings.
+
+At 5:24, he was sitting outside Mercer's office. A developmental player was already inside, while the one Leo said was probably being kicked was sitting a couple of chairs beside him. 
+He looked extremely relaxed: legs crossed, scrolling his phone, chewing a gum. 
+
+Taiga didn't know if he simply didn't care or if he was actually confident.
+
+At 5.28, the guy came out of Mercer's office and called for Taiga.
+
+"Taiga? Mercer said to go in."
+
+The whole world reduced to that single door. He slowly stood and walked towards it. He looked at the guy who just came out, who was simply smiling.
+
+"It's easier than it sounds like. Relax."
+
+That didn't relax him at all. He opened the door and entered.
+
+Mercer's office was small. Two chairs, a desk, a whiteboard covered in formations and a shelf full of binders and old match balls.
+A sheet sat on the desk with Taiga's name at the top.
+
+Mercer was sitting behind his desk, looking at him. No smile. Still the same poker face as always.
+
+"Akatora, good evening."
+
+Taiga nodded.
+
+"Hi, coach."
+
+"Sit."
+
+He did. Mercer rested his elbows on the desk and crossed his fingers.
+
+You want the answer first?”
+
+Taiga frowned. “What?”
+
+“You've spent the entire week staring at me like you're waiting for sentencing. You're staying.”
+
+The tension left Taiga so quickly it almost made him dizzy.
+
+“Oh... O-Okay.”
+
+“Now that you're capable of hearing the rest, we can talk.”
+
+Mercer picked up the sheet.
+
+"You've improved faster than I expected. Especially since the provisional review. You actually used the information I gave you."
+
+He lowered his ends.
+
+"That's what I said to the Olympus Soccer Office. Just to be clear, the last word was theirs. And they agreed with me on keeping you."
+
+An image of several people in suits talking about whether to keep or kick him formed in his mind. Taiga dismissed it immediately because it was making him sick.
+
+"That being said, you staying means you'll still have to work hard. Your technical level is fine for what we're doing. Your physical tools are useful. Tactically, you still have holes."
+
+Taiga nodded.
+
+"Scanning is better", Mercer continued. "Still late, but better. Positioning is better when the pattern is familiar. When the game gets messy, you start chasing again.”
+
+Mercer put the sheet down.
+
+“The bigger improvement is what happens after you make a mistake.”
+
+Taiga looked up.
+
+"I saw what you did on Saturday. You entered and panicked. You were late to pictures. Late to pressure. Trying to read five things at once."
+
+He stopped. Taiga said:
+
+"Yeah."
+
+"Then what happened?"
+
+Taiga knew what he meant.
+
+“I simplified.”
+
+“You played boring.”
+
+Taiga made a face.
+
+Mercer ignored it.
+
+“Simple pass. Recover. Check your shoulder. Move again. You stopped trying to solve the whole match at once. After that, you started seeing space before it disappeared.”
+
+Taiga said nothing.
+
+“The bigger improvement is what happens when something goes wrong. First week, one bad action changed your next three decisions. Now I can usually get you back in the game with one instruction, sometimes none.”
+
+Taiga leaned back slightly. He finally found the courage to actually speak.
+
+“That's a very low standard.”
+
+“No, it isn't.”
+
+Mercer's tone sharpened.
+
+“A lot of players never learn that. They just get talented enough that people tolerate it longer.”
+
+Taiga looked down at the sheet.
+
+“You make the same mistake twice sometimes. Rarely three times. That's coachable. And that's what I want.”
+
+Taiga remained silent for a couple of seconds.
+
+"Do I stay developmental?"
+
+“For now.”
+
+A small disappointment hit before Taiga could stop it. Mercer caught it anyway.
+
+He smiled slightly. “You've been in organized soccer for six weeks. The developmental roster exists for exactly this. If I move you too early, you spend all your time surviving instead of learning.”
+
+Taiga thought for another couple of seconds.
+
+"What should I do?"
+
+"You mean what you should work on?"
+
+"Yeah. I'd like to have something more concrete than 'work hard'"
+
+“Fine, I'll give you concrete. I want you checking early enough that you know your next two options before the ball arrives. I want you recognizing when to press without Evan yelling at you. I want you still knowing where to stand when the play gets messy. And I want another month of you not trying to personally avenge every mistake.”
+
+Taiga nodded.
+
+“You'll keep getting reserve minutes. A start's on the table if training stays good.”
+
+Mercer slid the sheet across the desk.
+
+“Anything you want to ask?”
+
+Taiga looked at the word **retained** beside his name.
+
+“Not right now.”
+
+Mercer leaned back.
+
+“You're allowed to leave now.”
+
+Taiga stood. Hand on the door.
+
+“Coach?”
+
+Mercer looked up.
+
+“Thanks.”
+
+Mercer nodded. “You earned the review. Don't thank me for reading it.”
+
+Taiga left before the answer could make him smile too obviously.
