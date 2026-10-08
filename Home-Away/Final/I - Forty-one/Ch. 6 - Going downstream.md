@@ -1,10 +1,9 @@
 ### Chapter 6 - Going downstream
 
-Monday morning was pale and humid. Rain was definitely in the air. October finally managed to wash away what was left of the heat of the summer.
-Dry leaves were beginning to accumulate along the edges of the pavement.
+Monday morning was pale and humid. Rain was definitely in the air.
+October finally managed to wash away what was left of the heat of the summer.
 
 Taiga breathed in the cold air as he walked towards the Lecture Hall. Finally, that walk didn't require his body to release coolant.
-
 Nora was already in their usual row when Taiga reached Political Institutions. She had his seat beside her empty and a paper cup balanced on top of her notebook.
 
 "You're late."
@@ -35,18 +34,18 @@ Professor Hall entered and conversations across the room died quickly. He was ca
 
 "Before we start, I've returned the first midterm essays."
 
-Taiga's attention snapped forward. Papers moved down each row.
+Taiga's heartbeat began accelerating, as papers moved down each row.
 
 **87/100**
 
-He stopped for a second. His brain immediately started with *still under ninety*. Below the grade, he read:
+He stopped for a second. His brain immediately started with *still under ninety*. 
+Below the grade, he read:
 
 **Much stronger. Your objections are now supported rather than merely stated. Good use of the counterargument. Keep making the connective steps explicit.**
 
 *Much stronger*. So, still not strong enough.
 
 Taiga closed his eyes and exhaled.
-
 Stupid brain. Eighty-seven was thirteen points higher than his last one.
 
 Beside one paragraph:
@@ -128,7 +127,7 @@ She smiled.
 "Oh, right. Uhm, what was his name... Ah, Leo, right?"
 
 An image flashed without warning in his mind.
-Showers. Heat. The door opening.
+Showers. Heat. A door opening.
 
 Taiga briefly closed his eyes. Not now.
 
@@ -139,7 +138,7 @@ By the time they reached the library, the rain had started properly.
 The fourth floor was already crowded. Taiga spotted Zoe first because she was waving both arms from a table by the windows.
 Leo sat beside her with his laptop open and looked up as well, raising one arm.
 
-"Taiga!"
+"Hey, Taiga!"
 
 He used the same volume he used during soccer.
 Zoe grabbed his sleeve and pulled his arm down.
@@ -174,7 +173,7 @@ Zoe giggled.
 
 "Alright."
 
-"So, what's the damage?"
+"So, what's the damage?" asked Taiga.
 
 Zoe pushed her laptop toward him.
 
@@ -206,7 +205,7 @@ Nora raised an eyebrow.
 
 "You're full of surprises, Taiga Akatora."
 
-Leo chuckled from behind his laptop.
+Leo snorted from behind his laptop.
 Taiga looked at the Git history and stopped.
 
 "What did you do?"
@@ -237,14 +236,19 @@ Nora stared at her.
 
 "It was temporally accurate."
 
-Leo turned slowly toward the screen, then raised both hands.
+Leo turned slowly toward Zoe's screen, then leaned back with a poker face.
+
+Zoe rolled her eyes.
+
+"Say it".
+
+Leo raised both hands.
 
 "I'm choosing maturity."
 
-"You had a joke?" Zoe asked.
+"That would be new."
 
-"Several."
-
+Then she turned to explain Taiga what happened.
 She had watched a rebasing tutorial, rebased onto the wrong branch, then merged the result back into the original. The graph looked like public transportation going through a civil war.
 
 "I thought I was simplifying it."
@@ -262,13 +266,13 @@ Zoe ran the project and it worked.
 
 "Oh bless you. You are a lifesaver."
 
-"Commit and push. Stop doing clever things because somebody online says they're elegant."
+"Just commit and push. Stop doing clever things because somebody online says they're elegant."
 
 Nora and Leo giggled. Zoe frowned.
 
 "You make me look incompetent."
 
-"Do you prefer ambitious to competent?"
+"Do you prefer overly ambitious?"
 
 She considered.
 
@@ -280,11 +284,12 @@ Nora had gone back to her notes at some point. She looked up.
 
 "For the part she admitted to," Taiga said.
 
-He looked outside: rain was pouring heavily against the windows.
+He looked outside: rain was pouring heavily against the windows. No point in going out now.
 So he pulled out his laptop and started working on his own assignment. Zoe went back to hers.
 For another hour, they actually worked.
 
 Taiga glanced towards Leo a couple of times.
+After a while, he caught himself reading the same line for the third time while his mind wandered.
 
 Oh, for fuck's sake.
 Okay. Leo was objectively attractive. So what?
@@ -357,10 +362,9 @@ Taiga looked at him.
 
 "Because he was angry. That's different. That guy's a real airhead."
 
-Taiga thought about it. Yes, there was something different in how Mercer approached forty-three.
-
-Hope. Exactly what he didn't need right now.
-
+Taiga knew Leo was probably right.
+Hope.
+Exactly what he didn't need right now. 
 He'd rather be sure he's gonna get kicked out than stay in doubt until Thursday.
 
 That was a great way to start the week.
@@ -378,12 +382,12 @@ Then, Wednesday's General Chemistry lab decided to make things worse because the
 Taiga would have preferred an exam. At least, if he screwed up, no one else had to pay.
 That made him careful in the worst possible way.
 
-He checked every instruction at least three times before adding even a single drop. Then he compared the result twice with the calculations.
+He checked every instruction at least three times before adding even a single drop and compared the result twice with the calculations.
 One of the guys overshot the first endpoint and Taiga almost swore. He managed to contain himself and let him reset the flask.
 
 While he waited, he turned to look at table three. Leo had carefully cuffed his sleeves and Professor Hassan was holding a flask with a very bright purple liquid inside. Zoe was insisting that it was Leo's fault because "one drop more just to be sure" wasn't a correct approach in chemistry.
 
-Luckily, nobody at his table fucked up badly enough to affect the overall result. But the whole class left Taiga exhausted: he checked everything, even the results that the others had already verified.
+Luckily, nobody at his table fucked up badly enough to affect the overall result. But the whole class left Taiga exhausted: he kept checking everything, even the results that the others had already verified.
 
 ---
 
@@ -461,7 +465,7 @@ Taiga shrugged.
 
 "It was a pillow. And you should be thankful I didn't have anything heavier on hand."
 
-"He's not letting that go." Maya giggled.
+"He's not letting that go." Maya said, giggling.
 
 "His alarm system counts as a daily murder attempt."
 
@@ -508,7 +512,7 @@ Caleb stared for a second.
 
 Taiga shrugged. "Now you know."
 
-Maya pointed at Caleb.
+Maya pointed at Caleb with her thumb.
 
 "He's offended."
 
@@ -537,7 +541,7 @@ He didn't even try to brush it off.
 
 "Yeah."
 
-"Do you think they have a reason to?"
+"Do you think they have a reason not to keep you?"
 
 Taiga shrugged. "I don't know."
 
@@ -578,6 +582,8 @@ He exhaled.
 Maya's expression softened.
 
 "Yeah," she said. "Then I get why you're nervous."
+
+Then she turned to Caleb.
 
 "Now can I celebrate the eighty-eight?"
 
@@ -626,13 +632,13 @@ Taiga looked at the time: 5:07. He took a deep breath and began walking towards 
 At 5:24, he was sitting outside Mercer's office. A developmental player was already inside, while the one Leo said was probably being kicked was sitting a couple of chairs away from him.
 He seemed extremely relaxed: legs crossed, scrolling his phone, chewing gum.
 
-Taiga didn't know if he simply didn't care or if he was actually confident.
+Taiga couldn't tell if he simply didn't care or if he was actually confident.
 
 At 5:28, the guy came out of Mercer's office and called for Taiga.
 
 "Taiga? Mercer said to go in."
 
-The whole world reduced to that single door. He slowly stood and walked towards it. He looked at the guy who just came out, who was simply smiling.
+The world reduced to that single door. He slowly stood and walked towards it. He looked at the guy who just came out, who was simply smiling.
 
 "It's easier than it sounds. Relax."
 
@@ -669,7 +675,7 @@ Mercer picked up the sheet.
 
 "You've improved faster than I expected. Especially since the provisional review. You actually used the information I gave you."
 
-He lowered his hands.
+He lowered his hands and picked the sheet.
 
 "That's what I recommended to the Soccer Office. They approved it."
 
@@ -747,7 +753,7 @@ Mercer slid the sheet across the desk.
 
 Taiga looked at the word *retained* beside his name.
 
-"Not right now."
+"No."
 
 Mercer leaned back.
 
@@ -817,18 +823,17 @@ Taiga looked at Enzo. His expression remained grave.
 Taiga narrowed his eyes, but said nothing and went back to get changed.
 
 Training began as usual. His skill obviously hadn't magically improved, but his mind felt clearer.
-
 Mercer's corrections were just corrections now, not death sentences.
 
 A few weeks earlier, Taiga would have remembered only whether the pass had worked.
 Now he noticed the rest of it too. Evan already moving before the switch. Aaron holding the opposite side. Gav pointing without looking up. Scott reorganizing the line behind them. Enzo complaining about a run while making another one anyway.
 
-He was somewhere inside all of that now.
+He was somewhere inside all of that now and by the end of training, Taiga was tired in the normal way again.
 
-By the end of training, Taiga was tired in the normal way again. Mercer asked him to pick up cones and he went.
+On his way to the lockers, Mercer asked him to pick up cones.
 After a couple of minutes, he noticed that Leo and three other players hadn't left yet. They were talking near the benches.
 
-A youth team had begun arriving for the clinic by the time he reached the far sideline. One boy kicked a ball too hard and sent it rolling toward him. Taiga trapped it and passed it back.
+A youth team had begun arriving for a clinic by the time he reached the far sideline. One boy kicked a ball too hard and sent it rolling toward him. Taiga trapped it and passed it back.
 
 "Thank you," said the kid.
 
@@ -876,7 +881,7 @@ Taiga had just finished collecting all the cones.
 
 Apparently, they were discussing rules about offside. The kid said it was a stupid rule. Leo mostly agreed with him, but was trying to explain why it existed.
 
-Somehow, he got swallowed by the kids and ended up showing them offside examples with Leo.
+Somehow, he got surrounded by the kids and ended up showing them offside examples with Leo.
 
 This was... different. Fun.
 He'd never considered soccer fun until now. It had always been something he sucked at and had to improve at all costs.
@@ -898,7 +903,7 @@ Taiga considered.
 
 "They're tolerable."
 
-"You ever work with them?"
+"You ever worked with them?"
 
 "Kids? Yeah, sometimes at camp this summer."
 
@@ -914,11 +919,11 @@ Leo brightened up.
 
 "That explains a lot."
 
-"What the fuck does that explain?"
+"What the fuck does that explain?", said Taiga frowning.
 
 Leo shrugged. "Well, the way you handle kids, for example. You don't baby them so much."
 
-Taiga relaxed.
+He relaxed.
 
 "They won't learn if you treat them like idiots."
 
