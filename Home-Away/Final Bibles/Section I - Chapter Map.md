@@ -278,30 +278,35 @@ Camp Buddy should not dominate Section I generally. Material involving the old c
 
 ---
 
-## Chapter 10 — Selection
+## Chapter 10 — First Reserve Start
 
 ### Dramatic role
 
-The first-team call-up is the concrete culmination of Taiga's football trajectory in this section.
+The concrete football payoff of Section I is not first-team selection. It is Taiga earning his **first start at any organized level**.
 
-He receives something he clearly wants. The achievement does not magically eliminate insecurity or transform him into a different player, but he is able to perform, contribute and let himself experience the result.
+He began the semester without organized football experience, entered the developmental roster, earned reserve substitute minutes, survived the review and gradually became useful. Starting a reserve match is the believable culmination of that progression: Mercer now trusts him enough to include him in the initial plan rather than introducing him later once the match has already taken shape.
 
 ### Movement
 
-**I want to prove I belong → I've been chosen, and I can accept that without turning it into another test.**
+**I'm useful enough to get minutes → I'm trusted enough to start.**
 
 ### Current likely anchors
 
-- Mercer selects Taiga for the first-team bench against Westlake.
-- First-team shirt and credential.
-- Camp Buddy and Apollo reactions.
-- Taiga tries, imperfectly, not to let the selection consume the entire week.
-- He comes on for roughly ten minutes in the 2–1 win.
-- The appearance matters because it is the payoff to the Section I football trajectory, not because the performance is heroic.
+- Mercer tells Taiga he will start for the reserves.
+- The news matters because Taiga has never started an organized match before.
+- The week can retain some anticipation, but it should not repeat the catastrophic review anxiety from Chapter 6.
+- A Northbridge rematch is a strong candidate for the match because it directly contrasts with Taiga's first reserve appearance in Chapter 5.
+- The first Northbridge match overwhelmed him; this time he recognizes the same kinds of spaces and problems earlier.
+- He does not need a goal or heroic performance. A solid 60–70+ minutes, one useful attacking contribution and several correct ordinary decisions are enough.
+- Mercer removes him because the match / his legs require it, not because he has failed.
 
 ### Guardrail
 
-Do not make the first-team appearance disproportionately dramatic or technically dense. Its importance comes from what it means to Taiga.
+Do **not** give Taiga first-team minutes in Section I.
+
+Three months of progress should make him a legitimate developmental / reserve player, not yet a first-team player. The next selection threshold remains available for Section II.
+
+The football payoff should emphasize tactical growth, trust and repeatability rather than spectacle.
 
 ---
 
@@ -311,7 +316,9 @@ Do not make the first-team appearance disproportionately dramatic or technically
 
 The things that once felt new have become ordinary life.
 
-First-team football, reserve football, Apollo, Nora, Caleb, Computer Science and Leo are no longer isolated novelties. Missing a first-team match does not erase the first appearance. Returning to reserve football is not a demotion of self-worth. Olympus has become the baseline from which the next chapter can disturb something more personal.
+Reserve football, Apollo, Nora, Caleb, Computer Science and Leo are no longer isolated novelties. Taiga no longer needs every training session or squad decision to prove that he belongs. After his first reserve start, he is simply one of the players Mercer can use there.
+
+Olympus has become the baseline from which the next chapter can disturb something more personal.
 
 ### Movement
 
@@ -319,11 +326,12 @@ First-team football, reserve football, Apollo, Nora, Caleb, Computer Science and
 
 ### Current likely anchors
 
-- Taiga is not selected for the next first-team match and is disappointed without treating it as collapse.
-- Leo scores while Taiga watches the match from campus.
-- Taiga plays substantial, good reserve minutes afterward.
+- Taiga's first reserve start no longer needs to remain an event for the whole chapter.
+- He may receive further reserve minutes or selection without treating each one as an existential judgment.
+- Training continues with the same Apollo squad structure already established; do not invent separate "senior training sessions."
 - House Apollo functions as somewhere he can simply study and exist around other people.
 - CS, Nora, Caleb, football and Apollo coexist without every scene needing to prove progress.
+- The first-team threshold remains visible only as a future possibility, not as a milestone that must be teased or reached before break.
 
 ### Romantic guardrail
 
@@ -384,7 +392,7 @@ By the end of Chapter 12:
 - Taiga has chosen Computer Science.
 - Apollo is a social group, not merely a team.
 - Camp Buddy and Olympus can coexist.
-- Taiga has achieved first-team minutes without making them his entire identity.
+- Taiga has progressed from developmental newcomer to a legitimate reserve starter without being prematurely pushed into first-team football.
 - Caleb, Nora, Maya and the Apollo cast are part of ordinary life.
 - Leo is the first element of that ordinary life that has become difficult to categorize.
 - Taiga leaves for Camp Buddy with the question unresolved.
