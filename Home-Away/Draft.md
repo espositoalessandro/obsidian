@@ -1,1321 +1,1189 @@
-# Chapter 6 - Review
+By the eighth week of the semester, Taiga had developed a reliable method for identifying university emails that would ruin his day. They used words like **opportunity**. Or **engagement**. Or **planning**. The worst ones used all three. He was halfway through breakfast at The Oyster when the phone vibrated beside his tray.
 
-Monday smelled like rain. Not rain itself. Rain waiting. The sky had been pale gray since morning, and dry leaves scraped along the edges of the humanities courtyard in little bursts whenever the wind picked up.
+**ACADEMIC ADVISING REMINDER**
 
-Nora was already in their usual row when Taiga reached Political Institutions. She had his seat beside her empty and a paper cup balanced on top of her notebook.
+Taiga looked at the notification. Ignored it. A second banner appeared underneath.
 
-“You're late.”
+**Your first-year program planning appointment is today at 14:30. Please review your current academic pathway and intended course selections before attendance.**
 
-Taiga checked the clock.
+He stared at it. Caleb looked up from his oatmeal.
 
-“I'm nine minutes early.”
+“What happened?”
 
-“You're usually twelve.”
+“Nothing important.”
 
-“That's not late.”
+“You stopped eating.”
 
-“It's late for you.”
+“Academic advising.”
 
-Taiga sat.
+Caleb nodded as if this explained something sensible. Taiga opened the message. There was a link. Of course there was. The link opened the university app, which displayed his current semester in a clean grid that somehow made four classes look like a legal accusation.
 
-“Caleb is infecting you.”
+**Political Institutions**
 
-“I've never met Caleb.”
+**Calculus I**
 
-“Exactly. It's airborne.”
+**General Chemistry I \+ Lab**
 
-Professor Hall entered carrying a stack of papers. Conversation across the room died quickly.
+**Foundations of Computer Science**
 
-“Before we start, I've returned the second response papers.”
+Taiga looked at the last one. Then at the first. Then back. Caleb ate another spoonful of oatmeal.
 
-Taiga's attention snapped forward. Hall had graded them physically this time because apparently consistency was for other departments. Papers moved down each row. Taiga's arrived face down. He left it there.
-
-Nora turned hers over immediately.
-
-“Eighty-four.”
-
-“You sound offended.”
-
-“I am mildly offended.”
-
-“You said eighty-one was terrible last time.”
-
-“I said I thought I deserved better. Those are different sentences.”
-
-Taiga's paper remained face down. Nora looked at it.
-
-“Are you going to check?”
-
-“Eventually.”
-
-“You complained in the class chat that Hall was taking too long.”
-
-“I said the grading turnaround was inconsistent.”
-
-“You wrote, ‘How the fuck does eight hundred words take nine days?’”
-
-Taiga looked at her.
-
-“That is a comment on turnaround time.”
-
-Nora smiled. “Sure.”
-
-He turned the paper over.
-
-**87**
-
-His brain started with *not ninety*. Then stopped. Eighty-seven. Thirteen points higher than the first one. Below the grade, Hall had written:
-
-**Much stronger. Your objections are now supported rather than merely stated. Good use of the counterargument. Keep making the connective steps explicit.**
-
-Beside one paragraph:
-
-**There’s the bridge.**
-
-Taiga read that twice.
-
-Nora leaned over. “What did you get?”
-
-Taiga covered the number with his hand.
-
-“Mind your business.”
-
-“That means higher than me.”
-
-“It means nothing.”
-
-“It absolutely means higher than me.”
-
-Taiga slid the paper toward her just enough.
-
-Nora stared at the number. “Oh, fuck you.”
-
-Taiga couldn't stop the smile.
-
-“Skill issue.”
-
-“I spent six hours on mine.”
-
-“I spent four.”
-
-“That makes it worse.”
-
-Hall cleared his throat from the front. Nora turned around. Taiga tucked the paper into his notebook. The comment about the bridge stayed visible at the edge until he closed it.
-
-When class ended, Nora caught up with him in the corridor.
-
-“Library?”
-
-Taiga adjusted the strap of his bag.
-
-“I'm going anyway.”
-
-“That was surprisingly easy.”
-
-“I promised somebody I'd fix something.”
-
-Nora looked over.
-
-“That sounds ominous.”
-
-“Git.”
-
-“Less ominous.”
-
-“You haven't seen the repository.”
-
-She pushed through the doors into the courtyard.
-
-“Who?”
-
-“Zoe. The girl from chemistry.”
-
-“The one whose lab partner set himself on fire?”
-
-“He set himself on fire.”
-
-“You laughed.”
-
-“It was funny.”
-
-Nora considered that.
-
-“Fair.”
-
-Zoe had texted Sunday morning to move the repo thing to Monday. Taiga hadn't cared enough to ask why.
-
-By the time they reached the library, the rain had started properly.
-
-The fourth floor was already crowded. Taiga spotted Zoe first because she was waving both arms from a table by the windows.
-
-Leo sat beside her with his laptop open.
-
-“Taiga!” Leo called, somehow at soccer volume without actually shouting.
-
-Zoe grabbed his sleeve and pulled his arm down.
-
-“Library.”
-
-“I said his name.”
-
-“You say everything like you're calling for a through ball.”
-
-Nora glanced at Taiga.
-
-“You weren't exaggerating.”
-
-“About what?” Leo asked.
-
-“Nothing,” Taiga said.
-
-They reached the table.
-
-Zoe looked at Nora.
-
-“Hi.”
-
-“Nora.”
-
-“Zoe.”
-
-Leo pointed between them.
-
-“You two haven't met?”
-
-“No,” Nora said.
-
-“Great. Now everybody knows everybody.”
-
-“That is not how meeting people works,” Taiga said.
-
-“It literally is.”
-
-Taiga dropped into the empty chair across from Zoe. Nora took the one beside him and pulled out her notebook.
-
-For a second, Taiga looked at Leo.
-
-The shower came back first.
-
-Then the dream.
-
-Then 2:26 and the part that had happened while he was very much awake.
-
-Fine.
-
-Leo was hot.
-
-That explained enough.
-
-Zoe pushed her laptop toward him.
-
-“Please tell me this is fixable.”
-
-Taiga looked at the Git history and stopped.
-
-“What did you do?”
-
-“That tone is unnecessary.”
-
-“You have branches called `final`, `final-new`, `final-real`, `final-fixed` and `final-fixed-2`.”
-
-Nora stopped opening her notebook.
-
-“Why?”
-
-Zoe looked at her.
-
-“Why what?”
-
-“Why are they all called final?”
-
-“They were final when I made them.”
-
-Nora stared at her.
-
-“That is not what final means.”
-
-“It was temporally accurate.”
-
-Taiga looked between them.
-
-“Great. There's two of you now.”
-
-Leo turned slowly toward the screen, raised both hands, then lowered them again.
-
-“I'm choosing maturity.”
-
-“You had a joke?” Zoe asked.
-
-“Several.”
-
-She had watched a rebasing tutorial, rebased onto the wrong branch, then merged the result back into the original. The graph looked like public transportation designed during a civil war.
-
-“I thought I was simplifying it.”
-
-“You made a circle.”
-
-Leo rolled his chair closer.
-
-“That is actually impressive.”
-
-Nora leaned over too.
-
-“I don't understand what I'm looking at and even I know that's wrong.”
-
-“Thank you for the support,” Zoe said.
-
-“Can you fix it?” Leo asked.
-
-“Most of it.”
-
-Taiga reset one branch, preserved the useful commits and rebuilt the clean line. Zoe ran the project.
-
-It built.
-
-“Oh, thank God.”
-
-“Commit. Push. Then stop doing clever Git operations because somebody online called them elegant.”
-
-“But rebasing *is* elegant.”
-
-“Not when you do it.”
-
-Leo laughed hard enough that the next table looked over.
-
-Zoe committed and pushed.
-
-“You make me sound incompetent.”
-
-“You deleted a branch yesterday.”
-
-“I recovered it.”
-
-“We recovered it.”
-
-“You were present during the recovery.”
-
-Taiga stared at her.
-
-Zoe smiled.
-
-“Thank you.”
-
-Nora had gone back to her notes at some point. She looked up.
-
-“So that's it?”
-
-“For the part she admitted to,” Taiga said.
-
-Zoe made an offended noise.
-
-“I told you everything.”
-
-Taiga clicked through the graph once more.
-
-“You have a branch called `backup-dont-touch`.”
-
-“That one is self-explanatory.”
-
-Nora put her pen down.
-
-“I'm starting to understand why he sounds like that.”
-
-“Like what?” Taiga asked.
-
-“Personally betrayed.”
-
-Leo pointed at Nora.
-
-“Exactly.”
-
-“Shut up.”
-
-Every other table nearby was occupied, and rain hammered the windows hard enough that leaving would be stupid anyway.
-
-Taiga pulled his own laptop out.
-
-Leo glanced over.
-
-“Staying?”
-
-“I came to the library.”
-
-“That wasn't an answer.”
-
-“It was enough of one.”
-
-Zoe nodded toward the rain.
-
-“Nature has chosen friendship.”
-
-“Nature has chosen not getting soaked.”
-
-“Same result.”
-
-For a while they actually worked.
-
-Nora went through readings for another class, marking the margins hard enough to nearly tear the paper. Zoe cleaned up the rest of her repository. Leo returned to an assignment, typing quickly, stopping to check documentation, then typing again. His leg bounced under the table.
-
-Taiga opened the Political Institutions reading Hall had assigned.
-
-Ten minutes later, Nora slid her paper sideways.
-
-“Read this sentence.”
-
-Taiga did.
-
-“It says nothing.”
-
-“Exactly.”
-
-“You've highlighted half the paragraph.”
-
-“Because all of it says nothing.”
-
-From across the table, Zoe looked up.
-
-“What class?”
-
-“Political Institutions.”
-
-Zoe immediately looked back down.
+“You forgot you had advising?”
 
 “No.”
 
-Nora frowned.
+“Then why do you look annoyed?”
 
-“No what?”
+“Because they're going to ask what I want to major in.”
 
-“I don't want to know.”
+“You knew they were going to ask that eventually.”
 
-“That is a remarkably anti-intellectual position.”
+“That doesn't make the question less stupid.”
 
-“I do computer science because institutions can't make me cite them.”
+Caleb looked at him.
 
-Taiga looked at her.
+“Why is it stupid?”
 
-“That is not why you do computer science.”
+“Because I've been here eight weeks.”
 
-“It is now.”
+“You knew what economics was before eight weeks.”
 
-Leo smiled at his screen.
+“That isn't the same.”
 
-“Nora, don't encourage her. She'll build a political ideology around not writing bibliographies.”
+“No.”
 
-“I already have one.”
+Taiga waited. Caleb continued eating. Sometimes talking to him felt like working with a machine that only returned exactly the data requested. Taiga leaned back.
 
-“Of course you do,” Taiga said.
+“They want me to pick something that controls half my classes for the next three years.”
 
-His phone buzzed beside the laptop.
+“You can change majors.”
 
-He checked it.
+“People keep saying that as if changing everything later is free.”
 
-**DEVELOPMENTAL REVIEW — THURSDAY 17:30**
+“It is not free.”
 
-The rest of the table disappeared for half a second.
+“That's exactly it.”
 
-Thursday.
+“It is also not irreversible.”
 
-Leo saw the header before Taiga locked the screen.
+Taiga frowned. Caleb had, infuriatingly, chosen the reasonable middle.
 
-“Review week.”
+“Whose side are you on?”
 
-Taiga put the phone face down.
+“I didn't know there were sides.”
 
-“Yeah.”
+“There are always sides.”
 
-Nora looked over.
+Caleb considered.
 
-“What review?”
+“That sounds exhausting.”
 
-“Soccer.”
+“It is.”
 
-Zoe frowned.
+He looked at Taiga's phone.
 
-“The thing where they decide if you stay?”
+“What are you considering?”
 
-“Basically.”
+Taiga locked the screen. Caleb's eyes flicked to it, then back to his breakfast. Taiga said, “No commentary.”
 
-Leo made a small face.
+“I had none.”
 
-“Kind of. Mercer also uses it to tell you where you're at.”
+“Excellent.”
 
-“Wonderful,” Taiga said. “So I can get cut with detailed notes.”
+Then looked toward Taiga's backpack. A corner of a green notebook protruded from the front pocket. On the cover, in Taiga's handwriting:
 
-Leo laughed once.
+**CS — Rao**
 
-“That is technically possible.”
+Caleb returned to his oatmeal. Taiga noticed the glance.
 
-Zoe stared at him.
+“If you're about to turn that into data, don't.”
 
-“You're terrible at reassurance.”
+Caleb looked back at his food.
 
-“I wasn't reassuring him.”
+“I was checking the time.”
 
-“Good.”
+“You're a liar.”
 
-Taiga reopened the article.
-
-Nora watched him for maybe a second, then went back to her notes.
-
-Nobody tried to make him feel better.
-
-Good.
-
-Twenty minutes later Zoe swore at another merge conflict, Nora asked why there was another one if Taiga had supposedly fixed the repository, and Leo offered advice that Zoe ignored.
-
-Taiga ended up fixing exactly one more thing before closing her laptop for her.
-
-“I'm invoicing you.”
-
-Zoe pulled it back.
-
-“You can't invoice friends.”
-
-“Watch me.”
-
-Leo pointed at him.
-
-“See? He gets it now.”
-
-Nora looked between them.
-
-“Gets what?”
-
-“Nothing,” Taiga said.
-
-“Friendship,” Leo said at the same time.
-
-Taiga kicked his chair under the table.
-
-Leo laughed.
-
----
-
-Wednesday's General Chemistry lab was graded as a table.
-
-Taiga would have preferred an exam.
-
-If he screwed up alone, fine. His grade, his problem. Here, one bad reading belonged to everyone.
-
-That made him careful in the worst possible way.
-
-The practical was a titration. One of the guys overshot the first endpoint, and Taiga's hand moved toward the burette before he stopped it. The guy reset the flask himself. Taiga watched anyway.
-
-Across the aisle, Leo and Zoe somehow turned their solution purple. Seth made them start over. Taiga laughed once and went back to his own table.
-
-His trial landed cleanly. Then one of the guys read the burette a hundredth higher than Taiga did.
-
-Normally, Taiga would have argued until somebody gave up.
-
-He checked again.
-
-The guy might have been right.
-
-Annoying.
-
-They wrote his number.
-
-The next two trials agreed. The one after that didn't.
-
-Taiga immediately wanted to discard it. The value was wrong, therefore something had gone wrong, therefore they should throw it out and move on.
-
-One of the others stopped him before he could.
-
-They didn't know what the correct value was yet. Using the expected answer to decide which data counted defeated the point.
-
-Also annoying.
-
-Also correct.
-
-The problem turned out to be a small air bubble in the burette tip.
-
-Taiga reached for the setup, then pulled his hand back. The guy who had spotted it purged the line and reset the apparatus himself.
-
-When Seth came over, Taiga started explaining what had happened out of reflex. Seth stopped him with one raised hand and made the rest of the table answer instead.
-
-Taiga shut his mouth.
-
-One guy explained the bubble. Another explained what it had done to the delivered volume. Taiga stood there and let them finish.
-
-They repeated the trial, got two concordant values and documented the bad one instead of pretending it had never happened.
-
-Professor Hassan checked the sheet, signed it and moved on.
-
-Good recovery.
-
-That was apparently it.
-
-In the hallway afterward, one of the guys pointed out that Taiga had gone an entire lab without taking over once.
-
-He had almost done it several times.
-
-Still counted.
-
-Taiga shoved his goggles into his bag.
-
-“I didn't want to fuck yours.”
-
-The guy stared at him for a second, then laughed.
-
-Taiga headed for his next class without checking whether the others had uploaded the sheet correctly.
-
-Almost.
-
----
-
-That evening, Maya arrived at room 317 with a bag of takeout and her laptop tucked under one arm. Taiga opened the door. She held up the food.
-
-“Peace offering.”
-
-“For what?”
-
-“I'm stealing Caleb.”
-
-“You can keep him.”
-
-Maya kicked the door shut with her heel and dropped onto Caleb's bed.
-
-“I got my practical midterm back.”
-
-Caleb looked up immediately.
-
-“How did it go?”
-
-“Eighty-eight.”
-
-Maya opened the laptop before he could answer. On the screen was a digital model of a sloped patch of terrain, divided into sections with vegetation, mesh and runoff channels marked across it.
-
-“We had to design an erosion-control layout, then build it in the lab with the same soil, slope and rainfall setup as everybody else.”
-
-She switched to a video.
-
-Artificial rain hammered the little slope. For several seconds, the surface held. Then muddy water began cutting a thin channel along one side.
-
-Caleb leaned closer.
-
-“There.”
-
-Maya paused the video herself.
-
-“Yes. I know.”
-
-“The runoff bypassed this section.”
-
-“I know.”
-
-“If you'd moved the barrier—”
-
-“Caleb.”
-
-He stopped.
-
-“Can I celebrate an eighty-eight for five minutes before you perform the autopsy?”
-
-Caleb looked at her. Then at the frozen frame.
+“Possibly.”
 
 “Yes.”
 
-“Thank you.”
+“That's worse.”
 
-He sat beside her. Maya handed Taiga a container of noodles.
+“I was not aware looking had a hierarchy.”
 
-“You brought me food too?”
+Taiga drank coffee. The problem was that Caleb had evidence. Too much of it. Taiga had chosen Foundations of Computer Science because it sounded useful. That had been the official explanation. The unofficial explanation was that he already knew enough programming not to start from zero.
 
-“You're easier to tolerate when fed.”
+He had taught himself bits of code over the years whenever there was something he wanted a computer to do. Small scripts. A few web projects. Then Jin came back to Camp Buddy as a scout during Taiga's third summer. They had met during the renovation, but coding had never really come up; Jin had been busy with the camp's systems, Taiga mostly with the physical work. That summer it did. Jin discovered Taiga knew just enough to be dangerous and, over a few slow afternoons, showed him the parts he had mostly been brute-forcing on his own: cleaner Python, Git that went beyond treating commits like save points, how to read somebody else's code before changing it, how to debug without randomly poking at things until something worked. Taiga kept going from there. By the time Olympus started, he knew enough JavaScript and Python to be comfortable opening an unfamiliar file without immediately wanting to die, and enough Git to understand what Mia had done to her repository and, with some digging, help undo it. That did not make him an expert.
 
-“Fair enough.”
+The placement assessment during summer orientation had made that very clear. He had done well on the practical sections and then hit several questions about things he had only ever used without knowing the proper names for them. Still, it had been enough to skip the absolute-beginner programming class. Efficient. Then Professor Rao had started taking ordinary things Taiga thought he understood and showing him the parts he had been getting away with not understanding.
 
-They ate. Maya talked a little more about the assessment, mostly about how much dirt the rainfall rig had managed to throw outside the tray. Then about a professor who had somehow uploaded the wrong assignment sheet for three different classes. Caleb listened. Taiga half-listened while scraping sauce off the lid of his container.
+That had complicated the situation. Caleb finished his oatmeal.
 
-Maya pointed at the weekly schedule above his desk.
+“What do you have before advising?”
 
-“What's Thursday?”
+“Computer Science.”
 
-Taiga looked.
+“Convenient.”
 
-“Soccer review.”
-
-Caleb looked up immediately.
-
-“You didn't tell me.”
-
-Taiga frowned.
-
-“I thought I did.”
-
-“No.”
-
-Maya pointed at Caleb.
-
-“He's offended.”
-
-“I am not offended.”
-
-“You have the offended forehead.”
-
-Taiga looked at him. Caleb frowned.
-
-“What is an offended forehead?”
-
-Maya touched the space between his eyebrows.
-
-“This.”
-
-Caleb moved her hand away.
-
-“That is just my forehead.”
-
-Taiga laughed. Caleb looked at him.
-
-“You are not allowed to participate.”
+Taiga looked at him.
 
 “Why?”
 
-“You encouraged this.”
+“You will have recent information.”
 
-“I did not.”
+“About what?”
 
-“You absolutely did.”
-
-Maya smiled and went back to her noodles.
-
-Caleb looked at the schedule again.
-
-“Thursday at five-thirty.”
-
-“Yeah.”
-
-“Are you worried?”
-
-“No.”
-
-Caleb waited.
-
-Maya looked from one of them to the other.
-
-Taiga sighed.
-
-“Obviously I'm worried.”
-
-“Do you think they're cutting you?”
-
-“I don't know.”
-
-Caleb considered that.
-
-“Mercer put you into the Northbridge match.”
-
-“Reserve match.”
-
-“You remained on the field until the end.”
-
-“That doesn't mean anything.”
-
-“It means he wanted you on the field until the end.”
-
-Taiga scraped his fork through the noodles.
-
-“He also spent half the match yelling at me.”
-
-“That is normal.”
-
-Maya nodded. “That one I know, and I don't even play soccer.”
-
-Taiga looked at her.
-
-“How?”
-
-“Caleb has described practice.”
-
-Caleb said, “Mercer continued training you normally yesterday.”
-
-“Maybe they wanted one last look.”
-
-“Possible.”
-
-Taiga looked up.
-
-“See?”
-
-“I said possible, not likely.”
-
-“Why not likely?”
-
-“Because nothing you have described indicates that they have reduced your involvement.”
-
-Caleb took another bite.
-
-“That is all the information I have.”
-
-Taiga threw a napkin at him. Caleb caught it.
-
-“Show-off.”
-
-“I was preventing litter.”
-
-“Worse.”
-
-Maya smiled into her food.
-
-Caleb set the napkin beside Taiga's container.
-
-“What part are you worried about?”
-
-“Getting cut.”
-
-“I understood that.”
+“Whether you like Computer Science.”
 
 Taiga frowned.
 
-Caleb waited.
+“That isn't how majors work.”
 
-Maya did too, but differently. Caleb looked like he was waiting for a missing variable. Maya just kept eating.
+Caleb picked up his tray.
 
-Taiga hated that this was apparently a real question.
+“How do they work?”
 
-“I don't know. I got used to it.”
+Taiga opened his mouth. Nothing useful came out. Caleb waited. Then:
 
-“To soccer?”
+“That's what I thought.”
 
-Taiga looked at the schedule again.
+“Fuck you.”
 
-Practice. Training. Review.
+“I have economics at nine.”
 
-“To being there.”
-
-Caleb nodded once.
-
-Maya's expression softened, but she didn't make a production out of it.
-
-“Yeah,” she said. “Then I get why you're nervous.”
-
-That was enough.
-
-A minute later Maya nudged the laptop toward Caleb.
-
-“Now can I celebrate the eighty-eight?”
-
-Caleb looked at the paused runoff video.
-
-“Yes.”
-
-“Without analysis?”
-
-Caleb paused.
-
-“For how long?”
-
-Maya looked at Taiga.
-
-“See what I deal with?”
-
-“You voluntarily date him.”
+“You're not even in my economics class.”
 
 “I know.”
 
-Caleb said, “She's inconsistent.”
+“Then why did you mention it?”
 
-Maya kicked his ankle under the desk.
+“Because I am leaving.”
 
-“You are resorting to violence.”
+Caleb stood. Taiga stared.
 
-“You deserved it.”
+“Sometimes I genuinely hate talking to you.”
 
-Taiga laughed and went back to his food.
+Caleb adjusted his bag.
 
----
+“I don't think that's true.”
 
-Thursday arrived too quickly.
+“Get out.”
 
-Development review. 5:30.
+“I was already leaving.”
 
-Taiga had training first, which made the entire session feel fake. Everyone else behaved normally. Taiga did not. Every instruction from Mercer became evidence. Every correction became evidence. When Mercer praised a run, Taiga stored it. When Mercer told him he was five yards too high, Taiga stored that too.
+He walked away. Taiga watched him go. Then unlocked the phone again. The advising message remained there. Under **Current Program**:
 
-By the end of warm-up, he had internally constructed a case both for and against his continued existence on the roster.
+**UNDECLARED**
 
-Evan fell into step beside him during a recovery run.
-
-“Review today?”
-
-Taiga looked over. “How does everybody know?”
-
-“Schedule's on the locker-room board.”
-
-“Oh. Right.”
-
-Evan glanced at him. “You look worse now than when Mercer threw you out of the grid.”
-
-“Helpful.”
-
-“I'm serious. Stop reading every whistle like a verdict.”
-
-Taiga gave him a look.
-
-Evan continued, matter-of-fact. “First week, you chased the ball, the man, and sometimes whatever happened to move nearest you. Now I can actually show you outside and trust you not to launch yourself at my first touch.”
-
-“That started almost nice.”
-
-“It is nice.” Evan shrugged. “You've gotten better. A lot. Doesn't mean Mercer is about to put you in the Champions League.”
-
-“I wasn't expecting that.”
-
-“Good. Then quit looking like you're awaiting sentencing.”
-
-They reached the line.
-
-Aaron was already there with Leo and Enzo.
-
-“You were absolutely offside,” Leo said.
-
-Enzo put a hand to his chest. “I reject the accusation. The defender stepped into *my* run. That is entrapment.”
-
-“That is not how offside works.”
-
-“It should be.”
-
-Enzo spotted Taiga and Evan approaching.
-
-“Forty-one. Senior witness. Tell him.”
-
-Taiga stopped. “Tell him what?”
-
-“That the fullback sabotaged an otherwise beautiful action.”
-
-Leo stared at him. “He was behind the center-back before Gav even passed.”
-
-Taiga looked between them.
-
-“I wasn't watching.”
-
-Leo pointed at him. “Thank you. Neutral witness.”
-
-“That isn't what neutral witness means.”
-
-Mercer blew the whistle.
-
-“Unless the five of you are planning to litigate this, move.”
-
-The group split into position work. For most of training, Leo did what he always did. Called for the ball. Talked. Encouraged people. Argued briefly with Enzo about a run. Listened immediately when Mercer corrected his starting position, then did it correctly the next time.
-
-During an eleven-versus-eleven sequence, Taiga drifted too wide. Leo called from central midfield.
-
-“Forty-one, come in two!”
-
-Taiga moved inside. The passing lane opened. Ball came. One touch. Return. Leo spun away from pressure and switched play.
-
-From behind them, Scott's voice carried from goal.
-
-“CARTER, STEP! BENNETT, TUCK! KEEP THE LINE!”
-
-Mercer shouted, “Good!”
-
-At the next stoppage, Leo passed Taiga.
-
-“Better angle.”
-
-Taiga nodded. “Yeah.”
-
-Leo moved on.
+Taiga closed it. Later.
 
 ---
 
-At 5:27, Taiga sat outside Mercer's office.
+Academic advising occupied a suite on the second floor of the University Center. Taiga arrived six minutes early. The waiting area had soft chairs, university brochures and a wall display showing smiling students engaged in activities no real student had ever performed while smiling.
 
-Another developmental player, Luis Herrera, came out first. He saw Taiga and smiled.
+**FIND YOUR PATH**
 
-“Good luck.”
+Taiga looked away. His advisor opened the door at exactly 2:30.
 
-“What did he say?”
+“Taiga?”
 
-Luis laughed. “I'm not telling you. You'll be in there in three minutes.”
+He stood. Dr. Elena Park was a small woman with silver-framed glasses and a phone in one hand. They had met once during orientation. Taiga remembered almost nothing about the conversation except that she had said **exploration is productive**, which sounded like something the university paid people to say. Her office had two plants and no motivational posters. Good start.
 
-“You're useless.”
+“Come in.”
 
-“He's not cutting me, if that's what you're asking.”
+Taiga sat. Park opened his record.
 
-Taiga's stomach twisted.
+“How's the semester going?”
 
-“I'm not.”
+“All right, fine.”
 
-“You obviously are. He said I need to get stronger and stop switching off defensively. Same stuff he's been saying. Relax.”
+She nodded and looked at the screen.
 
-“I'm relaxed.”
+“Your midterm reports are solid. Political Institutions improved significantly after the first paper. Calculus is going well. Chemistry says your lab work is accurate when you remember that the procedure is not a personal insult. And Professor Rao noted that you're comfortable with the programming work and engage well in class.”
 
-“You look like you're negotiating a hostage release.”
+Taiga's attention snagged.
 
-“Fuck off.”
+“Chemistry says what?”
 
-“See you tomorrow.”
+Park's mouth twitched.
 
-At 5:30 exactly, Mercer opened the door.
-
-“Akatora.”
-
-Taiga stood.
-
-Mercer's office was small. Two chairs. Desk. Whiteboard covered in formations. A shelf full of binders and old match balls. A sheet sat on the desk with Taiga's name at the top.
-
-Mercer looked at him.
-
-“You want the answer first?”
-
-Taiga frowned. “What?”
-
-“You've spent the entire afternoon staring at me like you're waiting for sentencing. You're staying.”
-
-The tension left Taiga so quickly it almost made him dizzy.
+“I paraphrased that one.”
 
 “Okay.”
 
-“Now that you're capable of hearing the rest, we can talk.”
+She turned the screen slightly. Rao's note was visible.
 
-Mercer picked up the sheet.
+**Solid practical background; asks useful questions; sometimes overcomplicates solutions. Encourage further CS coursework if interested.**
 
-“You've improved faster than I expected. That's not me saying you're secretly ready for the first team. You're not. Your technical level is fine for what we're doing. Your physical tools are useful. Tactically, you still have holes.”
+Taiga stared at the middle phrase.
 
-“Scanning.”
+“Sometimes?”
 
-“Scanning is better. Still late, but better. Positioning is better when the pattern is familiar. When the game gets messy, you start chasing again.”
+“I assume you disagree with the frequency rather than the accusation.”
 
-“I know.”
+Taiga looked away.
 
-“I know you know. That's why we keep working on it.”
+“Maybe.”
 
-Mercer put the sheet down.
+Park folded her hands.
 
-“The bigger improvement is what happens after you make a mistake.”
+“You're still listed as undeclared. That's completely normal. Today isn't about forcing a declaration. I mainly want to make sure next semester keeps useful options open.”
 
-Taiga looked at the floor for a second. Northbridge. The first few minutes when the whole match had seemed to happen at once.
+Better word. She opened the course-planning page.
 
-“First week, one bad touch changed your next three decisions. Saturday, you came on and the game was too fast for you.”
+“What classes have you liked?”
 
-Taiga looked up.
-
-Mercer continued.
-
-“You were late to pictures. Late to pressure. Trying to read five things at once.”
-
-“Yeah.”
-
-“And then?”
-
-Taiga knew what he meant.
-
-“I simplified.”
-
-“You played boring.”
-
-Taiga made a face.
-
-Mercer ignored it.
-
-“Simple pass. Recover. Check your shoulder. Move again. You stopped trying to solve the whole match at once. After that, you started seeing space before it disappeared.”
-
-Taiga said nothing.
-
-“The bigger improvement is what happens when something goes wrong. First week, one bad action changed your next three decisions. Now I can usually get you back in the game with one instruction, sometimes none.”
-
-Taiga leaned back slightly.
-
-“That's a very low standard.”
-
-“No, it isn't.”
-
-Mercer's tone sharpened.
-
-“A lot of players never learn that. They just get talented enough that people tolerate it longer.”
-
-Taiga said nothing.
-
-“Your pace gets attention. Your aggression gets attention. That's the obvious stuff. The reason I'm keeping you is that you absorb information.”
-
-Taiga looked down at the sheet.
-
-“You make the same mistake twice sometimes. Rarely three times. That's coachable.”
-
-“So I stay developmental?”
-
-“For now.”
-
-A small disappointment hit before Taiga could stop it. Mercer caught it anyway.
-
-“You expected promotion?”
-
-“No.”
-
-“You looked disappointed.”
-
-Taiga sighed.
-
-Mercer smiled slightly. “You've been in organized soccer for six weeks. The developmental roster exists for exactly this. If I move you too early, you spend all your time surviving first-team training instead of learning.”
-
-“How long?”
-
-“Until you're ready.”
-
-“That's not measurable.”
-
-“You like measurable.”
+“Liked?”
 
 “Yes.”
 
-“Fine. I want you checking early enough that you know your next two options before the ball arrives. I want you recognizing when to press without Evan yelling at you. I want you still knowing where to stand when the play gets messy. And I want another month of you not trying to personally avenge every mistake.”
+“That seems subjective.”
 
-Taiga nodded.
+“It is.”
 
-“You'll keep getting reserve minutes. A start's on the table if training stays good.”
+He stared at her. Park waited. Taiga looked at the four names on his record. Political Institutions. Interesting when Hall wasn't grading him. Calculus. Satisfying when the algebra stayed out of the way. Chemistry. Annoying in a completely different direction. Too much waiting. Too many opportunities to ruin an otherwise correct calculation with one wet cylinder. Computer Science. He thought about the registry bug from that morning. He should have been annoyed. He was annoyed.
 
-Taiga looked up. “Probably?”
+He also wanted to know what other mistakes he had been making for years without noticing.
 
-“Don't make me regret using that word.”
+“Computer Science is good.”
 
-Taiga almost smiled.
+Park nodded.
 
-Mercer slid the sheet across the desk.
+“What about it?”
 
-“Anything you want to ask?”
+Taiga shrugged.
 
-Taiga looked at the word **retained** beside his name.
+“I already knew some programming.”
 
-“Not right now.”
+“That wasn't my question.”
 
-Mercer leaned back.
+“I know.”
 
-“You're allowed to leave now.”
+He looked toward the window.
 
-Taiga stood. Hand on the door.
+“I thought it would mostly be stuff I already knew. It's not.”
 
-“Coach?”
+“Is that good or bad?”
 
-Mercer looked up.
+“Both.”
 
-“Thanks.”
+Park waited. Taiga sighed.
 
-Mercer nodded. “You earned the review. Don't thank me for reading it.”
+“I like that there are reasons behind things I used to just do because they worked. Then sometimes I find out my reason was wrong.”
 
-Taiga left before the answer could make him smile too obviously.
+“That sounds like learning.”
+
+“That sounds like a brochure.”
+
+“It does.”
+
+Taiga smiled despite himself. Park asked, “Do you like it enough to take more?”
+
+“Yeah.”
+
+The answer came too quickly to pretend otherwise. Park opened his saved courses. Taiga immediately regretted using the favorite button.
+
+**Data Structures**
+
+**Discrete Structures**
+
+**Calculus II**
+
+**General Chemistry II**
+
+There were others lower down—Digital Media Studio, Urban Data and Networks—but those four were already marked for spring. Park looked at him.
+
+“You've done most of my job.”
+
+“I was looking.”
+
+“I can see that.”
+
+She opened the prerequisite map.
+
+“If you want to preserve the option of a Computer Science major, Data Structures and Discrete Structures are the sensible pair. Calculus II continues the sequence. Chemistry II finishes the year sequence you've already started.”
+
+“So all STEM.”
+
+“You chose them.”
+
+Taiga looked at the grid. That was true. Fall had happened almost by accident. A little of everything because he hadn't known what direction he wanted. The spring schedule looked much less accidental. Park built a draft.
+
+Monday and Wednesday were fine. Tuesday looked hostile. Thursday included a chemistry lab that ate most of the afternoon. Friday morning only. Taiga stared at it.
+
+“Why is every good section on Tuesday?”
+
+“Because the universe dislikes you personally.”
+
+Taiga looked at her. Park smiled.
+
+“I am allowed one joke per appointment.”
+
+“That was your one?”
+
+“Unfortunately.”
+
+He almost laughed. Park saved the draft.
+
+“You can remain undeclared through registration if you want. If you decide on Computer Science before then, declaration gives you a department advisor and makes some planning cleaner. There is no prize for declaring early.”
+
+Taiga looked at the button.
+
+**DECLARE PROGRAM**
+
+Blue. Harmless.
+
+“What if I change my mind?”
+
+“Then you change it.”
+
+“That simple?”
+
+“Administratively? Usually.”
+
+“Academically?”
+
+“That depends how long you wait and what you change to.”
+
+There. Actual answer. Taiga nodded. Park continued, “You don't need to decide whether Computer Science is what you want for the rest of your life. You only need to decide whether it's the direction you want to explore more seriously next.” Taiga frowned.
+
+“That still sounds like advisor propaganda.”
+
+“It is literally my job.”
+
+He laughed. She smiled.
+
+“Let's leave you undeclared for now. You can submit the form whenever you want.”
+
+Taiga looked at the spring schedule again. Data Structures. Discrete Structures. Calculus II. Chemistry II. He wanted the first two badly enough that the question had become annoying. Park closed his record.
+
+“Anything else?”
+
+“No.”
+
+“Then you're done.”
+
+Taiga stood. At the door, Park said, “For what it's worth, being unsure doesn't make the interest fake.” Taiga looked back. Park raised one hand.
+
+“That was an advisor sentence. You may ignore it.”
+
+“Probably will.”
+
+“I expected that.”
+
+He left.
 
 ---
 
-He told Caleb first because Caleb had asked.
+Caleb stirred his oatmeal. “Maya wants to go to Acropolis Park Sunday.”
 
-**Taiga:** retained
+Taiga looked up. “That came out of nowhere.”
 
-**Caleb:** Congratulations.
+“She sent me a trail.”
 
-A second message followed.
+“Of course she did.”
 
-**Caleb:** I expected that.
+Caleb showed him the route: an 8.4-kilometer loop climbing into the park above Olympus City.
+
+“That's not bad.”
+
+Caleb watched him.
+
+“What?”
+
+“Your answer was unexpected.”
+
+“Keep the analysis to yourself.”
+
+“I was going to say the route suited you. Maya asked if you wanted to come.”
+
+“Why?”
+
+“Because she likes you. And because I told her you worked at an outdoor camp.”
+
+Taiga frowned. “You told her?”
+
+“She asked if you hike.”
+
+“And your answer was my biography?”
+
+“My answer was that I didn't know, but you did outdoor things at camp.”
+
+Sunday was free. No match. Training Saturday. On clear evenings Taiga could see the darker slope of Acropolis beyond the Academic Zone and had never seriously considered going there.
+
+“How much elevation?”
+
+“Four hundred and twelve meters.”
+
+“All right, fine.”
+
+“Fine means yes?”
+
+“In this case.”
+
+Caleb immediately updated something on his phone.
+
+“You had a plan before asking me.”
+
+“A draft.”
+
+“Of course.”
+
+“Train at eight-forty-two.”
+
+“Sunday.”
+
+“The next one is more crowded.”
+
+Taiga closed his eyes. Caleb had him there.
+
+“Eight-forty-two.”
+
+---
+
+Starbuffs coffee was, objectively, too expensive. Nora bought one anyway. Taiga bought tea out of protest and immediately regretted it because the tea was also expensive. They took their drinks outside. Central Park was damp from morning rain. Students occupied benches along the paths, some studying, most pretending. Nora blew across the top of her cup.
+
+“So, are you going to tell me why your soccer team apparently has a frat house?”
+
+“It isn't a frat house.”
+
+“You called it House Apollo.”
+
+“That is literally what it's called.”
+
+“That sounds exactly like a frat house.”
+
+“It has trophies.”
+
+“Frat houses also have trophies. Different trophies.”
+
+Taiga looked at her.
+
+“I don't want to know what that means.”
+
+“You probably don't.”
+
+They walked. Nora had suggested lunch at Starbuffs and then failed to buy food. Taiga had pointed this out. She had responded that coffee was a meal if you believed in yourself. Taiga did not believe in her. They eventually stopped at a food stand near the University Center and bought wraps.
+
+“Better,” Taiga said.
+
+Nora unwrapped hers.
+
+“You've become weirdly domestic about meals.”
+
+“I eat.”
+
+“That isn't what domestic means.”
+
+“I know.”
+
+They sat on the low wall beside one of the paths. Nora asked about House Apollo. Taiga explained the film session. Not every detail. Enough. She listened while pulling pieces of lettuce out of her wrap because apparently she had ordered a wrap containing lettuce and then decided lettuce was the enemy.
+
+“So there are actual Houses for the sports clubs.”
+
+“Yes.”
+
+“I knew that.”
+
+“Then why are you asking?”
+
+“I've never been inside one. Political science doesn't get a Greek god mansion.”
+
+“Tragic.”
+
+“We get a basement office with a broken printer.”
+
+“Appropriate.”
+
+Nora laughed. A minute later she looked toward the Sports Zone in the distance.
+
+“So what do you actually do out there?”
+
+Taiga frowned.
+
+“Play soccer.”
+
+“I have gathered that much. You keep saying winger, and Mercer apparently keeps making you stand in specific patches of grass. What is the job?”
+
+Taiga considered how much explanation she actually wanted.
+
+“Mostly I start wide. It stretches their defense. If Aaron comes around me from fullback, I can move inside and take a defender with me, or stay outside and give him the inside lane.”
+
+Nora traced two paths in the air with her cup.
+
+“So you're sometimes useful by getting out of somebody else's way.”
+
+“That's one way to make it insulting.”
+
+“I understand it now.”
+
+“Then yes.”
+
+“See? Political science can learn sports.”
+
+“Please never say that sentence again.”
+
+“Acropolis Sunday. Who's going?”
+
+“Caleb. Maya.”
+
+“That's it?”
+
+“Three people is enough.”
+
+Nora nodded. “Three is perfect for that trail.” Taiga looked at her, mildly surprised that there was no argument.
+
+“You really go there?”
+
+“Yeah. Not constantly. My sister likes the ruins, and there's a lower path that's easy enough that my parents go sometimes.”
+
+“Parents nearby?”
+
+“About an hour away.”
+
+Taiga realized he didn't know that.
+
+“Do you go home much?” he asked.
+
+Nora shrugged.
+
+“Maybe once a month. Less if I have work. My mother texts me photos of the dog every day, so I think she believes that counts as maintaining family cohesion.”
+
+“What kind of dog?”
+
+“Beagle. Criminal.”
 
 Taiga smiled.
 
-Then he dropped the same news into the Camp Buddy chat. The response was immediate enough that his phone became unusable for several minutes. Keitaro called. Hiro overreacted. Hunter and Natsumi congratulated him. Yoichi insulted him and then, badly disguised beneath the insult, said he was proud.
+“Name?”
 
-Taiga let them.
+“Oliver.”
+
+“That is a terrible dog name.”
+
+“Fuck you. He came with it.”
+
+“Dogs don't come with names.”
+
+“He was four when we adopted him.”
+
+“Oh, right.”
+
+Nora took out her phone. Five seconds later there was a beagle on the screen wearing what appeared to be a raincoat. Taiga leaned closer.
+
+“That is ridiculous.”
+
+“He hates the rain.”
+
+“He's a dog.”
+
+“He has standards.”
+
+Nora swiped. Another photo. Oliver asleep upside down on a couch. Another, head inside a paper bag. Taiga found himself smiling. Nora glanced at him. She let it pass.
+
+Eventually she put the phone away.
+
+“You have any pets?”
+
+Taiga hesitated. Camp animals flashed through his head before anything else. Not pets. Different.
+
+“No.”
+
+“Ever?”
+
+“Not really.”
+
+“That's surprising.”
+
+“Why?”
+
+“You like the dog.”
+
+“Everyone likes dogs.”
+
+“Adrian doesn't.”
+
+“Then Adrian is defective.”
+
+Nora laughed. They finished lunch. On the walk back, she said, “Send me a photo from the overlook.” Taiga looked over.
+
+“Why?”
+
+“Because I want to know whether the trail is still muddy.”
+
+“That is an incredibly weak excuse.”
+
+“Fine. Send me a photo because I asked.”
+
+Taiga shrugged.
+
+“Maybe.”
+
+Nora smiled.
+
+“Fake maybe.”
+
+“Yeah.”
 
 ---
 
-Friday afternoon, Enzo was waiting beside Taiga's locker with the expression of someone about to announce a public execution.
+Tuesday, Mercer ended training with, “Film at six in Apollo. Reserves too. Forty-five minutes, not a hostage situation.”
 
-"Akatora."
+Enzo immediately said, “You said that last time and it was an hour and twenty.”
 
-Taiga stopped.
+“That was because you people couldn't identify a back-post runner.”
 
-Enzo folded his arms.
+Leo added, “In our defense, the runner was very sneaky.”
 
-"As a newly welcomed member of Apollo, you are now required to undergo the traditional initiation rite."
+“He was six foot three.”
 
-Taiga stared at him.
+“Exactly. Unexpected stealth.”
 
-"What initiation rite?"
+Mercer looked tired. “Six.”
 
-Aaron, already dressed for training, looked far too interested. Leo was trying not to smile.
+House Apollo sat apart from the main athletic buildings, a broad stone building marked with the sun emblem Taiga now saw on training gear, jackets and travel bags. Aaron held the door.
 
-Taiga's suspicion increased immediately.
+“You coming?”
 
-Enzo took out his phone.
+“I know how doors work.”
 
-"Give me your number."
+“Then why'd you stop?”
 
-Taiga blinked.
+Taiga went inside.
 
-"That's it?"
+The trophy cases and old team photographs were more ceremonial than the rest of the building. Upstairs, the common lounge was full of ordinary evidence that athletes lived lives there: laptops, takeaway containers, cards, somebody asleep over a textbook. Scott sat at one table eating pasta from The Oyster.
 
-"No. That's only how the suffering begins."
+“How long did the ‘five-minute pasta’ take?” Taiga asked.
 
-A few seconds later Taiga's phone vibrated.
+“Twenty-two.”
 
-**Enzo added you to Apollo Men's Soccer**
+“That is fraud.”
 
-Then it vibrated again.
+“Yes.”
 
-And again.
+The film room was down the hall. Gav was crouched by the projector while Enzo held a cable and Leo contributed useless advice.
 
-And again.
+“If you say ‘turn it off and on’ again, Mendez, I'm unplugging the whole system,” Gav said.
 
-Messages appeared faster than he could read them. Scott welcomed him. Aaron sent an image Taiga did not understand. Gav told him to mute the chat immediately if he valued sleep. Someone farther up the locker room complained that this defeated the purpose of the initiation. Leo reacted to three different messages before Taiga had even opened the conversation.
+“That advice has history.”
 
-Taiga looked at Enzo.
+Taiga looked at the projector. “Wrong input.”
 
-"This is the initiation?"
+Gav followed the cable, changed it and watched the screen come alive.
 
-Enzo's expression remained grave.
+“I liked you better five seconds ago.”
 
-"You'll understand."
+“Fair.”
 
-By the time Mercer called them outside, Taiga had thirty-seven unread messages.
+Mercer arrived and the room settled.
 
-He muted the chat.
+The useful part of film was discovering that things Taiga barely remembered doing had tactical meaning. Mercer froze a reserve sequence with Taiga holding width on the left while the ball sat on the opposite side.
 
-Enzo looked genuinely wounded.
+“Akatora. What are you doing?”
+
+“Holding width.”
+
+“Why?”
+
+“If I go inside, their fullback can cover both.”
+
+Mercer resumed the clip. The ball switched. Taiga received in space and forced a corner.
+
+“This is good. Six weeks ago, Akatora sees grass and runs into it.”
+
+A few players laughed.
+
+“Fuck you.”
+
+Mercer ignored him. “Here the width is doing the work before he touches the ball.”
+
+Later the footage stopped on a bad press. Taiga had waited until the receiver already controlled the ball before moving.
+
+Gav pointed at the pass before it.
+
+“You can see where that's going before he gets it.”
+
+“So I'm supposed to go before he even has the ball?”
+
+“If the pass gives it away, yes.”
+
+“Great.”
+
+Gav smiled faintly. “Welcome to organized soccer.”
+
+Leo turned halfway around. “He says that to everyone.”
+
+“Because all of you keep being surprised football has other players.”
+
+Enzo leaned back. “I personally resent the other players.”
+
+Mercer tapped his pen against the desk. “Can we finish before breakfast?”
+
+Forty-five minutes became fifty-eight.
+
+Afterward Taiga intended to leave. Enzo was already halfway into the House kitchen.
+
+“Food. I refuse to let film review be the last thing that happens to me today.”
+
+Gav looked at the clock. “It lasted fifty-eight minutes.”
+
+“Exactly. An ordeal.”
+
+Taiga ended up following them into the kitchen before deciding why. Gav heated leftovers. Enzo found frozen pizza and proved that fitting two trays into one oven did not mean both would cook.
+
+Twenty minutes later Taiga sat with Gav and Scott eating a slice cold in the middle.
+
+“My roommate would hate this,” Taiga said.
+
+“The pizza?” Gav asked.
+
+“The reasoning.”
+
+Scott looked at him. “Bridge guy?”
+
+Taiga stared. “How do you know about the bridge?”
+
+“Stories travel.”
+
+“Wonderful.”
+
+Leo returned from downstairs, dropped into an empty chair and stole one of Enzo's chips.
+
+“You were gone twenty minutes,” Enzo said.
+
+“Derek needed help with the volunteer schedule.”
+
+“That doesn't entitle you to my food.”
+
+“I missed pizza.”
+
+“There is pizza.”
+
+Scott said, “It was cold when it was hot.”
+
+Leo looked at the tray. “What?”
+
+“Don't ask,” Gav said.
+
+Conversation moved through classes, training and Enzo trying to recruit people for the Agora. Nobody reorganized around Taiga. Eventually Enzo asked, “You do anything outside soccer?”
+
+“Yes.”
+
+“That sounded offended.”
+
+“It was.”
+
+“What do you do?”
+
+“Classes.”
+
+“That is not a hobby.”
+
+“I have friends.”
+
+Enzo said, “Also not a hobby.”
+
+Taiga considered throwing crust at him.
+
+“I'm hiking Sunday.”
+
+“Acropolis?” Gav asked.
+
+“North ridge.”
+
+“Good trail.”
+
+Enzo stared at him. “You've never invited me.”
+
+Gav said, “You complain when parking is more than five minutes from the destination.”
+
+“That is completely different.”
+
+Scott added, “You complained about stairs yesterday.”
+
+“The elevator was there.”
+
+“The stairs were one floor.”
+
+Taiga laughed.
+
+At 8:14, he left. Scott said later. Gav nodded. Enzo shouted that forty-one owed him an Agora night. Leo, halfway through another conversation, lifted one hand.
+
+Taiga walked back toward the Residential Zone alone.
 
 ---
 
-Training itself was ordinary.
+Sunday began at 7:03 because Caleb believed forty minutes for breakfast before an 8:42 train was “reasonable.” Taiga disagreed, though not enough to stay in bed. He dressed in hiking pants, old Camp Buddy shirt and trail shoes.
 
-That was probably why Taiga noticed it so much.
+Caleb had packed like they were crossing a continent: water, food, rain shell, battery, first-aid kit and a printed route.
 
-The same locker-room noise. The same damp smell from the grass. The same pull of his cleats against the turf when he tightened the laces. Scott becoming twice as loud the moment they crossed the line. Mercer carrying the same clipboard and looking dissatisfied with the existence of everyone equally.
+“You printed the map.”
 
-Nothing had changed since Wednesday.
+“Yes.”
 
-Except Taiga no longer spent the session wondering whether any of it was about to disappear.
+“The phone works offline.”
 
-For the first time, Mercer's corrections were just corrections again.
+“Yes.”
 
-When Taiga opened his body too late during a passing pattern, Mercer told him. Taiga fixed it on the next repetition. When he drifted too wide in the eleven-versus-eleven, Leo called him two steps inside. Taiga moved, the lane opened, and the ball reached him exactly where it was supposed to.
+“So why?”
 
-He returned it first time.
+“Redundancy.”
 
-Leo turned away from pressure and switched play.
+“Of course.”
 
-A few weeks earlier, Taiga would have remembered only whether the pass had worked.
+They met Maya at the station. She took one look at Caleb's pack.
 
-Now he noticed the rest of it too. Evan already moving before the switch. Aaron holding the opposite side. Gav pointing without looking up. Scott reorganizing the line behind them. Enzo complaining about a run while making another one anyway.
+“Why do you have three liters of water?”
 
-He was somewhere inside all of that now.
+“You said two liters minimum.”
 
-Not important enough to change it. Not good enough to stop being corrected.
+“I said *I* was bringing two.”
 
-Still there.
+“That implied a standard.”
 
-Mercer stopped the next sequence and asked when Taiga should press. Taiga gave him the triggers. Bad touch. Slow pass across. Someone receiving with their back to play.
+“No, it implied my bottle holds two.”
 
-"And if none of those happen?"
+Taiga smiled. Caleb frowned. Maya kissed his cheek.
 
-"Wait."
+“Good morning.”
 
-Mercer nodded and restarted the drill.
+“Good morning.”
 
-That was it.
+The train carried them out of the university district toward Emporio and then the greener edge of the city. Caleb managed to explain part of the west-corridor rail proposal before Maya exposed that he had diagrams. By the time they reached Acropolis, hikers outnumbered students.
 
-No verdict hidden inside the word. No reason to preserve it for later.
+Taiga stepped outside. Wet soil. Leaves. Actual terrain. Better.
 
-Just good.
+The first kilometer was crowded. Families, joggers, two students carrying a speaker. Taiga hated them immediately. Caleb put in noise-reduction earbuds without comment. Maya looked at the speaker group.
 
-By the end of training, Taiga was tired in the normal way again.
+“Criminal.”
 
-Evan passed him during the final recovery walk and pointed out that he hadn't needed to yell at him once.
+“Agreed.”
 
-"Give it time," Taiga said.
+As the trail climbed, the crowds thinned. Maya stopped twice to look at plants and explained soil compaction with enough enthusiasm that Taiga actually listened.
 
-Evan grinned and kept walking.
+Halfway up, they reached a closure.
 
-Progress, apparently.
+**TEMPORARY CLOSURE — TRAIL MAINTENANCE**
 
-Taiga stayed behind afterward because Mercer asked for help collecting cones. He didn't mind.
+Caleb stared at his route app. “This isn't on the map.”
 
-A youth team had begun arriving for the clinic by the time he reached the far sideline. One boy kicked a ball too hard and sent it rolling toward him. Taiga trapped it before it reached the parking lot and passed it back.
+“The sign is more current than the phone,” Taiga said.
 
-The kid noticed his shirt.
+“The left trail reconnects, but it adds distance.”
 
-"Forty-one? That's a weird number."
+Taiga studied the physical map. “Take the left for about a kilometer. There's a marked connector before the steep section.”
 
-A few yards away, Leo made a sound that was suspiciously close to a laugh.
+Caleb compared it with his printout.
 
-Taiga looked at him.
+“That seems correct.”
 
-"Don't."
+“You were comparing sources.”
 
-Leo raised both hands and went back to unloading a bag of balls.
+“Yes.”
 
-The clinic gradually swallowed him.
+“That is doubting with stationery.”
 
-Kids knew Leo already. They called his name from different parts of the field, reminded him of things he'd promised the previous week, demanded demonstrations and disputed his version of the rules. Leo answered all of them as if none of it was particularly difficult.
+Maya laughed. “I'm watching you two discover that different kinds of maps exist.”
 
-Taiga kept collecting cones and watched from the edge.
+The detour was quieter almost immediately. Taiga found his body remembering things without instruction: shorter steps on slick ground, where to put weight on wet stone, how to hear when the person behind him was breathing harder.
 
-Leo showed one kid a turn slowly enough that the movement barely resembled the version he used in matches. When the first attempt went wrong, he reset the ball with his foot and had him try again. The second was still clumsy, but Leo celebrated it anyway.
+He turned eventually. “Break?”
 
-Another kid wanted him to watch a shot. A little girl ran over with one lace undone; Leo crouched, tied it without interrupting the argument he was having with someone else, and sent her back onto the field.
+Caleb checked the time. “We've only been walking fifty-three minutes.”
 
-It wasn't a different version of Leo.
+“That wasn't the question.”
 
-That was probably what Taiga liked about watching it.
+Caleb considered his breathing. “Yes.”
 
-Same volume. Same energy. Same habit of remembering things people had told him and acting like they mattered.
+They stopped beside a low stone wall. Through the trees, Olympus City spread below them, campus reduced to a small patch of buildings and the stadium shape.
 
-Leo caught him watching eventually.
+Maya sat beside Taiga. “Was Camp Buddy like this?”
 
-"What?"
+“Not really. More forest. Lake. Cabins.”
 
-"Nothing."
+“You were a counselor?”
 
-"You're doing the face."
+“Scout. Then I stayed on as a volunteer.”
 
-"What face?"
+Maya asked what he actually did there.
 
-"The one where you're definitely thinking something and pretending you're not."
+“Everything. Activities. Cooking sometimes. Trails. Canoes. Repairs. Keeping younger scouts from doing stupid shit. Whatever Yoshinori needed.”
 
-Taiga picked up the last cone.
+“Yoshinori?”
 
-"Your clinic is hostile."
+“One of the scoutmasters.”
 
-Leo smiled.
+“Did you like it?”
 
-"See? You're learning."
+“Yeah.”
 
-He took the cone bag from Taiga and nodded toward the kids.
+After ten minutes they resumed. The connector was exactly where Taiga said it would be.
 
-"You ever work with them?"
+“You were right,” Caleb said.
 
-"Kids? Yeah. At camp."
+“I know.”
 
-"I figured."
+“You complain when people don't acknowledge that.”
 
-Taiga looked at him.
+“I complain when *you* don't.”
 
-"Why?"
+Maya laughed and kept walking.
 
-"You didn't baby that kid when he nearly launched the ball into the parking lot."
+The trail leveled near old stone foundations half swallowed by roots. Caleb read every information sign. Maya photographed plants growing between the ruins. Taiga wandered to a low wall overlooking the slope and rested one hand against the cold stone.
 
-"He was eleven."
+His phone buzzed. He ignored it. For a few minutes there was nothing to do except look at the trees and the city below.
 
-"Exactly."
+Maya joined him a few minutes later.
 
-One of the boys called Leo again.
+“Worth eight-forty-two?”
 
-Leo glanced back, then at Taiga.
+Taiga smiled. “Maybe.”
 
-"You should help sometime. Mercer is always looking for players."
+“The real maybe?”
 
-Taiga looked toward the field.
+“Yeah.”
 
-A kid was trying the same turn again against an orange cone. Too big a touch. Reset. Again.
+Caleb approached behind them. “The viewpoint is another twenty-eight minutes.”
 
-A month earlier, Taiga would have found a reason not to answer.
+Maya looked at him. “You timed it?”
 
-Now there was a team chat muted in his pocket, his name on Mercer's retained list, and another training session already sitting on next week's schedule.
+“The sign says 1.4 kilometers.”
 
-"I'll think about it."
+“That doesn't answer the question.”
 
-Leo nodded like that was enough.
+“I estimated.”
 
-"Cool."
+Taiga pushed away from the wall. “Let's go.”
 
-Someone shouted his name again and he jogged back toward the clinic.
+The overlook was crowded enough to be annoying and beautiful enough that Taiga forgave it. Mostly. A broad platform of stone sat above the trees. Olympus City spread below. Emporio's towers rose in one direction. Farther beyond, the light changed where the city met the water. Taiga could make out the coast but not enough detail to distinguish Santomarino from Mythokos. Closer, the university occupied a surprisingly compact patch of the landscape. Central Zone. Academic buildings.
 
-Taiga slung his bag over one shoulder and headed for the exit while Leo argued with an eleven-year-old about whether a shot through the side netting counted as a goal.
+Sports facilities. The stadium. Residential blocks. All those walks that felt long from inside campus became centimeters. Maya leaned on the railing.
 
-Apparently, it did if you asked the eleven-year-old.
+“Okay. That's nice.”
+
+Caleb stood beside her.
+
+“The rail extension would be visible from here if they build it.”
+
+Maya closed her eyes.
+
+“Please look at the ocean for ten seconds.”
+
+“I am looking.”
+
+“You're looking at transit.”
+
+“It is also there.”
+
+Taiga laughed. He took out his phone. Nora had messaged.
+
+**Nora:** alive?
+
+Taiga opened the camera. Took one photo of the view. Looked at it. Too much sky. He adjusted. Took another. Better. Sent.
+
+**Taiga:** unfortunately
+
+Nora responded:
+
+**Nora:** oh wow. clear today
+
+Then:
+
+**Nora:** told you
+
+Taiga typed:
+
+**Taiga:** don't ruin it
+
+He stared at the conversation. Then opened Camp Buddy and sent the same photograph.
+
+**Hunter:** That's beautiful.
+
+**Keitaro:** Acropolis? You actually went :)
+
+**Hiro:** I WANT TO GO
+
+**Yoichi:** jump
+
+**Natsumi:** How hard is the trail?
+
+**Eduard:** FINALLY a background worthy of you. Please tell me someone took an actual photo and not just landscape evidence.
+
+**Lee:** What was the elevation gain?
+
+Taiga sent:
+
+**Taiga:** caleb and maya. 412m
+
+Then to Yoichi:
+
+**Taiga:** you first
+
+**Yoichi:** too far away
+
+He put the phone away.
+
+Caleb was still looking at the city. Maya smiled.
+
+“Good thing you came.”
+
+Taiga leaned against the railing.
+
+“That almost sounded sentimental.”
+
+“I was talking about the weather.”
+
+“You're a liar.”
+
+“A little.”
+
+They stayed at the overlook for half an hour. Ate sandwiches. Caleb complained that the bench design trapped water after rain. Maya pointed out that a bird had stolen half a cracker from a child. Taiga watched clouds move over the city.
+
+---
+
+The descent hurt more than the climb. Not lungs. Knees. Taiga had forgotten that. Caleb discovered it around kilometer six.
+
+“My knees hurt.”
+
+“Yes.”
+
+“Why?”
+
+“Because we're going downhill.”
+
+“That should be easier.”
+
+“Cardiovascularly.”
+
+“I dislike this distinction.”
+
+Maya laughed.
+
+“You've been talking about gradients for two hours.”
+
+“Train gradients.”
+
+“Apparently human infrastructure has different suspension.”
+
+Taiga looked back at him.
+
+“Shorter steps.”
+
+Caleb adjusted.
+
+“Why?”
+
+“Less braking every step.”
+
+He tried. Ten seconds.
+
+“That is better.”
+
+Maya smiled. “You've done this a lot.”
+
+“Camp.”
+
+“Right.”
+
+A while later she asked, “Lower café before the station?”
+
+Taiga looked at Caleb, who was still testing the shorter steps.
+
+“All right, fine.”
+
+Maya laughed. The lower café sold coffee, pastries and bottles of water at tourist prices. Caleb bought tea. Maya bought cake. Taiga bought a coffee despite complaining about the price for almost a full minute. They sat outside. By then the morning crowds had become afternoon crowds. Children. Dogs. Cyclists. People returning from trails with mud up their calves. Taiga's legs hurt, but there was no score sheet waiting, no film session, no Mercer note. Just the train home.
+
+He watched a family pass with two muddy children and a dog.
+
+“This many people would annoy me more on campus.”
+
+Caleb looked over. “Why?”
+
+Taiga thought about it.
+
+“I don't have to talk to any of them here.”
+
+Maya took another bite of cake. “That helps.”
+
+Caleb nodded. “Yes.”
+
+Taiga looked at her. The conversation moved to food. Then the train schedule. Then whether they had enough time to stop in Emporio on the way back. They didn't. Caleb had an assignment. Maya had reading. Taiga had absolutely nothing due that evening and felt smug about it until his phone reminded him of Political Institutions reading Monday.
+
+“Fuck.”
+
+Caleb looked over.
+
+“What?”
+
+“Hall.”
+
+“Assignment?”
+
+“Reading.”
+
+“When exactly?”
+
+“Tomorrow.”
+
+“How much?”
+
+Taiga checked. Sixty-four pages. Maya laughed. Taiga looked at her.
+
+“What is it?”
+
+“You looked so peaceful for almost an entire day.”
+
+“Apparently, university remembered that I exist.”
+
+---
+
+They returned to campus just before six. At the gate, the crowd thickened around familiar buildings again. Students crossed toward the Sports Zone. Somebody outside Starbuffs argued over a group project. Taiga was already sorting the evening: shower, reading, laundry, training Tuesday.
+
+At the residence hall, Maya hugged Caleb goodbye, then looked at Taiga.
+
+“Can I hug you or are you going to become weird?”
+
+“That question already made it weird.”
+
+“Fair.”
+
+She opened one arm anyway. Taiga sighed and stepped in. Brief squeeze, then done.
+
+“Thanks for coming.”
+
+“Yeah.”
+
+“And thanks for not letting Caleb choose the closed trail.”
+
+“I was verifying,” Caleb said.
+
+“Maya's right.”
+
+Caleb stared at him. “Betrayal.”
+
+“Get used to it.”
+
+Upstairs, Caleb immediately unpacked his wet things. Taiga dropped his bag by the bed.
+
+“You should remove the wet shirt,” Caleb said.
+
+“I will.”
+
+“When?”
+
+“Later.”
+
+“It will smell.”
+
+“Caleb.”
+
+“All right.”
+
+Taiga sat on the edge of his bed and opened the photos. Maya had taken one without warning: Caleb looking toward the city, Taiga half turned toward her, neither of them posing. He saved it.
+
+Then he opened the map app and starred Acropolis Park.
+
+Monday's Political Institutions reading was sixty-four pages.
+
+“Fuck.”
