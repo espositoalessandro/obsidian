@@ -288,8 +288,8 @@ He looked outside: rain was pouring heavily against the windows. No point in goi
 So he pulled out his laptop and started working on his own assignment. Zoe went back to hers.
 For another hour, they actually worked.
 
-Taiga glanced towards Leo a couple of times.
-After a while, he caught himself reading the same line for the third time while his mind wandered.
+Leo moved beside Zoe and Taiga glanced over without thinking.
+He caught himself doing it again a few minutes later.
 
 Oh, for fuck's sake.
 Okay. Leo was objectively attractive. So what?
@@ -675,9 +675,7 @@ Mercer picked up the sheet.
 
 "You've improved faster than I expected. Especially since the provisional review. You actually used the information I gave you."
 
-He lowered his hands and picked the sheet.
-
-"That's what I recommended to the Soccer Office. They approved it."
+"That's what I recommended to the Soccer Office", he continued. "They approved it."
 
 An image of several people in suits talking about whether to keep or kick him formed in his mind. Taiga dismissed it immediately because it was making him sick.
 
@@ -689,7 +687,7 @@ Taiga nodded.
 
 Mercer put the sheet down.
 
-"It's interesting what happens now after you make a mistake." He continued. "I saw what you did on Saturday. You entered and immediately tried to read five things at once. You were late seeing the picture. Late to pressure."
+"It's interesting what happens now after you make a mistake. I saw what you did on Saturday. You entered and immediately tried to read five things at once. You were late seeing the picture. Late to pressure."
 
 Taiga grimaced. "Yeah."
 
