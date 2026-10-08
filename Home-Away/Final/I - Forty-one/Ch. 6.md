@@ -381,8 +381,227 @@ That made him careful in the worst possible way.
 He checked every instruction at least three times before adding even a single drop. Then compared the result twice with the calculations.
 One of the guys overshot the first endpoint and Taiga almost swore. He managed to contain himself and let him reset the flask.
 
-While he waited, he turned to see table three. Leo had carefully cuffed his sleeves and Professor Hassan was holding a flask with a very bright purple liquid inside. Zoe was insisting that it was Leo's fault because "one drop more just to be sure" wasn't a correct approach in chemistry. 
+While he waited, he turned to see table three. Leo had carefully cuffed his sleeves and Professor Hassan was holding a flask with a very bright purple liquid inside. Zoe was insisting that it was Leo's fault because "one drop more just to be sure" wasn't a correct approach in chemistry.
 
-Luckily, nobody at his table fucked up badly enough to affect the general result. But the whole class left Taiga exhausted, because he checked everything, even the results that the others had already verified.
+Luckily, nobody at his table fucked up badly enough to affect the general result. But the whole class left Taiga exhausted: he checked everything, even the results that the others had already verified.
 
-That evening, Maya arrived at room 317 carrying a cardboard bridge and a bag of takeout. Taiga opened the door. She held up the food.
+--- 
+
+That evening, Maya arrived at room 317 carrying a takeaway bag and a laptop tucked under one arm.
+Taiga opened the door.
+
+"Hi, Taiga! It's good to finally meet you!"
+
+He almost felt attacked by her wide smile.
+
+"Maya," she continued.
+
+Taiga blinked. "Yeah, I figured. Nice to meet you too."
+
+Then he shifted to let her in. Caleb turned from his desk and a warm smile appeared on his face. Not as wide as Maya's, but enough to surprise Taiga.
+It was so rare to see actual emotions on his face.
+
+"So? How did it go?", Caleb asked.
+
+She dropped the bag on his desk and sat on the bed.
+
+“Eighty-eight.”
+
+Caleb frowned. 
+Maya picked her laptop and went to his desk. On the screen was a digital model of a sloped patch of terrain, divided into sections with vegetation, mesh and runoff channels marked across it.
+
+Then she turned to Taiga.
+
+“We had to design an erosion-control layout, then build it in the lab with the same soil, slope and rainfall setup as everybody else.”
+
+Taiga approached to see her screen.
+
+She switched from the model to a video. Artificial rain hammered the little slope. 
+For several seconds, the surface held. Then muddy water began cutting a thin channel along one side.
+
+Maya grimaced, "Yeah I know."
+
+Caleb was going backwards and forward on that section. Then he pointed at the screen.
+
+"There, the barriers were too dis-"
+
+Maya put a finger on his mouth.
+
+"Shush. Right now I'm celebrating my eighty-eight. We'll dissect the video tomorrow."
+
+Caleb looked at her for a second.
+
+"Alright."
+
+She took out boxes from the takeaway bag and handed Taiga a container of noodles.
+
+"You brought me food to?", Taiga said in surprise.
+
+"Peace offering for invading your personal space."
+
+Seemed fair.
+
+"Thanks."
+
+While the ate, Maya talked a little more about the assessment. Mostly about how much dirt the rainfall rig had managed throw outside the tray. She also said that another student had the entire slope collapsing after the first drops.
+Taiga was sitting at his desk, half-listening all of that while scraping sauce off the lid of his container and scrolling through a nasty Calculus assignment. 
+
+"So, Taiga", said Maya at some point looking at him.
+
+Taiga turned towards her.
+
+"How's living with Caleb? Like, actually."
+
+Taiga shrugged.
+
+"I'm still alive. And so is he."
+
+"Talk about roommates relationship goals. First month without assassination."
+
+"He tried," said Caleb from his container.
+
+"It was a pillow. And you should be thankful I didn't have anything heavier on hand."
+
+"He's not letting that go," Maya giggled.
+
+"His alarm system counts as daily murdering attempt."
+
+"I reduced it on your request."
+
+"Yeah. To four. It went from absurdly insane to insane."
+
+"Three. One of them now just vibrates."
+
+"That doesn't lower the insanity score."
+
+Maya laughed.
+
+"Oh my God, this is exactly how I imagined being Caleb's roommate was."
+
+Taiga looked ad her.
+
+"Waking up everyday with murderous intentions?"
+
+"Yeah. Pretty much."
+
+Caleb seemed totally unfazed. He kept eating his noodles with unnerving calm.
+Maya pointed at Taiga's weekly schedule on his cork board.
+
+"What's on Thursday?"
+
+Taiga looked. He had circled Thursday with a thick marker. 
+
+"Soccer stuff."
+
+Caleb glanced over. 
+
+"You don't usually circle soccer stuff like that."
+
+"There we go."
+
+"Is it an important match?", asked Maya.
+
+"No, I got the final review. They're gonna tell me if I stay or not."
+
+Cale stared for a second.
+
+"You didn't tell me."
+
+Taiga shrugged, "Now you know."
+
+Maya pointed at Caleb.
+
+“He's offended.”
+
+“I am not offended.”
+
+“You have the offended forehead.”
+
+Taiga looked at him. Caleb frowned.
+
+“What is an offended forehead?”
+
+Maya touched the space between his eyebrows.
+
+“This.”
+
+Caleb moved her hand away.
+
+“That is just my forehead.”
+
+Taiga and Maya laughed, Caleb eventually smiled as well.
+She turned to Taiga:
+
+"You worried?"
+
+He didn't even try to brush it off.
+
+"Yeah."
+
+"Do you think they have reasons to kick you?"
+
+Taiga shrugged, "I don't know."
+
+She turned towards Caleb. Without being asked anything he said:
+
+"He's played recently in a match for the first time. He keeps saying that coach yells at him."
+
+He looked for a second outside the window.
+
+"Yes. Nothing he has described indicates that they have reduced his involvement."
+
+"I don't tell you everything."
+
+"Do you have any information that could indicate otherwise?"
+
+Yes. He had a lot, actually. He was a bomb with legs, he kept going in wrong spaces, chased too much, rushed to fix stuff, hesitated to-
+
+"What happens if they actually kick you?", Maya asked at some point.
+
+Taiga snapped out. 
+
+"What? What you mean what happens?"
+
+"To you. I mean, what would you do?"
+
+He blinked and frowned. The question was too obvious. 
+
+"What would I do? Go back to-"
+
+Taiga paused a second. Go back to what exactly?
+Caleb was looking at him, waiting for the missing piece of information. 
+Maya, on the other hand, just kept eating. She just glanced at him from time to time.
+
+Taiga looked again at the weekly schedule. His eyes landed on "Practice" before the circled 5:30 slot.
+
+It had became as routine as classes. Deleting every "Practice" session would mean loosing half of his Olympus involvements. 
+
+He exhaled.
+
+"I simply got used to it. Being there, practice."
+
+Maya's expression softened.
+
+“Yeah,” she said. “Then I get why you're nervous.”
+
+“Now can I celebrate the eighty-eight?”
+
+Caleb looked at the paused runoff video.
+
+“Yes.”
+
+“Without analysis?”
+
+Caleb paused.
+
+“For how long?”
+
+Maya looked at Taiga.
+
+“See what I deal with?”
+
+“You voluntarily date him.”
+
+“I know.”
+
+Taiga laughed and went back to his food.
