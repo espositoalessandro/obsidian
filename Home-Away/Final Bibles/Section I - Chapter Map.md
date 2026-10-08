@@ -132,7 +132,7 @@ This still does **not** begin the later nervous-crush phase. Chapter 5 establish
 
 ---
 
-## Chapter 6 — Earned Place
+## Chapter 6 — Going downstream
 
 ### Dramatic role
 
@@ -148,7 +148,7 @@ The development review gives the football thread an institutional answer. Academ
 
 If the 74/100 academic thread begins in Chapter 4, this chapter is a natural place for meaningful payoff or visible improvement.
 
-Do not make improvement total. "Earned place" is not the same as "everything is easy now."
+Do not make improvement total. Earning a place is not the same as "everything is easy now."
 
 Caleb and Maya should receive meaningful domestic space here. Maya needs to become a person Taiga actually spends time with, not merely Caleb's girlfriend on a screen, while Caleb's roommate relationship with Taiga should remain active as the football plot grows.
 
