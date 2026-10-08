@@ -669,9 +669,9 @@ Mercer picked up the sheet.
 
 "You've improved faster than I expected. Especially since the provisional review. You actually used the information I gave you."
 
-He lowered his ends.
+He lowered his hands.
 
-"That's what I said to the Olympus Soccer Office. Just to be clear, the last word was theirs. And they agreed with me on keeping you."
+"That's what I recommended to the Soccer Office. They approved it."
 
 An image of several people in suits talking about whether to keep or kick him formed in his mind. Taiga dismissed it immediately because it was making him sick.
 
@@ -683,11 +683,11 @@ Taiga nodded.
 
 Mercer put the sheet down.
 
-“The bigger improvement is what happens after you make a mistake.”
+“It's interesting what happens now after you make a mistake.”
 
 Taiga looked up.
 
-"I saw what you did on Saturday. You entered and panicked. You were late to pictures. Late to pressure. Trying to read five things at once."
+"I saw what you did on Saturday. You entered and immediately tried to read five things at once. You were late seeing the picture. Late to pressure."
 
 He stopped. Taiga said:
 
