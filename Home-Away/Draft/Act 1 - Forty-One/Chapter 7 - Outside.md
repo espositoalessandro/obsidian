@@ -1,22 +1,380 @@
-Taiga learned the main mess hall was called **The Oyster** seven weeks after he started eating there. Caleb corrected him over breakfast.
+By the eighth week of the semester, Taiga had developed a reliable method for identifying university emails that would ruin his day. They used words like **opportunity**. Or **engagement**. Or **planning**. The worst ones used all three. He was halfway through breakfast at The Oyster when the phone vibrated beside his tray.
 
-“I'm getting a table before the main dining hall becomes unbearable.”
+**ACADEMIC ADVISING REMINDER**
 
-“The Oyster.”
+Taiga looked at the notification. Ignored it. A second banner appeared underneath.
 
-Taiga looked at him. “What?”
+**Your first-year program planning appointment is today at 14:30. Please review your current academic pathway and intended course selections before attendance.**
 
-“The main dining hall is called The Oyster.”
+He stared at it. Caleb looked up from his oatmeal.
 
-“I know what it's called.”
+“What happened?”
 
-“You didn't use the name.”
+“Nothing important.”
 
-“The Oyster is a stupid name.”
+“You stopped eating.”
 
-Caleb considered. “I don't disagree.”
+“Academic advising.”
 
-They found a table near the windows, early enough that the noise stayed tolerable. By now Taiga knew which parts of campus filled first and three better ways to reach Political Institutions than the app suggested.
+Caleb nodded as if this explained something sensible. Taiga opened the message. There was a link. Of course there was. The link opened the university app, which displayed his current semester in a clean grid that somehow made four classes look like a legal accusation.
+
+**Political Institutions**
+
+**Calculus I**
+
+**General Chemistry I \+ Lab**
+
+**Foundations of Computer Science**
+
+Taiga looked at the last one. Then at the first. Then back. Caleb ate another spoonful of oatmeal.
+
+“You forgot you had advising?”
+
+“No.”
+
+“Then why do you look annoyed?”
+
+“Because they're going to ask what I want to major in.”
+
+“You knew they were going to ask that eventually.”
+
+“That doesn't make the question less stupid.”
+
+Caleb looked at him.
+
+“Why is it stupid?”
+
+“Because I've been here eight weeks.”
+
+“You knew what economics was before eight weeks.”
+
+“That isn't the same.”
+
+“No.”
+
+Taiga waited. Caleb continued eating. Sometimes talking to him felt like working with a machine that only returned exactly the data requested. Taiga leaned back.
+
+“They want me to pick something that controls half my classes for the next three years.”
+
+“You can change majors.”
+
+“People keep saying that as if changing everything later is free.”
+
+“It is not free.”
+
+“That's exactly it.”
+
+“It is also not irreversible.”
+
+Taiga frowned. Caleb had, infuriatingly, chosen the reasonable middle.
+
+“Whose side are you on?”
+
+“I didn't know there were sides.”
+
+“There are always sides.”
+
+Caleb considered.
+
+“That sounds exhausting.”
+
+“It is.”
+
+He looked at Taiga's phone.
+
+“What are you considering?”
+
+Taiga locked the screen. Caleb's eyes flicked to it, then back to his breakfast. Taiga said, “No commentary.”
+
+“I had none.”
+
+“Excellent.”
+
+Then looked toward Taiga's backpack. A corner of a green notebook protruded from the front pocket. On the cover, in Taiga's handwriting:
+
+**CS — Rao**
+
+Caleb returned to his oatmeal. Taiga noticed the glance.
+
+“If you're about to turn that into data, don't.”
+
+Caleb looked back at his food.
+
+“I was checking the time.”
+
+“You're a liar.”
+
+“Possibly.”
+
+“Yes.”
+
+“That's worse.”
+
+“I was not aware looking had a hierarchy.”
+
+Taiga drank coffee. The problem was that Caleb had evidence. Too much of it. Taiga had chosen Foundations of Computer Science because it sounded useful. That had been the official explanation. The unofficial explanation was that he already knew enough programming not to start from zero.
+
+He had taught himself bits of code over the years whenever there was something he wanted a computer to do. Small scripts. A few web projects. Then Jin came back to Camp Buddy as a scout during Taiga's third summer. They had met during the renovation, but coding had never really come up; Jin had been busy with the camp's systems, Taiga mostly with the physical work. That summer it did. Jin discovered Taiga knew just enough to be dangerous and, over a few slow afternoons, showed him the parts he had mostly been brute-forcing on his own: cleaner Python, Git that went beyond treating commits like save points, how to read somebody else's code before changing it, how to debug without randomly poking at things until something worked. Taiga kept going from there. By the time Olympus started, he knew enough JavaScript and Python to be comfortable opening an unfamiliar file without immediately wanting to die, and enough Git to understand what Mia had done to her repository and, with some digging, help undo it. That did not make him an expert.
+
+The placement assessment during summer orientation had made that very clear. He had done well on the practical sections and then hit several questions about things he had only ever used without knowing the proper names for them. Still, it had been enough to skip the absolute-beginner programming class. Efficient. Then Professor Rao had started taking ordinary things Taiga thought he understood and showing him the parts he had been getting away with not understanding.
+
+That had complicated the situation. Caleb finished his oatmeal.
+
+“What do you have before advising?”
+
+“Computer Science.”
+
+“Convenient.”
+
+Taiga looked at him.
+
+“Why?”
+
+“You will have recent information.”
+
+“About what?”
+
+“Whether you like Computer Science.”
+
+Taiga frowned.
+
+“That isn't how majors work.”
+
+Caleb picked up his tray.
+
+“How do they work?”
+
+Taiga opened his mouth. Nothing useful came out. Caleb waited. Then:
+
+“That's what I thought.”
+
+“Fuck you.”
+
+“I have economics at nine.”
+
+“You're not even in my economics class.”
+
+“I know.”
+
+“Then why did you mention it?”
+
+“Because I am leaving.”
+
+Caleb stood. Taiga stared.
+
+“Sometimes I genuinely hate talking to you.”
+
+Caleb adjusted his bag.
+
+“I don't think that's true.”
+
+“Get out.”
+
+“I was already leaving.”
+
+He walked away. Taiga watched him go. Then unlocked the phone again. The advising message remained there. Under **Current Program**:
+
+**UNDECLARED**
+
+Taiga closed it. Later.
+
+---
+
+Academic advising occupied a suite on the second floor of the University Center. Taiga arrived six minutes early. The waiting area had soft chairs, university brochures and a wall display showing smiling students engaged in activities no real student had ever performed while smiling.
+
+**FIND YOUR PATH**
+
+Taiga looked away. His advisor opened the door at exactly 2:30.
+
+“Taiga?”
+
+He stood. Dr. Elena Park was a small woman with silver-framed glasses and a phone in one hand. They had met once during orientation. Taiga remembered almost nothing about the conversation except that she had said **exploration is productive**, which sounded like something the university paid people to say. Her office had two plants and no motivational posters. Good start.
+
+“Come in.”
+
+Taiga sat. Park opened his record.
+
+“How's the semester going?”
+
+“All right, fine.”
+
+She nodded and looked at the screen.
+
+“Your midterm reports are solid. Political Institutions improved significantly after the first paper. Calculus is going well. Chemistry says your lab work is accurate when you remember that the procedure is not a personal insult. And Professor Rao noted that you're comfortable with the programming work and engage well in class.”
+
+Taiga's attention snagged.
+
+“Chemistry says what?”
+
+Park's mouth twitched.
+
+“I paraphrased that one.”
+
+“Okay.”
+
+She turned the screen slightly. Rao's note was visible.
+
+**Solid practical background; asks useful questions; sometimes overcomplicates solutions. Encourage further CS coursework if interested.**
+
+Taiga stared at the middle phrase.
+
+“Sometimes?”
+
+“I assume you disagree with the frequency rather than the accusation.”
+
+Taiga looked away.
+
+“Maybe.”
+
+Park folded her hands.
+
+“You're still listed as undeclared. That's completely normal. Today isn't about forcing a declaration. I mainly want to make sure next semester keeps useful options open.”
+
+Better word. She opened the course-planning page.
+
+“What classes have you liked?”
+
+“Liked?”
+
+“Yes.”
+
+“That seems subjective.”
+
+“It is.”
+
+He stared at her. Park waited. Taiga looked at the four names on his record. Political Institutions. Interesting when Hall wasn't grading him. Calculus. Satisfying when the algebra stayed out of the way. Chemistry. Annoying in a completely different direction. Too much waiting. Too many opportunities to ruin an otherwise correct calculation with one wet cylinder. Computer Science. He thought about the registry bug from that morning. He should have been annoyed. He was annoyed.
+
+He also wanted to know what other mistakes he had been making for years without noticing.
+
+“Computer Science is good.”
+
+Park nodded.
+
+“What about it?”
+
+Taiga shrugged.
+
+“I already knew some programming.”
+
+“That wasn't my question.”
+
+“I know.”
+
+He looked toward the window.
+
+“I thought it would mostly be stuff I already knew. It's not.”
+
+“Is that good or bad?”
+
+“Both.”
+
+Park waited. Taiga sighed.
+
+“I like that there are reasons behind things I used to just do because they worked. Then sometimes I find out my reason was wrong.”
+
+“That sounds like learning.”
+
+“That sounds like a brochure.”
+
+“It does.”
+
+Taiga smiled despite himself. Park asked, “Do you like it enough to take more?”
+
+“Yeah.”
+
+The answer came too quickly to pretend otherwise. Park opened his saved courses. Taiga immediately regretted using the favorite button.
+
+**Data Structures**
+
+**Discrete Structures**
+
+**Calculus II**
+
+**General Chemistry II**
+
+There were others lower down—Digital Media Studio, Urban Data and Networks—but those four were already marked for spring. Park looked at him.
+
+“You've done most of my job.”
+
+“I was looking.”
+
+“I can see that.”
+
+She opened the prerequisite map.
+
+“If you want to preserve the option of a Computer Science major, Data Structures and Discrete Structures are the sensible pair. Calculus II continues the sequence. Chemistry II finishes the year sequence you've already started.”
+
+“So all STEM.”
+
+“You chose them.”
+
+Taiga looked at the grid. That was true. Fall had happened almost by accident. A little of everything because he hadn't known what direction he wanted. The spring schedule looked much less accidental. Park built a draft.
+
+Monday and Wednesday were fine. Tuesday looked hostile. Thursday included a chemistry lab that ate most of the afternoon. Friday morning only. Taiga stared at it.
+
+“Why is every good section on Tuesday?”
+
+“Because the universe dislikes you personally.”
+
+Taiga looked at her. Park smiled.
+
+“I am allowed one joke per appointment.”
+
+“That was your one?”
+
+“Unfortunately.”
+
+He almost laughed. Park saved the draft.
+
+“You can remain undeclared through registration if you want. If you decide on Computer Science before then, declaration gives you a department advisor and makes some planning cleaner. There is no prize for declaring early.”
+
+Taiga looked at the button.
+
+**DECLARE PROGRAM**
+
+Blue. Harmless.
+
+“What if I change my mind?”
+
+“Then you change it.”
+
+“That simple?”
+
+“Administratively? Usually.”
+
+“Academically?”
+
+“That depends how long you wait and what you change to.”
+
+There. Actual answer. Taiga nodded. Park continued, “You don't need to decide whether Computer Science is what you want for the rest of your life. You only need to decide whether it's the direction you want to explore more seriously next.” Taiga frowned.
+
+“That still sounds like advisor propaganda.”
+
+“It is literally my job.”
+
+He laughed. She smiled.
+
+“Let's leave you undeclared for now. You can submit the form whenever you want.”
+
+Taiga looked at the spring schedule again. Data Structures. Discrete Structures. Calculus II. Chemistry II. He wanted the first two badly enough that the question had become annoying. Park closed his record.
+
+“Anything else?”
+
+“No.”
+
+“Then you're done.”
+
+Taiga stood. At the door, Park said, “For what it's worth, being unsure doesn't make the interest fake.” Taiga looked back. Park raised one hand.
+
+“That was an advisor sentence. You may ignore it.”
+
+“Probably will.”
+
+“I expected that.”
+
+He left.
+
+---
 
 Caleb stirred his oatmeal. “Maya wants to go to Acropolis Park Sunday.”
 
@@ -81,254 +439,6 @@ Caleb immediately updated something on his phone.
 Taiga closed his eyes. Caleb had him there.
 
 “Eight-forty-two.”
-
-Professor Hall gave them twelve minutes to argue about emergency powers. This was either a teaching method or a trap. Taiga had stopped trying to distinguish the two.
-
-“Your side has to defend the proposition,” Hall said, moving between the rows. “I don't care whether you personally agree with it. In fact, if you hate your assigned position, good. You might learn something.”
-
-Nora looked at the prompt on her screen. Then at Taiga.
-
-“We're defending?”
-
-“Apparently so.”
-
-“I hate this already.”
-
-“You haven't read it.”
-
-“I can hate efficiently.”
-
-Taiga smiled. Their side had to defend broad executive authority during emergencies. Nora leaned closer.
-
-“Okay. We need to define emergency before we do anything else, because otherwise Adrian is going to spend ten minutes accusing us of defending dictatorship.”
-
-Three rows away, Adrian heard his name.
-
-“I heard that.”
-
-Nora raised her voice slightly.
-
-“You were supposed to.”
-
-Hall clapped once.
-
-“Discuss with your own groups before launching cross-room litigation.”
-
-The room broke into smaller conversations. Taiga opened the reading. Nora started speaking before he'd reached the second paragraph.
-
-“If we make the argument procedural rather than substantive, it's easier. Temporary concentration of authority can be justified if the ordinary process is too slow, but then we need hard limits afterward.”
-
-Taiga shook his head.
-
-“That gives the other side the entire argument. They'll say the hard limits fail exactly when executive power is strongest.”
-
-“Well, yes. That's the problem.”
-
-“We're supposed to defend it.”
-
-“I know. I'm not emotionally enjoying this.”
-
-“You don't need to emotionally enjoy constitutional structure.”
-
-“That sentence explains a lot about you.”
-
-Taiga ignored her. The student on Nora's other side, Leah—not Jess's Leah, apparently Olympus had exceeded the safe number of people with the same name—looked between them.
-
-“What if the argument is that ordinary institutions don't disappear? They temporarily delegate.”
-
-Taiga turned.
-
-“That's better.”
-
-Nora nodded.
-
-“Yeah. Then legitimacy still comes from the existing structure.”
-
-“But only if the delegation is specific,” Taiga said. “If it's just ‘do whatever is necessary,’ that's not delegation. That's surrender.”
-
-Leah typed. Nora looked at Taiga.
-
-“Five minutes ago you were half asleep.”
-
-“What?”
-
-“Now you're halfway over the desk.”
-
-Taiga looked down. He was.
-
-“I'm sitting.”
-
-“Barely.”
-
-Hall passed behind them.
-
-“Ms. Patel is correct, Akatora. You become physically argumentative.”
-
-Nora covered her mouth. Taiga turned.
-
-“Is that an academic term?”
-
-“It is now.”
-
-Hall kept walking. Taiga stared after him.
-
-“I hate this class.”
-
-Nora laughed.
-
-“No, you really don't.”
-
-The debate started ten minutes later. It went badly. Then well. Then badly again. Adrian did, in fact, accuse their side of building a constitutional dictatorship. Nora objected to his wording. Taiga objected to his premise. Leah rescued both of them by returning to institutional delegation.
-
-By the end, Hall had written six competing conditions on the board and nobody seemed entirely sure who had won. Which, Taiga was beginning to understand, was usually the point. After class, Nora shoved her laptop into her bag.
-
-“Lunch Wednesday still happening?”
-
-“Yes.”
-
-“Good.”
-
-They walked into the hall. Students poured around them toward the staircases. Nora asked, “Have you actually been into Olympus City yet?” Taiga looked over.
-
-“For what?”
-
-“That answer means no.”
-
-“I've been off campus.”
-
-“Soccer doesn't count.”
-
-“Why?”
-
-“Because being driven to another field by the university is not going into the city. Have you gone somewhere because you wanted to?”
-
-Taiga thought. The pub by the east gate. Technically outside university property.
-
-“That pub.”
-
-“The one twenty meters from the gate?”
-
-“Yes.”
-
-Nora stared.
-
-“That barely counts either.”
-
-“You're inventing rules.”
-
-“I'm trying to establish whether you've spent seven weeks living in a university terrarium.”
-
-Taiga pushed open the stairwell door.
-
-“I have things here.”
-
-“So does everybody. We still leave.”
-
-“Caleb and Maya are dragging me to Acropolis Park Sunday.”
-
-Nora stopped halfway down one step.
-
-“Are you serious?”
-
-“What is it?”
-
-“You agreed to a hike?”
-
-“Why is that surprising?”
-
-“You spend most of your free time at Athletics or the library.”
-
-“So?”
-
-“Nothing. The lower paths get crowded, but once you go uphill it's much quieter. My sister took me to the old ruins last year.”
-
-She continued downward.
-
-“You've been?”
-
-“Several times. Take water.”
-
-“No shit.”
-
-“And decent shoes.”
-
-“Nora.”
-
-“What?”
-
-“I worked at an outdoor camp.”
-
-She blinked.
-
-“You did?”
-
-Taiga frowned.
-
-“I told you that.”
-
-“No, you told me you worked at a camp. You never specified what kind.”
-
-“Scouts.”
-
-“Oh. Right.”
-
-“What?”
-
-“You fixed Jess's backpack buckle with a paperclip at the pub. I was wondering where that came from.”
-
-“It was broken.”
-
-“That was apparently enough.”
-
-“Yeah.”
-
-Nora laughed. They reached the bottom of the stairs.
-
-“If you like Acropolis, we should do Agora sometime. Completely opposite experience.”
-
-“The giant shopping complex?”
-
-“Cinema, arcade, food, shops. It isn't just retail hell.”
-
-“That sounds exactly like retail hell with entertainment attached.”
-
-“It mostly is.”
-
-Taiga smiled. Nora adjusted her bag.
-
-“Anyway. Wednesday at one.”
-
-“I know.”
-
-“Starbuffs?”
-
-Taiga made a face.
-
-“The coffee there is overpriced.”
-
-“You paid eight dollars for an avocado sandwich.”
-
-“That was one time.”
-
-“Starbuffs.”
-
-“All right, fine.”
-
-“See you.”
-
-She walked toward the east corridor. Taiga headed the other way. Halfway to calculus, his phone buzzed.
-
-**Nora:** WATER. SHOES.
-
-Taiga stared. Then typed:
-
-**Taiga:** die
-
-Her reply came immediately.
-
-**Nora:** sunscreen too :)
-
-Taiga put the phone away.
 
 ---
 
@@ -516,6 +626,8 @@ At 8:14, he left. Scott said later. Gav nodded. Enzo shouted that forty-one owed
 
 Taiga walked back toward the Residential Zone alone.
 
+---
+
 Starbuffs coffee was, objectively, too expensive. Nora bought one anyway. Taiga bought tea out of protest and immediately regretted it because the tea was also expensive. They took their drinks outside. Central Park was damp from morning rain. Students occupied benches along the paths, some studying, most pretending. Nora blew across the top of her cup.
 
 “So, are you going to tell me why your soccer team apparently has a frat house?”
@@ -699,106 +811,6 @@ Nora smiled.
 “Fake maybe.”
 
 “Yeah.”
-
----
-
-Saturday's reserve match was boring. Taiga had not known how much he wanted a boring match until he got one. Easton seemed perfectly happy to make it boring too: stay compact, wait, turn every free kick and corner into an event. The first half ended 0–0. Taiga sat on the bench. This bothered him for twelve minutes. He had started the previous fixture. Mercer had retained him. He had spent all week training well. And now bench. His brain began constructing explanations. Rotation. Maybe. Or he had looked worse on film than Mercer said.
-
-Or another player had moved ahead. Or— Aaron sat beside him.
-
-“You're doing the thing.”
-
-Taiga looked over.
-
-“What thing?”
-
-“Watching Mercer every time he writes something.”
-
-“I am watching the match.”
-
-“You're watching his clipboard.”
-
-Taiga frowned.
-
-“Mind your business.”
-
-Aaron leaned back.
-
-“You know we're rotating, right?”
-
-“I know.”
-
-“Okay, then.”
-
-Taiga looked at the field. Thirty seconds passed. Aaron continued, “Because you look like you think you've been demoted to civilian.”
-
-“I said I know.”
-
-“All right, fine.”
-
-Another minute. Taiga sighed.
-
-“Did Mercer say something?”
-
-Aaron looked over.
-
-“About you?”
-
-“Yes.”
-
-“No. He told us Thursday he's rotating the front line because several people need minutes.”
-
-Taiga stared at the field.
-
-“Oh, right.”
-
-Aaron smiled.
-
-“Would you like me to pretend we never had this conversation?”
-
-“Yeah, I would.”
-
-“Done.”
-
-Halftime remained 0–0. Mercer made three changes at fifty-five. Not Taiga. At sixty-two:
-
-“Akatora.”
-
-Taiga was already standing. He stripped off the bib. Mercer pointed to the left.
-
-“Same job as film. Stay wide. Their fullback keeps following people inside and leaving you alone.”
-
-Taiga nodded.
-
-“Got it.”
-
-He entered. The first five minutes were ordinary. A pass backward. A press. One bad touch that went out. Taiga swore. Then moved on. At seventy-one, Apollo built down the right. Taiga stayed wide left. Everything in him wanted to run inside. The box looked open. The center-forward moved near post. The opposite winger came central. Taiga waited. Defender looked toward him. Stayed. Ball recycled backward. Switched. Now. Taiga received with fifteen yards of grass.
-
-He drove. Fullback closing. Could attack. Could cross early. He saw the midfielder arrive late at the edge. Cut back. Pass. Shot. Saved. Corner. Nothing happened from the corner. Mercer shouted from the sideline:
-
-“GOOD, FORTY-ONE\!”
-
-Taiga jogged back. Good for standing still. Again. Absurd sport. At seventy-eight, he lost the ball trying to turn. Tracked back. Forced the opponent wide. Didn't tackle. Didn't need to. Pass went backward. Sofia's advice returned. Sometimes force them somewhere. At eighty-four, Easton scored from a corner. Apollo equalized in stoppage time through a center-back Taiga barely knew. Final 1–1. No assist. No goal. Taiga played twenty-eight minutes and did several things correctly.
-
-In the locker room, Mercer passed him while Taiga was untying his boots.
-
-“You finally learned how to stand still.”
-
-Taiga looked up.
-
-“That sounds insulting.”
-
-“It isn't.”
-
-Mercer kept walking. Taiga smiled. Aaron sat down beside him.
-
-“High praise.”
-
-“Apparently so.”
-
-Across the room, Enzo was arguing that the equalizer should count as an assist for him because his blocked shot had led to the corner two minutes earlier. Gav told him to stop committing fraud. Scott, who had played first team rather than reserves that day, was only there to collect something from his locker. Leo wasn't there at all. First team had an away fixture later that afternoon. Taiga looked toward Leo's locker before remembering.
-
-Then he showered. Got dressed. Went back to campus.
 
 ---
 
