@@ -31,7 +31,7 @@ Taiga blinked.
 
 "It spread anyway, apparently."
 
-Professor Hall entered and conversation across the room died quickly. He was carrying a stack of papers that for some reason made Taiga's stomach drop.
+Professor Hall entered and conversation across the room died quickly. He was carrying a stack of papers that made Taiga's stomach drop.
 
 “Before we start, I've returned the first midterm essays.”
 
@@ -294,7 +294,7 @@ Okay. Leo was objectively attractive. So what?
 Still, irrelevant. Plenty of hot guys out there. Leo was simply the easiest option his brain could provide when it needed one.
 End of the story.
 
-His phone buzzed on the table. Taiga looked at the screen without picking it up.
+His phone buzzed on the table. Taiga stared at the screen without picking it up.
 Incoming mail from Apollo Soccer Club.
 The header read:
 
@@ -477,7 +477,7 @@ Maya laughed.
 
 "Oh my God, this is exactly what I imagined being Caleb's roommate would be like."
 
-Taiga looked at her.
+Taiga raised an eyebrow.
 
 "Waking up every day with murderous intentions?"
 
@@ -488,7 +488,7 @@ Maya pointed at Taiga's weekly schedule on his cork board.
 
 "What's on Thursday?"
 
-Taiga looked. He had circled Thursday with a thick marker. 
+Taiga turned. He had circled Thursday with a thick marker. 
 
 "Soccer stuff."
 
@@ -624,7 +624,7 @@ For a brief moment, he wished Eduard was there to smack some sense into him agai
 Taiga looked at the time: 5:07. He took a deep breath and began walking towards the administrative buildings.
 
 At 5:24, he was sitting outside Mercer's office. A developmental player was already inside, while the one Leo said was probably being kicked was sitting a couple of chairs beside him. 
-He looked extremely relaxed: legs crossed, scrolling his phone, chewing gum. 
+He seemed extremely relaxed: legs crossed, scrolling his phone, chewing gum. 
 
 Taiga didn't know if he simply didn't care or if he was actually confident.
 
@@ -683,35 +683,27 @@ Taiga nodded.
 
 Mercer put the sheet down.
 
-“It's interesting what happens now after you make a mistake.”
+“It's interesting what happens now after you make a mistake.” He continued. "I saw what you did on Saturday. You entered and immediately tried to read five things at once. You were late seeing the picture. Late to pressure."
 
-Taiga looked up.
-
-"I saw what you did on Saturday. You entered and immediately tried to read five things at once. You were late seeing the picture. Late to pressure."
-
-He stopped. Taiga said:
-
-"Yeah."
+Taiga grimaced. "Yeah."
 
 "Then what happened?"
 
-Taiga knew what he meant.
+He knew what he meant.
 
 “I simplified.”
 
 “You played boring.”
 
-Taiga made a face.
-
-Mercer ignored it.
+Taiga made a face. 
 
 “Simple pass. Recover. Check your shoulder. Move again. You stopped trying to solve the whole match at once. After that, you started seeing space before it disappeared.”
 
-Taiga said nothing.
+He said nothing.
 
 “The bigger improvement is what happens when something goes wrong. First week, one bad action changed your next three decisions. Now I can usually get you back in the game with one instruction, sometimes none.”
 
-Taiga leaned back slightly. He finally found the courage to actually speak.
+Taiga leaned back slightly.
 
 “That's a very low standard.”
 
@@ -721,11 +713,11 @@ Mercer's tone sharpened.
 
 “A lot of players never learn that. They just get talented enough that people tolerate it longer.”
 
-Taiga looked down at the sheet.
+He pointed at the sheet.
 
 “You make the same mistake twice sometimes. Rarely three times. That's coachable. And that's what I want.”
 
-Taiga remained silent for a couple of seconds.
+Taiga remained silent for a while.
 
 "Do I stay developmental?"
 
@@ -753,15 +745,15 @@ Mercer slid the sheet across the desk.
 
 “Anything you want to ask?”
 
-Taiga looked at the word **retained** beside his name.
+Taiga looked at the word *retained* beside his name.
 
 “Not right now.”
 
 Mercer leaned back.
 
-“You're allowed to leave now.”
+“Good. You can go.”
 
-Taiga stood. Hand on the door.
+Taiga stood. His hand was on the door's handle when he turned.
 
 “Coach?”
 
@@ -824,7 +816,8 @@ Taiga looked at Enzo. His expression remained grave.
 
 Taiga narrowed his eyes, but said nothing and went back to get changed. 
 
-Training felt different. His skill didn't obviously magically improve, although his mind was clearer than usual.
+Training began as usual. His skill didn't obviously magically improve, although his mind felt clearer.
+
 Mercer's corrections were just corrections now, not death sentences.
 
 A few weeks earlier, Taiga would have remembered only whether the pass had worked.
@@ -886,7 +879,7 @@ Apparently, they were discussing rules about offside. The kid said it was a stup
 Somehow, he got swallowed by the kids and ended up showing them offside examples with Leo.
 
 This was... different. Fun. 
-He never considered soccer fun until now. It was always a test. Performance. Improvement.
+He never considered soccer fun until now. It was always about test, performance, improvement.
 
 Taiga watched Leo putting the kids in line and making them practice finishes. It wasn't a different version of him. He had the same volume, same energy, same habit of remembering things people had told him.
 
@@ -901,7 +894,7 @@ Taiga was smiling without realizing it, but Leo noticed.
 
 "You were having fun, admit it."
 
-Taiga considered for a couple of seconds.
+Taiga considered.
 
 "They're tolerable."
 
@@ -910,8 +903,6 @@ Taiga considered for a couple of seconds.
 "Kids? Yeah, sometimes at camp this summer."
 
 "Camp?"
-
-Taiga looked at him.
 
 "Scout camp."
 
