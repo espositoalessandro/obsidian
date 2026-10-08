@@ -1116,240 +1116,206 @@ Taiga let them.
 
 ---
 
-Saturday training began with Leo handing Scott a coffee.
+Saturday morning, Enzo was waiting beside Taiga's locker with the expression of someone about to announce a public execution.
 
-Scott looked at the cup, then at Leo.
+"Akatora."
 
-“You remembered.”
+Taiga stopped.
 
-Leo stared. “Why does everybody sound surprised when I remember things?”
+Enzo folded his arms.
 
-From the next bench, Enzo said, “Because you forgot my order three weeks ago.”
+"As a newly welcomed member of Apollo, you are now required to undergo the traditional initiation rite."
 
-“You changed it.”
+Taiga stared at him.
 
-“I added vanilla.”
+"What initiation rite?"
 
-“That changes the order.”
+Aaron, already dressed for training, looked far too interested. Leo was trying not to smile.
 
-“It was one ingredient.”
+Taiga's suspicion increased immediately.
 
-“It was the defining ingredient.”
+Enzo took out his phone.
 
-Taiga sat down and started tying his cleats.
+"Give me your number."
 
-“You actually remembered something.”
+Taiga blinked.
 
-Leo turned. “You too?”
+"That's it?"
 
-“Saturday dinner.”
+"No. That's only how the suffering begins."
 
-“That was one bad night.”
+A few seconds later Taiga's phone vibrated.
 
-Scott took a sip. “Three times that week.”
+**Enzo added you to Apollo Men's Soccer**
 
-Leo looked betrayed. “Why does everyone keep records?”
+Then it vibrated again.
 
-Taiga laughed.
+And again.
 
-“You are not allowed to enjoy this.”
+And again.
 
-“I already am.”
+Messages appeared faster than he could read them. Scott welcomed him. Aaron sent an image Taiga did not understand. Gav told him to mute the chat immediately if he valued sleep. Someone farther up the locker room complained that this defeated the purpose of the initiation. Leo reacted to three different messages before Taiga had even opened the conversation.
 
-Mercer entered before Leo could answer.
+Taiga looked at Enzo.
 
-On the field, the jokes disappeared into instructions. Scott became the loudest person in the session almost immediately.
+"This is the initiation?"
 
-“CARTER, STEP!”
+Enzo's expression remained grave.
 
-“ELLIS, DROP!”
+"You'll understand."
 
-“SECOND BALL!”
+By the time Mercer called them outside, Taiga had thirty-seven unread messages.
 
-Enzo shouted almost as much, but never about the same things.
+He muted the chat.
 
-“LEO, IF YOU STEAL MY RUN AGAIN I AM FILING PAPERWORK!”
+Enzo looked genuinely wounded.
 
-“Make a better run!” Leo shouted back.
+---
 
-Gav ignored both of them until Leo's defensive angle opened a lane through midfield.
+Training itself was ordinary.
 
-“Leo. Two steps inside.”
+That was probably why Taiga noticed it so much.
 
-Leo moved without argument.
+The same locker-room noise. The same damp smell from the grass. The same pull of his cleats against the turf when he tightened the laces. Scott becoming twice as loud the moment they crossed the line. Mercer carrying the same clipboard and looking dissatisfied with the existence of everyone equally.
 
-Mercer stopped an eleven-versus-eleven sequence.
+Nothing had changed since Wednesday.
 
-“Akatora. When do you go?”
+Except Taiga no longer spent the session wondering whether any of it was about to disappear.
 
-Taiga looked at the ball.
+For the first time, Mercer's corrections were just corrections again.
 
-“Bad touch.”
+When Taiga opened his body too late during a passing pattern, Mercer told him. Taiga fixed it on the next repetition. When he drifted too wide in the eleven-versus-eleven, Leo called him two steps inside. Taiga moved, the lane opened, and the ball reached him exactly where it was supposed to.
 
-“That's one.”
+He returned it first time.
 
-“Backward pass to the keeper. Slow pass across. Somebody gets it facing their own goal.”
+Leo turned away from pressure and switched play.
 
-Mercer nodded. “And if none of those happen?”
+A few weeks earlier, Taiga would have remembered only whether the pass had worked.
 
-“Wait.”
+Now he noticed the rest of it too. Evan already moving before the switch. Aaron holding the opposite side. Gav pointing without looking up. Scott reorganizing the line behind them. Enzo complaining about a run while making another one anyway.
 
-“Good.”
+He was somewhere inside all of that now.
 
-Play restarted.
+Not important enough to change it. Not good enough to stop being corrected.
 
-Ten minutes later Evan passed Taiga during a stoppage.
+Still there.
 
-“Didn't have to yell at you once.”
+Mercer stopped the next sequence and asked when Taiga should press. Taiga gave him the triggers. Bad touch. Slow pass across. Someone receiving with their back to play.
 
-“Give it time.”
+"And if none of those happen?"
 
-Evan grinned. “Progress.”
+"Wait."
 
-Then he moved off to reset.
+Mercer nodded and restarted the drill.
 
-At the end of training, Taiga stayed to collect cones because he was closest when Mercer asked.
+That was it.
 
-Near the sideline, a youth team was arriving for the afternoon clinic. One boy kicked a ball too hard and it rolled toward Taiga. He trapped it.
+No verdict hidden inside the word. No reason to preserve it for later.
 
-“Sorry!”
+Just good.
 
-“Don't apologize. Just don't blast it into the parking lot.”
+By the end of training, Taiga was tired in the normal way again.
 
-The kid grinned, noticed the number on Taiga's shirt and pointed.
+Evan passed him during the final recovery walk and pointed out that he hadn't needed to yell at him once.
 
-“Forty-one? That's a weird number.”
+"Give it time," Taiga said.
 
-From a few yards away, Leo turned, shoulders shaking.
+Evan grinned and kept walking.
 
-Taiga glared.
+Progress, apparently.
 
-“Go ahead.”
+Taiga stayed behind afterward because Mercer asked for help collecting cones. He didn't mind.
 
-Leo pressed his lips together.
+A youth team had begun arriving for the afternoon clinic by the time he reached the far sideline. One boy kicked a ball too hard and sent it rolling toward him. Taiga trapped it before it reached the parking lot and passed it back.
 
-“I'm being respectful.”
+The kid noticed his shirt.
 
-“You're failing.”
+"Forty-one? That's a weird number."
 
-Another kid spotted him.
+A few yards away, Leo made a sound that was suspiciously close to a laugh.
 
-“Leo!”
+Taiga looked at him.
 
-Leo turned immediately.
+"Don't."
 
-“Hey!”
+Leo raised both hands and went back to unloading a bag of balls.
 
-Two more came over. One of them held a ball against his chest.
+The clinic gradually swallowed him.
 
-“You said you'd show me the turn again.”
+Kids knew Leo already. They called his name from different parts of the field, reminded him of things he'd promised the previous week, demanded demonstrations and disputed his version of the rules. Leo answered all of them as if none of it was particularly difficult.
 
-“I did.” Leo set down the bag of balls he was carrying. “Ball.”
+Taiga kept collecting cones and watched from the edge.
 
-The kid gave it to him.
+Leo showed one kid a turn slowly enough that the movement barely resembled the version he used in matches. When the first attempt went wrong, he reset the ball with his foot and had him try again. The second was still clumsy, but Leo celebrated it anyway.
 
-Taiga kept collecting cones.
+Another kid wanted him to watch a shot. A little girl ran over with one lace undone; Leo crouched, tied it without interrupting the argument he was having with someone else, and sent her back onto the field.
 
-Leo moved a few yards onto the grass and demonstrated slowly instead of at match speed. Plant foot. Shoulder fake. Outside touch. He did it once, then again when the kid asked.
+It wasn't a different version of Leo.
 
-“Your turn.”
+That was probably what Taiga liked about watching it.
 
-The kid tried. The ball rolled too far away.
+Same volume. Same energy. Same habit of remembering things people had told him and acting like they mattered.
 
-“Too big on the touch,” Leo said. “Again. Smaller.”
+Leo caught him watching eventually.
 
-Second try. Better.
+"What?"
 
-“There. That's it.”
+"Nothing."
 
-It wasn't. Not really. The move was still clumsy. Leo reacted as if the kid had just beaten three defenders.
+"You're doing the face."
 
-“See? Again.”
+"What face?"
 
-Another boy interrupted to complain that Leo had promised to watch his shooting too.
+"The one where you're definitely thinking something and pretending you're not."
 
-“I remember.”
+Taiga picked up the last cone.
 
-“You forgot last time.”
+"Your clinic is hostile."
 
-“I was playing a match last time.”
+Leo smiled.
 
-“That's just an excuse.”
+"See? You're learning."
 
-Leo put a hand over his heart.
+He took the cone bag from Taiga and nodded toward the kids.
 
-“This clinic is hostile.”
+"You ever work with them?"
 
-The kids laughed.
+"Kids? Yeah. At camp."
 
-Taiga dropped the last cone into the cart.
+"I figured."
 
-A little girl ran over with one lace undone. Leo crouched without comment, tied it, tugged both loops to check them and said:
+Taiga looked at him.
 
-“Now go ruin somebody's afternoon.”
+"Why?"
 
-She sprinted back toward the field.
+"You didn't baby that kid when he nearly launched the ball into the parking lot."
 
-Taiga smiled.
+"He was eleven."
 
-Leo caught it when he stood.
+"Exactly."
 
-“What?”
+One of the boys called Leo again.
 
-“Nothing.”
+Leo glanced back, then at Taiga.
 
-“You're smiling.”
+"You should help sometime. Mercer is always looking for players."
 
-“Your clinic is hostile indeed.”
+Taiga looked toward the field.
 
-“See? You understand.”
+A kid was trying the same turn again against an orange cone. Too big a touch. Reset. Again.
 
-Taiga grabbed his bag.
+A month earlier, Taiga would have found a reason not to answer.
 
-“You ever work with kids?” Leo asked.
+Now there was a team chat muted in his pocket, his name on Mercer's retained list, and another training session already sitting on next week's schedule.
 
-“Yeah. At camp.”
+"I'll think about it."
 
-“That makes sense.”
+Leo nodded like that was enough.
 
-“What does?”
+"Cool."
 
-“You didn't baby him when he kicked the ball over here.”
+Someone shouted his name again and he jogged back toward the clinic.
 
-“He's eleven, not four.”
+Taiga slung his bag over one shoulder and headed for the exit while Leo argued with an eleven-year-old about whether a shot through the side netting counted as a goal.
 
-“Exactly.”
-
-The kid with the turn called Leo again.
-
-Leo looked back at him, then at Taiga.
-
-“You should help sometime. Mercer is always looking for players for these.”
-
-Taiga glanced toward the field. The kid was trying the turn again against an orange cone. Too big a touch. Reset. Again.
-
-“I'll think about it.”
-
-Leo nodded.
-
-“Cool.”
-
-“LEO!”
-
-“COMING!”
-
-He jogged back toward the clinic.
-
-The kid immediately dragged him toward the goal to adjudicate whether a shot had gone in through the side netting.
-
-“It doesn't count if it went through the hole,” Leo said.
-
-“It went in!”
-
-“Through the side!”
-
-“Still inside the goal!”
-
-Taiga slung his bag over one shoulder.
-
-Behind him, Leo was still arguing with an eleven-year-old about the rules.
+Apparently, it did if you asked the eleven-year-old.
