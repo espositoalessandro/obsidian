@@ -879,7 +879,7 @@ Apparently, they were discussing rules about offside. The kid said it was a stup
 Somehow, he got swallowed by the kids and ended up showing them offside examples with Leo.
 
 This was... different. Fun. 
-He'd never considered soccer fun until now. It had always been a test. Performance. Improvement.
+He'd never considered soccer fun until now. It had always been something he sucked at and had to improve at all costs.
 
 Taiga watched Leo putting the kids in line and making them practice finishes. It wasn't a different version of him. He had the same volume, same energy, same habit of remembering things people had told him.
 
