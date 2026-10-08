@@ -938,7 +938,7 @@ Taiga looked at the field. The sun was setting behind the bleachers, covering ev
 He thought about his locker keys. Apparently, a group chat he couldn't escape. His name on the official Apollo roster, with another training session already sitting on next week's schedule.
 
 Then he looked down at the shirt. 
-His shirt. His number. Not borrowed anymore. Not temporary.
+His shirt. His number. Not borrowed anymore.
 
 "Yeah, I'll think about it."
 
