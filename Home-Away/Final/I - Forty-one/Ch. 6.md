@@ -885,8 +885,8 @@ Apparently, they were discussing rules about offside. The kid said it was a stup
 
 Somehow, he got swallowed by the kids and ended up showing them offside examples with Leo.
 
-This was... different. Funny. 
-He never considered soccer funny until now. It was always a test. Performance. Improvement.
+This was... different. Fun. 
+He never considered soccer fun until now. It was always a test. Performance. Improvement.
 
 Taiga watched Leo putting all children in line and making them practice finishes. It wasn't a different version of him. He had the same volume, same energy, same habit of remembering things people had told him and acting like they always mattered.
 
@@ -935,14 +935,11 @@ Taiga relaxed.
 
 Taiga looked at the field. The sun was setting behind the bleachers, covering everything in an orange light. 
 
-The pitch didn't feel like hostile ground anymore. 
-It was welcoming, actually.
-
 He thought about his locker keys. Apparently, a group chat he couldn't escape.
 His name on the official Apollo roster, with another training session already sitting on next week's schedule.
 
-Then he looked down at his shirt. His shirt. His number. 
-Not borrowed anymore. Not temporary.
+Then he looked down at the shirt. 
+His shirt. His number. Not borrowed anymore. Not temporary.
 
 "Yeah, I'll think about it."
 
