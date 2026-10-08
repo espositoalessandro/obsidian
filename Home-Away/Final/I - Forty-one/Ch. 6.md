@@ -367,7 +367,7 @@ That was a great way to start the week.
 
 ---
 
-The dooming feel of Thursday made the week almost unbearable.
+The looming threat of Thursday made the week almost unbearable.
 
 At practice, every single mistake was another reason for Mercer to kick him out. Anytime Mercer said "Good" was just a reset so that the next mistake could hit again. 
 
@@ -390,7 +390,7 @@ Luckily, nobody at his table fucked up badly enough to affect the general result
 That evening, Maya arrived at room 317 carrying a takeaway bag and a laptop tucked under one arm.
 Taiga opened the door.
 
-"Hi, Taiga! It's good to finally meet you!"
+"Hi, Taiga! It's good to finally meet you in person!"
 
 He almost felt attacked by her wide smile.
 
@@ -398,8 +398,7 @@ He almost felt attacked by her wide smile.
 
 Taiga blinked. "Yeah, I figured. Nice to meet you too."
 
-Then he shifted to let her in. Caleb turned from his desk and a warm smile appeared on his face. Not as wide as Maya's, but enough to surprise Taiga.
-It was so rare to see actual emotions on his face.
+Then he shifted to let her in. Caleb turned from his desk and a warm smile appeared on his face. Not as wide as Maya's, but enough to make Taiga notice.
 
 "So? How did it go?", Caleb asked.
 
@@ -538,17 +537,13 @@ He didn't even try to brush it off.
 
 "Yeah."
 
-"Do you think they have reasons to kick you?"
+"Do you think they have a reason to?"
 
 Taiga shrugged, "I don't know."
 
 She turned towards Caleb. Without being asked anything he said:
 
-"He's played recently in a match for the first time. He keeps saying that coach yells at him."
-
-He looked for a second outside the window.
-
-"Yes. Nothing he has described indicates that they have reduced his involvement."
+"Nothing he has described so far indicates that they have reduced his involvement."
 
 "I don't tell you everything."
 
@@ -578,7 +573,7 @@ It had became as routine as classes. Deleting every "Practice" session would mea
 
 He exhaled.
 
-"I simply got used to it. Being there, practice."
+"I simply got used to it, I guess."
 
 Maya's expression softened.
 
