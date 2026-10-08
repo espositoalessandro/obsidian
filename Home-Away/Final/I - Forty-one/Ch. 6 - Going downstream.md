@@ -1,4 +1,4 @@
-### Chapter 6
+### Chapter 6 - Going downstream
 
 Monday morning was pale and humid. Rain was definitely in the air. October finally managed to wash away what was left of the heat of the summer.
 Dry leaves were beginning to accumulate along the edges of the pavement.
