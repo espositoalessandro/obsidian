@@ -1116,7 +1116,7 @@ Taiga let them.
 
 ---
 
-Saturday morning, Enzo was waiting beside Taiga's locker with the expression of someone about to announce a public execution.
+Friday afternoon, Enzo was waiting beside Taiga's locker with the expression of someone about to announce a public execution.
 
 "Akatora."
 
@@ -1226,7 +1226,7 @@ Progress, apparently.
 
 Taiga stayed behind afterward because Mercer asked for help collecting cones. He didn't mind.
 
-A youth team had begun arriving for the afternoon clinic by the time he reached the far sideline. One boy kicked a ball too hard and sent it rolling toward him. Taiga trapped it before it reached the parking lot and passed it back.
+A youth team had begun arriving for the clinic by the time he reached the far sideline. One boy kicked a ball too hard and sent it rolling toward him. Taiga trapped it before it reached the parking lot and passed it back.
 
 The kid noticed his shirt.
 
