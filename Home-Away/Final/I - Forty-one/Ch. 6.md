@@ -810,7 +810,7 @@ Taiga's suspicion increased immediately.
 
 Enzo took out his phone. "Give me your number."
 
-"That's it?", Taiga blinked.
+"That's it?" Taiga blinked.
 
 "No. That's only how the suffering begins."
 
@@ -818,7 +818,7 @@ A few seconds later Taiga's phone vibrated.
 
 **Enzo added you to Apollo group chat**
 
-Taiga looked at Enzo, his expression remained grave.
+Taiga looked at Enzo. His expression remained grave.
 
 "You'll understand."
 
@@ -851,13 +851,13 @@ Taiga blinked.
 
 "I've never seen it."
 
-A voice came from behind, "It's because we have lots of players."
+A voice came from behind. "It's because we have lots of players."
 
 Leo appeared beside him and the kid immediately lit up. 
 
 "LEO!"
 
-Leo raised one hand, "Hey, Matt."
+Leo raised one hand. "Hey, Matt."
 
 "You promised to show me that move again!"
 
@@ -875,7 +875,7 @@ Leo showed one kid a turn slowly enough that the movement barely resembled the v
 
 Another kid wanted him to watch a shot. A little girl ran over with one lace undone; Leo crouched, tied it without interrupting the argument he was having with someone else, and sent her back onto the field.
 
-"Okay, you know what?", said Leo at some point. "Let's ask number forty-one, shall we?"
+"Okay, you know what?" Leo said at some point. "Let's ask number forty-one, shall we?"
 
 Taiga had just finished collecting all the cones.
 
@@ -893,7 +893,7 @@ Taiga watched Leo putting the kids in line and making them practice finishes. It
 Eventually, their coach called it a day and brought them back on the bus. 
 They watched them running off, still shouting to each other.
 
-Taiga was smiling without realizing, but Leo did.
+Taiga was smiling without realizing it, but Leo noticed.
 
 "You like kids."
 
@@ -925,7 +925,7 @@ Leo brightened up.
 
 "What the fuck does that explain?"
 
-Leo shrugged, "Well, the way you handle kids for example. You don't baby them so much."
+Leo shrugged. "Well, the way you handle kids, for example. You don't baby them so much."
 
 Taiga relaxed.
 
