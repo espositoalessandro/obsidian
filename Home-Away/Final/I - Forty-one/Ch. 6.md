@@ -772,3 +772,177 @@ Mercer looked up.
 Mercer nodded. “You earned the review. Don't thank me for reading it.”
 
 Taiga left before the answer could make him smile too obviously.
+
+---
+
+He told Caleb first because Caleb had asked.
+
+**Taiga:** retained
+
+**Caleb:** Congratulations.
+
+A second message followed.
+
+**Caleb:** I expected that.
+
+Taiga smiled.
+
+Then he dropped the same news into the Camp Buddy chat. The response was immediate enough that his phone became unusable for several minutes. Keitaro called. Hiro shouted. Hunter, Lee and Natsumi congratulated him. Yoichi insulted him and then, badly disguised beneath the insult, said he was proud. Eduard almost cried.
+
+Taiga let them.
+
+---
+
+Friday afternoon, Enzo was waiting beside Taiga's locker with the expression of someone about to announce a public execution.
+
+"Akatora."
+
+Taiga stopped. Enzo folded his arms.
+
+"As a newly welcomed member of Apollo, you are now required to undergo the traditional initiation rite."
+
+Taiga stared at him.
+
+"The fuck?"
+
+Aaron, already dressed for training, looked far too interested. Leo was trying not to smile.
+Taiga's suspicion increased immediately. 
+
+Enzo took out his phone. "Give me your number."
+
+"That's it?", Taiga blinked.
+
+"No. That's only how the suffering begins."
+
+A few seconds later Taiga's phone vibrated.
+
+**Enzo added you to Apollo group chat**
+
+Taiga looked at Enzo, his expression remained grave.
+
+"You'll understand."
+
+Taiga narrowed his eyes, but said nothing and went back to get changed. 
+
+Training felt different. His skill didn't obviously magically improved, although his mind was clearer than usual.
+Mercer corrections were just corrections now, not death sentences.
+
+A few weeks earlier, Taiga would have remembered only whether the pass had worked.
+Now he noticed the rest of it too. Evan already moving before the switch. Aaron holding the opposite side. Gav pointing without looking up. Scott reorganizing the line behind them. Enzo complaining about a run while making another one anyway.
+
+He was somewhere inside all of that now.
+
+By the end of training, Taiga was tired in the normal way again. Mercer asked him to pick up cones and he went. 
+After a couple of minutes, he noticed that Leo and other 3 players hadn't left yet. They were talking near the benches.
+
+A youth team had begun arriving for the clinic by the time he reached the far sideline. One boy kicked a ball too hard and sent it rolling toward him. Taiga trapped it and passed it back.
+
+"Thank you." said the kid.
+
+"No problem."
+
+The he saw the kid pointing at his shirt.
+
+"Forty-one? That's a weird number."
+
+Taiga blinked.
+
+"Why?"
+
+"I've never seen it."
+
+A voice came from behind, "It's because we have lots of players."
+
+Leo appeared on his side and the kid immediately lit up. 
+
+"LEO!"
+
+Leo raised one hand, "Hey, Matt."
+
+"You promised to show me that move again!"
+
+Leo nodded. "Ball."
+
+The clinic gradually swallowed him.
+
+Kids knew Leo already. They called his name from different parts of the field, reminded him of things he'd promised the previous week, demanded demonstrations and disputed his version of the rules.
+
+Taiga kept collecting cones and watched from the edge.
+
+Leo showed one kid a turn slowly enough that the movement barely resembled the version he used in matches. When the first attempt went wrong, he reset the ball with his foot and had him try again. The second was still clumsy, but Leo celebrated it anyway.
+
+"Yes! That was really good, do it again!"
+
+Another kid wanted him to watch a shot. A little girl ran over with one lace undone; Leo crouched, tied it without interrupting the argument he was having with someone else, and sent her back onto the field.
+
+"Okay, you know what?", said Leo at some point. "Let's ask number forty-one, shall we?"
+
+Taiga had just finished collecting all the cones.
+
+"What?"
+
+Apparently, they were discussing rules about offside. The kid said it was a stupid rule. Leo mostly agreed on that, but was trying to explain why it existed. 
+
+Somehow, he got swallowed by the kids and ended up showing them offside examples with Leo.
+
+This was... different. Funny. 
+He never considered soccer funny until now. It was always a test. Performance. Improvement.
+
+Taiga watched Leo putting all children in line and making them practice finishes. It wasn't a different version of him. He had the same volume, same energy, same habit of remembering things people had told him and acting like they always mattered.
+
+Eventually, their coach called it a day and brought them back on the bus. 
+They watched them running off, still shouting to each other.
+
+Taiga was smiling without realizing, but Leo did.
+
+"You like kids."
+
+"What?"
+
+"You were having fun, admit it."
+
+Taiga considered for a couple of seconds.
+
+"They're tolerable."
+
+"You ever work with them?"
+
+"Kids? Yeah, sometimes this summer during camp."
+
+"Camp?"
+
+Taiga looked at him.
+
+"Scout camp."
+
+Leo brightened up.
+
+"No way, you're a scout?"
+
+"Yeah."
+
+"That explains a lot."
+
+"What the fuck does that explain?"
+
+Leo shrugged, "Well, the way you handle kids for example. You don't baby them so much."
+
+Taiga relaxed.
+
+"They won't learn if you treat them like idiots."
+
+"Well, you should help sometime. Mercer is always looking for players for the clinic."
+
+Taiga looked at the field. The sun was setting behind the bleachers, covering everything in an orange light. 
+
+The pitch didn't feel like hostile ground anymore. 
+It was welcoming, actually.
+
+He thought about his locker keys. Apparently, a group chat he couldn't escape.
+His name on the official Apollo roster, with another training session already sitting on next week's schedule.
+
+Then he looked down at his shirt. His shirt. His number. 
+Not borrowed anymore. Not temporary.
+
+"Yeah, I'll think about it."
+
