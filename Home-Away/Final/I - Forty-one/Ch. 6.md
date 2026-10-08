@@ -317,7 +317,7 @@ Someone tapped his shoulder. Nora had her head tilted and was looking at him.
 
 "W-What?"
 
-"I've called you three times. You spaced out. Is everything alright?"
+"I've called you three times. You spaced out, is everything alright?"
 
 "Yeah. Fine. Wonderful."
 
@@ -569,7 +569,7 @@ Maya, on the other hand, just kept eating. She just glanced at him from time to 
 
 Taiga looked again at the weekly schedule. His eyes landed on "Practice" before the circled 5:30 slot.
 
-Practice had become as routine as classes. Delete every “Practice” from the schedule, and half his life at Olympus would disappear with it.
+Practice had become as routine as classes. Delete every “Practice” from the schedule, and half his life at Olympus disappeared with it.
 
 He exhaled.
 
