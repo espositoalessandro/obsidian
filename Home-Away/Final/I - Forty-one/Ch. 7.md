@@ -508,7 +508,7 @@ Gav said, "You complain when parking is more than five minutes from the destinat
 
 "THEY WERE."
 
-"They were upstairs..."
+"They were upstairs."
 
 "Exactly. Unacceptable, right?"
 
