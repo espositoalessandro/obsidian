@@ -1,6 +1,9 @@
 ### Chapter 7
 
 By the eighth week of the semester, Taiga had developed a reliable method for identifying university emails that would ruin his day. They used words like *opportunity*, *engagement* or *planning*. The worst ones used all three. 
+
+[insert Apollo team group chat payoff]
+
 He was halfway through breakfast at The Oyster when the phone vibrated beside his tray.
 
 **ACADEMIC ADVISING OPPORTUNITY**
@@ -246,3 +249,29 @@ Taiga looked back. Park raised one hand.
 "That was an advisor sentence. You may ignore it."
 
 He smiled and left.
+
+On his way out, his phone buzzed in his pocket.
+
+**Caleb:** Maya asked if you're free on Sunday and if you wanted to hike at Acropolis Sunday.
+
+He sent a link to a trail. It wasn't half bad at all.
+
+**Taiga:** how many people?
+
+**Caleb:** If you come, three.
+
+Taiga thought for a minute.
+
+**Taiga:** alright
+
+**Caleb:** Good. Train is at 8:42
+
+**Taiga:** on sunday??
+
+**Caleb:** The next one is more crowded.
+
+He closed his eyes. Caleb had him there.
+
+**Taiga:** fine
+
+---
