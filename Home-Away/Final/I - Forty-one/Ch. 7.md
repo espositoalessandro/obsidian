@@ -275,3 +275,86 @@ He closed his eyes. Caleb had him there.
 **Taiga:** fine
 
 ---
+
+It turned out that Nora's idea for "lunch outside the messhall" was getting an overpriced coffee from Starbuffs and then worrying about where to get food.
+
+"This place is stupid," said Taiga after paying an unreasonable amount of money for a simple black coffee.
+
+"You're supposed to get their other drinks, you know." 
+
+Nora was happily seeping from her cup of something made almost entirely of sugar and milk. 
+
+"I'll consider it when I'll want to get diabetes."
+
+"Well, technically, it's calories. So it's a form of lunch."
+
+"I'm not answering that."
+
+She smiled from her cup.
+
+"So, how's this week treating you?"
+
+Taiga frowned.
+
+"What kind of question is that?"
+
+Nora sighed, "It's called small talk, Taiga. Unless you only want to talk about classes."
+
+He blinked, but couldn't argue with that.
+
+"Alright uh... I'm going on a hike this Sunday."
+
+She raised her eyebrows in surprise.
+
+"Okay I didn't expect that. Where?"
+
+"Acropolis' mountain."
+
+Her face lit up, "Oh!"
+
+"You've been?"
+
+"Several times. My sister likes the ruins."
+
+"I didn't know there were ruins."
+
+"You've never been out of campus, haven't you?"
+
+Taiga shrugged
+
+"Never had a reason to."
+
+"You're missing out then. There's a lot to see out there."
+
+"You go out a lot?"
+
+"Mmm, not a lot really, but sometimes, yeah. My group from [class related to social stuff] likes hanging out. You should come sometime."
+
+"Why is everyone obsessed in making me do stuff?"
+
+Nora rolled her eyes.
+
+"Have you ever considered that maybe people just enjoy spending time with you?"
+
+Taiga froze for a second. That one had landed harder than he'd care to admit.
+
+"People have no survival instinct."
+
+Nora laughed, "Maybe not."
+
+They walked in silence for a minute, then eventually went to get some proper food from a stall at the University Center.
+
+"Send me a photo when you get up there," asked Nora before parting ways.
+
+"Why?"
+
+"Because I want to see if the ruins are still there."
+
+"Google it."
+
+"Jesus. Just send me some pictures, alright?"
+
+Taiga turned and waved at her. Still annoying as ever.
+
+---
+
