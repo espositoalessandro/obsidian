@@ -276,15 +276,15 @@ He closed his eyes. Caleb had him there.
 
 ---
 
-It turned out that Nora's idea for "lunch outside the messhall" was getting an overpriced coffee from Starbuffs and then worrying about where to get food.
+It turned out that Nora's idea for "lunch outside the mess hall" was getting an overpriced coffee from Starbuffs and then worrying about where to get food.
 
 "This place is stupid," said Taiga after paying an unreasonable amount of money for a simple black coffee.
 
 "You're supposed to get their other drinks, you know." 
 
-Nora was happily seeping from her cup of something made almost entirely of sugar and milk. 
+Nora was happily sipping from her cup of something made almost entirely of sugar and milk. 
 
-"I'll consider it when I'll want to get diabetes."
+"I'll consider it when I want to get diabetes."
 
 "Well, technically, it's calories. So it's a form of lunch."
 
@@ -318,9 +318,9 @@ Her face lit up, "Oh!"
 
 "I didn't know there were ruins."
 
-"You've never been out of campus, haven't you?"
+"You haven't really been off campus, have you?"
 
-Taiga shrugged
+Taiga shrugged.
 
 "Never had a reason to."
 
@@ -330,7 +330,7 @@ Taiga shrugged
 
 "Mmm, not a lot really, but sometimes, yeah. My group from Sociology likes hanging out. You should come sometime."
 
-"Why is everyone obsessed in making me do stuff?"
+"Why is everyone obsessed with making me do stuff?"
 
 Nora rolled her eyes.
 
@@ -344,7 +344,7 @@ Nora laughed, "Maybe not."
 
 They walked in silence for a minute, then eventually went to get some proper food from a stall at the University Center.
 
-"Send me a photo when you get up there," asked Nora before parting ways.
+"Send me a photo when you get up there," Nora said before parting ways.
 
 "Why?"
 
