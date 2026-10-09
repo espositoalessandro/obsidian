@@ -510,6 +510,8 @@ Gav said, "You complain when parking is more than five minutes from the destinat
 
 "They were upstairs..."
 
-"Exactly. Unacceptable."
+"Exactly. Unacceptable, right?"
+
+Enzo looked around for support. Nobody gave him any.
 
 Eventually, Taiga left. When he checked the time on his way out, it was 9.20 
