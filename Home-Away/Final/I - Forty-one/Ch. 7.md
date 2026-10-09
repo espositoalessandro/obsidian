@@ -334,7 +334,7 @@ Taiga shrugged
 
 Nora rolled her eyes.
 
-"That's a strange way to phrase 'people keep inviting me places.'"
+"That's a strange way to phrase 'people keep inviting me to places.'"
 
 Taiga froze for half a second.
 
