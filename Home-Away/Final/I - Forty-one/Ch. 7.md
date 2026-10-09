@@ -426,7 +426,7 @@ Mercer tapped his pen against the desk. "Can we finish before breakfast?"
 
 Forty-five minutes became fifty-eight.
 
-When Mercer left, Taiga took his bag and was about to leave as well. Then he saw Enzo stretching and saying:
+When Mercer left, Taiga took his bag and was about to leave as well. Then Enzo stretched and announced:
 
 "Food. I refuse to let film review be the last thing that happens to me today."
 
@@ -485,7 +485,7 @@ Taiga considered throwing crust at him.
 
 "I'm hiking this Sunday."
 
-Enzo perked up, "Still not a hobby, but I'll take it."
+Enzo perked up. "Still not a hobby, but I'll take it."
 
 Taiga threw the crust at him.
 
@@ -493,7 +493,7 @@ Taiga threw the crust at him.
 
 "The trail on the north ridge."
 
-Evan nodded, "I know that one, it's pretty good."
+Evan nodded. "I know that one, it's pretty good."
 
 "You've been there?"
 
@@ -517,7 +517,7 @@ Enzo looked around for support. Nobody gave him any.
 
 The group split after dinner. Leo and Enzo were trying to convince Aaron that saying "goodnight" once, didn't count as a love declaration from Sofia. Evan was trying to make Scott [do something], while Gav pulled out a chessboard and challenged Taiga.
 
-"Okay, then knight in e-5."
+"Okay, then knight to e-5."
 
 Taiga smiled with satisfaction. Gav had to choose whether to sacrifice a bishop or his other knight.
 
@@ -539,7 +539,7 @@ Taiga blinked.
 
 "Birdwatching?"
 
-He cursed himself a minute later, when Gav dived into explaining the whole biodiversity of the bird fauna around Olympus City.
+He cursed himself a minute later, when Gav dived into explaining the whole biodiversity of the local birdlife around Olympus City.
 They ended up abandoning the chess game.
 
-Eventually, Taiga left. When he checked the time on his way out, it was 9.20 
+Eventually, Taiga left. When he checked the time on his way out, it was 9:20.
