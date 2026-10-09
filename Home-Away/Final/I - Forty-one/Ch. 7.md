@@ -362,11 +362,11 @@ He had lasted less than five minutes before muting it, and Enzo was complaining 
 
 "We're your family now, you cannot just ignore us."
 
-"You write something like 50 messages per hour."
+"You send something like 50 messages per hour."
 
-From the other side of the locker room, Aaron said:
+From the other side of the locker room, Aaron said
 
-"Everybody has the group silenced."
+"Everybody has the chat muted."
 
 Enzo theatrically put a hand on his heart.
 
@@ -426,7 +426,7 @@ Mercer tapped his pen against the desk. "Can we finish before breakfast?"
 
 Forty-five minutes became fifty-eight.
 
-When Mercer left, Taiga took his bag and was about to leave as well. Then Enzo stretched and announced:
+When Mercer left, Taiga took his bag and was about to leave as well. Then Enzo stretched and announced
 
 "Food. I refuse to let film review be the last thing that happens to me today."
 
@@ -515,7 +515,8 @@ Gav said, "You complain when parking is more than five minutes from the destinat
 
 Enzo looked around for support. Nobody gave him any.
 
-The group split after dinner. Leo and Enzo were trying to convince Aaron that saying "goodnight" once, didn't count as a love declaration from Sofia. Evan was trying to make Scott [do something], while Gav pulled out a chessboard and challenged Taiga.
+The group split after dinner. Leo and Enzo were trying to convince Aaron that saying "goodnight" once, didn't count as a love declaration from Sofia. Evan was trying to make Scott repeat his Mercer impression while Scott denied having one.
+Gav pulled out a chessboard and challenged Taiga.
 
 "Okay, then knight to e-5."
 
