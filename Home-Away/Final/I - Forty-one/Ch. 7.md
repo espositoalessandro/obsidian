@@ -782,3 +782,52 @@ He expected worse.
 “Thanks for coming.”
 
 “Yeah.”
+
+Upstairs, Caleb immediately unpacked his wet things. Taiga dropped his bag by the bed.
+
+“You should remove the wet shirt,” Caleb said.
+
+“I will.”
+
+“It will smell.”
+
+“Caleb.”
+
+“All right.”
+
+Taiga sat on the edge of his bed and opened the photos. Maya had taken one without warning: Caleb looking toward the city, Taiga half turned toward her, neither of them posing. 
+
+He smiled and saved it.
+
+While he was deleting a duplicate, a notification appeared on the top of the screen.
+
+**Unknown:** hey, leo here
+**Unknown:** took your number from the soccer group chat, hope that's alright
+
+Taiga guessed that was another consequence of his initiation.
+
+**Taiga:** yeah it's fine
+
+**Unknown:** clinic's running again thursday
+**Unknown:** you said you'd think about helping so figured i'd ask
+
+He thought for a couple of seconds.
+
+**Taiga:** what time?
+
+**Leo:** 5:30  
+
+**Taiga:** ok  
+
+**Leo:** nice!
+**Leo:** matt's gonna be happy  
+
+**Taiga:** the offside kid?  
+
+**Leo:** yeah lol  
+**Leo:** he asked if forty-one was coming back
+
+He smiled at the last one.
+
+**Taiga:** apparently he likes bad models
+
