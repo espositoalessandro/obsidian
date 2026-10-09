@@ -2,8 +2,6 @@
 
 By the eighth week of the semester, Taiga had developed a reliable method for identifying university emails that would ruin his day. They used words like *opportunity*, *engagement* or *planning*. The worst ones used all three. 
 
-[insert Apollo team group chat payoff]
-
 He was halfway through breakfast at The Oyster when the phone vibrated beside his tray.
 
 **ACADEMIC ADVISING OPPORTUNITY**
@@ -314,7 +312,7 @@ Her face lit up, "Oh!"
 
 "You've been?"
 
-"Several times. My sister likes the ruins."
+"Just once. My sister likes the ruins."
 
 "I didn't know there were ruins."
 
@@ -358,3 +356,166 @@ Taiga turned and waved at her. Still annoying as ever.
 
 ---
 
+Taiga had discovered the implication of being the Apollo team chat approximately two hours after joining it. 
+
+He had lasted less than five minutes before muting it and Enzo was complaining with him in the lockers.
+
+"We're your family now, you cannot just ignore us."
+
+"You write something like 50 messages per hour."
+
+From the other side of the locker room, Aaron said:
+
+"Everybody has the group silenced."
+
+Enzo theatrically put a hand on his heart.
+
+"ABANDONED BY MY OWN FAMILY."
+
+The door then opened and Mercer entered.
+
+"Film room, fifteen minutes."
+
+And left.
+
+Team members were required to attend a film session from time to time, where Mercer analyzed a particular match. 
+
+Enzo sighed.
+
+"Last time it lasted an hour and a half."
+
+“That was because you people couldn't identify a back-post runner," said Aaron.
+
+Leo added, “In our defense, the runner was very sneaky.”
+
+House Apollo sat apart from the main athletic buildings, a broad stone building marked with the sun emblem Taiga now saw on training gear, jackets and travel bags. 
+
+Inside, the trophy cases and old team photographs were more ceremonial than the rest of the building. Upstairs, the common lounge was full of ordinary evidence that athletes lived lives there: laptops, takeaway containers, cards.
+
+The film room was down the hall. Mercer arrived and the room settled.
+To properly welcome the newly members, he had chosen their last reserve match recording.
+
+The useful part of film was discovering that things Taiga barely remembered doing had tactical meaning. Mercer froze a sequence with Taiga holding width on the left while the ball sat on the opposite side.
+
+“Akatora. What are you doing?”
+
+“Holding width.”
+
+“Why?”
+
+“If I go inside, their fullback can cover both.”
+
+Mercer resumed the clip. The ball switched. Taiga received in space and forced a corner.
+Later the footage stopped on a bad press. Taiga had waited until the receiver already controlled the ball before moving.
+
+Gav pointed at the pass before it.
+
+“You can see where that's going before he gets it.”
+
+“So I'm supposed to go before he even has the ball?”, answered Taiga.
+
+“If the pass gives it away, yes.”
+
+“Great.”
+
+Gav smiled faintly. “Welcome to organized soccer.”
+
+Leo turned halfway around. “He says that to everyone.”
+
+“Because all of you keep being surprised football has other players.”
+
+Enzo leaned back. “I personally resent the other players.”
+
+Mercer tapped his pen against the desk. “Can we finish before breakfast?”
+
+Forty-five minutes became fifty-eight.
+
+When Mercer left, Taiga took his bag and was about to leave as well. Then he saw Enzo stretching and saying:
+
+“Food. I refuse to let film review be the last thing that happens to me today.”
+
+Some of the team left, others went to the kitchen. 
+Scott passed besides him and looked at his bag.
+
+"Y-You're not coming?"
+
+Taiga barely heard him.
+
+"I didn't bring food."
+
+"W-Well, there's sh-should be enough in the kitchen."
+
+He shrugged. Why not.
+Taiga dropped his bag and followed him to the kitchen.
+Gav heated leftovers. Leo found frozen pizza and proved that fitting two trays into one oven did not mean both would cook.
+
+Twenty minutes later Taiga sat with Gav and Scott eating a slice cold in the middle.
+
+"My roommate would have hated this."
+
+Leo looked up, "The pizza?"
+
+"The method behind it."
+
+"Well, the oven has two tray slots, was I wrong to assume they could work together?"
+
+Taiga looked at his slice, "Apparently."
+
+Leo laughed and flipped him off.
+Conversation moved through classes, training and Enzo trying to recruit people for the Agora. 
+
+Eventually Enzo asked, “Hey Taiga, you do anything outside soccer?”
+
+Taiga looked at him.
+
+"Yes."
+
+"Why did it sound offended?"
+
+"Because it was."
+
+"Okay, so what do you do?"
+
+"Classes."
+
+"That's not a hobby."
+
+"I have friends."
+
+"Also not a hobby."
+
+Taiga considered throwing crust at him.
+
+"I'm hiking this Sunday."
+
+Enzo perked up, "Still not a hobby, but I'll take it."
+
+Taiga threw the crust at him.
+
+"Where are you going?", asked Evan.
+
+"The north ridge trail."
+
+Evan nodded, "I know that one, it's pretty good."
+
+"You've been there?"
+
+"Yeah, a couple of years ago."
+
+Enzo stared at him. “You've never invited me.”
+
+Gav said, “You complain when parking is more than five minutes from the destination.”
+
+“That is completely different. Leo, tell them!”
+
+"You've spent every year in high school complaining that the bathrooms were too distant," said Leo.
+
+"THEY WERE."
+
+"They were upstairs..."
+
+"Exactly. Unacceptable."
+
+Everyone laughed.
+
+Eventually, Taiga left by 9.20. It was a good night.

@@ -855,6 +855,7 @@ Nora smiled.
 "Fake maybe."
 
 "Yeah."
+
 ---
 
 Tuesday, Mercer ended training with, “Film at six in Apollo. Reserves too. Forty-five minutes, not a hostage situation.”
