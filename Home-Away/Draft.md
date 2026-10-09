@@ -442,190 +442,419 @@ Taiga closed his eyes. Caleb had him there.
 
 ---
 
-Starbuffs coffee was, objectively, too expensive. Nora bought one anyway. Taiga bought tea out of protest and immediately regretted it because the tea was also expensive. They took their drinks outside. Central Park was damp from morning rain. Students occupied benches along the paths, some studying, most pretending. Nora blew across the top of her cup.
+Starbuffs coffee was still too expensive.
 
-“So, are you going to tell me why your soccer team apparently has a frat house?”
+Nora bought one anyway. Taiga bought tea out of principle, then discovered the tea was also too expensive and felt like he'd lost twice.
 
-“It isn't a frat house.”
-
-“You called it House Apollo.”
-
-“That is literally what it's called.”
-
-“That sounds exactly like a frat house.”
-
-“It has trophies.”
-
-“Frat houses also have trophies. Different trophies.”
+They left the counter with drinks and no food.
 
 Taiga looked at her.
 
-“I don't want to know what that means.”
+"This was your lunch plan."
 
-“You probably don't.”
+"Coffee is part of lunch."
 
-They walked. Nora had suggested lunch at Starbuffs and then failed to buy food. Taiga had pointed this out. She had responded that coffee was a meal if you believed in yourself. Taiga did not believe in her. They eventually stopped at a food stand near the University Center and bought wraps.
+"It isn't lunch."
 
-“Better,” Taiga said.
+"I didn't say it was all of lunch."
 
-Nora unwrapped hers.
+"You absolutely implied it."
 
-“You've become weirdly domestic about meals.”
+Nora took a sip. "There's a food stand by the University Center."
 
-“I eat.”
+"Then why did we come here first?"
 
-“That isn't what domestic means.”
+"Because I wanted coffee."
 
-“I know.”
+At least that was honest.
 
-They sat on the low wall beside one of the paths. Nora asked about House Apollo. Taiga explained the film session. Not every detail. Enough. She listened while pulling pieces of lettuce out of her wrap because apparently she had ordered a wrap containing lettuce and then decided lettuce was the enemy.
+They crossed Central Park. The grass was still damp from morning rain, and half the benches were occupied by students pretending laptops made sitting outside productive.
 
-“So there are actual Houses for the sports clubs.”
+At the food stand, Taiga got a chicken wrap. Nora ordered one with lettuce and started removing the lettuce before they'd even found somewhere to sit.
 
-“Yes.”
+Taiga watched her pull out another piece.
 
-“I knew that.”
+"You ordered that."
 
-“Then why are you asking?”
+"I wanted everything else in it."
 
-“I've never been inside one. Political science doesn't get a Greek god mansion.”
+"That's stupid."
 
-“Tragic.”
+"It's efficient."
 
-“We get a basement office with a broken printer.”
+"You're manually disassembling lunch."
 
-“Appropriate.”
+Nora ignored him.
 
-Nora laughed. A minute later she looked toward the Sports Zone in the distance.
+They sat on the low wall beside the path. Taiga put his drink down, and the folded sheet Park had given him slipped halfway out of the front pocket of his bag.
 
-“So what do you actually do out there?”
+Nora looked at it.
 
-Taiga frowned.
+"Academic advising?"
 
-“Play soccer.”
+Taiga pushed it back inside.
 
-“I have gathered that much. You keep saying winger, and Mercer apparently keeps making you stand in specific patches of grass. What is the job?”
+"Unfortunately."
 
-Taiga considered how much explanation she actually wanted.
+"How bad?"
 
-“Mostly I start wide. It stretches their defense. If Aaron comes around me from fullback, I can move inside and take a defender with me, or stay outside and give him the inside lane.”
+"They expect me to have a future."
 
-Nora traced two paths in the air with her cup.
+"Unreasonable."
 
-“So you're sometimes useful by getting out of somebody else's way.”
+"I thought so."
 
-“That's one way to make it insulting.”
+Nora took another piece of lettuce out of her wrap.
 
-“I understand it now.”
+"Did you declare?"
 
-“Then yes.”
+"No."
 
-“See? Political science can learn sports.”
+"What are you considering?"
 
-“Please never say that sentence again.”
+Taiga hesitated.
 
-“Acropolis Sunday. Who's going?”
+"Chemistry. Computer Science."
 
-“Caleb. Maya.”
+Nora stopped with the lettuce halfway to the wrapper.
 
-“That's it?”
+"Those are not particularly similar."
 
-“Three people is enough.”
+"That's the problem."
 
-Nora nodded. “Three is perfect for that trail.” Taiga looked at her, mildly surprised that there was no argument.
+"No, usually the problem is narrowing things down."
 
-“You really go there?”
+"Same thing."
 
-“Yeah. Not constantly. My sister likes the ruins, and there's a lower path that's easy enough that my parents go sometimes.”
+"It really isn't."
 
-“Parents nearby?”
+Taiga took a bite instead of answering.
 
-“About an hour away.”
+Park's schedule was still in his bag. Data Structures. Discrete Structures. Chemistry II. Calculus II. Nothing about it looked bad. That would've been easier.
 
-Taiga realized he didn't know that.
+Nora watched him chew.
 
-“Do you go home much?” he asked.
+"You know you don't have to decide today."
 
-Nora shrugged.
+"I know."
 
-“Maybe once a month. Less if I have work. My mother texts me photos of the dog every day, so I think she believes that counts as maintaining family cohesion.”
+"And you can change it."
 
-“What kind of dog?”
+"I know."
 
-“Beagle. Criminal.”
+"So what's actually bothering you?"
 
-Taiga smiled.
+Taiga looked at her.
 
-“Name?”
+"If I knew that, this would be easier."
 
-“Oliver.”
+Nora considered that for a second.
 
-“That is a terrible dog name.”
+"Fair."
 
-“Fuck you. He came with it.”
+That was unexpectedly painless.
 
-“Dogs don't come with names.”
+Then she added, "Although you are treating the fact that choosing one direction closes some others like a design flaw."
 
-“He was four when we adopted him.”
+There it was.
 
-“Oh, right.”
+"Because it is."
 
-Nora took out her phone. Five seconds later there was a beagle on the screen wearing what appeared to be a raincoat. Taiga leaned closer.
+"That's what choosing means."
 
-“That is ridiculous.”
+"Very helpful."
 
-“He hates the rain.”
+"I wasn't helping. I was defining the problem."
 
-“He's a dog.”
+"Even more helpful."
 
-“He has standards.”
+Nora smiled and took another bite.
 
-Nora swiped. Another photo. Oliver asleep upside down on a couch. Another, head inside a paper bag. Taiga found himself smiling. Nora glanced at him. She let it pass.
+"What are you doing Sunday?"
 
-Eventually she put the phone away.
+Taiga frowned at the change of subject.
 
-“You have any pets?”
+"Hiking."
 
-Taiga hesitated. Camp animals flashed through his head before anything else. Not pets. Different.
+She looked at him.
 
-“No.”
+"What?"
 
-“Ever?”
+"You."
 
-“Not really.”
+"Fuck off."
 
-“That's surprising.”
+Nora laughed. "Where?"
 
-“Why?”
+"Acropolis. North Ridge."
 
-“You like the dog.”
+"Oh."
 
-“Everyone likes dogs.”
+That was more recognition than he expected.
 
-“Adrian doesn't.”
+"You've been?"
 
-“Then Adrian is defective.”
+"Several times. My sister likes the ruins."
 
-Nora laughed. They finished lunch. On the walk back, she said, “Send me a photo from the overlook.” Taiga looked over.
+Taiga nodded. "Caleb and Maya found a loop."
 
-“Why?”
+"That explains Caleb."
 
-“Because I want to know whether the trail is still muddy.”
+"What does?"
 
-“That is an incredibly weak excuse.”
+"The planning."
 
-“Fine. Send me a photo because I asked.”
+"You've never met him."
+
+"I've heard enough."
+
+Fair.
+
+Nora drank some coffee.
+
+"Wait. Is that your first time in Acropolis?"
+
+"Yeah."
+
+"Have you actually gone anywhere in Olympus City yet?"
+
+Taiga thought about it.
+
+"I've been off campus."
+
+"For soccer?"
+
+"That counts."
+
+"It counts as leaving campus. It doesn't count as going somewhere because you wanted to."
+
+"The pub by the east gate."
+
+Nora stared at him.
+
+"What?"
+
+"That's barely off campus."
+
+"It's outside the gate."
+
+"By twenty meters."
+
+"Still outside."
+
+"You've lived here for almost two months."
+
+"I've had things to do."
+
+"So does everybody."
 
 Taiga shrugged.
 
-“Maybe.”
+Nora shook her head. "You live in Olympus City, not Olympus University."
+
+"Technically I live in room 317."
+
+"That's worse."
+
+He smiled.
+
+"The hike counts, then."
+
+"Yes. Acropolis is a decent first attempt at discovering civilization."
+
+"It's a mountain."
+
+"Exactly. I'm easing you in."
+
+Taiga looked at her.
+
+"You're very funny."
+
+"I know."
+
+They kept eating.
+
+"The lower trails get crowded," Nora said. "North Ridge gets quieter once you climb. There's an old set of foundations about halfway up, then an overlook farther on."
+
+"Caleb sent me the route."
+
+"Of course he did. Take water."
+
+"No shit."
+
+"And decent shoes."
+
+"Nora."
+
+"What?"
+
+"I worked at a scout camp."
+
+She stopped.
+
+"A scout camp?"
+
+"Yes."
+
+"You always just say camp."
+
+"Because it was a camp."
+
+"That leaves out relevant information."
+
+"Relevant to what?"
+
+"To whether I need to explain hiking shoes to you."
+
+Taiga stared at her.
+
+"Apparently not."
+
+"No."
+
+Nora nodded once, accepting the correction.
+
+"Camp Buddy was Scouts?"
+
+"Yeah."
+
+"For how long?"
+
+"A few summers. Then I stayed as a volunteer."
+
+"What did you actually do?"
+
+"Whatever needed doing. Activities. Trails. Repairs. Canoes. Cooking sometimes. Stopping younger scouts from killing themselves."
 
 Nora smiled.
 
-“Fake maybe.”
+"That last one sounds transferable."
 
-“Yeah.”
+"To college?"
 
+"Have you met students?"
+
+Fair again.
+
+She folded the empty part of her wrapper down.
+
+"My sister took me up North Ridge the first time. My parents stick to the lower paths because my mother thinks anything with exposed rock qualifies as mountaineering."
+
+"Your parents live around here?"
+
+"About an hour away."
+
+Taiga realized he hadn't known that.
+
+"Do you go home much?"
+
+"Maybe once a month. Depends on work."
+
+"That's not far."
+
+"No. My mother compensates for the distance anyway."
+
+"How?"
+
+Nora already had her phone out.
+
+"Daily proof that the dog is alive."
+
+A beagle appeared on the screen wearing a yellow raincoat.
+
+Taiga leaned closer.
+
+"What the fuck is that?"
+
+"Oliver."
+
+"That's a terrible dog name."
+
+"Fuck you. He came with it."
+
+"Dogs don't come with names."
+
+"He was four when we adopted him."
+
+"Oh."
+
+Nora swiped.
+
+Oliver asleep upside down on a couch.
+
+Another. Oliver with his head inside a paper bag.
+
+Another. Oliver staring through a window with the raincoat hood collapsed over one eye.
+
+Taiga smiled.
+
+"He hates rain," Nora said.
+
+"He's a dog."
+
+"He has standards."
+
+"He's wearing a coat."
+
+"Exactly."
+
+Nora glanced at him, then back at the phone.
+
+"You have pets?"
+
+"No."
+
+"Ever?"
+
+"Not really."
+
+"Huh."
+
+"What?"
+
+"Nothing."
+
+"That's not nothing."
+
+"I was going to say you look like you like dogs."
+
+"Everyone likes dogs."
+
+"Adrian doesn't."
+
+"Adrian is defective."
+
+Nora laughed.
+
+They sat there a little longer after the food was gone. Students moved along the path in both directions. Somewhere behind them, somebody was arguing loudly about a group presentation.
+
+Nora put her phone away.
+
+"Send me a photo from the overlook."
+
+Taiga looked at her.
+
+"Why?"
+
+"Because I asked."
+
+"You've been there."
+
+"Yes."
+
+"So you know what it looks like."
+
+"I didn't ask Google for a photo."
+
+Taiga picked up his tea.
+
+"Maybe."
+
+Nora smiled.
+
+"Fake maybe."
+
+"Yeah."
 ---
 
 Tuesday, Mercer ended training with, “Film at six in Apollo. Reserves too. Forty-five minutes, not a hostage situation.”
