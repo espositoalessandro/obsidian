@@ -356,7 +356,7 @@ Taiga turned and waved at her. Still annoying as ever.
 
 ---
 
-Taiga had discovered the implications of being in the Apollo team chat approximately two hours after joining it. 
+Taiga had discovered the consequences of being in the Apollo team chat approximately two hours after joining it. 
 
 He had lasted less than five minutes before muting it, and Enzo was complaining to him in the lockers.
 
