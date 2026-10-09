@@ -356,9 +356,9 @@ Taiga turned and waved at her. Still annoying as ever.
 
 ---
 
-Taiga had discovered the implication of being the Apollo team chat approximately two hours after joining it. 
+Taiga had discovered the implications of being in the Apollo team chat approximately two hours after joining it. 
 
-He had lasted less than five minutes before muting it and Enzo was complaining with him in the lockers.
+He had lasted less than five minutes before muting it, and Enzo was complaining to him in the lockers.
 
 "We're your family now, you cannot just ignore us."
 
@@ -384,58 +384,58 @@ Enzo sighed.
 
 "Last time it lasted an hour and a half."
 
-“That was because you people couldn't identify a back-post runner," said Aaron.
+"That was because you people couldn't identify a back-post runner," said Aaron.
 
-Leo added, “In our defense, the runner was very sneaky.”
+Leo added, "In our defense, the runner was very sneaky."
 
 House Apollo sat apart from the main athletic buildings, a broad stone building marked with the sun emblem Taiga now saw on training gear, jackets and travel bags. 
 
 Inside, the trophy cases and old team photographs were more ceremonial than the rest of the building. Upstairs, the common lounge was full of ordinary evidence that athletes lived lives there: laptops, takeaway containers, cards.
 
 The film room was down the hall. Mercer arrived and the room settled.
-To properly welcome the newly members, he had chosen their last reserve match recording.
+To properly welcome the new members, he had chosen their last reserve match recording.
 
 The useful part of film was discovering that things Taiga barely remembered doing had tactical meaning. Mercer froze a sequence with Taiga holding width on the left while the ball sat on the opposite side.
 
-“Akatora. What are you doing?”
+"Akatora. What are you doing?"
 
-“Holding width.”
+"Holding width."
 
-“Why?”
+"Why?"
 
-“If I go inside, their fullback can cover both.”
+"If I go inside, their fullback can cover both."
 
 Mercer resumed the clip. The ball switched. Taiga received in space and forced a corner.
 Later the footage stopped on a bad press. Taiga had waited until the receiver already controlled the ball before moving.
 
 Gav pointed at the pass before it.
 
-“You can see where that's going before he gets it.”
+"You can see where that's going before he gets it."
 
-“So I'm supposed to go before he even has the ball?”, answered Taiga.
+"So I'm supposed to go before he even has the ball?" Taiga asked.
 
-“If the pass gives it away, yes.”
+"If the pass gives it away, yes."
 
-“Great.”
+"Great."
 
-Gav smiled faintly. “Welcome to organized soccer.”
+Gav smiled faintly. "Welcome to organized soccer."
 
-Leo turned halfway around. “He says that to everyone.”
+Leo turned halfway around. "He says that to everyone."
 
-“Because all of you keep being surprised football has other players.”
+"Because all of you keep being surprised football has other players."
 
-Enzo leaned back. “I personally resent the other players.”
+Enzo leaned back. "I personally resent the other players."
 
-Mercer tapped his pen against the desk. “Can we finish before breakfast?”
+Mercer tapped his pen against the desk. "Can we finish before breakfast?"
 
 Forty-five minutes became fifty-eight.
 
 When Mercer left, Taiga took his bag and was about to leave as well. Then he saw Enzo stretching and saying:
 
-“Food. I refuse to let film review be the last thing that happens to me today.”
+"Food. I refuse to let film review be the last thing that happens to me today."
 
 Some of the team left, others went to the kitchen. 
-Scott passed besides him and looked at his bag.
+Scott passed beside him and looked at his bag.
 
 "Y-You're not coming?"
 
@@ -443,7 +443,7 @@ Taiga barely heard him.
 
 "I didn't bring food."
 
-"W-Well, there's sh-should be enough in the kitchen."
+"W-Well, th-there should be enough in the kitchen."
 
 He shrugged. Why not.
 Taiga dropped his bag and followed him to the kitchen.
@@ -453,18 +453,18 @@ Twenty minutes later Taiga sat with Gav and Scott eating a slice cold in the mid
 
 "My roommate would have hated this."
 
-Leo looked up, "The pizza?"
+Leo looked up. "The pizza?"
 
 "The method behind it."
 
 "Well, the oven has two tray slots, was I wrong to assume they could work together?"
 
-Taiga looked at his slice, "Apparently."
+Taiga looked at his slice. "Apparently."
 
 Leo laughed and flipped him off.
 Conversation moved through classes, training and Enzo trying to recruit people for the Agora. 
 
-Eventually Enzo asked, “Hey Taiga, you do anything outside soccer?”
+Eventually Enzo asked, "Hey Taiga, you do anything outside soccer?"
 
 Taiga looked at him.
 
@@ -492,7 +492,7 @@ Enzo perked up, "Still not a hobby, but I'll take it."
 
 Taiga threw the crust at him.
 
-"Where are you going?", asked Evan.
+"Where are you going?" Evan asked.
 
 "The north ridge trail."
 
@@ -502,11 +502,11 @@ Evan nodded, "I know that one, it's pretty good."
 
 "Yeah, a couple of years ago."
 
-Enzo stared at him. “You've never invited me.”
+Enzo stared at him. "You've never invited me."
 
-Gav said, “You complain when parking is more than five minutes from the destination.”
+Gav said, "You complain when parking is more than five minutes from the destination."
 
-“That is completely different. Leo, tell them!”
+"That is completely different. Leo, tell them!"
 
 "You've spent every year in high school complaining that the bathrooms were too distant," said Leo.
 
