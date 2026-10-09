@@ -1056,8 +1056,6 @@ He laughed at himself.
 Saturday's match against St. Vincent University was the first time Taiga watched an actual Apollo match.
 The conference season had only recently started and this was the second official match of the season.
 
-They were playing on the same pitch Apollo used for training, only now the setup around it had changed.
-
 Mercer required developmental players to watch the game from the bleachers.
 
 "Don't follow the ball. Watch where players go. If a team scores, ask yourself why it worked for one and what went wrong for the other. Don't assume that everything they do is the right choice. Think about what you would have done in their place."
@@ -1182,7 +1180,7 @@ Taiga saw it this time: space.
 
 Aaron ran into the now-open lane in front of him. He reached the line and crossed. Price met it with a header. Goal.
 
-The bleachers erupted. Apollo players ran toward the corner. Price grabbed Bennett around the shoulders. Leo arrived from behind. Evan joined a second later.
+The stadium erupted. Apollo players ran toward the corner. Price grabbed Bennett around the shoulders. Leo arrived from behind. Evan joined a second later.
 
 Taiga laughed at himself.
 
@@ -1290,7 +1288,7 @@ Taiga looked at the list, then nodded at Mercer.
 
 Mercer nodded back.
 
-Taiga left the Sports Zone. He opened his phone and looked again at the review.
+Taiga left the stadium. He opened his phone and looked again at the review.
 Same eight lines, nothing about them had changed.
 That was fine.
 
