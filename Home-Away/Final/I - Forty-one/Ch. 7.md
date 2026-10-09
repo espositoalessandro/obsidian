@@ -376,11 +376,7 @@ The door then opened and Mercer entered.
 
 "Film room, fifteen minutes."
 
-And left.
-
-Team members were required to attend a film session from time to time, where Mercer analyzed a particular match. 
-
-Enzo sighed.
+And left. Enzo sighed.
 
 "Last time it lasted an hour and a half."
 
@@ -390,10 +386,10 @@ Leo added, "In our defense, the runner was very sneaky."
 
 House Apollo sat apart from the main athletic buildings, a broad stone building marked with the sun emblem Taiga now saw on training gear, jackets and travel bags. 
 
-Inside, the trophy cases and old team photographs were more ceremonial than the rest of the building. Upstairs, the common lounge was full of ordinary evidence that athletes lived lives there: laptops, takeaway containers, cards.
+Inside, the trophy cases and old team photographs were more ceremonial than the rest of the building. Upstairs, the common lounge consisted in four big sofas, two tables and a kitchen.
 
 The film room was down the hall. Mercer arrived and the room settled.
-To properly welcome the new members, he had chosen their last reserve match recording.
+He had chosen their last reserve match recording.
 
 The useful part of film was discovering that things Taiga barely remembered doing had tactical meaning. Mercer froze a sequence with Taiga holding width on the left while the ball sat on the opposite side.
 
@@ -439,11 +435,11 @@ Scott passed beside him and looked at his bag.
 
 "Y-You're not coming?"
 
-Taiga barely heard him.
+His voice was so low that Taiga barely heard him.
 
 "I didn't bring food."
 
-"W-Well, th-there should be enough in the kitchen."
+"There should be enough in the kitchen."
 
 He shrugged. Why not.
 Taiga dropped his bag and followed him to the kitchen.
@@ -508,7 +504,7 @@ Gav said, "You complain when parking is more than five minutes from the destinat
 
 "That is completely different. Leo, tell them!"
 
-"You've spent every year in high school complaining that the bathrooms were too distant," said Leo.
+"You've spent every year in high school complaining that the bathrooms were too far away," said Leo.
 
 "THEY WERE."
 
@@ -516,6 +512,4 @@ Gav said, "You complain when parking is more than five minutes from the destinat
 
 "Exactly. Unacceptable."
 
-Everyone laughed.
-
-Eventually, Taiga left by 9.20. It was a good night.
+Eventually, Taiga left. When he checked the time on his way out, it was 9.20 
