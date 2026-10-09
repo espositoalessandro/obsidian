@@ -1417,3 +1417,137 @@ Then he opened the map app and starred Acropolis Park.
 Monday's Political Institutions reading was sixty-four pages.
 
 “Fuck.”
+
+---
+
+Unknown number.
+
+He almost ignored it.
+
+Then the preview appeared.
+
+**Unknown:** hey, leo here
+**Unknown:** took your number from the soccer group chat, hope that's alright
+
+Taiga stared at the screen.
+
+For some reason, that required more processing than it should have.
+
+Everyone's number was in the team chat. Leo having his number was not strange. Leo choosing to use it separately apparently was.
+
+Taiga opened the conversation.
+
+**Taiga:** yeah it's fine
+
+The typing indicator appeared almost immediately.
+
+Stopped.
+
+Appeared again.
+
+**Leo:** cool
+**Leo:** grades came out for rao right?
+**Leo:** how'd yours go?
+
+Taiga looked at the eighty-eight still open on his laptop.
+
+**Taiga:** 88
+
+Three dots.
+
+**Leo:** oh shit
+**Leo:** nice
+
+Another message followed before Taiga could answer.
+
+**Leo:** i got 82 :(
+
+Taiga smiled.
+
+**Taiga:** duplicated filter?
+
+There was a longer pause.
+
+**Leo:** i hate that you knew
+**Leo:** yes
+**Leo:** rao wrote “you have already solved this problem once”
+
+Taiga laughed quietly.
+
+**Taiga:** deserved
+**Leo:** cruel
+
+A moment later, another message appeared.
+
+**Leo:** at least registry's over
+**Leo:** until data structures finds a worse way to ruin our week
+
+Taiga looked at that one for a second.
+
+**Taiga:** you already looked at data structures?
+
+**Leo:** mia sent me the course page
+**Leo:** apparently planning ahead builds character
+
+Taiga smiled.
+
+**Taiga:** i'm taking it next semester
+
+The reply came quickly.
+
+**Leo:** same
+
+Taiga's thumb stayed over the keyboard.
+
+**Taiga:** actually declared cs today
+
+Nothing happened for several seconds.
+
+Then:
+
+**Leo:** WAIT
+**Leo:** seriously??
+
+Taiga frowned at the sudden capitalization.
+
+**Taiga:** yes
+
+The typing indicator appeared.
+
+**Leo:** dude that's awesome
+**Leo:** holy shit
+**Leo:** welcome officially then 😂
+
+Taiga read the messages twice.
+He didn't expect Leo to sound that pleased.
+
+**Leo:** that's genuinely really cool
+**Leo:** we're gonna have so many of the same classes later
+
+Taiga's thumb hovered above the keyboard.
+*We're.*
+He ignored that.
+
+**Taiga:** assuming you stop duplicating filters
+
+The answer came almost instantly.
+
+**Leo:** wow
+**Leo:** i try to celebrate you and this is what i get
+
+Taiga smiled.
+
+**Taiga:** thanks
+
+Leo reacted to the message with a heart.
+Taiga looked at it for a second.
+Then another.
+Finally he locked the phone and put it beside the laptop.
+
+Eighty-eight. A bug Lina had found. A design he had simplified because somebody else had a point. A major he had chosen because, when everything else was stripped away, he wanted the next classes.
+
+And apparently Leo Mendez was excited about it.
+
+He opened Political Institutions instead. Computer Science could wait until Monday.
+
+For once, it did.
