@@ -174,7 +174,7 @@ Taiga gulped. She narrowed the routes down way too fast.
 
 "Yeah."
 
-"It is indeed required for almost every STEM future classes."
+"It indeed keeps most STEM pathways open."
 
 "Unfortunately."
 
@@ -189,9 +189,9 @@ Then she turned the screen towards him. A grid showed a suggested schedule for t
 **Calculus II**
 **General Chemistry II**
 
-"Since you don't seem committed to a particular subject yet, I'd keep your options open enough for another semester. Given your grades and professor Rao's note, I'd consider exploring CS a bit more, though."
+"Since you don't seem committed to a particular subject yet, I'd keep your options open enough for another semester. Given your grades and professor Rao's note, I'd consider exploring CS or Chemistry a bit more, though."
 
-	Taiga looked at the screen. He hated to admit that what she said actually made sense.
+Taiga looked at the screen. He hated to admit that what she said actually made sense.
 
 "Do I have to confirm a major to take these classes?"
 
@@ -217,7 +217,7 @@ Taiga looked at the *Declare Program* button at the bottom of the page.
 
 There. Actual answer. Taiga nodded. 
 
-Park continued, “You don't need to decide whether Computer Science is what you want for the rest of your life. You only need to decide whether it's the direction you want to explore more seriously next.” 
+Park continued, “You don't need to decide whether Computer Science or Chemistry is what you want for the rest of your life. You only need to decide whether it's the direction you want to explore more seriously next.” 
 
 Taiga frowned.
 
