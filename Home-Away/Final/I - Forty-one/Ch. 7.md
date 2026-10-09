@@ -544,3 +544,241 @@ He regretted asking almost immediately when Gav launched into the bird species a
 At some point, Gav stopped moving pieces entirely.
 
 Eventually, Taiga left. When he checked the time on his way out, it was 9:20.
+
+---
+
+At exactly 7:03, Caleb's alarm system declared the day started.
+They slowly got dressed. Taiga picked his hiking pants and shoes and an old shirt. 
+Caleb had packed like they were crossing a continent: water, food, rain shell, battery, first-aid kit and a printed route.
+
+“You printed the map.”
+
+“Yes.”
+
+“The phone works offline.”
+
+“Yes.”
+
+“So why?”
+
+“Redundancy.”
+
+“Of course.”
+
+They met Maya at the Olympus station. She took one look at Caleb's pack.
+
+“Why do you have three liters of water?”
+
+“You said two liters minimum.”
+
+“I said *I* was bringing two.”
+
+“That implied a standard.”
+
+“No, it implied my bottle holds two.”
+
+Caleb frowned. Maya kissed his cheek.
+
+“Good morning.”
+
+“Good morning.”
+
+The train carried them out of the university district toward Acropolis Park and then the greener edge of the city.
+
+Taiga stepped outside. Wet soil. Leaves. Actual terrain. 
+Finally.
+
+The first kilometer was crowded with families, joggers and other students. Two of them were carrying a speaker.
+Taiga hated them immediately, Caleb put on his noise-reduction earplugs. Maya looked at them with a disgusted face.
+
+"Criminals."
+
+As the trail climbed, the crowds thinned. Maya stopped twice to look at plants and explained soil compaction.
+Her enthusiasm was so contagious that Taiga actually listened without complaining.
+
+Halfway up, they reached a closure.
+
+**TEMPORARY CLOSURE — TRAIL MAINTENANCE**
+
+Caleb stared at his route app. “This isn't on the map.”
+
+“The sign is more current than the phone,” Taiga said.
+
+“The left trail reconnects, but it adds distance.”
+
+Taiga studied the physical map. “Take the left for about a kilometer. There's a marked connector before the steep section.”
+
+The detour was quieter. Suddenly, they were alone in the woods. That was familiar enough to make Taiga smile. 
+
+They stopped beside a low stone wall. Through the trees, Acropolis Park spread below them, campus reduced to a small patch of buildings and the stadium shape.
+
+Maya sat beside Taiga. "Looks like you're in your element."
+
+"Better than crowds and buildings."
+
+"Is your camp like this?"
+
+"No, more mountains, more forest. Also, a big lake."
+
+"Are you a scout counselor?"
+
+"No, just a scout. And they're called scoutmasters."
+
+"Right, so what do you actually do there?"
+
+"During the summer term, scout stuff. Activities like sports, cooking, trails, camping, bonefires, even arts and stuff. We even go to a beach."
+
+"That actually sounds fun."
+
+"It is."
+
+"How long have you been going there?"
+
+"This summer was my third term. Although I've stayed there as a volunteer for the whole year. We had this big renovation project and I helped a bit."
+
+"Okay, now I get why you're so attached to that place."
+
+He gave a melancholy smile.
+
+"Yeah."
+
+After ten minutes they resumed. The connector was exactly where Taiga said it would be.
+
+“You were right,” Caleb said.
+
+“I know.”
+
+“You complain when people don't acknowledge that.”
+
+“I complain when *you* don't.”
+
+Maya snorted. 
+The trail leveled near some old stone foundations half swallowed by roots and lichens. Caleb read every information sign, while Maya photographed all the plants growing in the ruins. 
+Taiga understood why they worked so well together. He wandered to a low wall overlooking the slope and rested one hand against the cold stone.
+
+For a few minutes there was nothing to do except look at the trees and the city below.
+
+Maya appeared beside him a few minutes later.
+
+“Worth eight-forty-two?”
+
+Taiga smiled. “Maybe.”
+
+Caleb approached behind them. “The viewpoint is another twenty-eight minutes.”
+
+Maya looked at him. “How do you know?”
+
+“The sign says 1.4 kilometers.”
+
+“That doesn't answer the question.”
+
+“I estimated.”
+
+Taiga pushed away from the wall. “Let's go.”
+
+The overlook was crowded, but it was beautiful enough to balance it out. There was a broad stone platform rising above the trees with a stone railing all around.
+Olympus City spread blow. Taiga could see the Emporio's towers rising in the distance. He could also see a small section of Olympus University, the entrance arc and the central park. 
+Maya leaned on the railing.
+
+"Okay. That's nice."
+
+Caleb stood beside her, but said nothing.
+Taiga took out his phone and saw a message from Nora.
+
+**Nora:** alive?
+
+He opened the camera and sent a photo of the view.
+
+**Taiga:** unfortunately
+
+**Nora:** looks like you're enjoying it
+
+**Taiga:** don't ruin it
+
+Then he locked his phone and put it away.
+
+Caleb was still looking at the city. Maya smiled.
+
+“Good thing you came.”
+
+Taiga leaned against the railing.
+
+“That almost sounded sentimental.”
+
+“I was talking about the weather.”
+
+“You're a liar.”
+
+“A little.”
+
+They sat on the benches and ate their sandwiches, while Caleb complained that the bench design trapped water after rain.
+
+"Caleb." said Maya.
+
+"Yes?"
+
+"Eat."
+
+He did
+
+---
+
+Caleb discovered that the descent wasn't as merciful as he had hoped.
+
+"Why my knees hurt."
+
+"You're stressing them."
+
+"They're stressing me."
+
+Taiga and Maya stopped. They looked at each other.
+
+"What?" said Caleb.
+
+"Was that a joke?" answered Maya in disbelief.
+
+Caleb blinked.
+
+"No. It was a fact."
+
+Another pause of a second. Then Taiga and Maya exploded in laugh.
+
+"What's funny in my suffering?"
+
+"Take shorter steps" said Taiga between the laughs.
+
+"Why?"
+
+"So you have to do less breaking for each one."
+
+He tried for a minute.
+
+"That's actually better."
+
+Maya smiled. “Scout wisdom.”
+
+"Walking shouldn't require wisdom."
+
+"Not if we're talking about Caleb."
+
+"I can hear you," said Caleb from behind.
+
+Maya sent him a kiss. 
+
+When they reached Acropolis Park, they stopped at a café before taking the train. Taiga bought a coffee for a very touristic price and complained about it for a full minute.
+
+They returned to campus just before six. At the gate, the crowd thickened around familiar buildings again. 
+Maya hugged Caleb goodbye, then looked at Taiga.
+
+“Can I hug you or are you going to become weird?”
+
+“That question already made it weird.”
+
+“Fair.”
+
+She opened one arm anyway. Taiga sighed and stepped in. Brief squeeze, then done.
+He expected worse.
+
+“Thanks for coming.”
+
+“Yeah.”
