@@ -148,7 +148,7 @@ Taiga thought for a couple of seconds, even though he already knew the answer.
 
 That was harder.
 
-"They had results I could actually see. Programs that actually do stuff or a solution that wasn't there before."
+"They had results I could actually see. Programs actually do stuff. Reagents physically turn into other things."
 
 "Good. So you like practical classes with practical outcomes, am I right?"
 
@@ -170,7 +170,7 @@ Taiga thought for a second.
 
 Taiga gulped. She narrowed the routes down way too fast.
 
-"I also imagine that Calculus was a safe choice to keep as many windows opened, right?"
+"I also imagine that Calculus was a safe choice to keep as many door opened, right?"
 
 "Yeah."
 
@@ -189,11 +189,9 @@ Then she turned the screen towards him. A grid showed a suggested schedule for t
 **Calculus II**
 **General Chemistry II**
 
-"Since you don't seem committed to a particular subject yet, I'd keep your options open enough for another semester. But, given your grades and what professor Rao suggested, I'd strongly consider pursuing the Computer Science major."
+"Since you don't seem committed to a particular subject yet, I'd keep your options open enough for another semester. Given your grades and professor Rao's note, I'd consider exploring CS a bit more, though."
 
-"For now," she added after a couple of seconds.
-
-Taiga looked at the screen. He hated to admit that what she said actually made sense.
+	Taiga looked at the screen. He hated to admit that what she said actually made sense.
 
 "Do I have to confirm a major to take these classes?"
 
@@ -205,7 +203,7 @@ Park built a draft schedule for the following semester. Monday and Wednesday wer
 
 She smiled and saved the draft.
 
-“You can remain undeclared through registration if you want. If you decide on Computer Science before then, declaration gives you a department advisor and makes some planning cleaner. There is no prize for declaring early.”
+“You can remain undeclared through registration if you want. If you decide before then, declaration gives you a department advisor and makes some planning cleaner. There is no prize for declaring early.”
 
 Taiga looked at the *Declare Program* button at the bottom of the page.
 
