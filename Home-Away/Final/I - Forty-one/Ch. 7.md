@@ -334,9 +334,9 @@ Taiga shrugged
 
 Nora rolled her eyes.
 
-"Have you ever considered that maybe people just enjoy spending time with you?"
+"That's a strange way to phrase 'people keep inviting me places.'"
 
-Taiga froze for a second. That one had landed harder than he'd care to admit.
+Taiga froze for half a second.
 
 "People have no survival instinct."
 
