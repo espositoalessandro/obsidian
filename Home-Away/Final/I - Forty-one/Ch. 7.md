@@ -328,7 +328,7 @@ Taiga shrugged
 
 "You go out a lot?"
 
-"Mmm, not a lot really, but sometimes, yeah. My group from [class related to social stuff] likes hanging out. You should come sometime."
+"Mmm, not a lot really, but sometimes, yeah. My group from Sociology likes hanging out. You should come sometime."
 
 "Why is everyone obsessed in making me do stuff?"
 
