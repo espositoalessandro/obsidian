@@ -389,7 +389,7 @@ House Apollo sat apart from the main athletic buildings, a broad stone building 
 Inside, the trophy cases and old team photographs were more ceremonial than the rest of the building. Upstairs, the common lounge was basically four big sofas, two tables and a kitchen.
 
 The film room was down the hall. Mercer arrived and the room settled.
-He had chosen their last reserve match recording.
+He had chosen the recording of their last reserve match.
 
 Apparently, even things Taiga barely remembered doing had tactical meaning. Mercer froze a sequence with Taiga holding width on the left while the ball sat on the opposite side.
 
@@ -426,11 +426,11 @@ Mercer tapped his pen against the desk. "Can we finish before breakfast?"
 
 Forty-five minutes became fifty-eight.
 
-When Mercer left, Taiga took his bag and was about to leave as well. Then Enzo stretched and announced
+When Mercer left, Taiga took his bag and was about to leave as well. Then Enzo stretched and announced,
 
 "Food. I refuse to let film review be the last thing that happens to me today."
 
-Some of the team left, others went to the kitchen. 
+Some of the team left; others went to the kitchen. 
 Scott passed beside him and looked at his bag.
 
 "Y-You're not coming?"
@@ -446,7 +446,7 @@ He dropped his bag and followed the group to the kitchen.
 
 Gav heated leftovers. Leo found frozen pizza and proved that fitting two trays into one oven did not mean both would cook.
 
-Twenty minutes later Taiga sat with Gav and Scott eating a slice cold in the middle.
+Twenty minutes later, Taiga sat with Gav and Scott eating a slice cold in the middle.
 
 "My roommate would have hated this."
 
@@ -454,7 +454,7 @@ Leo looked up. "The pizza?"
 
 "The method behind it."
 
-"Well, the oven has two tray slots, was I wrong to assume they could work together?"
+"Well, the oven has two tray slots. Was I wrong to assume they could work together?"
 
 Taiga looked at his slice. "Apparently."
 
@@ -493,7 +493,7 @@ Taiga threw the crust at him.
 
 "The trail on the north ridge."
 
-Evan nodded. "I know that one, it's pretty good."
+Evan nodded. "I know that one. It's pretty good."
 
 "You've been there?"
 
@@ -515,10 +515,10 @@ Gav said, "You complain when parking is more than five minutes from the destinat
 
 Enzo looked around for support. Nobody gave him any.
 
-The group split after dinner. Leo and Enzo were trying to convince Aaron that saying "goodnight" once, didn't count as a love declaration from Sofia. Evan was trying to make Scott repeat his Mercer impression while Scott denied having one.
+The group split after dinner. Leo and Enzo were trying to convince Aaron that saying "goodnight" once didn't count as a love declaration from Sofia. Evan was trying to make Scott repeat his Mercer impression while Scott denied having one.
 Gav pulled out a chessboard and challenged Taiga.
 
-"Okay, then knight to e-5."
+"Okay, then knight to e5."
 
 Taiga smiled with satisfaction. Gav had to choose whether to sacrifice a bishop or his other knight.
 
@@ -532,7 +532,7 @@ Taiga blinked.
 
 "I hate you."
 
-"You're not bad though, that was a nice fork. You should consider joining the chess club."
+"You're not bad, though. That was a nice fork. You should consider joining the chess club."
 
 "Just how many clubs are you in?"
 
