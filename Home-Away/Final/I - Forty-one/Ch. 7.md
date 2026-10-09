@@ -364,7 +364,7 @@ He had lasted less than five minutes before muting it, and Enzo was complaining 
 
 "You send something like 50 messages per hour."
 
-From the other side of the locker room, Aaron said
+Aaron called from the other side of the locker room.
 
 "Everybody has the chat muted."
 
@@ -386,12 +386,12 @@ Leo added, "In our defense, the runner was very sneaky."
 
 House Apollo sat apart from the main athletic buildings, a broad stone building marked with the sun emblem Taiga now saw on training gear, jackets and travel bags. 
 
-Inside, the trophy cases and old team photographs were more ceremonial than the rest of the building. Upstairs, the common lounge consisted in four big sofas, two tables and a kitchen.
+Inside, the trophy cases and old team photographs were more ceremonial than the rest of the building. Upstairs, the common lounge was basically four big sofas, two tables and a kitchen.
 
 The film room was down the hall. Mercer arrived and the room settled.
 He had chosen their last reserve match recording.
 
-The useful part of film was discovering that things Taiga barely remembered doing had tactical meaning. Mercer froze a sequence with Taiga holding width on the left while the ball sat on the opposite side.
+Apparently, even things Taiga barely remembered doing had tactical meaning. Mercer froze a sequence with Taiga holding width on the left while the ball sat on the opposite side.
 
 "Akatora. What are you doing?"
 
@@ -459,7 +459,7 @@ Leo looked up. "The pizza?"
 Taiga looked at his slice. "Apparently."
 
 Leo laughed and flipped him off.
-Conversation moved through classes, training and Enzo trying to recruit people for the Agora. 
+Conversation drifted through classes, training and Enzo's increasingly aggressive campaign to get people to the Agora.
 
 Eventually Enzo asked, "Hey Taiga, you do anything outside soccer?"
 
@@ -540,7 +540,7 @@ Taiga blinked.
 
 "Birdwatching?"
 
-He cursed himself a minute later, when Gav dived into explaining the whole biodiversity of the local birdlife around Olympus City.
-They ended up abandoning the chess game.
+He regretted asking almost immediately when Gav launched into the bird species around Olympus City.
+At some point, Gav stopped moving pieces entirely.
 
 Eventually, Taiga left. When he checked the time on his way out, it was 9:20.
