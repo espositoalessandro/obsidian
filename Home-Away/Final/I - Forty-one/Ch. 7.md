@@ -610,7 +610,7 @@ Taiga studied the physical map. “Take the left for about a kilometer. There's 
 
 The detour was quieter. Suddenly, they were alone in the woods. That was familiar enough to make Taiga smile. 
 
-They stopped beside a low stone wall. Through the trees, Acropolis Park spread below them, campus reduced to a small patch of buildings and the stadium shape.
+They stopped beside a low stone wall. Through the trees, Acropolis Park spread below them, campus reduced to a small patch of buildings.
 
 Maya sat beside Taiga. "Looks like you're in your element."
 
@@ -638,8 +638,6 @@ Maya sat beside Taiga. "Looks like you're in your element."
 
 "Okay, now I get why you're so attached to that place."
 
-He gave a melancholy smile.
-
 "Yeah."
 
 After ten minutes they resumed. The connector was exactly where Taiga said it would be.
@@ -656,7 +654,7 @@ Maya snorted.
 The trail leveled near some old stone foundations half swallowed by roots and lichens. Caleb read every information sign, while Maya photographed all the plants growing in the ruins. 
 Taiga understood why they worked so well together. He wandered to a low wall overlooking the slope and rested one hand against the cold stone.
 
-For a few minutes there was nothing to do except look at the trees and the city below.
+For a while there was nothing to do except look at the trees and the city below.
 
 Maya appeared beside him a few minutes later.
 
@@ -676,7 +674,7 @@ Maya looked at him. “How do you know?”
 
 Taiga pushed away from the wall. “Let's go.”
 
-The overlook was crowded, but it was beautiful enough to balance it out. There was a broad stone platform rising above the trees with a stone railing all around.
+The overlook was crowded, but it was beautiful enough to balance it out. There was a broad platform rising above the trees with a stone railing all around.
 Olympus City spread blow. Taiga could see the Emporio's towers rising in the distance. He could also see a small section of Olympus University, the entrance arc and the central park. 
 Maya leaned on the railing.
 
@@ -765,7 +763,7 @@ Maya smiled. “Scout wisdom.”
 
 Maya sent him a kiss. 
 
-When they reached Acropolis Park, they stopped at a café before taking the train. Taiga bought a coffee for a very touristic price and complained about it for a full minute.
+When they reached the station area, they stopped at a café before taking the train. Taiga bought a coffee for a very touristic price and complained about it for a full minute.
 
 They returned to campus just before six. At the gate, the crowd thickened around familiar buildings again. 
 Maya hugged Caleb goodbye, then looked at Taiga.
@@ -881,7 +879,7 @@ God, was he annoying.
 
 **Taiga:** i said stop calling me that
 
-**Leo:** make me :3
+**Leo:** file an official complain
 
 **Taiga:** die
 
