@@ -11,7 +11,6 @@ He opened it.
 
 *Your first-year program planning appointment is today at 14:30 with Dr. Elena Park. Please review your current academic pathway and intended course selections before attendance.*
 
-
 Two out of three, which meant bad enough to ruin at least half of his day.
 
 His face must've been pretty eloquent because Caleb looked up from his oatmeal.
