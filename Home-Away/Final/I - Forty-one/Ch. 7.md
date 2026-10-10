@@ -483,7 +483,7 @@ Taiga looked at him.
 
 Taiga considered throwing crust at him.
 
-"I'm hiking this Sunday."
+"I'm hiking this Sunday with my roommate and his girlfriend."
 
 Enzo perked up. "Still not a hobby, but I'll take it."
 
