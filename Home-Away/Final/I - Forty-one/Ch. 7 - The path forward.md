@@ -249,7 +249,7 @@ He smiled and left.
 
 On his way out, his phone buzzed in his pocket.
 
-**Caleb:** Maya asked if you're free on Sunday and if you wanted to hike at Acropolis Park.
+**Caleb:** Maya asked if you're free on Sunday and if you want to hike at Acropolis Park.
 
 He sent a link to a trail. It wasn't half bad at all.
 
