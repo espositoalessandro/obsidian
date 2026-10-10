@@ -295,7 +295,7 @@ Taiga frowned.
 
 "What kind of question is that?"
 
-Nora sighed, "It's called small talk, Taiga. Unless you only want to talk about classes."
+Nora sighed. "It's called small talk, Taiga. Unless you only want to talk about classes."
 
 He blinked, but couldn't argue with that.
 
@@ -303,11 +303,11 @@ He blinked, but couldn't argue with that.
 
 She raised her eyebrows in surprise.
 
-"Okay I didn't expect that. Where?"
+"Okay, I didn't expect that. Where?"
 
 "Acropolis' mountain."
 
-Her face lit up, "Oh!"
+Her face lit up. "Oh!"
 
 "You've been?"
 
@@ -337,7 +337,7 @@ Taiga froze for half a second.
 
 "People have no survival instinct."
 
-Nora laughed, "Maybe not."
+Nora laughed. "Maybe not."
 
 They walked in silence for a minute, then eventually went to get some proper food from a stall at the University Center.
 
@@ -398,7 +398,7 @@ Apparently, even things Taiga barely remembered doing had tactical meaning. Merc
 
 "Why?"
 
-"If I go inside, their fullback no longer has to stay wide with me"
+"If I go inside, their fullback no longer has to stay wide with me."
 
 Mercer resumed the clip. The ball switched. Taiga received in space and forced a corner.
 Later the footage stopped on a bad press. Taiga had waited until the receiver already controlled the ball before moving.
@@ -588,7 +588,7 @@ Taiga stepped outside. Wet soil. Leaves. Actual terrain.
 Finally.
 
 The first kilometer was crowded with families, joggers and other students. Two of them were carrying a speaker.
-Taiga hated them immediately, Caleb put on his noise-reduction earplugs. Maya looked at them with a disgusted face.
+Taiga hated them immediately. Caleb put on his noise-reduction earplugs. Maya looked at them in disgust.
 
 "Criminals."
 
@@ -633,13 +633,13 @@ Maya sat beside Taiga. "Looks like you're in your element."
 
 "How long have you been going there?"
 
-"This summer was my third term. Although I've stayed there as a volunteer for the whole year. We had this big renovation project and I helped a bit."
+"This summer was my third term, but I also stayed there as a volunteer for the whole year. We had this big renovation project and I helped a bit."
 
 "Okay, now I get why you're so attached to that place."
 
 "Yeah."
 
-After ten minutes they resumed. The connector was exactly where Taiga said it would be.
+After ten minutes, they resumed. The connector was exactly where Taiga said it would be.
 
 "You were right," Caleb said.
 
@@ -738,9 +738,9 @@ Caleb blinked.
 
 "No. It was a fact."
 
-Another pause of a second. Then Taiga and Maya burst out laughing.
+Another second passed. Then Taiga and Maya burst out laughing.
 
-"What's funny in my suffering?"
+"What's funny about my suffering?"
 
 "Take shorter steps," said Taiga between laughs.
 
@@ -796,7 +796,7 @@ Taiga sat on the edge of his bed and opened the photos. Maya had taken one witho
 
 He smiled and saved it.
 
-While he was deleting a duplicate, a notification appeared on the top of the screen.
+While he was deleting a duplicate, a notification appeared at the top of the screen.
 
 **Unknown:** hey, leo here
 **Unknown:** took your number from the soccer group chat
@@ -861,14 +861,14 @@ Taiga was about to lock his phone when three dots appeared again.
 
 Leo didn't send anything else. Before putting the phone away, he saved his number. 
 
-Taiga finally stood from his bed and went to shower. Hot water after a long hike like that was always a blessing. 
+Taiga finally got up from his bed and went to shower. Hot water after a long hike like that was always a blessing. 
 That made him think about the showers in his cabin after a day of activities, back at camp.
 He smiled. 
 
-Then, he came back in the room and opened his laptop. Sadly, university still existed and Professor Hall assigned them 37 pages of reading. Which was borderline criminal, since it was due for Monday.
+Then he came back into the room and opened his laptop. Sadly, university still existed and Professor Hall assigned them 37 pages of reading. Which was borderline criminal, since it was due for Monday.
 
-His phone buzzed. Camp Buddy group was talking about something concerning Natsumi and his roommate. 
-Apparently, they had a pretty different vision about what was considered "clean". Nobody was surprised by that.
+His phone buzzed. The Camp Buddy group was talking about something involving Natsumi and his roommate. 
+Apparently, they had very different ideas about what counted as "clean". Nobody was surprised by that.
 
 Taiga also noticed another notification. Leo had sent him another message while he was in the shower.
 
