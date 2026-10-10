@@ -11,7 +11,7 @@ He opened it.
 
 *Your first-year program planning appointment is today at 14:30 with Dr. Elena Park. Please review your current academic pathway and intended course selections before attendance.*
 
-Two out of three, which meant bad enough to ruin at least half of his day.
+Two out of three, which meant bad enough to ruin at least half of his day. As if Monday needed any help. 
 
 His face must've been pretty eloquent because Caleb looked up from his oatmeal.
 
@@ -76,7 +76,7 @@ Then there was Computer Science.
 
 Taiga had learned some programming back in school, of course, but it never really clicked for him. 
 Then he saw what Hyunjin did for Camp Buddy: building a whole website looked a lot like crafting to him. Just with code.
-So, when Jin came back as a scout during Taiga's third summer at Camp Buddy, after the renovations, he showed him the basics.
+So, when Hyunjin came back as a scout during Taiga's third summer at Camp Buddy, after the renovations, he showed him the basics.
 
 Under the grid, a section showed
 
@@ -148,7 +148,7 @@ Taiga thought for a couple of seconds, even though he already knew the answer.
 
 That was harder.
 
-"They had results I could actually see. Programs actually do stuff. Reagents physically turn into other things."
+"They had results I could see. Programs actually do stuff. Reagents physically turn into other things."
 
 "Good. So you like practical classes with practical outcomes, am I right?"
 
@@ -398,7 +398,7 @@ Apparently, even things Taiga barely remembered doing had tactical meaning. Merc
 
 "Why?"
 
-"If I go inside, their fullback can cover both."
+"If I go inside, their fullback no longer has to stay wide with me"
 
 Mercer resumed the clip. The ball switched. Taiga received in space and forced a corner.
 Later the footage stopped on a bad press. Taiga had waited until the receiver already controlled the ball before moving.
@@ -651,7 +651,7 @@ After ten minutes they resumed. The connector was exactly where Taiga said it wo
 
 Maya snorted. 
 The trail leveled near some old stone foundations half swallowed by roots and lichens. Caleb read every information sign, while Maya photographed all the plants growing in the ruins. 
-Taiga understood why they worked so well together. He wandered to a low wall overlooking the slope and rested one hand against the cold stone.
+Taiga wandered to a low wall overlooking the slope and rested one hand against the cold stone.
 
 For a while there was nothing to do except look at the trees and the city below.
 
@@ -861,11 +861,11 @@ Taiga was about to lock his phone when three dots appeared again.
 
 Leo didn't send anything else. Before putting the phone away, he saved his number. 
 
-He finally stood from his bed and went to shower. Hot water after a long hike like that was always a blessing. 
+Taiga finally stood from his bed and went to shower. Hot water after a long hike like that was always a blessing. 
 That made him think about the showers in his cabin after a day of activities, back at camp.
-Taiga smiled, lost in the nostalgia. 
+He smiled. 
 
-He came back in the room and opened his laptop. Sadly, university still existed and Professor Hall assigned them 37 pages of reading. Which was borderline criminal, since it was due for Monday.
+Then, he came back in the room and opened his laptop. Sadly, university still existed and Professor Hall assigned them 37 pages of reading. Which was borderline criminal, since it was due for Monday.
 
 His phone buzzed. Camp Buddy group was talking about something concerning Natsumi and his roommate. 
 Apparently, they had a pretty different vision about what was considered "clean". Nobody was surprised by that.
