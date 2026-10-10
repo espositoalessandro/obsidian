@@ -249,7 +249,7 @@ He smiled and left.
 
 On his way out, his phone buzzed in his pocket.
 
-**Caleb:** Maya asked if you're free on Sunday and if you wanted to hike at Acropolis Sunday.
+**Caleb:** Maya asked if you're free on Sunday and if you wanted to hike at Acropolis Park.
 
 He sent a link to a trail. It wasn't half bad at all.
 
@@ -674,7 +674,7 @@ Maya looked at him. “How do you know?”
 Taiga pushed away from the wall. “Let's go.”
 
 The overlook was crowded, but it was beautiful enough to balance it out. There was a broad platform rising above the trees with a stone railing all around.
-Olympus City spread below. Taiga could see the Emporio's towers rising in the distance. He could also see a small section of Olympus University, the entrance arch and Central Park. 
+Olympus City spread out below. Taiga could see the Emporio's towers rising in the distance. He could also see a small section of Olympus University, the entrance arch and Central Park. 
 Maya leaned on the railing.
 
 "Okay. That's nice."
