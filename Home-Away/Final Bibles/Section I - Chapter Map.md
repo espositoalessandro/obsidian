@@ -184,7 +184,9 @@ Taiga begins doing Olympus things that are not required.
 
 House Apollo, lunch with Nora and the Acropolis hike matter because they are no longer scholarship obligations, roommate necessities, academic requirements or football sessions. He starts spending time with people simply because he wants to.
 
-At the same time, the unresolved major question should enter the background. Taiga is clearly capable in Computer Science and increasingly interested in it, but still resists treating that interest as a life decision.
+At the same time, the unresolved major question enters the background. Taiga is clearly capable in Computer Science and increasingly interested in it, but still resists treating that interest as a life decision.
+
+The chapter also opens a new social channel with Leo: private texting begins for a legitimate practical reason, but Taiga does not treat the contact itself as meaningful.
 
 ### Movement
 
@@ -194,15 +196,14 @@ And, academically:
 
 **I do not know what I am choosing → apparently I already have preferences.**
 
-### Current likely anchors
+### Current anchors
 
+- Monday academic advising with Elena Park seeds the major problem without resolving it. Taiga remains undeclared; the provisional next-semester route keeps both Computer Science and Chemistry open.
 - Caleb and Maya invite Taiga to hike Acropolis; he says yes.
-- Required House Apollo film ends; Taiga could leave, but stays for food and conversation.
-- Lunch with Nora absorbs the useful non-classroom material from the old Political Institutions sequence: outside-campus life, Camp Buddy background, Acropolis, Nora's family / Oliver, and the request for a photo from the overlook.
-- The major problem is seeded lightly through advising, course planning or a small CS beat. Do **not** resolve it here.
-- The Acropolis hike remains the chapter's main event.
-- Taiga sends the overlook photo to Nora and Camp Buddy.
-- He later stars Acropolis Park in his map app.
+- Lunch with Nora moves their friendship outside class. Nora reframes Taiga's complaint that everyone is “making” him do things as people repeatedly inviting him places, and asks for a photo from the overlook.
+- Thursday House Apollo film review is required; once it ends, Taiga could leave but stays voluntarily for food, conversation, chess and the team's ordinary social life.
+- The Sunday Acropolis hike remains the chapter's main event. Taiga is comfortable and competent outdoors, talks naturally about Camp Buddy with Maya, helps navigate the detour, sends Nora the requested viewpoint photo and later saves Maya's candid photo from the day.
+- Leo texts Taiga privately for the first time after the hike. The youth clinic provides a legitimate reason for contact; once the logistics are finished, Leo keeps the conversation going by asking about the hike and later messages again. Taiga saves his number but files the whole thing under the consequences of his Apollo “initiation” / Leo being annoying rather than examining it.
 
 ### Guardrail
 
@@ -210,7 +211,7 @@ Taiga does not need to become socially enthusiastic. Voluntary participation can
 
 Do not let the major material take over the chapter. Chapter 7 is still fundamentally about **choosing to participate**, not choosing a degree.
 
-No romantic escalation with Leo. The physical-attraction compartment remains stable.
+The first Leo DM is a small relationship escalation, not romantic destabilization. The reader may notice that Leo continues the conversation beyond its practical purpose, but the contact must remain fully deniable as ordinary Leo sociability. Taiga does not become nervous, fixated or unusually attentive, and the physical-attraction compartment remains stable.
 
 ---
 
@@ -234,23 +235,25 @@ And socially:
 
 ### Current likely structure
 
-- Open with compressed major pressure: advising, Rao / CS work, course planning or another concrete reminder that Taiga has to choose.
+- Open with a concrete reminder that Taiga still has to choose a direction, building on Park's provisional schedule rather than repeating the Chapter 7 advising scene. Rao / CS work, registration planning or another practical academic beat can supply the pressure.
 - Enzo organizes the Arcadia outing.
 - Taiga goes voluntarily.
 - Arcadia provides the chapter's main body: Apollo ensemble comedy, games, dinner and ordinary personal information outside football.
 - The quieter train ride home gives Taiga and Leo their first substantial personal conversation.
-- After Arcadia, Taiga recognizes that the next courses he wants are already Computer Science courses and declares the major.
-- **Leo texts Taiga privately for the first time afterward.**
+- After Arcadia, Taiga recognizes that the next courses he actually wants are already Computer Science courses and declares the major.
+- Private texting with Leo continues after Arcadia. The channel already exists; the development comes from Leo's tone, persistence and personal attention becoming slightly more noticeable, not from the fact that he has Taiga's number.
 
 ### Leo / romance note
 
+Chapter 7 plants only a fully deniable hint: Leo has a legitimate reason to text, keeps the conversation going after that reason is exhausted, and messages again later. Taiga treats this as normal / annoying and does not interrogate it.
+
 Arcadia is the first point where the reader may reasonably infer that **Leo has started seeing Taiga differently**.
 
-The private text should therefore feel slightly more deliberate than Leo's previous social contact while retaining a legitimate excuse — grades, Rao, the declaration, next semester's classes, etc. Leo may keep the conversation going, reply quickly, react warmly or show slightly disproportionate enthusiasm.
+After Arcadia, Leo's private contact may become slightly more deliberate: he can continue a conversation after its natural endpoint, reply quickly, remember small details, use Taiga's name more personally, react warmly or show slightly disproportionate enthusiasm. Because private texting is already established, Chapter 8 does **not** need to manufacture another “first contact” excuse.
 
 This is the first subtle sign of **Leo flirting**, but it must remain deniable.
 
-Taiga does **not** interpret it romantically. He still considers Leo an attractive teammate / friend whose company he enjoys. No nervousness, fixation, "why did he text me?" spiral or special narrative gravity.
+Taiga does **not** interpret it romantically. He still considers Leo an attractive teammate / friend whose company he enjoys. No nervousness, fixation, "why did he text me?" spiral, stomach-drop reaction or special narrative gravity.
 
 ---
 
