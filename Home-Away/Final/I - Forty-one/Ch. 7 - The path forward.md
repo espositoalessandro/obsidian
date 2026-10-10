@@ -26,7 +26,7 @@ The grid with his classes looked weirdly accusatory.
 
 **Political Institutions**
 **Calculus I**
-**General Chemistry I \+ Lab**
+**General Chemistry I + Lab**
 **Foundations of Computer Science**
 
 Taiga took a breath. Too soon for that.
@@ -550,37 +550,37 @@ At exactly 7:03, Caleb's alarm system declared the day started.
 They slowly got dressed. Taiga picked his hiking pants and shoes and an old shirt. 
 Caleb had packed like they were crossing a continent: water, food, rain shell, battery, first-aid kit and a printed route.
 
-“You printed the map.”
+"You printed the map."
 
-“Yes.”
+"Yes."
 
-“The phone works offline.”
+"The phone works offline."
 
-“Yes.”
+"Yes."
 
-“So why?”
+"So why?"
 
-“Redundancy.”
+"Redundancy."
 
-“Of course.”
+"Of course."
 
 They met Maya at the Olympus station. She took one look at Caleb's pack.
 
-“Why do you have three liters of water?”
+"Why do you have three liters of water?"
 
-“You said two liters minimum.”
+"You said two liters minimum."
 
-“I said *I* was bringing two.”
+"I said *I* was bringing two."
 
-“That implied a standard.”
+"That implied a standard."
 
-“No, it implied my bottle holds two.”
+"No, it implied my bottle holds two."
 
 Caleb frowned. Maya kissed his cheek.
 
-“Good morning.”
+"Good morning."
 
-“Good morning.”
+"Good morning."
 
 The train carried them out of the university district toward Acropolis Park and then the greener edge of the city.
 
@@ -599,13 +599,13 @@ Halfway up, they reached a closure.
 
 **TEMPORARY CLOSURE — TRAIL MAINTENANCE**
 
-Caleb stared at his route app. “This isn't on the map.”
+Caleb stared at his route app. "This isn't on the map."
 
-“The sign is more current than the phone,” Taiga said.
+"The sign is more current than the phone," Taiga said.
 
-“The left trail reconnects, but it adds distance.”
+"The left trail reconnects, but it adds distance."
 
-Taiga studied the physical map. “Take the left for about a kilometer. There's a marked connector before the steep section.”
+Taiga studied the physical map. "Take the left for about a kilometer. There's a marked connector before the steep section."
 
 The detour was quieter. Suddenly, they were alone in the woods. That was familiar enough to make Taiga smile. 
 
@@ -641,13 +641,13 @@ Maya sat beside Taiga. "Looks like you're in your element."
 
 After ten minutes they resumed. The connector was exactly where Taiga said it would be.
 
-“You were right,” Caleb said.
+"You were right," Caleb said.
 
-“I know.”
+"I know."
 
-“You complain when people don't acknowledge that.”
+"You complain when people don't acknowledge that."
 
-“I complain when *you* don't.”
+"I complain when *you* don't."
 
 Maya snorted. 
 The trail leveled near some old stone foundations half swallowed by roots and lichens. Caleb read every information sign, while Maya photographed all the plants growing in the ruins. 
@@ -657,21 +657,21 @@ For a while there was nothing to do except look at the trees and the city below.
 
 Maya appeared beside him a few minutes later.
 
-“Worth eight-forty-two?”
+"Worth eight-forty-two?"
 
-Taiga smiled. “Maybe.”
+Taiga smiled. "Maybe."
 
-Caleb approached behind them. “The viewpoint is another twenty-eight minutes.”
+Caleb approached behind them. "The viewpoint is another twenty-eight minutes."
 
-Maya looked at him. “How do you know?”
+Maya looked at him. "How do you know?"
 
-“The sign says 1.4 kilometers.”
+"The sign says 1.4 kilometers."
 
-“That doesn't answer the question.”
+"That doesn't answer the question."
 
-“I estimated.”
+"I estimated."
 
-Taiga pushed away from the wall. “Let's go.”
+Taiga pushed away from the wall. "Let's go."
 
 The overlook was crowded, but it was beautiful enough to balance it out. There was a broad platform rising above the trees with a stone railing all around.
 Olympus City spread out below. Taiga could see the Emporio's towers rising in the distance. He could also see a small section of Olympus University, the entrance arch and Central Park. 
@@ -696,17 +696,17 @@ Then he locked his phone and put it away.
 
 Caleb was still looking at the city. Maya smiled.
 
-“Good thing you came.”
+"Good thing you came."
 
 Taiga leaned against the railing.
 
-“That almost sounded sentimental.”
+"That almost sounded sentimental."
 
-“I was talking about the weather.”
+"I was talking about the weather."
 
-“You're a liar.”
+"You're a liar."
 
-“A little.”
+"A little."
 
 They sat on the benches and ate their sandwiches, while Caleb complained that the bench design trapped water after rain.
 
@@ -752,7 +752,7 @@ He tried for a minute.
 
 "That's actually better."
 
-Maya smiled. “Scout wisdom.”
+Maya smiled. "Scout wisdom."
 
 "Walking shouldn't require wisdom."
 
@@ -767,30 +767,30 @@ When they reached the station area, they stopped at a café before taking the tr
 They returned to campus just before six. At the gate, the crowd thickened around familiar buildings again. 
 Maya hugged Caleb goodbye, then looked at Taiga.
 
-“Can I hug you or are you going to become weird?”
+"Can I hug you or are you going to become weird?"
 
-“That question already made it weird.”
+"That question already made it weird."
 
-“Fair.”
+"Fair."
 
 She opened one arm anyway. Taiga sighed and stepped in. Brief squeeze, then done.
 He expected worse.
 
-“Thanks for coming.”
+"Thanks for coming."
 
-“Yeah.”
+"Yeah."
 
 Upstairs, Caleb immediately unpacked his wet things. Taiga dropped his bag by the bed.
 
-“You should remove the wet shirt,” Caleb said.
+"You should remove the wet shirt," Caleb said.
 
-“I will.”
+"I will."
 
-“It will smell.”
+"It will smell."
 
-“Caleb.”
+"Caleb."
 
-“All right.”
+"All right."
 
 Taiga sat on the edge of his bed and opened the photos. Maya had taken one without warning: Caleb looking toward the city, Taiga half turned toward her, neither of them posing. 
 
