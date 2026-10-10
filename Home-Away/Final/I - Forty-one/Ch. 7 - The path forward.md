@@ -802,7 +802,7 @@ While he was deleting a duplicate, a notification appeared on the top of the scr
 **Unknown:** took your number from the soccer group chat
 **Unknown:** hope that's alright 😅
 
-Taiga exhaled. He guessed that was another consequence of his 'initiation'.
+Taiga exhaled. He guessed that was another consequence of his "initiation".
 
 **Taiga:** yeah it's fine
 
