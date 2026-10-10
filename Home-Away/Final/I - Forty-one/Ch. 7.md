@@ -802,32 +802,44 @@ He smiled and saved it.
 While he was deleting a duplicate, a notification appeared on the top of the screen.
 
 **Unknown:** hey, leo here
-**Unknown:** took your number from the soccer group chat, hope that's alright
+**Unknown:** took your number from the soccer group chat
+**Unknown:** hope that's alright 😅
 
-Taiga guessed that was another consequence of his initiation.
+Taiga guessed that was another consequence of his 'initiation'.
 
 **Taiga:** yeah it's fine
 
 **Unknown:** clinic's running again thursday
-**Unknown:** you said you'd think about helping so figured i'd ask
+**Unknown:** if you're still interested that is
 
 He thought for a couple of seconds.
 
 **Taiga:** what time?
 
-**Leo:** 5:30  
+**Unknown:** 5:30  
 
 **Taiga:** ok  
 
-**Leo:** nice!
-**Leo:** matt's gonna be happy  
+**Unknown:** nice!
+**Unknown:** matt's gonna be happy 🥹
 
 **Taiga:** the offside kid?  
 
-**Leo:** yeah lol  
-**Leo:** he asked if forty-one was coming back
+**Unknown:** yeah lol
+**Unknown:** he asked if forty-one was coming back
 
 He smiled at the last one.
 
-**Taiga:** apparently he likes bad models
+**Taiga:** i'm already his favorite
 
+**Unknown:** yep you made an impression
+
+**Taiga:** bar was pretty low
+
+**Unknown:** ok wow fuck you
+
+Taiga was about to lock the phone when three dots appeared again.
+
+**Unknown:** so how was the hike?
+
+**Taiga:** nice but crowded
