@@ -805,7 +805,7 @@ While he was deleting a duplicate, a notification appeared on the top of the scr
 **Unknown:** took your number from the soccer group chat
 **Unknown:** hope that's alright 😅
 
-Taiga guessed that was another consequence of his 'initiation'.
+Taiga exhaled. He guessed that was another consequence of his 'initiation'.
 
 **Taiga:** yeah it's fine
 
@@ -838,8 +838,53 @@ He smiled at the last one.
 
 **Unknown:** ok wow fuck you
 
-Taiga was about to lock the phone when three dots appeared again.
+Taiga was about to lock his phone when three dots appeared again.
 
 **Unknown:** so how was the hike?
 
 **Taiga:** nice but crowded
+
+**Unknown:** ouch
+**Unknown:** but nice sounds good
+
+**Taiga:** yeah
+
+**Unknown:** 😁
+**Unknown:** caleb survived the wilderness?
+
+**Taiga:** barely
+**Taiga:** only one knee came back
+
+**Unknown:** oh 
+**Unknown:** bears?
+
+**Taiga:** worse, descent
+
+**Unknown:** 💀💀
+
+Leo didn't send anything else. Before putting the phone away, he saved his number. 
+
+He finally stood from his bed and went to shower. Hot water after a long hike like that was always a blessing. 
+That made him think about the showers in his cabin after a day of activities, back at camp.
+Taiga smiled, lost in the nostalgia. 
+
+He came back in the room and opened his laptop. Sadly, university still existed and Professor Hall assigned them a 37 pages reading. Which was borderline criminal, since it was due for Monday.
+
+His phone buzzed. Camp Buddy group was talking about something concerning Natsumi and his roommate. 
+Apparently, they had a pretty different vision about what was considerable "clean". Nobody was surprised by that.
+
+Taiga also noticed another notification. Leo had sent him another message while he was in the shower.
+
+**Leo:** anwyays, see you tomorrow ag 
+
+God, was he annoying.
+
+**Taiga:** i said stop calling me that
+
+**Leo:** make me :3
+
+**Taiga:** die
+
+Leo reacted with a heart. Taiga rolled his eyes and went back to his reading.
+
+Little shit.
