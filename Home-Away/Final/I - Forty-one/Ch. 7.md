@@ -875,7 +875,7 @@ Apparently, they had a pretty different vision about what was considerable "clea
 
 Taiga also noticed another notification. Leo had sent him another message while he was in the shower.
 
-**Leo:** anwyays, see you tomorrow ag 
+**Leo:** anyways, see you tomorrow ag 
 
 God, was he annoying.
 
