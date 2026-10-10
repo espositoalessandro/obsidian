@@ -626,7 +626,7 @@ Maya sat beside Taiga. "Looks like you're in your element."
 
 "Right, so what do you actually do there?"
 
-"During the summer term, scout stuff. Activities like sports, cooking, trails, camping, bonefires, even arts and stuff. We even go to a beach."
+"During the summer term, scout stuff. Activities like sports, cooking, trails, camping, bonfires, even arts and stuff. We even go to a beach."
 
 "That actually sounds fun."
 
@@ -675,7 +675,7 @@ Maya looked at him. “How do you know?”
 Taiga pushed away from the wall. “Let's go.”
 
 The overlook was crowded, but it was beautiful enough to balance it out. There was a broad platform rising above the trees with a stone railing all around.
-Olympus City spread blow. Taiga could see the Emporio's towers rising in the distance. He could also see a small section of Olympus University, the entrance arc and the central park. 
+Olympus City spread below. Taiga could see the Emporio's towers rising in the distance. He could also see a small section of Olympus University, the entrance arch and Central Park. 
 Maya leaned on the railing.
 
 "Okay. That's nice."
@@ -711,19 +711,19 @@ Taiga leaned against the railing.
 
 They sat on the benches and ate their sandwiches, while Caleb complained that the bench design trapped water after rain.
 
-"Caleb." said Maya.
+"Caleb," said Maya.
 
 "Yes?"
 
 "Eat."
 
-He did
+He did.
 
 ---
 
 Caleb discovered that the descent wasn't as merciful as he had hoped.
 
-"Why my knees hurt."
+"Why do my knees hurt?"
 
 "You're stressing them."
 
@@ -739,15 +739,15 @@ Caleb blinked.
 
 "No. It was a fact."
 
-Another pause of a second. Then Taiga and Maya exploded in laugh.
+Another pause of a second. Then Taiga and Maya burst out laughing.
 
 "What's funny in my suffering?"
 
-"Take shorter steps" said Taiga between the laughs.
+"Take shorter steps," said Taiga between laughs.
 
 "Why?"
 
-"So you have to do less breaking for each one."
+"So you have to do less braking with each one."
 
 He tried for a minute.
 
@@ -761,9 +761,9 @@ Maya smiled. “Scout wisdom.”
 
 "I can hear you," said Caleb from behind.
 
-Maya sent him a kiss. 
+Maya blew him a kiss. 
 
-When they reached the station area, they stopped at a café before taking the train. Taiga bought a coffee for a very touristic price and complained about it for a full minute.
+When they reached the station area, they stopped at a café before taking the train. Taiga bought a coffee for a tourist-trap price and complained about it for a full minute.
 
 They returned to campus just before six. At the gate, the crowd thickened around familiar buildings again. 
 Maya hugged Caleb goodbye, then looked at Taiga.
@@ -808,7 +808,7 @@ Taiga exhaled. He guessed that was another consequence of his 'initiation'.
 **Taiga:** yeah it's fine
 
 **Unknown:** clinic's running again thursday
-**Unknown:** if you're still interested that is
+**Unknown:** if you're still interested, that is
 
 He thought for a couple of seconds.
 
@@ -866,10 +866,10 @@ He finally stood from his bed and went to shower. Hot water after a long hike li
 That made him think about the showers in his cabin after a day of activities, back at camp.
 Taiga smiled, lost in the nostalgia. 
 
-He came back in the room and opened his laptop. Sadly, university still existed and Professor Hall assigned them a 37 pages reading. Which was borderline criminal, since it was due for Monday.
+He came back in the room and opened his laptop. Sadly, university still existed and Professor Hall assigned them 37 pages of reading. Which was borderline criminal, since it was due for Monday.
 
 His phone buzzed. Camp Buddy group was talking about something concerning Natsumi and his roommate. 
-Apparently, they had a pretty different vision about what was considerable "clean". Nobody was surprised by that.
+Apparently, they had a pretty different vision about what was considered "clean". Nobody was surprised by that.
 
 Taiga also noticed another notification. Leo had sent him another message while he was in the shower.
 
@@ -879,7 +879,7 @@ God, was he annoying.
 
 **Taiga:** i said stop calling me that
 
-**Leo:** file an official complain
+**Leo:** file an official complaint
 
 **Taiga:** die
 
