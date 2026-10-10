@@ -1,4 +1,4 @@
-### Chapter 7
+### Chapter 7 - The path forward
 
 By the eighth week of the semester, Taiga had developed a reliable method for identifying university emails that would ruin his day. They used words like *opportunity*, *engagement* or *planning*. The worst ones used all three. 
 
