@@ -4,12 +4,12 @@
 
 Taiga covered his mouth to hide his laugh. Scott wasn't exactly happy.
 
-Aaron raised a hand towards the goal, his face was red.
-Enzo grinned,
+Aaron raised a hand towards the goal, face red.
+Enzo grinned.
 
-"Thanks for the donation!".
+"Thanks for the donation!"
 
-Aaron turned, "Fuck you."
+Aaron turned. "Fuck you."
 
 Then Mercer whistled.
 
@@ -23,14 +23,14 @@ He closed his eyes and turned towards the coach.
 
 Aaron lowered his head. "It usually works."
 
-"Today it didn't. This is soccer, not a roulette."
+"Today it didn't. This is soccer, not roulette."
 
 A couple of people laughed. Aaron muttered something Taiga couldn't hear and jogged back into position.
-When the next ball reached his, he played the easiest pass available straight into Taiga's feet.
+When the next ball reached him, he played the easiest pass available straight into Taiga's feet.
 
 Taiga looked at him, raising an eyebrow.
 
-"What?", said Aaron.
+"What?" Aaron said.
 
 Taiga sent it back. "Nothing."
 
@@ -44,8 +44,7 @@ Taiga shrugged and smiled.
 
 "Pretty sure I arrived that way."
 
-Then Mercer whistled and they restarted. Aaron looked pissed for about one minute.
-
+Then Mercer whistled and they restarted. Aaron looked pissed for about a minute.
 
 Apparently, putting on an Apollo shirt didn't change people that much. Aaron was still Aaron: a show-off, taking things personally and getting over them seconds later. Enzo was still lazily chaotic, whether there was a ball involved or not. Evan wore the same proud smile whenever one of the younger players got something right.
 
@@ -55,35 +54,35 @@ Apparently, putting on an Apollo shirt didn't change people that much. Aaron was
 
 Gav pointed at the grass between Taiga and the touchline.
 
-“You’re standing in the right place at the wrong time.”
+"You're standing in the right place at the wrong time."
 
-Taiga frowned. “The fuck does that mean?”
+Taiga frowned. "The fuck does that mean?"
 
-“Means, position isn’t a point, it’s a relationship.”
+"Means position isn't a point; it's a relationship."
 
 He stepped closer and started drawing with the toe of his boot.
 
-“You, their fullback, Leo. That’s a triangle. Right now you’re flattening it.”
+"You, their fullback, Leo. That's a triangle. Right now you're flattening it."
 
 Taiga stared at the lines in the grass.
 
-“I liked soccer better when geometry wasn't involved.”
+"I liked soccer better when geometry wasn't involved."
 
-“I’m just explaining why you’re making Leo’s life harder.”
+"I'm just explaining why you're making Leo's life harder."
 
 It was up to Taiga then to decode whatever Gav was trying to say.
-Mercer whistled, he tried again. He saw Leo coming, their fullback staying there. 
+Mercer whistled and he tried again. He saw Leo coming, their fullback still there. 
 Okay, timing.
 Leo came toward the ball. Their fullback glanced at Taiga, then shifted a step inside with him.
 Taiga saw it and went.
 By the time the defender turned back, Taiga already had the space.
 The ball reached him on the run. Two touches forward, then he cut it back inside to Leo.
-Taiga saw him carrying two defenders, creating enough space for Enzo to run. Simple pass, then Enzo only had to put his foot on it.
+Taiga saw him carrying two defenders, creating enough space for Enzo to run. Simple pass; Enzo only had to put his foot on it.
 Clean as fuck.
 
 Leo was usually pure chaos. Off the pitch, he could forget something existed the second it left his sight. On it, nothing seemed to escape him.
 Two months ago, Taiga would've noticed the pass. Now he noticed the two defenders Leo had dragged with him before making it.
 Yeah, he was good.
-If only he didn't spent half of is oxygen allowance in talking.
+If only he didn't spend half of his oxygen allowance on talking.
 
 
