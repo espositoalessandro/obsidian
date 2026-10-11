@@ -70,7 +70,8 @@ Taiga stared at the lines in the grass.
 
 "I'm just explaining why you're making Leo's life harder."
 
-It was up to Taiga then to decode whatever Gav was trying to say.
+Taiga was left to decode whatever the hell Gav meant
+
 Mercer whistled and he tried again. He saw Leo coming, their fullback still there. 
 Okay, timing.
 Leo came toward the ball. Their fullback glanced at Taiga, then shifted a step inside with him.
