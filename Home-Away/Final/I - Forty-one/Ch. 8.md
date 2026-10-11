@@ -78,12 +78,115 @@ Leo came toward the ball. Their fullback glanced at Taiga, then shifted a step i
 Taiga saw it and went.
 By the time the defender turned back, Taiga already had the space.
 The ball reached him on the run. Two touches forward, then he cut it back inside to Leo.
-Taiga saw him carrying two defenders, creating enough space for Enzo to run. Simple pass; Enzo only had to put his foot on it.
-Clean as fuck.
+Taiga saw him carrying two defenders, creating enough space for Enzo to run. Simple pass; Enzo only had to put his foot on it. Clean as fuck.
 
 Leo was usually pure chaos. Off the pitch, he could forget something existed the second it left his sight. On it, nothing seemed to escape him.
 Two months ago, Taiga would've noticed the pass. Now he noticed the two defenders Leo had dragged with him before making it.
 Yeah, he was good.
+
 If only he didn't spend half of his oxygen allowance on talking.
 
+
+---
+
+After showering, Taiga was welcomed by the familiar overwhelming smell of deodorants. 
+No other smell could even hope to challenge that.
+
+Taiga had just pulled a clean shirt over his head when Enzo climbed onto the bench between two rows of lockers. 
+
+"Ladies and gentlemen."
+
+There he goes.
+
+"You dumped me last weekend. Since I love you all, I'll give you a chance to redeem yourselves."
+
+Scott was still drying his hair and suddenly started to hurry up.
+Most of the other players simply ignored him.
+
+"Friday. We invade Arcadia."
+
+Aaron looked interested.
+
+"Arcadia is actually nice."
+
+Enzo pointed and smiled. "One in."
+
+"I didn't say yes."
+
+"You did implicitly."
+
+Leo raised his head. "I'm in, but only if we go to the arcade!"
+
+"We will. That's two. Ask Mia as well."
+
+Then he pointed. "Gav."
+
+"No, I have an assignment."
+
+"Due?"
+
+"Monday."
+
+"Then you got all weekend. Three in. Scott?"
+
+Gav didn't even try to argue back. Scott was tying his shoes as quickly as he could.
+Not fast enough though.
+
+"I- Uh... I don't know?"
+
+"Good, four."
+
+"I'm in as well," said Evan.
+
+Enzo was happy as a baby at Christmas.  Then he pointed at Taiga.
+
+"Forty-one!"
+
+Taiga closed his locker.
+
+"What."
+
+"You ever been to Arcadia?"
+
+"No."
+
+"Then we're fixing that."
+
+Taiga looked at him. 
+
+"Fix what?"
+
+"Doctors say that going out is good for your health, so you must come."
+
+"No."
+
+Enzo didn't even flinch.
+
+"Good. So, it's me, Leo, Aaron and potentially Sofia-"
+
+"I didn't say yes."
+
+"-Scott is spiritually confirmed, Gav is in denial-"
+
+"I'm not coming."
+
+"-Mia hasn't answered yet and Evan. That's settled."
+
+He looked satisfied, even if half of the people he mentioned didn't actually agreed.
+
+Taiga pushed the door open and went outside. His phone buzzed inside his bag before he'd made it ten steps outside the field.
+
+**⚽️ Apollo ☀️**
+
+**Enzo:** friday 6:25 olympus station  
+**Enzo:** arcadia  
+**Enzo:** attendance mandatory unless you have a very good excuse
+
+**Gav:** I have an assignment.
+
+**Enzo:** denied
+
+Taiga smiled and put the phone away.
+
+---
 
