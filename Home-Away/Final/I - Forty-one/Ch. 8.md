@@ -74,14 +74,16 @@ Taiga stared at the lines in the grass.
 It was up to Taiga then to decode whatever Gav was trying to say.
 Mercer whistled, he tried again. He saw Leo coming, their fullback staying there. 
 Okay, timing.
-He saw the triangle among them. 
-Ball arrived to him, he sent it straight to where he knew Leo would go. 
-And Leo went.
-Taiga saw him carrying two defenders, creating enough space for Enzo to run. Simple pass, Enzo only had to put his feet. 
+Leo came toward the ball. Their fullback glanced at Taiga, then shifted a step inside with him.
+Taiga saw it and went.
+By the time the defender turned back, Taiga already had the space.
+The ball reached him on the run. Two touches forward, then he cut it back inside to Leo.
+Taiga saw him carrying two defenders, creating enough space for Enzo to run. Simple pass, then Enzo only had to put his foot on it.
 Clean as fuck.
 
-Leo was usually pure chaos. He could forgot something existed as soon as it leaved his eyes. But when he heard the whistle, Taiga could see every his fucking sense focusing on the pitch.
-After almost two months of playing soccer, now he could see how good Leo actually was. 
-If only he didn't spent half of is breath allowance in talking.
+Leo was usually pure chaos. Off the pitch, he could forget something existed the second it left his sight. On it, nothing seemed to escape him.
+Two months ago, Taiga would've noticed the pass. Now he noticed the two defenders Leo had dragged with him before making it.
+Yeah, he was good.
+If only he didn't spent half of is oxygen allowance in talking.
 
 
