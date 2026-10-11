@@ -47,8 +47,7 @@ Taiga shrugged and smiled.
 Then Mercer whistled and they restarted. Aaron looked pissed for about one minute.
 
 
-Apparently, putting on an Apollo shirt didn't change people that much. Aaron was still Aaron: showoff, takes things personally and then gets over them in seconds. 
-Same thing applied for Enzo, lazily chaotic in and outside the field. Evan had same proud smile whenever a younger player did something correct.
+Apparently, putting on an Apollo shirt didn't change people that much. Aaron was still Aaron: a show-off, taking things personally and getting over them seconds later. Enzo was still lazily chaotic, whether there was a ball involved or not. Evan wore the same proud smile whenever one of the younger players got something right.
 
 "TAIGA! GO INSIDE!"
 
