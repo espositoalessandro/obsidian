@@ -191,17 +191,17 @@ As the end of October approached, decorations slowly started accumulating all ov
 
 Olympus was definitely serious about it: plastic pumpkins covering almost every post light, skeleton masks applied on the statues, graves in the patches of central park and eerie lights at night. And, of course, actual pumpkins with candles inside everywhere.
 
-Every conversation around campus was dominated by two topics: the Halloween party and the classes selection for the following semester.
+Every conversation around campus was dominated by two topics: the Halloween party and spring registration.
 
 Taiga hated talking about both.
 
 "So, registrations are open."
 
-Nora was walking besides him on the way for the library.
+Nora was walking beside him on the way to the library.
 
 "Good for them," Taiga answered.
 
-"Have decided slash have any idea slash even considered what to pick?"
+"Have you decided slash have any idea slash even considered what to pick?"
 
 "Yes."
 
@@ -240,7 +240,7 @@ Nora looked at it for a couple of seconds.
 
 She exhaled.
 
-"You don't need me to tell you that this is basically CS major, right?"
+"You don't need me to tell you that this is basically a CS major, right?"
 
 "Right, I don't."
 
@@ -250,7 +250,7 @@ Nora chuckled.
 
 "And you?"
 
-"I've chosen Political Science as major."
+"I've chosen Political Science as my major."
 
 "Of course you have."
 
@@ -260,8 +260,8 @@ Nora chuckled.
 
 "Oh, fuck you."
 
-They say at their usual spot on the second floor. Apparently, the library was considered sacred enough to not put decorations in there. 
-This, or the librarian was keeping destroying all of them until students eventually stopped trying.
+They sat at their usual spot on the second floor. Apparently, the library was sacred enough to be spared the decorations.
+That, or the librarian kept destroying all of them until students eventually stopped trying.
 
 Halfway through his Chemistry assignment, Taiga saw Nora grimacing at her phone. 
 
@@ -285,10 +285,10 @@ Nora laughed. "Definitely not."
 
 "Probably some skin infection."
 
-Taiga nodded and went back to his assignment. On a separate tab, there was the Olympus website with the class declaration page. 
+Taiga nodded and went back to his assignment. On a separate tab, there was the Olympus website with the major declaration page.
 Just there, opened.
 
-After a while, Nora asked "You didn't tell me how was the hike, by the way."
+After a while, Nora asked, "You never actually told me how the hike went, by the way."
 
 Taiga looked up. "You didn't ask."
 
@@ -312,9 +312,9 @@ She simply shrugged. "I want to see them too."
 
 "This doesn't justify the military tone."
 
-Nora smiled, "You didn't say no, though."
+Nora smiled. "You didn't say no, though."
 
-"You didn't give my a time."
+"You didn't give me a time."
 
 "Okay, next Sunday?"
 
