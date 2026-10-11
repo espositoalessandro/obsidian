@@ -46,13 +46,13 @@ Taiga shrugged and smiled.
 
 Then Mercer whistled and they restarted. Aaron looked pissed for about one minute.
 
-Classic Aaron.
 
-Around him, teammates were slowly becoming actual people, other than soccer player. Seeing them outside the pitch, their personality wasn't so different whether they had the Apollo shirt or not.
+Apparently, putting on an Apollo shirt didn't change people that much. Aaron was still Aaron: showoff, takes things personally and then gets over them in seconds. 
+Same thing applied for Enzo, lazily chaotic in and outside the field. Evan had same proud smile whenever a younger player did something correct.
 
 "TAIGA! GO INSIDE!"
 
-...Except for Scott, that is. 
+...Scott was another matter.
 
 Gav pointed at the grass between Taiga and the touchline.
 
