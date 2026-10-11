@@ -592,3 +592,383 @@ Taiga stared at the time, then set an alarm for 6:05.
 
 There. Decision made.
 
+---
+
+## Recovered generated version
+
+Friday afternoon was apparently when Olympus University expected eighteen-year-olds to make decisions responsibly.
+
+At 3:00 sharp, Taiga's spring registration window opened.
+
+At 3:01, the portal stopped responding.
+
+"Of course."
+
+Caleb looked over from his desk.
+
+"What happened?"
+
+"Nothing."
+
+"The registration website?"
+
+Taiga refreshed.
+
+Nothing.
+
+Caleb nodded. "That happened to Maya last year."
+
+"Useful information thirty seconds late."
+
+"I didn't know it would happen to you."
+
+The page loaded.
+
+Taiga immediately stopped complaining.
+
+Park's draft schedule was still saved exactly where she'd left it.
+
+**Data Structures**  
+**Discrete Structures**  
+**Calculus II**  
+**General Chemistry II**
+
+Four classes. Four green buttons beside them.
+
+It should have been easy.
+
+It almost was.
+
+Data Structures had three sections. One started at eight in the morning, which made it fictional. One conflicted with Chemistry lab. The third put him in class until five on Tuesday.
+
+Taiga stared at the options.
+
+"Why is Tuesday always terrible?"
+
+Caleb turned slightly.
+
+"You said that after advising."
+
+"I was right then too."
+
+He picked the five o'clock section.
+
+Discrete Structures was easier. Calculus II had the professor Park recommended and a seat left in the section he wanted. Chemistry II came with another lab, because apparently one semester of measuring liquids badly wasn't enough.
+
+Taiga clicked through the final review.
+
+The schedule appeared in a grid.
+
+Monday looked fine. Wednesday looked fine. Thursday was ugly because of lab. Friday ended before lunch.
+
+Tuesday was an act of violence.
+
+Still.
+
+He looked at the course list again.
+
+**CS 201 — Data Structures**  
+**CS 215 — Discrete Structures**  
+**MATH 122 — Calculus II**  
+**CHEM 102 — General Chemistry II**
+
+Underneath it:
+
+**Current program: Undeclared**
+
+Taiga stopped.
+
+Not because anything had changed. It was the same word that had been sitting there since August.
+
+It just looked slightly stupid under two Computer Science courses.
+
+His phone buzzed.
+
+**⚽️ Apollo ☀️**
+
+**Enzo:** WHO TOOK THE LAST SEAT IN SPORTS PSYCH  
+**Enzo:** I JUST WANNA TALK
+
+**Gav:** You weren't registered for it.
+
+**Enzo:** I WAS CONSIDERING IT
+
+**Aaron:** considering isn't enrolling
+
+**Enzo:** thank you professor
+
+Taiga smiled.
+
+Another message arrived.
+
+**Leo:** got all mine 😎
+
+**Mia:** nobody asked
+
+**Leo:** some people celebrate success mia
+
+**Mia:** some people register before the deadline
+
+Taiga looked back at his own screen.
+
+The green **SUBMIT REGISTRATION** button waited at the bottom.
+
+He clicked it.
+
+A loading circle spun for long enough to become threatening.
+
+Then:
+
+**Registration successful.**
+
+Done.
+
+That should've been satisfying.
+
+Instead his eyes went back to the line above it.
+
+**Current program: Undeclared**
+
+The sidebar had a link beneath it.
+
+**Declare or change program**
+
+Taiga moved the cursor over it.
+
+Didn't click.
+
+He already knew what the page looked like. Park had shown him.
+
+Computer Science. Chemistry. A dozen other options he could technically choose if he wanted to make the next three years substantially more complicated.
+
+He closed the tab.
+
+Registration was done. That was enough university for one afternoon.
+
+His phone buzzed again.
+
+**Enzo:** reminder  
+**Enzo:** 6:25 central  
+**Enzo:** if anybody is late i leave without you
+
+**Gav:** You are always late.
+
+**Enzo:** slander
+
+**Scott:** Train is 6:32.
+
+**Enzo:** exactly
+
+**Gav:** That gives you seven minutes.
+
+**Enzo:** plenty
+
+Taiga put the phone face down.
+
+Political Institutions was open on his laptop. Thirty-two pages for Monday.
+
+He read the same paragraph twice.
+
+Then a third time.
+
+Nothing stayed.
+
+At 3:46, he checked the time.
+
+Too early.
+
+He tried again.
+
+At 4:03, Caleb stood and started putting things into his bag.
+
+"Where are you going?"
+
+"Maya's coming. We're going to the Agora."
+
+Taiga looked up.
+
+"Today?"
+
+"Yes."
+
+"What for?"
+
+"There's a talk on flood-resilient urban design."
+
+Taiga stared.
+
+Caleb paused.
+
+"What?"
+
+"Nothing."
+
+"You used the tone."
+
+"What tone?"
+
+"The one you use when you think something is predictable."
+
+Taiga smiled.
+
+"Look at you."
+
+Caleb ignored that.
+
+"Then we're eating there."
+
+"Romantic."
+
+"We both want to attend the talk."
+
+"Even more romantic."
+
+Caleb zipped his bag.
+
+"Do you have plans?"
+
+Taiga looked at the phone.
+
+"No."
+
+Caleb followed his eyes.
+
+"The soccer team?"
+
+Taiga frowned.
+
+"Why do you assume that?"
+
+"Because the group chat has been vibrating for two days."
+
+"Could be anybody."
+
+"It has a soccer ball in the notification icon."
+
+Traitorous technology.
+
+"They're going to Arcadia."
+
+Caleb nodded.
+
+"Are you going?"
+
+"Don't know."
+
+"Okay."
+
+That was it.
+
+No analysis. No follow-up. Caleb put on his jacket.
+
+Taiga looked at him.
+
+"What?"
+
+"You usually have commentary."
+
+"I don't."
+
+"Suspicious."
+
+Caleb considered.
+
+"You went hiking last weekend."
+
+"And?"
+
+"You said it was good."
+
+"That is not commentary?"
+
+"It was an observation."
+
+"Same thing."
+
+"No."
+
+Taiga waved him away.
+
+"Go learn about flooding."
+
+"Flood resilience."
+
+"Even worse."
+
+Caleb left.
+
+The room went quiet.
+
+Taiga read another paragraph.
+
+At 4:19, he opened the Arcadia page.
+
+The place was enormous.
+
+Arcade. Bowling. VR rooms. Food. Something called **HyperCourt** that appeared to be basketball played against projected targets. A racing setup took up half one photo.
+
+Taiga closed the page.
+
+He read two more pages of Political Institutions.
+
+At 4:37, his phone buzzed.
+
+**Leo:** enzo says you're pretending not to come
+
+Taiga stared at it.
+
+Private message.
+
+Of course.
+
+**Taiga:** enzo says a lot of things
+
+Three dots appeared immediately.
+
+**Leo:** true  
+**Leo:** but he's right surprisingly often
+
+**Taiga:** statistically impossible
+
+**Leo:** wow  
+**Leo:** anyway arcade first apparently  
+**Leo:** i negotiated
+
+Taiga smiled.
+
+**Taiga:** heroic
+
+**Leo:** thank you  
+**Leo:** finally some respect
+
+The conversation stopped there.
+
+Taiga put the phone down.
+
+Looked at Political Institutions.
+
+Looked at the time.
+
+Then opened Arcadia again.
+
+The racing machines were still there.
+
+"Fuck."
+
+He checked the train.
+
+6:32.
+
+Olympus Central. Platform three.
+
+He could leave at six-ten and still make it comfortably.
+
+Taiga stared at the route for another few seconds, then set an alarm for 5:55.
+
+There.
+
+Decision made.
+
+He went back to reading.
+
+This time he got through almost an entire page before realizing he was smiling.
