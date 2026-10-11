@@ -338,8 +338,6 @@ They smiled. Taiga sat beside him and went first.
 Scott started fidgeting nervously with his hands. Taiga didn't have anything else to say, so they stayed there in silence.
 
 Aaron arrived shortly after, followed by Gav.
-They both looked at Taiga with surprise, but didn't say anything besides "Hey."
-
 Taiga heard Enzo and Leo approaching at least a minute before they actually showed up.
 Apparently, Enzo was mad because Evan had bailed. Like, really mad. 
 
@@ -362,8 +360,8 @@ Leo was smiling as well and waved at him.
 
 "Hey AG. Good to see you!"
 
-Taiga waved back.
-He was a little taken aback by seeing all of them in casual clothes. Soccer consumed so much of their contact that seeing them without athletic gear always required a tiny recalibration.
+Taiga waved back and stared at them for a second.
+Soccer consumed so much of their contact that seeing them without athletic gear always required a tiny recalibration.
 
 The train left at 6:32 on time.
 
@@ -396,7 +394,7 @@ Taiga stopped again. Aaron followed his gaze.
 
 “Coincidence.”
 
-They bought a card and put some credit on it. Apparently, Taiga wasn't the only one eyeing the racing machines because as soon as they were done, Enzo yelled
+They bought cards and put some credit on them. Apparently, Taiga wasn't the only one eyeing the racing machines because as soon as they were done, Enzo yelled
 
 "Let's do the racing first, come on!"
 
@@ -455,7 +453,7 @@ Scott looked like someone caught attempting a robbery.
 "GUYS!"
 
 Enzo yelled from the other side of the room. He'd found a rhythm game.
-Nobody looked really convinced, apart from Leo.
+Nobody else looked really convinced, apart from Leo.
 
 "Forty-one, come on!" Enzo said.
 
@@ -539,7 +537,7 @@ Enzo was proudly holding a giant stuffed shark against his chest.
 
 "I don't need to."
 
-Meanwhile, Aaron had been immediately challenged by Sofia to basketball. Of course, he accepted with a smug grin.
+Meanwhile, Sofia immediately challenged Aaron to basketball. Of course, he accepted with a smug grin.
 Which didn't last. Sofia won by twelve.
 Aaron stared at her.
 
@@ -571,7 +569,7 @@ Taiga looked over.
 
 “You said the racing machine was rigged. New chance to restore your honor.”
 
-Taiga followed him. The machine had two positions with two plastic rifles mounted to a cabinet, a giant screen, and a generic city-under-attack premise. Gav was already there with Enzo in the first cabinet.
+Taiga followed him. There were two linked machines with two plastic rifles mounted to a cabinet, a giant screen, and a generic city-under-attack premise. Gav was already there with Enzo in the first cabinet.
 
 “Perfect. Teams. You and Leo vs me and Enzo.”
 
@@ -613,8 +611,7 @@ Gav said, “That is the game.”
 
 “They're acting like professional marines.”
 
-Taiga laughed. Their stage ended and scores appeared: 3,456 vs. 4,512. 
-Enzo looked at Gav as if it was his fault.
+Taiga laughed. The stage ended and scores appeared: they won 4,512 vs. 3,456. Enzo looked at Gav as if it was his fault.
 
 "Again."
 
@@ -639,8 +636,8 @@ Stage two loaded and they went at it again.
 
 "You've got one on your right."
 
-They both turned in the opposite directions and Taiga's shoulder touched Leo's for a couple of seconds. Leo was warm despite the cool air-conditioning.
-Then a target moved, and they moved as well.
+They both slightly turned in the opposite directions and Taiga's shoulder touched Leo's for a second. Leo was warm despite the cool air-conditioning.
+Then another target appeared and they broke apart.
 
 They won again. Enzo immediately wanted a third one.
 
