@@ -337,7 +337,7 @@ They smiled. Taiga sat beside him and went first.
 
 Scott started fidgeting nervously with his hands. Taiga didn't had anything else to say, so they stayed there in silence.
 
-Aaron and Sofia arrived shortly after, followed by Gav.
+Aaron arrived shortly after, followed by Gav.
 They both looked at Taiga with surprise, but didn't say anything, besides "Hey."
 
 Taiga heard Enzo and Leo approaching way at least a minute before they actually showed up.
@@ -365,7 +365,7 @@ Leo was smiling as well and waved at him.
 Taiga waved back.
 He was a little taken aback from seeing all of them in casual clothes. Soccer consumed so much of their contact that seeing them without athletic gear always required a tiny recalibration.
 
-The train left at 6:34 on time
+The train left at 6:32 on time
 
 They boarded together and found seats across two facing rows. Enzo spent the first ten minutes trying to convince Gav that Roberto was a better name for a future pet than for a hypothetical child. Aaron joined only to make the argument worse, while Scott had the face of someone who wished to be literally anywhere else. 
 Leo checked the Arcadia page and announced that the bowling lanes were already booked until nine.
