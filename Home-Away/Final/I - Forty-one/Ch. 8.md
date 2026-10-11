@@ -93,12 +93,12 @@ Taiga had just pulled a clean shirt over his head when Enzo climbed onto the ben
 
 "Ladies and gentlemen."
 
-There he goes.
+There he went.
 
 "You dumped me last weekend. Since I love you all, I'll give you a chance to redeem yourselves."
 
-Scott was still drying his hair and suddenly started to hurry up.
-Most of the other players simply ignored him.
+Scott immediately threw his clothes in the bag and grabbed his shoes.
+Most of the others simply ignored him.
 
 "Friday. We invade Arcadia."
 
@@ -124,7 +124,7 @@ Then he pointed. "Gav."
 
 "Monday."
 
-"Then you got all weekend. Three in. Scott?"
+"Then you've got all weekend. Three in. Scott?"
 
 Gav didn't even try to argue back. Scott was tying his shoes as quickly as he could.
 Not fast enough though.
@@ -133,7 +133,7 @@ Not fast enough though.
 
 "Good, four."
 
-"I'm in as well," said Evan.
+"I'm in as well," Evan said.
 
 Enzo looked absurdly pleased with himself. Then he pointed at Taiga.
 
@@ -171,7 +171,7 @@ Enzo didn't even flinch.
 
 He looked satisfied, even if half of the people he mentioned didn't actually agreed.
 
-Taiga pushed the door open and went outside. His phone buzzed inside his bag before he'd made it ten steps outside the field.
+Taiga pushed the door open and went outside. His phone buzzed inside his bag before he'd made it ten steps towards the corridor.
 
 **⚽️ Apollo ☀️**
 
