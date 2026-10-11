@@ -70,7 +70,7 @@ Taiga stared at the lines in the grass.
 
 "I'm just explaining why you're making Leo's life harder."
 
-Taiga was left to decode whatever the hell Gav meant
+Taiga was left to decode whatever the hell Gav meant.
 
 Mercer whistled and he tried again. He saw Leo coming, their fullback still there. 
 Okay, timing.
@@ -97,7 +97,7 @@ There he went.
 
 "You dumped me last weekend. Since I love you all, I'll give you a chance to redeem yourselves."
 
-Scott immediately threw his clothes in the bag and grabbed his shoes.
+Scott immediately threw his clothes into his bag and grabbed his shoes.
 Most of the others simply ignored him.
 
 "Friday. We invade Arcadia."
@@ -110,7 +110,7 @@ Enzo pointed and smiled. "One in."
 
 "I didn't say yes."
 
-"You did implicitly."
+"You did, implicitly."
 
 Leo raised his head. "I'm in, but only if we go to the arcade!"
 
@@ -127,7 +127,7 @@ Then he pointed. "Gav."
 "Then you've got all weekend. Three in. Scott?"
 
 Gav didn't even try to argue back. Scott was tying his shoes as quickly as he could.
-Not fast enough though.
+Not fast enough, though.
 
 "I- Uh... I don't know?"
 
@@ -153,25 +153,25 @@ Taiga looked at him.
 
 "Fix what?"
 
-"Doctors say that going out is good for your health, so you must come."
+"Doctors say going out is good for your health, so you must come."
 
 "No."
 
 Enzo didn't even flinch.
 
-"Good. So, it's me, Leo, Aaron and potentially Sofia-"
+"Good. So, it's me, Leo, Aaron and potentially Sofia—"
 
 "I didn't say yes."
 
-"-Scott is spiritually confirmed, Gav is in denial-"
+"—Scott is spiritually confirmed, Gav is in denial—"
 
 "I'm not coming."
 
 "-Mia hasn't answered yet and Evan. That's settled."
 
-He looked satisfied, even if half of the people he mentioned didn't actually agreed.
+He looked satisfied, even if half of the people he mentioned didn't actually agree.
 
-Taiga pushed the door open and went outside. His phone buzzed inside his bag before he'd made it ten steps towards the corridor.
+Taiga pushed the door open and stepped into the corridor. His phone buzzed inside his bag before he'd made it ten steps.
 
 **⚽️ Apollo ☀️**
 
