@@ -83,14 +83,14 @@ A line such as **"training Monday"**, **"training Tuesday at two"** or **"film T
 
 Spring is deliberately more technical and more crowded on Tuesday / Thursday.
 
-| Day | Academic schedule | Stable continuity notes |
-| --- | --- | --- |
-| **Monday** | 10:00–10:50 Data Structures lecture; 11:00–11:50 General Chemistry II lecture | Afternoon remains available for project meetings, study and football. |
-| **Tuesday** | 09:00–10:15 Data Structures lab; 10:35–11:50 Discrete Structures; lunch; 13:00–14:15 Calculus II | This is the deliberately **hostile** day from Taiga's registration planner. The 20-minute lab → Discrete gap is a recurring Taiga/Leo coffee window. Full football training can begin later in the afternoon. |
-| **Wednesday** | 10:00–10:50 Data Structures lecture; 11:00–11:50 General Chemistry II lecture | Comparatively light academic day; recovery / strength can fit later. |
-| **Thursday** | 09:00–10:15 Data Structures lab; 10:35–11:50 Discrete Structures; lunch; 13:00–14:15 Calculus II; 14:30–17:30 General Chemistry II lab | The same 20-minute lab → Discrete gap preserves the recurring coffee routine. Chemistry lab is the long Thursday-afternoon block. Full team work must be scheduled after it or deliberately adjusted. |
-| **Friday** | 10:00–10:50 Data Structures lecture; 11:00–11:50 General Chemistry II lecture / project briefing when required | **Friday morning only** academically. Afternoon is available for strength, film, travel preparation or football. |
-| **Saturday–Sunday** | No regular classes | Fixtures / recovery vary. |
+| Day                 | Academic schedule                                                                                                                      | Stable continuity notes                                                                                                                                                                                       |
+| ------------------- | -------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Monday**          | 10:00–10:50 Data Structures lecture; 11:00–11:50 General Chemistry II lecture                                                          | Afternoon remains available for project meetings, study and football.                                                                                                                                         |
+| **Tuesday**         | 09:00–10:15 Data Structures lab; 10:35–11:50 Discrete Structures; lunch; 13:00–14:15 Calculus II                                       | This is the deliberately **hostile** day from Taiga's registration planner. The 20-minute lab → Discrete gap is a recurring Taiga/Leo coffee window. Full football training can begin later in the afternoon. |
+| **Wednesday**       | 10:00–10:50 Data Structures lecture; 11:00–11:50 General Chemistry II lecture                                                          | Comparatively light academic day; recovery / strength can fit later.                                                                                                                                          |
+| **Thursday**        | 09:00–10:15 Data Structures lab; 10:35–11:50 Discrete Structures; lunch; 13:00–14:15 Calculus II; 14:30–17:30 General Chemistry II lab | The same 20-minute lab → Discrete gap preserves the recurring coffee routine. Chemistry lab is the long Thursday-afternoon block. Full team work must be scheduled after it or deliberately adjusted.         |
+| **Friday**          | 10:00–10:50 Data Structures lecture; 11:00–11:50 General Chemistry II lecture / project briefing when required                         | **Friday morning only** academically. Afternoon is available for strength, film, travel preparation or football.                                                                                              |
+| **Saturday–Sunday** | No regular classes                                                                                                                     | Fixtures / recovery vary.                                                                                                                                                                                     |
 
 ### Spring athletics guardrails
 

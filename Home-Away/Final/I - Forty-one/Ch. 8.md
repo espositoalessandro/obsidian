@@ -648,3 +648,381 @@ Leo nodded. "Let's get some food."
 They walked back toward the group.
 
 ---
+
+Dinner happened in a small restaurant on the upper level of the Agora. They got a table near the outer glass, where the whole interior opened below them.
+Aaron and Sofia were still discussing basketball, Gav was torturing Scott with something about 'multiclassing a paladine', while Enzo was trying to convince everybody Leo that Roberto the shark belonged in House Apollo's common room.
+
+“It is not going in the common room,” Gav said without looking over.
+
+“You don't control the common room.”
+
+“I will throw it away.”
+
+“Roberto doesn't like violence.”
+
+“He is a sixty-centimeter plush shark.”
+
+“He still has feelings.”
+
+Leo pointed at it. "He doesn't even have an eye on one side."
+
+Enzo turned it. The stitching had folded one plastic eye into the seam. He gasped.
+
+"Poor Roberto has a birth defect."
+
+Finally, food arrived and the table got quieter for several minutes because apparently hunger could defeat even Enzo.
+Conversation obviously drifted towards the course selection.
+Taiga tried to avoid getting pulled in, but inevitable Zoe asked him.
+
+"By the way, you never told me which classes you're in besides Chemistry."
+
+Taiga shrugged, "You never asked."
+
+Again. Fucking Caleb-virus.
+
+"Fair, so?"
+
+"Political Institutions, Calculus and Fundamentals of Computer Science."
+
+Zoe stared at him. Leo heard and stared as well.
+
+Taiga frowned. "What?"
+
+"You were in FCS the whole time?" said Leo.
+
+"...Yeah?"
+
+"We are in the same class! Why didn't you say anything?"
+
+"We are in different sections."
+
+"Still! I could've had someone else who shares the pain of Rao's assignments!"
+
+"That's actually a reason not to tell you."
+
+Leo put on an offended face.
+
+"So, what are you taking next semester?"
+
+"Still haven't confirmed, but I'll probably continue with Chemistry II and Calculus II. Then I was thinking about Discrete Structures and Data Structures."
+
+Leo's face lit up. 
+
+"Which section of Data Structure?"
+
+Taiga looked at him. Right. He was in CS. Of course he had to be in Data Structure as well.
+
+"Monday."
+
+Leo lifted both arms. "SAME AS MINE!"
+
+"I'm changing it."
+
+"You won't!"
+
+Right, he couldn't. His schedule barely fit now.
+The conversation moved on to the Halloween party. Obviously.
+Most of them were actually hyped for it. Leo was by far the most excited.
+They discussed which costume they would wear and whether Olympus would shift the curfew just for that night.
+
+Then Aaron changed the subject by asking whether anyone already had plans for the break after finals. The conversation basically shifted towards travel.
+Sofia was going home, so were Gav and Scott. Being at a couple of hour by car of distance made the decision definitely easier.
+Zoe had already booked a vacation on the snow with her parents.
+
+Then Enzo turned towards Leo.
+
+"You?"
+
+Leo made a face. "I'm considering going back to Santo Domingo, but it depends what flights look like."
+
+"Tell my mother if you decide to go. Otherwise she'll find out from Carmen."
+
+Leo laughed. “That sounds like a you problem.”
+
+“It is a me problem. At international scale. Tell your mother.”
+
+Taiga turned toward them.
+
+“Santo Domingo?”
+
+Leo nodded. “Yeah. We're both from there. Same school, too. Same team also, for a while.”
+
+Enzo raised a hand. “Important correction: I was on the team first.”
+
+Leo looked at him. “By three months.”
+
+“Seniority is seniority.”
+
+Taiga glanced between them.
+
+“So you both decided to come here together?”
+
+“No,” Leo said. “We both applied. He found out he got in first, and when my acceptance came through he sent me about fifty messages.”
+
+“Forty-two,” Enzo said.
+
+Leo turned. “You counted?”
+
+“Yes. This is the second time you accuse me with false data. So I collected evidence.”
+
+Taiga smiled. "So your families are there?"
+
+"Yep," Leo said. 
+
+"And they talk," Enzo added, "Constantly. That's the problem"
+
+Taiga frowned. “What problem?”
+
+Enzo pointed at Leo with a fry.
+
+"If he goes home and my mother hears from his mother before she hears it from me, then I'm responsible."
+
+Leo laughed. “You're making it sound like a diplomatic incident.”
+
+“It becomes one.”
+
+“So you're going back on break?” Taiga asked.
+
+“Depends,” Leo said. “If flights make sense. It's not exactly somewhere you go for two days.”
+
+“Which is why,” Enzo said, “if he goes home and I don't, my mother will ask why Leo loves his family more than I love mine.”
+
+Leo laughed again. “She has never said that.”
+
+"She might."
+
+Taiga kept looking at them. Now that he thought about that, their traits were clearly latin. 
+He didn't that people could come from that far away to a college.
+
+The conversation moved again. Ten minutes later, Taiga noticed that had Leo stopped contributing to it. He finished eating, rubbed one thumb against the condensation on his glass and let Enzo and Aaron argue across him without joining in.
+Then he stood, announcing he needed the bathroom.
+By the time the bill arrived, he came back and joined the conversation again.
+
+---
+
+They left Arcadia around eleven and went for the station. Apparently everybody had decided to leave at the same time, so the train was jam-packed. 
+
+The group split into the available seats. Taiga ended up besides Leo.
+For several minutes, they didn't spoke. Leo was looking through photos from the arcade on his phone and Taiga watched city light pass.
+Then Leo snorted lightly and turned the phone towards Taiga.
+
+Group photo they had taken while they were in Arcadia. Taiga barely remember posing. Enzo was holding Roberto above his head. Scott didn't look like Scott at all. Taiga laughed.
+
+Leo scrolled through other photos that Enzo sent to the group chat. One during basketball, with Aaron looking horrified at Sofia's score. Then a couple taken from Zoe of Taiga, Leo and Enzo on the rhythm. Another one from the shooter, taken from behind. 
+Leo smiled and put the phone away. Then said
+
+"You didn't say much about the Halloween party."
+
+"You talked enough for both."
+
+He chuckled. "Okay, fair. Are you planning on hiding in your room the whole evening?"
+
+"It's tempting."
+
+"You don't like it?"
+
+"Yeah, I do. Usually."
+
+"Even dressing up?"
+
+"Heh, back at camp I made my own, once."
+
+"Wait, isn't it a summer camp?"
+
+"Yeah, but once our scoutmaster decided that it would be a good idea to celebrate Halloween in the middle of summer. She called that, but it was just an excuse to make us dressed up."
+
+"Why would she do that?"
+
+"Trust me, you don't wanna know."
+
+"Alright, can I see a picture though?"
+
+"Only if you promise not to laugh."
+
+"Scout's honor."
+
+Taiga scrolled through his library, until he found the foto that Yuri took that night. 
+He turned the phone. Leo took it and stared for several second, zooming in and out.
+
+"Okay, first: this isn't how I was imagining a scout camp."
+
+"Usually it's pretty different."
+
+"Second, some of these costumes are rather... revealing?"
+
+Taiga felt his ears increasing in temperature.
+
+"I mean... look at this orange guy. He's basically wearing a latex suit!"
+
+"Can you not focus on that please?"
+
+"You look sick by the way. Did you paint all those tattoos yourself?"
+
+"Yeah. Took me hours."
+
+"Yeah, no shit."
+
+Leo gave the phone back.
+
+"Seriously, you looked great."
+
+"Yeah. Thanks."
+
+"So you're not planning on doing something like that?"
+
+"I can't walk half naked at the end of October."
+
+"I didn't mean like *that*."
+
+"I don't know. I got a train pretty early on the following day."
+
+"Going somewhere?"
+
+"Yeah, one of the scouts, the blond one dressed as a bunny in the photo, is studying art. School's organizing an exhibit."
+
+"Oh, that's cool. What kind of art does he do?"
+
+"I have no fucking idea."
+
+Leo laughed. Then the conversation kept going. He asked lots of stuff about camp and his friends.
+
+Taiga told him he'd spent three summers at Camp Buddy. He avoided most of the details about his second term, he just said that camp was in bad shape by then; afterward, he and Yoichi stayed through the off-season to help rebuild the place, and by the third summer the camp was bigger and full again.
+
+Leo listened. Actually listened. No constant interruption. Just occasional questions.
+
+"That camp sounds like a really nice place."
+
+"Yeah. It is."
+
+"You miss it?"
+
+"Sometimes."
+
+Leo nodded. 
+The train entered another station and more people boarded. Leo moved his legs in to let a woman pass. 
+When the train started again, Taiga asked:
+
+"What about you?"
+
+Leo looked over.
+
+"What about me?"
+
+“You said Enzo was the one person you already knew. What about Gav and Scott?”
+
+"I met them during preseason, Scott to. Campus was half empty, so the team became most of the people I knew for a while."
+
+"Fair enough."
+
+“Preseason was weird, though. Enzo was the one familiar thing, and everything else was new. I had this plan where I was going to look calm and professional and not talk too much.”
+
+Taiga stared.
+
+“I know. Completely unrealistic.”
+
+“What happened?”
+
+“About twelve minutes of silence. Personal record.”
+
+Taiga laughed. Leo smiled.
+
+“Everybody on the team already seemed to have some version of themselves ready, and I was trying very hard not to look like the freshman who had arrived three hours ago.”
+
+"You do."
+
+Leo turned.
+
+"What?"
+
+"I mean, to me. You do soccer, you know everyone, you know what major you want."
+
+Leo laughed. “Great. Fraud successful.”
+
+For a second, the smile settled. Then Leo looked back out the window.
+
+"I was lucky to have Enzo though. He could tell I was freaking out even when I acted completely differently."
+
+"Are we talking about the same Enzo?"
+
+"I know, right? He can be even more extreme than me. But he knows when to say the right things. Or to shut up."
+
+Taiga smiled, but didn't add anything. The campus stop announced played overhead, and they stood.
+
+---
+
+On their way to the dorms, Taiga and Leo kept talking while the rest of the group went on. Classes, Rao assignments, Mercer. 
+Taiga realized that Leo was actually surprisingly easy to talk to. He looked like he was genuinely interested in what Taiga had to say.
+
+At some point, Taiga asked
+
+"Why did you choose CS?"
+
+Leo smiled. 
+
+"Oh that's actually a very nice story. Full of ties with my past and my dreams since I was a child."
+
+Taiga raised an eyebrow.
+
+"I liked computers. I was decent at programming in school. The degree seemed useful. End of speech."
+
+"That's deep."
+
+Leo laughed, "Unfortunately, not everybody have a dramatic history."
+
+"Yeah, that I figured out."
+
+"Why do you ask?"
+
+Taiga exhaled.
+
+"I'm actually considering it."
+
+Leo shrugged.
+
+"Well, if you do, I'd be happy. We could study together."
+
+"That sounded more like a threat."
+
+He grinned, "Maybe."
+
+They had arrived at the dorms. The others were already in the lobby, but they stayed another minute outside.
+
+"Anyways, thanks for coming tonight."
+
+Taiga frowned.
+
+“You didn't organize it.”
+
+“I know.”
+
+“Then why are you thanking me?”
+
+Leo paused.
+
+“Fair enough.”
+
+Taiga smiled. Leo laughed.
+
+“Okay. I had fun. Better?”
+
+"Yeah."
+
+They entered the lobby. Leo lived in the West Wing, while Taiga was in the North Wing. 
+
+"Did you enjoy it?"
+
+Taiga shrugged.
+
+"Survivable."
+
+"Glad to hear it. Well, goodnight AG."
+
+Taiga rolled his eyes.
+
+"You know I have a name."
+
+Leo smiled.
+
+“Night, Taiga.”
+
+
