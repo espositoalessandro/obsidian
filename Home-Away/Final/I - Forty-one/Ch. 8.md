@@ -639,7 +639,7 @@ Stage two loaded and they went at it again.
 
 "You've got one on your right."
 
-They both turned in the opposite directions and their shoulders touched for a couple of seconds. Leo was warm despite the cool air-conditioning.
+They both turned in the opposite directions and Taiga's shoulder touched Leo's for a couple of seconds. Leo was warm despite the cool air-conditioning.
 Then a target moved, and they moved as well.
 
 They won again. Enzo immediately wanted a third one.
