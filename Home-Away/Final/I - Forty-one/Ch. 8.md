@@ -326,7 +326,7 @@ She laughed, "Fuck you."
 Taiga reached the station at 6:13. Scott was already there, sitting on a bench.
 
 "So you came?"
-"H-Hey, you came"
+"H-Hey, you came."
 
 They stopped for a second. Both of them had spoken at the same time.
 They smiled. Taiga sat beside him and went first.
@@ -335,37 +335,37 @@ They smiled. Taiga sat beside him and went first.
 
 "Oh, that's... good."
 
-Scott started fidgeting nervously with his hands. Taiga didn't had anything else to say, so they stayed there in silence.
+Scott started fidgeting nervously with his hands. Taiga didn't have anything else to say, so they stayed there in silence.
 
 Aaron arrived shortly after, followed by Gav.
-They both looked at Taiga with surprise, but didn't say anything, besides "Hey."
+They both looked at Taiga with surprise, but didn't say anything besides "Hey."
 
-Taiga heard Enzo and Leo approaching way at least a minute before they actually showed up.
+Taiga heard Enzo and Leo approaching at least a minute before they actually showed up.
 Apparently, Enzo was mad because Evan had bailed. Like, really mad. 
 
 "It wasn't his fault," he heard Leo saying.
 
-"I tell you when I'll see him I'll-"
+"I'm telling you, when I see him, I'll—"
 
 Enzo looked at Taiga and stopped for a second. His expression changed completely.
 
 "TAIGA! You actually came!"
 
-He ran towards him with his arms opened. Taiga remained sat and simply raised a leg to keep him at a safe distance.
+He ran towards him with his arms open. Taiga remained seated and simply raised a leg to keep him at a safe distance.
 
 "I can still change my mind."
 
 "Eheh, alright. But I'm happy you're here!"
 
-It seems he'd already forgotten about Evan.
+It seemed he'd already forgotten about Evan.
 Leo was smiling as well and waved at him.
 
 "Hey AG. Good to see you!"
 
 Taiga waved back.
-He was a little taken aback from seeing all of them in casual clothes. Soccer consumed so much of their contact that seeing them without athletic gear always required a tiny recalibration.
+He was a little taken aback by seeing all of them in casual clothes. Soccer consumed so much of their contact that seeing them without athletic gear always required a tiny recalibration.
 
-The train left at 6:32 on time
+The train left at 6:32 on time.
 
 They boarded together and found seats across two facing rows. Enzo spent the first ten minutes trying to convince Gav that Roberto was a better name for a future pet than for a hypothetical child. Aaron joined only to make the argument worse, while Scott had the face of someone who wished to be literally anywhere else. 
 Leo checked the Arcadia page and announced that the bowling lanes were already booked until nine.
@@ -374,9 +374,9 @@ Leo checked the Arcadia page and announced that the bowling lanes were already b
 
 Taiga sat by the window and listened while campus gave way to the denser center of Olympus City.
 
- Agora looked less like a shopping center and more like somebody had attempted to build an indoor district. Three levels with a glass roof. Escalators crossing over open space. Stores packed along broad walkways beneath enormous signs. Food smells from six directions.
- People. 
- Too many people.
+Agora looked less like a shopping center and more like somebody had attempted to build an indoor district. Three levels with a glass roof. Escalators crossing over open space. Stores packed along broad walkways beneath enormous signs. Food smells from six directions.
+People.
+Too many people.
  
 Taiga stopped after they entered.
 
@@ -398,9 +398,9 @@ Taiga stopped again. Aaron followed his gaze.
 
 They bought a card and put some credit on it. Apparently, Taiga wasn't the only one eyeing the racing machines because as soon as they were done, Enzo yelled
 
-"Let's do the racing first come on!"
+"Let's do the racing first, come on!"
 
-Nobody had a preference so they went.
+Nobody had a preference, so they went.
 
 Enzo chose it because there were enough linked seats for all of them. Taiga took one and, when vehicle selection appeared, chose something fast. 
 Leo looked over.
@@ -418,27 +418,27 @@ He immediately accelerated after the countdown and crashed straight into a wall 
 
 Leo started laughing.
 
-Scott went immediately first first, followed by Enzo. Leo was third but Aaron was tailing him with Gav right behind him.
-At some point, Aaron rammed Leo into a wall, who shouted,
+Scott immediately took first, followed by Enzo. Leo was third, but Aaron was tailing him with Gav right behind him.
+At some point, Aaron rammed Leo into a wall. Leo shouted,
 
 “That was deliberate!”
 
-“You were in my lane," answered calmly Aaron.
+“You were in my lane,” Aaron answered calmly.
 
-“There are four lanes\!”
+“There are four lanes!”
 
 "Then pick another."
 
-By the fourth corner, Taiga had learned how to curve without crashing, which was something. 
+By the fourth corner, Taiga had learned how to take a corner without crashing, which was something. 
 
-He managed to surpass Leo who was still recovering from the crash.
+He managed to overtake Leo, who was still recovering from the crash.
 
 “Asshole!”
 
 Taiga smiled. "You parked in the middle of a race."
 
 At some point, the race became less about winning and more about ruining specific people. Scott's car was nowhere to be seen, though.
-He ended first, almost fifteen seconds from Enzo.
+He finished first, almost fifteen seconds ahead of Enzo.
 
 Taiga stared at him. Scott had barely spoken during the race and apparently destroyed all of them.
 
@@ -454,10 +454,10 @@ Scott looked like someone caught attempting a robbery.
 
 "GUYS!"
 
-Enzo yelled from the other side of the room. He found a rhythm game.
+Enzo yelled from the other side of the room. He'd found a rhythm game.
 Nobody looked really convinced, apart from Leo.
 
-"Forty-one, come on!", said Enzo.
+"Forty-one, come on!" Enzo said.
 
 "No."
 
@@ -465,7 +465,7 @@ Nobody looked really convinced, apart from Leo.
 
 "I play soccer, I don't step on squares."
 
-"Soccer helps, you know. It's all about feet movement."
+"Soccer helps, you know. It's all about footwork."
 
 "No."
 
@@ -483,9 +483,9 @@ Taiga lasted forty seconds before understanding that being athletic did not mean
 Leo was better, but not dramatically. He still missed enough to swear.
 Enzo was clearly in his territory, though.
 
-At one point Taiga stepped left when the game wanted right, nearly collided with Leo on the adjacent platform and grabbed the side rail. Leo laughed without missing his next input.
+At one point, Taiga stepped left when the game wanted right, nearly collided with Leo on the adjacent platform and grabbed the side rail. Leo laughed without missing his next input.
 
-“Wrong way\!”
+“Wrong way!”
 
 "I KNOW."
 
@@ -504,7 +504,7 @@ Leo looked at him.
 
 “Prove it.”
 
-Aaron raised a hand, Gav too. Even Scott was moving his hand.
+Aaron raised a hand, Gav too. Even Scott raised his.
 Taiga walked away, flipping them off from behind.
 
 "Fuck all of you."
@@ -513,13 +513,13 @@ Taiga walked away, flipping them off from behind.
 
 Sofia and Zoe arrived around eight. By then, Taiga had lost at racing, rhythm, a fighting game and a basketball shooting machine that Aaron took far too seriously. Enzo had been missing for about half an hour.
 
-Hey beat Gav at air hockey though, enough to restore a small amount of dignity. 
+He beat Gav at air hockey, though, enough to restore a small amount of dignity. 
 
-"Where's Enzo?", said Zoe.
+"Where's Enzo?" Zoe said.
 
 "Lost in the action," said Gav.
 
-"How did-"
+"How did—"
 
 "GUYS! LOOK!"
 
@@ -539,7 +539,7 @@ Enzo was proudly holding a giant stuffed shark against his chest.
 
 "I don't need to."
 
-Meanwhile, Aaron had been immediately challenged by Sofia to basketball. Of course, he accepted with a smug.
+Meanwhile, Aaron had been immediately challenged by Sofia to basketball. Of course, he accepted with a smug grin.
 Which didn't last. Sofia won by twelve.
 Aaron stared at her.
 
@@ -549,7 +549,7 @@ She shrugged. "So do you."
 
 "Yeah, this is hands."
 
-Sofia raised her hands. "Apparently, I got good hands as well."
+Sofia raised her hands. "Apparently, I've got good hands as well."
 
 Aaron blinked. "Rematch."
 
@@ -571,18 +571,18 @@ Taiga looked over.
 
 “You said the racing machine was rigged. New chance to restore your honor.”
 
-Taiga followed him. The machine had two positions with two plastic rifles mounted to a cabinet, giant screen, generic city-under-attack premise. Gav was already there with Enzo in the first cabinet
+Taiga followed him. The machine had two positions with two plastic rifles mounted to a cabinet, a giant screen, and a generic city-under-attack premise. Gav was already there with Enzo in the first cabinet.
 
 “Perfect. Teams. You and Leo vs me and Enzo.”
 
-"Why do I get him?" Taiga asked
+"Why do I get him?" Taiga asked.
 
 Enzo looked around.
 
 “Because you're standing next to him.”
 
 Excellent matchmaking logic. 
-They started. The game was pretty stupid, but also fun. Target appeared, moved, then disappeared. They simply had to shoot, reload or take cover.
+They started. The game was pretty stupid, but also fun. Targets appeared, moved, then disappeared. They simply had to shoot, reload, or take cover.
 Thirty seconds later, they were locked in.
 
 “Left.”
@@ -607,13 +607,13 @@ Leo got it.
 
 Enzo shouted from the adjacent machine.
 
-“Stop communicating\!”
+“Stop communicating!”
 
 Gav said, “That is the game.”
 
 “They're acting like professional marines.”
 
-Taiga laughed. Their stage ended and scores appeared: 3456 vs 4512. 
+Taiga laughed. Their stage ended and scores appeared: 3,456 vs. 4,512. 
 Enzo looked at Gav as if it was his fault.
 
 "Again."
@@ -621,7 +621,7 @@ Enzo looked at Gav as if it was his fault.
 Taiga looked at the continue countdown.
 
 **CONTINUE?**
-**10,9,8...**
+**10, 9, 8...**
 
 Leo glanced at him.
 
@@ -635,12 +635,12 @@ Taiga tapped his card.
 
 Stage two loaded and they went at it again. 
 
-"On your left Taiga!"
+"On your left, Taiga!"
 
-"You got one at your right."
+"You've got one on your right."
 
-They both turned in the opposite directions and their shoulder touched for a couple of seconds. Leo was warm despite the cool air-conditioning.
-Then target moved and they moved as well.
+They both turned in the opposite directions and their shoulders touched for a couple of seconds. Leo was warm despite the cool air-conditioning.
+Then a target moved, and they moved as well.
 
 They won again. Enzo immediately wanted a third one.
 
