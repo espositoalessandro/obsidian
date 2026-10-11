@@ -89,9 +89,6 @@ If only he didn't spend half of his oxygen allowance on talking.
 
 ---
 
-After showering, Taiga was welcomed by the familiar overwhelming smell of deodorants. 
-No other smell could even hope to challenge that.
-
 Taiga had just pulled a clean shirt over his head when Enzo climbed onto the bench between two rows of lockers. 
 
 "Ladies and gentlemen."
@@ -138,7 +135,7 @@ Not fast enough though.
 
 "I'm in as well," said Evan.
 
-Enzo was happy as a baby at Christmas.  Then he pointed at Taiga.
+Enzo looked absurdly pleased with himself. Then he pointed at Taiga.
 
 "Forty-one!"
 
