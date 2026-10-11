@@ -72,7 +72,8 @@ Taiga stared at the lines in the grass.
 “I’m just explaining why you’re making Leo’s life harder.”
 
 It was up to Taiga then to decode whatever Gav was trying to say.
-Mercer whistled, he tried again. He saw Leo coming, their fullback staying there. Okay, so he should keep a safe distance.
+Mercer whistled, he tried again. He saw Leo coming, their fullback staying there. 
+Okay, timing.
 He saw the triangle among them. 
 Ball arrived to him, he sent it straight to where he knew Leo would go. 
 And Leo went.
