@@ -187,3 +187,139 @@ Taiga smiled and put the phone away.
 
 ---
 
+As the end of October approached, decorations slowly started accumulating all over the campus. 
+
+Olympus was definitely serious about it: plastic pumpkins covering almost every post light, skeleton masks applied on the statues, graves in the patches of central park and eerie lights at night. And, of course, actual pumpkins with candles inside everywhere.
+
+Every conversation around campus was dominated by two topics: the Halloween party and the classes selection for the following semester.
+
+Taiga hated talking about both.
+
+"So, registrations are open."
+
+Nora was walking besides him on the way for the library.
+
+"Good for them," Taiga answered.
+
+"Have decided slash have any idea slash even considered what to pick?"
+
+"Yes."
+
+Nora narrowed her eyes.
+
+"Okay, I set that up too easily, my bad."
+
+Taiga smiled.
+
+"I'm considering going full STEM next semester."
+
+"I'm not surprised."
+
+"Why?"
+
+She shrugged.
+
+"Call it female instinct."
+
+"That's bullshit."
+
+"So which classes?"
+
+Taiga pulled out the schedule Park made for him.
+
+**Data Structures**  
+**Discrete Structures**  
+**Calculus II**  
+**General Chemistry II**
+
+Nora looked at it for a couple of seconds. 
+
+"Major?"
+
+"Not yet."
+
+She exhaled.
+
+"You don't need me to tell you that this is basically CS major, right?"
+
+"Right, I don't."
+
+Nora chuckled. 
+
+"Okay. Anyway, it's a good program."
+
+"And you?"
+
+"I've chosen Political Science as major."
+
+"Of course you have."
+
+"What can I say? I love arguing."
+
+"That I totally agree on."
+
+"Oh, fuck you."
+
+They say at their usual spot on the second floor. Apparently, the library was considered sacred enough to not put decorations in there. 
+This, or the librarian was keeping destroying all of them until students eventually stopped trying.
+
+Halfway through his Chemistry assignment, Taiga saw Nora grimacing at her phone. 
+
+"What?"
+
+She looked at him. "Oliver isn't feeling well."
+
+"Who's Oliver?"
+
+Nora turned her phone. A beagle was sitting in the back of a car wearing a cone. He didn't look happy about it.
+
+"Your dog?"
+
+"Yeah. Shouldn't be anything serious. The cone is amazing, though."
+
+"He doesn't seem to agree."
+
+Nora laughed. "Definitely not."
+
+"What happened?"
+
+"Probably some skin infection."
+
+Taiga nodded and went back to his assignment. On a separate tab, there was the Olympus website with the class declaration page. 
+Just there, opened.
+
+After a while, Nora asked "You didn't tell me how was the hike, by the way."
+
+Taiga looked up. "You didn't ask."
+
+He froze a second at what he just said. Was Caleb infecting him too?
+
+"Okay, then: how was the hike Taiga?"
+
+There was a hint of mockery in her tone.
+
+"It was good. Full of people, but the view was nice."
+
+"Did you go to the actual Acropolis ruins?"
+
+"Nope."
+
+"Good. We're going there some time."
+
+"That sounded threatening."
+
+She simply shrugged. "I want to see them too."
+
+"This doesn't justify the military tone."
+
+Nora smiled, "You didn't say no, though."
+
+"You didn't give my a time."
+
+"Okay, next Sunday?"
+
+"No."
+
+She laughed, "Fuck you."
+
+---
