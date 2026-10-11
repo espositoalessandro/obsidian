@@ -261,21 +261,49 @@ Taiga does **not** interpret it romantically. He still considers Leo an attracti
 
 ### Dramatic role
 
-Taiga's Camp Buddy life and Olympus life are placed beside each other without requiring one to replace the other.
+Taiga's new Olympus life and his Camp Buddy life are placed beside each other without requiring one to replace the other.
 
-The old relationships remain real, but everyone is building separate lives. Taiga can visit that world, recognize that it has changed, and then return to Olympus.
+Halloween first lets the reader experience how broad Taiga's Olympus social world has become: Nora, Caleb, Maya, Mia, Apollo and other recurring people can all exist in the same social space without Taiga needing to belong to only one subgroup. The following day, Hunter's exhibition turns the same idea outward. Taiga sees the Camp Buddy group functioning inside separate lives that have continued developing without him.
+
+The chapter should therefore move from **the life Taiga has built at Olympus** to **the life he came from, which has also kept growing**.
 
 ### Movement
 
 **New life versus old life → both can belong to me at the same time.**
 
-### Current likely anchor
+### Current likely structure
 
-Hunter's exhibition is the central event.
+- **Fri Oct 31 — Halloween party at Olympus.**
+  - Treat it as a real lived social event rather than a montage, roughly ~1,500 words if the scene needs that space.
+  - The party should gather several strands of Taiga's Olympus life in one place: Nora, Caleb/Maya, Mia, Apollo and other recurring students as useful.
+  - Taiga moves naturally between groups and interactions. The point is not that he has suddenly become extroverted; it is that Olympus now contains multiple people he voluntarily knows and enjoys.
+  - This scene can also provide the next small Leo progression beat after Arcadia.
+- **Sat Nov 1 — Hunter's exhibition.**
+  - Hunter remains the chapter's central emotional event and should receive more narrative weight than Halloween.
+  - Taiga reunites with the Camp Buddy group and sees Hunter functioning confidently inside his own art-school life.
+  - The old group remains familiar, but their separate schools, routines and relationships are visible.
+  - Taiga recognizes that Camp Buddy did not freeze in place when he left, just as Olympus has become real without replacing it.
+- Return to Olympus / aftermath should preserve the sense that both worlds now coexist rather than competing for priority.
 
-Taiga sees Hunter functioning inside his own new life rather than as a Camp Buddy character transplanted elsewhere. The old group reunites, but their separate growth is visible. When Taiga returns to Olympus, the exhibition card can sit beside Camp Buddy and Olympus material without one displacing the other.
+### Halloween / romance note
 
-### Guardrail
+Halloween comes **after Arcadia**, so the reader is already allowed to suspect that Leo has started seeing Taiga differently.
+
+The party may make that pattern slightly more legible through Leo's behavior: seeking Taiga out, choosing to remain near him, reacting with disproportionate enthusiasm, complimenting a costume or appearance, continuing a conversation after other people drift away, or otherwise giving Taiga a little more attention than necessary.
+
+This progression belongs primarily to **Leo**, not Taiga.
+
+Taiga may freely notice that Leo looks attractive; physical attraction is already established. He should still interpret Leo as an attractive friend / teammate whose company he enjoys. Do not introduce nervousness, jealousy, fixation, unusual body-awareness caused by Leo's attention, or any sense that Taiga is beginning to consciously suspect romantic interest.
+
+Halloween should strengthen the reader's inference without spending Chapter 12's destabilization.
+
+### Guardrails
+
+Halloween must not overshadow Hunter's exhibition.
+
+It should feel substantial enough to be lived and memorable, but Hunter's exhibition remains the larger emotional body of the chapter and the key Camp Buddy / Olympus coexistence payoff.
+
+Do not turn Halloween into a new chapter solely to accommodate the event. Keeping it inside Chapter 9 preserves the 12-chapter Section I structure and gives the chapter a useful two-world contrast.
 
 Camp Buddy should not dominate Section I generally. Material involving the old cast should earn its space by advancing Taiga's relationship to his new life, not merely by checking in with familiar characters.
 
