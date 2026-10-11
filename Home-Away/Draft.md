@@ -1,974 +1,1192 @@
-The ball came off Aaron's heel and went directly to Enzo.
+Taiga reached platform three at 6:24. Scott was already there, sitting on a bench with his bag between his shoes. Gav stood nearby reading something on his phone. Aaron was leaning against one of the columns.
 
-Scott's voice hit the field before Enzo even had time to laugh.
+Scott looked up first.
 
-"Aaron! Simple!"
+“Hey.”
 
-"I know!"
+“Hey.”
 
-"You clearly don't!"
+Aaron straightened.
 
-Aaron turned just long enough to throw one hand up at the goal. Enzo used the distraction to carry the ball the other way.
+“So the probability resolved.”
 
-"Thank you for the donation," he called.
+“Apparently.”
 
-"Fuck off."
+Gav glanced at the clock.
 
-Mercer's whistle stopped the play.
+“Five says Enzo arrives at exactly six twenty-five and calls that early.”
 
-"Bennett."
+Aaron looked toward the stairs.
 
-Aaron looked over.
+“I'm not taking that bet.”
 
-"If the backheel works, you're clever. If it doesn't, you've just given Reyes the ball five meters from goal."
+Leo and Enzo came down the stairs a minute later, Enzo talking before either of them reached the platform.
 
-"It usually works."
+“I'm telling you, she said she'd bring it.”
 
-"Wonderful. Today it didn't."
+“She said she'd meet us there,” Leo said. “Those are different statements.”
 
-A couple of people laughed. Aaron muttered something Taiga couldn't hear and jogged back into position.
+“Same practical outcome.”
 
-The next ball reached him thirty seconds later.
+“No, because you need the charger before your phone dies.”
 
-Aaron controlled it, looked up, and played the easiest pass available straight into Taiga's feet.
+Enzo saw the others.
 
-Then he pointed at Mercer.
+“Excellent. Nobody abandoned me.”
 
-"There. Boring."
+Gav looked at the clock.
 
-Taiga sent it back.
+“Six twenty-five.”
 
-"Beautiful. Nearly cried."
+“Early.”
+
+“You made the time.”
+
+“Still early emotionally.”
+
+Leo laughed, then noticed Taiga.
+
+“Oh, hey. You came.”
+
+“Looks like it.”
+
+Leo was in jeans, a dark jacket and white sneakers instead of an Apollo training kit. Taiga had seen him in normal clothes before. Obviously. Still, soccer consumed so much of their contact that seeing him without athletic gear always required a tiny recalibration.
+
+He looked good.
+
+The 6:32 arrived on time. They boarded together and found seats across two facing rows. Enzo spent the first ten minutes trying to convince Gav that Roberto was a better name for a future pet than for a hypothetical child. Aaron joined only to make the argument worse. Scott put his earbuds in. Leo checked the Arcadia page and announced that the bowling lanes were already booked until nine.
+
+“Good,” Gav said. “One fewer thing Enzo can turn into a tournament.”
+
+“I can turn anything into a tournament.”
+
+“That is the problem.”
+
+Taiga sat by the window and listened while campus gave way to the denser center of Olympus City.
+
+At 7:08, exactly as Scott had said, the train reached the Agora station.
+
+Olympus City's Agora looked less like a shopping center and more like somebody had attempted to build an indoor district. Three levels. Glass roof. Escalators crossing over open space. Stores packed along broad walkways beneath enormous signs. Food smells from six directions. Music. Digital advertising. People. Too many people.
+
+Taiga stopped after they entered.
+
+“This is horrible.”
+
+Scott looked around.
+
+“Busy.”
+
+“That's one word for it.”
 
 Aaron grinned.
 
-"See? Growth."
+“You've been here fourteen seconds.”
 
-Training had been like that for most of the afternoon.
+“That's enough.”
 
-Nothing dramatic. No match preparation, no Mercer speech, no new catastrophe waiting behind a clipboard. Just small-sided games, short breaks, another group rotating in. The kind of session Taiga would've barely remembered a month ago.
+“You came voluntarily.”
 
-Now he kept noticing things.
+“Temporary insanity.”
 
-Annoying consequence of spending actual time with the team: people stopped staying where Mercer had originally put them.
+Leo laughed. Enzo checked his phone.
 
-Scott wasn't just the goalkeeper anymore. Off the field, getting a full sentence out of him sometimes required patience. Put gloves on him and apparently patience became everybody else's problem.
+“Mia's already inside.”
 
-"Jonah, left!"
+“Did she bring—” Leo started.
 
-"STEP!"
+“Yes. She has my charger.”
 
-"TAIGA, DON'T WATCH IT!"
+Gav looked at Enzo.
 
-Taiga moved before Scott finished yelling.
+“So you did confirm it.”
 
-The cross never reached the middle.
+“Eventually.”
 
-"Better," Scott called.
+Taiga shook his head.
 
-There. One word. Apparently praise had a strict budget.
+“You people have a charger economy.”
 
-Gav was worse in a different direction. Once Taiga had sat across from him while he spent ten minutes explaining why a bishop was worth more than a knight only in contexts that made the statement almost useless, it became impossible not to hear the same part of his brain during training.
+“Stay out of it,” Gav said.
 
-"Again," Gav said, pointing. "If Leo comes inside, don't follow him all the way. You're opening the lane behind you."
+“Good advice.”
 
-Aaron frowned.
+They headed toward Arcadia. The entrance was impossible to miss. Purple-white signage stretched across two storefronts. Inside, screens flashed, machines chimed, music collided with itself, and somebody yelled in victory from somewhere deeper inside. Taiga stopped again. Aaron followed his gaze.
 
-"I know."
+“This is more your thing than the mall.”
 
-"You did it twice."
+“How do you know?”
 
-"I said I know."
+“You're already looking at the racing machines.”
 
-"You saying it doesn't close the lane."
+Taiga was.
 
-Aaron looked offended for exactly two seconds.
+“Coincidence.”
 
-Then the next time Leo drifted toward the middle, Aaron stopped himself and held his position.
+Enzo bought group cards at a kiosk. Taiga objected.
 
-Taiga saw it happen.
+“I can buy my own.”
 
-So did Gav.
+“Six or more get the bulk rate.”
 
-Gav said nothing.
+“There are six of us.”
 
-Aaron looked at him anyway.
+Enzo pointed toward the entrance. Mia stood there holding up a hand.
 
-"Happy?"
+“Seven.”
 
-"Yes."
+Taiga looked at Enzo.
 
-"You're welcome."
+“You planned that.”
 
-Taiga snorted.
+“Yes.”
 
-Aaron turned.
+“I thought planning was Gav's job.”
 
-"What?"
+Gav said, “He is capable of planning when money is involved.”
 
-"Nothing."
+“Character assassination.”
 
-"That was a judgmental nothing."
+Mia joined them.
 
-"You're imagining things."
+“Hi.”
 
-Aaron pointed at him.
+She handed Enzo a charging cable. Taiga stared. Enzo pointed at everyone.
 
-"You've been here long enough to become annoying."
+“No comments.”
 
-"Pretty sure I arrived that way."
-
-"Fair."
-
-Mercer restarted them.
-
-Aaron was good. Taiga had known that already, technically. He'd made the team at the same tryouts, and Mercer used him often enough that competence wasn't exactly a revelation.
-
-Still, Taiga had mostly thought of him as the guy behind the left side who liked going forward too much.
-
-That description remained accurate.
-
-Aaron just made it everybody else's problem with style.
-
-He stepped over the ball once, then again, sent Jonah the wrong way and slipped past him along the line.
-
-"Unnecessary," Jonah said while chasing him.
-
-"It worked."
-
-"Still unnecessary."
-
-"Sounds like jealousy."
-
-Aaron drove the ball across. Jordan reached it first and finished into the small goal.
-
-Aaron spread both arms as if he'd scored himself.
-
-"Thank you."
-
-Jordan stared at him.
-
-"For what?"
-
-"The service."
-
-"I said nothing."
-
-"You were thinking it."
-
-"Get back."
-
-Aaron jogged backward wearing the expression of someone who had personally improved football.
-
-Taiga smiled.
-
-The women's team was finishing on the adjacent pitch. Sofia had stopped near the sideline to drink water and had apparently seen the whole thing.
-
-"Show-off!" she called.
-
-Aaron looked over immediately.
-
-"It worked!"
-
-"That doesn't make it less stupid!"
-
-"It makes it successful!"
-
-Sofia laughed and walked away.
-
-Aaron turned back to find Taiga looking at him.
-
-"What?"
-
-"Nothing."
-
-"Again with the nothing."
-
-Taiga started moving.
-
-"Get back, Romeo."
-
-"Oh, fuck you."
-
-That made Enzo laugh from the other side of the pitch.
-
-"He's got you."
-
-"Nobody asked you."
-
-"Didn't need permission."
-
-The whistle went again.
-
-By the last game, everybody had stopped pretending their legs were fresh.
-
-Mercer made the pitch smaller instead of ending early.
-
-Of course he did.
-
-Taiga received the ball near the left side with Aaron behind him. Malik closed from the middle. Jonah was already shifting across.
-
-A month ago, Taiga would've tried to beat the first man and worried about the rest afterward.
-
-He still considered it.
-
-Then Aaron went past him.
-
-No call. Just the run.
-
-Taiga touched the ball inside instead.
-
-Malik followed.
-
-That was enough.
-
-Taiga sent it back outside into the space Aaron had just reached.
-
-Aaron got there first and hit the cross before Jonah could close him down. Jordan missed it. Enzo didn't.
-
-The ball hit the net.
-
-Enzo turned with both arms out.
-
-"Calculated."
-
-"You nearly missed," Jordan said.
-
-"Calculated margin."
-
-Scott, from the other goal, shouted, "RESET!"
-
-Enzo dropped his arms.
-
-"Captain hates joy."
-
-Scott pointed toward halfway.
-
-"Reset."
-
-"See?"
-
-They reset.
-
-Taiga jogged back beside Aaron.
-
-"Good run."
-
-Aaron looked at him.
-
-"Obviously."
-
-"Never mind."
-
-"No, say it again."
-
-"Die."
-
-Aaron laughed.
-
-Mercer let them play another six minutes before ending the session.
-
-The whistle came as a relief.
-
-Taiga bent over with his hands on his knees while half the team immediately started negotiating whether stretching counted if they did it sitting down.
-
-It didn't, according to Mercer.
-
-This caused widespread disappointment.
+Nobody listened.
 
 ---
 
-The locker room smelled like wet grass, deodorant and whatever crime Enzo had committed with his socks.
+The first game was racing. This was a mistake. Enzo chose it because there were enough linked seats for all of them. Taiga took one. Leo sat two machines away. Mia between them. Gav and Scott on the far side. Aaron on Taiga's left. Enzo took the last seat. Vehicle selection appeared. Taiga chose something fast. Obviously. Aaron looked over.
 
-Taiga had just pulled a clean shirt over his head when Enzo climbed onto the bench between two rows of lockers.
+“That car has terrible handling.”
 
-Gav looked up.
+“It's a game.”
 
-"No."
+“That does not mean physics resigned.”
 
-Enzo stared at him.
-
-"I haven't said anything."
-
-"You got on the bench."
-
-"Maybe I wanted elevation."
-
-"You only want elevation when you're about to organize something."
-
-Scott, halfway through tying his shoes, glanced up.
-
-"He's right."
-
-Enzo put a hand over his chest.
-
-"The lack of trust in this room is disgusting."
-
-"What do you want?" Aaron asked.
-
-Enzo recovered immediately.
-
-"Friday. Agora."
-
-Gav went back to his bag.
-
-"No."
-
-"Again, you don't know the plan."
-
-"Agora is already too much plan."
-
-"Arcadia first. Food after. Maybe movie."
-
-Aaron looked interested.
-
-"Arcadia?"
-
-"Yes."
-
-"Bowling?"
-
-"Arcade."
-
-"Both."
-
-"Exactly. Finally, somebody with vision."
-
-Gav zipped one compartment shut.
-
-"I have an assignment."
-
-"Due when?"
-
-"Monday."
-
-Enzo spread both hands.
-
-"Then you have the entire weekend."
-
-"That is not how weekends work."
-
-"That's exactly how weekends work."
-
-Scott asked, "What time?"
-
-Enzo pointed at him.
-
-"See? Scott believes in community."
-
-"I asked what time."
-
-"Six twenty-five at Central. Train at six thirty-two."
-
-Scott nodded once.
-
-"Okay."
-
-Enzo turned triumphantly toward Gav.
-
-"One."
-
-Scott looked up.
-
-"I didn't say yes."
-
-"You asked logistics."
-
-"That isn't consent."
-
-"Two-thirds consent."
-
-"That's not a thing."
-
-Leo was sitting farther down the bench, unlacing his boots.
-
-"I'm in."
-
-Enzo pointed at him next.
-
-"Two."
-
-Aaron had already taken out his phone.
-
-"I'll ask Sofia."
-
-"Three pending."
-
-"You don't count pending."
-
-"I absolutely count pending."
-
-Mia's name came up next. Then Evan. Then somebody suggested inviting people from the women's team and Enzo expanded the plan in real time until it sounded less like a night out and more like a minor migration.
-
-Taiga kept packing.
-
-He could've left.
-
-Instead he stayed long enough to hear Enzo argue that eight people was "intimate" and Gav explain that eight people was objectively not intimate for anything involving queue times.
-
-Eventually Enzo noticed him.
-
-"Forty-one."
-
-Taiga closed his locker.
-
-"No."
-
-"You don't know what I'm asking."
-
-"You're standing on furniture and assigning numbers to people."
-
-"That could mean anything."
-
-"It means you're about to annoy me."
-
-Aaron laughed.
-
-Enzo stepped down from the bench.
-
-"Arcadia. Friday."
-
-"I heard."
-
-"So?"
-
-Taiga slung the bag over one shoulder.
-
-"How many people?"
-
-Enzo paused.
-
-Then smiled.
-
-Taiga immediately regretted giving him anything.
-
-"Currently confirmed? Me. Leo. Potentially Aaron and Sofia. Scott is spiritually confirmed—"
-
-"I'm not," Scott said.
-
-"—Gav is in denial—"
-
-"I'm not coming."
-
-"—Mia hasn't answered yet, Evan depends on something, and now you."
-
-"That is not a number."
-
-"It's flexible."
-
-"That's worse."
-
-Leo looked over from where he was stuffing his boots into his bag.
-
-"It's probably six or seven."
-
-"Thank you," Taiga said.
-
-Enzo looked betrayed.
-
-"Why does he get credibility?"
-
-"Because he answered the question."
-
-"Fine. Six or seven. Maybe eight. Arcadia, food, and then whatever people want."
-
-Taiga adjusted the strap on his shoulder.
-
-Friday was open.
-
-At least he thought it was.
-
-He wasn't checking now. That would look like interest.
-
-"I'll see."
-
-Enzo narrowed his eyes.
-
-"That's not no."
-
-"It isn't yes either."
-
-"I'm recording probability."
-
-"Do whatever you want."
-
-"Excellent."
-
-Taiga started toward the door.
-
-Behind him, Aaron said, "Put me and Sofia as separate probabilities."
-
-"Why?"
-
-"Because I haven't asked her yet."
-
-"That's less romantic."
-
-"Shut up."
-
-The locker room dissolved back into noise.
-
-Taiga pushed the door open.
-
-His phone buzzed inside his bag before he'd made it ten steps down the corridor.
-
-He didn't need to check to know who had caused it.
-
-He checked anyway.
-
-**APOLLO**
-
-**Enzo:** friday 6:25 central station  
-**Enzo:** arcadia  
-**Enzo:** attendance mandatory unless you have a good excuse
-
-Three dots appeared under the message.
-
-**Gav:** An assignment is a good excuse.
-
-**Enzo:** denied
-
-Taiga smiled and put the phone away.
-
----
-
-Friday arrived with too much free time. General Chemistry ended at twelve. Taiga had no afternoon classes. Soccer recovery was optional because Saturday training had been moved later. Caleb was with Maya. Nora had gone home for the weekend because her mother had sent a photograph of Oliver wearing a cone and refused to adequately explain why. Taiga had work. He always had work. But none of it was due before Monday.
-
-At 3:17, he was in room 317 reading three pages of Political Institutions for the fourth time without absorbing them. At 3:21, the Apollo group chat lit up.
-
-**Enzo:** 6:25 central. platform 3. nobody make me wait
-
-**Gav:** You are always the last person.
-
-**Enzo:** false and defamatory
-
-**Scott:** 6:32 train?
-
-**Enzo:** yes
-
-**Scott:** Gets to Agora at 7:08.
-
-**Enzo:** exactly. planning
-
-**Gav:** Scott just planned it for you.
-
-Aaron reacted with a thumbs-up. Leo:
-
-**Leo:** see you there
-
-**Sofia:** finishing at 6:30. maybe 7:30
-
-**Mia:** i'll meet you at arcadia
-
-Taiga read it. Put the phone down. Political Institutions. He read one paragraph. Nothing. At 3:30, Caleb messaged.
-
-**Caleb:** Maya says the documentary is sold out except front row.
-
-Taiga typed:
-
-**Taiga:** devastating
-
-**Caleb:** We are going to the talk and then Taverna instead.
-
-Taiga:
-
-**Taiga:** thoughts and prayers
-
-Caleb:
-
-**Caleb:** Thank you.
-
-Taiga stared. That might actually have been sincere. At 4:02, he got up to do laundry. The basket was half empty. Not enough. At 4:11, he cleaned his desk. It was already clean.
-
-At 4:19, he opened the Arcadia page on the phone. Huge entertainment complex inside the Agora. Arcade. VR rooms. Bowling. Prize counter. Food nearby. Taiga had not been. He closed it.
-
-At 4:44, he opened it again.
+Taiga ignored him. Countdown. Three. Two. One. Taiga accelerated. First corner. He turned too hard. The virtual car spun.
 
 “Fuck.”
 
-He opened the Apollo chat. The plan had not changed. 6:25. Central. Platform three.
+Aaron started laughing.
 
-Taiga stared at the time, then set an alarm for 6:05.
+“Handling\!”
 
-There. Decision made.
+“Shut up.”
 
----
+Enzo was already first. Scott second. Leo fifth. Mia rammed Leo into a barrier. He shouted, “That was deliberate\!”
 
-## Recovered generated version
+“You were in my lane.”
 
-Friday afternoon was apparently when Olympus University expected eighteen-year-olds to make decisions responsibly.
+“There are four lanes\!”
 
-At 3:00 sharp, Taiga's spring registration window opened.
+“Exactly. Pick another.”
 
-At 3:01, the portal stopped responding.
+Taiga recovered. Next corner. Better. Then Aaron hit him.
 
-"Of course."
+“Asshole.”
 
-Caleb looked over from his desk.
+“Racing incident.”
 
-"What happened?"
+“You turned into me.”
 
-"Nothing."
+“Stewards will review.”
 
-"The registration website?"
+“I'm going to review your face.”
 
-Taiga refreshed.
+Leo laughed from the other side. The race became less about winning and more about ruining specific people. Taiga finished sixth. Out of seven. He stared at the results. Enzo first. Scott second. Gav third. Mia fourth. Leo fifth. Taiga sixth. Aaron seventh. Aaron looked over.
 
-Nothing.
+“I blame you.”
 
-Caleb nodded. "That happened to Maya last year."
+“You were behind me.”
 
-"Useful information thirty seconds late."
+“Because you took me out.”
 
-"I didn't know it would happen to you."
+“You hit me first.”
 
-The page loaded.
+Enzo stood.
 
-Taiga immediately stopped complaining.
+“Winner chooses next.”
 
-Park's draft schedule was still saved exactly where she'd left it.
+Taiga got up.
 
-**Data Structures**  
-**Discrete Structures**  
-**Calculus II**  
-**General Chemistry II**
+“This machine is shit.”
 
-Four classes. Four green buttons beside them.
+Scott looked at the wheel.
 
-It should have been easy.
+“It seemed fine.”
 
-It almost was.
+Taiga stared at him. Scott had barely spoken during the race and apparently destroyed almost all of them.
 
-Data Structures had three sections. One started at eight in the morning, which made it fictional. One conflicted with Chemistry lab. The third put him in class until five on Tuesday.
+“You play this?”
 
-Taiga stared at the options.
+“Sometimes.”
 
-"Why is Tuesday always terrible?"
+“How often is sometimes?”
 
-Caleb turned slightly.
+“My brother has the home version.”
 
-"You said that after advising."
+Enzo chose a rhythm game. Gav refused. Scott refused. Aaron volunteered. Leo volunteered. Mia volunteered. Taiga looked at the platform. Arrows. Music. Absolutely not. Enzo pointed.
 
-"I was right then too."
+“Forty-one.”
 
-He picked the five o'clock section.
+“No.”
 
-Discrete Structures was easier. Calculus II had the professor Park recommended and a seat left in the section he wanted. Chemistry II came with another lab, because apparently one semester of measuring liquids badly wasn't enough.
+“You're an athlete.”
 
-Taiga clicked through the final review.
+“I play soccer. I don't step on illuminated squares for approval.”
 
-The schedule appeared in a grid.
+Leo looked over.
 
-Monday looked fine. Wednesday looked fine. Thursday was ugly because of lab. Friday ended before lunch.
-
-Tuesday was an act of violence.
-
-Still.
-
-He looked at the course list again.
-
-**CS 201 — Data Structures**  
-**CS 215 — Discrete Structures**  
-**MATH 122 — Calculus II**  
-**CHEM 102 — General Chemistry II**
-
-Underneath it:
-
-**Current program: Undeclared**
-
-Taiga stopped.
-
-Not because anything had changed. It was the same word that had been sitting there since August.
-
-It just looked slightly stupid under two Computer Science courses.
-
-His phone buzzed.
-
-**⚽️ Apollo ☀️**
-
-**Enzo:** WHO TOOK THE LAST SEAT IN SPORTS PSYCH  
-**Enzo:** I JUST WANNA TALK
-
-**Gav:** You weren't registered for it.
-
-**Enzo:** I WAS CONSIDERING IT
-
-**Aaron:** considering isn't enrolling
-
-**Enzo:** thank you professor
-
-Taiga smiled.
-
-Another message arrived.
-
-**Leo:** got all mine 😎
-
-**Mia:** nobody asked
-
-**Leo:** some people celebrate success mia
-
-**Mia:** some people register before the deadline
-
-Taiga looked back at his own screen.
-
-The green **SUBMIT REGISTRATION** button waited at the bottom.
-
-He clicked it.
-
-A loading circle spun for long enough to become threatening.
-
-Then:
-
-**Registration successful.**
-
-Done.
-
-That should've been satisfying.
-
-Instead his eyes went back to the line above it.
-
-**Current program: Undeclared**
-
-The sidebar had a link beneath it.
-
-**Declare or change program**
-
-Taiga moved the cursor over it.
-
-Didn't click.
-
-He already knew what the page looked like. Park had shown him.
-
-Computer Science. Chemistry. A dozen other options he could technically choose if he wanted to make the next three years substantially more complicated.
-
-He closed the tab.
-
-Registration was done. That was enough university for one afternoon.
-
-His phone buzzed again.
-
-**Enzo:** reminder  
-**Enzo:** 6:25 central  
-**Enzo:** if anybody is late i leave without you
-
-**Gav:** You are always late.
-
-**Enzo:** slander
-
-**Scott:** Train is 6:32.
-
-**Enzo:** exactly
-
-**Gav:** That gives you seven minutes.
-
-**Enzo:** plenty
-
-Taiga put the phone face down.
-
-Political Institutions was open on his laptop. Thirty-two pages for Monday.
-
-He read the same paragraph twice.
-
-Then a third time.
-
-Nothing stayed.
-
-At 3:46, he checked the time.
-
-Too early.
-
-He tried again.
-
-At 4:03, Caleb stood and started putting things into his bag.
-
-"Where are you going?"
-
-"Maya's coming. We're going to the Agora."
-
-Taiga looked up.
-
-"Today?"
-
-"Yes."
-
-"What for?"
-
-"There's a talk on flood-resilient urban design."
+“That's basically soccer with worse grass.”
 
 Taiga stared.
 
-Caleb paused.
+“That sentence is offensive.”
 
-"What?"
+Leo smiled.
 
-"Nothing."
+“You scared?”
 
-"You used the tone."
+Fuck him. Taiga stepped onto the platform. Mia laughed.
 
-"What tone?"
+“That worked embarrassingly fast.”
 
-"The one you use when you think something is predictable."
+“I am not scared.”
+
+“Of course.”
+
+The song started. Taiga lasted forty seconds before understanding that being athletic did not mean his feet appreciated receiving symbolic instructions at high speed. Leo was better. Not dramatically. He missed enough to swear. Enzo was much better than everyone. This was apparently his territory too. At one point Taiga stepped left when the game wanted right, nearly collided with Leo on the adjacent platform and grabbed the side rail. Leo laughed without missing his next input.
+
+“Wrong way\!”
+
+“I KNOW.”
+
+“You're attacking the machine.”
+
+“Shut up.”
+
+Mia missed three arrows because she was laughing. Enzo finished with the highest score. Again. Taiga stepped off.
+
+“I hate this place.”
+
+Leo looked at him.
+
+“You were having fun thirty seconds ago.”
+
+“Prove it.”
+
+Mia raised a hand. Aaron too. Taiga walked away.
+
+“Fuck all of you.”
+
+They followed, laughing.
+
+---
+
+Sofia arrived at eight. By then Taiga had lost at racing, rhythm, one fighting game, and a basketball shooting machine that Aaron took far too seriously. He had won air hockey against Gav. Barely. That was enough to restore dignity. Sofia found them near a row of claw machines.
+
+“You people have been here fifty minutes and Enzo already has a stuffed shark.”
+
+Enzo held it against his chest.
+
+“His name is Roberto.”
+
+“No.”
+
+“You haven't met him.”
+
+“I don't need to.”
+
+Aaron smiled at Sofia.
+
+“You made it.”
+
+She looked at him.
+
+“I said I might.”
+
+“Yeah.”
+
+“Stop looking pleased.”
+
+“I'm allowed to be pleased.”
+
+Taiga coughed. Aaron glared at him. Sofia bought credits and immediately challenged Aaron to basketball. He accepted. Of course. Everyone watched. Sofia won by twelve. Aaron stared at the score.
+
+“You play soccer.”
+
+“So do you.”
+
+“This is hands.”
+
+“I have hands.”
+
+“That isn't what I meant.”
+
+Sofia handed him the ball after the machine returned it.
+
+“Rematch?”
+
+Aaron narrowed his eyes.
+
+“Yes.”
+
+Mia leaned toward Taiga.
+
+“He's going to spend his entire balance on this.”
+
+“Probably, yeah.”
+
+Leo appeared on Taiga's other side.
+
+“Come on.”
+
+Taiga looked over.
+
+“Where exactly?”
+
+“Enzo found the two-player shooter.”
+
+“Why do I care?”
+
+“You said the racing machine was rigged. New chance to restore your honor.”
+
+“My honor is fine.”
+
+“You finished sixth.”
+
+Taiga followed him. The machine had two plastic rifles mounted to a cabinet, giant screen, generic city-under-attack premise. Enzo was already there. He handed Leo one gun. Then saw Taiga.
+
+“Oh, perfect. Teams.”
+
+“Why am I with him?” Taiga asked.
+
+Enzo looked around.
+
+“Because you're standing next to him.”
+
+Excellent matchmaking logic. Gav took the second position with Enzo. They started. The game was stupid. Also fun. Targets appeared. Move. Reload. Cover. Taiga missed the first two because the plastic gun aimed slightly high. Leo watched the first two shots.
+
+“Sight's off.”
+
+“I know.”
+
+“Aim low.”
+
+“I know.”
+
+“You just missed.”
+
+“Talk less.”
+
+Leo laughed.
+
+“All right, fine.”
+
+Thirty seconds later:
+
+“Left.”
+
+Taiga swung left. Target. Shot.
+
+“Behind bus.”
+
+Leo got it. Their score climbed. It had nothing to do with soccer. Except apparently everything became soccer once two competitive people had to coordinate.
+
+“Reloading.”
+
+“Go.”
+
+“Window.”
+
+“Got it.”
+
+“Right side.”
+
+“I see him.”
+
+Enzo shouted from the adjacent machine.
+
+“Stop communicating\!”
+
+Gav said, “That is the game.”
+
+“Not like professionals.”
+
+“We are shooting fictional robots.”
+
+“That's exactly it.”
+
+Taiga laughed. Their stage ended. Scores appeared. Taiga and Leo had won by six hundred points. Enzo looked personally betrayed.
+
+“Again.”
+
+Taiga looked at the continue countdown.
+
+**CONTINUE?**
+
+Ten. Nine. Leo glanced at him.
+
+“You in?”
+
+Eight. Taiga tapped his card. Credits added.
+
+“Again.”
+
+Leo grinned and did the same.
+
+“Let's go.”
+
+Stage two loaded. At some point, Leo stepped closer because the cabinet narrowed near the controls. Their shoulders touched. Leo was warm despite the cool air-conditioning. Then a target appeared on Taiga's side. He moved. They lost stage two to Gav and Enzo by two hundred points. Enzo celebrated as if he had won a championship. Taiga immediately wanted a third game. The machine displayed:
+
+**CONTINUE?**
+
+Leo looked at him. Taiga looked at the remaining credits. Then at the others.
+
+“No.”
+
+Leo nodded.
+
+“Food?”
+
+“Yeah.”
+
+They walked back toward the group.
+
+---
+
+Dinner happened in a busy restaurant on the upper level of the Agora because seven people had vetoed one another's first choices. Enzo wanted burgers. Scott wanted noodles. Mia didn't care but refused one place because she'd eaten there yesterday. Gav voted for somewhere they could actually hear each other. Sofia wanted food within ten minutes. Aaron claimed to want whatever Sofia wanted until Sofia told him that answer was embarrassing. Leo suggested the compromise restaurant.
+
+It had everything. Suspiciously. They got a table near the outer glass where the whole interior of the Agora opened below them. Taiga sat between Gav and Mia. Leo sat across, beside Enzo. Menus appeared on their phones. Conversation split immediately. Aaron and Sofia were still discussing basketball. Gav asked Scott about something from training. Enzo was trying to convince Leo that Roberto the shark belonged in House Apollo's common room.
+
+“It is not going in the common room,” Gav said without looking over.
+
+“You don't control the common room.”
+
+“I will throw it away.”
+
+“Violence against Roberto.”
+
+“He is a forty-centimeter plush shark.”
+
+“He has feelings.”
+
+Scott looked at the shark, which occupied the empty eighth chair.
+
+“No eye on one side.”
+
+Enzo turned it. The stitching had folded one plastic eye into the seam. He gasped.
+
+“Birth defect.”
+
+Mia covered her face. Taiga laughed. Food arrived. The table got quieter for several minutes because apparently hunger could defeat even Enzo. Then Mia asked Taiga:
+
+“So. Official Computer Science major now?”
+
+Taiga looked up.
+
+“Approved Monday.”
+
+Leo looked over.
+
+“Sick!”
+
+Enzo pointed a fry at him.
+
+“Wait. You're CS too?”
+
+“Yeah, I am.”
+
+“Why are all soccer people secretly nerds?”
+
+Gav said, “You own three collectible card binders.”
+
+“That is culture.”
+
+Scott added, “And a spreadsheet for them.” Enzo froze. Taiga looked at him.
+
+“You have a spreadsheet?”
+
+“It tracks value.”
+
+Gav smiled.
+
+“Secret nerd.”
+
+“Finance is different.”
+
+“It's literally a spreadsheet.”
+
+Enzo looked around for support. None came.
+Conversation moved to majors. Sofia studied physiotherapy. Aaron was in business. Gav's coursework leaned toward biology because he was considering sports medicine, though he hadn't decided. Scott was doing mathematics. That surprised Taiga less than it should have. Scott had the energy of someone who would enjoy equations because they did not require conversation. Mia said, “Leo, tell them your inspirational reason for choosing Computer Science.” Leo looked up from his food.
+
+“I don't have one.”
+
+“That's exactly it.”
+
+Enzo leaned in.
+
+“This sounds promising.”
+
+Leo shrugged.
+
+“I liked computers. I was decent at programming in school. The degree seemed useful. End of speech.”
+
+Mia said, “He built a website for his youth club.” Leo looked at her.
+
+“That thing was terrible.”
+
+“You were sixteen.”
+
+“It was still terrible.”
+
+Taiga asked, “What did it do?”
+
+“Schedules. Results. Training notices. Very sophisticated stuff.”
+
+“Static pages?”
+
+“For the most part.”
+
+“Backend?”
+
+Leo laughed.
+
+“Absolutely not. I barely understood JavaScript. If somebody clicked the wrong button, there was a real chance the entire navigation disappeared.”
 
 Taiga smiled.
 
-"Look at you."
+“Quality.”
 
-Caleb ignored that.
+“I was proud of it.”
 
-"Then we're eating there."
+“You should be.”
 
-"Romantic."
+Leo paused for maybe half a second. Then smiled.
 
-"We both want to attend the talk."
+Mia pointed at him.
 
-"Even more romantic."
+“See? Inspirational.”
 
-Caleb zipped his bag.
+“Leave it alone,” Leo said.
 
-"Do you have plans?"
+Taiga looked back at his food. Thankfully, Aaron changed the subject by asking whether anyone had plans for the break after finals. Then the conversation became travel. Sofia was going home. Gav too. Scott's family lived far enough away that he hadn't decided whether flights were worth it for the short break. Enzo wanted to organize something in Mythokos before everyone left. Leo said he might go home for part of it but hadn't booked anything.
 
-Taiga looked at the phone.
+Enzo looked over. “You're going back to Santo Domingo?”
 
-"No."
+“Probably. Depends what flights look like.”
 
-Caleb followed his eyes.
+“Tell my mother before you go anywhere near mine or she'll find out from yours and I'll get six voice notes.”
 
-"The soccer team?"
+Leo laughed. “That sounds like a you problem.”
 
-Taiga frowned.
+“It becomes a me problem at international scale.”
 
-"Why do you assume that?"
+Taiga turned toward them.
 
-"Because the group chat has been vibrating for two days."
+“You're both from Santo Domingo?”
 
-"Could be anybody."
+Leo nodded. “Yeah. Same school, too. Same team for a while.”
 
-"It has a soccer ball in the notification icon."
+Enzo raised a hand. “Important correction: I was on the team first.”
 
-Traitorous technology.
+Leo looked at him. “By three months.”
 
-"They're going to Arcadia."
+“Seniority is seniority.”
 
-Caleb nodded.
+Taiga glanced between them. Their familiarity had always been obvious. He had just assumed it started at Olympus.
 
-"Are you going?"
+“So you both decided to come here together?”
 
-"Don't know."
+“No,” Leo said. “We both applied. He found out he got in first, and when my acceptance came through he sent me about fifty messages.”
 
-"Okay."
+“Forty-two,” Enzo said.
 
-That was it.
+Leo turned. “You counted?”
 
-No analysis. No follow-up. Caleb put on his jacket.
+“I have records.”
+
+Gav looked up from his plate. “Of course you do.”
+
+Enzo ignored him.
+
+“We arrived independently at the same excellent decision.”
+
+“You spent the entire month before we left telling everyone you were going to become internationally famous,” Leo said.
+
+“Still possible.”
+
+“Technically.”
+
+Taiga smiled.
+
+“Your families are still there?”
+
+“Yeah,” Leo said. “Mine are.”
+
+“Mine too,” Enzo added. “And they talk. Constantly. That's the problem.”
+
+Taiga frowned. “What problem?”
+
+Enzo pointed at Leo with the fry still in his hand.
+
+“If he lands in Santo Domingo and my mother hears it from his mother before she hears it from me, somehow I am responsible.”
+
+Leo laughed. “You're making it sound like a diplomatic incident.”
+
+“It becomes one.”
+
+“That explains the six voice notes,” Taiga said.
+
+“Exactly.” Enzo looked vindicated. “Finally, someone understands the stakes.”
+
+Leo shook his head.
+
+“So you go back on break?” Taiga asked.
+
+“Depends,” Leo said. “When flights make sense. It's not exactly somewhere you go for two days.”
+
+“Which is why,” Enzo said, “if he goes home and I don't, my mother will ask why Leo loves his family more than I love mine.”
+
+Leo laughed again. “She has never said that.”
+
+“She could.”
+
+“That is not the same thing.”
+
+Olympus was full of people from somewhere else. Campus made it easy to forget that. Leo and Enzo had settled into it so completely that Taiga had never stopped to think about how far away their version of home actually was, or that the shorthand between them belonged to years before any of the people at this table knew them.
+
+Mia's phone buzzed. She checked the message. Sofia noticed her expression. Leo glanced over and then away again. Taiga caught it.
+
+“What?”
+
+“I was deciding whether I wanted to ask.”
+
+“That is worse than asking.”
+
+“Probably, yeah.”
+
+Mia put the phone face down.
+
+“I have a date tomorrow and he's trying to change restaurants for the third time.”
+
+Enzo immediately leaned forward.
+
+“A date?”
+
+Mia looked at him.
+
+“Yes, Enzo. Humans do those.”
+
+“With who?”
+
+“You don't know him.”
+
+“Then introduce us.”
+
+“Absolutely not.”
+
+Leo took a drink.
+
+“Is this architecture guy?”
+
+Mia pointed.
+
+“You're not helping.”
+
+Aaron asked, “Is he the one with the glasses?” Mia stared.
+
+“How do *you* know?”
+
+“Sofia.”
+
+Everyone looked at Sofia. She continued eating.
+
+“Mia told me.”
+
+Enzo looked betrayed.
+
+“There is a whole information network excluding me.”
+
+Gav said, “For good reason.” The table laughed. Mia explained just enough to satisfy nobody. The guy was named Julian. Architecture student. One previous coffee. Tomorrow was dinner. No, nobody was meeting him. No, Leo was not “screening” him. Leo looked offended at that accusation.
+
+“I trust Mia to identify murderers herself.”
+
+“Thank you,” Mia said.
+
+“That's friendship.”
+
+Taiga smiled. The conversation moved again. Ten minutes later, Leo stopped contributing to it. He finished eating, rubbed one thumb against the condensation on his glass and let Enzo and Aaron argue across him without joining in. Enzo noticed first.
+
+“You good?”
+
+Leo nodded.
+
+“Yeah. Just need the bathroom.”
+
+He stood. Enzo shifted his chair so Leo could pass.
+
+Leo disappeared. Mia kept explaining why Julian changing restaurants three times was not romantic spontaneity. By the time the bill came, Leo was back. Quieter than before. Fine. The conversation moved again. Nothing lingered.
+
+---
+
+They left the restaurant around ten. The Agora was still full. Different crowd now. Fewer families. More students. Couples. Groups heading toward the cinema. Music from somewhere below. Enzo wanted to return to Arcadia. Gav said he was going home. Sofia had training in the morning. Aaron, predictably, agreed with Sofia. Scott simply said he was leaving on the 10:24 train. Taiga checked his phone. Same route back toward campus. Leo looked at the time.
+
+“I'll take that one too.”
+
+Enzo groaned.
+
+“Old people.”
+
+“You spent forty dollars trying to win Roberto,” Gav said.
+
+“Thirty-two.”
+
+“That does not help.”
+
+Mia stayed with Enzo because she wanted to look at one of the stores before it closed. Sofia and Aaron took a different line toward her residence. Gav's connection left from another platform, so he split off at the departure board.
+
+“Monday.”
+
+“Yeah,” Leo said.
+
+Scott raised one hand. Taiga nodded. That left Scott, Leo and Taiga for the 10:24 back toward campus. The train arrived. They boarded. Four seats together. Taiga took the window. Scott opposite him. Leo beside Scott. The carriage hummed out of the Agora station. For several minutes, nobody spoke. Scott had earbuds in. Leo looked through photographs from the arcade on his phone. Taiga watched city lights pass. Then Leo made a sound. Not quite a laugh.
+
+“What?”
+
+Leo turned the screen. Group photo. Apparently Enzo had taken it after Sofia arrived. Everybody crowded beneath the Arcadia sign. Taiga barely remembered posing. He was near one side beside Gav. Leo was on the other side beside Mia. Enzo held Roberto above his head. Scott looked like he had been informed of a tax audit. Taiga laughed.
+
+“Scott.”
+
+Scott removed one earbud.
+
+“What?”
+
+Leo showed him. Scott looked.
+
+“I was blinking.”
+
+“You look dead.”
+
+“I was blinking.”
+
+“That does not explain the rest of your face.”
+
+Scott returned the earbud. Taiga smiled. Leo swiped. Another photo. This one during basketball. Aaron looking horrified at Sofia's score. Another. Enzo on the rhythm machine. Another. Taiga and Leo at the shooter. Taken from behind. Both leaning toward the screen. Taiga's gun angled left. Leo's right. Their shoulders almost touching.
+
+Leo said, “Enzo takes pictures of everything.”
+
+“Apparently so.”
+
+“He'll post all of them in Apollo.”
+
+“Great.”
+
+Leo swiped away. The train stopped. Scott stood.
+
+“This is me.”
+
+Taiga looked out. They were not at campus yet. Scott lived off the direct line, apparently.
+
+“See you Monday,” Scott said.
+
+Leo lifted a hand.
+
+“Later.”
+
+“Later,” Taiga said.
+
+Scott left. Doors closed. Now just Taiga and Leo in the group of four seats. Other passengers still surrounded them. An elderly couple across the aisle. Three students farther down. A child asleep against his mother's shoulder. Leo put his phone away.
+
+“Did you hate it?”
+
+Taiga looked over.
+
+“What?”
+
+“Agora.”
+
+“Parts.”
+
+Leo smiled.
+
+“That's basically a positive review from you.”
+
+“Arcadia was fine.”
+
+“You lost most of the games.”
+
+“The machines were bad.”
+
+“Of course.”
 
 Taiga looked at him.
 
-"What?"
+“You finished fifth in racing.”
 
-"You usually have commentary."
+“Yeah, because I'm honest about my limitations.”
 
-"I don't."
+“You accused Mia of attempted murder.”
 
-"Suspicious."
+“She drove me into a wall.”
 
-Caleb considered.
+“That was funny.”
 
-"You went hiking last weekend."
+“It was targeted violence.”
 
-"And?"
+Taiga laughed. The train curved. Emporio's lights passed outside. Leo rested one arm against the window ledge opposite.
 
-"You said it was good."
+“So you're going somewhere next weekend, right?”
 
-"That is not commentary?"
+Taiga frowned.
 
-"It was an observation."
+“How do you know?”
 
-"Same thing."
+“You told Mia you couldn't help with something Saturday because you had a train.”
 
-"No."
+Taiga thought. Right. Mia had asked if he could look at a weird test issue after lab.
 
-Taiga waved him away.
+“Hunter's exhibition.”
 
-"Go learn about flooding."
+“Hunter?”
 
-"Flood resilience."
+"One of my camp friends, he's in a art school"
 
-"Even worse."
+Leo nodded.
 
-Caleb left.
+“What kind of art?”
 
-The room went quiet.
+“Mostly drawing. Charcoal. Some painting.”
 
-Taiga read another paragraph.
+“You sound uncertain.”
 
-At 4:19, he opened the Arcadia page.
+“I'm not an art person.”
 
-The place was enormous.
+“Neither am I.”
 
-Arcade. Bowling. VR rooms. Food. Something called **HyperCourt** that appeared to be basketball played against projected targets. A racing setup took up half one photo.
+Taiga looked out the window.
 
-Taiga closed the page.
+“He's good.”
 
-He read two more pages of Political Institutions.
+Leo smiled slightly.
 
-At 4:37, his phone buzzed.
+“I figured.”
 
-**Leo:** enzo says you're pretending not to come
+“Why?”
 
-Taiga stared at it.
+“You're going.”
 
-Private message.
+“That doesn't mean anything.”
 
-Of course.
+“You don't voluntarily go to things you think are bad.”
 
-**Taiga:** enzo says a lot of things
+Taiga turned.
 
-Three dots appeared immediately.
+“That is not true.”
 
-**Leo:** true  
-**Leo:** but he's right surprisingly often
+Leo paused.
 
-**Taiga:** statistically impossible
+“Okay. You voluntarily come to soccer training when Mercer schedules conditioning.”
 
-**Leo:** wow  
-**Leo:** anyway arcade first apparently  
-**Leo:** i negotiated
+“That's exactly it.”
 
-Taiga smiled.
+“That might count as self-harm.”
 
-**Taiga:** heroic
+Taiga laughed. Then the conversation kept going. Leo asked lots of stuff about camp and his friends.
 
-**Leo:** thank you  
-**Leo:** finally some respect
+Taiga told him he'd spent three summers at Camp Buddy. The second was the one where everything changed; afterward, he and Yoichi stayed through the off-season to help rebuild the place, and by the third summer the camp was bigger and full again.
 
-The conversation stopped there.
+Leo listened. Actually listened. No constant interruption. Just occasional questions.
 
-Taiga put the phone down.
+“Were you all friends immediately?”
 
-Looked at Political Institutions.
+Taiga laughed.
 
-Looked at the time.
+“No, not exactly”
 
-Then opened Arcadia again.
+“That sounded emphatic.”
 
-The racing machines were still there.
+“On my first term, I only knew Eduard, Lee and a couple of others. Yoichi and Natsumi were also there, but we didn't talk much. That second summer, though, things changed.”
 
-"Fuck."
+Leo's eyebrows rose.
 
-He checked the train.
+“How so?”
 
-6:32.
+Taiga took a long breath before answering
 
-Olympus Central. Platform three.
+“I'm not going into details, let's just say I was not in my best mindset.”
 
-He could leave at six-ten and still make it comfortably.
+Leo waited.
 
-Taiga stared at the route for another few seconds, then set an alarm for 5:55.
+"Term started. I was always with Lee and Eduard. Then, Keitaro and Hiro joined a few weeks later on."
 
-There.
+Taiga stopped one second, then continued
 
-Decision made.
+"Let's just say that me and Keitaro didn't exactly see things eye to eye back then. We spent almost the entire term fighting over stupid shits. By then, Keitaro had already become friends with Natsumi, Hunter and somehow Yoichi."
 
-He went back to reading.
+Again, Leo didn't interrupt him.
 
-This time he got through almost an entire page before realizing he was smiling.
+"Somehow, things worked out in the end and I managed to become friends with all of them."
+
+Leo stared for a couple of second.
+
+"Okay, I won't pretend that I grasped every passage, but I think I have the big picture set in place."
+
+"Deal with it."
+
+Leo smiled. Taiga went silent for a second.
+
+"I owe Keitaro very much."
+
+“He sounds like a very good friend.”
+
+“He's—”
+
+Taiga stopped.
+
+“Annoying.”
+
+Leo smiled.
+
+“Strong opening.”
+
+“He worries about everybody. Constantly. If you don't answer for two hours, he assumes you've been hit by a car.”
+
+“That sounds exhausting.”
+
+“It is.”
+
+Taiga looked down.
+
+“He's also usually the first person who calls.”
+
+Something about that sentence felt too exposed. Taiga expected himself to fix it. Make a joke. He didn't. Leo just nodded.
+
+“Sounds like a good person to have.”
+
+“Yeah.”
+
+The train entered another station. People boarded. The conversation shifted because it had to. Leo moved his legs in to let a woman pass. When the train started again, Taiga asked:
+
+“What about you?”
+
+Leo looked over.
+
+“What about me?”
+
+“You said Enzo was the one person you already knew. What about Gav and Scott?”
+
+“Preseason. Aaron too. Campus was half empty, so the team became most of the people I knew for a while.”
+
+“Three weeks was enough?”
+
+“For Gav? Yeah. He tells you where to be and what time. Scott took longer.”
+
+“Because he doesn't talk?”
+
+“He talks. Just not unless he has something.”
+
+Taiga nodded. That he understood. Leo continued.
+
+“Preseason was weird, though. Enzo was the one familiar thing, and everything else was new. I had this plan where I was going to look calm and professional and not talk too much.”
+
+Taiga stared.
+
+“I know. Completely unrealistic.”
+
+“What happened?”
+
+“About twelve minutes of silence. Personal record.”
+
+Taiga laughed. Leo smiled.
+
+“Everybody on the team already seemed to have some version of themselves ready, and I was trying very hard not to look like the freshman who had arrived three hours ago.”
+
+“You did.”
+
+Leo turned.
+
+“What?”
+
+“Look like you belonged.”
+
+Leo laughed.
+
+“Great. Fraud successful.”
+
+“Not what I meant.”
+
+“I know.”
+
+For a second, the smile settled. Then Leo looked back out the window.
+
+“Enzo could tell I was freaking out, which was irritating because he didn't even have to ask.”
+
+“He seems bad at keeping information to himself.”
+
+“Oh, terrible. But sometimes he knows when not to say it.”
+
+That sounded more generous than anything Enzo would ever say about himself. The campus stop announcement played overhead. They stood.
+
+---
+
+The walk from the station took them across Central Park and into the Residential Zone. They stopped where the paths toward their residence halls divided. Campus at ten-forty looked different from daytime. Less crowded. Windows lit in patches. The tower visible against a cloudy sky. Leo put both hands in his jacket pockets.
+
+“Thanks for coming tonight.”
+
+Taiga frowned.
+
+“You didn't organize it.”
+
+“I know.”
+
+“Then why are you thanking me?”
+
+Leo paused.
+
+“Fair enough.”
+
+Taiga smiled. Leo laughed.
+
+“Okay. I had fun. Better?”
+
+“Better.”
+
+“You?”
+
+Taiga looked toward the residence path.
+
+“Yeah.”
+
+Leo nodded.
+
+“Night, forty-one.”
+
+“You know my name.”
+
+“I do.”
+
+“Then why don't you use it?”
+
+Leo smiled.
+
+“Night, Taiga.”
+
+Taiga felt something small and stupid in his stomach.
+
+“Night.”
+
+Leo headed toward Apollo. Taiga walked the other way.
+
+---
+
+Caleb was awake when Taiga returned. Of course. Not studying. Organizing something on his desk. The gray sweatshirt from Acropolis Park hung over the chair. Taiga opened the door. Caleb looked at the clock.
+
+“Late.”
+
+“It's eleven.”
+
+“Yes.”
+
+“That isn't late.”
+
+“For you, socially, it is.”
+
+Taiga closed the door.
+
+“Fuck you.”
+
+“How was Agora?”
+
+Taiga kicked off his shoes.
+
+“All right, fine.”
+
+Caleb looked at him. Taiga stopped.
+
+“What?”
+
+“You used fine.”
+
+“It's a word.”
+
+Caleb continued looking. Taiga sighed.
+
+“It was good.”
+
+Caleb nodded.
+
+“Okay, then.”
+
+Taiga changed shirt. His phone vibrated. Apollo group chat. Enzo had posted photographs. Many photographs. Too many.
+
+**Enzo:** ARCADIA VICTORY NIGHT
+
+**Gav:** You won two games.
+
+**Enzo:** most important two
+
+**Scott:** I won racing.
+
+**Enzo:** nobody remembers second-order details
+
+**Scott:** The results are in the photo.
+
+Aaron posted the photo of Sofia destroying him at basketball. Sofia reacted with a trophy. Mia posted:
+
+**Mia:** julian says roberto is ugly
+
+**Enzo:** who the fuck is julian
+
+The chat exploded. Taiga laughed.
+
+Taiga scrolled. There was the shooter photo. Leo leaning forward beside him. Taiga's shoulder almost against Leo's. Both focused on the screen. Taiga saved it, then the group shot, Scott looking dead, Aaron losing at basketball, Enzo holding the shark.
+
+Caleb asked, “Do you want the light off?” Taiga looked up.
+
+“What?”
+
+“I'm going to sleep.”
+
+“Oh. Yeah.”
+
+Caleb turned off his desk lamp. The room dropped into softer light from Taiga's side. Taiga plugged the phone in. His wallet landed beside it. Something plastic stuck out. Arcadia card. He pulled it free. There were credits left. Not many. Enough for maybe two games. Taiga put it in the top drawer with his student card and spare keys.
+
+Caleb's first sleep alarm—not an alarm, according to Caleb, a “wind-down reminder”—vibrated against the shelf. Taiga looked across the room.
+
+“Are you serious?”
+
+“It does not make noise.”
+
+“I can hear the vibration.”
+
+“You are awake.”
+
+“That isn't the point.”
+
+Caleb reached for it.
+
+“Do you want me to move it?”
+
+Taiga considered. Then:
+
+“Tomorrow.”
+
+Caleb looked over in the dark.
+
+“What?”
+
+“Deal with it tomorrow. I'm tired.”
+
+A pause.
+
+“Okay, then.”
+
+Taiga turned off his own lamp. Dark. Outside, somebody crossed the courtyard laughing. A door shut. The radiator clicked. Taiga closed his eyes. Enzo's shark. Sofia's basketball score. Scott saying he had been blinking. Hunter's wall measurements from Wednesday. Eighty-four in Calculus. Computer Science officially approved. Leo laughing on the rhythm machine. The train.
+
+Taiga rolled over. The Arcadia card sat in the drawer. Credits remaining. Enough for another game.
+
+---
