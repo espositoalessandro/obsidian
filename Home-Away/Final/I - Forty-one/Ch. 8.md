@@ -1055,3 +1055,5 @@ Taiga rolled his eyes.
 Leo smiled and stepped inside.
 
 “Night, Taiga.”
+
+"Idiot."
