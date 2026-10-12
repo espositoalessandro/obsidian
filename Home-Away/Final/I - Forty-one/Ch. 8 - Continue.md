@@ -187,7 +187,7 @@ Taiga smiled and put the phone away.
 
 As the end of October approached, decorations slowly started accumulating all over the campus.
 
-Olympus was definitely serious about it: plastic pumpkins covering almost every light post, skeleton masks applied on the statues, graves in the patches of central park and eerie lights at night. And, of course, actual pumpkins with candles inside everywhere.
+Olympus was definitely serious about it: plastic pumpkins covering almost every light post, skeleton masks applied on the statues, graves in the patches of Central Park and eerie lights at night. And, of course, actual pumpkins with candles inside everywhere.
 
 Every conversation around campus was dominated by two topics: the Halloween party and spring registration.
 
@@ -301,7 +301,7 @@ There was a hint of mockery in her tone.
 
 "Nope."
 
-"Good. We're going there some time."
+"Good. We're going there sometime."
 
 "That sounded threatening."
 
@@ -762,7 +762,7 @@ Leo turned. "You counted?"
 
 "Yes. This is the second time you've accused me based on false data. So I collected evidence."
 
-"So your families are there?", asked Taiga,
+"So your families are there?" Taiga asked.
 
 "Yep," Leo said.
 
