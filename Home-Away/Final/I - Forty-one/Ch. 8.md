@@ -878,11 +878,11 @@ Leo gave the phone back.
 
 "I didn't mean like *that*."
 
-"I don't know. I've got a pretty early train the following day."
+“I don’t know if I’ll have time. I’ll be out all day the day before.”
 
 "Going somewhere?"
 
-"Yeah, one of the scouts, the blond one dressed as a bunny in the photo, is studying art. School's organizing an exhibit."
+"Yeah, one of my scouts friends, Hunter, the blond one dressed as a bunny in the photo, is studying art. School's organizing an exhibit."
 
 "Oh, that's cool. What kind of art does he do?"
 
