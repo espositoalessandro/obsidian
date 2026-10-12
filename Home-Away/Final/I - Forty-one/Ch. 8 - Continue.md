@@ -1038,13 +1038,13 @@ Leo chuckled and pressed the button for his elevator.
 
 "Fuck you."
 
-Leo stepped inside. "Night, AG."
+Leo stepped inside and waved him off. "Night, AG."
 
 Taiga rolled his eyes.
 
 "You know I have a name."
 
-Leo grinned. "Night, Taiga."
+Leo grinned and pressed a button. "Night, Taiga."
 
 Then the doors closed.
 
