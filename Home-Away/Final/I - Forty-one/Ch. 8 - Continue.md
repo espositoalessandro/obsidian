@@ -1,4 +1,4 @@
-### Chapter 8
+### Chapter 8 - Continue?
 
 "AARON! WHAT THE FUCK?"
 
