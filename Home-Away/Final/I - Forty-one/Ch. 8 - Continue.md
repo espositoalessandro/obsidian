@@ -104,7 +104,7 @@ Most of the others simply ignored him.
 
 Aaron looked interested.
 
-"Arcadia is actually nice."
+"Arcadia is nice."
 
 Enzo pointed and smiled. "One in."
 
@@ -148,8 +148,6 @@ Taiga closed his locker.
 "No."
 
 "Then we're fixing that."
-
-Taiga looked at him.
 
 "Fix what?"
 
@@ -278,7 +276,7 @@ Nora turned her phone. A beagle was sitting in the back of a car wearing a cone.
 
 "He doesn't seem to agree."
 
-Nora laughed. "Definitely not."
+Nora laughed under her breath. "Definitely not."
 
 "What happened?"
 
@@ -338,7 +336,7 @@ They smiled. Taiga sat beside him and went first.
 Scott started fidgeting nervously with his hands. Taiga didn't have anything else to say, so they stayed there in silence.
 
 Aaron arrived shortly after, followed by Gav.
-Taiga heard Enzo and Leo approaching at least a minute before they actually showed up.
+Taiga heard Enzo and Leo approaching at least a minute before they showed up.
 Apparently, Enzo was mad because Evan had bailed. Like, really mad.
 
 "It wasn't his fault," he heard Leo saying.
@@ -380,7 +378,7 @@ Taiga stopped after they entered.
 
 "This is hell."
 
-Enzo looked at him. "Nope, this is just the *entrance* of hell."
+Enzo put a hand on his shoulder. "Nope, this is just the *entrance* of hell."
 
 Taiga sighed and moved on.
 They headed toward Arcadia. The entrance was impossible to miss. Purple-white signage stretched across two storefronts. Inside, screens flashed, machines chimed, and somebody yelled in victory from somewhere deeper inside.
@@ -394,7 +392,7 @@ Taiga stopped again. Aaron followed his gaze.
 
 "Coincidence."
 
-They bought cards and put some credit on them. Apparently, Taiga wasn't the only one eyeing the racing machines because as soon as they were done, Enzo yelled,
+They bought cards and put some credit on them. Taiga wasn't the only one eyeing the racing machines because as soon as they were done, Enzo yelled,
 
 "Let's do the racing first, come on!"
 
@@ -438,7 +436,7 @@ Taiga smiled. "You parked in the middle of a race."
 At some point, the race became less about winning and more about ruining specific people. Scott's car was nowhere to be seen, though.
 He finished first, almost fifteen seconds ahead of Enzo.
 
-Taiga stared at him. Scott had barely spoken during the race and apparently destroyed all of them.
+Taiga blinked at him. Scott had barely spoken during the race and apparently destroyed all of them.
 
 "Do you play this?"
 
@@ -481,7 +479,7 @@ Taiga lasted forty seconds before understanding that being athletic did not mean
 Leo was better, but not dramatically. He still missed enough to swear.
 Enzo was clearly in his territory, though.
 
-At one point, Taiga stepped left when the game wanted right, nearly collided with Leo on the adjacent platform and grabbed the side rail. Leo laughed without missing his next input.
+At one point, Taiga stepped left when the game wanted right, nearly collided with Leo on the adjacent platform and grabbed the side rail. Leo crackled without missing his next input.
 
 "Wrong way!"
 
@@ -501,6 +499,8 @@ Leo looked at him.
 "You were having fun thirty seconds ago."
 
 "Prove it."
+
+"I got witnesses."
 
 Aaron raised a hand, Gav too. Even Scott raised his.
 Taiga walked away, flipping them off from behind.
@@ -547,7 +547,7 @@ She shrugged. "So do you."
 
 "Yeah, this is hands."
 
-Sofia raised her hands. "Apparently, I've got good hands as well."
+Sofia raised her hands. "Looks like I've got good hands as well."
 
 Aaron blinked. "Rematch."
 
@@ -611,7 +611,7 @@ Gav said, "That is the game."
 
 "They're acting like professional marines."
 
-Taiga laughed. The stage ended and scores appeared: they won 4,512 vs. 3,456. Enzo looked at Gav as if it was his fault.
+Taiga snorted. The stage ended and scores appeared: they won 4,512 vs. 3,456. Enzo looked at Gav as if it was his fault.
 
 "Again."
 
@@ -670,7 +670,7 @@ Enzo turned it. The stitching had folded one plastic eye into the seam. He gaspe
 
 "Poor Roberto has a birth defect."
 
-Finally, food arrived and the table got quieter for several minutes because apparently hunger could defeat even Enzo.
+Finally, food arrived and the table got quieter for several minutes because hunger could defeat even Enzo.
 Conversation obviously drifted towards the course selection.
 Taiga tried to avoid getting pulled in, but inevitably Zoe asked him.
 
@@ -684,7 +684,7 @@ Again. Fucking Caleb-virus.
 
 "Political Institutions, Calculus and Foundations of Computer Science."
 
-Zoe stared at him. Leo looked over and stared as well.
+Zoe stopped. Leo looked over and stared as well.
 
 Taiga frowned. "What?"
 
@@ -692,13 +692,13 @@ Taiga frowned. "What?"
 
 "...Yeah?"
 
-"We are in the same class! Why didn't you say anything?"
+"We are in the same course! Why didn't you say anything?"
 
-"We are in different sections."
+"We are in different classes."
 
 "Still! I could've had someone else who shares the pain of Rao's assignments!"
 
-"That's actually a reason not to tell you."
+"That's more of a reason not to tell you."
 
 Leo put on an offended face.
 
@@ -710,7 +710,7 @@ Leo's face lit up.
 
 "Which section of Data Structures?"
 
-Taiga looked at him. Right. He was in CS. Of course he had to be in Data Structures as well.
+Taiga whinced. He was in CS. Of course he had to be in Data Structures as well.
 
 "Monday."
 
@@ -721,8 +721,8 @@ Leo lifted both arms. "SAME AS MINE!"
 "You won't!"
 
 Right, he couldn't. His schedule barely fit now.
-The conversation moved on to the Halloween party. Obviously.
-Most of them were actually hyped for it. Leo was by far the most excited.
+Then they started talking about Halloween party. Obviously.
+Most of them were fairly hyped for it. Leo was by far the most excited.
 They discussed which costume they would wear and whether Olympus would shift the quiet hours just for that night.
 
 Then Aaron changed the subject by asking whether anyone already had plans for the break after finals. The conversation basically shifted towards travel.
@@ -733,11 +733,11 @@ Then Enzo turned towards Leo.
 
 "You?"
 
-Leo made a face. "I'm considering going back to Santo Domingo, but it depends what flights look like."
+He made a face. "I'm considering going back to Santo Domingo, but it depends what flights look like."
 
 "Tell my mother if you decide to go. Otherwise she'll find out from Carmen."
 
-Leo laughed. "That sounds like a you problem."
+"That sounds like a you problem."
 
 "It is a me problem. On an international scale. Tell your mother."
 
@@ -749,7 +749,7 @@ Leo nodded. "Yeah. We're both from there. Same school, too. Same team, too, for 
 
 Enzo raised a hand. "Important correction: I was on the team first."
 
-Leo looked at him. "By three months."
+"By three months."
 
 "Seniority is seniority."
 
@@ -765,7 +765,7 @@ Leo turned. "You counted?"
 
 "Yes. This is the second time you've accused me based on false data. So I collected evidence."
 
-Taiga smiled. "So your families are there?"
+Taiga laughed once. "So your families are there?"
 
 "Yep," Leo said.
 
@@ -777,7 +777,7 @@ Enzo pointed at Leo with a fry.
 
 "If he goes home and my mother hears from his mother before she hears it from me, then I'm responsible."
 
-Leo laughed. "You're making it sound like a diplomatic incident."
+Leo opened his arms. "You're making it sound like a diplomatic incident."
 
 "It becomes one."
 
@@ -787,7 +787,7 @@ Leo laughed. "You're making it sound like a diplomatic incident."
 
 "Which is why," Enzo said, "if he goes home and I don't, my mother will ask why Leo loves his family more than I love mine."
 
-Leo laughed again. "She has never said that."
+Leo laughed. "She has never said that."
 
 "She might."
 
@@ -810,7 +810,7 @@ They scattered wherever they could fit, and Taiga ended up beside Leo.
 For several minutes, they didn't speak. Leo was looking through photos from the arcade on his phone and Taiga watched city lights pass.
 Then Leo snorted lightly and turned the phone towards Taiga.
 
-It was the group photo they'd taken while they were in Arcadia. Taiga barely remembered posing. Enzo was holding Roberto above his head. Scott didn't look like Scott at all. Taiga laughed.
+It was the group photo they'd taken while they were in Arcadia. Taiga barely remembered posing. Enzo was holding Roberto above his head. Scott didn't look like Scott at all, which made Taiga chuckle as well.
 
 Leo scrolled through other photos that Enzo had sent to the group chat. One during basketball, with Aaron looking horrified at Sofia's score. Then a couple taken by Zoe of Taiga, Leo and Enzo on the rhythm game. Another one from the shooter, taken from behind.
 Leo smiled and put the phone away. Then he said,
@@ -888,8 +888,7 @@ Leo gave the phone back.
 
 "I have no fucking idea. I only saw him covered in charcoal."
 
-Leo laughed. Then the conversation kept going. He asked lots of stuff about camp and his friends.
-
+They kept talking about camp. Leo asked lots of stuff about activities and his friends.
 Taiga told him he'd spent three summers at Camp Buddy. He avoided most of the details about his second term and just said that camp was in bad shape by then; afterward, he and Yoichi stayed through the off-season to help rebuild the place, and by the third summer the camp was bigger and full again.
 
 Leo listened. And for someone who talked that much, he did it surprisingly well.
@@ -940,7 +939,7 @@ Leo turned.
 
 "I mean, to me. You do soccer, you know everyone, you know what major you want."
 
-Leo laughed. "Great. Fraud successful."
+Leo barked a laugh. "Great. Fraud successful."
 
 For a second, the smile settled. Then Leo looked back out the window.
 
@@ -978,7 +977,7 @@ Leo pointed at him with his Arcadia card.
 
 "Next time, we'll see."
 
-Taiga laughed. "Fine, but don't cry if you lose again."
+"Fine, but don't cry if you lose again."
 
 They had arrived at the dorms. The others had already entered, but they stayed outside, still discussing who actually took down the second boss.
 
@@ -988,9 +987,7 @@ They had arrived at the dorms. The others had already entered, but they stayed o
 
 "Except it was an arcade."
 
-Leo crossed his arms.
-
-"Not my fault it lacked realism."
+Leo crossed his arms. "Not my fault it lacked realism."
 
 "You didn't complain when three enemies shot you and you stayed alive somehow."
 
@@ -1010,9 +1007,7 @@ Enzo disappeared behind the door again. They went silent for a couple of seconds
 
 "Anyways, thanks for coming tonight."
 
-Taiga frowned.
-
-"You didn't organize it."
+Taiga frowned. "You didn't organize it."
 
 "I know."
 
@@ -1020,9 +1015,9 @@ Taiga frowned.
 
 Leo paused. "Fair enough."
 
-Taiga smiled and raised an eyebrow. Leo laughed.
+Taiga smiled and raised an eyebrow. 
 
-"Okay. I had fun. Better?"
+Leo laughed under his breath. "Okay. I had fun. Better?"
 
 "Yeah."
 
@@ -1034,9 +1029,9 @@ They entered the lobby. Leo lived in the West Wing, while Taiga was in the North
 
 "Enjoy the evening."
 
-Taiga shrugged. "Barely survivable."
+Taiga made a face. "Barely survivable."
 
-Leo laughed and pressed the button for his elevator.
+Leo chuckled and pressed the button for his elevator.
 
 "Which means fun in Taiga."
 
@@ -1052,8 +1047,8 @@ Taiga rolled his eyes.
 
 "You know I have a name."
 
-Leo smiled and stepped inside.
+Leo grinned. "Night, Taiga."
 
-"Night, Taiga."
+And stepped inside.
 
 "Idiot."
