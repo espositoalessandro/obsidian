@@ -29,7 +29,7 @@ The grid with his classes looked weirdly accusatory.
 **General Chemistry I + Lab**
 **Foundations of Computer Science**
 
-Taiga took a breath. Too soon for that.
+Taiga took a breath. Too early in the morning for that.
 
 Caleb ate another spoonful of oatmeal.
 
@@ -225,7 +225,7 @@ Taiga frowned.
 
 "It is literally my job," she said, smiling.
 
-He laughed. 
+He smiled as well.
 
 "Let's leave you undeclared for now. You can submit the form whenever you want."
 
@@ -383,7 +383,7 @@ And left. Enzo sighed.
 
 Leo added, "In our defense, the runner was very sneaky."
 
-House Apollo sat apart from the main athletic buildings, a broad stone building marked with the sun emblem Taiga now saw on training gear, jackets and travel bags. 
+House Apollo sat apart from the main athletic buildings, a broad stone building marked with the same sun emblem of training gear, jackets and travel bags. 
 
 Inside, the trophy cases and old team photographs were more ceremonial than the rest of the building. Upstairs, the common lounge was basically four big sofas, two tables and a kitchen.
 
@@ -421,7 +421,7 @@ Leo turned halfway around. "He says that to everyone."
 
 Enzo leaned back. "I personally resent the other players."
 
-Mercer tapped his pen against the desk. "Can we finish before breakfast?"
+Mercer tapped his pen against the desk. "Can we finish before dinner?"
 
 Forty-five minutes became fifty-eight.
 
@@ -460,13 +460,13 @@ Taiga looked at his slice. "Apparently."
 Leo laughed and flipped him off.
 Conversation drifted through classes, training and Enzo's increasingly aggressive campaign to get people to the Agora.
 
-Eventually Enzo asked, "Hey Taiga, you do anything outside soccer?"
+Eventually Evan asked, "Hey Taiga, you do anything outside soccer?"
 
 Taiga looked at him.
 
 "Yes."
 
-"Why did it sound offended?"
+"Why did it sound offended?", said Enzo.
 
 "Because it was."
 
@@ -515,7 +515,7 @@ Gav said, "You complain when parking is more than five minutes from the destinat
 Enzo looked around for support. Nobody gave him any.
 
 The group split after dinner. Leo and Enzo were trying to convince Aaron that saying "goodnight" once didn't count as a love declaration from Sofia. Evan was trying to make Scott repeat his Mercer impression while Scott denied having one.
-Gav pulled out a chessboard and challenged Taiga.
+Gav pulled out a chessboard and challenged Taiga. Obviously, he accepted.
 
 "Okay, then knight to e5."
 
@@ -539,14 +539,14 @@ Taiga blinked.
 
 "Birdwatching?"
 
-He regretted asking almost immediately when Gav launched into the bird species around Olympus City.
+He regretted asking almost immediately when Gav launched into all the bird species around Olympus City.
 At some point, Gav stopped moving pieces entirely.
 
 Eventually, Taiga left. When he checked the time on his way out, it was 9:20.
 
 ---
 
-At exactly 7:03, Caleb's alarm system declared the day started.
+At exactly 7:03, Caleb's alarm system declared Sunday started.
 They slowly got dressed. Taiga picked his hiking pants and shoes and an old shirt. 
 Caleb had packed like they were crossing a continent: water, food, rain shell, battery, first-aid kit and a printed route.
 
@@ -792,11 +792,11 @@ Upstairs, Caleb immediately unpacked his wet things. Taiga dropped his bag by th
 
 "All right."
 
-Taiga sat on the edge of his bed and opened the photos. Maya had taken one without warning: Caleb looking toward the city, Taiga half turned toward her, neither of them posing. 
+Taiga sat on the edge of his bed and opened a notification from Maya. She had taken a photo without warning: Caleb looking toward the city, Taiga half turned toward her, neither of them posing. 
 
 He smiled and saved it.
 
-While he was deleting a duplicate, a notification appeared at the top of the screen.
+While he was browsing his photos, a notification appeared at the top of the screen.
 
 **Unknown:** hey, leo here
 **Unknown:** took your number from the soccer group chat
@@ -872,7 +872,7 @@ Apparently, they had very different ideas about what counted as "clean". Nobody 
 
 Taiga also noticed another notification. Leo had sent him another message while he was in the shower.
 
-**Leo:** anyways, see you tomorrow ag 
+**Leo:** see you tomorrow ag 
 
 God, was he annoying.
 
