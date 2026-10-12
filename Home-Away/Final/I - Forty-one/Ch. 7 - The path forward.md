@@ -806,7 +806,7 @@ Taiga exhaled. He guessed that was another consequence of his "initiation".
 
 **Taiga:** yeah it's fine
 
-**Unknown:** clinic's running again thursday
+**Unknown:** clinic's running again thursday the 29th
 **Unknown:** if you're still interested, that is
 
 He thought for a couple of seconds.
