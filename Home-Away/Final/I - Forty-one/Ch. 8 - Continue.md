@@ -173,6 +173,7 @@ Taiga pushed the door open and stepped into the corridor. His phone buzzed insid
 
 **⚽️ Apollo ☀️**
 
+**Enzo:** **@all** 
 **Enzo:** friday 6:25 olympus station  
 **Enzo:** arcadia  
 **Enzo:** attendance mandatory unless you have a very good excuse
