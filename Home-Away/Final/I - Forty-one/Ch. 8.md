@@ -682,7 +682,7 @@ Again. Fucking Caleb-virus.
 
 "Fair, so?"
 
-"Political Institutions, Calculus and Fundamentals of Computer Science."
+"Political Institutions, Calculus and Foundations of Computer Science."
 
 Zoe stared at him. Leo heard and stared as well.
 
@@ -723,7 +723,7 @@ Leo lifted both arms. "SAME AS MINE!"
 Right, he couldn't. His schedule barely fit now.
 The conversation moved on to the Halloween party. Obviously.
 Most of them were actually hyped for it. Leo was by far the most excited.
-They discussed which costume they would wear and whether Olympus would shift the curfew just for that night.
+They discussed which costume they would wear and whether Olympus would shift the quiet hours just for that night.
 
 Then Aaron changed the subject by asking whether anyone already had plans for the break after finals. The conversation basically shifted towards travel.
 Sofia was going home, so were Gav and Scott. Being at a couple of hour by car of distance made the decision definitely easier.
@@ -791,8 +791,7 @@ Leo laughed again. “She has never said that.”
 
 "She might."
 
-Taiga kept looking at them. Now that he thought about that, their traits were clearly latin. 
-He didn't that people could come from that far away to a college.
+Taiga kept looking at them. He had never really thought about how far Leo and Enzo had come to be here.
 
 The conversation moved again. Ten minutes later, Taiga noticed that had Leo stopped contributing to it. He finished eating, rubbed one thumb against the condensation on his glass and let Enzo and Aaron argue across him without joining in.
 Then he stood, announcing he needed the bathroom.
@@ -800,7 +799,7 @@ By the time the bill arrived, he came back and joined the conversation again.
 
 ---
 
-They left Arcadia around eleven and went for the station. Apparently everybody had decided to leave at the same time, so the train was jam-packed. 
+They left Agora around eleven and went for the station. Apparently everybody had decided to leave at the same time, so the train was jam-packed. 
 
 The group split into the available seats. Taiga ended up besides Leo.
 For several minutes, they didn't spoke. Leo was looking through photos from the arcade on his phone and Taiga watched city light pass.
@@ -882,7 +881,7 @@ Leo gave the phone back.
 
 "Oh, that's cool. What kind of art does he do?"
 
-"I have no fucking idea."
+"I have no fucking idea, I only saw him covered in charcoal."
 
 Leo laughed. Then the conversation kept going. He asked lots of stuff about camp and his friends.
 
@@ -951,7 +950,7 @@ Taiga smiled, but didn't add anything. The campus stop announced played overhead
 ---
 
 On their way to the dorms, Taiga and Leo kept talking while the rest of the group went on. Classes, Rao assignments, Mercer. 
-Taiga realized that Leo was actually surprisingly easy to talk to. He looked like he was genuinely interested in what Taiga had to say.
+For someone who talked that much, Leo was surprisingly good at listening.
 
 At some point, Taiga asked
 
@@ -1007,22 +1006,24 @@ Taiga smiled. Leo laughed.
 
 "Yeah."
 
-They entered the lobby. Leo lived in the West Wing, while Taiga was in the North Wing. 
+They entered the lobby. Leo lived in the West Wing, while Taiga was in the North Wing, so they stopped in the middle.
 
-"Did you enjoy it?"
+"Did you?", asked Leo.
 
-Taiga shrugged.
+"What?"
 
-"Survivable."
+"Enjoy the evening."
 
-"Glad to hear it. Well, goodnight AG."
+Taiga shrugged. "Barely survivable."
+
+Leo laughed and pressed the button for his elevator.
+
+"Of course. Goodnight AG."
 
 Taiga rolled his eyes.
 
 "You know I have a name."
 
-Leo smiled.
+Leo smiled and stepped inside.
 
 “Night, Taiga.”
-
-
