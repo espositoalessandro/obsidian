@@ -936,7 +936,7 @@ Leo turned.
 
 "I mean, to me. You do soccer, you know everyone, you know what major you want."
 
-Leo barked a laugh. "Great. Fraud successful."
+Leo laughed. "Great. Fraud successful."
 
 For a second, the smile settled. Then Leo looked back out the window.
 
