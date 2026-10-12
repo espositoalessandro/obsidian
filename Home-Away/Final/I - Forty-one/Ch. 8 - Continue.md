@@ -1038,7 +1038,7 @@ Leo chuckled and pressed the button for his elevator.
 
 "Fuck you."
 
-"Night, AG."
+Leo stepped inside. "Night, AG."
 
 Taiga rolled his eyes.
 
@@ -1046,6 +1046,6 @@ Taiga rolled his eyes.
 
 Leo grinned. "Night, Taiga."
 
-Then stepped inside.
+Then the doors closed.
 
 "Idiot."
