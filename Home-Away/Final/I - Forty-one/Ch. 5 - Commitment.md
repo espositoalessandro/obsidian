@@ -136,7 +136,7 @@ His phone buzzed. Hunter?
 
 Three dots appeared. Then disappeared. Then reappeared.
 
-**Hunter:** Sorry to bother you, I just wanted to ask if you're free on November the 1st
+**Hunter:** Sorry to bother you, I just wanted to ask if you're free on October the 30th
 
 **Taiga:** what happens?
 
@@ -154,7 +154,7 @@ A couple of seconds passed before the dots appeared again.
 
 **Hunter:** I don't know, but I guess the school will prepare some kind of buffet
 
-**Taiga:** see you on november 1st
+**Taiga:** see you on october 30th
 
 **Hunter:** You sure it's not a problem for you? You don't have to, you know
 
