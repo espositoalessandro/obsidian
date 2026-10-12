@@ -793,16 +793,20 @@ Leo laughed again. “She has never said that.”
 
 Taiga kept looking at them. He had never really thought about how far Leo and Enzo had come to be here.
 
-The conversation moved again. For a while, he was trapped by Gav explaining why openings were both useless and important in chess to him and Leo. Even Leo contributed almost nothing to that conversation. 
+The conversation moved again. For a while, he and Leo got trapped listening to Gav explain why openings were both useless and important in chess. Even Leo barely contributed.  
 Then he stood, announcing he needed the bathroom.
 
-Taiga registered the escape tactic. Even if Gav barely noticed that one of them went missing.
+Taiga registered the escape tactic, even if Gav barely noticed that one of them went missing.
+
+Leo came back a few minutes later, just as Enzo was trying to convince everybody that Roberto needed urgent medical care and an eye transplant. 
+
+By the time the bill arrived, Enzo had been left alone trying to fix the stitching problem with the restaurant knife, failing miserably.
 
 ---
 
 They left Agora around eleven and went for the station. Apparently everybody had decided to leave at the same time, so the train was jam-packed. 
+They scattered wherever they could fit, and Taiga ended up beside Leo.
 
-The group split into the available seats. Taiga ended up besides Leo.
 For several minutes, they didn't spoke. Leo was looking through photos from the arcade on his phone and Taiga watched city light pass.
 Then Leo snorted lightly and turned the phone towards Taiga.
 
