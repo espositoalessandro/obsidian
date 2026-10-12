@@ -12,7 +12,7 @@
 
 The current intended movement is:
 
-**resist → adapt → experience friction → discover the limits of neat summaries → commit → earn a place → participate voluntarily → choose and belong socially → integrate old and new → achieve → normalize the achievement → destabilize the new baseline**
+**resist → adapt → experience friction → discover the limits of neat summaries → commit → earn a place → participate voluntarily → recognize a direction and belong socially → integrate old and new → achieve → normalize the achievement → destabilize the new baseline**
 
 This should remain compatible with the Section I calibration in `Prose & Voice.md`: Taiga begins as a guarded newcomer who is already capable of growth, and ends the section with Olympus no longer feeling provisional. The final disturbance is not whether he belongs there, but what **Leo specifically** may now mean inside that life.
 
@@ -23,7 +23,8 @@ The former Draft Chapter 8 no longer needs to survive as a standalone chapter.
 Its useful material about Taiga choosing a major is split across Chapters 7 and 8:
 
 - Chapter 7 seeds the unresolved major problem without resolving it.
-- Chapter 8 combines the actual Computer Science choice with the old Arcadia material and Apollo social belonging.
+- Chapter 8 makes Taiga's emerging Computer Science direction increasingly obvious without requiring a formal declaration, while combining that thread with Arcadia and Apollo social belonging.
+- The formal Computer Science declaration is reserved as a possible later-act payoff, after the reality of Taiga repeatedly choosing CS already exists.
 - Former Draft Chapter 13 is pulled into Section I as the new Chapter 12.
 - Section I therefore remains **12 chapters**.
 - Section II can begin directly at Camp Buddy.
@@ -215,33 +216,45 @@ The first Leo DM is a small relationship escalation, not romantic destabilizatio
 
 ---
 
-## Chapter 8 — Choice + Social Belonging
+## Chapter 8 — Direction + Social Belonging
 
 ### Dramatic role
 
 The former "Choice" and "Social Belonging" chapters are now one chapter.
 
-The major question becomes unavoidable, but Taiga does not solve it through a grand revelation. Computer Science becomes the subject whose next classes he already wants. At the same time, Apollo stops functioning primarily as "the soccer team" and becomes a group of people Taiga actively wants to spend time with.
+The major question becomes harder for Taiga to avoid, but it does **not** resolve through a formal declaration. The next classes he actually wants are already largely Computer Science classes, and other people can see the direction before he is willing to name it. At the same time, Apollo stops functioning primarily as "the soccer team" and becomes a group of people Taiga actively wants to spend time with.
 
-The chapter should mix these threads rather than run them as two isolated halves.
+The chapter should let both developments emerge through ordinary choices rather than force either into a declaration scene.
 
 ### Movement
 
-**I'm seeing where this goes → I'm choosing a direction.**
+Academically:
 
-And socially:
+**I do not know what I am choosing → apparently I am already choosing a direction.**
+
+Socially:
 
 **These are people I know → these are people I actively want in my life.**
 
-### Current likely structure
+### Current structure
 
-- Open with a concrete reminder that Taiga still has to choose a direction, building on Park's provisional schedule rather than repeating the Chapter 7 advising scene. Rao / CS work, registration planning or another practical academic beat can supply the pressure.
-- Enzo organizes the Arcadia outing.
-- Taiga goes voluntarily.
-- Arcadia provides the chapter's main body: Apollo ensemble comedy, games, dinner and ordinary personal information outside football.
-- The quieter train ride home gives Taiga and Leo their first substantial personal conversation.
-- After Arcadia, Taiga recognizes that the next courses he actually wants are already Computer Science courses and declares the major.
-- Private texting with Leo continues after Arcadia. The channel already exists; the development comes from Leo's tone, persistence and personal attention becoming slightly more noticeable, not from the fact that he has Taiga's number.
+- Open with football to show how much more Taiga now understands about Apollo both tactically and personally. He can recognize Leo's space creation rather than merely the final pass, while Aaron, Enzo, Gav and Scott read as familiar people rather than roster functions.
+- Enzo organizes the Arcadia outing in the locker room. Taiga initially refuses, but the chapter does **not** need a separate deliberation scene.
+- Nora and spring registration make the academic direction visible. Park's provisional schedule is now **Data Structures, Discrete Structures, Calculus II and General Chemistry II**; Nora points out that this is already very close to a CS major. Taiga remains undeclared, with the declaration page open but untouched.
+- Taiga goes to Arcadia voluntarily and minimizes the choice in character: he was free anyway.
+- Arcadia provides the chapter's main body. The games should be allowed enough space to show Taiga simply having fun, his low-stakes competitive side, and Apollo functioning as a social group outside football.
+- Dinner broadens the group's personal context. Zoe and Leo discover that Taiga is already taking Foundations of Computer Science, and Leo learns that he and Taiga are likely to share Data Structures next semester. Santo Domingo establishes Leo and Enzo's shared background without turning the dinner into biography delivery.
+- The quieter train ride home gives Taiga and Leo their first substantial personal conversation. Halloween and the Camp Buddy photograph let Leo see part of Taiga's previous life; Taiga learns more about Leo's arrival at Olympus and the insecurity beneath his apparently easy social competence.
+- The walk back deliberately becomes lighter again. Taiga and Leo argue about the arcade shooter rather than continuing to exchange important information. The fact that they keep talking after the group has already gone inside is itself the relationship progression.
+- End with the understated goodbye. Leo using "Taiga" rather than "AG" may register to the reader, but Taiga's final response keeps the beat firmly inside his existing filter.
+
+### Academic guardrail
+
+Do **not** add a formal CS declaration simply to close the chapter's academic thread.
+
+The important development is that Taiga's behavior is beginning to precede his labels: he keeps selecting CS courses and treating them as the subjects he actually wants, while still resisting the idea that this has to define his future.
+
+The formal declaration can become a later-act payoff once Taiga has spent much longer repeatedly choosing Computer Science in practice. Likewise, the more personal **"Why did you choose CS?"** conversation with Leo should be saved for later, when questions of direction and future carry more weight.
 
 ### Leo / romance note
 
@@ -249,11 +262,12 @@ Chapter 7 plants only a fully deniable hint: Leo has a legitimate reason to text
 
 Arcadia is the first point where the reader may reasonably infer that **Leo has started seeing Taiga differently**.
 
-After Arcadia, Leo's private contact may become slightly more deliberate: he can continue a conversation after its natural endpoint, reply quickly, remember small details, use Taiga's name more personally, react warmly or show slightly disproportionate enthusiasm. Because private texting is already established, Chapter 8 does **not** need to manufacture another “first contact” excuse.
+The progression should come through small, deniable choices rather than explicit flirting: Leo is openly pleased Taiga came, easily pulls him into games, works naturally with him at the shooter, pays attention to the Camp Buddy photograph, tells him he looked great, listens closely when Taiga talks about camp, and continues talking with him after the rest of the group has effectively peeled away.
 
-This is the first subtle sign of **Leo flirting**, but it must remain deniable.
+Taiga does **not** interpret any of this romantically. He still considers Leo an attractive teammate / friend whose company he enjoys. No nervousness, fixation, "why did he say that?" spiral, stomach-drop reaction or special narrative gravity.
 
-Taiga does **not** interpret it romantically. He still considers Leo an attractive teammate / friend whose company he enjoys. No nervousness, fixation, "why did he text me?" spiral, stomach-drop reaction or special narrative gravity.
+The brief shoulder contact at the shooter can register physically because attraction is already established, but another game target immediately breaks the moment. The chapter must not spend Chapter 12's destabilization.
+
 
 ---
 
@@ -420,7 +434,7 @@ The reader has already been allowed to suspect Leo's interest since Arcadia. The
 By the end of Chapter 12:
 
 - Olympus is no longer provisional.
-- Taiga has chosen Computer Science.
+- Taiga's Computer Science direction is established through repeated choices, even though he remains formally undeclared.
 - Apollo is a social group, not merely a team.
 - Camp Buddy and Olympus can coexist.
 - Taiga has progressed from developmental newcomer to a legitimate reserve starter without being prematurely pushed into first-team football.
