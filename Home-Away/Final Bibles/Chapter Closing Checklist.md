@@ -382,7 +382,7 @@ Accidental redundancy is not.
 
 ---
 
-# 22. Dialogue / Reaction Beat Diversity
+# 21. Dialogue / Reaction Beat Diversity
 
 Audit the beats surrounding dialogue, especially recurring facial and attention verbs.
 
@@ -422,7 +422,7 @@ Prefer, where appropriate:
 
 ---
 
-# 21. Chapter Opening
+# 22. Chapter Opening
 
 Check the first page as an entry point.
 
