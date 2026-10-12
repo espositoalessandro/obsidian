@@ -793,9 +793,10 @@ Leo laughed again. “She has never said that.”
 
 Taiga kept looking at them. He had never really thought about how far Leo and Enzo had come to be here.
 
-The conversation moved again. Ten minutes later, Taiga noticed that had Leo stopped contributing to it. He finished eating, rubbed one thumb against the condensation on his glass and let Enzo and Aaron argue across him without joining in.
+The conversation moved again. For a while, he was trapped by Gav explaining why openings were both useless and important in chess to him and Leo. Even Leo contributed almost nothing to that conversation. 
 Then he stood, announcing he needed the bathroom.
-By the time the bill arrived, he came back and joined the conversation again.
+
+Taiga registered the escape tactic. Even if Gav barely noticed that one of them went missing.
 
 ---
 
@@ -907,7 +908,7 @@ Leo looked over.
 
 "What about me?"
 
-“You said Enzo was the one person you already knew. What about Gav and Scott?”
+“You know, besides Enzo, how did you became friends with the others?”
 
 "I met them during preseason, Scott to. Campus was half empty, so the team became most of the people I knew for a while."
 
