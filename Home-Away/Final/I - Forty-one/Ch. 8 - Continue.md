@@ -892,7 +892,7 @@ Leo laughed. Then the conversation kept going. He asked lots of stuff about camp
 
 Taiga told him he'd spent three summers at Camp Buddy. He avoided most of the details about his second term and just said that camp was in bad shape by then; afterward, he and Yoichi stayed through the off-season to help rebuild the place, and by the third summer the camp was bigger and full again.
 
-Leo listened. Actually listened. No constant interruption. Just occasional questions.
+Leo listened. And for someone who talked that much, he did it surprisingly well.
 
 "That camp sounds like a really nice place."
 
