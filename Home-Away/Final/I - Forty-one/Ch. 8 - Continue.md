@@ -169,7 +169,7 @@ Enzo didn't even flinch.
 
 He looked satisfied, even if half of the people he mentioned didn't actually agree.
 
-Taiga pushed the door open and stepped into the corridor. His phone buzzed inside his bag before he'd made it ten steps.
+Taiga pushed the door open and stepped into the corridor. His phone buzzed inside his bag when he was halfway to the dorms.
 
 **⚽️ Apollo ☀️**
 
@@ -217,7 +217,7 @@ Taiga smiled.
 
 She shrugged.
 
-"Call it female instinct."
+"Instinct."
 
 "That's bullshit."
 
@@ -391,13 +391,11 @@ Taiga stopped again. Aaron followed his gaze.
 
 "You're already looking at the racing machines."
 
-"Coincidence."
+"Mind your business."
 
 They bought cards and put some credit on them. Taiga wasn't the only one eyeing the racing machines because as soon as they were done, Enzo yelled,
 
 "Let's do the racing first, come on!"
-
-Nobody had a preference, so they went.
 
 Enzo chose it because there were enough linked seats for all of them. Taiga took one and, when vehicle selection appeared, chose something fast.
 Leo looked over.
@@ -416,9 +414,9 @@ He immediately accelerated after the countdown and crashed straight into a wall 
 Leo started laughing.
 
 Scott took first, followed by Enzo. Leo was third, but Aaron was tailing him with Gav right behind him.
-Shortly after, Aaron rammed Leo into a wall. Leo shouted,
+Shortly after, Aaron rammed Leo into a wall.
 
-"That was deliberate!"
+"That was deliberate!", shouted Leo.
 
 "You were in my lane," Aaron answered calmly.
 
@@ -426,7 +424,7 @@ Shortly after, Aaron rammed Leo into a wall. Leo shouted,
 
 "Then pick another."
 
-By the fourth corner, Taiga had learned how to take a corner without crashing, which was something.
+By the fourth corner, Taiga had learned how to take a turn without crashing, which was something.
 
 He managed to overtake Leo, who was still recovering from the crash.
 
@@ -564,7 +562,7 @@ Taiga looked over.
 
 "Where exactly?"
 
-"Gav found a two-player shooter."
+"Gav found a four-player shooter."
 
 "Why should I care?"
 
@@ -610,7 +608,7 @@ Enzo shouted from the adjacent machine.
 
 Gav said, "That is the game."
 
-"They're acting like professional marines."
+"They're acting like freaking marines!"
 
 Taiga snorted. The stage ended and scores appeared: they won 4,512 vs. 3,456. Enzo looked at Gav as if it was his fault.
 
@@ -659,7 +657,7 @@ Aaron and Sofia were still discussing basketball, Gav was torturing Scott with s
 
 "I will throw it away."
 
-"Roberto doesn't like violence."
+"Roberto doesn't deserve violence."
 
 "He is a sixty-centimeter plush shark."
 
@@ -703,7 +701,7 @@ Taiga frowned. "What?"
 
 Leo put on an offended face.
 
-"So, what are you taking next semester?"
+"So, what are you taking next semester?", asked Zoe.
 
 "Still haven't confirmed, but I'll probably continue with Chemistry II and Calculus II. Then I was thinking about Discrete Structures and Data Structures."
 
@@ -711,7 +709,7 @@ Leo's face lit up.
 
 "Which section of Data Structures?"
 
-Taiga winced. He was in CS. Of course he had to be in Data Structures as well.
+Taiga winced. Right, Leo was in CS. Of course he had to be in Data Structures as well.
 
 "Monday."
 
@@ -721,7 +719,7 @@ Leo lifted both arms. "SAME AS MINE!"
 
 "You won't!"
 
-Right, he couldn't. His schedule barely fit now.
+Unfortunately he was right. His schedule barely fit now.
 They started talking about the Halloween party. Obviously.
 Most of them were fairly hyped for it. Leo was by far the most excited.
 They discussed which costume they would wear and whether Olympus would shift the quiet hours just for that night.
@@ -743,7 +741,7 @@ Taiga turned toward them.
 
 "Santo Domingo?"
 
-Leo nodded. "Yeah. We're both from there. Same school, too. Same team, too, for a while."
+Leo nodded. "Yeah. We're both from there. Same school. Same team, too, for a while."
 
 Enzo raised a hand. "Important correction: I was on the team first."
 
@@ -779,7 +777,7 @@ Leo opened his arms. "You're making it sound like a diplomatic incident."
 
 "It becomes one."
 
-"So you're going back on break?" Taiga asked.
+"So you're going home on break?" Taiga asked.
 
 "Depends," Leo said. "If flights make sense. It's not exactly somewhere you go for two days."
 
@@ -841,7 +839,7 @@ He chuckled. "Okay, fair. Are you planning on hiding in your room the whole even
 
 "Only if you promise not to laugh."
 
-"Scout's honor."
+Leo raised one hand. "Scout's honor."
 
 Taiga scrolled through his library until he found the photo that Yuri took that night.
 He turned the phone. Leo took it and stared for several seconds, zooming in and out.
@@ -872,7 +870,7 @@ Leo gave the phone back.
 
 "So you're not planning on doing something like that?"
 
-"I can't walk half naked at the end of October."
+Taiga locked the phone and put it in his pocket. "I can't walk half naked at the end of October."
 
 "I didn't mean like *that*."
 
@@ -925,7 +923,7 @@ Taiga stared.
 
 "About twelve minutes of silence. Personal record."
 
-Taiga laughed. Leo smiled.
+Taiga laughed. Leo smiled and looked out the window.
 
 "Everybody on the team already seemed to have some version of themselves ready, and I was trying very hard not to look like the freshman who had arrived three hours ago."
 
@@ -1019,7 +1017,7 @@ Leo laughed under his breath. "Okay. I had fun. Better?"
 
 "Yeah."
 
-They entered the lobby. Leo lived in the West Wing, while Taiga was in the North Wing, so they stopped in the middle.
+They entered the lobby and went towards the elevators.
 
 "Did you?" Leo asked.
 
