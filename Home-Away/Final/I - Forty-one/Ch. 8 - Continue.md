@@ -790,7 +790,7 @@ Leo laughed. "She has never said that."
 
 Taiga kept looking at them. He had never really thought about how far Leo and Enzo had come to be here.
 
-The conversation moved again. For a while, he and Leo got trapped listening to Gav explain why openings were both useless and important in chess. Even Leo barely contributed.  
+He went back to eat. For a while, he and Leo got trapped listening to Gav explain why openings were both useless and important in chess. Even Leo barely contributed.  
 Then Leo stood, announcing he needed the bathroom.
 
 Taiga registered the escape tactic, even if Gav barely noticed that one of them went missing.
