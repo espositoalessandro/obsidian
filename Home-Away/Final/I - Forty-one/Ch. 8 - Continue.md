@@ -98,7 +98,7 @@ There he went.
 "You dumped me last weekend. Since I love you all, I'll give you a chance to redeem yourselves."
 
 Scott immediately threw his clothes into his bag and grabbed his shoes.
-Most of the others simply ignored him.
+Most of the others ignored him.
 
 "Friday. We invade Arcadia."
 
@@ -347,7 +347,7 @@ Enzo looked at Taiga and stopped for a second. His expression changed completely
 
 "TAIGA! You actually came!"
 
-He ran towards him with his arms open. Taiga remained seated and simply raised a leg to keep him at a safe distance.
+He ran towards him with his arms open. Taiga remained seated and raised a leg to keep him at a safe distance.
 
 "I can still change my mind."
 
@@ -414,7 +414,7 @@ He immediately accelerated after the countdown and crashed straight into a wall 
 
 Leo started laughing.
 
-Scott immediately took first, followed by Enzo. Leo was third, but Aaron was tailing him with Gav right behind him.
+Scott took first, followed by Enzo. Leo was third, but Aaron was tailing him with Gav right behind him.
 At some point, Aaron rammed Leo into a wall. Leo shouted,
 
 "That was deliberate!"
@@ -479,7 +479,7 @@ Taiga lasted forty seconds before understanding that being athletic did not mean
 Leo was better, but not dramatically. He still missed enough to swear.
 Enzo was clearly in his territory, though.
 
-At one point, Taiga stepped left when the game wanted right, nearly collided with Leo on the adjacent platform and grabbed the side rail. Leo crackled without missing his next input.
+At one point, Taiga stepped left when the game wanted right, nearly collided with Leo on the adjacent platform and grabbed the side rail. Leo laughed without missing his next input.
 
 "Wrong way!"
 
@@ -684,7 +684,7 @@ Again. Fucking Caleb-virus.
 
 "Political Institutions, Calculus and Foundations of Computer Science."
 
-Zoe stopped. Leo looked over and stared as well.
+Zoe paused. Leo looked over too.
 
 Taiga frowned. "What?"
 
@@ -694,7 +694,7 @@ Taiga frowned. "What?"
 
 "We are in the same course! Why didn't you say anything?"
 
-"We are in different classes."
+"We are in different sections."
 
 "Still! I could've had someone else who shares the pain of Rao's assignments!"
 
@@ -710,7 +710,7 @@ Leo's face lit up.
 
 "Which section of Data Structures?"
 
-Taiga whinced. He was in CS. Of course he had to be in Data Structures as well.
+Taiga winced. He was in CS. Of course he had to be in Data Structures as well.
 
 "Monday."
 
@@ -721,19 +721,16 @@ Leo lifted both arms. "SAME AS MINE!"
 "You won't!"
 
 Right, he couldn't. His schedule barely fit now.
-Then they started talking about Halloween party. Obviously.
+They started talking about the Halloween party. Obviously.
 Most of them were fairly hyped for it. Leo was by far the most excited.
 They discussed which costume they would wear and whether Olympus would shift the quiet hours just for that night.
 
-Then Aaron changed the subject by asking whether anyone already had plans for the break after finals. The conversation basically shifted towards travel.
-Sofia was going home, so were Gav and Scott. Being only a couple of hours away by car definitely made the decision easier.
-Zoe had already booked a vacation in the mountains with her parents.
-
+Then Aaron changed the subject by asking whether anyone already had plans for the break after finals.  Sofia was going home, so were Gav and Scott. Being only a couple of hours away by car definitely made the decision easier. Zoe had already booked a vacation in the mountains with her parents.
 Then Enzo turned towards Leo.
 
 "You?"
 
-He made a face. "I'm considering going back to Santo Domingo, but it depends what flights look like."
+Leo made a face. "I'm considering going back to Santo Domingo, but it depends what flights look like."
 
 "Tell my mother if you decide to go. Otherwise she'll find out from Carmen."
 
@@ -997,7 +994,7 @@ Leo crossed his arms. "Not my fault it lacked realism."
 
 Enzo popped his head out of the dorm door.
 
-"Hey, we're hitting the sack. Night boys."
+"Hey, we're hitting the sack. Night, boys."
 
 "Night, Enzo," said Leo.
 
@@ -1049,6 +1046,6 @@ Taiga rolled his eyes.
 
 Leo grinned. "Night, Taiga."
 
-And stepped inside.
+Then stepped inside.
 
 "Idiot."
