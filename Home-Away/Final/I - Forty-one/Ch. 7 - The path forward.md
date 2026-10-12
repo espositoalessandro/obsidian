@@ -383,7 +383,7 @@ And left. Enzo sighed.
 
 Leo added, "In our defense, the runner was very sneaky."
 
-House Apollo sat apart from the main athletic buildings, a broad stone building marked with the same sun emblem of training gear, jackets and travel bags. 
+House Apollo sat apart from the main athletic buildings, a broad stone building marked with the same sun emblem Taiga had seen on training gear, jackets and travel bags. 
 
 Inside, the trophy cases and old team photographs were more ceremonial than the rest of the building. Upstairs, the common lounge was basically four big sofas, two tables and a kitchen.
 
@@ -466,7 +466,7 @@ Taiga looked at him.
 
 "Yes."
 
-"Why did it sound offended?", said Enzo.
+"Why did it sound offended?" said Enzo.
 
 "Because it was."
 
@@ -539,7 +539,7 @@ Taiga blinked.
 
 "Birdwatching?"
 
-He regretted asking almost immediately when Gav launched into all the bird species around Olympus City.
+He regretted asking almost immediately when Gav launched into a rundown of all the bird species around Olympus City.
 At some point, Gav stopped moving pieces entirely.
 
 Eventually, Taiga left. When he checked the time on his way out, it was 9:20.
