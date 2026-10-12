@@ -204,7 +204,7 @@ And, academically:
 - Lunch with Nora moves their friendship outside class. Nora reframes Taiga's complaint that everyone is “making” him do things as people repeatedly inviting him places, and asks for a photo from the overlook.
 - Thursday House Apollo film review is required; once it ends, Taiga could leave but stays voluntarily for food, conversation, chess and the team's ordinary social life.
 - The Sunday Acropolis hike remains the chapter's main event. Taiga is comfortable and competent outdoors, talks naturally about Camp Buddy with Maya, helps navigate the detour, sends Nora the requested viewpoint photo and later saves Maya's candid photo from the day.
-- Leo texts Taiga privately for the first time after the hike. The youth clinic provides a legitimate reason for contact; once the logistics are finished, Leo keeps the conversation going by asking about the hike and later messages again. Taiga saves his number but files the whole thing under the consequences of his Apollo “initiation” / Leo being annoying rather than examining it.
+- Leo texts Taiga privately for the first time after the hike. The youth clinic provides a legitimate reason for contact: he invites Taiga to the next clinic on **Thursday, October 29**, and Taiga agrees to go. The clinic itself is deliberately reserved for Chapter 9 rather than shown here. Once the logistics are finished, Leo keeps the conversation going by asking about the hike and later messages again. Taiga saves his number but files the whole thing under the consequences of his Apollo “initiation” / Leo being annoying rather than examining it.
 
 ### Guardrail
 
@@ -277,9 +277,9 @@ The brief shoulder contact at the shooter can register physically because attrac
 
 Taiga's Camp Buddy life and his new Olympus life are placed beside each other without requiring one to replace the other.
 
-Hunter's exhibition comes first and briefly returns Taiga to the people and world he already knows. The following day, Halloween lets the reader experience how broad Taiga's Olympus social world has become: Nora, Caleb, Maya, Zoe, Apollo and other recurring people can all exist in the same social space without Taiga needing to belong to only one subgroup.
+The youth clinic opens the chapter by letting Taiga bring something learned at Camp Buddy — working naturally with kids — into his Olympus life. Hunter's exhibition the following day then briefly returns him to the people and world he already knows. Halloween closes the sequence by showing how broad Taiga's Olympus social world has become: Nora, Caleb, Maya, Zoe, Apollo and other recurring people can all exist in the same social space without Taiga needing to belong to only one subgroup.
 
-Putting Camp Buddy first sharpens the contrast. Taiga can still fit naturally into the old group, then return to Olympus and continue living inside a new social world that has become real too.
+The three-day progression deliberately bridges old and new rather than making them compete. Taiga uses part of his Camp Buddy self at Olympus, still fits naturally into the old group, then returns to Olympus and simply continues living inside a new social world that has become real too.
 
 ### Movement
 
@@ -287,6 +287,13 @@ Putting Camp Buddy first sharpens the contrast. Taiga can still fit naturally in
 
 ### Current likely structure
 
+- **Oct 29 — Olympus youth clinic.**
+  - Pay off the appointment established by Leo's first private message in Chapter 7.
+  - Taiga shows up because he chose to, not because he happens to be nearby after training.
+  - Matt remembers Forty-one and is genuinely happy he came back.
+  - Taiga is naturally competent with the kids because of Camp Buddy and can take responsibility for a small drill or explanation rather than merely assisting Leo.
+  - Leo is openly pleased Taiga followed through, but the interaction remains fully deniable as friendship / teammate familiarity.
+  - Keep the clinic compact. Its main structural job is to bridge Taiga's Camp Buddy skills into his Olympus life before the next day's exhibition.
 - **Oct 30 — Hunter's exhibition.**
   - Hunter's university is holding a student exhibition intentionally themed around **fear, horror, unease and Halloween**.
   - The theme should make the date feel deliberate rather than incidental and give Hunter's work a stronger identity.
