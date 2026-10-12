@@ -960,11 +960,11 @@ The campus was silent. And slightly eerie due to all the decorations. On their w
 
 "You'll need a better excuse."
 
-"You only killed 12 enemies more than me."
+"You only killed 12 more enemies than me."
 
 "34 in the first round."
 
-"See? I was adjusting. Another match and I wold have killed more."
+"See? I was adjusting. Another match and I would have killed more."
 
 "That remains to be seen."
 
@@ -978,9 +978,9 @@ Leo pointed at him with his Arcadia card.
 
 "Next time, we'll see."
 
-Taiga laughed. "Fine, but don't cry if you loose again."
+Taiga laughed. "Fine, but don't cry if you lose again."
 
-They had arrived at the dorms. The others had already entered the, but they stayed outside, still discussing who actually took down the second boss.
+They had arrived at the dorms. The others had already entered, but they stayed outside, still discussing who actually took down the second boss.
 
 "You kept shooting at his feet," said Taiga.
 
