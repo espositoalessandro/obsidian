@@ -382,6 +382,46 @@ Accidental redundancy is not.
 
 ---
 
+# 22. Dialogue / Reaction Beat Diversity
+
+Audit the beats surrounding dialogue, especially recurring facial and attention verbs.
+
+Watch for repeated constructions such as:
+
+- `he looked at...`;
+- `he looked over`;
+- `he smiled`;
+- `he laughed`;
+- `he frowned`;
+- `he stared`;
+- `he nodded`;
+- `he shrugged`.
+
+Ask:
+
+- Are the same reaction verbs clustering within a scene?
+- Are characters repeatedly looking at each other before speaking?
+- Is a beat present only because dialogue "needs" an action attached to it?
+- Can the dialogue stand without the beat?
+- Would a physical action, object interaction, posture change or environmental detail do more useful work?
+- Would Taiga's interpretation of the reaction be stronger than mechanically describing it?
+- If a synonym is used, does it express a genuinely different action rather than merely avoiding repetition?
+- Are different characters reacting in ways that suit their own physical and social habits?
+
+Do not replace ordinary verbs mechanically with decorative synonyms.
+
+`Looked`, `smiled` and `laughed` are often invisible when used naturally. The problem is repeated **reaction choreography**, not the existence of common words.
+
+Prefer, where appropriate:
+
+- dialogue alone;
+- physical action;
+- character-specific behavior;
+- Taiga-filtered interpretation;
+- a more precise reaction verb.
+
+---
+
 # 21. Chapter Opening
 
 Check the first page as an entry point.
@@ -396,7 +436,7 @@ Ask:
 
 ---
 
-# 22. Chapter Ending
+# 23. Chapter Ending
 
 Check whether the chapter stops at the right moment.
 
@@ -411,7 +451,7 @@ Ask:
 
 ---
 
-# 23. Title
+# 24. Title
 
 The title should belong to the whole chapter.
 
@@ -425,7 +465,7 @@ Check:
 
 ---
 
-# 24. Grammar and Natural English
+# 25. Grammar and Natural English
 
 Perform this after content and craft decisions are stable.
 
@@ -449,7 +489,7 @@ Small grammar and natural-English fixes may be corrected directly at this stage.
 
 ---
 
-# 25. Formatting
+# 26. Formatting
 
 Check final Markdown and eventual publication rendering.
 
@@ -470,7 +510,7 @@ When unusual formatting appears, consider eventual AO3 rendering.
 
 ---
 
-# 26. Normal-Reader Pass
+# 27. Normal-Reader Pass
 
 Stop editing sentence by sentence.
 
@@ -487,7 +527,7 @@ Notice:
 
 ---
 
-# 27. Story / Romance Reader Test
+# 28. Story / Romance Reader Test
 
 Use the likely audience as another check.
 
@@ -504,7 +544,7 @@ It does need continuing human interest.
 
 ---
 
-# 28. Must-Fix vs Taste
+# 29. Must-Fix vs Taste
 
 Before another polishing pass, classify remaining issues.
 
@@ -529,7 +569,7 @@ Be suspicious of continuing to polish the second.
 
 ---
 
-# 29. Freeze Decision
+# 30. Freeze Decision
 
 Ask:
 
@@ -547,7 +587,7 @@ Do not repeatedly reread a frozen chapter looking for sentences that could theor
 
 ---
 
-# 30. Before Moving On
+# 31. Before Moving On
 
 After freezing:
 
