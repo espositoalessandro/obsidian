@@ -725,7 +725,7 @@ They started talking about the Halloween party. Obviously.
 Most of them were fairly hyped for it. Leo was by far the most excited.
 They discussed which costume they would wear and whether Olympus would shift the quiet hours just for that night.
 
-Then Aaron changed the subject by asking whether anyone already had plans for the break after finals. Sofia was going home, same with Gav and Scott. Being only a couple of hours away by car definitely made the decision easier. Zoe had already booked a vacation in the mountains with her parents.
+Then Aaron changed the subject by asking whether anyone already had plans for the break after finals. Sofia was going home, so were Gav and Scott. Being only a couple of hours away by car definitely made the decision easier. Zoe had already booked a vacation in the mountains with her parents.
 Then Enzo turned towards Leo.
 
 "You?"
@@ -762,7 +762,7 @@ Leo turned. "You counted?"
 
 "Yes. This is the second time you've accused me based on false data. So I collected evidence."
 
-Taiga laughed once. "So your families are there?"
+"So your families are there?", asked Taiga,
 
 "Yep," Leo said.
 
@@ -998,7 +998,7 @@ Enzo popped his head out of the dorm door.
 
 "Night, Enzo," said Leo.
 
-Taiga simply nodded.
+Taiga waved at him.
 
 Enzo disappeared behind the door again. They went silent for a couple of seconds.
 
