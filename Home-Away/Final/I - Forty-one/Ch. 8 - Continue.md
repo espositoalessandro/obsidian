@@ -393,7 +393,7 @@ Taiga stopped again. Aaron followed his gaze.
 
 "Mind your business."
 
-They bought cards and put some credit on them. Taiga wasn't the only one eyeing the racing machines because as soon as they were done, Enzo yelled,
+They bought cards and put some credit on them. Taiga wasn't the only one eyeing the racing machines. As soon as they were done, Enzo yelled,
 
 "Let's do the racing first, come on!"
 
@@ -416,7 +416,7 @@ Leo started laughing.
 Scott took first, followed by Enzo. Leo was third, but Aaron was tailing him with Gav right behind him.
 Shortly after, Aaron rammed Leo into a wall.
 
-"That was deliberate!", shouted Leo.
+"That was deliberate!" Leo shouted.
 
 "You were in my lane," Aaron answered calmly.
 
@@ -701,7 +701,7 @@ Taiga frowned. "What?"
 
 Leo put on an offended face.
 
-"So, what are you taking next semester?", asked Zoe.
+"So, what are you taking next semester?" Zoe asked.
 
 "Still haven't confirmed, but I'll probably continue with Chemistry II and Calculus II. Then I was thinking about Discrete Structures and Data Structures."
 
@@ -719,10 +719,10 @@ Leo lifted both arms. "SAME AS MINE!"
 
 "You won't!"
 
-Unfortunately he was right. His schedule barely fit now.
+Unfortunately, he was right. His schedule barely fit now.
 They started talking about the Halloween party. Obviously.
 Most of them were fairly hyped for it. Leo was by far the most excited.
-They discussed which costume they would wear and whether Olympus would shift the quiet hours just for that night.
+They discussed what costumes they would wear and whether Olympus would shift the quiet hours just for that night.
 
 Then Aaron changed the subject by asking whether anyone already had plans for the break after finals. Sofia was going home, so were Gav and Scott. Being only a couple of hours away by car definitely made the decision easier. Zoe had already booked a vacation in the mountains with her parents.
 Then Enzo turned towards Leo.
@@ -777,7 +777,7 @@ Leo opened his arms. "You're making it sound like a diplomatic incident."
 
 "It becomes one."
 
-"So you're going home on break?" Taiga asked.
+"So you're going home for break?" Taiga asked.
 
 "Depends," Leo said. "If flights make sense. It's not exactly somewhere you go for two days."
 
