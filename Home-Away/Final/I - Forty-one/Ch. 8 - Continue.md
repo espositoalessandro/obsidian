@@ -415,7 +415,7 @@ He immediately accelerated after the countdown and crashed straight into a wall 
 Leo started laughing.
 
 Scott took first, followed by Enzo. Leo was third, but Aaron was tailing him with Gav right behind him.
-At some point, Aaron rammed Leo into a wall. Leo shouted,
+Shortly after, Aaron rammed Leo into a wall. Leo shouted,
 
 "That was deliberate!"
 
