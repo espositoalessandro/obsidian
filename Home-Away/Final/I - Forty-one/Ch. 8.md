@@ -650,7 +650,7 @@ They walked back toward the group.
 ---
 
 Dinner happened in a small restaurant on the upper level of the Agora. They got a table near the outer glass, where the whole interior opened below them.
-Aaron and Sofia were still discussing basketball, Gav was torturing Scott with something about 'multiclassing a paladine', while Enzo was trying to convince everybody Leo that Roberto the shark belonged in House Apollo's common room.
+Aaron and Sofia were still discussing basketball, Gav was torturing Scott with something about 'multiclassing a paladin', while Enzo was trying to convince everybody that Roberto the shark belonged in House Apollo's common room.
 
 “It is not going in the common room,” Gav said without looking over.
 
@@ -672,11 +672,11 @@ Enzo turned it. The stitching had folded one plastic eye into the seam. He gaspe
 
 Finally, food arrived and the table got quieter for several minutes because apparently hunger could defeat even Enzo.
 Conversation obviously drifted towards the course selection.
-Taiga tried to avoid getting pulled in, but inevitable Zoe asked him.
+Taiga tried to avoid getting pulled in, but inevitably Zoe asked him.
 
 "By the way, you never told me which classes you're in besides Chemistry."
 
-Taiga shrugged, "You never asked."
+Taiga shrugged. "You never asked."
 
 Again. Fucking Caleb-virus.
 
@@ -688,7 +688,7 @@ Zoe stared at him. Leo heard and stared as well.
 
 Taiga frowned. "What?"
 
-"You were in FCS the whole time?" said Leo.
+"You were in FCS the whole time?" Leo said.
 
 "...Yeah?"
 
@@ -708,9 +708,9 @@ Leo put on an offended face.
 
 Leo's face lit up. 
 
-"Which section of Data Structure?"
+"Which section of Data Structures?"
 
-Taiga looked at him. Right. He was in CS. Of course he had to be in Data Structure as well.
+Taiga looked at him. Right. He was in CS. Of course he had to be in Data Structures as well.
 
 "Monday."
 
@@ -726,8 +726,8 @@ Most of them were actually hyped for it. Leo was by far the most excited.
 They discussed which costume they would wear and whether Olympus would shift the quiet hours just for that night.
 
 Then Aaron changed the subject by asking whether anyone already had plans for the break after finals. The conversation basically shifted towards travel.
-Sofia was going home, so were Gav and Scott. Being at a couple of hour by car of distance made the decision definitely easier.
-Zoe had already booked a vacation on the snow with her parents.
+Sofia was going home, so were Gav and Scott. Being only a couple of hours away by car definitely made the decision easier.
+Zoe had already booked a vacation in the mountains with her parents.
 
 Then Enzo turned towards Leo.
 
@@ -739,13 +739,13 @@ Leo made a face. "I'm considering going back to Santo Domingo, but it depends wh
 
 Leo laughed. “That sounds like a you problem.”
 
-“It is a me problem. At international scale. Tell your mother.”
+“It is a me problem. On an international scale. Tell your mother.”
 
 Taiga turned toward them.
 
 “Santo Domingo?”
 
-Leo nodded. “Yeah. We're both from there. Same school, too. Same team also, for a while.”
+Leo nodded. “Yeah. We're both from there. Same school, too. Same team too, for a while.”
 
 Enzo raised a hand. “Important correction: I was on the team first.”
 
@@ -763,13 +763,13 @@ Taiga glanced between them.
 
 Leo turned. “You counted?”
 
-“Yes. This is the second time you accuse me with false data. So I collected evidence.”
+“Yes. This is the second time you've accused me based on false data. So I collected evidence.”
 
 Taiga smiled. "So your families are there?"
 
 "Yep," Leo said. 
 
-"And they talk," Enzo added, "Constantly. That's the problem"
+"And they talk," Enzo added. "Constantly. That's the problem."
 
 Taiga frowned. “What problem?”
 
@@ -804,16 +804,16 @@ By the time the bill arrived, Enzo had been left alone trying to fix the stitchi
 
 ---
 
-They left Agora around eleven and went for the station. Apparently everybody had decided to leave at the same time, so the train was jam-packed. 
+They left the Agora around eleven and headed for the station. Apparently everybody had decided to leave at the same time, so the train was jam-packed. 
 They scattered wherever they could fit, and Taiga ended up beside Leo.
 
-For several minutes, they didn't spoke. Leo was looking through photos from the arcade on his phone and Taiga watched city light pass.
+For several minutes, they didn't speak. Leo was looking through photos from the arcade on his phone and Taiga watched city lights pass.
 Then Leo snorted lightly and turned the phone towards Taiga.
 
-Group photo they had taken while they were in Arcadia. Taiga barely remember posing. Enzo was holding Roberto above his head. Scott didn't look like Scott at all. Taiga laughed.
+It was the group photo they'd taken while they were in Arcadia. Taiga barely remembered posing. Enzo was holding Roberto above his head. Scott didn't look like Scott at all. Taiga laughed.
 
-Leo scrolled through other photos that Enzo sent to the group chat. One during basketball, with Aaron looking horrified at Sofia's score. Then a couple taken from Zoe of Taiga, Leo and Enzo on the rhythm. Another one from the shooter, taken from behind. 
-Leo smiled and put the phone away. Then said
+Leo scrolled through other photos that Enzo had sent to the group chat. One during basketball, with Aaron looking horrified at Sofia's score. Then a couple taken by Zoe of Taiga, Leo and Enzo on the rhythm game. Another one from the shooter, taken from behind. 
+Leo smiled and put the phone away. Then he said,
 
 "You didn't say much about the Halloween party."
 
@@ -833,7 +833,7 @@ He chuckled. "Okay, fair. Are you planning on hiding in your room the whole even
 
 "Wait, isn't it a summer camp?"
 
-"Yeah, but once our scoutmaster decided that it would be a good idea to celebrate Halloween in the middle of summer. She called that, but it was just an excuse to make us dressed up."
+"Yeah, but once our scoutmaster decided that it would be a good idea to celebrate Halloween in the middle of summer. She called it that, but it was just an excuse to make us dress up."
 
 "Why would she do that?"
 
@@ -845,8 +845,8 @@ He chuckled. "Okay, fair. Are you planning on hiding in your room the whole even
 
 "Scout's honor."
 
-Taiga scrolled through his library, until he found the foto that Yuri took that night. 
-He turned the phone. Leo took it and stared for several second, zooming in and out.
+Taiga scrolled through his library, until he found the photo that Yuri took that night. 
+He turned the phone. Leo took it and stared for several seconds, zooming in and out.
 
 "Okay, first: this isn't how I was imagining a scout camp."
 
@@ -858,9 +858,9 @@ Taiga felt his ears increasing in temperature.
 
 "I mean... look at this orange guy. He's basically wearing a latex suit!"
 
-"Can you not focus on that please?"
+"Can you not focus on that, please?"
 
-"You look sick by the way. Did you paint all those tattoos yourself?"
+"You look sick, by the way. Did you paint all those tattoos yourself?"
 
 "Yeah. Took me hours."
 
@@ -878,7 +878,7 @@ Leo gave the phone back.
 
 "I didn't mean like *that*."
 
-"I don't know. I got a train pretty early on the following day."
+"I don't know. I've got a pretty early train the following day."
 
 "Going somewhere?"
 
@@ -886,11 +886,11 @@ Leo gave the phone back.
 
 "Oh, that's cool. What kind of art does he do?"
 
-"I have no fucking idea, I only saw him covered in charcoal."
+"I have no fucking idea. I only saw him covered in charcoal."
 
 Leo laughed. Then the conversation kept going. He asked lots of stuff about camp and his friends.
 
-Taiga told him he'd spent three summers at Camp Buddy. He avoided most of the details about his second term, he just said that camp was in bad shape by then; afterward, he and Yoichi stayed through the off-season to help rebuild the place, and by the third summer the camp was bigger and full again.
+Taiga told him he'd spent three summers at Camp Buddy. He avoided most of the details about his second term and just said that camp was in bad shape by then; afterward, he and Yoichi stayed through the off-season to help rebuild the place, and by the third summer the camp was bigger and full again.
 
 Leo listened. Actually listened. No constant interruption. Just occasional questions.
 
@@ -912,9 +912,9 @@ Leo looked over.
 
 "What about me?"
 
-“You know, besides Enzo, how did you became friends with the others?”
+“You know, besides Enzo, how did you become friends with the others?”
 
-"I met them during preseason, Scott to. Campus was half empty, so the team became most of the people I knew for a while."
+"I met them during preseason. Campus was half empty, so the team became most of the people I knew for a while."
 
 "Fair enough."
 
@@ -950,20 +950,20 @@ For a second, the smile settled. Then Leo looked back out the window.
 
 "I know, right? He can be even more extreme than me. But he knows when to say the right things. Or to shut up."
 
-Taiga smiled, but didn't add anything. The campus stop announced played overhead, and they stood.
+Taiga smiled, but didn't add anything. The campus stop announcement played overhead, and they stood.
 
 ---
 
-On their way to the dorms, Taiga and Leo kept talking while the rest of the group went on. Classes, Rao assignments, Mercer. 
+On their way to the dorms, Taiga and Leo kept talking while the rest of the group went on. Classes, Rao's assignments, Mercer. 
 For someone who talked that much, Leo was surprisingly good at listening.
 
-At some point, Taiga asked
+At some point, Taiga asked:
 
 "Why did you choose CS?"
 
 Leo smiled. 
 
-"Oh that's actually a very nice story. Full of ties with my past and my dreams since I was a child."
+"Oh, that's actually a very nice story. Full of ties with my past and my dreams since I was a child."
 
 Taiga raised an eyebrow.
 
@@ -971,7 +971,7 @@ Taiga raised an eyebrow.
 
 "That's deep."
 
-Leo laughed, "Unfortunately, not everybody have a dramatic history."
+Leo laughed. "Unfortunately, not everybody has a dramatic history."
 
 "Yeah, that I figured out."
 
@@ -987,7 +987,7 @@ Leo shrugged.
 
 "That sounded more like a threat."
 
-He grinned, "Maybe."
+He grinned. "Maybe."
 
 They had arrived at the dorms. The others were already in the lobby, but they stayed another minute outside.
 
@@ -1013,7 +1013,7 @@ Taiga smiled. Leo laughed.
 
 They entered the lobby. Leo lived in the West Wing, while Taiga was in the North Wing, so they stopped in the middle.
 
-"Did you?", asked Leo.
+"Did you?" Leo asked.
 
 "What?"
 
