@@ -954,42 +954,59 @@ Taiga smiled, but didn't add anything. The campus stop announcement played overh
 
 ---
 
-On their way to the dorms, Taiga and Leo kept talking while the rest of the group went on. Classes, Rao's assignments, Mercer. 
-For someone who talked that much, Leo was surprisingly good at listening.
+The campus was silent. And slightly eerie due to all the decorations. On their way back to the dorm, Taiga and Leo kept arguing about the shooter game.
 
-At some point, Taiga asked:
+"My gun definitely was offset. I had to aim lower," complained Leo.
 
-"Why did you choose CS?"
+"You'll need a better excuse."
 
-Leo smiled. 
+"You only killed 12 enemies more than me."
 
-"Oh, that's actually a very nice story. Full of ties with my past and my dreams since I was a child."
+"34 in the first round."
 
-Taiga raised an eyebrow.
+"See? I was adjusting. Another match and I wold have killed more."
 
-"I liked computers. I was decent at programming in school. The degree seemed useful. End of speech."
+"That remains to be seen."
 
-"That's deep."
+Leo narrowed his eyes.
 
-Leo laughed. "Unfortunately, not everybody has a dramatic history."
+"Okay, now I feel officially challenged."
 
-"Yeah, that I figured out."
+"You did it by yourself."
 
-"Why do you ask?"
+Leo pointed at him with his Arcadia card. 
 
-Taiga exhaled.
+"Next time, we'll see."
 
-"I'm actually considering it."
+Taiga laughed. "Fine, but don't cry if you loose again."
 
-Leo shrugged.
+They had arrived at the dorms. The others had already entered the, but they stayed outside, still discussing who actually took down the second boss.
 
-"Well, if you do, I'd be happy. We could study together."
+"You kept shooting at his feet," said Taiga.
 
-"That sounded more like a threat."
+"I thought he'd lost his balance. Modern games do that!"
 
-He grinned. "Maybe."
+"Except it was an arcade."
 
-They had arrived at the dorms. The others were already in the lobby, but they stayed another minute outside.
+Leo crossed his arms.
+
+"Not my fault it lacked realism."
+
+"You didn't complain when three enemies shot you and you stayed alive somehow."
+
+"They didn't hit any vital point. Realistic enough for me."
+
+"Yeah, convenient."
+
+Enzo popped his head out of the dorm door.
+
+"Hey, we're hitting the sack. Night boys."
+
+"Night Enzo," said Leo.
+
+Taiga simply nodded.
+
+Enzo disappeared behind the door again. They went silent for a couple of seconds.
 
 "Anyways, thanks for coming tonight."
 
@@ -1001,11 +1018,9 @@ Taiga frowned.
 
 “Then why are you thanking me?”
 
-Leo paused.
+Leo paused. “Fair enough.”
 
-“Fair enough.”
-
-Taiga smiled. Leo laughed.
+Taiga smiled and raised an eyebrow. Leo laughed.
 
 “Okay. I had fun. Better?”
 
@@ -1023,7 +1038,15 @@ Taiga shrugged. "Barely survivable."
 
 Leo laughed and pressed the button for his elevator.
 
-"Of course. Goodnight AG."
+"Which means fun in Taiga."
+
+"It's not a language."
+
+"It's a coded language."
+
+"Fuck you."
+
+"Night, AG."
 
 Taiga rolled his eyes.
 
