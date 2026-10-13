@@ -743,4 +743,116 @@ Taiga rolled his eyes.
 
 Taiga kicked him under the table.
 
+By the time they left the restaurant, the streets around campus had gone quiet.
+Hunter walked with them as far as the hotel.
+
+Keitaro was bombing Taiga with questions about the Arcadia night. Hiro was particularly interested about his performance on the rhythm machine.
+Taiga made them sweat for every detail.
+
+"I already like those guys from Santo Domingo," declared Hiro.
+
+"You three cannot physically fit in the same room."
+
+"I think we'd get along pretty well."
+
+An image of Enzo, Leo and Hiro in the same room flashed in his mind. 
+It gave him the shivers.
+
+"That's exactly what I fear."
+
+Keitaro laughed. "Looks like you have your share of annoying people."
+
+"Definitely."
+
+They stopped at the hotel entrance.
+
+Hunter smiled. "Thanks again for coming, guys. It really meant so much for me."
+
+Yoichi looked away. "Don't make it weird."
+
+Hiro shoved him. "Don't listen to Wolfboy, he cannot handle emotions. It was so good to see your place!"
+
+"Yeah," Keitaro added with a smile. "Looks like you're in good hands."
+
+"Just take care of yourself, don't overdo it," said Natsumi.
+
+Eduard hugged Hunter. "Just keep being fabulous."
+
+Lee offered his hand. "And congratulations again for your pieces."
+
+"My gosh, Lee." Eduard rolled his eyes. "That sounded like something his professor would say."
+
+Hunter laughed. "Thanks again, everyone. I'll see you soon!"
+
+Keitaro lit up. "Oh, right. You all still coming back to camp this winter, right?"
+
+Natsumi smiled. "Of course!"
+
+"Great!" said Hiro.
+
+Taiga shrugged. "I guess."
+
+Yoichi crossed his arms. "You better."
+
+"I don't know yet, guys." said Eduard. "My family and Lee's are planning some kind of vacation. We'll let you know!"
+
+"It's alright, don't worry." continued Hunter. "So, see you in a couple of months?"
+
+Keitaro smiled. "Of course!"
+
 ---
+
+The next morning, the alarm woke him up at seven without mercy. He got to the station and took his train back to his campus. 
+
+The ride seemed shorter than the first one. Maybe because he mostly slept on the train.
+
+A little before noon, the familiar white walls and statues appeared again.
+
+On his way to the dorm, he got a message.
+
+**Caleb:** I'm with Maya in her college. We're preparing for tonight.
+**Caleb:** See you later.
+
+**Taiga:** alright, later
+
+The campus was filled to the brim with eerie decorations, yet there was surprisingly few people around. 
+Apparently, everyone was busy.
+
+He entered his room, dropped both duffels on the floor and 
+laid on the bed.
+
+Silence. Finally.
+
+Taiga stayed like that for maybe half an hour, then he remembered the suspicious bag Yuri gave him.
+
+He opened it and took out the plastic bag inside. It was full of things Taiga couldn't exactly place by their shape. 
+A small note popped out with the bag. 
+It was a small pink post it with Yuri's writing:
+
+*I thought you may need it~*
+*Have a good time!*
+
+Taiga frowned. Okay, that sounded way too suspicious.
+He finally emptied the plastic bag on the bed without too many ceremonies. 
+
+Oh.
+Taiga closed his eyes and took a deep breath.
+
+"Damn, Yuri. I'm so gonna kill you."
+
+On the bed were lying all the pieces of the costume he made for the "Halloween" party, back at Camp Buddy.
+All the plastic bones, the ropes and the fur pieces were there.
+Even the mask was intact.
+
+What the heck was he supposed to do with it? There was no way he could wear it on campus. Let alone on halloween.
+
+Taiga bit his lower lip and looked at the time. 12.06. 
+There was enough time before the party.
+
+He grabbed his keys and left the room.
+
+---
+
+
+
+
