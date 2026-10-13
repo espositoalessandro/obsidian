@@ -243,15 +243,17 @@ Then he looked at Taiga and gasped, putting a hand dramatically over his heart.
 
 He rushed towards him with his mouth opened, slowly lowering his glasses.
 
-[dramatic edward compliment for taiga saying that he should be a model]
+"Taiga, dear, when did you decide to start looking like an actual model? That shirt is doing _wonders_ for your shoulders.”
+
+There he was.
 
 "Hey Ed. You look good."
 
-[lee commenting saying that rust and denim work well together because human eyes like opposite colors]
+Lee adjusted his glasses. “The rust and blue work particularly well together. The contrast makes both colors appear more pronounced.”
 
 "Right, of course. Hi Lee."
 
-"Good morning to you all," he smiled.
+"Good morning to you all," he said smiling.
 
 Natsumi approached as well. He was carrying flowers. 
 
