@@ -499,11 +499,11 @@ A woman with a shaved sidecut appeared and wrapped one arm around Hunter's shoul
 
 "Y-Yeah, mostly."
 
-“You finally stopped moving that third piece around?”  
+"You finally stopped moving that third piece around?"  
 
-“Yes.”  
+"Yes."  
 
-“Oh, thank God.”
+"Oh, thank God."
 
 She looked at the group.
 
@@ -554,7 +554,7 @@ Eduard, from the next wall, called, "Lee, stop academically interrogating the ar
 
 Hunter laughed.
 
-“He's fine.”
+"He's fine."
 
 Taiga watched Lee nod once and move to the next work. Apparently everybody had brought their own version of support.
 
@@ -578,7 +578,7 @@ Later, the exhibit finally ended. Hunter was visibly exhausted, but had a satisf
 
 Hiro gave him approximately four minutes after they sat down.
 
-“Okay. Now that strangers are no longer diagnosing your hallway symbolism, how do you actually feel?”
+"Okay. Now that strangers are no longer diagnosing your hallway symbolism, how do you actually feel?"
 
 Hunter exhaled. "Tired. Also hungry."
 
@@ -590,29 +590,29 @@ Keitaro laughed. "You couldn't let him eat first?"
 
 Hunter smiled. "I guess... relieved?"
 
-Edward put his phone on the table. "If you wanted a dramatic transformation, we could still arrange one. New outfit. Lighting cue. Maybe a fan."
+Eduard put his phone on the table. "If you wanted a dramatic transformation, we could still arrange one. New outfit. Lighting cue. Maybe a fan."
 
-"Ahah, no I'm alright thanks."
+"Ahah, no, I'm alright, thanks."
 
-Lee said, “The work was completed before tonight. The exhibition only changed who could see it.”
+Lee said, "The work was completed before tonight. The exhibition only changed who could see it."
 
-Eduard turned slowly toward him. “That was almost poetic.”
+Eduard turned slowly toward him. "That was almost poetic."
 
-“It was an observation.”
+"It was an observation."
 
-Hunter looked between them. “Weirdly, that's helpful.”
+Hunter looked between them. "Weirdly, that's helpful."
 
 Then food arrived and silence followed. At least for a couple of seconds.
 Hiro complained about a knife-skills practical turning carrots into geometry homework. Natsumi complained about a coach changing pool times without warning. Eduard called a vending-machine sandwich Lee had eaten *triangular sadness* while Lee continued insisting it contained an adequate amount of protein.
 
 Then Hunter asked to see Keitaro's umbrella-repair lady photographs. Keitaro brightened and passed over his phone.
-One showed an older woman's hands stitching dark fabric. Another showed rows of curved handles. Hunter stopped on a photograph of the woman laughing toward someone outside frame.
+One showed an older woman's hands stitching dark fabric. Another showed rows of curved handles. Hunter stopped on a photograph of the woman laughing toward someone outside the frame.
 
-“I like this one.”
+"I like this one."
 
-Keitaro leaned closer. “The laughing one?”
+Keitaro leaned closer. "The laughing one?"
 
-“Yeah. The others tell me what she does. This one makes me feel like I know her a little. Leave the space on the left.”
+"Yeah. The others tell me what she does. This one makes me feel like I know her a little. Leave the space on the left."
 
 Hiro grinned. "It's the same one I chose. But he didn't listen to me."
 
@@ -624,13 +624,13 @@ Then Hunter asked, "What are you doing tomorrow evening?"
 
 "Oh! Me and Keitaro are dressing like the skeleton couple from the movie!"
 
-Keitaro smiled. "Yeah, our college is organizing a party into the ballroom."
+Keitaro smiled. "Yeah, our college is organizing a party in the ballroom."
 
 Natsumi turned. "Your college has a ballroom?"
 
-"I know, right? Our campus is pretty old school", said Hiro.
+"I know, right? Our campus is pretty old school," said Hiro.
 
-Eduard perked up. "Wait until you've heard about my dress~"
+Eduard perked up. "Wait until you hear about my dress~"
 
 He launched into an articulate description of what he was preparing for Halloween. 
 At some point, Taiga's phone buzzed.
@@ -712,7 +712,7 @@ Taiga frowned. He actually didn't ask. He picked up his phone.
 
 "I'll ask."
 
-He deleted the half written message to Leo and opened Caleb's chat.
+He deleted the half-written message to Leo and opened Caleb's chat.
 The answer arrived a few minutes later.
 
 "Apparently his girlfriend forced him into something involving a scarecrow."
@@ -727,7 +727,7 @@ The answer arrived a few minutes later.
 
 Eduard lifted his glass.
 
-"I expect at very least, one fitcheck."
+"I expect, at the very least, one fitcheck."
 
 "I don't even know what that is."
 
@@ -739,7 +739,7 @@ Eduard frowned. "You're heartless. I'll still wait though."
 
 Taiga rolled his eyes.
 
-"He'll be probably scarier if he go as himself," Yoichi said with a smirk.
+"He'd probably be scarier if he went as himself," Yoichi said with a smirk.
 
 Taiga kicked him under the table.
 
