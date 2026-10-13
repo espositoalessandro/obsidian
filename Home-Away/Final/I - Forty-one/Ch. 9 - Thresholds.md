@@ -377,7 +377,7 @@ Hunter looked at all of them. "You all look amazing. I still can't believe you'r
 
 Then he ran off with the flowers and the box.
 
-Eduard then raised a hand and said: "Was I the only one who noticed the eye bags? Anyone?"
+Eduard then raised a hand. "Was I the only one who noticed the eye bags? Anyone?"
 
 Lee answered, "Yes. He was clearly sleep-deprived. Although, given the occasion and Hunter's nature, I'd consider this a foreseeable outcome."
 
@@ -395,7 +395,7 @@ Hiro scratched his head. "I totally get him. When my professors taste what I coo
 
 Natsumi stepped between them. "Okay, don't start you two."
 
-Hunter returned after a few minutes out of breath. "Okay... huff... we can go now."
+Hunter returned after a few minutes out of breath. "Okay..." He took another breath. "We can go now."
 
 "You didn't need to rush," Keitaro said.
 
@@ -425,7 +425,7 @@ Taiga wasn't exactly an artist, but those were ominous as fuck.
 
 Hiro frowned.
 
-"I don't know. It looks human I guess."
+"I don't know. It looks human, I guess."
 
 Hunter giggled. "It's not supposed to be anything specific."
 
@@ -439,7 +439,7 @@ Taiga was looking at the watercolor canvas. The shoreline made him think of Camp
 
 He shrugged. "Because I didn't want it to be a photo. I just wanted it to carry familiarity even if the place is different."
 
-Taiga frowned. "Doesn't this work only for you though?"
+Taiga frowned. "Doesn't this only work for you, though?"
 
 "Well, it worked for you too, didn't it?"
 
@@ -465,7 +465,7 @@ Hunter laughed. "I asked him."
 
 After a while, they all ended up gathering around the last piece.
 
-"What does this represent?" Keitaro asked.
+"What is this one?" Keitaro asked.
 
 "It's- Uh... a hallway."
 
@@ -515,7 +515,7 @@ Hunter nodded.
 
 "Nice to meet you all! Oh, Hunter, before I forget, Miles wanted to go into town after the exhibit. You in?"
 
-"Oh- That's nice but I'll be with them tonight."
+"Oh- That's nice, but... I'll be with them tonight."
 
 Elena smiled. "Yeah, I figured. Well, good luck then! I better get back to my work before Marlowe shows up."
 
@@ -542,7 +542,7 @@ Hunter turned towards him and blinked.
 
 "I thought so. The light transition would be weaker at the original depth."
 
-Hunter stared for half a second. Then gave a sheepish smile.
+Hunter stared for half a second. Then he gave a sheepish smile.
 
 "Yeah. Exactly."
 
