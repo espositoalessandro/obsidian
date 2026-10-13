@@ -854,6 +854,130 @@ He grabbed his keys and left the room.
 
 ---
 
+Saturday evening, Olympus had turned Central Park into a fire hazard.
+Strings of orange lights ran between trees. Paper lanterns floated above the main paths. Student groups had stalls around the lawn. Music came from a temporary stage near the fountain. At least fifty actual pumpkins with candles inside were placed all around the park.
+Hundreds of people swarmed all around. Most of them were in costumes, which made everything twice as chaotic.
+
+It also made almost impossible to find Maya and Caleb in this panic. He pulled out his phone.
+
+**Taiga:** where the fuck are you
+
+**Caleb:** Come near the entrance statue.
+
+Taiga found them near the statue with the latin writing. At least, he hoped it was them.
+He recognized Caleb first because he talked about a scarecrow and he was the only person with straws coming out from his clothes. He had patched brown trousers, a loose shirt and a green vest. Taiga guessed the girl next to him must've been Maya. She was wearing a full black witch dress, with a black pointy hat and even holding a broom. Her face and hands were completely covered in green makeup.
+
+She saw him and waved energetically. 
+
+"Taiga! Over here!"
+
+Taiga reached them. Maya put a hand over his mouth in surprise.
+
+"Oh my God!"
+
+"What?"
+
+"Your costume! It's amazing!"
+
+Taiga felt a bit of heat crawling up his neck.
+
+"Thanks. You look good too."
+
+Caleb looked over him too.
+
+"You didn't have it yesterday."
+
+"I didn't."
+
+"You made it this afternoon?"
+
+"Not everything. The bones are from a costume I made at camp last year."
+
+Caleb stared for another couple of seconds.
+
+"Did you paint the marks?"
+
+Taiga looked down at his chest.
+
+"Yeah. Took quite some time."
+
+He had spent at least two hours drawing the same red tattoos he had over his body over a long sleeved black thermal shirt. That was the worst part, then attaching the rest of the costume was pretty easy.
+
+Maya circled half a step around him.
+
+"Okay. That's actually really good."
+
+"How about you two?"
+
+Maya smiled. She stepped back and opened her arms dramatically.
+
+"Well, I'm the Wicked Witch of the West of course."
+
+"And apparently I'm some brainless scarecrow," Caleb added.
+
+Taiga blinked. Maya slowly lowered her hands in defeat.
+
+"You don't know the Wizard of Oz."
+
+"Nope."
+
+She closed her eyes and took a deep breath.
+
+"You two are a lost cause. One of these evenings I'm making you watch it. We'll do a movie night."
+
+Caleb just nodded. Taiga raised an eyebrow. 
+
+"Just say yes" Caleb whispered.
+
+"Uh... alright."
+
+Maya smiled. "Good. Now let's get this party started."
+
+The lawn was already packed. Costumes moved between the stalls in every direction, ranging from things people had obviously spent weeks building to a guy in a bedsheet who had apparently taken Leo's original advice literally.
+
+Respect for him.
+
+They got some drinks from the stall and sat on a hay bale that was being used as a bench.
+
+"So, how was your friend's exhibit?" Maya asked.
+
+Taiga shrugged. "It went alright. Every person who saw his drawings thought they meant something different. None of them actually guessed the reason behind them."
+
+"Which was...?"
+
+"Hunter had seen a place he liked and he drew it."
+
+Maya burst out laughing.
+
+"Oh my God, people who claim to understand art are so full of shit."
+
+Taiga smiled. "Yeah."
+
+"Can you show me the drawing in question?" asked Caleb.
+
+Taiga show him a photo. Caleb looked at it for a minute.
+
+"It's a hallway."
+
+"Exactly."
+
+He turned the phone back to Taiga.
+
+"What did they say it represented?"
+
+"Fear of adulthood."
+
+Caleb paused. 
+
+"How?"
+
+Taiga shook his head. "Ask them."
+
+Maya raised her drink.
+
+"To the arts!"
+
+He smiled and toasted.
 
 
 
