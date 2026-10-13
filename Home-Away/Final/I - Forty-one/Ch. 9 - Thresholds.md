@@ -858,14 +858,14 @@ Saturday evening, Olympus had turned Central Park into a fire hazard.
 Strings of orange lights ran between trees. Paper lanterns floated above the main paths. Student groups had stalls around the lawn. Music came from a temporary stage near the fountain. At least fifty actual pumpkins with candles inside were placed all around the park.
 Hundreds of people swarmed all around. Most of them were in costumes, which made everything twice as chaotic.
 
-It also made almost impossible to find Maya and Caleb in this panic. He pulled out his phone.
+It also made it almost impossible to find Maya and Caleb in the chaos. He pulled out his phone.
 
 **Taiga:** where the fuck are you
 
 **Caleb:** Come near the entrance statue.
 
-Taiga found them near the statue with the latin writing. At least, he hoped it was them.
-He recognized Caleb first because he talked about a scarecrow and he was the only person with straws coming out from his clothes. He had patched brown trousers, a loose shirt and a green vest. Taiga guessed the girl next to him must've been Maya. She was wearing a full black witch dress, with a black pointy hat and even holding a broom. Her face and hands were completely covered in green makeup.
+Taiga found them near the statue with the Latin writing. At least, he hoped it was them.
+He recognized Caleb first because he had talked about a scarecrow and he was the only person with straw sticking out of his clothes. He had patched brown trousers, a loose shirt and a green vest. It took Taiga a second to recognize Maya beside him. She was wearing a full black witch dress, with a black pointy hat and even holding a broom. Her face and hands were completely covered in green makeup.
 
 She saw him and waved energetically. 
 
@@ -883,7 +883,7 @@ Taiga felt a bit of heat crawling up his neck.
 
 "Thanks. You look good too."
 
-Caleb looked over him too.
+Caleb looked him over too.
 
 "You didn't have it yesterday."
 
@@ -901,7 +901,7 @@ Taiga looked down at his chest.
 
 "Yeah. Took quite some time."
 
-He had spent at least two hours drawing the same red tattoos he had over his body over a long sleeved black thermal shirt. That was the worst part, then attaching the rest of the costume was pretty easy.
+He had spent at least two hours recreating the same red markings he'd painted across his body at Camp Buddy, this time over a long-sleeved black thermal shirt. That was the worst part, then attaching the rest of the costume was pretty easy.
 
 Maya circled half a step around him.
 
@@ -935,7 +935,7 @@ Maya smiled. "Good. Now let's get this party started."
 
 The lawn was already packed. Costumes moved between the stalls in every direction, ranging from things people had obviously spent weeks building to a guy in a bedsheet who had apparently taken Leo's original advice literally.
 
-Respect for him.
+Respect.
 
 They got some drinks from the stall and sat on a hay bale that was being used as a bench.
 
@@ -955,7 +955,7 @@ Taiga smiled. "Yeah."
 
 "Can you show me the drawing in question?" asked Caleb.
 
-Taiga show him a photo. Caleb looked at it for a minute.
+Taiga showed him a photo. Caleb looked at it for a minute.
 
 "It's a hallway."
 
@@ -977,7 +977,7 @@ Maya raised her drink.
 
 "To the arts!"
 
-He smiled and toasted.
+He smiled and raised his cup.
 
 
 
