@@ -312,7 +312,7 @@ Natsumi gave a sheepish smile. "Well—thanks?"
 
 Then Yoichi held the smaller duffel out to Taiga. It was pretty heavy indeed. 
 
-Taiga frowned and opened the zip. It was full of something wrapped in a plastic bag, but he couldn't determine what it was.
+Taiga frowned and opened the zip. It was full of something wrapped in a plastic bag, but he couldn't tell what it was.
 
 "What the heck is this?"
 
