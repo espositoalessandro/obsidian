@@ -215,10 +215,12 @@ Keitaro hugged him before he could prepare for it. Taiga let him.
 
 Keitaro smiled. "You look good in a shirt then!"
 
-They were wearing shirts as well. Taiga was glad he got the dress code right, at least.
+They were wearing shirts as well. He had got the dress code right, at least.
 
-Then Natusmi, Lee and Eduard arrived and he immediately changed his mind.
-Natsumi was in a full suit, just without a tie. Lee also had a simple shirt, but he went heavy with the gel on his hair. 
+Then Natusmi, Lee and Eduard arrived. 
+...Nevermind.
+
+Natsumi had gone with a proper suit, even a freaking bow-tie. Lee also had a simple shirt, but he went heavy with the gel on his hair.
 
 Then there was Eduard.
 He appeared from the platform dressed like he’d misunderstood _student art exhibition_ as _fashion week_.
@@ -237,7 +239,7 @@ Edward giggled and did a small piroette on one foot.
 
 "Aw, thanks darling, you look fabulous as well!"
 
-Then he looked at Taiga and gasped, putting a hand dramatically over his heart.
+Then he looked at Taiga and gasped, putting a hand dramatically over his mouth.
 
 "Oh. My. God. Am I seeing things?"
 
@@ -249,11 +251,11 @@ There he was.
 
 "Hey Ed. You look good."
 
-Lee adjusted his glasses. “The rust and blue work particularly well together. The contrast makes both colors appear more pronounced.”
+Lee adjusted his glasses. “The rust and blue work particularly well together because they sit at opposite positions on the color spectrum. The contrast makes both colors appear more pronounced.”
 
 "Right, of course. Hi Lee."
 
-"Good morning to you all," he said smiling.
+"Good morning to you as well," he said smiling.
 
 Natsumi approached as well. He was carrying flowers. 
 
@@ -286,7 +288,9 @@ He arrived with cargo jeans, heavy boots and a black sherpa trucker jacket. A du
 
 "What the fuck is Spaghetti-Boy wearing?"
 
-Taiga looked at him. "What the fuck are *you* wearing?"
+"Uh, excuse me? I'll have you know this is from the latest Eastwood fall collection."
+
+Taiga looked at Yoichi. "What the fuck are *you* wearing?"
 
 "Clothes. Duh."
 
@@ -297,6 +301,8 @@ Keitaro and Hiro giggled.
 "The fuck are you laughing at?"
 
 Natsumi smiled. "You look great Yoichi."
+
+Yoichi turned and stared at him.
 
 "You look like a penguin."
 
