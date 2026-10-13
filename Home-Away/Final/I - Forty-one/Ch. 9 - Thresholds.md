@@ -855,10 +855,10 @@ He grabbed his keys and left the room.
 ---
 
 Saturday evening, Olympus had turned Central Park into a fire hazard.
-Strings of orange lights ran between trees. Paper lanterns floated above the main paths. Student groups had stalls around the lawn. Music came from a temporary stage near the fountain. At least fifty actual pumpkins with candles inside were placed all around the park.
+Strings of orange lights ran between trees. Paper lanterns floated above the main paths. Student groups had stalls around the lawn. Music came from a temporary stage near the fountain. At least fifty actual glowing pumpkins were placed all around the park.
 Hundreds of people swarmed all around. Most of them were in costumes, which made everything twice as chaotic.
 
-It also made it almost impossible to find Maya and Caleb in the chaos. He pulled out his phone.
+It also made it almost impossible to find Maya and Caleb. He pulled out his phone.
 
 **Taiga:** where the fuck are you
 
@@ -947,9 +947,9 @@ Taiga shrugged. "It went alright. Every person who saw his drawings thought they
 
 "Hunter had seen a place he liked and he drew it."
 
-Maya burst out laughing.
+Maya snorted.
 
-"Oh my God, people who claim to understand art are so full of shit."
+"People who claim to understand art are so full of shit."
 
 Taiga smiled. "Yeah."
 
