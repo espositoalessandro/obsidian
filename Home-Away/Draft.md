@@ -236,7 +236,7 @@ Yoichi sent:
 
 Natsumi replied:
 
-**Because it's Hunter's exhibition. I thought it'd be nice.**
+**Because normal people bring something to an exhibition.**
 
 **food is something**
 
@@ -276,19 +276,19 @@ Yoichi turned.
 
 For half a second, nobody said anything.
 
-Then his eyes dropped to Taiga's shirt.
+Then Yoichi looked him over.
 
-"Red?"
+"Red."
 
 Taiga stared.
 
 "What?"
 
-"The shirt, dumbass."
+"Shirt."
 
 "I know what color it is."
 
-"Tch. Looks weird on you."
+"Looks weird."
 
 "Good to see you too."
 
@@ -296,15 +296,15 @@ Yoichi grinned.
 
 Keitaro hugged him before Taiga could prepare for it. Taiga let him.
 
-"You made it!"
+"You're alive."
 
 "Unfortunately."
 
-Keitaro laughed. "You look good."
+"You look good."
 
 "Don't start."
 
-"What? I was just saying!"
+"I'm not starting anything."
 
 "You're always starting something."
 
@@ -316,7 +316,7 @@ Taiga stepped back.
 
 "You came all the way here just to complain?"
 
-"Duh."
+"Yeah."
 
 "Good."
 
@@ -326,7 +326,7 @@ Hiro was last.
 
 He came up the stairs six minutes late with a white pastry box held level in both hands like radioactive material.
 
-"Whoa, nobody move!"
+"Nobody move."
 
 Yoichi looked at him.
 
@@ -334,7 +334,7 @@ Yoichi looked at him.
 
 "Shut up."
 
-"If this thing tilts after four hours on a train, I'm gonna cry."
+"If this tilts, I kill all of you."
 
 "You brought cake on a train?"
 
@@ -342,23 +342,19 @@ Yoichi looked at him.
 
 "That's cake."
 
-"It is not cake!"
+"It is not cake."
 
 Natsumi lifted the flowers.
 
-"Please don't start arguing before we even reach the gallery."
+"Please don't begin before we reach the gallery."
 
 Yoichi pointed at the bouquet.
 
-"Still don't get why you brought those."
+"Still don't understand those."
 
-"They're for Hunter, Yoichi."
+"They're not for you."
 
-"Yeah, I got that."
-
-"Then what's the problem?"
-
-Yoichi clicked his tongue. "Whatever."
+"Good."
 
 Once everyone was accounted for, they took the local train toward the university district.
 
@@ -386,13 +382,13 @@ Yoichi stopped on the sidewalk.
 
 Keitaro lifted his camera.
 
-"Hahaha! Art school."
+"Art school."
 
 "It looks unfinished."
 
-"I think that's kind of the point."
+"That's intentional."
 
-"That's even worse."
+"That's worse."
 
 Taiga smiled.
 
@@ -408,11 +404,11 @@ Yoichi read it.
 
 Lee answered.
 
-"Something familiar presented in a way that makes it feel strange or unsettling."
+"Something familiar rendered strange."
 
-Yoichi looked around the room.
+Yoichi looked at the room.
 
-"So this whole fucking place."
+"So college."
 
 Taiga laughed.
 
@@ -434,17 +430,17 @@ He saw them.
 
 His shoulders dropped.
 
-"Hey...!"
+"Hey."
 
 Hiro lifted the pastry box.
 
-"I brought emotional support!"
+"I brought emotional support."
 
 Hunter laughed.
 
 Natsumi held out the flowers.
 
-"And I brought something a little more traditional."
+"And I brought normal support."
 
 Hunter looked at Yoichi.
 
@@ -474,23 +470,23 @@ Taiga pretended not to see any of it.
 
 Eduard took Hunter by both shoulders.
 
-"Hunter, darling, you look like you're about to be judged by every stranger in this building."
+"You look like a person whose work is about to be judged by strangers."
 
-"That's because I am."
+"That's because it is."
 
-"Ugh. Horrifying. Never put yourself through this again."
+"Terrible concept. Never do it again."
 
-Lee adjusted his glasses.
+Lee nodded.
 
-"That may prove difficult if he intends to remain an artist."
+"Statistically difficult if he intends to remain an artist."
 
 "Lee."
 
-"What? It is a reasonable observation."
+"What?"
 
 Hunter laughed again.
 
-"Come on. I'll show you guys."
+"Come on. I'll show you."
 
 His section was on the far wall of the second room.
 
@@ -512,27 +508,27 @@ Taiga stopped several feet away.
 
 Hunter stood beside him.
 
-"Well...?"
+"Well?"
 
 "The spacing's good."
 
 Hunter closed his eyes.
 
-"I show you five pieces and you start with the centimeters..."
+"I show you five pieces and you start with the centimeters."
 
 "You asked."
 
-"I did ask..."
+"I did."
 
 "Then don't complain."
 
 Hunter smiled.
 
-"The bigger break worked, though."
+"The bigger break worked."
 
 "Obviously."
 
-"I'm starting to regret calling you about it."
+"I hate that I called you about it now."
 
 "You should."
 
@@ -598,13 +594,13 @@ Hunter smiled.
 
 Hunter waited until Yoichi looked back at the drawing.
 
-"That's... kind of what I wanted."
+"That's kind of what I wanted."
 
-"Then it's good. Duh."
+"Then it's good."
 
 Hunter blinked.
 
-"Hehe... Thanks."
+"Thanks."
 
 Yoichi shrugged and moved to the next one.
 
@@ -662,7 +658,9 @@ Hunter appeared beside him.
 
 "Still?"
 
-"You said it looked fine in the photo..."
+"You liked the photo."
+
+"I said it looked fine."
 
 "That is basically a standing ovation from you."
 
@@ -706,7 +704,7 @@ Hunter paused. "Why?"
 
 Hunter's mouth twitched.
 
-"Tch. Don't make that face."
+"Oh, fuck off," Yoichi said.
 
 "I didn't say anything."
 
@@ -824,11 +822,11 @@ Keitaro took the photograph.
 
 "Delete that," Yoichi said.
 
-"No way."
+"No."
 
 "Keitaro."
 
-"Absolutely not!"
+"Absolutely not."
 
 Marlowe moved on.
 
@@ -844,23 +842,25 @@ People knew where to find him.
 
 Keitaro came to stand beside Taiga.
 
-"He's doing really well."
+"He's doing good."
 
 "Yeah."
 
-Keitaro smiled.
+"Really good."
 
-"I'm glad."
+"Yeah."
 
-Taiga looked at him.
+Keitaro looked at Taiga.
+
+Taiga looked back.
 
 "Don't."
 
-"What?"
+"I didn't say anything."
 
-"You're about to say something."
+"You're about to."
 
-Keitaro blinked. "I was going to ask if you wanted a drink."
+"I was going to ask if you wanted a drink."
 
 Taiga paused.
 
@@ -886,11 +886,11 @@ Natsumi's flowers ended up in a collapsible vase she'd brought from home.
 
 "You brought a vase?" Yoichi said.
 
-"Of course! I figured we'd need somewhere to put them."
+"I anticipated a problem."
 
 "That's insane."
 
-"And now the flowers have somewhere to go, so it worked."
+"It's currently holding the flowers."
 
 "Still insane."
 
@@ -928,7 +928,7 @@ Taiga lost it.
 
 Keitaro leaned against the wall, laughing too.
 
-"Come on," he said. "People are allowed to see things Hunter didn't put there on purpose."
+"Okay," he said. "People are allowed to see things Hunter didn't intentionally put there."
 
 "The guy drew a fucking hallway."
 
@@ -952,7 +952,7 @@ Taiga wiped his eyes.
 
 Yoichi crossed his arms.
 
-"He used more bullshit words, but basically, yeah."
+"He used longer words, but spiritually."
 
 Keitaro looked at Taiga.
 
@@ -964,7 +964,7 @@ Yoichi snorted.
 
 Keitaro smiled.
 
-"Come on, give me more than that."
+"Expanded answer."
 
 Taiga leaned against the window.
 
@@ -988,13 +988,13 @@ Taiga leaned against the window.
 
 "Excuses."
 
-Keitaro said, "Oh! You went to that arcade place, right?"
+Keitaro said, "You went to that arcade thing, right?"
 
 Taiga narrowed his eyes.
 
 "How do you know that?"
 
-"Hiro showed me the picture."
+"Hiro."
 
 "Hiro?"
 
@@ -1126,23 +1126,23 @@ Hunter sat between Natsumi and Yoichi. Taiga ended up across from Keitaro, with 
 
 For the first several minutes, everyone ate.
 
-Then Hiro said, "Soooo..."
+Then Hiro said, "So."
 
 Hunter kept chewing.
 
 "No."
 
-"I didn't even ask anything yet!"
+"I didn't ask anything yet."
 
 "You were about to."
 
-"I was going to ask how you feel!"
+"I was going to ask how you feel."
 
-"No..."
+"No."
 
 Eduard lifted his glass.
 
-"Oh, absolutely. Avoidance is fabulous."
+"I support avoidance."
 
 Natsumi smiled.
 
@@ -1168,15 +1168,15 @@ Conversation moved before it could become serious.
 
 Hiro described a knife-skills practical that had apparently turned carrots into geometry. Keitaro talked about an assignment involving a woman who repaired umbrellas. Natsumi complained about a coach changing pool times without warning. Eduard had opinions about everybody's clothes. Lee had eaten something from a vending machine for dinner three nights in a row and was being publicly prosecuted for it.
 
-Then Hunter asked, "So... what happened with Computer Science?"
+Then Hunter asked, "So what happened with Computer Science?"
 
 "Still undeclared."
 
-Hiro groaned. "Dude, you still haven't declared?"
+Hiro groaned. "You have made zero progress."
 
 "I'm taking Data Structures and Discrete Structures next semester."
 
-Keitaro smiled. "That sounds like progress!"
+Keitaro smiled. "That sounds like progress."
 
 "Didn't say it wasn't."
 
@@ -1184,11 +1184,11 @@ Hunter asked, "You like it?"
 
 "Yeah."
 
-Yoichi pointed his fork at him. "Then what's the fucking problem?"
+Yoichi pointed his fork at him. "Then what's the problem?"
 
 "Nothing. I just haven't declared."
 
-"Tch. You're making this way harder than it needs to be."
+"Riveting."
 
 "Fuck you."
 
@@ -1196,7 +1196,7 @@ Hiro said, "Was that arcade thing with the soccer people?"
 
 "Mostly."
 
-"Show us!"
+"Show us."
 
 Taiga pulled out his phone and found the group photo.
 
@@ -1250,7 +1250,7 @@ Hiro blinked.
 
 "Unfortunately."
 
-Natsumi smiled. "Oh! Birdwatching is nice."
+"Birdwatching is cool."
 
 "You haven't heard him talk about it."
 
@@ -1306,17 +1306,17 @@ Taiga stopped him.
 
 Hiro stared.
 
-"What?! I've told you about Pascal!"
+"I've told you about Pascal."
 
 "No, you haven't."
 
-"I absolutely have!"
+"I absolutely have."
 
 "You absolutely haven't."
 
 Keitaro raised a hand.
 
-"He has, actually."
+"He has."
 
 "When?"
 
@@ -1334,7 +1334,7 @@ Hiro looked personally wounded.
 
 Yoichi pointed at Taiga.
 
-"See?! Too many fucking people."
+"See? Too many people."
 
 This time Taiga laughed.
 
@@ -1346,7 +1346,7 @@ By dessert, Hunter was halfway through Keitaro's umbrella photographs when Natsu
 
 "Probably."
 
-Natsumi blinked. "You're going voluntarily?"
+"Voluntarily?"
 
 "Shut up."
 
@@ -1390,7 +1390,7 @@ Hunter tilted his head.
 
 Hunter took out his phone.
 
-"Wait..."
+"Wait."
 
 "No."
 
@@ -1414,11 +1414,11 @@ Hiro nodded.
 
 "Absolutely not."
 
-Keitaro said, "Actually, I think it'd work!"
+Keitaro said, "It would work."
 
 Natsumi smiled.
 
-"I think it would look good!"
+"It actually would."
 
 Taiga looked around the table.
 
@@ -1426,7 +1426,7 @@ Taiga looked around the table.
 
 Eduard spoke for the first time in several minutes.
 
-"Because for once, Taiga, your stubbornness is an aesthetic crime."
+"Because for once your refusal is aesthetically wrong."
 
 "Fuck you too."
 
@@ -1442,7 +1442,7 @@ Taiga stared.
 
 "You're redesigning a costume I didn't agree to wear."
 
-Hunter smiled. "Pretty much."
+"Correct."
 
 Yoichi leaned back.
 
@@ -1452,7 +1452,7 @@ Hunter smiled.
 
 "Art school."
 
-"Tch. Same shit."
+"Same disease."
 
 Taiga took the phone from Hunter and studied the picture again.
 
@@ -1494,7 +1494,7 @@ Hunter laughed.
 
 At the hotel entrance, he stopped.
 
-"Really... thanks for coming, guys."
+"Thanks for coming."
 
 Keitaro answered first, because of course he did.
 
@@ -1504,7 +1504,7 @@ Taiga just bumped Hunter's shoulder with his fist.
 
 Hunter smiled.
 
-"Hehe. Wouldn't dream of it."
+"Wouldn't dream of it."
 
 The next morning, Taiga caught the first train that didn't require waking up before six.
 
