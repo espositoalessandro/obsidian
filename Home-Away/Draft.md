@@ -248,8 +248,6 @@ The station announcement played.
 
 He stood.
 
----
-
 Keitaro was easy to spot.
 
 Not because of the camera.
