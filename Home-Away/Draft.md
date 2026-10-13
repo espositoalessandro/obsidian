@@ -1518,97 +1518,177 @@ Saturday evening, Olympus had turned Central Park into a fire hazard.
 
 Strings of orange lights ran between trees. Paper lanterns floated above the main paths. Student groups had stalls around the lawn. Music came from a temporary stage near the fountain, loud enough to be heard across three buildings.
 
-Taiga stood at the entrance and reconsidered every decision that had brought him there.
+Taiga found Caleb and Maya where they'd agreed to meet near the entrance.
 
-The costume was not helping.
+Maya was impossible to miss.
 
-Black long-sleeve shirt. Black jeans. Dark fabric tied at the waist because apparently the silhouette mattered, according to Hunter. Painted markings climbed over the backs of his hands, disappeared under his sleeves and reappeared along his neck.
-
-He had spent forty minutes on them.
-
-Idiot.
-
-"You actually did it."
-
-Taiga turned.
-
-Leo was staring at him.
-
-He wore a dark red jacket over a white shirt, black trousers and a cheap plastic crown tilted slightly to one side. Fake blood ran from the corner of his mouth.
+She had committed to Elphaba completely: black dress, pointed hat, dark cape and green makeup from forehead to neck. Caleb stood beside her in patched brown trousers, a loose shirt and vest, with pieces of straw sticking out around his wrists and collar.
 
 Taiga looked him over.
 
-"What are you supposed to be?"
+"Scarecrow?"
 
-"Dead prince."
+Maya smiled.
 
-"That's lazy."
+"Scarecrow Fiyero."
 
-"It's efficient."
+Taiga looked at Caleb.
 
-Leo stepped closer.
+Caleb sighed.
 
-His eyes moved over the paint.
-
-"No way."
-
-"What?"
-
-"You kept the wrist pattern."
-
-Taiga looked down at his hand.
-
-"What wrist pattern?"
-
-"The one from the picture."
-
-Taiga stared at him.
-
-Leo pointed.
-
-"It went farther up your arm before."
-
-"You remember that?"
-
-"You gave me your phone and let me zoom in."
-
-"That does not answer the question."
-
-Leo grinned.
-
-"I have excellent visual memory."
+"I was told the distinction was important."
 
 "Apparently."
 
-Leo looked at the costume again.
+Maya's eyes moved to Taiga.
 
-"It works."
+Then stopped.
 
-"I added clothes."
+"Oh my God."
 
-"Coward."
+"What?"
 
-"Fuck you."
+Caleb looked him over too.
 
-Leo laughed.
+"That's not the sheet."
 
-"Seriously. You look great."
+"Plans changed."
 
-Taiga adjusted one sleeve.
+The Camp Buddy costume was still there. Fur at the shoulders and waist. Straps, bone pieces, guards, the stupid skull mask Yuri had somehow kept intact.
 
-"Yeah. Thanks."
+The difference was everything underneath.
 
-They walked farther into the park.
+Black thermal fabric covered him from neck to ankles where the original costume had expected skin. White bones ran over it in marker: ribs across his chest, lines down his arms, more over his legs. Not anatomically perfect. Good enough.
 
-Gav was dressed as a wizard with enough actual fabric to survive winter. Scott wore goalkeeper gloves, a black cape and vampire teeth, which somehow made him look more nervous than usual. Enzo had committed to being a pirate so aggressively that he had a plastic sword, fake earrings and a hat large enough to require spatial awareness.
+Maya circled half a step around him.
+
+"Okay. That's actually really good."
+
+"It was this or freeze."
+
+Caleb pointed at the white ribs.
+
+"You drew all of that today?"
+
+"Unfortunately."
+
+Maya grinned.
+
+"You look like a skeleton got promoted to barbarian."
+
+Taiga stared at her.
+
+"Thank you?"
+
+"That was a compliment."
+
+"Sure."
+
+They went in together.
+
+The lawn was already packed. Costumes moved between the stalls in every direction, ranging from things people had obviously spent weeks building to a guy in a bedsheet who had apparently taken Leo's original advice literally.
+
+Taiga respected him.
+
+They made it halfway toward the fountain before Enzo spotted them.
+
+"FORTY-ONE!"
+
+Taiga closed his eyes.
+
+"There goes the peace."
+
+Enzo came toward them dressed as a pirate so aggressively that he had a plastic sword, fake earrings and a hat large enough to require spatial awareness.
+
+Gav followed in wizard robes with enough actual fabric to survive winter. Scott wore goalkeeper gloves, a black cape and vampire teeth, which somehow made him look more nervous than usual.
 
 Aaron wore all black and claimed he was "a concept."
 
 Nobody accepted this.
 
-Sofia wore a white dress with silver face paint around her eyes. Zoe was beside her in a witch costume that looked like she'd assembled it from normal clothes in ten minutes.
+Sofia wore a white dress with silver face paint around her eyes. Zoe stood beside her in a witch costume that looked like she'd assembled it from normal clothes in ten minutes.
+
+Then Taiga noticed Leo.
+
+White, almost entirely.
+
+Loose white cargo pants, white sneakers, strips of fabric wrapped across his torso and around his arms in overlapping layers. Some hung loose from his wrists and waist. Dark makeup around his eyes made them look sharper than usual.
+
+Taiga stared at him for a second.
+
+"Mummy?"
+
+Leo spread his arms.
+
+"Finally. Someone with culture."
+
+"You cut up a shirt."
+
+"It's called commitment."
+
+"It's called scissors."
+
+Leo laughed.
+
+Then his eyes dropped to Taiga's costume.
+
+He stopped.
+
+"No way."
+
+"What?"
+
+"That's the Camp Buddy one."
+
+"Modified."
+
+Leo stepped closer, looking over the fur, the bone pieces and then the white skeleton drawn across the black thermal shirt.
+
+"You actually wore it."
+
+"Yuri sent it to me without asking."
+
+"Of course she did."
+
+"Still planning the murder."
+
+Leo pointed at the ribs.
+
+"You added bones."
+
+"The black looked empty."
+
+"That is way better than the sheet."
+
+"Low bar."
+
+Leo grinned.
+
+"Seriously. You look great."
+
+Taiga adjusted one of the straps at his waist.
+
+"Yeah. Thanks."
+
+Caleb looked between them.
+
+"You know this costume?"
+
+Leo nodded.
+
+"Photo."
+
+Taiga pointed at him.
+
+"One photo."
+
+"Very memorable photo."
+
+"Shut up."
 
 Nora appeared from another path wearing a long brown coat, scarf and round glasses.
+
+Taiga looked at her.
 
 "No."
 
@@ -1628,11 +1708,9 @@ She frowned.
 
 Nora's mouth opened.
 
-Caleb arrived behind her in a skeleton hoodie.
+Maya covered a laugh with one hand.
 
-Maya had painted half her face like a moth.
-
-Nora pointed at Taiga.
+Nora pointed at Taiga instead.
 
 "At least I am identifiable. What are you?"
 
@@ -1646,15 +1724,15 @@ Nora turned back.
 
 "It's from something we did at camp."
 
-Zoe looked at the markings.
+Zoe looked at the white bones, then at the fur and straps over them.
 
-"You painted those?"
+"You made all of this?"
 
-"Yeah."
+"Most of it."
 
 "Today?"
 
-"Yeah."
+"The skeleton part."
 
 Enzo appeared at Taiga's shoulder.
 
@@ -2552,9 +2630,11 @@ Taiga took it.
 
 "You looked cold."
 
-"I'm wearing more clothes than you."
+Taiga looked at the loose strips hanging from Leo's arms.
 
-Leo looked down at his dead-prince costume.
+"You're one to talk."
+
+Leo looked down at himself.
 
 "Fair."
 
