@@ -866,17 +866,13 @@ Hunter got pulled into another conversation.
 
 Taiga watched him go.
 
-Elena said something about mounting board. Miles argued. Hunter disagreed with both of them and then disappeared toward the first room because someone needed tape.
+Elena said something about mounting board. The other student argued. Hunter disagreed with both of them and then disappeared toward the first room because someone needed tape.
 
 He knew where everything was.
 
 People knew where to find him.
 
 Nobody in the room needed Taiga to explain Hunter to them.
-
-That was new.
-
-It was also fine.
 
 Keitaro came to stand beside him.
 
@@ -1785,31 +1781,21 @@ Taiga sighed.
 
 Leo said, "The person who decided Halloween in summer was reasonable."
 
-Taiga looked at him again.
-
-"Why do you remember everything?"
-
-Leo shrugged.
-
-"You told me."
+"Unfortunately."
 
 Enzo pointed between them.
 
 "When was this conversation?"
 
-"Train," Leo said.
-
-Aaron looked at Enzo.
-
-"You weren't invited."
+"Train back from Arcadia," Leo said.
 
 Enzo put a hand to his chest.
 
-"Betrayal."
+"I miss all the lore."
 
-"Can we not make this a thing?" Taiga said.
+"Tragic," Taiga said.
 
-"Too late," said Zoe.
+"Heartless," said Enzo.
 
 Sofia looked at the paint again.
 
