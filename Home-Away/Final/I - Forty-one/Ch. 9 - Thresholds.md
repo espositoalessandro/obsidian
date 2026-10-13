@@ -140,7 +140,7 @@ Idiot.
 
 ---
 
-Taiga was arriving at the station at 11:42. The trip had been long enough to make him finish half an assignment, give up the other half, sleep an hour, then finish the whole thing.
+Taiga's train was due to arrive at the station at 11:42. The trip had been long enough for him to finish half an assignment, give up on the other half, sleep for an hour, then finish the whole thing.
 
 They had agreed to meet at the main station and take the local line to the university together.
 
@@ -160,10 +160,12 @@ At 11:32, the Camp Buddy chat awoke.
 
 **Taiga:** yoshi probably put it in your bag dumbass
 
-Hiro reacted with a 😂. 
-A minute later,
+Hiro reacted with a 😂.
+
+A minute later:
 
 **Yoichi:** found it
+
 **Yoichi:** 12:05
 
 **Hiro:** good boy
@@ -171,12 +173,15 @@ A minute later,
 Taiga smiled at his phone.
 
 **Yoichi:** die
+
 **Yoichi:** btw dynamite
+
 **Yoichi:** crazy lady gave me something for you
 
 **Taiga:** what?
 
 **Yoichi:** dunno, it's a freaking heavy bag
+
 **Yoichi:** could be stones for all i know
 
 Taiga raised an eyebrow. Yuri sending him stuff was extremely suspicious.
@@ -201,7 +206,7 @@ Taiga found them a couple of minutes later. Hiro saw him first and raised a hand
 
 Keitaro grabbed his hand and lowered it. "Shh, Hiro! There are people here."
 
-Taiga sighed and approached. He tried to suppress the smile with all his strengths.
+Taiga sighed and approached. He tried to suppress the smile with all his strength.
 
 "Hey."
 
@@ -209,18 +214,19 @@ Keitaro hugged him before he could prepare for it. Taiga let him.
 
 "You look good!" he said.
 
-"Yeah, I've never seen you in actual clothes." Hiro added.
+"Yeah, I've never seen you in actual clothes," Hiro added.
 
 "It's just a shirt."
 
 Keitaro smiled. "You look good in a shirt then!"
 
-They were wearing shirts as well. He had got the dress code right, at least.
+They were wearing shirts as well. He had gotten the dress code right, at least.
 
-Then Natusmi, Lee and Eduard arrived. 
-...Nevermind.
+Then Natsumi, Lee and Eduard arrived.
 
-Natsumi had gone with a proper suit, even a freaking bow-tie. Lee also had a simple shirt, but he went heavy with the gel on his hair.
+...Never mind.
+
+Natsumi had gone with a proper suit, even a freaking bow tie. Lee also had a simple shirt, but he went heavy with the gel on his hair.
 
 Then there was Eduard.
 He appeared from the platform dressed like he’d misunderstood _student art exhibition_ as _fashion week_.
@@ -235,7 +241,7 @@ They went silent for a couple of seconds. Keitaro then said:
 
 "Woah, Eduard! You look amazing."
 
-Edward giggled and did a small piroette on one foot. 
+Eduard giggled and did a small pirouette on one foot. 
 
 "Aw, thanks darling, you look fabulous as well!"
 
@@ -243,27 +249,27 @@ Then he looked at Taiga and gasped, putting a hand dramatically over his mouth.
 
 "Oh. My. God. Am I seeing things?"
 
-He rushed towards him with his mouth opened, slowly lowering his glasses.
+He rushed toward him with his mouth open, slowly lowering his glasses.
 
-"Taiga, dear, when did you decide to start looking like an actual model? That shirt is doing _wonders_ for your shoulders.”
+"Taiga, dear, when did you decide to start looking like an actual model? That shirt is doing _wonders_ for your shoulders."
 
 There he was.
 
 "Hey Ed. You look good."
 
-Lee adjusted his glasses. “The rust and blue work particularly well together because they sit at opposite positions on the color spectrum. The contrast makes both colors appear more pronounced.”
+Lee adjusted his glasses. "The rust and blue work particularly well together because they sit at opposite positions on the color spectrum. The contrast makes both colors appear more pronounced."
 
 "Right, of course. Hi Lee."
 
-"Good morning to you as well," he said smiling.
+"Good morning to you as well," he said, smiling.
 
 Natsumi approached as well. He was carrying flowers. 
 
-"Damn it, Natsumi! You two are making us look way under dressed now," said Hiro.
+"Damn it, Natsumi! You two are making us look way underdressed now," said Hiro.
 
 Natsumi looked worried.
 
-"Oh sorry, I didn't mean to make you uncomfortable. Did I overdo?"
+"Oh, sorry, I didn't mean to make you uncomfortable. Did I overdo it?"
 
 Keitaro smiled. "Not at all, you look great. Ignore Hiro."
 
@@ -279,11 +285,11 @@ Taiga's phone buzzed. Yoichi.
 
 Taiga sighed. "Where are you?"
 
-"I don't fucking now."
+"I don't fucking know."
 
 "What's around you?"
 
-It took ten minutes for Taiga to make Yoichi found them.
+It took Taiga ten minutes to guide Yoichi to them.
 He arrived with cargo jeans, heavy boots and a black sherpa trucker jacket. A duffel bag was hanging from his shoulder with another smaller one carried by hand.
 
 "What the fuck is Spaghetti-Boy wearing?"
@@ -300,17 +306,17 @@ Keitaro and Hiro giggled.
 
 "The fuck are you laughing at?"
 
-Natsumi smiled. "You look great Yoichi."
+Natsumi smiled. "You look great, Yoichi."
 
 Yoichi turned and stared at him.
 
 "You look like a penguin."
 
-Natsumi gave a sheepish smile. "Well- thanks?"
+Natsumi gave a sheepish smile. "Well—thanks?"
 
-Then Yoichi held the smaller duffel to Taiga. It was pretty heavy indeed. 
+Then Yoichi held the smaller duffel out to Taiga. It was pretty heavy indeed. 
 
-Taiga frowned and opened the zip. It was full of something wrapped around a plastic bag, but he couldn't determine what it was.
+Taiga frowned and opened the zip. It was full of something wrapped in a plastic bag, but he couldn't determine what it was.
 
 "What the heck is this?"
 
