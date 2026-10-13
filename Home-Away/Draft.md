@@ -362,7 +362,9 @@ That ride lasted twelve minutes instead of four hours, which was much more reaso
 
 Yoichi spent most of it looking out the window like the city had personally offended him. Hiro kept the pastry box on his knees. Keitaro took one photograph of the group and got threatened by three different people.
 
-Their hotel was one stop before the university. Those staying overnight got off, dumped their bags in the rooms and met the others back on the platform ten minutes later.
+Their hotel was one stop before the university, so the whole group got off. Those staying overnight crossed the street, dumped their bags in the rooms and came back while the others waited by the platform entrance.
+
+Ten minutes later, they were together again.
 
 Hunter had sent the building number twice.
 
