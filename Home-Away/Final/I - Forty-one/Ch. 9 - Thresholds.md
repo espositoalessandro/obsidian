@@ -978,7 +978,7 @@ Maya raised her drink.
 "To the arts!"
 
 He smiled and raised his cup.
-A few minutes later, Enzo tagged him in the Apollo group.
+A few minutes later, Enzo tagged him in the Apollo group chat.
 
 **Enzo:** **@Taiga** where the heck are you hiding?
 
@@ -1014,13 +1014,13 @@ It took almost twenty minutes for Enzo and Leo to find him.
 He turned and spotted Enzo a few meters away. He had dressed as a pirate, with plastic sword, fake earrings and even a tricorne. He was holding the stuffed shark under one arm. Of course.
 
 "Holy shit it's really you!" 
-Then he turned on his left. "LEO! COME HERE I'VE FOUND HIM."
+Then he turned to his left. "LEO! COME HERE I'VE FOUND HIM."
 
-Leo appeared shortly after besides him.
+Leo appeared beside him a moment later.
 Taiga froze for a second, blinking.
 
-He was almost entirely in white. Loose white cargo pants over white sneakers. Then strips of fabric wrapped all around his torso, arms, chest in overlapping layers. There was a deliberate amount of exposed skin around the abdomen.
-A subtle dark makeup around his eyes made them look sharper than usual.
+He was almost entirely in white. Loose white cargo pants over white sneakers. Then strips of fabric wrapped around his torso and arms in overlapping layers. There was a deliberate amount of exposed skin around the abdomen.
+Subtle dark makeup around his eyes made them look sharper than usual.
 
 He saw Taiga and covered his mouth with both hands.
 
@@ -1038,9 +1038,9 @@ Enzo looked between them.
 
 Taiga nodded. "Yeah. It's him."
 
-Leo came closer and looked all over him.
+Leo came closer and looked him over.
 
-"Shit, it's even better than the picture made it seem. And I see you've upgraded it!"
+"Shit, it's even better than it looked in the picture. And I see you've upgraded it!"
 
 "Well, I couldn't really go around campus half naked."
 
@@ -1052,11 +1052,11 @@ Leo smiled widely. "Is it? Thanks!"
 
 Enzo raised an eyebrow. "You cut up a shirt."
 
-"Apparently it earned a compliment from Taiga. I didn't hear him compliment yours" he said with a smug face.
+"Apparently it earned a compliment from Taiga. I didn't hear him compliment yours," he said with a smug grin.
 
 Taiga sighed.
 
-"You brought the shark" he said to Enzo.
+"You brought the shark," he said to Enzo.
 
 "Of course. Roberto couldn't miss this. Besides, we're coordinated!"
 
@@ -1086,12 +1086,11 @@ She lit up. "YES! Oh my God, finally someone with culture!"
 
 Leo pointed at Caleb. "And you are Fiyero then!"
 
-Caleb looked at Maya, who nodded. Then he turned at Leo. "Yes."
+Caleb looked at Maya, who nodded. Then he turned to Leo. "Yes."
 
 Taiga looked at them. Then at Enzo. He looked very confused as well.
 
-While Leo launched in a conversation with Maya about her costume, 
-he asked
+While Leo launched into a conversation with Maya about her costume, Taiga turned to Enzo.
 
 "What about the others?"
 
