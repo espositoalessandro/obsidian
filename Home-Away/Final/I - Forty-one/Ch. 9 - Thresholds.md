@@ -165,7 +165,6 @@ Hiro reacted with a 😂.
 A minute later:
 
 **Yoichi:** found it
-
 **Yoichi:** 12:05
 
 **Hiro:** good boy
@@ -173,15 +172,12 @@ A minute later:
 Taiga smiled at his phone.
 
 **Yoichi:** die
-
 **Yoichi:** btw dynamite
-
 **Yoichi:** crazy lady gave me something for you
 
 **Taiga:** what?
 
 **Yoichi:** dunno, it's a freaking heavy bag
-
 **Yoichi:** could be stones for all i know
 
 Taiga raised an eyebrow. Yuri sending him stuff was extremely suspicious.
