@@ -28,7 +28,7 @@ Taiga adjusted the strap of his bag.
 
 "It is. Still happens."
 
-Matt slammed into Taiga's waist and wrapped both arms around him before he could answer.
+Matt ran straight into him and wrapped both arms around his waist before he could answer.
 
 "FORTY-ONE!"
 
@@ -64,9 +64,7 @@ The disappointment vanished just as fast.
 
 "Okay!"
 
-Kids were easy sometimes.
-
-Adults should try it.
+Kids were easy sometimes. Give them one thing to fix and they moved on.
 
 For the first ten minutes, Taiga mostly carried cones and watched. Then one of the volunteers got pulled toward the younger group, and Leo pointed at a line of six kids waiting beside a row of markers.
 
@@ -396,9 +394,7 @@ Yoichi watched them go.
 
 They entered the gallery.
 
-Hunter appeared less than a minute later.
-
-He came through the second room quickly, scanning faces. He wore black trousers and a cream shirt with the sleeves rolled once. No paint. No charcoal. Hair tied properly.
+Hunter came through the second room before they'd made it much farther, scanning faces. He wore black trousers and a cream shirt with the sleeves rolled once. No paint. No charcoal. Hair tied properly.
 
 He saw them.
 
@@ -566,15 +562,13 @@ Hunter smiled.
 
 "Good."
 
-A beat.
+Hunter waited until Yoichi looked back at the drawing.
 
-Then Hunter said, "That's kind of what I wanted."
-
-Yoichi looked back at the drawing.
+"That's kind of what I wanted."
 
 "Then it's good."
 
-Hunter's expression changed slightly.
+Hunter blinked.
 
 "Thanks."
 
@@ -884,7 +878,7 @@ Yoichi groaned.
 
 "Your dignity isn't."
 
-Later, a visitor spent several minutes explaining to Hunter how the empty corridor represented the uncertainty of adulthood.
+Later, an older visitor spent several minutes explaining to Hunter how the empty corridor represented the uncertainty of adulthood.
 
 Hunter listened with professional concentration until his eyes flicked toward Taiga.
 
@@ -974,9 +968,7 @@ Taiga narrowed his eyes.
 
 "Hiro?"
 
-Keitaro pulled out his phone and showed him a screenshot.
-
-Apparently Taiga had made the mistake of sending one photograph to the Camp Buddy group chat.
+Keitaro pulled out his phone and opened the photo Taiga had sent to the Camp Buddy group chat.
 
 Enzo holding Roberto over his head.
 
@@ -1267,22 +1259,6 @@ Yoichi took another bite.
 Keitaro asked, "And the girl on the other side?"
 
 "Zoe. She's in Chemistry with us."
-
-"Us," Hiro repeated.
-
-Taiga stared.
-
-"Me and Leo."
-
-"Got it."
-
-"Stop making words weird."
-
-"I'm not."
-
-"You are."
-
-Hiro smiled into his drink.
 
 The phone came back.
 
@@ -1828,9 +1804,7 @@ Taiga stared at him.
 
 Leo laughed behind them.
 
-The first opportunity appeared twelve minutes later.
-
-Sofia wanted cider.
+Twelve minutes later, Sofia said she wanted cider.
 
 Aaron was standing beside her.
 
@@ -1950,7 +1924,7 @@ Scott somehow won a ring-toss game and looked more alarmed by the applause than 
 
 Taiga moved between them without thinking much about it.
 
-At some point, Sofia caught his wrist.
+Later, Sofia caught his wrist.
 
 "Hold still."
 
@@ -2434,11 +2408,7 @@ Taiga removed it.
 
 "Don't."
 
-They watched Aaron come back.
-
-He was trying very hard not to smile.
-
-It was not working.
+They watched Aaron come back, failing badly at hiding the smile on his face.
 
 Leo grinned.
 
@@ -2783,8 +2753,6 @@ Leo laughed.
 Taiga took another drink.
 
 It had cooled enough now.
-
-Leo glanced toward the path behind Taiga.
 
 "See you Monday?"
 
