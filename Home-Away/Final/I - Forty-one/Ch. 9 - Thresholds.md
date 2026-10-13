@@ -343,7 +343,7 @@ Keitaro lifted his camera.
 
 "I think that's kind of the point."
 
-The lobby had been decorated for Halloween without technically becoming Halloween. Black paper shapes hung from steel cables. Projected shadows moved across one wall. A student in white face paint stood behind a welcome table beneath a sign reading:
+The main building's lobby had been decorated for Halloween without technically becoming Halloween. Black paper shapes hung from steel cables. Projected shadows moved across one wall. A student in white face paint stood behind a welcome table beneath a sign reading:
 
 **UNQUIET: STUDENT EXHIBITION — FEAR, UNEASE, THE UNCANNY**
 
@@ -356,8 +356,6 @@ Yoichi watched them go.
 "That's tomorrow," Taiga said.
 
 "Right."
-
-They entered the gallery.
 
 "Guys!"
 
@@ -395,7 +393,7 @@ Hiro scratched his head. "I totally get him. When my professors taste what I coo
 
 "And you have the sensibility of a cat, with the brain of a dog."
 
-Natsumi put himself in between. "Okay, don't start you two."
+Natsumi stepped between them. "Okay, don't start you two."
 
 Hunter returned after a few minutes out of breath. "Okay... huff... we can go now."
 
@@ -415,7 +413,7 @@ The fourth was watercolor. It pictured an empty shoreline, narrow dock, water so
 
 The last one was a graphite drawing of a hallway, with an open door at the far end. Light was coming through it.
 
-Taiga wasn't exactly an artist, but surely those were ominous as fuck.
+Taiga wasn't exactly an artist, but those were ominous as fuck.
 
 "This guy looks like shit," Yoichi said, pointing at the first one.
 
@@ -433,7 +431,7 @@ Hunter giggled. "It's not supposed to be anything specific."
 
 Yoichi grinned. "Then it could be a guy." 
 
-Taiga was looking at the watercolor canvas. The shoreline made him think of Camp Buddy even if it clearly wasn't exactly that. Hunter approached. 
+Taiga was looking at the watercolor canvas. The shoreline made him think of Camp Buddy, although it clearly wasn't. Hunter approached. 
 
 "Yeah... I took inspiration from a draft I made on the pier the first year."
 
@@ -451,7 +449,7 @@ He looked back at the painting.
 
 Hunter smiled. "Then mission accomplished."
 
-"Two people are still a rather small audience." 
+"It's still two people." 
 
 "I like to think that this kind of view carries memories for everyone."
 
@@ -493,13 +491,19 @@ Yoichi pointed at it.
 
 "Door's creepy, though."
 
-"Not every art piece carries deep messages. Sometimes the artist just likes it."
+Hunter shrugged. "Not every art piece carries deep messages. Sometimes the artist just likes it."
 
 A woman with a shaved sidecut appeared and wrapped one arm around Hunter's shoulders.
 
 "Hey, you're still alive."
 
 "Y-Yeah, mostly."
+
+“You finally stopped moving that third piece around?”  
+
+“Yes.”  
+
+“Oh, thank God.”
 
 She looked at the group.
 
@@ -554,7 +558,7 @@ Hunter laughed.
 
 Taiga watched Lee nod once and move to the next work. Apparently everybody had brought their own version of support.
 
-The exhibition slowly filled. By six-thirty, Taiga understood why Hunter had sounded nervous. People kept stopping, looking, talking. 
+The exhibition slowly filled. By five-thirty, Taiga understood why Hunter had sounded nervous. People kept stopping, looking, talking. 
 Sometimes to Hunter. Sometimes about Hunter's work while Hunter stood close enough to hear. 
 Horrible.
 Taiga would rather play ninety minutes under Mercer's direct observation than stand beside something he'd made while strangers described what it meant. Hunter did his best. His hands kept finding each other in front of him and he laughed too quickly at compliments.
