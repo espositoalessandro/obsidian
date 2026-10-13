@@ -202,7 +202,7 @@ Taiga found them a couple of minutes later. Hiro saw him first and raised a hand
 
 Keitaro grabbed his hand and lowered it. "Shh, Hiro! There are people here."
 
-Taiga sighed and approached. He tried to suppress the smile with all his strength.
+Taiga sighed and walked over. He tried to suppress a smile.
 
 "Hey."
 
