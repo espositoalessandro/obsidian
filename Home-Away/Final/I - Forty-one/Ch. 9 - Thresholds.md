@@ -832,10 +832,11 @@ It was a small pink Post-it with Yuri's handwriting:
 *I thought you may need it~*
 *Have a good time!*
 
-Taiga frowned. Okay, that sounded way too suspicious.
-He finally emptied the plastic bag on the bed without much ceremony. 
+Taiga frowned. Okay, that was beyond suspicious at this time.
+He emptied the plastic bag on the bed without much ceremony. 
 
-Oh.
+...Oh.
+
 Taiga closed his eyes and took a deep breath.
 
 "Damn, Yuri. I'm so gonna kill you."
@@ -846,7 +847,7 @@ Even the mask was intact.
 
 What the heck was he supposed to do with it? There was no way he could wear it on campus. Let alone on Halloween.
 
-Taiga bit his lower lip and looked at the time. 12:06. 
+Taiga bit his lower lip and looked at the clock. 12:06. 
 There was enough time before the party.
 
 He grabbed his keys and left the room.
