@@ -52,7 +52,7 @@ Matt finally let go.
 
 "No."
 
-His face fell immediately.
+His face fell.
 
 Taiga sighed.
 
@@ -222,7 +222,7 @@ The train south was quieter than the one to the Agora had been. He spent most of
 
 Keitaro had arrived early.
 
-Hiro was delayed by six minutes because he had apparently tried to bring a pastry box onto the wrong platform.
+Hiro was six minutes late because he'd gone to the wrong platform while trying not to tilt a pastry box.
 
 Natsumi sent a picture of flowers.
 
@@ -374,7 +374,7 @@ Yoichi read it.
 
 "What does uncanny mean?"
 
-Lee answered immediately.
+Lee answered.
 
 "Something familiar rendered strange."
 
@@ -438,7 +438,7 @@ Hunter blinked.
 
 "Thanks."
 
-Yoichi immediately looked away.
+Yoichi looked away.
 
 Taiga pretended not to see any of it.
 
@@ -468,7 +468,7 @@ Five pieces.
 
 Exactly as promised.
 
-The first three sat close together beneath a single block of text. Charcoal. Human figures without faces. One person sitting on the edge of a bed, shoulders bent forward. Hands gripping fabric. A back turned toward a window where the outside had been left almost completely white.
+The first three sat close together beneath a single block of text. Charcoal. Human figures without faces. One showed a person sitting on the edge of a bed, shoulders bent forward. Another focused on hands gripping fabric. The third was a back turned toward a window where the outside had been left almost completely white.
 
 The fourth was watercolor. Empty shoreline, narrow dock, water dark enough that the reflection looked like a second sky.
 
@@ -596,7 +596,7 @@ Hunter smiled.
 
 They moved along.
 
-The shoreline made Taiga think of Camp Buddy immediately.
+The shoreline made Taiga think of Camp Buddy.
 
 Wrong trees.
 
@@ -660,83 +660,31 @@ Yoichi, two steps away, said, "Finally."
 
 Hunter covered his face.
 
-An older man near them turned from the label.
+"I kept walking past it around the same time every afternoon," he said. "The light looked good."
 
-"I think the negative space reads as anticipatory dread."
+"That's it?"
 
-Taiga saw it happen.
+"Mostly. I changed the proportions a little."
 
-No.
+Taiga looked back at the open door.
 
-Hunter saw it too.
+"Okay."
 
-Definitely no.
+Yoichi pointed at it.
 
-The man continued.
+"Door's creepy, though."
 
-"Especially with the threshold as a symbolic boundary. It feels like fear of transition."
+Hunter paused. "Why?"
 
-Yoichi opened his mouth.
+"Can't see what's past it."
 
-Taiga stepped on his boot.
+Hunter's mouth twitched.
 
-Hard.
+"Oh, fuck off," Yoichi said.
 
-Yoichi looked down.
+"I didn't say anything."
 
-Then at Taiga.
-
-Taiga shook his head once.
-
-The man moved on.
-
-Yoichi waited until he was gone.
-
-"What the fuck is anticipatory dread?"
-
-Keitaro started laughing.
-
-Hunter leaned against the wall.
-
-"You almost said something."
-
-"I was gonna ask him what fucking hallway he uses."
-
-"Thank you for not doing that."
-
-"Taiga assaulted me."
-
-"You deserved it."
-
-Yoichi pointed at the drawing.
-
-"It's a hallway."
-
-Hunter nodded solemnly.
-
-"It is."
-
-"Door's creepy though."
-
-Hunter paused.
-
-"Why?"
-
-Yoichi shrugged.
-
-"Because you can't see what's past it."
-
-Yoichi caught the look.
-
-"Oh, fuck off."
-
-"I'm not saying anything."
-
-"You're doing the face."
-
-"What face?"
-
-"The artist face."
+"You're doing the artist face."
 
 Hiro appeared beside them.
 
@@ -744,7 +692,7 @@ Hiro appeared beside them.
 
 "He does."
 
-Hunter was laughing too hard to answer.
+Hunter laughed.
 
 For the next hour, the gallery filled.
 
@@ -786,7 +734,7 @@ Yoichi looked delighted.
 
 Another student arrived a minute later and asked Hunter whether Marlowe had approved the revised labels.
 
-Hunter answered immediately.
+Hunter answered without hesitation.
 
 Then Elena complained that somebody had moved her artist statement.
 
@@ -794,11 +742,7 @@ Then another student called Hunter from across the room.
 
 Then Professor Marlowe appeared in black from collar to ankle and stopped in front of the five pieces.
 
-Hunter straightened.
-
-Taiga noticed.
-
-Only because he'd known him long enough.
+Hunter straightened. Barely.
 
 Marlowe studied the wall.
 
@@ -852,7 +796,7 @@ Hunter made a strangled noise beside them.
 
 Keitaro took the photograph.
 
-"Delete that," Yoichi said immediately.
+"Delete that," Yoichi said.
 
 "No."
 
@@ -872,9 +816,7 @@ He knew where everything was.
 
 People knew where to find him.
 
-Nobody in the room needed Taiga to explain Hunter to them.
-
-Keitaro came to stand beside him.
+Keitaro came to stand beside Taiga.
 
 "He's doing good."
 
@@ -900,21 +842,17 @@ Taiga paused.
 
 "Oh."
 
-Keitaro smiled.
+Keitaro laughed.
 
-"Growth."
+"Come on."
 
 "Fuck you."
-
-"Still you."
 
 They went to get drinks.
 
 ---
 
-By seven, Hunter had stopped looking toward the door every thirty seconds.
-
-That seemed like progress.
+By seven, Hunter had stopped checking the door every thirty seconds.
 
 Hiro opened the pastry box on a side table after confirming three separate times that food was allowed there. The Paris-Brest survived the train. Barely.
 
@@ -946,13 +884,11 @@ Yoichi groaned.
 
 "Your dignity isn't."
 
-At some point, a visitor stood in front of the hallway for several minutes and began explaining to Hunter how the empty corridor represented the uncertainty of adulthood.
+Later, a visitor spent several minutes explaining to Hunter how the empty corridor represented the uncertainty of adulthood.
 
-Hunter listened with professional concentration.
+Hunter listened with professional concentration until his eyes flicked toward Taiga.
 
-Taiga saw his eyes.
-
-He left the room before he laughed.
+Taiga left the room before he laughed.
 
 Yoichi followed him.
 
@@ -997,7 +933,6 @@ Yoichi crossed his arms.
 Keitaro looked at Taiga.
 
 "How's Olympus?"
-
 
 "Fine."
 
@@ -1075,13 +1010,11 @@ Keitaro pointed.
 
 "That's Leo, right?"
 
-Taiga looked.
-
 "Yeah."
 
-"The guy from chemistry?"
+"Chemistry?"
 
-"No. Well, yes. Same guy."
+"And soccer."
 
 Yoichi handed the phone back.
 
@@ -1237,49 +1170,13 @@ Yoichi pointed his fork at him. "Then what's the problem?"
 
 "Fuck you."
 
-Hiro said, "Do your soccer people know you're basically doing CS?"
+Hiro said, "Was that arcade thing with the soccer people?"
 
-"My soccer people?"
+"Mostly."
 
-"You know what I mean."
+"Show us."
 
-"Some of them."
-
-"Computer Science guy is one of them, right?" Keitaro asked.
-
-"Leo."
-
-"That's the chemistry one."
-
-"Yes."
-
-"Arcade one."
-
-"Yes."
-
-Yoichi looked at Keitaro.
-
-"Why are you cataloguing him?"
-
-"I'm trying to keep track."
-
-Taiga pointed his fork.
-
-"Don't."
-
-Keitaro lifted both hands.
-
-"Fine."
-
-Hunter asked, "Who else was there?"
-
-Taiga pulled out his phone.
-
-"At Arcadia?"
-
-"Yeah."
-
-He found the group photo.
+Taiga pulled out his phone and found the group photo.
 
 It went around the table.
 
@@ -1359,16 +1256,6 @@ Hunter moved on.
 
 "Leo."
 
-Natsumi said, "The one who asked about camp?"
-
-"How do you know that?"
-
-"You mentioned it in the chat."
-
-Right.
-
-"Yeah."
-
 Yoichi took another bite.
 
 "He looks annoying too."
@@ -1399,23 +1286,13 @@ Hiro smiled into his drink.
 
 The phone came back.
 
-A few minutes later, Hunter mentioned Elena.
+A few minutes later, Hunter mentioned Elena again.
 
-"Who's Elena?" Yoichi asked.
-
-"The girl who was hanging off my shoulder."
-
-"The angry label one?"
+"The angry label one?" Yoichi asked.
 
 "Yes."
 
-Keitaro asked about the guy who'd asked about the labels.
-
-Hiro asked who Marlowe was even though he had literally met her.
-
-Then Natsumi mentioned someone from swimming and Taiga had no idea who she meant.
-
-Then Hiro complained about a classmate named Pascal like everyone should know him.
+Then Natsumi mentioned someone from swimming and Taiga had no idea who she meant. Hiro followed with a complaint about a classmate named Pascal like everyone should know him.
 
 Taiga stopped him.
 
@@ -1455,11 +1332,7 @@ Yoichi pointed at Taiga.
 
 This time Taiga laughed.
 
-By dessert, the exhibition had stopped being the subject.
-
-That seemed to help Hunter more than anything else.
-
-He was halfway through Keitaro's umbrella photographs when Natsumi asked Taiga what he was doing the next day.
+By dessert, Hunter was halfway through Keitaro's umbrella photographs when Natsumi asked Taiga what he was doing the next day.
 
 "Halloween thing on campus."
 
@@ -1575,15 +1448,9 @@ Hunter smiled.
 
 "Same disease."
 
-Taiga took the phone from Hunter.
+Taiga took the phone from Hunter and studied the picture again.
 
-He looked at the photo.
-
-Then at the red shirt he had apparently been tricked into wearing today.
-
-Maybe.
-
-"Black long sleeves."
+"Black long sleeves. Maybe."
 
 Hiro slapped the table.
 
@@ -1591,9 +1458,9 @@ Hiro slapped the table.
 
 "I said maybe."
 
-"That is yes in Taiga."
+"We'll take it," Hunter said.
 
-Taiga pointed at him.
+Taiga pointed at Hiro.
 
 "One more word and I'll go as myself."
 
@@ -1713,7 +1580,7 @@ She frowned.
 
 "You look like a professor."
 
-"This is an historically recognizable silhouette."
+"This is a historically recognizable silhouette."
 
 "You look like Rao."
 
@@ -1801,31 +1668,19 @@ Sofia looked at the paint again.
 
 "So this was the costume?"
 
-"Less clothes originally."
+"With less clothing, yeah."
 
-Leo coughed into his hand.
+Enzo opened his mouth.
 
-Taiga turned slowly.
-
-Leo looked away.
-
-Zoe noticed.
-
-Of course she fucking noticed.
-
-Her mouth twitched.
-
-Taiga pointed at her.
+Taiga pointed at him.
 
 "Don't."
 
 "I didn't say anything."
 
-"Good."
+"You were going to."
 
-Enzo looked between them, clearly missing something.
-
-Thankfully Aaron grabbed Taiga's sleeve.
+Aaron grabbed Taiga's sleeve.
 
 "Come here."
 
@@ -1847,25 +1702,13 @@ Gav joined because he noticed everyone moving.
 
 Scott stayed with Sofia and Zoe.
 
-Aaron stopped.
+Aaron stopped and checked the group like he already regretted gathering them.
 
-"Okay."
-
-Taiga waited.
-
-Aaron looked at Leo.
-
-Then Enzo.
-
-Then Gav.
-
-Then Taiga.
-
-"I'm asking Sofia out tonight."
+"Okay. I'm asking Sofia out tonight."
 
 Enzo inhaled like someone had just announced a military invasion.
 
-Aaron pointed at him immediately.
+Aaron pointed at him.
 
 "No."
 
@@ -2027,13 +1870,11 @@ Sofia and Aaron reached the cider stall.
 
 They talked.
 
-Aaron laughed.
+Aaron laughed. Sofia did too.
 
-Sofia laughed.
+Then Aaron put both hands in his pockets.
 
-Aaron put both hands in his pockets.
-
-Taiga already knew.
+He wasn't going to ask.
 
 Five minutes later, they came back carrying drinks.
 
@@ -2077,17 +1918,11 @@ Taiga stared.
 
 "Useful."
 
-Leo said, "Leave him alone."
-
-"He had five minutes."
-
-"I know."
+Leo said, "Leave him alone. You're making it worse."
 
 "Thank you," Aaron said.
 
-Leo continued, "And now he knows yelling at himself doesn't help."
-
-Aaron's gratitude disappeared.
+Leo pointed at him. "You still blew it."
 
 "Less thank you."
 
@@ -2103,15 +1938,7 @@ Enzo pointed at Leo.
 
 Enzo was already thinking.
 
-Taiga could see it happening.
-
-That was worrying.
-
-The party moved around them.
-
-That helped.
-
-There was always something else happening before Enzo could fully weaponize the situation.
+Before he could turn that into another plan, the party pulled them apart again.
 
 Nora dragged Caleb into an argument at the student-history stall about whether their "medieval punishment wheel" was historically accurate.
 
@@ -2237,7 +2064,7 @@ Aaron stood behind him looking murderous.
 
 Sofia glanced over.
 
-Aaron immediately looked at the ground.
+Aaron looked at the ground.
 
 Taiga sighed.
 
@@ -2331,11 +2158,9 @@ Enzo winked.
 
 Aaron looked ready to kill him.
 
-The first picture included nine people because Caleb and Maya had reappeared at exactly the wrong time.
+Caleb and Maya reappeared in time for the first group picture. By the second, people had already started peeling away.
 
-The second included seven.
-
-The third, Enzo attempted his move.
+Then Enzo attempted his move.
 
 "Okay, couples."
 
@@ -2383,17 +2208,7 @@ She took Aaron's arm and pulled him back under the arch.
 
 "Come on. One normal picture."
 
-Aaron had another opening.
-
-Taiga watched him say something.
-
-Sofia smiled.
-
-Aaron smiled.
-
-Camera flashed.
-
-They stepped away together.
+The others stepped away while Sofia kept Aaron under the arch. They exchanged a few words, both smiling when the camera flashed, then moved off to the side together.
 
 Enzo whispered, "Now."
 
@@ -2419,11 +2234,7 @@ Aaron picked up a cup from the nearest table and drank something that was not hi
 
 "Well?" Leo asked.
 
-"I asked whether she thought Mercer would change the formation Sunday."
-
-Taiga stared.
-
-Leo blinked.
+"I spent three minutes talking about Sunday's match."
 
 Gav said, "Why?"
 
@@ -2431,9 +2242,9 @@ Gav said, "Why?"
 
 Taiga rubbed his forehead.
 
-"You talked about soccer."
+"You had one job."
 
-"For three minutes."
+"I know."
 
 "Impressive."
 
@@ -2519,23 +2330,15 @@ Aaron stared.
 
 "What if she says no?"
 
-Taiga shrugged.
-
 "Then she says no."
-
-"That's it?"
-
-"That's the part you can't control."
 
 Aaron looked away.
 
-Taiga continued.
+Taiga shrugged.
 
-"The sentence isn't the difficult part."
+"You can't control that part. You can control asking."
 
-Aaron gave him a flat look.
-
-"To you."
+"Easy for you to say."
 
 "Apparently."
 
@@ -2547,11 +2350,11 @@ Leo had approached quietly enough that Taiga only noticed when he spoke.
 
 Leo leaned against the low fence.
 
-"You're trying to know what she'll say before you ask."
+"You're not going to figure out her answer by standing here."
 
 Aaron frowned.
 
-"Doesn't work," Leo said.
+"Unfortunately," Leo added.
 
 For once, Aaron didn't make a joke.
 
@@ -2581,19 +2384,11 @@ Aaron had not asked Sofia.
 
 Enzo had stopped giving updates only because Gav confiscated his phone.
 
-Sofia stood near the edge of the crowd with Zoe.
+Sofia checked a message from Rachel and told Zoe they were leaving after the contest.
 
-Rachel had texted.
+Aaron heard her.
 
-They were leaving after the contest.
-
-Aaron knew.
-
-Everyone knew.
-
-Nobody said anything.
-
-That was the first useful thing the group had done all night.
+This time, nobody offered a plan.
 
 The contest was terrible.
 
@@ -2613,15 +2408,9 @@ Zoe checked her phone.
 
 Aaron stood beside Taiga.
 
-Aaron breathed out.
+Aaron breathed out and walked.
 
-Then walked.
-
-No committee.
-
-No Enzo.
-
-No plan.
+This time, nobody followed him.
 
 He reached Sofia before she and Zoe left the lawn.
 
@@ -2631,19 +2420,9 @@ She turned.
 
 Aaron said something Taiga couldn't hear.
 
-Sofia's expression changed.
+Sofia's shoulders dropped. She smiled before he finished, then laughed and shoved his shoulder lightly.
 
-Not surprise.
-
-More like relief.
-
-Then she smiled.
-
-Aaron said something else.
-
-Sofia laughed and shoved his shoulder lightly.
-
-Then nodded.
+A few seconds later, she nodded.
 
 Enzo grabbed Taiga's arm.
 
@@ -2675,7 +2454,7 @@ Sofia turned from twenty meters away.
 
 "ENZO!"
 
-He immediately shut up.
+He shut up.
 
 Everyone laughed.
 
@@ -2697,11 +2476,7 @@ Gav gave Enzo his phone back.
 
 Scott quietly held out a fist.
 
-Aaron bumped it.
-
-That somehow looked more meaningful than anything Enzo had done.
-
-Then everything dissolved.
+Aaron bumped it while Enzo was still arguing about his contribution.
 
 Sofia and Zoe left toward the residence halls.
 
@@ -2815,7 +2590,7 @@ Leo took the phone.
 
 He zoomed in.
 
-For once, he didn't immediately talk.
+For once, he didn't talk right away.
 
 He looked at the three charcoal pieces first.
 
@@ -2943,7 +2718,7 @@ Taiga typed:
 
 **you always look like that**
 
-Three dots appeared immediately.
+Three dots appeared.
 
 **Yoichi:** shut up dynamite
 
