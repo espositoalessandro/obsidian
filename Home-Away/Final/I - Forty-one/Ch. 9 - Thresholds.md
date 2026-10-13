@@ -574,3 +574,173 @@ All three of them laughed again.
 
 ---
 
+Later, the exhibit finally ended. Hunter was visibly exhausted, but had a satisfied look on his face. He took them to a place right off campus.
+
+Hiro gave him approximately four minutes after they sat down.
+
+“Okay. Now that strangers are no longer diagnosing your hallway symbolism, how do you actually feel?”
+
+Hunter exhaled. "Tired. Also hungry."
+
+Hiro raised an eyebrow. "Emotionally?"
+
+Keitaro laughed. "You couldn't let him eat first?"
+
+"I gave him four minutes."
+
+Hunter smiled. "I guess... relieved?"
+
+Edward put his phone on the table. "If you wanted a dramatic transformation, we could still arrange one. New outfit. Lighting cue. Maybe a fan."
+
+"Ahah, no I'm alright thanks."
+
+Lee said, “The work was completed before tonight. The exhibition only changed who could see it.”
+
+Eduard turned slowly toward him. “That was almost poetic.”
+
+“It was an observation.”
+
+Hunter looked between them. “Weirdly, that's helpful.”
+
+Then food arrived and silence followed. At least for a couple of seconds.
+Hiro complained about a knife-skills practical turning carrots into geometry homework. Natsumi complained about a coach changing pool times without warning. Eduard called a vending-machine sandwich Lee had eaten *triangular sadness* while Lee continued insisting it contained an adequate amount of protein.
+
+Then Hunter asked to see Keitaro's umbrella-repair lady photographs. Keitaro brightened and passed over his phone.
+One showed an older woman's hands stitching dark fabric. Another showed rows of curved handles. Hunter stopped on a photograph of the woman laughing toward someone outside frame.
+
+“I like this one.”
+
+Keitaro leaned closer. “The laughing one?”
+
+“Yeah. The others tell me what she does. This one makes me feel like I know her a little. Leave the space on the left.”
+
+Hiro grinned. "It's the same one I chose. But he didn't listen to me."
+
+"Well, you chose it because you liked it. I appreciate it, but I needed reasons, Hiro."
+
+He looked offended.
+
+Then Hunter asked, "What are you doing tomorrow evening?"
+
+"Oh! Me and Keitaro are dressing like the skeleton couple from the movie!"
+
+Keitaro smiled. "Yeah, our college is organizing a party into the ballroom."
+
+Natsumi turned. "Your college has a ballroom?"
+
+"I know, right? Our campus is pretty old school", said Hiro.
+
+Eduard perked up. "Wait until you've heard about my dress~"
+
+He launched into an articulate description of what he was preparing for Halloween. 
+At some point, Taiga's phone buzzed.
+
+**Leo:** hey ag
+**Leo:** your friend survived the gallows?
+
+**Taiga:** he's breathing
+
+**Leo:** what did he draw?
+
+Taiga sent him a couple of photos of the pieces.
+
+**Leo:** wow
+**Leo:** creepy
+
+**Taiga:** theme was creepy
+
+**Leo:** fair enough
+**Leo:** what's the last one?
+
+**Taiga:** apparently some old hallway he liked
+
+**Leo:** that's it?
+
+**Taiga:** an old man told him it represented fear of adulthood
+
+**Leo:** 💀💀💀💀💀💀💀💀💀💀💀💀
+**Leo:** no way
+**Leo:** was that true?
+
+**Taiga:** no
+**Taiga:** but it could be
+
+**Leo:** art ✨
+
+Taiga smiled and started typing an answer.
+
+"Taiga?"
+
+He looked up.
+
+"What?"
+
+Hiro looked at him and raised an eyebrow, grinning.
+
+"Someone we should know about?"
+
+Taiga blinked. "No."
+
+Taiga locked his phone with his message half written.
+Keitaro lightly punched Hiro's shoulder. That didn't erase his grin.
+
+"I was saying, are you wearing something tomorrow night?", asked Hunter.
+
+"Probably clothes."
+
+Yoichi snorted.
+
+Hunter smiled. "Something Halloween coded?"
+
+"I don't think so. I haven't made anything and I won't have time tomorrow."
+
+"Aw, that's a shame though," Keitaro said. "I remember the tribal warrior costume you made at camp, it was really good."
+
+"Yeah, but that took me almost a whole day."
+
+"Well, I'm sure you'll come up with a good idea anyways."
+
+Taiga shrugged. "I'll think about it tomorrow."
+
+Then Yoichi pointed at him. "What about the weird roommate?"
+
+"What about him?"
+
+"Is he dressing up?"
+
+Taiga frowned. He actually didn't ask. He picked up his phone.
+
+"I'll ask."
+
+He deleted the half written message to Leo and opened Caleb's chat.
+The answer arrived a few minutes later.
+
+"Apparently his girlfriend forced him into something involving a scarecrow."
+
+"Lame."
+
+"He's like 1.90, it could work."
+
+"I expect tons of pictures," Hiro said.
+
+"You gotta work on your expectations then."
+
+Eduard lifted his glass.
+
+"I expect at very least, one fitcheck."
+
+"I don't even know what that is."
+
+Lee adjusted his glasses. "In slang, it's a picture or a video you take with your phone to let other people assess your outfit."
+
+"You'll be disappointed then."
+
+Eduard frowned. "You're heartless. I'll still wait though."
+
+Taiga rolled his eyes.
+
+"He'll be probably scarier if he go as himself," Yoichi said with a smirk.
+
+Taiga kicked him under the table.
+
+---
