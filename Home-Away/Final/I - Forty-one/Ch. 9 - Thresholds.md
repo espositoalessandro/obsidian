@@ -361,7 +361,7 @@ They entered the gallery.
 
 "Guys!"
 
-Taiga and the other turned. Hunter was walking towards them, frantically waving one hand.
+Taiga and the others turned. Hunter was walking towards them, frantically waving one hand.
 
 "You actually came!"
 
@@ -379,7 +379,7 @@ Hunter looked at all of them. "You all look amazing. I still can't believe you'r
 
 Then he ran off with the flowers and the box.
 
-Eduard than raised a hand and said: "Was I the only one who noticed the eye bags? Anyone?"
+Eduard then raised a hand and said: "Was I the only one who noticed the eye bags? Anyone?"
 
 Lee answered, "Yes. He was clearly sleep-deprived. Although, given the occasion and Hunter's nature, I'd consider this a foreseeable outcome."
 
@@ -397,7 +397,7 @@ Hiro scratched his head. "I totally get him. When my professors taste what I coo
 
 Natsumi put himself in between. "Okay, don't start you two."
 
-Hunter returned after a few minutes with short breath. "Okay... huff... we can go now."
+Hunter returned after a few minutes out of breath. "Okay... huff... we can go now."
 
 "You didn't need to rush," Keitaro said.
 
@@ -405,7 +405,7 @@ Hunter returned after a few minutes with short breath. "Okay... huff... we can g
 
 He was definitely nervous.
 
-Hunter guided them through a small park and into the biggest building apparently dedicated entirely to exhibitions. 
+Hunter guided them through a small park and into the biggest building, apparently dedicated entirely to exhibitions. 
 His section was on the far wall of the second room. Five pieces were illuminated by a yellow light hanging from the ceiling. 
 
 The first three sat close together beneath a single block of text. Human figures without faces, drawn in charcoal.
@@ -413,7 +413,7 @@ One showed a person sitting on the edge of a bed, shoulders bent forward. Anothe
 
 The fourth was watercolor. It pictured an empty shoreline, narrow dock, water so dark that the reflection looked like a second sky.
 
-The last one was a graphite drawn representing a hallway, with an open door at the far end. Light was coming through it.
+The last one was a graphite drawing of a hallway, with an open door at the far end. Light was coming through it.
 
 Taiga wasn't exactly an artist, but surely those were ominous as fuck.
 
@@ -437,7 +437,7 @@ Taiga was looking at the watercolor canvas. The shoreline made him think of Camp
 
 "Yeah... I took inspiration from a draft I made on the pier the first year."
 
-"Why did you changed it?"
+"Why did you change it?"
 
 He shrugged. "Because I didn't want it to be a photo. I just wanted it to carry familiarity even if the place is different."
 
@@ -451,7 +451,7 @@ He looked back at the painting.
 
 Hunter smiled. "Then mission accomplished."
 
-"Two people is still a rather small audience." 
+"Two people are still a rather small audience." 
 
 "I like to think that this kind of view carries memories for everyone."
 
@@ -509,11 +509,11 @@ Hunter nodded.
 
 "Yeah. This is Taiga, Keitaro, Hiro, Natsumi, Yoichi, Eduard and Lee. Guys, Elena. We share a couple of classes."
 
-"Nice to meet you all! Oh, Hunter, before I forget, Miles wanted to go in town after the exhibit. You in?"
+"Nice to meet you all! Oh, Hunter, before I forget, Miles wanted to go into town after the exhibit. You in?"
 
 "Oh- That's nice but I'll be with them tonight."
 
-Elena smiled. "Yeah I figured. Well, good luck then! I better get back to my works before Marlowe shows up."
+Elena smiled. "Yeah, I figured. Well, good luck then! I better get back to my work before Marlowe shows up."
 
 "Eheh, yeah. Later!"
 
@@ -530,23 +530,23 @@ Natsumi smiled. "It's good to see you've settled well."
 
 Taiga listened to all of that. He smiled, but decided to say nothing.
 
-“The perspective compression is intentional?” Lee asked at some point.
+"The perspective compression is intentional?" Lee asked at some point.
 
 Hunter turned towards him and blinked.
 
-"Uh- yeah, mostly. The real hallway is longer"
+"Uh- yeah, mostly. The real hallway is longer."
 
-“I thought so. The light transition would be weaker at the original depth.”
+"I thought so. The light transition would be weaker at the original depth."
 
-Hunter stared for half a second. Then made a sheepish smile.
+Hunter stared for half a second. Then gave a sheepish smile.
 
-“Yeah. Exactly.”
+"Yeah. Exactly."
 
-Eduard, from the next wall, called, “Lee, stop academically interrogating the artist.”
+Eduard, from the next wall, called, "Lee, stop academically interrogating the artist."
 
-“I asked one question.”
+"I asked one question."
 
-“And somehow it had to defend a thesis.”
+"And somehow it had to defend a thesis."
 
 Hunter laughed.
 
@@ -554,7 +554,7 @@ Hunter laughed.
 
 Taiga watched Lee nod once and move to the next work. Apparently everybody had brought their own version of support.
 
-The exhibition slowly filled. By six-thirty Taiga understood why Hunter had sounded nervous. People kept stopping, looking, talking. 
+The exhibition slowly filled. By six-thirty, Taiga understood why Hunter had sounded nervous. People kept stopping, looking, talking. 
 Sometimes to Hunter. Sometimes about Hunter's work while Hunter stood close enough to hear. 
 Horrible.
 Taiga would rather play ninety minutes under Mercer's direct observation than stand beside something he'd made while strangers described what it meant. Hunter did his best. His hands kept finding each other in front of him and he laughed too quickly at compliments.
@@ -562,11 +562,11 @@ Taiga would rather play ninety minutes under Mercer's direct observation than st
 Once, after an older man spent five minutes explaining the symbolism of the empty corridor, Hunter looked over at Taiga with eyes that said *do not fucking laugh*. 
 Taiga and Hiro had to leave the room. They ended up beside a window in the third gallery, then they burst out laughing.
 
-“Okay, I wasn't going to laugh while Hunter could see us, but ‘fear of adulthood’ is a lot to put on somebody who drew a hallway because the light looked nice.” Hiro said between the laughs.
+"Okay, I wasn't going to laugh while Hunter could see us, but 'fear of adulthood' is a lot to put on somebody who drew a hallway because the light looked nice," Hiro said between laughs.
 
-A few minutes later, Hunter popped in and looked at them narrowing his eyes.
+A few minutes later, Hunter popped in and narrowed his eyes at them.
 
-They all three laughed again.
+All three of them laughed again.
 
 ---
 
