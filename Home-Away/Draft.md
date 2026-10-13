@@ -210,19 +210,25 @@ Friday afternoon, Maya vetoed three black shirts in a row and pointed at the red
 
 "That's the problem."
 
-Taiga wore the red shirt anyway. Four minutes after he left, Maya texted him.
+Taiga wore the red shirt anyway. He shoved a clean shirt, toothbrush and charger into his overnight bag, then left before either of them could make another suggestion.
+
+Four minutes later, Maya texted him.
 
 **Red was correct.**
 
 Taiga muted the conversation.
 
-The train south was quieter than the one to the Agora had been. He spent most of it staring out the window and checking the group chat every fifteen minutes despite the fact that nobody had changed the meeting point.
+The ride to Hunter's city took almost four hours.
 
-Keitaro had arrived early.
+Long enough for Taiga to finish half an assignment, give up on the other half, and check the group chat far more often than necessary.
 
-Hiro was six minutes late because he'd gone to the wrong platform while trying not to tilt a pastry box.
+They had agreed to meet at the main station and take the local line to the university together. Nobody had changed the plan.
 
-Natsumi sent a picture of flowers.
+Keitaro had already arrived.
+
+Eduard and Lee were apparently somewhere near the station café.
+
+Natsumi sent a picture of flowers from a platform on the other side of the building.
 
 Yoichi sent:
 
@@ -242,19 +248,21 @@ Yoichi:
 
 **see**
 
+Then, three minutes later:
+
+**Hiro:** wrong platform
+
+**Hiro:** do not leave without me
+
 Taiga smiled at his phone.
 
-The station announcement played.
-
-He stood.
-
-Keitaro was easy to spot.
+When his train finally pulled in, Keitaro was easy to spot near the main departures board.
 
 Not because of the camera.
 
 Because he was standing beside Yoichi.
 
-Taiga stopped at the top of the station stairs.
+Taiga stopped a few meters away.
 
 Yoichi wore a dark jacket, heavy boots and the expression of someone who had personally been betrayed by urban planning. He looked completely normal.
 
@@ -312,11 +320,19 @@ Taiga stepped back.
 
 "Good."
 
-Hiro arrived thirty seconds later with a white pastry box held level in both hands like radioactive material.
+Natsumi found them next, flowers wrapped in brown paper under one arm. Eduard and Lee appeared from the station café a minute later.
+
+Hiro was last.
+
+He came up the stairs six minutes late with a white pastry box held level in both hands like radioactive material.
 
 "Nobody move."
 
-"Why?"
+Yoichi looked at him.
+
+"Wrong platform?"
+
+"Shut up."
 
 "If this tilts, I kill all of you."
 
@@ -328,7 +344,7 @@ Hiro arrived thirty seconds later with a white pastry box held level in both han
 
 "It is not cake."
 
-Natsumi came up behind him carrying flowers wrapped in brown paper.
+Natsumi lifted the flowers.
 
 "Please don't begin before we reach the gallery."
 
@@ -340,7 +356,21 @@ Yoichi pointed at the bouquet.
 
 "Good."
 
-Eduard and Lee were already outside the university building when they arrived.
+Once everyone was accounted for, they took the local train toward the university district.
+
+That ride lasted twelve minutes instead of four hours, which was much more reasonable.
+
+Yoichi spent most of it looking out the window like the city had personally offended him. Hiro kept the pastry box on his knees. Keitaro took one photograph of the group and got threatened by three different people.
+
+Their hotel was one stop before the university. Those staying overnight got off, dumped their bags in the rooms and met the others back on the platform ten minutes later.
+
+Hunter had sent the building number twice.
+
+Apparently he did not trust them.
+
+Fair.
+
+The next train dropped them two blocks from campus.
 
 Hunter's school occupied an old industrial block that somebody had converted by removing anything practical and replacing it with exposed brick, concrete and huge windows.
 
@@ -1443,6 +1473,42 @@ Yoichi snorted.
 "Scariest option."
 
 Taiga kicked him under the table.
+
+By the time they left the restaurant, the streets around campus had gone quiet.
+
+Hunter walked with them as far as the hotel, hands in his pockets while Hiro kept insisting the costume needed the shoulder markings too.
+
+"It does not," Taiga said.
+
+"It absolutely does."
+
+"You won't even be there."
+
+"Send pictures."
+
+"No."
+
+Hunter laughed.
+
+At the hotel entrance, he stopped.
+
+"Thanks for coming."
+
+Keitaro answered first, because of course he did.
+
+Taiga just bumped Hunter's shoulder with his fist.
+
+"Don't make it weird."
+
+Hunter smiled.
+
+"Wouldn't dream of it."
+
+The next morning, Taiga caught the first train that didn't require waking up before six.
+
+Four hours later, Olympus came back into view.
+
+He was in his dorm a little before noon.
 
 ---
 
