@@ -1239,7 +1239,7 @@ Leo looked at him in confusion. "What?"
 
 They walked away from the party. A minute later, the crowd had already thinned down. There were only a few couples scattered around, one of two groups and a few people already dismantling their boots.
 
-Leo stayed silent for most of the walk to the dorms. This surprised Taiga, but he didn't inquire. Afterall, he just looked tired.
+Leo stayed silent for most of the walk to the dorms. Taiga left it alone, he just looked tired.
 
 Outside the residential building, Leo looked up.
 
