@@ -5,7 +5,7 @@ Brand-new experiences await him behind the white-stone walls of Olympus: a new l
 Somewhere between practices, late nights, bad decisions, old wounds, and the ordinary business of figuring out who he's supposed to become, Taiga will build a life he never planned for.
 
 He'll relive old memories, face past mistakes, explore new places, and get the hell out of his comfort zone. New and old friends will help Taiga through all of it.
-
+ 
 Especially a certain blond, annoying guy from the Apollo Soccer Team who will prove increasingly difficult to ignore!
 
 
@@ -25,4 +25,6 @@ For now, I'm planning to post two chapters per week.
 Familiarity with the original games is recommended, but I won't assume it. So, you don't need to have played all of them to fully enjoy the story!
 
 All _Jock Studio_ references and settings are based on BLits' development diaries and the novel doesn't follow any of the events of the demos. 
-So bear in mind that some details may become outdated once the full game is released!
+So, bear in mind that some details may become outdated once the full game is released!
+
+Have fun and don't hesitate to roast me in the comments :*
