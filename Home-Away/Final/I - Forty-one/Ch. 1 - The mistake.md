@@ -1,6 +1,6 @@
 # I - Forty-one
 
----
+***
 ### Chapter 1 - The mistake
 
 "Final stop: Olympus University."
@@ -199,7 +199,7 @@ His phone buzzed again almost immediately.
 He locked the phone before Hiro could answer.
 The room was still almost empty and the corridor was still loud, but for several seconds Taiga smiled anyway.
 
----
+***
 
 Taiga was still in the middle of unpacking when he heard the door open.
 
@@ -338,7 +338,8 @@ Taiga listened. There was a buzz. Barely. He would never have noticed it without
 That seemed to settle everything. They finished unpacking in silence.
 Taiga appreciated that.
 
----
+***
+
 Orientation began at three. Taiga considered skipping it. Then remembered the scholarship agreement.
 
 **Recipients are expected to participate fully in first-year orientation and academic advising requirements.**
@@ -360,10 +361,12 @@ He tapped the last one.
 
 Taiga winced. "No."
 
-The student beside him looked over. Taiga lowered his phone. Applause erupted. Everyone stood. Taiga stood too.
+The student beside him looked over. Taiga lowered his phone. Applause erupted. Everyone stood, so Taiga did as well.
+
 University was going to be hard.
 
----
+***
+
 Taiga was walking across campus, frantically zooming in and out on the map on his phone. Whoever designed the Olympus app apparently had no idea how distances work.
 The position marker finally snapped onto a route. The wrong one.
 Great.
@@ -371,11 +374,12 @@ He turned back, then heard a whistle somewhere ahead. Someone shouted. Another v
 
 Taiga looked up.
 
-He realized he was wandering into the Sports Zone, and beyond the bleachers sat one of the soccer pitches. Players moved behind the metal fence surrounding it, passing balls between them while a coach yelled something Taiga couldn't make out.
+He realized he was wandering into the Sports Zone, right outside a soccer pitch.
+Players moved behind the metal fence surrounding it, passing balls between them while a coach yelled something Taiga couldn't make out.
 
 He followed the noise.
 
-Like everything related to sports at Olympus, the place wasn't exactly humble. Floodlights. Scoreboards. Enough seats for hundreds of people.
+Like everything related to sports at Olympus, the place wasn't exactly humble. It clearly was the team's practice pitch. Sill, it had floodlights, scoreboards and enough seats for at least a hundred of people.
 Definitely different from the sloped pitch at Camp Buddy.
 
 Taiga stopped beside the fence. He'd played soccer a few times at school and at camp. Never seriously. 
@@ -438,7 +442,7 @@ Then he stopped.
 
 He went back and snapped a picture. Then immediately felt stupid for doing that.
 
----
+***
 
 "You should go."
 
@@ -584,7 +588,8 @@ The tryout sign was still in his head.
 
 "Fuck it."
 
----
+***
+
 Tryouts started at 16:00. Taiga was outside the Sports Zone by 15:45 and had already spent more than five minutes convincing himself that this was a stupid idea.
 Other candidates started arriving. Lots of them. Taiga seriously considered leaving.
 Most of them already had club football gear, proper equipment, and visible confidence.
@@ -765,7 +770,8 @@ Taiga watched him collect the cones.
 
 Very, very annoying.
 
----
+***
+
 Friday morning, Taiga was walking towards the University Center. He had just refreshed the portal for the fourth time: still nothing.
 
 What was the point anyway? He sucked at almost everything.

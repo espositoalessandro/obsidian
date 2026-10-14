@@ -1324,3 +1324,23 @@ Taiga shrugged. "As good as a party can go."
 
 "Yeah," Leo added. "He took me by surprise as well."
 
+Taiga flipped him off. 
+
+Enzo suddenly appeared besides Leo. "We got intel."
+
+"Like?"
+
+"Sophia and the girls are going to the a party later in the girls' dorm."
+
+Nora raised a hand. "Uh, hello. I'm one of the girls."
+
+Enzo blinked. "Good. Intel confirmed."
+
+"Meaning," he continued. "We got one hour and thirty seven minutes."
+
+Taiga sighed.
+
+"You're taking this way too seriously."
+
+
+
