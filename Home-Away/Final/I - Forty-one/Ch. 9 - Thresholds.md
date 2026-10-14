@@ -1143,7 +1143,7 @@ She turned towards Caleb. "Well, it does sound fun. What do you say?"
 
 Caleb was visibly confused. "I'm missing the purpose of the mission and our role in it."
 
-Taiga smiled. "Our teammates has a crush on this girl. He wants emotional support."
+Taiga smiled. "Our teammate has a crush on this girl. He wants emotional support."
 
 "How can I provide emotional support if I don't know him?"
 
