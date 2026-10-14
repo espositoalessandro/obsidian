@@ -1223,8 +1223,58 @@ Leo looked up. "Mh? Yeah, temporarily."
 
 "No."
 
-Leo smiled. "I figured."
+Leo smiled. "I figured. Although I believe I'm hitting the sack as well."
 
+He stretched then stood up.
+
+Taiga raised an eyebrow. "I didn't expect you were able to do this."
+
+Leo looked at him in confusion. "What?"
+
+"Be tired."
+
+"Oh," he laughed. "Glad I can still surprise you."
+
+"Whatever."
+
+They walked away from the party. A minute later, the crowd had already thinned down. There were only a few couples scattered around, one of two groups and a few people already dismantling their boots.
+
+Leo stayed silent for most of the walk to the dorms. This surprised Taiga, but he didn't inquire. Afterall, he just looked tired.
+
+Outside the residential building, Leo looked up.
+
+"Whew. That was a hell of a party."
+
+"It was alright."
+
+"Alright? Are we saying actually saying proper compliments now?"
+
+Taiga rolled his eyes.
+
+"Go to sleep."
+
+He grinned. For fuck's sake, wasn't he passing out a few moments ago?
+
+"By the way, I still want to know the lore of that nickname."
+
+"Here's the lore: Yoichi is an idiot. End of it."
+
+Leo's mouth twitched. "I guess I'll ask him some day."
+
+"Don't you have anything better to do with your life?"
+
+"Probably."
+
+"Then get at it."
+
+"Heh. Sure. Goodnight, AG."
+
+Taiga exhaled and gave him a look.
+Leo's mouth moved.
+
+"Okay, night Dynamite."
+
+Taiga shoved him into his elevator.
 
 
 
