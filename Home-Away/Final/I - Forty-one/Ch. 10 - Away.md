@@ -1208,3 +1208,23 @@ He shut up, offended, while everyone else laughed.
 That lasted maybe five seconds. Then he declared the mission a success and somehow dragged Gav, Evan, Aaron and Scott to the dance floor.
 Aaron went with them after thirty seconds of resistance.
 
+Taiga considered it for maybe half a second, but eventually decided to call it a day. He noticed that Leo wasn't with them, though.
+
+He looked around and found him sitting alone on a stone bench a few meters away. 
+Weird.
+
+Taiga approached. "Dead?"
+
+Leo looked up. "Mh? Yeah, temporarily."
+
+"Aren't you joining them?"
+
+"I'm still considering. You?"
+
+"No."
+
+Leo smiled. "I figured."
+
+
+
+
