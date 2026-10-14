@@ -776,7 +776,7 @@ Taiga stared at the card.
 
 The girl leaned back.
 
-"I'd say, your friends has got a good chance tonight. But he must be weary of the future. Tonight's success might be tomorrow's battle."
+"I'd say, your friends has got a good chance tonight. But you must be weary of the future. Tonight's success might be tomorrow's battle."
 
 They left the boot a bit preoccupied. They decided not to tell Aaron.
 
@@ -796,7 +796,7 @@ Nonsense. Taiga pulled him in.
 
 "But- for you?"
 
-"We're in this together now."
+“You dragged me here, now we're in this together.”
 
 "Alright..."
 
