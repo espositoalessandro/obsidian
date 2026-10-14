@@ -1101,15 +1101,15 @@ Taiga turned back to the group. Leo and Maya were now discussing songs.
 That was fast. Caleb was glancing back and forth between the two, apparently trying to follow the conversation.
 He saw Taiga looking and decided to abandon the effort. 
 
-"They were discussing a movie a minutes ago," Caleb said.
+"They were discussing a movie a minute ago," Caleb said.
 
 "Aren't they talking about songs?"
 
 "Yes. I missed the transition."
 
-Enzo appeared on his side. "EMERGENCY!" 
+Enzo appeared beside him. "EMERGENCY!" 
 
-"You're shouting in my ear," Taiga said grimacing.
+"You're shouting in my ear," Taiga said, grimacing.
 
 Leo turned. "What?"
 
@@ -1121,7 +1121,7 @@ No one asked him to continue. He did anyway.
 
 "Aaron Bennett has finally decided to make his final move."
 
-Leo frowned. "What you mean?"
+Leo frowned. "What do you mean?"
 
 “He’s asking Sofia out tonight!”
 
@@ -1151,12 +1151,12 @@ He shrugged. "You can also just stay and watch. Knowing Aaron, it's gonna be fun
 
 Caleb considered for a couple of seconds. "Alright."
 
-Enzo raised both ends. "Good! Avengers have assembled. Let's meet the rest of the squad."
+Enzo raised both hands. "Good! Avengers have assembled. Let's meet the rest of the squad."
 
 ---
 
-They met with Aaron and the others right outside the messhall. He was wearing a full black suit with prominent canines and fake blood drooling from his mouth. Evan had a grim reaper vest, mask and even a plastic scythe.
-Scott was in a skeleton black suit and didn't really look okay with that. Gav, on the other hand, had gone all in with an actual wizard robe, staff and a freaking heavy tome.
+They met with Aaron and the others right outside the messhall. He was wearing a full black suit with prominent canines and fake blood dripping from his mouth. Evan had a grim reaper vest, mask and even a plastic scythe.
+Scott was in a black skeleton suit and didn't really look okay with that. Gav, on the other hand, had gone all in with an actual wizard robe, staff and a freaking heavy tome.
 
 While Scott's uneasiness was evident, Aaron was the most nervous by far. He was stiff as a post and kept glancing right and left.
 
@@ -1168,7 +1168,7 @@ Enzo applauded. "Great plan! Sounds easy enough."
 
 Taiga crossed his arms. "Can't you just, you know, go to her and ask her?"
 
-Aaron looked at him as if he had just say an heresy. 
+Aaron looked at him as if he'd just said something heretical. 
 
 "Dude! You can't just approach someone and ask them out of the blue like that!"
 
@@ -1176,7 +1176,7 @@ Gav tilted his head. "You've known her for months now."
 
 "It still needs preparation. Planning. Something."
 
-Maya smiled. "To me, it looks like more that it is *you* who need preparation, not the situation itself."
+Maya smiled. "To me, it looks more like *you're* the one who needs preparation, not the situation itself."
 
 "I- Uh... wait, who are you?"
 
@@ -1198,11 +1198,11 @@ Taiga leaned over. "I think he means something to loosen him up just a bit."
 
 Aaron put his hands in front of him. "N-No, wait. I'd rather be perfectly aware of what I'm doing."
 
-"It's okay," Evan continued. "Then we'll have to work on exposure first."
+"It's okay," Evan continued. "Then we'll have to warm you up first."
 
-"What you mean?"
+"What do you mean?"
 
-"Let's find her and pull her into the group. Be as normal as you reasonably can, then when you're ready just say the words and we'll create the perfect occasion!"
+"Let's find her and pull her into the group. Be as normal as you reasonably can. We'll create the opening, and when you're ready, you say the words!"
 
 "I don't know-"
 
@@ -1224,7 +1224,7 @@ Evan turned to Scott.
 
 "It's just- Zoe k-knows her well, right? M-Maybe she could help."
 
-Evan stared for a second. Then he slapped his shoulder strongly enough to make him adjust his balance not to fall.
+Evan stared for a second. Then he slapped his shoulder hard enough that Scott had to catch his balance.
 
 "Scott, my man, you are a genius."
 
@@ -1242,12 +1242,12 @@ He smiled. "Yeah."
 
 "Got her!" said Gav a few minutes later. "She's actually with Zoe and another girl near the food stall."
 
-Evan smiled. "Looks like's your lucky day afterall."
+Evan smiled. "Looks like it's your lucky day after all."
 
 Aaron had become pale. Which actually fit his costume really well.
 
 Enzo appeared beside him and put an arm around his shoulder. He looked at the whole group.
-Somehow, they all silently wait for whatever bullshit he was about to say.
+Somehow, they all silently waited for whatever bullshit he was about to say.
 
 Enzo just smiled. 
 
