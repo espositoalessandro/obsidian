@@ -580,7 +580,7 @@ Nora shook her head in disbelief. "Boys."
 
 Taiga pointed at him. "Don't make this worse."
 
-"Okay," Evan said. "Gav?"
+"Okay," Evan clapped once. "Gav?"
 
 Gav turned to the others and briefly nodded.
 Shortly after, Maya approached them.
@@ -600,7 +600,210 @@ Maya gave him *the* look.
 He blinked. "Oh. Right. Sure."
 
 She took his arm and dragged him away.
+
 Nora stared a Taiga.
 Taiga stared back.
 
 They both sighed.
+
+Evans approached the others. "Guys! They have started beer pong near that avenue!"
+
+Aaron frowned. "I'm not going."
+
+Gav shrugged with a smile. "Suit yourself."
+
+Enzo lit up. "OOOOH! I absolutely want to go! Yes! Aaron, stay there and be sad, while we-"
+
+"Okay." Evan physically dragged him away. "Ehm! Let's go! Scott!"
+
+"Y-yeah."
+
+Sofia stared at them going, raising an eyebrow.
+
+"What the..? Are they already drunk?"
+
+Aaron panicked. "Y-Yeah, maybe..."
+
+Leo and Taiga stared at each other. Taiga immediately looked away because he was about to loose it.
+
+"Anyways, Taiga!", Zoe indicated his costume. "That costume is really badass!"
+
+"Yeah," said Sofia. "Did you make it?"
+
+"Pretty much, yeah. Some of it I made back at camp. I put together some stuff that scoutmasters had around."
+
+Zoe raised her eyebrows. "Sick!"
+
+Leo smirked. "First version was a bit different though."
+
+Taiga narrowed his eyes. "Don't."
+
+Leo gestured zipping his mouth.
+
+"No, wait now I want to know," Nora said.
+
+"No, you don't."
+
+"I definitely do. Come on, you already showed him!"
+
+Taiga closed his eyes and exhaled. Then he pulled his phone out and showed them the old photo.
+
+Zoe giggled. "Okay, now I can see why it needed some upgrades."
+
+"Okay," Nora said raising an eyebrow. "Wasn't expecting that."
+
+"It was summer."
+
+Aaron didn't look convinced. "Taiga these costumes... They are all a bit-"
+
+"Don't. Don't say another word."
+
+"-revealing?", Sofia concluded.
+
+Taiga buried his face in his hands. 
+
+"I hate you all. I'm out."
+
+He turned and started walking away.
+
+"Where are you going?", said Leo from behind.
+
+"To get food. And away from you."
+
+"Oh, I want food too! I'm coming."
+
+"You're not invited."
+
+"Food doesn't need an invitation."
+
+They walked together until they were out of their sight.
+
+Then Leo smiled and said "Nice escape!"
+
+Taiga stared at him. "You did that on purpose."
+
+"I wish I could say yes. That would have been pretty smart."
+
+Taiga considered. "Yeah. Too much for you."
+
+"Okay, now."
+
+"How much do we have to wait now?"
+
+"I guess Aaron will write in the group chat."
+
+Taiga sighed. "Amazing. What now?"
+
+Leo looked around. "Oh, look! They have set up a mistery box over there!"
+
+They went to a wooden booth where a student dressed as a witch had displayed a cauldron. Its lid had a hole big enough to put a hand inside.
+For only a few bucks it was worth the try. Leo put his hand inside first and his face immediately was horrified.
+
+"It's- EW, slimy."
+
+He dragged out a small package covered in slime. Taiga put his hands in as well. 
+It *was* slimy. But it also clearly was something familiar. He looked up at the witch.
+
+"It's pasta."
+
+She smiled but said nothing.
+
+He found a package and pulled it out. It contained a small glow-in-the-dark vampire fang keychain. The witch handed him over a paper towel.
+Leo had found a black cat pin.
+
+"Oh, I like this!"
+
+"You didn't liked it two seconds ago."
+
+"I didn't expect goo, alright?"
+
+"It was pasta and gelatine."
+
+"Exactly. Bleh."
+
+Taiga smiled and put the keychain in his pocket. Next, they found a boot where another girl was reading tarots. 
+
+Somehow, Leo convinced Taiga to give it a go.
+LLoyd would be proud of him right now. That thought made things worse.
+
+The girl behind the table shuffled the deck and looked at Taiga.
+
+“Question?”
+
+Taiga glanced toward the other side of the park.
+
+“Uh... Is a friend of mine actually gonna ask someone out tonight?”
+
+Leo snorted beside him. “Ominous.”
+
+“Shut up.”
+
+The girl drew the first card and turned it over.
+
+“Ah, Knight of Cups. Somebody definitely wants to make an offer.”
+
+“That much we know,” Taiga said.
+
+She pulled another.
+
+"A reversed Eight of Swords."
+
+She hummed.
+
+“Interesting. This is usually about getting out of your own head. Realizing the thing keeping you stuck was mostly you.”
+
+Leo leaned closer to the table. “So that's a yes?”
+
+“I'd say he's capable of doing it.”
+
+She drew the last card.
+
+"Five of Wands."
+
+Her eyebrows went up.
+
+“Oh.”
+
+“What?” Leo asked.
+
+She tapped the card. Five figures were waving staffs at each other in a mess that looked halfway between a fight and a game.
+
+“Conflict. Disagreement. Somehow, whatever happens tonight, will bring a fight.”
+
+Taiga stared at the card.
+
+"That's not good."
+
+The girl leaned back.
+
+"I'd say, your friends has got a good chance tonight. But he must be weary of the future. Tonight's success might be tomorrow's battle."
+
+They left the boot a bit preoccupied. They decided not to tell Aaron.
+
+Then, after walking for a minute, Taiga saw a photo boot. Nothing crazy, just a small set with jay bales and pumpkins as a background. Leo caught his gaze.
+
+"Wanna go?"
+
+"No."
+
+"Come on! The costume deserves that."
+
+Fine. They went. Taiga posed, Leo hesitated and tried to stay out of the frame. 
+
+Nonsense. Taiga pulled him in.
+
+"You wanted to go."
+
+"But- for you?"
+
+"We're in this together now."
+
+"Alright..."
+
+The picture turned up pretty cool afterall. They asked for two copies and also a digital version. Leo smiled while looking at it.
+
+"That's actually pretty dope."
+
+"Yeah."
+
+
