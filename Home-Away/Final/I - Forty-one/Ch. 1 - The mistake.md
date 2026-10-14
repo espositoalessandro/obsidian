@@ -379,7 +379,7 @@ Players moved behind the metal fence surrounding it, passing balls between them 
 
 He followed the noise.
 
-Like everything related to sports at Olympus, the place wasn't exactly humble. It clearly was the team's practice pitch. Still, it had floodlights, a scoreboard and enough seats for at least a hundred of people.
+Like everything related to sports at Olympus, the place wasn't exactly humble. It clearly was the team's practice pitch. Still, it had floodlights, a scoreboard and enough seats for at least a hundred people.
 Definitely different from the sloped pitch at Camp Buddy.
 
 Taiga stopped beside the fence. He'd played soccer a few times at school and at camp. Never seriously. 
