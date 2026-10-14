@@ -1308,11 +1308,11 @@ Leo appeared over Taiga's shoulder.
 
 "Hi Leo! Thank you. Yours is very cute too!"
 
-"Hey it's not supposed to be cute, you know. It's a mummy afterall."
+"Cute? It wasn't supposed to be cute. It's a mummy afterall."
 
 Nora chuckled. "Yeah, a mummy that's going to a club."
 
-"Fair enough," Leo smiled.
+"Fair enough," Leo smiled. "Thankies!"
 
 "So, how's the evening going for you guys?"
 
@@ -1336,11 +1336,126 @@ Nora raised a hand. "Uh, hello. I'm one of the girls."
 
 Enzo blinked. "Good. Intel confirmed."
 
-"Meaning," he continued. "We got one hour and thirty seven minutes."
+"So what?", Leo asked.
+
+"So," he continued. "We got one hour and thirty seven minutes."
 
 Taiga sighed.
 
-"You're taking this way too seriously."
+"You're getting obnoxious."
 
+"I'm just efficient. Come!"
 
+"Where?"
 
+"To get drinks! Where else?". He winked.
+
+Leo chuckled.
+
+"Am I missing something?" Nora said.
+
+Taiga turned. "Yeah. Sophia is in danger."
+
+Nora looked at Enzo who was now trying to drag the others.
+
+"Please tell me it's not him."
+
+He shook his head. "No. The vampire guy."
+
+She exhaled. "Thank God."
+
+Leo laughed. "Come on, let's go."
+
+They followed the rest of the group to the drinks stall. For a while, they stayed there, simply talking about whatever. Occasionally, two to three people started a conversation about something else, then they merged with another group, split again and so on.
+Taiga kept glancing at Aaron. He was trying so hard to act normal whenever he was talking to Sofia. Maybe because of his bias, but Taiga felt that he was failing miserably. Aaron smiled at random things, laughed too soon or too much and also said a couple of embarrassing things.
+
+After a while, Evan and Gav approached Taiga who was talking to Nora and Caleb about the trails at Acropolis Park.
+Evan put a hand on his shoulder and Taiga turned.
+
+"We need to so something."
+
+"About what?"
+
+Evan pointed at Aaron behind him with his thumb.
+
+"He's getting ridiculous."
+
+Nora smiled. "My bet is that Sophia has already figured it out."
+
+Evan made a face. "Yeah. Probably. Which is making things worse. We need to create an occasion."
+
+"Why don't you ask Enzo?", Taiga said.
+
+"Because," he exhaled. "We both know he'll make the situation worse."
+
+He looked behind Evan. Enzo was trying to make eye contact with Aaron so obviously that Taiga assumed Aaron was avoiding him on purpose.
+Yeah. Fair enough.
+
+"What do you propose?", Caleb asked.
+
+"We can't move the whole group altogether and leave just the two of them. Too obvious. Neither we can push just the two of them."
+
+Taiga nodded. "Then we split the group."
+
+Evan smiled. "Precisely."
+
+"How?", Nora asked.
+
+"We divide into subgroups", said Gav. "Each of them will leave coordinately. Obviously, Enzo's group leaves first."
+
+"So we thin down the whole pack," Evan continued. "Until only Aaron, Sofia and a couple of others remain."
+
+Taiga crossed his arms. "Like?"
+
+"Well, me, Gav and Scott will drag Enzo away. Zoe can have business with Nora. Maya and Caleb are self sufficient."
+
+Taiga groaned. "No."
+
+"Yes," said Gav. "You study with Leo, you two spent time together, so it's more credible."
+
+"Why can't I just go with Caleb and Maya and Leo goes with you?"
+
+"Because that would make the whole soccer team leave at once. You have a reasonable excuse with Caleb and Maya, Leo doesn't. At that point, It'd be obvious that we left Aaron on his own."
+
+Taiga considered. Unfortunately, that made perfect sense.
+
+"What am I even supposed to tell him?"
+
+Evan smiled. "Leave that part to Leo."
+
+Nora stared at them for a couple of seconds. 
+
+"You guys do realize that this is madness right? I mean, he just needs to tell Sophie something like 'I need to talk to you'."
+
+Gav sighed. "You clearly don't know Aaron."
+
+Nora shook her head in disbelief. "Boys."
+
+"I do find the plan effective", Caleb said.
+
+Taiga pointed at him. "Don't make this worse."
+
+"Okay," Evan said. "Gav?"
+
+Gav turned to the others and briefly nodded.
+Shortly after, Maya approached them.
+
+"Hey! Uh-"
+
+She was clearly weirded out.
+
+"Caleb we need to go to... do that uh- stuff."
+
+Caleb frowned.
+
+"No, we don't-"
+
+Maya gave him *the* look.
+
+He blinked. "Oh. Right. Sure."
+
+She took his arm and dragged him away.
+Nora stared a Taiga.
+Taiga stared back.
+
+They both sighed.
