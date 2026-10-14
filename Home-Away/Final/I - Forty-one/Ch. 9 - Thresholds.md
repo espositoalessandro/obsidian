@@ -1155,4 +1155,106 @@ Enzo raised both ends. "Good! Avengers have assembled. Let's meet the rest of th
 
 ---
 
+They met with Aaron and the others right outside the messhall. He was wearing a full black suit with prominent canines and fake blood drooling from his mouth. Evan had a grim reaper vest, mask and even a plastic scythe.
+Scott was in a skeleton black suit and didn't really look okay with that. Gav, on the other hand, had gone all in with an actual wizard robe, staff and a freaking heavy tome.
+
+While Scott's uneasiness was evident, Aaron was the most nervous by far. He was stiff as a post and kept glancing right and left.
+
+"So," Evan began. "What's the plan?"
+
+"It's-" Aaron gulped. "Probably fuck everything up."
+ 
+Enzo applauded. "Great plan! Sounds easy enough."
+
+Taiga crossed his arms. "Can't you just, you know, go to her and ask her?"
+
+Aaron looked at him as if he had just say an heresy. 
+
+"Dude! You can't just approach someone and ask them out of the blue like that!"
+
+Gav tilted his head. "You've known her for months now."
+
+"It still needs preparation. Planning. Something."
+
+Maya smiled. "To me, it looks like more that it is *you* who need preparation, not the situation itself."
+
+"I- Uh... wait, who are you?"
+
+Enzo raised his hand. "I recruited her. Female support. She knows the enemy's mind."
+
+Aaron blinked. "Alright, I guess."
+
+"Maya. Hi! Nice to meet you! And this is Caleb."
+
+"Uh- Aaron. Hi."
+
+"I agree with her, though," said Leo. "I think you need to loosen up first."
+
+Evan lit up. "Oh, I know just the thing. You should *never* ask a girl out with a dry mouth at a party."
+
+Caleb raised his hand. "If I may. I think that asking someone out while being drunk would be counterproductive rather than beneficial."
+
+Taiga leaned over. "I think he means something to loosen him up just a bit."
+
+Aaron put his hands in front of him. "N-No, wait. I'd rather be perfectly aware of what I'm doing."
+
+"It's okay," Evan continued. "Then we'll have to work on exposure first."
+
+"What you mean?"
+
+"Let's find her and pull her into the group. Be as normal as you reasonably can, then when you're ready just say the words and we'll create the perfect occasion!"
+
+"I don't know-"
+
+Enzo lit up. "Oh I like this plan! Okay, I'm in."
+
+Taiga looked at Caleb and Maya. They both looked convinced enough.
+
+"Sounds good to me."
+
+"Yep, I agree as well," Leo said.
+
+Evan turned to Scott. 
+
+"Scott?"
+
+"I- I think t-that could w-work? A-although..."
+
+"What?"
+
+"It's just- Zoe k-knows her well, right? M-Maybe she could help."
+
+Evan stared for a second. Then he slapped his shoulder strongly enough to make him adjust his balance not to fall.
+
+"Scott, my man, you are a genius."
+
+"Right," Enzo said. "We need more intel!"
+
+Gav was already on his phone.
+
+Leo leaned towards Taiga. "Five bucks Aaron's gonna ask for booze."
+
+Taiga raised an eyebrow. "That's obviously gonna happen."
+
+"Can't wait to see it."
+
+He smiled. "Yeah."
+
+"Got her!" said Gav a few minutes later. "She's actually with Zoe and another girl near the food stall."
+
+Evan smiled. "Looks like's your lucky day afterall."
+
+Aaron had become pale. Which actually fit his costume really well.
+
+Enzo appeared beside him and put an arm around his shoulder. He looked at the whole group.
+Somehow, they all silently wait for whatever bullshit he was about to say.
+
+Enzo just smiled. 
+
+"For Frodo!"
+
+And they went.
+
+---
+
 
