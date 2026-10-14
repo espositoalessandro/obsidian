@@ -379,7 +379,7 @@ Players moved behind the metal fence surrounding it, passing balls between them 
 
 He followed the noise.
 
-Like everything related to sports at Olympus, the place wasn't exactly humble. It clearly was the team's practice pitch. Sill, it had floodlights, scoreboards and enough seats for at least a hundred of people.
+Like everything related to sports at Olympus, the place wasn't exactly humble. It clearly was the team's practice pitch. Still, it had floodlights, a scoreboard and enough seats for at least a hundred of people.
 Definitely different from the sloped pitch at Camp Buddy.
 
 Taiga stopped beside the fence. He'd played soccer a few times at school and at camp. Never seriously. 
@@ -391,7 +391,7 @@ The coach's whistle cut across the field.
 Taiga moved closer.
 A few moments later, the ball was moving again.
 
-He'd never watched a proper match this close before. The pitch looked even bigger from ground level. Players spread across all of it, calling to each other, changing direction before the ball even reached them.
+He'd never watched a soccer match this close before. The pitch looked even bigger from ground level. Players spread across all of it, calling to each other, changing direction before the ball even reached them.
 
 Almost nobody was running towards the ball. Half of them were moving somewhere else entirely, like they already knew where the next pass was going.
 
@@ -426,7 +426,7 @@ Still laughing, the blond guy jogged back into position.
 Taiga turned to leave.
 A bulletin board stood just outside the pitch. Most of it was covered in useless notices, but one caught his attention.
 
-**APOLLO SOCCER - MEN'S OPEN TRYOUTS**
+**APOLLO SOCCER TEAM - MEN'S OPEN TRYOUTS**
 
 Underneath:
 
