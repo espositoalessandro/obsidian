@@ -1096,5 +1096,63 @@ While Leo launched into a conversation with Maya about her costume, Taiga turned
 
 Enzo shrugged. "They're somewhere around. I haven't seen them yet."
 
+Then he pulled out his phone and started messaging frantically.
+Taiga turned back to the group. Leo and Maya were now discussing songs.
+That was fast. Caleb was glancing back and forth between the two, apparently trying to follow the conversation.
+He saw Taiga looking and decided to abandon the effort. 
+
+"They were discussing a movie a minutes ago," Caleb said.
+
+"Aren't they talking about songs?"
+
+"Yes. I missed the transition."
+
+Enzo appeared on his side. "EMERGENCY!" 
+
+"You're shouting in my ear," Taiga said grimacing.
+
+Leo turned. "What?"
+
+Enzo put on a very serious face. Which usually meant trouble.
+
+"We have a mission tonight."
+
+No one asked him to continue. He did anyway.
+
+"Aaron Bennett has finally decided to make his final move."
+
+Leo frowned. "What you mean?"
+
+"He wants to confess to Sofia!"
+
+"Oh!"
+
+"What does that have to do with us?" Taiga asked.
+
+"He asked for our unconditional support. Because apparently he doesn't have the balls to do it on his own."
+
+Leo smiled. "Okay! I like it, sounds fun."
+
+Enzo pointed at Maya. "You! Female support is also required. You know the subject tactics and weaknesses."
+
+Maya raised an eyebrow. "Ehm... I don't know who you're talking about?"
+
+Enzo waved her off. "Unimportant."
+
+She turned towards Caleb. "Well, it does sound fun. What do you say?"
+
+Caleb was visibly confused. "I'm missing the purpose of the mission and our role in it."
+
+Taiga smiled. "Our teammates has a crush on this girl. He wants emotional support to confess to her."
+
+"How can I provide emotional support if I don't know him?"
+
+He shrugged. "You can also just stay and watch. Knowing Aaron, it's gonna be fun."
+
+Caleb considered for a couple of seconds. "Alright."
+
+Enzo raised both ends. "Good! Avengers have assembled. Let's meet the rest of the squad."
+
+---
 
 
