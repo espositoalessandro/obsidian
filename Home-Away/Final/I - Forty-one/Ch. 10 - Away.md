@@ -1042,3 +1042,169 @@ Taiga felt his ear getting red.
 
 ---
 
+Luckily, Evan and Gav called them back a few seconds later.
+Leo and Enzo kept stealing him glances while giggling in silence. 
+
+Why? Why did the universe hate him so much?
+
+Sofia had returned with the group. Nora had already left with Zoe because they actually wanted to compete in the contest.
+
+T-minus twenty.
+
+Aaron still had no idea on how to even approach the question. The drink hadn't help very much. If anything, now he looked more depressed than anxious.
+Enzo, Gav and Evan were still trying to create another occasion for them. At this point, though, it had became hard not to be obvious.
+
+Then, without warning, Sofia suddenly asked Aaron
+
+"I'm thirsty, wanna come with me to grab a soda?"
+
+Aaron looked taken aback. He moved his mouth but no sound came out. He simply nodded.
+
+The others exchanged incredulous looks. Nobody spoke for several seconds.
+Then Enzo raised his hands and shouted.
+
+"GO A-"
+
+Five pair of hands immediately pinned him down and shut him.
+
+T-minus thirteen.
+
+Still no trace of Aaron. The contest was about to start. People gathered around an improvised runway.
+
+T-minus five.
+
+All the contestants had lined up behind the runway.
+
+T-minus three.
+
+A girl with a clipboard and a microphone climbed the runway.
+
+T-minus one.
+
+Finally Aaron and Sofia came back. He was met with six pair of eyes locked onto him. He froze for a second. Then he shook his head.
+
+The whole group groaned as if Apollo had just lost a game.
+
+The contest started. People in costumes started walking on the runway. Neither Aaron nor Sofia spoke a single word. Taiga assumed things went pretty wrong. He looked at Leo, who simply shrugged. Even Enzo couldn't say anything.
+
+Half of the contestants remained. Zoe walked in and Sofia cheered. 
+Aaron leaned towards Taiga.
+
+"I didn't tell her."
+
+Taiga blinked. "Why?"
+
+"I don't know. My brain turns into soup whenever I'm about to ask."
+
+"It's always soup."
+
+"Fuck you."
+
+Taiga smiled. "So what now?"
+
+Aaron took a deep breath. "I don't know. I'll go to bed and think about this evening for the next ten years, cursing myself."
+
+"Sounds like a plan."
+
+"You know, sometimes I envy you."
+
+"What? Where did that come from?"
+
+"I've seen you asking unapologetic questions to everyone. Teammates, professors, Mercer."
+
+Taiga didn't answer.
+
+"How do you do it? How do you manage to be so blunt?"
+
+"I'm not exactly a role model for this-"
+
+"Just tell me."
+
+Taiga looked at Zoe going back with the others. 
+
+"Sometimes I think they are wrong. Sometimes just stupid. Other times, I don't understand something and I hate that."
+
+"That's it?"
+
+"What did you expect?"
+
+"I don't know. Wisdom."
+
+Taiga smiled without warmth. "I won't call my attitude 'wise'. It gets me into trouble."
+
+"But you get what you want."
+
+"Sometimes, yes. But there's a price for that."
+
+Taiga crossed his arms.
+
+"I don't want to talk about this now, let's just say that I spent an awful lot of time not caring about what people thought about me."
+
+Aaron frowned, but remained silent. Taiga turned towards him.
+
+"That's where you get the bluntness. Pretending you don't care."
+
+"What happens if you do care, though?"
+
+"Same thing that happens to you, Aaron."
+
+"So, if you're blunt it's because you don't care?"
+
+"That or I'm pretending not to. But if I care and I can't pretend otherwise, then things become extremely difficult. There was once-"
+
+He stopped and bit his lip.
+
+"Nevermind."
+
+For a few seconds neither of them spoke. Then Aaron said
+
+"I really care about her."
+
+"Yeah, I figured."
+
+"What would you do in my place?"
+
+"Probably fuck things up."
+
+"Okay, what would you like to do if you were in my place?"
+
+Taiga thought for a few seconds.
+
+"Shut my brain off until I've went far enough that I can't chicken out anymore."
+
+Aaron crooked his mouth. "That'd be nice."
+
+The conversation ended there. Ten minutes later, the contest was over. Zoe and Nora came back, visibly disappointed by the result.
+They complained about the winners for a while. Then, they said goodbye to the others and started walking towards the dorm.
+
+Aaron stared at Sofia walking away for several seconds. Then Taiga saw him a deep breath and suddenly he ran towards her.
+
+"Soph! Wait a sec."
+
+Okay. He didn't expect that. Enzo appeared beside him.
+
+"What the heck did you tell him?"
+
+Taiga shrugged. "Nothing I expected to make him go like this."
+
+"Well," said Evan. "Whatever it was, it looks like it worked. Look!"
+
+Sofia was smiling. When Aaron finished talking, her smile widened and she shoved his shoulder lightly. Then she nodded.
+
+They watched Aaron come back, failing badly at hiding the smile on his face.
+
+Leo grinned. "Well?"
+
+Aaron looked at all of them.
+
+"Next Saturday."
+
+Enzo made a sound like Olympus had won a final. 
+Sofia turned from twenty meters away and laughed, pointing at him.
+
+"By the way, don't ever ask Enzo for this again!"
+
+He shut up, offended, while everyone else laughed. 
+That lasted maybe five seconds. Then he declared the mission a success and somehow dragged Gav, Evan, Aaron and Scott to the dance floor.
+Aaron went with them after thirty seconds of resistance.
+
