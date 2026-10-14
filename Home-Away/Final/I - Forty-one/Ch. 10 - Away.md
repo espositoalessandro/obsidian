@@ -475,7 +475,7 @@ Enzo suddenly appeared besides Leo. "We got intel."
 
 "Like?"
 
-"Sophia and the girls are going to the a party later in the girls' dorm."
+"Sophia and the girls are going to the a party in the girls' dorm after the costume contest."
 
 Nora raised a hand. "Uh, hello. I'm one of the girls."
 
@@ -808,6 +808,235 @@ The picture turned up pretty cool afterall. They asked for two copies and also a
 
 ---
 
-Then his phone buzzed.
-
 **Aaron:** **@all**
+**Aaron:** come back
+
+**Enzo:** WELL?????????
+
+**Aaron:** ...
+
+**Gav:** Aaron...
+
+**Aaron:** total failure.
+
+**Evan:** She said no?
+
+**Aaron:** i didn't ask
+
+**Enzo:** WHAT THE FUCK AARON
+
+**Aaron:** don't make it worse please
+
+Taiga sighed and locked the phone.
+
+"Apparently that was useless."
+
+Leo turned. "He didn't ask?"
+
+"Yeah."
+
+Leo looked up at the sky. "Jesus Christ."
+
+"Let's go back."
+
+They found Aaron where they left him. Sofia was talking to another girl no one knew. Apparently, Aaron had waited too much and now the occasion was gone.
+
+"You talked about soccer?", Enzo said in disbelief.
+
+"The whole time?", Gav added.
+
+Aaron looked like he wanted to bury himself in the ground.
+Evan shook his head.
+
+"How long 'till the costume contest?"
+
+Leo looked at the time. "Forty minutes, give or take."
+
+Enzo smacked his fist into his open palm.
+
+"We need a new plan!"
+
+"I need a drink."
+
+Everyone turned towards Aaron.
+
+Evan smiled. "Got you, man"
+
+Enzo theatrically pointed at the drink stall.
+
+"Okay! New plan. Get booze!"
+
+Leo looked at Taiga with a told-you look.
+Taiga shoved him. Then he felt his phone buzzing in his pocket.
+
+**Caleb:** I'm going back to the room.
+**Caleb:** I hope Aaron made it.
+
+**Taiga:** he chickened out
+
+**Caleb:** That was a waste of good plan.
+
+Taiga snorted. 
+
+The stall was just a few meters from there. Some of them went for a second round -third for Enzo. Taiga had enough already.
+
+Aaron was sitting on a hay bale, sadly sipping from his straw and stealing glances to Sofia, who was still talking to her friend.
+
+He looked miserable.
+
+Taiga was considering whether to talk to him when Camp Buddy's group started a video call. 
+He walked away a couple of meters and answered.
+
+The second he joined the call, everyone went silent.
+
+Hiro went first. "NO FUCKING WAY!"
+
+"What?"
+
+"THE COSTUME! YOU LIED TO US!"
+
+"I didn't. It was in the bag Yoichi gave me."
+
+Keitaro laughed. "That's so Yuri."
+
+"I see you made it suitable for October," Natsumi pointed out.
+
+"No shit."
+
+Yoichi made a face. "Pussy."
+
+They spent a few minutes talking about their own costumes and what their college had organized. Taiga turned the phone and showed him around.
+
+Hunter gasped. "Woah! Olympus really went all in."
+
+"Apparently."
+
+Suddenly, Enzo appeared over his shoulder.
+
+"Taiga! We need- Oh, hello. Sorry."
+
+Too late.
+Hiro immediately lit up and pointed at the screen.
+
+"IT'S THE SHARK GUY! HELLO!"
+
+Taiga closed his eyes and exhaled.
+
+Enzo blinked. "Shark guy?"
+
+"I showed them the picture from Arcadia."
+
+He recovered almost immediately. "Oh, you mean *him*."
+And raised Roberto up.
+
+"It's adorable!", said Hiro.
+
+Enzo grinned. "I know, right? Hi, I'm Enzo."
+
+Taiga added. "Teammate."
+
+They waved at him and presented themselves.
+
+"Is this your scout group?"
+
+"Yeah."
+
+Yoichi raised an eyebrow. "That shark looks dumb."
+
+Enzo was profoundly offended. "You just met him and you're already bullying him?"
+
+Hiro laughed. "That's basically standard procedure with Yoichi."
+
+"Tch."
+
+"What are you guys up to?", Keitaro asked.
+
+"Oh! We're having a secret SWAT operation."
+
+"We are not", Taiga cut short.
+
+"Our comrade needs assistance in declaring his love."
+
+Hiro nodded. "I agree. That totally is a military mission. How desperate is he?"
+
+"He already blundered once. Less than forty minutes left until final extraction."
+
+Natsumi blinked. "Can't he just, like, say it?"
+
+Enzo shook is head. "Our VIP is impaired in his social skills."
+
+That Taiga could agree with.
+
+"What are you doing here?"
+
+Taiga closed his eyes.
+No. Not him. Not now.
+
+Leo popped out from Taiga's other shoulder.
+
+"Oh! Hello there!"
+
+Hiro narrowed his eyes for a second. Then he jumped with excitement.
+
+"You! You're the blond one! That means you two are the ones from Santo Domingo, right?"
+
+"Uh-"
+
+Leo looked at Taiga, who was covering his eyes with his hand.
+His worst nightmare had just become reality.
+
+"Yeah, that's us! I'm Leo, nice to meet y'all!"
+
+Keitaro waved, "Nice to meet you too!"
+
+Enzo turned at Taiga. "You talked about us?"
+
+"They asked."
+
+"LEO!", Hiro suddenly shouted.
+
+"Mh?"
+
+"Your costume is dope as fuck!"
+
+Leo grinned. "Thank you!"
+
+"He looks wrapped in toilet paper," Yoichi commented.
+
+Keitaro frowned. "Yoichi!"
+
+Leo laughed. "Okay, so *you* are Yoichi."
+
+Yoichi paused a second.
+
+"What the fuck, Dynamite?"
+
+Aaaand there he was.
+
+Enzo and Leo turned towards him.
+Then they looked at each other in delight.
+
+Leo said, "Dynamite?"
+
+Taiga raised a finger. "No. Absolutely fucking no."
+
+Enzo's eyes were sparking. "Oh, absolutely yes."
+
+"Please explain," continued Leo.
+
+"I'm not telling you anything."
+
+Hiro finally lost it. "Oh my God, this is gold."
+
+The others were barely managing to keep a straight face.
+
+"What?", said Yoichi. "What's funny?"
+
+Enzo turned. "That nickname is incredibly accurate."
+
+Leo nodded. "Agree. Hundred percent. Should be his first name."
+
+Taiga felt his ear getting red.
+
+"I'm about to bury you all."
+
