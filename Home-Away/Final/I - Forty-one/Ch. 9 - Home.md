@@ -684,7 +684,7 @@ Taiga blinked. "No."
 Taiga locked his phone with his message half written.
 Keitaro lightly punched Hiro's shoulder. That didn't erase his grin.
 
-"I was saying, are you wearing something tomorrow night?", asked Hunter.
+"I was saying, are you wearing something tomorrow night?" Hunter asked.
 
 "Hopefully, clothes."
 
@@ -794,7 +794,7 @@ Taiga shrugged. "I guess."
 
 Yoichi crossed his arms. "You better."
 
-"I don't know yet, guys," said Eduard. "My family and Lee's are planning some kind of vacation. We'll let you know!"
+"I don't know yet, guys," said Eduard. "Our families are planning some kind of vacation. We'll let you know!"
 
 "It's alright, don't worry," Hunter continued. "So, see you in a couple of months?"
 
@@ -818,8 +818,7 @@ On his way to the dorm, he got a message.
 The campus was filled to the brim with eerie decorations, yet there were surprisingly few people around. 
 Apparently, everyone was busy.
 
-He entered his room, dropped both duffels on the floor and 
-lay on the bed.
+He entered his room, dropped both duffels on the floor and lay on the bed.
 
 Silence. Finally.
 
@@ -833,7 +832,7 @@ It was a small pink Post-it with Yuri's handwriting:
 *Have a good time!*
 *Yuri <3*
 
-Taiga frowned. Okay, that was beyond suspicious at this time.
+Taiga frowned. Okay, that was beyond suspicious at this point.
 He emptied the plastic bag on the bed without much ceremony. 
 
 ...Oh.
