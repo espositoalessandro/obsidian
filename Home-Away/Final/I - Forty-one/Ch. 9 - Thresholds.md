@@ -1123,7 +1123,7 @@ No one asked him to continue. He did anyway.
 
 Leo frowned. "What you mean?"
 
-"He wants to confess to Sofia!"
+“He’s asking Sofia out tonight!”
 
 "Oh!"
 
@@ -1143,7 +1143,7 @@ She turned towards Caleb. "Well, it does sound fun. What do you say?"
 
 Caleb was visibly confused. "I'm missing the purpose of the mission and our role in it."
 
-Taiga smiled. "Our teammates has a crush on this girl. He wants emotional support to confess to her."
+Taiga smiled. "Our teammates has a crush on this girl. He wants emotional support."
 
 "How can I provide emotional support if I don't know him?"
 
