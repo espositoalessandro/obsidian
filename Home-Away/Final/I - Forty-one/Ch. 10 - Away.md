@@ -1170,14 +1170,14 @@ For a few seconds neither of them spoke. Then Aaron said
 
 Taiga thought for a few seconds.
 
-"Shut my brain off until I've went far enough that I can't chicken out anymore."
+"Shut my brain off until I've gone far enough that I can't chicken out anymore."
 
 Aaron crooked his mouth. "That'd be nice."
 
 The conversation ended there. Ten minutes later, the contest was over. Zoe and Nora came back, visibly disappointed by the result.
 They complained about the winners for a while. Then, they said goodbye to the others and started walking towards the dorm.
 
-Aaron stared at Sofia walking away for several seconds. Then Taiga saw him a deep breath and suddenly he ran towards her.
+Aaron stared at Sofia walking away for several seconds. Then Taiga saw him take a deep breath and suddenly he ran towards her.
 
 "Soph! Wait a sec."
 
@@ -1223,11 +1223,11 @@ Leo looked up. "Mh? Yeah, temporarily."
 
 "No."
 
-Leo smiled. "I figured. Although I believe I'm hitting the sack as well."
+Leo smiled. "I figured. I think I'm hitting the sack too, though."
 
-He stretched then stood up.
+He stretched, then stood up.
 
-Taiga raised an eyebrow. "I didn't expect you were able to do this."
+Taiga raised an eyebrow. "I didn't know you were able to do this."
 
 Leo looked at him in confusion. "What?"
 
@@ -1237,9 +1237,9 @@ Leo looked at him in confusion. "What?"
 
 "Whatever."
 
-They walked away from the party. A minute later, the crowd had already thinned down. There were only a few couples scattered around, one of two groups and a few people already dismantling their boots.
+They walked away from the party. A minute later, the crowd had already thinned down. There were only a few couples scattered around, one or two groups and a few people already dismantling their booths.
 
-Leo stayed silent for most of the walk to the dorms. Taiga left it alone, he just looked tired.
+Leo stayed silent for most of the walk to the dorms. Taiga left it alone. He just looked tired.
 
 Outside the residential building, Leo looked up.
 
@@ -1247,7 +1247,7 @@ Outside the residential building, Leo looked up.
 
 "It was alright."
 
-"Alright? Are we saying actually saying proper compliments now?"
+"Alright? Are we actually giving proper compliments now?"
 
 Taiga rolled his eyes.
 
@@ -1259,7 +1259,7 @@ He grinned. For fuck's sake, wasn't he passing out a few moments ago?
 
 "Here's the lore: Yoichi is an idiot. End of it."
 
-Leo's mouth twitched. "I guess I'll ask him some day."
+Leo's mouth twitched. "I guess I'll ask him someday."
 
 "Don't you have anything better to do with your life?"
 
