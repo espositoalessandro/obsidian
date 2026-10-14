@@ -686,7 +686,7 @@ Keitaro lightly punched Hiro's shoulder. That didn't erase his grin.
 
 "I was saying, are you wearing something tomorrow night?", asked Hunter.
 
-"Probably clothes."
+"Hopefully, clothes."
 
 Yoichi snorted.
 
@@ -831,6 +831,7 @@ It was a small pink Post-it with Yuri's handwriting:
 
 *I thought you may need it~*
 *Have a good time!*
+*Yuri <3*
 
 Taiga frowned. Okay, that was beyond suspicious at this time.
 He emptied the plastic bag on the bed without much ceremony. 
@@ -845,7 +846,7 @@ All the pieces of the costume he'd made for the "Halloween" party back at Camp B
 All the plastic bones, the ropes and the fur pieces were there.
 Even the mask was intact.
 
-What the heck was he supposed to do with it? There was no way he could wear it on campus. Let alone on Halloween.
+What the heck was he supposed to do with it? There was no way he could wear it on campus. Let alone in October.
 
 Taiga bit his lower lip and looked at the clock. 12:06. 
 There was enough time before the party.
