@@ -1258,4 +1258,69 @@ And they went.
 
 ---
 
+Five minutes later, they found the girls. Zoe's make up and dress resembled something like a black cat. 
+Taiga recognized Sofia's costume, maybe the first pop culture reference he finally caught. Red and blue jacket with her blond hairs tied in two separates sides: Harley Quinn.
+
+There was also a third girl he didn't immediately recognize. She was in a black dress with just the collar of a white shirt popping out. Two long black braids going behind her shoulder and a black makeup around the eyes and over her mouth.
+
+Taiga stared for a few seconds and narrowed his eyes.
+No way.
+
+"Nora?"
+
+She turned towards him. A bright smile appeared.
+
+"Taiga?"
+
+"What the heck are you doing here?"
+
+"Uh- It's Halloween, in case you didn't notice."
+
+"I know. I mean- *here*," he said, pointing at the girls.
+
+"Oh, I know Soph. We've worked together a couple of time for the Student's Council."
+
+Taiga frowned. "You're in the Council?"
+
+"Not directly. We're more involved in stuff regarding students welfare and other stuff you'll surely find boring as hell."
+
+"I didn't know."
+
+"Well, it's not something I do regularly, so I don't exactly advertise it."
+
+Then she looked at him from top to bottom.
+
+"Look at you. Actual costume! Did you make it yourself?"
+
+"Pretty much, yeah."
+
+She smiled. "I liked it."
+
+"You look pretty normal in yours."
+
+"I'll take it as a compliment."
+
+"Hey, Nora!"
+
+Leo appeared over Taiga's shoulder.
+
+"Woah, your Wednesday costume is sick!"
+
+"Hi Leo! Thank you. Yours is very cute too!"
+
+"Hey it's not supposed to be cute, you know. It's a mummy afterall."
+
+Nora chuckled. "Yeah, a mummy that's going to a club."
+
+"Fair enough," Leo smiled.
+
+"So, how's the evening going for you guys?"
+
+Taiga shrugged. "As good as a party can go."
+
+"I'm surprised you're not hiding in your room."
+
+"Me too."
+
+"Yeah," Leo added. "He took me by surprise as well."
 
