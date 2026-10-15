@@ -18,7 +18,7 @@ Use these characters consistently in Final chapters:
 - Ellipsis: three periods — `...`
 - Abrupt interruption / cutoff: em dash — `—`
 - Markdown italics: asterisks — `*text*`
-- Scene separator: `---`
+- Scene separator: `***`
 
 Do **not** use:
 
@@ -224,7 +224,7 @@ Character-specific texting capitalization, punctuation and spelling may remain n
 Use exactly:
 
 ```
----
+***
 ```
 
 Keep one blank line before and after the separator.
@@ -257,7 +257,7 @@ Before freezing a chapter, verify:
 - actions are punctuated as action beats, not speech tags;
 - no accidental `"?", said` / `"!", said` punctuation;
 - asterisks rather than underscores for italics;
-- `---` scene separators;
+- `***` scene separators;
 - heading format is consistent;
 - no trailing spaces;
 - no accidental extra blank lines;
