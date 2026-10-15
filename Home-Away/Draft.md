@@ -68,7 +68,7 @@ Scott rolled the ball to Gav.
 
 Taiga checked over his shoulder.
 
-Aaron was deeper across from him. Leo was moving inside.
+Aaron was deeper, between him and goal. Leo was moving inside.
 
 Gav passed forward.
 
@@ -340,7 +340,7 @@ Taiga snorted.
 
 "Less."
 
-They reached the fork where Evan had to turn toward the senior dorms.
+They reached the fork where Evan had to turn toward his dorm.
 
 Taiga stopped.
 
@@ -524,8 +524,6 @@ Nora was watching him.
 
 "What?"
 
-"Nothing."
-
 "You're doing the face."
 
 "What face?"
@@ -704,7 +702,7 @@ Fair.
 
 At fourteen minutes, number four leaned into him near the line.
 
-Taiga played the ball inside before the contact fully arrived and ran behind him.
+Taiga played the ball inside before number four could get a shoulder into him, then ran behind.
 
 The return pass didn't come.
 
@@ -764,7 +762,7 @@ Taiga nodded.
 
 "Okay."
 
-"Good."
+Mercer nodded.
 
 Second half.
 
