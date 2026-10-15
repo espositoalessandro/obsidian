@@ -401,7 +401,7 @@ Hunter returned after a few minutes out of breath. "Okay..." He took another bre
 
 "I- I didn't want you guys to wait. A- Anyways, follow me, this way!"
 
-He was definitely nervous.
+Yeah, he was definitely nervous.
 
 Hunter guided them through a small park and into the biggest building, apparently dedicated entirely to exhibitions. 
 His section was on the far wall of the second room. Five pieces were illuminated by a yellow light hanging from the ceiling. 
