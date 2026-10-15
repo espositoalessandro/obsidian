@@ -369,7 +369,7 @@ He'd rather know he was getting kicked out than be stuck wondering until Thursda
 
 That was a great way to start the week.
 
----
+***
 
 The looming threat of Thursday made the week almost unbearable.
 
@@ -389,7 +389,7 @@ While he waited, he turned to look at table three. Leo had carefully cuffed his 
 
 Luckily, nobody at his table fucked up badly enough to affect the overall result. But the whole class left Taiga exhausted: he kept checking everything, even the results that the others had already verified.
 
----
+***
 
 That evening, Maya arrived at room 317 carrying a takeaway bag and a laptop tucked under one arm.
 Taiga opened the door.
@@ -607,7 +607,7 @@ Maya looked at Taiga.
 
 Taiga laughed and went back to his food.
 
----
+***
 
 Eventually, Thursday arrived. Way too quickly.
 
@@ -769,7 +769,7 @@ Mercer nodded. "You earned what's on that sheet. Don't thank me for writing it d
 
 Taiga left before the answer could make him smile too obviously.
 
----
+***
 
 He told Caleb first because Caleb had asked.
 
@@ -787,7 +787,7 @@ Then he dropped the same news into the Camp Buddy chat. The response was immedia
 
 Taiga let them.
 
----
+***
 
 Friday afternoon, Enzo was waiting beside Taiga's locker with the expression of someone about to announce a public execution.
 
