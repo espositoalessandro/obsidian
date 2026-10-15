@@ -106,7 +106,7 @@ Taiga stood there for a couple more seconds, watching Mercer leave with his assi
 
 Taiga followed him into the locker room.
 
----
+***
 
 He was sitting on a bench in the laundry room. It wasn't crowded at all, just as Caleb had foretold.
 
@@ -168,7 +168,7 @@ Taiga smiled and locked the phone. Apparently, the reunion Yoichi dreaded would 
 
 He turned back to the dryer: the shirt with the 41 was tumbling around.
 
----
+***
 
 Taiga was tying his boot. Then he flexed his ankle. No, too tight.
 He untied it and retied it. Still too tight.
@@ -359,7 +359,7 @@ By the time the final whistle came, Taiga was tired, sweaty, and mildly furious 
 
 The score was 0-0.
 
----
+***
 
 Taiga stayed under the shower longer than usual.
 
@@ -498,7 +498,7 @@ Taiga forced himself not to look up again, but he could feel his face getting wa
 
 He heard Leo chuckling and walking away and couldn't stop himself from peeking one more time.
 
----
+***
 
 By the time Taiga arrived, Enzo had already arranged two tables. Aaron was whispering with Evan, while Scott and Gav were laughing at something.
 
@@ -796,7 +796,7 @@ Then at everyone else:
 
 He zoomed away. Taiga shook his head.
 
----
+***
 
 "Since you disagree, Mr. Akatora, why don't you explain your point to us?"
 
