@@ -287,7 +287,7 @@ Enzo waved her off. "Unimportant."
 
 She turned towards Caleb. "Well, it does sound fun. What do you say?"
 
-Caleb was visibly confused. "I'm missing the purpose of the mission and our role in it."
+"I'm missing the purpose of the mission and our role in it."
 
 Taiga smiled. "Our teammate has a crush on this girl. He wants emotional support."
 
@@ -427,7 +427,7 @@ She turned towards him. A bright smile appeared.
 
 Taiga frowned. "You're in the Council?"
 
-"Not directly. We're more involved in stuff regarding students welfare and other stuff you'll surely find boring as hell."
+"Not directly. I help with student-welfare stuff sometimes."
 
 "I didn't know."
 
@@ -585,15 +585,9 @@ Taiga pointed at him. "Don't make this worse."
 Gav turned to the others and briefly nodded.
 Shortly after, Maya approached them.
 
-"Hey! Uh-"
+"Hey! Uh-", she bit her lip for a second.  "Caleb we need to go to... do that uh- stuff."
 
-She was clearly weirded out.
-
-"Caleb we need to go to... do that uh- stuff."
-
-Caleb frowned.
-
-"No, we don't-"
+Caleb frowned. "No, we don't-"
 
 Maya gave him *the* look.
 
@@ -622,7 +616,7 @@ Sofia stared at them going, raising an eyebrow.
 
 "What the..? Are they already drunk?"
 
-Aaron panicked. "Y-Yeah, maybe..."
+Aaron laughed nervously. "Y-Yeah, maybe..."
 
 Leo and Taiga stared at each other. Taiga immediately looked away because he was about to loose it.
 
@@ -882,8 +876,6 @@ The stall was just a few meters from there. Some of them went for a second round
 
 Aaron was sitting on a hay bale, sadly sipping from his straw and stealing glances to Sofia, who was still talking to her friend.
 
-He looked miserable.
-
 Taiga was considering whether to talk to him when Camp Buddy's group started a video call. 
 He walked away a couple of meters and answered.
 
@@ -1085,7 +1077,7 @@ Finally Aaron and Sofia came back. He was met with six pair of eyes locked onto 
 
 The whole group groaned as if Apollo had just lost a game.
 
-The contest started. People in costumes started walking on the runway. Neither Aaron nor Sofia spoke a single word. Taiga assumed things went pretty wrong. He looked at Leo, who simply shrugged. Even Enzo couldn't say anything.
+The contest started. People in costumes started walking on the runway. Neither Aaron nor Sofia spoke a single word. Taiga looked at Leo, who simply shrugged. Even Enzo couldn't say anything.
 
 Half of the contestants remained. Zoe walked in and Sofia cheered. 
 Aaron leaned towards Taiga.
