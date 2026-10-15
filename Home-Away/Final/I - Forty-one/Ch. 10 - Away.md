@@ -732,11 +732,11 @@ She tapped the card. Five figures were waving staffs at each other in a mess tha
 
 Taiga stared at the card.
 
-"That's not good."
+"That's not good," Leo said.
 
 The girl leaned back.
 
-"I'd say your friend's got a good chance tonight. But you must be wary of the future. Tonight's success might be tomorrow's battle."
+"I'd say your friend's got a good chance tonight, although his own mind is holding him. But you must be wary of the future. Tonight's success might be tomorrow's battle."
 
 They left the boot a bit preoccupied. They decided not to tell Aaron.
 
