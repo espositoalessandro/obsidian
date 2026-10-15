@@ -772,7 +772,7 @@ Yoichi looked away. "Don't make it weird."
 
 Hiro shoved him. "Don't listen to Wolfboy, he cannot handle emotions. It was so good to see your place!"
 
-"Yeah," Keitaro added with a smile. "Looks like you're in good hands."
+"Yeah," Keitaro added. "Looks like you're in good hands."
 
 "Just take care of yourself, don't overdo it," said Natsumi.
 
