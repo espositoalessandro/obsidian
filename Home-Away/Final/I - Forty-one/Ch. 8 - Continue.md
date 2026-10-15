@@ -87,7 +87,7 @@ Yeah, he was good.
 If only he didn't spend half of his oxygen allowance on talking.
 
 
----
+***
 
 Taiga had just pulled a clean shirt over his head when Enzo climbed onto the bench between two rows of lockers.
 
@@ -184,7 +184,7 @@ Taiga pushed the door open and stepped into the corridor. His phone buzzed insid
 
 Taiga smiled and put the phone away.
 
----
+***
 
 As the end of October approached, decorations slowly started accumulating all over the campus.
 
@@ -320,7 +320,7 @@ Nora smiled. "You didn't say no, though."
 
 She laughed. "Fuck you."
 
----
+***
 
 Taiga reached the station at 6:13. Scott was already there, sitting on a bench.
 
@@ -506,7 +506,7 @@ Taiga walked away, flipping them off from behind.
 
 "Fuck all of you."
 
----
+***
 
 Sofia and Zoe arrived around eight. By then, Taiga had lost at racing, rhythm, a fighting game and a basketball shooting machine that Aaron took far too seriously. Enzo had been missing for about half an hour.
 
@@ -646,7 +646,7 @@ Leo nodded. "Let's get some food."
 
 They walked back toward the group.
 
----
+***
 
 Dinner happened in a small restaurant on the upper level of the Agora. They got a table near the outer glass, where the whole interior opened below them.
 Aaron and Sofia were still discussing basketball, Gav was torturing Scott with something about 'multiclassing a paladin', while Enzo was trying to convince everybody that Roberto the shark belonged in House Apollo's common room.
@@ -798,7 +798,7 @@ Leo came back a few minutes later, just as Enzo was trying to convince everybody
 
 By the time the bill arrived, Enzo had been left alone trying to fix the stitching problem with the restaurant knife, failing miserably.
 
----
+***
 
 They left the Agora around eleven and headed for the station. Apparently, everybody had decided to leave at the same time, so the train was jam-packed.
 They scattered wherever they could fit, and Taiga ended up beside Leo.
@@ -947,7 +947,7 @@ For a second, the smile settled. Then Leo looked back out the window.
 
 Taiga smiled, but didn't add anything. The campus stop announcement played overhead, and they stood.
 
----
+***
 
 The campus was silent. And slightly eerie due to all the decorations. On their way back to the dorm, Taiga and Leo kept arguing about the shooter game.
 
