@@ -68,7 +68,7 @@ Scott rolled the ball to Gav.
 
 Taiga checked over his shoulder.
 
-Aaron was deeper on his side. Leo was moving inside.
+Aaron was deeper across from him. Leo was moving inside.
 
 Gav passed forward.
 
@@ -204,7 +204,7 @@ Leo smiled.
 
 Taiga went back to his laces.
 
-When he looked up again, Leo was still looking at him.
+A few seconds later, Leo was still looking at him.
 
 Not doing anything. Just looking.
 
@@ -753,8 +753,6 @@ Taiga frowned.
 "Four keeps following."
 
 "No. You're deciding for him."
-
-Taiga looked at the board.
 
 Mercer drew one short line toward the center.
 
