@@ -60,45 +60,27 @@ Luckily, Mercer had apparently declared standing still illegal.
 
 "Again!"
 
-Taiga jogged back toward the touchline.
+Taiga jogged back toward the touchline. They were working on a reduced-size pitch, eight against eight, with the space compressed enough that every bad touch immediately became somebody else's problem.
 
-They were working on a reduced-size pitch, eight against eight, with the space compressed enough that every bad touch immediately became somebody else's problem.
+Scott rolled the ball to Gav. Taiga checked over his shoulder. Aaron was deeper, between him and goal, while Leo was moving inside.
 
-Scott rolled the ball to Gav.
-
-Taiga checked over his shoulder.
-
-Aaron was deeper, between him and goal. Leo was moving inside.
-
-Gav passed forward.
-
-Leo came toward the ball.
+Gav passed forward and Leo came toward the ball.
 
 A month earlier, Taiga would've seen Leo moving and gone toward him too. Or passed straight to him. Or done something equally useful for the defender following him.
 
-Now he saw the defender move with Leo.
-
-Space opened behind him.
-
-Taiga ran.
+Now he saw the defender move with Leo. Space opened behind him and Taiga ran.
 
 Leo received with his back to goal, touched the ball once and sent it around the defender into the space Taiga was already attacking.
 
 There.
 
-Taiga reached it before Aaron could close him down and drove a low ball across the middle.
-
-Price got a foot to it.
-
-Scott saved.
+Taiga reached it before Aaron could close him down and drove a low ball across the middle. Price got a foot to it, but Scott saved.
 
 "Fuck."
 
 "Again!" Mercer shouted.
 
-Nobody stopped to explain what had happened.
-
-Taiga jogged back into position.
+Nobody stopped to explain what had happened. Taiga jogged back into position.
 
 Good enough.
 
@@ -110,15 +92,11 @@ Two steps.
 
 Then he stopped.
 
-Aaron had already passed inside. Chasing him would only drag Taiga away from the left side.
-
-He recovered his position instead.
+Aaron had already passed inside. Chasing him would only drag Taiga away from the left side, so he recovered his position instead.
 
 Scott shouted something at Gav. Leo dropped. The ball moved backward.
 
-Nothing happened.
-
-Which, six weeks earlier, would've felt like failure.
+Nothing happened. Six weeks earlier, that would've felt like failure.
 
 Now it just meant nothing happened.
 
@@ -144,9 +122,7 @@ People started toward the bottles.
 
 "Akatora."
 
-Taiga stopped.
-
-Mercer pointed at him.
+Taiga stopped. Mercer pointed at him.
 
 "You're starting left."
 
@@ -180,9 +156,7 @@ From the ground, Enzo lifted one arm.
 
 Taiga grabbed the mesh bag.
 
-Apparently, he was starting Saturday.
-
-Fine.
+Apparently, he was starting Saturday. Fine.
 
 The locker room was louder than usual because Enzo had recovered from death in under four minutes.
 
@@ -190,9 +164,7 @@ Taiga changed his shirt, shoved it into his bag and sat down to untie his boots.
 
 "First start."
 
-He looked up.
-
-Leo was sitting on the bench opposite him with one sock halfway off.
+He looked up. Leo was sitting on the bench opposite him with one sock halfway off.
 
 "Apparently."
 
@@ -202,9 +174,7 @@ Leo smiled.
 
 "Yeah."
 
-Taiga went back to his laces.
-
-A few seconds later, Leo was still looking at him.
+Taiga went back to his laces. A few seconds later, Leo was still looking at him.
 
 Not doing anything. Just looking.
 
@@ -216,9 +186,7 @@ Leo blinked.
 
 He pulled the sock off and reached for the other one.
 
-Taiga stood and grabbed his bag.
-
-Behind him, Enzo was arguing with Gav about whether cereal counted as soup.
+Taiga stood and grabbed his bag. Behind him, Enzo was arguing with Gav about whether cereal counted as soup.
 
 It did not.
 
@@ -246,9 +214,7 @@ Evan spotted Taiga.
 
 Evan laughed and fell into step beside him.
 
-They headed toward the main campus.
-
-For a while they didn't talk about football at all.
+They headed toward the main campus. For a while they didn't talk about football at all.
 
 Evan complained about one of his professors moving a deadline forward. Taiga told him that sounded illegal. Evan said it should be.
 
@@ -280,7 +246,7 @@ Taiga sighed.
 
 They kept walking.
 
-The campus had gotten quieter with the cold. People moved quickly between buildings instead of sitting outside. Most of the benches were empty.
+The campus had gotten quieter with the cold. People moved quickly between buildings instead of sitting outside, and most of the benches were empty.
 
 Evan shoved his hands into his jacket pockets.
 
@@ -294,9 +260,7 @@ Taiga glanced at him.
 
 "Fuck you."
 
-Evan smiled.
-
-Then he looked ahead again.
+Evan smiled, then looked ahead again.
 
 "That side's going to need somebody."
 
@@ -310,7 +274,7 @@ Evan continued.
 
 "I'm serious."
 
-That changed the tone enough that Taiga looked at him again.
+Okay. He was serious.
 
 Evan shrugged.
 
@@ -324,7 +288,7 @@ Evan shrugged.
 
 "But you're learning when not to."
 
-The statement landed harder than he expected.
+Taiga didn't have an answer for that.
 
 Evan kicked a pebble off the pavement.
 
@@ -384,19 +348,13 @@ Evan started walking backward.
 
 "We'll see."
 
-He turned and left.
+He turned and left. Taiga watched him go for a second, then headed toward the Residential Hall.
 
-Taiga watched him go for a second, then headed toward the Residential Hall.
-
-One start.
-
-Apparently that was enough for people to start discussing next year.
+One start. Apparently that was enough for people to start discussing next year.
 
 Ridiculous.
 
-Still.
-
-He didn't hate it.
+Still, he didn't hate it.
 
 ***
 
@@ -420,11 +378,7 @@ He looked up.
 
 "You haven't scrolled in eight minutes."
 
-Taiga looked at the screen.
-
-The Foundations assignment was minimized.
-
-Behind it sat the page he'd opened twenty minutes earlier.
+Taiga looked at the screen. The Foundations assignment was minimized. Behind it sat the page he'd opened twenty minutes earlier.
 
 **Major Declaration**
 
@@ -466,9 +420,7 @@ He leaned back.
 
 Of course she was.
 
-Computer Science was sitting in the dropdown.
-
-He'd already selected it.
+Computer Science was sitting in the dropdown. He'd already selected it.
 
 He just hadn't pressed submit.
 
@@ -500,27 +452,17 @@ She ignored him.
 
 Taiga stared at the form.
 
-Annoying.
+Annoying. Reasonable, but annoying.
 
-Reasonable, but annoying.
-
-He started thinking again.
-
-Maybe he should wait until finals. Maybe Data Structures would be different. Maybe he'd hate it. Maybe there was something else he hadn't tried yet. Maybe—
+He started thinking again. Maybe he should wait until finals. Maybe Data Structures would be different. Maybe he'd hate it. Maybe there was something else he hadn't tried yet. Maybe—
 
 Aaron.
 
-Taiga closed his eyes.
+Taiga closed his eyes. Three weeks earlier, he'd stood in Central Park telling Aaron that eventually thinking stopped being useful. That sometimes he had to shut his brain off for five fucking minutes and do the thing before he invented another reason not to.
 
-Three weeks earlier, he'd stood in Central Park telling Aaron that eventually thinking stopped being useful. That sometimes he had to shut his brain off for five fucking minutes and do the thing before he invented another reason not to.
+Great advice. Apparently.
 
-Great advice.
-
-Apparently.
-
-Taiga opened his eyes.
-
-Nora was watching him.
+Taiga opened his eyes. Nora was watching him.
 
 "What?"
 
@@ -566,13 +508,9 @@ Nora smiled.
 
 Nora laughed and went back to her article.
 
-Taiga left the confirmation on screen for another second.
+Taiga left the confirmation on screen for another second, then closed the tab and reopened Rao's assignment.
 
-Then he closed the tab and reopened Rao's assignment.
-
-There.
-
-Done.
+There. Done.
 
 ***
 
@@ -580,9 +518,7 @@ Saturday was gray, cold and windy.
 
 Northbridge looked exactly as annoying as Taiga remembered.
 
-Number four especially.
-
-He stood near the halfway line while both teams warmed up, somehow still looking larger than everyone around him.
+Number four especially. He stood near the halfway line while both teams warmed up, somehow still looking larger than everyone around him.
 
 Taiga stared at him.
 
@@ -596,9 +532,7 @@ Evan appeared beside him.
 
 "How the fuck would you know?"
 
-Number four looked over.
-
-Then directly at Taiga.
+Number four looked over, then directly at Taiga.
 
 He smiled.
 
@@ -608,11 +542,7 @@ Evan laughed.
 
 "Fuck off."
 
-Mercer called everyone in.
-
-The lineup was already on the board.
-
-Taiga had seen his name there when he'd arrived.
+Mercer called everyone in. The lineup was already on the board, and Taiga had seen his name there when he'd arrived.
 
 **41 - AKATORA - LW**
 
@@ -622,69 +552,43 @@ Now Mercer went through the same instructions he always did.
 
 Keep the first pass simple. Don't force it through the middle. Northbridge pressed hard and recovered quickly. If Olympus let the game become a fight, Northbridge would happily spend ninety minutes fighting.
 
-Nothing Taiga didn't already know.
-
-That helped.
+Nothing Taiga didn't already know. That helped.
 
 They went outside.
 
-This time, when Taiga stepped onto the field, nobody had to hold up a board for him.
-
-He was already supposed to be there.
+This time, when Taiga stepped onto the field, nobody had to hold up a board for him. He was already supposed to be there.
 
 That was new.
 
 The whistle went.
 
-For the first thirty seconds, his body tried to betray him anyway.
+For the first thirty seconds, his body tried to betray him anyway. Heart too fast. Legs too light. Too much awareness of everything at once.
 
-Heart too fast. Legs too light. Too much awareness of everything at once.
-
-Then Aaron received behind him.
-
-Taiga checked his shoulder.
+Then Aaron received behind him. Taiga checked his shoulder.
 
 Number four.
 
 Fine.
 
-He stayed wide.
+He stayed wide and Aaron played inside instead. Nothing happened.
 
-Aaron played inside instead.
-
-Nothing happened.
-
-Next possession, Gav switched the ball left.
-
-Taiga checked again before it arrived.
+Next possession, Gav switched the ball left. Taiga checked again before it arrived.
 
 Number four was already closing.
 
 Taiga touched the ball back to Aaron and moved.
 
-Simple.
-
-No disaster.
-
-No sudden disappearance of the entire field.
+Simple. No disaster. No sudden disappearance of the entire field.
 
 The next time the ball came toward him, he already knew where number four was.
 
-Not that the defender had gotten smaller.
-
-He definitely had not.
+Not that the defender had gotten smaller. He definitely had not.
 
 Taiga just knew where the bastard was before turning.
 
-At eight minutes, Taiga tried to cut inside too early and ran straight into traffic.
+At eight minutes, Taiga tried to cut inside too early and ran straight into traffic. The ball popped loose and Northbridge broke.
 
-The ball popped loose.
-
-Northbridge broke.
-
-Taiga spun and chased.
-
-He caught their midfielder near the halfway line and poked the ball away.
+Taiga spun and chased. He caught their midfielder near the halfway line and poked the ball away.
 
 Mercer shouted from the sideline.
 
@@ -694,55 +598,31 @@ Taiga barely had time to feel satisfied.
 
 "WOULDN'T NEED IT IF YOU STOPPED DOING STUPID SHIT FIRST!"
 
-There it was.
-
-Taiga jogged back into position.
+There it was. Taiga jogged back into position.
 
 Fair.
 
-At fourteen minutes, number four leaned into him near the line.
+At fourteen minutes, number four leaned into him near the line. Taiga played the ball inside before number four could get a shoulder into him, then ran behind.
 
-Taiga played the ball inside before number four could get a shoulder into him, then ran behind.
+The return pass didn't come. Fine.
 
-The return pass didn't come.
-
-Fine.
-
-At nineteen, same thing.
-
-This time the pass came late and number four recovered.
-
-Taiga sent the ball backward.
+At nineteen, same thing. This time the pass came late and number four recovered, so Taiga sent the ball backward.
 
 Also fine.
 
-By twenty-five minutes, the match had settled into something readable.
-
-Northbridge still pressed. Still hit hard. Still tried to turn every loose ball into a sprint.
+By twenty-five minutes, the match had settled into something readable. Northbridge still pressed. Still hit hard. Still tried to turn every loose ball into a sprint.
 
 But Taiga could see the shapes now.
 
-When their winger dropped, Aaron moved.
+When their winger dropped, Aaron moved. When Leo drifted toward the right, Gav adjusted behind him. When Price came short, somebody else had to attack the space he left.
 
-When Leo drifted toward the right, Gav adjusted behind him.
+Not every movement required Taiga to do something. That remained one of football's more offensive concepts.
 
-When Price came short, somebody else had to attack the space he left.
+Northbridge nearly scored from a corner before halftime, but Scott punched it away.
 
-Not every movement required Taiga to do something.
+The whistle came a few minutes later. Still 0-0.
 
-That remained one of football's more offensive concepts.
-
-Northbridge nearly scored from a corner before halftime.
-
-Scott punched it away.
-
-The whistle came a few minutes later.
-
-Still 0-0.
-
-Mercer waited until everyone had water.
-
-Then he pointed at Taiga.
+Mercer waited until everyone had water, then pointed at Taiga.
 
 "You're coming inside too early."
 
@@ -768,94 +648,58 @@ Second half.
 
 Taiga stayed wide.
 
-The first time, nothing happened.
+The first time, nothing happened. The second time, nothing happened again.
 
-The second time, nothing happened again.
+The third time, number four got impatient. He stepped toward Aaron and Taiga went behind him.
 
-The third time, number four got impatient.
-
-He stepped toward Aaron.
-
-Taiga went behind him.
-
-The pass arrived.
-
-For once, number four wasn't close enough to throw him into another postal code.
+The pass arrived. For once, number four wasn't close enough to throw him into another postal code.
 
 Taiga drove forward.
 
-Price moved toward the near post.
+Price moved toward the near post. Taiga saw him, then saw Romero arriving behind.
 
-Taiga saw him.
-
-Then he saw Romero arriving behind.
-
-He cut the ball back.
-
-Romero hit it first time.
-
-The goalkeeper saved.
-
-Price reached the rebound half a second too late and Northbridge cleared.
+He cut the ball back. Romero hit it first time, the goalkeeper saved, and Price reached the rebound half a second too late before Northbridge cleared.
 
 Taiga stopped near the edge of the box.
 
 Fuck.
 
-Mercer clapped once from the sideline.
-
-Taiga turned and ran back.
+Mercer clapped once from the sideline. Taiga turned and ran back.
 
 Good enough.
 
 A few minutes later, the same space opened again.
 
-This time the ball never reached him.
+This time the ball never reached him. It didn't need to.
 
-It didn't need to.
-
-Number four stayed wide with Taiga. Aaron carried inside through the space he'd left. Apollo got a shot from it.
+Number four stayed wide with Taiga while Aaron carried inside through the space he'd left. Apollo got a shot from it.
 
 Wide.
 
 Still.
 
-Taiga looked at number four jogging back beside him.
-
-The defender hadn't touched him.
-
-Taiga hadn't touched the ball.
+Taiga looked at number four jogging back beside him. The defender hadn't touched him. Taiga hadn't touched the ball.
 
 And something useful had happened because of where he stood.
 
 Ridiculous sport.
 
-Olympus scored in the sixty-third minute.
-
-Taiga had very little to do with it.
+Olympus scored in the sixty-third minute, and Taiga had very little to do with it.
 
 Gav won the ball. Leo carried it through the middle. Aaron overlapped on the left and crossed low. Price got there first.
 
 1-0.
 
-Taiga ran over with everyone else anyway.
+Taiga ran over with everyone else anyway. Nobody asked whether he'd contributed enough to celebrate.
 
-Nobody asked whether he'd contributed enough to celebrate.
-
-At sixty-nine minutes, his left calf started tightening.
-
-At seventy-two, the board went up.
+At sixty-nine minutes, his left calf started tightening. At seventy-two, the board went up.
 
 **41 OUT**
 **11 IN**
 
-Taiga jogged toward the touchline.
+Taiga jogged toward the touchline. Evan waited for him.
 
-Evan waited for him.
-
-For half a second, the image felt backwards.
-
-Last time against Northbridge, Evan had come off and Taiga had gone on.
+For half a second, the image felt backwards. Last time against Northbridge, Evan had come off and Taiga had gone on.
 
 Now Evan slapped his hand and stepped past him.
 
@@ -865,15 +709,11 @@ Now Evan slapped his hand and stepped past him.
 
 Evan grinned and ran onto the field.
 
-Taiga sat down.
-
-His lungs were working hard. His legs were heavy. Mud had dried along one sock. Number four had managed to hit him in at least four separate places.
+Taiga sat down. His lungs were working hard, his legs were heavy, and mud had dried along one sock. Number four had managed to hit him in at least four separate places.
 
 He took a long drink and leaned back against the bench.
 
-Olympus kept the lead.
-
-When the final whistle went, everyone started toward the sideline.
+Olympus kept the lead. When the final whistle went, everyone started toward the sideline.
 
 Taiga stood and picked up his bottle.
 
