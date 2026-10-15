@@ -87,11 +87,7 @@ They got some drinks from the stall and sat on a hay bale that was being used as
 
 "So, how was your friend's exhibit?" Maya asked.
 
-Taiga shrugged. "It went alright. Every person who saw his drawings thought they meant something different. None of them actually guessed the reason behind them."
-
-"Which was...?"
-
-"Hunter had seen a place he liked and he drew it."
+Taiga shrugged. "Good. Some guy decided a hallway Hunter drew because he liked the light represented fear of adulthood."
 
 Maya snorted.
 
@@ -99,23 +95,7 @@ Maya snorted.
 
 "Yeah."
 
-"Can you show me the drawing in question?" asked Caleb.
-
-Taiga showed him a photo. Caleb looked at it for a minute.
-
-"It's a hallway."
-
-"Exactly."
-
-He turned the phone back to Taiga.
-
-"What did they say it represented?"
-
-"Fear of adulthood."
-
-Caleb paused.
-
-"How?"
+Caleb paused. "How?"
 
 Taiga shook his head. "Ask them."
 
@@ -433,11 +413,7 @@ Taiga frowned. "You're in the Council?"
 
 Then she looked at him from top to bottom.
 
-"Look at you. Actual costume! Did you make it yourself?"
-
-"Pretty much, yeah."
-
-She smiled. "I like it."
+"Look at you. Actual costume!" She smiled. "I like it."
 
 "You look pretty normal in yours."
 
@@ -617,12 +593,6 @@ Aaron laughed nervously. "Y-Yeah, maybe..."
 Leo and Taiga stared at each other. Taiga immediately looked away because he was about to lose it.
 
 "Anyways, Taiga!" Zoe pointed at his costume. "That costume is really badass!"
-
-"Yeah," said Sofia. "Did you make it?"
-
-"Pretty much, yeah. Some of it I made back at camp. I put together some stuff that scoutmasters had around."
-
-Zoe raised her eyebrows. "Sick!"
 
 Leo smirked. "First version was a bit different though."
 
