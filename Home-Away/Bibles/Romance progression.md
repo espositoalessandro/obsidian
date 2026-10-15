@@ -1,6 +1,12 @@
 # Olympus Fanfic — Story & Romance Progression Bible
 ## Consolidated Through Chapter 32
 
+> **LEGACY DEVELOPMENT BIBLE — ACT I OVERRIDE**
+>
+> For the Final rewrite, Act I / Section I continuity is controlled by `Final Bibles/Section I - Chapter Map.md` and `Final Bibles/Prose & Voice.md`.
+>
+> The later-act material in this file remains development material until those sections are rewritten. Do not use older Act I chapter numbering or attraction beats here to override the Final manuscript.
+
 This file is the **single story-state and romance-progression reference** for the Olympus fanfic through the end of Act III.
 
 It supersedes the previous `Through Chapter 26` progression snapshot where the two conflict.
@@ -75,7 +81,7 @@ Primary job:
 
 Romance progression:
 
-> attention → bodily anomaly → ambiguity
+> physical noticing → conscious sexual attraction → compartmentalization → reader-visible Leo interest → physical destabilization
 
 ## Act II — Boundaries
 Chapters 13–21.
@@ -117,14 +123,19 @@ Romance progression:
 ## Baseline
 By Chapter 12:
 - Taiga has built a life at Olympus independent of romance.
-- Leo has become increasingly noticeable through repeated ordinary contact.
-- Taiga retains trivial information about Leo before he understands why.
-- Chapter 4 establishes an isolated sexual response after the academy's open showers: Taiga masturbates while replaying Leo's body, then dismisses the event as situational rather than treating it as evidence of an ongoing attraction.
-- the relationship is important before it is interpretable.
+- Chapter 3 establishes the first unmistakable physical noticing of Leo.
+- Chapter 5 establishes conscious sexual attraction through the second shower, Zoe's information, the dream and Taiga's awake choice to continue the fantasy.
+- Early Chapter 6 lets Taiga file that attraction under a deliberately simple explanation: **Leo is hot; that explains enough.**
+- Arcadia and Halloween allow the reader to begin inferring that Leo sees Taiga differently while Taiga remains oblivious.
+- After Halloween, Leo may have developed a genuine crush, but Chapter 11 should not make him a constant presence around Taiga. Their friendship is warmer; the stronger social-default pattern belongs to Act II.
+- Chapter 11 spans several weeks of ordinary life and larger non-romantic thresholds, including the first reserve start, formal CS declaration and a small first-team opportunity.
+- Chapter 12 moves through finals and ends at the winter rink.
+- The rink's romantic turn is **physical rather than verbal**: necessary contact / eye contact lasts slightly beyond necessity, both boys register it, and Taiga's old compartment stops explaining the reaction.
+- Taiga still does not conclude that he has a crush or that Leo likes him.
 
 Core result:
 
-> Leo becomes noticeable before he becomes interpretable.
+> Leo becomes physically understandable before he becomes romantically interpretable; the rink is the first crack in Taiga's explanation.
 
 ## Boundaries
 By Chapter 21:
