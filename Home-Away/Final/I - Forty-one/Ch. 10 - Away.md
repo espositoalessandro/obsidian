@@ -1118,7 +1118,7 @@ Taiga didn't answer.
 
 "How do you do it? How do you manage to be so blunt?"
 
-"What the fuck does that even me-"
+"What the fuck does that even-"
 
 "Just tell me."
 
