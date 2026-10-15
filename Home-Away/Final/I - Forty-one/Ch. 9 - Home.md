@@ -138,7 +138,7 @@ Taiga smiled.
 
 Idiot.
 
----
+***
 
 Taiga's train was due to arrive at the station at 11:42. The trip had been long enough for him to finish half an assignment, give up on the other half, sleep for an hour, then finish the whole thing.
 
@@ -324,7 +324,7 @@ Taiga exhaled and closed the bag.
 
 "Let's go."
 
----
+***
 
 They reached Hunter's campus by 2:30. Taiga stared at the entrance gate: definitely less pretentious than Olympus'.
 At least this one didn't have statues.
@@ -570,7 +570,7 @@ A few minutes later, Hunter popped in and narrowed his eyes at them.
 
 All three of them laughed again.
 
----
+***
 
 Later, the exhibit finally ended. Hunter was visibly exhausted, but had a satisfied look on his face. He took them to a place right off campus.
 
@@ -802,7 +802,7 @@ Yoichi crossed his arms. "You better."
 
 "Of course!" Keitaro said.
 
----
+***
 
 The next morning, the alarm woke him up at seven without mercy. He got to the station and took his train back to his campus.
 
