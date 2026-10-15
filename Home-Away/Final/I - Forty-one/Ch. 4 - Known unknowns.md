@@ -143,7 +143,7 @@ Nora left. Taiga remained seated for several seconds. Then muttered:
 
 "Annoying."
 
----
+***
 
 Wednesday brought the first General Chemistry lab session. Taiga was genuinely curious about it, although he disliked it within the first five minutes.
 Fogged goggles, absurdly sturdy gloves, crowded benches. He also noticed that every bottle had at least three labels: one announcing what it contained, a hazard symbol and an enormous "WARNING".
@@ -443,7 +443,7 @@ Zoe immediately brightened.
 
 "Fine."
 
----
+***
 
 Training ended a little after five-thirty.
 
@@ -583,7 +583,7 @@ Leo looked up.
 
 Taiga nodded and left.
 
----
+***
 
 The next morning, Taiga knocked on the professor's door.
 
@@ -685,7 +685,7 @@ Taiga considered. Actually, yeah.
 
 Taiga smiled and locked the phone.
 
----
+***
 
 Taiga was in his room when his phone buzzed. It was 9:34.
 
@@ -886,7 +886,7 @@ Caleb returned to his book.
 
 Taiga looked at the blank screen for another second before setting the phone down.
 
----
+***
 
 Friday afternoon, Taiga was changing at his usual locker.
 Across the room, Leo was trying to tape one wrist while Enzo talked at him from two lockers away.
