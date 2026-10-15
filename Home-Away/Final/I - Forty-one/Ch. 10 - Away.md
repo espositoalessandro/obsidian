@@ -1106,9 +1106,11 @@ Aaron took a deep breath. "I don't know. I'll go to bed and think about this eve
 
 "Sounds like a plan."
 
-"You know, sometimes I envy you."
+They both kept looking at Zoe.
 
-"What? Where did that come from?"
+"You know, sometimes I envy you," Aaron said after a while
+
+"Where did that come from?"
 
 "I've seen you asking unapologetic questions to everyone. Teammates, professors, Mercer."
 
@@ -1116,13 +1118,13 @@ Taiga didn't answer.
 
 "How do you do it? How do you manage to be so blunt?"
 
-"I'm not exactly a role model for this-"
+"What the fuck does that even me-"
 
 "Just tell me."
 
 Taiga looked at Zoe going back with the others. 
 
-"Sometimes I think they are wrong. Sometimes just stupid. Other times, I don't understand something and I hate that."
+"Sometimes I think people are wrong. Sometimes just stupid. Other times, I don't understand something and I hate that."
 
 "That's it?"
 
@@ -1130,27 +1132,23 @@ Taiga looked at Zoe going back with the others.
 
 "I don't know. Wisdom."
 
-Taiga smiled without warmth. "I won't call my attitude 'wise'. It gets me into trouble."
+Taiga smiled without warmth. "I won't call my fucking attitude 'wise'."
 
-"But you get what you want."
+"At least you actually say what you want."
 
-"Sometimes, yes. But there's a price for that."
+"And it often gets me into trouble."
 
 Taiga crossed his arms.
 
-"I don't want to talk about this now, let's just say that I spent an awful lot of time not caring about what people thought about me."
+"Look, I don't want to talk about this now, but let's just say that I spent an awful lot of time not caring about what people thought about me."
 
 Aaron frowned, but remained silent. Taiga turned towards him.
 
 "That's where you get the bluntness. Pretending you don't care."
 
-"What happens if you do care, though?"
+"Pretending?"
 
-"Same thing that happens to you, Aaron."
-
-"So, if you're blunt it's because you don't care?"
-
-"That or I'm pretending not to. But if I care and I can't pretend otherwise, then things become extremely difficult. There was once-"
+"Yeah. If I can't pretend, things usually go shit. There was a time-"
 
 He stopped and bit his lip.
 
@@ -1166,7 +1164,7 @@ For a few seconds neither of them spoke. Then Aaron said
 
 "Probably fuck things up."
 
-"Okay, what would you like to do if you were in my place?"
+Aaron chuckled. "Okay, what would you *like* to do?"
 
 Taiga thought for a few seconds.
 
