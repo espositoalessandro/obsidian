@@ -364,7 +364,7 @@ Everything stopped. He stared at it for half a minute. Then he opened it.
 **We are pleased to offer you a developmental roster position with Apollo Men's Soccer for the upcoming semester.**
 
 He read the sentence twice.
-Developmental roster. Full training access, friendly selection, six-week review.`
+Developmental roster. Full training access, friendly selection, six-week review.
 
 "Fuck me."
 

@@ -1053,7 +1053,7 @@ He laughed at himself.
 
 ***
 
-Saturday's match against St. Vincent University was the first time Taiga watched an actual Apollo match with another university.
+Saturday's match against St. Vincent University was the first time Taiga watched an actual Apollo match.
 
 Mercer required developmental players to watch the game from the bleachers.
 
@@ -1267,7 +1267,7 @@ Taiga looked at the list, then nodded at Mercer.
 
 Mercer nodded back.
 
-Taiga left the stadium. He opened his phone and looked again at the review.
+Taiga left the field. He opened his phone and looked again at the review.
 Same eight lines, nothing about them had changed.
 That was fine.
 
