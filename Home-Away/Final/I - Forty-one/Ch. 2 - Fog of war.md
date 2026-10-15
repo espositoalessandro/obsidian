@@ -59,7 +59,7 @@ There was silence. Then Caleb said, completely seriously,
 
 Taiga slowly lowered the blanket. Caleb was already walking toward the bathroom. Taiga stared after him.
 
----
+***
 By Monday, Olympus had stopped pretending to be nice.
 
 During orientation week, the university had been covered in smiling volunteers, directional signs, free drinks and people asking if anyone needed help.
@@ -122,7 +122,7 @@ Then there was Chemistry.
 Professor Hassan started with measurements, significant figures and rules. He liked the logic of it: Do something, measure what happened, work out why.
 By lunchtime, his notebook already looked more organized than the one from Political Institutions.
 
----
+***
 
 Callback began that afternoon. Taiga arrived early enough to watch an assistant set out mannequins and flat markers along the left side of the pitch.
 At 16:00, Mercer called them in. Taiga looked around.
@@ -275,7 +275,7 @@ That was it. Taiga picked up his bag with his stomach tied into a knot.
 He wished Mercer had told them straight away.
 Waiting was far worse.
 
----
+***
 
 Tuesday morning brought Foundations of Computer Science.
 
@@ -529,7 +529,7 @@ Taiga glanced down. His leg had stopped bouncing.
 
 Taiga smiled faintly. The campus still felt too big and too loud, but one other place on the map felt slightly less theoretical.
 
----
+***
 
 The following morning started with Political Institutions again.
 
@@ -716,7 +716,7 @@ He looked at her.
 
 Then she picked up her coffee and left. Taiga watched her disappear into the aisle.
 
----
+***
 
 At lunch, Caleb insisted on walking another four minutes to a smaller cafeteria on the opposite side of campus. Taiga discovered why as soon as they entered: it was quieter.
 The Oyster at noon sounded like somebody had trapped three hundred people inside an aluminum drum. This one held maybe fifty. Caleb visibly relaxed. They collected food and took a table near the window.
@@ -811,7 +811,7 @@ The corner of Taiga's mouth moved before he could stop it. Caleb glanced up once
 
 "Don't document that."
 
----
+***
 
 The equipment room gave him number forty-one. Taiga decided he disliked the number immediately. Developmental roster numbers started at forty. The equipment manager slid the folded training kit across the counter.
 
@@ -1003,7 +1003,7 @@ From two yards away, Enzo Delos Reyes said, "He's fucked, then."
 
 Taiga looked over. Enzo was tying his boot, expression completely serious. Cole laughed. Taiga smiled despite himself.
 
----
+***
 
 After training, the locker room was even louder. Someone had won a bet. Taiga didn't know what the bet was. It apparently justified screaming.
 
@@ -1061,7 +1061,7 @@ Olympus at night was beginning to look less theatrical now that Taiga had seen t
 
 He knew where the shortcut behind the library went. He knew which vending machine accepted his card and which one pretended to. He knew the humanities building's second-floor bathroom was cleaner than the first. He knew the smaller cafeteria was tolerable at noon. He knew the residence hall's elevator made a suspicious sound between floors two and three, even after they had repaired it.
 
----
+***
 
 Caleb was already downstairs at 7:15 exactly. Taiga found him outside The Oyster wearing large black headphones.
 
