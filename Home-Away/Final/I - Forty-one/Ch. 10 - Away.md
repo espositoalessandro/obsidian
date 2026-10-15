@@ -1274,5 +1274,3 @@ Leo's mouth moved.
 
 Taiga shoved him into his elevator.
 
-
-
