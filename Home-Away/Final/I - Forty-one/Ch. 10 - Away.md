@@ -1172,7 +1172,7 @@ Taiga thought for a few seconds.
 
 Aaron crooked his mouth. "That'd be nice."
 
-The conversation ended there. Ten minutes later, the contest was over. Zoe and Nora came back, visibly disappointed by the result.
+Ten minutes later, the contest was over. Zoe and Nora came back, visibly disappointed by the result.
 They complained about the winners for a while. Then, they said goodbye to the others and started walking towards the dorm.
 
 Aaron stared at Sofia walking away for several seconds. Then Taiga saw him take a deep breath and suddenly he ran towards her.
