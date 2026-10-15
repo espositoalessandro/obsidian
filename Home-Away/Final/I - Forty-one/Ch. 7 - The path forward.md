@@ -388,7 +388,7 @@ House Apollo sat apart from the main athletic buildings, a broad stone building 
 Inside, the trophy cases and old team photographs were more ceremonial than the rest of the building. Upstairs, the common lounge was basically four big sofas, two tables and a kitchen.
 
 The film room was down the hall. Mercer arrived and the room settled.
-He had chosen the recording of their last reserve match.
+He had chosen the recording of their last match.
 
 Apparently, even things Taiga barely remembered doing had tactical meaning. Mercer froze a sequence with Taiga holding width on the left while the ball sat on the opposite side.
 

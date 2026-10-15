@@ -364,8 +364,7 @@ Everything stopped. He stared at it for half a minute. Then he opened it.
 **We are pleased to offer you a developmental roster position with Apollo Men's Soccer for the upcoming semester.**
 
 He read the sentence twice.
-Developmental. Not first squad.
-Training access, reserve selection, a six-week review.
+Developmental roster. Full training access, friendly selection, six-week review.`
 
 "Fuck me."
 
@@ -404,7 +403,7 @@ Keitaro laughed.
 
 "You were minimizing. What does developmental mean?"
 
-"I train with them. Reserve matches if selected. Review after six weeks."
+"I train with them. Friendlies if selected. Review after six weeks."
 
 "So you're on the team."
 
@@ -915,7 +914,7 @@ Later on the field, Taiga immediately understood why.
 
 "SHAPE!"
 
-The first team moved almost before Scott's voice finished crossing the field.
+They moved almost before Scott's voice finished crossing the field.
 As soon as he stepped into the goal, the stutter disappeared.
 
 "RECOVER! ENZO, YOU'RE LATE!"

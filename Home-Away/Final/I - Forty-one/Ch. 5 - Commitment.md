@@ -64,9 +64,9 @@ Taiga turned to hide his smile.
 
 He looked up to see Mercer calling him over. He took a deep breath and approached.
 
-"Saturday, reserve match with Northbridge."
+"Saturday, match with Northbridge."
 
-Taiga waited. He'd spent the last two reserve matches on the bench, knowing he wasn't playing either of them.
+Taiga waited. He'd spent the last two friendlies on the bench, knowing he wasn't playing either of them.
 
 "Expect to play this time."
 
@@ -74,7 +74,7 @@ He blinked. What?
 
 "Why?"
 
-"Because the sooner you get out in a real match, the better. I don't want you waiting until you're comfortable in scrimmages before playing another team. Besides, that's what reserve matches are for."
+"Because the sooner you get out in a real match, the better. I don't want you waiting until you're comfortable in scrimmages before playing another team. Besides, that's what these matches are for."
 
 Right. Exposure to hostile environment.
 

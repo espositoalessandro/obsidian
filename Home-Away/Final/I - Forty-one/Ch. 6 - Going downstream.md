@@ -743,7 +743,7 @@ Taiga thought for a moment.
 
 Taiga nodded.
 
-"You'll keep getting reserve minutes. A start's on the table if training stays good."
+"You'll keep getting minutes. A start's on the table if training stays good."
 
 Mercer slid the sheet across the desk.
 

@@ -1053,34 +1053,13 @@ He laughed at himself.
 
 ***
 
-Saturday's match against St. Vincent University was the first time Taiga watched an actual Apollo match.
-The conference season had only recently started and this was the second official match of the season.
+Saturday's match against St. Vincent University was the first time Taiga watched an actual Apollo match with another university.
 
 Mercer required developmental players to watch the game from the bleachers.
 
 "Don't follow the ball. Watch where players go. If a team scores, ask yourself why it worked for one and what went wrong for the other. Don't assume that everything they do is the right choice. Think about what you would have done in their place."
 
 Fine.
-
-"Good morning and welcome to the second Conference Championship matchday."
-
-Taiga was startled. Of course there was a speaker. And he also noticed a small space on the central bleachers where a TV crew had set up giant cameras.
-His stomach clenched slightly.
-This was more official than he thought.
-
-"Give a warm round of applause for our Apollo! Today they will be facing St. Vincent University."
-
-Everyone clapped and cheered. Teams came out and shook hands.
-Meanwhile, the announcer started announcing names.
-
-"Number one, Stirling!"
-
-With each name, the whole home section of the bleachers cheered.
-
-"Number twenty-seven, Delos Reyes! Number eleven, Cole, Number twenty-four, Mendez!"
-
-Taiga noticed that when Leo got called, people cheered louder.
-The announcer ended with Price and proceeded with the away team.
 
 Teams took positions on the pitch. Taiga's eyes found Evan first.
 He played the same position, so that seemed like the obvious place to start.
@@ -1180,7 +1159,7 @@ Taiga saw it this time: space.
 
 Aaron ran into the now-open lane in front of him. He reached the line and crossed. Price met it with a header. Goal.
 
-The stadium erupted. Apollo players ran toward the corner. Price grabbed Bennett around the shoulders. Leo arrived from behind. Evan joined a second later.
+The bleachers erupted. Apollo players ran toward the corner. Price grabbed Bennett around the shoulders. Leo arrived from behind. Evan joined a second later.
 
 Taiga laughed at himself.
 
