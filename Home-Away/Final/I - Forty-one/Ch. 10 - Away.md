@@ -13,7 +13,7 @@ It also made it almost impossible to find Maya and Caleb. He pulled out his phon
 Taiga found them near the statue with the Latin writing. At least, he hoped it was them.
 He recognized Caleb first because he had talked about a scarecrow and he was the only person with straw sticking out of his clothes. He had patched brown trousers, a loose shirt and a green vest. It took Taiga a second to recognize Maya beside him. She was wearing a full black witch dress and a black pointy hat, and even had a broom. Her face and hands were completely covered in green makeup.
 
-She saw him and waved energetically. 
+She saw him and waved energetically.
 
 "Taiga! Over here!"
 
@@ -71,7 +71,7 @@ She closed her eyes and sighed.
 
 "You two are a lost cause. One of these evenings I'm making you watch it. We'll do a movie night."
 
-Caleb just nodded. Taiga raised an eyebrow. 
+Caleb just nodded. Taiga raised an eyebrow.
 
 "Just say yes," Caleb whispered.
 
@@ -113,7 +113,7 @@ He turned the phone back to Taiga.
 
 "Fear of adulthood."
 
-Caleb paused. 
+Caleb paused.
 
 "How?"
 
@@ -159,7 +159,7 @@ It took almost twenty minutes for Enzo and Leo to find him.
 
 He turned and spotted Enzo a few meters away. He had dressed as a pirate, with a plastic sword, fake earrings and even a tricorne. He was holding the stuffed shark under one arm. Of course.
 
-"Holy shit it's really you!" 
+"Holy shit it's really you!"
 Then he turned to his left. "LEO! COME HERE I'VE FOUND HIM."
 
 Leo appeared beside him a moment later.
@@ -243,7 +243,7 @@ Enzo shrugged. "They're somewhere around. I haven't seen them yet."
 Then he pulled out his phone and started messaging frantically.
 Taiga turned back to the group. Leo and Maya were now discussing songs.
 That was fast. Caleb was glancing back and forth between the two, apparently trying to follow the conversation.
-He saw Taiga looking and decided to abandon the effort. 
+He saw Taiga looking and decided to abandon the effort.
 
 "They were discussing a movie a minute ago," Caleb said.
 
@@ -251,7 +251,7 @@ He saw Taiga looking and decided to abandon the effort.
 
 "Yes. I missed the transition."
 
-Enzo appeared beside him. "EMERGENCY!" 
+Enzo appeared beside him. "EMERGENCY!"
 
 "You're shouting in my ear," Taiga said, grimacing.
 
@@ -267,7 +267,7 @@ No one asked him to continue. He did anyway.
 
 Leo frowned. "What do you mean?"
 
-“He’s asking Sofia out tonight!”
+"He's asking Sofia out tonight!"
 
 "Oh!"
 
@@ -307,12 +307,12 @@ While Scott's uneasiness was evident, Aaron was the most nervous by far. He was 
 "So," Evan began. "What's the plan?"
 
 "It's-" Aaron gulped. "Probably fuck everything up."
- 
+
 Enzo applauded. "Great plan! Sounds easy enough."
 
 Taiga crossed his arms. "Can't you just, you know, go to her and ask her?"
 
-Aaron looked at him as if he'd just said something heretical. 
+Aaron looked at him as if he'd just said something heretical.
 
 "Dude! You can't just approach someone and ask them out of the blue like that!"
 
@@ -358,7 +358,7 @@ Taiga looked at Caleb and Maya. They both looked convinced enough.
 
 "Yep, I agree as well," Leo said.
 
-Evan turned to Scott. 
+Evan turned to Scott.
 
 "Scott?"
 
@@ -393,7 +393,7 @@ Aaron had become pale. Which actually fit his costume really well.
 Enzo appeared beside him and put an arm around his shoulder. He looked at the whole group.
 Somehow, they all silently waited for whatever bullshit he was about to say.
 
-Enzo just smiled. 
+Enzo just smiled.
 
 "For Frodo!"
 
@@ -401,7 +401,7 @@ And they went.
 
 ---
 
-Five minutes later, they found the girls. Zoe's makeup and dress made her look something like a black cat. 
+Five minutes later, they found the girls. Zoe's makeup and dress made her look something like a black cat.
 Taiga recognized Sofia's costume, maybe the first pop culture reference he finally caught. Red and blue jacket with her blond hair tied into two pigtails: Harley Quinn.
 
 There was also a third girl he didn't immediately recognize. She was in a black dress with just the collar of a white shirt popping out. Two long black braids fell over her shoulders, with black makeup around her eyes and over her mouth.
@@ -467,7 +467,7 @@ Taiga shrugged. "As good as a party can go."
 
 "Yeah," Leo added. "He took me by surprise as well."
 
-Taiga flipped him off. 
+Taiga flipped him off.
 
 Enzo suddenly appeared beside Leo. "We got intel."
 
@@ -564,7 +564,7 @@ Taiga considered. Unfortunately, that made perfect sense.
 
 Evan smiled. "Leave that part to Leo."
 
-Nora stared at them for a couple of seconds. 
+Nora stared at them for a couple of seconds.
 
 "You guys do realize that this is madness, right? I mean, he just needs to tell Sophie something like 'I need to talk to you'."
 
@@ -650,7 +650,7 @@ Aaron didn't look convinced. "Taiga, these costumes... They are all a bit-"
 
 "-revealing?" Sofia concluded.
 
-Taiga buried his face in his hands. 
+Taiga buried his face in his hands.
 
 "I hate you all. I'm out."
 
@@ -691,7 +691,7 @@ For only a few bucks, it was worth a try. Leo put his hand inside first and imme
 
 "It's- EW, slimy."
 
-He dragged out a small package covered in slime. Taiga put his hand in as well. 
+He dragged out a small package covered in slime. Taiga put his hand in as well.
 It *was* slimy. But it also clearly was something familiar. He looked up at the witch.
 
 "It's pasta."
@@ -711,28 +711,28 @@ Leo had found a black cat pin.
 
 "Exactly. Bleh."
 
-Taiga put the keychain in his pocket. Next, they found a booth where another girl was reading tarot cards. 
+Taiga put the keychain in his pocket. Next, they found a booth where another girl was reading tarot cards.
 
 Somehow, Leo convinced Taiga to give it a go.
 Lloyd would be proud of him right now. That thought made things worse.
 
 The girl behind the table shuffled the deck and looked at Taiga.
 
-“Question?”
+"Question?"
 
 Taiga glanced toward the other side of the park.
 
-“Uh... Is a friend of mine actually gonna ask someone out tonight?”
+"Uh... Is a friend of mine actually gonna ask someone out tonight?"
 
-Leo snorted beside him. “Ominous.”
+Leo snorted beside him. "Ominous."
 
-“Shut up.”
+"Shut up."
 
 The girl drew the first card and turned it over.
 
-“Ah, Knight of Cups. Somebody definitely wants to make an offer.”
+"Ah, Knight of Cups. Somebody definitely wants to make an offer."
 
-“That much we know,” Taiga said.
+"That much we know," Taiga said.
 
 She pulled another.
 
@@ -740,11 +740,11 @@ She pulled another.
 
 She hummed.
 
-“Interesting. This is usually about getting out of your own head. Realizing the thing keeping you stuck was mostly you.”
+"Interesting. This is usually about getting out of your own head. Realizing the thing keeping you stuck was mostly you."
 
-Leo leaned closer to the table. “So that's a yes?”
+Leo leaned closer to the table. "So that's a yes?"
 
-“I'd say he's capable of doing it.”
+"I'd say he's capable of doing it."
 
 She drew the last card.
 
@@ -752,13 +752,13 @@ She drew the last card.
 
 Her eyebrows went up.
 
-“Oh.”
+"Oh."
 
-“What?” Leo asked.
+"What?" Leo asked.
 
 She tapped the card. Five figures were waving staffs at each other in a mess that looked halfway between a fight and a game.
 
-“Conflict. Disagreement. Somehow, whatever happens tonight will bring a fight.”
+"Conflict. Disagreement. Somehow, whatever happens tonight will bring a fight."
 
 Taiga stared at the card.
 
@@ -778,7 +778,7 @@ Then, after walking for a minute, Taiga saw a photo booth. Nothing crazy, just a
 
 "Come on! The costume deserves that."
 
-Fine. They went. Taiga posed, Leo hesitated and tried to stay out of the frame. 
+Fine. They went. Taiga posed, Leo hesitated and tried to stay out of the frame.
 
 Nonsense. Taiga pulled him in.
 
@@ -786,7 +786,7 @@ Nonsense. Taiga pulled him in.
 
 "But- for you?"
 
-“You dragged me here, now we're in this together.”
+"You dragged me here, now we're in this together."
 
 "Alright..."
 
@@ -866,13 +866,13 @@ Taiga shoved him. Then he felt his phone buzzing in his pocket.
 
 **Caleb:** That was a waste of a good plan.
 
-Taiga snorted. 
+Taiga snorted.
 
 The stall was just a few meters from there. Some of them went for a second round. Third for Enzo. Taiga had already had enough.
 
 Aaron was sitting on a hay bale, sadly sipping from his straw and stealing glances at Sofia, who was still talking to her friend.
 
-Taiga was considering whether to talk to him when Camp Buddy's group started a video call. 
+Taiga was considering whether to talk to him when Camp Buddy's group started a video call.
 He walked away a couple of meters and answered.
 
 The second he joined the call, everyone went silent.
@@ -1031,7 +1031,7 @@ Taiga felt his ear getting red.
 ---
 
 Luckily, Evan and Gav called them back a few seconds later.
-Leo and Enzo kept stealing glances at him while giggling in silence. 
+Leo and Enzo kept stealing glances at him while giggling in silence.
 
 Why? Why did the universe hate him so much?
 
@@ -1075,7 +1075,7 @@ The whole group groaned as if Apollo had just lost a game.
 
 The contest started. People in costumes started walking on the runway. Neither Aaron nor Sofia spoke a single word. Taiga looked at Leo, who simply shrugged. Even Enzo couldn't say anything.
 
-Half of the contestants remained. Zoe walked in and Sofia cheered. 
+Half of the contestants remained. Zoe walked in and Sofia cheered.
 Aaron leaned towards Taiga.
 
 "I didn't tell her."
@@ -1110,7 +1110,7 @@ Taiga didn't answer.
 
 "Just tell me."
 
-Taiga looked at Zoe going back with the others. 
+Taiga looked at Zoe going back with the others.
 
 "Sometimes I think people are wrong. Sometimes just stupid. Other times, I don't understand something and I hate that."
 
@@ -1185,18 +1185,18 @@ Aaron looked at all of them.
 
 "Next Saturday."
 
-Enzo made a sound like Olympus had won a final. 
+Enzo made a sound like Olympus had won a final.
 Sofia turned from twenty meters away and laughed, pointing at him.
 
 "By the way, don't ever ask Enzo for this again!"
 
-He shut up, offended, while everyone else laughed. 
+He shut up, offended, while everyone else laughed.
 That lasted maybe five seconds. Then he declared the mission a success and somehow dragged Gav, Evan, Aaron and Scott to the dance floor.
 Aaron went with them after thirty seconds of resistance.
 
 Taiga considered it for maybe half a second, but eventually decided to call it a day. He noticed that Leo wasn't with them, though.
 
-He looked around and found him sitting alone on a stone bench a few meters away. 
+He looked around and found him sitting alone on a stone bench a few meters away.
 Weird.
 
 Taiga approached. "Dead?"
@@ -1257,11 +1257,10 @@ Leo's mouth twitched. "I guess I'll ask him someday."
 
 Taiga exhaled and gave him a look.
 
-He raised his hands. "Okay, okay." 
+He raised his hands. "Okay, okay."
 
 Then:
 
 "Night Dynamite."
 
 Taiga shoved him into his elevator.
-
