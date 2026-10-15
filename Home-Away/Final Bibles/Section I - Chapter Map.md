@@ -12,7 +12,7 @@
 
 The current intended movement is:
 
-**resist → adapt → experience friction → discover the limits of neat summaries → commit → earn a place → participate voluntarily → recognize a direction and belong socially → return to the old home → let old and new coexist → achieve → normalize the achievement → destabilize the new baseline**
+**resist → adapt → experience friction → discover the limits of neat summaries → commit → earn a place → participate voluntarily → recognize a direction and belong socially → return to the old home → let old and new coexist → consolidate ordinary life and reach new thresholds → destabilize one part of that life**
 
 This should remain compatible with the Section I calibration in `Prose & Voice.md`: Taiga begins as a guarded newcomer who is already capable of growth, and ends the section with Olympus no longer feeling provisional. The final disturbance is not whether he belongs there, but what **Leo specifically** may now mean inside that life.
 
@@ -20,14 +20,15 @@ This should remain compatible with the Section I calibration in `Prose & Voice.m
 
 The former Draft Chapter 8 no longer needs to survive as a standalone chapter.
 
-Its useful material about Taiga choosing a major is split across Chapters 7 and 8:
+Its useful material about Taiga choosing a major is split across the later Section I progression:
 
 - Chapter 7 seeds the unresolved major problem without resolving it.
-- Chapter 8 makes Taiga's emerging Computer Science direction increasingly obvious without requiring a formal declaration, while combining that thread with Arcadia and Apollo social belonging.
-- The formal Computer Science declaration is reserved as a possible later-act payoff, after the reality of Taiga repeatedly choosing CS already exists.
+- Chapter 8 makes Taiga's emerging Computer Science direction increasingly obvious without requiring a formal declaration.
+- Chapter 11 now spans roughly two to three weeks after Halloween and is the natural place for the **formal Computer Science declaration**, after Taiga has already spent long enough choosing CS in practice.
 - The former single "Coexistence" chapter has split into **Chapter 9 — Home** and **Chapter 10 — Away**. The split is structural rather than cosmetic: *Home* returns Taiga to the people and world that were already home, while *Away* brings him back to Olympus and lets the old and new worlds coexist inside the same social life.
-- Former Draft Chapter 13 is pulled into Section I as the new **Chapter 13**.
-- Section I therefore now contains **13 chapters**.
+- The former standalone "first reserve start" and "new baseline" chapters are no longer separate dramatic units. Their useful material is folded into a broader **Chapter 11** about November life continuing and Taiga reaching several thresholds without any one of them swallowing the chapter.
+- The former rink / disruption chapter is merged into the new **Chapter 12**. The chapter begins in ordinary late-semester life, carries the cast through finals, then narrows into the one-on-one winter-rink sequence that ends Section I.
+- Section I therefore contains **12 chapters**.
 - Section II can begin directly at Camp Buddy.
 
 ---
@@ -174,7 +175,7 @@ Taiga may briefly acknowledge the obvious conclusion from Chapter 5: Leo is hot,
 
 The point is that Taiga believes the question is settled.
 
-Do not spend the later Chapter 13 turning point here.
+Do not spend the later Chapter 12 turning point here.
 
 ---
 
@@ -267,7 +268,7 @@ The progression should come through small, deniable choices rather than explicit
 
 Taiga does **not** interpret any of this romantically. He still considers Leo an attractive teammate / friend whose company he enjoys. No nervousness, fixation, "why did he say that?" spiral, stomach-drop reaction or special narrative gravity.
 
-The brief shoulder contact at the shooter can register physically because attraction is already established, but another game target immediately breaks the moment. The chapter must not spend Chapter 13's destabilization.
+The brief shoulder contact at the shooter can register physically because attraction is already established, but another game target immediately breaks the moment. The chapter must not spend Chapter 12's destabilization.
 
 
 ---
@@ -379,7 +380,7 @@ Taiga still does **not** interpret them romantically.
 
 He already knows Leo is physically attractive and has consciously fantasized about him. That fact does not make ordinary interactions romantic in Taiga's mind. Do not introduce nervousness, jealousy, fixation, unusual body-awareness caused by Leo's attention, or any sense that Taiga is beginning to consciously suspect romantic interest.
 
-Halloween should strengthen the reader's inference without spending Chapter 13's destabilization.
+Halloween should strengthen the reader's inference without spending Chapter 12's destabilization.
 
 ### Guardrail
 
@@ -389,124 +390,159 @@ The Home / Away split should remain visible in function: Chapter 9 preserves the
 
 ---
 
-## Chapter 11 — First Reserve Start
+## Chapter 11 — Consolidation / New Thresholds
 
 ### Dramatic role
 
-The concrete football payoff of Section I is not first-team selection. It is Taiga earning his **first start at any organized level**.
+Halloween has just been one of the most socially intense chapters in the section. Chapter 11 should lower the temperature without becoming a holding pattern.
 
-He began the semester without organized football experience, entered the developmental roster, earned reserve substitute minutes, survived the review and gradually became useful. Starting a reserve match is the believable culmination of that progression: Mercer now trusts him enough to include him in the initial plan rather than introducing him later once the match has already taken shape.
+The chapter spans roughly **two to three weeks**. Ordinary university life keeps moving: football, classes, Apollo, Caleb, Nora, Camp Buddy messages and the new post-Halloween ease with Leo all continue. Inside that ordinary flow, Taiga reaches several meaningful thresholds.
 
-### Movement
-
-**I'm useful enough to get minutes → I'm trusted enough to start.**
-
-### Current likely anchors
-
-- Mercer tells Taiga he will start for the reserves.
-- The news matters because Taiga has never started an organized match before.
-- The week can retain some anticipation, but it should not repeat the catastrophic review anxiety from Chapter 6.
-- A Northbridge rematch is a strong candidate for the match because it directly contrasts with Taiga's first reserve appearance in Chapter 5.
-- The first Northbridge match overwhelmed him; this time he recognizes the same kinds of spaces and problems earlier.
-- He does not need a goal or heroic performance. A solid 60–70+ minutes, one useful attacking contribution and several correct ordinary decisions are enough.
-- Mercer removes him because the match / his legs require it, not because he has failed.
-
-### Guardrail
-
-Do **not** give Taiga first-team minutes in Section I.
-
-Three months of progress should make him a legitimate developmental / reserve player, not yet a first-team player. The next selection threshold remains available for Section II.
-
-The football payoff should emphasize tactical growth, trust and repeatability rather than spectacle.
-
----
-
-## Chapter 12 — New Baseline
-
-### Dramatic role
-
-The things that once felt new have become ordinary life.
-
-Reserve football, Apollo, Nora, Caleb, Computer Science and Leo are no longer isolated novelties. Taiga no longer needs every training session or squad decision to prove that he belongs. After his first reserve start, he is simply one of the players Mercer can use there.
-
-Olympus has become the baseline from which the next chapter can disturb something more personal.
+No single milestone should become the whole chapter.
 
 ### Movement
 
-**Belonging here was the goal → belonging here is now the baseline.**
+**Olympus keeps moving around me → I'm no longer waiting for one event to prove that this life is real.**
 
-### Current likely anchors
+Football:
 
-- Taiga's first reserve start no longer needs to remain an event for the whole chapter.
-- He may receive further reserve minutes or selection without treating each one as an existential judgment.
-- Training continues with the same Apollo squad structure already established; do not invent separate "senior training sessions."
-- House Apollo functions as somewhere he can simply study and exist around other people.
-- CS, Nora, Caleb, football and Apollo coexist without every scene needing to prove progress.
-- The first-team threshold remains visible only as a future possibility, not as a milestone that must be teased or reached before break.
+**I'm useful enough to get minutes → I can now be trusted with larger roles, including a small first-team opportunity.**
 
-### Romantic guardrail
+Academically:
 
-Do **not** use Leo's "sometimes I forget there was a version of Olympus where you weren't here yet" line here.
-
-Chapter 11 may show that Leo is part of Taiga's ordinary life, but it should not yet break Taiga's compartment. Avoid obvious nervousness, intrusive thoughts or repeated tracking of Leo.
-
-The purpose is to establish a stable baseline immediately before Chapter 13 disrupts it.
-
----
-
-## Chapter 13 — Disruption / Act I Ending
-
-### Dramatic role
-
-Taiga has finally built an ordinary life at Olympus. The final chapter of Section I disturbs exactly one part of that stability: **Leo**.
-
-Finals end. Campus empties. Taiga is leaving for Camp Buddy the next morning. Leo specifically asks him to spend the evening at the Acropolis winter rink.
-
-The outing begins as another voluntary social choice and ends as the first experience Taiga cannot comfortably reduce to "Leo is hot; that explains enough."
-
-### Movement
-
-**Leo is an attractive friend inside my normal life → something about this no longer fits the explanation I was using.**
+**I keep choosing Computer Science → I finally stop pretending the label is the difficult part.**
 
 ### Current likely structure
 
-- Finals finish and campus begins emptying for break.
-- Caleb and the others leave; Taiga is due to travel to Camp Buddy the next morning.
-- Leo privately invites Taiga to the Acropolis rink.
-- The evening is one-on-one and playful rather than explicitly romantic.
-- On the ice, Leo nearly falls; Taiga catches him and they go down together. The physical closeness affects **both** of them.
-- Taiga may initially explain his own reaction through already-established attraction.
-- Hot chocolate afterward shifts the interaction into more personal territory.
-- Taiga hears Leo speaking Spanish with his mother and learns more about his family / home life.
-- Taiga talks more openly about Camp Buddy, why he stayed, why he eventually left, and the difference between belonging somewhere and being trapped there.
-- Only **after the rink and the deeper conversation**, Leo says some version of:
+- Let the chapter cover multiple weeks rather than one match week.
+- Taiga continues receiving reserve minutes. His **first reserve start** should happen here, but it is one development among several rather than the chapter's sole event.
+- A Northbridge rematch remains a strong candidate because it directly contrasts with Chapter 5. The first match overwhelmed him; now he recognizes the same kinds of spaces and problems earlier.
+- The reserve start does not need a goal or heroic performance. A solid hour-plus, a useful attacking action and several correct ordinary decisions are enough.
+- Ordinary life should breathe between football beats: classes, Room 317, Apollo, Nora, Camp Buddy messages and late-semester routines can all appear in compressed but concrete scenes.
+- The **formal Computer Science declaration** belongs naturally here. It should feel like Taiga finally formalizing a direction his behavior has already made obvious, not discovering a new identity in one dramatic conversation.
+- By later in the chapter, Taiga may earn his **first first-team minutes**. Keep the appearance brief and believable: a late cameo or similarly limited role that rewards the semester's progress without suddenly making him a first-team regular.
+- The first-team appearance should not overwrite the importance of the reserve pathway. It is a glimpse of the next level, not proof that Taiga has skipped developmental steps.
+- Do not repeat Chapter 6's catastrophic review anxiety. Taiga can care, anticipate and overthink without believing every selection decision will erase his place at Olympus.
 
-> "Sometimes I forget there was a version of Olympus where you weren't here yet."
+### Leo / romance note
 
-- Leo may become embarrassed or call the line corny, but should not retract it so completely that Taiga can dismiss the sincerity.
-- They separate.
-- Taiga returns to the mostly empty dorm, packs for Camp Buddy, and the sentence returns despite his attempts to file it away.
+Halloween has improved Taiga and Leo's relationship.
 
-### Romantic guardrail
+By this point, Leo may have developed a **proper crush** on Taiga. The reader can be allowed to see that more clearly through a few small choices: unnecessary-but-plausible messages, remembering details, lingering after the practical reason for a conversation is over, choosing Taiga once inside a group, or being visibly pleased by something Taiga does.
 
-This is the **first true destabilization of Taiga's compartment**, not the moment he solves his feelings.
+Do **not** turn that into constant proximity.
 
-Do not have him conclude "I have a crush on Leo." The important result is loss of explanatory certainty.
+Leo should not suddenly orbit Taiga, appear in every ordinary-life scene or become Taiga's default companion. That more regular social gravity belongs to Act II.
 
-The reader has already been allowed to suspect Leo's interest since Arcadia. The rink gives the reader stronger evidence that Leo is affected physically and personally too. Taiga remains behind the reader.
+The progression here is primarily qualitative rather than quantitative: when Leo and Taiga interact, they are warmer and more comfortable after Halloween, but they still have independent routines and social lives.
+
+Taiga remains oblivious to Leo's romantic interest. He can understand that they are better friends now without assigning any romantic meaning to Leo's behavior.
+
+### Guardrail
+
+Chapter 11 should not read as either:
+
+- "the reserve-start chapter," or
+- "the first-team-debut chapter."
+
+Both football milestones matter because they occur inside a life that is already moving, not because the entire novel stops to announce them.
+
+Likewise, do not spend Chapter 12's romantic destabilization here. Taiga's sexual-attraction compartment remains stable. He should not become nervous around Leo, repeatedly track him across rooms, or start asking himself whether Leo likes him.
+
+---
+
+## Chapter 12 — Finals / Rink / Act I Ending
+
+### Dramatic role
+
+Chapter 12 combines the old "new baseline" function with the old rink / disruption function.
+
+The first part of the chapter proves that Olympus has become ordinary life. The second part disturbs exactly one element inside that ordinary life: **Leo**.
+
+The chapter should move naturally through the end of the semester and finals rather than opening already inside a romantic set piece. Football, academics and friendships settle first. Then finals end, people begin leaving, campus empties and the ensemble noise falls away.
+
+Only after that narrowing does Leo ask Taiga to go to the Acropolis winter rink.
+
+### Movement
+
+**Olympus is simply my life now → something about Leo no longer fits the explanation I was using.**
+
+### Current likely structure
+
+- Begin in late-November / early-December normality rather than treating the chapter as an immediate romance chapter.
+- Finals approach. House Apollo, Room 317, Nora, Caleb, classes and football can all appear through selected ordinary scenes.
+- Taiga's major declaration from Chapter 11 is already settled; Computer Science now functions as the direction he chose rather than another unresolved question.
+- Football should be present as part of routine, not introduce another major selection milestone.
+- Leo remains one person inside Taiga's larger Olympus life. Their friendship is warmer after Halloween, but they are **not** yet inseparable or a constant social default.
+- Finals end and the campus begins emptying for break.
+- Taiga is due to leave for Camp Buddy shortly afterward.
+- Leo specifically asks Taiga to spend time with him at the Acropolis winter rink.
+- The outing is playful and fully deniable as two friends hanging out.
+
+### Rink turning point
+
+The romantic turn should be carried by a **physical cue**, not by a meaningful spoken confession.
+
+Use the skating / near-fall setup to create necessary physical closeness. The exact choreography can change during drafting, but the important mechanism is:
+
+1. one of them loses balance;
+2. the other catches / steadies him;
+3. the contact is initially practical;
+4. once they are stable, the contact or eye contact lasts **slightly longer than necessity requires**;
+5. Leo is affected too;
+6. Taiga notices the extra beat before either of them breaks it.
+
+A hand still at Taiga's waist or ribs, Taiga still holding Leo, a moment of quiet eye contact after the laughter dies, or a similar concrete physical detail can carry the scene.
+
+Do **not** replace the old line with a different line that explains the relationship for Taiga.
+
+The point is that Taiga's body reacts before he can classify why.
+
+This moment should feel different from Chapter 5. Taiga already knows Leo is sexually attractive. At the rink, layers of winter clothing and an otherwise ordinary friendly setting make it harder to explain the reaction as simple horniness.
+
+The destabilization is:
+
+> **Why did that feel different?**
+
+not:
+
+> **I have a crush on Leo.**
+
+### After the rink
+
+The evening may continue into hot chocolate and more personal conversation, including family / Spanish / Camp Buddy material, but those scenes should deepen familiarity rather than deliver another explicit romantic bomb.
+
+Leo should not verbally hand Taiga the answer.
+
+The physical moment is enough.
+
+Taiga can later find the exact sensation or half-second of stillness returning to him despite attempts to dismiss it. He still does not conclude that Leo likes him or that he has romantic feelings.
+
+### Romance guardrail
+
+By the end of Chapter 10, or during the weeks covered by Chapter 11, Leo may genuinely have a crush on Taiga.
+
+Taiga must remain behind both Leo and the reader.
+
+Chapter 12 is the **first true destabilization of Taiga's compartment**, not a mutual-confession scene and not a crush diagnosis.
+
+The reader should leave Act I with stronger evidence that Leo is affected by Taiga too, while Taiga leaves with only one new certainty:
+
+> his old explanation no longer explains everything.
 
 ### Section-ending target
 
-By the end of Chapter 13:
+By the end of Chapter 12:
 
 - Olympus is no longer provisional.
-- Taiga's Computer Science direction is established through repeated choices, even though he remains formally undeclared.
+- Taiga has formally chosen Computer Science after spending the semester choosing it in practice.
 - Apollo is a social group, not merely a team.
 - Camp Buddy and Olympus can coexist.
-- Taiga has progressed from developmental newcomer to a legitimate reserve starter without being prematurely pushed into first-team football.
+- Taiga has progressed from developmental newcomer to legitimate reserve player / starter and has received a small, believable first-team opportunity without becoming a first-team regular.
 - Caleb, Nora, Maya and the Apollo cast are part of ordinary life.
-- Leo is the first element of that ordinary life that has become difficult to categorize.
-- Taiga leaves for Camp Buddy with the question unresolved.
+- Leo's feelings may already be a real crush, but he has not become a constant orbit around Taiga.
+- Taiga still interprets Leo as a friend he knows is hot until the rink's physical cue makes that explanation feel incomplete.
+- Taiga does not solve the new feeling before leaving for Camp Buddy.
 
 **Section II should open directly at Camp Buddy.**
 
