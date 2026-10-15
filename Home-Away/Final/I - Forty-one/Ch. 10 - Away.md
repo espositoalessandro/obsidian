@@ -97,7 +97,7 @@ Maya snorted.
 
 "People who claim to understand art are so full of shit."
 
-Taiga smiled. "Yeah."
+"Yeah."
 
 "Can you show me the drawing in question?" asked Caleb.
 
@@ -123,7 +123,7 @@ Maya raised her drink.
 
 "To the arts!"
 
-He smiled and raised his cup.
+He raised his cup.
 A few minutes later, Enzo tagged him in the Apollo group chat.
 
 **Enzo:** **@Taiga** where the heck are you hiding?
@@ -200,8 +200,6 @@ Enzo raised an eyebrow. "You cut up a shirt."
 
 "Apparently it earned a compliment from Taiga. I didn't hear him compliment yours," he said with a smug grin.
 
-Taiga sighed.
-
 "You brought the shark," he said to Enzo.
 
 "Of course. Roberto couldn't miss this. Besides, we're coordinated!"
@@ -277,7 +275,7 @@ Leo frowned. "What do you mean?"
 
 "He asked for our unconditional support. Because apparently he doesn't have the balls to do it on his own."
 
-Leo smiled. "Okay! I like it, sounds fun."
+"Okay! I like it, sounds fun."
 
 Enzo pointed at Maya. "You! Female support is also required. You know the subject tactics and weaknesses."
 
@@ -289,7 +287,7 @@ She turned towards Caleb. "Well, it does sound fun. What do you say?"
 
 "I'm missing the purpose of the mission and our role in it."
 
-Taiga smiled. "Our teammate has a crush on this girl. He wants emotional support."
+"Our teammate has a crush on this girl. He wants emotional support."
 
 "How can I provide emotional support if I don't know him?"
 
@@ -322,7 +320,7 @@ Gav tilted his head. "You've known her for months now."
 
 "It still needs preparation. Planning. Something."
 
-Maya smiled. "To me, it looks more like *you're* the one who needs preparation, not the situation itself."
+"To me, it looks more like *you're* the one who needs preparation, not the situation itself."
 
 "I- Uh... wait, who are you?"
 
@@ -370,7 +368,7 @@ Evan turned to Scott.
 
 "It's just- Zoe k-knows her well, right? M-Maybe she could help."
 
-Evan stared for a second. Then he slapped his shoulder hard enough that Scott had to catch his balance.
+He slapped his shoulder hard enough that Scott had to catch his balance.
 
 "Scott, my man, you are a genius."
 
@@ -384,11 +382,11 @@ Taiga raised an eyebrow. "That's obviously gonna happen."
 
 "Can't wait to see it."
 
-He smiled. "Yeah."
+"Yeah."
 
 "Got her!" said Gav a few minutes later. "She's actually with Zoe and another girl near the food stall."
 
-Evan smiled. "Looks like it's your lucky day after all."
+"Looks like it's your lucky day after all."
 
 Aaron had become pale. Which actually fit his costume really well.
 
@@ -485,8 +483,6 @@ Enzo blinked. "Good. Intel confirmed."
 
 "So," he continued. "We got one hour and thirty seven minutes."
 
-Taiga sighed.
-
 "You're getting obnoxious."
 
 "I'm just efficient. Come!"
@@ -525,7 +521,7 @@ Evan pointed at Aaron behind him with his thumb.
 
 "He's getting ridiculous."
 
-Nora smiled. "My bet is that Sophia has already figured it out."
+"My bet is that Sophia has already figured it out."
 
 Evan made a face. "Yeah. Probably. Which is making things worse. We need to create an occasion."
 
@@ -542,7 +538,7 @@ Yeah. Fair enough.
 
 Taiga nodded. "Then we split the group."
 
-Evan smiled. "Precisely."
+"Precisely."
 
 "How?", Nora asked.
 
@@ -602,7 +598,7 @@ They both sighed.
 
 Evans approached the others. "Guys! They have started beer pong near that avenue!"
 
-Aaron frowned. "I'm not going."
+"I'm not going."
 
 Gav shrugged with a smile. "Suit yourself."
 
@@ -674,7 +670,7 @@ They walked together until they were out of their sight.
 
 Then Leo smiled and said "Nice escape!"
 
-Taiga stared at him. "You did that on purpose."
+"You did that on purpose."
 
 "I wish I could say yes. That would have been pretty smart."
 
@@ -715,7 +711,7 @@ Leo had found a black cat pin.
 
 "Exactly. Bleh."
 
-Taiga smiled and put the keychain in his pocket. Next, they found a boot where another girl was reading tarots. 
+Taiga put the keychain in his pocket. Next, they found a boot where another girl was reading tarots. 
 
 Somehow, Leo convinced Taiga to give it a go.
 LLoyd would be proud of him right now. That thought made things worse.
@@ -825,7 +821,7 @@ Taiga sighed and locked the phone.
 
 "Apparently that was useless."
 
-Leo turned. "He didn't ask?"
+"He didn't ask?"
 
 "Yeah."
 
@@ -1084,7 +1080,7 @@ Aaron leaned towards Taiga.
 
 "I didn't tell her."
 
-Taiga blinked. "Why?"
+"Why?"
 
 "I don't know. My brain turns into soup whenever I'm about to ask."
 
@@ -1183,7 +1179,7 @@ Sofia was smiling. When Aaron finished talking, her smile widened and she shoved
 
 They watched Aaron come back, failing badly at hiding the smile on his face.
 
-Leo grinned. "Well?"
+"Well?"
 
 Aaron looked at all of them.
 
@@ -1213,13 +1209,13 @@ Leo looked up. "Mh? Yeah, temporarily."
 
 "No."
 
-Leo smiled. "I figured. I think I'm hitting the sack too, though."
+"I figured. I think I'm hitting the sack too, though."
 
 He stretched, then stood up.
 
 Taiga raised an eyebrow. "I didn't know you were able to do this."
 
-Leo looked at him in confusion. "What?"
+"What?"
 
 "Be tired."
 
