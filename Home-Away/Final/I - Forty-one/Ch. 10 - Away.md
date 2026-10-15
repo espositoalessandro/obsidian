@@ -277,7 +277,7 @@ Caleb considered for a couple of seconds. "Alright."
 
 Enzo raised both hands. "Good! Avengers have assembled. Let's meet the rest of the squad."
 
----
+***
 
 They met with Aaron and the others right outside the mess hall. He was wearing a full black suit with prominent canines and fake blood dripping from his mouth. Evan had a grim reaper vest, mask and even a plastic scythe.
 Scott was in a black skeleton suit and didn't really look okay with that. Gav, on the other hand, had gone all in with an actual wizard robe, staff and a freaking heavy tome.
@@ -379,7 +379,7 @@ Enzo just smiled.
 
 And they went.
 
----
+***
 
 Five minutes later, they found the girls. Zoe's makeup and dress made her look something like a black cat.
 Taiga recognized Sofia's costume, maybe the first pop culture reference he finally caught. Red and blue jacket with her blond hair tied into two pigtails: Harley Quinn.
@@ -766,7 +766,7 @@ The picture turned out pretty cool after all. They asked for two copies and also
 
 "Yeah."
 
----
+***
 
 **Aaron:** **@all**
 **Aaron:** come back
@@ -998,7 +998,7 @@ Taiga felt his ear getting red.
 
 "I'm about to bury you all."
 
----
+***
 
 Luckily, Evan and Gav called them back a few seconds later.
 Leo and Enzo kept stealing glances at him while giggling in silence.
