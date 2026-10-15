@@ -250,7 +250,7 @@ Taiga laughed despite himself.
 
 "You're welcome."
 
----
+***
 
 At Political Institutions, he saw that Nora had saved him a seat again.
 Professor Hall entered a few minutes later and the lecture began.
@@ -343,7 +343,7 @@ She walked away. Taiga watched her go.
 Annoying.
 He added Friday lunch to his calendar.
 
----
+***
 
 Soccer was supposed to become easier. That's what he'd been told.
 Some things actually did: fitness, technical drills, one-on-ones. Even his finishing, although still inconsistent, was starting to take shape.
@@ -620,7 +620,7 @@ Mercer pointed at the field again.
 
 "Back in."
 
----
+***
 
 The locker room after training smelled like sweat, wet grass and approximately eighteen different deodorants.
 
@@ -716,7 +716,7 @@ A shampoo bottle came flying over the stall and bounced off Evan's shoulder.
 Evan laughed and walked away.
 Taiga shut off the water, got dressed and left before his brain found any other useless information to file.
 
----
+***
 
 Taiga was still reeling from practice when he went back to his room. He dropped his bag near the bed. Caleb was reading something on his laptop at his desk.
 He sat at his own desk and opened his laptop.
@@ -869,7 +869,7 @@ Taiga exhaled.
 
 "I know."
 
----
+***
 
 "You're here."
 
@@ -1051,7 +1051,7 @@ Annoying.
 Apparently he was a magnet for annoying people.
 He laughed at himself.
 
----
+***
 
 Saturday's match against St. Vincent University was the first time Taiga watched an actual Apollo match.
 The conference season had only recently started and this was the second official match of the season.
@@ -1207,7 +1207,7 @@ Final whistle: two-one.
 
 Taiga barely noticed he'd spent most of the second half leaning forward.
 
----
+***
 
 He went on the pitch with the other developmental players to help collect equipment.
 
