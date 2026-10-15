@@ -493,6 +493,8 @@ Small grammar and natural-English fixes may be corrected directly at this stage.
 
 Check final Markdown and eventual publication rendering.
 
+Use `Formatting & Dialogue.md` as the formatting source of truth.
+
 Audit:
 
 - quotation-mark consistency;
