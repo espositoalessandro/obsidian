@@ -6,7 +6,7 @@ The lanterns were gone. The temporary stage had disappeared. Somebody had remove
 
 Halloween survived mostly through photos.
 
-Aaron and Sofia's date became a recurring subject in the Apollo group chat for approximately forty-eight hours, until Aaron threatened to leave it. Enzo responded by changing the group name to **AARON'S SUPPORT NETWORK**, which lasted another six hours before Scott changed it back.
+Aaron and Sofia's upcoming date became a recurring subject in the Apollo group chat for approximately forty-eight hours, until Aaron threatened to leave it. Enzo responded by changing the group name to **AARON'S SUPPORT NETWORK**, which lasted another six hours before Scott changed it back.
 
 Dynamite lasted longer.
 
@@ -46,15 +46,11 @@ Life outside classes and training kept happening too, just less dramatically.
 
 He ate with the team after practice sometimes. Stayed at House Apollo once after film because Gav had ordered too much food. Nora kept stealing the chair beside him in Political Institutions. Camp Buddy remained permanently active on his phone. Caleb and Maya dragged him to the Oyster one Sunday morning and then spent half of breakfast discussing whether a trail near Acropolis would still be usable after the first snow.
 
-Nothing exploded.
-
-Nobody held an exhibition.
-
-Nobody organized a giant night out.
+Nothing exploded. Nobody held an exhibition or organized another giant night out.
 
 For almost three weeks, Olympus simply continued.
 
-Taiga found himself appreciating that more than he wanted to admit.
+Taiga didn't mind that at all.
 
 ***
 
@@ -66,13 +62,13 @@ Luckily, Mercer had apparently declared standing still illegal.
 
 Taiga jogged back toward the touchline.
 
-They were working in a reduced field, eight against eight, with the space compressed enough that every bad touch immediately became somebody else's problem.
+They were working on a reduced-size pitch, eight against eight, with the space compressed enough that every bad touch immediately became somebody else's problem.
 
 Scott rolled the ball to Gav.
 
 Taiga checked over his shoulder.
 
-Number four on his side. Aaron deeper. Leo moving inside.
+Aaron was deeper on his side. Leo was moving inside.
 
 Gav passed forward.
 
@@ -187,8 +183,6 @@ Taiga grabbed the mesh bag.
 Apparently, he was starting Saturday.
 
 Fine.
-
-***
 
 The locker room was louder than usual because Enzo had recovered from death in under four minutes.
 
@@ -329,8 +323,6 @@ Evan shrugged.
 "Of course."
 
 "But you're learning when not to."
-
-Taiga looked ahead.
 
 The statement landed harder than he expected.
 
@@ -474,8 +466,6 @@ He leaned back.
 
 Of course she was.
 
-Taiga looked at the declaration page again.
-
 Computer Science was sitting in the dropdown.
 
 He'd already selected it.
@@ -493,8 +483,6 @@ Nora frowned. "What is?"
 "So choosing it because I like one class is stupid."
 
 "Good thing you're not choosing it because you like one class."
-
-Taiga looked at her.
 
 Nora started counting on her fingers.
 
@@ -560,12 +548,6 @@ A confirmation page loaded.
 
 **Your major declaration has been received.**
 
-That was it.
-
-No dramatic music. No sudden certainty about the next four years.
-
-Just a white page and a green checkmark.
-
 Nora smiled.
 
 "Congratulations."
@@ -586,7 +568,7 @@ Nora smiled.
 
 Nora laughed and went back to her article.
 
-Taiga looked at the confirmation for another second.
+Taiga left the confirmation on screen for another second.
 
 Then he closed the tab and reopened Rao's assignment.
 
@@ -640,7 +622,7 @@ He'd looked at it for maybe five seconds too long.
 
 Now Mercer went through the same instructions he always did.
 
-Keep the first pass simple. Don't force the center. Northbridge pressed hard and recovered quickly. If Olympus let the game become a fight, Northbridge would happily spend ninety minutes fighting.
+Keep the first pass simple. Don't force it through the middle. Northbridge pressed hard and recovered quickly. If Olympus let the game become a fight, Northbridge would happily spend ninety minutes fighting.
 
 Nothing Taiga didn't already know.
 
@@ -690,8 +672,6 @@ No sudden disappearance of the entire field.
 
 The next time the ball came toward him, he already knew where number four was.
 
-That was the difference.
-
 Not that the defender had gotten smaller.
 
 He definitely had not.
@@ -724,7 +704,7 @@ Fair.
 
 At fourteen minutes, number four leaned into him near the line.
 
-Taiga gave up the ball before the contact fully arrived, passed inside and ran behind him.
+Taiga played the ball inside before the contact fully arrived and ran behind him.
 
 The return pass didn't come.
 
@@ -893,13 +873,7 @@ Taiga sat down.
 
 His lungs were working hard. His legs were heavy. Mud had dried along one sock. Number four had managed to hit him in at least four separate places.
 
-He felt good.
-
-Not amazing.
-
-Not transformed.
-
-Good.
+He took a long drink and leaned back against the bench.
 
 Olympus kept the lead.
 
