@@ -369,7 +369,7 @@ Natsumi held out the flowers. "And I brought something a little more traditional
 
 Hunter took a moment to process.
 
-"You didn't have to bring anything! I'm just happy that you are actually here."
+"You didn't have to bring anything!"
 
 Natsumi smiled. "It's nothing."
 
