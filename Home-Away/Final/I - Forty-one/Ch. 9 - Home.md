@@ -18,7 +18,7 @@ Taiga went to the touchline to pick up his bottle. People started going into the
 
 A small group of players stayed outside, chatting on the field. Leo was among them.
 
-Taiga dropped the mesh bag into storage and went back to the field. As he approached the group of players, Leo noticed him. A bright smile appeared on his face, and he ran toward Taiga.
+Taiga dropped the mesh bag into the storage room and went back to the field. As he approached the group of players, Leo noticed him. A bright smile appeared on his face, and he ran toward Taiga.
 
 "Hey! You're staying as well?"
 
@@ -555,8 +555,6 @@ Eduard, from the next wall, called, "Lee, stop academically interrogating the ar
 Hunter laughed.
 
 "He's fine."
-
-Taiga watched Lee nod once and move to the next work. Apparently everybody had brought their own version of support.
 
 The exhibition slowly filled. By five-thirty, Taiga understood why Hunter had sounded nervous. People kept stopping, looking, talking. 
 Sometimes to Hunter. Sometimes about Hunter's work while Hunter stood close enough to hear. 
