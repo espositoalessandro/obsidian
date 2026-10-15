@@ -18,13 +18,13 @@ Taiga went to the touchline to pick up his bottle. People started going into the
 
 A small group of players stayed outside, chatting on the field. Leo was among them.
 
-Taiga dropped the mesh bag into the storage room and went back to the field. As he approached the group of players, Leo noticed him. A bright smile appeared on his face, and he ran toward Taiga.
+Taiga dropped the mesh bag into the storage room and went back to the field. As he approached the group of players, Leo noticed him and ran toward Taiga.
 
 "Hey! You're staying as well?"
 
 Taiga frowned. "I said I'd come."
 
-Leo shrugged, the smile still there. "I know."
+Leo shrugged. "I know."
 
 "Then why do you sound surprised?"
 
@@ -44,7 +44,7 @@ Taiga turned. Little Matt was running straight at him.
 
 Leo tilted his head. "I told you this would happen."
 
-Taiga sighed. "Yeah."
+Taiga closed hie eyes. "Yeah."
 
 The clinic started, and the youth coach divided them into groups. Taiga took one of the dribbling groups while Leo handled another. The hard part wasn't getting them to do the exercise. It was keeping them in line.
 
@@ -54,7 +54,7 @@ Taiga sighed and crouched.
 
 "Okay, you're good now."
 
-He stood and glanced at the other groups. Leo was grinning at him and giving him a thumbs-up.
+He stood and glanced at the other groups. Leo was giggling and giving him a thumbs-up.
 
 Taiga flipped him off in response, then lowered his hand half a second later when he remembered there were children around.
 
@@ -70,7 +70,7 @@ Taiga smiled and waved back.
 
 "You definitely have a certain charm with kids."
 
-He turned. Leo was walking toward him.
+Leo was walking toward him.
 
 "I'm charming, period."
 
@@ -312,7 +312,7 @@ Natsumi gave a sheepish smile. "Well—thanks?"
 
 Then Yoichi held the smaller duffel out to Taiga. It was pretty heavy indeed. 
 
-Taiga frowned and opened the zip. It was full of something wrapped in a plastic bag, but he couldn't tell what it was.
+Taiga opened the zip. It was full of something wrapped in a plastic bag, but he couldn't tell what it was.
 
 "What the heck is this?"
 
@@ -528,7 +528,7 @@ Natsumi put a hand on Hunter's shoulder.
 
 "No way! You guys came all the way here! I can always hang out with them."
 
-Natsumi smiled. "It's good to see you've settled well."
+"It's good to see you've settled well."
 
 "Y-Yeah. They are good people."
 
@@ -580,13 +580,15 @@ Hiro gave him approximately four minutes after they sat down.
 
 Hunter exhaled. "Tired. Also hungry."
 
-Hiro raised an eyebrow. "Emotionally?"
+"Emotionally?"
 
-Keitaro laughed. "You couldn't let him eat first?"
+"You couldn't let him eat first?", Keitaro asked.
 
 "I gave him four minutes."
 
-Hunter smiled. "I guess... relieved?"
+Hunter considered for a second.
+
+"I guess... relieved?"
 
 Eduard put his phone on the table. "If you wanted a dramatic transformation, we could still arrange one. New outfit. Lighting cue. Maybe a fan."
 
@@ -594,11 +596,11 @@ Eduard put his phone on the table. "If you wanted a dramatic transformation, we 
 
 Lee said, "The work was completed before tonight. The exhibition only changed who could see it."
 
-Eduard turned slowly toward him. "That was almost poetic."
+Eduard turned slowly toward him. "That was almost human."
 
 "It was an observation."
 
-Hunter looked between them. "Weirdly, that's helpful."
+"That's actually... helpful," Hunter said.
 
 Then food arrived and silence followed. At least for a couple of seconds.
 Hiro complained about a knife-skills practical turning carrots into geometry homework. Natsumi complained about a coach changing pool times without warning. Eduard called a vending-machine sandwich Lee had eaten *triangular sadness* while Lee continued insisting it contained an adequate amount of protein.
@@ -622,7 +624,7 @@ Then Hunter asked, "What are you doing tomorrow evening?"
 
 "Oh! Me and Keitaro are dressing like the skeleton couple from the movie!"
 
-Keitaro smiled. "Yeah, our college is organizing a party in the ballroom."
+"Yeah, our college is organizing a party in the ballroom," Keitaro added.
 
 Natsumi turned. "Your college has a ballroom?"
 
@@ -673,14 +675,14 @@ He looked up.
 
 "What?"
 
-Hiro looked at him and raised an eyebrow, grinning.
+Hiro raised an eyebrow, grinning.
 
 "Someone we should know about?"
 
 Taiga blinked. "No."
 
 Taiga locked his phone with his message half written.
-Keitaro lightly punched Hiro's shoulder. That didn't erase his grin.
+Keitaro lightly punched Hiro's shoulder. That didn't change his smug face.
 
 "I was saying, are you wearing something tomorrow night?" Hunter asked.
 
@@ -688,7 +690,7 @@ Keitaro lightly punched Hiro's shoulder. That didn't erase his grin.
 
 Yoichi snorted.
 
-Hunter smiled. "Something Halloween coded?"
+"Anything Halloween coded?"
 
 "I don't think so. I haven't made anything and I won't have time tomorrow."
 
@@ -706,7 +708,7 @@ Then Yoichi pointed at him. "What about the weird roommate?"
 
 "Is he dressing up?"
 
-Taiga frowned. He actually didn't ask. He picked up his phone.
+Taiga thought about it. He actually hadn't asked. He picked up his phone.
 
 "I'll ask."
 
@@ -733,7 +735,7 @@ Lee adjusted his glasses. "In slang, it's a picture or a video you take with you
 
 "You'll be disappointed then."
 
-Eduard frowned. "You're heartless. I'll still wait though."
+Eduard put a hand on his heart. "You're heartless. I'll still wait though."
 
 Taiga rolled his eyes.
 
@@ -764,7 +766,7 @@ Keitaro laughed. "Looks like you have your share of annoying people."
 
 They stopped at the hotel entrance.
 
-Hunter smiled. "Thanks again for coming, guys. It really meant so much to me."
+Hunter fidgeted with his hands. "Thanks again for coming, guys. It really meant so much to me."
 
 Yoichi looked away. "Don't make it weird."
 
@@ -784,19 +786,21 @@ Hunter laughed. "Thanks again, everyone. I'll see you soon!"
 
 Keitaro lit up. "Oh, right. You all still coming back to camp this winter, right?"
 
-Natsumi smiled. "Of course!"
+"Of course!", Natsumi said
 
-"Great!" said Hiro.
+Hiro raised both arms.
+
+"YES! Great!"
 
 Taiga shrugged. "I guess."
 
 Yoichi crossed his arms. "You better."
 
-"I don't know yet, guys," said Eduard. "Our families are planning some kind of vacation. We'll let you know!"
+"I don't know yet, guys," Eduard grimaced. "Our families are planning some kind of vacation. We'll let you know!"
 
 "It's alright, don't worry," Hunter continued. "So, see you in a couple of months?"
 
-Keitaro smiled. "Of course!"
+"Of course!", Keitaro said.
 
 ---
 
