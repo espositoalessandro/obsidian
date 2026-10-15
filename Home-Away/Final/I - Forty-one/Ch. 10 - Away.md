@@ -196,7 +196,7 @@ Caleb nodded. "Yes. And you are Leo."
 
 "I'm Maya, nice to meet you!"
 
-"Nice to meet y-"
+"Nice to meet y—"
 
 He stopped when he saw her.
 
@@ -286,7 +286,7 @@ While Scott's uneasiness was evident, Aaron was the most nervous by far. He was 
 
 "So," Evan began. "What's the plan?"
 
-"It's-" Aaron gulped. "Probably fuck everything up."
+"It's—" Aaron gulped. "Probably fuck everything up."
 
 Enzo applauded. "Great plan! Sounds easy enough."
 
@@ -328,7 +328,7 @@ Aaron put his hands in front of him. "N-No, wait. I'd rather be perfectly aware 
 
 "Let's find her and pull her into the group. Be as normal as you reasonably can. We'll create the opening, and when you're ready, you say the words!"
 
-"I don't know-"
+"I don't know—"
 
 Enzo lit up. "Oh I like this plan! Okay, I'm in."
 
@@ -557,9 +557,9 @@ Taiga pointed at him. "Don't make this worse."
 Gav turned to the others and briefly nodded.
 Shortly after, Maya approached them.
 
-"Hey! Uh-" She bit her lip for a second. "Caleb, we need to go to... do that uh- stuff."
+"Hey! Uh—" She bit her lip for a second. "Caleb, we need to go to... do that uh- stuff."
 
-Caleb frowned. "No, we don't-"
+Caleb frowned. "No, we don't—"
 
 Maya gave him *the* look.
 
@@ -578,7 +578,7 @@ Evan approached the others. "Guys! They have started beer pong near that avenue!
 
 Gav shrugged with a smile. "Suit yourself."
 
-Enzo lit up. "OOOOH! I absolutely want to go! Yes! Aaron, stay there and be sad, while we-"
+Enzo lit up. "OOOOH! I absolutely want to go! Yes! Aaron, stay there and be sad, while we—"
 
 "Okay." Evan physically dragged him away. "Ehm! Let's go! Scott!"
 
@@ -614,11 +614,11 @@ Zoe giggled. "Okay, now I can see why it needed some upgrades."
 
 "It was summer."
 
-Aaron didn't look convinced. "Taiga, these costumes... They are all a bit-"
+Aaron didn't look convinced. "Taiga, these costumes... They are all a bit—"
 
 "Don't. Don't say another word."
 
-"-revealing?" Sofia concluded.
+"—revealing?" Sofia concluded.
 
 Taiga buried his face in his hands.
 
@@ -938,7 +938,7 @@ Hiro narrowed his eyes for a second. Then he jumped with excitement.
 
 "You! You're the blond one! That means you two are the ones from Santo Domingo, right?"
 
-"Uh-"
+"Uh—"
 
 Leo looked at Taiga, who was covering his eyes with his hand.
 His worst nightmare had just become reality.
@@ -1021,7 +1021,7 @@ Aaron looked taken aback. His mouth moved, but no sound came out. He simply nodd
 The others exchanged incredulous looks. Nobody spoke for several seconds.
 Then Enzo raised his hands and shouted.
 
-"GO A-"
+"GO A—"
 
 Five pairs of hands immediately pinned him down and shut him up.
 
@@ -1076,7 +1076,7 @@ Taiga didn't answer.
 
 "How do you do it? How do you manage to be so blunt?"
 
-"What the fuck does that even-"
+"What the fuck does that even—"
 
 "Just tell me."
 
@@ -1106,7 +1106,7 @@ Aaron frowned, but remained silent. Taiga turned towards him.
 
 "Pretending?"
 
-"Yeah. If I can't pretend, things usually go shit. There was a time-"
+"Yeah. If I can't pretend, things usually go shit. There was a time—"
 
 He stopped and bit his lip.
 
