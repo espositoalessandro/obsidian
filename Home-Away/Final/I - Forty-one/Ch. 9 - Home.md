@@ -6,7 +6,7 @@ Mercer finally blew his whistle.
 
 People exhaled. Someone dropped to the ground; others just rested their hands on their knees.
 
-"No match this weekend, as you already know," coach continued. "Take it easy and rest. No film on Monday either."
+"No match this weekend, as you already know," Mercer continued. "Take it easy and rest. No film on Monday either."
 
 "Is this Halloween or Christmas?" said Aaron.
 
@@ -44,7 +44,7 @@ Taiga turned. Little Matt was running straight at him.
 
 Leo tilted his head. "I told you this would happen."
 
-Taiga closed hie eyes. "Yeah."
+Taiga closed his eyes. "Yeah."
 
 The clinic started, and the youth coach divided them into groups. Taiga took one of the dribbling groups while Leo handled another. The hard part wasn't getting them to do the exercise. It was keeping them in line.
 
@@ -130,7 +130,7 @@ Leo laughed. "You can literally just cut two holes in a white sheet."
 
 Taiga considered it. Surely that way nobody would bother him.
 
-"I’ll keep it as my escape plan."
+"I'll keep it as my escape plan."
 
 "I'll keep an eye out for ghosts, then."
 
@@ -225,7 +225,7 @@ Then Natsumi, Lee and Eduard arrived.
 Natsumi had gone with a proper suit, even a freaking bow tie. Lee also had a simple shirt, but he went heavy with the gel on his hair.
 
 Then there was Eduard.
-He appeared from the platform dressed like he’d misunderstood _student art exhibition_ as _fashion week_.
+He appeared from the platform dressed like he'd misunderstood *student art exhibition* as *fashion week*.
 
 Rust-colored pinstripes from shoulders to ankles, wide trousers, and a blue denim shirt with an enormous collar spread over the jacket. Amber glasses covered half his face and, on top of that, he carried a cream leather bag with golden hardware.
 
@@ -237,7 +237,7 @@ They went silent for a couple of seconds. Keitaro then said:
 
 "Woah, Eduard! You look amazing."
 
-Eduard giggled and did a small pirouette on one foot. 
+Eduard giggled and did a small pirouette on one foot.
 
 "Aw, thanks darling. By the way, you look fabulous as well!"
 
@@ -259,7 +259,7 @@ Lee adjusted his glasses. "The rust and blue work particularly well together bec
 
 "Good morning to you as well," he said, smiling.
 
-Natsumi approached as well. He was carrying flowers. 
+Natsumi approached as well. He was carrying flowers.
 
 "Damn it, Natsumi! You two are making us look way underdressed now," said Hiro.
 
@@ -310,7 +310,7 @@ Yoichi turned and stared at him.
 
 Natsumi gave a sheepish smile. "Well—thanks?"
 
-Then Yoichi held the smaller duffel out to Taiga. It was pretty heavy indeed. 
+Then Yoichi held the smaller duffel out to Taiga. It was pretty heavy indeed.
 
 Taiga opened the zip. It was full of something wrapped in a plastic bag, but he couldn't tell what it was.
 
@@ -326,7 +326,7 @@ Taiga exhaled and closed the bag.
 
 ---
 
-They reached Hunter's campus by 2:30. Taiga stared at the entrance gate: definitely less pretentious than Olympus'. 
+They reached Hunter's campus by 2:30. Taiga stared at the entrance gate: definitely less pretentious than Olympus'.
 At least this one didn't have statues.
 
 Hunter's school occupied an old industrial block that somebody had converted by removing anything practical and replacing it with exposed brick, concrete and huge windows.
@@ -389,7 +389,7 @@ Yoichi crossed his arms.
 
 Hiro scratched his head. "I totally get him. When my professors taste what I cook, I always expect them to throw up at some point. Like, actually throw up."
 
-"Because you're a fucking drama queen, Torch-Head." 
+"Because you're a fucking drama queen, Torch-Head."
 
 "And you have the sensibility of a cat, with the brain of a dog."
 
@@ -403,13 +403,13 @@ Hunter returned after a few minutes out of breath. "Okay..." He took another bre
 
 Yeah, he was definitely nervous.
 
-Hunter guided them through a small park and into the biggest building, apparently dedicated entirely to exhibitions. 
-His section was on the far wall of the second room. Five pieces were illuminated by a yellow light hanging from the ceiling. 
+Hunter guided them through a small park and into the biggest building, apparently dedicated entirely to exhibitions.
+His section was on the far wall of the second room. Five pieces were illuminated by a yellow light hanging from the ceiling.
 
 The first three sat close together beneath a single block of text. Human figures without faces, drawn in charcoal.
 One showed a person sitting on the edge of a bed, shoulders bent forward. Another focused on hands gripping fabric. The third was a back turned toward a window where the outside had been left almost completely white.
 
-The fourth was watercolor. It pictured an empty shoreline, narrow dock, water so dark that the reflection looked like a second sky.
+The fourth was a watercolor. It pictured an empty shoreline, a narrow dock, and water so dark that the reflection looked like a second sky.
 
 The last one was a graphite drawing of a hallway, with an open door at the far end. Light was coming through it.
 
@@ -429,9 +429,9 @@ Hiro frowned.
 
 Hunter giggled. "It's not supposed to be anything specific."
 
-Yoichi grinned. "Then it could be a guy." 
+Yoichi grinned. "Then it could be a guy."
 
-Taiga was looking at the watercolor canvas. The shoreline made him think of Camp Buddy, although it clearly wasn't. Hunter approached. 
+Taiga was looking at the watercolor canvas. The shoreline made him think of Camp Buddy, although it clearly wasn't. Hunter approached.
 
 "Yeah... I took inspiration from a draft I made on the pier the first year."
 
@@ -449,7 +449,7 @@ He looked back at the painting.
 
 Hunter smiled. "Then mission accomplished."
 
-"It's still two people." 
+"It's still two people."
 
 "I like to think that this kind of view carries memories for everyone."
 
@@ -499,9 +499,9 @@ A woman with a shaved sidecut appeared and wrapped one arm around Hunter's shoul
 
 "Y-Yeah, mostly."
 
-"You finally stopped moving that third piece around?"  
+"You finally stopped moving that third piece around?"
 
-"Yes."  
+"Yes."
 
 "Oh, thank God."
 
@@ -550,18 +550,18 @@ Eduard, from the next wall, called, "Lee, stop academically interrogating the ar
 
 "I asked one question."
 
-"And somehow it had to defend a thesis."
+"And somehow he had to defend a thesis."
 
 Hunter laughed.
 
 "He's fine."
 
-The exhibition slowly filled. By five-thirty, Taiga understood why Hunter had sounded nervous. People kept stopping, looking, talking. 
-Sometimes to Hunter. Sometimes about Hunter's work while Hunter stood close enough to hear. 
+The exhibition slowly filled. By five-thirty, Taiga understood why Hunter had sounded nervous. People kept stopping, looking, talking.
+Sometimes to Hunter. Sometimes about Hunter's work while Hunter stood close enough to hear.
 Horrible.
 Taiga would rather play ninety minutes under Mercer's direct observation than stand beside something he'd made while strangers described what it meant. Hunter did his best. His hands kept finding each other in front of him and he laughed too quickly at compliments.
 
-Once, after an older man spent five minutes explaining the symbolism of the empty corridor, Hunter looked over at Taiga with eyes that said *do not fucking laugh*. 
+Once, after an older man spent five minutes explaining the symbolism of the empty corridor, Hunter looked over at Taiga with eyes that said *do not fucking laugh*.
 Taiga and Hiro had to leave the room. They ended up beside a window in the third gallery, then they burst out laughing.
 
 "Okay, I wasn't going to laugh while Hunter could see us, but 'fear of adulthood' is a lot to put on somebody who drew a hallway because the light looked nice," Hiro said between laughs.
@@ -582,7 +582,7 @@ Hunter exhaled. "Tired. Also hungry."
 
 "Emotionally?"
 
-"You couldn't let him eat first?", Keitaro asked.
+"You couldn't let him eat first?" Keitaro asked.
 
 "I gave him four minutes."
 
@@ -605,7 +605,7 @@ Eduard turned slowly toward him. "That was almost human."
 Then food arrived and silence followed. At least for a couple of seconds.
 Hiro complained about a knife-skills practical turning carrots into geometry homework. Natsumi complained about a coach changing pool times without warning. Eduard called a vending-machine sandwich Lee had eaten *triangular sadness* while Lee continued insisting it contained an adequate amount of protein.
 
-Then Hunter asked to see Keitaro's umbrella-repair lady photographs. Keitaro brightened and passed over his phone.
+Then Hunter asked to see Keitaro's umbrella-repair lady photographs. Keitaro brightened and passed him his phone.
 One showed an older woman's hands stitching dark fabric. Another showed rows of curved handles. Hunter stopped on a photograph of the woman laughing toward someone outside the frame.
 
 "I like this one."
@@ -632,7 +632,7 @@ Natsumi turned. "Your college has a ballroom?"
 
 Eduard perked up. "Wait until you hear about my dress~"
 
-He launched into an articulate description of what he was preparing for Halloween. 
+He launched into an articulate description of what he was preparing for Halloween.
 At some point, Taiga's phone buzzed.
 
 **Leo:** hey ag
@@ -690,7 +690,7 @@ Keitaro lightly punched Hiro's shoulder. That didn't change his smug face.
 
 Yoichi snorted.
 
-"Anything Halloween coded?"
+"Anything Halloween-coded?"
 
 "I don't think so. I haven't made anything and I won't have time tomorrow."
 
@@ -755,7 +755,7 @@ Taiga made them work for every detail.
 
 "I think we'd get along pretty well."
 
-An image of Enzo, Leo and Hiro in the same room flashed in his mind. 
+An image of Enzo, Leo and Hiro in the same room flashed in his mind.
 It gave him the shivers.
 
 "That's exactly what I fear."
@@ -786,7 +786,7 @@ Hunter laughed. "Thanks again, everyone. I'll see you soon!"
 
 Keitaro lit up. "Oh, right. You all still coming back to camp this winter, right?"
 
-"Of course!", Natsumi said
+"Of course!" Natsumi said.
 
 Hiro raised both arms.
 
@@ -796,15 +796,15 @@ Taiga shrugged. "I guess."
 
 Yoichi crossed his arms. "You better."
 
-"I don't know yet, guys," Eduard grimaced. "Our families are planning some kind of vacation. We'll let you know!"
+"I don't know yet, guys." Eduard grimaced. "Our families are planning some kind of vacation. We'll let you know!"
 
 "It's alright, don't worry," Hunter continued. "So, see you in a couple of months?"
 
-"Of course!", Keitaro said.
+"Of course!" Keitaro said.
 
 ---
 
-The next morning, the alarm woke him up at seven without mercy. He got to the station and took his train back to his campus. 
+The next morning, the alarm woke him up at seven without mercy. He got to the station and took his train back to his campus.
 
 The ride seemed shorter than the first one. Maybe because he mostly slept on the train.
 
@@ -812,12 +812,12 @@ A little before noon, the familiar white walls and statues appeared again.
 
 On his way to the dorm, he got a message.
 
-**Caleb:** I'm with Maya in her college. We're preparing for tonight.
+**Caleb:** I'm with Maya at her college. We're preparing for tonight.
 **Caleb:** See you later.
 
 **Taiga:** alright, later
 
-The campus was filled to the brim with eerie decorations, yet there were surprisingly few people around. 
+The campus was filled to the brim with eerie decorations, yet there were surprisingly few people around.
 Apparently, everyone was busy.
 
 He entered his room, dropped both duffels on the floor and lay on the bed.
@@ -826,16 +826,16 @@ Silence. Finally.
 
 Taiga stayed like that for maybe half an hour, then he remembered the suspicious bag Yuri had sent him.
 
-He opened it and took out the plastic bag inside. He still couldn't tell what any of it was from the shapes.
+He opened it and took out the plastic bag inside. He still couldn't tell what any of it was from the shapes alone.
 A small note slipped out with it.
 It was a small pink Post-it with Yuri's handwriting:
 
-*I thought you may need it~*
+*I thought you might need it~*
 *Have a good time!*
 *Yuri <3*
 
 Taiga frowned. Okay, that was beyond suspicious at this point.
-He emptied the plastic bag on the bed without much ceremony. 
+He emptied the plastic bag on the bed without much ceremony.
 
 ...Oh.
 
@@ -849,7 +849,7 @@ Even the mask was intact.
 
 What the heck was he supposed to do with it? There was no way he could wear it on campus. Let alone in October.
 
-Taiga bit his lower lip and looked at the clock. 12:06. 
+Taiga bit his lower lip and looked at the clock. 12:06.
 There was enough time before the party.
 
 He grabbed his keys and left the room.
