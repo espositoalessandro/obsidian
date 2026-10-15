@@ -138,9 +138,73 @@ Taiga's **first reserve start remains a later milestone**.
 - [x] Later Draft dependencies identified
 - [x] Section I Chapter Map updated
 - [ ] Chapter 6 Final rewrite corrected
-- [ ] Chapter 12 Final rewrite corrected
+- [ ] Chapter 11 Final rewrite incorporates the first reserve start under the revised structure
 - [ ] Final manuscript consistency verified
 
 ### Notes
 
 The legacy development bibles do not need to be retroactively rewritten merely to match the Final manuscript. Current Final manuscript and Final Bibles control the rewrite.
+
+
+---
+
+## Section I endgame restructured after Halloween
+
+**First discovered:** Final Chapter 10 / planning for Chapters 11–12  
+**Scope:** Structure / romance / football / academics / timeline  
+**Affected chapters:** Final Chapters 11–12 and any later reference to the end of Section I  
+**Status:** In progress
+
+### Issue
+
+The previous 13-chapter plan spread too little dramatic material across three separate chapters:
+
+- Chapter 11 as a full chapter about Taiga's first reserve start;
+- Chapter 12 as a low-conflict "new baseline" chapter;
+- Chapter 13 as the rink / romantic disruption chapter.
+
+After the intensity of Chapter 10, that architecture created too much deceleration and delayed the romantic turn without adding enough meaningful story.
+
+The old rink plan also depended on Leo saying a line equivalent to:
+
+> "Sometimes I forget there was a version of Olympus where you weren't here yet."
+
+That verbal cue felt too explicit and too mechanically designed to tell Taiga that the relationship mattered.
+
+### Final rule or intended fix
+
+Section I returns to **12 chapters**.
+
+**Chapter 11**
+- spans roughly two to three weeks after Halloween;
+- lets ordinary life continue rather than centering one event;
+- includes Taiga's first reserve start as one football milestone among several;
+- can include the formal Computer Science major declaration;
+- culminates in a small, believable amount of first-team minutes;
+- lets Leo and Taiga's friendship feel warmer after Halloween without making Leo a constant companion;
+- allows Leo to have developed a genuine crush while keeping Taiga oblivious.
+
+**Chapter 12**
+- merges the old "new baseline" and rink / disruption functions;
+- begins with ordinary late-semester life and moves through finals;
+- narrows after campus begins emptying;
+- uses the Acropolis rink as the Act I romantic turning point;
+- replaces the old meaningful Leo line with a **physical cue**;
+- lets necessary skating contact / eye contact linger slightly beyond necessity so both boys register it;
+- destabilizes Taiga's "Leo is hot; that explains enough" compartment without making him conclude that he has a crush.
+
+The stronger default-pair / regular-proximity progression between Taiga and Leo remains reserved for Act II.
+
+### Cross-novel checks
+
+- [x] Section I Chapter Map updated
+- [x] Prose & Voice Bible updated
+- [ ] Chapter 11 Final rewrite completed
+- [ ] Chapter 12 Final rewrite completed
+- [ ] Section II opening checked against new Act I endpoint
+- [ ] Later romance references checked for assumptions tied to the removed spoken line
+- [ ] Final manuscript consistency verified
+
+### Notes
+
+The old 13-chapter structure and the spoken rink line are superseded.
