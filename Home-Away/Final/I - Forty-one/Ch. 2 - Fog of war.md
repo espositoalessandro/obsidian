@@ -502,7 +502,7 @@ After the call ended, Taiga reread the offer.
 
 Two months earlier, when the Olympus scholarship email arrived at Camp Buddy, his first response had been:
 
-They made a mistake.
+*They made a mistake.*
 
 Yoshinori had put one hand on his shoulder and said,
 
