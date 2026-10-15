@@ -85,7 +85,7 @@ Under the grid, a section showed
 Taiga locked the phone and went back to his breakfast.
 He hated life choices.
 
----
+***
 
 "Taiga Akatora?"
 
@@ -271,7 +271,7 @@ He closed his eyes. Caleb had him there.
 
 **Taiga:** fine
 
----
+***
 
 It turned out that Nora's idea for "lunch outside the mess hall" was getting an overpriced coffee from Starbuffs and then worrying about where to get food.
 
@@ -353,7 +353,7 @@ They walked in silence for a minute, then eventually went to get some proper foo
 
 Taiga turned and waved at her. Still annoying as ever.
 
----
+***
 
 By Thursday, Taiga had already discovered the consequences of being in the Apollo team chat.
 
@@ -544,7 +544,7 @@ At some point, Gav stopped moving pieces entirely.
 
 Eventually, Taiga left. When he checked the time on his way out, it was 9:20.
 
----
+***
 
 At exactly 7:03, Caleb's alarm system declared Sunday started.
 They slowly got dressed. Taiga picked his hiking pants and shoes and an old shirt. 
@@ -718,7 +718,7 @@ They sat on the benches and ate their sandwiches, while Caleb complained that th
 
 He did.
 
----
+***
 
 Caleb discovered that the descent wasn't as merciful as he had hoped.
 
