@@ -12,7 +12,7 @@
 
 The current intended movement is:
 
-**resist → adapt → experience friction → discover the limits of neat summaries → commit → earn a place → participate voluntarily → recognize a direction and belong socially → integrate old and new → achieve → normalize the achievement → destabilize the new baseline**
+**resist → adapt → experience friction → discover the limits of neat summaries → commit → earn a place → participate voluntarily → recognize a direction and belong socially → return to the old home → let old and new coexist → achieve → normalize the achievement → destabilize the new baseline**
 
 This should remain compatible with the Section I calibration in `Prose & Voice.md`: Taiga begins as a guarded newcomer who is already capable of growth, and ends the section with Olympus no longer feeling provisional. The final disturbance is not whether he belongs there, but what **Leo specifically** may now mean inside that life.
 
@@ -25,8 +25,9 @@ Its useful material about Taiga choosing a major is split across Chapters 7 and 
 - Chapter 7 seeds the unresolved major problem without resolving it.
 - Chapter 8 makes Taiga's emerging Computer Science direction increasingly obvious without requiring a formal declaration, while combining that thread with Arcadia and Apollo social belonging.
 - The formal Computer Science declaration is reserved as a possible later-act payoff, after the reality of Taiga repeatedly choosing CS already exists.
-- Former Draft Chapter 13 is pulled into Section I as the new Chapter 12.
-- Section I therefore remains **12 chapters**.
+- The former single "Coexistence" chapter has split into **Chapter 9 — Home** and **Chapter 10 — Away**. The split is structural rather than cosmetic: *Home* returns Taiga to the people and world that were already home, while *Away* brings him back to Olympus and lets the old and new worlds coexist inside the same social life.
+- Former Draft Chapter 13 is pulled into Section I as the new **Chapter 13**.
+- Section I therefore now contains **13 chapters**.
 - Section II can begin directly at Camp Buddy.
 
 ---
@@ -173,7 +174,7 @@ Taiga may briefly acknowledge the obvious conclusion from Chapter 5: Leo is hot,
 
 The point is that Taiga believes the question is settled.
 
-Do not spend the later Chapter 12 turning point here.
+Do not spend the later Chapter 13 turning point here.
 
 ---
 
@@ -266,72 +267,129 @@ The progression should come through small, deniable choices rather than explicit
 
 Taiga does **not** interpret any of this romantically. He still considers Leo an attractive teammate / friend whose company he enjoys. No nervousness, fixation, "why did he say that?" spiral, stomach-drop reaction or special narrative gravity.
 
-The brief shoulder contact at the shooter can register physically because attraction is already established, but another game target immediately breaks the moment. The chapter must not spend Chapter 12's destabilization.
+The brief shoulder contact at the shooter can register physically because attraction is already established, but another game target immediately breaks the moment. The chapter must not spend Chapter 13's destabilization.
 
 
 ---
 
-## Chapter 9 — Coexistence
+## Chapter 9 — Home
 
 ### Dramatic role
 
-Taiga's Camp Buddy life and his new Olympus life are placed beside each other without requiring one to replace the other.
+Taiga returns to the people and world that were already home, discovers that they have continued growing without becoming less familiar, and returns to Olympus carrying that world with him rather than leaving it behind.
 
-The youth clinic opens the chapter by letting Taiga bring something learned at Camp Buddy — working naturally with kids — into his Olympus life. Hunter's exhibition the following day then briefly returns him to the people and world he already knows. Halloween closes the sequence by showing how broad Taiga's Olympus social world has become: Nora, Caleb, Maya, Zoe, Apollo and other recurring people can all exist in the same social space without Taiga needing to belong to only one subgroup.
+The youth clinic opens the chapter by letting Taiga use something Camp Buddy taught him inside Olympus. Hunter's exhibition then becomes the emotional center of the chapter: Taiga sees that Hunter has built an independent life at art school, while the Camp Buddy group still fits together naturally when reunited. The old world has moved forward without disappearing.
 
-The three-day progression deliberately bridges old and new rather than making them compete. Taiga uses part of his Camp Buddy self at Olympus, still fits naturally into the old group, then returns to Olympus and simply continues living inside a new social world that has become real too.
+The chapter ends after Taiga returns to Olympus and opens Yuri's bag. The old Camp Buddy Halloween costume becomes the literal object he can carry from one life into the other.
 
 ### Movement
 
-**I still belong there → and I belong here too.**
+**I still belong there → home can keep changing without becoming less mine.**
 
-### Current likely structure
+### Current structure
 
 - **Oct 29 — Olympus youth clinic.**
-  - Pay off the appointment established by Leo's first private message in Chapter 7.
-  - Taiga shows up because he chose to, not because he happens to be nearby after training.
-  - Matt remembers Forty-one and is genuinely happy he came back.
-  - Taiga is naturally competent with the kids because of Camp Buddy and can take responsibility for a small drill or explanation rather than merely assisting Leo.
-  - Leo is openly pleased Taiga followed through, but the interaction remains fully deniable as friendship / teammate familiarity.
-  - Keep the clinic compact. Its main structural job is to bridge Taiga's Camp Buddy skills into his Olympus life before the next day's exhibition.
+  - Pay off Leo's Chapter 7 invitation.
+  - Taiga stays voluntarily and handles the kids naturally because of his Camp Buddy experience.
+  - Matt remembers Forty-one.
+  - Leo is openly pleased that Taiga followed through, but Taiga reads the interaction as ordinary teammate / friend familiarity.
 - **Oct 30 — Hunter's exhibition.**
-  - Hunter's university is holding a student exhibition intentionally themed around **fear, horror, unease and Halloween**.
-  - The theme should make the date feel deliberate rather than incidental and give Hunter's work a stronger identity.
-  - Taiga reunites with the Camp Buddy group and sees Hunter functioning confidently inside his own art-school life.
-  - The old group remains familiar, but their separate schools, routines and relationships are visible.
-  - Taiga recognizes that Camp Buddy did not freeze in place when he left.
-  - The exhibition remains the more emotionally substantial of the chapter's two events.
-- **Oct 31 — Halloween party at Olympus.**
-  - Treat it as a real lived social event rather than a montage.
-  - Coming immediately after the exhibition creates an intentional contrast between fear as something artistic / examined and fear as something playful / performed.
-  - The party should gather several strands of Taiga's Olympus life in one place: Nora, Caleb/Maya, Zoe, Apollo and other recurring students as useful.
-  - Taiga moves naturally between groups and interactions. The point is not that he has suddenly become extroverted; it is that Olympus now contains multiple people he voluntarily knows and enjoys.
-  - Ending on Olympus is important: Camp Buddy remains home, but Taiga returns and simply continues living inside the new life he has built.
-  - This scene can also provide the next small Leo progression beat after Arcadia.
+  - Taiga takes the long train trip and reunites with Keitaro, Hiro, Natsumi, Yoichi, Lee and Eduard.
+  - Yoichi arrives carrying the unexplained bag Yuri sent for Taiga.
+  - Hunter remains recognizably shy and nervous, but the exhibit also proves that he has built a life at school that exists independently of Camp Buddy.
+  - Elena and the other art-school connections matter because they show Hunter has not been waiting in place for the old group to return.
+  - The five-piece exhibit should keep the Camp Buddy shoreline / *Greatest Memories* piece and the hallway that strangers overinterpret as "fear of adulthood."
+  - Dinner lets everyone exchange ordinary updates rather than turning the reunion into nostalgia alone.
+  - Taiga can talk about Olympus, Apollo and Leo without feeling that doing so threatens his place in the old group.
+  - Leo's message about the exhibition keeps Olympus present at the edge of the chapter without taking over it.
+- **Oct 31 — return to Olympus.**
+  - Taiga gets back around noon.
+  - Yuri's bag is finally opened.
+  - It contains the original Camp Buddy Halloween costume.
+  - End with Taiga realizing there is enough time before the party, grabbing his keys and leaving to adapt it.
 
-### Halloween / romance note
+### Romance guardrail
 
-Halloween comes **after Arcadia and after Hunter's exhibition**, so the reader is already allowed to suspect that Leo has started seeing Taiga differently.
+Leo may be present through the clinic and through texting, but Chapter 9 is not a romantic escalation chapter.
 
-The party may make that pattern slightly more legible through Leo's behavior: seeking Taiga out, choosing to remain near him, reacting with disproportionate enthusiasm, complimenting a costume or appearance, continuing a conversation after other people drift away, or otherwise giving Taiga a little more attention than necessary.
+Taiga can enjoy Leo's attention and answer him normally without becoming nervous, fixated or suspicious of romantic interest. The chapter's emotional center belongs to Taiga's relationship with his old home and the realization that distance has not erased it.
 
-This progression belongs primarily to **Leo**, not Taiga.
+### Guardrail
 
-Taiga may freely notice that Leo looks attractive; physical attraction is already established. He should still interpret Leo as an attractive friend / teammate whose company he enjoys. Do not introduce nervousness, jealousy, fixation, unusual body-awareness caused by Leo's attention, or any sense that Taiga is beginning to consciously suspect romantic interest.
+Hunter's exhibition should remain the chapter's emotional center.
 
-Halloween should strengthen the reader's inference without spending Chapter 12's destabilization.
-
-### Guardrails
-
-Hunter's exhibition should remain the more emotionally substantial event even though Halloween closes the chapter.
-
-Do not turn Halloween into a new chapter solely to accommodate the event. Keeping both events inside Chapter 9 preserves the 12-chapter Section I structure and gives the chapter a direct old-life / new-life contrast.
-
-Camp Buddy should not dominate Section I generally. Material involving the old cast should earn its space by advancing Taiga's relationship to his new life, not merely by checking in with familiar characters.
+Do not treat the Camp Buddy reunion as proof that Olympus matters less. The point is not to choose one home over the other. The chapter should establish that the old one remains real even as everyone inside it continues changing.
 
 ---
 
-## Chapter 10 — First Reserve Start
+## Chapter 10 — Away
+
+### Dramatic role
+
+Taiga is physically back at Olympus, but his old and new lives no longer exist in separate compartments. Olympus increasingly functions as another home.
+
+Halloween brings together several parts of his current life at once: Maya and Caleb, Apollo, Nora, Zoe and Sofia. The Camp Buddy video call then places the old group directly inside that Olympus social space. Taiga does not need to stop one life in order to enter the other.
+
+Aaron's attempt to ask Sofia out gives the chapter its immediate plot spine. Around that plot, Taiga moves through Olympus socially by choice, spends time alone with Leo without treating it as remarkable, and eventually gives Aaron advice drawn from his own difficult relationship with bluntness and other people's judgment.
+
+### Movement
+
+**Olympus is where I moved → Olympus is becoming another place I simply live and belong.**
+
+Together, Chapters 9 and 10 form the section's clearest **Home / Away** mirror:
+
+**I can go home without losing Olympus → I can return to Olympus without leaving home behind.**
+
+### Current structure
+
+- **Oct 31 — Olympus Halloween party.**
+  - Open with the completed adaptation of the Camp Buddy costume. Maya and Caleb's reaction reveals to the reader what Taiga did after Chapter 9 cut away.
+  - The Hunter hallway joke may return only as a compressed callback, not a replay of the exhibition scene.
+  - Leo recognizes the costume immediately because he saw the original Camp Buddy photograph in Chapter 8.
+  - Apollo's main comic spine is Aaron finally trying to ask Sofia out before she leaves for the girls' dorm party.
+  - Nora, Zoe and Sofia join the same social space naturally; the chapter should feel like Taiga's Olympus circles overlapping rather than a cast roll call.
+  - The wingman operation deliberately thins the group until Taiga and Leo are left together.
+  - Their mystery-box, tarot and photo-booth sequence can take the shape of an accidental date without Taiga interpreting it romantically.
+  - The tarot question is ostensibly about Aaron and Sofia, while the cards carry delayed resonance for Taiga and Leo: offer, release from self-imposed restriction, then conflict.
+  - The Camp Buddy video call is the first direct crossover between Taiga's old group and the Olympus people currently around him. Enzo and Leo entering the call should make the two worlds collide comically rather than sentimentally.
+  - Yoichi's "Dynamite" nickname becomes new ammunition for Leo and Enzo.
+  - Aaron's repeated failures lead to the quieter Taiga / Aaron conversation. Taiga's advice should remain messy and character-specific rather than turning him into a source of polished wisdom.
+  - Aaron finally runs after Sofia and gets the date: **Next Saturday.**
+  - After the social climax, return to Taiga and Leo. Leo is unusually tired; Taiga notices without interrogating it. End on the "Dynamite" tease and Taiga shoving him into the elevator.
+
+### Costume continuity note
+
+The costume appears several times because each beat has a different job:
+
+- Chapter 9 reveals Yuri returned the original pieces.
+- Maya / Caleb reveal the finished adaptation to the reader.
+- Leo's reaction pays off the Chapter 8 photograph.
+- Zoe's comment triggers the old-photo / revealing-costume joke that gets Taiga out of the group with Leo.
+- Camp Buddy recognizes something that originated in their own shared history.
+
+Do not add further explanations or admiration beats unless they serve a new function.
+
+### Romance guardrail
+
+Halloween comes **after Arcadia and after Hunter's exhibition**, so the reader is already allowed to suspect that Leo has started seeing Taiga differently.
+
+Leo may seek Taiga out, remember details from the Camp Buddy photograph, follow him away from the group, wander booths with him, enter the photo and finish the night walking back beside him. Those choices can accumulate for the reader.
+
+Taiga still does **not** interpret them romantically.
+
+He already knows Leo is physically attractive and has consciously fantasized about him. That fact does not make ordinary interactions romantic in Taiga's mind. Do not introduce nervousness, jealousy, fixation, unusual body-awareness caused by Leo's attention, or any sense that Taiga is beginning to consciously suspect romantic interest.
+
+Halloween should strengthen the reader's inference without spending Chapter 13's destabilization.
+
+### Guardrail
+
+The chapter's immediate story remains Aaron asking Sofia out. Taiga and Leo gain substantial relationship material around that spine, but they should not swallow the ensemble or turn the party into an undeclared romance scene.
+
+The Home / Away split should remain visible in function: Chapter 9 preserves the reality of the old home; Chapter 10 demonstrates that Olympus is becoming home too.
+
+---
+
+## Chapter 11 — First Reserve Start
 
 ### Dramatic role
 
@@ -363,7 +421,7 @@ The football payoff should emphasize tactical growth, trust and repeatability ra
 
 ---
 
-## Chapter 11 — New Baseline
+## Chapter 12 — New Baseline
 
 ### Dramatic role
 
@@ -392,11 +450,11 @@ Do **not** use Leo's "sometimes I forget there was a version of Olympus where yo
 
 Chapter 11 may show that Leo is part of Taiga's ordinary life, but it should not yet break Taiga's compartment. Avoid obvious nervousness, intrusive thoughts or repeated tracking of Leo.
 
-The purpose is to establish a stable baseline immediately before Chapter 12 disrupts it.
+The purpose is to establish a stable baseline immediately before Chapter 13 disrupts it.
 
 ---
 
-## Chapter 12 — Disruption / Act I Ending
+## Chapter 13 — Disruption / Act I Ending
 
 ### Dramatic role
 
@@ -439,7 +497,7 @@ The reader has already been allowed to suspect Leo's interest since Arcadia. The
 
 ### Section-ending target
 
-By the end of Chapter 12:
+By the end of Chapter 13:
 
 - Olympus is no longer provisional.
 - Taiga's Computer Science direction is established through repeated choices, even though he remains formally undeclared.
