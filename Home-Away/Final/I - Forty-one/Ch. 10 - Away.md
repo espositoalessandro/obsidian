@@ -17,7 +17,7 @@ She saw him and waved energetically.
 
 "Taiga! Over here!"
 
-Taiga reached them. Maya put a hand over his mouth in surprise.
+Taiga reached them. Maya put a hand over her mouth in surprise.
 
 "Oh my God!"
 
@@ -701,7 +701,7 @@ For only a few bucks it was worth the try. Leo put his hand inside first and his
 
 "It's- EW, slimy."
 
-He dragged out a small package covered in slime. Taiga put his hands in as well. 
+He dragged out a small package covered in slime. Taiga put his hand in as well. 
 It *was* slimy. But it also clearly was something familiar. He looked up at the witch.
 
 "It's pasta."
@@ -905,7 +905,7 @@ Keitaro laughed. "That's so Yuri."
 
 Yoichi made a face. "Pussy."
 
-They spent a few minutes talking about their own costumes and what their college had organized. Taiga turned the phone and showed him around.
+They spent a few minutes talking about their own costumes and what their college had organized. Taiga turned the phone and showed them around.
 
 Hunter gasped. "Woah! Olympus really went all in."
 
