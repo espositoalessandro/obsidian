@@ -142,7 +142,7 @@ Taiga laughed.
 
 **Enzo:** come ooon i don't have all night
 **Enzo:** one of the ghosts turned out to know leo
-**Enzo:** they've been talking for almost fifteen minutes
+**Enzo:** they've been talking for fifteen minutes
 
 **Taiga:** serves him right
 **Taiga:** i'm on a bale near the drinks stall
@@ -1260,9 +1260,12 @@ Leo's mouth twitched. "I guess I'll ask him someday."
 "Heh. Sure. Goodnight, AG."
 
 Taiga exhaled and gave him a look.
-Leo's mouth moved.
 
-"Okay, night Dynamite."
+He raised his hands. "Okay, okay." 
+
+Then,
+
+"Night Dynamite."
 
 Taiga shoved him into his elevator.
 
