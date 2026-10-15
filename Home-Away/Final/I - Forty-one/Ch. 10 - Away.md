@@ -518,11 +518,11 @@ Taiga nodded. "Then we split the group."
 
 "How?" Nora asked.
 
-"We divide into subgroups," said Gav. "Each of them will leave in sequence. Obviously, Enzo's group leaves first."
+"We divide into subgroups," said Gav. "Each of them will leave in sequence. Enzo's group leaves first, for obvious reasons."
 
 "So we thin down the whole pack," Evan continued. "Until only Aaron, Sofia and a couple of others remain."
 
-Taiga crossed his arms. "Like?"
+Taiga crossed his arms. "Who?"
 
 "Well, me, Gav and Scott will drag Enzo away. Zoe can find an excuse to leave with Nora. Maya and Caleb are self-sufficient."
 
@@ -574,7 +574,7 @@ They both sighed.
 
 Evan approached the others. "Guys! They have started beer pong near that avenue!"
 
-"I'm not going."
+"I'm not going," Aaron said immediately. Too immediately.
 
 Gav shrugged with a smile. "Suit yourself."
 
@@ -606,7 +606,7 @@ Leo mimed zipping his mouth.
 
 "I definitely do. Come on, you already showed him!"
 
-Taiga closed his eyes and exhaled. Then he pulled his phone out and showed them the old photo.
+Taiga closed his eyes and cursed himself. Then he pulled his phone out and showed them the old photo.
 
 Zoe giggled. "Okay, now I can see why it needed some upgrades."
 
@@ -648,7 +648,7 @@ Taiga considered. "Yeah. Too much for you."
 
 "Okay, now."
 
-"How much do we have to wait now?"
+"How much do we have to wait?"
 
 "I guess Aaron will write in the group chat."
 
