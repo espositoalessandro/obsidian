@@ -1,334 +1,74 @@
-<!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-  <meta charset="utf-8" />
-  <meta name="generator" content="pandoc 3.12.1" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
-  <title>Ch. 2 - Fog of war</title>
-  <style>
-
-html {
-color: #1a1a1a;
-color: light-dark(#1a1a1a, #fdfdfd);
-background-color: #fdfdfd;
-background-color: light-dark(#fdfdfd, #1a1a1a);
-color-scheme: light dark;
-}
-body {
-margin: 0 auto;
-max-width: 36em;
-padding-left: 50px;
-padding-right: 50px;
-padding-top: 50px;
-padding-bottom: 50px;
-hyphens: auto;
-overflow-wrap: break-word;
-text-rendering: optimizeLegibility;
-font-kerning: normal;
-}
-@media (max-width: 600px) {
-body {
-font-size: 0.9em;
-padding: 12px;
-}
-h1 {
-font-size: 1.8em;
-}
-}
-@media print {
-html {
-color-scheme: light only;
-}
-html, body, pre, code {
-background-color: transparent;
-}
-body, a, a:visited, blockquote {
-color: black;
-}
-pre, code {
-padding: 0;
-}
-p, h2, h3 {
-orphans: 3;
-widows: 3;
-}
-h2, h3, h4 {
-page-break-after: avoid;
-}
-}
-p {
-margin: 1em 0;
-}
-a, a:visited {
-color: inherit;
-}
-img {
-max-width: 100%;
-}
-svg {
-height: auto;
-max-width: 100%;
-}
-h1, h2, h3, h4, h5, h6 {
-margin-top: 1.4em;
-}
-h5, h6 {
-font-size: 1em;
-font-style: italic;
-}
-h6 {
-font-weight: normal;
-}
-ol, ul {
-padding-left: 1.7em;
-margin-top: 1em;
-}
-li > ol, li > ul {
-margin-top: 0;
-}
-blockquote {
-margin: 1em 0 1em 1.7em;
-padding-left: 1em;
-border-left: 2px solid;
-border-color: #e6e6e6;
-border-color: light-dark(#e6e6e6, #4c4c4c);
-color: #606060;
-color: light-dark(#606060, #b6b6b6);
-}
-code {
-white-space: pre-wrap;
-font-family: Menlo, Monaco, Consolas, 'Lucida Console', monospace;
-font-size: 85%;
-margin: 0;
-hyphens: manual;
-}
-pre {
-margin: 1em 0;
-overflow: auto;
-}
-pre code {
-padding: 0;
-overflow: visible;
-overflow-wrap: normal;
-}
-.sourceCode {
-background-color: transparent;
-overflow: visible;
-}
-hr {
-border: none;
-border-top: 1px solid currentColor;
-height: 1px;
-margin: 1em 0;
-}
-table {
-margin: 1em 0;
-border-collapse: collapse;
-width: 100%;
-overflow-x: auto;
-display: block;
-font-variant-numeric: lining-nums tabular-nums;
-}
-table caption {
-margin-bottom: 0.75em;
-}
-tbody {
-margin-top: 0.5em;
-border-top: 1px solid currentColor;
-border-bottom: 1px solid currentColor;
-}
-th {
-border-top: 1px solid currentColor;
-padding: 0.25em 0.5em 0.25em 0.5em;
-}
-td {
-padding: 0.125em 0.5em 0.25em 0.5em;
-}
-header {
-margin-bottom: 4em;
-text-align: center;
-}
-#TOC li {
-list-style: none;
-}
-#TOC ul {
-padding-left: 1.3em;
-}
-#TOC > ul {
-padding-left: 0;
-}
-#TOC a:not(:hover) {
-text-decoration: none;
-}
-span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: 1.5em;}
-div.column{flex: auto;}
-@media screen {
-div.columns{gap: min(4vw, 1.5em);}
-div.column{overflow-x: auto;}
-}
-div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
-
-ul.task-list[class]{list-style: none;}
-ul.task-list li input[type="checkbox"] {
-font-size: inherit;
-width: 0.8em;
-margin: 0 0.8em 0.2em -1.6em;
-vertical-align: middle;
-}
-</style>
-</head>
-<body>
-<header id="title-block-header">
-<h1 class="title">Ch. 2 - Fog of war</h1>
-</header>
-<h3 id="chapter-2---fog-of-war">Chapter 2 - Fog of war</h3>
-<p>By Monday morning, Taiga had discovered that Caleb Morrison owned six
-alarms. Not six alarms set on one phone. Six separate alarms. One on his
-phone. One on his watch. One on the little digital clock beside his bed.
-One on his laptop. One on some kind of smart speaker and an actual
-physical alarm clock. That was the worst one.</p>
-<p>At 6:30, all of them went off within approximately twelve seconds of
-one another. Taiga sat upright.</p>
+<p>By Monday morning, Taiga had discovered that Caleb Morrison owned six alarms. Not six alarms set on one phone. Six separate alarms. One on his phone. One on his watch. One on the little digital clock beside his bed. One on his laptop. One on some kind of smart speaker and an actual physical alarm clock. That was the worst one.</p>
+<p>At 6:30, all of them went off within approximately twelve seconds of one another. Taiga sat upright.</p>
 <p>“What the fuck?”</p>
-<p>Caleb’s hand emerged from beneath his blanket only after the third
-alarm and slapped vaguely at the nightstand. The physical alarm
-continued shrieking. His phone joined it. Then his watch. Then a
-pleasant female voice announced from the speaker:</p>
+<p>Caleb’s hand emerged from beneath his blanket only after the third alarm and slapped vaguely at the nightstand. The physical alarm continued shrieking. His phone joined it. Then his watch. Then a pleasant female voice announced from the speaker:</p>
 <p>“Good morning, Caleb. It is six-thirty A.M.”</p>
-<p>Taiga grabbed his pillow and threw it across the room. It hit Caleb
-in the head.</p>
+<p>Taiga grabbed his pillow and threw it across the room. It hit Caleb in the head.</p>
 <p>“Ow.”</p>
 <p>“Make it stop.”</p>
 <p>“I am.”</p>
 <p>“You’re not.”</p>
-<p>Caleb sat up, hair pointing in four directions. Taiga stared at
-him.</p>
+<p>Caleb sat up, hair pointing in four directions. Taiga stared at him.</p>
 <p>“This is psychotic.”</p>
 <p>“It works.”</p>
 <p>“It clearly doesn’t.”</p>
 <p>“I’m awake.”</p>
-<p>Caleb shut them down one by one, completely unbothered. He found his
-phone under his pillow and silenced it. The room finally went quiet.
-Taiga lay back down. Closed his eyes. Caleb said,</p>
+<p>Caleb shut them down one by one, completely unbothered. He found his phone under his pillow and silenced it. The room finally went quiet. Taiga lay back down. Closed his eyes. Caleb said,</p>
 <p>“I have an eight o’clock.”</p>
 <p>“I don’t care.”</p>
 <p>“You have an eight-thirty.”</p>
 <p>Taiga opened one eye.</p>
 <p>“How do you know?”</p>
 <p>“Your timetable is on the wall.”</p>
-<p>Taiga looked toward the printed schedule taped above his desk. Caleb
-swung his legs out of bed.</p>
+<p>Taiga looked toward the printed schedule taped above his desk.<br />Caleb swung his legs out of bed.</p>
 <p>“You should get up.”</p>
 <p>Taiga pulled the blanket over his face.</p>
 <p>“Die.”</p>
 <p>There was silence. Then Caleb said, completely seriously,</p>
 <p>“That would probably make you late.”</p>
-<p>Taiga slowly lowered the blanket. Caleb was already walking toward
-the bathroom. Taiga stared after him.</p>
+<p>Taiga slowly lowered the blanket. Caleb was already walking toward the bathroom. Taiga stared after him.</p>
 <hr />
 <p>By Monday, Olympus had stopped pretending to be nice.</p>
-<p>During orientation week, the university had been covered in smiling
-volunteers, directional signs, free drinks and people asking if anyone
-needed help.</p>
-<p>Then things changed. The signs were disappearing. The volunteers had
-gone back to their own classes. Nobody stood outside the humanities
-building handing out bottled water. Taiga approved. At least the place
-was being honest now.</p>
-<p>His first real Political Institutions lecture almost ruined his mood.
-Taiga had chosen the course because he needed a general-education credit
-and its description sounded less terrible than Philosophy of Art. Within
-twelve minutes, he reconsidered every decision that had led him
-there.</p>
-<p>Professor Hall spoke quickly. Not impossibly. Just quickly enough
-that Taiga realized his old habit of listening and trusting himself to
-remember everything was not going to work. He opened his laptop and
-started taking notes. Three slides later he was behind. He typed
-faster.</p>
-<p>A student in the front row raised his hand and asked a question
-involving a political theorist Taiga had never heard of. Hall
-smiled.</p>
+<p>During orientation week, the university had been covered in smiling volunteers, directional signs, free drinks and people asking if anyone needed help.</p>
+<p>Then things changed.<br />The signs were disappearing. The volunteers had gone back to their own classes. Nobody stood outside the humanities building handing out bottled water.<br />Taiga approved. At least the place was being honest now.</p>
+<p>His first real Political Institutions lecture almost ruined his mood. Taiga had chosen the course because he needed a general-education credit and its description sounded less terrible than Philosophy of Art.<br />Within twelve minutes, he reconsidered every decision that had led him there.</p>
+<p>Professor Hall spoke quickly. Not impossibly. Just quickly enough that Taiga realized his old habit of listening and trusting himself to remember everything was not going to work.<br />He opened his laptop and started taking notes.<br />Three slides later he was behind.<br />He typed faster.</p>
+<p>A student in the front row raised his hand and asked a question involving a political theorist Taiga had never heard of. Hall smiled.</p>
 <p>“Excellent connection.”</p>
-<p>Taiga stopped typing. The student elaborated. Several people nodded.
-Taiga stared at the back of his head. Who the fuck was that? Did people
-study before the first proper lecture? Was that a thing? Hall continued.
-Taiga’s fingers returned to the keyboard. His notes suddenly looked
-inadequate. He opened the course portal. There was a reading list, and
-it was long. Very long. His stomach tightened.</p>
+<p>Taiga stopped typing. The student elaborated. Several people nodded. Taiga stared at the back of his head.<br />Who the fuck was that? Did people study before the first proper lecture? Was that a thing?<br />Hall continued. Taiga’s fingers returned to the keyboard. His notes suddenly looked inadequate.<br />He opened the course portal. There was a reading list, and it was long. Very long. His stomach tightened.</p>
 <p>Fine. He’d read tonight.</p>
-<p>Then Hall mentioned their first response paper. Eight hundred
-words.</p>
+<p>Then Hall mentioned their first response paper. Eight hundred words.</p>
 <p>Still fine. Then Hall said:</p>
-<p>“And just to be clear, these are not summaries. If I want to know
-what the author said, I can read the author. I want you to engage with
-the argument. Challenge it, defend it, identify a problem, but show me
-that you understand what you’re responding to.”</p>
-<p>Taiga looked at the assigned reading. Then at Hall. Then back down.
-Challenge what argument? He had not even properly identified it yet. A
-small pulse of irritation climbed his neck. First class and he was
-already behind.</p>
-<p>He forced himself to type again. The cursor blinked on an unfinished
-line while the scholarship letter returned to his mind with unpleasant
-clarity.</p>
-<p><strong>The Olympus Academic Merit and Leadership Award recognizes
-students demonstrating exceptional academic promise, resilience,
-community contribution and leadership potential—</strong></p>
-<p>Academic promise. Right. Sure. He had probably been the diversity
-pick for assholes. Congratulations, we needed one emotionally
-constipated redhead. Taiga almost laughed. The girl beside him glanced
-over. He covered it with a cough.</p>
+<p>“And just to be clear, these are not summaries. If I want to know what the author said, I can read the author. I want you to engage with the argument. Challenge it, defend it, identify a problem, but show me that you understand what you’re responding to.”</p>
+<p>Taiga looked at the assigned reading. Then at Hall. Then back down. Challenge what argument? He had not even properly identified it yet. A small pulse of irritation climbed his neck.<br />First class and he was already behind.</p>
+<p>He forced himself to type again. The cursor blinked on an unfinished line while the scholarship letter returned to his mind with unpleasant clarity.</p>
+<p><strong>The Olympus Academic Merit and Leadership Award recognizes students demonstrating exceptional academic promise, resilience, community contribution and leadership potential—</strong></p>
+<p>Academic promise. Right. Sure. He had probably been the diversity pick for assholes. Congratulations, we needed one emotionally constipated redhead.<br />Taiga almost laughed. The girl beside him glanced over. He covered it with a cough.</p>
 <p>He closed his eyes and took a deep breath.</p>
-<p>Okay. Enough spiraling. Facts: first lecture, one student knew a
-theorist he’d never heard of. That was because he had ignored the
-readings. That was on him and it was fixable.</p>
+<p>Okay.<br />Enough spiraling.<br />Facts: first lecture, one student knew a theorist he’d never heard of. That was because he had ignored the readings. That was on him and it was fixable.</p>
 <p>He opened a fresh line at the top of the document.</p>
 <p><strong>READ THE FUCKING CHAPTERS TONIGHT</strong></p>
-<p>Next, he had Calculus I at ten and General Chemistry before
-lunch.</p>
-<p>Calculus was familiar enough that he could follow without feeling
-like everybody else had received a secret handbook before arriving.
-Professor Chen spent most of the lecture reviewing material Taiga had
-already seen in high school, then moved just far enough past it to make
-him stop pretending he didn’t need to take notes.</p>
+<p>Next, he had Calculus I at ten and General Chemistry before lunch.</p>
+<p>Calculus was familiar enough that he could follow without feeling like everybody else had received a secret handbook before arriving. Professor Chen spent most of the lecture reviewing material Taiga had already seen in high school, then moved just far enough past it to make him stop pretending he didn’t need to take notes.</p>
 <p>Then there was Chemistry.</p>
-<p>Professor Hassan started with measurements, significant figures and
-rules. He liked the logic of it: Do something, measure what happened,
-work out why. By lunchtime, his notebook already looked more organized
-than the one from Political Institutions.</p>
+<p>Professor Hassan started with measurements, significant figures and rules. He liked the logic of it: Do something, measure what happened, work out why.<br />By lunchtime, his notebook already looked more organized than the one from Political Institutions.</p>
 <hr />
-<p>Callback began that afternoon. Taiga arrived early enough to watch an
-assistant set out mannequins and flat markers along the left side of the
-pitch. At 16:00, Mercer called them in. Taiga looked around. In the
-first phase, there had been at least 30-40 people. Now he counted around
-15.</p>
-<p>After his assistants completed the warm-up session with the
-candidates, Mercer approached them. Clipboard in one hand, whistle in
-the other.</p>
-<p>“Some of the guys you saw the other day were better players than some
-of you. I corrected the same mistake twice with them. I corrected yours
-once and watched you spend the rest of the session trying to solve
-it.”</p>
+<p>Callback began that afternoon. Taiga arrived early enough to watch an assistant set out mannequins and flat markers along the left side of the pitch.<br />At 16:00, Mercer called them in. Taiga looked around.<br />In the first phase, there had been at least 30-40 people. Now he counted around 15.</p>
+<p>After his assistants completed the warm-up session with the candidates, Mercer approached them. Clipboard in one hand, whistle in the other.</p>
+<p>“Some of the guys you saw the other day were better players than some of you. I corrected the same mistake twice with them. I corrected yours once and watched you spend the rest of the session trying to solve it.”</p>
 <p>He looked each of them straight in the eye.</p>
-<p>“I don’t need good players. I already have enough. I need people who
-can grow into my team and get better.”</p>
+<p>“I don’t need good players. I already have enough. I need people who can grow into my team and get better.”</p>
 <p>He then looked at his clipboard.</p>
-<p>“Today we’ll see how you actually fare on the field. I don’t care how
-good you are at shooting, dribbling or whatever. I want to see if you
-can read the field and move accordingly.”</p>
-<p>Then he began calling them one by one and assigning them positions.
-Most of them had already played and already had a preferred position.
-Taiga, of course, had no idea.</p>
+<p>“Today we’ll see how you actually fare on the field. I don’t care how good you are at shooting, dribbling or whatever. I want to see if you can read the field and move accordingly.”</p>
+<p>Then he began calling them one by one and assigning them positions. Most of them had already played and already had a preferred position.<br />Taiga, of course, had no idea.</p>
 <p>“Akatora.”</p>
 <p>Taiga stepped forward.</p>
 <p>“I’m assuming you’ve never played organized soccer.”</p>
 <p>Taiga’s stomach clenched. Was it that obvious?</p>
 <p>“No.”</p>
-<p>“You’re fast, and you’re stubborn enough. Do you know what a winger
-is?”</p>
+<p>“You’re fast, and you’re stubborn enough. Do you know what a winger is?”</p>
 <p>“A wide attacker?”</p>
-<p>Mercer pointed at a magnetic board on an easel just outside the
-pitch. The board had a pitch drawn in the background and eleven magnetic
-tags with players’ names.</p>
+<p>Mercer pointed at a magnetic board on an easel just outside the pitch. The board had a pitch drawn in the background and eleven magnetic tags with players’ names.</p>
 <pre><code>                    PRICE J.
 
     COLE E.         MENDEZ J.        REYES E.
@@ -341,115 +81,58 @@ tags with players’ names.</p>
 <p>Mercer pointed at Cole’s tag on the magnetic board.</p>
 <p>“More or less. This is where you’ll play. Left wing.”</p>
 <p>He tapped Bennett’s tag behind it.</p>
-<p>“That’s your fullback. Defender first. When we have the ball, he can
-come forward outside you.”</p>
+<p>“That’s your fullback. Defender first. When we have the ball, he can come forward outside you.”</p>
 <p>Then he turned towards Bennett.</p>
 <p>“Show him.”</p>
-<p>Bennett jogged past the mannequin to demonstrate. As he passed Taiga,
-he said, “Try not to run into me.”</p>
+<p>Bennett jogged past the mannequin to demonstrate. As he passed Taiga, he said, “Try not to run into me.”</p>
 <p>“Then stay out of my way.”</p>
-<p>Bennett raised an eyebrow. Then he snorted and kept moving. Mercer
-moved Taiga two steps inward.</p>
-<p>“If he goes outside, you usually do not occupy the same strip of
-grass. Come inside. Make the defender choose. Follow you and the overlap
-is free. Stay with the overlap and you can receive inside.”</p>
-<p>Taiga looked at the shape. That made sense. Mercer pointed at the gap
-that had opened between two defenders.</p>
-<p>“This is the part that matters. If Bennett makes one defender move,
-somebody has to notice what he left behind.”</p>
+<p>Bennett raised an eyebrow. Then he snorted and kept moving. Mercer moved Taiga two steps inward.</p>
+<p>“If he goes outside, you usually do not occupy the same strip of grass. Come inside. Make the defender choose. Follow you and the overlap is free. Stay with the overlap and you can receive inside.”</p>
+<p>Taiga looked at the shape. That made sense. Mercer pointed at the gap that had opened between two defenders.</p>
+<p>“This is the part that matters. If Bennett makes one defender move, somebody has to notice what he left behind.”</p>
 <p>Taiga nodded.</p>
 <p>“I guess I don’t always have to move inside.”</p>
-<p>“Right. Soccer would be much easier if the same answer always
-worked.” Mercer stepped back. “Read the defender. Read your fullback.
-Read where the ball is. The diagram gives you options, not permission to
-stop thinking.”</p>
-<p>Then he moved on to the others. After assigning each of them a role,
-Mercer and his assistants divided them into four groups, mixing current
-players and candidates.</p>
+<p>“Right. Soccer would be much easier if the same answer always worked.” Mercer stepped back. “Read the defender. Read your fullback. Read where the ball is. The diagram gives you options, not permission to stop thinking.”</p>
+<p>Then he moved on to the others. After assigning each of them a role, Mercer and his assistants divided them into four groups, mixing current players and candidates.</p>
 <p>Bennett was in his group.</p>
-<p>Then an assistant had them line up in formation and move through the
-basics.</p>
-<p>They started. First repetition: Bennett went. Taiga stayed wide.
-Whistle.</p>
+<p>Then an assistant had them line up in formation and move through the basics.</p>
+<p>They started. First repetition: Bennett went. Taiga stayed wide. Whistle.</p>
 <p>“Akatora.”</p>
 <p>“Yeah. Inside.”</p>
 <p>“Then go there before I have to tell you.”</p>
-<p>Reset. On the second repetition, Taiga moved too early and dragged
-himself into the central midfielder’s lane. The assistants stopped them
-again.</p>
+<p>Reset. On the second repetition, Taiga moved too early and dragged himself into the central midfielder’s lane. The assistants stopped them again.</p>
 <p>“Different problem. Same cause.”</p>
 <p>Taiga frowned.</p>
 <p>“I moved.”</p>
-<p>“You moved because you remembered a rule. You need to move because
-you saw something.”</p>
-<p>Heat climbed his neck. Third repetition. He checked over his shoulder
-first: Bennett starting high. Defender watching him. Central midfielder
-already occupying the inside lane. Taiga held width for another second.
-Then the midfielder dropped, the lane opened, and Taiga stepped into it.
-Pass inside. One touch. Bennett around him. Return ball outside. Mercer
-appeared at his side, said, “Better,” and moved on. They ran it from the
-other side and everything became backwards.</p>
+<p>“You moved because you remembered a rule. You need to move because you saw something.”</p>
+<p>Heat climbed his neck. Third repetition.<br />He checked over his shoulder first: Bennett starting high. Defender watching him. Central midfielder already occupying the inside lane.<br />Taiga held width for another second. Then the midfielder dropped, the lane opened, and Taiga stepped into it.<br />Pass inside. One touch. Bennett around him. Return ball outside.<br />Mercer appeared at his side, said, “Better,” and moved on.<br />They ran it from the other side and everything became backwards.</p>
 <p>Taiga wanted to murder geometry.</p>
-<p>Later came pressing. He knew the word, but here he learned to hate
-it.</p>
+<p>Later came pressing. He knew the word, but here he learned to hate it.</p>
 <p>Mercer combined all the groups into two teams on the whole pitch.</p>
-<p>“You do not sprint at every person who receives it. Pressing is
-coordinated pressure. If Akatora goes and the rest of you stay home,
-that’s not our press. Akatora is jogging angrily by himself.”</p>
-<p>Someone behind Taiga snorted. He turned: Mendez was grinning openly.
-Taiga glared at him. He pressed his lips together with exaggerated
-effort.</p>
-<p>“Sorry. Mercer just described your entire personality as a tactical
-error.”</p>
+<p>“You do not sprint at every person who receives it. Pressing is coordinated pressure. If Akatora goes and the rest of you stay home, that’s not our press. Akatora is jogging angrily by himself.”</p>
+<p>Someone behind Taiga snorted. He turned: Mendez was grinning openly.<br />Taiga glared at him.<br />He pressed his lips together with exaggerated effort.</p>
+<p>“Sorry. Mercer just described your entire personality as a tactical error.”</p>
 <p>“Keep smiling and I’ll show you something you missed.”</p>
 <p>“That sounded affectionate.”</p>
 <p>Mercer blew the whistle before Taiga could answer.</p>
-<p>Knowing when to move and when not to was way harder than Taiga had
-anticipated. By the sixth repetition, Taiga could feel the structure
-rather than recite it. Then the scrimmage began and the structure
-immediately became less polite. Players moved before he expected them
-to. Passing lanes existed for half a second. A correct position became
-wrong when somebody else made a different decision. He lost the ball six
-times. Won it five. Set up one goal after beating the right-back and
-cutting the ball toward Price, the striker, who scored with one touch.
-Price pointed at Taiga while jogging back.</p>
+<p>Knowing when to move and when not to was way harder than Taiga had anticipated.<br />By the sixth repetition, Taiga could feel the structure rather than recite it.<br />Then the scrimmage began and the structure immediately became less polite. Players moved before he expected them to. Passing lanes existed for half a second. A correct position became wrong when somebody else made a different decision.<br />He lost the ball six times. Won it five. Set up one goal after beating the right-back and cutting the ball toward Price, the striker, who scored with one touch.<br />Price pointed at Taiga while jogging back.</p>
 <p>“Do that again.”</p>
-<p>Taiga almost told him to fuck off. Then realized it was probably
-praise. He missed an easy shot ten minutes later, sending it straight at
-the goalkeeper Mercer had called Stirling. Stirling caught it without
-moving, then shouted:</p>
+<p>Taiga almost told him to fuck off. Then realized it was probably praise.<br />He missed an easy shot ten minutes later, sending it straight at the goalkeeper Mercer had called Stirling. Stirling caught it without moving, then shouted:</p>
 <p>“WALSH, STEP! BENNETT, TUCK IN!”</p>
 <p>Then, quieter as Taiga ran past, “Far corner was open.”</p>
-<p>Taiga intended to remember both the miss and the comment at three in
-the morning for the next decade.</p>
-<p>The tryout lasted almost two hours. Eventually, Mercer gathered
-everybody at midfield.</p>
-<p>“That’s all. Final selections will be emailed tomorrow
-afternoon.”</p>
-<p>That was it. Taiga picked up his bag with his stomach tied into a
-knot. He wished Mercer had told them straight away. Waiting was far
-worse.</p>
+<p>Taiga intended to remember both the miss and the comment at three in the morning for the next decade.</p>
+<p>The tryout lasted almost two hours. Eventually, Mercer gathered everybody at midfield.</p>
+<p>“That’s all. Final selections will be emailed tomorrow afternoon.”</p>
+<p>That was it. Taiga picked up his bag with his stomach tied into a knot.<br />He wished Mercer had told them straight away.<br />Waiting was far worse.</p>
 <hr />
 <p>Tuesday morning brought Foundations of Computer Science.</p>
 <p>That was the class Taiga had been looking forward to most.</p>
-<p>He had never considered himself a computer nerd, but during the
-summer Hyunjin had shown him enough coding to get him interested. Since
-then, Taiga had messed around with some Git, JavaScript and even a
-little Java.</p>
-<p>Professor Rao took less than half an hour to destroy his
-confidence.</p>
-<p>She started talking about algorithms, efficiency and why two programs
-that produced the same answer could still be very different
-solutions.</p>
-<p>Then Rao moved into variables and loops. That at least was something
-he recognized. She put a short example on the screen and asked what
-would happen after each iteration. Taiga knew the answer before she
-finished asking. He considered raising his hand before someone else
-answered.</p>
+<p>He had never considered himself a computer nerd, but during the summer Hyunjin had shown him enough coding to get him interested. Since then, Taiga had messed around with some Git, JavaScript and even a little Java.</p>
+<p>Professor Rao took less than half an hour to destroy his confidence.</p>
+<p>She started talking about algorithms, efficiency and why two programs that produced the same answer could still be very different solutions.</p>
+<p>Then Rao moved into variables and loops. That at least was something he recognized.<br />She put a short example on the screen and asked what would happen after each iteration.<br />Taiga knew the answer before she finished asking. He considered raising his hand before someone else answered.</p>
 <p>At least this class looked promising.</p>
-<p>That afternoon, Taiga was trying hard to focus on the readings for
-Political Institutions. Every time his phone buzzed, he jumped at it,
-only to be disappointed with a useless notification.</p>
+<p>That afternoon, Taiga was trying hard to focus on the readings for Political Institutions.<br />Every time his phone buzzed, he jumped at it, only to be disappointed with a useless notification.</p>
 <p>By 4:15, he hadn’t made it through half of the first reading.</p>
 <p>Caleb looked across the room. “Are you waiting for something?”</p>
 <p>“No.”</p>
@@ -457,96 +140,64 @@ only to be disappointed with a useless notification.</p>
 <p>Taiga turned. “You were counting?”</p>
 <p>“The page flashes white every time.”</p>
 <p>“That is somehow worse.”</p>
-<p>The Camp Buddy chat was already flooded with them asking for
-news.</p>
+<p>The Camp Buddy chat was already flooded with them asking for news.</p>
 <p>2.43 <strong>Keitaro:</strong> Any news Taiga?</p>
 <p>3.01 <strong>Hiro:</strong> IT IS AFTER THREE GIVE US NEWS</p>
 <p>3.32 <strong>Natsumi:</strong> Any word yet?</p>
-<p>3.47 <strong>Hunter:</strong> No pressure. But also yes, some
-pressure.</p>
+<p>3.47 <strong>Hunter:</strong> No pressure. But also yes, some pressure.</p>
 <p>4.05 <strong>Yoichi:</strong> dynamite answer ur fucking phone</p>
-<p>At some point, he had silenced them and put the phone face down on
-the desk.</p>
+<p>At some point, he had silenced them and put the phone face down on the desk.</p>
 <p>“I’m waiting for soccer results.”</p>
 <p>“For the tryouts?”</p>
 <p>“Yeah.”</p>
 <p>Caleb paused for a second.</p>
 <p>“If they don’t take you, will they still notify you?”</p>
-<p>Taiga froze. He hadn’t thought about that. He looked at the time:
-4:35. He felt suddenly sick.</p>
-<p>An argument started immediately in his brain. 4:35 was still early
-enough not to jump to conclusions. But it was also late enough to
-justify worrying.</p>
+<p>Taiga froze. He hadn’t thought about that.<br />He looked at the time: 4:35.<br />He felt suddenly sick.</p>
+<p>An argument started immediately in his brain. 4:35 was still early enough not to jump to conclusions. But it was also late enough to justify worrying.</p>
 <p>“I don’t know.”</p>
 <p>“I think they probably will.”</p>
 <p>“Why?”</p>
-<p>“Because it would be unnecessarily cruel not to. Otherwise, you
-wouldn’t know whether you’d been rejected or the system had failed.”</p>
-<p>Taiga considered. It made enough sense for the knot inside him to
-loosen slightly.</p>
-<p>He looked at the reading open on his laptop. He rubbed his face with
-his hands. That was stupid. There was no point in stopping functioning
-until a fucking email arrived.</p>
-<p>He had managed to get almost to the end of the reading when a small
-notification appeared at the top right of his screen. A new email.</p>
-<p><strong>Olympus University Athletics</strong> <strong>Apollo Men’s
-Soccer — Freshman Selection</strong></p>
-<p>Everything stopped. He stared at it for half a minute. Then he opened
-it.</p>
-<p><strong>We are pleased to offer you a developmental roster position
-with Apollo Men’s Soccer for the upcoming semester.</strong></p>
-<p>He read the sentence twice. Developmental roster. Full training
-access, friendly selection, six-week review.</p>
+<p>“Because it would be unnecessarily cruel not to. Otherwise, you wouldn’t know whether you’d been rejected or the system had failed.”</p>
+<p>Taiga considered. It made enough sense for the knot inside him to loosen slightly.</p>
+<p>He looked at the reading open on his laptop. He rubbed his face with his hands.<br />That was stupid.<br />There was no point in stopping functioning until a fucking email arrived.</p>
+<p>He had managed to get almost to the end of the reading when a small notification appeared at the top right of his screen. A new email.</p>
+<p><strong>Olympus University Athletics</strong><br /><strong>Apollo Men’s Soccer — Freshman Selection</strong></p>
+<p>Everything stopped. He stared at it for half a minute. Then he opened it.</p>
+<p><strong>We are pleased to offer you a developmental roster position with Apollo Men’s Soccer for the upcoming semester.</strong></p>
+<p>He read the sentence twice.<br />Developmental roster. Full training access, friendly selection, six-week review.</p>
 <p>“Fuck me.”</p>
 <p>Caleb glanced over.</p>
 <p>“Oh. That looks like good news.”</p>
-<p>Taiga didn’t answer immediately. His phone buzzed again. A private
-message from Keitaro.</p>
+<p>Taiga didn’t answer immediately.<br />His phone buzzed again. A private message from Keitaro.</p>
 <p><strong>Keitaro:</strong> Taiga? Are you alright?</p>
-<p>Taiga stared at it. Then he opened the Camp Buddy group chat and sent
-a screenshot of the email there.</p>
+<p>Taiga stared at it. Then he opened the Camp Buddy group chat and sent a screenshot of the email there.</p>
 <p>The phone exploded.</p>
-<p><strong>Hiro:</strong> HOLY SHIT <strong>Keitaro:</strong> TAIGA!!!!
-❤️ <strong>Natsumi:</strong> CONGRATULATIONS!!! <strong>Hunter:</strong>
-That’s amazing. Seriously. <strong>Eduard:</strong> I KNEW IIIIIIT
-❤️❤️❤️❤️❤️❤️. <strong>Lee:</strong> That was an obvious outcome. Your
-physical prowess and strategic mind have been recognized.
-<strong>Yoichi:</strong> knew it</p>
-<p>Keitaro started a video call. Taiga answered before it could ring
-twice.</p>
+<p><strong>Hiro:</strong> HOLY SHIT<br /><strong>Keitaro:</strong> TAIGA!!!! ❤️<br /><strong>Natsumi:</strong> CONGRATULATIONS!!!<br /><strong>Hunter:</strong> That’s amazing. Seriously.<br /><strong>Eduard:</strong> I KNEW IIIIIIT ❤️❤️❤️❤️❤️❤️.<br /><strong>Lee:</strong> That was an obvious outcome. Your physical prowess and strategic mind have been recognized.<br /><strong>Yoichi:</strong> knew it</p>
+<p>Keitaro started a video call. Taiga answered before it could ring twice.</p>
 <p>“You got in!”</p>
 <p>“Just the developmental roster.”</p>
 <p>Keitaro laughed.</p>
 <p>“There it is.”</p>
 <p>“I was explaining.”</p>
 <p>“You were minimizing. What does developmental mean?”</p>
-<p>“I train with them. Friendlies if selected. Review after six
-weeks.”</p>
+<p>“I train with them. Friendlies if selected. Review after six weeks.”</p>
 <p>“So you’re on the team.”</p>
 <p>“Sort of.”</p>
 <p>“Taiga.”</p>
 <p>Hiro shoved into frame. “He is literally on the roster.”</p>
-<p>More squares joined while they argued: Hunter from an art studio,
-Natsumi outside a library, Yoichi from somewhere with a ceiling and no
-useful camera angle, Eduard with one eye finished in eyeliner, Lee
-beside him with a textbook open.</p>
-<p>“Before anyone comments,” Eduard said, “yes, I interrupted my face
-for this.”</p>
+<p>More squares joined while they argued: Hunter from an art studio, Natsumi outside a library, Yoichi from somewhere with a ceiling and no useful camera angle, Eduard with one eye finished in eyeliner, Lee beside him with a textbook open.</p>
+<p>“Before anyone comments,” Eduard said, “yes, I interrupted my face for this.”</p>
 <p>Lee adjusted his glasses.</p>
-<p>“You had already interrupted it because you could not choose between
-two products.”</p>
+<p>“You had already interrupted it because you could not choose between two products.”</p>
 <p>“Fine, Lee. I interrupted deciding which one to use.”</p>
 <p>Taiga smiled.</p>
-<p>Hunter said, “Even if it’s developmental, you’ve basically never
-played serious soccer. That’s impressive.”</p>
+<p>Hunter said, “Even if it’s developmental, you’ve basically never played serious soccer. That’s impressive.”</p>
 <p>“Maybe they needed people.”</p>
 <p>Natsumi laughed.</p>
 <p>“Teams are allowed to reject people they don’t want.”</p>
 <p>“Groundbreaking.”</p>
 <p>Keitaro watched him with the expression Taiga knew too well.</p>
-<p>“You tried something you were convinced you had no business doing,
-and they asked you to stay. You can let that be good news for one
-night.”</p>
+<p>“You tried something you were convinced you had no business doing, and they asked you to stay. You can let that be good news for one night.”</p>
 <p>Across the room, Caleb said, “I told him that.”</p>
 <p>Everyone went quiet.</p>
 <p>Taiga turned. “You weren’t invited.”</p>
@@ -560,18 +211,12 @@ night.”</p>
 <p>“Unfortunately.”</p>
 <p>Hiro shouted again.</p>
 <p>“CALEB COME IN WE WANT TO SEE YOU.”</p>
-<p>Caleb looked at Taiga. Taiga sighed again and turned the phone to
-include him.</p>
+<p>Caleb looked at Taiga. Taiga sighed again and turned the phone to include him.</p>
 <p>He waved awkwardly.</p>
 <p>“Hello.”</p>
 <p>They spent the next five minutes introducing everyone to him.</p>
-<p>Eventually the conversation drifted away. Hunter had studio work.
-Natsumi had a group assignment. Hiro had a lecturer at war with readable
-slides. Yoichi was calling from Camp Buddy after spending most of the
-afternoon somewhere in the woods with Yuki. Eduard and Lee argued about
-something cosmetic that became, somehow, an argument about evidence.</p>
-<p>People left one at a time. Keitaro stayed last. Obviously. Taiga
-looked at him.</p>
+<p>Eventually the conversation drifted away. Hunter had studio work. Natsumi had a group assignment. Hiro had a lecturer at war with readable slides. Yoichi was calling from Camp Buddy after spending most of the afternoon somewhere in the woods with Yuki. Eduard and Lee argued about something cosmetic that became, somehow, an argument about evidence.</p>
+<p>People left one at a time. Keitaro stayed last. Obviously.<br />Taiga looked at him.</p>
 <p>“What.”</p>
 <p>Keitaro just looked at him, smiling.</p>
 <p>“I’ll never say it, you know.”</p>
@@ -583,14 +228,11 @@ looked at him.</p>
 <p>“…Thanks.”</p>
 <p>Keitaro did not make him repeat it. “Anytime.”</p>
 <p>After the call ended, Taiga reread the offer.</p>
-<p>Two months earlier, when the Olympus scholarship email arrived at
-Camp Buddy, his first response had been:</p>
+<p>Two months earlier, when the Olympus scholarship email arrived at Camp Buddy, his first response had been:</p>
 <p><em>They made a mistake.</em></p>
 <p>Yoshinori had put one hand on his shoulder and said,</p>
-<p>“Then perhaps you should give them the opportunity to discover it
-themselves.”</p>
-<p>Taiga had hated that answer. It had also worked. Developmental
-roster. Not first squad. Not guaranteed. But it was still something.</p>
+<p>“Then perhaps you should give them the opportunity to discover it themselves.”</p>
+<p>Taiga had hated that answer. It had also worked.<br />Developmental roster. Not first squad. Not guaranteed.<br />But it was still something.</p>
 <p>Across the room, Caleb turned a page.</p>
 <p>“You look less tense.”</p>
 <p>Taiga glanced down. His leg had stopped bouncing.</p>
@@ -598,21 +240,15 @@ roster. Not first squad. Not guaranteed. But it was still something.</p>
 <p>“I’ve been told that.”</p>
 <p>“By Maya?”</p>
 <p>“Mostly my mother.”</p>
-<p>Taiga smiled faintly. The campus still felt too big and too loud, but
-one other place on the map felt slightly less theoretical.</p>
+<p>Taiga smiled faintly. The campus still felt too big and too loud, but one other place on the map felt slightly less theoretical.</p>
 <hr />
 <p>The following morning started with Political Institutions again.</p>
-<p>Taiga arrived eight minutes early and took the same seat as Monday.
-Third row from the back. Near enough to see. Far enough to be
-ignored.</p>
+<p>Taiga arrived eight minutes early and took the same seat as Monday. Third row from the back. Near enough to see. Far enough to be ignored.</p>
 <p>The girl who had sat beside him last time arrived a minute later.</p>
-<p>Dark hair tied up, glasses, coffee in one hand. The assigned book was
-tucked under her arm, with lots of colored tabs sticking out of it. She
-stopped beside him.</p>
+<p>Dark hair tied up, glasses, coffee in one hand. The assigned book was tucked under her arm, with lots of colored tabs sticking out of it.<br />She stopped beside him.</p>
 <p>“Is this taken?”</p>
 <p>Taiga shook his head.</p>
-<p>She sat and immediately opened her book. Taiga went back to checking
-a passage from the reading.</p>
+<p>She sat and immediately opened her book. Taiga went back to checking a passage from the reading.</p>
 <p>“You actually did the readings?”</p>
 <p>Taiga turned.</p>
 <p>“Why?”</p>
@@ -622,66 +258,47 @@ a passage from the reading.</p>
 <p>“Can I ask a question then?”</p>
 <p>“You sound like you want to interrogate me.”</p>
 <p>She smiled.</p>
-<p>“No, no. But since you read them, I want your opinion on
-something.”</p>
+<p>“No, no. But since you read them, I want your opinion on something.”</p>
 <p>“Still sounds like an interrogation.”</p>
 <p>“Then say no.”</p>
 <p>Taiga sighed.</p>
 <p>“What?”</p>
 <p>She tapped the page.</p>
 <p>“This. Do you think that actually counts as a choice?”</p>
-<p>Taiga leaned over enough to read the highlighted sentence. It was
-something about people accepting political authority by continuing to
-live under it.</p>
+<p>Taiga leaned over enough to read the highlighted sentence. It was something about people accepting political authority by continuing to live under it.</p>
 <p>“No.”</p>
 <p>“Why?”</p>
 <p>“Because leaving is actually pretty hard.”</p>
 <p>“But technically, it’s still a choice.”</p>
-<p>“When staying is the only realistic decision you can make, can you
-really say it’s a choice?”</p>
+<p>“When staying is the only realistic decision you can make, can you really say it’s a choice?”</p>
 <p>“It’s forced, but still a choice.”</p>
 <p>“That’s a stupid definition of choice.”</p>
 <p>“No, it’s an inconvenient definition of choice.”</p>
-<p>Taiga stared at her. She looked completely serious. Before he could
-reply, Professor Hall walked in.</p>
-<p>He started where they had left off. This time Taiga could actually
-follow without opening three tabs and wondering what the hell everyone
-else knew that he didn’t.</p>
-<p>About twenty minutes in, Hall returned to the same section the girl
-had shown him.</p>
+<p>Taiga stared at her. She looked completely serious.<br />Before he could reply, Professor Hall walked in.</p>
+<p>He started where they had left off. This time Taiga could actually follow without opening three tabs and wondering what the hell everyone else knew that he didn’t.</p>
+<p>About twenty minutes in, Hall returned to the same section the girl had shown him.</p>
 <p>A student in the front row raised his hand.</p>
-<p>“If someone really rejects the system they’re living under, can’t
-they just leave?”</p>
+<p>“If someone really rejects the system they’re living under, can’t they just leave?”</p>
 <p>Taiga looked up. Seriously?</p>
-<p>The girl crossed her arms and listened. Front Row Guy kept
-talking.</p>
-<p>“If people stay and keep following the rules, at some point that has
-to mean they accept them.”</p>
+<p>The girl crossed her arms and listened.<br />Front Row Guy kept talking.</p>
+<p>“If people stay and keep following the rules, at some point that has to mean they accept them.”</p>
 <p>Taiga raised his hand before thinking too much about it.</p>
 <p>Hall looked toward him.</p>
 <p>“Yes?”</p>
-<p>Taiga became painfully aware of everyone behind him. He took a breath
-and said:</p>
-<p>“If leaving means giving up your job, your home, your family and
-basically your entire life, then staying doesn’t prove you agree with
-anything.”</p>
+<p>Taiga became painfully aware of everyone behind him.<br />He took a breath and said:</p>
+<p>“If leaving means giving up your job, your home, your family and basically your entire life, then staying doesn’t prove you agree with anything.”</p>
 <p>Hall nodded.</p>
 <p>“So what does it prove?”</p>
 <p>Taiga paused.</p>
 <p>“Mostly that leaving would suck.”</p>
 <p>A few people laughed.</p>
 <p>“Less academically phrased than I would prefer, but yes.”</p>
-<p>Taiga leaned back. Good enough. Then the girl beside him raised her
-hand.</p>
+<p>Taiga leaned back. Good enough.<br />Then the girl beside him raised her hand.</p>
 <p>Hall pointed at her.</p>
-<p>“But staying still tells us something,” she said. “If people keep
-following rules even when nobody is forcing them every single time, that
-matters. It just doesn’t tell us why they’re doing it.”</p>
+<p>“But staying still tells us something,” she said. “If people keep following rules even when nobody is forcing them every single time, that matters. It just doesn’t tell us why they’re doing it.”</p>
 <p>Hall nodded again.</p>
-<p>“Exactly. Behavior is evidence. It isn’t an explanation by
-itself.”</p>
-<p>He wrote something on the board and continued. Taiga glanced at
-her.</p>
+<p>“Exactly. Behavior is evidence. It isn’t an explanation by itself.”</p>
+<p>He wrote something on the board and continued.<br />Taiga glanced at her.</p>
 <p>“You really had to add that?”</p>
 <p>She glanced over.</p>
 <p>“You made it sound completely useless.”</p>
@@ -695,8 +312,7 @@ her.</p>
 <p>“Like there’s going to be a test on the conversation.”</p>
 <p>She frowned.</p>
 <p>“There probably will be a test on this conversation.”</p>
-<p>Taiga laughed before he could stop himself. The girl smiled as
-well.</p>
+<p>Taiga laughed before he could stop himself.<br />The girl smiled as well.</p>
 <p>“I’m Nora, by the way.”</p>
 <p>“Taiga.”</p>
 <p>“Nice to meet you.”</p>
@@ -705,9 +321,7 @@ well.</p>
 <p>“That’s a weird response.”</p>
 <p>Taiga shrugged.</p>
 <p>“You’ll survive.”</p>
-<p>By the end of class, Taiga had three pages of notes, two more
-chapters to read and apparently another annoying figure in his academic
-life.</p>
+<p>By the end of class, Taiga had three pages of notes, two more chapters to read and apparently another annoying figure in his academic life.</p>
 <p>As everyone started packing, Nora closed her book.</p>
 <p>“I still think staying counts as a choice.”</p>
 <p>Taiga put his laptop in his bag.</p>
@@ -716,23 +330,13 @@ life.</p>
 <p>He looked at her.</p>
 <p>“Good?”</p>
 <p>“It would’ve been boring if you changed your mind already.”</p>
-<p>Then she picked up her coffee and left. Taiga watched her disappear
-into the aisle.</p>
+<p>Then she picked up her coffee and left. Taiga watched her disappear into the aisle.</p>
 <hr />
-<p>At lunch, Caleb insisted on walking another four minutes to a smaller
-cafeteria on the opposite side of campus. Taiga discovered why as soon
-as they entered: it was quieter. The Oyster at noon sounded like
-somebody had trapped three hundred people inside an aluminum drum. This
-one held maybe fifty. Caleb visibly relaxed. They collected food and
-took a table near the window.</p>
-<p>Caleb removed one earbud. He almost always had something in his ears
-now. Sometimes music, often nothing at all. Taiga had asked once and
-Caleb had replied:</p>
+<p>At lunch, Caleb insisted on walking another four minutes to a smaller cafeteria on the opposite side of campus. Taiga discovered why as soon as they entered: it was quieter.<br />The Oyster at noon sounded like somebody had trapped three hundred people inside an aluminum drum. This one held maybe fifty. Caleb visibly relaxed. They collected food and took a table near the window.</p>
+<p>Caleb removed one earbud. He almost always had something in his ears now. Sometimes music, often nothing at all. Taiga had asked once and Caleb had replied:</p>
 <p>“They reduce the high frequencies.”</p>
 <p>That had been the entire explanation.</p>
-<p>Today Caleb arranged his plate before eating. Chicken on one side,
-rice on another, vegetables separated. Taiga watched for a second. Caleb
-looked up. Taiga nodded at his plate.</p>
+<p>Today Caleb arranged his plate before eating. Chicken on one side, rice on another, vegetables separated. Taiga watched for a second. Caleb looked up. Taiga nodded at his plate.</p>
 <p>“You always separate everything like that?”</p>
 <p>“Yes.”</p>
 <p>“The peas too?”</p>
@@ -743,31 +347,17 @@ looked up. Taiga nodded at his plate.</p>
 <p>“So what?”</p>
 <p>“I don’t like that.”</p>
 <p>“Okay, then.”</p>
-<p>Caleb nodded. Conversation over. Taiga appreciated conversations that
-knew when to die. They ate in silence for several minutes. People seemed
-weirdly frightened of it. Keitaro especially. Keitaro could not exist
-beside another human being for more than ninety seconds without starting
-to worry that something was wrong. Caleb could apparently eat an entire
-meal without saying anything.</p>
+<p>Caleb nodded. Conversation over. Taiga appreciated conversations that knew when to die. They ate in silence for several minutes.<br />People seemed weirdly frightened of it. Keitaro especially. Keitaro could not exist beside another human being for more than ninety seconds without starting to worry that something was wrong.<br />Caleb could apparently eat an entire meal without saying anything.</p>
 <p>Taiga’s phone buzzed. He glanced down.</p>
 <p><strong>Hiro:</strong> GUYS I HAVE SURVIVED</p>
-<p>A photo loaded. Hiro stood outside a lecture hall holding a coffee.
-Keitaro was beside him looking deeply unimpressed.</p>
-<p><strong>Keitaro:</strong> Hiro, it’s 12:14. We left home three hours
-ago.</p>
+<p>A photo loaded. Hiro stood outside a lecture hall holding a coffee. Keitaro was beside him looking deeply unimpressed.</p>
+<p><strong>Keitaro:</strong> Hiro, it’s 12:14. We left home three hours ago.</p>
 <p><strong>Hiro:</strong> THREE VERY DIFFICULT HOURS</p>
-<p>Hunter sent a photo from an art studio. Both hands were black with
-charcoal.</p>
-<p><strong>Hunter:</strong> Uhm… I may have underestimated how much of
-this gets everywhere. <strong>Hunter:</strong> My professor says I
-should “accept the material” but I think the material has accepted
-me.</p>
-<p><strong>Natsumi:</strong> Warm water and soap first. Don’t scrub your
-hands raw, Hunter. Charcoal looks much more permanent than it is.</p>
-<p><strong>Hunter:</strong> Thank you. That is significantly more useful
-than my professor 😭</p>
-<p><strong>Yoichi:</strong> psh <strong>Yoichi:</strong> twinkerbell got
-defeated by a pencil</p>
+<p>Hunter sent a photo from an art studio. Both hands were black with charcoal.</p>
+<p><strong>Hunter:</strong> Uhm… I may have underestimated how much of this gets everywhere.<br /><strong>Hunter:</strong> My professor says I should “accept the material” but I think the material has accepted me.</p>
+<p><strong>Natsumi:</strong> Warm water and soap first. Don’t scrub your hands raw, Hunter. Charcoal looks much more permanent than it is.</p>
+<p><strong>Hunter:</strong> Thank you. That is significantly more useful than my professor 😭</p>
+<p><strong>Yoichi:</strong> psh<br /><strong>Yoichi:</strong> twinkerbell got defeated by a pencil</p>
 <p>Taiga smiled. Caleb looked up from his peas.</p>
 <p>“Your friends?”</p>
 <p>Taiga locked the screen.</p>
@@ -781,49 +371,31 @@ defeated by a pencil</p>
 <p>“That sounded like statistics.”</p>
 <p>“It was an observation.”</p>
 <p>Taiga stabbed a piece of chicken. The phone buzzed again.</p>
-<p><strong>Yoichi:</strong> dynamite alive or did college finally kill
-him</p>
+<p><strong>Yoichi:</strong> dynamite alive or did college finally kill him</p>
 <p><strong>Taiga:</strong> it is trying</p>
 <p><strong>Yoichi:</strong> lame</p>
-<p>The corner of Taiga’s mouth moved before he could stop it. Caleb
-glanced up once. Taiga pointed his fork at him.</p>
+<p>The corner of Taiga’s mouth moved before he could stop it. Caleb glanced up once. Taiga pointed his fork at him.</p>
 <p>“Don’t document that.”</p>
 <hr />
-<p>The equipment room gave him number forty-one. Taiga decided he
-disliked the number immediately. Developmental roster numbers started at
-forty. The equipment manager slid the folded training kit across the
-counter.</p>
+<p>The equipment room gave him number forty-one. Taiga decided he disliked the number immediately. Developmental roster numbers started at forty. The equipment manager slid the folded training kit across the counter.</p>
 <p>“Akatora?”</p>
 <p>“Yeah.”</p>
-<p>“Two training shirts, two shorts, socks. Travel kit later if you get
-selected.”</p>
+<p>“Two training shirts, two shorts, socks. Travel kit later if you get selected.”</p>
 <p>If.</p>
 <p>“Got it.”</p>
 <p>“Locker eighteen.”</p>
-<p>Taiga took the clothes. The shirt had his surname printed across the
-back. He paused. Only briefly. Then folded it into his bag. It was just
-equipment.</p>
-<p>Five minutes later he was standing in the locker room surrounded by
-approximately twenty men. Shirts came off. Shorts changed. Someone was
-playing music from a phone. Apparently, embarrassment wasn’t a thing in
-this locker.</p>
-<p>Near the middle benches, a guy Taiga recognized as Enzo was arguing
-about whether a woman named Jenna had actually broken up with somebody
-named Marcus. Taiga learned more about Marcus’s relationship in ninety
-seconds than he wanted to know about anybody.</p>
+<p>Taiga took the clothes. The shirt had his surname printed across the back. He paused. Only briefly. Then folded it into his bag.<br />It was just equipment.</p>
+<p>Five minutes later he was standing in the locker room surrounded by approximately twenty men. Shirts came off. Shorts changed. Someone was playing music from a phone.<br />Apparently, embarrassment wasn’t a thing in this locker.</p>
+<p>Near the middle benches, a guy Taiga recognized as Enzo was arguing about whether a woman named Jenna had actually broken up with somebody named Marcus. Taiga learned more about Marcus’s relationship in ninety seconds than he wanted to know about anybody.</p>
 <p>“I’m telling you, ‘I need space’ is not automatically a breakup,”</p>
 <p>Enzo declared, pulling on one sock.</p>
-<p>“It could be a tactical withdrawal. A cooling period. A dramatic
-second act.”</p>
+<p>“It could be a tactical withdrawal. A cooling period. A dramatic second act.”</p>
 <p>Another guy who looked older than most of them shook his head.</p>
-<p>“Listen to me. If a girl asks you for space, then it’s already
-over.”</p>
+<p>“Listen to me. If a girl asks you for space, then it’s already over.”</p>
 <p>“You have no romance in your body.”</p>
-<p>Taiga found locker eighteen. He changed quickly. A voice behind him
-said:</p>
-<p>“Mr. AG!”</p>
-<p>Taiga looked over. Leo was already dressed, blond hair held back by a
-thin band.</p>
+<p>Taiga found locker eighteen. He changed quickly. A voice behind him said:</p>
+<p>“Mr. AG!”</p>
+<p>Taiga looked over. Leo was already dressed, blond hair held back by a thin band.</p>
 <p>“You’re talking to me?”</p>
 <p>“Of course! You’re the only Angry Guy I know.”</p>
 <p>“You’re not calling me that.”</p>
@@ -833,10 +405,7 @@ thin band.</p>
 <p>Leo grinned. “I know, right.”</p>
 <p>Another teammate called him.</p>
 <p>“Coming! Anyways, congrats. I’m happy you made it!”</p>
-<p>Then he walked away before Taiga could respond. He shook his head and
-continued tying his cleats. The locker beside his belonged to Aaron, one
-of the players from tryouts. Aaron arrived late, half-dressed and
-carrying a banana.</p>
+<p>Then he walked away before Taiga could respond. He shook his head and continued tying his cleats.<br />The locker beside his belonged to Aaron, one of the players from tryouts. Aaron arrived late, half-dressed and carrying a banana.</p>
 <p>“Move, please.”</p>
 <p>Taiga stepped aside. Aaron opened the locker.</p>
 <p>“So, you made the developmental roster?”</p>
@@ -844,11 +413,9 @@ carrying a banana.</p>
 <p>“No, I stole this.”</p>
 <p>Aaron snorted.</p>
 <p>“Cool.”</p>
-<p>Among the chaos in the locker room, the goalkeeper from the tryout
-caught Taiga’s attention.</p>
-<p>He hadn’t said a single word. He just sat there, slowly gearing
-up.</p>
-<p>He had an armband. The captain. Taiga frowned.</p>
+<p>Among the chaos in the locker room, the goalkeeper from the tryout caught Taiga’s attention.</p>
+<p>He hadn’t said a single word. He just sat there, slowly gearing up.</p>
+<p>He had an armband. The captain.<br />Taiga frowned.</p>
 <p>Suddenly Enzo pointed at him.</p>
 <p>“Scott!”</p>
 <p>Scott was startled.</p>
@@ -859,12 +426,10 @@ up.</p>
 <p>Taiga looked away. That was his captain.</p>
 <p>Later on the field, Taiga immediately understood why.</p>
 <p>“SHAPE!”</p>
-<p>They moved almost before Scott’s voice finished crossing the field.
-As soon as he stepped into the goal, the stutter disappeared.</p>
+<p>They moved almost before Scott’s voice finished crossing the field.<br />As soon as he stepped into the goal, the stutter disappeared.</p>
 <p>“RECOVER! ENZO, YOU’RE LATE!”</p>
 <p>Taiga blinked.</p>
-<p>Two seconds later Mercer echoed the correction from midfield, but by
-then Walsh and Carter had already shifted.</p>
+<p>Two seconds later Mercer echoed the correction from midfield, but by then Walsh and Carter had already shifted.</p>
 <p>Taiga followed.</p>
 <p>Mercer stopped the ball beneath one shoe.</p>
 <p>“Reset.”</p>
@@ -874,73 +439,43 @@ then Walsh and Carter had already shifted.</p>
 <p>“Ellis right, Bennett left.”</p>
 <p>Aaron lifted a hand as he moved outside Taiga.</p>
 <p>“Foster in front of them. Romero beside him.”</p>
-<p>Gav Foster dropped into the space between the defense and the rest of
-midfield.</p>
-<p>“If somebody calls Foster the six, that’s what they mean. Don’t worry
-about the number yet.”</p>
+<p>Gav Foster dropped into the space between the defense and the rest of midfield.</p>
+<p>“If somebody calls Foster the six, that’s what they mean. Don’t worry about the number yet.”</p>
 <p>Good. Because Taiga already had enough numbers to remember.</p>
-<p>“Price stays highest. Mendez underneath him. Reyes right, Cole
-left.”</p>
-<p>People moved as Mercer spoke. Price pushed toward the halfway line.
-Leo dropped several yards behind him. Enzo drifted wide on the opposite
-side while Cole took Taiga’s side.</p>
-<p>Around him, the names from the roster were slowly becoming actual
-people.</p>
+<p>“Price stays highest. Mendez underneath him. Reyes right, Cole left.”</p>
+<p>People moved as Mercer spoke. Price pushed toward the halfway line. Leo dropped several yards behind him. Enzo drifted wide on the opposite side while Cole took Taiga’s side.</p>
+<p>Around him, the names from the roster were slowly becoming actual people.</p>
 <p>“Learn the jobs before the vocabulary,” Mercer said.</p>
 <p>That, at least, sounded reasonable.</p>
-<p>They started from the back. Walsh played into Foster. Foster turned
-and immediately looked forward. Ellis started moving up the right.
-Bennett did the same beside Taiga. Right. Fullback. Taiga held the left
-wing. Then he dropped in too deep.</p>
+<p>They started from the back.<br />Walsh played into Foster. Foster turned and immediately looked forward. Ellis started moving up the right.<br />Bennett did the same beside Taiga.<br />Right. Fullback.<br />Taiga held the left wing. Then he dropped in too deep.</p>
 <p>“Akatora. Higher.”</p>
 <p>“Akatora. Open your body.”</p>
 <p>“Akatora. You saw the ball. Did you check the defender?”</p>
 <p>Taiga’s ears heated.</p>
 <p>“No.”</p>
 <p>“So do that next time.”</p>
-<p>The corrections were infuriating because none of them were vague. He
-could not even argue properly. The patterns made sense when Mercer froze
-the field. Then the ball moved, ten people moved with it, and the
-solution became a different solution. Technical mistakes Taiga
-understood. A bad touch was a bad touch. Tactical mistakes felt like
-being wrong about a question he had not realized anyone had asked.</p>
-<p>They did it again. And again. Then from the other side. Then with
-defenders allowed to break the pattern. That was when everything became
-difficult again. During the water break, Evan Cole, the older guy from
-the locker room, dropped onto the grass near Taiga and started retaping
-one shin guard.</p>
+<p>The corrections were infuriating because none of them were vague. He could not even argue properly.<br />The patterns made sense when Mercer froze the field. Then the ball moved, ten people moved with it, and the solution became a different solution.<br />Technical mistakes Taiga understood. A bad touch was a bad touch. Tactical mistakes felt like being wrong about a question he had not realized anyone had asked.</p>
+<p>They did it again. And again. Then from the other side. Then with defenders allowed to break the pattern. That was when everything became difficult again.<br />During the water break, Evan Cole, the older guy from the locker room, dropped onto the grass near Taiga and started retaping one shin guard.</p>
 <p>“You’ll stop hearing the position names eventually.”</p>
 <p>Taiga looked at him.</p>
 <p>“What?”</p>
-<p>“All the winger, fullback, six stuff. First few weeks you translate
-every word. Then you just see people.”</p>
-<p>Cole sounded calm in the way older players often did when they
-already knew the answer. Taiga was suspicious of that.</p>
+<p>“All the winger, fullback, six stuff. First few weeks you translate every word. Then you just see people.”</p>
+<p>Cole sounded calm in the way older players often did when they already knew the answer. Taiga was suspicious of that.</p>
 <p>“How long?”</p>
 <p>Cole shrugged. “Depends how stubborn you are.”</p>
 <p>“Great.”</p>
 <p>From two yards away, Enzo Delos Reyes said, “He’s fucked, then.”</p>
-<p>Taiga looked over. Enzo was tying his boot, expression completely
-serious. Cole laughed. Taiga smiled despite himself.</p>
+<p>Taiga looked over. Enzo was tying his boot, expression completely serious. Cole laughed. Taiga smiled despite himself.</p>
 <hr />
-<p>After training, the locker room was even louder. Someone had won a
-bet. Taiga didn’t know what the bet was. It apparently justified
-screaming.</p>
-<p>Enzo was still arguing with three people at once while pulling a
-shirt over his head.</p>
+<p>After training, the locker room was even louder. Someone had won a bet. Taiga didn’t know what the bet was. It apparently justified screaming.</p>
+<p>Enzo was still arguing with three people at once while pulling a shirt over his head.</p>
 <p>“Scott. Tell them that the tackle on Leo was a foul.”</p>
-<p>Scott, who had spent the previous forty minutes shouting instructions
-at everybody within hearing distance, sat two lockers down drying his
-hair with a towel.</p>
+<p>Scott, who had spent the previous forty minutes shouting instructions at everybody within hearing distance, sat two lockers down drying his hair with a towel.</p>
 <p>“I—uh… I think so?”</p>
 <p>“You were in the other goal.”</p>
 <p>“Y-Yeah, I guess.”</p>
-<p>Taiga showered quickly, changed and left before anybody could decide
-the developmental players needed to participate in whatever ritual
-involved slapping lockers. Outside, evening had settled over campus. His
-body hurt. His head hurt more. He checked his phone.</p>
-<p><strong>Caleb</strong>: The Oyster at 7:15 instead of 7. Too loud
-before then</p>
+<p>Taiga showered quickly, changed and left before anybody could decide the developmental players needed to participate in whatever ritual involved slapping lockers.<br />Outside, evening had settled over campus. His body hurt. His head hurt more.<br />He checked his phone.</p>
+<p><strong>Caleb</strong>: The Oyster at 7:15 instead of 7. Too loud before then</p>
 <p>Taiga checked the time. 6:48. He typed:</p>
 <p><strong>Taiga</strong>: fine</p>
 <p>Then Keitaro.</p>
@@ -956,30 +491,16 @@ before then</p>
 <p>Taiga frowned.</p>
 <p><strong>Taiga:</strong> die</p>
 <p><strong>Keitaro:</strong> ❤️</p>
-<p>Taiga put the phone away and walked slowly toward the dorm. A group
-of students passed in the opposite direction. Two girls, three guys. One
-of the girls was telling a story with enormous hand gestures. A guy
-beside her had his arm around her shoulders. Another couple sat beneath
-a tree nearby, sharing earbuds. Somebody rode past on a bicycle. Olympus
-at night was beginning to look less theatrical now that Taiga had seen
-the same paths repeatedly.</p>
-<p>He knew where the shortcut behind the library went. He knew which
-vending machine accepted his card and which one pretended to. He knew
-the humanities building’s second-floor bathroom was cleaner than the
-first. He knew the smaller cafeteria was tolerable at noon. He knew the
-residence hall’s elevator made a suspicious sound between floors two and
-three, even after they had repaired it.</p>
+<p>Taiga put the phone away and walked slowly toward the dorm.<br />A group of students passed in the opposite direction. Two girls, three guys. One of the girls was telling a story with enormous hand gestures. A guy beside her had his arm around her shoulders. Another couple sat beneath a tree nearby, sharing earbuds. Somebody rode past on a bicycle.<br />Olympus at night was beginning to look less theatrical now that Taiga had seen the same paths repeatedly.</p>
+<p>He knew where the shortcut behind the library went. He knew which vending machine accepted his card and which one pretended to. He knew the humanities building’s second-floor bathroom was cleaner than the first. He knew the smaller cafeteria was tolerable at noon. He knew the residence hall’s elevator made a suspicious sound between floors two and three, even after they had repaired it.</p>
 <hr />
-<p>Caleb was already downstairs at 7:15 exactly. Taiga found him outside
-The Oyster wearing large black headphones.</p>
+<p>Caleb was already downstairs at 7:15 exactly. Taiga found him outside The Oyster wearing large black headphones.</p>
 <p>“You own normal headphones?”</p>
 <p>Caleb looked at him.</p>
 <p>“These are normal.”</p>
 <p>“You know what I mean.”</p>
 <p>“No.”</p>
-<p>They entered. The crowd had thinned. Caleb removed the headphones and
-folded them into his bag. Taiga got pasta. Caleb got the same meal he’d
-eaten Friday. Taiga noticed.</p>
+<p>They entered. The crowd had thinned. Caleb removed the headphones and folded them into his bag. Taiga got pasta. Caleb got the same meal he’d eaten Friday. Taiga noticed.</p>
 <p>“You eat that a lot.”</p>
 <p>“Yes.”</p>
 <p>“Why?”</p>
@@ -987,8 +508,7 @@ eaten Friday. Taiga noticed.</p>
 <p>“That’s it?”</p>
 <p>Caleb looked confused.</p>
 <p>“What else would there be?”</p>
-<p>Taiga shrugged. They sat. Halfway through dinner, Caleb’s phone rang.
-The screen lit up.</p>
+<p>Taiga shrugged. They sat. Halfway through dinner, Caleb’s phone rang. The screen lit up.</p>
 <p><strong>Maya ❤️</strong></p>
 <p>Caleb looked at Taiga.</p>
 <p>“I need to answer.”</p>
@@ -999,14 +519,12 @@ The screen lit up.</p>
 <p>“Hi.”</p>
 <p>Caleb’s entire expression changed. He became more relaxed.</p>
 <p>“Hi.”</p>
-<p>Maya had curly hair and a university sweatshirt Taiga didn’t
-recognize.</p>
+<p>Maya had curly hair and a university sweatshirt Taiga didn’t recognize.</p>
 <p>“Oh, you’re eating.”</p>
 <p>“Yeah, I am.”</p>
 <p>“Want me to call later?”</p>
 <p>“No.”</p>
-<p>Caleb propped the phone against his water bottle. Maya looked over at
-Taiga.</p>
+<p>Caleb propped the phone against his water bottle. Maya looked over at Taiga.</p>
 <p>“Oh! Is that your roommate?”</p>
 <p>Caleb looked toward him.</p>
 <p>“Yes.”</p>
@@ -1018,8 +536,7 @@ Taiga.</p>
 <p>Taiga slowly turned toward Caleb. Caleb continued eating.</p>
 <p>“What the fuck have you told her?”</p>
 <p>Maya laughed. Caleb counted with his fingers.</p>
-<p>“That you play soccer, you’re a scout, and you dislike my alarm
-system—”</p>
+<p>“That you play soccer, you’re a scout, and you dislike my alarm system—”</p>
 <p>Maya interrupted him.</p>
 <p>“You attacked him with a pillow.”</p>
 <p>“He attacked me first with six fucking alarms.”</p>
@@ -1033,15 +550,11 @@ system—”</p>
 <p>“I know. It’s an observation.”</p>
 <p>Caleb’s brow furrowed.</p>
 <p>“Then label it as one.”</p>
-<p>Maya smiled resignedly. Taiga assumed that conversation had happened
-before.</p>
+<p>Maya smiled resignedly. Taiga assumed that conversation had happened before.</p>
 <p>“He’ll pretend that sentence was about communication theory.”</p>
 <p>“It was.”</p>
 <p>“Sure, why not.”</p>
-<p>Caleb looked faintly offended. Taiga took a drink to hide his smile.
-Maya talked about her own classes. Environmental science. A professor
-who had apparently assigned a lab report before they’d even completed
-the lab. Caleb listened, and when Maya paused, he asked:</p>
+<p>Caleb looked faintly offended. Taiga took a drink to hide his smile. Maya talked about her own classes. Environmental science. A professor who had apparently assigned a lab report before they’d even completed the lab.<br />Caleb listened, and when Maya paused, he asked:</p>
 <p>“Did you email him?”</p>
 <p>“Yeah, I did. He said the instructions were clear.”</p>
 <p>“They aren’t.”</p>
@@ -1050,9 +563,7 @@ the lab. Caleb listened, and when Maya paused, he asked:</p>
 <p>Maya smiled.</p>
 <p>“Later.”</p>
 <p>“Okay, then.”</p>
-<p>Taiga watched them. Caleb, who sometimes spoke to people like he was
-reading an instruction manual, somehow seemed more confident around her.
-Maya eventually said goodbye and they hung up.</p>
+<p>Taiga watched them. Caleb, who sometimes spoke to people like he was reading an instruction manual, somehow seemed more confident around her.<br />Maya eventually said goodbye and they hung up.</p>
 <p>“She seems normal.”</p>
 <p>Caleb looked at him.</p>
 <p>“That is an unusual compliment.”</p>
@@ -1063,17 +574,14 @@ Maya eventually said goodbye and they hung up.</p>
 <p>Taiga’s eyebrows rose.</p>
 <p>“Are you serious?”</p>
 <p>“Yes.”</p>
-<p>“You don’t seem like somebody who could maintain a relationship for
-two years.”</p>
+<p>“You don’t seem like somebody who could maintain a relationship for two years.”</p>
 <p>Caleb stared. Taiga realized what he’d said.</p>
 <p>“Sorry, that came out wrong.”</p>
 <p>“I know what you mean.”</p>
 <p>“You do?”</p>
 <p>“Maya said the same thing after our third date.”</p>
-<p>Taiga snorted. Caleb smiled slightly. Then returned to his food.
-After a while, he said:</p>
-<p>“I don’t always know when people want something unless they say
-it.”</p>
+<p>Taiga snorted. Caleb smiled slightly. Then returned to his food. After a while, he said:</p>
+<p>“I don’t always know when people want something unless they say it.”</p>
 <p>Taiga listened.</p>
 <p>“Maya says things.”</p>
 <p>“That’s… useful.”</p>
@@ -1084,16 +592,11 @@ it.”</p>
 <p>“It is, actually.”</p>
 <p>Taiga looked at him. Caleb was completely serious.</p>
 <p>Once they finished, they went back upstairs.</p>
-<p>Caleb put his headphones on and opened whatever economics thing he
-was working on. Taiga dropped his training clothes beside the laundry
-bag, then sat at his desk.</p>
-<p>He took down his timetable and added this week’s soccer practices.
-Then he looked at the folded shirt in his bag, his name printed across
-the back.</p>
-<p><strong>AKATORA</strong> <strong>41</strong></p>
+<p>Caleb put his headphones on and opened whatever economics thing he was working on. Taiga dropped his training clothes beside the laundry bag, then sat at his desk.</p>
+<p>He took down his timetable and added this week’s soccer practices.<br />Then he looked at the folded shirt in his bag, his name printed across the back.</p>
+<p><strong>AKATORA</strong><br /><strong>41</strong></p>
 <p>It still felt weird. Good weird.</p>
-<p>Caleb’s physical alarm clock clicked as he changed the time. Taiga
-looked over.</p>
+<p>Caleb’s physical alarm clock clicked as he changed the time.<br />Taiga looked over.</p>
 <p>“You’re seriously doing all six again?”</p>
 <p>“Yes.”</p>
 <p>“Why?”</p>
@@ -1103,7 +606,4 @@ looked over.</p>
 <p>“It works.”</p>
 <p>Caleb went back to setting them.</p>
 <p>Taiga sighed and opened his Political Institutions reading.</p>
-<p>Tomorrow was going to start at six-thirty whether he liked it or
-not.</p>
-</body>
-</html>
+<p>Tomorrow was going to start at six-thirty whether he liked it or not.</p>
