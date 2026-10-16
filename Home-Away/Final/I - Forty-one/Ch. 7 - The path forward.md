@@ -2,7 +2,7 @@
 
 By the eighth week of the semester, Taiga had developed a reliable method for identifying university emails that would ruin his day. They used words like *opportunity*, *engagement* or *planning*. The worst ones used all three. 
 
-He was halfway through breakfast at The Oyster when the phone vibrated beside his tray.
+He was halfway through breakfast at the mess hall when the phone vibrated beside his tray.
 
 **ACADEMIC ADVISING OPPORTUNITY**
 
