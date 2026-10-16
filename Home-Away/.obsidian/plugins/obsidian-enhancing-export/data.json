@@ -8,7 +8,8 @@
     },
     {
       "name": "Html",
-      "customArguments": ""
+      "customArguments": "",
+      "arguments": "-f ${fromFormat}+hard_line_breaks --resource-path=\"${currentDir}\" --resource-path=\"${attachmentFolderPath}\" --lua-filter=\"${luaDir}/math_block.lua\" --wrap=none -o \"${outputPath}\" -t html"
     },
     {
       "name": "TextBundle"
