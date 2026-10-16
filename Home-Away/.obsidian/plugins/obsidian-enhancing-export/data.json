@@ -7,7 +7,8 @@
       "name": "Markdown (Hugo)"
     },
     {
-      "name": "Html"
+      "name": "Html",
+      "customArguments": ""
     },
     {
       "name": "TextBundle"
@@ -52,13 +53,13 @@
       "name": "PowerPoint (.pptx)"
     }
   ],
-  "defaultExportDirectoryMode": "Auto",
+  "defaultExportDirectoryMode": "Custom",
   "openExportedFile": true,
   "env": {},
   "showExportProgressBar": true,
   "lastEditName": "Html",
   "lastExportDirectory": {
-    "win32": "C:\\Users\\alex9\\Desktop"
+    "win32": "E:\\alexesposito\\Documents\\obsidian\\Home-Away\\AO3\\HTML"
   },
   "lastExportType": "Html"
 }
