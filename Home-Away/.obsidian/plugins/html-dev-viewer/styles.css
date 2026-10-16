@@ -1,0 +1,16 @@
+/* HTML Viewer Plugin Styles */
+.html-viewer {
+  display: flex; flex-direction: column; height: 100%; overflow: hidden;
+}
+.html-viewer-iframe-container { flex: 1; overflow: hidden; }
+.html-viewer-frame { width: 100%; height: 100%; border: none; background: #fff; }
+.html-viewer-error { padding: 20px; color: var(--text-error); font-size: 14px; }
+
+/* Source view */
+.html-viewer-source-toolbar { display: flex; align-items: center; gap: 6px; padding: 4px 10px; border-bottom: 1px solid var(--background-modifier-border); background: var(--background-secondary); flex-shrink: 0; }
+.html-viewer-source-toolbar button { background: none; border: 1px solid var(--background-modifier-border); border-radius: 4px; cursor: pointer; padding: 2px 8px; font-size: 12px; color: var(--text-muted); font-family: var(--font-monospace); }
+.html-viewer-source-toolbar button:hover { background: var(--background-modifier-hover); color: var(--text-normal); }
+.html-viewer-source-size-label { font-size: 11px; color: var(--text-muted); font-family: var(--font-monospace); min-width: 32px; text-align: center; }
+.html-viewer-source-view { background: var(--code-background, var(--background-primary-alt, #1e1e1e)) !important; }
+.html-viewer-source-view pre { margin: 0!important; border-radius: 0!important; border: none!important; background: var(--code-background, var(--background-primary-alt, #1e1e1e))!important; padding: 12px!important; }
+.html-viewer-source-view code { line-height: 1.5; background: transparent!important; }
