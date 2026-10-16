@@ -54,7 +54,7 @@ Taiga didn't mind that at all.
 
 ***
 
-The air had gotten cold enough that standing still during training was a punishment.
+ 
 
 Luckily, Mercer had apparently declared standing still illegal.
 
