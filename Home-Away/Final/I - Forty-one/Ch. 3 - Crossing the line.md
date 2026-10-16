@@ -885,7 +885,7 @@ Nora raised an eyebrow.
 
 "Yes, Taiga, but last Friday. A week ago."
 
-Taiga shrugged and pulled out a chair to sit. The Oyster was crowded as usual.
+Taiga shrugged and pulled out a chair to sit. The mess hall was crowded as usual.
 
 "I got busy."
 
