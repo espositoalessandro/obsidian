@@ -131,7 +131,7 @@ Leo frowned. "Okay, that was unexpectedly fast."
 
 "Well, I'll probably fuck it up anyway. What's the point in worrying about it now?"
 
-Leo laughed. "Fair enough. I'd still consider this growth."
+Leo laughed. "Look at you."
 
 Taiga shook his head and opened his bag to retrieve his shampoo and shower gel.
 When he turned, Leo was still looking at him and smiling.
@@ -141,3 +141,6 @@ When he turned, Leo was still looking at him and smiling.
 "Nothing, nothing."
 
 Taiga raised an eyebrow and turned to go to the showers.
+
+---
+
