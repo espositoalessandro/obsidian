@@ -103,42 +103,51 @@ Differentiate recurring characters through sentence shape, social instinct, humo
 
 ---
 
-## Chapter 5 Northbridge continuity
+## Chapter 5 / Chapter 11 Northbridge continuity
 
 **First discovered:** Final Chapter 5 — Commitment  
 **Scope:** Continuity / football / timeline  
-**Affected chapters:** Draft Chapter 6, Draft Chapter 12, and any later reference to Taiga's first reserve start  
-**Status:** Open
+**Affected chapters:** Final Chapters 5–11 and later references to Taiga's early match progression  
+**Status:** In progress
 
 ### Issue
 
-Final Chapter 5 substantially changed the Northbridge reserve match.
+The Final rewrite changed both the Northbridge match details and the broader first-year competition structure.
 
-The final version establishes:
+The current version establishes:
 
-- this is Taiga's **first actual reserve appearance / first reserve minutes**, not his first reserve start;
+- Chapter 5 is Taiga's **first actual minutes in an Apollo friendly**;
 - he enters for Evan at left wing;
 - his initial problem is overload rather than a decisive turnover;
 - he settles by simplifying his play and beginning to recognize space;
-- the match ends **0–0**.
+- the match ends **0–0**;
+- Chapter 11 returns to Northbridge for Taiga's **first friendly start**;
+- Taiga remains on the developmental roster after that start.
 
-The existing Draft still contains stale references to the discarded version, including Chapter 6 references to **82 minutes**, a turnover leading to a goal, and Chapter 12 treating Northbridge as Taiga's first reserve start.
+The old Draft and development bibles still contain stale references to reserve fixtures, a fall conference season and later first-team milestones built on that structure.
 
 ### Final rule or intended fix
 
-All future Final chapters must inherit the frozen Chapter 5 version.
+All future Final chapters must inherit the frozen Final-manuscript structure:
 
-Do not restore the discarded Northbridge events in order to preserve Draft wording. Solve the discrepancy forward when Chapters 6 and 12 are rewritten.
+- first team and developmental roster remain distinct tiers;
+- fall matches against other universities are **friendlies / exhibitions**, not reserve or conference fixtures;
+- developmental players can be selected for those friendlies without being permanently promoted;
+- the Conference Championship and main-stadium official matchdays begin in the second semester;
+- Chapter 5 = first friendly minutes;
+- Chapter 11 = first friendly start.
 
-Taiga's **first reserve start remains a later milestone**.
+Solve remaining old-Draft discrepancies forward during later rewrites rather than reopening frozen Final chapters.
 
 ### Cross-novel checks
 
-- [x] Earlier Final chapters checked
-- [x] Later Draft dependencies identified
+- [x] Earlier Final Chapters 2–8 terminology checked
+- [x] Chapter 6 Final rewrite uses general minutes rather than reserve minutes
 - [x] Section I Chapter Map updated
-- [ ] Chapter 6 Final rewrite corrected
-- [ ] Chapter 11 Final rewrite incorporates the first reserve start under the revised structure
+- [x] Apollo Team Bible updated
+- [x] Chapter 11 draft uses the revised structure
+- [ ] Chapter 12 Final rewrite checked
+- [ ] Section II football schedule rewritten around spring conference play
 - [ ] Final manuscript consistency verified
 
 ### Notes
@@ -178,11 +187,12 @@ Section I returns to **12 chapters**.
 **Chapter 11**
 - spans roughly two to three weeks after Halloween;
 - lets ordinary life continue rather than centering one event;
-- includes Taiga's first reserve start as one football milestone among several;
-- can include the formal Computer Science major declaration;
-- culminates in a small, believable amount of first-team minutes;
-- lets Leo and Taiga's friendship feel warmer after Halloween without making Leo a constant companion;
-- allows Leo to have developed a genuine crush while keeping Taiga oblivious.
+- includes Taiga's first start in an autumn friendly while he remains developmental;
+- includes the formal Computer Science major declaration;
+- gives Evan space to frame the left-wing role beyond his graduation without promising it to Taiga;
+- gives the reader one very small Leo-interest cue without making Leo a constant companion;
+- allows Leo to have developed a genuine crush while keeping Taiga oblivious;
+- ends on Mercer's simple post-match judgment: "Good."
 
 **Chapter 12**
 - merges the old "new baseline" and rink / disruption functions;

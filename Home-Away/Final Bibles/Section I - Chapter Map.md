@@ -26,7 +26,7 @@ Its useful material about Taiga choosing a major is split across the later Secti
 - Chapter 8 makes Taiga's emerging Computer Science direction increasingly obvious without requiring a formal declaration.
 - Chapter 11 now spans roughly two to three weeks after Halloween and is the natural place for the **formal Computer Science declaration**, after Taiga has already spent long enough choosing CS in practice.
 - The former single "Coexistence" chapter has split into **Chapter 9 — Home** and **Chapter 10 — Away**. The split is structural rather than cosmetic: *Home* returns Taiga to the people and world that were already home, while *Away* brings him back to Olympus and lets the old and new worlds coexist inside the same social life.
-- The former standalone "first reserve start" and "new baseline" chapters are no longer separate dramatic units. Their useful material is folded into a broader **Chapter 11** about November life continuing and Taiga reaching several thresholds without any one of them swallowing the chapter.
+- The former standalone "first start" and "new baseline" chapters are no longer separate dramatic units. Their useful material is folded into a broader **Chapter 11** about November life continuing and Taiga reaching several thresholds without any one of them swallowing the chapter.
 - The former rink / disruption chapter is merged into the new **Chapter 12**. The chapter begins in ordinary late-semester life, carries the cast through finals, then narrows into the one-on-one winter-rink sequence that ends Section I.
 - Section I therefore contains **12 chapters**.
 - Section II can begin directly at Camp Buddy.
@@ -125,7 +125,7 @@ Do not place the masturbation scene here. Chapter 4 should deepen familiarity an
 
 Football stops being something Taiga is merely testing and becomes something he is emotionally committed to.
 
-His first actual reserve minutes create real performance pressure. He enters against Northbridge overwhelmed, simplifies his game long enough to settle, then begins recognizing space and making decisions inside the match rather than experiencing it as something happening to him. The match ends 0–0. Socially, he accepts the post-match team dinner instead of automatically leaving, another small step from proximity toward participation.
+His first actual minutes in an Apollo friendly create real performance pressure. He enters against Northbridge overwhelmed, simplifies his game long enough to settle, then begins recognizing space and making decisions inside the match rather than experiencing it as something happening to him. The match ends 0–0. Socially, he accepts the post-match team dinner instead of automatically leaving, another small step from proximity toward participation.
 
 The romantic thread also advances one deliberate step. A second shower encounter with Leo confirms that Taiga's earlier physical noticing was not a one-off. At dinner, Zoe clarifies that she and Leo are not dating and says she does not think Leo is into girls. The information matters to Taiga, but he does not consciously classify why. Later that night, an involuntary dream about Leo becomes an awake choice: after resisting, Taiga consciously continues and develops the fantasy while masturbating. He recognizes afterward that the dream cannot explain what he chose to do once awake, but postpones confronting what that means.
 
@@ -406,7 +406,7 @@ No single milestone should become the whole chapter.
 
 Football:
 
-**I'm useful enough to get minutes → I can now be trusted with larger roles, including a small first-team opportunity.**
+**I'm useful enough to get minutes → Mercer trusts me enough to start.**
 
 Academically:
 
@@ -415,14 +415,16 @@ Academically:
 ### Current likely structure
 
 - Let the chapter cover multiple weeks rather than one match week.
-- Taiga continues receiving reserve minutes. His **first reserve start** should happen here, but it is one development among several rather than the chapter's sole event.
-- A Northbridge rematch remains a strong candidate because it directly contrasts with Chapter 5. The first match overwhelmed him; now he recognizes the same kinds of spaces and problems earlier.
-- The reserve start does not need a goal or heroic performance. A solid hour-plus, a useful attacking action and several correct ordinary decisions are enough.
-- Ordinary life should breathe between football beats: classes, Room 317, Apollo, Nora, Camp Buddy messages and late-semester routines can all appear in compressed but concrete scenes.
-- The **formal Computer Science declaration** belongs naturally here. It should feel like Taiga finally formalizing a direction his behavior has already made obvious, not discovering a new identity in one dramatic conversation.
-- By later in the chapter, Taiga may earn his **first first-team minutes**. Keep the appearance brief and believable: a late cameo or similarly limited role that rewards the semester's progress without suddenly making him a first-team regular.
-- The first-team appearance should not overwrite the importance of the reserve pathway. It is a glimpse of the next level, not proof that Taiga has skipped developmental steps.
-- Do not repeat Chapter 6's catastrophic review anxiety. Taiga can care, anticipate and overthink without believing every selection decision will erase his place at Olympus.
+- Let the opening compress roughly two to three weeks of ordinary November life: assignments, finals approaching, heavier study routines, continued training and occasional low-key time with Apollo.
+- Training should show that Taiga now performs several formerly difficult actions without needing them explained: scanning early, holding width, recovering shape instead of chasing a mistake and recognizing space created by another player.
+- Mercer tells Taiga he will **start the next friendly** while Taiga is still on the developmental roster. The start is a trust milestone, not a promotion to the first team.
+- In the locker room, give the reader one small Leo clue: Leo looks at Taiga a beat too long; Taiga asks "What?"; Leo answers "Nothing." Taiga does not analyze it.
+- After training, Evan and Taiga walk back together. Evan's graduation gives the left-wing role a future horizon: Taiga is not promised Evan's place, but Evan believes he can eventually compete for it.
+- A study session with Nora contains the **formal Computer Science declaration**. Taiga recognizes that he is doing the same kind of circular overthinking he criticized in Aaron at Halloween, submits the declaration and goes back to work.
+- The Northbridge rematch provides Taiga's **first start in an Apollo friendly**. It should contrast directly with Chapter 5: the same opponent no longer overwhelms him, and his growth appears through ordinary correct decisions rather than heroics.
+- The start does not need a goal or official assist. A solid hour-plus, one useful attacking action and several correct ordinary decisions are enough.
+- Do not repeat Chapter 6's catastrophic review anxiety. Taiga can be nervous without treating the match as a verdict.
+- End immediately after Mercer's compact post-match judgment: **"Good."** No celebration or extra emotional explanation afterward.
 
 ### Leo / romance note
 
@@ -440,12 +442,9 @@ Taiga remains oblivious to Leo's romantic interest. He can understand that they 
 
 ### Guardrail
 
-Chapter 11 should not read as either:
+Chapter 11 should not read as "the first-start chapter" even though the start is its largest individual scene.
 
-- "the reserve-start chapter," or
-- "the first-team-debut chapter."
-
-Both football milestones matter because they occur inside a life that is already moving, not because the entire novel stops to announce them.
+The football milestone matters because it occurs inside a life that is already moving. Taiga remains a **developmental player** at the end of the chapter; starting an autumn friendly does not promote him to the first team.
 
 Likewise, do not spend Chapter 12's romantic destabilization here. Taiga's sexual-attraction compartment remains stable. He should not become nervous around Leo, repeatedly track him across rooms, or start asking himself whether Leo likes him.
 
@@ -538,7 +537,7 @@ By the end of Chapter 12:
 - Taiga has formally chosen Computer Science after spending the semester choosing it in practice.
 - Apollo is a social group, not merely a team.
 - Camp Buddy and Olympus can coexist.
-- Taiga has progressed from developmental newcomer to legitimate reserve player / starter and has received a small, believable first-team opportunity without becoming a first-team regular.
+- Taiga has progressed from developmental newcomer to a player Mercer trusts to start an autumn friendly, while remaining on the developmental roster.
 - Caleb, Nora, Maya and the Apollo cast are part of ordinary life.
 - Leo's feelings may already be a real crush, but he has not become a constant orbit around Taiga.
 - Taiga still interprets Leo as a friend he knows is hot until the rink's physical cue makes that explanation feel incomplete.

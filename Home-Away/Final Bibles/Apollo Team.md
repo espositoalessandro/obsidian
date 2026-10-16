@@ -74,6 +74,28 @@ This is especially important for Leo: he often occupies the role traditionally c
 - **At the end of the year, Evan graduates and Taiga inherits #11.** This is Taiga's earned senior number and a payoff to his progression as Apollo's left winger.
 - Do not give another Apollo player one of these locked numbers before the planned number transitions.
 
+### Squad tiers and competition calendar
+
+Apollo keeps a real distinction between the **first team** and the **developmental roster / development team**.
+
+That distinction is about status, trust and training level. It does **not** require a separate autumn reserve league.
+
+For the first-year structure used in *Home/Away*:
+
+- the **fall semester** is built around training, evaluation and **friendlies / exhibition matches**;
+- there is no Conference Championship competition in the fall;
+- developmental players can be selected for autumn friendlies and may play alongside established first-team players without that selection counting as a permanent promotion;
+- Taiga's Chapter 5 Northbridge appearance is his first friendly minutes;
+- Taiga's Chapter 11 Northbridge rematch is his first friendly start;
+- Taiga remains a developmental player after that start;
+- the **Conference Championship begins in the second semester**;
+- official conference matchdays, standings and the main Olympus soccer stadium belong to the spring competitive phase;
+- the freshman class, including Taiga, has not yet experienced the full main-stadium matchday environment during Section I.
+
+Use **friendly** in narration and ordinary dialogue unless a more formal institutional term is specifically needed. Use **scrimmage** for internal training games rather than matches against another university.
+
+This structure preserves the first-team / development-team hierarchy while keeping Section I focused on learning and evaluation. Spring is the first time the football results formally count toward the conference season.
+
 ### Leo — playing identity
 
 Leo's football should draw from the **creative, roaming No. 10 / right-sided playmaker** tradition rather than from a conventional touchline winger.
