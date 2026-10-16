@@ -144,3 +144,137 @@ Taiga raised an eyebrow and turned to go to the showers.
 
 ---
 
+When he went outside the locker room, he found Evan talking to Mercer. Mercer said something Taiga couldn't hear, Evan nodded, and then the conversation ended.
+
+Mercer walked away, while Evan spotted Taiga. A bright smile appeared on his face.
+
+"There he is."
+
+"No. Don't."
+
+"I just wanted to congratulate you."
+
+"Don't do that."
+
+Evan laughed and fell into step beside him. They headed toward the main campus. For a while they didn't talk about football at all. Evan complained about professors moving deadlines, other seniors having regular panic attacks and, in general, about having the feeling that Olympus was trying its best to get rid of him.
+
+"You never told me what you're studying," Taiga asked at some point.
+
+Evan shrugged. "Well, you never asked!"
+
+Taiga blinked. Yeah, Caleb-virus was evidently airborne.
+
+"I'm in Modern Languages major. Mostly Spanish and a bit of French here and here."
+
+"Oh. That's pretty cool."
+
+"It is! Besides, most people don't know but Spanish is the most spoken language in the world right now. So I hope it'll serve me well."
+
+"Is it?"
+
+"Just in our team, there's two native Spanish speaker, plus me."
+
+Taiga frowned. "Who?"
+
+"Who? Leo and Enzo of course. Didn't you know they were from Santo Domingo?"
+
+Right. He didn't think about the implications of that.
+
+"Yes, I just didn't think about it. They speak English normally, though."
+
+"Yeah, they must have studied it since they were children, I've never actually asked them."
+
+"Probably."
+
+"What about you though? I only know you're in the same Chemistry class with Leo."
+
+"I'm..." Taiga twitched his mouth. "Actually, I'm still undeclared."
+
+Evan shrugged. "That's fine. I've declared my major almost in May when I was a freshmen."
+
+"I'm considering Computer Science."
+
+"Then you're already ahead of me. If I'm not wrong, Leo's CS as well right?"
+
+"Unfortunately."
+
+"Heh. Well, you'll have company at least."
+
+"Unfortunately."
+
+Evan smiled. They continued for a couple of minutes without speaking. Then Taiga asked:
+
+"What are you doing after graduation?"
+
+"I haven't got the faintest freaking idea."
+
+Taiga stared at him. 
+
+"Dunno, I'll probably end up in some company. Or maybe I'll be a teacher. Or even a tour guide operator, that'd be nice. Free travel!"
+
+"Wh- Seriously, you don't know?"
+
+"Well, it's not like I'm graduating tomorrow, right?"
+
+"Still-"
+
+"I think I'll try out a thing or two once I'm outta here. See what clicks. And what allows me to pay for an actual house."
+
+Taiga stayed silent for a couple of seconds.
+
+"Right. Fair enough."
+
+Evan turned toward him. "How about you?"
+
+"I've not even chosen a major."
+
+"No, no. I mean, what are *you* doing once I'm out?"
+
+What?
+
+Ah. Right. The team.
+
+"If you're talking about the team, I don't know. Besides, it's not up to me to decide."
+
+"It kinda is, Taiga." Evan said, and stopped.
+
+"Why?"
+
+"Look, I think you know that you're the only one who's training specifically for that position. Right?"
+
+"Mercer said that it isn't decided yet."
+
+"And that's true. But during the tryouts there were way better player than you."
+
+Taiga frowned. "I know."
+
+"Some of them where actual winger. Yet, here you are."  
+
+He paused a second, then pointed at the dorm building.
+
+"And there they are."
+
+Taiga didn't answer.
+
+"Look, what I'm trying to say is that Mercer is betting on you. He could have picked another winger and keep you in development for the whole year. Even more. Instead, he kept you. He chose to focus on you for that specific position."
+
+Taiga gulped and, after a couple of seconds, said "That's a risky gamble."
+
+Evan smiled. "Yeah. But Mercer is a good coach. He knows what he's doing. That's why I trust you."
+
+Then he put a hand over Taiga's shoulder.
+
+"And that's why I want you to wear my shirt next year."
+
+Taiga felt his stomach tying up tight. Evan gently patted his shoulder and removed the hand.
+
+"No pressure, huh?" Taiga said
+
+"Oh no. Pressure. I know it'sucks, but I want you to know what's at stake. Just in case you thought you didn't matter that much."
+
+"That's fucked up."
+
+Evan laughed hard. "Yeah."
+
+
+
