@@ -60,7 +60,7 @@ There was silence. Then Caleb said, completely seriously,
 Taiga slowly lowered the blanket. Caleb was already walking toward the bathroom. Taiga stared after him.
 
 ***
-By Monday, Olympus had stopped pretending to be nice.
+Olympus had stopped pretending to be nice.
 
 During orientation week, the university had been covered in smiling volunteers, directional signs, free drinks and people asking if anyone needed help.
 
@@ -74,7 +74,6 @@ Within twelve minutes, he reconsidered every decision that had led him there.
 Professor Hall spoke quickly. Not impossibly. Just quickly enough that Taiga realized his old habit of listening and trusting himself to remember everything was not going to work.
 He opened his laptop and started taking notes.
 Three slides later he was behind.
-He typed faster.
 
 A student in the front row raised his hand and asked a question involving a political theorist Taiga had never heard of. Hall smiled.
 
