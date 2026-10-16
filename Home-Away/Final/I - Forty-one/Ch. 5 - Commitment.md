@@ -416,9 +416,9 @@ Taiga snorted and tilted his head back under the water.
 
 "Enzo said tacos."
 
-"Wasn't expecting the Oyster."
+"Wasn't expecting the mess hall."
 
-"Who goes to the Oyster on Saturday?"
+"Who goes to the mess hall on Saturday?"
 
 "My roommate does. He says it's much quieter."
 
