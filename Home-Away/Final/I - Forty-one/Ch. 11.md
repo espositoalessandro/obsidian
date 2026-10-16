@@ -8,7 +8,7 @@ Aaron and Sofia's upcoming date became a recurring subject in the Apollo group c
 
 Then November started doing what November apparently did at university: everything became due.
 
-Professor Hall assigned their final paper and spent ten minutes explaining that six pages of opinion could no be supported only by three citations to make it sound academic. Chemistry added another lab report. Rao put the last Foundations assignment online and casually mentioned the final as if that wasn't the kind of sentence that ruined people's week.
+Professor Hall assigned their final paper and spent ten minutes explaining that three citations couldn't magically turn six pages of opinions into an academic paper. Chemistry added another lab report. Rao put the last Foundations assignment online and casually mentioned the final as if that wasn't the kind of sentence that ruined people's week.
 
 Taiga started spending more time in the library. When the library got too crowded, he worked in his room instead. 
 Caleb had developed an entire system involving two timers, a spreadsheet and scheduled breaks. Taiga refused to participate on principle and then slowly started using the breaks anyway.
@@ -65,7 +65,7 @@ Mercer ignored them.
 
 "Saturday. Northbridge. Same time as usual. I'll send the group tonight."
 
-Players started toward the bottles. Taiga had just one sip before Mercer called for him.
+Players started toward the bottles. Taiga had barely taken a sip before Mercer called him.
 
 "Akatora."
 
@@ -75,11 +75,11 @@ Taiga stopped and approached him.
 
 Starting? For a second, he thought he'd misunderstood.
 
-"Starting?", he repeated out loud.
+"Starting?" he repeated.
 
 "Yeah."
 
-Mercer waited, but nothing useful came to Taiga's mouth.
+Mercer waited, but nothing useful came out.
 
 "Uh... Alright," he just said.
 
@@ -88,7 +88,7 @@ Mercer waited, but nothing useful came to Taiga's mouth.
 Mercer nodded and left.
 
 Taiga went to the locker room, still metabolizing the thought of him actually starting. 
-He lifted his shirt, shoved into his bag and sat down to untie his boots.
+He lifted his shirt, shoved it into his bag and sat down to untie his boots.
 Starting. Actual fucking starting. Not first team, sure, but... that should mean something. Right?
 
 "You alright?"
@@ -97,7 +97,7 @@ Taiga snapped out and looked up. Leo was standing in front of him, towel around 
 
 "Mh? Yeah."
 
-"You were starting at the floor like it had personally offended you or something."
+"You were staring at the floor like it had personally offended you or something."
 
 "Maybe it had."
 
@@ -107,7 +107,7 @@ He grabbed his stuff from his locker and sat beside him, drying off his hair wit
 
 "Did Mercer say something requiring that much computation?"
 
-"Not really I'm just-" Taiga gestured vaguely. "Starting with Northbridge."
+"Not really, I'm just—" Taiga gestured vaguely. "Starting against Northbridge."
 
 Leo stopped and looked at him in surprise. "Seriously?"
 
@@ -117,9 +117,9 @@ Leo stopped and looked at him in surprise. "Seriously?"
 
 Taiga pulled out his flip-flops and a towel from the bag.
 
-"Yeah, big deal. It's a friendly, I've already played in there."
+"Yeah, big deal. It's a friendly, I've already played against them."
 
-"Dude it's your first start, you can celebrate a little."
+"Dude, it's your first start. You can celebrate a little."
 
 He stopped for a second. "Maybe."
 
@@ -127,13 +127,13 @@ Leo frowned. "Okay, that was unexpectedly fast."
 
 "You sound disappointed," said Taiga while finishing undressing. "Did you want me to say I'll probably fuck up?"
 
-"N-No! Obviously, I just-" he stopped for half a second. "You know, I expected it."
+"N-No! Obviously, I just—" He stopped for half a second. "You know, I expected it."
 
 "Well, I'll probably fuck it up anyway. What's the point in worrying about it now?"
 
 Leo laughed. "Fair enough. I'd still consider this growth."
 
-Taiga shook his head and opened his bag to retrieve his shampoo and the shower gel.
+Taiga shook his head and opened his bag to retrieve his shampoo and shower gel.
 When he turned, Leo was still looking at him and smiling.
 
 "What?"
