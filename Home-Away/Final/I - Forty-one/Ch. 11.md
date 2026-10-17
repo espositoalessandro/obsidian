@@ -236,45 +236,59 @@ Ah. Right. The team.
 
 "If you're talking about the team, I don't know. Besides, it's not up to me to decide."
 
-"It kinda is, Taiga." Evan said, and stopped.
+"It kinda is, Taiga." Evan said.
 
-"Why?"
+"What you mean?"
 
 "Look, I think you know that you're the only one who's training specifically for that position. Right?"
 
 "Mercer said that it isn't decided yet."
 
-"And that's true. But during the tryouts there were way better player than you."
+"And that's true. I don't think you're ready for it. Yet."
 
-Taiga frowned. "I know."
+They stopped outside the dorm building.
+
+I think you know that during the tryouts there were way better player than you," Evan continued.
+
+Taiga frowned. "Yeah. I know."
 
 "Some of them where actual winger. Yet, here you are."  
 
 He paused a second, then pointed at the dorm building.
 
-"And there they are."
+"And there they are. "
 
 Taiga didn't answer.
 
-"Look, what I'm trying to say is that Mercer is betting on you. He could have picked another winger and keep you in development for the whole year. Even more. Instead, he kept you. He chose to focus on you for that specific position."
+"Look, what I'm trying to say is that I think Mercer is betting on you. He could have picked another winger and keep you in development for the whole year or as a reserve."
 
 Taiga gulped and, after a couple of seconds, said "That's a risky gamble."
 
-Evan smiled. "Yeah. But Mercer is a good coach. He knows what he's doing. That's why I trust you."
+Evan smiled. "Yeah. But Mercer is a good coach. He knows what he's doing. I had my doubts at the beginning, but I'm starting to see why he did that."
 
-Then he put a hand over Taiga's shoulder.
+Then he put a hand over Taiga's shoulder and smiled.
 
 "And that's why I want you to wear my shirt next year."
 
 Taiga felt his stomach tying up tight. Evan gently patted his shoulder and removed the hand.
 
-"No pressure, huh?" Taiga said
+"No pressure, huh?" Taiga said.
 
 "Oh no. Pressure. I know it'sucks, but I want you to know what's at stake. Just in case you thought you didn't matter that much."
 
-"That's fucked up."
+"That's... fucked up."
 
 Evan laughed hard. "Yeah."
 
+Taiga smiled as well.
 
+"...Thanks," he said, after a while.
+
+"Anything for my little kohai."
+
+Taiga blinked.
+
+"Don't ever say that again."
+
+***
 
