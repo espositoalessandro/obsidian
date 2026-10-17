@@ -290,5 +290,64 @@ Taiga blinked.
 
 "Don't ever say that again."
 
+Evan smiled. "Anyway, don't make that face. I'm not donating you my job because Mercer gave you one start in November."
+
+"Yeah, I know."
+
+"Good. Because I'm planning to remain significantly better than you until graduation."
+
+Taiga laughed. "Go fuck yourself."
+
+"There he is."
+
 ***
+
+Somehow Nora was getting more unbearable than usual. As weeks passed, she spent more and more time in the library. Her army of notes, Post-it, books and colored tabs had grown enough to require half a table every time. 
+The good thing about this was that she was so focused on her studies that annoying Taiga had become secondary.
+
+The bad thing, however, was that whoever tried to talk to her while she was deep in a paragraph, basically risked their life.
+
+Taiga discovered this once when he asked about Oliver while she was clearly struggling writing an assignment for Hall.
+
+"He's better."
+
+"Is he still in the ridiculous cone?"
+
+"No."
+
+"So, the infection has passed?"
+
+"I don't know."
+
+Taiga waited a couple of seconds.
+
+"Is that how I usually sound like?"
+
+She pointed a pen towards him with a murderous look.
+
+"Taiga. Not now."
+
+He raised his hands in surrender. "Alright, sorry."
+
+Geez.
+
+It was the day after his talk with Evan. Besides all the soccer stuff that was still sitting like a concrete block in his stomach, he was still thinking about how chill he was about his future.
+
+*I'll try out a couple of things and see what sticks.*
+
+That was a stupid way of picking decisions. 
+
+Maybe, though, having an always opened tab of the school program sitting in the background with the "Computer Science" voice already selected in the dropdown was even more stupid.
+
+Taiga glanced at Nora. She was resting her head on both hands while intensely looking at the screen of her laptop.
+
+Pointless. He didn't need another fucking conversation about how he'd already picked two CS classes for the next semester.
+
+His phone buzzed.
+
+**Leo:** pls tell me you've already done rao's criminal assignment
+
+Talk about bad timing.
+
+**Taiga:** working on it
 
