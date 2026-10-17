@@ -1,4 +1,4 @@
-### Chapter 11
+### Chapter 11 - Thresholds
 
 By Monday morning, Central Park looked like a park again.
 
@@ -382,3 +382,8 @@ Taiga laughed from his nose.
 **Taiga:** for your own safety
 
 **Leo:** i'll be invisible
+
+He didn't. Obviously. Nora just gave him an annoyed "Hi" when he arrived, then Leo earned two stares and one "shut up" in about ten minutes because he kept trying to make conversation with her.
+
+Taiga just gave him an "I told you" look when he turned to him after that. Eventually, he finally pulled out his laptop and started working.
+
