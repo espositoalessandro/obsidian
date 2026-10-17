@@ -351,3 +351,34 @@ Talk about bad timing.
 
 **Taiga:** working on it
 
+**Leo:** now?? 
+
+**Taiga:** why
+
+**Leo:** i need emotional support 😭😭
+
+**Taiga:** wrong person
+
+**Leo:** shared pain is still emotional support?
+
+**Taiga:** what if i'm not in pain?
+
+**Leo:** then it means you want to suffer alone
+**Leo:** which i can respect 
+
+Idiot.
+
+**Taiga:** can you?
+
+**Leo:** i could try really badly
+
+Taiga laughed from his nose.
+
+**Taiga:** library, second floor
+**Taiga:** just pretend nora isn't here
+
+**Leo:** why 🤨
+
+**Taiga:** for your own safety
+
+**Leo:** i'll be invisible
