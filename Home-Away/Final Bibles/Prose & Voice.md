@@ -449,8 +449,8 @@ The Section I progression is:
 - **Early Chapter 6:** Taiga settles on a deliberately simple interpretation. In substance: **Leo is hot. That explained enough.** The text may state this once, briefly and Taiga-shaped, so the reader understands that Chapter 5 has not been forgotten.
 - **Chapters 6–10:** do **not** turn that admission into nervousness, fixation, intrusive thoughts or special narrative gravity. Taiga can know Leo is hot and still behave normally around him. He does not start seeking Leo out with his attention, getting flustered by his presence, or wondering what every interaction means. The attraction is compartmentalized and, from Taiga's perspective, adequately explained.
 - **Chapter 11:** Halloween has improved the friendship, and Leo may by now have a genuine crush on Taiga. The reader may see that through a few small choices, but the relationship should not suddenly become constant. Leo does not orbit Taiga or become his automatic companion; that stronger social-default pattern belongs to Act II. Taiga reads the increased warmth as friendship and remains oblivious.
-- **Chapter 12:** the compartment is destabilized by a **physical cue at the rink**, not by Leo saying something that explains the relationship. Practical skating contact lasts a beat beyond necessity, both boys register it, and Taiga's body reacts before he can classify why. This is the point where Leo begins to feel personally charged rather than merely physically attractive.
-- **After the Chapter 12 turn:** the narration may begin snagging on Leo in a more personal way. Physical details, presence, absence and interaction can now carry emotional weight that they did not before.
+- **Chapter 12:** the compartment breaks through a **progression**, not one magical touch. Leo takes both of Taiga's hands to teach him to skate; the contact begins as practical and goes unnoticed while Taiga is busy balancing. Once Taiga has enough spare attention to realize they are still holding hands, he becomes genuinely nervous and ends the contact himself. Minutes later, Taiga cannot stop quickly enough after warning Leo about another skater and collides into him; Leo catches him in a standing embrace. Their faces remain centimeters apart, both flush, and Taiga abruptly notices details of Leo's face he has no practical reason to catalogue. He files the moment as awkward rather than diagnosing a crush.
+- **After the Chapter 12 turn:** the narration may begin snagging on Leo in a more personal way. Physical details, presence, absence and interaction can now carry emotional weight. The final separation before break adds a second kind of evidence: three weeks without Leo feels longer than Taiga expects.
 
 Do not spend the Chapter 12 token early.
 
@@ -605,7 +605,7 @@ The key early mechanism is not ignorance.
 
 It is **compartmentalization**.
 
-Chapter 12 is the break in that compartment. The rink should use a **physical cue rather than a meaningful line**: necessary contact survives slightly past necessity, both boys register the beat, and Taiga reacts before he has language for why it felt different. The point is not to reveal a crush to Taiga. It is to make his old explanation — **Leo is hot; that explains enough** — stop explaining everything.
+Chapter 12 is the break in that compartment. The rink should use **two escalating physical beats rather than a meaningful line**. First, Leo takes both of Taiga's hands to teach him to skate. The contact begins as neutral and useful; Taiga only becomes nervous once he is competent enough to notice that they are still holding hands, and he ends it himself. Later, Taiga cannot stop quickly enough and runs into Leo after Leo avoids another skater. Leo catches him in a standing embrace; both boys flush at the close distance, and Taiga notices unusually specific details of Leo's face before pulling away. He can call that second beat awkward. What he cannot fully explain is why harmless hand-holding made him nervous, why the embrace registered so intensely, or why the prospect of three weeks without Leo bothers him at the end of the night. The point is not to reveal a crush to Taiga. It is to make his old explanation — **Leo is hot; that explains enough** — stop explaining everything.
 
 ### Anger and regression
 
@@ -634,17 +634,15 @@ He is **participating**.
 ## Section II — Past Mistakes
 
 ### Narrative state
-**Attachment becomes visible enough to become threatening.**
+**Awareness turns into recognition.**
 
-Section II should not simply make Taiga angrier.
+Chapter 12 has already shown Taiga that Leo no longer fits cleanly inside "hot friend."
 
-Its central movement is that relationships he could previously treat as casual now produce consequences.
+Section II is where Taiga spends months trying to manage that knowledge before finally admitting the obvious.
 
-Leo is no longer merely interesting.
+The central contradiction is:
 
-Caleb is no longer merely a tolerable roommate.
-
-Olympus is no longer somewhere Taiga can leave emotionally untouched.
+> **when Taiga notices the pattern, he pulls back; when he acts on what he actually wants, he moves closer.**
 
 ### Dominant narration
 
@@ -652,209 +650,249 @@ Compared with Section I:
 
 - less blanket hostility toward Olympus;
 - more relational attention;
-- more awareness of absence;
-- more attention to routines and changed behavior;
-- stronger discomfort when closeness becomes visible to other people.
+- more awareness of Leo's presence and absence;
+- more sensitivity to touch, eye contact and one-on-one situations;
+- more attention to whether Leo is expected somewhere;
+- stronger discomfort when other people can see the same pattern Taiga has begun seeing privately.
 
-The external world itself should require less hostile commentary because it is becoming familiar.
+Taiga's new nervousness is **situational**, not a replacement personality.
 
-The sharper narration increasingly attaches to **relationships rather than surroundings**.
+He can still joke, train, argue, study and text with Leo normally.
 
-### Social position
+The nervousness activates when something resembles the unresolved Chapter 12 question:
+- prolonged touch;
+- close physical proximity;
+- private / intimate conversation;
+- consciously choosing Leo;
+- realizing he has changed plans because Leo is involved;
+- somebody else naming their closeness.
 
-Taiga begins to develop an Olympus inner circle.
+### Push / pull
 
-He may not call it that.
+Taiga's behavior should repeatedly produce the contradiction before he can resolve it.
 
-His narration nevertheless reveals it through:
+He may:
+- create distance after a charged moment;
+- then notice Leo's absence immediately;
+- decide not to make things weird;
+- then check whether Leo has messaged;
+- tell himself an outing is optional;
+- then become interested once Leo says yes;
+- resent how visible the pattern feels;
+- then seek Leo out when he actually needs someone.
 
-- noticing when Caleb is gone;
-- recognizing Nora's habits;
-- expecting Leo beside him;
-- reacting when normal patterns change.
+Do not make this a repetitive cycle in every chapter.
 
-This is a major shift from Section I.
+The kind of evidence should change.
 
-### Vulnerability
+### Longing before admission
 
-Taiga can disclose difficult things, but access remains highly selective.
+Section II should make absence meaningful before Taiga is ready to call the feeling romantic.
 
-When pushed into genuine exposure, he may:
+Rooms can feel different when Leo is not there.
 
-- become angry;
-- shorten;
-- deflect;
-- say something cruel before saying something honest;
-- retreat after feeling seen.
+Plans can become more attractive because Leo is attending.
 
-The Pinetree rupture is a major regression point.
+Taiga can want to tell Leo something before noticing he has selected Leo as the person to tell.
 
-Outside attention names a closeness Taiga has not yet accepted.
+This is **longing as behavior**, not poetic yearning.
 
-His fear is converted into anger and distance.
+### Pinetree rupture
 
-The narration should make this understandable without endorsing his interpretation.
+By Pinetree, other people are naming a pattern Taiga has already privately noticed.
 
-### Reliability
+That is why outside attention is threatening.
 
-This section should make especially clear that Taiga's emotional reading can be wrong.
+The fear is not:
 
-Under threat, he may mistake:
+> "What? That's ridiculous."
 
-- care for pressure;
-- visibility for humiliation;
-- closeness for loss of control.
+At a deeper level it is:
 
-His interpretation is the narrative lens.
+> **"Fuck. You can see it too."**
 
-It is not objective truth.
+Taiga tries to restore the old category by creating distance.
 
-### Emerging change
+That choice hurts Leo and exposes the cost of using rejection as self-protection.
 
-The repair matters more than the rupture.
+Leo's boundary remains essential: Taiga may be afraid or confused, but he cannot turn Leo's care into something shameful and then expect Leo to keep absorbing the push / pull.
 
-By the end of Section II, Taiga has learned that:
+### Repair and realization
 
-- pushing someone away has consequences;
-- another person may establish a boundary without abandoning him;
-- disclosure does not automatically destroy the relationship;
-- ordinary life can resume without pretending the rupture never happened.
+The repair must not reset them to "friends who still have no idea what is happening."
+
+By the end of Section II, Taiga should understand his own desire.
+
+A line in the working spirit of Leo saying:
+
+> **"I don't want to change wherever we were going."**
+
+forces the issue away from labels and toward direction.
+
+Taiga does not need to be ready to call Leo his boyfriend.
+
+He does need to recognize:
+
+- he likes Leo romantically;
+- he wants more than ordinary friendship;
+- the movement between them was real;
+- he wants that movement to continue.
+
+The key Section II result is:
+
+> **I want to keep moving toward there.**
 
 ### Final-section calibration
 
 By the end of Section II, Taiga should feel:
 
-- more attached;
-- more cautious about what his anger can damage;
-- somewhat better at recognizing when he is afraid rather than merely irritated;
-- no longer able to plausibly treat Leo as interchangeable with any other friend.
+- consciously aware that he likes Leo as more than a friend;
+- aware that nervousness, longing and preference were all part of the same pattern;
+- more cautious about what defensive anger can damage;
+- willing to let the relationship keep moving forward;
+- still frightened by definition and commitment;
+- not yet ready to make a formal relationship claim.
 
-His defenses remain strong.
+His defenses remain.
 
-They have become **specific**, rather than global.
+What disappears is plausible deniability about **his own desire**.
 
 ---
 
 ## Section III — Moving On
 
 ### Narrative state
-**Recognition without comfortable definition.**
+**Known desire becomes action.**
 
-This is the section where Taiga's narration should become substantially more self-aware.
+Section III is not a second recognition act.
 
-He can no longer explain away:
+Taiga already knows by the end of Section II that he likes Leo and wants more.
 
-- physical attraction;
-- jealousy;
-- preference;
-- Leo's special place;
-- the emotional significance of bringing Leo into Camp Buddy.
+The section begins from:
 
-But recognition does not make him comfortable.
+> **I know I want him. Now we keep moving toward each other.**
+
+The remaining uncertainty concerns:
+- intent;
+- boundaries;
+- expectations;
+- what kinds of intimacy they are willing to make deliberate;
+- how much meaning can exist before either boy wants a formal label.
 
 ### Dominant narration
 
 Compared with Section II:
 
-- more attention to bodies and proximity;
-- more relational comparison;
-- more direct acknowledgment of discomfort;
-- less ability to dismiss every reaction as meaningless;
-- stronger conflict between what Taiga knows and what he wants to define.
+- less denial about why Leo matters;
+- less surprise at preference;
+- more direct physical and emotional attention;
+- more awareness of intentional choices;
+- less need to explain away every moment of longing;
+- stronger sensitivity to whether Leo means a touch / invitation / reaction the same way Taiga does.
 
-The narration may still contain denial, but the denial should become increasingly weak and visibly strategic.
+Taiga can still become embarrassed or defensive.
+
+What he should not do is reset to:
+
+> "Why am I noticing Leo?"
+
+He knows why.
 
 ### Attraction
 
-Section III is the main transition from:
+Physical attraction has been consciously known since Chapter 5.
 
-> notice → dismiss
+Section III changes its **context**, not its existence.
 
-to:
+Now that Taiga has admitted he likes Leo, ordinary body awareness becomes harder to quarantine from romantic meaning.
 
-> notice → understand → avoid deciding what to do with it
+The useful question is no longer:
 
-Taiga may look away.
+> "Am I attracted to him?"
 
-He may get embarrassed.
+It becomes:
 
-He may become annoyed.
+> **"Did he mean to do that?"**
 
-But the narration should stop pretending the physical attraction itself is mysterious.
+Taiga may look away, get flustered or avoid escalating a moment, but the narration should not pretend his own attraction is mysterious.
 
-### Camp Buddy and selective trust
+### Deliberate choice
 
-Bringing Leo into Camp Buddy is narratively important because two trust systems overlap.
+Taiga's invitation to Camp Buddy must be conscious.
 
-Taiga already knows how to be vulnerable there.
+He is not accidentally choosing Leo and understanding it later.
 
-The destabilizing element is that Leo now enters a place previously associated with people already inside Taiga's wall.
+He knows:
+- he wants Leo there;
+- inviting him into Camp Buddy is personally meaningful;
+- Leo is not interchangeable with another friend.
 
-Taiga's narration should register this through:
+When Taiga later says, in substance:
 
-- practical attention to whether Leo fits;
-- relief when he does;
-- discomfort when old history returns;
-- sensitivity to Leo's place relative to Kieran and the Camp Buddy cast.
+> **"I knew what I was doing when I invited you."**
 
-### Kieran and old patterns
+the statement should be literally true.
 
-Kieran should trigger older defensive structures without returning Taiga wholesale to an older personality.
+### Camp Buddy and expectations
 
-Taiga is capable of:
+Bringing Leo into Camp Buddy overlaps Taiga's old and new emotional worlds.
 
-- anger;
-- suspicion;
-- resentment;
-- old bodily memories;
-- recognizing Kieran's vulnerability;
-- revising his understanding of what forgiveness means.
+Because Taiga already knows he likes Leo, the Kieran material does not function as a device for discovering romance.
 
-This section is an important test of **judgment → revision**.
+It exposes:
+- expectations that have already formed;
+- jealousy;
+- incomplete disclosure;
+- the difference between privacy and strategic omission;
+- the fact that both boys have begun assigning special meaning to their place beside each other.
 
-Taiga can acknowledge complexity without restoring a relationship he does not want back.
+Taiga's old relationship history matters because he is moving toward something new, not because he still needs to discover that he wants Leo.
 
-### Vulnerability
+### Intimacy
 
-Taiga becomes more capable of saying things he previously would have left implicit.
+Section III lets emotional and physical movement become increasingly intentional.
 
-However, he should still be awkward.
+The Camp Buddy climax can explicitly establish:
+- mutual romantic interest;
+- mutual sexual attraction;
+- the special meaning of the invitation;
+- deliberate physical intimacy.
 
-Honesty may arrive through:
+The boys still do not need to become boyfriends immediately.
 
-- incomplete sentences;
-- irritation;
-- silence followed by one direct statement;
-- practical framing;
-- admission only after another person forces the issue into the open.
+The uncertainty is now about **shape and definition**, not whether desire exists.
 
 ### Final-section calibration
 
 By the end of Section III, Taiga should feel:
 
-- consciously attracted to Leo;
-- consciously emotionally invested;
-- capable of admitting that Leo has a special place;
-- more willing to revise old judgments;
-- still uncomfortable with labels and definition;
+- fully conscious that he wants Leo;
+- confident that Leo reciprocates romantic and sexual interest;
+- capable of acting intentionally on that knowledge;
+- able to bring Leo into emotionally loaded parts of his life by choice;
+- still uncomfortable with formal labels / relationship definition;
 - increasingly able to remain present after vulnerability instead of fleeing from it.
 
-He is no longer mainly asking **what is happening to me?**
+He is no longer asking **what do I want from him?**
 
-He is increasingly asking **what am I going to do about it?**
+He is living the answer while avoiding, for now, the question of what to call it.
 
 ---
 
 ## Section IV — New Threshold
 
 ### Narrative state
-**Comfort, mutuality and chosen investment.**
+**The existing relationship crystallizes into chosen definition.**
 
-Section IV begins after the most destabilizing ambiguity has already been reduced.
+Section IV begins after attraction, romantic interest and deliberate intimacy are already mutual facts.
 
-Taiga and Leo can now occupy physical and emotional closeness without every interaction requiring analysis.
+Taiga and Leo are not waiting to discover whether they want each other.
 
-This should produce one of the clearest shifts in narration.
+They are already behaving like two people in an emerging relationship.
+
+The remaining threshold is:
+
+> **Will they choose to define it and accept the commitment that comes with the label?**
 
 ### Dominant narration
 
@@ -872,24 +910,38 @@ The narration should be warmer without announcing that it is warmer.
 
 ### Attraction and intimacy
 
-Physical attention becomes straightforward.
+Physical attention is straightforward.
 
 Taiga does not need to:
-
 - justify looking;
 - interrogate every touch;
-- treat attraction as evidence requiring analysis.
+- treat desire as evidence requiring analysis.
 
 He can simply notice Leo and continue.
 
-The significance increasingly moves from **whether attraction exists** to **what closeness means and what they choose**.
+The relational question has moved from:
+
+> "Do I want this?"
+
+to:
+
+> **"Am I willing to call this a relationship and behave accordingly?"**
+
+### Definition
+
+Act / Section IV should **crystallize** the trajectory into an actual boyfriend relationship.
+
+The first kiss / explicit relationship threshold should matter because it formalizes something already lived rather than creating romance from nothing.
+
+Do not make the label feel like a surprise reward after prolonged ignorance.
+
+It is a choice.
 
 ### Football and control
 
-Much of Taiga's remaining rigidity can now surface through football rather than romance.
+Much of Taiga's remaining rigidity can surface through football rather than romance.
 
 He may still:
-
 - overanalyze mistakes;
 - replay decisions;
 - try to solve matches before they happen;
@@ -899,7 +951,7 @@ This keeps his control-oriented personality active even while relational defense
 
 ### Social belonging
 
-Olympus should now feel familiar in the narration.
+Olympus should feel familiar in the narration.
 
 Caleb, Nora, teammates and campus routines no longer need introductory interpretation.
 
@@ -910,7 +962,6 @@ That assumption itself communicates belonging.
 ### Vulnerability
 
 Taiga increasingly permits other people to see:
-
 - pride;
 - disappointment;
 - need;
@@ -926,11 +977,12 @@ By the end of Section IV, Taiga should feel:
 - comfortable being wanted;
 - comfortable wanting Leo;
 - capable of chosen romantic commitment;
+- able to call Leo his boyfriend without the label itself feeling like loss of control;
 - strongly invested in his Olympus relationships;
 - still sarcastic, competitive, blunt and proud;
 - significantly less likely to turn emotional exposure into hostility.
 
-The important shift is that closeness has stopped feeling inherently dangerous.
+The important shift is that closeness has stopped feeling inherently dangerous enough to require ambiguity as protection.
 
 ---
 
