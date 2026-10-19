@@ -763,8 +763,8 @@ Again, he was immediately hit by the missing presence of Caleb. It still felt we
 He took a shower, then went back to pack his bag.
 
 When he was done, he looked around to check if he'd missed anything.
-He was suddenly hit by the memory of when he first entered that room. 
 
+The empty room suddenly reminded him of when he first entered. 
 It had looked more or less like this. 
 Same walls, same furniture, no personal items.
 
