@@ -575,7 +575,7 @@ Leo chuckled. "Looks like it."
 
 Saturday arrived gray, cold and windy. 
 
-Mercer had just entered the lockers room for the usual briefing. 
+Mercer had just left the locker room after the usual briefing. 
 Taiga looked at the magnetic board.
 
 		                PRICE J.
@@ -594,13 +594,7 @@ Around him, on the other hand, things were still normal. Enzo was shouting nonse
 
 Briarwood arrived in dark red shirts. Taiga knew almost nothing about them beyond what Mercer had said during film: compact midfield, aggressive fullbacks, annoying press.
 
-Mercer went through the lineup, repeated two instructions Taiga had already heard twice that week, then moved on.
-
-"Akatora. Keep the width until we get into the final third."
-
-"Yeah."
-
-That was it. They warmed up, lined up, shook hands, and the whistle went.
+They warmed up, lined up, shook hands, and the whistle went.
 
 The match itself was mostly ordinary. 
 Briarwood pressed hard for the first fifteen minutes, then slowed down. Taiga got the ball, lost it, won it back once, sent one cross too long and another into the box where nobody reached it. He made a few runs that went nowhere and a couple that pulled the fullback away from Aaron.
