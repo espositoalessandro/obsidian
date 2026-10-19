@@ -727,21 +727,21 @@ They discussed what costumes they would wear and whether Olympus would shift the
 Then Aaron changed the subject by asking whether anyone already had plans for the break after finals. Sofia was going home, so were Gav and Scott. Being only a couple of hours away by car definitely made the decision easier. Zoe had already booked a vacation in the mountains with her parents.
 Then Enzo turned towards Leo.
 
-"You?"
+"You decided if you stay or not?"
 
-Leo made a face. "I'm considering going back to Santo Domingo, but it depends what flights look like."
+Leo made a face. "I'd like to go home, but it depends what flights look like."
 
-"Tell my mother if you decide to go. Otherwise she'll find out from Carmen."
+"UGH. Tell me when you decide."
 
-"That sounds like a you problem."
+"Why? You haven't decided yet?"
 
-"It is a me problem. On an international scale. Tell your mother."
+"Nope. I don't know how I feel about flying all the way to Santo Domingo for a couple of weeks. But I don't want to stay here on my own either."
 
 Taiga turned toward them.
 
 "Santo Domingo?"
 
-Leo nodded. "Yeah. We're both from there. Same school. Same team, too, for a while."
+Leo nodded. "Yep. We're both from there. Same school. Same team, too, for a while."
 
 Enzo raised a hand. "Important correction: I was on the team first."
 
@@ -761,7 +761,7 @@ Leo turned. "You counted?"
 
 "Yes. This is the second time you've accused me based on false data. So I collected evidence."
 
-"So your families are there?" Taiga asked.
+"And your families are there?" Taiga asked.
 
 "Yep," Leo said.
 
@@ -771,17 +771,7 @@ Taiga frowned. "What problem?"
 
 Enzo pointed at Leo with a fry.
 
-"If he goes home and my mother hears from his mother before she hears it from me, then I'm responsible."
-
-Leo opened his arms. "You're making it sound like a diplomatic incident."
-
-"It becomes one."
-
-"So you're going home for break?" Taiga asked.
-
-"Depends," Leo said. "If flights make sense. It's not exactly somewhere you go for two days."
-
-"Which is why," Enzo said, "if he goes home and I don't, my mother will ask why Leo loves his family more than I love mine."
+"If he goes home and I don't, my mother will ask why Leo loves his family more than I love mine."
 
 Leo laughed. "She has never said that."
 
