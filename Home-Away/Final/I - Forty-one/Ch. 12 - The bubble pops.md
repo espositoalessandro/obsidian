@@ -313,13 +313,13 @@ Leo grinned. "Come, I'll teach you then!"
 
 "Eheh, alright. We'll see."
 
-Obviously, he was not. Taiga immediately the ice the very moment he stepped onto it. The skate moved before he wanted it to. His right foot slid sideways and he caught the barrier with one hand.
+Obviously, he was not. Taiga immediately hated the ice the moment he stepped onto it. The skate moved before he wanted it to. His right foot slid sideways and he caught the barrier with one hand.
 
-Leo zoomed beside him with too much confidence for a Caribbean boy.
+Leo skated past him with too much confidence for a Caribbean boy.
 
 "How the fuck do you know this?"
 
-Leo laughed. "Sometimes they setup an ice rink in the city during winter."
+Leo laughed. "Sometimes they set up an ice rink in the city during winter."
 
 "Great."
 
@@ -332,7 +332,7 @@ Leo was standing there with the face of someone who's trying so hard not to laug
 
 Taiga tried.
 His left skate moved. The right did not.
-He ended up grabbing the barrier for his life again.
+He ended up grabbing the barrier for dear life again.
 A child passed behind him at a speed Taiga couldn't even imagine reaching.
 Leo moved in front of Taiga and started skating backward.
 
@@ -399,19 +399,19 @@ He stopped treating each movement like an emergency.
 
 By the time they had gone most of the way around once, he could keep his feet under him without the barrier.
 
-"See? You're getting the hang out of it."
+"See? You're getting the hang of it."
 
 Taiga looked at him. Before he answered, he noticed that Leo was still holding his hands. His grip changed slightly whenever Taiga drifted to one side. His thumbs rested over Taiga's knuckles.
-They were kinda warm. His grip was tight, but also gentle at the same time.
+They were kinda warm. His grip was tight, but somehow gentle.
 
 Why was he looking at that?
 
-He looked up again. Leo was still talking apparently, saying something about turning. Taiga had lost the first half of the sentence.
+He looked up again. Leo was still talking, saying something about turning. Taiga had lost the first half of the sentence.
 
 He looked back down and his stomach tightened a bit.
 He suddenly became too aware of how long they'd been holding hands.
 
-Taiga cleared his voice. "Right."
+Taiga cleared his throat. "Right."
 
 Leo stopped talking.
 
@@ -440,38 +440,38 @@ That made Leo laugh.
 A few minutes later, Taiga could finally turn without having to think through every part of it.
 Leo was still skating backward in front of him, correcting little things whenever he noticed them.
 
-"Okay, try and push more with the left, you're favoring the right."
+"Okay, try to push more with the left. You're favoring the right."
 
 Taiga looked up at him with a frown. He was about to answer, then he saw another skater coming up behind Leo. A guy in a dark coat was moving quickly while looking sideways at the person beside him.
 
-"Because if you do that way then-"
+"Because if you do it that way—"
 
-"Leo stop! Behind you," Taiga said pointing at the guy.
+"Leo, stop! Behind you," Taiga said, pointing at the guy.
 
 Leo looked over his shoulder and stopped immediately.
 The guy swerved past without touching him.
-Taiga, on the other hand, hadn't reach the part where he learned how to stop.
+Taiga, on the other hand, hadn't reached the part where he learned how to stop.
 
-"SHIT-"
+"SHIT—"
 
-He went straight Into Leo. 
+He went straight into Leo. 
 Leo's arms came around him before either of them lost balance. Taiga grabbed the front of his jacket.
 
 "Woah."
 
-They held tight onto each other while Leo tried to catch his balance again. After a couple of dramatic seconds, they settled.
+They held onto each other while Leo tried to catch his balance again. After a couple of dramatic seconds, they settled.
 
 As panic washed away, Taiga noticed his face was merely centimeters from Leo's. He could even see snowflakes melting in his hair.
 For a moment, neither moved.
 Taiga saw every detail. The color across his cheeks from the cold. The small crease between his eyebrows. His mouth, slightly open from the impact.
-Their eyes locked for a splitsecond, until Taiga realize he was staring.
+Their eyes locked for a split second, until Taiga realized he was staring.
 He also became aware of Leo's arms still around him.
 Heat hit his ears almost immediately.
 
 What the fuck was he doing?
 
 He blinked, then let go of his jacket.
-Still with heavy breathing, he muttered "Sorry..."
+Still breathing hard, he muttered, "Sorry..."
 
 Leo let go and briefly shook his head. "I stopped too fast."
 
@@ -483,7 +483,7 @@ Leo finally let out a laugh. "Yeah, I forgot to teach you a very necessary maneu
 
 "Yeah, how did you stop so fast?"
 
-Leo showed him and slowly the awkwardness went away. They went back at skating, this time Leo spent as little as possible skating backwards and stayed beside him. 
+Leo showed him and slowly the awkwardness went away. They went back to skating. This time, Leo mostly stopped skating backward and stayed beside him. 
 For the next half hour, Taiga was irritatingly aware of the distance between them.
 
 Eventually, 'one more lap' actually became the last one.
