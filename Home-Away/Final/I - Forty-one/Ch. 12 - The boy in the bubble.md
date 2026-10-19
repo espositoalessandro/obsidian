@@ -711,7 +711,7 @@ Snow had settled over Central Park and along the roofs of the Residential Zone.
 
 "So, when are you coming back here?" Leo asked at some point.
 
-"Probably around the 3rd of 4rth of January."
+"Probably around the 3rd or 4th of January."
 
 Leo nodded.
 
@@ -755,17 +755,17 @@ Leo chuckled. He put his hands in his pockets.
 
 "Dumbass. Yeah, see you."
 
-Leo hesitated a second, then turned toward his lift. Leo watched him go, until he disappeared behind the doors.
+Leo hesitated for a second, then turned toward his lift. Taiga watched him go until he disappeared behind the doors.
 
 He went back to his room.
 
 Again, he was immediately hit by the missing presence of Caleb. It still felt weird.
-He took a shower, than went back to pack his bag.
+He took a shower, then went back to pack his bag.
 
-When he was done, he looked around to check if he missed something.
-He was suddenly hit by the memory of when he first entered in that room. 
+When he was done, he looked around to check if he'd missed anything.
+He was suddenly hit by the memory of when he first entered that room. 
 
-It was more or less like this. 
+It had looked more or less like this. 
 Same walls, same furniture, no personal items.
 
 And yet, for some reason, it felt more welcoming than before.
