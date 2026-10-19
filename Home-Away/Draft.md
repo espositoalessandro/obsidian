@@ -1821,12 +1821,6 @@ Leo smiled.
 
 For a second, neither of them moved.
 
-Not like the rink.
-
-Nothing weird.
-
-Just the end of the evening.
-
 "Night, Taiga."
 
 "Night."
