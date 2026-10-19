@@ -641,9 +641,9 @@ Taiga sat down and started pulling off his boots.
 
 "That's not really a reason."
 
-Aaron dropped onto the bench across from them. "You know I can't."
+Aaron dropped onto the bench across from them. "Where?"
 
-Enzo smiled. "We know. You better not screw up tonight!"
+Enzo shrugged. "No freaking idea."
 
 Leo appeared from the showers with a towel around his waist.
 
@@ -661,7 +661,7 @@ Leo smiled. "I'm in."
 
 Gav looked over from two lockers down. "If we're leaving campus, decide quickly. The next train is in twenty-three minutes."
 
-That immediately turned into another argument. Enzo wanted burgers, Gav wanted pizza, Leo suggested ramen for reasons nobody understood. Scott said he didn't care, which somehow made Enzo ask him three more times.
+That immediately turned into another argument. Enzo wanted burgers, Aaron wanted pizza, Leo suggested ramen for reasons nobody understood. Scott said he didn't care, which somehow made Enzo ask him three more times.
 
 Taiga finished changing while they argued.
 
