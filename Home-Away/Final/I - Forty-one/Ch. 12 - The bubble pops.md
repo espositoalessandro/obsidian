@@ -145,6 +145,7 @@ Apparently peace had lasted too long.
 **Taiga:** like?
 
 **Leo:** acropolis rink is open 
+**Leo:** there's also a christmas village :3
 
 **Taiga:** congratulations to the rink
 
@@ -167,9 +168,9 @@ He could do it later.
 
 **Taiga:** when
 
-**Leo:** 4:10 central station?
+**Leo:** 4:00 common hall?
 
-**Taiga:** 4:20, i need a shower
+**Taiga:** 4:10, i need a shower
 
 **Leo:** thankssssss 😭😭😭😭😭
 
@@ -177,3 +178,315 @@ Taiga locked the phone, put another shirt into the suitcase and left it open.
 
 ***
 
+Taiga got out of the elevator and saw Leo already sitting on a couch waiting for him.
+He wasn't hard to spot. He was wearing a very yellow scarf Taiga had never seen before.
+
+Leo jumped up immediately when he saw him.
+
+"Hey!"
+
+"Hey."
+
+They started towards the entrance. Leo caught Taiga glancing at the scarf a couple of times.
+
+"I know. I know. You can say that you hate it."
+
+"I don't."
+
+"You keep looking at it."
+
+"It's very yellow."
+
+"My mom gave it to me."
+
+"That explains nothing."
+
+"It explains that it was not my choice and that I'm required to send her at least one photo of me wearing it."
+
+Taiga chuckled. "That sounds like punishment."
+
+"Don't mention it. She made this like four years ago, but I've never had the chance to wear it at home."
+
+"Why?"
+
+"Because it's Caribbean."
+
+"Huh, right."
+
+"So the very moment I mentioned that Olympus gets actually cold in winter, she immediately picked it up from the wardrobe."
+
+"How cold does it get in winter?"
+
+"Back at my home? Enough to stop sweating in a t-shirt."
+
+"Sounds like hell."
+
+"Well, if you're born there you get used to it eventually."
+
+"Did you?"
+
+"Well, it's not like I don't suffer in summer... I just learned to live with it I guess?"
+
+Taiga raised an eyebrow.
+
+"What about you, then? How cold is your hometown?"
+
+"Well, both my house and camp are near mountains. So, snow in winters, heat in summer. Summer is tolerable, though."
+
+"Does it snow like this?", Leo said pointing around him.
+
+"Sometimes more, sometimes less."
+
+"Sounds nice. I like snow."
+
+Taiga nodded. "Yeah, it's pretty cool."
+
+They arrived at the station and took the train for Acropolis Park.
+The carriage was almost empty.
+They took seats across from each other by the window. Snow streaked over the glass while the train pulled away from Olympus.
+
+Leo checked his phone.
+
+"My mother has asked if my flight is still on four times."
+
+"Why four times?"
+
+"Because it snowed."
+
+"That doesn't cancel flights automatically."
+
+"Tell her that."
+
+He typed something quickly and put the phone away.
+
+"You're going straight to Camp Buddy tomorrow?"
+
+"Yeah. We're doing a sort of reunion for a week. Keitaro and Hiro are already there. Yoichi as well, of course."
+
+Leo nodded and watched the window for a moment.
+
+"How about you?", Taiga continued. "Any plan for the break?"
+
+Of course he had. He launched in a list of plans that looked impossible already from day one. Friends, family members, activities, old soccer club. 
+
+"How do you actually manage to fit all of those in a few days?"
+
+"I'll figure it out."
+
+Taiga shook his head. Leo had apparently managed to build a full schedule before even getting home.
+He looked the window. The snow was beginning to stay on rooftops.
+
+Acropolis Park had been turned into a winter market.
+Lights wrapped around the trees. Temporary wooden stalls lined both sides of the main path. Somebody had covered the fountain in white and yellow lights, and a large illuminated arch near the entrance announced 
+
+**WINTER WEEK**.
+
+Leo stopped under it.
+
+"This is nice."
+
+"It is crowded."
+
+"Still nice."
+
+Taiga looked around. "We'll see."
+
+The rink had been set up on the broad paved area beyond the fountain.
+They rented skates and sat on one of the benches near the entrance.
+Taiga turned one over in his hands.
+
+Leo glanced over. "You've done this before?"
+
+"Nope."
+
+"You live among the mountains."
+
+"And?"
+
+"Makes me laugh that you've never done it while I did."
+
+Taiga groaned. "Good for you."
+
+Leo grinned. "Come, I'll teach you then!"
+
+"I'm good."
+
+"Eheh, alright. We'll see."
+
+Obviously, he was not. Taiga immediately the ice the very moment he stepped onto it. The skate moved before he wanted it to. His right foot slid sideways and he caught the barrier with one hand.
+
+Leo zoomed beside him with too much confidence for a Caribbean boy.
+
+"How the fuck do you know this?"
+
+Leo laughed. "Sometimes they setup an ice rink in the city during winter."
+
+"Great."
+
+Taiga tried to move again. This time, he nearly fell on his ass. 
+Leo was standing there with the face of someone who's trying so hard not to laugh.
+
+"This was a fucking stupid idea."
+
+"Just try and bend your knees more."
+
+Taiga tried.
+His left skate moved. The right did not.
+He ended up grabbing the barrier for his life again.
+A child passed behind him at a speed Taiga couldn't even imagine reaching.
+Leo moved in front of Taiga and started skating backward.
+
+"Push sideways."
+
+"I am."
+
+"You're pushing back."
+
+"I'm trying not to fall."
+
+"That's why you're not moving."
+
+Taiga tried again.
+His left skate slipped too far.
+Leo immediately reached forward and took both of his hands.
+
+"I got you."
+
+"I don't need—"
+
+His right foot drifted again.
+Leo tightened his grip before Taiga could reach for the barrier.
+
+"Looks like you do."
+
+Taiga scowled.
+Leo started moving backward, pulling him slowly away from the wall.
+
+"Push. Don't step."
+
+Taiga pushed.
+
+"Yeah! Again."
+
+The movement felt wrong, but at least this time he kept going.
+
+"Better."
+
+"Don't sound proud."
+
+"I am a little proud."
+
+"Fuck off."
+
+Leo kept guiding him around the first curve.
+Taiga could barely think about anything except his feet.
+The whole thing felt backwards. On grass, his body knew how to recover before he even thought about it. Here, every correction made the skates slide somewhere else.
+
+"Stop looking down."
+
+"I need to see what I'm doing."
+
+"Your feet aren't going anywhere."
+
+Taiga looked up.
+Leo was moving backward in front of him, arms extended between them.
+
+"Good," Leo said.
+
+Taiga tried another push. Then another.
+Slowly, the panic around every small slide started disappearing.
+He stopped treating each movement like an emergency.
+
+By the time they had gone most of the way around once, he could keep his feet under him without the barrier.
+
+"See? You're getting the hang out of it."
+
+Taiga looked at him. Before he answered, he noticed that Leo was still holding his hands. His grip changed slightly whenever Taiga drifted to one side. His thumbs rested over Taiga's knuckles.
+They were kinda warm. His grip was tight, but also gentle at the same time.
+
+Why was he looking at that?
+
+He looked up again. Leo was still talking apparently, saying something about turning. Taiga had lost the first half of the sentence.
+
+He looked back down and his stomach tightened a bit.
+He suddenly became too aware of how long they'd been holding hands.
+
+Taiga cleared his voice. "Right."
+
+Leo stopped talking.
+
+"What?"
+
+Taiga loosened his grip.
+
+"I think I got it. Let me go."
+
+It came out faster than he intended.
+Leo released him immediately.
+
+"Okay."
+
+He kept skating backward.
+Taiga moved on his own. Push. Glide.
+His balance held.
+
+"See?" he said.
+
+Leo smiled. "Yeah. Look at you."
+
+Taiga raised one middle finger and almost lost his balance.
+That made Leo laugh.
+
+A few minutes later, Taiga could finally turn without having to think through every part of it.
+Leo was still skating backward in front of him, correcting little things whenever he noticed them.
+
+"Okay, try and push more with the left, you're favoring the right."
+
+Taiga looked up at him with a frown. He was about to answer, then he saw another skater coming up behind Leo. A guy in a dark coat was moving quickly while looking sideways at the person beside him.
+
+"Because if you do that way then-"
+
+"Leo stop! Behind you," Taiga said pointing at the guy.
+
+Leo looked over his shoulder and stopped immediately.
+The guy swerved past without touching him.
+Taiga, on the other hand, hadn't reach the part where he learned how to stop.
+
+"SHIT-"
+
+He went straight Into Leo. 
+Leo's arms came around him before either of them lost balance. Taiga grabbed the front of his jacket.
+
+"Woah."
+
+They held tight onto each other while Leo tried to catch his balance again. After a couple of dramatic seconds, they settled.
+
+As panic washed away, Taiga noticed his face was merely centimeters from Leo's. He could even see snowflakes melting in his hair.
+For a moment, neither moved.
+Taiga saw every detail. The color across his cheeks from the cold. The small crease between his eyebrows. His mouth, slightly open from the impact.
+Their eyes locked for a splitsecond, until Taiga realize he was staring.
+He also became aware of Leo's arms still around him.
+Heat hit his ears almost immediately.
+
+What the fuck was he doing?
+
+He blinked, then let go of his jacket.
+Still with heavy breathing, he muttered "Sorry..."
+
+Leo let go and briefly shook his head. "I stopped too fast."
+
+Taiga noticed he wasn't smiling. Actually, he was slightly red as well.
+
+"No, you stopped. I didn't."
+
+Leo finally let out a laugh. "Yeah, I forgot to teach you a very necessary maneuver."
+
+"Yeah, how did you stop so fast?"
+
+Leo showed him and slowly the awkwardness went away. They went back at skating, this time Leo spent as little as possible skating backwards and stayed beside him. 
+For the next half hour, Taiga was irritatingly aware of the distance between them.
+
+Eventually, 'one more lap' actually became the last one.
+They returned the skates and walked back toward the market.
+
+***
