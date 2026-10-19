@@ -263,7 +263,7 @@ He typed something quickly and put the phone away.
 
 "Around the 27th I guess."
 
-"And you all be staying there?"
+"And you're all staying there?"
 
 "Yeah. We're doing a sort of reunion for about a week."
 
