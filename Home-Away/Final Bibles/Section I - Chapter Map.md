@@ -420,11 +420,12 @@ Academically:
 - Mercer tells Taiga he will **start the next friendly** while Taiga is still on the developmental roster. The start is a trust milestone, not a promotion to the first team.
 - In the locker room, give the reader one small Leo clue: Leo looks at Taiga a beat too long; Taiga asks "What?"; Leo answers "Nothing." Taiga does not analyze it.
 - After training, Evan and Taiga walk back together. Evan's graduation gives the left-wing role a future horizon: Taiga is not promised Evan's place, but Evan believes he can eventually compete for it.
-- A study session with Nora contains the **formal Computer Science declaration**. Taiga recognizes that he is doing the same kind of circular overthinking he criticized in Aaron at Halloween, submits the declaration and goes back to work.
-- The Northbridge rematch provides Taiga's **first start in an Apollo friendly**. It should contrast directly with Chapter 5: the same opponent no longer overwhelms him, and his growth appears through ordinary correct decisions rather than heroics.
-- The start does not need a goal or official assist. A solid hour-plus, one useful attacking action and several correct ordinary decisions are enough.
-- Do not repeat Chapter 6's catastrophic review anxiety. Taiga can be nervous without treating the match as a verdict.
-- End immediately after Mercer's compact post-match judgment: **"Good."** No celebration or extra emotional explanation afterward.
+- A library study session with Nora and Leo contains the **formal Computer Science declaration**. Taiga recognizes that he is doing the same kind of circular overthinking he criticized in Aaron at Halloween, submits the declaration without announcing it and goes back to work.
+- A friendly against **Briarwood** provides Taiga's **first start in an Apollo friendly**. Treat it as another ordinary November match rather than a dramatic football climax.
+- Keep actual match action heavily compressed: the game itself is not the point, and Taiga has already played several times by now. No growth spurt, decisive hero moment or unusually dramatic start is needed.
+- Evan replaces Taiga after roughly an hour-plus and gives him the compact verdict: **"Not terrible."**
+- After the final whistle, Enzo uses Taiga's first start as an excuse to get everyone to go eat together. End on the team already arguing about food and moving on with their Saturday.
+- The match ending should return to the chapter's opening idea: life at Olympus simply keeps moving, even when Taiga crosses a threshold.
 
 ### Leo / romance note
 
@@ -442,7 +443,7 @@ Taiga remains oblivious to Leo's romantic interest. He can understand that they 
 
 ### Guardrail
 
-Chapter 11 should not read as "the first-start chapter" even though the start is its largest individual scene.
+Chapter 11 should not read as "the first-start chapter." The match is deliberately brief and mundane rather than the chapter's dominant set piece.
 
 The football milestone matters because it occurs inside a life that is already moving. Taiga remains a **developmental player** at the end of the chapter; starting an autumn friendly does not promote him to the first team.
 

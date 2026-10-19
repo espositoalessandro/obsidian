@@ -62,6 +62,8 @@ This is especially important for Leo: he often occupies the role traditionally c
 | **24** | **Leo Mendez**                  | Attacking midfielder / central attacking player (AM) | Freshman; newly joined Apollo                                                             |
 | **27** | **Vincenzo “Enzo” Delos Reyes** | Right winger (RW)                                    | Freshman; same incoming class as Leo                                                      |
 | **41** | **Taiga Akatora**               | Left winger (LW)                                     | Freshman development player; number established in Final Chapter 2                        |
+| **42** | **Daniel Hughes**                | Central midfielder (CM)                              | Freshman development player; minor rotation / friendly depth                              |
+| **43** | **Lucas Parker**                 | Centre-back (CB)                                     | Freshman development player; minor rotation / friendly depth                              |
 
 ### Numbering continuity rules
 
@@ -86,7 +88,7 @@ For the first-year structure used in *Home/Away*:
 - there is no Conference Championship competition in the fall;
 - developmental players can be selected for autumn friendlies and may play alongside established first-team players without that selection counting as a permanent promotion;
 - Taiga's Chapter 5 Northbridge appearance is his first friendly minutes;
-- Taiga's Chapter 11 Northbridge rematch is his first friendly start;
+- Taiga's Chapter 11 friendly against **Briarwood** is his first friendly start;
 - Taiga remains a developmental player after that start;
 - the **Conference Championship begins in the second semester**;
 - official conference matchdays, standings and the main Olympus soccer stadium belong to the spring competitive phase;
@@ -1385,6 +1387,20 @@ Off field, he does not need to become another loud social engine.
 - quieter than Scott;
 - familiar with keeper routines;
 - does not need a subplot unless the manuscript later gives him one.
+
+## Daniel Hughes
+
+- central midfielder;
+- freshman developmental player;
+- occasional friendly rotation option;
+- background squad density only; no planned subplot.
+
+## Lucas Parker
+
+- centre-back;
+- freshman developmental player;
+- occasional friendly rotation option;
+- background squad density only; no planned subplot.
 
 ---
 
