@@ -255,7 +255,7 @@ Leo frowned. "What do you mean?"
 
 "He asked for our unconditional support. Because apparently he doesn't have the balls to do it on his own."
 
-"Okay! I like it, sounds fun."
+"Okay! I like it, sounds fun," Leo said.
 
 Enzo pointed at Maya. "You! Female support is also required. You know the subject tactics and weaknesses."
 
@@ -267,7 +267,7 @@ She turned towards Caleb. "Well, it does sound fun. What do you say?"
 
 "I'm missing the purpose of the mission and our role in it."
 
-"Our teammate has a crush on this girl. He wants emotional support."
+"Our teammate has a crush on this girl. He wants emotional support," Taiga said.
 
 "How can I provide emotional support if I don't know him?"
 
@@ -275,7 +275,7 @@ He shrugged. "You can also just stay and watch. Knowing Aaron, it's gonna be fun
 
 Caleb considered for a couple of seconds. "Alright."
 
-Enzo raised both hands. "Good! Avengers have assembled. Let's meet the rest of the squad."
+Enzo raised both hands. "Good! Avengers have assembled. Let's meet with the rest of the squad."
 
 ***
 
@@ -300,7 +300,7 @@ Gav tilted his head. "You've known her for months now."
 
 "It still needs preparation. Planning. Something."
 
-"To me, it looks more like *you're* the one who needs preparation, not the situation itself."
+"To me, it looks more like *you're* the one who needs preparation, not the situation itself," Maya pointed.
 
 "I- Uh... wait, who are you?"
 
@@ -360,10 +360,6 @@ Leo leaned towards Taiga. "Five bucks Aaron's gonna ask for booze."
 
 Taiga raised an eyebrow. "That's obviously gonna happen."
 
-"Can't wait to see it."
-
-"Yeah."
-
 "Got her!" said Gav a few minutes later. "She's actually with Zoe and another girl near the food stall."
 
 "Looks like it's your lucky day after all."
@@ -373,7 +369,7 @@ Aaron had become pale. Which actually fit his costume really well.
 Enzo appeared beside him and put an arm around his shoulder. He looked at the whole group.
 Somehow, they all silently waited for whatever bullshit he was about to say.
 
-Enzo just smiled.
+Enzo smiled.
 
 "For Frodo!"
 
