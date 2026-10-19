@@ -1485,7 +1485,7 @@ More pleased than the compliment deserved.
 
 "Okay. I'm taking that."
 
-"You went to a bilingual school, right?"
+"Did you go to a bilingual school or something?"
 
 "Yeah. Me and Enzo. English since we were kids. School, games, internet, movies." He took a cautious drink. "By the time we got here, the hard part wasn't really speaking it. It was speaking it all day."
 
@@ -1577,7 +1577,7 @@ Fair.
 
 There was no reason not to, so Taiga gave him the compressed version: the camp going broke after the summer, the fundraiser, Keitaro's journal somehow becoming a published book, the sponsor and the expansion that followed.
 
-He and Yoichi had stayed through most of the off-season. Taiga had learned enough repair work and carpentry to become useful instead of merely carrying things when somebody pointed.
+He and Yoichi had stayed through the whole off-season. Taiga had learned enough repair work and carpentry to become useful instead of merely carrying things when somebody pointed.
 
 Leo listened without interrupting much, asking questions only in the gaps.
 
