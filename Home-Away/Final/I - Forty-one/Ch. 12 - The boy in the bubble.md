@@ -1,4 +1,4 @@
-### Chapter 12 - The bubble pops
+### Chapter 12 - The boy in the bubble
 
 December arrived and it brought snow and finals.
 
@@ -490,3 +490,209 @@ Eventually, 'one more lap' actually became the last one.
 They returned the skates and walked back toward the market.
 
 ***
+
+They strolled a bit around the markets, until Leo saw a stand selling hot chocolate. He immediately went for one and Taiga followed.
+
+They found an empty section of a bench near the edge of the market, where the crowd was thinner and the music from the fountain was mostly background noise.
+
+Snow had thickened enough to collect along the roofs of the stalls.
+Leo took a drink too early and immediately pulled the cup away.
+
+"Fuck."
+
+Taiga looked at him. "You watched them pour it."
+
+"I was cold. And also slightly hopeful that thermodynamics stopped working."
+
+"Wishful thinking."
+
+"A bit."
+
+Taiga shook his head and waited another minute before trying his own. 
+For a while they watched people move between the stalls.
+A family passed with two small kids in matching hats. A couple near the rink entrance were trying to take a picture without dropping either of their cups. Somebody farther down the path was playing guitar badly.
+
+Then Leo's phone rang. He checked at the screen and groaned.
+
+"Ugh, again."
+
+"What?"
+
+"My mother."
+
+He exhaled and aswered.
+
+"Hola, mami."
+
+Taiga was taken aback. He knew he talked Spanish, and he also could imagine that he didn't talk in English with his parent. Still, that took him off guard.
+
+"Sí, mañana. Ya revisé."
+
+Leo closed his eyes.
+
+"Mami, ya te mandé el boleto."
+
+The voice on the other end got louder for a moment.
+Leo looked down at the yellow scarf.
+
+"Sí, tengo la bufanda."
+
+A pause.
+
+"Sí, esa."
+
+Taiga smiled into his coffee.
+Leo kicked lightly at the side of his shoe without interrupting the call.
+
+"Sí, comí."
+
+Another pause.
+His expression softened.
+
+"Yo también te quiero."
+
+Taiga looked toward the rink again.
+
+"Sí. Chao. Chao, mami."
+
+A second passed.
+
+"Mami."
+
+The call finally ended.
+He lowered the phone and sighed.
+
+"And that's my mum."
+
+"Still concerned for the flight?"
+
+"Yeah."
+
+Taiga smiled. Now that he heard Leo speaking his native language, the contrast with his English became slightly clearer. 
+
+"How come I've never heard you speaking Spanish with Enzo?"
+
+"We try not to when we're with others. Sometimes it's tempting, especially when I'm tired. But I don't really like excluding others."
+
+"Fair enough. Did you go to a bilingual school or something?"
+
+"Yeah. Both of us, English since we were kids."
+
+"I figured. You basically talk like the rest of us."
+
+Leo looked genuinely pleased.
+
+"Seriously?"
+
+"Yeah, you don't even have an accent."
+
+"Oh, wait until you hear me talking early in the morning or when I'm tired. Enzo says that I lose about 20% of my vowels."
+
+Taiga snorted. "You didn't sound different after Halloween."
+
+"Pst. I was barely speaking after that. And I wasn't *that* tired."
+
+"Yeah, sure."
+
+"Thanks though. I'll still take it as a compliment."
+
+"Take it as you want."
+
+Leo looked toward the lights.
+
+"So, what are you guys gonna do the whole week?"
+
+Taiga shrugged. "Dunno. The usual I guess. Light treks, maybe help with something. Chill, mostly. Then there's New Years' Eve."
+
+Leo nodded. "You said you stayed a whole year there before Olympus, right?"
+
+"Pretty much."
+
+"What were you actually doing all year?"
+
+"I volunteered. Last year camp was pretty much broke. Somehow we managed to get a sponsor and we started fixing and expanding the place."
+
+"How did you manage a sponsor?"
+
+"He was the father of one of our scout friend. Although, it was mainly Keitaro who convinced him."
+
+"How...?"
+
+"He had been writing a journal for the whole term. The guy, Clermont, saw it and decided it was worth publishing."
+
+"Wait. Clermont? Like, are you talking about William Clermont?"
+
+"Yeah. You know him?"
+
+"No fucking way. I've read a couple of his books, they're dope."
+
+"Well, he published a book from Keitaro's journal. That helped as well, since Keitaro devolved all his royalties to camp."
+
+"That's insane. I mean, getting published by Clermont? And, he devolved everything to camp?" 
+
+"Yeah, he's pretty intense. It was a shame that I-"
+
+He stopped. Nope, definitely not.
+
+Taiga cleared his throat. "Anyway, long story short, I stayed with Yoichi after the term to help with the constructions."
+
+"If you don't mind me asking, why did you stay?"
+
+Taiga turned to look at the people on the rink.
+
+"I-..." He exhaled through his nose. "Let's just say that last year's term I wasn't exactly in the right place with my mind. I fucked up a thing or two and the camp helped me out with it. I felt like I wanted to stay there and do something in return."
+
+Snow landed on the edge of Leo's scarf and disappeared into the fabric.
+Taiga watched it melt.
+
+"So... why leave?"
+
+"Because I realized that I wasn't staying there because I wanted to. Well, I actually wanted to, but mostly because of guilt. This summer, I saw everyone coming back after a whole year at college. They went on with their life, while I was still stuck."
+
+Taiga took a drink from his chocolate.
+
+"Clermont overheard two of my scoutmaster talking about convincing me to go somewhere, and suggested that I applied here."
+
+He paused and smiled.
+
+"Yoshinori wrote something like a nine pages reference letter. Clermont signed it as well. Took me something like eleven days and a threat from Keitaro to fill the registration form and send it."
+
+"That's kind of dramatic."
+
+"Fuck off."
+
+Leo smiled. "Now I get it though, why you looked so out of place when I first saw you."
+
+Taiga took another sip of chocolate. "Yeah. It sucked at first."
+
+He thought about how he felt the first week. That seemed like a whole life ago.
+He then noticed that Leo was looking at him, smiling.
+
+"What?"
+
+Leo shook his head. "Nothing, nothing."
+
+Taiga narrowed his eyes. Leo took another drink.
+Then the conversation moved somewhere else.
+
+He talked about how loud was his house, because apparently multiple families lived together. Then he complained about his sister always embarrassing him in front of people. Taiga told him about some activities they did during the summer term, how Hiro once almost went on fire while cooking for Keitaro.
+
+Leo had snorted at that. "That feels familiar."
+
+"Yeah. You're both dangerous with open flames, apparently."
+
+The conversation wandered for a while.
+
+At some point Taiga checked his phone: it was after eight.
+
+"Fuck."
+
+Leo looked down at his own screen.
+
+"Oh."
+
+Leo finished the last of his hot chocolate. 
+
+"'Kay, let's go back then."
+
+They stood and went toward the station.
