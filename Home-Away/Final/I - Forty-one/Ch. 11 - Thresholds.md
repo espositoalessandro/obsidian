@@ -220,7 +220,7 @@ Taiga stared at him.
 
 "I think I'll try out a thing or two once I'm outta here. See what clicks. And what allows me to pay for an actual house."
 
-Taiga stayed silent for a couple of seconds.
+Taiga stayed silent for a few seconds.
 
 "Right. Fair enough."
 
@@ -319,7 +319,7 @@ Taiga discovered this once when he asked about Oliver while she was clearly stru
 
 "I don't know."
 
-Taiga waited a couple of seconds.
+Taiga waited.
 
 "Is that what I usually sound like?"
 
@@ -403,7 +403,7 @@ Leo put a hand over Taiga's mouth. Taiga was slightly taken aback by the sudden,
 
 "No. Don't. I'll figure it out."
 
-He removed his hand. After a couple of seconds, Taiga just shrugged.
+He removed his hand. Taiga just shrugged.
 
 "Suit yourself."
 
@@ -460,7 +460,7 @@ Leo looked at it. "Yeah, thank you very much."
 
 "How—"
 
-He stared at the screen for a couple of seconds. Realization suddenly changed his expression.
+He stared at the screen for a while. Realization suddenly changed his expression.
 
 "Oh, Jesus fucking Christ."
 
@@ -498,7 +498,7 @@ Taiga snorted. "Yeah, probably."
 
 "Yeah."
 
-Leo raised an eyebrow. After a couple of seconds, he just said "Alright."
+Leo raised an eyebrow, but he just said "Alright."
 
 Taiga narrowed his eyes.
 
