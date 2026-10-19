@@ -2,7 +2,7 @@
 
 December arrived and it brought snow and finals.
 
-The campus turned white after a rather intense blizzard went on for a whole night. Everybody had to deal with thirty centimeters worth of snow.
+The campus turned white after a rather intense blizzard went on for a whole night. Everybody had to deal with thirty centimeters of snow.
 
 Unfortunately, people didn't have the time to wander around and actually enjoy the scenery. 
 A few days before the finals week, no one asked "how are you?" anymore. The answer was always the same.
@@ -11,7 +11,7 @@ After the last training of the year, House Apollo's common room had stopped bein
 
 There were still boots by the door, jackets hanging over chairs and somebody's ball trapped under one of the couches, but every table in the common room was covered with laptops, notes and half-empty cups. Scott had taken the coffee table and was working through flashcards. Gav had three different books open around him. Enzo had somehow built a spreadsheet to calculate one of his grades and was now asking Leo why eleven slash eleven had turned into a date.
 
-Taiga looked at the scene: Leo was desperately trying to make Enzo understand the concept of date for a spreadsheet, while Enzo was deflecting every bit of information trying to reach him.
+Taiga looked at the scene: Leo was desperately trying to make Enzo understand why the spreadsheet kept interpreting eleven slash eleven as a date, while Enzo was deflecting every bit of information trying to reach him.
 That lasted fifteen minutes, before Leo surrendered and just fixed the damn sheet.
 Taiga laughed once and went back to Hall's review.
 
@@ -23,7 +23,7 @@ Monday was going to be cruel.
 
 ***
 
-"I really hope I don't have to build any bridge here, mr. Akatora."
+"I really hope I don't have to build any bridge here, Mr. Akatora."
 
 Hall was smiling at him. Taiga put the sheet on the desk, on top of the others.
 
@@ -40,13 +40,13 @@ Outside, Nora waited until the classroom door closed.
 
 "Same thing with professors."
 
-With Political Science, Nora had already finished all her exams. She had a relaxed smug face that made her more unbearable than usual.
+With Political Institutions over, Nora had already finished all her exams. She had a relaxed, smug expression that made her more unbearable than usual.
 
-"When are you going home?", Taiga asked.
+"When are you going home?" Taiga asked.
 
 "My mum's gonna pick me up in a couple of hours. You?"
 
-"I got the train Saturday morning."
+"My train's Saturday morning."
 
 "So, still the same plan? Camp for a week, then home?"
 
@@ -66,11 +66,11 @@ Taiga just gave her an eloquent look.
 
 "You will."
 
-Taiga shook his head. A whole semester had passed, yet she still was annoying as hell.
+Taiga shook his head. A whole semester had passed, yet she was still annoying as hell.
 
----
+***
 
-The afternoon after Political Instruction, brought the last soccer session. 
+That afternoon brought the last soccer session of the semester. 
 
 Mercer shortened the last session to less than an hour. It was cold enough that Enzo had spent most of warmup complaining about his fingers, even though Aaron kept reminding him he did not need his fingers to play soccer.
 
@@ -86,9 +86,9 @@ Taiga took a sheet and glanced through it.
 
 Someone groaned, but Mercer ignored them.
 
-"You also know the Conference season starts next semester. Olympus is playing in it, obviously. Some of those matches could bring in scouts from professional teams. We've got everything we need to compete near the top, so be ready for it."
+"You also know the conference season starts next semester. Olympus is playing in it, obviously. Some of those matches could bring in scouts from professional teams. We've got everything we need to compete near the top, so be ready for it."
 
-Most of the freshmen exchanged surprised and scared looks. Taiga was slightly horrified by the idea of being evaluated by a professional scout.
+Most of the freshmen exchanged surprised and scared looks.
 
 "That's all. Get out of here."
 
@@ -110,7 +110,7 @@ That was it.
 No more classes. No training. Nothing due.
 For the first time in months, there was nowhere he was supposed to be.
 
-Campus had already emptied by half. He went back to the dorm, taking a quick detour to wander around the central park. 
+Campus was already half empty. He went back to the dorm, taking a quick detour to wander around the central park. 
 
 Without the oppressing thought of the finals, the campus was actually really nice when covered in snow. Also, with half the people, it was also significantly quieter.
 The fountain at the center was shut and the water frozen in the concrete basin.
@@ -126,7 +126,7 @@ Taiga dropped his bag and pulled the suitcase farther out from under the bed.
 He had put two shirts inside when his phone buzzed.
 Once.
 Again.
-Apparently peace lasted for too long.
+Apparently peace had lasted too long.
 
 **Leo:** taigaaaa
 **Leo:** pls tell me you're still here 😭
