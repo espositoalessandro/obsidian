@@ -142,7 +142,7 @@ When he turned, Leo was still looking at him and smiling.
 
 Taiga raised an eyebrow and turned to go to the showers.
 
----
+***
 
 When he went outside the locker room, he found Evan talking to Mercer. Mercer said something Taiga couldn't hear, Evan nodded, and then the conversation ended.
 
@@ -164,37 +164,37 @@ Evan shrugged. "Well, you never asked!"
 
 Taiga blinked. Yeah, Caleb-virus was evidently airborne.
 
-"I'm in Modern Languages major. Mostly Spanish and a bit of French here and here."
+"I'm a Modern Languages major. Mostly Spanish and a bit of French here and there."
 
 "Oh. That's pretty cool."
 
-"It is! Besides, most people don't know but Spanish is the most spoken language in the world right now. So I hope it'll serve me well."
+"It is! Besides, most people don't know, but Spanish is one of the most spoken languages in the world. So I hope it'll serve me well."
 
 "Is it?"
 
-"Just in our team, there's two native Spanish speaker, plus me."
+"Just on our team, there are two native Spanish speakers, plus me."
 
 Taiga frowned. "Who?"
 
-"Who? Leo and Enzo of course. Didn't you know they were from Santo Domingo?"
+"Who? Leo and Enzo, of course. Didn't you know they were from Santo Domingo?"
 
 Right. He didn't think about the implications of that.
 
-"Yes, I just didn't think about it. They speak English normally, though."
+"Yes, I just didn't think about it. I've only ever heard them speak English, though."
 
-"Yeah, they must have studied it since they were children, I've never actually asked them."
+"Yeah, they must have studied it since they were children. I've never actually asked them."
 
 "Probably."
 
-"What about you though? I only know you're in the same Chemistry class with Leo."
+"What about you though? I only know you're in the same Chemistry class as Leo."
 
 "I'm..." Taiga twitched his mouth. "Actually, I'm still undeclared."
 
-Evan shrugged. "That's fine. I've declared my major almost in May when I was a freshmen."
+Evan shrugged. "That's fine. I didn't declare my major until almost May of freshman year."
 
 "I'm considering Computer Science."
 
-"Then you're already ahead of me. If I'm not wrong, Leo's CS as well right?"
+"Then you're already ahead of me. If I'm not mistaken, Leo's in CS too, right?"
 
 "Unfortunately."
 
@@ -210,13 +210,13 @@ Evan smiled. They continued for a couple of minutes without speaking. Then Taiga
 
 Taiga stared at him. 
 
-"Dunno, I'll probably end up in some company. Or maybe I'll be a teacher. Or even a tour guide operator, that'd be nice. Free travel!"
+"Dunno, I'll probably end up working for some company. Or maybe I'll be a teacher. Or even a tour guide, that'd be nice. Free travel!"
 
-"Wh- Seriously, you don't know?"
+"Wh— Seriously, you don't know?"
 
 "Well, it's not like I'm graduating tomorrow, right?"
 
-"Still-"
+"Still—"
 
 "I think I'll try out a thing or two once I'm outta here. See what clicks. And what allows me to pay for an actual house."
 
@@ -236,9 +236,9 @@ Ah. Right. The team.
 
 "If you're talking about the team, I don't know. Besides, it's not up to me to decide."
 
-"It kinda is, Taiga." Evan said.
+"It kinda is, Taiga," Evan said.
 
-"What you mean?"
+"What do you mean?"
 
 "Look, I think you know that you're the only one who's training specifically for that position. Right?"
 
@@ -248,33 +248,33 @@ Ah. Right. The team.
 
 They stopped outside the dorm building.
 
-I think you know that during the tryouts there were way better player than you," Evan continued.
+"I think you know that during the tryouts there were way better players than you," Evan continued.
 
 Taiga frowned. "Yeah. I know."
 
-"Some of them where actual winger. Yet, here you are."  
+"Some of them were actual wingers. Yet, here you are."  
 
 He paused a second, then pointed at the dorm building.
 
-"And there they are. "
+"And there they are."
 
 Taiga didn't answer.
 
-"Look, what I'm trying to say is that I think Mercer is betting on you. He could have picked another winger and keep you in development for the whole year or as a reserve."
+"Look, what I'm trying to say is that I think Mercer is betting on you. He could have picked another winger and kept you in development for the whole year or as a reserve."
 
-Taiga gulped and, after a couple of seconds, said "That's a risky gamble."
+Taiga gulped and, after a couple of seconds, said, "That's a risky gamble."
 
 Evan smiled. "Yeah. But Mercer is a good coach. He knows what he's doing. I had my doubts at the beginning, but I'm starting to see why he did that."
 
-Then he put a hand over Taiga's shoulder and smiled.
+Then he put a hand on Taiga's shoulder and smiled.
 
 "And that's why I want you to wear my shirt next year."
 
-Taiga felt his stomach tying up tight. Evan gently patted his shoulder and removed the hand.
+Taiga felt his stomach tighten. Evan gently patted his shoulder and removed his hand.
 
 "No pressure, huh?" Taiga said.
 
-"Oh no. Pressure. I know it'sucks, but I want you to know what's at stake. Just in case you thought you didn't matter that much."
+"Oh no. Pressure. I know it sucks, but I want you to know what's at stake. Just in case you thought you didn't matter that much."
 
 "That's... fucked up."
 
@@ -282,7 +282,7 @@ Evan laughed hard. "Yeah."
 
 Taiga smiled as well.
 
-"...Thanks," he said, after a while.
+"...Thanks," he said after a while.
 
 "Anything for my little kohai."
 
@@ -302,12 +302,12 @@ Taiga laughed. "Go fuck yourself."
 
 ***
 
-Somehow Nora was getting more unbearable than usual. As weeks passed, she spent more and more time in the library. Her army of notes, Post-it, books and colored tabs had grown enough to require half a table every time. 
+Somehow Nora was getting more unbearable than usual. As weeks passed, she spent more and more time in the library. Her army of notes, Post-its, books and colored tabs had grown enough to require half a table every time. 
 The good thing about this was that she was so focused on her studies that annoying Taiga had become secondary.
 
-The bad thing, however, was that whoever tried to talk to her while she was deep in a paragraph, basically risked their life.
+The bad thing, however, was that whoever tried to talk to her while she was deep in a paragraph basically risked their life.
 
-Taiga discovered this once when he asked about Oliver while she was clearly struggling writing an assignment for Hall.
+Taiga discovered this once when he asked about Oliver while she was clearly struggling to write an assignment for Hall.
 
 "He's better."
 
@@ -321,9 +321,9 @@ Taiga discovered this once when he asked about Oliver while she was clearly stru
 
 Taiga waited a couple of seconds.
 
-"Is that how I usually sound like?"
+"Is that what I usually sound like?"
 
-She pointed a pen towards him with a murderous look.
+She pointed a pen at him with a murderous look.
 
 "Taiga. Not now."
 
@@ -331,15 +331,15 @@ He raised his hands in surrender. "Alright, sorry."
 
 Geez.
 
-It was the day after his talk with Evan. Besides all the soccer stuff that was still sitting like a concrete block in his stomach, he was still thinking about how chill he was about his future.
+It was the day after his talk with Evan. Besides all the soccer stuff that was still sitting like a concrete block in his stomach, he was still thinking about how chill Evan was about his future.
 
 *I'll try out a couple of things and see what sticks.*
 
-That was a stupid way of picking decisions. 
+That was a stupid way of making decisions. 
 
-Maybe, though, having an always opened tab of the school program sitting in the background with the "Computer Science" voice already selected in the dropdown was even more stupid.
+Maybe, though, having an always-open tab of the school program sitting in the background with the "Computer Science" option already selected in the dropdown was even more stupid.
 
-Taiga glanced at Nora. She was resting her head on both hands while intensely looking at the screen of her laptop.
+Taiga glanced at Nora. She was resting her head in both hands, staring intently at the screen of her laptop.
 
 Pointless. He didn't need another fucking conversation about how he'd already picked two CS classes for the next semester.
 
@@ -372,7 +372,7 @@ Idiot.
 
 **Leo:** i could try really badly
 
-Taiga laughed from his nose.
+Taiga snorted.
 
 **Taiga:** library, second floor
 **Taiga:** just pretend nora isn't here
@@ -383,9 +383,9 @@ Taiga laughed from his nose.
 
 **Leo:** i'll be invisible
 
-He didn't. Obviously. Nora just gave him an annoyed "Hi" when he arrived, then Leo earned two stares and one "shut up" in about ten minutes because he kept trying to make conversation with her.
+He didn't. Obviously. Nora just gave him an annoyed "Hi" when he arrived. Then Leo earned two stares and one "shut up" in about ten minutes because he kept trying to make conversation with her.
 
-Taiga just gave him an "I told you" look when he turned to him after that. Eventually, he finally pulled out his laptop.
+Taiga just gave him an "I told you" look when he turned to him after that. Eventually, he pulled out his laptop.
 
 "This assignment is pointlessly cruel," he said with a frown, looking at the screen with intense disgust.
 
@@ -397,9 +397,9 @@ Taiga leaned over to look at his screen.
 
 He scanned his code for a minute. The overall structure was right, except...
 
-"Why did-"
+"Why did—"
 
-Leo put a hand on his mouth. Taiga was slightly taken aback from the sudden and uncalled physical contact.
+Leo put a hand over Taiga's mouth. Taiga was slightly taken aback by the sudden, uncalled-for physical contact.
 
 "No. Don't. I'll figure it out."
 
@@ -422,8 +422,8 @@ Across the table, Nora snorted. Taiga glared at her.
 She didn't say anything, but Taiga saw her exchanging a knowing glance with Leo. 
 Suddenly, he missed Caleb and his room.
 
-After fourteen minutes, Leo tried another run and the test bed was still red. His forehead went straight on the keyboard of the laptop.
-Taiga glanced over that pathetic scene. The cursor was leaving a trail of "bbbbbbbb" on the file.
+After fourteen minutes, Leo tried another run and the test suite was still red. His forehead went straight onto the laptop keyboard.
+Taiga glanced at that pathetic scene. The cursor was leaving a trail of "bbbbbbbb" in the file.
 He still hadn't caught the error.
 
 "Need more emotional support?"
@@ -436,13 +436,13 @@ Leo raised his middle finger without lifting his head.
 
 Leo slowly turned his head, still on the keyboard.
 
-"Who's side are you on?"
+"Whose side are you on?"
 
 Taiga smiled. "I'll be there if you need me."
 
-"Not until you wipe out that smug face of yours."
+"Not until you wipe that smug look off your face."
 
-His smiled widened in response and turned to his own algorithm.
+His smile widened in response, and he turned to his own algorithm.
 
 After a minute, Leo finally lifted his head. He cleared the "bbbb" mess and stared at the code for another couple of minutes.
 
@@ -456,9 +456,9 @@ Leo looked at it. "Yeah, thank you very much."
 
 "And?"
 
-"Then the first thing you do is cycle on the next one."
+"Then your loop starts from the next one."
 
-"How-"
+"How—"
 
 He stared at the screen for a couple of seconds. Realization suddenly changed his expression.
 
@@ -470,13 +470,13 @@ He stared at the screen for a couple of seconds. Realization suddenly changed hi
 
 "Then why did you pick CS?"
 
-"Because messing with websites was funnier."
+"Because messing with websites was more fun."
 
 "You built a website?"
 
 "Yeah, it was for a school project. We did some basic web stuff in class and they asked us to build a page for a school event."
 
-"And that made you decide your future career?"
+"And that made you decide on your future career?"
 
 Leo shrugged. "I liked it enough to mess with basic stuff on my own."
 
@@ -486,7 +486,7 @@ Leo shrugged. "I liked it enough to mess with basic stuff on my own."
 
 What the fuck was wrong with everyone?
 
-He continued. "At orientation they told me that I could give it a try and eventually changed later if I didn't like it."
+Leo continued. "At orientation they told me that I could give it a try and change later if I didn't like it."
 
 "That's the same shit they told me."
 
@@ -512,9 +512,9 @@ Taiga narrowed his eyes.
 
 Jesus. Why was everybody so obsessed with him being undeclared?
 
-"Why? People keeps telling me that it's normal to stay undeclared on first semester."
+"Why? People keep telling me that it's normal to stay undeclared during the first semester."
 
-"I didn't mean like that, I know that it's perfectly fine. I'm just surprised because the other people I know that are still undeclared, haven't actually picked a subject they like."
+"I didn't mean it like that. I know that it's perfectly fine. I'm just surprised because the other people I know who are still undeclared haven't actually picked a subject they like."
 
 "What do you mean?"
 
@@ -528,20 +528,20 @@ Taiga stared at him for a couple of seconds. The fuck?
 
 He opened the Olympus courses tab again and stared at it. 
 What was wrong with him?
-Almost everyone he had talked with was not entirely convinced about their future as well. Yet, none of them were being such dramatic pussies for a simple major declaration.
+Almost everyone he'd talked to wasn't entirely sure about their future either. Yet, none of them were being such dramatic pussies over a simple major declaration.
 Instead, each time he opened the portal and looked at the *submit* button, he ended up staring at that fucking page for minutes, until eventually deciding he was still not sure enough.
 
 Which was stupid. He had basically already decided to give CS a try.
-Just like that stupid of Aaron. He had already decided he wanted to ask Sofia, yet every time he chickened out.
+Just like that idiot Aaron. He had already decided he wanted to ask Sofia, yet every time he chickened out.
 And Aaron asked him for advice? When he couldn't even bring himself to press a button that would change basically nothing?
 
-Taiga rubbed his face, trying to snap out from the spiraling. God, how he wished he had a shutdown button for his stupid brain.
+Taiga rubbed his face, trying to snap out of the spiral. God, how he wished he had a shutdown button for his stupid brain.
 
 Shutdown?
 
 *"Shut my brain off until I've gone far enough that I can't chicken out anymore."*
 
-He laughed behind his hands. Nora looked up.
+He laughed into his hands. Nora looked up.
 
 "You finally lost it?"
 
@@ -552,12 +552,12 @@ Taiga looked back, still smiling.
 Then he opened the portal, quickly selected "Computer Science" from the major dropdown, and pressed *submit* before thinking too hard about it.
 
 A loading spinner appeared over the page, followed by a green checkmark shortly after.
-His profile now reading:
+His profile now read:
 
 **TAIGA AKATORA**
 **Current program:** *Computer Science*
 
-He closed the tab before his brain could catch up. Then he leaned back on the chair and took a deep breath.
+He closed the tab before his brain could catch up. Then he leaned back in the chair and took a deep breath.
 
 Absolutely nothing changed. That was the worst part of it.
 
@@ -571,4 +571,4 @@ Nora turned back to Leo. "Okay, he's fine."
 
 Leo chuckled. "Looks like it."
 
----
+***
