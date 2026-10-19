@@ -674,10 +674,11 @@ He then noticed that Leo was looking at him, smiling.
 
 "What?"
 
-Leo shook his head. "Nothing, nothing."
+"I was considering that you may have outgrown the Angry Guy."
 
-Taiga narrowed his eyes. Leo took another drink.
-Then the conversation moved somewhere else.
+"Fuck you."
+
+Leo laughed. Then the conversation moved somewhere else.
 
 He talked about how loud his house was, because apparently multiple families lived together. Then he complained about his sister always embarrassing him in front of people. Taiga told him about some activities they did during the summer term, how Hiro once almost set himself on fire while cooking for Keitaro.
 
