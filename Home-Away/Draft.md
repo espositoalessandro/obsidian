@@ -128,12 +128,6 @@ Leo considered it.
 
 Taiga returned to the packet.
 
-That was about as much attention as Leo got from him for the next hour.
-
-Which was normal.
-
-Mostly.
-
 ***
 
 Political Institutions ended with Hall standing at the front of the room while the teaching assistant collected the last papers.
@@ -146,7 +140,7 @@ Hall ignored them.
 
 "And Akatora."
 
-Taiga stopped halfway through putting his laptop into his bag.
+Taiga stopped halfway through zipping his bag.
 
 "What?"
 
@@ -312,9 +306,7 @@ A beat.
 
 "Come back ready to take minutes from somebody."
 
-That landed differently.
-
-Taiga nodded once.
+Taiga folded the paper once more between his fingers, then nodded.
 
 "Yeah."
 
@@ -329,10 +321,6 @@ Enzo raised a hand.
 "It is."
 
 The group broke apart.
-
-That was it.
-
-No speech. No new promise. No promotion.
 
 Taiga folded the break sheet and put it in his bag.
 
@@ -521,10 +509,6 @@ Taiga looked at the suitcase.
 
 **Leo:** come with me?
 
-He read it once.
-
-Then again.
-
 Before he answered:
 
 **Leo:** PLEASE
@@ -559,11 +543,7 @@ Then he put another shirt into the suitcase and left.
 
 At four-sixteen, Leo was standing beneath the station clock wearing a yellow scarf Taiga had never seen before.
 
-It was terrible.
-
-Not because there was anything objectively wrong with it.
-
-It was simply extremely yellow.
+It was terrible, mostly because it was extremely yellow.
 
 Leo spotted him across the concourse and lifted both arms.
 
@@ -717,15 +697,7 @@ Leo pointed at him.
 
 Leo laughed and looked back out the window.
 
-Taiga smiled.
-
-This was normal.
-
-They were friends.
-
-Friends did things together.
-
-That was the entire explanation required.
+Taiga smiled and did the same. Everyone else had left; Leo wanted to skate, and Taiga had been free. Nothing complicated there.
 
 ***
 
@@ -989,13 +961,9 @@ Still.
 
 Both of them.
 
-Leo was skating backward with his arms extended between them, gloves wrapped around Taiga's hands like this had been the most normal solution in the world.
+Leo was skating backward with his arms extended between them, gloves wrapped around Taiga's hands like it was the most normal solution in the world.
 
-Which it was.
-
-He was teaching him.
-
-That was all.
+It probably was.
 
 Taiga looked down at their hands.
 
@@ -1017,15 +985,9 @@ Leo was talking about something.
 
 Taiga had no idea what.
 
-His stomach tightened.
+His stomach tightened, except it felt nothing like the shower or the dream. Those had been simple.
 
-Not in the familiar way.
-
-Not the shower. Not the dream. Not the very simple fact that Leo was hot.
-
-This was different.
-
-Nervous.
+This was nervousness.
 
 Why the fuck was he nervous?
 
@@ -1093,8 +1055,6 @@ Good.
 
 Problem solved.
 
-***
-
 Five minutes later, Taiga could turn without feeling like he had signed a waiver.
 
 Stopping was still more theoretical.
@@ -1125,11 +1085,7 @@ Leo grinned.
 
 "Shut up."
 
-Someone came onto the rink behind Leo.
-
-Fast.
-
-A guy in a dark coat, looking sideways at whoever was skating beside him.
+A guy in a dark coat came up behind Leo fast, looking sideways at whoever was skating beside him.
 
 Leo couldn't see him.
 
@@ -1137,11 +1093,7 @@ Leo couldn't see him.
 
 Leo looked over one shoulder and stopped immediately.
 
-The guy swerved past.
-
-Nothing happened.
-
-To Leo.
+The guy swerved past without touching him.
 
 Taiga tried to stop too.
 
@@ -1223,8 +1175,6 @@ Leo let him go just as quickly.
 
 The joke arrived late.
 
-Both of them knew it.
-
 Taiga looked away.
 
 "Whatever."
@@ -1243,13 +1193,7 @@ Leo followed beside him this time.
 
 They skated.
 
-That was all.
-
-A stupid awkward collision.
-
-Two people almost falling.
-
-Nothing.
+A stupid awkward collision between two people who had almost fallen. That was all.
 
 Taiga concentrated on the ice.
 
@@ -1274,8 +1218,6 @@ That was the word.
 Awkward explained it.
 
 Probably.
-
-***
 
 They stayed on the ice another half hour.
 
@@ -1405,11 +1347,7 @@ Leo answered.
 
 "Hola, mami."
 
-The change was immediate.
-
-Not personality.
-
-Rhythm.
+The change was immediate, less in his personality than in his rhythm.
 
 Leo spoke faster in Spanish, the words running together more easily than they ever did in English.
 
@@ -1425,7 +1363,7 @@ Leo closed his eyes.
 
 "Mami, ya te mandé el boleto."
 
-The voice on the other end continued.
+The voice on the other end continued, loud enough for Taiga to catch one word clearly: Julio.
 
 Leo looked down at the yellow scarf.
 
@@ -1509,7 +1447,7 @@ Leo looked at him.
 
 He wrapped both hands around the cup.
 
-"Mom and Abuela mostly call me Julio. Everybody else usually says Leo."
+"Moma and Abuela mostly call me Julio. Everybody else usually says Leo."
 
 "Why?"
 
@@ -1527,11 +1465,7 @@ Taiga looked at him.
 
 Leo smiled.
 
-There was nothing especially important about the information.
-
-Taiga still filed it away immediately.
-
-That was becoming a problem.
+Taiga filed the distinction away before he could decide whether it mattered.
 
 "Your English is annoyingly good," Taiga said.
 
@@ -1571,11 +1505,9 @@ Taiga smiled.
 
 Leo nudged his shoe against Taiga's.
 
-Taiga looked down.
+Taiga looked down, then back up.
 
-Then back up.
-
-Leo hadn't noticed anything.
+Leo was already talking again.
 
 Good.
 
@@ -1643,31 +1575,11 @@ Taiga looked at the market.
 
 Fair.
 
-There was no reason not to.
+There was no reason not to, so Taiga gave him the compressed version: the camp going broke after the summer, the fundraiser, Keitaro's journal somehow becoming a published book, the sponsor and the expansion that followed.
 
-So he did.
+He and Yoichi had stayed through most of the off-season. Taiga had learned enough repair work and carpentry to become useful instead of merely carrying things when somebody pointed.
 
-Not everything.
-
-He told Leo about the camp being broke after the summer.
-
-About the fundraiser.
-
-About Keitaro's journal somehow becoming a published book.
-
-About the sponsor who came after that and the expansion that followed.
-
-He told him that he and Yoichi stayed.
-
-That construction took most of the off-season.
-
-That Taiga learned enough repair work and carpentry to become useful instead of merely carrying things when somebody pointed.
-
-Leo listened.
-
-Actually listened.
-
-He asked questions in the gaps instead of filling them.
+Leo listened without interrupting much, asking questions only in the gaps.
 
 "Why'd you stay?"
 
@@ -1749,11 +1661,7 @@ About Keitaro threatening to fill out the application himself.
 
 Leo laughed.
 
-The conversation moved after that.
-
-Not because either of them deliberately changed it.
-
-It just did.
+From there, the conversation wandered on its own.
 
 Leo told him his sister had once hidden that yellow scarf for two weeks because she wanted to see whether he'd notice. He had.
 
@@ -1817,25 +1725,13 @@ Taiga told him meteorologists had done nothing to deserve that.
 
 The train jolted once around a turn.
 
-Leo caught Taiga's forearm.
+Leo caught Taiga's forearm and let go as soon as the carriage steadied.
 
-Normal.
-
-He let go immediately.
-
-Taiga still felt the place where his hand had been.
-
-Not normal.
+Taiga still felt the place where his hand had been after Leo was already talking again.
 
 He looked out the window.
 
-Maybe the rink had just made everything weird for the night.
-
-That was possible.
-
-People got awkward.
-
-People got too physically aware after crashing into each other.
+Maybe the rink had just made everything weird for the night. They had crashed into each other; being too aware of the next touch wasn't exactly mysterious.
 
 By tomorrow, he would be at Camp Buddy.
 
@@ -1947,6 +1843,6 @@ Taiga faced forward again.
 
 Three weeks wasn't long.
 
-He had spent longer than that away from people he cared about before.
+Taiga knew that.
 
-It still sat wrong in his chest as he walked back through the snow, and unlike the rink, there wasn't even anything awkward he could blame it on.
+It still felt like too much.
