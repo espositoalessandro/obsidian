@@ -520,19 +520,13 @@ Jesus. Why was everybody so obsessed with him being undeclared?
 
 "I mean, they're doing all general classes. Chemistry, Calculus, Biology, you know. You said that you picked two CS classes next semester, though."
 
-"That doesn't fucking mean I've decided anything."
+"That doesn't mean I've decided anything."
 
-Leo blinked. That came out way sharper than he intended. Taiga saw Nora glancing over as well now.
-Great.
-He took a breath.
+"No, of course it doesn't, but... neither have I."
 
-"Sorry, I didn't mean to snap like that."
+Taiga stared at him for a couple of seconds. The fuck?
 
-"It's alright."
-
-And now the air was awkward. Nice job, dumbass. Leo went back to his assignment, since Taiga wasn't able to say anything else. He looked at Nora, who caught his glance and sarcastically arched her mouth upward.
-
-Taiga opened the Olympus courses tab again and stared at it. 
+He opened the Olympus courses tab again and stared at it. 
 What was wrong with him?
 Almost everyone he had talked with was not entirely convinced about their future as well. Yet, none of them were being such dramatic pussies for a simple major declaration.
 Instead, each time he opened the portal and looked at the *submit* button, he ended up staring at that fucking page for minutes, until eventually deciding he was still not sure enough.
@@ -563,13 +557,13 @@ His profile now reading:
 **TAIGA AKATORA**
 **Current program:** *Computer Science*
 
-He immediately closed the tab before his brain could catch up. Then he leaned back on the chair and took a deep breath.
+He closed the tab before his brain could catch up. Then he leaned back on the chair and took a deep breath.
 
-Nothing absolutely changed. That was the worst part of it. Aaron had an actual excuse to chicken out.
+Absolutely nothing changed. That was the worst part of it.
 
 Leo looked at him and then at Nora. "Should we worry?"
 
-Nora looked confused as well. "Maybe?"
+Nora seemed confused as well. "Maybe?"
 
 "Both of you can go fuck yourselves."
 
