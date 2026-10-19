@@ -385,5 +385,195 @@ Taiga laughed from his nose.
 
 He didn't. Obviously. Nora just gave him an annoyed "Hi" when he arrived, then Leo earned two stares and one "shut up" in about ten minutes because he kept trying to make conversation with her.
 
-Taiga just gave him an "I told you" look when he turned to him after that. Eventually, he finally pulled out his laptop and started working.
+Taiga just gave him an "I told you" look when he turned to him after that. Eventually, he finally pulled out his laptop.
+
+"This assignment is pointlessly cruel," he said with a frown, looking at the screen with intense disgust.
+
+Taiga leaned over to look at his screen. 
+
+"What's your problem?"
+
+"The fucking partition."
+
+He scanned his code for a minute. The overall structure was right, except...
+
+"Why did-"
+
+Leo put a hand on his mouth. Taiga was slightly taken aback from the sudden and uncalled physical contact.
+
+"No. Don't. I'll figure it out."
+
+He removed his hand. After a couple of seconds, Taiga just shrugged.
+
+"Suit yourself."
+
+"Stick to emotional support."
+
+"Alright. It's a stupid error."
+
+Leo turned towards him and raised an eyebrow.
+
+"Okay, that definitely needs some work."
+
+Across the table, Nora snorted. Taiga glared at her.
+
+"Mind your assignment."
+
+She didn't say anything, but Taiga saw her exchanging a knowing glance with Leo. 
+Suddenly, he missed Caleb and his room.
+
+After fourteen minutes, Leo tried another run and the test bed was still red. His forehead went straight on the keyboard of the laptop.
+Taiga glanced over that pathetic scene. The cursor was leaving a trail of "bbbbbbbb" on the file.
+He still hadn't caught the error.
+
+"Need more emotional support?"
+
+Leo raised his middle finger without lifting his head.
+
+"This is fucking pointless, why can't I just use other arrays?" he said.
+
+"I guess it's part of the exercise."
+
+Leo slowly turned his head, still on the keyboard.
+
+"Who's side are you on?"
+
+Taiga smiled. "I'll be there if you need me."
+
+"Not until you wipe out that smug face of yours."
+
+His smiled widened in response and turned to his own algorithm.
+
+After a minute, Leo finally lifted his head. He cleared the "bbbb" mess and stared at the code for another couple of minutes.
+
+"Fine. Alright, just tell me," he said.
+
+Taiga leaned over. "It's the partition function."
+
+Leo looked at it. "Yeah, thank you very much."
+
+"You're assigning the index to the starting position of the array."
+
+"And?"
+
+"Then the first thing you do is cycle on the next one."
+
+"How-"
+
+He stared at the screen for a couple of seconds. Realization suddenly changed his expression.
+
+"Oh, Jesus fucking Christ."
+
+"You're welcome."
+
+"I hate this shit."
+
+"Then why did you pick CS?"
+
+"Because messing with websites was funnier."
+
+"You built a website?"
+
+"Yeah, it was for a school project. We did some basic web stuff in class and they asked us to build a page for a school event."
+
+"And that made you decide your future career?"
+
+Leo shrugged. "I liked it enough to mess with basic stuff on my own."
+
+"That's it?"
+
+"Uh... yes?"
+
+What the fuck was wrong with everyone?
+
+He continued. "At orientation they told me that I could give it a try and eventually changed later if I didn't like it."
+
+"That's the same shit they told me."
+
+"I guess they just run on premade speeches."
+
+Taiga snorted. "Yeah, probably."
+
+"You're still undeclared?"
+
+"Yeah."
+
+Leo raised an eyebrow. After a couple of seconds, he just said "Alright."
+
+Taiga narrowed his eyes.
+
+"What?"
+
+"What what?"
+
+"You said alright, but your face said otherwise."
+
+"I'm just surprised, that's it."
+
+Jesus. Why was everybody so obsessed with him being undeclared?
+
+"Why? People keeps telling me that it's normal to stay undeclared on first semester."
+
+"I didn't mean like that, I know that it's perfectly fine. I'm just surprised because the other people I know that are still undeclared, haven't actually picked a subject they like."
+
+"What do you mean?"
+
+"I mean, they're doing all general classes. Chemistry, Calculus, Biology, you know. You said that you picked two CS classes next semester, though."
+
+"That doesn't fucking mean I've decided anything."
+
+Leo blinked. That came out way sharper than he intended. Taiga saw Nora glancing over as well now.
+Great.
+He took a breath.
+
+"Sorry, I didn't mean to snap like that."
+
+"It's alright."
+
+And now the air was awkward. Nice job, dumbass. Leo went back to his assignment, since Taiga wasn't able to say anything else. He looked at Nora, who caught his glance and sarcastically arched her mouth upward.
+
+Taiga opened the Olympus courses tab again and stared at it. 
+What was wrong with him?
+Almost everyone he had talked with was not entirely convinced about their future as well. Yet, none of them were being such dramatic pussies for a simple major declaration.
+Instead, each time he opened the portal and looked at the *submit* button, he ended up staring at that fucking page for minutes, until eventually deciding he was still not sure enough.
+
+Which was stupid. He had basically already decided to give CS a try.
+Just like that stupid of Aaron. He had already decided he wanted to ask Sofia, yet every time he chickened out.
+And Aaron asked him for advice? When he couldn't even bring himself to press a button that would change basically nothing?
+
+Taiga rubbed his face, trying to snap out from the spiraling. God, how he wished he had a shutdown button for his stupid brain.
+
+Shutdown?
+
+*"Shut my brain off until I've gone far enough that I can't chicken out anymore."*
+
+He laughed behind his hands. Nora looked up.
+
+"You finally lost it?"
+
+Taiga looked back, still smiling.
+
+"That was long ago."
+
+Then he opened the portal, quickly selected "Computer Science" from the major dropdown, and pressed *submit* before thinking too hard about it.
+
+A loading spinner appeared over the page, followed by a green checkmark shortly after.
+His profile now reading:
+
+**TAIGA AKATORA**
+**Current program:** *Computer Science*
+
+He immediately closed the tab before his brain could catch up. Then he leaned back on the chair and took a deep breath.
+
+Nothing absolutely changed. That was the worst part of it. Aaron had an actual excuse to chicken out.
+
+Leo looked at him and then at Nora. "Should we worry?"
+
+Nora looked confused as well. "Maybe?"
+
+"Both of you can go fuck yourselves."
+
+Nora turned back to Leo. "Okay, he's fine."
+
+Leo chuckled. "Looks like it."
 
