@@ -762,8 +762,13 @@ He went back to his room.
 Again, he was immediately hit by the missing presence of Caleb. It still felt weird.
 He took a shower, than went back to pack his bag.
 
+When he was done, he looked around to check if he missed something.
+He was suddenly hit by the memory of when he first entered in that room. 
 
+It was more or less like this. 
+Same walls, same furniture, no personal items.
 
+And yet, for some reason, it felt more welcoming than before.
 
 
 
