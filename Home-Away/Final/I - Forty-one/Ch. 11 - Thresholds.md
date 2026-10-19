@@ -117,7 +117,7 @@ Leo stopped and looked at him in surprise. "Seriously?"
 
 Taiga pulled out his flip-flops and a towel from the bag.
 
-"Yeah, big deal. It's a friendly, I've already played against them."
+"Yeah, big deal. It's a friendly, I've already played a couple of them."
 
 "Dude, it's your first start. You can celebrate a little."
 
@@ -575,8 +575,8 @@ Leo chuckled. "Looks like it."
 
 Saturday arrived gray, cold and windy. 
 
-Mercer had just finished the match briefing and left the locker room.
-Taiga looked at the magnetic board he'd left behind.
+Mercer had just entered the lockers room for the usual briefing. 
+Taiga looked at the magnetic board.
 
 		                PRICE J.
 
