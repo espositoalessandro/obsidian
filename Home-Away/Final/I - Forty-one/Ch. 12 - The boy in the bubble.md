@@ -5,9 +5,9 @@ December arrived and it brought snow and finals.
 The campus turned white after a rather intense blizzard went on for a whole night. Everybody had to deal with thirty centimeters of snow.
 
 Unfortunately, people didn't have the time to wander around and actually enjoy the scenery. 
-A few days before the finals week, no one asked "how are you?" anymore. The answer was always the same.
+A few days before finals week, no one asked "how are you?" anymore. The answer was always the same.
 
-After the last training of the year, House Apollo's common room had stopped being a soccer house at all.
+In the days before finals, House Apollo's common room had stopped being a soccer house at all.
 
 There were still boots by the door, jackets hanging over chairs and somebody's ball trapped under one of the couches, but every table in the common room was covered with laptops, notes and half-empty cups. Scott had taken the coffee table and was working through flashcards. Gav had three different books open around him. Enzo had somehow built a spreadsheet to calculate one of his grades and was now asking Leo why eleven slash eleven had turned into a date.
 
@@ -82,7 +82,7 @@ Gav started passing out sheets.
 Mercer continued explaining the schedule. Three sessions a week. Running, strength work, touches when possible. Nothing complicated.
 Taiga took a sheet and glanced through it.
 
-"Rest but don't slack off. I'm not starting on January trying to recover three weeks of nothing. So, follow the sheet or January will be harsh."
+"Rest but don't slack off. I'm not starting in January trying to recover three weeks of nothing. So, follow the sheet or January will be harsh."
 
 Someone groaned, but Mercer ignored them.
 
@@ -112,7 +112,7 @@ For the first time in months, there was nowhere he was supposed to be.
 
 Campus was already half empty. He went back to the dorm, taking a quick detour to wander around the central park. 
 
-Without the oppressing thought of the finals, the campus was actually really nice when covered in snow. Also, with half the people, it was also significantly quieter.
+Without the thought of finals hanging over him, the campus was actually really nice when covered in snow. With half the people, it was also significantly quieter.
 The fountain at the center was shut and the water frozen in the concrete basin.
 
 Around him, there was almost nobody. Just a couple strolling in the distance and a few people reaching the entrance gate with suitcases and duffels.
@@ -213,7 +213,7 @@ Taiga chuckled. "That sounds like punishment."
 
 "Huh, right."
 
-"So the very moment I mentioned that Olympus gets actually cold in winter, she immediately picked it up from the wardrobe."
+"So the very moment I mentioned that Olympus actually gets cold in winter, she immediately picked it up from the wardrobe."
 
 "How cold does it get in winter?"
 
@@ -233,7 +233,7 @@ Taiga raised an eyebrow.
 
 "Well, both my house and camp are near mountains. So, snow in winters, heat in summer. Summer is tolerable, though."
 
-"Does it snow like this?", Leo said pointing around him.
+"Does it snow like this?" Leo said, pointing around him.
 
 "Sometimes more, sometimes less."
 
@@ -241,7 +241,7 @@ Taiga raised an eyebrow.
 
 Taiga nodded. "Yeah, it's pretty cool."
 
-They arrived at the station and took the train for Acropolis Park.
+They arrived at the station and took the train to Acropolis Park.
 The carriage was almost empty.
 They took seats across from each other by the window. Snow streaked over the glass while the train pulled away from Olympus.
 
@@ -269,16 +269,16 @@ He typed something quickly and put the phone away.
 
 Leo nodded and watched the window for a moment.
 
-"How about you?", Taiga continued. "Any plan for the break?"
+"How about you?" Taiga continued. "Any plan for the break?"
 
-Of course he had. He launched in a list of plans that looked impossible already from day one. Friends, family members, activities, old soccer club. 
+Of course he had. He launched into a list of plans that looked impossible already from day one. Friends, family members, activities, old soccer club. 
 
 "How do you actually manage to fit all of those in a few days?"
 
 "I'll figure it out."
 
 Taiga shook his head. Leo had apparently managed to build a full schedule before even getting home.
-He looked the window. The snow was beginning to stay on rooftops.
+He looked out the window. The snow was beginning to stay on rooftops.
 
 Acropolis Park had been turned into a winter market.
 Lights wrapped around the trees. Temporary wooden stalls lined both sides of the main path. Somebody had covered the fountain in white and yellow lights, and a large illuminated arch near the entrance announced 
@@ -328,7 +328,7 @@ Leo laughed. "Sometimes they set up an ice rink in the city during winter."
 "Great."
 
 Taiga tried to move again. This time, he nearly fell on his ass. 
-Leo was standing there with the face of someone who's trying so hard not to laugh.
+Leo was standing there with the face of someone who was trying so hard not to laugh.
 
 "This was a fucking stupid idea."
 
@@ -528,7 +528,7 @@ He exhaled and answered.
 
 "Hola, mami."
 
-Taiga was taken aback. He knew Leo spoke Spanish, and he could imagine that he didn't speak English with his mother. Still, hearing it caught him off guard.
+Taiga knew Leo spoke Spanish, and he could imagine that he didn't speak English with his mother. Still, hearing it caught him off guard.
 
 "Sí, mañana. Ya revisé."
 
@@ -574,7 +574,7 @@ He lowered the phone and sighed.
 
 Taiga smiled. Now that he heard Leo speaking his native language, the contrast with his English became slightly clearer. 
 
-"How come I've never heard you speaking Spanish with Enzo?"
+"How come I've never heard you speak Spanish with Enzo?"
 
 "We try not to when we're with others. Sometimes it's tempting, especially when I'm tired. But I don't really like excluding others."
 
@@ -606,7 +606,7 @@ Leo looked toward the lights.
 
 "So, what are you guys gonna do the whole week?"
 
-Taiga shrugged. "Dunno. The usual I guess. Light treks, maybe help with something. Chill, mostly. Then there's New Year's Eve."
+Taiga shrugged. "Dunno. The usual, I guess. Light treks, maybe help with something. Chill, mostly. Then there's New Year's Eve."
 
 Leo nodded. "You said you stayed a whole year there before Olympus, right?"
 
@@ -618,7 +618,7 @@ Leo nodded. "You said you stayed a whole year there before Olympus, right?"
 
 "How did you get a sponsor?"
 
-"He was the father of one of our scout friends. Although, it was mainly Keitaro who convinced him."
+"He was the father of one of our scout friends. It was mainly Keitaro who convinced him, though."
 
 "How...?"
 
@@ -630,7 +630,7 @@ Leo nodded. "You said you stayed a whole year there before Olympus, right?"
 
 "No fucking way. I've read a couple of his books, they're dope."
 
-"Well, he published a book from Keitaro's journal. That helped as well, since Keitaro devolved all his royalties to camp."
+"Well, he published a book from Keitaro's journal. That helped as well, since Keitaro donated all his royalties to the camp."
 
 "That's insane. I mean, getting published by Clermont? And he donated everything to the camp?" 
 
@@ -674,7 +674,7 @@ He then noticed that Leo was looking at him, smiling.
 
 "What?"
 
-"I was considering that you may have outgrown the Angry Guy."
+"I was thinking you may have outgrown the Angry Guy."
 
 "Fuck you."
 
