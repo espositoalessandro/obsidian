@@ -680,7 +680,7 @@ He then noticed that Leo was looking at him, smiling.
 
 Leo laughed. Then the conversation moved somewhere else.
 
-He talked about how loud his house was, because apparently multiple families lived together. Then he complained about his sister always embarrassing him in front of people. Taiga told him about some activities they did during the summer term, how Hiro once almost set himself on fire while cooking for Keitaro.
+He talked about how loud his house was, because apparently multiple houses were merged together in a single building. Then he complained about his sister always embarrassing him in front of people. Taiga told him about some activities they did during the summer term, how Hiro once almost set himself on fire while cooking for Keitaro.
 
 Leo had snorted at that. "That feels familiar."
 
