@@ -727,7 +727,7 @@ They discussed what costumes they would wear and whether Olympus would shift the
 Then Aaron changed the subject by asking whether anyone already had plans for the break after finals. Sofia was going home, so were Gav and Scott. Being only a couple of hours away by car definitely made the decision easier. Zoe had already booked a vacation in the mountains with her parents.
 Then Enzo turned towards Leo.
 
-"You decided if you stay or not?"
+"You decided if you're staying or not?"
 
 Leo made a face. "I'd like to go home, but it depends what flights look like."
 
