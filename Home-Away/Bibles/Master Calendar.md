@@ -115,115 +115,99 @@ This distinction resolves apparent time drift in the current manuscript. Owen is
 
 ---
 
-# 3. Act I — Arrival / Baseline
+# 3. Act I — Baseline / Awareness
+
+> **FINAL-REWRITE OVERRIDE**
+>
+> The Final manuscript no longer follows the old reserve / first-team milestone ladder that previously occupied Chapters 3–12. Exact day-level dates for early autumn scenes remain working unless explicitly locked in Final chapter prose.
+>
+> The critical late-Act-I dates below supersede the old Chapter 11–13 calendar.
 
 ## Week 1 — Arrival and tryouts
 ### Mon Aug 25 – Fri Aug 29, 2025
-**Chapter 1 — A Mistake**
+**Final Chapter 1 — The Mistake**
 
-- **Mon Aug 25** — Taiga arrives at Olympus, moves into Room 317 and meets Caleb.
-- Orientation begins.
-- Taiga first sees Leo/Mendez training through the soccer fence.
-- **Tue Aug 26** — open freshman soccer tryout.
+- **Mon Aug 25** — Taiga arrives at Olympus and moves into Room 317.
+- Freshman orientation begins.
+- **Tue Aug 26** — open soccer tryout.
 - **Wed Aug 27** — callback.
 - **Fri Aug 29** — Taiga receives the developmental-roster offer.
-- First formal training commitment is set for the following Monday.
 
-## Week 2
-### Mon Sep 1 – Sun Sep 7
-**Chapter 2 — Provisional**
+## September through mid-October
+### Final Chapters 2–7
 
-- University life settles into normal classes rather than orientation.
-- Taiga begins balancing academics, developmental soccer and ordinary campus routines.
-- Activities fair / early Nora and Caleb friendship development.
+- Classes, developmental football and Olympus routines establish themselves.
+- Taiga's first autumn friendly minutes occur during this stretch.
+- The six-week developmental review remains an early-autumn anchor.
+- Exact match dates in the legacy reserve ledger are **not authoritative** for the Final rewrite.
+- Taiga remains developmental throughout.
 
-## Week 3
-### Mon Sep 8 – Sun Sep 14
-**Chapter 3 — Noise**
+## Late October
+### Final Chapter 8 — Continue?
 
-- Taiga is increasingly integrated into Olympus routines.
-- **Sat Sep 13** — first-team home match vs **St. Vincent**, Olympus win 3–1; Taiga watches from the stands as a developmental player.
+- Arcadia occurs before the Halloween weekend.
+- Taiga's Computer Science direction is increasingly obvious without a formal declaration.
+- Taiga and Leo's friendship becomes more personally substantive without Taiga interpreting it romantically.
 
-## Week 4 / start of Week 5
-### Mon Sep 15 – Mon Sep 22
-**Chapter 4 — Margins**
+### Thu Oct 29 — Final Chapter 9 — Home
+- Olympus youth clinic.
 
-- Academic and social familiarity grows.
-- **Sun Sep 21** — closed developmental / academy scrimmage; Taiga gets meaningful match minutes.
-- The chapter rolls into the following Monday with General Chemistry lab.
+### Fri Oct 30 — Final Chapter 9 — Home
+- Hunter's exhibition / Camp Buddy reunion.
 
-## Week 5
-### Mon Sep 22 – Sun Sep 28
-**Chapter 5 — First Start**
+### Sat Oct 31 — Final Chapter 10 — Away
+- Olympus Halloween party.
+- Aaron asks Sofia out.
+- Taiga's Camp Buddy and Olympus worlds directly overlap.
+- Taiga and Leo spend substantial one-on-one time without Taiga reading it as a date.
 
-- **Sat Sep 27** — reserves vs **Northbridge**, Olympus win 2–1.
-- Taiga makes his first reserve start and plays 82 minutes.
+## November
+### Final Chapter 11 — Thresholds
 
-## Week 6
-### Mon Sep 29 – Sun Oct 5
-**Chapter 6 — Review**
+- Chapter 11 spans roughly two to three weeks after Halloween.
+- Ordinary academic / social / football life continues.
+- Taiga formally declares **Computer Science**.
+- Taiga receives his **first start in an autumn Apollo friendly** while remaining on the developmental roster.
+- The match is a trust milestone, not a promotion or first-team conference appearance.
+- Exact friendly date remains flexible until Chapter 11's final calendar pass.
 
-- Six-week developmental review.
-- **Thu Oct 2** — formal developmental review with Mercer.
-- Taiga remains developmental rather than receiving an early first-team promotion.
+## Thu Dec 4 – Fri Dec 12
+### Final Chapter 12 — The Bubble Pops
 
-## Week 7
-### Mon Oct 6 – Sun Oct 12
-**Chapter 7 — Outside**
+- Finals consume the closing stretch of the fall term.
+- Football gets one final closure beat; Mercer expects Taiga to return ready to compete for minutes.
+- No new selection / promotion milestone is introduced.
+- **Fri Dec 12** — Taiga's last final ends; campus empties for break.
+- Snow / remaining-on-campus logistics create the circumstance for Taiga and Leo to go to the Acropolis winter rink.
+- The rink is the Act I romantic-awareness turning point.
+- Taiga leaves the evening knowing that "friend" no longer fully explains how he reacts to Leo, without yet diagnosing a crush.
+- Taiga and Leo separate knowing they will not see each other for roughly three weeks.
 
-- **Sat Oct 11** — reserves vs **Easton**, 1–1; Taiga plays 28 minutes.
-- **Sun Oct 12** — Acropolis Park outing with Caleb and Maya.
+## Sat Dec 13
 
-## Week 8
-### Mon Oct 13 – Sun Oct 19
-**Chapter 8 — Undefined**
-
-- Major / advising pressure comes to the foreground.
-- Taiga increasingly recognizes Computer Science as the field he wants.
-- **Sat Oct 18** — Taiga submits his Computer Science major declaration.
-
-## Late October / early November
-### Mon Oct 20 – Sun Nov 2
-**Chapters 9–10 — Continue / Five Pieces**
-
-- **Mon Oct 20** — Calculus midterm returned; Taiga's CS declaration is approved.
-- Hunter's exhibition becomes the main off-campus commitment.
-- **Sat Nov 1** — Hunter exhibition trip.
-
-## Early November
-### Mon Nov 3 – Sun Nov 9
-**Chapter 11 — Selected**
-
-- Taiga is selected for his first senior matchday squad.
-- **Sat Nov 8** — first team vs **Westlake**, Olympus win 2–1.
-- Taiga enters around the 81st minute and records his first senior appearance.
-
-## Mid-November
-### Mon Nov 10 – Sun Nov 16
-**Chapter 12 — Baseline**
-
-- **Wed Nov 12** — first team away at **Helios Tech**, Olympus win 2–0; Taiga is not selected.
-- **Sat Nov 15** — reserves vs **Northbridge**, Olympus win 2–1; Taiga starts and plays 72 minutes.
-- Act I's active on-page chronology effectively ends here, followed by a time skip toward fall finals.
+- Taiga leaves for the one-week Camp Buddy winter visit.
+- Leo travels home to Santo Domingo.
+- **Section II opens directly at Camp Buddy.**
 
 ---
 
 # 4. Act II — Boundaries / Winter / Pinetree
 
-## Fall finals and winter break
-### Thu Dec 4 – Sat Dec 20, 2025
-**Chapters 13–14 — Unscheduled / Backstage**
+## Winter-break opening
+### Sat Dec 13 – Sat Dec 20, 2025
 
-- **Dec 4–12** — fall finals consume the end of term.
-- **Fri Dec 12** — finals are over; campus empties.
-- **Sat Dec 13** — Taiga leaves for Camp Buddy; Leo travels home to Santo Domingo.
+**Section II begins directly at Camp Buddy.**
+
+The old Draft chapter **Unscheduled** has been absorbed into Final Chapter 12. Its rink material no longer belongs to Section II.
+
+- **Sat Dec 13** — Taiga leaves Olympus and arrives at Camp Buddy for the winter visit.
+- Leo travels home to Santo Domingo.
 - Taiga spends approximately one week at Camp Buddy.
 - **Sat Dec 20** — Taiga's Camp Buddy winter visit ends.
+- Caleb's stated return date remains **January 6**.
+- Leo is away from Olympus for roughly three weeks.
 
-Important fixed prose:
-- Caleb says he will return **January 6**.
-- Leo is home for roughly three weeks.
-- The winter-break Camp Buddy visit is distinct from the later Spring Break preseason trip.
+> **Numbering note:** later Section II chapter numbers below remain development numbering until that section receives its Final structural rewrite. Preserve event order and dates; do not use the removed rink chapter to shift Final continuity backward.
 
 ## Spring-semester restart
 ### Mon Jan 12 – Sun Jan 18, 2026
@@ -461,8 +445,8 @@ This also leaves substantial calendar space after the Santo Domingo section for 
 
 | Act | Chapters | Calendar span |
 | --- | --- | --- |
-| **Act I** | 1–12 | Aug 25 – Nov 15, 2025, then time skip toward finals |
-| **Act II** | 13–21 | Dec 4, 2025 – Mar 5, 2026 |
+| **Act I** | 1–12 | Aug 25 – Dec 12, 2025 |
+| **Act II** | Final numbering TBD during rewrite | Dec 13, 2025 – Mar 5, 2026 |
 | **Act III** | 22–32 | Mar 10 – Apr 19, 2026 |
 | **Act IV** | 33–38 | Apr 21 – May 8, 2026 |
 | **Summer bridge** | post-Act IV | May 8 – May 24 and onward |
