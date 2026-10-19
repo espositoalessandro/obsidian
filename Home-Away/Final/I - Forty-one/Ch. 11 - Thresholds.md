@@ -563,7 +563,7 @@ Absolutely nothing changed. That was the worst part of it.
 
 Leo looked at him and then at Nora. "Should we worry?"
 
-Nora seemed confused as well. "Maybe?"
+She seemed confused as well. "Maybe?"
 
 "Both of you can go fuck yourselves."
 
