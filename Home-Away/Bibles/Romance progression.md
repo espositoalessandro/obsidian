@@ -69,112 +69,175 @@ The new questions are:
 
 # 2. Act Structure
 
-## Act I — Baseline
+## Act I — Baseline / Awareness
 Chapters 1–12.
 
 Primary job:
 - establish Taiga at Olympus;
-- build ordinary university life;
-- introduce academics, soccer, friends, campus geography, and independence;
+- build ordinary university life independent of romance;
+- introduce academics, soccer, friends, campus geography and independence;
 - make Leo one important person among many rather than the immediate plot center;
-- allow Taiga's body to react to Leo before Taiga is willing to treat that reaction as meaningful.
+- establish conscious sexual attraction without automatically turning it into romantic anxiety;
+- end by making Taiga realize that "hot friend" no longer fully explains his reactions to Leo.
 
 Romance progression:
 
-> physical noticing → conscious sexual attraction → compartmentalization → reader-visible Leo interest → physical destabilization
+> physical noticing → conscious sexual attraction → compartmentalization → reader-visible Leo interest → nervousness / physical destabilization → awareness that "friend" is incomplete
 
-## Act II — Boundaries
-Chapters 13–21.
+## Act II — Boundaries / Recognition
+Chapters 13–21 in the current development structure; exact chapter numbering may shift during the Final rewrite.
 
 Primary job:
-- turn unconscious preference into visible mutual closeness;
-- let outside pressure expose the pattern;
+- let Chapter 12's new awareness create situational nervousness;
+- turn preference into visible longing and social default;
+- show Taiga pulling back when he notices the pattern while repeatedly choosing Leo anyway;
+- let outside pressure expose a closeness Taiga has already privately noticed;
 - force the first rupture;
 - establish Leo's boundary;
-- repair without erasing what happened.
+- repair without resetting the relationship;
+- end with Taiga consciously admitting his own romantic desire and choosing the direction between them.
 
 Romance progression:
 
-> reactivity → curiosity → preference → mutual awareness → rupture → boundary → repair
+> nervousness → pullback → longing → preference → visible pattern → rupture → boundary → repair → recognition / chosen direction
 
-## Act III — Recognition
-Chapters 22–32.
+Core Act II result:
+
+> **I like him. I want more. I want to keep moving toward there.**
+
+Taiga still does not need to be ready for a boyfriend label.
+
+## Act III — Enactment
+Current development chapters 22–32.
 
 Primary job:
-- make Taiga consciously recognize that his physical attraction to Leo is persistent rather than an isolated bodily reaction;
-- destroy his ability to compartmentalize that attraction as meaningless;
-- let ambiguous touch become intentional possibility;
-- bring Leo into Camp Buddy, Taiga's emotionally loaded old home;
+- begin from Taiga already knowing he likes Leo and wants more;
+- let that knowledge change how physical attraction, touch and one-on-one choices are interpreted;
+- turn ambiguous closeness into increasingly intentional movement;
+- bring Leo into Camp Buddy because Taiga knowingly chooses him;
 - reintroduce Kieran and old romantic history;
-- use jealousy and incomplete disclosure to expose Leo's expectations;
+- use jealousy and incomplete disclosure to expose expectations that already exist;
 - let Taiga distinguish forgiveness from restoration;
-- make both boys explicitly acknowledge romantic and sexual attraction;
+- make both boys explicitly acknowledge mutual romantic and sexual attraction;
 - cross the first deliberate sexual threshold without forcing a relationship label;
-- return them to Olympus with the ambiguity changed rather than erased.
+- return them to Olympus knowing what they want from each other while still resisting formal definition.
 
 Romance progression:
 
-> recognition → ambiguity of intent → invitation → displacement → jealousy → honesty → mutual recognition → deliberate intimacy
+> known desire → ambiguity of mutual intent → deliberate invitation → displacement → jealousy → honesty → explicit mutuality → deliberate intimacy
+
+Core Act III result:
+
+> **We know where we are going; we are letting ourselves go there.**
+
+## Act IV — Definition / Crystallization
+
+Primary job:
+- take a relationship already emotionally and physically real;
+- reduce the remaining ambiguity about commitment;
+- turn ongoing mutual choice into explicit boyfriend status;
+- make definition a chosen threshold rather than a discovery of feelings.
+
+Romance progression:
+
+> lived relationship → increasing ease → pressure / stakes → explicit choice → boyfriend relationship
+
+Core Act IV result:
+
+> **We choose what this is.**
 
 ---
 
 # 3. Acts I–II — Locked Results
 
-## Baseline
+## Baseline / Awareness
 By Chapter 12:
 - Taiga has built a life at Olympus independent of romance.
 - Chapter 3 establishes the first unmistakable physical noticing of Leo.
 - Chapter 5 establishes conscious sexual attraction through the second shower, Zoe's information, the dream and Taiga's awake choice to continue the fantasy.
 - Early Chapter 6 lets Taiga file that attraction under a deliberately simple explanation: **Leo is hot; that explains enough.**
+- Chapters 6–10 preserve that compartment: Taiga can know Leo is attractive without becoming nervous or fixated.
 - Arcadia and Halloween allow the reader to begin inferring that Leo sees Taiga differently while Taiga remains oblivious.
-- After Halloween, Leo may have developed a genuine crush, but Chapter 11 should not make him a constant presence around Taiga. Their friendship is warmer; the stronger social-default pattern belongs to Act II.
-- Chapter 11 spans several weeks of ordinary life and larger non-romantic thresholds, including the first reserve start, formal CS declaration and a small first-team opportunity.
-- Chapter 12 moves through finals and ends at the winter rink.
-- The rink's romantic turn is **physical rather than verbal**: necessary contact / eye contact lasts slightly beyond necessity, both boys register it, and Taiga's old compartment stops explaining the reaction.
-- Taiga still does not conclude that he has a crush or that Leo likes him.
+- After Halloween, Leo may have developed a genuine crush, but Chapter 11 does not make him a constant presence around Taiga. Their friendship is warmer; the stronger social-default pattern belongs to Act II.
+- Final Chapter 11 spans several weeks of ordinary life and larger non-romantic thresholds, including the formal CS declaration and Taiga's first start in an autumn friendly while he remains developmental.
+- Chapter 12 closes the semester quickly, then gives most of its space to a one-on-one winter-rink outing.
+- The rink uses **two escalating physical beats**:
+  1. Leo takes both of Taiga's hands to teach him to skate. Once Taiga becomes competent enough to notice the prolonged contact, he becomes genuinely nervous and ends it himself.
+  2. Later, Leo stops to avoid another skater; Taiga cannot stop quickly enough and goes into Leo's arms. Leo catches him standing, their faces remain centimeters apart, both flush, and Taiga notices unusually specific details of Leo's face before pulling away.
+- Taiga files the second moment as awkward rather than diagnosing a crush.
+- The outing continues into hot drinks and increasingly personal conversation, including Leo's Spanish / family texture and Taiga's Camp Buddy gap-year history.
+- At separation, Taiga realizes they will not see each other for roughly three weeks and finds that absence unexpectedly unpleasant.
+- Taiga still does not conclude that he is in love, that Leo likes him or that they should date.
 
 Core result:
 
-> Leo becomes physically understandable before he becomes romantically interpretable; the rink is the first crack in Taiga's explanation.
+> **"Friend" is no longer a complete explanation.**
 
-## Boundaries
-By Chapter 21:
-- Taiga and Leo have become an obvious social default;
+## Boundaries / Recognition
+By the end of Act II:
+- Chapter 12's awareness has turned into situational nervousness rather than constant shyness;
+- Taiga sometimes pulls back after charged moments because he recognizes the pattern;
+- his actual choices repeatedly move in the opposite direction;
+- he notices Leo's absence;
+- he looks for messages / presence;
+- plans become more attractive when Leo is involved;
+- Taiga and Leo become an obvious social default;
 - other people can see the pattern;
-- Aaron naming that pattern at Pinetree causes Taiga to panic;
-- Taiga pushes Leo away;
-- Leo establishes the boundary that Taiga may be confused or afraid, but may not turn Leo's care into shameful evidence;
+- outside attention at Pinetree threatens Taiga because it confirms that the closeness he has privately noticed is externally visible;
+- Taiga pushes Leo away in an attempt to restore control;
+- Leo establishes the boundary that Taiga may be afraid or confused, but may not turn Leo's care into shameful evidence and expect Leo to keep absorbing the push / pull;
 - Taiga later tells Leo the ugly Camp Buddy truth;
-- both acknowledge that they are close and that absence matters;
-- Chapter 21, _What remains_, completes the repair on-page: ordinary Data Structures work, coffee and joking return without erasing Pinetree;
-- neither can classify the relationship yet.
+- the repair restores ordinary contact without pretending the rupture never happened;
+- Leo communicates, in substance, that he does not want to change **wherever they were going**;
+- Taiga finally stops treating his own desire as an unsolved mystery.
+
+Taiga's Act II realization is:
+
+> **I like Leo. I want more than friendship. I want to keep moving toward this.**
+
+This does **not** make him ready to define them as boyfriends.
+
+It does remove plausible deniability about his own feelings.
 
 Core result:
 
-> Plausible deniability about closeness is gone, and the first rupture has been repaired without resetting the relationship.
+> **Recognition belongs to Act II. Definition does not.**
 
 ---
 
 # 4. Chapter 22 — Blind Spot
 
 Core movement:
-**physical attraction becomes consciously undeniable.**
+**known attraction becomes harder to manage once Taiga has admitted what it means.**
 
-Taiga has already had an isolated sexual reaction to Leo in Chapter 4 and successfully filed it away as a situational physical event.
+Do **not** use Chapter 22 to make Taiga discover that he is physically attracted to Leo.
 
-In Chapter 22, that explanation stops working.
+He has consciously known Leo is sexually attractive since Chapter 5, and Act II ends with Taiga recognizing that he likes Leo romantically and wants more.
 
-Taiga begins noticing Leo's body repeatedly in ordinary contexts where nudity is not the cause, and the attraction becomes persistent enough that he can no longer quarantine it as one weird night months earlier.
+Chapter 22 instead explores the consequence of that recognition.
 
-The locker-room/shower context brings the old pattern back into focus and forces recognition rather than creating attraction from nothing.
+Ordinary body awareness now carries more weight because Taiga can no longer quarantine it under:
 
-This does not create a relationship decision.
+> Leo is hot. Whatever.
 
-It changes the kind of uncertainty.
+Locker-room / shower contexts may intensify the attraction, but they do not create or reveal it.
+
+Taiga's problem is now closer to:
+
+> **I know why I want to look. What the fuck do I do with that?**
+
+This can produce:
+- embarrassment;
+- deliberate looking away;
+- stronger awareness of proximity;
+- more difficulty pretending a physical reaction is meaningless;
+- heightened uncertainty about whether Leo notices / reciprocates in the same way.
+
+Do not reset Taiga to early-Act-I confusion.
 
 Core result:
 
-> Physical deniability ends.
+> **Desire is known; managing it becomes harder.**
 
 ---
 
@@ -203,15 +266,17 @@ Zayne Alexander also provides an external control case:
 
 Do not have Zayne, Leo or the narration diagnose Taiga's reaction as jealousy. The reader should catch it from behavior.
 
-Taiga's central question about Leo remains:
+Taiga's central question about Leo becomes:
 
-> Did he mean to?
+> **Did he mean to?**
 
-Neither boy has enough certainty to answer.
+Taiga already knows what **he** wants. The ambiguity now belongs to Leo's intent and to how far either boy is willing to make the trajectory explicit.
+
+Neither boy has enough certainty to answer every physical cue yet.
 
 Core result:
 
-> Attraction is known; intent is not, and exclusivity begins to matter before Taiga has language for it.
+> **Taiga's desire is known; Leo's intent and the boundaries of their emerging relationship are not.**
 
 ---
 
@@ -229,7 +294,9 @@ Nobody arranges it for them.
 
 No soccer trip forces them together.
 
-Taiga simply chooses Leo.
+Taiga **knowingly chooses Leo**.
+
+He already understands that this is not an interchangeable friend invitation. Camp Buddy is emotionally loaded, and he wants Leo specifically inside it.
 
 Leo says yes.
 
