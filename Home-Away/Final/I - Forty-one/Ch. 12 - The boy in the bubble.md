@@ -491,7 +491,7 @@ They returned the skates and walked back toward the market.
 
 ***
 
-They strolled a bit around the markets, until Leo saw a stand selling hot chocolate. He immediately went for one and Taiga followed.
+They strolled around the market for a bit, until Leo saw a stand selling hot chocolate. He immediately went for one and Taiga followed.
 
 They found an empty section of a bench near the edge of the market, where the crowd was thinner and the music from the fountain was mostly background noise.
 
@@ -512,7 +512,7 @@ Taiga shook his head and waited another minute before trying his own.
 For a while they watched people move between the stalls.
 A family passed with two small kids in matching hats. A couple near the rink entrance were trying to take a picture without dropping either of their cups. Somebody farther down the path was playing guitar badly.
 
-Then Leo's phone rang. He checked at the screen and groaned.
+Then Leo's phone rang. He checked the screen and groaned.
 
 "Ugh, again."
 
@@ -520,11 +520,11 @@ Then Leo's phone rang. He checked at the screen and groaned.
 
 "My mother."
 
-He exhaled and aswered.
+He exhaled and answered.
 
 "Hola, mami."
 
-Taiga was taken aback. He knew he talked Spanish, and he also could imagine that he didn't talk in English with his parent. Still, that took him off guard.
+Taiga was taken aback. He knew Leo spoke Spanish, and he could imagine that he didn't speak English with his mother. Still, hearing it caught him off guard.
 
 "Sí, mañana. Ya revisé."
 
@@ -541,7 +541,7 @@ A pause.
 
 "Sí, esa."
 
-Taiga smiled into his coffee.
+Taiga smiled into his hot chocolate.
 Leo kicked lightly at the side of his shoe without interrupting the call.
 
 "Sí, comí."
@@ -602,7 +602,7 @@ Leo looked toward the lights.
 
 "So, what are you guys gonna do the whole week?"
 
-Taiga shrugged. "Dunno. The usual I guess. Light treks, maybe help with something. Chill, mostly. Then there's New Years' Eve."
+Taiga shrugged. "Dunno. The usual I guess. Light treks, maybe help with something. Chill, mostly. Then there's New Year's Eve."
 
 Leo nodded. "You said you stayed a whole year there before Olympus, right?"
 
@@ -612,9 +612,9 @@ Leo nodded. "You said you stayed a whole year there before Olympus, right?"
 
 "I volunteered. Last year camp was pretty much broke. Somehow we managed to get a sponsor and we started fixing and expanding the place."
 
-"How did you manage a sponsor?"
+"How did you get a sponsor?"
 
-"He was the father of one of our scout friend. Although, it was mainly Keitaro who convinced him."
+"He was the father of one of our scout friends. Although, it was mainly Keitaro who convinced him."
 
 "How...?"
 
@@ -628,34 +628,34 @@ Leo nodded. "You said you stayed a whole year there before Olympus, right?"
 
 "Well, he published a book from Keitaro's journal. That helped as well, since Keitaro devolved all his royalties to camp."
 
-"That's insane. I mean, getting published by Clermont? And, he devolved everything to camp?" 
+"That's insane. I mean, getting published by Clermont? And he donated everything to the camp?" 
 
 "Yeah, he's pretty intense. It was a shame that I-"
 
 He stopped. Nope, definitely not.
 
-Taiga cleared his throat. "Anyway, long story short, I stayed with Yoichi after the term to help with the constructions."
+Taiga cleared his throat. "Anyway, long story short, I stayed with Yoichi after the term to help with the renovations."
 
 "If you don't mind me asking, why did you stay?"
 
 Taiga turned to look at the people on the rink.
 
-"I-..." He exhaled through his nose. "Let's just say that last year's term I wasn't exactly in the right place with my mind. I fucked up a thing or two and the camp helped me out with it. I felt like I wanted to stay there and do something in return."
+"I-..." He exhaled through his nose. "Let's just say that last year's term I wasn't exactly in a good place mentally. I fucked up a thing or two and the camp helped me through it. I felt like I wanted to stay there and do something in return."
 
 Snow landed on the edge of Leo's scarf and disappeared into the fabric.
 Taiga watched it melt.
 
 "So... why leave?"
 
-"Because I realized that I wasn't staying there because I wanted to. Well, I actually wanted to, but mostly because of guilt. This summer, I saw everyone coming back after a whole year at college. They went on with their life, while I was still stuck."
+"Because I realized that I wasn't staying there because I wanted to. Well, I actually wanted to, but mostly because of guilt. This summer, I saw everyone coming back after a whole year at college. They went on with their lives, while I was still stuck."
 
 Taiga took a drink from his chocolate.
 
-"Clermont overheard two of my scoutmaster talking about convincing me to go somewhere, and suggested that I applied here."
+"Clermont overheard two of my scoutmasters talking about convincing me to go somewhere and suggested that I apply here."
 
 He paused and smiled.
 
-"Yoshinori wrote something like a nine pages reference letter. Clermont signed it as well. Took me something like eleven days and a threat from Keitaro to fill the registration form and send it."
+"Yoshinori wrote something like a nine-page reference letter. Clermont signed it as well. Took me something like eleven days and a threat from Keitaro to fill out the application form and send it."
 
 "That's kind of dramatic."
 
@@ -675,7 +675,7 @@ Leo shook his head. "Nothing, nothing."
 Taiga narrowed his eyes. Leo took another drink.
 Then the conversation moved somewhere else.
 
-He talked about how loud was his house, because apparently multiple families lived together. Then he complained about his sister always embarrassing him in front of people. Taiga told him about some activities they did during the summer term, how Hiro once almost went on fire while cooking for Keitaro.
+He talked about how loud his house was, because apparently multiple families lived together. Then he complained about his sister always embarrassing him in front of people. Taiga told him about some activities they did during the summer term, how Hiro once almost set himself on fire while cooking for Keitaro.
 
 Leo had snorted at that. "That feels familiar."
 
