@@ -157,64 +157,101 @@ The legacy development bibles do not need to be retroactively rewritten merely t
 
 ---
 
-## Section I endgame restructured after Halloween
+## Section I endgame / romance architecture restructured
 
 **First discovered:** Final Chapter 10 / planning for Chapters 11–12  
 **Scope:** Structure / romance / football / academics / timeline  
-**Affected chapters:** Final Chapters 11–12 and any later reference to the end of Section I  
+**Affected chapters:** Final Chapters 11–12; Sections II–IV romance progression; later references to the end of Section I  
 **Status:** In progress
 
 ### Issue
 
-The previous 13-chapter plan spread too little dramatic material across three separate chapters:
+The previous architecture created two related problems.
 
-- Chapter 11 as a full chapter about Taiga's first reserve start;
-- Chapter 12 as a low-conflict "new baseline" chapter;
-- Chapter 13 as the rink / romantic disruption chapter.
+First, the old 13-chapter Section I spread too little dramatic material across:
+- a standalone first-start chapter;
+- a low-conflict "new baseline" chapter;
+- a rink / romantic-disruption chapter.
 
-After the intensity of Chapter 10, that architecture created too much deceleration and delayed the romantic turn without adding enough meaningful story.
-
-The old rink plan also depended on Leo saying a line equivalent to:
-
-> "Sometimes I forget there was a version of Olympus where you weren't here yet."
-
-That verbal cue felt too explicit and too mechanically designed to tell Taiga that the relationship mattered.
+Second, the old romance roadmap delayed **Taiga's actual realization** too far. It allowed Act II to end on vague "I still don't know what this is" language and assigned recognition to Act III, even though Taiga and Leo are twenty, both have prior relationship experience, and Act II already contains months of nervousness, preference, longing, visible closeness, rupture and repair.
 
 ### Final rule or intended fix
 
-Section I returns to **12 chapters**.
+Section I contains **12 chapters**.
 
-**Chapter 11**
-- spans roughly two to three weeks after Halloween;
-- lets ordinary life continue rather than centering one event;
-- includes Taiga's first start in an autumn friendly while he remains developmental;
-- includes the formal Computer Science major declaration;
-- gives Evan space to frame the left-wing role beyond his graduation without promising it to Taiga;
-- gives the reader one very small Leo-interest cue without making Leo a constant companion;
-- allows Leo to have developed a genuine crush while keeping Taiga oblivious;
-- ends on Mercer's simple post-match judgment: "Good."
+**Final Chapter 11 — Thresholds**
+- spans several weeks after Halloween;
+- contains the formal Computer Science declaration;
+- contains Taiga's first start in an autumn friendly while he remains developmental;
+- lets ordinary Olympus life continue around those thresholds;
+- keeps Leo's increased warmth reader-visible without making him Taiga's constant companion;
+- does **not** spend the romantic destabilization.
 
-**Chapter 12**
-- merges the old "new baseline" and rink / disruption functions;
-- begins with ordinary late-semester life and moves through finals;
-- narrows after campus begins emptying;
-- uses the Acropolis rink as the Act I romantic turning point;
-- replaces the old meaningful Leo line with a **physical cue**;
-- lets necessary skating contact / eye contact linger slightly beyond necessity so both boys register it;
-- destabilizes Taiga's "Leo is hot; that explains enough" compartment without making him conclude that he has a crush.
+**Final Chapter 12 — working title: The Bubble Pops**
+- closes finals / fall football efficiently;
+- gives Mercer the final football word of the semester without adding another milestone;
+- gives roughly **70–75%** of the chapter to the Taiga / Leo rink outing and its aftermath;
+- engineers a fully deniable "date" through circumstance rather than explicit romantic planning;
+- uses a **two-step physical progression**:
+  1. Leo takes both of Taiga's hands to teach him to skate. Taiga initially ignores the contact, then becomes genuinely nervous once he has enough spare attention to notice they are still holding hands; he ends the contact himself.
+  2. Later, Leo stops to avoid another skater; Taiga cannot stop quickly enough and goes into Leo's arms. Leo catches him standing. Their faces remain centimeters apart, both flush, and Taiga notices unusually specific details of Leo's face before pulling away.
+- lets Taiga dismiss the embrace as "awkward" rather than immediately diagnosing a crush;
+- continues into hot drinks and increasingly personal conversation so the outing becomes emotionally intimate after the physical trigger;
+- ends with Taiga realizing he will not see Leo for roughly three weeks and finding that absence unexpectedly unpleasant.
 
-The stronger default-pair / regular-proximity progression between Taiga and Leo remains reserved for Act II.
+The Section I result is:
+
+> **"Friend" is no longer a complete explanation.**
+
+### Romance architecture — revised
+
+**Act I — Awareness**
+> Something is happening.
+
+Taiga discovers that his reactions to Leo no longer fit cleanly inside "hot friend."
+
+**Act II — Recognition**
+> I want it to happen.
+
+Chapter 12's awareness creates situational nervousness. Taiga pulls back when he notices the pattern, then misses Leo, seeks him again, notices his absence and increasingly chooses him. Pinetree exposes a pattern Taiga already privately recognizes. The repair must end with Taiga consciously admitting:
+- he likes Leo;
+- he wants more than friendship;
+- he wants to keep moving toward wherever they were going.
+
+Act II must **not** reset to "I still don't know what this is."
+
+**Act III — Enactment**
+> We let it happen.
+
+Taiga begins Act III already knowing what he wants from Leo. Camp Buddy is a deliberate invitation, not an unconscious choice. The unresolved issues are mutual intent, expectations, boundaries, jealousy, disclosure and how much intimacy they are willing to make deliberate before choosing a formal label.
+
+**Act IV — Definition**
+> We choose what it is.
+
+Act IV crystallizes an already-real relationship into actual boyfriend status. The label is a chosen commitment threshold, not the discovery of romantic feelings.
 
 ### Cross-novel checks
 
 - [x] Section I Chapter Map updated
 - [x] Prose & Voice Bible updated
-- [ ] Chapter 11 Final rewrite completed
+- [x] Romance Progression Bible updated
+- [x] Master Calendar updated so Final Chapter 12 owns finals / rink and Section II opens at Camp Buddy
+- [x] Chapter 11 Final rewrite completed
 - [ ] Chapter 12 Final rewrite completed
-- [ ] Section II opening checked against new Act I endpoint
-- [ ] Later romance references checked for assumptions tied to the removed spoken line
+- [ ] Section II Final rewrite checked against situational-nervousness / longing progression
+- [ ] Pinetree repair rewritten so Taiga ends Act II consciously wanting more
+- [ ] Chapter 22 rewritten so it does not rediscover attraction
+- [ ] Camp Buddy invitation preserved as a conscious romantic choice
+- [ ] Act IV definition beats checked so boyfriend status crystallizes rather than creates the relationship
 - [ ] Final manuscript consistency verified
 
 ### Notes
 
-The old 13-chapter structure and the spoken rink line are superseded.
+The old spoken rink line equivalent to:
+
+> "Sometimes I forget there was a version of Olympus where you weren't here yet."
+
+remains superseded.
+
+The old Draft Chapter 13 rink material is source material only. Final Chapter 12 owns the romantic-awareness turn.
+
