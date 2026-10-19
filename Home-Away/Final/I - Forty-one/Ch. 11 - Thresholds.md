@@ -601,7 +601,7 @@ Briarwood pressed hard for the first fifteen minutes, then slowed down. Taiga go
 
 By the second half, Taiga had stopped thinking about the fact that he had started at all.
 
-Olympus scored in the fifty-eighth minute through Price. Taiga had contributed by pulling the fullback wide, opening space for Leo to move inside and make the final pass.
+Olympus scored in the fifty-eighth minute through Price. Taiga had contributed by pulling the fullback wide, opening space for Leo to move in and make the final pass.
 After celebrating with Price, Leo turned to him and gave him a thumbs-up with a grin.
 
 Taiga smiled. It wasn't the first time he'd done something like that, but it still felt fucking good.
