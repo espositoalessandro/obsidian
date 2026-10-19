@@ -455,7 +455,7 @@ Taiga, on the other hand, hadn't reached the part where he learned how to stop.
 "SHIT—"
 
 He went straight into Leo. 
-Leo's arms came around him before either of them lost balance. Taiga grabbed the front of his jacket.
+Leo's arms came around him before either of them could fall. Taiga grabbed the front of his jacket.
 
 "Woah."
 
