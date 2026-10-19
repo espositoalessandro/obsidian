@@ -575,8 +575,8 @@ Leo chuckled. "Looks like it."
 
 Saturday arrived gray, cold and windy. 
 
-Mercer had just finished the match briefing and left the lockers room.
-Taiga looked at the magnetic board he left behind.
+Mercer had just finished the match briefing and left the locker room.
+Taiga looked at the magnetic board he'd left behind.
 
 		                PRICE J.
 
@@ -589,8 +589,8 @@ Taiga looked at the magnetic board he left behind.
 	                    STIRLING S.
 
 
-Seeing his name on the starting formation still felt a bit uncomfortable. 
-Around him, on the other hand, things were still normal. Enzo was shouting nonsense, Leo was arguing back from across the room, Scotto was silently taping his fingers, Gav was explaining stuff to another freshman.
+Seeing his name in the starting lineup still felt a bit uncomfortable. 
+Around him, on the other hand, things were still normal. Enzo was shouting nonsense, Leo was arguing back from across the room, Scott was silently taping his fingers, and Gav was explaining stuff to another freshman.
 
 Briarwood arrived in dark red shirts. Taiga knew almost nothing about them beyond what Mercer had said during film: compact midfield, aggressive fullbacks, annoying press.
 
@@ -607,12 +607,12 @@ Briarwood pressed hard for the first fifteen minutes, then slowed down. Taiga go
 
 By the second half, Taiga had stopped thinking about the fact that he had started at all.
 
-Olympus scored at 58" through Price. Taiga somehow contributed that by freeing some space for Leo to dive in and make the final pass.
-After celebrating with Price, Leo turned to him and raised his thumbs up with a grin.
+Olympus scored in the fifty-eighth minute through Price. Taiga had contributed by pulling the fullback wide, opening space for Leo to move inside and make the final pass.
+After celebrating with Price, Leo turned to him and gave him a thumbs-up with a grin.
 
-Taiga smiled. It was not the first time he had done something like that, but it still felt fucking good.
+Taiga smiled. It wasn't the first time he'd done something like that, but it still felt fucking good.
 
-At sixty-eight minutes, he saw Evan jogging outside the sideline. A few minutes later, the board went up.
+At sixty-eight minutes, he saw Evan jogging along the sideline. A few minutes later, the board went up.
 
 **41 OUT**
 **11 IN**
@@ -635,7 +635,7 @@ Taiga stood with everyone else, shook a few hands and headed back inside.
 
 By the time he reached the locker room, Enzo had apparently already made a decision for the entire team.
 
-"Tonight we celebrate the victory and also our forty-one first start!"
+"Tonight we celebrate the victory and our Forty-one's first start!"
 
 Taiga sat down and started pulling off his boots.
 
