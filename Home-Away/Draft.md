@@ -518,13 +518,23 @@ Saturday arrived gray, cold and windy.
 
 By the time Taiga reached the Sports Zone, the fact that he was starting had already lost some of its novelty.
 
-His name was on the board when he walked into the locker room.
+The lineup was already on the board when he walked into the locker room.
 
-**41 - AKATORA - LW**
+		                PRICE J.
 
-He looked at it for a couple of seconds, then put his bag down.
+	    AKATORA T.      MENDEZ J.        REYES E.
 
-Around him, everything was normal. Enzo was complaining that one of his socks had disappeared. Scott was taping two fingers together. Leo was trying to convince Gav that arriving twelve minutes early still counted as early.
+	            FOSTER G.     HUGHES D.
+
+     BENNETT A.     CARTER M.     PARKER L.      ELLIS J.
+
+	                    STIRLING S.
+
+Taiga looked at his name for a couple of seconds, then put his bag down.
+
+Hughes and Parker had both trained with them plenty of times, but Taiga hadn't spoken to either of them much beyond the usual locker-room noise. Apparently Mercer had decided Saturday was a good day to rotate people.
+
+Around him, everything else was normal. Enzo was complaining that one of his socks had disappeared. Scott was taping two fingers together. Leo was trying to convince Gav that arriving twelve minutes early still counted as early.
 
 Nobody seemed particularly interested in the fact that Taiga was starting.
 
