@@ -48,7 +48,7 @@ With Political Institutions over, Nora had already finished all her exams. She h
 
 "My train's Saturday morning."
 
-"So, still the same plan? Camp for a week, then home?"
+"So, still the same plan? Home first, then camp for New Year's?"
 
 "Yeah."
 
@@ -259,9 +259,13 @@ Leo checked his phone.
 
 He typed something quickly and put the phone away.
 
-"You're going straight to Camp Buddy tomorrow?"
+"So, when are you going to camp?"
 
-"Yeah. We're doing a sort of reunion for a week. Keitaro and Hiro are already there. Yoichi as well, of course."
+"Around the 27th I guess."
+
+"And you all be staying there?"
+
+"Yeah. We're doing a sort of reunion for about a week."
 
 Leo nodded and watched the window for a moment.
 
