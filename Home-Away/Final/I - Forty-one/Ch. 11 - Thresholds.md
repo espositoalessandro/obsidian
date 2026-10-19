@@ -10,11 +10,11 @@ Then November started doing what November apparently did at university: everythi
 
 Professor Hall assigned their final paper and spent ten minutes explaining that three citations couldn't magically turn six pages of opinions into an academic paper. Chemistry added another lab report. Rao put the last Foundations assignment online and casually mentioned the final as if that wasn't the kind of sentence that ruined people's week.
 
-Taiga started spending more time in the library. When the library got too crowded, he worked in his room instead. 
+Taiga started spending more time in the library. When the library got too crowded, he worked in his room instead.
 Caleb had developed an entire system involving two timers, a spreadsheet and scheduled breaks. Taiga refused to participate on principle and then slowly started using the breaks anyway.
 
 Life outside classes and training kept happening too.
-He ate with the team after practice sometimes. Stayed at House Apollo once after film because Gav had ordered too much food. Nora kept stealing the chair beside him in Political Institutions. 
+He ate with the team after practice sometimes. Stayed at House Apollo once after film because Gav had ordered too much food. Nora kept stealing the chair beside him in Political Institutions.
 Enzo slowly forgot the whole Dynamite story. Leo did not, obviously. At least he never brought it back in front of Enzo.
 Caleb and Maya dragged him to Starbuffs one Sunday morning and then spent half of breakfast discussing whether a trail near Acropolis would still be usable after the first snow.
 
@@ -22,9 +22,9 @@ For almost three weeks, Olympus simply continued.
 
 Soccer didn't slow down either. If anything, Mercer got worse.
 
-Taiga played twenty-six minutes in one friendly, then thirty in the next. Nothing particularly interesting happened in either. 
+Taiga played twenty-six minutes in one friendly, then thirty in the next. Nothing particularly interesting happened in either.
 
-Training was another story. 
+Training was another story.
 The first weeks had been full of pauses. Stop. Reset. Explain where everyone was supposed to be. Explain why. Repeat.
 
 Now Mercer mostly expected them to know. A bad press got a whistle and a surname. A bad run got a whistle and a stare.
@@ -83,17 +83,17 @@ Mercer waited, but nothing useful came out.
 
 "Uh... Alright," he just said.
 
-"Good." 
+"Good."
 
 Mercer nodded and left.
 
-Taiga went to the locker room, still metabolizing the thought of him actually starting. 
+Taiga went to the locker room, still metabolizing the thought of him actually starting.
 He lifted his shirt, shoved it into his bag and sat down to untie his boots.
 Starting. Actual fucking starting. Not first team, sure, but... that should mean something. Right?
 
 "You alright?"
 
-Taiga snapped out and looked up. Leo was standing in front of him, towel around the waist and still damp from the shower.
+Taiga snapped out of it and looked up. Leo was standing in front of him, a towel around his waist and still damp from the shower.
 
 "Mh? Yeah."
 
@@ -103,7 +103,7 @@ Taiga snapped out and looked up. Leo was standing in front of him, towel around 
 
 Leo smiled. "The nerve!"
 
-He grabbed his stuff from his locker and sat beside him, drying off his hair with a towel.
+He grabbed his stuff from his locker and sat beside him, drying his hair with a towel.
 
 "Did Mercer say something requiring that much computation?"
 
@@ -156,9 +156,9 @@ Mercer walked away, while Evan spotted Taiga. A bright smile appeared on his fac
 
 "Don't do that."
 
-Evan laughed and fell into step beside him. They headed toward the main campus. For a while they didn't talk about football at all. Evan complained about professors moving deadlines, other seniors having regular panic attacks and, in general, about having the feeling that Olympus was trying its best to get rid of him.
+Evan laughed and fell into step beside him. They headed toward the main campus. For a while they didn't talk about football at all. Evan complained about professors moving deadlines, other seniors having regular panic attacks and, in general, feeling like Olympus was trying its best to get rid of him.
 
-"You never told me what you're studying," Taiga asked at some point.
+"You never told me what you're studying," Taiga said at some point.
 
 Evan shrugged. "Well, you never asked!"
 
@@ -168,7 +168,7 @@ Taiga blinked. Yeah, Caleb-virus was evidently airborne.
 
 "Oh. That's pretty cool."
 
-"It is! Besides, most people don't know, but Spanish is one of the most spoken languages in the world. So I hope it'll serve me well."
+"It is! Besides, most people don't know, but Spanish is one of the most widely spoken languages in the world. So I hope it'll serve me well."
 
 "Is it?"
 
@@ -188,7 +188,7 @@ Right. He didn't think about the implications of that.
 
 "What about you though? I only know you're in the same Chemistry class as Leo."
 
-"I'm..." Taiga twitched his mouth. "Actually, I'm still undeclared."
+"I'm..." Taiga twisted his mouth. "Actually, I'm still undeclared."
 
 Evan shrugged. "That's fine. I didn't declare my major until almost May of freshman year."
 
@@ -208,7 +208,7 @@ Evan smiled. They continued for a couple of minutes without speaking. Then Taiga
 
 "I haven't got the faintest freaking idea."
 
-Taiga stared at him. 
+Taiga stared at him.
 
 "Dunno, I'll probably end up working for some company. Or maybe I'll be a teacher. Or even a tour guide, that'd be nice. Free travel!"
 
@@ -252,7 +252,7 @@ They stopped outside the dorm building.
 
 Taiga frowned. "Yeah. I know."
 
-"Some of them were actual wingers. Yet, here you are."  
+"Some of them were actual wingers. Yet, here you are."
 
 He paused a second, then pointed at the dorm building.
 
@@ -302,7 +302,7 @@ Taiga laughed. "Go fuck yourself."
 
 ***
 
-Somehow Nora was getting more unbearable than usual. As weeks passed, she spent more and more time in the library. Her army of notes, Post-its, books and colored tabs had grown enough to require half a table every time. 
+Somehow Nora was getting more unbearable than usual. As weeks passed, she spent more and more time in the library. Her army of notes, Post-its, books and colored tabs had grown enough to require half a table every time.
 The good thing about this was that she was so focused on her studies that annoying Taiga had become secondary.
 
 The bad thing, however, was that whoever tried to talk to her while she was deep in a paragraph basically risked their life.
@@ -335,7 +335,7 @@ It was the day after his talk with Evan. Besides all the soccer stuff that was s
 
 *I'll try out a couple of things and see what sticks.*
 
-That was a stupid way of making decisions. 
+That was a stupid way of making decisions.
 
 Maybe, though, having an always-open tab of the school program sitting in the background with the "Computer Science" option already selected in the dropdown was even more stupid.
 
@@ -351,7 +351,7 @@ Talk about bad timing.
 
 **Taiga:** working on it
 
-**Leo:** now?? 
+**Leo:** now??
 
 **Taiga:** why
 
@@ -364,7 +364,7 @@ Talk about bad timing.
 **Taiga:** what if i'm not in pain?
 
 **Leo:** then it means you want to suffer alone
-**Leo:** which i can respect 
+**Leo:** which i can respect
 
 Idiot.
 
@@ -389,7 +389,7 @@ Taiga just gave him an "I told you" look when he turned to him after that. Event
 
 "This assignment is pointlessly cruel," he said with a frown, looking at the screen with intense disgust.
 
-Taiga leaned over to look at his screen. 
+Taiga leaned over to look at his screen.
 
 "What's your problem?"
 
@@ -411,7 +411,7 @@ He removed his hand. Taiga just shrugged.
 
 "Alright. It's a stupid error."
 
-Leo turned towards him and raised an eyebrow.
+Leo turned toward him and raised an eyebrow.
 
 "Okay, that definitely needs some work."
 
@@ -419,10 +419,10 @@ Across the table, Nora snorted. Taiga glared at her.
 
 "Mind your assignment."
 
-She didn't say anything, but Taiga saw her exchanging a knowing glance with Leo. 
+She didn't say anything, but Taiga saw her exchanging a knowing glance with Leo.
 Suddenly, he missed Caleb and his room.
 
-After fourteen minutes, Leo tried another run and the test suite was still red. His forehead went straight onto the laptop keyboard.
+After fourteen minutes, Leo tried another run and the test suite was still red. His forehead dropped straight onto the laptop keyboard.
 Taiga glanced at that pathetic scene. The cursor was leaving a trail of "bbbbbbbb" in the file.
 He still hadn't caught the error.
 
@@ -526,9 +526,9 @@ Jesus. Why was everybody so obsessed with him being undeclared?
 
 Taiga stared at him for a couple of seconds. The fuck?
 
-He opened the Olympus courses tab again and stared at it. 
+He opened the Olympus courses tab again and stared at it.
 What was wrong with him?
-Almost everyone he'd talked to wasn't entirely sure about their future either. Yet, none of them were being such dramatic pussies over a simple major declaration.
+Almost everyone he'd talked to was unsure about their future too. Yet, none of them were being such dramatic pussies over a simple major declaration.
 Instead, each time he opened the portal and looked at the *submit* button, he ended up staring at that fucking page for minutes, until eventually deciding he was still not sure enough.
 
 Which was stupid. He had basically already decided to give CS a try.
@@ -551,7 +551,7 @@ Taiga looked back, still smiling.
 
 Then he opened the portal, quickly selected "Computer Science" from the major dropdown, and pressed *submit* before thinking too hard about it.
 
-A loading spinner appeared over the page, followed by a green checkmark shortly after.
+A loading spinner appeared over the page, followed shortly after by a green checkmark.
 His profile now read:
 
 **TAIGA AKATORA**
@@ -573,9 +573,9 @@ Leo chuckled. "Looks like it."
 
 ***
 
-Saturday arrived gray, cold and windy. 
+Saturday arrived gray, cold and windy.
 
-Mercer had just left the locker room after the usual briefing. 
+Mercer had just left the locker room after the usual briefing.
 Taiga looked at the magnetic board.
 
 		                PRICE J.
@@ -589,14 +589,14 @@ Taiga looked at the magnetic board.
 	                    STIRLING S.
 
 
-Seeing his name in the starting lineup still felt a bit uncomfortable. 
+Seeing his name in the starting lineup still felt a bit uncomfortable.
 Around him, on the other hand, things were still normal. Enzo was shouting nonsense, Leo was arguing back from across the room, Scott was silently taping his fingers, and Gav was explaining stuff to another freshman.
 
 Briarwood arrived in dark red shirts. Taiga knew almost nothing about them beyond what Mercer had said during film: compact midfield, aggressive fullbacks, annoying press.
 
 They warmed up, lined up, shook hands, and the whistle went.
 
-The match itself was mostly ordinary. 
+The match itself was mostly ordinary.
 Briarwood pressed hard for the first fifteen minutes, then slowed down. Taiga got the ball, lost it, won it back once, sent one cross too long and another into the box where nobody reached it. He made a few runs that went nowhere and a couple that pulled the fullback away from Aaron.
 
 By the second half, Taiga had stopped thinking about the fact that he had started at all.
@@ -606,7 +606,7 @@ After celebrating with Price, Leo turned to him and gave him a thumbs-up with a 
 
 Taiga smiled. It wasn't the first time he'd done something like that, but it still felt fucking good.
 
-At sixty-eight minutes, he saw Evan jogging along the sideline. A few minutes later, the board went up.
+In the sixty-eighth minute, he saw Evan jogging along the sideline. A few minutes later, the board went up.
 
 **41 OUT**
 **11 IN**
