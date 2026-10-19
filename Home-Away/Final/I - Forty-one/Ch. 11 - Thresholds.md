@@ -63,7 +63,7 @@ Several people immediately bent over. Enzo dropped onto his back.
 
 Mercer ignored them.
 
-"Saturday. Northbridge. Same time as usual. I'll send the group tonight."
+"Saturday. Briarwood. Same time as usual. I'll send the group tonight."
 
 Players started toward the bottles. Taiga had barely taken a sip before Mercer called him.
 
@@ -107,7 +107,7 @@ He grabbed his stuff from his locker and sat beside him, drying off his hair wit
 
 "Did Mercer say something requiring that much computation?"
 
-"Not really, I'm just—" Taiga gestured vaguely. "Starting against Northbridge."
+"Not really, I'm just—" Taiga gestured vaguely. "Starting against Briarwood."
 
 Leo stopped and looked at him in surprise. "Seriously?"
 
@@ -572,3 +572,108 @@ Nora turned back to Leo. "Okay, he's fine."
 Leo chuckled. "Looks like it."
 
 ***
+
+Saturday arrived gray, cold and windy. 
+
+Mercer had just finished the match briefing and left the lockers room.
+Taiga looked at the magnetic board he left behind.
+
+		                PRICE J.
+
+	    AKATORA T.       MENDEZ J.        REYES E.
+
+	             FOSTER G.     HUGHES D.
+
+     BENNETT A.     CARTER M.     PARKER L.      ELLIS J.
+
+	                    STIRLING S.
+
+
+Seeing his name on the starting formation still felt a bit uncomfortable. 
+Around him, on the other hand, things were still normal. Enzo was shouting nonsense, Leo was arguing back from across the room, Scotto was silently taping his fingers, Gav was explaining stuff to another freshman.
+
+Briarwood arrived in dark red shirts. Taiga knew almost nothing about them beyond what Mercer had said during film: compact midfield, aggressive fullbacks, annoying press.
+
+Mercer went through the lineup, repeated two instructions Taiga had already heard twice that week, then moved on.
+
+"Akatora. Keep the width until we get into the final third."
+
+"Yeah."
+
+That was it. They warmed up, lined up, shook hands, and the whistle went.
+
+The match itself was mostly ordinary. 
+Briarwood pressed hard for the first fifteen minutes, then slowed down. Taiga got the ball, lost it, won it back once, sent one cross too long and another into the box where nobody reached it. He made a few runs that went nowhere and a couple that pulled the fullback away from Aaron.
+
+By the second half, Taiga had stopped thinking about the fact that he had started at all.
+
+Olympus scored at 58" through Price. Taiga somehow contributed that by freeing some space for Leo to dive in and make the final pass.
+After celebrating with Price, Leo turned to him and raised his thumbs up with a grin.
+
+Taiga smiled. It was not the first time he had done something like that, but it still felt fucking good.
+
+At sixty-eight minutes, he saw Evan jogging outside the sideline. A few minutes later, the board went up.
+
+**41 OUT**
+**11 IN**
+
+Taiga went toward the sideline. Evan waited beside the fourth official.
+
+They slapped hands as they crossed.
+
+"Not terrible," Evan said.
+
+"Fuck you."
+
+Evan grinned and ran on.
+
+Taiga dropped onto the bench, grabbed a bottle and drank until his breathing settled. Somebody handed him a jacket without asking. He pulled it on and watched the rest of the match.
+
+The final whistle came with the score still 1-0.
+
+Taiga stood with everyone else, shook a few hands and headed back inside.
+
+By the time he reached the locker room, Enzo had apparently already made a decision for the entire team.
+
+"Tonight we celebrate the victory and also our forty-one first start!"
+
+Taiga sat down and started pulling off his boots.
+
+"That's not really a reason."
+
+Aaron dropped onto the bench across from them. "Where?"
+
+Enzo shrugged. "No freaking idea."
+
+Leo appeared from the showers with a towel around his waist.
+
+"What's happening?"
+
+"Akatora's first-start dinner," Enzo said.
+
+Taiga looked up. "Nobody called it that."
+
+"I did."
+
+"Five seconds ago."
+
+Leo smiled. "I'm in."
+
+Gav looked over from two lockers down. "If we're leaving campus, decide quickly. The next train is in twenty-three minutes."
+
+That immediately turned into another argument. Enzo wanted burgers, Aaron wanted pizza, Leo suggested ramen for reasons nobody understood. Scott said he didn't care, which somehow made Enzo ask him three more times.
+
+Taiga finished changing while they argued.
+
+"Fine," he said, standing up. "Just pick somewhere."
+
+Enzo pointed at him triumphantly.
+
+"See? You do want to celebrate."
+
+"I just want food."
+
+"Same thing!"
+
+Taiga rolled his eyes and followed them out.
+
