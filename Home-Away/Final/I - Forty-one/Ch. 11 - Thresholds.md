@@ -242,7 +242,7 @@ Ah. Right. The team.
 
 "Look, I think you know that you're the only one who's training specifically for that position. Right?"
 
-"Mercer said that it isn't decided yet."
+"Mercer never said it was decided."
 
 "And that's true. I don't think you're ready for it. Yet."
 
@@ -641,9 +641,9 @@ Taiga sat down and started pulling off his boots.
 
 "That's not really a reason."
 
-Aaron dropped onto the bench across from them. "Where?"
+Aaron dropped onto the bench across from them. "You know I can't."
 
-Enzo shrugged. "No freaking idea."
+Enzo smiled. "We know. You better not screw up tonight!"
 
 Leo appeared from the showers with a towel around his waist.
 
@@ -661,7 +661,7 @@ Leo smiled. "I'm in."
 
 Gav looked over from two lockers down. "If we're leaving campus, decide quickly. The next train is in twenty-three minutes."
 
-That immediately turned into another argument. Enzo wanted burgers, Aaron wanted pizza, Leo suggested ramen for reasons nobody understood. Scott said he didn't care, which somehow made Enzo ask him three more times.
+That immediately turned into another argument. Enzo wanted burgers, Gav wanted pizza, Leo suggested ramen for reasons nobody understood. Scott said he didn't care, which somehow made Enzo ask him three more times.
 
 Taiga finished changing while they argued.
 
