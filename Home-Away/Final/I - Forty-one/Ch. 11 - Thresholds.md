@@ -266,7 +266,7 @@ Taiga gulped and, after a couple of seconds, said, "That's a risky gamble."
 
 Evan smiled. "Yeah. But Mercer is a good coach. He knows what he's doing. I had my doubts at the beginning, but I'm starting to see why he did that."
 
-Then he put a hand on Taiga's shoulder and smiled.
+Then he put a hand on Taiga's shoulder.
 
 "And that's why I want you to wear my shirt next year."
 
