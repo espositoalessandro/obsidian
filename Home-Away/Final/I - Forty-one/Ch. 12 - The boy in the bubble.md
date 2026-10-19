@@ -701,3 +701,69 @@ Leo finished the last of his hot chocolate.
 "'Kay, let's go back then."
 
 They stood and went toward the station.
+
+***
+
+The return train was busier. They stood near the doors because most seats were taken and talked about nothing important for most of the trip back.
+
+Campus was almost empty when they stepped out of Olympus Station.
+Snow had settled over Central Park and along the roofs of the Residential Zone.
+
+"So, when are you coming back here?" Leo asked at some point.
+
+"Probably around the 3rd of 4rth of January."
+
+Leo nodded.
+
+"You?"
+
+"I was considering the 4th or the 5th, depending on the flights. But it may as well be the 3rd or the 6th."
+
+"Right."
+
+They arrived outside the dorm.
+
+"Thanks for coming, by the way," Leo said. "I had fun today."
+
+"You almost risked your life."
+
+Leo giggled. "Worth it."
+
+Taiga glanced at him. Leo looked away and fiddled with his fingers.
+
+"I- I mean, still worth it. It was fun anyway."
+
+"Yeah."
+
+They went silent for a moment. For some reason, Taiga could feel the same uneasiness from the rink crawling back.
+
+"Text me when you get to camp. I want to see pics."
+
+"Tch. Sure."
+
+"I'll make sure to remind you."
+
+"And there you go."
+
+Leo chuckled. He put his hands in his pockets.
+
+"Then, I guess see you after the break?"
+
+"Why was that a question?"
+
+"I don't know."
+
+"Dumbass. Yeah, see you."
+
+Leo hesitated a second, then turned toward his lift. Leo watched him go, until he disappeared behind the doors.
+
+He went back to his room.
+
+Again, he was immediately hit by the missing presence of Caleb. It still felt weird.
+He took a shower, than went back to pack his bag.
+
+
+
+
+
+
