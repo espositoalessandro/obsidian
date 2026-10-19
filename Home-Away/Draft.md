@@ -676,93 +676,67 @@ Act II is the pressure created by those contradictory behaviors.
 
 ---
 
-# Scratch Prose — Non-Canonical Material
-
-Everything below this heading is **scratch prose generated before the ladder was properly planned**.
-
-It is retained only for salvageable:
-- images;
-- jokes;
-- setting details;
-- dialogue fragments;
-- logistics;
-- possible conversation material.
-
-It does **not** define the final Chapter 12 structure or prose.
-
 ---
 
-### Chapter 12 - Unscheduled
+# Rewritten Chapter 12 Draft
 
-By the first week of December, House Apollo had stopped functioning as a soccer house and become a badly managed library.
+### Chapter 12 - The Bubble Pops
 
-Every table in the common room had at least one laptop on it. Charging cables crossed the floor in ways that would eventually kill somebody. A stack of flashcards occupied half the coffee table. Someone from track had fallen asleep on the couch with a textbook open on his chest, and nobody had bothered waking him because finals had apparently suspended ordinary standards of dignity.
+By finals week, nobody at Olympus asked how anyone was doing anymore.
 
-Taiga had taken the corner of the long table nearest the wall.
+They asked what exam came next.
 
-Not because it was his spot.
+Political Institutions was Thursday morning. Chemistry was Friday. Calculus waited until Monday because Professor Chen apparently believed dread improved with storage. Foundations came last, which Taiga considered rude considering it was the only one he actually wanted to get to.
 
-It just happened to be the spot he used most often.
+House Apollo had adapted to the situation by becoming a badly managed library.
 
-Different thing.
+Every table in the common room had at least one laptop on it. Charging cables crossed the floor in ways that would eventually kill somebody. Someone from track had fallen asleep on one of the couches with a textbook open on his chest. Scott was sitting on the floor beside the coffee table, working through flashcards without reacting to anything around him.
 
-He had Calculus open on the laptop, Chemistry notes spread beside it and Professor Hall's final review sitting underneath both because Political Institutions could wait until numbers stopped trying to ruin his life.
+Enzo had a spreadsheet.
 
-Across the room, Enzo stared at a spreadsheet with the expression of somebody who had just discovered betrayal.
+This was going badly.
 
 "Why is eleven a date?"
 
-Leo did not look up from his laptop.
+Leo looked up from his laptop.
 
 "What?"
 
 "I typed eleven. It became November."
 
-"That's not a date."
+"That's not possible."
 
-"It says November eleventh."
+Enzo turned the screen around.
 
-"Then you typed something besides eleven."
+Leo stared at it.
 
-"I typed eleven slash eleven."
+"You typed eleven slash eleven."
 
-Leo slowly raised his head.
+"Yes."
 
-Taiga already knew where this was going.
-
-"Enzo."
-
-"What?"
-
-"Eleven slash eleven is a date."
+"That's November eleventh."
 
 "I wanted eleven divided by eleven."
 
-"Use a formula."
+"Then use a formula."
 
 "I did."
 
-"No, you didn't."
+"No. You typed a date."
 
-"I typed the numbers."
+"I typed numbers."
 
-"That is not a formula."
+"Numbers can still be a date."
 
-Enzo turned the laptop around as if the evidence might vindicate him. Leo looked at the screen for two seconds, closed his eyes and rubbed them.
+Enzo looked offended by the concept.
 
-"Okay. First, put an equals sign in front of it. Second, why are you dividing eleven by eleven in a spreadsheet?"
+Taiga kept reading Hall's review sheet.
 
-"Statistics."
+At the other end of the table, Gav said, "He's trying to calculate his participation grade."
 
-"That answered less than nothing."
+Leo looked back at Enzo.
 
-At the other end of the table, Gav looked up from a biology textbook.
-
-"He's calculating his participation grade."
-
-Leo stared at Enzo.
-
-"You built a spreadsheet for one grade?"
+"You made a spreadsheet for one grade?"
 
 "It has components."
 
@@ -770,9 +744,11 @@ Leo stared at Enzo.
 
 "Four."
 
-Taiga snorted into his hand.
+Taiga laughed.
 
-Enzo pointed at him. "You have no right to judge me, Forty-one. I saw your course planner."
+Enzo pointed across the room.
+
+"You are not allowed to judge me. I saw your registration planner."
 
 "That was a schedule."
 
@@ -780,11 +756,11 @@ Enzo pointed at him. "You have no right to judge me, Forty-one. I saw your cours
 
 "Because the classes overlap visually."
 
-"Conditional formatting," Enzo repeated, like he'd won.
+"Conditional formatting," Enzo repeated, as if that settled anything.
 
 Leo looked between them.
 
-"Wow. You're both terrible."
+"You're both terrible."
 
 "You're helping him," Taiga said.
 
@@ -792,45 +768,25 @@ Leo looked between them.
 
 "Against your will?"
 
-Leo looked at Enzo's screen again.
-
 "At this point, yes."
 
-Enzo shoved the laptop toward him. "Fix November."
+Enzo pushed the laptop toward him.
 
-Leo got up with a sigh dramatic enough to suggest he had been conscripted.
+"Fix November."
 
-Taiga went back to Calculus.
+Leo sighed and moved his chair.
 
-For almost three minutes.
+Taiga went back to Hall.
 
-Then Enzo said, "Why is it one?"
-
-"Because eleven divided by eleven is one."
-
-"That seems wrong."
-
-"Mathematically?"
-
-"Emotionally."
-
-Taiga laughed.
-
-Nobody reacted. Not because they hadn't heard him. Because people laughed in House Apollo all the time now. Somebody complained, somebody answered, another person shouted from the kitchen, and the room kept moving.
-
-A month ago, Taiga probably would've noticed that.
-
-Now he mostly wanted Enzo to stop asking questions about division.
+The review packet was mostly broad prompts: executive power, institutional legitimacy, federalism, emergency authority. The kind of questions where knowing the material was only half the problem. The other half was showing how he had gotten from one thought to the next without assuming Hall would follow him out of professional courtesy.
 
 His phone buzzed beside the laptop.
 
-**Nora:** library tomorrow after hall?
+**Nora:** tomorrow 3?
 
-**Taiga:** yes
+**Taiga:** library?
 
-**Nora:** 2nd floor or 4th
-
-Taiga looked at the room around him. Someone had started the coffee machine in the kitchen. Scott was on the floor near the couch, silently working through flashcards. Leo had apparently taken full control of Enzo's spreadsheet and was now explaining why percentages needed to be formatted as percentages. Gav had headphones on.
+**Nora:** obviously
 
 **Taiga:** 4th
 
@@ -838,273 +794,101 @@ Taiga looked at the room around him. Someone had started the coffee machine in t
 
 He put the phone down.
 
-"You're smiling at your phone," Leo said.
+Across from him, Leo said, "Nora?"
 
 Taiga looked up.
 
-Leo was back at his own laptop.
+"How the fuck do you know that?"
 
-"I wasn't."
-
-"You were."
-
-"You were looking at Enzo's spreadsheet."
-
-"I can multitask."
-
-"Poorly."
-
-Leo smiled. "Nora?"
-
-Taiga narrowed his eyes.
-
-"How the fuck—"
-
-"Who else schedules library time like a hostage negotiation?"
+"Who else schedules library time with you like she's booking a diplomatic summit?"
 
 "Caleb."
 
-"Okay, fair."
+Leo considered it.
 
-Enzo turned around. "Are we studying together tomorrow?"
+"Okay. Fair."
 
-"No," Taiga said.
+Taiga returned to the packet.
 
-"I did not ask you."
+That was about as much attention as Leo got from him for the next hour.
 
-"You were going to."
+Which was normal.
 
-"I was asking Leo."
-
-Leo looked at him. "I have a Chemistry review thing."
-
-Enzo's face fell.
-
-"Everybody has abandoned me."
-
-"You are currently surrounded by twelve people."
-
-"Emotionally."
-
-Scott spoke without looking up from his cards.
-
-"Do your work."
-
-Enzo stared at him.
-
-Then he turned back to the spreadsheet.
-
-"Captain has spoken."
-
-Taiga smiled and returned to Calculus.
-
-Outside, somebody was training under the lights on the far field. He could hear the occasional whistle through the windows.
-
-Apollo training had become shorter since finals started. Mercer still expected them to show up, but ninety minutes had become sixty, then fifty-five on Wednesday when half the squad had walked in carrying textbooks.
-
-There had been no new milestone after Briarwood.
-
-No new start. No announcement. No dramatic proof that anything had changed.
-
-Taiga trained.
-
-He held width when he needed to. Checked behind him before receiving more often than he forgot. Made runs when Leo dragged somebody inside. Got corrected when he moved too early. Got yelled at when he stopped tracking after losing the ball. Yelled back exactly once before remembering that Mercer did not consider volume a tactical argument.
-
-Normal.
-
-His first start had not transformed anything.
-
-That was probably why it had started feeling real.
-
-"Akatora."
-
-Taiga looked up.
-
-Gav pointed at the clock.
-
-"Your room booking starts in ten."
-
-Taiga checked the time.
-
-"Fuck."
-
-He had booked one of the small study rooms in the Academic Zone because Caleb had a remote Econometrics session at eight and had informed Taiga, with fourteen hours of notice, that speaking during it would be "suboptimal."
-
-Taiga closed the laptop.
-
-Leo looked over. "Leaving?"
-
-"Apparently."
-
-"Good luck."
-
-"With Calculus?"
-
-"With whatever violent relationship you have with Calculus."
-
-Taiga put his notes into the bag.
-
-"You're taking it too."
-
-"Yes, but Professor Chen doesn't look at me like I've personally disappointed mathematics."
-
-"That's because you sit in the back."
-
-"Strategy."
-
-Taiga stood.
-
-He didn't say goodbye to the room.
-
-Nobody expected him to.
-
-He just left.
+Mostly.
 
 ***
 
-Finals arrived without any respect for the fact that everyone was already tired.
+Political Institutions ended with Hall standing at the front of the room while the teaching assistant collected the last papers.
 
-Political Institutions came first.
+"Before anybody asks," Hall said, "no, I will not tell you whether the exam was difficult. You just took it. You have more information than I do."
 
-Professor Hall handed out the exam face down and waited until every paper was distributed before saying, "If your argument requires me to invent three missing premises on your behalf, I will not be feeling charitable."
+Someone behind Taiga groaned.
 
-Several people groaned.
+Hall ignored them.
 
-Taiga looked at Nora.
+"And Akatora."
 
-She looked back.
+Taiga stopped halfway through putting his laptop into his bag.
 
-Neither smiled.
+"What?"
 
-Hall continued.
+Hall tapped two fingers against the stack of exams.
 
-"Show me the bridge."
+"If you made me build any bridges for you, I will be disappointed."
 
-Taiga did.
+Nora looked at Taiga immediately.
 
-At least, he hoped he did.
-
-Calculus came two days later and contained an optimization problem Taiga distrusted on sight. Chemistry required enough equilibrium calculations to make him briefly reconsider whether atoms deserved rights. Foundations of Computer Science ended with recursion, aliasing, Quicksort and one design question Professor Rao had almost certainly written for the specific purpose of punishing people who believed working code automatically meant good code.
-
-Taiga finished that one first.
-
-Which was probably a bad sign.
-
-The days around the exams blurred together anyway.
-
-He studied with Nora twice. Once productively, once for three hours during which they spent at least forty minutes arguing about whether Hall's sample answer actually supported its own conclusion.
-
-Caleb printed a finals calendar and taped it beside his desk.
-
-Taiga objected until he noticed his own exams were already on it.
-
-Then he asked Caleb to send him the file.
-
-"This changes nothing," Taiga said.
-
-"I didn't say it did."
-
-Maya appeared on video call long enough to laugh at both of them.
-
-Camp Buddy kept existing at the edge of everything too.
-
-Natsumi sent a photo from a swim meet and complained that arriving early had given him time to imagine every possible disaster.
-
-Hiro replied:
-
-**Hiro:** THEN STOP IMAGINING AND SWIM FAST
-
-**Natsumi:** Thank you. I had not considered swimming quickly at the swim meet.
-
-Yoichi contributed:
-
-**Yoichi:** don't drown mr perfect
-
-Three hours later, Natsumi sent a season-best time.
-
-Taiga sent congratulations while walking from Chemistry to training.
-
-Keitaro sent pictures of the first snow at Camp Buddy.
-
-Hunter posted a sketch of Yuki with her nose buried in it.
-
-Yuri asked whether Taiga was bringing enough warm clothes for the break.
-
-Taiga did not answer that one on principle.
-
-Football continued between exams, reduced to the necessary parts.
-
-One afternoon, Mercer ended training after fifty minutes and handed everybody a break program.
-
-"You're not going to lose all your fitness in three weeks," he said. "You can absolutely come back feeling like shit if you spend those three weeks doing nothing."
-
-Enzo raised a hand.
-
-"What qualifies as nothing?"
-
-"Whatever you're planning."
-
-The team laughed.
-
-Mercer looked at the developmental group.
-
-"Same for you. Break doesn't reset the board. Come back ready to train."
-
-Taiga folded the sheet once and put it in his bag.
-
-No speech. No promise.
-
-Still enough.
-
-By Thursday, the library had become unusable.
-
-By Friday morning, people had started leaving.
-
-Nora finished her last exam before Taiga did. She found him outside the Academic Zone with a suitcase because apparently she had decided dragging luggage through campus was preferable to returning to the dorm first.
-
-Oliver was waiting in her mother's car wearing a red sweater and the expression of a dog who had been personally betrayed by winter.
-
-Taiga looked through the open door.
-
-"That's ridiculous."
-
-Nora put a hand over Oliver's ears.
-
-"He can hear you."
-
-"Good."
-
-Oliver stared at him.
-
-Taiga crouched and scratched behind his ears.
-
-Nora watched.
-
-"Interesting."
+He pointed at her without turning his head.
 
 "Don't."
 
 "I didn't say anything."
 
-Taiga looked up.
+"You were going to."
 
-"You're about to."
+Hall's mouth moved slightly.
 
-"I was going to say he likes you."
+Taiga slung the bag over his shoulder.
 
-"That's worse."
+"I showed the bridge."
+
+"We'll see."
+
+Outside, Nora waited until the classroom door closed behind them.
+
+"That's basically affection from him."
+
+"That's basically a threat."
+
+"Same thing with professors."
+
+They crossed the Academic Zone together.
+
+Nora had finished her last exam. Taiga still had three.
+
+This made her intolerable.
+
+"I could sleep for twelve hours right now," she said.
+
+"I hate you."
+
+"I might."
+
+"I hope Oliver wakes you up."
+
+"He would never."
+
+"Your dog has no loyalty."
+
+"My dog likes you."
+
+"Your dog has poor judgment."
 
 Nora smiled.
 
-Her mother called something from the driver's seat.
+Her mother was picking her up in forty minutes. They split near the library.
 
-"I have to go."
-
-"Yeah."
-
-Nora adjusted the strap of her bag.
-
-"Train tomorrow?"
+"Train Saturday?"
 
 "Nine-twelve."
 
@@ -1112,203 +896,277 @@ Nora adjusted the strap of her bag.
 
 "Yeah."
 
-"Tell them I said hi."
+"Then home?"
+
+"Yeah."
+
+Nora nodded.
+
+"Okay. Tell the camp people I said hi."
 
 "No."
 
-"Perfect."
+"Thank you."
 
-She opened the car door, then paused.
+Taiga walked away.
 
-"Have a good break, Taiga."
+"Have a good break," she called after him.
 
-He looked at her.
-
-It should not have sounded strange. People said that constantly.
-
-Still.
+He lifted one hand without looking back.
 
 "You too."
 
-Nora got in.
-
-Oliver turned once in the back seat before the car pulled away.
-
-Taiga stood there for a second longer than necessary, then went to his last final.
+That was enough.
 
 ***
 
-The first snow of the semester arrived on the same afternoon everybody finished leaving.
+Football ended before finals did.
 
-Taiga noticed because, for the first time in nearly four months, he had nowhere he was supposed to be.
+Mercer cut the last session short at fifty-five minutes, which probably counted as generosity.
 
-That felt suspicious.
+Nobody said so.
 
-He came out of Foundations at two-forty with his backpack over one shoulder and stopped under the Academic Zone awning.
+The temperature had dropped enough that breath hung over the pitch and Enzo had spent warmup claiming his fingers were no longer part of his body.
 
-Tiny white flakes drifted between the buildings and disappeared as soon as they touched the pavement.
+"You don't need fingers for soccer," Aaron told him.
 
-People reacted anyway.
+"I need them emotionally."
 
-Someone near the library entrance shouted. Two students stopped in the middle of the path to take pictures. A guy in a red coat held both hands out as if the weather had personally delivered him a gift.
+Mercer blew twice.
 
-Taiga stepped into it.
+"Bring it in."
 
-One flake landed on his cheek and melted.
+Everyone moved toward the sideline.
 
-"Great."
+Taiga pulled his sleeves over his hands while Mercer handed a stack of papers to Gav.
+
+"Break program. Three weeks. You are not going to lose all your fitness in three weeks."
+
+Enzo brightened.
+
+"Excellent."
+
+"You can absolutely come back feeling like shit if you do nothing."
+
+Enzo stopped brightening.
+
+Mercer continued.
+
+"Run. Strength work. Touches when you can get them. I don't care if you have access to a proper pitch. I care if you come back looking like you've seen a ball before."
+
+The papers moved down the line.
+
+Taiga took one.
+
+Three sessions per week. Nothing insane.
+
+Mercer pointed at the developmental players.
+
+"Same goes for you. Break does not reset the board."
+
+Taiga looked at the sheet.
+
+That should have been enough.
+
+Apparently Mercer wasn't done.
+
+"Akatora."
+
+He looked up.
+
+"Yeah?"
+
+"In August, I had to tell you where to stand."
+
+Several people turned slightly.
+
+Taiga already disliked where this was going.
+
+Mercer continued like nobody else existed.
+
+"I'm not doing that again in January."
+
+"I wasn't planning on forgetting."
+
+"Good."
+
+A beat.
+
+"Come back ready to take minutes from somebody."
+
+That landed differently.
+
+Taiga nodded once.
+
+"Yeah."
+
+Mercer looked away.
+
+"Then get out of here. Some of you have exams you should have started studying for a month ago."
+
+Enzo raised a hand.
+
+"This feels targeted."
+
+"It is."
+
+The group broke apart.
+
+That was it.
+
+No speech. No new promise. No promotion.
+
+Taiga folded the break sheet and put it in his bag.
+
+Come back ready to take minutes from somebody.
+
+Fine.
+
+He could work with that.
+
+***
+
+Foundations ended Friday just after noon.
+
+Professor Rao watched the last students submit, then closed her laptop.
+
+"If any of you email me tonight asking whether your final compiled correctly after you already submitted it, I will assume the answer is no."
+
+Lina laughed from two seats away.
+
+Taiga stood.
+
+Rao added, "Enjoy the break. Touch grass. Preferably without trying to optimize it."
+
+Lina turned toward Taiga.
+
+"She's talking to you."
+
+"She's talking to the class."
+
+"You're the class problem."
+
+"Fuck off."
+
+They left together and split outside the building.
+
+That was the semester.
+
+Apparently.
+
+Taiga stood under the Academic Zone awning for a second with absolutely nowhere he needed to be.
+
+No class.
+
+No training.
+
+No assignment due.
+
+Nothing.
+
+Snow had started while they were inside.
+
+Tiny flakes moved between the buildings, barely sticking to the pavement. People were reacting like the sky had invented winter specifically for them. Two students near the library were taking pictures. Somebody farther down the steps shouted.
+
+Taiga put his hands into his pockets.
 
 His phone buzzed.
 
 **Nora:** IT'S SNOWING
 
-Taiga looked at the snow currently falling directly onto him.
+He looked at the snow currently falling on him.
 
 **Taiga:** thanks i hadn't noticed
 
 **Nora:** you looked like you needed confirmation
 
-He smiled and put the phone away.
+He smiled and kept walking.
 
-Campus already looked wrong.
+Campus was already emptying.
 
-Suitcases rolled over the paths. Cars waited outside Residential Hall. Parents stood in lobbies. People hugged classmates they were going to see again in less than a month with an intensity Taiga found objectively excessive.
+Suitcases rolled toward Central Station. Cars waited outside the Residential Zone. Doors opened and closed. People kept saying goodbye to classmates they would see again in January.
 
-He had made fun of them yesterday.
+Caleb had left that morning.
 
-Then Caleb left.
+Maya had arrived at nine-thirty and immediately started arguing with him about shoes.
 
-Maya arrived around ten with two reusable bags and an argument already in progress about whether Caleb needed three pairs of shoes for the break.
+Three pairs, according to Caleb.
 
-Caleb said yes.
+Two, according to Maya.
 
-Maya said no.
+Taiga had refused to participate.
 
-Taiga stayed out of it until Maya tried to recruit him.
+Five minutes before leaving, Caleb checked the window latch, the power strip and the mini-fridge.
 
-"Don't involve me."
+Then he stood by the door and looked around Room 317.
 
-"See?" Caleb said. "He understands."
+Taiga had watched from his desk.
 
-"I understand that I don't care."
-
-Five minutes before leaving, Caleb checked the window latch, unplugged the extra power strip and stood beside the door looking around Room 317.
-
-Taiga sat at his desk.
-
-"Did you lose something?"
+"Did you forget something?"
 
 "No."
 
 "Then why are you staring?"
 
-"I am checking whether I forgot anything."
+"I am checking."
 
-"You've checked four times."
+"You checked already."
+
+"Yes."
 
 Maya leaned around the doorframe.
 
-"Five."
+"Four times."
 
 Caleb ignored her.
 
 Then he looked at Taiga.
 
-"I will be back January sixth."
+"I'll be back January sixth."
 
 "I know."
 
-A pause.
-
 "Have a good break."
-
-There it was again.
-
-Taiga had looked at him for half a second.
 
 "You too."
 
-Maya smiled from the doorway.
+Maya waved.
 
 "Bye, Taiga."
 
 "Bye."
 
-The door closed.
+Then they were gone.
 
-For the first ten minutes, the room had felt wrong.
+Taiga had enjoyed having the room to himself for approximately two hours.
 
-Then Taiga discovered the advantages of having it entirely to himself and stopped being dramatic.
+Now he crossed Central Park while snow started collecting along the edges of the grass.
 
-Mostly.
+His train to Camp Buddy left tomorrow at 9:12.
 
-Now he crossed Central Park while snow started sticking to the grass.
+He still had to pack.
 
-His train to Camp Buddy left tomorrow at 9:12. From there, regional bus. Yoshinori had offered to have somebody pick him up from the stop.
+Technically.
 
-Yoichi had responded to this information with:
+He had put the suitcase on the floor.
 
-**Yoichi:** walk
+That counted as preparation.
 
-Keitaro:
+Room 317 was silent when he got back.
 
-**Keitaro:** It's fourteen kilometers, Yoichi.
+No keyboard from Caleb's side.
 
-**Yoichi:** good
+No music.
 
-Taiga had not dignified that with an answer.
+No glass of water placed exactly where Caleb always put it.
 
-He was looking forward to going back.
+Taiga dropped his bag and sat on the edge of the bed.
 
-That fact no longer needed defending.
-
-Room 317 was silent when he reached it.
-
-Not quiet.
-
-Silent.
-
-No keyboard from Caleb's side. No low music leaking from his headphones. No half-full glass of water sitting exactly where Caleb always put it. His desk chair had been pushed in with unnecessary precision.
-
-Taiga dropped his bag.
-
-The open suitcase under his bed was still empty.
-
-He pulled it out.
-
-Packing would take twenty minutes.
-
-Thirty, maximum.
+The suitcase stared at him from the floor.
 
 He put two shirts inside.
 
-Then stopped.
-
-Nothing due.
-
-No training.
-
-No dinner plan.
-
-No person in the room.
-
-His brain, apparently offended by the lack of instructions, began searching for work.
-
-Laundry.
-
-Packing.
-
-Check train.
-
-Charge power bank.
-
-He had already done all four.
-
-"Fuck."
-
-His phone buzzed on the desk.
-
-Once.
+His phone buzzed.
 
 Then again.
 
@@ -1322,11 +1180,11 @@ Of course.
 
 Three dots appeared immediately.
 
-**Leo:** I DON'T KNOW EVERYBODY ABANDONED CAMPUS AT ONCE
+**Leo:** I DON'T KNOW EVERYBODY LEFT AT ONCE
 
 **Leo:** enzo left at noon
-**Leo:** aaron left after lunch
 **Leo:** gav vanished without saying goodbye like a divorced father
+**Leo:** aaron is already gone
 **Leo:** scott apparently left YESTERDAY without informing civilization
 
 Taiga laughed.
@@ -1335,17 +1193,9 @@ Taiga laughed.
 
 **Leo:** betrayal can be planned
 
-A pause.
+Another message.
 
-**Leo:** anyways
-**Leo:** snow
-
-Taiga glanced out the window.
-
-**Taiga:** yes leo
-**Taiga:** that is the white thing outside
-
-**Leo:** acropolis has the winter rink open
+**Leo:** acropolis rink is open
 
 Taiga looked at the suitcase.
 
@@ -1353,9 +1203,11 @@ Taiga looked at the suitcase.
 
 **Leo:** come with me?
 
-He read it again.
+He read it once.
 
-Another message arrived before he answered.
+Then again.
+
+Before he answered:
 
 **Leo:** PLEASE
 **Leo:** i have spent forty minutes asking people and apparently everyone suddenly has families
@@ -1363,15 +1215,15 @@ Another message arrived before he answered.
 **Taiga:** you also have a family
 
 **Leo:** yes and they have been informed i arrive tomorrow
-**Leo:** tonight i am exercising my constitutional right to make bad decisions on ice
+**Leo:** tonight i am making bad decisions on ice
 
-Taiga smiled.
+Taiga looked at the two shirts in the suitcase.
 
-He should pack.
+Packing would take twenty minutes.
 
-He could pack later.
+Maybe thirty.
 
-That decision took less time than he wanted to admit.
+He could do it later.
 
 **Taiga:** when
 
@@ -1383,17 +1235,19 @@ That decision took less time than he wanted to admit.
 
 Taiga stared at the suns.
 
-Then he put another shirt into the suitcase and left it open.
+Then he put another shirt into the suitcase and left.
 
 ***
 
-At four-sixteen, Leo was standing beneath the Central Station clock wearing a yellow scarf Taiga had never seen before.
+At four-sixteen, Leo was standing beneath the station clock wearing a yellow scarf Taiga had never seen before.
 
 It was terrible.
 
-Not because there was anything objectively wrong with it. It was simply so aggressively yellow that Taiga briefly wondered whether it had reflective strips.
+Not because there was anything objectively wrong with it.
 
-Leo spotted him and lifted both arms.
+It was simply extremely yellow.
+
+Leo spotted him across the concourse and lifted both arms.
 
 "You came!"
 
@@ -1401,13 +1255,13 @@ Leo spotted him and lifted both arms.
 
 "Yeah, but you say no to things with incredible commitment. There was suspense."
 
-"I say yes sometimes."
+"I say yes."
 
 "You say maybe and then appear. Different system."
 
 "Nora says that too."
 
-"See? Independent peer review."
+"Independent peer review."
 
 They started toward the platform.
 
@@ -1435,11 +1289,17 @@ Taiga laughed.
 
 The carriage was almost empty.
 
-They took seats across from each other by the window. Snow streaked past the glass while the university district slipped away behind them.
+Normally the line out of Olympus at four-thirty was full enough that sitting required luck. Today they had an entire section to themselves.
+
+Leo took the window seat.
+
+Taiga sat opposite.
+
+Snow moved sideways across the glass as the train pulled away.
 
 Leo checked his phone.
 
-"My mother has asked whether my flight tomorrow is still on four times."
+"My mother has asked whether my flight is still on four times."
 
 "Is it?"
 
@@ -1453,107 +1313,113 @@ Leo checked his phone.
 
 "It answers mothers."
 
-Leo typed something, then put the phone away.
+Leo typed something and put the phone away.
 
-"You're going straight to Camp Buddy tomorrow?"
+"You going straight to Camp Buddy tomorrow?"
 
 "Yeah."
 
-"How long?"
+"One week?"
 
-"A week."
+"Yeah."
 
-"Still can't picture it."
+"Then home?"
 
-"What?"
+"That's usually how leaving somewhere works."
 
-"Camp Buddy. Every time you talk about it, it sounds like a small country run by four adults, one angry dog and Yoichi somehow not technically being in charge of anything."
+Leo smiled.
 
-Taiga laughed.
-
-"That's not completely wrong."
-
-"I need evidence."
+"I still can't picture the place properly."
 
 "You've seen pictures."
 
-"I've seen Keitaro pictures. Those are different. He photographs things like he's documenting the emotional decline of a chair."
+"I've seen Keitaro pictures. Those are different."
 
-Taiga stared at him.
+"How?"
 
-Then laughed hard enough that the woman two rows away looked over.
-
-"Yoichi said basically the same thing."
-
-"He has vision."
-
-"Don't ever tell him that."
-
-"Never."
-
-The train left the university district.
-
-For once, Leo did not know anybody in the carriage, which apparently created excess conversational capacity.
-
-He used it.
-
-He talked about his flight. His sister. Enzo somehow packing four pairs of shoes for three weeks. Three different plans Leo had already agreed to at home before realizing two happened on the same day.
+"He photographs everything like it's emotionally significant."
 
 Taiga looked at him.
 
-"You know you can say no."
+Leo leaned forward.
 
-Leo blinked.
+"You know I'm right. He could take a picture of a chair and somehow make it look like the chair has been through a divorce."
 
-"I can."
+Taiga laughed hard enough that the woman farther down the carriage looked over.
 
-"Then why don't you?"
+"Yoichi would like you."
 
-"I do."
+"That's horrifying."
 
-"When?"
+"He said almost the same thing."
 
-Leo pointed at him.
+"Then he has vision."
 
-"Okay, don't use the Caleb voice."
+"Never tell him that."
 
-"That is my voice."
+"Obviously."
 
-"No. There's a specific one where you become aggressively reasonable. It's terrible."
+The train left the university district behind.
 
-"You agreed to two things at the same time."
+Taiga watched the buildings flatten into shops and apartment blocks.
 
-"Technically, one of them doesn't have a time."
+Leo talked.
+
+Nothing unusual about that.
+
+His flight was at eleven-twenty tomorrow. Enzo had somehow packed four pairs of shoes for three weeks. Leo had agreed to help his sister with something two days after getting home and had also promised an old friend he'd go out that night.
+
+"Same day?" Taiga asked.
+
+"Technically."
+
+"What does technically mean?"
+
+"It means one doesn't have a time yet."
 
 "That's worse."
 
-"It means it's flexible."
+"It means flexible."
 
 "It means you haven't discovered the conflict yet."
 
-Leo laughed.
+Leo pointed at him.
 
-"Whatever. It usually works out."
+"Do not use the Caleb voice."
 
-"Great system."
+"That is my voice."
 
-"My mother agrees with you, unfortunately."
+"No. There's a specific version where you become aggressively reasonable."
 
-Taiga looked through the window.
+"You agreed to two things at the same time."
 
-Snow had started gathering on rooftops.
+"Yes, and I regret telling you."
+
+"You should."
+
+Leo laughed and looked back out the window.
+
+Taiga smiled.
+
+This was normal.
+
+They were friends.
+
+Friends did things together.
+
+That was the entire explanation required.
 
 ***
 
-Acropolis Park had been converted into something aggressively seasonal.
+Acropolis Park had been turned into something aggressively seasonal.
 
-Lights wrapped every tree along the main path. Temporary wooden stalls lined the lawn. Music played from somewhere near the fountain, which had been shut off and covered in enough lights to be visible from space.
+Lights wrapped every tree along the main path. Temporary stalls lined the lawn. Music came from somewhere near the fountain, which had been turned off and covered in enough lights to be visible from space.
 
-A giant illuminated arch announced WINTER WEEK.
+A giant illuminated arch announced **WINTER WEEK**.
 
-Leo looked delighted.
+Leo stopped beneath it.
 
-"Oh, this is perfect."
+"This is perfect."
 
 "It is crowded."
 
@@ -1567,15 +1433,13 @@ Taiga followed.
 
 The rental skates looked untrustworthy.
 
-He sat on the bench and turned one over in his hands.
+He turned one over in his hands while Leo tied his laces.
 
-Leo noticed.
-
-"You've done this before, right?"
+"You've done this before, right?" Leo asked.
 
 "No."
 
-Leo stopped tying his lace.
+Leo stopped.
 
 "Never?"
 
@@ -1585,15 +1449,21 @@ Leo stopped tying his lace.
 
 "In summer."
 
-"Right. Yeah. My brain just decided summer camps contain ice."
+"Right."
+
+Taiga stared at him.
+
+Leo nodded seriously.
+
+"My brain made a connection that wasn't there."
 
 "Your brain is damaged."
 
 "Probably."
 
-Leo tightened the skate.
+He went back to his laces.
 
-"Well, I've done it... five times?"
+"Okay. I've done it like five times."
 
 "That's your qualification?"
 
@@ -1609,245 +1479,539 @@ Leo smiled.
 
 "No idea."
 
-Taiga stared at him.
-
 "Excellent."
 
 They stepped onto the ice.
 
-The first thirty seconds were humiliating.
+Taiga immediately discovered that every instinct he possessed about balance had been designed for surfaces that did not move under him.
 
-Not because Taiga fell.
+His right skate slid.
 
-Falling would have at least been a clear event.
+He caught the barrier.
 
-Instead, every reflex his body had developed for not sliding suddenly became useless. His ankles felt unstable. Stopping did not seem physically supported by the universe. The barrier immediately became the most trustworthy thing in Olympus City.
+Leo turned around.
 
-Leo pushed away beside him with much more confidence than five previous skating experiences justified.
+"Okay."
 
-"Bend your knees."
+"Shut up."
 
-"I am."
+"I didn't say anything."
 
-"No, you're standing like somebody put a weapon against your spine."
+"You were going to."
 
-"I'm trying not to fall."
+"I was going to tell you to bend your knees."
 
-"Push sideways, not backward."
+"I am bending them."
 
-Taiga tried.
+"No. You're threatening to bend them."
 
-He moved approximately one meter.
+Taiga pushed away from the wall.
 
-Leo clapped once.
+One skate moved.
 
-"Beautiful."
+Then the other.
 
-"Fuck off."
+His body objected to all of it.
 
-"You moved."
-
-"I walk every day."
-
-"Different surface."
-
-A child passed Taiga at a speed that should have required licensing.
+A child passed him at a speed that should have required licensing.
 
 Taiga watched her disappear around the curve.
 
 "She's six."
 
-"She's probably been skating since birth."
+"She's probably been doing this forever."
 
-"That is not possible."
+"She has not been alive forever."
 
 "You don't know her life."
 
-Leo moved backward in front of him.
+Leo skated backward in front of him.
 
 "Stop doing that."
 
 "Why?"
 
-"Because if you fall while teaching me, I'm leaving you here."
+"Because you're going to fall."
 
-"I'm not going to fall."
+"I'm not."
 
-Leo nearly fell immediately.
+Leo moved closer.
 
-His arms shot out.
+Taiga's left skate drifted sideways.
 
-Taiga laughed.
+He swore.
 
-"Controlled demonstration," Leo said.
+Leo reached forward and took both of his hands.
 
-"Of failure?"
+Not offered.
 
-"Recovery."
+Took.
 
-The first lap took forever.
+"Here."
 
-The second took less.
+Taiga barely had time to object before Leo started moving backward, pulling him away from the barrier.
 
-By the third, Taiga's body had stopped treating the ice as an active emergency. He could push properly. Turn, mostly. Slow down without grabbing the barrier.
+"What the fuck are you doing?"
 
-Stopping remained theoretical.
+"Teaching you."
 
-Leo became overconfident in direct proportion to Taiga's improvement.
+"I didn't ask."
 
-"See?" he said, skating backward again. "I told you the balance transfers. Your hips already understand not to lock up, which is the hard part. Most people do this—"
+"You were one second away from developing a long-term relationship with the wall."
 
-He demonstrated a stiff-legged panic shuffle.
+"I was fine."
 
-Taiga laughed.
+"You were holding it with both hands."
 
-"That's not skating."
+"That doesn't mean anything."
 
-"Exactly. Panic with blades."
+"Push out. Not back."
 
-"You looked like that ten minutes ago."
+Taiga did.
 
-"Lies."
+Wrong.
 
-A teenager cut between them.
+Leo's grip tightened.
 
-Leo glanced sideways.
+"No. Sideways."
 
-The kid kept going.
+"I know what sideways means."
 
-Leo turned back too quickly, caught the outside edge of one skate and slipped.
+"Your feet don't."
 
-"Shit—"
+"Fuck off."
 
-Taiga reached him on instinct.
+Leo laughed.
 
-One hand caught Leo at the side of his ribs. The other grabbed his arm.
+"Again."
 
-Leo's hands closed around Taiga's shoulders.
+Taiga pushed.
 
-For one ugly second, both of them slid.
+This time he moved properly.
 
-Then Taiga found his edge.
+"There."
 
-Leo found his.
+"Don't sound proud."
 
-They stopped.
+"I am proud. My son can walk."
 
-Neither fell.
+"I will kill you."
 
-"Got you," Taiga said.
+"Not until you learn how to stop."
 
-Leo laughed once, breathless.
+For the first minute, Taiga had no room in his brain for anything except his feet.
 
-"Yeah."
+Push.
 
-That should have been it.
+Glide.
 
-They were stable.
+Do not lock the knees.
 
-Taiga knew they were stable.
+Do not lean backward.
 
-Leo knew it too.
+Do not let the skates cross.
 
-Taiga's hand was still pressed against his side through the thick coat.
+Leo kept moving in front of him, holding both hands and talking continuously.
 
-Leo was still holding both shoulders.
+"You're looking down again."
 
-They were close enough that Taiga could see snow melting in Leo's hair.
+"I'm looking at my feet."
 
-Leo looked at him.
+"They're still there."
 
-The laughter disappeared first.
+"I need to know what they're doing."
 
-Not dramatically.
+"They're trying to betray you. Looking won't help."
 
-It just stopped.
-
-For a second, neither of them moved.
-
-Leo's fingers tightened once against Taiga's jacket.
-
-Taiga felt his own breath catch.
-
-Stupid.
-
-They were wearing coats. Gloves. Scarves. Half the fucking textile industry between them.
-
-Still, heat climbed straight into his neck.
-
-Leo's eyes flicked down.
-
-Then back up.
-
-Taiga let go.
-
-Leo did too.
-
-"Okay," Leo said.
-
-His voice sounded slightly different.
-
-Then he cleared his throat.
-
-"That would've been embarrassing."
-
-Taiga looked away.
-
-"You were showing off."
-
-"There was an attempted murder by teenager."
-
-"He didn't touch you."
-
-"Intent can exist without contact."
-
-"You fell over your own skate."
-
-"I did not fall."
-
-"You tried."
+Taiga looked up.
 
 Leo smiled.
 
-There.
+"Better."
 
-Normal.
+They kept moving.
 
-Taiga pushed away first.
+Slowly.
 
-"Come on."
+Then less slowly.
 
-They finished the lap.
+The panic around every small slide started disappearing.
 
-Then another.
+Taiga stopped trying to correct every centimeter.
 
-Taiga got better.
+His body adjusted.
 
-Leo stopped skating backward.
+Push. Glide.
 
-Taiga did not mention it.
+Leo said something about turning.
 
-At one point Taiga misjudged a turn and nearly took out a man in a blue hat.
+Taiga tried it.
 
-"Sorry."
+It worked.
 
-The man waved him off.
+Barely.
 
-Leo looked at Taiga.
+"See?" Leo said. "You're fine."
 
-"You just attacked a civilian."
+"Obviously."
+
+"You almost died three minutes ago."
+
+"That is not what happened."
+
+"No, you're right. The wall saved you."
+
+Taiga laughed.
+
+Then, somewhere in the middle of it, his brain had enough space to notice something else.
+
+They were holding hands.
+
+Still.
+
+Both of them.
+
+Leo was skating backward with his arms extended between them, gloves wrapped around Taiga's hands like this had been the most normal solution in the world.
+
+Which it was.
+
+He was teaching him.
+
+That was all.
+
+Taiga looked down at their hands.
+
+Then immediately wished he hadn't.
+
+The contact became impossible not to feel once he had noticed it.
+
+Leo's grip shifted every time Taiga drifted.
+
+His thumbs pressed over Taiga's knuckles through the gloves.
+
+Their arms moved together with every push.
+
+Taiga looked back at Leo.
+
+Too long.
+
+Leo was talking about something.
+
+Taiga had no idea what.
+
+His stomach tightened.
+
+Not in the familiar way.
+
+Not the shower. Not the dream. Not the very simple fact that Leo was hot.
+
+This was different.
+
+Nervous.
+
+Why the fuck was he nervous?
+
+"Right."
+
+Leo stopped talking.
+
+"What?"
+
+Taiga let one hand loosen.
+
+"I think I got it. Let me go."
+
+The words came out faster than he meant them to.
+
+Leo looked at him for half a second.
+
+Then released both hands immediately.
+
+"Okay."
+
+That was it.
+
+No joke.
+
+No question.
+
+Leo simply kept skating backward.
+
+Taiga moved on his own.
+
+Push.
+
+Glide.
+
+Fine.
+
+See?
+
+He had only needed help.
+
+Now he didn't.
+
+That was why he'd let go.
+
+Obviously.
+
+Leo smiled.
+
+"Look at you."
+
+"Don't."
+
+"Independent."
 
 "Keep skating."
 
-"Yes, coach."
+"You're welcome."
 
-They stayed another twenty minutes.
+Taiga raised a middle finger.
 
-Taiga did not fall once.
+His balance survived.
 
-That should have been the part his brain remembered.
+Good.
 
-It wasn't.
+Problem solved.
+
+***
+
+Five minutes later, Taiga could turn without feeling like he had signed a waiver.
+
+Stopping was still more theoretical.
+
+Leo had apparently decided this justified becoming annoying again.
+
+He skated backward several meters ahead, talking while Taiga followed.
+
+"Okay, now try to push harder on the left because you're still favoring the right."
+
+"I'm not."
+
+"You are."
+
+"How would you know?"
+
+"Because I'm looking at you."
+
+That shouldn't have landed anywhere.
+
+It did.
+
+Taiga frowned and pushed harder with the left.
+
+Leo grinned.
+
+"See?"
+
+"Shut up."
+
+Someone came onto the rink behind Leo.
+
+Fast.
+
+A guy in a dark coat, looking sideways at whoever was skating beside him.
+
+Leo couldn't see him.
+
+"Behind you."
+
+Leo looked over one shoulder and stopped immediately.
+
+The guy swerved past.
+
+Nothing happened.
+
+To Leo.
+
+Taiga tried to stop too.
+
+His skates disagreed.
+
+"Oh, fuck—"
+
+He went straight into Leo.
+
+Leo's arms came around him before either of them fell.
+
+One around Taiga's back.
+
+The other catching his side.
+
+Taiga grabbed Leo's jacket with both hands on instinct.
+
+Their skates slid half a meter.
+
+Then stopped.
+
+Stable.
+
+Completely stable.
+
+Taiga realized three things at once.
+
+Leo was holding him.
+
+Taiga was still holding Leo.
+
+Their faces were very, very close.
+
+Neither moved.
+
+For one second, maybe two, Taiga forgot the rink existed.
+
+He could see individual snowflakes caught in Leo's hair.
+
+The pink across his cheeks from the cold.
+
+The small crease between his eyebrows that appeared when he was concentrating.
+
+The way his lips had parted when Taiga crashed into him.
+
+Leo's eyes were fixed on his.
+
+Then they dropped.
+
+Not far.
+
+Back up.
+
+Color moved higher across Leo's face.
+
+Taiga felt heat hit his own ears so fast it was embarrassing.
+
+What the fuck?
+
+Leo swallowed.
+
+Taiga became abruptly aware of Leo's arm still around his back.
+
+He pulled away.
+
+"Fuck. Sorry."
+
+Leo let him go just as quickly.
+
+"No. You're fine. I stopped too fast."
+
+"You stopped."
+
+"Yeah."
+
+"I didn't."
+
+"That's usually how stopping works."
+
+The joke arrived late.
+
+Both of them knew it.
+
+Taiga looked away.
+
+"Whatever."
+
+Leo rubbed the back of his neck.
+
+"Nobody died."
+
+"Great standard."
+
+"Successful evening."
+
+Taiga pushed forward again.
+
+Leo followed beside him this time.
+
+They skated.
+
+That was all.
+
+A stupid awkward collision.
+
+Two people almost falling.
+
+Nothing.
+
+Taiga concentrated on the ice.
+
+For almost thirty seconds.
+
+Then his brain replayed the exact shape of Leo's mouth from six inches away.
+
+Taiga nearly caught his skate on the turn.
+
+"Careful," Leo said.
+
+"I'm fine."
+
+"Didn't say you weren't."
+
+Taiga kept moving.
+
+Awkward.
+
+That was the word.
+
+Awkward explained it.
+
+Probably.
+
+***
+
+They stayed on the ice another half hour.
+
+Taiga got better.
+
+Not good.
+
+Better.
+
+Enough to pass the six-year-old from earlier once, which he considered a meaningful competitive achievement even if she had stopped to talk to her mother.
+
+Leo disagreed.
+
+"She was stationary."
+
+"Still passed her."
+
+"That's not a race."
+
+"Sounds like loser talk."
+
+"You're competing with a child."
+
+"And winning."
+
+Leo laughed hard enough to drift sideways.
+
+Taiga noticed the laugh.
+
+Then noticed that he had noticed it.
+
+Annoying.
+
+A lap later, Leo brushed his elbow against Taiga's while cutting inside.
+
+Nothing.
+
+Taiga still felt it.
+
+He told himself this was because twenty minutes earlier he had collided with him.
+
+That was a perfectly reasonable explanation.
+
+Then Leo suggested another lap.
+
+Taiga said yes.
+
+After that one, Leo suggested one more because the lights had come on fully around the park.
+
+Taiga said yes again.
+
+Eventually his ankles started hurting enough to win.
+
+They left the rink.
 
 ***
 
@@ -1859,7 +2023,9 @@ The nearest stall sold both and charged enough to qualify as organized theft.
 
 They paid anyway.
 
-The benches under the lights were mostly full, so they ended up on one near the edge of the market. Snow had thickened enough to collect on the paths and the shoulders of people's coats.
+Most of the benches under the lights were occupied, so they found one near the edge of the market.
+
+The snow had thickened. Not enough to become a storm. Enough to collect on roofs, tables and the shoulders of people's coats.
 
 Leo took a drink immediately.
 
@@ -1879,19 +2045,21 @@ Taiga looked at him.
 
 "One of them."
 
-Leo blew across the cup.
+Leo blew over the cup.
 
-Taiga looked at the rink.
+Taiga took a drink of coffee.
 
-People moved past the lights in loops. Couples, kids, people who actually knew how to stop.
+Too hot.
 
-His hand remembered the pressure at Leo's side.
+He waited.
 
-Taiga wrapped both hands around his coffee.
+For a while they watched people move between the stalls.
 
-No.
+Their shoulders touched once because the bench was narrow.
 
-Not now.
+Taiga registered it.
+
+He hated that he registered it.
 
 Leo's phone rang.
 
@@ -1919,55 +2087,51 @@ Leo answered.
 
 "Hola, mami."
 
-His whole rhythm changed.
+The change was immediate.
 
-The words came faster than Taiga could follow, smoother too, sounds running into one another. Taiga caught almost nothing.
+Not personality.
 
-"Sí, mañana. Ya revisé. No, el vuelo no está cancelado."
+Rhythm.
 
-A pause.
+Leo spoke faster in Spanish, the words running together more easily than they ever did in English.
 
-"Mami, ya te mandé el boleto."
+"Sí, mañana. Ya revisé."
+
+Taiga understood tomorrow.
+
+That was about it.
+
+"No, el vuelo no está cancelado."
 
 Leo closed his eyes.
 
-Taiga smiled into the coffee.
+"Mami, ya te mandé el boleto."
 
-"Sí, ya sé que nevó. Créeme, estoy viendo la nieve ahora mismo."
+The voice on the other end continued.
 
-Leo glanced at him.
+Leo looked down at the yellow scarf.
 
-"Sí, tengo la bufanda puesta."
+"Sí, tengo la bufanda."
 
-Longer pause.
+Pause.
 
 "Sí, esa."
 
-Taiga looked pointedly at the scarf.
+Taiga smiled into his coffee.
 
-Leo kicked his shoe.
+Leo kicked the side of Taiga's shoe.
 
 "Sí, comí."
 
 Another pause.
 
-His voice softened.
-
-"Sí, mami. Ya sé."
-
-The person on the other end talked for a while.
-
-Leo listened.
-
-Then:
-
-"Llego mañana por la tarde. Dile a todos que les mando saludos."
-
-Pause.
+His expression softened.
 
 "Yo también te quiero."
 
-Another pause.
+Taiga looked over.
+
+Leo was staring at the snow.
 
 "Sí. Chao. Chao, mami."
 
@@ -1975,17 +2139,21 @@ He waited.
 
 "Mami."
 
-Finally the call ended.
+Another second.
 
-Taiga laughed.
+"Mami."
 
-Leo leaned back.
+The call finally ended.
+
+Leo lowered the phone.
 
 "This is my future."
 
+Taiga laughed.
+
 "You sound different."
 
-Leo looked over.
+Leo glanced over.
 
 "In Spanish?"
 
@@ -1993,13 +2161,15 @@ Leo looked over.
 
 "That's usually what happens when you change languages."
 
-"Not that, idiot. Faster."
+"Not that, idiot."
 
 Leo smiled.
 
+"You talk faster."
+
 "My mother talks faster. It's survival."
 
-"I understood snow."
+"I understood tomorrow."
 
 "Excellent."
 
@@ -2007,13 +2177,49 @@ Leo smiled.
 
 "Practically fluent."
 
-Taiga drank his coffee.
+Taiga took another drink.
 
-"Your English is really good."
+"She called you Julio."
+
+Leo looked at him.
+
+"You noticed that?"
+
+"I know what your name sounds like."
+
+"Fair."
+
+He wrapped both hands around the cup.
+
+"Mom and Abuela mostly call me Julio. Everybody else usually says Leo."
+
+"Why?"
+
+Leo shrugged.
+
+"No dramatic reason. Leo started when I was little and it stuck. Julio is just... family voice, I guess."
+
+Taiga looked at him.
+
+"Family voice."
+
+"You know what I mean."
+
+"I do."
+
+Leo smiled.
+
+There was nothing especially important about the information.
+
+Taiga still filed it away immediately.
+
+That was becoming a problem.
+
+"Your English is annoyingly good," Taiga said.
 
 Leo blinked.
 
-"That sounded surprised."
+"Annoyingly?"
 
 "I thought you were from here when I met you."
 
@@ -2021,49 +2227,41 @@ Leo blinked.
 
 "Yeah."
 
-Leo looked disproportionately pleased.
+Leo looked pleased.
+
+More pleased than the compliment deserved.
 
 "Okay. I'm taking that."
 
-"It was a compliment."
+"You went to a bilingual school, right?"
 
-"Me and Enzo went to a bilingual school. English since we were kids. School, games, movies, internet." He shrugged. "By the time we came here, the hard part wasn't really speaking it. It was speaking it all day without my brain deciding around six that it had completed its contractual obligations."
-
-Taiga smiled.
-
-"You barely have an accent."
-
-"I have an accent."
-
-"Barely."
-
-"Wait until I'm tired."
+"Yeah. Me and Enzo. English since we were kids. School, games, internet, movies." He took a cautious drink. "By the time we got here, the hard part wasn't really speaking it. It was speaking it all day."
 
 "What happens?"
 
-"It stops behaving."
+"Sometimes around six my brain decides it has fulfilled its contractual obligations."
 
-Taiga laughed.
+Taiga smiled.
 
-Leo took a safer drink.
+"You still talk."
 
-"Home's loud, though."
+"I always talk."
 
-"How loud?"
+"That's the problem."
 
-Leo considered it.
+"Exactly."
 
-"If I'm home and nobody's talking, either everybody left or something is wrong."
+Leo nudged his shoe against Taiga's.
 
-"Sounds terrible."
+Taiga looked down.
 
-"It's great."
+Then back up.
 
-"Of course you think that."
+Leo hadn't noticed anything.
 
-"First night at Olympus, my roommate went to sleep at ten-thirty and I sat there thinking, is this it? Did everybody die?"
+Good.
 
-Taiga laughed.
+"My house is loud," Leo continued. "Like, really loud. First night here, my roommate went to sleep at ten-thirty and I sat there wondering if everybody had died."
 
 "You would've hated Room 317."
 
@@ -2073,35 +2271,33 @@ Taiga laughed.
 
 "Worse."
 
-They sat for a while.
+Taiga laughed.
 
-Leo looked out at the market.
-
-Then he nodded toward Taiga.
+Leo looked at him over the rim of the cup.
 
 "Your family quiet?"
 
 "Yeah."
 
-"You going there after Camp Buddy?"
+"Going there after camp?"
 
 "Yeah."
 
-"How long at camp again?"
+"Camp first for a week."
 
-"One week."
+"Correct."
 
-Leo took another drink.
+Leo leaned back against the bench.
 
-"You stayed there for a whole year before Olympus, right?"
+"You stayed there for the whole year before Olympus, right?"
 
 "Pretty much."
 
-"Doing what?"
+"What did you actually do?"
 
 Taiga looked at him.
 
-"Working."
+"Work."
 
 "For money?"
 
@@ -2109,77 +2305,103 @@ Taiga looked at him.
 
 Leo stared.
 
-"That is a suspicious definition of working."
+"That is a suspicious definition of work."
 
 "Full-time volunteer."
 
 "That's a job with worse branding."
 
-Taiga smiled.
+Taiga smiled despite himself.
 
-"The camp was rebuilding. Long story."
+"The camp was rebuilding."
 
-"I have hot chocolate."
+"You've said that before."
 
-"You'll still have hot chocolate if I don't tell you."
+"Then why are you asking?"
 
-"True, but I'll be less informed."
+"Because you've never explained it."
 
-Taiga rolled his eyes.
+Taiga looked at the market.
 
-Still, he told him.
+Fair.
+
+There was no reason not to.
+
+So he did.
 
 Not everything.
 
-There was no reason to explain the whole summer in the middle of a winter market.
+He told Leo about the camp being broke after the summer.
 
-He told Leo that Camp Buddy had nearly died financially. That Keitaro's journal somehow ended up becoming a published book. That the book did well enough to bring a sponsor into the picture and the sponsor funded a major expansion.
+About the fundraiser.
 
-He told him Taiga and Yoichi stayed.
+About Keitaro's journal somehow becoming a published book.
 
-That construction took most of the year.
+About the sponsor who came after that and the expansion that followed.
 
-That Taiga learned enough carpentry and repair work to stop being completely useless.
+He told him that he and Yoichi stayed.
 
-That by the next summer the camp had new buildings, more scouts and enough money to function without everybody treating every broken chair like an existential crisis.
+That construction took most of the off-season.
 
-Leo listened without interrupting for almost thirty seconds, which was probably a record.
+That Taiga learned enough repair work and carpentry to become useful instead of merely carrying things when somebody pointed.
 
-"You wanted to stay?"
+Leo listened.
 
-The question landed differently from the others.
+Actually listened.
 
-Taiga looked at the snow gathered along the edge of his shoe.
+He asked questions in the gaps instead of filling them.
+
+"Why'd you stay?"
+
+Taiga rolled the cup between his palms.
+
+"At first?"
 
 "Yeah."
 
-"Then why Olympus?"
+"I thought I owed them."
 
-"Because wanting to stay wasn't really the problem."
+Leo didn't immediately ask who.
 
-Leo waited.
-
-Taiga rubbed his thumb against the paper cup.
-
-"For a while I thought I had to stay. Like leaving meant I was done with it. Or I was running away again. Something stupid like that."
-
-"Doesn't sound that stupid."
-
-"It was."
-
-Leo did not argue.
+Good.
 
 Taiga continued.
 
-"Then people kept leaving and coming back anyway. Keitaro. The others. Some old scouts who came back to work on the expansion." He shrugged. "Eventually I got it."
+"Then after a while I just wanted to."
+
+"That's different."
+
+"Yeah."
+
+Snow landed on Leo's scarf and disappeared into the yellow fabric.
+
+Taiga watched one melt.
+
+Leo said, "So why leave?"
+
+The question should have been easy.
+
+It was, actually.
+
+"Because staying wasn't the only way to keep it."
+
+Leo frowned slightly.
 
 "What?"
 
-"Camp would still be there if I left."
+Taiga looked toward the rink.
 
-Leo looked at him.
+"Camp Buddy was home before I came here."
 
-"So you applied to Olympus."
+"Okay."
+
+"For a while I treated that like it meant I had to stay there. If I left, then I was leaving it. Like those were the same thing."
+
+Leo stayed quiet.
+
+"Then everyone else kept leaving and coming back anyway. Keitaro. Natsumi. Hunter. People who'd been scouts there years ago came back for the expansion." Taiga shrugged. "Eventually I figured out the camp wasn't going to stop being mine because I lived somewhere else."
+
+"So Olympus."
 
 "Eventually."
 
@@ -2195,165 +2417,177 @@ About ignoring it.
 
 About Keitaro threatening to fill out the application himself.
 
-Leo laughed.
-
-"That worked?"
-
-"Apparently."
-
-"How long did you ignore it?"
+"How long did you ignore it?" Leo asked.
 
 "Eleven days."
 
 "That's not even that long."
 
-"It was on my desk."
+"It was sitting on my desk."
 
 "Ah. Active ignoring."
 
 "Exactly."
 
-Leo smiled into his cup.
+Leo laughed.
 
-"And now?"
+The conversation moved after that.
 
-Taiga looked toward the rink.
+Not because either of them deliberately changed it.
 
-Snow moved through the lights.
+It just did.
 
-Four months ago, he had been standing outside the practice fence thinking Olympus was probably another bad decision.
+Leo told him his sister had once hidden that yellow scarf for two weeks because she wanted to see whether he'd notice. He had.
 
-Now Caleb's empty side of Room 317 felt wrong.
+Taiga asked what she was like.
 
-Nora had sent him a picture of her dog from home.
+Leo gave him an answer that became three stories.
 
-House Apollo had a table he used often enough that Gav knew when he was supposed to leave.
+One involved a school play.
 
-His number was forty-one.
+One involved her stealing his headphones.
 
-His program said Computer Science.
+One involved Leo apparently spending an entire afternoon helping her build something for class and then realizing she had misunderstood the assignment.
 
-Tomorrow he was going back to Camp Buddy because he wanted to.
+Taiga should probably have stopped asking follow-up questions.
 
-Taiga looked at Leo.
+He didn't.
 
-"Now what?"
+Then Leo asked about Yoichi.
 
-"You think it was worth coming?"
+That became Yuki.
 
-Taiga considered giving him the obvious answer.
+That became Camp Buddy in winter.
 
-Maybe.
+That became whether Hiro could cook for six people without accidentally cooking for twenty.
 
-Instead:
+By the time Taiga checked his phone, almost an hour had passed.
+
+"Fuck."
+
+Leo looked over.
+
+"What?"
+
+"It's eight-twelve."
+
+Leo checked his own phone.
+
+"Oh."
+
+Neither of them moved immediately.
+
+Taiga noticed that too.
+
+Leo finished the last of his hot chocolate.
+
+"Train?"
 
 "Yeah."
 
-Leo's smile changed.
-
-Smaller.
-
-"Good."
-
-That was all.
-
-Taiga took another drink.
-
-The coffee had gone lukewarm.
+They stood.
 
 ***
 
-They left Acropolis Park after seven.
+The ride back was busier.
 
-By then, the snow had won.
+They stood near the doors because the seats were mostly taken.
 
-The paths were white. Cars moved slower. Every roof carried a thin layer along the edges.
+Leo argued that weather forecasts were just educated pessimism.
 
-Leo stopped under one of the lamps and looked up.
+Taiga told him meteorologists had done nothing to deserve that.
 
-"I know snow is objectively inconvenient, but this is fucking great."
+The train jolted once around a turn.
 
-"You're going to say that until your flight gets cancelled."
-
-"If that happens, I'm blaming you."
-
-"Why?"
-
-"You manifested negativity."
-
-"That isn't how weather works."
-
-"Prove it."
-
-Taiga kept walking.
-
-Leo caught up.
-
-The train back was busier, so they stood near the doors.
-
-Leo argued that weather prediction was mostly educated pessimism.
-
-Taiga informed him that meteorologists had done nothing to deserve that.
-
-Leo refused to concede.
+Leo caught Taiga's forearm.
 
 Normal.
 
-Mostly.
-
-Once, the train jolted around a turn and Leo caught Taiga's forearm.
-
 He let go immediately.
 
-Taiga still noticed.
+Taiga still felt the place where his hand had been.
 
-Annoying.
+Not normal.
 
-Campus was almost empty when they got back.
+He looked out the window.
 
-Snow softened the paths and the roofs of Residential Hall. Without the usual groups moving between buildings, Olympus looked larger.
+Maybe the rink had just made everything weird for the night.
 
-They walked toward the split where their routes separated.
+That was possible.
 
-"So you're gone tomorrow," Leo said.
+People got awkward.
 
-"Yeah."
+People got too physically aware after crashing into each other.
 
-"Camp for a week, then home?"
+By tomorrow, he would be at Camp Buddy.
 
-"Yeah."
+Problem solved by geography.
 
-"I'll be back before New Year for a couple things."
+Campus was almost empty when they stepped out of Central Station.
 
-Taiga looked at him.
+Snow softened the paths. Most windows in the Residential Zone were dark.
 
-"Of course you have things."
+They walked together until the point where their routes split.
 
-"Flexible things."
+Leo stopped.
 
-"That word still doesn't mean that."
-
-"I reject linguistic gatekeeping."
-
-They stopped.
-
-Leo adjusted the yellow scarf.
-
-"I'm glad you came."
-
-Taiga looked at him.
+"So. Camp Buddy tomorrow."
 
 "Yeah."
 
-"Also, for someone who had never skated, you only almost killed one civilian."
+"And then home."
 
-"Go fuck yourself."
+"Yeah."
 
-"There he is."
+Leo adjusted the strap of his bag.
 
-Leo backed away a step.
+"I fly at eleven-twenty."
 
-"Text when you get to Camp Buddy."
+"I know."
+
+"You remembered."
+
+"You told me four hours ago."
+
+"Still counts."
+
+Taiga rolled his eyes.
+
+"When are you back?"
+
+The question came out before he decided to ask it.
+
+Leo thought.
+
+"January fifth, probably. Maybe fourth. Depends on tickets."
+
+Taiga did the math automatically.
+
+Camp Buddy for a week.
+
+Then home.
+
+Leo in Santo Domingo.
+
+They would not be in the same place again for almost three weeks.
+
+Three weeks.
+
+"Oh," Taiga said.
+
+Leo looked at him.
+
+"What?"
+
+"Nothing."
+
+There it was.
+
+A stupid answer.
+
+Leo waited half a second, then apparently decided not to push.
+
+"Text me when you get to camp."
 
 "Why?"
 
@@ -2369,108 +2603,32 @@ Leo backed away a step.
 
 Taiga laughed.
 
-Leo turned to leave, then stopped.
+Leo smiled.
 
-"Oh. Taiga."
+For a second, neither of them moved.
 
-"What?"
+Not like the rink.
 
-"Do not tell anyone I almost fell."
+Nothing weird.
 
-"You didn't fall."
+Just the end of the evening.
 
-"Exactly. Preserve that version."
-
-"You almost took me down with you."
-
-Leo's expression froze for half a second.
-
-There.
-
-Again.
-
-Not the joke.
-
-Something underneath it.
-
-Then he smiled.
-
-"Still didn't fall."
-
-Taiga looked at him.
-
-"No."
-
-A beat.
-
-"Night, Leo."
+"Night, Taiga."
 
 "Night."
 
-Leo walked away.
+Leo turned toward his residence hall.
 
-Taiga watched him reach the next path before turning toward Residential Hall.
+Taiga started toward Room 317.
 
-He told himself it was because nobody else was around.
+After a few steps, he looked back.
 
-That explanation lasted until he got back to Room 317.
+Leo was already halfway to the next path.
 
-The suitcase was still open on the floor.
+Taiga faced forward again.
 
-Taiga sat on the edge of the bed and pulled the rest of his clothes from the drawer.
+Three weeks wasn't long.
 
-Shirts.
+He had spent longer than that away from people he cared about before.
 
-Underwear.
-
-Socks.
-
-Camp hoodie.
-
-Nothing difficult.
-
-His phone charged on the desk.
-
-The room remained silent.
-
-He folded another shirt.
-
-His brain replayed the rink.
-
-Not Leo slipping.
-
-Not the teenager.
-
-Not even the part where they almost fell.
-
-The second after.
-
-They had been stable.
-
-That was the problem.
-
-Taiga knew Leo was hot.
-
-That had been established beyond reasonable doubt months ago.
-
-It explained showers. The dream. Looking.
-
-It did not explain why standing fully dressed in winter clothes with one hand against Leo's ribs had made his breath catch.
-
-Or why Leo had not moved either.
-
-Taiga shoved the shirt into the suitcase harder than necessary.
-
-"Great."
-
-There was probably an explanation.
-
-There usually was.
-
-He zipped the bag.
-
-Tomorrow, Camp Buddy.
-
-He could deal with the rest later.
-
-Probably.
+It still sat wrong in his chest as he walked back through the snow, and unlike the rink, there wasn't even anything awkward he could blame it on.
