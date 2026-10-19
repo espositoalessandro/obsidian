@@ -897,6 +897,20 @@ Unlike Gav, his authority comes from experience rather than obsessive knowledge.
 
 Unlike Scott, he is socially comfortable.
 
+## Academic life
+
+Evan is a **Modern Languages major**, focused mostly on **Spanish** with some **French**.
+
+He has not settled on a specific post-graduation career. Possibilities he mentions include:
+
+- working for a company;
+- teaching;
+- becoming a tour guide.
+
+The important continuity point is not any one career path. Evan is comfortable admitting that graduation is approaching without pretending he has already decided exactly what comes next.
+
+This makes him a useful contrast for Taiga's tendency to treat choosing a direction as if it requires choosing an entire life.
+
 ---
 
 ## Football identity
