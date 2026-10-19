@@ -686,7 +686,7 @@ By finals week, nobody at Olympus asked how anyone was doing anymore.
 
 They asked what exam came next.
 
-Political Institutions was Thursday morning. Chemistry was Friday. Calculus waited until Monday because Professor Chen apparently believed dread improved with storage. Foundations came last, which Taiga considered rude considering it was the only one he actually wanted to get to.
+Political Institutions was Monday morning. Chemistry was Tuesday. Calculus waited until Thursday because Professor Chen apparently believed dread improved with storage. Foundations came last on Friday, which Taiga considered rude considering it was the only one he actually wanted to get to.
 
 House Apollo had adapted to the situation by becoming a badly managed library.
 
