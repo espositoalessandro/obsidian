@@ -148,6 +148,8 @@ Apparently peace had lasted too long.
 
 **Taiga:** congratulations to the rink
 
+Three dots appeared and stayed there for a while. Then:
+
 **Leo:** wanna come with me?
 
 He stared at the screen for a second. Leo continued before he could answer:
@@ -174,3 +176,4 @@ He could do it later.
 Taiga locked the phone, put another shirt into the suitcase and left it open.
 
 ***
+
