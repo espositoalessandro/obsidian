@@ -1,4 +1,4 @@
-### Chapter 11 - Good
+### Chapter 11 - Thresholds
 
 By Monday morning, Central Park looked like a park again.
 
@@ -514,215 +514,129 @@ There. Done.
 
 ***
 
-Saturday was gray, cold and windy.
+Saturday arrived gray, cold and windy.
 
-Northbridge looked exactly as annoying as Taiga remembered.
+By the time Taiga reached the Sports Zone, the fact that he was starting had already lost some of its novelty.
 
-Number four especially. He stood near the halfway line while both teams warmed up, somehow still looking larger than everyone around him.
-
-Taiga stared at him.
-
-Evan appeared beside him.
-
-"Romantic reunion."
-
-"Go away."
-
-"He remembers you."
-
-"How the fuck would you know?"
-
-Number four looked over, then directly at Taiga.
-
-He smiled.
-
-Evan laughed.
-
-"See?"
-
-"Fuck off."
-
-Mercer called everyone in. The lineup was already on the board, and Taiga had seen his name there when he'd arrived.
+His name was on the board when he walked into the locker room.
 
 **41 - AKATORA - LW**
 
-He'd looked at it for maybe five seconds too long.
+He looked at it for a couple of seconds, then put his bag down.
 
-Now Mercer went through the same instructions he always did.
+Around him, everything was normal. Enzo was complaining that one of his socks had disappeared. Scott was taping two fingers together. Leo was trying to convince Gav that arriving twelve minutes early still counted as early.
 
-Keep the first pass simple. Don't force it through the middle. Northbridge pressed hard and recovered quickly. If Olympus let the game become a fight, Northbridge would happily spend ninety minutes fighting.
+Nobody seemed particularly interested in the fact that Taiga was starting.
 
-Nothing Taiga didn't already know. That helped.
+Good.
 
-They went outside.
+Briarwood arrived in dark red shirts. Taiga knew almost nothing about them beyond what Mercer had said during film: compact midfield, aggressive fullbacks, annoying press.
 
-This time, when Taiga stepped onto the field, nobody had to hold up a board for him. He was already supposed to be there.
+Mercer went through the lineup, repeated two instructions Taiga had already heard twice that week, then moved on.
 
-That was new.
+"Akatora. Keep the width until we get into the final third."
 
-The whistle went.
+"Yeah."
 
-For the first thirty seconds, his body tried to betray him anyway. Heart too fast. Legs too light. Too much awareness of everything at once.
+That was it.
 
-Then Aaron received behind him. Taiga checked his shoulder.
+No speech. No reminder that this was his first start. No dramatic pause before they went outside.
 
-Number four.
+They warmed up, lined up, shook hands, and the whistle went.
 
-Fine.
+The match itself was mostly ordinary. Briarwood pressed hard for the first fifteen minutes, then slowed down. Taiga got the ball, lost it, won it back once, sent one cross too long and another into the box where nobody reached it. He made a few runs that went nowhere and a couple that pulled the fullback away from Aaron. Olympus scored late in the first half through Price after a messy rebound, and nobody played particularly well after that.
 
-He stayed wide and Aaron played inside instead. Nothing happened.
+By the second half, Taiga had stopped thinking about the fact that he had started at all.
 
-Next possession, Gav switched the ball left. Taiga checked again before it arrived.
+At sixty-eight minutes, Mercer called Evan over.
 
-Number four was already closing.
-
-Taiga touched the ball back to Aaron and moved.
-
-Simple. No disaster. No sudden disappearance of the entire field.
-
-The next time the ball came toward him, he already knew where number four was.
-
-Not that the defender had gotten smaller. He definitely had not.
-
-Taiga just knew where the bastard was before turning.
-
-At eight minutes, Taiga tried to cut inside too early and ran straight into traffic. The ball popped loose and Northbridge broke.
-
-Taiga spun and chased. He caught their midfielder near the halfway line and poked the ball away.
-
-Mercer shouted from the sideline.
-
-"GOOD RECOVERY!"
-
-Taiga barely had time to feel satisfied.
-
-"WOULDN'T NEED IT IF YOU STOPPED DOING STUPID SHIT FIRST!"
-
-There it was. Taiga jogged back into position.
-
-Fair.
-
-At fourteen minutes, number four leaned into him near the line. Taiga played the ball inside before number four could get a shoulder into him, then ran behind.
-
-The return pass didn't come. Fine.
-
-At nineteen, same thing. This time the pass came late and number four recovered, so Taiga sent the ball backward.
-
-Also fine.
-
-By twenty-five minutes, the match had settled into something readable. Northbridge still pressed. Still hit hard. Still tried to turn every loose ball into a sprint.
-
-But Taiga could see the shapes now.
-
-When their winger dropped, Aaron moved. When Leo drifted toward the right, Gav adjusted behind him. When Price came short, somebody else had to attack the space he left.
-
-Not every movement required Taiga to do something. That remained one of football's more offensive concepts.
-
-Northbridge nearly scored from a corner before halftime, but Scott punched it away.
-
-The whistle came a few minutes later. Still 0-0.
-
-Mercer waited until everyone had water, then pointed at Taiga.
-
-"You're coming inside too early."
-
-Taiga frowned.
-
-"Four keeps following."
-
-"No. You're deciding for him."
-
-Mercer drew one short line toward the center.
-
-"You move first, he gets to react. Stay wide. Make him choose."
-
-Right.
-
-Taiga nodded.
-
-"Okay."
-
-Mercer nodded.
-
-Second half.
-
-Taiga stayed wide.
-
-The first time, nothing happened. The second time, nothing happened again.
-
-The third time, number four got impatient. He stepped toward Aaron and Taiga went behind him.
-
-The pass arrived. For once, number four wasn't close enough to throw him into another postal code.
-
-Taiga drove forward.
-
-Price moved toward the near post. Taiga saw him, then saw Romero arriving behind.
-
-He cut the ball back. Romero hit it first time, the goalkeeper saved, and Price reached the rebound half a second too late before Northbridge cleared.
-
-Taiga stopped near the edge of the box.
-
-Fuck.
-
-Mercer clapped once from the sideline. Taiga turned and ran back.
-
-Good enough.
-
-A few minutes later, the same space opened again.
-
-This time the ball never reached him. It didn't need to.
-
-Number four stayed wide with Taiga while Aaron carried inside through the space he'd left. Apollo got a shot from it.
-
-Wide.
-
-Still.
-
-Taiga looked at number four jogging back beside him. The defender hadn't touched him. Taiga hadn't touched the ball.
-
-And something useful had happened because of where he stood.
-
-Ridiculous sport.
-
-Olympus scored in the sixty-third minute, and Taiga had very little to do with it.
-
-Gav won the ball. Leo carried it through the middle. Aaron overlapped on the left and crossed low. Price got there first.
-
-1-0.
-
-Taiga ran over with everyone else anyway. Nobody asked whether he'd contributed enough to celebrate.
-
-At sixty-nine minutes, his left calf started tightening. At seventy-two, the board went up.
+A minute later, the board went up.
 
 **41 OUT**
 **11 IN**
 
-Taiga jogged toward the touchline. Evan waited for him.
+Taiga jogged toward the sideline. Evan waited beside the fourth official.
 
-For half a second, the image felt backwards. Last time against Northbridge, Evan had come off and Taiga had gone on.
+They slapped hands as they crossed.
 
-Now Evan slapped his hand and stepped past him.
-
-"Not terrible."
+"Not terrible," Evan said.
 
 "Fuck you."
 
-Evan grinned and ran onto the field.
+Evan grinned and ran on.
 
-Taiga sat down. His lungs were working hard, his legs were heavy, and mud had dried along one sock. Number four had managed to hit him in at least four separate places.
+Taiga dropped onto the bench, grabbed a bottle and drank until his breathing settled. Somebody handed him a jacket without asking. He pulled it on and watched the rest of the match.
 
-He took a long drink and leaned back against the bench.
+Briarwood nearly equalized from a corner. Scott caught it.
 
-Olympus kept the lead. When the final whistle went, everyone started toward the sideline.
+Then nothing happened for a while.
 
-Taiga stood and picked up his bottle.
+The final whistle came with the score still 1-0.
 
-Mercer was walking past when he stopped.
+Taiga stood with everyone else, shook a few hands and headed back inside.
 
-"Akatora."
+By the time he reached the locker room, Enzo had apparently already made a decision for the entire team.
 
-Taiga looked at him.
+"We're getting food."
 
-Mercer nodded once.
+Taiga sat down and started pulling off his boots.
 
-"Good."
+"Why?"
+
+Enzo looked genuinely offended by the question.
+
+"Your first start."
+
+"That's not a reason."
+
+"It's literally a reason. I just gave you one."
+
+Aaron dropped onto the bench across from them. "Where?"
+
+"I don't know yet."
+
+"So you decided we're getting food before deciding where?"
+
+"That's how plans work."
+
+"No, it isn't."
+
+Leo appeared from the showers with a towel around his waist.
+
+"What's happening?"
+
+"Akatora's first-start dinner," Enzo said.
+
+Taiga looked up. "Nobody called it that."
+
+"I did."
+
+"Five seconds ago."
+
+"Still counts."
+
+Leo smiled. "I'm in."
+
+"Of course you are."
+
+Gav looked over from two lockers down. "If we're leaving campus, decide quickly. The next train is in twenty-three minutes."
+
+That immediately turned into another argument.
+
+Enzo wanted tacos. Aaron wanted burgers. Leo suggested ramen for reasons nobody understood. Scott said he didn't care, which somehow made Enzo ask him three more times.
+
+Taiga finished changing while they argued.
+
+By the time he zipped his bag, nobody was talking about the match anymore.
+
+"Fine," he said, standing up. "Just pick somewhere."
+
+Enzo pointed at him triumphantly.
+
+"See? He wants to celebrate."
+
+"I want food."
+
+"Same thing."
+
+Taiga rolled his eyes and followed them out.
