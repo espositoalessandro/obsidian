@@ -32,9 +32,7 @@ Taiga glanced across the table. "Yeah."
 
 "Yeah."
 
-Leo nodded and returned to his laptop.
-That was it.
-For the next hour, Taiga mostly forgot he was there.
+Leo nodded and returned to his laptop. That was it, and for the next hour Taiga mostly forgot he was there.
 
 ***
 
@@ -981,13 +979,8 @@ Taiga smiled too.
 He looked toward the rink.
 The lights were reflecting across the wet parts of the ice. People moved in circles, some fast, some barely managing.
 
-Camp Buddy had been the easiest answer for a long time.
-Stay there.
-Don't decide anything else.
-Now, after one semester at Olympus, the thought felt strange.
-Not wrong.
-
-Just incomplete.
+Camp Buddy had been the easiest answer for a long time. Stay there, don't decide anything else.
+Now, after one semester at Olympus, it felt strange to think of it as the only answer. It still felt like home. It just didn't feel like the only place he could go anymore.
 Leo was looking at him.
 
 "What?"
@@ -1075,10 +1068,7 @@ Leo considered it.
 
 "January fifth, probably. Maybe fourth. Depends on tickets."
 
-Taiga did the math automatically.
-Camp Buddy for a week.
-Then home.
-Leo in Santo Domingo.
+Taiga did the math automatically. Camp Buddy for a week, then home, while Leo would be in Santo Domingo.
 Almost three weeks before they would be in the same place again.
 
 "Oh."
@@ -1096,8 +1086,6 @@ Leo waited a moment, then nodded.
 Taiga nodded. "Yeah."
 
 "Night, Taiga."
-
-"Night."
 
 "Night."
 
