@@ -144,11 +144,11 @@ Apparently peace lasted for too long.
 
 **Taiga:** like?
 
-**Leo:** acropolis rink is open!
+**Leo:** acropolis rink is open 
 
 **Taiga:** congratulations to the rink
 
-**Leo:** come with me?
+**Leo:** wanna come with me?
 
 He stared at the screen for a second. Leo continued before he could answer:
 
