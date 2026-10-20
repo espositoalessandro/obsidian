@@ -451,228 +451,137 @@ Likewise, do not spend Chapter 12's romantic destabilization here. Taiga's sexua
 
 ---
 
-## Chapter 12 — The Bubble Pops
+## Chapter 12 — The boy in the bubble
 
-> **Working title.** Inspired by *The Girl in the Bubble* from *Wicked 2*.
+> **Final title.** Loose reference to *The Girl in the Bubble* from *Wicked 2*.
 
 ### Dramatic role
 
-Chapter 12 is the Section I ending and has two jobs:
+Chapter 12 closes Section I on two levels:
 
-1. **close Taiga's first semester efficiently;**
-2. **begin the actual romantic problem.**
+1. **the first semester ends and Olympus is no longer provisional;**
+2. **Taiga's stable explanation for Leo stops being completely sufficient.**
 
-Chapter 11 has already established the new Olympus baseline. Do not spend another half-chapter proving that life continues or that Olympus belongs to Taiga now.
+The chapter does not force either conclusion into explicit self-analysis. Taiga experiences both changes before he fully names them.
 
-The first quarter of Chapter 12 should finish the semester: finals pressure, one final football closure beat from Mercer, and the practical disappearance of everyone else's obligations.
-
-The remaining majority of the chapter should narrow to Taiga and Leo.
-
-Approximate target:
-
-- **25–30%** finals / football wrap / people leaving;
-- **70–75%** rink outing / drinks / increasingly personal conversation / separation.
-
-The chapter should eventually feel like **the rink chapter**, not a finals chapter with a romantic scene attached.
-
-### Movement
+### Final movement
 
 Taiga enters with a stable explanation:
 
 > **Leo is hot. Leo is my friend. I like being around him. That explains everything.**
 
-He leaves with:
+The rink introduces the first genuine mismatch.
 
-> **...does it?**
-
-The bubble is not ignorance of sexual attraction. That ended in Chapter 5.
-
-The bubble is Taiga's belief that **sexual attraction + friendship fully explains the relationship**.
-
-### School / football closure
-
-Keep the semester ending compact.
-
-- Finals should feel real without revisiting every course.
-- The Computer Science declaration is already settled.
-- Football gets no new milestone.
-- Mercer gets the final football word of the semester: Taiga is no longer being taught how to survive organized football; he is expected to return ready to compete for minutes.
-- Finals end, football pauses, people leave, Taiga and Leo are among the last people still on campus.
-- The narrowing to Leo must arise from logistics rather than authorial matchmaking.
-
-### Engineering the deniable "date"
-
-Leo asks Taiga to go to the Acropolis winter rink because everyone else has left / has plans.
-
-Taiga accepts because Leo is his friend and he is free.
-
-The outing should become date-shaped without either boy calling it a date:
-
-**travel together → rink → physical learning / play → hot drinks → personal conversation → trip home → separation before break**
-
-Every individual choice remains friendship-compatible.
-
-The aggregate is what begins breaking Taiga's category.
-
-### Rink progression — first crack
-
-Taiga has never skated and immediately struggles.
-
-Leo does **not** offer his hands and wait for permission. Taiga would refuse.
-
-Instead, Leo naturally takes both of Taiga's hands to steady / teach him and skates backward in front of him.
-
-For the first minute or two, Taiga does not register the intimacy. His attention is occupied by balance, feet and not falling.
-
-As he becomes competent enough to spare attention, he realizes:
-
-> **we are still holding hands**
-
-The contact becomes unusually salient.
-
-Taiga becomes genuinely **nervous**.
-
-This is the new information. Knowing Leo is sexually attractive has not previously made Taiga nervous simply because Leo is near him.
-
-Taiga ends the contact first under a legitimate practical excuse, in the working spirit of:
-
-> "Right. I think I got it. Let me go."
-
-Leo lets go without making a scene and keeps skating backward.
-
-Taiga can tell himself he stopped because he no longer needed help.
-
-He also knows, somewhere below that explanation, that he pulled away because he became too conscious of the contact.
-
-### Rink progression — second physical beat
-
-Give them several minutes of normal skating after the hand-holding.
-
-Leo continues skating backward.
-
-Another skater approaches from behind him. Taiga warns him. Leo stops immediately and avoids the collision.
-
-Taiga cannot stop that quickly yet and goes straight into Leo.
-
-Leo catches him instinctively with both arms so neither falls.
-
-They remain standing.
-
-That is essential: there is no crash / impact / lying on the ice to absorb the emotional meaning.
-
-They are stable, effectively embracing, faces only centimeters apart.
-
-Both freeze.
-
-Both visibly flush / become flustered.
-
-Taiga notices concrete details of Leo's face at close range that he has no practical reason to catalogue. Choose only a few details; do not turn the beat into a full body inventory.
-
-Leo is affected too.
-
-Taiga pulls away first.
-
-### Immediate interpretation
-
-Taiga does **not** conclude:
-
-> I have a crush on Leo.
-
-He files the moment under the cheapest available explanation:
-
-> **That was awkward.**
-
-The explanation is not stupid. The moment genuinely was awkward.
-
-It is simply incomplete.
-
-The more useful later question is:
-
-> **Why the fuck was I noticing every detail on his face?**
-
-### After the physical trigger
-
-The outing continues.
-
-Do not end the rink immediately after the embrace.
-
-Taiga and Leo keep skating, joking and functioning as friends.
-
-The friendship still works.
-
-What has changed is Taiga's perception: physical neutrality has been disturbed.
-
-Ordinary proximity, an elbow brush, eye contact or Leo moving beside him can now register slightly more than it did twenty minutes earlier. Keep this light; Taiga should not become globally hyperaware.
-
-### Post-rink emotional inflation
-
-Hot drinks give the outing a quieter second phase.
-
-Preserve / adapt the useful old Chapter 13 material where it serves the new progression:
-
-- Leo's mother calls and Taiga hears him speak Spanish naturally.
-- Taiga notices the shift in Leo's rhythm / voice.
-- "Julio" as family naming may surface naturally; Taiga already knows the legal name.
-- Leo's sister / scarf / loud home can become concrete.
-- Taiga becomes interested in more of Leo as a person, not merely his body.
-- Leo asks about Taiga's year at Camp Buddy.
-- Taiga explains the gap year / rebuilding / why he eventually left in compressed form.
-- That conversation quietly closes the belonging theme: Camp Buddy remained home even when Taiga chose Olympus.
-
-The important social mechanism is that **they keep choosing to extend the interaction**.
-
-Taiga asks follow-up questions.
-
-He volunteers more of himself.
-
-Neither is in a hurry to end the evening.
-
-The reader should increasingly recognize the shape of a date while Taiga continues to classify it as spending time with a friend.
-
-### Final separation beat
-
-At the end of the night, they separate because both are leaving the next day.
-
-Taiga realizes he will not see Leo for roughly **three weeks**.
-
-That bothers him before he understands why.
-
-Do not turn the thought into an explicit diagnosis.
-
-The useful final data point is simply:
-
-> **three weeks suddenly feels much longer than it should**
-
-This adds pre-emptive absence / longing to the chapter's evidence.
-
-### Romance guardrail
-
-Chapter 12 does **not** contain Taiga's full romantic realization.
-
-It creates the problem Act II must solve.
-
-By the end of the chapter, Taiga knows:
-
-- prolonged contact with Leo made him nervous;
-- he ended the hand-holding because that nervousness became uncomfortable;
-- the accidental embrace affected him beyond simple horniness;
-- he noticed absurdly specific details of Leo's face;
-- Leo was flustered too;
-- he still wanted to keep spending time with Leo afterward;
-- the prospect of three weeks without Leo sits badly.
-
-He does **not** yet conclude:
-
-- "I'm in love";
-- "I have a crush";
-- "Leo likes me";
-- "we should date."
-
-The Section I exit state is:
+By the end of the evening, Taiga still has not concluded that he has a crush, that Leo likes him, or that they should date. What has changed is simpler:
 
 > **"Friend" is no longer a complete explanation.**
 
-### Section II consequence
+At the same time, the final Room 317 image closes the broader Section I movement. The room is almost physically identical to when Taiga first arrived, but it now feels more welcoming.
+
+### Final structure
+
+#### Finals / semester closure
+
+- Finals pressure opens the chapter through House Apollo's common room becoming a study space.
+- Political Institutions ends first; Nora leaves for home and confirms Taiga's break plan: **home first, Camp Buddy around New Year's**.
+- The last football session gives Mercer the final football word of the semester. Taiga receives no new promotion or milestone; the team is simply expected to maintain fitness and return ready for spring conference play.
+- Foundations ends Friday just after noon.
+- Campus empties quickly.
+- Caleb has already left with Maya.
+- Taiga experiences the dorm and campus without their normal people and obligations.
+
+#### Leo's invitation
+
+Leo texts because most people have already left or have plans.
+
+Taiga is free and accepts.
+
+The outing remains fully friendship-compatible in every individual choice:
+
+**train → winter market → rink → hot chocolate → personal conversation → train home → goodbye**
+
+The aggregate becomes date-shaped without either boy naming it.
+
+#### Rink — first crack
+
+Taiga has never skated.
+
+Leo takes both of his hands to steady and teach him while skating backward.
+
+At first Taiga is too occupied with balance to register the contact as meaningful.
+
+Once he becomes competent enough to spare attention, he notices they are **still holding hands**, becomes genuinely nervous and ends the contact himself:
+
+> "I think I got it. Let me go."
+
+Leo releases him immediately and does not make the moment significant.
+
+#### Rink — second physical beat
+
+Several ordinary minutes pass.
+
+Another skater approaches from behind Leo. Taiga warns him. Leo stops; Taiga has not learned how to stop quickly enough and collides with him.
+
+Leo catches Taiga with both arms.
+
+They remain standing.
+
+Their faces are centimeters apart. Taiga notices specific details of Leo's face, becomes visibly flustered and realizes Leo is slightly red too.
+
+Taiga pulls away first.
+
+The outing does **not** end there. They continue skating until the awkwardness becomes manageable again, although Taiga remains irritatingly aware of the distance between them.
+
+#### Hot chocolate / personal conversation
+
+The quieter second phase expands the relationship beyond physical attraction.
+
+- Leo's mother calls and Taiga hears Leo speak Spanish naturally.
+- The yellow scarf becomes concrete family texture.
+- Taiga learns more about Leo's bilingual upbringing and home life.
+- Leo asks about Taiga's year at Camp Buddy.
+- Taiga explains the rebuilding year, why he stayed, the guilt underneath it and why he eventually chose to leave.
+- Taiga still withholds the ugliest part of his Camp Buddy history.
+- The conversation keeps wandering after the important material instead of ending on a revelation.
+
+This scene also connects the chapter's two larger movements: Camp Buddy remains home, but choosing Olympus no longer means abandoning it.
+
+### Final separation
+
+The goodbye carries the romantic shift through behavior rather than an explicit longing thought.
+
+- Leo says the outing was **"worth it"** and then immediately becomes awkward about the wording.
+- Taiga feels the same uneasiness from the rink return.
+- Leo asks Taiga to send Camp Buddy pictures; Taiga agrees without treating the request as intrusive.
+- Leo hesitates before saying goodbye.
+- Taiga watches him leave.
+
+The chapter deliberately does **not** add a thought equivalent to "three weeks feels long." The reader already has enough evidence.
+
+### Section-ending image
+
+After Leo leaves, Taiga returns to Room 317 and finishes packing.
+
+The nearly empty room recalls his first arrival:
+
+> same walls, same furniture, no personal items
+
+but now it feels more welcoming.
+
+This final image closes Section I more broadly than a final Leo thought would. Olympus has become part of Taiga's life through football, classes, Caleb, Nora, Apollo, Leo and ordinary accumulated routine.
+
+### Winter-break continuity
+
+- **Sat Dec 13:** Taiga leaves Olympus for his family home; Leo travels to Santo Domingo.
+- Taiga spends Christmas at home.
+- **Around Dec 27:** Taiga goes to Camp Buddy for the winter reunion.
+- **Dec 31:** New Year's Eve occurs at Camp Buddy.
+- **Around Jan 2–3:** the reunion winds down.
+- Taiga expects to return to Olympus around **Jan 3–4**.
+- Leo expects to return around **Jan 3–6**, depending on flights.
+- Section II may still open directly at Camp Buddy; the home/Christmas interval can remain off-page.
+
+### Romance guardrail after Section I
 
 Chapter 12 gives Section II permission to make Taiga genuinely nervous around Leo in **specific activated situations**.
 
@@ -680,7 +589,7 @@ The nervousness must not become constant.
 
 Taiga can still joke, train, study, text and coexist normally.
 
-The new awareness intrudes when something resembles the question Chapter 12 opened:
+The new awareness may intrude around:
 
 - prolonged touch;
 - close eye contact;
@@ -690,26 +599,27 @@ The new awareness intrudes when something resembles the question Chapter 12 open
 - noticing Leo's absence;
 - somebody else naming their closeness.
 
-Taiga's pattern becomes:
+The progression remains:
 
 **notice → pull back / minimize → miss Leo → seek him again → move closer anyway**
 
-That contradiction drives Section II toward recognition.
+Section II develops that contradiction into conscious recognition.
 
-### Section-ending target
+### Final Section I state
 
 By the end of Chapter 12:
 
 - fall semester is complete;
 - Computer Science is settled as Taiga's chosen direction;
-- football is paused with Mercer expecting Taiga to return ready to compete for minutes;
+- football is paused with spring conference play ahead;
 - Olympus / Apollo / Room 317 / Nora / Caleb are established life rather than provisional structures;
-- Taiga is leaving for Camp Buddy and fully expects to return;
+- Camp Buddy remains home without being the only place Taiga belongs;
+- Taiga leaves Olympus fully expecting to return;
 - Leo may already have a genuine crush;
-- Taiga has discovered that his own behavior around Leo no longer fits cleanly inside friendship;
-- Taiga has **not** solved that discovery before leaving.
+- Taiga has encountered reactions to Leo that no longer fit neatly inside his old explanation;
+- Taiga has **not** solved that discovery.
 
-**Section II should open directly at Camp Buddy.**
+**Section II can open directly at Camp Buddy after the off-page Christmas-at-home interval.**
 
 ---
 
