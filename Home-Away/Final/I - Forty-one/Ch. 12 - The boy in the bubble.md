@@ -166,7 +166,7 @@ Taiga looked at the two shirts in the suitcase.
 Packing would take twenty minutes. Maybe thirty.
 He could do it later.
 
-**Taiga:** when
+**Taiga:** when?
 
 **Leo:** 4:00 common hall?
 
