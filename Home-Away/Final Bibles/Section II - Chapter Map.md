@@ -27,7 +27,7 @@ The Section II question is larger:
 
 The intended movement is:
 
-**absence → charged reunion → private trust → default pairing → reciprocal care → external visibility → pressure → rupture → loss → recognition → chosen direction**
+**absence → charged reunion → private trust → default pairing → physical testing → reciprocal care → mutual sexual escalation → public visibility → rupture → loss → recognition → chosen direction**
 
 The section should end with Taiga no longer able to maintain plausible deniability about his own desire.
 
@@ -54,6 +54,9 @@ The section needs more:
 - time for Taiga and Leo's ordinary closeness to become a real pattern;
 - situational nervousness and physical awareness from Taiga;
 - moments where attraction and affection become harder for him to separate;
+- a gradual migration of Taiga's physical hyperawareness and "testing" behavior from the current Draft Section III into Section II;
+- small moments where Taiga wonders whether Leo's touch is intentional, then begins testing back rather than only receiving;
+- a Friday Pinetree sexual escalation that confirms mutual physical desire without resolving the romantic question;
 - external life around the romance: school, football, Apollo, Camp Buddy and friends;
 - runway for Aaron's first-team pressure before Pinetree;
 - time inside Pinetree itself;
@@ -154,6 +157,17 @@ Leo also gives Taiga access to something private that the rest of Apollo does no
 
 Taiga should be pleased by that trust before he fully examines why.
 
+This is also where the physical-awareness thread should begin becoming more active. The rink has already taught Taiga that Leo's touch can affect him. Section II now needs to follow through on that.
+
+Small questions that currently live too late in the Draft belong here and in the next chapters:
+
+- did Leo mean to leave his knee there?
+- why did that touch last?
+- should Taiga move?
+- what happens if Taiga simply does **not** move?
+
+Do not make every touch charged. The point is that some ordinary contact now catches Taiga's attention, and he starts noticing whether Leo withdraws or stays.
+
 ### Leo continuity
 
 Leo genuinely enjoys people and crowds.
@@ -213,6 +227,18 @@ Taiga's nervousness remains situational, not constant.
 
 Use physical or emotional leakage selectively: a touch, a look, unexpected closeness, or pleasure at being chosen should occasionally force Taiga to notice that "Leo is hot" no longer explains everything.
 
+This chapter should begin the **testing** phase in earnest.
+
+Taiga does not sit down and decide to test whether Leo likes him. Instead, he sometimes notices a contact and chooses not to end it:
+
+- a knee remains against Leo's;
+- Taiga lets a hand stay on his arm;
+- he sits slightly closer than necessary;
+- he initiates a small touch and notices whether Leo accepts it;
+- Leo reciprocates enough that Taiga cannot honestly call every contact accidental.
+
+These beats should remain small and deniable. Their job is to build a physical language before either boy has consciously agreed on what that language means.
+
 ### Aaron progression
 
 Aaron remains confident and functional, but first-team conference pressure starts becoming real.
@@ -266,9 +292,13 @@ He:
 
 A harmless outside observation about how often they are together can produce a small spike of discomfort.
 
+Physical testing can continue here, but it should now feel easier and more reciprocal than in Chapter 15. Taiga may still get caught by a touch, but he has also learned that Leo generally does not object when Taiga leaves contact in place or initiates something small himself.
+
 Nothing explodes yet.
 
 By the end of this chapter, the reader should already see Taiga and Leo as a unit more clearly than Taiga is willing to.
+
+The reader should also understand that Taiga is no longer purely wondering what Leo's touches mean. He has started participating in the ambiguity.
 
 ### Aaron progression
 
@@ -286,6 +316,10 @@ Pinetree is imminent.
 
 The relationship must feel valuable and established enough that the coming rupture can actually remove something.
 
+By departure, the pre-Friday state should be:
+
+**Taiga knows he is attracted to Leo; he strongly suspects Leo is attracted back; both have been physically testing the boundary in small ways; neither has yet crossed into unmistakably sexual contact.**
+
 ---
 
 # Pinetree block
@@ -299,7 +333,7 @@ The additional Thursday is not padding. It allows the environment to work on the
 Pinetree should operate as a pressure chamber for two different but structurally parallel anxieties:
 
 - **Aaron:** if people look closely, they may discover he is not good enough for the first-team place he has earned.
-- **Taiga:** if people look closely, they may discover how much Leo matters to him.
+- **Taiga:** if people look closely, they may discover how much Leo matters to him — and, after Friday, that the private physical boundary between them has already started moving.
 
 Do not state this parallel explicitly in narration.
 
@@ -361,19 +395,71 @@ The day should not be miserable from the start.
 
 Keep team-trip energy, social downtime and moments of genuine fun.
 
+Friday should become one of Taiga and Leo's warmest days in the section **before** it unexpectedly crosses a physical line.
+
 ### Movement
 
-**This is challenging → this is starting to get under our skin.**
+**This is challenging → something between us becomes impossible to call accidental.**
 
 ### Romance job
-
-This can contain one of Taiga and Leo's warmest ordinary stretches of the entire Pinetree block.
 
 Give the reader something worth losing.
 
 Taiga receives another outside reflection of their closeness and feels the discomfort more clearly than on Thursday, but still dismisses it.
 
 He is not yet panicking.
+
+Later, after the day's football and social material have already done their work, Taiga and Leo should end up alone through circumstances that make sense **without either of them planning a sexual encounter**.
+
+A strong existing ignition is the late walk away from the noisy lodge / discovery of the overlook route. The walk creates privacy and warmth; it does not itself need to become sexual. After they return, one of them can remain with the other for an ordinary reason rather than immediately rejoining the group.
+
+The sexual escalation should feel like an extension of the physical language already built across Chapters 14–16:
+
+1. an ordinary / playful touch;
+2. one boy notices the contact has lasted;
+3. he does not move;
+4. the other tests a little further;
+5. the response is reciprocal;
+6. each new touch gives permission for the next;
+7. only after several steps do they realize how far the moment has moved.
+
+There should be **no verbal proposal** such as "let's have sex" and no clean single initiator carrying the whole scene.
+
+The important discovery is mutuality:
+
+**Taiga wants Leo physically, and Leo clearly wants Taiga physically too.**
+
+The scene should escalate far enough that neither can later dismiss it as accidental or merely joking. It may include deliberate intimate touching and obvious arousal.
+
+However, the current preferred version is **incomplete**.
+
+When the next step becomes qualitatively more sexual — for example moving from over-clothes / exploratory contact toward actively getting each other off — Taiga hits the threshold and says some version of:
+
+**Wait.**
+
+Leo stops immediately.
+
+Taiga should **not flee**.
+
+He should not reject Leo, frame what happened as disgusting, or turn Friday into a rehearsal of the Saturday rupture.
+
+The aftermath can be awkward, flushed, funny, quiet or all four. They remain together long enough to establish that stopping did not destroy the relationship.
+
+Taiga should not conclude that Friday was a mistake.
+
+His temporary interpretation can instead become another attempted box:
+
+**Okay. We're friends who are attracted to each other. We got carried away. That can still be private.**
+
+Friday therefore answers one question and creates a more dangerous one.
+
+It answers:
+
+**Does Leo want me physically? — Yes.**
+
+It does **not** answer:
+
+**What are we becoming?**
 
 ### Aaron job
 
@@ -398,7 +484,9 @@ He still recovers, but no longer cleanly.
 
 Aaron should finish Friday frustrated, not broken.
 
-Let him sleep on it.
+Taiga and Leo should finish Friday having crossed a private boundary they did not plan to cross.
+
+The chapter should **not** feel like "the sex chapter." Football, team life, Aaron's deterioration and Pinetree remain structurally important. The sexual escalation lands late because the rest of the day created the conditions for it.
 
 ---
 
@@ -428,11 +516,31 @@ The dangerous part of Aaron's eventual comment is confirmation:
 
 **You can see it too.**
 
-Taiga's panic comes from public visibility, not sudden discovery of attraction.
+Friday makes that confirmation substantially more volatile.
+
+Aaron has **no idea** what happened privately between Taiga and Leo the night before. That is exactly the point.
+
+Taiga has barely had time to place Friday into a temporary category — private attraction, getting carried away, something contained between the two of them — when Aaron notices their closeness anyway.
+
+The terror is not:
+
+**He knows what we did.**
+
+It is:
+
+**If he can see something without knowing what we did, then this was never contained in that room.**
+
+Taiga's panic comes from public visibility, not sudden discovery of attraction or mutual desire.
 
 His instinct is to regain control by forcing the relationship back into a safer category.
 
 That act hurts Leo because Taiga is repudiating closeness they have both been actively creating.
+
+Friday raises the emotional cost. Leo has just experienced Taiga reciprocating unmistakable sexual desire, stopping at a boundary, and then **staying** rather than rejecting him. Leo respects the stop.
+
+Saturday therefore does not hurt because Taiga "owes" Leo sex, romance or a label. He does not.
+
+It hurts because Taiga privately communicated **I want you close, even if I am not ready to go further**, then publicly behaves as though association with Leo is humiliating evidence.
 
 ### Aaron job
 
@@ -556,6 +664,7 @@ He does not need polished language or a formal label.
 He needs to understand that:
 
 - he misses more than Leo's friendship;
+- Friday already proved that physical desire is mutual, but losing Leo still hurts in all the places where sex is irrelevant;
 - the defaults were not meaningless;
 - restoring only ordinary teammate/friend status would feel like a loss;
 - he wants the closeness back;
@@ -566,9 +675,11 @@ The realization should emerge through behavior, absence and Taiga's own blunt th
 
 A useful internal test is:
 
-**If Leo offered to reset everything to ordinary friendship, would Taiga actually want that?**
+**If Leo offered to reset everything to ordinary friendship — while acknowledging that Friday was simply two horny friends getting carried away — would Taiga actually want that?**
 
 The answer is **no**.
+
+That distinction matters. Taiga already knows he wants Leo physically. Chapter 21 forces him to admit that physical reciprocity does not explain why he wants the coffee, messages, trust, waiting, ordinary conversation and emotional preference back too.
 
 That is the point where the old box finally stops working.
 
@@ -600,7 +711,7 @@ The conversation needs a full rewrite from the current Draft version so that it 
 
 Taiga apologizes knowing what he is apologizing for.
 
-He understands that he invited Leo closer, participated in that closeness, then treated it as something threatening or shameful when another person made it visible.
+He understands that he invited Leo closer, participated in that closeness, **crossed an unmistakably sexual boundary with him on Friday**, then treated the relationship itself as something threatening or shameful when another person made their closeness visible.
 
 This is also the natural place for Taiga to give Leo the uglier Camp Buddy truth that he withheld in Final Chapter 12.
 
@@ -699,13 +810,19 @@ The progression is not:
 
 It is:
 
-**attraction already known → excuses become less sufficient → emotional preference becomes visible → public visibility triggers panic → absence forces recognition**
+**attraction already known → touch becomes charged → Taiga tests / reciprocates → mutual physical desire becomes explicit on Friday → Taiga tries to contain it as private sexual attraction → public visibility proves the relationship is legible beyond sex → panic → absence forces romantic recognition**
 
 A useful structural principle:
 
 At first, every piece of evidence has a plausible smaller explanation.
 
-By Pinetree, the **cumulative picture** does not.
+Before Friday, even physical contact can remain deniable.
+
+Friday removes uncertainty about **mutual sexual desire**.
+
+Saturday removes Taiga's ability to pretend that the only visible thing between them is private physical attraction.
+
+By the end of Pinetree, the **cumulative picture** cannot be reduced to "friend + hot."
 
 ## Leo
 
@@ -725,6 +842,10 @@ He can:
 Do not make Leo the perfectly patient emotional guide.
 
 Pinetree hurts him because he was participating in the same movement.
+
+Friday also means Leo knows Taiga wants him physically. This must not turn Leo into someone who assumes physical reciprocity gives him ownership, entitlement or a guaranteed relationship. Leo respects Taiga's stop immediately.
+
+What Friday changes is not entitlement. It changes the credibility of Saturday's rejection: Leo has direct evidence that Taiga willingly welcomed him close in private.
 
 His Section II growth is not "learn to abandon Taiga when scared."
 
@@ -780,8 +901,8 @@ The conflict should emerge from **accumulated pressure**, not plot convenience.
 By Saturday:
 
 - Aaron has weeks of first-team pressure plus two days of unfamiliar evaluation;
-- Taiga has weeks of increasingly obvious closeness plus several days of seeing that closeness reflected by outsiders;
-- Leo has spent weeks participating in a relationship that is becoming more personally important.
+- Taiga has weeks of increasingly obvious closeness, a growing pattern of physical testing, several days of seeing that closeness reflected by outsiders, and a sexual boundary-crossing with Leo less than twenty-four hours earlier;
+- Leo has spent weeks participating in a relationship that is becoming more personally important and now knows the physical desire is reciprocal.
 
 Aaron's remark lights material that is already there.
 
@@ -847,7 +968,12 @@ That is the threshold Section II must earn.
 - Leo's Five Minutes habit is private and should not become common Apollo knowledge.
 - The Leo ex history informs his Pinetree boundary but should remain understated here.
 - Taiga's Camp Buddy reveal in Chapter 22 must preserve the later Kieran reveal for Section III.
-- Section III must begin from **recognized desire**, not make Taiga rediscover that he likes Leo.
+- Section III must begin from **recognized romantic desire and known mutual physical desire**, not make Taiga rediscover that he likes Leo or wonder from scratch whether Leo is attracted to him.
+- Physical hyperawareness / "testing" material currently placed in Draft Section III should be audited and moved into Section II where appropriate.
+- After Friday, Section III must not rely on repeated beats such as **was that knee touch intentional?** or **does Leo want me?** as genuine mysteries.
+- Section III can still contain nervousness and physical charge, but the question changes from **does he want me?** to **what does this permission mean, how far does it extend, and what do we expect from each other?**
+- The current Draft Section III shower masturbation scene may survive, but its meaning must change: Taiga is not discovering that Leo specifically matters or that he wants him. He is dealing with the logistical / physical consequences of already knowing the desire is mutual.
+- Section III's main romantic engines should therefore shift toward expectations, jealousy, boundaries, privacy, Kieran, and intentional escalation rather than physical-attraction discovery.
 
 ---
 
@@ -860,10 +986,15 @@ Before freezing Section II, ask:
 3. Do attraction and affection increasingly overlap without every scene becoming romantic?
 4. Is Leo choosing Taiga often enough that Pinetree hurts him for a reason the reader has witnessed?
 5. Is Aaron's deterioration visible before Pinetree without being telegraphed as an inevitable breakdown?
-6. Does each Pinetree day have a distinct dramatic function?
-7. Does Saturday confirm Taiga's fear rather than invent it?
-8. Does Sunday hurt without becoming an overlong match report?
-9. Does Chapter 21 force Taiga to recognize what he wants before he goes to Leo?
-10. Is Leo visibly glad Taiga returned while still maintaining a meaningful boundary?
-11. Does the reconciliation preserve uncertainty about labels while eliminating uncertainty about Taiga's direction?
-12. Does the final coda feel like an **Act ending**, not merely the end of an argument?
+6. Has enough of the current Act III physical hyperawareness / testing phase been moved earlier that Friday feels earned rather than sudden?
+7. Does Friday's sexual escalation arise from an ordinary context instead of a planned hookup, and does reciprocity build incrementally?
+8. Does Taiga stop the escalation without fleeing or rejecting Leo, and does Leo respect the stop immediately?
+9. Does each Pinetree day have a distinct dramatic function?
+10. Does Saturday become more volatile because Aaron unknowingly identifies a visible pattern less than a day after the private sexual escalation?
+11. Does Saturday confirm Taiga's fear rather than invent it?
+12. Does Leo's hurt reflect public repudiation of private closeness without implying Taiga owed him sex or a relationship?
+13. Does Sunday hurt without becoming an overlong match report?
+14. Does Chapter 21 force Taiga to distinguish **mutual sexual desire** from **wanting Leo romantically / relationally** before he goes to him?
+15. Is Leo visibly glad Taiga returned while still maintaining a meaningful boundary?
+16. Does the reconciliation preserve uncertainty about labels while eliminating uncertainty about Taiga's direction?
+17. Does the final coda feel like an **Act ending**, not merely the end of an argument?
