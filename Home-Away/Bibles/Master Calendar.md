@@ -32,8 +32,10 @@ The novel takes place across the **2025–2026 academic year**.
 | Sep–Nov 2025 | Act I university settling-in / fall soccer progression | WORKING |
 | Thu Dec 4–Fri Dec 12 | Fall finals period | WORKING |
 | Fri Dec 12 | Fall term effectively ends | WORKING |
-| Sat Dec 13 | Taiga leaves for winter-break Camp Buddy visit; Leo travels home | WORKING |
-| Sat Dec 20 | Taiga's one-week Camp Buddy winter visit ends | WORKING |
+| Sat Dec 13 | Taiga leaves Olympus for his family home; Leo travels to Santo Domingo | WORKING |
+| Sat Dec 27 | Taiga goes to Camp Buddy for the winter reunion | WORKING |
+| Wed Dec 31 | New Year's Eve at Camp Buddy | WORKING |
+| Fri Jan 2–Sat Jan 3, 2026 | Camp Buddy winter reunion winds down; Taiga returns toward Olympus | WORKING |
 | Tue Jan 6, 2026 | Caleb's stated return date to Olympus | LOCKED |
 | Mon Jan 12 | Spring teaching term begins | WORKING |
 | Fri Feb 27–Sun Mar 1 | Pinetree exchange weekend | WORKING |
@@ -172,7 +174,7 @@ This distinction resolves apparent time drift in the current manuscript. Owen is
 - Exact friendly date remains flexible until Chapter 11's final calendar pass.
 
 ## Thu Dec 4 – Fri Dec 12
-### Final Chapter 12 — The Bubble Pops
+### Final Chapter 12 — The boy in the bubble
 
 - Finals consume the closing stretch of the fall term.
 - Football gets one final closure beat; Mercer expects Taiga to return ready to compete for minutes.
@@ -180,32 +182,36 @@ This distinction resolves apparent time drift in the current manuscript. Owen is
 - **Fri Dec 12** — Taiga's last final ends; campus empties for break.
 - Snow / remaining-on-campus logistics create the circumstance for Taiga and Leo to go to the Acropolis winter rink.
 - The rink is the Act I romantic-awareness turning point.
-- Taiga leaves the evening knowing that "friend" no longer fully explains how he reacts to Leo, without yet diagnosing a crush.
-- Taiga and Leo separate knowing they will not see each other for roughly three weeks.
+- Taiga leaves the evening with the rink's new uneasiness still unresolved, without diagnosing a crush.
+- The goodbye carries the shift behaviorally: Leo asks for Camp Buddy pictures, both hesitate around the separation, and Taiga watches him leave.
+- The chapter ends on Room 317 feeling more welcoming than when Taiga first arrived, closing the broader Section I belonging movement.
 
 ## Sat Dec 13
 
-- Taiga leaves for the one-week Camp Buddy winter visit.
+- Taiga leaves Olympus for his family home.
 - Leo travels home to Santo Domingo.
-- **Section II opens directly at Camp Buddy.**
+- Taiga spends Christmas at home before the Camp Buddy reunion.
+- **Section II may still open directly at Camp Buddy after this off-page interval.**
 
 ---
 
 # 4. Act II — Boundaries / Winter / Pinetree
 
 ## Winter-break opening
-### Sat Dec 13 – Sat Dec 20, 2025
+### Sat Dec 27, 2025 – Sat Jan 3, 2026
 
-**Section II begins directly at Camp Buddy.**
+**Section II can begin directly at Camp Buddy.**
 
-The old Draft chapter **Unscheduled** has been absorbed into Final Chapter 12. Its rink material no longer belongs to Section II.
+The old Draft chapter **Unscheduled** has been absorbed into Final Chapter 12. Its rink material no longer belongs to Section II. Taiga's family-home / Christmas interval between Olympus and Camp Buddy may remain off-page.
 
-- **Sat Dec 13** — Taiga leaves Olympus and arrives at Camp Buddy for the winter visit.
-- Leo travels home to Santo Domingo.
-- Taiga spends approximately one week at Camp Buddy.
-- **Sat Dec 20** — Taiga's Camp Buddy winter visit ends.
+- **Sat Dec 13** — Taiga leaves Olympus for his family home; Leo travels to Santo Domingo.
+- **Sat Dec 27** — Taiga goes to Camp Buddy for the winter reunion.
+- **Wed Dec 31** — New Year's Eve at Camp Buddy.
+- **Fri Jan 2–Sat Jan 3** — the reunion winds down.
+- Taiga expects to return to Olympus around **Jan 3–4**.
+- Leo expects to return around **Jan 3–6**, depending on flights.
 - Caleb's stated return date remains **January 6**.
-- Leo is away from Olympus for roughly three weeks.
+- Taiga and Leo are apart for roughly three weeks from the end of finals until their early-January return.
 
 > **Numbering note:** later Section II chapter numbers below remain development numbering until that section receives its Final structural rewrite. Preserve event order and dates; do not use the removed rink chapter to shift Final continuity backward.
 

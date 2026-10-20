@@ -146,7 +146,7 @@ Solve remaining old-Draft discrepancies forward during later rewrites rather tha
 - [x] Section I Chapter Map updated
 - [x] Apollo Team Bible updated
 - [x] Chapter 11 draft uses the revised structure
-- [ ] Chapter 12 Final rewrite checked
+- [x] Chapter 12 Final rewrite checked
 - [ ] Section II football schedule rewritten around spring conference play
 - [ ] Final manuscript consistency verified
 
@@ -187,7 +187,7 @@ Section I contains **12 chapters**.
 - keeps Leo's increased warmth reader-visible without making him Taiga's constant companion;
 - does **not** spend the romantic destabilization.
 
-**Final Chapter 12 — working title: The Bubble Pops**
+**Final Chapter 12 — The boy in the bubble**
 - closes finals / fall football efficiently;
 - gives Mercer the final football word of the semester without adding another milestone;
 - gives roughly **70–75%** of the chapter to the Taiga / Leo rink outing and its aftermath;
@@ -197,7 +197,8 @@ Section I contains **12 chapters**.
   2. Later, Leo stops to avoid another skater; Taiga cannot stop quickly enough and goes into Leo's arms. Leo catches him standing. Their faces remain centimeters apart, both flush, and Taiga notices unusually specific details of Leo's face before pulling away.
 - lets Taiga dismiss the embrace as "awkward" rather than immediately diagnosing a crush;
 - continues into hot drinks and increasingly personal conversation so the outing becomes emotionally intimate after the physical trigger;
-- ends with Taiga realizing he will not see Leo for roughly three weeks and finding that absence unexpectedly unpleasant.
+- lets the goodbye carry the romantic shift behaviorally rather than through an explicit longing thought: "worth it," returning rink uneasiness, the Camp Buddy photo request, mutual hesitation and Taiga watching Leo leave;
+- ends Section I on the Room 317 callback: the nearly empty room looks much as it did on arrival but now feels more welcoming.
 
 The Section I result is:
 
@@ -237,13 +238,22 @@ Act IV crystallizes an already-real relationship into actual boyfriend status. T
 - [x] Romance Progression Bible updated
 - [x] Master Calendar updated so Final Chapter 12 owns finals / rink and Section II opens at Camp Buddy
 - [x] Chapter 11 Final rewrite completed
-- [ ] Chapter 12 Final rewrite completed
+- [x] Chapter 12 Final rewrite completed
 - [ ] Section II Final rewrite checked against situational-nervousness / longing progression
 - [ ] Pinetree repair rewritten so Taiga ends Act II consciously wanting more
 - [ ] Chapter 22 rewritten so it does not rediscover attraction
 - [ ] Camp Buddy invitation preserved as a conscious romantic choice
 - [ ] Act IV definition beats checked so boyfriend status crystallizes rather than creates the relationship
 - [ ] Final manuscript consistency verified
+
+
+### Chapter 12 frozen continuity
+
+- Taiga leaves Olympus on **Sat Dec 13** for his family home, not directly for Camp Buddy.
+- Camp Buddy winter reunion begins around **Dec 27**, includes **New Year's Eve**, and winds down around **Jan 2–3**.
+- Section II may still open directly at Camp Buddy after the off-page Christmas-at-home interval.
+- Do not restore the discarded explicit thought that three weeks without Leo feels long; the frozen chapter leaves that pressure implicit.
+- Final title: **The boy in the bubble**.
 
 ### Notes
 

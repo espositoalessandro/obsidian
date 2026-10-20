@@ -166,7 +166,7 @@ By Chapter 12:
   2. Later, Leo stops to avoid another skater; Taiga cannot stop quickly enough and goes into Leo's arms. Leo catches him standing, their faces remain centimeters apart, both flush, and Taiga notices unusually specific details of Leo's face before pulling away.
 - Taiga files the second moment as awkward rather than diagnosing a crush.
 - The outing continues into hot drinks and increasingly personal conversation, including Leo's Spanish / family texture and Taiga's Camp Buddy gap-year history.
-- At separation, Taiga realizes they will not see each other for roughly three weeks and finds that absence unexpectedly unpleasant.
+- At separation, the new uneasiness remains active without becoming an explicit longing diagnosis: Leo calls the outing "worth it" and then gets awkward, asks for Camp Buddy pictures, hesitates before leaving, and Taiga watches him go. The roughly three-week separation exists as future pressure rather than a thought Taiga consciously labels here.
 - Taiga still does not conclude that he is in love, that Leo likes him or that they should date.
 
 Core result:
