@@ -288,14 +288,6 @@ Taiga's smile widened. The girl at his table whispered,
 
 "More or less."
 
-Leo heard.
-
-"I can hear you."
-
-Zoe said,
-
-"Great. Then hear this: new rule. No storytelling while operating fire."
-
 Seth clapped once.
 
 "Everybody who is not currently combusting, back to work."
@@ -439,7 +431,7 @@ Zoe immediately brightened.
 
 "I said look. Not resurrect whatever you murdered."
 
-"Library? Six?"
+"Library? After training?" Leo asked.
 
 "Fine."
 
@@ -486,9 +478,7 @@ Zoe took her laptop.
 
 "OH MY GOD. Taiga, you're an angel. You saved me."
 
-Leo then said,
-
-"You owe me dinner again."
+Leo then said, "You owe me dinner again."
 
 "No, you didn't do anything."
 
@@ -504,9 +494,7 @@ Taiga felt his ears heat up.
 
 "Leave me out of this."
 
-Leo chuckled.
-
-"Too late."
+Leo chuckled. "Too late."
 
 Zoe looked at her watch.
 
@@ -516,17 +504,15 @@ She quickly packed her laptop and rushed off.
 
 "See you tomorrow, Leo."
 
-Leo raised one hand. After a while he said to Taiga:
+Leo raised one hand. 
 
-"Thanks, by the way."
+"Thanks, by the way," he said after a while.
 
 "She's lucky the branch was still on the remote."
 
 "Yeah. So, you code?"
 
-Taiga shrugged.
-
-"A little."
+Taiga shrugged. "A little."
 
 "What kind?"
 
@@ -536,9 +522,7 @@ Taiga shrugged.
 
 "It didn't."
 
-Leo smiled.
-
-"Already picked a major?"
+Leo smiled. "Already picked a major?"
 
 Again. The freaking major.
 
@@ -556,9 +540,7 @@ Again. The freaking major.
 
 "That says more about you than me."
 
-Leo snorted.
-
-"Okay, fair."
+Leo snorted. "Okay, fair."
 
 Leo turned back to his laptop.
 Taiga looked at the time. He didn't actually have anywhere to be yet.
@@ -601,13 +583,9 @@ Taiga hated the question.
 
 "I wanted to ask about the response paper."
 
-Hall nodded.
+Hall nodded. "Okay, that's good. What specifically?"
 
-"Okay, that's good. What specifically?"
-
-Taiga hesitated.
-
-"The engagement score."
+He hesitated. "The engagement score."
 
 "Okay, then."
 
@@ -623,7 +601,7 @@ Hall smiled slightly.
 
 "Show me."
 
-Taiga found the paragraph. Read it. Pointed.
+Taiga found the paragraph and pointed.
 
 "This."
 
