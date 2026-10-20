@@ -566,7 +566,7 @@ A second passed.
 The call finally ended.
 He lowered the phone and sighed.
 
-"And that's my mum."
+"And that's my mom."
 
 "Still concerned for the flight?"
 
@@ -722,7 +722,7 @@ Leo nodded.
 
 "Right."
 
-They arrived outside the dorm.
+They reached the dorm lobby. It was completely empty.
 
 "Thanks for coming, by the way," Leo said. "I had fun today."
 
