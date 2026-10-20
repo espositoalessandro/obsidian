@@ -349,7 +349,7 @@ The main auditorium was probably hosting the whole campus. Taiga chose a seat ne
 
 The student council president took over. Taiga looked at him. He had to be around Taiga's age. Full suit, perfect posture, talking like a freaking CEO.
 
-"Good morning. I'm Avan Geiserford, president of the Student Council. I extend the university president's welcome, along with my own. The council's job is to ensure that students are always met with Olympus's highest standards in activities, sports, and academics. We expect you to be..."
+"Good afternoon. I'm Avan Geiserford, president of the Student Council. I extend the university president's welcome, along with my own. The council's job is to ensure that students are always met with Olympus's highest standards in activities, sports, and academics. We expect you to be..."
 
 Taiga stopped listening. He opened the orientation app instead.
 Tomorrow: academic advising.
