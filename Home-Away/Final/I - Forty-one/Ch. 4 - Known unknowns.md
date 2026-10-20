@@ -8,7 +8,7 @@ There were two students who always sat beneath the same oak tree between ten and
 Olympus had stopped being populated exclusively by strangers.
 Not that Taiga cared about them, but they were now categorized.
 The people he actually talked to had ended up in their own buckets too. Teammates. Roommate. Classmates.
-They had started to make more sense individually, too:
+They also had started to make more sense individually:
 Scott saved most of his daily word allowance for the goal.
 Enzo was pure chaos.
 Evan always had some unsolicited advice for any kind of situation.
@@ -321,7 +321,7 @@ All three turned. He pointed.
 
 "We rinsed it with distilled water after the first trial and didn't dry it before the second. That dilutes the sample."
 
-The other guy dropped his forehead on the table, the girl buried her face in her hands.
+The other guy dropped his forehead on the table while the girl buried her face in her hands.
 Taiga looked at the cylinder. He exhaled and said,
 
 "Okay, again."
@@ -337,7 +337,7 @@ Taiga frowned.
 "Because explaining why data are bad is part of the experiment."
 
 By the time lab ended, Taiga's gloves smelled faintly of ethanol, he had marks on his face from his goggles and their shared report already had four different note styles in the margins.
-He expected worse.
+He'd expected worse.
 
 Then the girl created a group chat:
 
@@ -375,7 +375,7 @@ Taiga looked at him.
 
 "What did you tell her?"
 
-"Uhh-"
+"Uhh..."
 
 "He said you were going to be a problem."
 
@@ -482,7 +482,7 @@ He restored the branch.
 
 "Check it."
 
-Zoe took her laptop. Taiga couldn't bring himself to look at her code.
+Zoe took her laptop.
 
 "OH MY GOD. Taiga, you're an angel. You saved me."
 
@@ -500,7 +500,7 @@ Leo then said,
 
 "I'd rather buy Taiga dinner."
 
-Taiga felt heat on his ear.
+Taiga felt his ears heat up.
 
 "Leave me out of this."
 
