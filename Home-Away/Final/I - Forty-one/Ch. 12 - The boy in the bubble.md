@@ -44,7 +44,7 @@ With Political Institutions over, Nora had already finished all her exams. She h
 
 "When are you going home?" Taiga asked.
 
-"My mum's gonna pick me up in a couple of hours. You?"
+"My mom's gonna pick me up in a couple of hours. You?"
 
 "My train's Saturday morning."
 
@@ -680,7 +680,8 @@ He then noticed that Leo was looking at him, smiling.
 
 Leo laughed. Then the conversation moved somewhere else.
 
-He talked about how loud his house was, because apparently multiple houses were merged together in a single building. Then he complained about his sister always embarrassing him in front of people. Taiga told him about some activities they did during the summer term, how Hiro once almost set himself on fire while cooking for Keitaro.
+He talked about how loud his house was, because apparently multiple parts of his family lived in separate houses around the same property. Then he complained about his sister always embarrassing him in front of people. 
+Taiga told him about some activities they did during the summer term, how Hiro once almost set himself on fire while cooking for Keitaro.
 
 Leo had snorted at that. "That feels familiar."
 
@@ -690,7 +691,7 @@ The conversation wandered for a while.
 
 At some point Taiga checked his phone: it was after eight.
 
-"Fuck."
+"Damn."
 
 Leo looked down at his own screen.
 
