@@ -278,7 +278,7 @@ Normality resumed.
 
 ***
 
-After less than one day, everyone was already back to their usual habits.
+Within a day, everyone was already back to their usual habits.
 
 Hiro took over one section of the kitchen and then insisted he had not taken over anything. Aiden encouraged him until Yoshinori walked in, looked at the number of containers on the counter and asked whether they were expecting a second camp to arrive for dinner.
 
@@ -462,7 +462,7 @@ Taiga stopped. One foot simply failed to take the next step.
 Two boards near the end were newer than the rest. The posts had been resealed, and somebody had replaced one warped edge with fresh timber that still looked too clean.
 For one ugly second, Taiga felt his stomach clench.
 
- The others spread along the dock: Hiro immediately complained that the wind was worse over the water, Hunter crouched near one railing to look at the reflection between the boards, Natsumi asked Yoichi which sections had been replaced, and Keitaro walked all the way to the end. Taiga stayed halfway down.
+The others spread along the dock: Hiro immediately complained that the wind was worse over the water, Hunter crouched near one railing to look at the reflection between the boards, Natsumi asked Yoichi which sections had been replaced, and Keitaro walked all the way to the end. Taiga stayed halfway down.
 
 His phone buzzed in his pocket.
 
@@ -492,7 +492,7 @@ Taiga blinked.
 
 **Taiga:** i didn't
 
-Then he opened the camera and snapped a picture of the lake, with all the guys seen from behind as they watched the sunset.
+Then he opened the camera and snapped a picture of the lake, with all the guys standing with their backs to him as they watched the sunset.
 
 **Leo:** wow
 **Leo:** okay
@@ -566,9 +566,9 @@ Keitaro turned. "Really?"
 
 Taiga exhaled and looked at the pier. "...Yeah, sometimes."
 
-Keitaro's expression saddened. "Taiga..."
+Keitaro's expression fell. "Taiga..."
 
-"Your face, when I burned your journal. There are times when it just comes up in my mind and won't go away."
+"Your face, when I burned your journal. There are times when it just comes back to me and won't go away."
 
 "...Sometimes I think about it too."
 
@@ -636,7 +636,7 @@ She smiled at him.
 
 They spent the rest of the evening playing picture charades, while waiting for midnight.
 
-Taiga had to draw a camera, which made him panic a second before realizing it was actually just a rectangle with a circle in it.
+Taiga had to draw a camera, which made him panic for a second before realizing it was actually just a rectangle with a circle in it.
 Hunter looked at his prompt and perfectly sketched a cat in about three seconds. Everyone shouted at once.
 
 "Okay, I'll definitely have to be less obvious for the next one."
@@ -677,7 +677,7 @@ By ten-thirty, the game had mostly dissolved into conversation.
 
 A little after eleven, Lloyd and Darius went outside to start the fire at the campfire circle. Yoshinori gathered blankets while Aiden and Hiro filled two insulated dispensers with hot chocolate.
 
-People took places around the fire. Yoshinori passed out blankets while Hiro poured hot chocolate for everyone. Yoichi sniffed his cup suspiciously.
+People found places around the fire. Yoshinori passed out blankets while Hiro poured hot chocolate for everyone. Yoichi sniffed his cup suspiciously.
 
 "What's in this?"
 
@@ -733,7 +733,7 @@ Hiro and Keitaro left the following day, and without them the camp became quiet 
 
 Taiga stayed a couple more days, helping around the camp, following Mercer's training schedule and arguing with Yoichi about it.
 
-Most of his friends had already returned to Olympus. Caleb said he was already re-calibrating the fridge and Nora complained about her new class schedule before courses had even started.
+Most of his friends had already returned to Olympus. Caleb said he was already recalibrating the fridge and Nora complained about her new class schedule before courses had even started.
 As team members began returning, the group chat got quieter. Relatively speaking, of course.
 Enzo and Leo ended up returning on the 4th, and Enzo immediately panicked because apparently a janitor had moved Roberto somewhere he couldn't find. Ten minutes later, he found it in the kitchen.
 
@@ -748,7 +748,7 @@ Immediately after, Leo sent Taiga a private message:
 
 **Leo:** yay
 
-The following morning, Taiga was standing beside the bus stop with his duffel over his shoulder.
+The following morning, Taiga was standing at the bus stop with his duffel over his shoulder.
 Yoichi had accompanied him, claiming Yuki needed a walk.
 
 "Absolutely not."
