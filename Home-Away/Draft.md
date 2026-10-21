@@ -282,9 +282,11 @@ He should probably care.
 
 He didn't particularly.
 
-Leo had engineered the dinner less than an hour after Taiga got back, though Taiga had no reason to think of it that way.
+Taiga had answered the chat less than an hour after getting back. Leo had immediately decided they were eating together.
 
-As far as he was concerned, everyone was back.
+Taiga hadn't thought much of it.
+
+Everyone was back.
 
 So they had eaten together.
 
