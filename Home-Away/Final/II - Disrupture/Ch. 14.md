@@ -86,5 +86,42 @@ Normal life resumed, and Taiga unpacked.
 
 Taiga groaned. He cursed himself for having picked up the phone. Peace was never meant to last apparently.
 
-He was still halfway unpacking his stuff.
+At seven, Taiga left his room with most of his clothes still folded on top of the bed.
+The cafeteria in the University Center was louder than it had been before break.
 
+Not packed, exactly. A lot of people still weren't back. But enough tables were occupied that the room had started sounding like itself again, chairs scraping against the floor and trays knocking against counters.
+
+Taiga heard Enzo before he found them.
+
+“I'm saying there is no reason to put raisins in anything.”
+
+“That is not what you were saying,” Gav replied.
+
+“It was the central argument.”
+
+“No. Your central argument was that raisins are an insult to grapes.”
+
+“Which they are.”
+
+Two tables had been pushed together near the windows. Almost everyone was already there.
+His eyes immediately spotted the only blond head of the group. Leo caught him as well and his face broke into a beam.
+
+“There he is!”
+
+For some stupid reason, his stomach decided to give a quick turn.
+He brushed it off by briefly shaking his head. 
+Whatever.
+
+"Hey."
+
+Enzo pointed a fry at Taiga. “Akatora, settle something. Raisins.”
+
+“No.”
+
+He slapped the table once. “Thank you.”
+
+“You didn't even ask the question yet,” Gav objected.
+
+"That's still an answer."
+
+Taiga hooked his jacket over the empty chair beside Gav.
