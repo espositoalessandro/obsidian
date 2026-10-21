@@ -448,6 +448,148 @@ Hiro immediately forgot to be offended by Yoshinori. “I can make them better n
 Yeah, that was probably true.
 Hunter could probably redraw the campfire circle without erasing every second line. Hiro could make fundraiser cookies that belonged in an actual bakery. Natsumi could teach someone to swim instead of simply being the best person in the water. Keitaro could take a photograph and know why it worked.
 
-Even Yoichi had learned how to replace rotten planks on the docks.
+Even Yoichi had learned how to replace rotten planks.
+
+***
+
+Before the sun fully set, Keitaro wanted photographs of the lake. Obviously.
+
+The winter sun had dropped low enough to turn everything pale gold, and without summer leaves the water was visible between the trees from halfway across camp. Hunter was excited as well because the light was "actually kind of ridiculous". The others followed automatically.
+
+They reached the pier.
+Taiga stopped. One foot simply failed to take the next step.
+
+Two boards near the end were newer than the rest. The posts had been resealed, and somebody had replaced one warped edge with fresh timber that still looked too clean.
+For one ugly second Taiga felt his stomach clenching.
+
+ The others spread along the dock: Hiro immediately complained that the wind was worse over the water, Hunter crouched near one railing to look at the reflection between the boards, Natsumi asked Yoichi which sections had been replaced, and Keitaro walked all the way to the end. Taiga stayed halfway down.
+
+His phone buzzed in his pocket.
+
+**Leo:** hey camp boy
+**Leo:** you survived the wilderness?
+
+Ah, right. He had asked. 
+
+**Taiga:** pretty much
+**Taiga:** you survived enzo?
+
+**Leo:** ugh barely
+**Leo:** now i'm trying to survive family
+
+He sent a photo of a huge patio taken from somewhere higher. At least ten people were there, setting up a big table in the center.
+
+**Taiga:** that's all family?
+
+**Leo:** ...part of it 💀
+
+Taiga blinked.
+
+**Taiga:** insane
+
+**Leo:** can't argue
+**Leo:** btw you promised me pics :3
+
+**Taiga:** i didn't
+
+Then he opened the camera and snapped a picture of the lake with all the guys from behind, looking at the sun setting.
+
+**Leo:** wow
+**Leo:** okay
+**Leo:** now you're showing off
+
+**Taiga:** you asked
+
+**Leo:** i didn't expect THAT 😭😭😭
+
+"Who are you smiling to?" Hiro said, turning back to him.
+
+"I'm not smiling."
+
+He pointed at Taiga's face. "What do you call that?"
+
+"Exasperated look."
+
+Hiro didn't look convinced.
+
+"It's just Leo bothering me. Happy now?"
+
+His face brightened up. "OH! The mummy guy?"
+
+"Yeah."
+
+"Come on, let's send him a selfie together!
+
+"Absolutely not."
+
+Hiro came beside him anyways. Taiga rolled his eyes.
+He made the most bothered face he was able to, while Hiro grinned with his index and middle finger shaped as a V.
+
+**Leo:** hey hiro!
+**Leo:** omg you forced taiga into a selfie
+**Leo:** put that in your cv
+
+Hiro laughed hard. "Oh, he knows you pretty well."
+
+**Taiga:** fuck you
+
+Then to Hiro: "Fuck you."
+
+He shoved the phone in his pocket and reached the others on the pier.
+
+Eventually Hiro decided his ears were freezing off and announced that he was going back before he became “the first culinary student to lose both ears to nostalgia.”
+
+"That's not exactly how frostbites work, Hiro," Natsumi pointed out.
+
+"The distinction will be extremely comforting when my ears fall into the soup."
+
+Hunter laughed and followed because he was getting cold as well. Natsumi and Yoichi went as well.
+
+Keitaro remained at the end of the dock with his camera hanging against his chest. Taiga remained too.
+For nearly a minute neither of them spoke.
+
+"We didn't came here much this summer," Keitaro said.
+
+Of course not.
+
+"I still fucking hate this place."
+
+Keitaro turned. "Really?"
+
+"Why wouldn't I?"
+
+"Well... it's been a while. Time has passed, hasn't it?"
+
+"Yeah."
+
+"Do you... still think about that day?"
+
+Taiga exhaled and looked at the pier. "...Yeah, sometimes."
+
+Keitaro's expression saddened. "Taiga..."
+
+"Your face, when I burned your journal. There are times when it just comes up in my mind and won't go away."
+
+"...Sometimes I think about it too."
+
+Of course he did. He was the one who got hurt by it, idiot.
+
+"And that makes me see how you've come such a long way since then, Taiga."
+
+"Your journal is still sitting half burned somewhere."
+
+"Yes, but I also have yours. And it's somewhat better, because that journal represents the lengths you guys would go to make me feel better."
+
+"Besides," he continued, "After everything you told me this summer about Kieran, I can see where that came from. But that's behind us, right?"
+
+"Yeah... I hope so."
+
+Keitaro smiled. "Come, let's go back. I'm starving."
+
+"Right."
+
+Keitaro lifted the camera. The shutter clicked, then he turned and they went back together.
+
+Taiga still hated that pier.
 
 ***
