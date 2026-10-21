@@ -704,17 +704,24 @@ His phone start vibrating shortly after in his pocket: all his group chats were 
 He was about to put it in his pocket when the screen lit up again.
 
 **Leo:** HAPPY NEW YEAR AG 
+
+A photo followed: a very blurred selfie of Leo smiling from a ridiculous low angle that made his face look triangular. Behind him, pure chaos was happening.
+
 **Leo:** resolution idea: you stop telling me to die
 
 **Taiga:** die
 
 **Leo:** fine, i respect the determination
 
-Taiga smiled
+Taiga smiled and sent him the photo he had taken at the bonfire a couple of minutes before.
 
 **Taiga:** happy new year dork
 
 Leo reacted immediately with a heart.
-He put the phone away and went back to the fire.
+
+**Leo:** there's so much camp energy 😭
+**Leo:** tell hiro i expect hot chocolate next time
+
+Taiga shook his head, still smiling, and put the phone away before going back to the fire.
 
 ***
