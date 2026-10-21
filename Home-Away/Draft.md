@@ -82,24 +82,6 @@ Evan leaned back. “How was the camp?”
 
 “Mostly.”
 
-Leo smiled. “He already used that one.”
-
-Taiga looked at him. “What?”
-
-“When I asked.”
-
-For half a second Taiga had no idea what he meant.
-
-Then he remembered the messages from the week before. The photo of the mess hall. The campfire. Leo asking whether Camp Buddy had survived another year.
-
-“Oh.”
-
-Enzo narrowed his eyes between them. “Private communications.”
-
-“People have phones,” Taiga said.
-
-“Disturbing development.”
-
 Leo reached across the table and stole one of Enzo's fries.
 
 “Hey.”
@@ -166,20 +148,6 @@ Enzo looked at where it landed. “First touch needs work.”
 
 “Fuck you.”
 
-There it was.
-
-Taiga had missed this.
-
-The thought came easily enough that he almost didn't notice it.
-
-Not Olympus. Not training. Not even the mess hall.
-
-This.
-
-Enzo being unbearable. Aaron taking the bait. Gav answering questions nobody had asked. Scott saying three words and somehow ending an argument.
-
-Leo across the table, listening to three conversations at once.
-
 Taiga ate.
 
 Evan had spent most of the break with family. Gav had apparently received a new chess set from his uncle and then complained that the pieces were weighted badly. Aaron had trained twice with somebody from his old club because, according to him, sitting still for three weeks would have killed him.
@@ -234,34 +202,6 @@ Leo caught it.
 
 “You knew that already.”
 
-“Different when you say it after abandoning us for the woods.”
-
-“I sent proof of life.”
-
-“To Mendez, apparently,” Enzo said.
-
-Taiga looked at him.
-
-Enzo had already turned back to his food.
-
-Leo kicked his chair leg.
-
-“Why are you obsessed with my messages?”
-
-“Because my own life is complete.”
-
-“No one believes that.”
-
-“That's hurtful.”
-
-The conversation moved on before Taiga had to say anything.
-
-Good.
-
-He wasn't sure why he would have had to say anything in the first place.
-
-Leo had asked for pictures. Taiga had sent pictures. That was the entire event.
-
 Across the table, Leo was telling Evan something about a delayed connection on the way back. He moved his hands when he talked, nearly hit his cup, caught it without looking and kept going.
 
 Same Leo.
@@ -281,13 +221,5 @@ His suitcase was still open on the floor upstairs.
 He should probably care.
 
 He didn't particularly.
-
-Taiga had answered the chat less than an hour after getting back. Leo had immediately decided they were eating together.
-
-Taiga hadn't thought much of it.
-
-Everyone was back.
-
-So they had eaten together.
 
 Normal life had resumed.
