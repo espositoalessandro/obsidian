@@ -278,7 +278,7 @@ Normality resumed.
 
 ***
 
-After less than one day, everyone was already back on their usual habits.
+After less than one day, everyone was already back to their usual habits.
 
 Hiro took over one section of the kitchen and then insisted he had not taken over anything. Aiden encouraged him until Yoshinori walked in, looked at the number of containers on the counter and asked whether they were expecting a second camp to arrive for dinner.
 
@@ -320,11 +320,11 @@ Taiga, passing the doorway, stopped. “You brought receipts to Camp Buddy?”
 
 “I am a culinary student now. Ingredient accountability matters.”
 
-Then Yoshinori asked the rest of them to have a look at the storage room, because it had been neglected for a while, even during renovations. 
+Then Yoshinori asked the rest of them to take a look at the storage room, because it had been neglected for a while, even during the renovations. 
 
-They went through a big pile of boxes that had accumulated when every cabin had been emptied out for restructuring. Most of them were full of actual trash, stuff campers left behind, activities props. One of the containers looked like it had been opened recently. It didn't have the same amount of dust as the others.
+They went through a big pile of boxes that had accumulated when every cabin had been emptied out for restructuring. Most of them were full of actual trash, stuff campers had left behind, activity props. One of the containers looked like it had been opened recently. It didn't have the same amount of dust as the others.
 
-"No way," said Hunter, holding a pair bunny ears.
+"No way," Hunter said, holding a pair of bunny ears.
 
 Keitaro smiled and pulled out a white football uniform. Natsumi was looking at a blue officer hat.
 
@@ -340,11 +340,11 @@ The first thing he saw was a folded green cardboard sign.
 
 For half a second nobody reacted. Keitaro took it and smiled widely.
 
-"No way, they kept these. things."
+"No way, they kept these things."
 
 "Why would they keep this?" Taiga asked.
 
-"Tch. Evidence of child labour." Yoichi said.
+"Tch. Evidence of child labor," Yoichi said.
 
 “We were eighteen.”
 
@@ -354,7 +354,7 @@ Natsumi brushed dust from one corner. “The fundraiser did work.”
 
 "Wait until Hiro sees this," Hunter said.
 
-"Torch-Head's gonna probably burst into tears."
+"Torch-Head's probably gonna burst into tears."
 
 "Oh, look!"
 
@@ -376,13 +376,13 @@ Hunter frowned at him. “Why do I ever show you anything?”
 
 “That is not—” Hunter stopped and considered. “Okay, maybe a little.”
 
-Things kept raising one memory after another. Natsumi found the camera they used for filming, while tucked in a corner of the stall, was the small cart Yoichi had used to carry the cookies around.
+One thing kept bringing back another memory. Natsumi found the camera they'd used for filming, while the small cart Yoichi had used to carry the cookies around was tucked into a corner of the storage room.
 
-Eventually, an activity that should have lasted a couple of hours, took all the afternoon. At some point, Hiro barged in.
+Eventually, an activity that should have lasted a couple of hours took up the whole afternoon. At some point, Hiro barged in.
 
 "What the hell is taking you so long?"
 
-Then he saw the fundraising box still opened and put aside, with the sign peeking out.
+Then he saw the fundraising box still open and set aside, with the sign peeking out.
 
 "No fucking way. They still have it?"
 
@@ -392,7 +392,7 @@ He picked it out and stared at it for a while.
 
 "Fuck you. These cookies saved the camp."
 
-"Yeah," Keitaro added. "With Aiden flirting people into buying six boxes at a time."
+"Yeah," Keitaro added. "With Aiden flirting with people until they bought six boxes at a time."
 
 “He called it aggressive hospitality.”
 
@@ -417,7 +417,7 @@ Taiga stared at him. “You're taking that?”
 
 “Because apparently nobody here understands archival preservation.”
 
- Yoshinori looked at the clock when they returned, then at the six of them.
+Yoshinori looked at the clock when they returned, then at the six of them.
 
 “Was there a structural problem with the shed?”
 
@@ -443,7 +443,7 @@ Aiden did not even turn around. “Saved our *finances*, President Goro.”
 
 Yuri leaned around her father's shoulder. “Oh! The little cookie sign! I remember that! Hiro, sweetheart, you should make those little animal ones again sometime. The frog was adorable.”
 
-Hiro immediately forgot to be offended by Yoshinori. “I can do them better now.”
+Hiro immediately forgot to be offended by Yoshinori. “I can make them better now.”
 
 Yeah, that was probably true.
 Hunter could probably redraw the campfire circle without erasing every second line. Hiro could make fundraiser cookies that belonged in an actual bakery. Natsumi could teach someone to swim instead of simply being the best person in the water. Keitaro could take a photograph and know why it worked.
