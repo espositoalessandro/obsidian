@@ -218,7 +218,7 @@ Yoichi looked at Keitaro. "He's still broken."
 
 Keitaro smiled. “Pretty much.”
 
-Hunter arrived two hours later, stepping through the mess hall door with one duffel bag, a sketchbook tube and enough layers to suggest he had expected the forest to be actively hostile.
+Hunter arrived two hours later, stepping through the mess hall door with one duffel bag and enough layers to survive an arctic expedition.
 
 Yuki hit him at speed.
 
