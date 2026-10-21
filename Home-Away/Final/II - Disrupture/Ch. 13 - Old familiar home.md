@@ -617,7 +617,7 @@ Aiden looked down. “Yep?”
 Goro's stare sharpened. “And the ladder is designed for climbing.”
 
 Taiga carried another box past them. He had somehow become responsible for extension cables.
-By seven, empty surfaces had basically disappeared and the mess hall definite looked "less depressing".
+By seven, empty surfaces had basically disappeared and the mess hall definitely looked "less depressing".
 
 Hiro and Aiden had covered most of one table with food. Lloyd and Darius came in last from checking the heating in one of the cabins, both still carrying gloves and looking considerably less festive than the room around them.
 
@@ -637,7 +637,7 @@ She smiled at him.
 They spent the rest of the evening playing picture charades, while waiting for midnight.
 
 Taiga had to draw a camera, which made him panic a second before realizing it was actually just a rectangle with a circle in it. 
-Hunter had looked at his prompt and perfectly sketched a cat in around 3 seconds. Everyone shouted at once.
+Hunter had looked at his prompt and perfectly sketched a cat in about three seconds. Everyone shouted at once.
 
 "Okay, I'll definitely have to be less obvious for the next one."
 
@@ -670,14 +670,14 @@ Lloyd answered almost immediately. “Chair!”
 
 Darius nodded. It didn't look like a chair at all.
 
-Aiden looked between them. “Okay. You two can't guess each other's anymore.”
+Aiden looked between them. “Okay. You two can't guess each other's drawings anymore.”
 
 They kept playing for a while after that. The scores stopped mattering. Hunter started drawing in the margins between turns. Hiro brought the leftovers back out. Yoichi argued with Yuri over two points and then kept his own count on a napkin. 
 By ten-thirty, the game had mostly dissolved into conversation.
 
 A little after eleven, Lloyd and Darius went outside to start the fire at the campfire circle. Yoshinori gathered blankets while Aiden and Hiro filled two insulated dispensers with hot chocolate.
 
-People took places around the fire. Yoshinori passed out blankets while Hiro poured hot chocolate to everyone. Yoichi sniffed his cup suspiciously.
+People took places around the fire. Yoshinori passed out blankets while Hiro poured hot chocolate for everyone. Yoichi sniffed his cup suspiciously.
 
 “What's in this?”
 
@@ -685,21 +685,21 @@ People took places around the fire. Yoshinori passed out blankets while Hiro pou
 
 “Why cinnamon?”
 
-Hiro looked personally insulted. “Ever heard about the word *flavors*?”
+Hiro looked personally insulted. “Ever heard of *flavor*?”
 
 “You ruined it.”
 
 “Then don't drink it.”
 
-Yoichi drank it anyways.
+Yoichi drank it anyway.
 
-Keitaro set up the camera on a tripod and managed to convince everyone to a group photo. Which took approximately four takes, because people kept closing their eyes.
+Keitaro set up the camera on a tripod and managed to convince everyone to take a group photo. Which took approximately four takes, because people kept closing their eyes.
 
-Taiga then pulled out his phone and took a photo of the bonfire, with everybody sit around it.
+Taiga then pulled out his phone and took a photo of the bonfire, with everybody sitting around it.
 
-Finally, the countdown began. At zero, everyone shouted at once. Hugs spread everywhere along with "happy New Year!". Someone in the towns nearby began shooting fireworks in the sky.
+Finally, the countdown began. When they reached zero, everyone shouted at once. People hugged whoever was closest, yelling "Happy New Year!" over one another. Fireworks started going off somewhere in the nearby town.
 Taiga smiled at the scene.
-His phone start vibrating shortly after in his pocket: all his group chats were going off at the same time, with everybody wishing happy new year. Taiga locked it, he'll deal with them later.
+His phone started vibrating shortly after in his pocket. All his group chats were going off at once, with everyone wishing each other a happy new year. Taiga locked it. He'd deal with them later.
 
 He was about to put it in his pocket when the screen lit up again.
 
