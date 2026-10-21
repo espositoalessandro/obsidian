@@ -22,389 +22,238 @@ Goro's stare sharpened. “And the ladder is designed for climbing.”
 
 Taiga carried another box past them. He had somehow become responsible for extension cables; nobody remembered deciding this.
 
-By seven, the mess hall looked less depressing and more like Yuri had declared war on empty surfaces.
+By seven, the mess hall was covered in lights and paper decorations.
 
-Hiro and Aiden had covered most of one table with food. Yoshinori had eventually stopped asking whether all of it was necessary after Hiro answered yes for the fourth time. Lloyd and Darius came in last from checking the heating in one of the cabins, both still carrying gloves and looking considerably less festive than the room around them.
+Hiro and Aiden had filled most of one table with food. Lloyd and Darius came in from checking the heating in one of the cabins, both still wearing their work gloves.
 
-Lloyd stopped in the doorway.
+Lloyd stopped in the doorway and looked around.
 
-“Whoa.”
+“Wow. Yuri, you really went all out.”
 
-Yuri beamed. “Isn't it cute?”
+“Of course! It's New Year's Eve.”
 
-“I was going to say aggressive.”
+Darius glanced at the paper stars taped across one of the windows. “Looks nice.”
 
-Darius looked around. “It's both.”
+Yuri smiled. “Thank you, Darius.”
 
-“See? He gets it.”
+Lloyd looked at him. “That's all you have to say?”
 
-Dinner lasted long enough for Hiro to insist twice that everyone try the bread while it was still warm, for Aiden to steal food off Yoshinori's plate and deny it while chewing, and for Goro to discover that somebody had tied a gold ribbon around the back of his chair.
-
-Yuri denied responsibility much too quickly.
-
-Afterward, people started standing up.
-
-Yuri clapped her hands.
-
-“No, no, no! Nobody's disappearing yet!”
-
-Yoichi froze halfway out of his chair. “Why.”
-
-“Because it's New Year's Eve!”
-
-“That's not an answer.”
-
-“It absolutely is.”
-
-Hunter glanced at the leftover paper and paint still sitting near the windows. That was his mistake.
-
-“We could draw something, I guess.”
-
-Yuri gasped.
-
-Hunter's face fell immediately. “I shouldn't have said that.”
-
-Five minutes later, Yoshinori was cutting scrap paper into squares while Yuri wrote prompts on them and dropped them into an empty bowl.
-
-Natsumi watched closely. “What are the rules?”
-
-“Easy! You pick one and draw it. Everyone else guesses.”
-
-“How much time do we have?”
-
-“Thirty seconds.”
-
-Hunter looked at her. “Thirty?”
-
-“Forty-five!”
-
-“That wasn't my objection.”
-
-“No words, no letters, no numbers,” Natsumi continued.
-
-Yuri paused. “Right. Those too.”
-
-“So those are the rules?”
-
-“Unless we need more.”
-
-Natsumi nodded slowly. “Understood.”
-
-Taiga didn't think he did.
-
-Hunter went first because Yuri claimed this had all been his idea.
-
-He unfolded the paper.
-
-“Oh, come on.”
-
-“What?” Keitaro asked.
-
-Hunter turned the slip around so nobody could see it. “Nothing.”
-
-Yoshinori started the timer.
-
-Hunter drew three lines, a curve and something that looked annoyingly intentional.
-
-“Canoe,” Natsumi said.
-
-Hunter put the brush down.
-
-Yuri stared at him. “That was seven seconds.”
-
-“Was it?”
-
-“That is completely unfair.”
-
-“You told me to draw.”
-
-“With your other hand from now on.”
-
-Hunter looked offended. “That's discrimination.”
-
-“Against art students, yes.”
-
-Yoichi snorted.
-
-His own turn went worse.
-
-He stared at the paper, then attacked the sheet with the marker.
-
-A triangle appeared. Then another line. Then several violent scratches underneath it.
-
-“Mountain,” Keitaro guessed.
+“Do you want me to review it?”
 
 “No.”
 
-“Campfire?” Hiro said.
+They ate together. Hiro kept asking people to try things while they were still warm. Aiden stole from Yoshinori's plate at least twice. At some point Goro found a gold ribbon tied around the back of his chair and looked directly at Yuri.
 
-“No!”
+She smiled at him.
 
-“Pizza?” Aiden offered.
+After dinner, people began clearing the tables and moving around the room. Yuri stopped them before anyone could disappear.
 
-Yoichi turned around. “HOW DOES THAT LOOK LIKE PIZZA?”
+“Wait! We should do something.”
 
-Yoshinori pointed at the timer. “No talking to the audience.”
+Yoichi leaned back in his chair. “We're already doing something. We're sitting.”
 
-“I'm not talking to the audience, I'm correcting stupidity.”
+Hunter was gathering the leftover paper near the windows. “We could draw, I guess.”
 
-“Ten seconds.”
+Yuri turned toward him immediately.
 
-Yoichi added two more lines.
+Hunter paused. “I meant casually.”
 
-“...Tent?” Hunter tried.
+A few minutes later, Yoshinori was cutting the paper into squares while Yuri wrote prompts and folded them into a bowl.
 
-“FINALLY.”
+Natsumi watched her. “So we pick one and draw it?”
 
-Hunter blinked. “Why is it on fire?”
+“Exactly.”
 
-“Those are stakes, Twinkerbell.”
-
-“They're above the tent.”
-
-“Perspective.”
-
-Taiga laughed before he could stop himself.
-
-Yoichi pointed the marker at him. “You draw next, Dynamite.”
-
-“Why?”
-
-“Because you laughed.”
-
-Apparently that was a rule too.
-
-Taiga pulled a slip.
-
-**Camera.**
-
-He drew a rectangle and a circle.
-
-“Camera!” Keitaro shouted immediately.
-
-Taiga dropped the marker. “This game sucks.”
-
-Keitaro looked pleased with himself anyway.
-
-Natsumi's turn lasted longer because he spent the first five seconds apparently planning.
-
-Then he drew a long horizontal line, a smaller rectangle under it and four circles.
-
-“Bus,” Taiga said.
-
-Natsumi smiled. “Correct!”
-
-Yuri frowned. “That was suspiciously normal.”
-
-“I followed the rules.”
-
-“Exactly. Suspicious.”
-
-Hiro got **birthday cake** and spent so much time adding layers that the timer ran out before he drew candles.
-
-“That could've been anything!” Yoichi said.
-
-“It had structure!”
-
-“It was a rectangle.”
-
-“It was a *layered* rectangle.”
-
-“Still a rectangle.”
-
-Hiro looked genuinely offended. “You have no respect for pastry.”
-
-Aiden leaned over the paper. “I would've eaten it.”
-
-“Thank you, bro.”
-
-Goro lasted through all of this with the expression of someone supervising an activity rather than participating in it.
-
-Then Yuri held the bowl out to him.
-
-“No.”
-
-“Dad.”
-
-“No.”
-
-“Dad.”
-
-Goro looked at Yoshinori, apparently expecting institutional support.
-
-Yoshinori smiled. “It might be fun.”
-
-Betrayal registered.
-
-Goro took a slip.
-
-His prompt was **Yuki**.
-
-What appeared on the paper had four legs, one extremely long body and a head shaped like a shovel.
-
-Silence.
-
-Yuki, lying beside the table, lifted her head.
-
-Aiden squinted. “Crocodile?”
-
-Goro's jaw tightened.
-
-“Table?” Hiro tried.
-
-“It has legs,” Goro said.
-
-“So does a table,” Darius pointed out.
-
-Lloyd covered his mouth.
-
-Goro added two triangular ears.
-
-Keitaro's eyes widened. “Yuki?”
+“And everyone else guesses?”
 
 “Yes.”
 
-Everyone looked at Yuki.
+“How much time?”
 
-Then at the drawing.
+Yuri thought about it. “Forty-five seconds.”
 
-Yuri was the first to break.
+“No words or letters?”
 
-“Oh my God, Dad.”
+“No words or letters.”
 
-“It is recognizable.”
+Natsumi nodded. “Okay.”
 
-Yuki got up and walked away.
+Hunter went first. His prompt was a canoe.
 
-Aiden folded over the table laughing.
+He drew for a few seconds.
 
-Goro put the marker down with considerable dignity. “The dog is not a cooperative model.”
+“Canoe,” Natsumi said.
 
-“Sure, Gramps.”
+Yuri looked at the timer. “That was fast.”
 
-“Aiden.”
+Hunter shrugged. “It was a canoe.”
 
-When Lloyd's turn came, he picked his prompt, stared at it for half a second and immediately leaned over the paper with the concentration of someone beginning paid work.
+“Next time, use your other hand.”
 
-Thirty seconds later, he had drawn a front elevation, two windows, roof pitch, siding lines and what looked suspiciously like hinge placement.
+Hunter stared at her. “Why?”
 
-Yuri stared.
+“Because you have an unfair advantage.”
 
-“Sweetheart. What is that.”
+Yoichi snorted from across the table.
 
-Darius barely glanced up. “Maintenance shed.”
+His turn came soon after.
 
-Lloyd spun around. “YES!”
+He drew a triangle, two lines and several marks underneath.
 
-Everyone protested at once.
+“Mountain?” Keitaro guessed.
 
-“Oh, come on!” Hiro said.
+“No.”
 
-“That's cheating,” Hunter added.
+“Campfire?” Hiro tried.
 
-“How is that cheating?” Lloyd demanded. “I communicated visually!”
+“No.”
 
-“You drew construction plans,” Taiga said.
+Hunter leaned closer. “Tent?”
 
-“Good design communicates!”
+Yoichi pointed at him. “Finally.”
 
-Darius looked at the paper. “You spent too much time on the hinges.”
+Hunter frowned. “What are those underneath?”
 
-“They were relevant!”
+“Stakes.”
 
-“They were not.”
+“They're not underneath.”
 
-Yuri pointed at Lloyd. “No architectural notation.”
+Yoichi took the paper away. “Whatever. You got it.”
 
-“That wasn't one of the rules!”
+Taiga laughed.
 
-“It is now.”
+“You're next, Dynamite.”
 
-Natsumi opened his mouth.
+Taiga picked a slip and drew a rectangle with a circle in the middle.
 
-“Don't,” Hunter told him.
+“Camera,” Keitaro said almost immediately.
 
-Natsumi closed it again.
+Taiga put the marker down. “Yeah.”
 
-Then Darius drew.
+Keitaro smiled. “That one was easy.”
 
-Three lines. A small square. One diagonal mark.
+The next few rounds went faster. Natsumi drew carefully enough that most of his prompts were guessed. Hiro spent too much time on a birthday cake because he insisted the layers mattered. Keitaro kept reaching for his camera whenever someone made a particularly bad drawing and had to be reminded when it was his turn.
 
-Lloyd answered before Yoshinori had even finished starting the timer.
+Goro refused to play until Yuri put the bowl directly in front of him.
+
+“Dad.”
+
+“I am watching.”
+
+“You've been watching for half an hour.”
+
+“That is correct.”
+
+“Pick one.”
+
+Goro looked around the table, then took a slip.
+
+His prompt was Yuki.
+
+He drew four legs, a long body and a head.
+
+Aiden squinted. “Dog?”
+
+Goro kept drawing.
+
+Keitaro looked down at Yuki, then back at the page. “Yuki?”
+
+“Yes.”
+
+Yuri covered her mouth.
+
+Goro noticed. “What?”
+
+“Nothing.”
+
+He looked at the drawing again. “It is recognizable.”
+
+Yuki had already gone back to sleep.
+
+Lloyd's turn came later.
+
+He unfolded his prompt, leaned over the paper and started drawing with far more detail than anybody else had bothered with.
+
+Hunter watched him add a second window.
+
+“Lloyd, you have thirty seconds.”
+
+“I know.”
+
+“You're drawing siding.”
+
+“It matters.”
+
+Darius looked over from beside him. “Maintenance shed.”
+
+Lloyd straightened. “Exactly!”
+
+Hiro groaned. “No way.”
+
+“You barely looked at it,” Natsumi said.
+
+Darius shrugged. “I know what his drawings look like.”
+
+Lloyd pointed at the page. “See? Clear communication.”
+
+Darius looked at it again. “You didn't need the hinges.”
+
+“They help.”
+
+“They don't.”
+
+When Darius drew a few rounds later, he used three lines and a small square.
+
+Lloyd answered almost immediately.
 
 “Camp bell.”
 
-Darius nodded. “Yeah.”
+Darius nodded.
 
-The room exploded again.
+Yuri looked between them. “Okay. You two can't guess each other's anymore.”
 
-Taiga looked at the drawing. “That is literally nothing.”
+Lloyd laughed. “That's not fair.”
 
-“It was enough,” Darius said.
+“You're making it too easy.”
 
-“For him!”
+Darius pushed the bowl toward him. “Pick another one.”
 
-Darius shrugged. “He's good at this.”
+They kept playing for a while after that. The scores stopped mattering. Hunter started drawing in the margins between turns. Hiro brought the leftovers back out. Yoichi argued with Yoshinori over two points and then kept his own count on a napkin. Goro remained at the table even after his turn was over.
 
-Lloyd looked unbearably pleased.
+By ten-thirty, the game had mostly dissolved into conversation.
 
-“That is not the point,” Goro said, now apparently invested in competitive integrity.
+A little after eleven, Lloyd and Darius went outside to start the fire at the campfire circle. Yoshinori gathered blankets while Aiden and Hiro filled two insulated dispensers with hot chocolate.
 
-Yuri put both hands on her hips. “Fine. New rule. Lloyd and Darius can't guess each other's drawings.”
+Goro stopped Aiden near the door.
 
-Lloyd gasped. “That's targeted discrimination!”
+“Take water for the fire.”
 
-Darius patted him once on the shoulder. “We'll survive.”
+Aiden looked at the dispensers in his hands. “Right.”
 
-The game stopped having rules sometime after nine.
+“There is a bucket by the kitchen.”
 
-Keitaro forgot his turn because he was taking pictures of everyone else's. Hunter started doodling in the margins with his right hand again when Yuri wasn't looking. Hiro brought out leftovers and somehow turned them into a second dinner. Yoichi began keeping his own score because he accused Yoshinori of being “institutionally biased.” Goro objected to three separate points awarded by Yuri and then insisted he was not being competitive.
+“Got it, Gramps.”
 
-By ten-thirty, nobody remembered who had won.
+Natsumi went around asking whether everyone had gloves. Hunter had left his in the cabin. Keitaro had done the same. Yoichi said he was fine until Natsumi asked him again.
 
-At eleven, Lloyd and Darius went outside to get the fire going at the campfire circle. Yoshinori followed with blankets, while Aiden and Hiro filled two insulated dispensers with hot chocolate.
-
-Goro stopped them at the door.
-
-“Water.”
-
-Aiden looked at the drinks. “We have—”
-
-“For the fire.”
-
-“Oh.”
-
-“New Year's Eve does not suspend fire safety.”
-
-“Never said it did, Gramps.”
-
-Goro handed him a bucket.
-
-Natsumi made a slow pass around the room asking everyone whether they had gloves. Hunter had forgotten his in the cabin. Keitaro had forgotten his because he had been carrying his camera instead. Yoichi claimed he didn't need any until Natsumi stared at him long enough that he swore and went to get them.
-
-Yuri brought the leftover battery lights outside because apparently the forest also needed decorating.
+Yuri took some of the battery lights with her and wrapped them around one of the baskets.
 
 Taiga ended up carrying one of the hot-chocolate dispensers.
 
-Of course he did.
+By the time they reached the campfire circle, Lloyd and Darius already had the fire going.
 
-By the time they reached the campfire circle, Lloyd and Darius already had the fire going. Warm light moved across the snow and the empty benches. Lloyd was adjusting one of the logs with a stick while Darius stood beside him.
+Lloyd was crouched beside it, adjusting one of the logs.
 
-“See?” Lloyd said. “Perfect.”
+“That's better.”
 
-Darius looked at the fire. “It's a fire.”
+Darius stood behind him with his hands in his coat pockets. “Looks good.”
 
-“A *good* fire.”
-
-“Sure.”
-
-People settled wherever they found space. Blankets moved from shoulders to laps. Hiro passed around cups. Yuki curled up near Yoichi's boots as if she'd been assigned there.
+People took places around the fire. Yoshinori passed out blankets. Hiro poured hot chocolate. Yuki settled near Yoichi's boots.
 
 Keitaro checked the time.
 
 “Eleven forty-eight.”
 
-“Plenty of time!” Yuri said.
+Yuri sat back against the bench. “Perfect.”
 
-For once, nobody seemed to be in a hurry to fill it.
-
+They still had a few minutes.
