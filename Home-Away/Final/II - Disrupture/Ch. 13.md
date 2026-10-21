@@ -460,7 +460,7 @@ They reached the pier.
 Taiga stopped. One foot simply failed to take the next step.
 
 Two boards near the end were newer than the rest. The posts had been resealed, and somebody had replaced one warped edge with fresh timber that still looked too clean.
-For one ugly second Taiga felt his stomach clenching.
+For one ugly second, Taiga felt his stomach clench.
 
  The others spread along the dock: Hiro immediately complained that the wind was worse over the water, Hunter crouched near one railing to look at the reflection between the boards, Natsumi asked Yoichi which sections had been replaced, and Keitaro walked all the way to the end. Taiga stayed halfway down.
 
@@ -502,7 +502,7 @@ Then he opened the camera and snapped a picture of the lake with all the guys fr
 
 **Leo:** i didn't expect THAT 😭😭😭
 
-"Who are you smiling to?" Hiro said, turning back to him.
+"Who are you smiling at?" Hiro said, turning back to him.
 
 "I'm not smiling."
 
@@ -518,12 +518,12 @@ His face brightened up. "OH! The mummy guy?"
 
 "Yeah."
 
-"Come on, let's send him a selfie together!
+"Come on, let's send him a selfie together!"
 
 "Absolutely not."
 
-Hiro came beside him anyways. Taiga rolled his eyes.
-He made the most bothered face he was able to, while Hiro grinned with his index and middle finger shaped as a V.
+Hiro came over anyway. Taiga rolled his eyes.
+He made the most bothered face he was able to, while Hiro grinned with his index and middle fingers raised in a V.
 
 **Leo:** hey hiro!
 **Leo:** omg you forced taiga into a selfie
@@ -537,18 +537,18 @@ Then to Hiro: "Fuck you."
 
 He shoved the phone in his pocket and reached the others on the pier.
 
-Eventually Hiro decided his ears were freezing off and announced that he was going back before he became “the first culinary student to lose both ears to nostalgia.”
+Eventually, Hiro decided his ears were freezing off and announced that he was going back before he became “the first culinary student to lose both ears to nostalgia.”
 
-"That's not exactly how frostbites work, Hiro," Natsumi pointed out.
+"That's not exactly how frostbite works, Hiro," Natsumi pointed out.
 
 "The distinction will be extremely comforting when my ears fall into the soup."
 
-Hunter laughed and followed because he was getting cold as well. Natsumi and Yoichi went as well.
+Hunter laughed and followed because he was getting cold as well. Natsumi and Yoichi followed them.
 
-Keitaro remained at the end of the dock with his camera hanging against his chest. Taiga remained too.
+Keitaro remained at the end of the dock with his camera resting against his chest. Taiga stayed too.
 For nearly a minute neither of them spoke.
 
-"We didn't came here much this summer," Keitaro said.
+"We didn't come here much this summer," Keitaro said.
 
 Of course not.
 
@@ -578,9 +578,9 @@ Of course he did. He was the one who got hurt by it, idiot.
 
 "Your journal is still sitting half burned somewhere."
 
-"Yes, but I also have yours. And it's somewhat better, because that journal represents the lengths you guys would go to make me feel better."
+"Yes, but I also have yours. And I like what that one reminds me of a lot more. It represents the lengths you guys would go to make me feel better."
 
-"Besides," he continued, "After everything you told me this summer about Kieran, I can see where that came from. But that's behind us, right?"
+"Besides," he continued, "after everything you told me this summer about Kieran, I can see where that came from. But that's behind us, right?"
 
 "Yeah... I hope so."
 
