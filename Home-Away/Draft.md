@@ -1,259 +1,291 @@
-On New Year's Eve, Yuri decided the mess hall looked depressing. This became everyone else's problem.
+At seven, Taiga left room 317 with most of his clothes still folded on top of the bed.
 
-By four in the afternoon, strings of warm lights hung between beams, paper decorations had appeared along the windows, and Yuri had recruited Hunter into painting a sign despite Hunter repeatedly explaining that being an art student did not mean he had become a sign-printing service.
+Caleb looked up from his laptop as Taiga pulled on his jacket.
 
-“But sweetheart, your letters are so much prettier than mine!”
+“Dinner?”
 
-Hunter looked at the brush, then at Yuri. “You already painted half of it.”
+“Apparently.”
 
-“Exactly! Now you can rescue it.”
+“With the team?”
 
-Across the room, Goro watched Aiden stand on a chair to attach lights.
+“Apparently.”
 
-“Aiden.”
+Caleb nodded. “Have fun.”
 
-Aiden looked down. “Yep?”
+Taiga stopped with one hand on the door. “Why did that sound threatening?”
 
-“There is a ladder in the storage room.”
+“It didn't.”
 
-“Chair's closer, Gramps.”
+“Right.”
 
-Goro's stare sharpened. “And the ladder is designed for climbing.”
+The mess hall was louder than it had been before break.
 
-Taiga carried another box past them. He had somehow become responsible for extension cables; nobody remembered deciding this.
+Not packed, exactly. A lot of people still weren't back. But enough tables were occupied that the room had its usual low roar again, chairs scraping against the floor and trays knocking against counters.
 
-By seven, the mess hall was covered in lights and paper decorations.
+Taiga heard Enzo before he found them.
 
-Hiro and Aiden had filled most of one table with food. Lloyd and Darius came in from checking the heating in one of the cabins, both still wearing their work gloves.
+“I'm saying there is no reason to put raisins in anything.”
 
-Lloyd stopped in the doorway and looked around.
+“That is not what you were saying,” Gav replied.
 
-“Wow. Yuri, you really went all out.”
+“It was the central argument.”
 
-“Of course! It's New Year's Eve.”
+“No. Your central argument was that raisins are an insult to grapes.”
 
-Darius glanced at the paper stars taped across one of the windows. “Looks nice.”
+“Which they are.”
 
-Yuri smiled. “Thank you, Darius.”
+Two tables had been pushed together near the windows. Evan sat at one end with Scott beside him. Gav had his phone propped against a cup for reasons Taiga didn't want to investigate. Aaron was halfway through a plate of fries. Enzo occupied more space than one person required.
 
-Lloyd looked at him. “That's all you have to say?”
+Leo sat across from him.
 
-“Do you want me to review it?”
+He looked up almost as soon as Taiga reached the table.
+
+His face changed immediately.
+
+Not much. Just a grin that appeared all at once.
+
+“There he is.”
+
+Something light moved in Taiga's stomach.
+
+It was gone almost before he registered it.
+
+Probably hunger.
+
+“You've seen me before,” Taiga said.
+
+“Not this year.”
+
+“It is January fifth.”
+
+“Still counts.”
+
+Enzo pointed a fry at Taiga. “Akatora, settle something. Raisins.”
 
 “No.”
 
-They ate together. Hiro kept asking people to try things while they were still warm. Aiden stole from Yoshinori's plate at least twice. At some point Goro found a gold ribbon tied around the back of his chair and looked directly at Yuri.
+Leo slapped the table once. “Thank you.”
 
-She smiled at him.
+“I didn't even ask the question yet.”
 
-After dinner, people began clearing the tables and moving around the room. Yuri stopped them before anyone could disappear.
+“You didn't need to.”
 
-“Wait! We should do something.”
+Taiga took the empty chair beside Gav.
 
-Yoichi leaned back in his chair. “We're already doing something. We're sitting.”
+Normal.
 
-Hunter was gathering the leftover paper near the windows. “We could draw, I guess.”
+Evan leaned back. “How was the camp?”
 
-Yuri turned toward him immediately.
+“Good.”
 
-Hunter paused. “I meant casually.”
+“Still standing?” Aaron asked.
 
-A few minutes later, Yoshinori was cutting the paper into squares while Yuri wrote prompts and folded them into a bowl.
+“Mostly.”
 
-Natsumi watched her. “So we pick one and draw it?”
+Leo smiled. “He already used that one.”
+
+Taiga looked at him. “What?”
+
+“When I asked.”
+
+For half a second Taiga had no idea what he meant.
+
+Then he remembered the messages from the week before. The photo of the mess hall. The campfire. Leo asking whether Camp Buddy had survived another year.
+
+“Oh.”
+
+Enzo narrowed his eyes between them. “Private communications.”
+
+“People have phones,” Taiga said.
+
+“Disturbing development.”
+
+Leo reached across the table and stole one of Enzo's fries.
+
+“Hey.”
+
+“You were busy.”
+
+“I was talking.”
 
 “Exactly.”
 
-“And everyone else guesses?”
+Taiga got up to get food before Enzo could turn the theft into a legal dispute.
 
-“Yes.”
+By the time he came back, Gav had apparently decided the conversation needed evidence.
 
-“How much time?”
+“Raisins have a higher sugar concentration by weight because most of the water is removed.”
 
-Yuri thought about it. “Forty-five seconds.”
+Enzo stared at him. “Whose side are you on?”
 
-“No words or letters?”
+“I don't have a side.”
 
-“No words or letters.”
+“Coward.”
 
-Natsumi nodded. “Okay.”
+Gav put his phone down. “I answered the question.”
 
-Hunter went first. His prompt was a canoe.
+“There was no question,” Scott said quietly.
 
-He drew for a few seconds.
+Gav paused.
 
-“Canoe,” Natsumi said.
+“Correct.”
 
-Yuri looked at the timer. “That was fast.”
+Taiga sat.
 
-Hunter shrugged. “It was a canoe.”
+Leo was still smiling.
 
-“Next time, use your other hand.”
+Not at him specifically. At the whole stupid conversation.
 
-Hunter stared at her. “Why?”
+For some reason Taiga noticed anyway.
 
-“Because you have an unfair advantage.”
+He opened his drink.
 
-Yoichi snorted from across the table.
+“So,” Evan said. “Who's already regretting coming back?”
 
-His turn came soon after.
+Aaron raised a hand immediately.
 
-He drew a triangle, two lines and several marks underneath.
+“You've been here two days,” Scott said.
 
-“Mountain?” Keitaro guessed.
+“Exactly. Plenty of time.”
 
-“No.”
+“Conference season starts and he's already quitting,” Enzo said.
 
-“Campfire?” Hiro tried.
+“I'm not quitting.”
 
-“No.”
+“You raised your hand.”
 
-Hunter leaned closer. “Tent?”
+“Classes. I meant classes.”
 
-Yoichi pointed at him. “Finally.”
+“Convenient.”
 
-Hunter frowned. “What are those underneath?”
+Aaron threw a napkin at him.
 
-“Stakes.”
+It missed by half a meter.
 
-“They're not underneath.”
+Enzo looked at where it landed. “First touch needs work.”
 
-Yoichi took the paper away. “Whatever. You got it.”
+“Fuck you.”
 
-Taiga laughed.
+There it was.
 
-“You're next, Dynamite.”
+Taiga had missed this.
 
-Taiga picked a slip and drew a rectangle with a circle in the middle.
+The thought came easily enough that he almost didn't notice it.
 
-“Camera,” Keitaro said almost immediately.
+Not Olympus. Not training. Not even the mess hall.
 
-Taiga put the marker down. “Yeah.”
+This.
 
-Keitaro smiled. “That one was easy.”
+Enzo being unbearable. Aaron taking the bait. Gav answering questions nobody had asked. Scott saying three words and somehow ending an argument.
 
-The next few rounds went faster. Natsumi drew carefully enough that most of his prompts were guessed. Hiro spent too much time on a birthday cake because he insisted the layers mattered. Keitaro kept reaching for his camera whenever someone made a particularly bad drawing and had to be reminded when it was his turn.
+Leo across the table, listening to three conversations at once.
 
-Goro refused to play until Yuri put the bowl directly in front of him.
+Taiga ate.
 
-“Dad.”
+Evan had spent most of the break with family. Gav had apparently received a new chess set from his uncle and then complained that the pieces were weighted badly. Aaron had trained twice with somebody from his old club because, according to him, sitting still for three weeks would have killed him.
 
-“I am watching.”
+“It was two and a half,” Scott said.
 
-“You've been watching for half an hour.”
+“Same thing.”
 
-“That is correct.”
+“It isn't.”
 
-“Pick one.”
+“Why are you like this?”
 
-Goro looked around the table, then took a slip.
+Scott shrugged and kept eating.
 
-His prompt was Yuki.
+Enzo and Leo had come back the day before.
 
-He drew four legs, a long body and a head.
+“Worst decision of my life,” Enzo said.
 
-Aiden squinted. “Dog?”
+“You booked the ticket,” Leo replied.
 
-Goro kept drawing.
+“Yes, because I possess foresight. I knew I needed twenty-four hours to mourn.”
 
-Keitaro looked down at Yuki, then back at the page. “Yuki?”
+“Mourn what?”
 
-“Yes.”
+“Temperature.”
 
-Yuri covered her mouth.
+“You've lived here for a year and a half.”
 
-Goro noticed. “What?”
+“Doesn't mean I approve.”
+
+Leo looked at Taiga. “He complained from the airport to campus.”
+
+“The air hurt my face.”
+
+“It was six degrees.”
+
+“Exactly.”
+
+Taiga smiled into his drink.
+
+Leo caught it.
+
+“What?”
 
 “Nothing.”
 
-He looked at the drawing again. “It is recognizable.”
+“He thinks you're weak,” Aaron said.
 
-Yuki had already gone back to sleep.
+“I think he's dramatic.”
 
-Lloyd's turn came later.
+“Betrayal.”
 
-He unfolded his prompt, leaned over the paper and started drawing with far more detail than anybody else had bothered with.
+“You knew that already.”
 
-Hunter watched him add a second window.
+“Different when you say it after abandoning us for the woods.”
 
-“Lloyd, you have thirty seconds.”
+“I sent proof of life.”
 
-“I know.”
+“To Mendez, apparently,” Enzo said.
 
-“You're drawing siding.”
+Taiga looked at him.
 
-“It matters.”
+Enzo had already turned back to his food.
 
-Darius looked over from beside him. “Maintenance shed.”
+Leo kicked his chair leg.
 
-Lloyd straightened. “Exactly!”
+“Why are you obsessed with my messages?”
 
-Hiro groaned. “No way.”
+“Because my own life is complete.”
 
-“You barely looked at it,” Natsumi said.
+“No one believes that.”
 
-Darius shrugged. “I know what his drawings look like.”
+“That's hurtful.”
 
-Lloyd pointed at the page. “See? Clear communication.”
+The conversation moved on before Taiga had to say anything.
 
-Darius looked at it again. “You didn't need the hinges.”
+Good.
 
-“They help.”
+He wasn't sure why he would have had to say anything in the first place.
 
-“They don't.”
+Leo had asked for pictures. Taiga had sent pictures. That was the entire event.
 
-When Darius drew a few rounds later, he used three lines and a small square.
+Across the table, Leo was telling Evan something about a delayed connection on the way back. He moved his hands when he talked, nearly hit his cup, caught it without looking and kept going.
 
-Lloyd answered almost immediately.
+Same Leo.
 
-“Camp bell.”
+Same mess hall.
 
-Darius nodded.
+Same people.
 
-Yuri looked between them. “Okay. You two can't guess each other's anymore.”
+Taiga finished eating.
 
-Lloyd laughed. “That's not fair.”
+At some point Enzo decided they needed to rank the worst things everyone had eaten over break. This became an argument about whether homemade food could qualify if insulting somebody's mother was a possible consequence. Gav tried to establish criteria. Aaron rejected the criteria. Evan contributed a story that somehow involved a gas station in Pennsylvania and a microwave burrito.
 
-“You're making it too easy.”
+By the time Taiga checked the clock again, it was almost nine.
 
-Darius pushed the bowl toward him. “Pick another one.”
+His suitcase was still open on the floor upstairs.
 
-They kept playing for a while after that. The scores stopped mattering. Hunter started drawing in the margins between turns. Hiro brought the leftovers back out. Yoichi argued with Yoshinori over two points and then kept his own count on a napkin. Goro remained at the table even after his turn was over.
+He should probably care.
 
-By ten-thirty, the game had mostly dissolved into conversation.
+He didn't particularly.
 
-A little after eleven, Lloyd and Darius went outside to start the fire at the campfire circle. Yoshinori gathered blankets while Aiden and Hiro filled two insulated dispensers with hot chocolate.
+Leo had engineered the dinner less than an hour after Taiga got back, though Taiga had no reason to think of it that way.
 
-Goro stopped Aiden near the door.
+As far as he was concerned, everyone was back.
 
-“Take water for the fire.”
+So they had eaten together.
 
-Aiden looked at the dispensers in his hands. “Right.”
-
-“There is a bucket by the kitchen.”
-
-“Got it, Gramps.”
-
-Natsumi went around asking whether everyone had gloves. Hunter had left his in the cabin. Keitaro had done the same. Yoichi said he was fine until Natsumi asked him again.
-
-Yuri took some of the battery lights with her and wrapped them around one of the baskets.
-
-Taiga ended up carrying one of the hot-chocolate dispensers.
-
-By the time they reached the campfire circle, Lloyd and Darius already had the fire going.
-
-Lloyd was crouched beside it, adjusting one of the logs.
-
-“That's better.”
-
-Darius stood behind him with his hands in his coat pockets. “Looks good.”
-
-People took places around the fire. Yoshinori passed out blankets. Hiro poured hot chocolate. Yuki settled near Yoichi's boots.
-
-Keitaro checked the time.
-
-“Eleven forty-eight.”
-
-Yuri sat back against the bench. “Perfect.”
-
-They still had a few minutes.
+Normal life had resumed.
