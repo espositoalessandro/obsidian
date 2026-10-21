@@ -26,7 +26,7 @@ She immediately rushed toward him and hugged him tight before he could even real
 
 Taiga raised an eyebrow. "I haven't gotten any taller in three months."
 
-"No, but..." She pinched his cheek. "You definitely look different."
+"Unfortunately no, but..." She pinched his cheek. "You definitely look different."
 
 "Yeah. Whatever."
 
@@ -103,7 +103,7 @@ Taiga looked between the two. Seeing Yuri roasting Goro never got old.
 
 Goro switched from confused to slightly embarrassed.
 
-Taiga smiled. 
+Taiga smiled again. 
 Yeah, he was home.
 
 ***
