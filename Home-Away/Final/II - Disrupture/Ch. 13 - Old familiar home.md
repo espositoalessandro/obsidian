@@ -2,7 +2,7 @@
 
 ***
 
-### Chapter 13
+### Chapter 13 - Old familiar home
 
 The first month of university had stretched itself into approximately a year and a half. Every day had contained a new building, a new person, a new rule, some new way to embarrass himself in front of Coach Mercer, Professor Hall or whichever random stranger happened to be standing nearby when Taiga forgot how normal people behaved.
 
@@ -593,3 +593,40 @@ Keitaro lifted the camera. The shutter clicked, then he turned and they went bac
 Taiga still hated that pier.
 
 ***
+
+On New Year's Eve, Yuri decided the mess hall looked depressing. This became everyone else's problem.
+
+By four in the afternoon, strings of warm lights hung between beams, paper decorations had appeared along the windows, and Yuri had recruited Hunter into painting a sign despite Hunter repeatedly explaining that being an art student did not mean he had become a sign-printing service.
+
+“But sweetheart, your letters are so much prettier than mine!”
+
+Hunter looked at the brush, then at Yuri. “You already painted half of it.”
+
+“Exactly! Now you can rescue it.”
+
+Across the room, Goro watched Aiden stand on a chair to attach lights.
+
+“Aiden.”
+
+Aiden looked down. “Yep?”
+
+“There is a ladder in the storage room.”
+
+“Chair's closer, Gramps.”
+
+Goro's stare sharpened. “And the ladder is designed for climbing.”
+
+Taiga carried another box past them. He had somehow become responsible for extension cables.
+By seven, empty surfaces had basically disappeared and the mess hall definite looked "less depressing".
+
+Hiro and Aiden had covered most of one table with food. Lloyd and Darius came in last from checking the heating in one of the cabins, both still carrying gloves and looking considerably less festive than the room around them.
+
+Lloyd stopped in the doorway.
+
+“Woah.”
+
+Yuri beamed. “Isn't it cute?”
+
+“I was going to say aggressive.”
+
+Darius looked around. “It's both.”
