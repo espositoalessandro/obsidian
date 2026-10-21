@@ -38,19 +38,11 @@ Two tables had been pushed together near the windows. Evan sat at one end with S
 
 Leo sat across from him.
 
-He looked up almost as soon as Taiga reached the table.
-
-His face changed immediately.
-
-Not much. Just a grin that appeared all at once.
+He looked up almost as soon as Taiga reached the table and broke into a grin.
 
 “There he is.”
 
-Something light moved in Taiga's stomach.
-
-It was gone almost before he registered it.
-
-Probably hunger.
+Taiga's stomach gave a quick, weightless turn.
 
 “You've seen me before,” Taiga said.
 
@@ -71,8 +63,6 @@ Leo slapped the table once. “Thank you.”
 “You didn't need to.”
 
 Taiga took the empty chair beside Gav.
-
-Normal.
 
 Evan leaned back. “How was the camp?”
 
@@ -104,29 +94,13 @@ Enzo stared at him. “Whose side are you on?”
 
 “Coward.”
 
-Gav put his phone down. “I answered the question.”
+Gav put his phone down.
 
-“There was no question,” Scott said quietly.
-
-Gav paused.
-
-“Correct.”
-
-Taiga sat.
-
-Leo was still smiling.
-
-Not at him specifically. At the whole stupid conversation.
-
-For some reason Taiga noticed anyway.
-
-He opened his drink.
+Taiga sat and opened his drink.
 
 “So,” Evan said. “Who's already regretting coming back?”
 
 Aaron raised a hand immediately.
-
-“You've been here two days,” Scott said.
 
 “Exactly. Plenty of time.”
 
@@ -152,15 +126,11 @@ Taiga ate.
 
 Evan had spent most of the break with family. Gav had apparently received a new chess set from his uncle and then complained that the pieces were weighted badly. Aaron had trained twice with somebody from his old club because, according to him, sitting still for three weeks would have killed him.
 
-“It was two and a half,” Scott said.
+“What about you, Scott?” Evan asked.
 
-“Same thing.”
+Scott looked up from his food. “Uh—good. It was good.”
 
-“It isn't.”
-
-“Why are you like this?”
-
-Scott shrugged and kept eating.
+Evan nodded.
 
 Enzo and Leo had come back the day before.
 
@@ -204,12 +174,6 @@ Leo caught it.
 
 Across the table, Leo was telling Evan something about a delayed connection on the way back. He moved his hands when he talked, nearly hit his cup, caught it without looking and kept going.
 
-Same Leo.
-
-Same mess hall.
-
-Same people.
-
 Taiga finished eating.
 
 At some point Enzo decided they needed to rank the worst things everyone had eaten over break. This became an argument about whether homemade food could qualify if insulting somebody's mother was a possible consequence. Gav tried to establish criteria. Aaron rejected the criteria. Evan contributed a story that somehow involved a gas station in Pennsylvania and a microwave burrito.
@@ -221,5 +185,3 @@ His suitcase was still open on the floor upstairs.
 He should probably care.
 
 He didn't particularly.
-
-Normal life had resumed.
