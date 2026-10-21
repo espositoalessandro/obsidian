@@ -159,6 +159,34 @@ Taiga should be pleased by that trust before he fully examines why.
 
 This is also where the physical-awareness thread should begin becoming more active. The rink has already taught Taiga that Leo's touch can affect him. Section II now needs to follow through on that.
 
+The **necklace scene** from the old Draft should survive, but its function changes substantially.
+
+The old towel-drop / accidental flashing escalation is **removed**. Taiga has already seen Leo naked and already knows he finds him attractive. Ordinary locker-room nudity should not suddenly make Taiga dysfunctional by itself.
+
+Instead, the necklace becomes the first strong post-rink **physical trigger**:
+
+- Leo asks Taiga to help fasten the necklace after training / showering;
+- Leo is shirtless, but that alone initially registers as normal;
+- Leo lifts his hair out of the way, naturally raising his arms and tightening / flexing his shoulders and upper back;
+- Taiga is trying to work a small, annoying clasp behind Leo's neck;
+- because the clasp is difficult, Taiga's fingers and knuckles repeatedly brush Leo's nape / upper back;
+- Taiga begins noticing Leo's back and shoulder movement more than he intends to;
+- the distraction makes him worse at fastening the clasp, which prolongs the physical contact;
+- somewhere inside that feedback loop, Taiga's body reacts slightly — a tightened stomach, pulse change, heat, breath catch, or similarly small but undeniable response;
+- the reaction should be strong enough for Taiga to register **oh**, but not so extreme that it becomes a crisis or a full sexual scene.
+
+The important distinction is:
+
+**seeing Leo's body = familiar**
+
+**being physically close to Leo's body = suddenly not familiar at all**
+
+Nothing about Leo's behavior needs to be deliberately seductive. From Leo's perspective, he is simply asking Taiga for help with an annoying clasp.
+
+This moment should create a **learned hyperawareness** afterward. The showers / locker room are not newly charged because Taiga has suddenly discovered nudity; they become charged because the necklace has taught his brain to associate Leo's nearby body with a real-time physical response. Later, Leo can walk past shirtless or stand near him in the showers and Taiga initially reacts normally — until the memory / association catches, after which he becomes irritatingly conscious of distance, skin, movement or accidental contact.
+
+That aftermath should stay selective and situational rather than turning every shower scene into a crisis.
+
 Small questions that currently live too late in the Draft belong here and in the next chapters:
 
 - did Leo mean to leave his knee there?
@@ -797,12 +825,15 @@ Nervousness should remain situational:
 
 - prolonged touch;
 - close physical proximity;
+- repeated accidental contact, especially after the Chapter 14 necklace trigger;
 - a look that lasts too long;
 - private emotional trust;
 - consciously choosing Leo over another option;
 - realizing he missed Leo;
 - being visibly selected by Leo;
 - somebody naming or noticing their closeness.
+
+Do **not** equate nudity itself with romantic destabilization. Taiga has prior locker-room / Camp Buddy experience and has already seen Leo naked. The new problem is proximity, touch and the memory of his own body reacting while Leo was physically close.
 
 The progression is not:
 
@@ -970,6 +1001,8 @@ That is the threshold Section II must earn.
 - Taiga's Camp Buddy reveal in Chapter 22 must preserve the later Kieran reveal for Section III.
 - Section III must begin from **recognized romantic desire and known mutual physical desire**, not make Taiga rediscover that he likes Leo or wonder from scratch whether Leo is attracted to him.
 - Physical hyperawareness / "testing" material currently placed in Draft Section III should be audited and moved into Section II where appropriate.
+- In Chapter 14, retain the old Draft necklace setup but remove the towel-drop / accidental flashing beat. The necklace clasp itself becomes the trigger: repeated contact at Leo's neck / upper back while Taiga is distracted by Leo's posture and body creates the first unmistakable real-time bodily reaction after the rink.
+- Post-necklace shower / locker-room hyperawareness should be treated as learned association, not as Taiga suddenly becoming shocked by male nudity.
 - After Friday, Section III must not rely on repeated beats such as **was that knee touch intentional?** or **does Leo want me?** as genuine mysteries.
 - Section III can still contain nervousness and physical charge, but the question changes from **does he want me?** to **what does this permission mean, how far does it extend, and what do we expect from each other?**
 - The current Draft Section III shower masturbation scene may survive, but its meaning must change: Taiga is not discovering that Leo specifically matters or that he wants him. He is dealing with the logistical / physical consequences of already knowing the desire is mutual.
