@@ -712,7 +712,7 @@ Snow had settled over Central Park and along the roofs of the Residential Zone.
 
 "So, when are you coming back here?" Leo asked at some point.
 
-"Probably around the 3rd or 4th of January."
+"Dunno, first week after New Year, before the 6th I guess."
 
 Leo nodded.
 
