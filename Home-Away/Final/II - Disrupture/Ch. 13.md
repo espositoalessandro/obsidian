@@ -24,7 +24,7 @@ She immediately rushed toward him and hugged him tight before he could even real
 
 "Oh my God, look at you! Three months of college and you're already barely recognizable!"
 
-Taiga raised an eyebrow. "I haven't changed that much in three months."
+Taiga raised an eyebrow. "I haven't gotten any taller in three months."
 
 "No, but..." She pinched his cheek. "You definitely look different."
 
