@@ -783,6 +783,8 @@ The bus appeared around the bend, and Taiga stood.
 
 "Tch. As if I could go somewhere else."
 
-Taiga looked at him for a second, then shook his head and stepped onto the bus. He took his seat and watched Yoichi flipping him off from outside. Taiga flipped him back.
+Taiga looked at him for a second, then shook his head and stepped onto the bus.
+He took his seat and watched Yoichi flipping him off from outside. 
+Taiga flipped him back.
 
-There, goodbye.
+There. Goodbye.
