@@ -74,3 +74,38 @@ Yoshinori joined them as well. "So, how was the trip?"
 Taiga shrugged. "Normal. Boring, I guess."
 
 "I can imagine."
+
+They kept catching up for the next fifteen minutes, then the door opened and Goro came in. His expression was stern as usual, but when he saw Taiga it somehow softened a bit.
+
+"Ah, hello Taiga. Welcome back."
+
+"'Morning, Goro."
+
+He hanged his leather jacket and took his place at the table.
+
+"I hope your trip was alright."
+
+"Pretty much, yeah."
+
+"Good. So, how was college?"
+
+"Dad!", Yuri said.
+
+Goro blinked. "What?"
+
+"You're already doing the parent thing."
+
+"The parent... thing?"
+
+"Yeah. The parent thing of asking children how was school as soon as they came back home."
+
+Taiga looked between the two. Seeing Yuri roasting Goro never got old.
+
+Goro switched from confused to slightly embarrassed.
+
+Taiga smiled. 
+Yeah, he was home.
+
+***
+
+
