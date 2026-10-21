@@ -707,11 +707,11 @@ He was about to put it in his pocket when the screen lit up again.
 
 A photo followed: a very blurred selfie of Leo smiling from a ridiculous low angle that made his face look triangular. Behind him, pure chaos was happening.
 
-**Leo:** resolution idea: you stop telling me to die
+**Leo:** resolution idea: increase eloquence by 10%
 
-**Taiga:** die
+**Taiga:** only if you decrease yours by 90%
 
-**Leo:** fine, i respect the determination
+**Leo:** nice try 😏
 
 Taiga smiled and sent him the photo he had taken at the bonfire a couple of minutes before.
 
