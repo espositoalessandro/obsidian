@@ -278,3 +278,176 @@ Normality resumed.
 
 ***
 
+After less than one day, everyone was already back on their usual habits.
+
+Hiro took over one section of the kitchen and then insisted he had not taken over anything. Aiden encouraged him until Yoshinori walked in, looked at the number of containers on the counter and asked whether they were expecting a second camp to arrive for dinner.
+
+“I'm planning ahead!” Hiro said.
+
+Yoshinori looked at three trays of roasted vegetables, two pots of soup and something rising beneath a towel. “For what event?”
+
+“Eating, of course.”
+
+Aiden nodded solemnly. “Important event. Happens daily.”
+
+Yoshinori stared at him. “You're encouraging this.”
+
+“Absolutely.”
+
+From the doorway, Goro cleared his throat. Everyone looked over as he surveyed the kitchen, then Hiro, then Aiden.
+
+“I assume there is a reasonable explanation for why the winter inventory appears to have become a culinary examination.”
+
+Hiro straightened slightly. “Goro, sir, I can explain—”
+
+“He was bored,” Yoichi said from the table.
+
+Hiro turned. “Wolfboy!”
+
+Goro's expression did not change. “That is not what I would describe as a reasonable explanation.”
+
+Yuri appeared behind him, looked into the kitchen and immediately gasped. “Kyaa! Hiro, sweetheart, is that bread? Oh, please tell me that's bread!”
+
+Goro turned his head. “Yuri.”
+
+“Dad, let the boy cook. Look how happy he is!”
+
+“I am not objecting to cooking. I am asking whether we are using supplies allocated for the next staff rotation.”
+
+Hiro looked briefly horrified. “No! I brought most of this. I have receipts!”
+
+Taiga, passing the doorway, stopped. “You brought receipts to Camp Buddy?”
+
+“I am a culinary student now. Ingredient accountability matters.”
+
+Then Yoshinori asked the rest of them to have a look at the storage room, because it had been neglected for a while, even during renovations. 
+
+They went through a big pile of boxes that had accumulated when every cabin had been emptied out for restructuring. Most of them were full of actual trash, stuff campers left behind, activities props. One of the containers looked like it had been opened recently. It didn't have the same amount of dust as the others.
+
+"No way," said Hunter, holding a pair bunny ears.
+
+Keitaro smiled and pulled out a white football uniform. Natsumi was looking at a blue officer hat.
+
+Yeah, it was the box containing all their costumes from that "Halloween" event.
+Yuri must've found it before them.
+
+They spent more than fifteen minutes talking about that night, before eventually putting everything back and moving on.
+
+Taiga's eyes stopped on a box labeled *Fundraising*. He gulped and opened it.
+The first thing he saw was a folded green cardboard sign.
+
+**BUDDY COOKIES**
+
+For half a second nobody reacted. Keitaro took it and smiled widely.
+
+"No way, they kept these. things."
+
+"Why would they keep this?" Taiga asked.
+
+"Tch. Evidence of child labour." Yoichi said.
+
+“We were eighteen.”
+
+“Still felt illegal.”
+
+Natsumi brushed dust from one corner. “The fundraiser did work.”
+
+"Wait until Hiro sees this," Hunter said.
+
+"Torch-Head's gonna probably burst into tears."
+
+"Oh, look!"
+
+Hunter pulled out an old sketchbook. The paper had gone soft at the creases, and most of the pencil had smudged into gray ghosts.
+
+Natsumi leaned closer. “Is that yours?”
+
+Hunter's ears pinked. “I think so. It's the campfire circle for the fundraising poster.”
+
+Yoichi looked over his shoulder. “Looks like a bunch of rocks.”
+
+“It was a sketch.”
+
+“Still rocks.”
+
+Hunter frowned at him. “Why do I ever show you anything?”
+
+“Because you crave validation, Twinkerbell.”
+
+“That is not—” Hunter stopped and considered. “Okay, maybe a little.”
+
+Things kept raising one memory after another. Natsumi found the camera they used for filming, while tucked in a corner of the stall, was the small cart Yoichi had used to carry the cookies around.
+
+Eventually, an activity that should have lasted a couple of hours, took all the afternoon. At some point, Hiro barged in.
+
+"What the hell is taking you so long?"
+
+Then he saw the fundraising box still opened and put aside, with the sign peeking out.
+
+"No fucking way. They still have it?"
+
+He picked it out and stared at it for a while.
+
+"Try not to cry, Torch-Head," Yoichi said with a smirk.
+
+"Fuck you. These cookies saved the camp."
+
+"Yeah," Keitaro added. "With Aiden flirting people into buying six boxes at a time."
+
+“He called it aggressive hospitality.”
+
+“That was marketing for him.”
+
+Taiga smiled. 
+Hiro looked down at the sign, his expression shifting slightly. “...That was a weird week.”
+
+“Understatement,” Taiga said.
+
+Keitaro touched one faded corner of the sign. “Yeah.”
+
+Yoichi clicked his tongue. “There we go. Frogboy's getting sentimental.”
+
+Keitaro looked betrayed. Hiro tucked the cookie sign under one arm.
+
+Taiga stared at him. “You're taking that?”
+
+“Yes.”
+
+“Why?”
+
+“Because apparently nobody here understands archival preservation.”
+
+ Yoshinori looked at the clock when they returned, then at the six of them.
+
+“Was there a structural problem with the shed?”
+
+Taiga shrugged. “Historical contamination.”
+
+Hiro held up the sign. “Look what they did to my legacy!”
+
+Yoshinori stared at **BUDDY COOKIES**, then smiled. “I wondered where that went.”
+
+“You knew it was still here?”
+
+“No. I hoped we'd thrown it away.”
+
+Hiro gasped.
+
+Aiden, passing behind him with a toolbox, called, “Hey, those cookies saved our asses!”
+
+Goro's voice came from the office doorway. “Flynn.”
+
+Aiden did not even turn around. “Saved our *finances*, President Goro.”
+
+“Better.”
+
+Yuri leaned around her father's shoulder. “Oh! The little cookie sign! I remember that! Hiro, sweetheart, you should make those little animal ones again sometime. The frog was adorable.”
+
+Hiro immediately forgot to be offended by Yoshinori. “I can do them better now.”
+
+Yeah, that was probably true.
+Hunter could probably redraw the campfire circle without erasing every second line. Hiro could make fundraiser cookies that belonged in an actual bakery. Natsumi could teach someone to swim instead of simply being the best person in the water. Keitaro could take a photograph and know why it worked.
+
+Even Yoichi had learned how to replace rotten planks on the docks.
+
+***
