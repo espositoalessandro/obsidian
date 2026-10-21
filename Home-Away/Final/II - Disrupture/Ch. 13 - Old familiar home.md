@@ -630,3 +630,91 @@ Yuri beamed. “Isn't it cute?”
 “I was going to say aggressive.”
 
 Darius looked around. “It's both.”
+
+They ate together. Hiro kept asking people to try things while they were still warm. Aiden stole from Yoshinori's plate at least twice. At some point Goro found a gold ribbon tied around the back of his chair and looked directly at Yuri.
+She smiled at him.
+
+They spent the rest of the evening playing picture charades, while waiting for midnight.
+
+Taiga had to draw a camera, which made him panic a second before realizing it was actually just a rectangle with a circle in it. 
+Hunter had looked at his prompt and perfectly sketched a cat in around 3 seconds. Everyone shouted at once.
+
+"Okay, I'll definitely have to be less obvious for the next one."
+
+Lloyd's turn came next.
+He unfolded his prompt, leaned over the paper and started drawing like it was an actual blueprint.
+
+Hunter watched him add a second window.
+
+“Lloyd, you have ten seconds left.”
+
+“Hush. I'm focusing.”
+
+Darius looked over from beside him. “Maintenance shed.”
+
+Lloyd straightened. “Exactly!”
+
+Hiro groaned. “No way.”
+
+“You barely looked at it,” Natsumi said.
+
+Darius shrugged. “I know what his drawings look like.”
+
+"Who the hell wrote *maintenance shed*?" Taiga asked.
+
+Yoshinori timidly raised a hand. Everyone stared at him.
+
+When Darius drew a few rounds later, he used three lines and a small square.
+
+Lloyd answered almost immediately. “Chair!”
+
+Darius nodded. It didn't look like a chair at all.
+
+Aiden looked between them. “Okay. You two can't guess each other's anymore.”
+
+They kept playing for a while after that. The scores stopped mattering. Hunter started drawing in the margins between turns. Hiro brought the leftovers back out. Yoichi argued with Yuri over two points and then kept his own count on a napkin. 
+By ten-thirty, the game had mostly dissolved into conversation.
+
+A little after eleven, Lloyd and Darius went outside to start the fire at the campfire circle. Yoshinori gathered blankets while Aiden and Hiro filled two insulated dispensers with hot chocolate.
+
+People took places around the fire. Yoshinori passed out blankets while Hiro poured hot chocolate to everyone. Yoichi sniffed his cup suspiciously.
+
+“What's in this?”
+
+“Chocolate. Milk. Cinnamon.”
+
+“Why cinnamon?”
+
+Hiro looked personally insulted. “Ever heard about the word *flavors*?”
+
+“You ruined it.”
+
+“Then don't drink it.”
+
+Yoichi drank it anyways.
+
+Keitaro set up the camera on a tripod and managed to convince everyone to a group photo. Which took approximately four takes, because people kept closing their eyes.
+
+Taiga then pulled out his phone and took a photo of the bonfire, with everybody sit around it.
+
+Finally, the countdown began. At zero, everyone shouted at once. Hugs spread everywhere along with "happy New Year!". Someone in the towns nearby began shooting fireworks in the sky.
+Taiga smiled at the scene.
+His phone start vibrating shortly after in his pocket: all his group chats were going off at the same time, with everybody wishing happy new year. Taiga locked it, he'll deal with them later.
+
+He was about to put it in his pocket when the screen lit up again.
+
+**Leo:** HAPPY NEW YEAR AG 
+**Leo:** resolution idea: you stop telling me to die
+
+**Taiga:** die
+
+**Leo:** fine, i respect the determination
+
+Taiga smiled
+
+**Taiga:** happy new year dork
+
+Leo reacted immediately with a heart.
+He put the phone away and went back to the fire.
+
+***
