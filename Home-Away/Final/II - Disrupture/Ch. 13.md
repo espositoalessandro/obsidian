@@ -222,7 +222,7 @@ Hunter arrived two hours later, stepping through the mess hall door with one duf
 
 Yuki hit him at speed.
 
-“Oh—! Yuki, wait, wait—”
+“Oh! Yuki, wait, wait—”
 
 Too late. Hunter staggered backward against the door while Yuki attempted to become one with his coat.
 
@@ -248,7 +248,7 @@ Click.
 
 “Not really.”
 
-Natsumi arrived the next morning at 9:17. Taiga knew the exact time because Natsumi apologized for it.
+Natsumi arrived at 12:17. Taiga knew the exact time because Natsumi apologized for it.
 
 The door opened and Natsumi stepped inside with a navy duffel over one shoulder and a small paper bag in his hand.
 
@@ -262,7 +262,7 @@ Hiro came out of the kitchen holding a wooden spoon. “NATSUMI!”
 
 Natsumi barely had time to put the bag down before Hiro collided with him.
 
-“Hiro—careful, I have—”
+“Hiro, careful, I have—”
 
 “You took forever!”
 
@@ -277,3 +277,4 @@ For a few seconds everyone talked over everyone else. Hiro wanted to know about 
 Normality resumed.
 
 ***
+
