@@ -18,9 +18,9 @@ Taiga stopped with one hand on the door. “Why did that sound threatening?”
 
 “Right.”
 
-The mess hall was louder than it had been before break.
+The cafeteria in the University Center was louder than it had been before break.
 
-Not packed, exactly. A lot of people still weren't back. But enough tables were occupied that the room had its usual low roar again, chairs scraping against the floor and trays knocking against counters.
+Not packed, exactly. A lot of people still weren't back. But enough tables were occupied that the room had started sounding like itself again, chairs scraping against the floor and trays knocking against counters.
 
 Taiga heard Enzo before he found them.
 
