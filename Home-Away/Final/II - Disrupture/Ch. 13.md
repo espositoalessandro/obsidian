@@ -6,7 +6,7 @@
 
 The first month of university had stretched itself into approximately a year and a half. Every day had contained a new building, a new person, a new rule, some new way to embarrass himself in front of Coach Mercer, Professor Hall or whichever random stranger happened to be standing nearby when Taiga forgot how normal people behaved.
 
-By contrast, the week at Camp Buddy passed faster than the first week at Olympus had. That seemed unfair.
+And yet, as soon as he arrived on the gravel path, no time at all seemed to have passed.
 
 Taiga ended up arriving earlier than everyone else. 
 He stopped under the familiar entrance arc. A smile automatically appeared on his face. 
