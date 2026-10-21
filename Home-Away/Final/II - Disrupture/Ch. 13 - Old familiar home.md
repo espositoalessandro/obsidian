@@ -722,6 +722,6 @@ Leo reacted immediately with a heart.
 **Leo:** there's so much camp energy 😭
 **Leo:** tell hiro i expect hot chocolate next time
 
-Taiga shook his head, still smiling, and put the phone away before going back to the fire.
+Taiga shook his head, still smiling, and put the phone away.
 
 ***
