@@ -104,12 +104,13 @@ Taiga heard Enzo before he found them.
 “Which they are.”
 
 Two tables had been pushed together near the windows. Almost everyone was already there.
-His eyes immediately spotted the only blond head of the group. Leo caught him as well and his face broke into a beam.
+
+Taiga immediately spotted the only blond head in the group. Leo spotted him too and beamed.
 
 “There he is!”
 
-For some stupid reason, his stomach decided to give a quick turn.
-He brushed it off by briefly shaking his head. 
+For some stupid reason, Taiga's stomach decided to give a quick turn.
+He shook his head.
 Whatever.
 
 "Hey."
