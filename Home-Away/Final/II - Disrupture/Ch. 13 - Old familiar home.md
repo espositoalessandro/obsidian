@@ -8,8 +8,8 @@ The first month of university had stretched itself into approximately a year and
 
 And yet, as soon as he arrived on the gravel path, no time at all seemed to have passed.
 
-Taiga ended up arriving earlier than everyone else. 
-He stopped under the familiar entrance arch. A smile automatically appeared on his face. 
+Taiga ended up arriving earlier than everyone else.
+He stopped under the familiar entrance arch. A smile automatically appeared on his face.
 
 "Taiga!"
 
@@ -20,7 +20,7 @@ As if summoned by hearing that name, Yuri popped out of one of the cabins.
 
 "Did you call—TAIGAA!"
 
-She immediately rushed toward him and hugged him tight before he could even realize what was happening. 
+She immediately rushed toward him and hugged him tight before he could even realize what was happening.
 
 "Oh my God, look at you! Three months of college and you're already barely recognizable!"
 
@@ -54,10 +54,10 @@ Darius raised a hand. "Hello, welcome back."
 
 Taiga couldn't help but smile again. "Hey."
 
-He sat at the table with the rest of them. The familiarity of the mess hall hit him all at once. Everything was still as he'd left it, except someone had put Christmas decorations everywhere. 
+He sat at the table with the rest of them. The familiarity of the mess hall hit him all at once. Everything was still as he'd left it, except someone had put Christmas decorations everywhere.
 
-Lloyd immediately wanted to know every detail about Olympus's architecture, since he'd seen pictures and was astonished by the grandiosity of the structure. Darius was curious as well, but let Lloyd ask the questions. 
-Yoichi didn't see how a couple of stones could be that interesting. 
+Lloyd immediately wanted to know every detail about Olympus's architecture, since he'd seen pictures and was astonished by the grandiosity of the structure. Darius was curious as well, but let Lloyd ask the questions.
+Yoichi didn't see how a couple of stones could be that interesting.
 Yuri was evidently holding back with her questions. Probably saving the worst for later.
 How merciful.
 
@@ -103,7 +103,7 @@ Taiga looked between the two. Seeing Yuri roasting Goro never got old.
 
 Goro switched from confused to slightly embarrassed.
 
-Taiga smiled again. 
+Taiga smiled again.
 Yeah, he was home.
 
 ***
@@ -113,33 +113,33 @@ There were no scouts running between cabins. No whistles, no shouting from the l
 
 Winter made the place feel like backstage after the audience had gone home.
 
-Taiga liked it. He helped Aiden clean up the kitchen, then spent the afternoon with Yoshinori going through old equipment that apparently needed to be sorted into three categories—usable, repairable and “absolutely not, Taiga, that rope is older than you are”.
+Taiga liked it. He helped Aiden clean up the kitchen, then spent the afternoon with Yoshinori going through old equipment that apparently needed to be sorted into three categories—usable, repairable and "absolutely not, Taiga, that rope is older than you are".
 
 On the second morning, Lloyd spotted him walking past the maintenance shed and waved both arms like Taiga might otherwise fail to notice him from ten meters away.
 
-“Taiga! Perfect timing!”
+"Taiga! Perfect timing!"
 
-Darius was beside him with a toolbox open at his feet. “He got back yesterday, Lloyd.”
+Darius was beside him with a toolbox open at his feet. "He got back yesterday, Lloyd."
 
-“I know! I'm welcoming him professionally.” Lloyd held out a screwdriver.
+"I know! I'm welcoming him professionally." Lloyd held out a screwdriver.
 
-Taiga looked at it. “By giving me work?”
+Taiga looked at it. "By giving me work?"
 
-“Exactly!”
+"Exactly!"
 
-Darius pointed toward one of the shed doors. The top hinge had started pulling away from the frame. “It'll take five minutes.”
+Darius pointed toward one of the shed doors. The top hinge had started pulling away from the frame. "It'll take five minutes."
 
-“You're both scoutmasters now,” Taiga said.
+"You're both scoutmasters now," Taiga said.
 
-Lloyd put a hand to his chest. “Scoutmasters can believe in practical education!”
+Lloyd put a hand to his chest. "Scoutmasters can believe in practical education!"
 
-Darius shrugged. “And hinges.”
+Darius shrugged. "And hinges."
 
 Taiga took the screwdriver.
 
 Shortly after, he heard a car pull into the parking lot, followed by a familiar voice immediately announcing that peace was over.
 
-“WHY IS THE PARKING LOT ICE?!”
+"WHY IS THE PARKING LOT ICE?!"
 
 Taiga heard Hiro before he saw him. Yoichi, walking a few meters away, heard it too.
 
@@ -147,7 +147,7 @@ Taiga heard Hiro before he saw him. Yoichi, walking a few meters away, heard it 
 
 The front door of the car opened and Hiro appeared, carrying two bags and wearing a coat bright enough to function as emergency equipment.
 
-“I know what winter is, Wolfboy! I'm asking why nobody salted the part where human beings are expected to waaAAAAH-”
+"I know what winter is, Wolfboy! I'm asking why nobody salted the part where human beings are expected to waaAAAAH—"
 
 He slipped mid-sentence and landed flat on his ass.
 
@@ -175,7 +175,7 @@ Keitaro appeared with a suitcase, a camera bag and a resigned expression. He hel
 
 Aiden smiled widely. "Hey, little chef! Keitaro!"
 
-Hiro rushed toward him, somehow managing not to slip again. Aiden hugged him tight. 
+Hiro rushed toward him, somehow managing not to slip again. Aiden hugged him tight.
 
 "How are you doing?"
 
@@ -185,26 +185,26 @@ Then he lifted his bags. "I brought supplies!"
 
 "Of course you have."
 
-Keitaro approached Taiga and hugged him. 
+Keitaro approached Taiga and hugged him.
 Taiga tolerated it for three seconds, then four, before shoving lightly at his shoulder.
 
-“Okay, enough.”
+"Okay, enough."
 
-Keitaro let go, smiling. “You look good!”
+Keitaro let go, smiling. "You look good!"
 
 Hiro put both bags down and opened his arms dramatically.
 
-“Do I get one or have we used the seasonal affection allowance?”
+"Do I get one or have we used the seasonal affection allowance?"
 
-Taiga stared at him. “You get punched.”
+Taiga stared at him. "You get punched."
 
-“I'll take it.”
+"I'll take it."
 
 Hiro hugged him anyway, and Taiga complained throughout. This did not cause Hiro to stop.
 
-"Hey buddy," Aiden said, looking at the bags. "Are you going to stand there squeezing Taiga all morning, or are you going to come explain why you brought enough food to feed twenty people?”
+"Hey buddy," Aiden said, looking at the bags. "Are you going to stand there squeezing Taiga all morning, or are you going to come explain why you brought enough food to feed twenty people?"
 
-Hiro released Taiga immediately. “Oh, you'll see!”
+Hiro released Taiga immediately. "Oh, you'll see!"
 
 "Okay, I'm intrigued now."
 
@@ -212,63 +212,63 @@ Hiro released Taiga immediately. “Oh, you'll see!”
 
 Aiden blinked. "You've really turned into a proper chef now."
 
-Hiro disappeared into the kitchen with Aiden. 
+Hiro disappeared into the kitchen with Aiden.
 
 Yoichi looked at Keitaro. "He's still broken."
 
-Keitaro smiled. “Pretty much.”
+Keitaro smiled. "Pretty much."
 
 Hunter arrived two hours later, stepping through the mess hall door with one duffel bag and enough layers to survive an arctic expedition.
 
 Yuki hit him at speed.
 
-“Oh! Yuki, wait, wait—”
+"Oh! Yuki, wait, wait—"
 
 Too late. Hunter staggered backward against the door while Yuki attempted to become one with his coat.
 
-Yoichi called from one of the chairs, “She missed you, Twinkerbell.”
+Yoichi called from one of the chairs, "She missed you, Twinkerbell."
 
-“I can tell!”
+"I can tell!"
 
-Hunter laughed and crouched even as the dog immediately put both paws on his shoulders. “Hi. Yes. Hi. I missed you too. Please don't eat my scarf.”
+Hunter laughed and crouched even as the dog immediately put both paws on his shoulders. "Hi. Yes. Hi. I missed you too. Please don't eat my scarf."
 
 Keitaro came around the corner with his camera already in hand. Hunter looked up.
 
-“Oh, come on!”
+"Oh, come on!"
 
 Click.
 
-“Keitaro.”
+"Keitaro."
 
-“Sorry.”
+"Sorry."
 
 Click.
 
-“You're not sorry.”
+"You're not sorry."
 
-“Not really.”
+"Not really."
 
 Natsumi arrived at 12:17. Taiga knew the exact time because Natsumi apologized for it.
 
 The door opened and Natsumi stepped inside with a navy duffel over one shoulder and a small paper bag in his hand.
 
-“Good morning, everyone. I'm very sorry I'm later than I originally planned. The first train was cancelled, and the replacement stopped for nearly twenty minutes outside—”
+"Good morning, everyone. I'm very sorry I'm later than I originally planned. The first train was cancelled, and the replacement stopped for nearly twenty minutes outside—"
 
-Yoichi pointed at him. “Nobody asked, Mr. Perfect.”
+Yoichi pointed at him. "Nobody asked, Mr. Perfect."
 
-Natsumi stopped, looked at him, then smiled. “Good morning to you too, Yoichi."
+Natsumi stopped, looked at him, then smiled. "Good morning to you too, Yoichi."
 
-Hiro came out of the kitchen holding a wooden spoon. “NATSUMI!”
+Hiro came out of the kitchen holding a wooden spoon. "NATSUMI!"
 
 Natsumi barely had time to put the bag down before Hiro collided with him.
 
-“Hiro, careful, I have—”
+"Hiro, careful, I have—"
 
-“You took forever!”
+"You took forever!"
 
-“I'm less than twenty minutes late.”
+"I'm less than twenty minutes late."
 
-“Exactly. Forever.”
+"Exactly. Forever."
 
 Natsumi laughed and returned the hug. Keitaro appeared behind Hiro, Hunter came down the hallway, and Yoichi stayed where he was because standing up voluntarily might have damaged his reputation.
 
@@ -282,47 +282,47 @@ After less than one day, everyone was already back to their usual habits.
 
 Hiro took over one section of the kitchen and then insisted he had not taken over anything. Aiden encouraged him until Yoshinori walked in, looked at the number of containers on the counter and asked whether they were expecting a second camp to arrive for dinner.
 
-“I'm planning ahead!” Hiro said.
+"I'm planning ahead!" Hiro said.
 
-Yoshinori looked at three trays of roasted vegetables, two pots of soup and something rising beneath a towel. “For what event?”
+Yoshinori looked at three trays of roasted vegetables, two pots of soup and something rising beneath a towel. "For what event?"
 
-“Eating, of course.”
+"Eating, of course."
 
-Aiden nodded solemnly. “Important event. Happens daily.”
+Aiden nodded solemnly. "Important event. Happens daily."
 
-Yoshinori stared at him. “You're encouraging this.”
+Yoshinori stared at him. "You're encouraging this."
 
-“Absolutely.”
+"Absolutely."
 
 From the doorway, Goro cleared his throat. Everyone looked over as he surveyed the kitchen, then Hiro, then Aiden.
 
-“I assume there is a reasonable explanation for why the winter inventory appears to have become a culinary examination.”
+"I assume there is a reasonable explanation for why the winter inventory appears to have become a culinary examination."
 
-Hiro straightened slightly. “Goro, sir, I can explain—”
+Hiro straightened slightly. "Goro, sir, I can explain—"
 
-“He was bored,” Yoichi said from the table.
+"He was bored," Yoichi said from the table.
 
-Hiro turned. “Wolfboy!”
+Hiro turned. "Wolfboy!"
 
-Goro's expression did not change. “That is not what I would describe as a reasonable explanation.”
+Goro's expression did not change. "That is not what I would describe as a reasonable explanation."
 
-Yuri appeared behind him, looked into the kitchen and immediately gasped. “Kyaa! Hiro, sweetheart, is that bread? Oh, please tell me that's bread!”
+Yuri appeared behind him, looked into the kitchen and immediately gasped. "Kyaa! Hiro, sweetheart, is that bread? Oh, please tell me that's bread!"
 
-Goro turned his head. “Yuri.”
+Goro turned his head. "Yuri."
 
-“Dad, let the boy cook. Look how happy he is!”
+"Dad, let the boy cook. Look how happy he is!"
 
-“I am not objecting to cooking. I am asking whether we are using supplies allocated for the next staff rotation.”
+"I am not objecting to cooking. I am asking whether we are using supplies allocated for the next staff rotation."
 
-Hiro looked briefly horrified. “No! I brought most of this. I have receipts!”
+Hiro looked briefly horrified. "No! I brought most of this. I have receipts!"
 
-Taiga, passing the doorway, stopped. “You brought receipts to Camp Buddy?”
+Taiga, passing the doorway, stopped. "You brought receipts to Camp Buddy?"
 
-“I am a culinary student now. Ingredient accountability matters.”
+"I am a culinary student now. Ingredient accountability matters."
 
-Then Yoshinori asked the rest of them to take a look at the storage room, because it had been neglected for a while, even during the renovations. 
+Then Yoshinori asked the rest of them to take a look at the storage room, because it had been neglected for a while, even during the renovations.
 
-They went through a big pile of boxes that had accumulated when every cabin had been emptied out for restructuring. Most of them were full of actual trash, stuff campers had left behind, activity props. One of the containers looked like it had been opened recently. It didn't have the same amount of dust as the others.
+They went through a big pile of boxes that had accumulated when every cabin had been emptied out for restructuring. Most of them were full of actual trash, stuff campers had left behind, and activity props. One of the containers looked like it had been opened recently. It didn't have the same amount of dust as the others.
 
 "No way," Hunter said, holding a pair of bunny ears.
 
@@ -331,7 +331,7 @@ Keitaro smiled and pulled out a white football uniform. Natsumi was looking at a
 Yeah, it was the box containing all their costumes from that "Halloween" event.
 Yuri must've found it before them.
 
-They spent more than fifteen minutes talking about that night, before eventually putting everything back and moving on.
+They spent more than fifteen minutes talking about that night before eventually putting everything back and moving on.
 
 Taiga's eyes stopped on a box labeled *Fundraising*. He gulped and opened it.
 The first thing he saw was a folded green cardboard sign.
@@ -346,11 +346,11 @@ For half a second nobody reacted. Keitaro took it and smiled widely.
 
 "Tch. Evidence of child labor," Yoichi said.
 
-“We were eighteen.”
+"We were eighteen."
 
-“Still felt illegal.”
+"Still felt illegal."
 
-Natsumi brushed dust from one corner. “The fundraiser did work.”
+Natsumi brushed dust from one corner. "The fundraiser did work."
 
 "Wait until Hiro sees this," Hunter said.
 
@@ -360,21 +360,21 @@ Natsumi brushed dust from one corner. “The fundraiser did work.”
 
 Hunter pulled out an old sketchbook. The paper had gone soft at the creases, and most of the pencil had smudged into gray ghosts.
 
-Natsumi leaned closer. “Is that yours?”
+Natsumi leaned closer. "Is that yours?"
 
-Hunter's ears pinked. “I think so. It's the campfire circle for the fundraising poster.”
+Hunter's ears pinked. "I think so. It's the campfire circle for the fundraising poster."
 
-Yoichi looked over his shoulder. “Looks like a bunch of rocks.”
+Yoichi looked over his shoulder. "Looks like a bunch of rocks."
 
-“It was a sketch.”
+"It was a sketch."
 
-“Still rocks.”
+"Still rocks."
 
-Hunter frowned at him. “Why do I ever show you anything?”
+Hunter frowned at him. "Why do I ever show you anything?"
 
-“Because you crave validation, Twinkerbell.”
+"Because you crave validation, Twinkerbell."
 
-“That is not—” Hunter stopped and considered. “Okay, maybe a little.”
+"That is not—" Hunter stopped and considered. "Okay, maybe a little."
 
 One thing kept bringing back another memory. Natsumi found the camera they'd used for filming, while the small cart Yoichi had used to carry the cookies around was tucked into a corner of the storage room.
 
@@ -394,56 +394,56 @@ He picked it out and stared at it for a while.
 
 "Yeah," Keitaro added. "With Aiden flirting with people until they bought six boxes at a time."
 
-“He called it aggressive hospitality.”
+"He called it aggressive hospitality."
 
-“That was marketing for him.”
+"That was marketing for him."
 
-Taiga smiled. 
-Hiro looked down at the sign, his expression shifting slightly. “...That was a weird week.”
+Taiga smiled.
+Hiro looked down at the sign, his expression shifting slightly. "...That was a weird week."
 
-“Understatement,” Taiga said.
+"Understatement," Taiga said.
 
-Keitaro touched one faded corner of the sign. “Yeah.”
+Keitaro touched one faded corner of the sign. "Yeah."
 
-Yoichi clicked his tongue. “There we go. Frogboy's getting sentimental.”
+Yoichi clicked his tongue. "There we go. Frogboy's getting sentimental."
 
 Keitaro looked betrayed. Hiro tucked the cookie sign under one arm.
 
-Taiga stared at him. “You're taking that?”
+Taiga stared at him. "You're taking that?"
 
-“Yes.”
+"Yes."
 
-“Why?”
+"Why?"
 
-“Because apparently nobody here understands archival preservation.”
+"Because apparently nobody here understands archival preservation."
 
 Yoshinori looked at the clock when they returned, then at the six of them.
 
-“Was there a structural problem with the shed?”
+"Was there a structural problem with the shed?"
 
-Taiga shrugged. “Historical contamination.”
+Taiga shrugged. "Historical contamination."
 
-Hiro held up the sign. “Look what they did to my legacy!”
+Hiro held up the sign. "Look what they did to my legacy!"
 
-Yoshinori stared at **BUDDY COOKIES**, then smiled. “I wondered where that went.”
+Yoshinori stared at **BUDDY COOKIES**, then smiled. "I wondered where that went."
 
-“You knew it was still here?”
+"You knew it was still here?"
 
-“No. I hoped we'd thrown it away.”
+"No. I hoped we'd thrown it away."
 
 Hiro gasped.
 
-Aiden, passing behind him with a toolbox, called, “Hey, those cookies saved our asses!”
+Aiden, passing behind him with a toolbox, called, "Hey, those cookies saved our asses!"
 
-Goro's voice came from the office doorway. “Flynn.”
+Goro's voice came from the office doorway. "Flynn."
 
-Aiden did not even turn around. “Saved our *finances*, President Goro.”
+Aiden did not even turn around. "Saved our *finances*, President Goro."
 
-“Better.”
+"Better."
 
-Yuri leaned around her father's shoulder. “Oh! The little cookie sign! I remember that! Hiro, sweetheart, you should make those little animal ones again sometime. The frog was adorable.”
+Yuri leaned around her father's shoulder. "Oh! The little cookie sign! I remember that! Hiro, sweetheart, you should make those little animal ones again sometime. The frog was adorable."
 
-Hiro immediately forgot to be offended by Yoshinori. “I can make them better now.”
+Hiro immediately forgot to be offended by Yoshinori. "I can make them better now."
 
 Yeah, that was probably true.
 Hunter could probably redraw the campfire circle without erasing every second line. Hiro could make fundraiser cookies that belonged in an actual bakery. Natsumi could teach someone to swim instead of simply being the best person in the water. Keitaro could take a photograph and know why it worked.
@@ -469,7 +469,7 @@ His phone buzzed in his pocket.
 **Leo:** hey camp boy
 **Leo:** you survived the wilderness?
 
-Ah, right. He had asked. 
+Ah, right. He had asked.
 
 **Taiga:** pretty much
 **Taiga:** you survived enzo?
@@ -492,7 +492,7 @@ Taiga blinked.
 
 **Taiga:** i didn't
 
-Then he opened the camera and snapped a picture of the lake with all the guys from behind, looking at the sun setting.
+Then he opened the camera and snapped a picture of the lake, with all the guys seen from behind as they watched the sunset.
 
 **Leo:** wow
 **Leo:** okay
@@ -523,7 +523,7 @@ His face brightened up. "OH! The mummy guy?"
 "Absolutely not."
 
 Hiro came over anyway. Taiga rolled his eyes.
-He made the most bothered face he was able to, while Hiro grinned with his index and middle fingers raised in a V.
+He made the most bothered face he could while Hiro grinned with his index and middle fingers raised in a V.
 
 **Leo:** hey hiro!
 **Leo:** omg you forced taiga into a selfie
@@ -535,9 +535,9 @@ Hiro laughed hard. "Oh, he knows you pretty well."
 
 Then to Hiro: "Fuck you."
 
-He shoved the phone in his pocket and reached the others on the pier.
+He shoved the phone in his pocket and joined the others on the pier.
 
-Eventually, Hiro decided his ears were freezing off and announced that he was going back before he became “the first culinary student to lose both ears to nostalgia.”
+Eventually, Hiro decided his ears were freezing off and announced that he was going back before he became "the first culinary student to lose both ears to nostalgia."
 
 "That's not exactly how frostbite works, Hiro," Natsumi pointed out.
 
@@ -598,23 +598,23 @@ On New Year's Eve, Yuri decided the mess hall looked depressing. This became eve
 
 By four in the afternoon, strings of warm lights hung between beams, paper decorations had appeared along the windows, and Yuri had recruited Hunter into painting a sign despite Hunter repeatedly explaining that being an art student did not mean he had become a sign-printing service.
 
-“But sweetheart, your letters are so much prettier than mine!”
+"But sweetheart, your letters are so much prettier than mine!"
 
-Hunter looked at the brush, then at Yuri. “You already painted half of it.”
+Hunter looked at the brush, then at Yuri. "You already painted half of it."
 
-“Exactly! Now you can rescue it.”
+"Exactly! Now you can rescue it."
 
 Across the room, Goro watched Aiden stand on a chair to attach lights.
 
-“Aiden.”
+"Aiden."
 
-Aiden looked down. “Yep?”
+Aiden looked down. "Yep?"
 
-“There is a ladder in the storage room.”
+"There is a ladder in the storage room."
 
-“Chair's closer, Gramps.”
+"Chair's closer, Gramps."
 
-Goro's stare sharpened. “And the ladder is designed for climbing.”
+Goro's stare sharpened. "And the ladder is designed for climbing."
 
 Taiga carried another box past them. He had somehow become responsible for extension cables.
 By seven, empty surfaces had basically disappeared and the mess hall definitely looked "less depressing".
@@ -623,21 +623,21 @@ Hiro and Aiden had covered most of one table with food. Lloyd and Darius came in
 
 Lloyd stopped in the doorway.
 
-“Woah.”
+"Woah."
 
-Yuri beamed. “Isn't it cute?”
+Yuri beamed. "Isn't it cute?"
 
-“I was going to say aggressive.”
+"I was going to say aggressive."
 
-Darius looked around. “It's both.”
+Darius looked around. "It's both."
 
 They ate together. Hiro kept asking people to try things while they were still warm. Aiden stole from Yoshinori's plate at least twice. At some point Goro found a gold ribbon tied around the back of his chair and looked directly at Yuri.
 She smiled at him.
 
 They spent the rest of the evening playing picture charades, while waiting for midnight.
 
-Taiga had to draw a camera, which made him panic a second before realizing it was actually just a rectangle with a circle in it. 
-Hunter had looked at his prompt and perfectly sketched a cat in about three seconds. Everyone shouted at once.
+Taiga had to draw a camera, which made him panic a second before realizing it was actually just a rectangle with a circle in it.
+Hunter looked at his prompt and perfectly sketched a cat in about three seconds. Everyone shouted at once.
 
 "Okay, I'll definitely have to be less obvious for the next one."
 
@@ -646,19 +646,19 @@ He unfolded his prompt, leaned over the paper and started drawing like it was an
 
 Hunter watched him add a second window.
 
-“Lloyd, you have ten seconds left.”
+"Lloyd, you have ten seconds left."
 
-“Hush. I'm focusing.”
+"Hush. I'm focusing."
 
-Darius looked over from beside him. “Maintenance shed.”
+Darius looked over from beside him. "Maintenance shed."
 
-Lloyd straightened. “Exactly!”
+Lloyd straightened. "Exactly!"
 
-Hiro groaned. “No way.”
+Hiro groaned. "No way."
 
-“You barely looked at it,” Natsumi said.
+"You barely looked at it," Natsumi said.
 
-Darius shrugged. “I know what his drawings look like.”
+Darius shrugged. "I know what his drawings look like."
 
 "Who the hell wrote *maintenance shed*?" Taiga asked.
 
@@ -666,34 +666,34 @@ Yoshinori timidly raised a hand. Everyone stared at him.
 
 When Darius drew a few rounds later, he used three lines and a small square.
 
-Lloyd answered almost immediately. “Chair!”
+Lloyd answered almost immediately. "Chair!"
 
 Darius nodded. It didn't look like a chair at all.
 
-Aiden looked between them. “Okay. You two can't guess each other's drawings anymore.”
+Aiden looked between them. "Okay. You two can't guess each other's drawings anymore."
 
-They kept playing for a while after that. The scores stopped mattering. Hunter started drawing in the margins between turns. Hiro brought the leftovers back out. Yoichi argued with Yuri over two points and then kept his own count on a napkin. 
+They kept playing for a while after that. The scores stopped mattering. Hunter started drawing in the margins between turns. Hiro brought the leftovers back out. Yoichi argued with Yuri over two points and then kept his own count on a napkin.
 By ten-thirty, the game had mostly dissolved into conversation.
 
 A little after eleven, Lloyd and Darius went outside to start the fire at the campfire circle. Yoshinori gathered blankets while Aiden and Hiro filled two insulated dispensers with hot chocolate.
 
 People took places around the fire. Yoshinori passed out blankets while Hiro poured hot chocolate for everyone. Yoichi sniffed his cup suspiciously.
 
-“What's in this?”
+"What's in this?"
 
-“Chocolate. Milk. Cinnamon.”
+"Chocolate. Milk. Cinnamon."
 
-“Why cinnamon?”
+"Why cinnamon?"
 
-Hiro looked personally insulted. “Ever heard of *flavor*?”
+Hiro looked personally insulted. "Ever heard of *flavor*?"
 
-“You ruined it.”
+"You ruined it."
 
-“Then don't drink it.”
+"Then don't drink it."
 
 Yoichi drank it anyway.
 
-Keitaro set up the camera on a tripod and managed to convince everyone to take a group photo. Which took approximately four takes, because people kept closing their eyes.
+Keitaro set up the camera on a tripod and managed to convince everyone to take a group photo. It took approximately four tries because people kept closing their eyes.
 
 Taiga then pulled out his phone and took a photo of the bonfire, with everybody sitting around it.
 
@@ -703,7 +703,7 @@ His phone started vibrating shortly after in his pocket. All his group chats wer
 
 He was about to put it in his pocket when the screen lit up again.
 
-**Leo:** HAPPY NEW YEAR AG 
+**Leo:** HAPPY NEW YEAR AG
 
 A photo followed: a very blurred selfie of Leo smiling from a ridiculous low angle that made his face look triangular. Behind him, pure chaos was happening.
 
@@ -726,65 +726,65 @@ Taiga shook his head, still smiling, and put the phone away.
 
 ***
 
-The camp slowly emptied the following days. 
+Over the following days, the camp slowly emptied.
 
 Hunter left first, because he had volunteered for some art school project. Natsumi left the following afternoon, because swim training was beginning.
 Hiro and Keitaro left the following day, and without them the camp became quiet again.
 
-Taiga stayed a couple of days more, helping around the camp, doing Mercer's training schedule and arguing with Yoichi about it.
+Taiga stayed a couple more days, helping around the camp, following Mercer's training schedule and arguing with Yoichi about it.
 
-Most of his friends had already returned to Olympus. Caleb said he was already re-calibrating the fridge and Nora complained about her new class schedule before courses had even started. 
-As team members began returning, the group chat got quieter. Mildly, of course.
-Enzo and Leo ended up returning on the 4rth and Enzo immediately panicked because apparently a janitor had moved Roberto somewhere he couldn't find. Ten minutes later, he found it in the Kitchen.
+Most of his friends had already returned to Olympus. Caleb said he was already re-calibrating the fridge and Nora complained about her new class schedule before courses had even started.
+As team members began returning, the group chat got quieter. Relatively speaking, of course.
+Enzo and Leo ended up returning on the 4th, and Enzo immediately panicked because apparently a janitor had moved Roberto somewhere he couldn't find. Ten minutes later, he found it in the kitchen.
 
 **Enzo:** SOMEBODY TRIED TO COOK THE POOR ROBERTO
 
-Immediately after, Leo sent him a private message:
+Immediately after, Leo sent Taiga a private message:
 
 **Leo:** save me 😭
 **Leo:** when are you coming back?
 
 **Taiga:** tomorrow morning
 
-**Leo:** yay 
+**Leo:** yay
 
-The following morning, Taiga was standing beside the bus stop with his duffel on the bag. 
-Yoichi had accompanied him with the excuse to walk Yuki outside.
+The following morning, Taiga was standing beside the bus stop with his duffel over his shoulder.
+Yoichi had accompanied him, claiming Yuki needed a walk.
 
-“Absolutely not.”
+"Absolutely not."
 
 Yuki put both front paws against his coat. Yoichi held the leash without helping.
 
-“She wants college.”
+"She wants college."
 
-“She eats rats.”
+"She eats rats."
 
-“So do half the people there, probably.”
+"So do half the people there, probably."
 
-Taiga looked at him. “What the fuck do you think university is?”
+Taiga looked at him. "What the fuck do you think university is?"
 
 Yuki whined. Taiga crouched and rubbed both sides of her face.
 
-“I'll be back.”
+"I'll be back."
 
-Yoichi made a sound, and Taiga looked up. “What?”
+Yoichi made a sound, and Taiga looked up. "What?"
 
-“You talk to the dog like she understands calendars.”
+"You talk to the dog like she understands calendars."
 
-“She understands more than you.”
+"She understands more than you."
 
-“Fuck off.”
+"Fuck off."
 
 Yuki licked Taiga's chin. Yoichi smiled despite himself.
 
-The bus appeared around the bend, and Taiga stood. 
+The bus appeared around the bend, and Taiga stood.
 
 "Well," Taiga said, "guess I'll see you next time."
 
 "Tch. As if I could go somewhere else."
 
 Taiga looked at him for a second, then shook his head and stepped onto the bus.
-He took his seat and watched Yoichi flipping him off from outside. 
+He took his seat and watched Yoichi flip him off from outside.
 Taiga flipped him back.
 
 There. Goodbye.
