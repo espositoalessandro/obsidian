@@ -725,3 +725,64 @@ Leo reacted immediately with a heart.
 Taiga shook his head, still smiling, and put the phone away.
 
 ***
+
+The camp slowly emptied the following days. 
+
+Hunter left first, because he had volunteered for some art school project. Natsumi left the following afternoon, because swim training was beginning.
+Hiro and Keitaro left the following day, and without them the camp became quiet again.
+
+Taiga stayed a couple of days more, helping around the camp, doing Mercer's training schedule and arguing with Yoichi about it.
+
+Most of his friends had already returned to Olympus. Caleb said he was already re-calibrating the fridge and Nora complained about her new class schedule before courses had even started. 
+As team members began returning, the group chat got quieter. Mildly, of course.
+Enzo and Leo ended up returning on the 4rth and Enzo immediately panicked because apparently a janitor had moved Roberto somewhere he couldn't find. Ten minutes later, he found it in the Kitchen.
+
+**Enzo:** SOMEBODY TRIED TO COOK THE POOR ROBERTO
+
+Immediately after, Leo sent him a private message:
+
+**Leo:** save me 😭
+**Leo:** when are you coming back?
+
+**Taiga:** tomorrow morning
+
+**Leo:** yay 
+
+The following morning, Taiga was standing beside the bus stop with his duffel on the bag. 
+Yoichi had accompanied him with the excuse to walk Yuki outside.
+
+“Absolutely not.”
+
+Yuki put both front paws against his coat. Yoichi held the leash without helping.
+
+“She wants college.”
+
+“She eats rats.”
+
+“So do half the people there, probably.”
+
+Taiga looked at him. “What the fuck do you think university is?”
+
+Yuki whined. Taiga crouched and rubbed both sides of her face.
+
+“I'll be back.”
+
+Yoichi made a sound, and Taiga looked up. “What?”
+
+“You talk to the dog like she understands calendars.”
+
+“She understands more than you.”
+
+“Fuck off.”
+
+Yuki licked Taiga's chin. Yoichi smiled despite himself.
+
+The bus appeared around the bend, and Taiga stood. 
+
+"Well," Taiga said, "guess I'll see you next time."
+
+"Tch. As if I could go somewhere else."
+
+Taiga looked at him for a second, then shook his head and stepped onto the bus. He took his seat and watched Yoichi flipping him off from outside. Taiga flipped him back.
+
+There, goodbye.
