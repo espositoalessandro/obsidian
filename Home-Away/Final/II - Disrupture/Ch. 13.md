@@ -113,9 +113,9 @@ There were no scouts running between cabins. No whistles, no shouting from the l
 
 Winter made the place feel like backstage after the audience had gone home.
 
-Taiga liked it. He helped Aiden cleaning up the kitchen then spent the afternoon with Yoshinori going through old equipment that apparently needed to be sorted into three categories—usable, repairable and “absolutely not, Taiga, that rope is older than you are”.
+Taiga liked it. He helped Aiden clean up the kitchen, then spent the afternoon with Yoshinori going through old equipment that apparently needed to be sorted into three categories—usable, repairable and “absolutely not, Taiga, that rope is older than you are”.
 
-On the second morning, Lloyd spotted him crossing past the maintenance shed and waved both arms like Taiga might otherwise fail to notice him from ten meters away.
+On the second morning, Lloyd spotted him walking past the maintenance shed and waved both arms like Taiga might otherwise fail to notice him from ten meters away.
 
 “Taiga! Perfect timing!”
 
@@ -137,11 +137,11 @@ Darius shrugged. “And hinges.”
 
 Taiga took the screwdriver.
 
-Shortly after, he heard a car heading for the parking lot and a familiar voice immediately announcing that peace was over.
+Shortly after, he heard a car pull into the parking lot, followed by a familiar voice immediately announcing that peace was over.
 
 “WHY IS THE PARKING LOT ICE?!”
 
-Taiga heard Hiro before he saw him. Yoichi was walking a few meters away from him and heard as well.
+Taiga heard Hiro before he saw him. Yoichi, walking a few meters away, heard it too.
 
 "Because it's winter, you stupid raccoon."
 
@@ -149,13 +149,13 @@ The front door of the car opened and Hiro appeared, carrying two bags and wearin
 
 “I know what winter is, Wolfboy! I'm asking why nobody salted the part where human beings are expected to waaAAAAH-”
 
-He slipped mid-talk and he went with his butt straight onto the ground.
+He slipped mid-sentence and landed flat on his ass.
 
-Yoichi smirked. "Tch. Skill issues."
+Yoichi smirked. "Tch. Skill issue."
 
 "Hiro! Don't talk while you're walking on ice!"
 
-Keitaro appeared with a suitcase, a camera bag and a resigned expression. He helped Hiro to get up.
+Keitaro appeared with a suitcase, a camera bag and a resigned expression. He helped Hiro up.
 
 "You did it on purpose, you stinky dog," Hiro said.
 
@@ -165,7 +165,7 @@ Keitaro appeared with a suitcase, a camera bag and a resigned expression. He hel
 
 "Not my job."
 
-"Actually, Yoichi, I asked you to do it yesterday," Aiden said, appearing from one of the cabin.
+"Actually, Yoichi, I asked you to do it yesterday," Aiden said, appearing from one of the cabins.
 
 "I was busy."
 
@@ -175,7 +175,7 @@ Keitaro appeared with a suitcase, a camera bag and a resigned expression. He hel
 
 Aiden smiled widely. "Hey, little chef! Keitaro!"
 
-Hiro rushed toward him, avoiding slipping another time by some miracle. Aiden hugged him tight. 
+Hiro rushed toward him, somehow managing not to slip again. Aiden hugged him tight. 
 
 "How are you doing?"
 
@@ -202,7 +202,7 @@ Taiga stared at him. “You get punched.”
 
 Hiro hugged him anyway, and Taiga complained throughout. This did not cause Hiro to stop.
 
-"Hey buddy," Aiden said looking at the bags. "Are you going to stand there squeezing Taiga all morning, or are you going to come explain why you brought enough food to feed twenty people?”
+"Hey buddy," Aiden said, looking at the bags. "Are you going to stand there squeezing Taiga all morning, or are you going to come explain why you brought enough food to feed twenty people?”
 
 Hiro released Taiga immediately. “Oh, you'll see!”
 
@@ -212,7 +212,7 @@ Hiro released Taiga immediately. “Oh, you'll see!”
 
 Aiden blinked. "You've really turned into a proper chef now."
 
-He disappeared into the kitchen with Aiden. 
+Hiro disappeared into the kitchen with Aiden. 
 
 Yoichi looked at Keitaro. "He's still broken."
 
@@ -226,15 +226,15 @@ Yuki hit him at speed.
 
 Too late. Hunter staggered backward against the door while Yuki attempted to become one with his coat.
 
-Yoichi called from one of the chair, “She missed you, Twinkerbell.”
+Yoichi called from one of the chairs, “She missed you, Twinkerbell.”
 
 “I can tell!”
 
-Hunter laughed and crouched despite the dog immediately putting both paws on his shoulders. “Hi. Yes. Hi. I missed you too. Please don't eat my scarf.”
+Hunter laughed and crouched even as the dog immediately put both paws on his shoulders. “Hi. Yes. Hi. I missed you too. Please don't eat my scarf.”
 
 Keitaro came around the corner with his camera already in hand. Hunter looked up.
 
-“Oh, come on!.”
+“Oh, come on!”
 
 Click.
 
@@ -266,7 +266,7 @@ Natsumi barely had time to put the bag down before Hiro collided with him.
 
 “You took forever!”
 
-“I arrived less than twenty minutes later than expected.”
+“I'm less than twenty minutes late.”
 
 “Exactly. Forever.”
 
