@@ -1,187 +1,577 @@
-At seven, Taiga left room 317 with most of his clothes still folded on top of the bed.
+At seven-fifty-eight, Taiga pushed open the front door of House Apollo and immediately regretted arriving on time.
 
-Caleb looked up from his laptop as Taiga pulled on his jacket.
+The common room had been rearranged again. Both couches were against the walls, the coffee table had disappeared somewhere, and somebody had covered the long dining table with bags of chips, paper plates, pizza boxes and enough drinks to keep Enzo occupied for several hours.
 
-“Dinner?”
+Music came from the speaker near the fireplace.
 
-“Apparently.”
+Not the remix.
 
-“With the team?”
+Good.
 
-“Apparently.”
+There were already more people than Taiga had expected. Aaron and Sofia were arguing over something near the kitchen. Evan was talking to two people Taiga vaguely recognized from track. Gav sat on the arm of a couch with a paper plate balanced on one knee. Scott was beside him, holding a drink with both hands while somebody Taiga didn't know tried to make conversation.
 
-Caleb nodded. “Have fun.”
+Enzo noticed him first.
 
-Taiga stopped with one hand on the door. “Why did that sound threatening?”
+"AKATORA!"
 
-“It didn't.”
+Taiga stopped in the doorway. "I can still leave."
 
-“Right.”
+"No, you can't."
 
-The cafeteria in the University Center was louder than it had been before break.
+Enzo crossed the room and pulled him inside by the shoulder.
 
-Not packed, exactly. A lot of people still weren't back. But enough tables were occupied that the room had started sounding like itself again, chairs scraping against the floor and trays knocking against counters.
+"I walked here voluntarily."
 
-Taiga heard Enzo before he found them.
+"And now you're being rewarded."
 
-“I'm saying there is no reason to put raisins in anything.”
+"With this?"
 
-“That is not what you were saying,” Gav replied.
+"Hospitality."
 
-“It was the central argument.”
+Taiga took off his jacket.
 
-“No. Your central argument was that raisins are an insult to grapes.”
+Leo appeared from behind Enzo with two cups in his hands.
 
-“Which they are.”
+"You came."
 
-Two tables had been pushed together near the windows. Evan sat at one end with Scott beside him. Gav had his phone propped against a cup for reasons Taiga didn't want to investigate. Aaron was halfway through a plate of fries. Enzo occupied more space than one person required.
+Taiga looked at him. "You literally told me to."
 
-Leo sat across from Enzo.
+"I suggested."
 
-He looked up almost as soon as Taiga reached the table and broke into a grin.
+"You said 'see you at eight.'"
 
-“There he is.”
+"Exactly. Very open-ended."
 
-Taiga's stomach gave a quick, weightless turn.
+Taiga took one of the cups Leo offered him and smelled it.
 
-“You've seen me before,” Taiga said.
+"What is this?"
 
-“Not this year.”
+"Punch."
 
-“It's January fifth.”
+"What's in it?"
 
-“Still counts.”
+Leo glanced toward Enzo.
 
-Enzo pointed a fry at Taiga. “Akatora, settle something. Raisins.”
+Enzo immediately looked away.
 
-“No.”
+Taiga lowered the cup.
 
-Leo slapped the table once. “Thank you.”
+"Great."
 
-“I didn't even ask the question yet.”
+"It's mostly juice," Leo said.
 
-“You didn't need to.”
+"Mostly."
 
-Taiga hooked his jacket over the empty chair beside Gav.
+"Probably."
 
-Evan leaned back. “How was the camp?”
+Taiga stared at him.
 
-“Good.”
+Leo laughed. "Fine. I'll get you something else."
 
-“Still standing?” Aaron asked.
+He took the cup back and disappeared toward the kitchen before Taiga could tell him he didn't care that much.
 
-“Mostly.”
+Enzo watched him go.
 
-Leo reached across the table and stole one of Enzo's fries.
+"Service around here is incredible."
 
-“Hey.”
+"Shut up."
 
-“You were busy.”
+A few minutes later Taiga had a soda, a plate with two slices of pizza and a place on the edge of the couch beside Gav.
 
-“I was talking.”
+Someone had already tried to change the music.
 
-“Exactly.”
+Enzo physically blocked the speaker.
 
-Taiga got up to get food before Enzo could turn the theft into a legal dispute.
+"No."
 
-By the time he came back, Gav had apparently decided the conversation needed evidence.
+"You've played this song twice," Aaron said.
 
-“Raisins have a higher sugar concentration by weight because most of the water is removed.”
+"It deserves another chance."
 
-Enzo stared at him. “Whose side are you on?”
+"It had two chances."
 
-“I don't have a side.”
+"Art needs repetition."
 
-“Coward.”
+"That's not what that means."
 
-Gav put his phone down.
+Across the room, Leo leaned over the back of the couch.
 
-Taiga sat and opened his drink.
+"He's been like this since six."
 
-“So,” Evan said. “Who's already regretting coming back?”
+Taiga looked up. "Why were you here at six?"
 
-Aaron raised a hand immediately.
+"I live here."
 
-“You've been back two days.”
+"Right."
 
-“Exactly. Plenty of time.”
+Leo blinked once.
 
-“Conference season starts and he's already quitting,” Enzo said.
+Then Taiga realized.
 
-“I'm not quitting.”
+"Fuck off."
 
-“You raised your hand.”
+Leo started laughing and disappeared before Taiga could kick him.
 
-“Classes. I meant classes.”
+Gav looked over from his plate. "You walked into that one."
 
-“Convenient.”
+"I know."
 
-Aaron threw a napkin at him.
+"Just checking."
 
-It missed by half a meter.
+By eight-thirty, more people had arrived. Zoe came with Sofia's roommate. Two volleyball players Taiga had seen around campus took over one end of the table. Somebody from track brought a card game that required shouting numbers for reasons nobody managed to explain.
 
-Enzo looked at where it landed. “First touch needs work.”
+Scott lasted one round.
 
-“Fuck you.”
+A guy across from him pointed suddenly. "Your turn."
 
-Taiga ate.
+Scott froze.
 
-Evan had spent most of the break with family. Gav had apparently received a new chess set and then complained that the pieces were weighted badly. Aaron had trained twice during the break because, according to him, sitting still for three weeks would have killed him.
+"My— uh. Right."
 
-“What about you, Scott?” Evan asked.
+He looked down at the cards in his hand like they had betrayed him personally.
 
-Scott paused with his fork halfway to his mouth. “Uh—good. It was good.”
+"Seven?"
 
-Enzo and Leo had come back the day before.
+"Wrong pile."
 
-“Worst decision of my life,” Enzo said.
+"Oh."
 
-“You booked the ticket,” Leo replied.
+Enzo slapped both hands over his face.
 
-“Yes, because I possess foresight. I knew I needed twenty-four hours to mourn.”
+"Captain."
 
-“Mourn what?”
+Scott looked up, already embarrassed. "I-I know."
 
-“Temperature.”
+"You command eleven men under pressure."
 
-“You've lived here for a year and a half.”
+"That's different."
 
-“Doesn't mean I approve.”
+"Apparently."
 
-Leo looked at Taiga. “He complained from the airport to campus.”
+Gav reached over and moved one of Scott's cards.
 
-“The air hurt my face.”
+"This one."
 
-“It was six degrees.”
+Scott nodded quickly. "Right. Thanks."
 
-“Exactly.”
+Three minutes later, he won.
 
-Taiga smiled into his drink.
+Nobody understood how.
 
-Leo caught it.
+Aaron stared at the cards on the table. "You've been pretending to be bad."
 
-“What?”
+Scott's eyes widened. "No."
 
-“Nothing.”
+"That's exactly what someone pretending to be bad would say."
 
-“He thinks you're weak,” Aaron said.
+"I-I wasn't—"
 
-“I think he's dramatic.”
+"Leave him alone," Gav said.
 
-“Betrayal.”
+Aaron pointed at Scott. "Suspicious."
 
-“You knew that already.”
+Scott looked at Gav.
 
-Across the table, Leo was telling Evan something about a delayed connection on the way back. He moved his hands when he talked, nearly hit his cup, caught it without looking and kept going.
+Gav shrugged. "You did win."
 
-Taiga finished eating.
+Scott sank slightly into the couch.
 
-At some point Enzo decided they needed to rank the worst things everyone had eaten over break. This became an argument about whether homemade food could qualify if insulting somebody's mother was a possible consequence. Gav tried to establish criteria. Aaron rejected the criteria. Evan contributed a story that somehow involved a gas-station microwave burrito.
+Taiga laughed into his drink.
 
-By the time Taiga checked the clock again, it was almost nine.
+The card game died when Enzo decided the rules were boring and suggested charades.
 
-His suitcase was still open on the floor upstairs.
+Half the room objected.
 
-He should probably care.
+That apparently counted as agreement.
 
-He didn't particularly.
+"No teams of couples," Enzo announced.
+
+Aaron looked at Sofia. "We're not a couple."
+
+"Excellent. Then this rule does not affect you."
+
+"That's not—"
+
+"Moving on."
+
+Enzo tore scraps from an old notebook and passed them around.
+
+"Write something recognizable. No obscure nerd garbage."
+
+Gav looked offended. "Define obscure."
+
+"If only you know it, it's obscure."
+
+"That's not a useful definition."
+
+"It is perfect."
+
+Leo dropped onto the couch beside Taiga and held out three scraps.
+
+"Write one."
+
+"No."
+
+"Participation is mandatory."
+
+"According to who?"
+
+"Me."
+
+"Not an authority."
+
+Leo leaned closer and lowered his voice.
+
+"Thirty-five percent."
+
+Taiga turned his head.
+
+Leo was smiling.
+
+"You're still using that?"
+
+"It got you here."
+
+Taiga looked back at the paper.
+
+"Fine."
+
+He wrote *Titanic*, folded the slip and dropped it into the bowl.
+
+Leo tried to look.
+
+Taiga covered it with his hand.
+
+"Cheater."
+
+"I was checking your handwriting."
+
+"You can't read it."
+
+"Exactly."
+
+Enzo clapped loudly from the middle of the room.
+
+"Everybody shut up."
+
+Nobody did.
+
+He clapped again.
+
+"ROUND ONE."
+
+Gav went first.
+
+His prompt was apparently *Jurassic Park*.
+
+He mimed opening a door, then crouched with both arms tucked against his chest.
+
+"Dinosaur," Aaron said.
+
+Gav shook his head.
+
+"Chicken," Sofia tried.
+
+Gav looked personally wounded.
+
+"That's clearly a theropod posture."
+
+"YOU CAN'T TALK," Enzo shouted.
+
+Gav froze.
+
+Everyone stared.
+
+He sat down.
+
+"Disqualified," Enzo announced.
+
+"This game rewards ignorance."
+
+"Correct."
+
+Scott's turn was worse.
+
+He unfolded the paper, read it, and immediately looked like he wanted to disappear.
+
+"What is it?" Evan asked.
+
+Scott shook his head.
+
+"You have to act it."
+
+"I know."
+
+"Then go."
+
+Scott stood.
+
+He hesitated for several seconds, then raised both hands above his head and moved them slowly apart.
+
+Nothing.
+
+Aaron squinted. "Explosion?"
+
+Scott shook his head.
+
+"Tree?"
+
+Another head shake.
+
+"Sunrise?" Leo guessed.
+
+Scott's shoulders dropped in relief.
+
+Enzo looked at the paper.
+
+"THE LION KING?"
+
+Scott nodded.
+
+"That was a sunrise?"
+
+"It— it starts with one."
+
+"He's technically right," Gav said.
+
+"Nobody asked you."
+
+Taiga ended up laughing harder than the performance deserved.
+
+Leo noticed.
+
+"What?"
+
+Taiga shook his head.
+
+"Nothing."
+
+"You've been saying that a lot lately."
+
+Taiga looked at him.
+
+Leo had already turned back toward Scott.
+
+Next was Aaron.
+
+His prompt was *Spider-Man*.
+
+He immediately crouched, threw one hand forward and made the web-shooting gesture.
+
+"Spider-Man," Sofia said.
+
+Aaron stood straight again. "Thank you."
+
+Enzo pointed at him. "No. Too easy. Do another."
+
+"Not my fault she's good."
+
+"Do another."
+
+Aaron pulled a second slip.
+
+He read it and smiled.
+
+"Oh, easy."
+
+He put both hands on his hips, puffed out his chest and started walking around the center of the room like he owned it.
+
+"Asshole?" Taiga guessed.
+
+The room broke.
+
+Aaron stopped. "Fuck you."
+
+"Was I wrong?"
+
+"It says Superman."
+
+"Same posture."
+
+Even Sofia laughed at that.
+
+Aaron pointed at Taiga. "You're done when it's your turn."
+
+Taiga's turn came four people later.
+
+Of course it did.
+
+He unfolded the slip.
+
+*Titanic.*
+
+He looked toward Enzo.
+
+Enzo smiled.
+
+"No fucking way."
+
+"What?"
+
+Taiga held up one finger, then remembered he wasn't allowed to talk.
+
+He spread both arms.
+
+Leo shouted immediately, "Bird."
+
+Taiga stared at him.
+
+"What? You look like a bird."
+
+Taiga moved to the side, pretended to grab something and pulled it upward.
+
+"Fishing?" Evan guessed.
+
+Taiga shook his head.
+
+He pointed at the imaginary thing, then mimed it sinking.
+
+Enzo raised a hand.
+
+"Rich people drowning."
+
+Taiga stopped.
+
+The room exploded.
+
+"THAT COUNTS," Leo shouted.
+
+"It absolutely does not count," Gav said.
+
+"It is technically the plot."
+
+Taiga dropped his arms. "Fuck all of you."
+
+"You talked!" Enzo yelled. "Disqualified!"
+
+"I was already done."
+
+"Rules are rules."
+
+"You invented them thirty seconds ago."
+
+"Still rules."
+
+Taiga went back to the couch.
+
+Leo shifted over enough to make room.
+
+"Rich people drowning was good."
+
+"It was your movie."
+
+"I didn't write it."
+
+"Sure."
+
+"I swear."
+
+Taiga sat.
+
+Their knees touched briefly.
+
+The contact registered.
+
+Just that.
+
+Taiga moved his cup to the other hand.
+
+Leo didn't seem to notice.
+
+Enzo was already calling the next person.
+
+The game lasted longer than it should have.
+
+Leo turned out to be terrible.
+
+Not mediocre. Terrible.
+
+He pulled *The Godfather*, started by pretending to hold something in both arms, then made a shape over his head that nobody understood.
+
+"Baby?" Zoe guessed.
+
+Leo nodded violently.
+
+"Parenthood?"
+
+Head shake.
+
+Then Leo bent forward and started pawing at the floor with one foot.
+
+Sofia stared.
+
+"Are you giving birth to a pony?"
+
+Leo collapsed laughing before the timer even finished.
+
+Taiga leaned back against the couch and covered his mouth.
+
+"You're fucking useless."
+
+Leo pointed at him from the floor.
+
+"You try acting horse head."
+
+"You were acting a horse?"
+
+"THE HORSE HEAD," Leo said, still laughing.
+
+"That was not a horse."
+
+"It had hooves."
+
+"You used one leg."
+
+"Budget limitations."
+
+By ten, charades had mostly dissolved.
+
+Somebody restarted the card game. Aaron and Sofia disappeared into the kitchen with two other people. Evan had started telling a story near the fireplace. Gav was explaining something about a bird he'd seen during break to a volleyball player who had made the mistake of asking one follow-up question.
+
+Scott had moved to the far end of the couch and looked much happier now that nobody was asking him to perform anything.
+
+Leo, somehow, had more energy than he had when Taiga arrived.
+
+He crossed the room twice in five minutes. Once to argue with Enzo over the playlist. Once because somebody called him into a photograph. Then he stopped beside Taiga long enough to steal a chip from his plate.
+
+Taiga slapped his hand away.
+
+"Get your own."
+
+Leo took another one anyway.
+
+"These taste better."
+
+"They're the same bag."
+
+"Not anymore."
+
+"Why?"
+
+"Crime."
+
+Taiga stared at him.
+
+Leo ate the chip and walked away.
+
+Idiot.
+
+By ten-fifteen, the room had gotten warmer.
+
+Not louder, exactly. Just denser. More conversations layered over one another. Somebody had opened one of the windows near the kitchen, but it hadn't helped much.
+
+Taiga stayed another few minutes.
+
+Then somebody bumped the back of his chair while three people started shouting over a card game at the same time.
+
+Enough.
+
+He stood, grabbed his jacket from the pile near the stairs and headed up.
+
+The second floor was almost empty.
+
+The music dulled behind him as he walked past the film room. At the end of the corridor, the balcony door stood slightly open.
+
+Cold air slipped through the gap.
+
+Taiga pushed it wider.
