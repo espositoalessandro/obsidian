@@ -192,6 +192,20 @@ Soccer resumed Tuesday. Training was training: cold, wet, and two hours of Taiga
 Mercer kept his word: he resumed training as if last session was merely days before. Obviously, almost no one had followed his program to the letter. 
 The cold air didn't help as well. Gloves and thermal shirts could only do so much.
 
+Finally, Mercer blew his whistle. 
+
+"That was almost pathetic. I can see how much you've slacked off for three weeks. Conference season is about to start, get back in shape as soon as possible if you want to take part in it."
+
+A couple of players groaned, other looked excited. Taiga had no idea what he was talking about.
+
+"It's a championship between a conference of universities," said Evan in the lockers. "It's more or less like professional seasons. Two match between each university. One point for draws, three points for victories."
+
+"How many teams are in there?" Taiga asked.
+
+"It should be around ten. Last year there were eleven but I heard that one of the colleges couldn't manage a decent team."
+
+Great. Championship.
+
 The hot shower felt like a blessing. He could slowly feel the finger of his feet again.
 The locker room afterward was nearly empty by the time Taiga came out. He had stayed under the hot water longer than necessary because the walk back to Residence was going to be miserable and heat was currently free.
 
