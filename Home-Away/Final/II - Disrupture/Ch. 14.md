@@ -196,9 +196,9 @@ Finally, Mercer blew his whistle.
 
 "That was almost pathetic. I can see how much you've slacked off for three weeks. Conference season is about to start. Get back in shape as soon as possible if you want to take part in it."
 
-A couple of players groaned; others looked excited. Taiga had no idea what he was talking about.
+A couple of players groaned; others looked excited. 
 
-"It's a championship between universities in the same conference," Evan explained in the locker room. "It's more or less like a professional season. Two matches against each university. One point for a draw, three for a win."
+“It's the schools in our conference playing each other for points,” Evan explained in the locker room. "It's more or less like a professional season. Two matches against each university. One point for a draw, three for a win."
 
 "How many teams are in it?" Taiga asked.
 
@@ -258,7 +258,7 @@ Taiga exhaled and tried once more. Again, he couldn't help but touch Leo with hi
 Something dropped lightly in his stomach.
 It didn't stop there, though.
 The sensation traveled lower, behind the towel.
-Taiga felt his dick twitching slightly.
+Taiga felt his dick twitch slightly.
 
 Panic immediately flooded his system. His ears began to heat up, and his heart started beating harder.
 
