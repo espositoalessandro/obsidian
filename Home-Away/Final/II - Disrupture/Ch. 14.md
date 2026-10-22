@@ -270,6 +270,8 @@ Taiga immediately turned toward his locker and pulled a pair of underwear from h
 
 "Yay! Thank you!" Leo said.
 
+He didn't dare to look at him.
+
 "...Yeah."
 
 Taiga kept dressing as fast as he could.
