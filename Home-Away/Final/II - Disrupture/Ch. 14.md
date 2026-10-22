@@ -253,9 +253,7 @@ Oh, right. He was also wearing nothing but a towel around his waist.
 
 "Yeah, I know. That's why I never take it off."
 
-Taiga exhaled and tried again. His knuckles brushed Leo's neck once more.
-
-Warm.
+Taiga exhaled and tried once more. Again, he couldn't help but brush Leo's neck with his knuckles. It was... warm.
 
 Something tightened low in his stomach.
 Then came a faint twitch beneath the towel.
