@@ -1,8 +1,8 @@
-Owen, the professor assistant, arrived and the lab began as usual. 
+Owen, the teaching assistant, arrived and the lab began as usual. 
 
-Taiga looked at Leo, who was staring at his screen clearly still half asleep. He lightly bumped his shoulder with his own.
+Taiga looked at Leo, who was staring at his screen clearly still half-asleep. He lightly bumped his shoulder with his own.
 
-Leo turned, his eyes still half closed.
+Leo turned, his eyes still half-closed.
 
 "What."
 
@@ -22,7 +22,7 @@ Taiga smiled. "I think Owen will notice first."
 
 Leo groaned in protest. He tilted his head towards Taiga's, still resting on his shoulder.
 
-"You know, I had a dream tonight."
+"You know, I had a dream last night."
 
 "Groundbreaking."
 
@@ -56,7 +56,7 @@ Taiga chuckled. "And what was this dream about?"
 
 Leo considered for a couple of seconds. "You know what? I won't tell you."
 
-His fingers slowly went upside his leg. Now Taiga could feel the heat hitting his face. 
+His fingers slid farther up his leg. Now Taiga could feel heat rushing to his face. 
 
 "What are you doing?"
 
@@ -64,12 +64,12 @@ Leo's smirk became filthy as he leaned towards him. Luckily, no one was sitting 
 
 His fingers kept going upward. Now it had reached his pelvis.
 
-"Don't you want to find out it yourself?", Leo whispered in his ear.
+"Don't you want to find out for yourself?", Leo whispered in his ear.
 
-Taiga felt his hard started pushing hard against his ribs. Blood was suddenly flowing elsewhere, leaving his brain to reach other parts.
+Taiga felt his heart start pounding hard against his ribs. Blood was suddenly rushing elsewhere, away from his brain and toward other parts.
 He started feeling some pressure through his jeans.
 
-Leo raised both his eyebrow and grabbed his shaft, squeezing it tightly.
+Leo raised both eyebrows and grabbed his shaft, squeezing it tightly.
 
 "L-Leo, there are people here..."
 
@@ -77,23 +77,23 @@ Leo raised both his eyebrow and grabbed his shaft, squeezing it tightly.
 
 He released his dick, leaving Taiga all fuzzy for a couple of seconds.
 
-Taiga couldn't manage to focus on the lesson for the rest of the hour. Whenever oxygen finally reached out his brain again, Leo made sure that his attention stayed under the desk. Between his legs.
-By the end of the lab, his breath was short as if he had just gone through a whole soccer practice.
+Taiga couldn't manage to focus on the lesson for the rest of the hour. Whenever oxygen finally reached his brain again, Leo made sure that his attention stayed under the desk. Between his legs.
+By the end of the lab, he was short of breath, as if he had just gone through a whole soccer practice.
 His dick didn't relax for a second, throbbing harder and harder and desperately asking to be released from his fabric prison.
 
-When Owen left the room, everybody started toward the exit. 
+When Owen left the room, everybody headed for the exit. 
 
 "Oh," Leo said. "Looks like we have to go. Shall we?"
 
 Taiga glared at him. "You're the worst."
 
-"Why? Do you have problems at standing up?"
+"Why? Do you have problems standing up?"
 
 "Fuck you."
 
 Leo smiled and leaned closer. "Why don't you do it yourself?"
 
-Taiga closed his eyes. It was always the same story with him. Nothing could get Leo out of his system after a wet dream if not... making it come true.
+Taiga closed his eyes. It was always the same story with him. Nothing could get a wet dream out of Leo's system except... making it come true.
 
 Taiga put his laptop in his bag and stood up, making sure to adjust the shoulder strap so that the bag covered his... problem.
 
