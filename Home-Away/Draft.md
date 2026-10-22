@@ -318,7 +318,7 @@ Another head shake.
 
 "Sunrise?" Leo guessed.
 
-Scott's shoulders dropped in relief and turned the paper around.
+Scott's shoulders dropped in relief. He turned the paper around.
 
 "THE LION KING?"
 
