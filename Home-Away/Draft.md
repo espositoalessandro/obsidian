@@ -260,8 +260,6 @@ He clapped again.
 
 Gav went first.
 
-His prompt was apparently *Jurassic Park*.
-
 He mimed opening a door, then crouched with both arms tucked against his chest.
 
 "Dinosaur," Aaron said.
@@ -280,9 +278,9 @@ Gav froze.
 
 Everyone stared.
 
-He sat down.
+He handed the slip to Enzo and sat down.
 
-"Disqualified," Enzo announced.
+"*Jurassic Park*. Disqualified," Enzo announced.
 
 "This game rewards ignorance."
 
@@ -346,9 +344,7 @@ Leo narrowed his eyes for a second, then turned back toward Scott.
 
 Next was Aaron.
 
-His prompt was *Spider-Man*.
-
-He immediately crouched, threw one hand forward and made the web-shooting gesture.
+He unfolded his slip, immediately crouched, threw one hand forward and made the web-shooting gesture.
 
 "Spider-Man," Sofia said.
 
@@ -470,7 +466,7 @@ Leo turned out to be terrible.
 
 Not mediocre. Terrible.
 
-He pulled *The Godfather*, started by pretending to hold something in both arms, then made a shape over his head that nobody understood.
+He unfolded his slip, started by pretending to hold something in both arms, then made a shape over his head that nobody understood.
 
 "Baby?" Zoe guessed.
 
@@ -492,11 +488,11 @@ Taiga leaned back against the couch and covered his mouth.
 
 "You're fucking useless."
 
-Leo pointed at him from the floor.
+The timer ran out while Leo was still on the floor.
 
-"You try acting out a horse head."
+"It was *The Godfather*," he said.
 
-"You were acting a horse?"
+Taiga stared at him. "You were acting a horse?"
 
 "THE HORSE HEAD," Leo said, still laughing.
 
