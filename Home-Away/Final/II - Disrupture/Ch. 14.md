@@ -237,7 +237,7 @@ Leo's damp hair kept getting in the way.
 
 "Hold your hair."
 
-Leo gathered it forward with one hand. The movement tightened one shoulder and shifted the muscles across his lean back.
+Leo gathered it forward with one hand. The movement made the muscles of his lean back flex a little. The area around his shoulder blade was extremely well toned, even if he wasn't particularly bulky.
 
 Taiga blinked. Clasps.
 
