@@ -94,11 +94,11 @@ Enzo physically blocked the speaker.
 
 "That's not what that means."
 
-Across the room, Leo leaned over the back of the couch.
+A moment later, Leo wandered over and stopped beside Taiga's end of the couch.
 
 "He's been like this since six."
 
-Taiga looked up. "Why were you here at six?"
+Taiga looked up at him. "Why were you here at six?"
 
 "Enzo made me help set up."
 
@@ -108,7 +108,7 @@ Taiga looked up. "Why were you here at six?"
 
 "Right."
 
-Leo started laughing and disappeared before Taiga could kick him.
+Leo laughed and walked back toward Enzo.
 
 Gav looked over from his plate. "You walked into that one."
 
@@ -318,9 +318,7 @@ Another head shake.
 
 "Sunrise?" Leo guessed.
 
-Scott's shoulders dropped in relief.
-
-Enzo looked at the paper.
+Scott's shoulders dropped in relief and turned the paper around.
 
 "THE LION KING?"
 
