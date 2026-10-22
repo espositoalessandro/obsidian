@@ -258,11 +258,9 @@ Taiga exhaled and tried once more. Again, he couldn't help but touch Leo with hi
 Something dropped lightly in his stomach.
 It didn't stop there, though.
 The sensation traveled lower, behind the towel.
-Taiga felt a light twitch.
+Taiga felt his dick twitching slightly.
 
 Panic immediately flooded his system. His ears began to heat up, and his heart started beating harder.
-
-Shit. Holy fucking shit.
 
 He gave everything he had to focus on those freaking clasps and finally managed to snap them together.
 
