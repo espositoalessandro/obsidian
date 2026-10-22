@@ -1,6 +1,6 @@
-At seven-fifty-eight, Taiga pushed open the front door of House Apollo and immediately regretted arriving on time.
+At seven-fifty-eight, Taiga pushed open the front door of House Apollo. By the time he reached the common lounge upstairs, he was already regretting arriving on time.
 
-Upstairs, the common lounge had been rearranged again. Both couches were against the walls, the coffee table had disappeared somewhere, and somebody had covered the long dining table with bags of chips, paper plates, pizza boxes and enough drinks to keep Enzo occupied for several hours.
+The room had been rearranged again. Both couches were against the walls, the coffee table had disappeared somewhere, and somebody had covered the long dining table with bags of chips, paper plates, pizza boxes and enough drinks to keep Enzo occupied for several hours.
 
 Music came from the speaker near the fireplace.
 
@@ -28,7 +28,7 @@ Enzo crossed the room and pulled him inside by the shoulder.
 
 "Hospitality."
 
-Taiga took off his jacket.
+Taiga took off his jacket and dropped it onto the pile by the stairs.
 
 Leo appeared from behind Enzo with two cups in his hands.
 
@@ -182,7 +182,7 @@ Half the room objected.
 
 That apparently counted as agreement.
 
-"No couples cheating for each other," Enzo announced.
+"No private signals," Enzo announced, pointing at Aaron and Sofia.
 
 Aaron frowned. "Why are you looking at us?"
 
@@ -318,11 +318,11 @@ Another head shake.
 
 "Sunrise?" Leo guessed.
 
-Scott's shoulders dropped in relief. He turned the paper around.
+Scott nodded quickly, then spread his fingers around his face like a mane.
 
-"THE LION KING?"
+"The Lion King?" Enzo guessed.
 
-Scott nodded.
+Scott's shoulders dropped in relief.
 
 "That was a sunrise?"
 
@@ -392,7 +392,7 @@ He unfolded the slip.
 
 *Titanic.*
 
-Taiga held up one finger, then remembered he wasn't allowed to talk.
+Taiga opened his mouth, then remembered he wasn't allowed to talk.
 
 He spread both arms.
 
@@ -546,11 +546,11 @@ Not louder, exactly. Just denser. More conversations layered over one another. S
 
 Taiga stayed another few minutes.
 
-Then somebody bumped the back of his chair while three people started shouting over a card game at the same time.
+Then somebody clipped his knee while squeezing past as three people started shouting over a card game at the same time.
 
 Enough.
 
-He stood, grabbed his jacket from the pile near the stairs and slipped into the hall.
+He stood, grabbed his jacket from the pile by the stairs and slipped into the hall.
 
 The music dulled behind him as he walked past the film room. At the end of the corridor, the balcony door stood slightly open.
 
