@@ -382,8 +382,6 @@ Aaron pointed at Taiga. "You're done when it's your turn."
 
 Taiga's turn came four people later.
 
-Of course it did.
-
 He unfolded the slip.
 
 *Titanic.*
@@ -438,27 +436,19 @@ Leo shifted over enough to make room.
 
 "Rich people drowning was good."
 
-"It was your movie."
+"You yelled bird."
 
-"I didn't write it."
+"It was a valid interpretation."
 
-"Sure."
-
-"I swear."
+"No, it wasn't."
 
 Taiga sat.
 
 Their knees touched briefly.
 
-The contact registered.
+Taiga's attention snagged there for a second.
 
-Just that.
-
-Taiga moved his cup to the other hand.
-
-Leo didn't seem to notice.
-
-Enzo was already calling the next person.
+Then Enzo called the next person.
 
 The game lasted longer than it should have.
 
@@ -466,7 +456,7 @@ Leo turned out to be terrible.
 
 Not mediocre. Terrible.
 
-He unfolded his slip, started by pretending to hold something in both arms, then made a shape over his head that nobody understood.
+He unfolded his slip, cradled an imaginary baby, then traced a circle over his head with one finger.
 
 "Baby?" Zoe guessed.
 
@@ -498,7 +488,7 @@ Taiga stared at him. "You were acting a horse?"
 
 "That was not a horse."
 
-"It had hooves."
+"Horses have hooves."
 
 "You used one leg."
 
