@@ -77,7 +77,7 @@ Leo raised both eyebrows and grabbed his shaft, squeezing it tightly.
 
 He released his dick, leaving Taiga all fuzzy for a couple of seconds.
 
-Taiga couldn't manage to focus on the lesson for the rest of the hour. Whenever oxygen finally reached his brain again, Leo made sure that his attention stayed under the desk. Between his legs.
+Taiga couldn't manage to focus on the lesson for the rest of the hour. Whenever oxygen finally reached his brain again, Leo made sure that his attention stayed under the desk, between his legs.
 By the end of the lab, he was short of breath, as if he had just gone through a whole soccer practice.
 His dick didn't relax for a second, throbbing harder and harder and desperately asking to be released from his fabric prison.
 
@@ -166,13 +166,15 @@ Leo didn't flinch. He pulled out his own dick and began jerking off as well.
 
 Then he heard the bathroom door open. Both of them froze instantly. Two people walked in. Taiga heard the faucet turn on while two guys were discussing some assignment.
 
-His heart pounded. He could feel the pulse in his temple and his ears. Then Leo moved again.
+His heart pounded. He could feel the pulse in his temple and his ears.
+Then Leo moved again.
 
 Taiga immediately looked down. His face was a mask of terror and disbelief.
 Leo raised both eyebrows once in response and went faster, but quieter. 
 
 Taiga was so close to coming that not even the anxiety could stop it. He put a hand over his mouth, desperately trying to cover every sound. 
-His other hand went to Leo's head and started guiding him. Leo's hand on his own dick moved faster. The guys kept talking, mercifully.
+His other hand went to Leo's head and started guiding him. Leo's hand on his own dick moved faster.
+The guys kept talking, mercifully.
 
 Taiga moved Leo's head faster and faster, until he locked him in place as he came with his dick buried in his mouth. 
 Leo made a muffled choking sound, but kept swallowing everything without flinching. His eyes went up behind his eyelids when he came as well, shooting straight onto the floor.
