@@ -154,7 +154,7 @@ Scott nodded quickly. "Right. Thanks."
 
 Three minutes later, he won.
 
-Nobody understood how.
+Taiga had no idea how.
 
 Aaron stared at the cards on the table. "You've been pretending to be bad."
 
@@ -184,11 +184,11 @@ That apparently counted as agreement.
 
 "No couples cheating for each other," Enzo announced.
 
-Aaron looked at Sofia. "We're not a couple."
+Aaron frowned. "Why are you looking at us?"
 
-"Excellent. Then this rule does not affect you."
+"I'm looking at everyone."
 
-"That's not—"
+"You are literally pointing at us."
 
 "Moving on."
 
@@ -344,11 +344,7 @@ Taiga shook his head.
 
 "Nothing."
 
-"You've been saying that a lot lately."
-
-Taiga looked at him.
-
-Leo had already turned back toward Scott.
+Leo narrowed his eyes for a second, then turned back toward Scott.
 
 Next was Aaron.
 
