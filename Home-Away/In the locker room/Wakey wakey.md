@@ -143,7 +143,7 @@ Taiga felt a sense or relief, that lasted maybe a second before Leo hungrily sho
 
 "Oh, fuck-"
 
-Apparently, Leo had forgotten all the basic foreplay etiquette because he immediately started gobbling on his dick back and forth. 
+Apparently, Leo had forgotten all the basic foreplay etiquette because he immediately started gobbling his dick back and forth. 
 Saliva started dripping on the floor shortly after, as the mess Leo was making turned the blowjob into a sloppy-job in less than thirty seconds.
 
 Leo pulled back and gasped for air for a second, then he grabbed Taiga's dick and started sucking off his wet balls, looking straight at him.
