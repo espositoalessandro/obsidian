@@ -278,7 +278,79 @@ Taiga kept dressing as fast as he could.
 
 ***
 
+By Friday, Olympus had regained its population and immediately become annoying again. The paths filled, the mess hall had lines, and the common room was loud. 
 
+Nora returned with Oliver photographs, three complaints about her family and a new haircut Taiga failed to notice until she informed him he had failed to notice.
 
+“It's shorter.”
 
+Taiga looked. “Slightly.”
 
+“It's at least six centimeters.”
+
+“That's practically invisible.”
+
+“...You're hopeless.”
+
+Friday afternoon, the Apollo group chat began behaving like a fire alarm.
+
+**Enzo:** HOUSE TONIGHT
+
+**Gav:** We know.
+
+**Enzo:** do you?
+
+**Evan:** You've been talking about this for the past week...
+
+**Sofia:** If you play that remix from November I am unplugging the speaker myself.
+
+**Enzo:** that's called censorship
+
+**Leo:** i support artistic freedom 
+**Leo:** but also she is right that remix was a crime
+
+**Enzo:** you all got no taste
+
+Taiga read the messages while sitting in the library. 
+After ten minutes, Leo sent him a private message.
+
+**Leo:** you coming tonight?
+
+**Taiga:** maybe
+
+**Leo:** is that the annoying version of maybe or the actual version?
+**Leo:** because if it's annoying, maybe i need to deploy persuasion and i should prepare materials
+
+**Taiga:** what materials?
+
+**Leo:** haven't decided yet
+**Leo:** charts maybe
+
+**Taiga:** ...
+
+**Leo:** pie chart titled 'reasons taiga should leave his room'
+
+Taiga chuckled silently.
+
+**Taiga:** a pie chart doesn't make sense
+
+**Leo:** it does
+**Leo:** some reasons are more important than others
+
+**Taiga:** like?
+
+Leo took a few minutes to do his calculations.
+
+**Leo:** 47% free food
+**Leo:** 10% you have nothing better to do
+**Leo:** 8% team building obligations
+**Leo:** the rest probably me
+
+**Taiga:** that's 35% reason not to come
+
+**Leo:** see? outweighed
+**Leo:** see you at 8 ☀️
+
+At seven-fifty-two, Taiga was walking toward House Apollo.
+
+***
