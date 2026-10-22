@@ -25,7 +25,7 @@ Taiga looked at the three containers sitting on Caleb's desk. “You brought foo
 
 Caleb looked at the containers. “Too much.”
 
-Taiga smiled and dropped his duffel and the luggage beside his bed. 
+Taiga smiled and dropped his duffel and luggage beside his bed. 
 
 “You had a good break?”
 
