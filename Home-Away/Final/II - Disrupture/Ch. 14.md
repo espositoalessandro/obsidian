@@ -355,3 +355,214 @@ At seven-fifty-two, Taiga was walking toward House Apollo.
 
 ***
 
+Upstairs, the common lounge had been rearranged again. Both couches were against the walls, the coffee table had disappeared somewhere, and somebody had covered the long dining table with bags of chips, paper plates, pizza boxes and lots of paper cups.
+Music came from the speaker near the fireplace. Luckily, Enzo's remix had been banned.
+
+There were already more people than Taiga expected. Enough to make him reconsider the idea.
+
+"Taiga!"
+
+Too late. Enzo had already spotted him.
+Taiga stopped near the staircase. "I'm leaving."
+
+"No, you can't."
+
+Enzo crossed the room and pulled him inside by the shoulder.
+
+"I can walk, you know."
+
+"What? This is hospitality!"
+
+Taiga took off his jacket and put it on the hanger. Leo appeared from behind Enzo with two cups in his hands.
+
+"Hey! You came!"
+
+"Already regretting it."
+
+Taiga took one of the cups Leo offered him and smelled it. It smelled like melted strawberry candies.
+
+"What the heck is this?"
+
+"It should be punch."
+
+Taiga took a sip. Yeah, melted candy with a hint of alcohol.
+His face was probably eloquent enough because Leo laughed and took the cup from his hands.
+
+"Fine. I'll get you something else."
+
+Enzo watched him go.
+
+"See? Service around here is incredible."
+
+"Shut up."
+
+A few minutes later Taiga had a soda, a plate with two slices of pizza and a place on the edge of the couch beside Gav.
+
+By eight-thirty, more people had arrived. Zoe came in with two people Taiga vaguely recognized from around campus. Two volleyball players Taiga had seen around campus took over one end of the table. Somebody from track brought a card game that required shouting numbers.
+
+Eventually, charades took over. Mostly because of Enzo. 
+
+"No private signals," He announced, pointing at Aaron and Sofia.
+
+Enzo tore scraps from an old notebook, dropped an empty bowl on the table and passed them around.
+
+"Write something recognizable. No obscure nerd garbage."
+
+Gav looked offended. "Define obscure."
+
+"If only you know it, it's obscure."
+
+Leo dropped onto the couch beside Taiga and held out a scrap.
+
+"You know that participation is mandatory."
+
+"Says who?"
+
+He smiled. "Thirty-five percent authority."
+
+"Fuck off."
+
+Taiga took the scrap anyways. He wrote *Jaws*, folded the slip and dropped it into the bowl.
+Enzo clapped loudly from the middle of the room.
+
+"ROUND ONE."
+
+Gav went first. He mimed opening a door, then crouched with both arms tucked against his chest.
+
+"ET," Aaron said.
+
+Gav shook his head.
+
+"Chicken Little," Sofia tried.
+
+Gav looked personally wounded.
+
+"That's clearly a theropod posture."
+
+"SHUSH YOU CANNOT TALK." Enzo shouted.
+
+Gav groaned and tried again. This time he clearly mimicked a T-Rex posture.
+
+One of the volleyball player clapped once. "Jurassic Park!"
+
+He straightened up and bowed to him. "Yes!"
+
+Then was Scott's turn.
+He unfolded the paper, read it, and immediately looked like he wanted to disappear.
+He hesitated for several seconds, then raised both hands above his head and moved them slowly apart.
+
+Nothing.
+
+Aaron squinted. "Explosion?"
+
+Scott shook his head.
+
+"Sunrise?" Leo guessed.
+
+Scott nodded quickly, then spread his fingers around his face like a mane.
+
+"The Lion King?" Enzo said.
+
+Scott's shoulders dropped in relief.
+
+"That was a sunrise?"
+
+"It— it starts with one."
+
+"He's technically right," Gav said.
+
+A few person later, Aaron's turn arrived.  
+He unfolded his slip and smiled. "Oh, easy."
+
+He put both hands on his hips, puffed out his chest and started walking around the center of the room like he owned it.
+
+"Asshole?" Taiga guessed.
+
+Aaron stopped. "Fuck you."
+
+Then he raised a fist to the ceiling and looked upward.
+
+"Ha!", Gav said. "Superman!"
+
+"Yes." Aaron then pointed at Taiga. "You're done when it's your turn."
+
+Taiga's turn came four people later. He unfolded the slip:
+
+*Titanic.*
+
+Fuck.
+
+He stood up and spread both arms, slightly tilting his head upwards.
+
+"Jesus Christ?" Leo suggested. 
+
+A few people laughed. Taiga dropped his hand and exhaled. He moved to the side, 
+pretended to grab something and pulled it upward.
+
+"...Dancing?" Evan tried.
+
+Taiga shook his head. He pointed at the imaginary thing, then mimed it sinking.
+Enzo raised a hand.
+
+"Oh! Oh! I know that one! UGH- What was the name... Rich people drowning!"
+
+Taiga stopped and looked at him. 
+
+"THAT COUNTS," Leo shouted.
+
+"It absolutely does not count," Gav said.
+
+"It is technically the plot."
+
+Taiga dropped his arms. "Fuck all of you". Then went back to the couch.
+
+Leo shifted to make space.
+
+"That was pretty terrible, I gotta say."
+
+Taiga stared at him. "You said Jesus Christ."
+
+"You literally looked like the statue from Rio!"
+
+"We'll see what you pull out."
+
+Leo's turn arrived ten minutes after. 
+He unfolded his slip, cradled an imaginary baby, then traced a circle over his head with one finger.
+
+"Uh- Nanny McPhee?"
+
+Leo frowned and shook his head. He bent forward and started pawing at the floor with one foot.
+
+Sofia stared.
+
+"Are you giving birth to a pony?"
+
+Leo collapsed laughing before the timer even finished. Taiga leaned back against the couch and covered his mouth.
+
+"You're fucking useless."
+
+The timer ran out while Leo was still on the floor.
+
+"It was The Godfather," he said.
+
+"You were acting a horse?"
+
+"THE HORSE HEAD," Leo said, still laughing.
+
+"That was terrible."
+
+"Production was on a budget."
+
+Taiga lightly kicked him while he was still on the ground.
+
+Charades dissolved half an hour later, and the room fragmented again.
+By eleven, it had become hot. Conversation stacked one onto another and people moved constantly.
+Taiga looked at his empty cup and went to the kitchen to take another soda.
+When he saw that it was almost jam packed, he changed his mind. 
+
+Okay, timeout. He needed a pause. Social battery was near a dangerous level.
+He didn't still feel like going back to the room, so he picked up his jacket and crossed the hall. Past the film room, at the end of the corridor, there was the balcony door. 
+
+
+
+
