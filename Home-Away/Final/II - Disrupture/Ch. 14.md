@@ -355,7 +355,7 @@ At seven-fifty-two, Taiga was walking toward House Apollo.
 
 ***
 
-Upstairs, the common lounge had been rearranged again. Both couches were against the walls, the coffee table had disappeared somewhere, and somebody had covered the long dining table with bags of chips, paper plates, pizza boxes and lots of paper cups.
+Upstairs, the common lounge had been rearranged again. The sofas had been pushed against the walls, the coffee table had disappeared somewhere, and somebody had covered the long dining table with bags of chips, paper plates, pizza boxes and lots of paper cups.
 Music came from the speaker near the fireplace. Luckily, Enzo's remix had been banned.
 
 There were already more people than Taiga expected. Enough to make him reconsider the idea.
@@ -402,7 +402,7 @@ By eight-thirty, more people had arrived. Zoe came in with two people Taiga vagu
 
 Eventually, charades took over. Mostly because of Enzo. 
 
-"No private signals," He announced, pointing at Aaron and Sofia.
+"No private signals," he announced, pointing at Aaron and Sofia.
 
 Enzo tore scraps from an old notebook, dropped an empty bowl on the table and passed them around.
 
@@ -443,11 +443,11 @@ Gav looked personally wounded.
 
 Gav groaned and tried again. This time he clearly mimicked a T-Rex posture.
 
-One of the volleyball player clapped once. "Jurassic Park!"
+One of the volleyball players clapped once. "Jurassic Park!"
 
 He straightened up and bowed to him. "Yes!"
 
-Then was Scott's turn.
+Then it was Scott's turn.
 He unfolded the paper, read it, and immediately looked like he wanted to disappear.
 He hesitated for several seconds, then raised both hands above his head and moved them slowly apart.
 
@@ -471,7 +471,7 @@ Scott's shoulders dropped in relief.
 
 "He's technically right," Gav said.
 
-A few person later, Aaron's turn arrived.  
+A few people later, Aaron's turn arrived.  
 He unfolded his slip and smiled. "Oh, easy."
 
 He put both hands on his hips, puffed out his chest and started walking around the center of the room like he owned it.
@@ -496,7 +496,7 @@ He stood up and spread both arms, slightly tilting his head upwards.
 
 "Jesus Christ?" Leo suggested. 
 
-A few people laughed. Taiga dropped his hand and exhaled. He moved to the side, 
+A few people laughed. Taiga lowered his arms and exhaled. He moved to the side, 
 pretended to grab something and pulled it upward.
 
 "...Dancing?" Evan tried.
@@ -514,7 +514,7 @@ Taiga stopped and looked at him.
 
 "It is technically the plot."
 
-Taiga dropped his arms. "Fuck all of you". Then went back to the couch.
+Taiga dropped his arms. "Fuck all of you." Then he went back to the couch.
 
 Leo shifted to make space.
 
@@ -526,7 +526,7 @@ Taiga stared at him. "You said Jesus Christ."
 
 "We'll see what you pull out."
 
-Leo's turn arrived ten minutes after. 
+Leo's turn arrived ten minutes later. 
 He unfolded his slip, cradled an imaginary baby, then traced a circle over his head with one finger.
 
 "Uh- Nanny McPhee?"
@@ -556,12 +556,12 @@ The timer ran out while Leo was still on the floor.
 Taiga lightly kicked him while he was still on the ground.
 
 Charades dissolved half an hour later, and the room fragmented again.
-By eleven, it had become hot. Conversation stacked one onto another and people moved constantly.
+By eleven, it had become hot. Conversations stacked on top of one another and people moved constantly.
 Taiga looked at his empty cup and went to the kitchen to take another soda.
-When he saw that it was almost jam packed, he changed his mind. 
+When he saw that it was almost jam-packed, he changed his mind. 
 
 Okay, timeout. He needed a pause. Social battery was near a dangerous level.
-He didn't still feel like going back to the room, so he picked up his jacket and crossed the hall. Past the film room, at the end of the corridor, there was the balcony door. 
+He still didn't feel like going back to his room, so he picked up his jacket and crossed the hall. Past the film room, at the end of the corridor, there was the balcony door. 
 
 
 
