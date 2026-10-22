@@ -332,16 +332,6 @@ Scott's shoulders dropped in relief.
 
 Taiga ended up laughing harder than the performance deserved.
 
-Leo noticed.
-
-"What?"
-
-Taiga shook his head.
-
-"Nothing."
-
-Leo narrowed his eyes for a second, then turned back toward Scott.
-
 Next was Aaron.
 
 He unfolded his slip, immediately crouched, threw one hand forward and made the web-shooting gesture.
