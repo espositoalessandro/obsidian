@@ -29,7 +29,7 @@ Taiga smiled and dropped his duffel and the luggage beside his bed.
 
 “You had a good break?”
 
-Caleb stood. “Mostly. Maya came for New Year. My mother asked about graduate school four times.”
+Caleb stood. “Mostly. Maya came for New Year's. My mother asked about graduate school four times.”
 
 "Did you tell that you're a freshman?"
 
@@ -84,7 +84,7 @@ Normal life resumed, and Taiga unpacked.
 **Leo:** great!
 **Leo:** then food tonight
 
-Taiga groaned. He cursed himself for having picked up the phone. Peace was never meant to last apparently.
+Taiga groaned. He cursed himself for having picked up the phone. Peace was never meant to last, apparently.
 
 At seven, Taiga left his room with most of his clothes still folded on top of the bed.
 The cafeteria in the University Center was louder than it had been before break.
@@ -145,17 +145,17 @@ Leo reached across the table and stole one of Enzo's fries.
 
 Taiga got up to get food before Enzo could turn the theft into a legal dispute.
 
-By the time he came back, Gav had apparently decided the conversation about raisins wasn't over and it needed evidence.
+By the time he came back, Gav had apparently decided the raisin argument required evidence.
 
 “Raisins have a higher sugar concentration by weight because most of the water is removed.”
 
-“See? They are even bad for your teeth”, Enzo answered.
+“See? They're even bad for your teeth,” Enzo said.
 
 Scott raised his hand. "I like raisins, though..."
 
 They both stared at him.
 
-Taiga sat and opened his drink. Conversations moved on the break.
+Taiga sat and opened his drink. The conversation moved on to their breaks.
 
 Evan had spent most of the break with family. Gav had apparently received a new chess set and then complained that the pieces were weighted badly. Aaron had trained twice during the break because, according to him, sitting still for three weeks would have killed him.
 
@@ -177,9 +177,9 @@ Leo looked at Taiga. “He complained from the airport to campus.”
 
 "YES HE DID!" Enzo shouted.
 
-"I simply said 'holy shit' outside the airport. That's not a complain."
+"I simply said 'holy shit' outside the airport. That's not a complaint."
 
-Taiga smiled from his cup. "Debatable."
+Taiga smiled over the rim of his cup. "Debatable."
 
 Leo turned with a betrayed expression. "Whose side are you on?"
 
