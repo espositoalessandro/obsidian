@@ -254,7 +254,7 @@ Enzo clapped loudly from the middle of the room.
 
 Nobody did.
 
-He clapped again.
+He clapped again, pulled out his phone and set a one-minute timer.
 
 "ROUND ONE."
 
@@ -482,7 +482,7 @@ The timer ran out while Leo was still on the floor.
 
 "It was *The Godfather*," he said.
 
-Taiga stared at him. "You were acting a horse?"
+"You were acting a horse?"
 
 "THE HORSE HEAD," Leo said, still laughing.
 
@@ -502,13 +502,13 @@ Scott had moved to the far end of the couch and looked much happier now that nob
 
 Leo, somehow, had more energy than he had when Taiga arrived.
 
-He crossed the room twice in five minutes. Once to argue with Enzo over the playlist. Once because somebody called him into a photograph. Then he stopped beside Taiga long enough to steal a chip from his plate.
+He crossed the room twice in five minutes. Once to argue with Enzo over the playlist. Once because somebody called him into a photograph. Then he stopped beside Taiga and reached for a chip from his plate.
 
 Taiga slapped his hand away.
 
 "Get your own."
 
-Leo took another one anyway.
+Leo reached in again and took one anyway.
 
 "These taste better."
 
@@ -519,8 +519,6 @@ Leo took another one anyway.
 "Why?"
 
 "Crime."
-
-Taiga stared at him.
 
 Leo ate the chip and walked away.
 
