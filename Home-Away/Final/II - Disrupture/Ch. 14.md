@@ -344,7 +344,7 @@ Leo took a few minutes to do his calculations.
 **Leo:** 47% free food
 **Leo:** 10% you have nothing better to do
 **Leo:** 8% team building obligations
-**Leo:** the rest probably me
+**Leo:** the rest probably me 🤪
 
 **Taiga:** that's 35% reason not to come
 
