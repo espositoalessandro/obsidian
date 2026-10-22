@@ -31,7 +31,7 @@ Taiga smiled and dropped his duffel and luggage beside his bed.
 
 Caleb stood. “Mostly. Maya came for New Year's. My mother asked about graduate school four times.”
 
-"Did you tell that you're a freshman?"
+"Did you tell her that you're a freshman?"
 
 "Yes."
 
@@ -278,9 +278,9 @@ Taiga kept dressing as fast as he could.
 
 ***
 
-By Friday, Olympus had regained its population and immediately become annoying again. The paths filled, the mess hall had lines, and the common room was loud. 
+By Friday, Olympus had regained its population and immediately become annoying again. The paths filled, the mess hall had lines, and the dorm common room was loud. 
 
-Nora returned with Oliver photographs, three complaints about her family and a new haircut Taiga failed to notice until she informed him he had failed to notice.
+Nora returned with too many photos of Oliver, three complaints about her family and a new haircut Taiga failed to notice until she informed him he had failed to notice.
 
 “It's shorter.”
 
@@ -302,12 +302,12 @@ Friday afternoon, the Apollo group chat began behaving like a fire alarm.
 
 **Evan:** You've been talking about this for the past week...
 
-**Sofia:** If you play that remix from November I am unplugging the speaker myself.
+Gav:** If you play that remix from November I am unplugging the speaker myself.
 
 **Enzo:** that's called censorship
 
 **Leo:** i support artistic freedom 
-**Leo:** but also she is right that remix was a crime
+**Leo:** but also he is right that remix was a crime
 
 **Enzo:** you all got no taste
 
