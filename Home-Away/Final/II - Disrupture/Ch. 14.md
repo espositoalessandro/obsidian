@@ -126,3 +126,66 @@ He slapped the table once. “Thank you.”
 "That's still an answer."
 
 Taiga hooked his jacket over the empty chair beside Gav.
+
+"Did you manage to find the camp under the snow?" Enzo asked.
+
+"It wasn't that bad when I was there."
+
+"Then you were lucky."
+
+Leo reached across the table and stole one of Enzo's fries.
+
+“Hey!”
+
+“You were busy.”
+
+“I was talking.”
+
+“Exactly.”
+
+Taiga got up to get food before Enzo could turn the theft into a legal dispute.
+
+By the time he came back, Gav had apparently decided the conversation about raisins wasn't over and it needed evidence.
+
+“Raisins have a higher sugar concentration by weight because most of the water is removed.”
+
+“See? They are even bad for your teeth”, Enzo answered.
+
+Scott raised his hand. "I like raisins, though..."
+
+They both stared at him.
+
+Taiga sat and opened his drink. Conversations moved on the break.
+
+Evan had spent most of the break with family. Gav had apparently received a new chess set and then complained that the pieces were weighted badly. Aaron had trained twice during the break because, according to him, sitting still for three weeks would have killed him.
+
+“What about you, Scott?” Evan asked.
+
+Scott paused with his fork halfway to his mouth. “Uh—good. It was good.”
+
+Across the table, Leo was telling Aaron something about a delayed connection on the way back. He moved his hands when he talked, nearly hit his cup, caught it at the last moment and kept going.
+
+"And as soon as we landed, Enzo was immediately complaining about the climate."
+
+"You've been here before," Taiga pointed out.
+
+Enzo looked offended. "I was mourning the warmth of our homeland."
+
+Leo looked at Taiga. “He complained from the airport to campus.”
+
+"And you didn't?"
+
+"YES HE DID!" Enzo shouted.
+
+"I simply said 'holy shit' outside the airport. That's not a complain."
+
+Taiga smiled from his cup. "Debatable."
+
+Leo turned with a betrayed expression. "Whose side are you on?"
+
+He didn't answer.
+
+***
+
+
+
