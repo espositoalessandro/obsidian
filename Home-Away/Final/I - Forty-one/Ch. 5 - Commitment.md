@@ -204,9 +204,7 @@ He shrugged.
 
 "Guess we'll see about that."
 
-Evan then said.
-
-"Well, I seriously hope that he makes you play because I've already done my share in the last match."
+"Well, I seriously hope that he makes you play because I've already done my share in the last match," Evan said.
 
 "You're getting old."
 
@@ -233,7 +231,7 @@ Taiga sat between Leo and another development player, his bib still on. He immed
 Now that he knew he was *probably* going to play, he didn't just watch the match.
 He started analyzing everything.
 
-Their right-back was huge. Taiga estimated at least 1.90 m or so and was built like a tank. Not only that, but from the very start he saw that he was not a novice at all.
+Their right-back was huge. Taiga put him at around 1.90 m, and the guy was built like a tank. Not only that, but from the very start he saw that he was not a novice at all.
 In the first twenty minutes, he had already forced Evan backwards three times and taken the ball off him once.
 
 Great, how the fuck was he supposed to get past him?
@@ -480,7 +478,7 @@ Leo shut off the water as well. Then he opened the stall and stepped out into th
 
 Taiga looked up over the short door.
 
-"Wha-"
+"Wha—"
 
 He stopped for a second.
 Leo's towel was not around his waist. He was still using it to dry his hair.
@@ -494,7 +492,7 @@ Taiga forced himself not to look up again, but he could feel his face getting wa
 
 "You did pretty good today."
 
-"Uh- thanks."
+"Uh... thanks."
 
 He heard Leo chuckling and walking away and couldn't stop himself from peeking one more time.
 
@@ -924,7 +922,7 @@ He imagined Leo's hands on his chest. Their warmth. Then one moved downwards.
 On his abdomen.
 Then he grabbed Taiga's shaft.
 
-"F-Fuck-"
+"F-Fuck—"
 
 He rolled onto his back, kicked off the sheets and pulled up his shirt.
 God, that would be a really bad time for Caleb to wake up.
