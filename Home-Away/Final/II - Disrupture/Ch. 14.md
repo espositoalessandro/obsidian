@@ -202,9 +202,9 @@ A couple of players groaned; others looked excited.
 
 "How many teams are in it?" Taiga asked.
 
-"Should be around ten. Last year there were eleven, but I heard one of the colleges couldn't put together a decent team."
+"Don't know yet. Last year there were ten."
 
-Great. Championship.
+Great.
 
 The hot shower felt like a blessing. He could slowly feel his toes again.
 The locker room was nearly empty by the time Taiga came out. He had stayed under the hot water longer than necessary because the walk back to Residence was going to be miserable, and heat was currently free.
@@ -354,3 +354,4 @@ Leo took a few minutes to do his calculations.
 At seven-fifty-two, Taiga was walking toward House Apollo.
 
 ***
+
