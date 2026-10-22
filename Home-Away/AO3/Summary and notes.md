@@ -27,11 +27,12 @@ For now, I'm planning to post two chapters per week, on Tuesdays and Fridays. Oc
 
 Familiarity with the original games is recommended, but I won't assume it. So, you don't need to have played all of them to enjoy the story!
 
-All <em>Jock Studio</em> references and settings are based on BLits' development diaries up to October 2026, and the novel doesn't follow any of the events of the demos.<br />
+All <em>Jock Studio</em> references and settings are based on BLits' development diaries up to October 2026, and the novel doesn't follow any of the events of the demos. <br />
 So, bear in mind that some details may become outdated once the full game is released.
 
-<strong>NOTE: Leo's backstory is entirely made up by me, so it may be dramatically different from the official one.</strong>
+<strong>NOTE: Leo's backstory is entirely made up by me, so it may be dramatically different from the official one.</strong> <br />
+Enzo, Gav, and Scott's personalities are inferred from BLits' descriptions in the development diaries, so they may also differ from their eventual canon portrayals.
 
-And lastly, yes, the novel is explicit. Obviously. But sex isn't the main focus of the story, and since this is a slow-burn romance, you'll have to be patient if that's what you're here for!
+And lastly, yes, <strong>the novel is explicit</strong>. Obviously. But sex isn't the main focus of the story, and since this is a slow-burn romance, you'll have to be patient if that's what you're here for!
 
 Have fun and don't hesitate to roast me in the comments :*
