@@ -232,8 +232,8 @@ He smiled and turned his back to him.
 
 "Shut up."
 
-Taiga put the necklace around his neck and held the two ends in his hands. The clasp was worse than it looked.
-Leo's damp hair kept getting in the way.
+Taiga put the necklace around his neck and held the two ends in his hands. They were nastier than he expected.
+Leo's damp hair kept making things harder.
 
 "Hold your hair."
 
@@ -253,16 +253,18 @@ Oh, right. He was also wearing nothing but a towel around his waist.
 
 "Yeah, I know. That's why I never take it off."
 
-Taiga exhaled and tried once more. Again, he couldn't help but brush Leo's neck with his knuckles. It was... warm.
+Taiga exhaled and tried once more. Again, he couldn't help but touch Leo with his knuckles. It was... warm.
 
-Something tightened low in his stomach.
-Then came a faint twitch beneath the towel.
+Something dropped lightly in his stomach.
+It didn't stop there, though.
+The sensation traveled lower, behind the towel.
+Taiga felt a light twitch.
 
-Taiga froze. His ears went hot, and his heart kicked harder.
+Panic immediately flooded his system. His ears began to heat up, and his heart started beating harder.
 
 Shit. Holy fucking shit.
 
-He forced all his attention onto the fucking clasp and finally managed to snap it shut.
+He gave everything he had to focus on those freaking clasps and finally managed to snap them together.
 
 "Okay. Done."
 
