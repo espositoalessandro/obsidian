@@ -1,6 +1,6 @@
 At seven-fifty-eight, Taiga pushed open the front door of House Apollo and immediately regretted arriving on time.
 
-The common room had been rearranged again. Both couches were against the walls, the coffee table had disappeared somewhere, and somebody had covered the long dining table with bags of chips, paper plates, pizza boxes and enough drinks to keep Enzo occupied for several hours.
+Upstairs, the common lounge had been rearranged again. Both couches were against the walls, the coffee table had disappeared somewhere, and somebody had covered the long dining table with bags of chips, paper plates, pizza boxes and enough drinks to keep Enzo occupied for several hours.
 
 Music came from the speaker near the fireplace.
 
@@ -100,15 +100,13 @@ Across the room, Leo leaned over the back of the couch.
 
 Taiga looked up. "Why were you here at six?"
 
-"I live here."
+"Enzo made me help set up."
+
+"Made you."
+
+"I was promised pizza."
 
 "Right."
-
-Leo blinked once.
-
-Then Taiga realized.
-
-"Fuck off."
 
 Leo started laughing and disappeared before Taiga could kick him.
 
@@ -118,7 +116,7 @@ Gav looked over from his plate. "You walked into that one."
 
 "Just checking."
 
-By eight-thirty, more people had arrived. Zoe came with Sofia's roommate. Two volleyball players Taiga had seen around campus took over one end of the table. Somebody from track brought a card game that required shouting numbers for reasons nobody managed to explain.
+By eight-thirty, more people had arrived. Zoe came in with two people Taiga vaguely recognized from around campus. Two volleyball players Taiga had seen around campus took over one end of the table. Somebody from track brought a card game that required shouting numbers for reasons nobody managed to explain.
 
 Scott lasted one round.
 
@@ -142,7 +140,7 @@ Enzo slapped both hands over his face.
 
 Scott looked up, already embarrassed. "I-I know."
 
-"You command eleven men under pressure."
+"You spend two hours screaming at ten people."
 
 "That's different."
 
@@ -184,7 +182,7 @@ Half the room objected.
 
 That apparently counted as agreement.
 
-"No teams of couples," Enzo announced.
+"No couples cheating for each other," Enzo announced.
 
 Aaron looked at Sofia. "We're not a couple."
 
@@ -194,7 +192,7 @@ Aaron looked at Sofia. "We're not a couple."
 
 "Moving on."
 
-Enzo tore scraps from an old notebook and passed them around.
+Enzo tore scraps from an old notebook, dropped an empty bowl on the table and passed them around.
 
 "Write something recognizable. No obscure nerd garbage."
 
@@ -236,7 +234,7 @@ Taiga looked back at the paper.
 
 "Fine."
 
-He wrote *Titanic*, folded the slip and dropped it into the bowl.
+He wrote *Jaws*, folded the slip and dropped it into the bowl.
 
 Leo tried to look.
 
@@ -378,7 +376,7 @@ He put both hands on his hips, puffed out his chest and started walking around t
 
 "Asshole?" Taiga guessed.
 
-The room broke.
+The room broke into laughter.
 
 Aaron stopped. "Fuck you."
 
@@ -399,14 +397,6 @@ Of course it did.
 He unfolded the slip.
 
 *Titanic.*
-
-He looked toward Enzo.
-
-Enzo smiled.
-
-"No fucking way."
-
-"What?"
 
 Taiga held up one finger, then remembered he wasn't allowed to talk.
 
@@ -510,7 +500,7 @@ Taiga leaned back against the couch and covered his mouth.
 
 Leo pointed at him from the floor.
 
-"You try acting horse head."
+"You try acting out a horse head."
 
 "You were acting a horse?"
 
@@ -566,9 +556,7 @@ Then somebody bumped the back of his chair while three people started shouting o
 
 Enough.
 
-He stood, grabbed his jacket from the pile near the stairs and headed up.
-
-The second floor was almost empty.
+He stood, grabbed his jacket from the pile near the stairs and slipped into the hall.
 
 The music dulled behind him as he walked past the film room. At the end of the corridor, the balcony door stood slightly open.
 
