@@ -187,5 +187,85 @@ He didn't answer.
 
 ***
 
+Soccer resumed Tuesday. Training was training: cold, wet, and two hours of Taiga discovering that three weeks away is not good for sports.
+
+Mercer kept his word: he resumed training as if last session was merely days before. Obviously, almost no one had followed his program to the letter. 
+The cold air didn't help as well. Gloves and thermal shirts could only do so much.
+
+The hot shower felt like a blessing. He could slowly feel the finger of his feet again.
+The locker room afterward was nearly empty by the time Taiga came out. He had stayed under the hot water longer than necessary because the walk back to Residence was going to be miserable and heat was currently free.
+
+When he came out, towel around his waist, most of the team had already gone. Scott was closing his locker, Aaron was arguing with someone on the phone about train tickets, and Leo stood three lockers down from Taiga wearing just a pair of tracksuit pants, his hair still wet from the shower.
+
+"Holy fuck-"
+
+Taiga looked over. Leo was fiddling with something around his neck and loudly cursing.
+He caught Taiga staring and said:
+
+"Can you help me with this shitty clasp? I never take my necklace off, but with the cold it's kinda ugly against my skin."
+
+He was holding a red lace with golden clasps at the end. The lace was holding a golden pendant resembling the outline of a sun.
+
+"Uh, sure."
+
+Leo came over and lended him both ends.
+
+"Alright, turn."
+
+He smiled and turned his back to him.
+
+“See, this is why I keep you around.”
+
+"Shut up."
+
+Taiga put the necklace around his neck and held the two ends in his hands. They were nastier than he expected.
+Leo's damp hair kept making things harder.
+
+"Hold your hair."
+
+Leo gathered it forward with one hand. That movement made the muscles of his lean back flex a bit. The area around the shoulder blade was extremely well toned, even if he wasn't that bulky.
+
+Taiga blinked. Clasps.
+
+He tried again.
+Whoever had made these things was a sadist.
+
+His fingers kept brushing against the back of Leo's neck. He suddenly became very aware of his bare skin standing like 30 centimeters away from his own. 
+Oh, right. He was also wearing just a towel around his waist.
+
+"You good?" Leo asked.
+
+"Why did they make them so fucking small?"
+
+"Yeah, I know. That's why I never take it off."
+
+Taiga exhaled and tried once more. Again, he couldn't help but touch Leo with his knuckles. He was... warm.
+Something dropped lightly from his stomach. 
+It didn't stop, though.
+The sensation reached the area behind his towel. 
+Taiga felt a light twitch.
+
+Panic immediately flooded his system. His ears began raising in temperature, and his heart started beating harder.
+
+Shit. Holy fucking shit.
+
+He gave everything he had to focus on these freaking clasps and finally managed to snap them together.
+
+"Okay. Done."
+
+Taiga turned immediately toward his locker and pulled a pair of underwear from the bag.
+
+"Yay! Thank you!" Leo said.
+
+He didn't dare to look at him. 
+
+"...Yeah."
+
+Taiga kept dressing as fast as he could.
+
+***
+
+
+
 
 
