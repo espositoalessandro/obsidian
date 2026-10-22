@@ -258,9 +258,7 @@ Taiga exhaled and tried once more. Again, he couldn't help but brush Leo's neck 
 Something tightened low in his stomach.
 Then came a faint twitch beneath the towel.
 
-Taiga froze.
-
-His ears went hot, and his heart kicked harder.
+Taiga froze. His ears went hot, and his heart kicked harder.
 
 Shit. Holy fucking shit.
 
