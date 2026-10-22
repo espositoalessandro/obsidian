@@ -560,7 +560,8 @@ By eleven, it had become hot. Conversations stacked on top of one another and pe
 Taiga looked at his empty cup and went to the kitchen to take another soda.
 When he saw that it was almost jam-packed, he changed his mind. 
 
-Okay, timeout. He needed a pause. Social battery was near a dangerous level.
+Okay, timeout. He needed a pause. 
+
 He still didn't feel like going back to his room, so he picked up his jacket and crossed the hall. Past the film room, at the end of the corridor, there was the balcony door. 
 
 
