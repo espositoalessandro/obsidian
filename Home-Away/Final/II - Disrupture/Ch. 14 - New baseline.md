@@ -302,7 +302,7 @@ Friday afternoon, the Apollo group chat began behaving like a fire alarm.
 
 **Evan:** You've been talking about this for the past week...
 
-Gav:** If you play that remix from November I am unplugging the speaker myself.
+**Gav:** If you play that remix from November I am unplugging the speaker myself.
 
 **Enzo:** that's called censorship
 
@@ -661,7 +661,7 @@ Leo paused a second and narrowed his eyes.
 
 "Ah-ah, very funny."
 
-Taiga smiled. After a brief pause, he said "I ended up declaring CS."
+Taiga smiled. After a brief pause, he said, "I ended up declaring CS."
 
 "Then, welcome officially to the sad side of the internet."
 
