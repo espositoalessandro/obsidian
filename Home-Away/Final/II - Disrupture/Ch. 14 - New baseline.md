@@ -104,7 +104,6 @@ Taiga heard Enzo before he found them.
 “Which they are.”
 
 Two tables had been pushed together near the windows. Almost everyone was already there.
-
 Taiga immediately spotted the only blond head in the group. Leo spotted him too and beamed.
 
 “There he is!”
@@ -143,8 +142,7 @@ Leo reached across the table and stole one of Enzo's fries.
 
 “Exactly.”
 
-Taiga got up to get food before Enzo could turn the theft into a legal dispute.
-
+Taiga went to get food before Enzo could turn the theft into a legal dispute.
 By the time he came back, Gav had apparently decided the raisin argument required evidence.
 
 “Raisins have a higher sugar concentration by weight because most of the water is removed.”
@@ -255,12 +253,11 @@ Oh, right. He was also wearing nothing but a towel around his waist.
 
 Taiga exhaled and tried once more. Again, he couldn't help but touch Leo with his knuckles. It was... warm.
 
-Something dropped lightly in his stomach.
-It didn't stop there, though.
-The sensation traveled lower, behind the towel.
-Taiga felt his dick twitch slightly.
+Something dropped lightly in his stomach and didn't stop there. The sensation traveled lower, behind the towel.
+He felt his dick twitch slightly.
 
-Panic immediately flooded his system. His ears began to heat up, and his heart started beating harder.
+What the fuck?
+Panic immediately flooded his system. 
 
 He gave everything he had to focus on those freaking clasps and finally managed to snap them together.
 
@@ -282,9 +279,9 @@ By Friday, Olympus had regained its population and immediately become annoying a
 
 Nora returned with too many photos of Oliver, three complaints about her family and a new haircut Taiga failed to notice until she informed him he had failed to notice.
 
-“It's shorter.”
+“It's shorter!”
 
-Taiga looked. “Slightly.”
+Taiga looked. “Barely.”
 
 “It's at least six centimeters.”
 
@@ -292,19 +289,17 @@ Taiga looked. “Slightly.”
 
 “...You're hopeless.”
 
-Friday afternoon, the Apollo group chat began behaving like a fire alarm.
+Friday afternoon, the Apollo group chat began went on fire.
 
-**Enzo:** HOUSE TONIGHT
+**Enzo:** HOUSE PARTY TONIGHT
 
 **Gav:** We know.
-
-**Enzo:** do you?
 
 **Evan:** You've been talking about this for the past week...
 
 **Gav:** If you play that remix from November I am unplugging the speaker myself.
 
-**Enzo:** that's called censorship
+**Enzo:** that's censorship
 
 **Leo:** i support artistic freedom 
 **Leo:** but also he is right that remix was a crime
@@ -341,7 +336,7 @@ Taiga chuckled silently.
 
 Leo took a few minutes to do his calculations.
 
-**Leo:** 47% free food
+**Leo:** 47% food
 **Leo:** 10% you have nothing better to do
 **Leo:** 8% team building obligations
 **Leo:** the rest probably me 🤪
@@ -422,7 +417,7 @@ He smiled. "Thirty-five percent authority."
 
 "Fuck off."
 
-Taiga took the scrap anyways. He wrote *Jaws*, folded the slip and dropped it into the bowl.
+Taiga took the scrap anyway. He wrote *Jaws*, folded the slip and dropped it into the bowl.
 Enzo clapped loudly from the middle of the room.
 
 "ROUND ONE."
@@ -478,20 +473,19 @@ He put both hands on his hips, puffed out his chest and started walking around t
 
 "Asshole?" Taiga guessed.
 
-Aaron stopped. "Fuck you."
+The room laughed and Aaron stopped. "Fuck you."
 
 Then he raised a fist to the ceiling and looked upward.
 
 "Ha!", Gav said. "Superman!"
 
-"Yes." Aaron then pointed at Taiga. "You're done when it's your turn."
+"Yes."
 
 Taiga's turn came four people later. He unfolded the slip:
 
 *Titanic.*
 
 Fuck.
-
 He stood up and spread both arms, slightly tilting his head upwards.
 
 "Jesus Christ?" Leo suggested. 
@@ -527,12 +521,11 @@ Taiga stared at him. "You said Jesus Christ."
 "We'll see what you pull out."
 
 Leo's turn arrived ten minutes later. 
-He unfolded his slip, cradled an imaginary baby, then traced a circle over his head with one finger.
+He unfolded his slip and stood. He cradled an imaginary baby, then traced a circle over his head with one finger.
 
-"Uh- Nanny McPhee?"
+"Uh- Nanny McPhee?" someone said.
 
 Leo frowned and shook his head. He bent forward and started pawing at the floor with one foot.
-
 Sofia stared.
 
 "Are you giving birth to a pony?"
@@ -639,7 +632,7 @@ It was more everything around it that didn't sit well with Taiga. But whatever.
 
 "I am!" Leo smiled. There was no hesitation in his voice. "I like when people rely on me."
 
-Taiga smiled back, but didn't answer. 
+Taiga nodded, but didn't answer. 
 
 After a while, Leo said, "So!"
 
