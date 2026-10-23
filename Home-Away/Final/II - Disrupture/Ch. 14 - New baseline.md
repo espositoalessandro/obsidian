@@ -649,9 +649,9 @@ After a while, Leo said, "So!"
 
 "Yeah, I've heard."
 
-"What are you taking?"
+"Your plan is still the same?"
 
-"Data Structures, Discrete Structures, Chemistry and Calculus II."
+"Yeah. Data Structures, Discrete Structures, Chemistry and Calculus II."
 
 "Great! It's basically the same schedule as mine, but I ditched Chemistry."
 
@@ -659,7 +659,15 @@ After a while, Leo said, "So!"
 
 Leo paused a second and narrowed his eyes.
 
-"Ah-ah, very funny. Anyway, which sections of Calculus and Discrete are you in?"
+"Ah-ah, very funny."
+
+Taiga smiled. After a brief pause, he said "I ended up declaring CS."
+
+"Then, welcome officially to the sad side of the internet."
+
+"Great."
+
+"Anyway, which sections of Calculus and Discrete are you in?"
 
 Taiga pulled out his phone and checked the schedule. Leo leaned over to see.
 
