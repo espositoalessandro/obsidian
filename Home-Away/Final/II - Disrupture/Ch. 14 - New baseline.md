@@ -608,7 +608,7 @@ Leo exhaled into his hands. “Okay, this was a better plan in October.”
 
 Leo hesitated. "It's- uh... How do I put this?"
 
-He bit his lips for a second.
+He bit his lip for a second.
 
 Taiga rested his forearms on the railing. "You know you don't have to tell me if you don't want to."
 
@@ -616,7 +616,7 @@ Taiga rested his forearms on the railing. "You know you don't have to tell me if
 
 "Then good luck."
 
-Leo laughed lightly punched on his shoulder. "Fuck you."
+Leo laughed and lightly punched him on the shoulder. "Fuck you."
 
 Taiga smiled as well.
 
@@ -633,7 +633,7 @@ It also seemed exhausting. Taiga would have needed half a day to process half of
 
 "It's just five minutes, not a big deal."
 
-It was more the whole surrounding that didn't sit well with Taiga. But whatever.
+It was more everything around it that didn't sit well with Taiga. But whatever.
 
 "As long as you're fine with that."
 
@@ -645,7 +645,7 @@ After a while, Leo said, "So!"
 
 "What."
 
-"Classes. Monday semester's gonna start, y'know."
+"Classes. Semester starts Monday, y'know."
 
 "Yeah, I've heard."
 
@@ -659,7 +659,7 @@ After a while, Leo said, "So!"
 
 Leo paused a second and narrowed his eyes.
 
-"Ah-ah, very funny. Anyway, which section of Calculus and Discrete are you in?"
+"Ah-ah, very funny. Anyway, which sections of Calculus and Discrete are you in?"
 
 Taiga pulled out his phone and checked the schedule. Leo leaned over to see.
 
