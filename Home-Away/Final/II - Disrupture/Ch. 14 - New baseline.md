@@ -645,4 +645,24 @@ After a while, Leo said, "So!"
 
 "What."
 
-"Monday. Classes. "
+"Classes. Monday semester's gonna start, y'know."
+
+"Yeah, I've heard."
+
+"What are you taking?"
+
+"Data Structures, Discrete Structures, Chemistry and Calculus II."
+
+"Great! It's basically the same schedule as mine, but I ditched Chemistry."
+
+"Afraid of wildfires?"
+
+Leo paused a second and narrowed his eyes.
+
+"Ah-ah, very funny. Anyway, which section of Calculus and Discrete are you in?"
+
+Taiga pulled out his phone and checked the schedule. Leo leaned over to see.
+
+"Oh," Leo smiled. "This is gonna be such a fun semester."
+
+Taiga smelled trouble.
