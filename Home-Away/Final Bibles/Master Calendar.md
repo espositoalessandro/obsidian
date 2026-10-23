@@ -40,7 +40,7 @@ The novel takes place across the **2025–2026 academic year**.
 | Sat Dec 27 | Taiga goes to Camp Buddy for the winter reunion | WORKING |
 | Wed Dec 31 | New Year's Eve at Camp Buddy | WORKING |
 | Fri Jan 2–Sat Jan 3, 2026 | Camp Buddy winter reunion winds down; Taiga returns toward Olympus | WORKING |
-| Tue Jan 6, 2026 | Caleb's stated return date to Olympus | LOCKED |
+| By Sun Jan 4, 2026 | Caleb has already returned to Olympus | LOCKED |
 | Mon Jan 12 | Spring teaching term begins | WORKING |
 | Fri Feb 27–Sun Mar 1 | Pinetree exchange weekend | WORKING |
 | Fri Apr 10–Sun Apr 19 | Spring Break / Camp Buddy preseason trip | **LOCKED REVISED CANON** |
