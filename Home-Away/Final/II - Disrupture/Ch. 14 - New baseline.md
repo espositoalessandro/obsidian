@@ -1,4 +1,4 @@
-### Chapter 14
+### Chapter 14 - New baseline
 
 Taiga opened the room 317 door at 12:36 and found Caleb kneeling beside the mini-fridge with a thermometer in one hand.
 Obviously.
@@ -562,8 +562,87 @@ When he saw that it was almost jam-packed, he changed his mind.
 
 Okay, timeout. He needed a pause. 
 
-He still didn't feel like going back to his room, so he picked up his jacket and crossed the hall. Past the film room, at the end of the corridor, there was the balcony door. 
+He still didn't feel like going back to his room, so he picked up his jacket and crossed the hall. Past the film room, at the end of the corridor, there was the balcony door already half open.
+Taiga pushed it wider and stopped.
 
+Leo was already outside, standing with both forearms resting on the railing and looking over the dark Sports Zone. No coat, just the green sweater.
 
+He turned. Surprise crossed his face for a second, then a smile.
 
+"Oh, hey!"
 
+Taiga stepped outside and pulled the door mostly closed behind him. 
+
+“You're going to freeze.”
+
+“Probably.”
+
+“Then why are you out here?”
+
+Leo looked toward the windows behind them, where music thumped faintly through the glass.
+
+“I'm just taking some fresh air.”
+
+“I thought crowds were your fresh air.”
+
+He laughed. “Sometimes even I need a pause.” 
+
+Then he turned to the railing. Taiga looked at him for a few seconds.
+
+“Okay. I'll leave you alone, then.”
+
+Taiga was about to go back inside when Leo turned suddenly and grabbed his sleeve.
+
+“No, no, it's okay. You can stay if you want. I don't mind.”
+
+Taiga stared at him without answering for a second, then moved beside him at the railing.
+The balcony overlooked the practice fields, where snow remained in thin gray-white lines along the edges nobody had walked. The pitch lights were off, and without them the Sports Zone looked unfamiliar.
+
+Leo exhaled into his hands. “Okay, this was a better plan in October.”
+
+"Then go inside."
+
+"Nah, I need just five minutes. You know, just a quick reset."
+
+"Reset from what?"
+
+Leo hesitated. "It's- uh... How do I put this?"
+
+He bit his lips for a second.
+
+Taiga rested his forearms on the railing. "You know you don't have to tell me if you don't want to."
+
+"No, no, it's not that I don't want to tell you. It's a stupid thing. It's just, I've never... you know, put it in words? It simply made sense in my mind."
+
+"Then good luck."
+
+Leo laughed lightly punched on his shoulder. "Fuck you."
+
+Taiga smiled as well.
+
+After a pause, Leo continued. "Maybe sometimes, when I talk to too many different people, or there's too much noise going on for a while, I just get... uh, overwhelmed?"
+
+"Overwhelmed?"
+
+"Yeah... It's like I'm trying to hold onto everything that's happening and all the things people tell me. I guess then my brain needs some time to digest it."
+
+Taiga thought about every stupid detail Leo seemed able to remember about every conversation. That made sense, somehow. 
+It also seemed exhausting. Taiga would have needed half a day to process half of the stuff.
+
+"Sounds rough."
+
+"It's just five minutes, not a big deal."
+
+It was more the whole surrounding that didn't sit well with Taiga. But whatever.
+
+"As long as you're fine with that."
+
+"I am!" Leo smiled. There was no hesitation in his voice. "I like when people rely on me."
+
+Taiga smiled back, but didn't answer. 
+
+After a while, Leo said, "So!"
+
+"What."
+
+"Monday. Classes. "
