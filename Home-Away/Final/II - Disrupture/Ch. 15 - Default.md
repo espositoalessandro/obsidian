@@ -254,6 +254,9 @@ Taiga put the phone face down and returned to his notes.
 ***
 
 Thursday arrived, and training got rougher. With the first conference match one week away, Mercer had to make sure they had fully recovered from the break by then.
+
+"Rest this weekend. From Monday, we'll resume with our three days per week schedule."
+
 Aaron complained the whole session. Apparently, training twice during the break hadn't made thing easier.
 
 In the lockers, he was still arguing about whether Mercer's training plan was actually adequate.
@@ -268,7 +271,8 @@ In the lockers, he was still arguing about whether Mercer's training plan was ac
 
 Taiga was pulling out one of his socks when Leo passed with just a towel around the waist and a bottle of shampoo in one hand.
 
-Again. He's been seeing Leo shirtless the whole fucking semester. Why did his brain decide to short-circuit now?
+His stomach twitched. Again. What the fuck?
+He's been seeing Leo shirtless the whole fucking semester. Why did his brain decide to short-circuit now?
 
 He removed one of his shin guards. One of the straps had twisted, so he straightened it. He checked the other one too.
 Around him, people were heading for the showers. Leo's voice moved toward the doorway with Enzo's.
@@ -287,5 +291,18 @@ Taiga put the phone down.
 This was ridiculous. There were men changing all around him. There had been men changing all around him for months. Leo had not acquired a new body since last Tuesday.
 
 He spent the whole time in the shower studying every detail of the tiles of the floor. Still, he was perfectly aware of which stall Leo was in.
+Fuck.
 
 ***
+
+By the end of the next week, Taiga had developed a plan. Spend as much time as possible on the field before going in the locker room. Then play for time near the locker until Leo had spent at least five minutes in the shower. 
+No watching him going in, no watching him coming out.
+Perfect.
+
+That lasted two sessions.
+
+Friday, the day before the first conference match, there was enough tension in the air to distract Taiga.
+
+He could see it everywhere with the other freshmen. When Mercer corrected them, Aaron got snappier. Leo laughed too much. Enzo didn't joke.
+
+
