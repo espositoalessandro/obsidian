@@ -158,17 +158,13 @@ Taiga laughed and kicked him under the chair.
 
 The day was already grey and sad, but somehow Mercer's announcement made it even more depressing.
 
-"Conference season begins this Saturday with St. Vincent. We host."
+"Conference season begins next week on Saturday with St. Vincent. We host."
 
 Players exchanged concerned looks across the field. Aaron lost his smug face for several minutes. Even Leo's attention snapped forward.
 
 "It's gonna be nothing different from what we've done in fall. Same sport, same rules. Bigger crowd."
 
 Taiga gulped. The last words sounded a bit contradictory with the premise.
-
-"Thursday, film after training. We'll discuss strategies and formation."
-
-Then he dismissed them. 
 
 In the lockers, everyone was talking about the upcoming season. Every freshman was bombarding older players with questions.
 Aaron was untying his boots more silently than usual. Enzo was reacting by being even more loud. Leo was listening to something Evan was saying, while pulling his shirt off.
@@ -182,3 +178,114 @@ He undressed quickly and rushed to the stall.
 
 ***
 
+Taiga was in his room that evening. His phone buzzed beside the Discrete reading.
+
+**Leo:** question about the lab
+
+**Taiga:** what broke
+
+**Leo:** nothing yet
+**Leo:** do you think the helper needs its own test
+
+Taiga wasn't sure whether he was joking or serious. Apparently he was both, because he asked two useful follow-up question when Taiga answered. Plus a stupid joke, obviously.
+A photo followed shortly after: a sandwich whose contents were sliding out of one side while Leo apparently attempted to hold the rest together with his thumb.
+
+**Leo:** unrelated emergency
+
+**Taiga:** put the phone down and use both hands
+
+**Leo:** i'm documenting the situation
+
+**Taiga:** you're sacrificing your dinner for that
+
+Six minutes later, a second photograph arrived.
+The sandwich was now on a plate in several pieces.
+
+**Leo:** update
+
+Taiga laughed loudly enough that Caleb turned over.
+
+**Taiga:** congrats, now you have a salad
+
+**Leo:** 💀
+
+***
+
+Wednesday brought the second Data Structure lesson. Leo arrived and immediately dropped his head on the desk.
+
+"Calculus at nine in the morning should be illegal."
+
+"Nine it's not that early."
+
+Leo turned towards him without raising his head. His face loudly disagreed.
+He managed to recover during the lesson enough to take notes. 
+
+"Coffee? I absolutely need one." Leo said, while starting toward the exit.
+
+"Can't. I have my Calculus section in ten minutes."
+
+"Ah, right. Tomorrow?"
+
+"We have separate classes tomorrow."
+
+Leo paused a second. "Right. Well, good suffering then. See you at training!"
+
+He went downstairs, while Taiga entered another class. By the time he had sat down and pulled out his notes, his phone buzzed.
+
+**Leo:** do you think pigeons know when semester starts
+
+Taiga looked around the class. There was no context.
+
+**Taiga:** what
+
+**Leo:** there are like 40 outside apollo
+**Leo:** where were they in december
+
+**Taiga:** somewhere warmer because they're not idiots
+
+**Leo:** so they DO know
+
+**Taiga:** that's not what i said
+
+**Leo:** i'll take it
+
+Taiga put the phone face down and returned to his notes.
+
+***
+
+Thursday arrived, and training got rougher. With the first conference match one week away, Mercer had to make sure they had fully recovered from the break by then.
+Aaron complained the whole session. Apparently, training twice during the break hadn't made thing easier.
+
+In the lockers, he was still arguing about whether Mercer's training plan was actually adequate.
+
+"You did it twice in three weeks!" Enzo pointed out.
+
+"And you never did it."
+
+"And I'm accepting the consequences of my decisions."
+
+"You can barely walk."
+
+Taiga was pulling out one of his socks when Leo passed with just a towel around the waist and a bottle of shampoo in one hand.
+
+Again. He's been seeing Leo shirtless the whole fucking semester. Why did his brain decide to short-circuit now?
+
+He removed one of his shin guards. One of the straps had twisted, so he straightened it. He checked the other one too.
+Around him, people were heading for the showers. Leo's voice moved toward the doorway with Enzo's.
+ 
+Taiga took his phone out. Caleb had asked whether they needed detergent.
+
+**Taiga:** yeah
+
+That took approximately two seconds. He continued looking at the screen anyway.
+
+"You good?" Evan asked while headed to the shower.
+
+"Yeah, I'm coming."
+
+Taiga put the phone down.
+This was ridiculous. There were men changing all around him. There had been men changing all around him for months. Leo had not acquired a new body since last Tuesday.
+
+He spent the whole time in the shower studying every detail of the tiles of the floor. Still, he was perfectly aware of which stall Leo was in.
+
+***
