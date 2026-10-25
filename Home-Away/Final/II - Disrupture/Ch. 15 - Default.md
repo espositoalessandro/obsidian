@@ -317,11 +317,15 @@ Leo nodded without changing expression. He was totally serious. "Right."
 
 Class ended. Taiga and Leo stood and picked up their bag.
 
-"Do you want to go to the lib in the afternoon?" Leo asked.
+"I'm going to the lib with Nora after lunch." Taiga said.
 
-"Yeah, Nora already asked me. Want to tag along?"
+"Uh... okay."
 
-"Sure! Coffee?"
+Taiga raised an eyebrow. "You want to come?"
+
+"Ah! Sorry, I-". He shook his head. "Yeah, sure!"
+
+Then after a second, "Coffee?"
 
 Taiga considered. He had nothing to do until lunch. Why not.
 
