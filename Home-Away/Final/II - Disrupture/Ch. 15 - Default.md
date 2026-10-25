@@ -335,11 +335,13 @@ Leo smiled. "Great!"
 
 ***
 
-Next Monday, Taiga arrived at training with a plan. Spend as much time as possible on the field before going in the locker room. Then play for time near the locker until Leo had spent at least five minutes in the shower. 
+Next Monday, Taiga arrived at training with a plan. Spend as much time as possible on the field before going in the locker room.
+Then play for time near the locker until Leo had spent at least five minutes in the shower. 
+
 No watching him going in, no watching him coming out.
 Perfect.
 
-Taiga lasted two sessions, before considering it absurd.
+Taiga lasted two sessions, before remembering he had a dignity.
 
 ***
 
@@ -365,7 +367,7 @@ Leo reacted with 😤
 
 ***
 
-Friday, the day before the first conference match, there was enough tension in the air to distract Taiga.
+Friday, the day before the first conference match, there was tension in the air.
 
 He could see it everywhere with the other freshmen. When Mercer corrected them, Aaron got snappier. Leo laughed too much. Enzo didn't joke.
 Taiga knew it was too soon for him to play in a conference match, but he wasn't unscathed by the looming thought either.
