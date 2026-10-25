@@ -379,10 +379,18 @@ He thought for a couple of seconds.
 
 "First five minutes. Keep it boring as hell."
 
-Leo burst out laughing.
+Leo laughed. "You cannot recycle my wisdom."
 
-"I'll keep that in mind, thanks!"
+Taiga washed the last bit of the shampoo, but didn't leave yet.
 
-Taiga finally washed the last bit of the shampoo, picked up his towel and went out.
+"It worked for me, should work for you."
+
+"Of course it worked! It was *my* advice."
+
+"Fuck off."
+
+They kept talking for a few minutes. Somehow, Taiga forgot to be freaked out for a while.
+
+
 
 ***
