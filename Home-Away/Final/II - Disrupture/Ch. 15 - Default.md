@@ -459,3 +459,29 @@ They kept talking for a few minutes. Somehow, Taiga forgot to be freaked out for
 
 ***
 
+"Helios Tech uses a different approach with his wingers."
+
+In the Apollo film room, Mercer pointed at the board with both formations on.
+
+"They're fast. Aggressive. They'll attack fullbacks directly. Give them room to accelerate and they become a problem."
+
+He played another sequence, then stopped.
+
+"There. They cross earlier to put the ball in the box before the opponent has time to organize."
+
+Taiga leaned from his chair. They were actually fast. Faster than him, for sure. He had never thought about playing this aggressively to put the ball in the middle at all costs. 
+He liked it.
+
+Mercer looked at Aaron and Ellis. "Bennett, Ellis. Your job is to make sure they don't get to cross. We can't repeatedly challenging Helios’s striker in the air. Reyes and Cole will support you, so you don't always end in two-versus-one.."
+
+Then he turned to Gav and Isaac. "[Gav surname], [Isaac surname] you two will protect the space inside the fullbacks. Mendez."
+
+Leo looked up.
+
+"You stay available in the center, don't come back too far when defending. Do your usual job. Take, turn, connect to Price or whoever is free."
+
+He nodded. Taiga noticed that no joke came out.
+
+"Questions? Good. Dismissed."
+
+***
