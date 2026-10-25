@@ -158,7 +158,7 @@ Taiga laughed and kicked him under the chair.
 
 The day was already grey and sad, but somehow Mercer's announcement made it even more depressing.
 
-"Conference season begins next week on Saturday with St. Vincent. We host."
+"Conference season begins next week on Saturday with Helios Tech. We host."
 
 Players exchanged concerned looks across the field. Aaron lost his smug face for several minutes. Even Leo's attention snapped forward.
 
@@ -325,9 +325,9 @@ Taiga raised an eyebrow. "You want to come?"
 
 "Ah! Yes, sorry, I-". He shook his head. "Yeah, sure!"
 
-Then after a second, "Coffee?"
+Then after a second, "Coffee after your Calculus class?"
 
-Taiga considered. He had nothing to do until lunch. Why not.
+Taiga considered. He'd have time before lunch. Why not.
 
 "Yeah."
 
@@ -534,7 +534,7 @@ The guy gulped and lowered his hand.
 
 ***
 
-Taiga arrived outside the stadium half an hour before the start. He had walked past it lots of times, without actually *looking* at it. 
+Taiga arrived outside the stadium an hour and a half before kickoff. He had walked past it lots of times, without actually *looking* at it. 
 It was ridiculous.
 
 Gardens spanned before the gates, with fountains and six freaking statues forming a pathway to the main entrance. Each statue represented a different sport and they were... sexier than necessary.
@@ -551,7 +551,7 @@ The locker room was bigger than the one by the practice fields. Their shirts wer
 
 Across from him, Aaron was taking a photograph of his shirt.
 
-"For Sofia?" He said.
+"For Sofia?" he asked.
 
 "Yeah, sure."
 
@@ -561,8 +561,8 @@ Leo stopped beside Taiga with his bag still over his shoulder.
 
 "Okay. This is nice."
 
-Then he found his shirt and sat there.
-Taiga took his phone out before changing. The Camp Buddy group was a mess with 90+ unread messages. He'll deal with them later. Then a few people had wished him good luck.
+Then he found his shirt and sat beneath it.
+Taiga took his phone out before changing. The Camp Buddy group was a mess with 90+ unread messages. He'd deal with them later. Then a few people had wished him good luck.
 
 **Caleb:** In case you end up playing, good luck for today.
 
@@ -606,17 +606,17 @@ They went inside once more before kickoff. Mercer repeated the responsibilities 
 
 A few smiles appeared.
 
-"Good luck." And went out. 
+"Good luck." He went out. 
 
-Then Scott stood up and stopped near the door. If Taiga hadn't seen him outside the stadium, he'd sworn that another person was wearing his wig. 
-He was standing straight. Gloves on, capitan armband in place. There was no hesitation in his eyes.
+Then Scott stood up and stopped near the door. If Taiga didn't know him off the pitch, he'd have sworn someone else was wearing his wig. 
+He was standing straight. Gloves on, captain's armband in place. There was no hesitation in his eyes.
 
 "Let's kick their asses."
 
 A big cheer erupted immediately. Adrenaline rushed through Taiga and washed away some of the stiffness of the anxiety.
 They went out.
 
-Apollo and Elios Tech stopped in the corridor that opened into the pitch. They arranged in two lines, behind the referees. Taiga felt his heart pounding hard.
+Apollo and Helios Tech stopped in the corridor that opened into the pitch. They formed two lines behind the referees. Taiga felt his heart pounding hard.
 
 "Good afternoon, everyone! This is Jirou, and welcome to another conference season!"
 
@@ -624,17 +624,17 @@ Cheers followed and Taiga's stomach dropped.
 
 "Today, here at the Olympus Stadium, the Apollo Team Club will face Helios Tech! Please, give them a warm round of applause!" 
 
-Taiga's legs were slightly shaking. He saw Leo a few meters ahead jumping on his toes.
+He saw Leo a few meters ahead jumping on his toes.
 
 The referees started moving.
 
-The stadium exploded when both team entered the pitch. Every name the speaker pronounced generated another wave of ovations. 
+The stadium exploded when both teams entered the pitch. Every name the speaker pronounced generated another wave of ovations. 
 
-"Number 1, our captain, Stirling Scott! Number 2, Jonah Ellis!"
+"Number 1, our captain, Scott Stirling! Number 2, Jonah Ellis!"
 
-They positioned in two lines and started shaking hands.
+They lined up facing each other and started shaking hands.
 
-"Number 11, Cole Evan! Number 23, Bennett Aaron! Number 24, Mendez Julio! Number 27, Delos Reyes Vincenzo!"
+"Number 11, Evan Cole! Number 23, Aaron Bennett! Number 24, Julio Mendez! Number 27, Vincenzo Delos Reyes!"
 
 Taiga's breath was already heavy when he reached the bench.
 
