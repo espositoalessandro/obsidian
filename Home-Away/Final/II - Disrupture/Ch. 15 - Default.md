@@ -716,5 +716,50 @@ Leo pulled the zip closed and stood. Outside the door, Aaron was objecting to a 
 
 They followed the argument down the corridor.
 
-
 ***
+
+By the third week, the semester had properly kicked in. Assignments became more brutal, topics required several lessons, training got more intense and the library was crowded again.
+
+Also, Leo's messages became more absurd as time passed. 
+While walking toward the Lecture Hall, Taiga received a photo of a squirrel sitting on a trash can.
+
+**Leo:** he looks like you
+
+Taiga stopped walking.
+
+**Taiga:** how
+
+**Leo:** angry. evaluating everyone. proud of his trash can.
+
+**Taiga:** i'm killing you
+
+**Leo:** there, see?
+
+**Taiga:** die
+
+**Leo:** 😘
+
+Or
+
+**Leo:** this guy on the train is eating an entire bell pepper
+**Leo:** like an apple
+
+**Taiga:** leave him alone
+
+**Leo:** hey i'm not judging
+**Leo:** just studying human wildlife
+
+Three minutes later:
+
+**Leo:** he actually finished it
+
+**Taiga:** what's wrong with that guy
+
+**Leo:** we said no judging
+
+Taiga had also abandoned his plan of timing his shower with Leo's. Besides working really poorly, it involved knowing exactly his position at any given time. Which made things worse.
+
+Plus, it was just stupid. Taiga could survive standing next someone he considered hot without turning it into a drama.
+
+
+
