@@ -534,3 +534,109 @@ The guy gulped and lowered his hand.
 
 ***
 
+Taiga arrived outside the stadium half an hour before the start. He had walked past it lots of times, without actually *looking* at it. 
+It was ridiculous.
+
+Gardens spanned before the gates, with fountains and six freaking statues forming a pathway to the main entrance. Each statue represented a different sport and they were... sexier than necessary.
+The athlete entrance was further away, on another pathway. 
+
+Taiga stood there for a couple of seconds. People were still going in. Someone saw the Olympus bag he was carrying and wished him good luck.
+
+Right. He might actually need it. 
+
+The locker room was bigger than the one by the practice fields. Their shirts were already hanging above the benches. 
+
+**AKATORA**
+**41**
+
+Seeing his own made his stomach do a quick turn. Even though it was the same one he used for training.
+
+Across from him, Aaron was taking a photograph of his shirt.
+
+"For Sofia?" He said.
+
+"Yeah, sure."
+
+Aaron turned the phone around, got himself into the picture and took another.
+
+Leo stopped beside Taiga with his bag still over his shoulder.
+
+"Okay. This is nice."
+
+Then he found his shirt and sat there.
+Taiga took his phone out before changing. The Camp Buddy group was a mess with 90+ unread messages. He'll deal with them later. Then a few people had wished him good luck.
+
+**Caleb:** In case you end up playing, good luck for today.
+
+**Taiga:** did you really need to add that disclaimer?
+
+**Caleb:** Yes. Otherwise you'd think I meant good luck getting off the bench.
+
+And Nora:
+
+**Nora:** Hey, good luck for today
+**Nora:** I'll be on the bleachers!
+
+**Taiga:** go home
+
+Taiga smiled at them. Then put the phone away and started changing.
+
+The first view of the pitch stopped him halfway through the doorway.
+He had expected the stands. Obviously. He had seen them from outside and knew what stadiums contained. From down here, though, they seemed to keep going upward.
+
+People were coming down the steps, looking for seats, waving at someone farther along a row. A few were already watching the players. Somebody near the front lifted a phone as Scott and the other goalkeepers crossed the grass.
+
+Leo came out beside him and went quiet too. For several seconds they stood there without saying anything. Then Leo exhaled.
+
+"Holy shit."
+
+"Yeah."
+
+A burst of feedback came through the speakers. Both of them flinched.
+
+Behind them, Evan said, "Impressive, huh?"
+
+The warm-up helped. Running was familiar. So were the ball, the grass and Mercer telling people to stop standing around. Taiga followed the others through the exercises, put some warmth into his legs and tried to pay attention to what he was doing.
+
+Every time he turned toward the stands, there were more people.
+
+Aaron was talking again by the time they started passing. Enzo complained about the cold, missed a return ball and blamed Aaron for distracting him. On the other side, Leo took a touch too many and had the ball knocked away.
+
+They went inside once more before kickoff. Mercer repeated the responsibilities from film and checked that everyone knew where they were supposed to be. Then he stopped a few seconds, looking at them.
+
+"This is nothing different from what you've already done. Same sport. Same rules. Fancier bleachers."
+
+A few smiles appeared.
+
+"Good luck." And went out. 
+
+Then Scott stood up and stopped near the door. If Taiga hadn't seen him outside the stadium, he'd sworn that another person was wearing his wig. 
+He was standing straight. Gloves on, capitan armband in place. There was no hesitation in his eyes.
+
+"Let's kick their asses."
+
+A big cheer erupted immediately. Adrenaline rushed through Taiga and washed away some of the stiffness of the anxiety.
+They went out.
+
+Apollo and Elios Tech stopped in the corridor that opened into the pitch. They arranged in two lines, behind the referees. Taiga felt his heart pounding hard.
+
+"Good afternoon, everyone! This is Jirou, and welcome to another conference season!"
+
+Cheers followed and Taiga's stomach dropped.
+
+"Today, here at the Olympus Stadium, the Apollo Team Club will face Helios Tech! Please, give them a warm round of applause!" 
+
+Taiga's legs were slightly shaking. He saw Leo a few meters ahead jumping on his toes.
+
+The referees started moving.
+
+The stadium exploded when both team entered the pitch. Every name the speaker pronounced generated another wave of ovations. 
+
+"Number 1, our captain, Stirling Scott! Number 2, Jonah Ellis!"
+
+They positioned in two lines and started shaking hands.
+
+"Number 11, Cole Evan! Number 23, Bennett Aaron! Number 24, Mendez Julio! Number 27, Delos Reyes Vincenzo!"
+
+Taiga's breath was already heavy when he reached the bench.
+

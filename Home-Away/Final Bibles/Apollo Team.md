@@ -53,7 +53,7 @@ This is especially important for Leo: he often occupies the role traditionally c
 |  **2** | **Jonah Ellis**                 | Right-back (RB)                                      | Returning player                                                                          |
 |  **4** | **Theo Walsh**                  | Centre-back (CB)                                     | Returning / experienced player                                                            |
 |  **5** | **Malik Carter**                | Centre-back (CB)                                     | Second-year player                                                                        |
-|  **6** | **Gav Foster**                  | Defensive / holding midfielder (DM)                  | Returning player                                                                          |
+|  **6** | **Gavin (Gav) Foster**          | Defensive / holding midfielder (DM)                  | Returning player                                                                          |
 |  **8** | **Isaac Romero**                | Central midfielder (CM)                              | Returning player                                                                          |
 |  **9** | **Jordan Price**                | Striker (ST)                                         | Returning player; starting striker / primary 9                                            |
 | **11** | **Evan Cole**                   | Left winger (LW)                                     | Senior; final year; graduates at the end of the year; Taiga's main positional competition |
@@ -62,8 +62,8 @@ This is especially important for Leo: he often occupies the role traditionally c
 | **24** | **Leo Mendez**                  | Attacking midfielder / central attacking player (AM) | Freshman; newly joined Apollo                                                             |
 | **27** | **Vincenzo “Enzo” Delos Reyes** | Right winger (RW)                                    | Freshman; same incoming class as Leo                                                      |
 | **41** | **Taiga Akatora**               | Left winger (LW)                                     | Freshman development player; number established in Final Chapter 2                        |
-| **42** | **Daniel Hughes**                | Central midfielder (CM)                              | Freshman development player; minor rotation / friendly depth                              |
-| **43** | **Lucas Parker**                 | Centre-back (CB)                                     | Freshman development player; minor rotation / friendly depth                              |
+| **42** | **Daniel Hughes**               | Central midfielder (CM)                              | Freshman development player; minor rotation / friendly depth                              |
+| **43** | **Lucas Parker**                | Centre-back (CB)                                     | Freshman development player; minor rotation / friendly depth                              |
 
 ### Numbering continuity rules
 
