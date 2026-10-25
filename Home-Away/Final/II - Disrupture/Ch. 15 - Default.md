@@ -341,6 +341,30 @@ Perfect.
 
 Taiga lasted two sessions, before considering it absurd.
 
+***
+
+Thursday afternoon, Taiga was in chemistry lab. While he waited for his solution to boil, he saw a couple of pigeons outside the window. He took a photograph.
+
+**Taiga:** your classmates are back
+
+**Leo:** that's gav's department
+
+**Taiga:** you looked interested
+
+**Leo:** they were looking at me as if i was food
+**Leo:** i was genuinely scared
+
+**Taiga:** of pigeons.
+
+**Leo:** 40 pigeons
+**Leo:** it's not the same
+
+**Taiga:** pussy
+
+Leo reacted with 😤
+
+***
+
 Friday, the day before the first conference match, there was enough tension in the air to distract Taiga.
 
 He could see it everywhere with the other freshmen. When Mercer corrected them, Aaron got snappier. Leo laughed too much. Enzo didn't joke.
