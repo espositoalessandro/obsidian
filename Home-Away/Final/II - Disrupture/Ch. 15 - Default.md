@@ -228,7 +228,7 @@ He managed to recover during the lesson enough to take notes.
 
 "We have separate classes tomorrow."
 
-Leo paused a second. "Right. Well, good suffering then. See you at training!"
+Leo paused a second. "Fair. Well, good suffering then. See you at training!"
 
 He went downstairs, while Taiga entered another class. By the time he had sat down and pulled out his notes, his phone buzzed.
 
@@ -287,7 +287,7 @@ That took approximately two seconds. He continued looking at the screen anyway.
 
 "Yeah, I'm coming."
 
-Taiga put the phone down.
+Taiga put the phone back in the bag.
 This was ridiculous. There were men changing all around him. There had been men changing all around him for months. Leo had not acquired a new body since last Tuesday.
 
 He spent the whole time in the shower studying every detail of the tiles of the floor. Still, he was perfectly aware of which stall Leo was in.
@@ -299,10 +299,90 @@ By the end of the next week, Taiga had developed a plan. Spend as much time as p
 No watching him going in, no watching him coming out.
 Perfect.
 
-That lasted two sessions.
+Taiga lasted two sessions, before considering it absurd.
 
 Friday, the day before the first conference match, there was enough tension in the air to distract Taiga.
 
 He could see it everywhere with the other freshmen. When Mercer corrected them, Aaron got snappier. Leo laughed too much. Enzo didn't joke.
+Taiga knew it was too soon for him to play in a conference match, but he wasn't unscathed by the looming thought either.
 
+"Okay, that's it for today. See you in twenty at Apollo for film."
 
+Mercer dismissed them.
+
+This time, Taiga decided to change approach. He rushed to the showers as soon as Mercer dismissed them. That was way better than wait outside like an idiot.
+
+He was already putting his towel around the waist and pulling down his jock when Leo sat at his bench and began untying his boots. Good.
+
+He still see him pulling his shirt off with the corner of his eye.
+Okay, this was getting ridiculous. He picked the farthest shower stall and swore when the water came out hotter than expected.
+
+A few minutes later, the door beside his stall opened. Taiga recognized the humming immediately. He closed his eyes.
+
+Leo must've been doing this on purpose at this point.
+An image of a naked Leo with an evil grin chasing him around the locker room flashed in his mind.
+
+Yeah, definitely not something normal people usually do.
+
+"You good? You rushed into shower like you have a meeting in five minutes."
+
+"I-"
+
+He cursed the universe.
+
+"I was getting cold."
+
+"Yeah, fair enough. I hate being all sweaty in cold air. Can't bodies understand that it's cool enough outside that they don't actually need to sweat?"
+
+Taiga forced his gaze on the floor tiles. He was barely listening what Leo was saying.
+There was just a frosted panel in between them. And it did a questionable job in keeping privacy. He could see Leo's blurred silhouette moving. In fact he could tell exactly what he was doing. 
+No. Floor. Tiles. Shampoo.
+
+"...it's freaking snowing outside! Makes no sense. Don't you agree?"
+
+Taiga realized he had asked a question a second later.
+
+"Uh- come again?"
+
+Leo paused. "Were you spacing out while I was talking to you?"
+
+"Possibly."
+
+"Ugh. I said, it makes no sense for the university not to put heaters in the locker room while there's snow outside."
+
+"Yeah. Criminal."
+
+"I know right?"
+
+Come on, he only had to rinse his hair. One last effort.
+Mercifully Leo stopped talking. For exactly thirteen seconds.
+
+"You thinking about tomorrow's match?" he asked.
+
+"I'm not gonna play."
+
+"That's not what I asked, though."
+
+No, he wasn't thinking about the fucking match. Goddammit. 
+
+Normally, yes, he would've been freaking out just to be on the bench of an actual match. Normally. When his brain used to work properly.
+
+"Whatever."
+
+"I'm a bit scared, truth be told. It's my first official match and I might be feeling the slightest hint of pressure, eheh."
+
+"Didn't you say you played at school?"
+
+"Yeah, but this is an official conference match between universities. That's a whole other tier!"
+
+He thought for a couple of seconds.
+
+"First five minutes. Keep it boring as hell."
+
+Leo burst out laughing.
+
+"I'll keep that in mind, thanks!"
+
+Taiga finally washed the last bit of the shampoo, picked up his towel and went out.
+
+***
