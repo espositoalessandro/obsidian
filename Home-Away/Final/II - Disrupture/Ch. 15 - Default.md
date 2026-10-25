@@ -459,17 +459,20 @@ They kept talking for a few minutes. Somehow, Taiga forgot to be freaked out for
 
 ***
 
-"Helios Tech uses a different approach with his wingers."
+"Helios Tech's biggest threat comes from the wings."
 
 In the Apollo film room, Mercer pointed at the board with both formations on.
 
 "They're fast. Aggressive. They'll attack fullbacks directly. Give them room to accelerate and they become a problem."
 
-He played another sequence, then stopped.
+Mercer played another sequence. A winger sent the ball into the box before the fullback could close him down. Helios's striker rose above his marker and headed it past the goalkeeper.
 
-"There. They cross earlier to put the ball in the box before the opponent has time to organize."
+Mercer paused the video.
 
-Taiga leaned from his chair. They were actually fast. Faster than him, for sure. He had never thought about playing this aggressively to put the ball in the middle at all costs. 
+"There. They cross early, before the defense has time to get set."
+
+Taiga leaned forward in his chair. They were actually fast. Faster than him, for sure. He had been watching the winger, but the cross had already reached the striker before the defenders caught up.
+
 He liked it.
 
 "We'll deploy the usual four-two-three-one." He pointed at the board.
@@ -487,7 +490,7 @@ He liked it.
 
 "When we defend," he continued, "Cole and Reyes fall back."
 
-He moved Enzo and Evan's tag. The board now read:
+He moved Enzo and Evan's tags. The board now read:
 
                        `PRICE J.`
 
@@ -499,13 +502,13 @@ He moved Enzo and Evan's tag. The board now read:
 
                       `STIRLING S.`
 
-Mercer looked at Aaron and Ellis. "Bennett, Ellis. Your job is to make sure they don't get to cross. We can't repeatedly challenging Helios’s striker in the air. Reyes and Cole will support you, so you don't always end in two-versus-one.."
+Mercer looked at Aaron and Ellis. "Bennett, Ellis. Get close before they can cross. We can't keep challenging that striker in the air. Cole, support Bennett. Reyes, support Ellis. Track the extra runner so they aren't left two against one."
 
-Then he turned to Gav and Isaac. "Foster, Romero. You two will protect the space inside the fullbacks. Mendez."
+Then he turned to Gav and Isaac. "Foster, Romero. When a fullback steps out, cover the gap inside him. One of you moves across, the other stays central. Mendez."
 
 Leo looked up.
 
-"You stay available in the center, don't come back too far when defending. Do your usual job. Take, turn, connect to Price or whoever is free."
+"Stay ahead of Foster and Romero. Don't drop into their line. When we win the ball back, make yourself available through the middle. Receive, turn if you can, find Price or whoever's free."
 
 He nodded. Taiga noticed that no joke came out. Then Mercer turned to everyone.
 
@@ -515,13 +518,13 @@ That, Taiga did not expect. Suddenly tomorrow's match had become his problem as 
 
 "Questions?"
 
-Luckily, one of the other developmental had the courage to ask the question Taiga had.
+Luckily, one of the other developmental players had the courage to ask the question Taiga had.
 
-"Uh- does that apply to us developmental as well?"
+"Does that include the development players, Coach?"
 
-Mercer looked at him. "You're in the team as well. If I need you, you play. Unless you were here only for the friendlies?"
+Mercer looked at him. "You're part of this team. If I need you, you play. Unless you only came for the friendlies?"
 
-"No coach-"
+"No, Coach—"
 
 "Then be ready."
 
