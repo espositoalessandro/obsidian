@@ -295,7 +295,43 @@ Fuck.
 
 ***
 
-By the end of the next week, Taiga had developed a plan. Spend as much time as possible on the field before going in the locker room. Then play for time near the locker until Leo had spent at least five minutes in the shower. 
+Leo leaned towards Taiga and whispered:
+
+"Do you think you could create a queue that eats itself?"
+
+Taiga blinked. "What?"
+
+"You know, like an ouroboros."
+
+They were in the middle of a Data Structures class. Professor Rao was introducing queues. 
+
+"Why would you do that?"
+
+Leo rested his chin on his hand and narrowed his eyes, thinking it over.
+
+"Do you think that exploration would be O(n) or O(n squared)?"
+
+"If it's a closed loop, exploration never ends."
+
+Leo nodded without changing expression. He was totally serious. "Right."
+
+Class ended. Taiga and Leo stood and picked up their bag.
+
+"Do you want to go to the lib in the afternoon?" Leo asked.
+
+"Yeah, Nora already asked me. Want to tag along?"
+
+"Sure! Coffee?"
+
+Taiga considered. He had nothing to do until lunch. Why not.
+
+"Yeah."
+
+Leo smiled. "Great!"
+
+***
+
+Next Monday, Taiga arrived at training with a plan. Spend as much time as possible on the field before going in the locker room. Then play for time near the locker until Leo had spent at least five minutes in the shower. 
 No watching him going in, no watching him coming out.
 Perfect.
 
@@ -391,6 +427,5 @@ Taiga washed the last bit of the shampoo, but didn't leave yet.
 
 They kept talking for a few minutes. Somehow, Taiga forgot to be freaked out for a while.
 
-
-
 ***
+
