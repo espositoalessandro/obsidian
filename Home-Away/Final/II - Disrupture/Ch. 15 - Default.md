@@ -650,7 +650,7 @@ Here, he kept noticing the striker after the ball had already reached him.
 Apollo settled eventually.
 Enzo dropped back to help Jonah, Aaron stopped giving his winger so much room, and Mercer stopped shouting quite as often.
 
-Leo he started coming back too far for the ball, got told to stay higher and actually did it.
+Leo started coming back too far for the ball, got told to stay higher and actually did it.
 When he found Evan running up the left, Taiga leaned forward with the rest of the bench.
 
 Evan crossed. Jordan scored. Taiga was still clapping when Scott started ordering everyone back.
@@ -686,7 +686,7 @@ Enzo arrived behind them, breathing hard enough that he had to wait before speak
 
 "Ellis appreciates it," Gav said.
 
-Leo stopped besides them and bent to put his hands on his knees. His hair had come loose around his face.
+Leo stopped beside them and bent to put his hands on his knees. His hair had come loose around his face.
 
 "Well," he said, still breathing hard. "That was terrifying."
 
@@ -700,7 +700,7 @@ Leo bumped his arm.
 
 "Come on. I'm freezing now."
 
-They went inside with the others. In the locker room, everyone was still commenting the match. Taiga got so involved in a discussion with Evan that he failed to notice Leo changing behind him. He only realized when he had already done showering. 
+They went inside with the others. In the locker room, everyone was still talking about the match. Taiga got so involved in a discussion with Evan that he failed to notice Leo changing behind him. He only realized after he'd finished showering. 
 Progress, he guessed.
 
 By the time they were dressed, Enzo had already started asking where they were eating.
