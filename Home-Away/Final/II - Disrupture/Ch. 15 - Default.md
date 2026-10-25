@@ -14,12 +14,12 @@ The voice came from his back and was recognizable enough.
 
 Leo put his bag on the desk and sat down anyway.
 
-"That would be actually new."
+"I don't believe it," Taiga said.
 
 A girl two lines down turned and waved at Leo, who smiled and waved back.
 Taiga raised an eyebrow.
 
-"Well... mostly no one. Not properly, at least."
+"In my defense, I barely know her."
 
 Taiga sighed.
 
@@ -533,3 +533,4 @@ The guy gulped and lowered his hand.
 "If there's nothing else, you're dismissed."
 
 ***
+
