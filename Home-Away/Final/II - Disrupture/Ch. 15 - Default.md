@@ -472,16 +472,61 @@ He played another sequence, then stopped.
 Taiga leaned from his chair. They were actually fast. Faster than him, for sure. He had never thought about playing this aggressively to put the ball in the middle at all costs. 
 He liked it.
 
+"We'll deploy the usual four-two-three-one." He pointed at the board.
+
+                       `PRICE J.`
+
+      `COLE E.         MENDEZ J.         REYES E.`
+
+              `FOSTER G.      ROMERO I.`
+
+ `BENNETT A.     CARTER M.      WALSH T.      ELLIS J.`
+
+                      `STIRLING S.`
+
+
+"When we defend," he continued, "Cole and Reyes fall back."
+
+He moved Enzo and Evan's tag. The board now read:
+
+                       `PRICE J.`
+
+                       `MENDEZ J.`
+
+   `COLE E.      FOSTER G.      ROMERO I.      REYES E.`
+
+ `BENNETT A.      CARTER M.      WALSH T.       ELLIS J.`
+
+                      `STIRLING S.`
+
 Mercer looked at Aaron and Ellis. "Bennett, Ellis. Your job is to make sure they don't get to cross. We can't repeatedly challenging Helios’s striker in the air. Reyes and Cole will support you, so you don't always end in two-versus-one.."
 
-Then he turned to Gav and Isaac. "[Gav surname], [Isaac surname] you two will protect the space inside the fullbacks. Mendez."
+Then he turned to Gav and Isaac. "Foster, Romero. You two will protect the space inside the fullbacks. Mendez."
 
 Leo looked up.
 
 "You stay available in the center, don't come back too far when defending. Do your usual job. Take, turn, connect to Price or whoever is free."
 
-He nodded. Taiga noticed that no joke came out.
+He nodded. Taiga noticed that no joke came out. Then Mercer turned to everyone.
 
-"Questions? Good. Dismissed."
+"Everyone else, be ready to enter at any point."
+
+That, Taiga did not expect. Suddenly tomorrow's match had become his problem as well.
+
+"Questions?"
+
+Luckily, one of the other developmental had the courage to ask the question Taiga had.
+
+"Uh- does that apply to us developmental as well?"
+
+Mercer looked at him. "You're in the team as well. If I need you, you play. Unless you were here only for the friendlies?"
+
+"No coach-"
+
+"Then be ready."
+
+The guy gulped and lowered his hand. 
+
+"If there's nothing else, you're dismissed."
 
 ***
