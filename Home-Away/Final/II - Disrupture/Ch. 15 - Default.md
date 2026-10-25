@@ -638,3 +638,71 @@ They lined up facing each other and started shaking hands.
 
 Taiga's breath was already heavy when he reached the bench.
 
+***
+ 
+"ELLIS, INSIDE! WATCH YOUR MAN!"
+
+Apparently, Scott didn't need the stadium speakers.
+
+Helios went straight for the wings. Their first cross ended with a header over the bar and Taiga on his feet before he'd decided to stand. In the film room, Mercer could pause the video.
+Here, he kept noticing the striker after the ball had already reached him.
+
+Apollo settled eventually.
+Enzo dropped back to help Jonah, Aaron stopped giving his winger so much room, and Mercer stopped shouting quite as often.
+
+Leo he started coming back too far for the ball, got told to stay higher and actually did it.
+When he found Evan running up the left, Taiga leaned forward with the rest of the bench.
+
+Evan crossed. Jordan scored. Taiga was still clapping when Scott started ordering everyone back.
+
+Helios equalized shortly after halftime. One runner got away from Enzo, one cross reached their striker, and Scott couldn't quite keep the header out.
+
+With about ten minutes left, Leo drew a defender toward him and slipped the ball through to Evan.
+
+The shot went into the far corner.
+
+The whole stadium exploded and Taiga nearly knocked over the guy beside him.
+
+The remaining minutes involved far too many crosses and repeated checks of a clock that barely seemed to move.
+When the whistle finally went, he dropped back onto the bench.
+
+Two-one. First three points.
+
+He hadn't played a fucking minute, and he still needed a moment before getting up.
+
+When the players came over, Aaron was grinning and showing Evan the mud down one side of his shorts.
+
+"That was a good tackle."
+
+"It was," Evan said.
+
+"Thank you."
+
+"You can stop telling me now."
+
+Enzo arrived behind them, breathing hard enough that he had to wait before speaking.
+
+"I ran so fucking much."
+
+"Ellis appreciates it," Gav said.
+
+Leo stopped besides them and bent to put his hands on his knees. His hair had come loose around his face.
+
+"Well," he said, still breathing hard. "That was terrifying."
+
+"You won," Taiga pointed out.
+
+"Yeah. That helped."
+
+He straightened and looked back at the pitch. Taiga followed his gaze. People were getting up, finding coats and leaving the stadium.
+
+Leo bumped his arm.
+
+"Come on. I'm freezing now."
+
+They went inside with the others. In the locker room, everyone was still commenting the match. Taiga got so involved in a discussion with Evan that he failed to notice Leo changing behind him. He only realized when he had already done showering. 
+Progress, he guessed.
+
+By the time they were dressed, Enzo had already started asking where they were eating.
+
+***
