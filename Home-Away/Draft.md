@@ -491,173 +491,35 @@ A few minutes later, Taiga could hear it from the bench without any difficulty a
 
 "ELLIS, INSIDE! WATCH YOUR MAN!"
 
-Helios had barely needed a minute to get the ball out wide.
+Apparently, Scott didn't need the stadium speakers.
 
-Their left winger ran at Jonah, slowed, then pushed the ball past him and accelerated again. Jonah turned quickly enough to stay with him, but the cross was already coming.
+Helios went straight for the wings. Their first cross ended with a header over the bar and Taiga on his feet before he'd decided to stand. In the film room, Mercer could pause the video. Here, he kept noticing the striker after the ball had already reached him.
 
-Taiga stood.
+Apollo settled eventually. Enzo dropped back to help Jonah, Aaron stopped giving his winger so much room, and Mercer stopped shouting quite as often.
 
-Their striker got between the centre-backs. Walsh reached him in time to spoil the header, and the ball went over.
+Leo kept the first few minutes boring. Then he started coming back too far for the ball, got told to stay higher and actually did it. When he found Evan running up the left, Taiga leaned forward with the rest of the bench.
 
-The crowd behind the bench let out a noise Taiga had never heard from so many people at once.
+Evan crossed. Jordan scored.
 
-He sat down.
+Taiga was still clapping when Scott started ordering everyone back.
 
-On video, there had been time to look at where everybody was. Here, he was still following the winger when the striker made his run.
+One-nil at halftime. Leo drank half his bottle beside him and admitted it felt even faster from the pitch.
 
-Mercer called Enzo over while Scott retrieved the ball. He pointed down the right side, said something Taiga couldn't hear and sent him back.
+Helios equalized shortly after the restart. One runner got away from Enzo, one cross reached their striker, and Scott couldn't quite keep the header out.
 
-The next time Helios attacked there, Enzo went with the extra runner. Jonah only had the winger to deal with. He stayed close, got a foot in front of the cross and knocked it out.
+Taiga warmed up with the other substitutes. Every time Mercer turned toward the bench, he looked over. His legs were ready. Nobody called his name.
 
-Better.
+With about ten minutes left, Leo drew a defender toward him and slipped the ball through to Evan.
 
-On the left, Aaron had a different problem. He kept giving their winger enough room to start running.
+The shot went into the far corner.
 
-The first time, Evan got back and helped him. The second time, the winger went past before Evan could reach them.
+Taiga nearly knocked over the guy beside him.
 
-Gav moved across. Carter stayed with the striker. The cross hit Gav and came back out.
+The remaining minutes involved far too many crosses and repeated checks of a clock that barely seemed to move. When the whistle finally went, he dropped back onto the bench.
 
-"Bennett!" Mercer shouted. "Earlier!"
+Two-one. First conference win.
 
-Aaron threw one hand out.
-
-"I know!"
-
-"Then do it."
-
-On the next attack, Aaron was already moving when the pass went toward the winger. He got close enough that the guy had to stop and turn away from him.
-
-"That's it!" Evan called.
-
-Aaron won the next ball and sent it inside. By the time he jogged back into position, he was demanding that Evan acknowledge the quality of his tackle.
-
-Taiga could hear none of the answer. He could imagine it well enough.
-
-Leo spent the opening minutes making short passes and staying away from anything spectacular. Taiga approved.
-
-Then he started coming back for the ball.
-
-Once, twice. Gav already had Isaac beside him, and now Leo was there too. Farther forward, Jordan was waiting with two defenders and nobody nearby to pass to.
-
-"MENDEZ! STAY HIGHER!"
-
-Leo turned toward Mercer, nodded and moved away again.
-
-The difference became obvious when Olympus recovered the next ball. This time, Leo had room to receive and turn before somebody reached him.
-
-Evan was already running up the left.
-
-Taiga leaned forward.
-
-The pass reached him in stride. He took it toward the box, waited for Jordan to move and sent the ball across the grass.
-
-Jordan met it first.
-
-For a second, Taiga only saw the net move.
-
-Then everyone beside him was standing.
-
-He shouted with them, clapping hard enough to hurt his hands. Aaron reached Jordan first. Leo arrived behind him, laughing, and Evan accepted a slap on the back from Isaac before turning toward halfway.
-
-One-nil.
-
-Scott was already shouting everyone back into position.
-
-***
-
-At halftime, Taiga's legs were stiff from sitting.
-
-Mercer talked while people drank and pulled jackets on. Helios were still getting too much time for the cross when they moved the ball quickly from one side to the other. Olympus needed to move with it.
-
-Leo sat beside Taiga and reached for his bottle.
-
-"How does it look from over there?"
-
-"Fast."
-
-Leo drank, then nodded.
-
-"Yeah. It feels fast."
-
-"You keep coming back to Gav."
-
-"I know. I keep thinking I can help."
-
-"He's got Isaac."
-
-"Yeah."
-
-Leo looked toward the board again. Taiga shifted his feet to let Evan get past them.
-
-Before Mercer finished, Leo nudged his knee lightly with the bottle.
-
-"You warmed up?"
-
-"Obviously."
-
-"Good."
-
-Taiga looked at him. Leo was already listening to Mercer again.
-
-He checked his laces before they went back out.
-
-***
-
-Helios equalized early in the second half.
-
-Enzo was still coming back when their fullback ran past him. Jonah stepped toward the winger, the ball went outside him and the cross came in before he could turn.
-
-Their striker headed it down.
-
-Scott got a hand to it. Not enough.
-
-For a few seconds, the away supporters were the only people Taiga could hear.
-
-Mercer called across to Enzo. Enzo lifted a hand, listened and went back to his position.
-
-The next time Helios tried it, he followed the runner all the way back.
-
-Taiga kept watching Mercer.
-
-An assistant sent a group of them to warm up. He went with them, ran along the side of the pitch and tried to keep one eye on the match. From here, he could hear players calling for the ball, boots hitting it, the sharp sound when somebody got there late.
-
-He was warm now. His legs felt ready.
-
-Every time Mercer turned toward the substitutes, Taiga looked up.
-
-Nobody called his name.
-
-Eventually, he went back to the bench and put his jacket on. Evan was still working up and down the left, making Helios's winger turn around and follow him whenever Olympus attacked.
-
-Taiga watched him do it again.
-
-With a little over ten minutes left, Isaac found Leo in the middle. A defender came toward him. Leo held the ball, moved it out of reach and waited until the man took another step.
-
-Then he passed.
-
-Evan had run behind the defender.
-
-Taiga was already standing when the shot went across the goalkeeper and into the far side.
-
-This time, he nearly hit the person beside him.
-
-"Fuck—sorry!"
-
-The guy was shouting too. It didn't seem to matter.
-
-The last few minutes were awful. Helios sent the ball wide whenever they could. Aaron blocked one cross, Jonah another. Gav collected a clearance and held it long enough for somebody to offer him a pass.
-
-Taiga stopped asking the clock to move faster because it was apparently making things worse.
-
-Then Scott caught a cross, shouted people forward and sent the ball upfield.
-
-The final whistle came while Taiga was still watching where it landed.
-
-Two-one.
-
-He sat back and let his shoulders drop.
-
-He hadn't played a minute. Somehow, that had failed to make the afternoon relaxing.
+He hadn't played a fucking minute, and he still needed a moment before getting up.
 
 ***
 
