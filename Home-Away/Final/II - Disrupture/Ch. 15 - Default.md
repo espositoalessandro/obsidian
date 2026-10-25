@@ -704,5 +704,17 @@ They went inside with the others. In the locker room, everyone was still comment
 Progress, he guessed.
 
 By the time they were dressed, Enzo had already started asking where they were eating.
+Leo was still fastening his bag when Taiga got his jacket on.
+
+Taiga waited beside the bench.
+
+"Ready?"
+
+"Yep."
+
+Leo pulled the zip closed and stood. Outside the door, Aaron was objecting to a restaurant someone had suggested.
+
+They followed the argument down the corridor.
+
 
 ***
