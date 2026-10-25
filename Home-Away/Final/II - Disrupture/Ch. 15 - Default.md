@@ -549,8 +549,6 @@ The locker room was bigger than the one by the practice fields. Their shirts wer
 **AKATORA**
 **41**
 
-Seeing his own made his stomach do a quick turn. Even though it was the same one he used for training.
-
 Across from him, Aaron was taking a photograph of his shirt.
 
 "For Sofia?" He said.
