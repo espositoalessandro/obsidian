@@ -520,7 +520,7 @@ That, Taiga did not expect. Suddenly tomorrow's match had become his problem as 
 
 Luckily, one of the other developmental players had the courage to ask the question Taiga had.
 
-"Does that include the development players, Coach?"
+"Does that include the development players?"
 
 Mercer looked at him. "You're part of this team. If I need you, you play. Unless you only came for the friendlies?"
 
