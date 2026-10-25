@@ -323,7 +323,7 @@ Class ended. Taiga and Leo stood and picked up their bag.
 
 Taiga raised an eyebrow. "You want to come?"
 
-"Ah! Sorry, I-". He shook his head. "Yeah, sure!"
+"Ah! Yes, sorry, I-". He shook his head. "Yeah, sure!"
 
 Then after a second, "Coffee?"
 
