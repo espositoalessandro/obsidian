@@ -821,6 +821,7 @@ They were sitting at the cafeteria in the University Center when Apollo's group 
 **Gav:** What time?
 
 **Enzo:** 7:30 volleyball arena
+**Enzo:** we'll meet with his roommate there
 
 "Oh, that's cool!" Leo said.
 
