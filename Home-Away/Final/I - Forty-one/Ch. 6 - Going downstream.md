@@ -163,7 +163,7 @@ Zoe then held out her hand.
 
 Zoe pointed at the two of them.
 
-"Are you...?"
+"Are you-"
 
 Taiga and Nora immediately answered together.
 
@@ -260,7 +260,7 @@ Leo rolled his chair closer.
 "That is actually impressive."
 
 Taiga took a deep breath, then started working on it.
-It took almost an hour, several searches on Stack Overflow and a couple of swears.
+It took almost an hour, several searches on StackOverflow and a couple of swears.
 Eventually, he reset one branch, preserved the useful commits and rebuilt the clean line.
 Zoe ran the project and it worked.
 
@@ -334,7 +334,7 @@ Nora frowned.
 
 "The thing where they decide if you stay?"
 
-"Basically."
+"I guess."
 
 Leo made a small face.
 
@@ -356,7 +356,7 @@ Taiga looked at him.
 
 "Why?"
 
-"Well, mostly because Mercer isn't correcting him much lately."
+"Well, mostly because coach isn't correcting him much lately."
 
 "He screamed at him last session."
 
@@ -629,7 +629,7 @@ For a brief moment, he wished Eduard was there to smack some sense into him agai
 
 Taiga looked at the time: 5:07. He took a deep breath and began walking towards the administrative buildings.
 
-At 5:24, he was sitting outside Mercer's office. A developmental player was already inside, while the one Leo said was probably being kicked was sitting a couple of chairs away from him.
+At 5:24, he was sitting outside Mercer's office. Number forty was already inside, while the one Leo said was probably being kicked was sitting a couple of chairs away from him.
 He seemed extremely relaxed: legs crossed, scrolling his phone, chewing gum.
 
 Taiga couldn't tell if he simply didn't care or if he was actually confident.
@@ -674,6 +674,8 @@ The tension left Taiga so quickly it almost made him dizzy.
 Mercer picked up the sheet.
 
 "You've improved faster than I expected. Especially since the provisional review. You actually used the information I gave you."
+
+A brief pause followed.
 
 "I recommended that you stay. The Soccer Office approved it."
 
@@ -795,7 +797,7 @@ Friday afternoon, Enzo was waiting beside Taiga's locker with the expression of 
 
 Taiga stopped. Enzo folded his arms.
 
-"As a newly welcomed member of Apollo, you are now required to undergo the traditional initiation rite."
+"As a newly welcomed member of Apollo Soccer Team, you are now required to undergo the traditional initiation rite."
 
 Taiga stared at him.
 
@@ -931,9 +933,9 @@ Right. That.
 Taiga looked at the field. The sun was setting behind the bleachers, covering everything in an orange light.
 
 He thought about his locker keys. Apparently, a group chat he couldn't escape. His name on the official Apollo roster, with another training session already sitting on next week's schedule.
-
 Then he looked down at the shirt.
-His shirt. His number. Not borrowed anymore.
+
+His shirt. His number.
 
 "Yeah, I'll think about it."
 
