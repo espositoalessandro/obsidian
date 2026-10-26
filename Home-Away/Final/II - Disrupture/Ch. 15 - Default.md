@@ -826,7 +826,7 @@ They were sitting at the cafeteria in the University Center when Apollo's group 
 "Oh, that's cool!" Leo said.
 
 **Leo:** i'm in
-**Leo:** i know almost nothing about volleyball strategy but i have lungs and enthusiasm
+**Leo:** i know almost nothing about volleyball but i have lungs and enthusiasm
 
 Taiga wasn't entirely convinced. Volleyball plus new people? Meh.
 
