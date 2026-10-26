@@ -942,5 +942,3 @@ He laughed.
 **Taiga:** alright
 
 Leo reacted with a heart.
-
-***
