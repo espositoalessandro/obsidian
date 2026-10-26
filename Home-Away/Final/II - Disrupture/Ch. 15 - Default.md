@@ -801,7 +801,7 @@ He found Leo waiting for him outside his class.
 
 "That's low-key stalking, you know," Taiga said.
 
-"It's consensus based."
+"You agreed to it."
 
 "Because you bribe me with coffee."
 
@@ -809,7 +809,7 @@ He found Leo waiting for him outside his class.
 
 Taiga shoved him toward the staircase as Leo laughed.
 
-They were sitting at the cafeteria in the University Center when Apollo's group chat made both of their phone buzz.
+They were sitting at the cafeteria in the University Center when Apollo's group chat made both their phones buzz.
 
 **Enzo:** artemis home game tonight!
 
@@ -837,7 +837,7 @@ Taiga wasn't entirely convinced. Volleyball plus new people? Meh.
 
 They stayed there over their coffee. 
 
-"Important question" Leo said at some point.
+"Important question," Leo said at some point.
 
 Taiga braced himself.
 
@@ -885,7 +885,7 @@ He frowned. "A cow doesn't weigh the same as me."
 
 "Would you fight a calf?"
 
-Leo hesitated. "No, I'd loose because it's too adorable."
+Leo hesitated. "No, I'd lose because it's too adorable."
 
 "But raccoons are fine."
 
@@ -897,9 +897,9 @@ Leo hesitated. "No, I'd loose because it's too adorable."
 
 Taiga laughed into his cup and put it down before spilling anything.
 
-They spent the rest of time trying to find an animal that met the requirements without making Leo feel bad about it.
+They spent the rest of the time trying to find an animal that met the requirements without making Leo feel bad about it.
 Geese became an option, but he admitted he'd need a weapon for them.
-Leo scrolled through comments. When he turned the phone to show Taiga, his knees touched for a couple of seconds. Taiga read the comment aloud because apparently somebody had chosen a horse. He was still perfectly aware of the contact.
+Leo scrolled through comments. When he turned the phone to show Taiga, their knees touched for a couple of seconds. Taiga read the comment aloud because apparently somebody had chosen a horse. He was still perfectly aware of the contact.
 
 Eventually, Leo went to the mess hall because he had promised some friends they'd eat together.
 Taiga went with Caleb instead.
