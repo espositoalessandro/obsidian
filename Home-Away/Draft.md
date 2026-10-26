@@ -733,7 +733,6 @@ On Friday, Taiga came back from class to thirty-six messages in the Apollo chat.
 
 **Leo:** an excellent question
 **Leo:** also i'm coming
-**Leo:** i know almost nothing about volleyball strategy but i have lungs and enthusiasm
 
 Taiga read the rest while sitting on the edge of his bed. Apparently, they were all going. He put the phone down.
 
@@ -816,81 +815,49 @@ Enzo turned it toward him. "There's space for your name."
 
 "Don't put my name on it."
 
-Taiga took his coat off. The place was warm, which made a pleasant change from spending Saturday freezing beside a soccer pitch. Leo was watching the players gather near their benches.
+Taiga took his coat off. The place was warm, which made a pleasant change from spending Saturday freezing beside a soccer pitch.
 
-"Okay, I should clarify something. I know the rules."
+Olympus lost the first set. Yuuto kept hitting into the block, and Enzo lowered his sign onto his knees as if the wording might be at fault.
 
-"You said you didn't."
+"He needs to stop trying to hit through them," Leo said. "There's room beside their hands."
 
-"I said almost nothing about strategy. My sister played for two years."
+Taiga turned toward him. "How do you know that?"
 
-"So you've been lying about your qualifications."
+"My sister played for two years. I went to her games."
 
-"I wanted to watch without being responsible for explaining everything."
+"She still plays?"
 
-Taiga looked at him. Leo lasted approximately three seconds.
-
-"Their player in the different shirt is the libero."
-
-"That was quick."
-
-"You were looking at him."
-
-The first set gave Taiga plenty of reasons to look at everybody else too. Six people kept rearranging themselves in a space that looked too small for three. A ball that should have hit the floor somehow came back up, somebody got underneath it, and Yuuto was suddenly in the air.
-
-He hit it straight into two raised pairs of hands.
-
-The ball came back onto Olympus's side. Point gone.
-
-"Fuck," Taiga said.
-
-Yuuto landed, grimaced and immediately clapped his hands at a teammate. They exchanged a few words before he jogged into position again.
-
-"He keeps trying to hit through both of them," Avan said.
-
-Gav leaned forward to see past Scott. "Can he go around?"
-
-"Yeah, if he actually watches where they're blocking. He gets carried away trying to hit harder."
-
-Olympus lost the set. Enzo lowered his sign onto his knees and studied it as if he might have worded something incorrectly.
-
-During the break, Taiga asked about the rotation. Leo collected bottle caps from the others and arranged six on the ledge in front of their seats. His explanation required moving several of them at once. Aaron supplied sound effects when one fell off.
-
-Avan picked it up and passed it back without interrupting.
-
-"Does your sister still play?" Taiga asked while Leo reset his tiny team.
-
-"No. She retired at fourteen. The floor was too hard and everyone screamed."
+"No, she retired at fourteen. The floor was too hard and everyone screamed."
 
 "Reasonable."
 
 "She does theater now."
 
-Taiga looked up.
+Taiga looked at him.
 
-"Yeah," Leo said. "I've pointed that out. She says it's different when she's the one screaming."
+"Yeah, I've pointed that out. She says it's different when she's the one screaming."
 
-The whistle went before Taiga could ask anything else.
+During the break, Taiga asked about the rotation. Leo borrowed bottle caps from the others and moved them around on the ledge in front of their seats. Aaron supplied sound effects when one fell off.
 
-Yuuto did better in the second set. When the blockers jumped, he put the ball past their hands instead of trying to remove them. He chased one bad pass almost into the advertising boards and came up grinning after a teammate finished the point.
+Olympus drew level in the second set. Yuuto chased one ball almost into the advertising boards, and Enzo shouted loudly enough to make him look up.
 
-Enzo shouted his name. Yuuto looked toward them, tapped two fingers against his forehead and got called back by the coach again.
+"He's supposed to be watching the ball, not you," Avan told him.
 
-"He can hear you," Avan told Enzo. "He's supposed to be watching the ball, not you."
+Enzo waited until Yuuto turned away before raising the sign again.
 
-That lasted until the next point.
+By the third set, Taiga was leaning forward beside Leo, who had started telling the setter where to put the ball.
 
-By the third set, Taiga was leaning forward with his elbows on his knees. Olympus had caught up twice and then fallen behind again. He had stopped asking Leo questions because Leo was too busy arguing with the court.
+"He can't hear you."
 
-A serve came over badly. One of the Olympus players threw himself after it, sent the ball up crooked and stayed on the floor. Somebody else reached it. Yuuto was already moving.
+"He might."
 
-Leo caught Taiga's forearm as they both stood.
+An Olympus player dived for a ball Taiga had already given up on. It came back up, a teammate reached it, and Yuuto jumped.
 
-"Come on, come on—"
+"Come on—"
 
-This time, Yuuto barely seemed to hit the ball. It dropped into the space behind the block, and the defender got there just late enough.
+Leo caught Taiga's forearm as they both stood. Yuuto dropped the ball just behind the block.
 
-Their row erupted. Enzo's sign blocked half the court. Leo let go to clap, and Taiga had to push the cardboard away to see Yuuto helping his teammate up.
+Their row erupted. Leo let go to clap, and Taiga had to push Enzo's sign away to see.
 
 "Move that fucking thing!"
 
