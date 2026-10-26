@@ -611,7 +611,7 @@ For a brief moment, he wished Eduard was there to smack some sense into him agai
 
 Taiga looked at the time: 5:07. He took a deep breath and began walking towards the administrative buildings.
 
-At 5:24, he was sitting outside Mercer's office. Number forty was already inside, while the one Leo said was probably being kicked was sitting a couple of chairs away from him.
+At 5:24, he was sitting outside Mercer's office. Number forty was already inside, while forty-three was sitting a couple of chairs away from him.
 He seemed extremely relaxed: legs crossed, scrolling his phone, chewing gum.
 
 Taiga couldn't tell if he simply didn't care or if he was actually confident.
