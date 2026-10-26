@@ -946,41 +946,63 @@ For a while, neither said anything.
 
 Then Leo turned the bottle in his hands.
 
-"I know it's one game."
+"Anyway. First loss out of the way." He gave a small shrug. "Had to happen eventually. Better now than at Pinetree, right?"
 
-"It was ninety minutes. I was there for all of them."
+Taiga looked at him.
 
-Leo gave a small, humorless laugh.
+"You don't believe that."
 
-"Everybody keeps saying it like I don't know. It's one game. We'll play better next week. There are more points. I know."
+"Believe what?"
 
-"You're still allowed to be pissed off."
+"That it's better we lost."
 
-Leo looked at him, then back toward the gate.
+"That's not what I meant."
 
-"Good. Because I am."
+"What did you mean?"
 
-He finally opened the bottle and drank.
+Leo tried a smile. "It's one game. I'll live."
 
-Taiga watched two people struggle to fold a banner into a bag clearly made for a smaller banner. He could have helped. They eventually turned it around and solved the problem themselves.
+"I didn't ask if you were going to fucking die."
 
-"Practice was the same," Leo said. "That stupid session last week. I couldn't get anything right, and the harder I tried to fix it, the worse it got."
+The smile went. Leo looked toward the gate.
 
-"You played better after that."
+"Look, I'm trying not to make a whole thing out of it."
 
-"Yeah. Then today, every time we got forward, I could see what wasn't working. Evan's got somebody following him everywhere. Jordan's got two. Enzo gets the ball and there's no space behind the fullback. So I come back, try to get it moving, and Mercer tells me I'm too deep."
+"You're sitting on a wall. You can say you're pissed off."
+
+"Fine. I'm pissed off."
+
+Taiga waited.
+
+Leo pressed his thumb into the side of the bottle. The plastic crackled.
+
+"We had the ball the whole fucking game. They got one corner, put it in, and we spent the rest of the afternoon passing it around in front of them."
+
+He shook his head.
+
+"And every time I got it, I thought, okay, this time. I'll get past him. I'll put Jordan through. Something. Then I've lost it again, and now everybody has to run back because I couldn't just make the easy pass."
+
+"You weren't the only one losing it."
+
+"I know. I'm talking about me."
+
+Taiga nodded. Leo finally opened the bottle, but left it resting on his knee.
+
+"It's that fucking practice again. I spent all week getting past that, and then I go out there and do it for ninety minutes."
+
+Two people were trying to fold a banner beside the gate. A corner kept slipping out of the bag.
+
+"Every time I looked up, there was somebody in the way," Leo said. "Evan's got someone following him. Jordan's got two. So I come back for it, and Mercer tells me I'm too deep."
 
 "You were."
 
-"I know." Leo rubbed his forehead. "I know. I could feel it while I was doing it. Which is incredibly annoying, by the way. Being aware that you're doing something stupid doesn't seem to stop your legs."
+"I know!" Leo stopped, then rubbed his forehead. "I know. That's the fucking thing. I can see it afterward. I can tell you exactly what I should've done. Why couldn't I just do it?"
 
-Taiga looked down at his boots.
+Taiga didn't have an answer to that.
 
-"I'm familiar with that."
+Leo took a drink and wiped his mouth with the back of his hand.
 
-Leo's mouth moved a little. He took another drink.
-
-"I hate being bad at something I know I'm good at. If it's new, fine. I can learn it. But I've been playing forever. I should be able to take a touch without trying to solve the whole game first."
+"I hate being bad at something I know I'm good at. I've been playing forever. I should be able to make a fucking pass."
 
 "You put Jordan through."
 
@@ -992,9 +1014,9 @@ Leo watched a group cross the path.
 
 "We didn't score."
 
-"I noticed that too."
+"I know."
 
-He laughed properly this time, briefly, then shook his head.
+Leo looked away. After a moment, he shook his head.
 
 "Sorry. I'm being a miserable asshole."
 
@@ -1016,13 +1038,13 @@ Leo turned toward him.
 
 "Apparently I'm not alone."
 
-Leo looked down at the bottle. His shoulders dropped a little.
+Leo scrubbed a hand over his face.
 
-"I wanted to do something useful."
+"Fuck. We could've won that."
 
 "Yeah."
 
-Taiga let that sit. He didn't have anything that would turn one-nil into a different score, and Leo would notice if he tried.
+Taiga shifted his feet. His toes were going numb.
 
 Eventually, Leo screwed the cap back on.
 
@@ -1050,21 +1072,23 @@ At the counter, Taiga asked whether he wanted his usual. Leo nodded, then change
 
 They found a table near the back. Taiga took his coat off and hung it over the chair.
 
-"Thanks," Leo said.
+Taiga opened his drink. Leo picked up his fork, then put it down again.
 
-"For what?"
+"That keeper. The one on Jordan. I thought that was in."
 
-Leo took a moment.
+"So did I."
 
-"Not trying to make me stop being pissed off."
+"His fucking leg. He didn't even have to move it that far."
 
-"You can stop whenever you want."
+Taiga took a bite. Leo was still looking at his plate.
 
-"Generous."
+"I'm going to have to watch that again on Monday."
 
-Taiga opened his drink. Leo picked up his fork.
+"Probably more than once."
 
-They ate. After a while, Leo asked how his lab had gone with the guy who commented closing braces.
+"Don't."
+
+They ate. Leo complained about the corner too. After a while, he asked how Taiga's lab had gone with the guy who commented closing braces.
 
 Taiga told him. He didn't improve the story to make it funnier.
 
