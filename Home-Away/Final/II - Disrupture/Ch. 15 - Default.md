@@ -835,7 +835,7 @@ Taiga wasn't entirely convinced. Volleyball plus new people? Meh.
 
 "Alrighty."
 
-They stayed there for half an hour, talking about mostly trivia stuff. And nonsense, obviously.
+They stayed there over their coffee. 
 
 "Important question" Leo said at some point.
 
@@ -901,7 +901,7 @@ They spent the rest of time trying to find an animal that met the requirements w
 Geese became an option, but he admitted he'd need a weapon for them.
 Leo scrolled through comments. When he turned the phone to show Taiga, his knees touched for a couple of seconds. Taiga read the comment aloud because apparently somebody had chosen a horse. He was still perfectly aware of the contact.
 
-Eventually, he went to the mess hall because he had promised some friends they'd eat together.
+Eventually, Leo went to the mess hall because he had promised some friends they'd eat together.
 Taiga went with Caleb instead.
 
 Later in the afternoon, his phone buzzed while he was in his room.
