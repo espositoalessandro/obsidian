@@ -952,29 +952,35 @@ Taiga looked at him.
 
 "You don't believe that."
 
-"Believe what?"
+Leo tried a smile. "It's one game. I'm fine."
 
-"That it's better we lost."
+"You're not."
 
-"That's not what I meant."
+"I'm fine."
 
-"What did you mean?"
+"You're not."
 
-Leo tried a smile. "It's one game. I'll live."
+"I said I'm fucking fine."
 
-"I didn't ask if you were going to fucking die."
+Leo had turned to face him. Taiga stopped with his mouth half open.
 
-The smile went. Leo looked toward the gate.
+"Alright."
 
-"Look, I'm trying not to make a whole thing out of it."
+Leo looked away first.
 
-"You're sitting on a wall. You can say you're pissed off."
+Taiga pushed his hands into his coat pockets. He hadn't expected that. He watched the maintenance cart go past, a stack of folded chairs rattling in the back.
 
-"Fine. I'm pissed off."
+Two people were trying to fold a banner beside the gate. A corner kept slipping out of the bag. They pulled the whole thing out and started again.
 
-Taiga waited.
+Leo opened his bottle and drank. Taiga could hear the vending machines humming behind them. He kept his eyes on the gate.
 
-Leo pressed his thumb into the side of the bottle. The plastic crackled.
+One of the people with the banner went inside. The other stayed with the bag at his feet, checking his phone.
+
+"One fucking corner."
+
+Taiga looked over. Leo was staring at the stadium.
+
+"What?"
 
 "We had the ball the whole fucking game. They got one corner, put it in, and we spent the rest of the afternoon passing it around in front of them."
 
@@ -986,11 +992,9 @@ He shook his head.
 
 "I know. I'm talking about me."
 
-Taiga nodded. Leo finally opened the bottle, but left it resting on his knee.
+Taiga nodded. Leo set the bottle on his knee, the cap still in his other hand.
 
 "It's that fucking practice again. I spent all week getting past that, and then I go out there and do it for ninety minutes."
-
-Two people were trying to fold a banner beside the gate. A corner kept slipping out of the bag.
 
 "Every time I looked up, there was somebody in the way," Leo said. "Evan's got someone following him. Jordan's got two. So I come back for it, and Mercer tells me I'm too deep."
 
@@ -1018,11 +1022,13 @@ Leo watched a group cross the path.
 
 Leo looked away. After a moment, he shook his head.
 
-"Sorry. I'm being a miserable asshole."
+"Sorry I snapped at you."
 
-"You're not doing anything to me."
+"I was being annoying."
 
-That shut him up for a moment.
+"Yeah, but..." Leo rubbed his face. "Still. Sorry."
+
+Taiga nodded.
 
 The people with the banner finally drove away. Taiga's toes were getting cold. He pushed his hands deeper into his pockets.
 
