@@ -761,5 +761,185 @@ Taiga had also abandoned his plan of timing his shower with Leo's. Besides worki
 
 Plus, it was just stupid. Taiga could survive standing next someone he considered hot without turning it into a drama.
 
+On Wednesday, Taiga was still shampooing his head when the shower beside him came on and Leo started humming.
+Then singing.
 
+Taiga sighed. He could still see a pink figure moving behind the frosted panel. He then looked down: no sign of activities. 
 
+Why on Earth did he expected to get a boner simply because Leo was standing a meter away?
+He exhaled and felt his shoulders drop.
+
+From the other side, Enzo shouted, "Absolutely not."
+
+Leo increased the volume.
+
+"I'm asking you as a friend," Enzo said wincing.
+
+"And I'm refusing as an artist."
+
+Taiga laughed with his face under the water and nearly inhaled some.
+
+"See?" Leo said. "Audience response."
+
+"He's choking," Enzo said. "You did that."
+
+"I was fine until you both started talking," Taiga told them.
+
+Leo resumed singing. Taiga finished rinsing, turned off the water and went to find his towel while Enzo attempted the same song louder and somehow worse.
+
+***
+
+**Leo:** coffee after you're done with calculus?
+
+Friday morning. Taiga was in the middle of his Calculus lecture.
+
+**Taiga:** fine
+
+**Leo:** 🔥
+
+He found Leo waiting for him outside his class.
+
+"That's low-key stalking, you know," Taiga said.
+
+"It's consensus based."
+
+"Because you bribe me with coffee."
+
+"I just know how to exploit weaknesses."
+
+Taiga shoved him toward the staircase as Leo laughed.
+
+They were sitting at the cafeteria in the University Center when Apollo's group chat made both of their phone buzz.
+
+**Enzo:** artemis home game tonight!
+
+**Aaron:** Since when do you care about volleyball?
+
+**Enzo:** since yuuto invited me
+**Enzo:** he said bring people
+
+**Gav:** What time?
+
+**Enzo:** 7:30 volleyball arena
+
+"Oh, that's cool!" Leo said.
+
+**Leo:** i'm in
+**Leo:** i know almost nothing about volleyball strategy but i have lungs and enthusiasm
+
+Taiga wasn't entirely convinced. Volleyball plus new people? Meh.
+
+"You coming?" Leo asked.
+
+"I'll think about it."
+
+"Alrighty."
+
+They stayed there for half an hour, talking about mostly trivia stuff. And nonsense, obviously.
+
+"Important question" Leo said at some point.
+
+Taiga braced himself.
+
+"If you had to fight an animal your own body weight, what would you pick?"
+
+"What? Why?"
+
+"I saw a post about it on Instaglam."
+
+Leo showed him the post. Taiga read the wording. It was exactly as stupid as advertised.
+
+"A tuna."
+
+"We're on land."
+
+"It doesn't say that."
+
+Leo checked. "Okay, fine. I'm adding that."
+
+"Then I'm not answering."
+
+"I was thinking raccoons."
+
+"One raccoon? Your weight?"
+
+"No, several raccoons. Combined."
+
+"That's several animals."
+
+"Yeah, but one type!"
+
+"You've changed the question twice and you're still going to die."
+
+Leo started laughing. "Okay. You pick."
+
+Taiga considered it while Leo drank his coffee.
+
+"Something that eats grass, I guess."
+
+"Like cows?"
+
+He frowned. "A cow doesn't weigh the same as me."
+
+"Okay then a small cow? Like a calf?"
+
+"Would you fight a calf?"
+
+Leo hesitated. "No, I'd loose because it's too adorable."
+
+"But raccoons are fine."
+
+"Yeah, raccoons would understand."
+
+"How?"
+
+"Conflict is in their nature."
+
+Taiga laughed into his cup and put it down before spilling anything.
+
+They spent the rest of time trying to find an animal that met the requirements without making Leo feel bad about it.
+Geese became an option, but he admitted he'd need a weapon for them.
+Leo scrolled through comments. When he turned the phone to show Taiga, his knees touched for a couple of seconds. Taiga read the comment aloud because apparently somebody had chosen a horse. He was still perfectly aware of the contact.
+
+Eventually, he went to the mess hall because he had promised some friends they'd eat together.
+Taiga went with Caleb instead.
+
+Later in the afternoon, his phone buzzed while he was in his room.
+
+**Leo:** emergency
+**Leo:** enzo's making a sign
+
+**Taiga:** what does it say?
+
+**Leo:** he won't disclose it
+
+**Taiga:** concerning
+
+**Leo:** exactly
+**Leo:** we should inspect it before he enters a public building
+
+**Taiga:** good luck
+
+**Leo:** i might need your persuasion skills
+
+Across the room, Caleb was comparing a receipt with the groceries on his desk. He lifted a yogurt out of the bag, checked it and put it beside two others.
+
+"Did they give you the wrong one?" Taiga asked.
+
+"No."
+
+"Then what's the problem?"
+
+"They charged me for four."
+
+Taiga leaned back against the wall while Caleb checked the bag one more time. 
+
+**Leo:** update: he bought glitter
+
+He laughed.
+
+**Taiga:** alright
+
+Leo reacted with a heart.
+
+***
