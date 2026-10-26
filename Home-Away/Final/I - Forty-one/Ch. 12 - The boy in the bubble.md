@@ -744,7 +744,7 @@ They went silent for a moment. For some reason, Taiga could feel the same uneasi
 
 "I'll make sure to remind you."
 
-"And there you go."
+"Of course."
 
 Leo chuckled. He put his hands in his pockets.
 
