@@ -794,15 +794,15 @@ The guy looked up from his program. Dark hair, glasses, a pale blue jacket folde
 
 "Six."
 
-Avan checked the row. "There's room on this side. Please leave the aisle clear."
+Avan checked the row. "You can sit on this side. Just keep your bags out of the aisle; people still need to get past."
 
 Enzo introduced him as Yuuto's roommate while everybody sorted out coats and bags. Leo stopped to shake his hand. Taiga gave his name, got a polite greeting back and took the seat beside Leo. Gav and Scott settled on Avan's other side, with Aaron and Enzo closer to the aisle.
 
-On court, a short guy with white-and-pink hair was bouncing a ball between his hands. Number four. He looked up when Enzo raised the sign.
+On court, a guy with white-and-pink hair was bouncing a ball between his hands. Number four. He looked up when Enzo raised the sign.
 
 His whole face lit up.
 
-"HEY! YOU MADE IT!"
+"YOOO! YOU BROUGHT THE WHOLE SQUAD!"
 
 Several players turned. Yuuto pointed at the sign, laughed and gave them two thumbs up. His coach called his name. He dropped one hand, keeping the other thumb raised while jogging back to his teammates.
 
@@ -814,7 +814,7 @@ Avan was still looking at the sign.
 
 Enzo turned it toward him. "There's space for your name."
 
-"There is no need."
+"Don't put my name on it."
 
 Taiga took his coat off. The place was warm, which made a pleasant change from spending Saturday freezing beside a soccer pitch. Leo was watching the players gather near their benches.
 
@@ -850,7 +850,7 @@ Yuuto landed, grimaced and immediately clapped his hands at a teammate. They exc
 
 Gav leaned forward to see past Scott. "Can he go around?"
 
-"That's what he's supposed to do."
+"Yeah, if he actually watches where they're blocking. He gets carried away trying to hit harder."
 
 Olympus lost the set. Enzo lowered his sign onto his knees and studied it as if he might have worded something incorrectly.
 
@@ -876,7 +876,7 @@ Yuuto did better in the second set. When the blockers jumped, he put the ball pa
 
 Enzo shouted his name. Yuuto looked toward them, tapped two fingers against his forehead and got called back by the coach again.
 
-"He can hear you," Avan told Enzo. "Please let him concentrate."
+"He can hear you," Avan told Enzo. "He's supposed to be watching the ball, not you."
 
 That lasted until the next point.
 
@@ -912,49 +912,49 @@ Avan checked his phone, put it away and looked toward the corridor.
 
 Yuuto came through a minute later with his bag hanging open and a jacket over one arm.
 
-"You guys were so loud! I heard you after that save. Holy shit, I thought my face was going into the boards. Did it look close? It felt close."
+"You guys were so loud! Holy cali-maki, I heard you from the back row! Did you see that save? I thought my face was going into the boards, but then my ninja instincts kicked in!"
 
-"It looked close," Leo assured him.
+"It looked close," Leo said.
 
-"I knew it. Avan, did you get a video?"
+"Right?! Avan, did you get a video? I wanna see how cool I looked!"
 
-"I was watching the match."
+"I was watching the match, Yuuto. You told me to put my phone away."
 
-"Right, yeah. Better live."
+"Oh, yeah! Good job listening!"
 
 Yuuto took the sign from Enzo, unrolled it and read it again. Then he looked around the group.
 
-"We're getting food, right? I'm fucking starving."
+"We're getting food, right? My hunger bar's been empty since the second set!"
 
 "Burgers," Scott said.
 
-"Yes! Burgers. Where?"
+"Heck yes! Where? Lead the way, burger captain!"
 
 Gav named the place near Central Park. Yuuto agreed before he'd finished explaining how to get there, then started introducing himself to the people he didn't know. He repeated Scott's name, asked whether he'd been the one who caught a stray ball during warm-up and thanked him when Scott nodded.
 
 Taiga had barely given his own name when Yuuto pointed at his hair.
 
-"Oh, you get the root problem too. Mine's so bad right now."
+"Oh, same hair problem! You get the dark stripe growing back too, right? Mine's trying to take over!"
 
 He bent his head forward to demonstrate. There was a perfectly ordinary conversation Taiga had not expected to have with a stranger tonight.
 
 "Do yours yourself?" he asked.
 
-"Sometimes. Avan did the back last time."
+"Sometimes! Avan did the back last time. I thought I got it all, but apparently there was a whole stripe back there!"
 
-"You missed a section," Avan said.
+"You missed a whole section," Avan said. "You weren't going to notice until someone pointed it out in class."
 
-"Couldn't see it. That's why I recruited you."
+"Exactly! Backup eyeballs!"
 
 Yuuto straightened and turned toward the doors, still holding his jacket.
 
-"Put that on first," Avan told him.
+"Put your jacket on first," Avan told him. "You're still warm from playing. You won't be in five minutes."
 
-"Yeah, yeah. Come eat with us."
+"Yeah, yeah. Coat, then food! Come eat with us!"
 
-"I was going to."
+"I was going to. Nobody said I wasn't."
 
-"Great!"
+"Sweet!"
 
 He handed Avan the sign so he could get his arms into the sleeves. Avan folded it along the existing crease and waited.
 
@@ -990,7 +990,7 @@ Yuuto took considerably longer to order. He changed his fries, changed them back
 
 Avan returned to the table with a tray and sat opposite Taiga.
 
-"They'll be a while."
+"We may as well start. He'll change his mind again if he keeps looking at the menu."
 
 He unwrapped his burger. Taiga handed him the napkins Leo had left between their places.
 
@@ -1000,9 +1000,9 @@ For a few minutes, everybody ate. Yuuto finally arrived carrying enough food tha
 
 "Those yours?" Taiga asked when he pushed them toward him.
 
-"Yeah. Try one. They put something on them."
+"Yeah! Try one! I got the big portion so everybody could. They're super good."
 
-Taiga took one. Garlic, apparently. Yuuto looked satisfied and started eating his burger.
+Taiga took one. Garlic, apparently. Yuuto waited for him to nod before pushing the tray toward Gav too.
 
 Gav asked about the touch that had won them the third set. Yuuto swallowed quickly.
 
@@ -1010,17 +1010,29 @@ Gav asked about the touch that had won them the third set. Yuuto swallowed quick
 
 He demonstrated with one hand, nearly putting his wrist in the fries.
 
-"Like that. Little ninja drop."
+"The Nakajima Phantom Drop! They thought I was going full power, then boom! Vanished right past 'em!"
 
-"Is that its official name?" Leo asked.
+"You just named that, didn't you?" Leo asked.
 
-"It is now."
+"Nah, I had it ready! Just didn't shout it this time. Can't shout a stealth move, that ruins the whole thing!"
 
 Enzo immediately wanted a name for his own best goal. Aaron objected to the word 'best,' and they spent several minutes arguing about which goal deserved it. Yuuto listened with increasing interest, asking questions that made Enzo start the story again from farther back.
 
 Avan kept eating. Once, when Enzo's version acquired a second defender, he glanced at Leo. Leo shook his head slightly.
 
 Taiga bit into his burger to hide a smile.
+
+Yuuto picked his burger up again, then stopped before taking a bite.
+
+"But seriously, thanks for coming. I know Enzo invited you, but you guys didn't have to stay for the whole thing."
+
+"We wanted to see who won," Taiga said.
+
+Yuuto grinned at him. "Next time I'll make sure we win faster!"
+
+"That's not really how it works," Avan said. "Anyway, it was a good match. Especially once you started listening to your setter."
+
+"I know, I know. I get all pumped up and forget to look. I'm working on it!"
 
 Eventually the conversation reached Mercer's training schedule. Avan asked how they managed classes around it, and Gav asked about swimming in return. Avan's answers became longer. He described an early session, the gap before his first lecture and the morning he'd had to arrive at a student council meeting with his hair still wet.
 
@@ -1034,11 +1046,11 @@ Avan asked which room. Leo checked his phone, and they spent a minute establishi
 
 "So it wasn't just me. Good. I thought my charger was dying."
 
-"It would still be useful to know which desks," Avan said.
+"Send me which desks," Avan said. "Otherwise they'll just check the room, find one that works and tell us there's no problem."
 
 "I can send that."
 
-"Please do."
+"Thanks. I'll add it to the request."
 
 Yuuto was examining the glitter on the rolled sign beside his tray.
 
@@ -1048,21 +1060,23 @@ Enzo looked interested immediately.
 
 "Probably."
 
-"For when they turn the lights down before we come out. It'd look sick. Oh, we could do eyes. Like something's watching from the stands."
+"For when they turn the lights down before we come out! Oooh, we could do giant eyes! Like a secret boss watching from the bleachers!"
 
 "Where are you planning to put it afterward?" Avan asked.
 
-"Above my bed."
+"Above my bed! That's where I do all my best dreaming!"
 
 Avan lowered his burger.
 
-"Facing yours," Yuuto added helpfully.
+"Facing yours," Yuuto added helpfully. "So they can watch over you too!"
 
 Leo laughed hard enough that Taiga moved his drink away from his elbow.
 
-"There are already enough things in our room that light up," Avan said. "If it keeps me awake, I'm taking it down."
+"You mean keep me awake," Avan said. "No. Put it inside your closet if you want it that badly."
 
-Yuuto considered that while eating a fry. Then he offered them around again. Scott took one this time.
+"Ooh. Sneak attack when I get dressed."
+
+Avan opened his mouth, then apparently decided against it and went back to eating. Yuuto offered the fries around again. Scott took one this time.
 
 The conversations split. Gav and Avan compared early starts while Aaron tried to persuade Yuuto that soccer celebrations needed more acrobatics. Enzo was searching for glow-in-the-dark paint on his phone. Taiga finished his burger and checked the time.
 
