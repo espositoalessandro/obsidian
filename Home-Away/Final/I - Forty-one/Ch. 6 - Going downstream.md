@@ -4,7 +4,7 @@ Monday morning was pale and humid. Rain was definitely in the air.
 October finally managed to wash away what was left of the heat of the summer.
 
 Taiga breathed in the cold air as he walked towards the Lecture Hall. Finally, that walk didn't require his body to release coolant.
-Nora was already in their usual row when Taiga reached Political Institutions. She had his seat beside her empty and a paper cup balanced on top of her notebook.
+Nora was already in their usual row when Taiga reached Political Institutions. She'd left his seat beside her empty and had a paper cup balanced on top of her notebook.
 
 "You're late."
 
@@ -166,7 +166,7 @@ Zoe pushed her laptop toward him.
 
 "Please tell me this is fixable."
 
-Nora leaned.
+Nora leaned closer.
 
 "What are you helping with?"
 
@@ -292,7 +292,7 @@ Taiga froze and his heart dropped several meters.
 He slowly picked it up and opened it.
 
 *Dear Mr. Akatora,
-your final six-week developmental review is scheduled for Thursday at 17:30.
+Your final six-week developmental review is scheduled for Thursday at 17:30.
 Best regards,
 Olympus Soccer Office*
 
@@ -310,7 +310,7 @@ Someone tapped his shoulder. Nora had her head tilted and was looking at him.
 
 She raised an eyebrow. Leo and Zoe looked concerned as well.
 
-"I got the Apollo evaluation this Thursday."
+"I have the Apollo evaluation this Thursday."
 
 Nora frowned.
 
@@ -451,7 +451,7 @@ Taiga shrugged.
 
 "His alarm system counts as a daily murder attempt."
 
-"I reduced it on your request."
+"I reduced it at your request."
 
 "Yeah. To four. It went from absurdly insane to insane."
 
@@ -555,7 +555,7 @@ Maya, on the other hand, kept eating, glancing at him from time to time.
 
 Taiga looked again at the weekly schedule. His eyes landed on "Practice" before the circled 5:30 slot.
 
-Practice had become as routine as classes. Delete every "Practice" from the schedule, and half his life at Olympus disappeared with it.
+Practice had become as routine as classes. Delete every "Practice" from the schedule, and half his life at Olympus would disappear with it.
 
 He exhaled.
 
@@ -594,7 +594,7 @@ Taiga laughed and went back to his food.
 Eventually, Thursday arrived. Way too quickly.
 
 During Foundations of Computer Science lab, he barely spoke. He mostly listened and tried writing code that ended up making no sense at all.
-Every time he ran it, his eyes went to the clock. With every minute passing, his stomach felt heavier.
+Every time he ran it, his eyes went to the clock. With every passing minute, his stomach felt heavier.
 
 At 4:30, Professor Rao dismissed the class. Taiga slowly packed his laptop and started walking towards the administrative buildings.
 
@@ -620,7 +620,7 @@ At 5:28, the guy came out of Mercer's office and called for Taiga.
 
 "Taiga? Mercer said to go in."
 
-The world reduced to that single door. He slowly stood and walked towards it. The guy who'd just come out was smiling.
+The world narrowed to that single door. He slowly stood and walked towards it. The guy who'd just come out was smiling.
 
 "It's easier than it sounds. Relax."
 
