@@ -127,7 +127,7 @@ She smiled.
 "Oh, right. Uhm, what was his name... Ah, Leo, right?"
 
 An image flashed without warning in his mind.
-Showers. Heat. A door opening.
+Showers. Heat. The door opening.
 
 Taiga briefly closed his eyes. Not now.
 
@@ -140,8 +140,7 @@ Leo sat beside her with his laptop open and looked up as well, raising one arm.
 
 "Hey, Taiga!"
 
-He used the same volume he used during soccer.
-Zoe grabbed his sleeve and pulled his arm down.
+He used the same volume he used during soccer. Zoe grabbed his sleeve and pulled his arm down.
 
 Nora glanced at Taiga.
 
@@ -160,18 +159,6 @@ Zoe then held out her hand.
 "Hi, I'm Zoe."
 
 "Nora."
-
-Zoe pointed at the two of them.
-
-"Are you-"
-
-Taiga and Nora immediately answered together.
-
-"Classmates."
-
-Zoe giggled.
-
-"Alright."
 
 "So, what's the damage?" asked Taiga.
 
@@ -199,7 +186,7 @@ Taiga considered that for a second.
 
 "How do you know it?"
 
-"I've tinkered with it over the summer."
+"Another scout taught me this summer."
 
 Nora raised an eyebrow.
 
@@ -210,7 +197,7 @@ Taiga looked at the Git history and stopped.
 
 "What did you do?"
 
-"That tone is unnecessary."
+"That tone is unnecessary," Zoe said.
 
 "You have branches called `final`, `final-new`, `final-real`, `final-fixed` and `final-fixed-2`."
 
@@ -220,13 +207,7 @@ Nora looked at the screen.
 
 "Absolutely not," Taiga answered.
 
-"Then why?"
-
-Zoe looked at her.
-
-"Why what?"
-
-"Why are they all called final?"
+"Then why are they all called final?"
 
 "They were final when I made them."
 
@@ -297,6 +278,7 @@ Okay. Leo was objectively attractive. So what?
 ...Fine, hot.
 
 Still, irrelevant. Plenty of hot guys out there. Leo was simply the easiest option his brain could provide when it needed one.
+
 End of story.
 
 His phone buzzed on the table. Taiga stared at the screen without picking it up.
