@@ -65,7 +65,7 @@ Tuesday brought the first Data Structure Lab. Professor's assistant Owen had bee
 
 "Bear with me."
 
-Beside him, Leo was unpacking a charger that had somehow tied itself around his headphones.
+Beside Taiga, Leo was unpacking a charger that had somehow tied itself around his headphones.
 Finally, Owen managed to show his desktop on the projector.
 He opened the assignment page.
 
@@ -137,7 +137,7 @@ Taiga looked at the time. Doable.
 
 "Alright."
 
-The cafeteria had a line, but it moved quickly. Leo's drink had  so much drink that coffee barely contributed for color. Taiga ordered his black and they found a plance at the standing counter by the window.
+The cafeteria had a line, but it moved quickly. Leo's drink had so much milk that coffee barely contributed for color. Taiga ordered his black and they found a plance at the standing counter by the window.
 Leo opened the assignment on his phone and tried to show him something.
 
 "We're done with that."
@@ -150,7 +150,7 @@ He had renamed the helper.
 
 "Clear responsibility. Better documentation."
 
-Taiga laughed and kicked him under the chair.
+Taiga laughed and lightly kicked him.
 
 "Change it back before you submit."
 
@@ -376,7 +376,7 @@ Taiga knew it was too soon for him to play in a conference match, but he wasn't 
 
 Mercer dismissed them.
 
-This time, Taiga decided to change approach. He rushed to the showers as soon as Mercer dismissed them. That was way better than wait outside like an idiot.
+This time, Taiga decided to change approach. He rushed straight to the showers. That was way better than wait outside like an idiot.
 
 He was already putting his towel around the waist and pulling down his jock when Leo sat at his bench and began untying his boots. Good.
 
@@ -773,7 +773,7 @@ From the other side, Enzo shouted, "Absolutely not."
 
 Leo increased the volume.
 
-"I'm asking you as a friend," Enzo said wincing.
+"I'm asking you as a friend," Enzo said.
 
 "And I'm refusing as an artist."
 
