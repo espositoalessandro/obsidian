@@ -37,7 +37,7 @@ Leo was still talking about the project requirements when Taiga turned toward th
 
 "Where are you going?"
 
-Leo stopped beside him. "Uh- Coffee."
+Leo stopped beside him. "Uh... Coffee."
 
 "That's the other way."
 
@@ -327,7 +327,7 @@ Class ended. Taiga and Leo stood and picked up their bags.
 
 Taiga raised an eyebrow. "You want to come?"
 
-"Ah! Yes, sorry, I-" He shook his head. "Yeah, sure!"
+"Ah! Yes, sorry, I—" He shook his head. "Yeah, sure!"
 
 Then after a second, "Coffee after your Calculus class?"
 
@@ -398,7 +398,7 @@ Yeah, definitely not something normal people usually do.
 
 "You good? You rushed into the shower like you have a meeting in five minutes."
 
-"I-"
+"I—"
 
 He cursed the universe.
 
@@ -414,7 +414,7 @@ No. Floor. Tiles. Shampoo.
 
 Taiga realized he had asked a question a second later.
 
-"Uh- come again?"
+"Uh... come again?"
 
 Leo paused. "Were you spacing out while I was talking to you?"
 
