@@ -714,24 +714,19 @@ Leo resumed singing. Taiga finished rinsing, turned off the water and went to fi
 
 ***
 
-By Friday, most of the snow along the paths had become gray heaps that nobody wanted responsibility for. Taiga walked around one on the way back from class, got his shoe wet anyway and found thirty-six messages in the Apollo chat.
+On Friday, Taiga came back from class to thirty-six messages in the Apollo chat.
 
-**Enzo:** EMMA HOME GAME TOMORROW
+**Enzo:** ARTEMIS HOME GAME TONIGHT
 
-**Aaron:** Who's Emma
+**Aaron:** Since when do you follow volleyball?
 
-**Enzo:** girl from my class
-**Enzo:** volleyball
-**Enzo:** we are attending
+**Enzo:** since yuuto invited me
+**Enzo:** we have a class together
+**Enzo:** he said bring people
 
-**Gav:** Did she invite us?
+**Gav:** What time?
 
-**Enzo:** she mentioned it
-
-**Evan:** That's all it takes, apparently.
-
-**Enzo:** she has been informed
-**Enzo:** 6:30 main arena
+**Enzo:** 7:30 main arena
 **Enzo:** I AM MAKING A SIGN
 
 **Scott:** What kind of sign?
@@ -740,11 +735,11 @@ By Friday, most of the snow along the paths had become gray heaps that nobody wa
 **Leo:** also i'm coming
 **Leo:** i know almost nothing about volleyball strategy but i have lungs and enthusiasm
 
-Taiga read the rest while sitting on the edge of his bed. Saturday was free of soccer, which had sounded like an opportunity to remain in his room until he chose otherwise.
+Taiga read the rest while sitting on the edge of his bed. Apparently, they were all going. He put the phone down.
 
-His phone buzzed privately.
+It buzzed privately.
 
-**Leo:** tomorrow?
+**Leo:** seven at apollo?
 
 **Taiga:** what does the sign say
 
@@ -753,13 +748,9 @@ His phone buzzed privately.
 **Taiga:** concerning
 
 **Leo:** exactly
-**Leo:** 6 at apollo so we can assess the damage?
-
-Taiga checked the time of the match again.
+**Leo:** we should inspect it before he enters a public building
 
 **Taiga:** fine
-
-Leo sent a sun with sunglasses.
 
 Across the room, Caleb was comparing a receipt with the groceries on his desk. He lifted a yogurt out of the bag, checked it and put it beside two others.
 
@@ -781,9 +772,9 @@ His phone buzzed.
 
 Enzo's sign said:
 
-**EMMA PLEASE DO THE VOLLEYBALL GOOD**
+**YUUTO PLEASE DO THE VOLLEYBALL GOOD**
 
-There was very little glitter. Apparently the glue had failed some important part of the application process, and most of it was now attached to Enzo instead.
+Most of the glitter was on his sleeve.
 
 "Do not touch me," Taiga said when he came closer.
 
@@ -791,173 +782,311 @@ There was very little glitter. Apparently the glue had failed some important par
 
 "Keep doing that."
 
-They took a row behind the home bench. Gav sat beside Scott and immediately started reading the match program. Aaron went down to talk to someone he recognized near the aisle. Leo put his coat under his seat, and Taiga took the empty place beside him.
+The arena was already noisy. Shoes squeaked on the court, balls struck the floor and somebody behind the home bench was testing a whistle at a volume Taiga considered unnecessary.
 
-The arena was warm enough that he regretted the extra layer he'd worn. Shoes squeaked on the polished floor. A ball hit the barrier in front of the seats and came back toward them; Scott caught it, then looked briefly alarmed when a player called her thanks up at him.
+Enzo spotted someone near the aisle and headed toward him.
 
-"You're welcome," he managed, sending it back.
+"Avan! Move over."
 
-Enzo raised the sign during warm-up.
+The guy looked up from his program. Dark hair, glasses, a pale blue jacket folded neatly beside him. He glanced past Enzo at the rest of them, then picked it up.
 
-Emma saw it from the far side of the court. She stopped, read it and put both hands over her face.
+"How many of you are there?"
 
-"She's moved," Enzo said.
+"Six."
 
-"She told you not to make one, didn't she?" Leo asked.
+Avan checked the row. "There's room on this side. Please leave the aisle clear."
 
-"She said I didn't have to."
+Enzo introduced him as Yuuto's roommate while everybody sorted out coats and bags. Leo stopped to shake his hand. Taiga gave his name, got a polite greeting back and took the seat beside Leo. Gav and Scott settled on Avan's other side, with Aaron and Enzo closer to the aisle.
 
-Gav lowered the program. "Those aren't always the same sentence."
+On court, a short guy with white-and-pink hair was bouncing a ball between his hands. Number four. He looked up when Enzo raised the sign.
 
-"I choose to believe her."
+His whole face lit up.
 
-Emma pointed at him, then at the sign, making a gesture Taiga understood without any knowledge of volleyball.
+"HEY! YOU MADE IT!"
 
-Enzo waved.
+Several players turned. Yuuto pointed at the sign, laughed and gave them two thumbs up. His coach called his name. He dropped one hand, keeping the other thumb raised while jogging back to his teammates.
 
-The teams gathered near their benches. Leo leaned toward Taiga.
+"I think he likes it," Leo said.
+
+Avan was still looking at the sign.
+
+"He's going to want that in our room."
+
+Enzo turned it toward him. "There's space for your name."
+
+"There is no need."
+
+Taiga took his coat off. The place was warm, which made a pleasant change from spending Saturday freezing beside a soccer pitch. Leo was watching the players gather near their benches.
 
 "Okay, I should clarify something. I know the rules."
 
 "You said you didn't."
 
-"I said almost nothing about strategy. That's different. My sister played for two years."
+"I said almost nothing about strategy. My sister played for two years."
 
-"So why almost nothing?"
+"So you've been lying about your qualifications."
 
-"Because I would like to watch a game without being responsible for explaining it."
+"I wanted to watch without being responsible for explaining everything."
 
-"You could try being quiet."
+Taiga looked at him. Leo lasted approximately three seconds.
 
-Leo considered that. "Let's not start with anything extreme."
+"Their player in the different shirt is the libero."
 
-Emma started in the front row. Taiga watched the first few points, trying to follow who was allowed to go where. Soccer gave him a whole field to read. Here, six people kept moving around a space that looked too small to hold three of them comfortably.
+"That was quick."
 
-He understood the appeal once a rally lasted longer than ten seconds.
+"You were looking at him."
 
-The ball went over, came back, got knocked sideways and was recovered by someone who had apparently been following it specifically in case everything went wrong. Taiga leaned forward. Emma jumped near the net, hit the ball against the block and sent it out off somebody's hands.
+The first set gave Taiga plenty of reasons to look at everybody else too. Six people kept rearranging themselves in a space that looked too small for three. A ball that should have hit the floor somehow came back up, somebody got underneath it, and Yuuto was suddenly in the air.
 
-Their row stood.
+He hit it straight into two raised pairs of hands.
 
-Enzo raised the sign. "YES! DO THAT AGAIN!"
+The ball came back onto Olympus's side. Point gone.
 
-"They usually try to," Aaron told him, returning to his seat.
+"Fuck," Taiga said.
 
-Leo was clapping beside Taiga. "Watch their player in the different shirt."
+Yuuto landed, grimaced and immediately clapped his hands at a teammate. They exchanged a few words before he jogged into position again.
 
-"Why?"
+"He keeps trying to hit through both of them," Avan said.
 
-"She's shifting left before Emma hits. Every time."
+Gav leaned forward to see past Scott. "Can he go around?"
 
-Taiga watched the next rally. She did.
+"That's what he's supposed to do."
 
-"She's covering the gap behind the block," Leo said. "If Emma sees it early, she can put the ball down the other side."
+Olympus lost the set. Enzo lowered his sign onto his knees and studied it as if he might have worded something incorrectly.
 
-Taiga turned toward him.
+During the break, Taiga asked about the rotation. Leo collected bottle caps from the others and arranged six on the ledge in front of their seats. His explanation required moving several of them at once. Aaron supplied sound effects when one fell off.
 
-"Almost nothing?"
+Avan picked it up and passed it back without interrupting.
 
-"My sister talked a lot."
+"Does your sister still play?" Taiga asked while Leo reset his tiny team.
 
-"Apparently it's hereditary."
+"No. She retired at fourteen. The floor was too hard and everyone screamed."
 
-Leo laughed and pointed at the court again.
+"Reasonable."
 
-Olympus lost the first set after giving away three points in a row. Enzo began discussing a revision to the sign. Gav told him changing the tense would not help.
+"She does theater now."
 
-During the break, Leo explained the rotation because Taiga asked. He did it with six bottle caps Aaron had collected from somewhere, moving them along the concrete ledge in front of their seats.
+Taiga looked up.
 
-"The positions change, but what they do doesn't change in exactly the same way. So she has to start there, and then after the serve—"
+"Yeah," Leo said. "I've pointed that out. She says it's different when she's the one screaming."
 
-He shifted three caps. One fell.
+The whistle went before Taiga could ask anything else.
 
-"Fatality," Aaron said.
+Yuuto did better in the second set. When the blockers jumped, he put the ball past their hands instead of trying to remove them. He chased one bad pass almost into the advertising boards and came up grinning after a teammate finished the point.
 
-"That's why we have substitutes."
+Enzo shouted his name. Yuuto looked toward them, tapped two fingers against his forehead and got called back by the coach again.
 
-Taiga moved a cap back. "Then she's out of position here."
+"He can hear you," Avan told Enzo. "Please let him concentrate."
 
-"Before the serve. Afterward she can move."
+That lasted until the next point.
 
-"Right."
+By the third set, Taiga was leaning forward with his elbows on his knees. Olympus had caught up twice and then fallen behind again. He had stopped asking Leo questions because Leo was too busy arguing with the court.
 
-The whistle interrupted before Leo could add anything else. Taiga sat back, still looking at the caps, then up at the court as the players separated.
-
-Okay. That made more sense.
-
-The second set went better. By the third, he had stopped checking the scoreboard after every point because Enzo was announcing it anyway.
-
-Emma chased a ball toward the sideline and got one arm beneath it just before it hit the floor. Her teammate reached the recovery, sent it high and somebody else hit it over. The other team returned it badly.
+A serve came over badly. One of the Olympus players threw himself after it, sent the ball up crooked and stayed on the floor. Somebody else reached it. Yuuto was already moving.
 
 Leo caught Taiga's forearm as they both stood.
 
 "Come on, come on—"
 
-Emma was already up. The ball came to her near the net and she put it past the block.
+This time, Yuuto barely seemed to hit the ball. It dropped into the space behind the block, and the defender got there just late enough.
 
-Taiga shouted with the rest of them. Leo shook his arm once, then let go to clap. Taiga could still feel the place he'd grabbed, but Enzo's sign was now directly in front of his face.
+Their row erupted. Enzo's sign blocked half the court. Leo let go to clap, and Taiga had to push the cardboard away to see Yuuto helping his teammate up.
 
 "Move that fucking thing!"
 
 Enzo moved it into Aaron's face instead.
 
-Olympus won the fourth set and the match. Taiga's hands hurt from clapping, the floor was covered in bottle caps and Scott had spent the final few points visibly resisting the urge to tell the back row where to stand.
+Olympus took the set, then the fourth. By the end, Avan had folded the program in half and was clapping with the rest of them. Scott returned the bottle caps to whoever claimed them. Leo put one in his pocket because its owner had apparently abandoned it.
 
-Emma came up afterward in a warm-up jacket. Enzo started to congratulate her. She took the sign out of his hands, rolled it and hit him on the shoulder.
+"That last ball," Gav said, still watching the court. "I thought it was down."
 
-"I have class with you on Monday. You're not escaping this."
+"So did I," Avan admitted.
 
-"You won."
+He was smiling when Yuuto looked up at them.
 
-"And someone took a picture of that thing."
+***
 
-"Several people," Aaron said.
+They waited near the entrance while Yuuto changed. Enzo rolled up the sign, got glitter on his other sleeve and spent several minutes trying to transfer it back.
 
-Emma turned toward him. He lowered his phone.
+Avan checked his phone, put it away and looked toward the corridor.
 
-It took them another ten minutes to leave because everybody wanted food and had different requirements for where it should come from. Evan had already gone to meet somebody. Gav ruled out one restaurant because of the wait. Enzo proposed another place and was reminded how much it cost.
+Yuuto came through a minute later with his bag hanging open and a jacket over one arm.
 
-Scott suggested burgers while three people were talking. Nobody heard him.
+"You guys were so loud! I heard you after that save. Holy shit, I thought my face was going into the boards. Did it look close? It felt close."
 
-"Burgers," Taiga repeated, louder.
+"It looked close," Leo assured him.
 
-"There's a place near Central Park," Emma said.
+"I knew it. Avan, did you get a video?"
 
-Decision achieved. Scott put his hands in his pockets and followed them outside.
+"I was watching the match."
 
-The cold felt good for approximately half a minute. Then Taiga zipped his coat up.
+"Right, yeah. Better live."
 
-Leo was ahead with Emma, asking about a player on the other team. Enzo had the sign back under one arm and was trying to photograph the glitter on his own sleeve. At the next crossing, everyone bunched together to wait for a bike to pass. Leo ended up beside Taiga and stayed there when they started walking again.
+Yuuto took the sign from Enzo, unrolled it and read it again. Then he looked around the group.
 
-"You got very invested," he said.
+"We're getting food, right? I'm fucking starving."
+
+"Burgers," Scott said.
+
+"Yes! Burgers. Where?"
+
+Gav named the place near Central Park. Yuuto agreed before he'd finished explaining how to get there, then started introducing himself to the people he didn't know. He repeated Scott's name, asked whether he'd been the one who caught a stray ball during warm-up and thanked him when Scott nodded.
+
+Taiga had barely given his own name when Yuuto pointed at his hair.
+
+"Oh, you get the root problem too. Mine's so bad right now."
+
+He bent his head forward to demonstrate. There was a perfectly ordinary conversation Taiga had not expected to have with a stranger tonight.
+
+"Do yours yourself?" he asked.
+
+"Sometimes. Avan did the back last time."
+
+"You missed a section," Avan said.
+
+"Couldn't see it. That's why I recruited you."
+
+Yuuto straightened and turned toward the doors, still holding his jacket.
+
+"Put that on first," Avan told him.
+
+"Yeah, yeah. Come eat with us."
+
+"I was going to."
+
+"Great!"
+
+He handed Avan the sign so he could get his arms into the sleeves. Avan folded it along the existing crease and waited.
+
+Outside, the group spread across the path. Yuuto caught up with Enzo and began describing the save again, this time with a demonstration that required Aaron to step out of the way.
+
+Leo fell into step beside Taiga.
+
+"Worth coming?"
 
 "It was a good game."
 
-"It was. I thought we were going to lose that third set."
+"You sounded personally offended when we lost that first set."
 
-"They stopped leaving that gap."
+"You spent the third telling the setter where to put the ball."
 
-"Yeah, because Emma kept putting it there. Then she started hitting off the hands instead."
+"He wasn't listening. Very frustrating."
 
-They talked about the last few points until Enzo interrupted to ask whether glitter could survive a washing machine. Leo said he hoped not.
+At the crossing, Yuuto stopped talking long enough to count everybody behind him. He waited until Scott and Gav caught up before starting again.
 
-At the restaurant, Taiga and Gav moved a second table over while Emma went to order. Leo put his coat on the chair beside Taiga's and went to find napkins.
+***
 
-When he came back, Taiga had the course page open on his phone.
+The burger place had room for them once they pushed two tables together. Avan checked with the person behind the counter first. Yuuto had already picked up one end when permission arrived.
 
-"We should finish this tomorrow."
+Taiga helped Gav move the second table. When he turned back, Leo had put his coat over the chair beside his.
 
-Leo bent to see the screen. "Yeah. I've done the tests, mostly."
+"Same drink?" Leo asked.
 
-"Mostly?"
+"Yeah. I'll get the food."
 
-"They're written. I haven't enjoyed the results yet."
+They split at the counter without further discussion.
 
-"Two? Computing lab?"
+Yuuto took considerably longer to order. He changed his fries, changed them back and discovered a burger farther down the board that apparently required starting over. Enzo stayed beside him, contributing suggestions that did nothing to help.
+
+Avan returned to the table with a tray and sat opposite Taiga.
+
+"They'll be a while."
+
+He unwrapped his burger. Taiga handed him the napkins Leo had left between their places.
+
+"Thank you."
+
+For a few minutes, everybody ate. Yuuto finally arrived carrying enough food that Aaron moved a cup out of his way. He thanked him, put the tray down and immediately offered his fries around.
+
+"Those yours?" Taiga asked when he pushed them toward him.
+
+"Yeah. Try one. They put something on them."
+
+Taiga took one. Garlic, apparently. Yuuto looked satisfied and started eating his burger.
+
+Gav asked about the touch that had won them the third set. Yuuto swallowed quickly.
+
+"I was gonna smash it, but their big guy was already coming up. So I just—"
+
+He demonstrated with one hand, nearly putting his wrist in the fries.
+
+"Like that. Little ninja drop."
+
+"Is that its official name?" Leo asked.
+
+"It is now."
+
+Enzo immediately wanted a name for his own best goal. Aaron objected to the word 'best,' and they spent several minutes arguing about which goal deserved it. Yuuto listened with increasing interest, asking questions that made Enzo start the story again from farther back.
+
+Avan kept eating. Once, when Enzo's version acquired a second defender, he glanced at Leo. Leo shook his head slightly.
+
+Taiga bit into his burger to hide a smile.
+
+Eventually the conversation reached Mercer's training schedule. Avan asked how they managed classes around it, and Gav asked about swimming in return. Avan's answers became longer. He described an early session, the gap before his first lecture and the morning he'd had to arrive at a student council meeting with his hair still wet.
+
+"You're on the council?" Taiga asked.
+
+"I'm the president."
+
+"Sorry," Leo said, leaning forward. "I sent the council an email about the outlets in the computing lab. Is that actually your department, or did I just bother completely the wrong people?"
+
+Avan asked which room. Leo checked his phone, and they spent a minute establishing that it was one of the rooms already on a maintenance request.
+
+"So it wasn't just me. Good. I thought my charger was dying."
+
+"It would still be useful to know which desks," Avan said.
+
+"I can send that."
+
+"Please do."
+
+Yuuto was examining the glitter on the rolled sign beside his tray.
+
+"Could you do this with glow-in-the-dark paint?"
+
+Enzo looked interested immediately.
+
+"Probably."
+
+"For when they turn the lights down before we come out. It'd look sick. Oh, we could do eyes. Like something's watching from the stands."
+
+"Where are you planning to put it afterward?" Avan asked.
+
+"Above my bed."
+
+Avan lowered his burger.
+
+"Facing yours," Yuuto added helpfully.
+
+Leo laughed hard enough that Taiga moved his drink away from his elbow.
+
+"There are already enough things in our room that light up," Avan said. "If it keeps me awake, I'm taking it down."
+
+Yuuto considered that while eating a fry. Then he offered them around again. Scott took one this time.
+
+The conversations split. Gav and Avan compared early starts while Aaron tried to persuade Yuuto that soccer celebrations needed more acrobatics. Enzo was searching for glow-in-the-dark paint on his phone. Taiga finished his burger and checked the time.
+
+"What are you doing Sunday?" Leo asked beside him.
+
+"Calculus. That write-up."
+
+"Yeah, we should finish that. Two?"
+
+"Computing lab?"
 
 "Works for me."
 
-Aaron arrived with a tray and asked them to move their stuff before he dropped everybody's drinks. Taiga put the phone away and took a cup off him.
+Taiga pushed the remaining fries between them. Leo took one and turned back toward Yuuto, who had apparently decided a backflip would improve almost any sport.
+
+By the time they left, Enzo had sent him three links and Avan had made him close his bag before he lost a kneepad on the pavement. They parted at the path toward the dorms. Yuuto called thanks again, lifting the rolled sign over his head. Avan raised a hand and followed him toward their building.
+
+Beside him, Leo was looking at the photograph Yuuto had sent to the group. Enzo's sign covered half the image. Everybody looked slightly blurred.
+
+"He took that while walking," Taiga said.
+
+"He said we weren't allowed to stop because we'd get cold."
+
+Leo tilted the screen toward him. Taiga leaned over to look while they walked back.
 
 ***
 
