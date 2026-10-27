@@ -58,4 +58,130 @@ Taiga nodded. "Yeah."
 
 "Well," Evan exhaled. "Guess we'll deal with it when it comes."
 
+Taiga adjusted his strap, and followed the other at the volleyball arena.
 
+***
+
+Enzo had his sign rolled up in his bag. He still refused to reveal the content, although he clearly had issues with glitter.
+
+"You got the skin of a killer," Leo said, giggling.
+
+"Ugh, they won't go away," He answered, rubbing his face.
+
+"So, who are we meeting?" Evan asked.
+
+"Ah right, wait."
+
+Enzo pulled out his phone and began typing. A couple of minutes later, he said:
+
+"Okay, Yuuto is coming out."
+
+Shortly after, a guy in a open padded coat emerged from the athletes entrance of the arena. White dyed hair, bare knees and volleyball shorts.
+
+"Enzo! My dude, you actually brought everybody!"
+
+"Yuuto! Yeah, I also made something," Enzo said, smirking.
+
+"Oooooh I like this. What is it?"
+
+His grin widened. "You'll see."
+
+"Apparently, it involves lots of glitter. Or is it just fashion?"
+
+A guy emerged from behind Yuuto. Dark hair, glasses and a pale blue jacket zipped to his chin. Taiga recognized his face before remembering where he'd seen it.
+
+"Oh! This is Avan, my roommate." Yuuto caught his sleeve and pulled him into the group. "Avan, this is Enzo from class, and all his soccer buddies. I said bring people, and he brought a whole party!"
+
+"Yeah. I can tell. Nice to meet you, I'm Avan Geiserford."
+
+The voice settled it.
+
+"Aren't you in the student council?" Taiga asked.
+
+"Yes. I'm the president."
+
+Right. The speech. The one Taiga failed to listen.
+
+"Woah, no shit. You're the president's roommate? That's extremely cool!" Leo said.
+
+"I-It's no big deal. I'm just a regular student as you are," Avan said. 
+
+"Yyyyeah." Yuuto patted his shoulder. "He's a bit stiff at first, but don't worry he eventually loosens up."
+
+"That's not true. Both things."
+
+"Yeah, yeah. Just like at the film club with Ace! Don't you remember when you-"
+
+Avan glared at him. "Yuuto." 
+
+Yuuto put both hands on his mouth.
+
+Someone called him from inside. He looked over his shoulder.
+
+"Ah, sashimi. Okay, I gotta go! Avan knows where to sit. Thanks for coming, guys! Be loud!"
+
+Avan looked at him disappear in the corridor. Then he turned.
+
+"Ehm. Sorry about that. Follow me inside, please."
+
+Leo leaned over Taiga. "Pffft, not stiff at all."
+
+Taiga snorted silently and followed Avan inside.
+
+The arena was warm and already noisy. Taiga took his coat off while they found seats. Avan sat at the end of the group; Scott and Gav settled beside him. Leo dropped into the seat next to Taiga.
+
+Enzo finally pulled out his sign.
+
+**YUUTO DO THE VOLLEYBALL GOOD!**
+
+That made the whole group groan and hide their face behind their hands.
+
+Avan looked resigned. "He's definitely gonna want that in our room."
+
+On court, Yuuto had taken his coat off. He looked up, found the sign and laughed hard until a teammate caught him by the shoulder and turned him toward the net.
+
+Olympus lost the first set.
+
+Taiga understood most of what had happened. Mostly. At one point the ball had come off Yuuto's hands and gone out, and somehow that had been a point for Olympus.
+
+"They touched it," Avan explained when Leo asked. "The blockers. Yuuto hit it off their hands."
+
+"Oh. That's allowed?"
+
+"That's the point."
+
+Leo leaned back toward Taiga. "We should start doing that."
+
+"We have corners."
+
+"Yeah, but we could give it a cooler name."
+
+Olympus won the second set, and every time they pulled ahead now, the other team caught up again.
+
+A bad pass sent one of their players diving toward the floor. He got underneath it. Someone else kept it up, and Yuuto was already jumping.
+
+Leo caught Taiga's forearm with both hands.
+
+"Come on, come on—"
+
+Yuuto dropped the ball behind the block. The defender reached it too late.
+
+Their whole row stood. Enzo's sign blocked half the court, and Leo let go to clap. Taiga pushed the cardboard away with one hand.
+
+"Move that fucking thing!" 
+
+Enzo moved it into Aaron's face instead. 
+When they sat down again, Taiga looked at his forearm. Normal exultation. No big deal.
+
+Olympus took the set, then the fourth. Avan folded his program and applauded with the rest of them. Leo was still arguing about the last point when they started gathering their things.
+
+They waited for Yuuto near the entrance. He emerged carrying his bag and talking before he'd reached them.
+
+"Holy cali-maki, you guys were loud! I could hear you from the back! Did you see when I almost ate the advertising board?"
+
+"We saw," Avan said.
+
+"My life flashed before my eyes. Mostly lunch. Speaking of! Are we getting food?"
+
+They got burgers at a restaurant in the University Center.
+They fitted around two tables, with Avan checking that the spare chair wasn't blocking the aisle and Yuuto offering his fries around before he'd tried one himself.
