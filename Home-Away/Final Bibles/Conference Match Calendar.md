@@ -15,7 +15,7 @@ The calendar separates established story material from the fixtures needed to co
 
 Dates use **2026 as the working year**. The prose does not need to state it. Calendar arithmetic must support the story rather than force revisions to otherwise coherent Final scenes.
 
-For spring conference fixtures and points, use this file instead of the older match passages in `Final Bibles/Master Calendar.md` and `Bibles/Olympus Match Ledger.md`. Those files contain pre-rewrite assumptions. No manuscript text is changed by this reference.
+For spring conference fixtures and points, use this file instead of the older match passages in `Final Bibles/Master Calendar.md` and `Bibles/Olympus Match Ledger.md`. Those files contain pre-rewrite assumptions. Working fixtures should follow the current Final manuscript and the approved rewrite decisions.
 
 ## Competition format
 
@@ -38,7 +38,7 @@ Codes below keep the complete fixture table readable. Team identities summarize 
 | Code | Squad | Existing match identity / reference |
 | --- | --- | --- |
 | OLY | Olympus | Apollo. Possession and combinations; 4-2-3-1, dropping into 4-4-1-1 without the ball. |
-| PIN | Pinetree | Structured, adaptable, comfortable changing roles. Hale runs the exchange. |
+| PIN | Pinetree Academy | Structured, adaptable, comfortable changing roles. Residential campus at altitude; Daniel Hale runs the exchange. |
 | HTC | Helios Tech | Fast wingers, early crosses, an aerial threat through the middle. |
 | NBR | Northbridge | Physical and direct; long throws and defenders who step hard into duels. |
 | STV | St. Vincent | Aggressive pressure and forward runs; space can open behind them. |
@@ -54,19 +54,19 @@ Codes below keep the complete fixture table readable. Team identities summarize 
 
 | Round | Date | Match 1 | Match 2 | Match 3 | Match 4 | Match 5 |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Sat 24 Jan | OLY v HTC | NBR v PIN | EAS v RDM | WES v STV | HAR v CDR |
+| 1 | Sat 24 Jan | OLY v HTC | NBR v PIN | EAS v RDM | WES v STV | CDR v HAR |
 | 2 | Sat 31 Jan | NBR v OLY | PIN v RDM | STV v EAS | WES v CDR | HAR v HTC |
-| 3 | Wed 4 Feb | OLY v STV | PIN v HAR | NBR v HTC | RDM v CDR | EAS v WES |
+| 3 | Wed 4 Feb | OLY v RDM | CDR v PIN | NBR v STV | HTC v EAS | HAR v WES |
 | 4 | Sat 7 Feb | HAR v OLY | STV v PIN | RDM v NBR | CDR v EAS | HTC v WES |
-| 5 | Sat 14 Feb | OLY v RDM | CDR v PIN | NBR v STV | HTC v EAS | HAR v WES |
+| 5 | Sat 14 Feb | OLY v STV | PIN v HAR | NBR v HTC | RDM v CDR | EAS v WES |
 | 6 | Sat 21 Feb | OLY v CDR | EAS v PIN | WES v NBR | RDM v HAR | STV v HTC |
-| 7 | Sat 28 Feb / Sun 1 Mar | PIN v OLY (Sun 1 Mar) | EAS v NBR | WES v RDM | STV v HAR | HTC v CDR |
-| 8 | Sat 7 Mar | EAS v OLY | PIN v WES | NBR v HAR | RDM v HTC | CDR v STV |
+| 7 | Sat 28 Feb / Sun 1 Mar | PIN v OLY (Sun 1 Mar) | NBR v EAS | WES v RDM | STV v HAR | HTC v CDR |
+| 8 | Sat 7 Mar | EAS v OLY | PIN v WES | HAR v NBR | RDM v HTC | CDR v STV |
 | 9 | Sat 14 Mar | OLY v WES | HTC v PIN | CDR v NBR | STV v RDM | HAR v EAS |
-| 10 | Sat 21 Mar | HTC v OLY | PIN v NBR | RDM v EAS | STV v WES | CDR v HAR |
+| 10 | Sat 21 Mar | HTC v OLY | PIN v NBR | RDM v EAS | STV v WES | HAR v CDR |
 | 11 | Wed 25 Mar | OLY v HAR | PIN v STV | NBR v RDM | EAS v CDR | WES v HTC |
-| 12 | Sat 28 Mar | OLY v EAS | WES v PIN | HAR v NBR | HTC v RDM | STV v CDR |
-| 13 | Wed 1 Apr | OLY v PIN | NBR v EAS | RDM v WES | HAR v STV | CDR v HTC |
+| 12 | Sat 28 Mar | OLY v EAS | WES v PIN | NBR v HAR | HTC v RDM | STV v CDR |
+| 13 | Wed 1 Apr | OLY v PIN | EAS v NBR | RDM v WES | HAR v STV | CDR v HTC |
 | 14 | Sat 4 Apr | RDM v OLY | PIN v CDR | STV v NBR | EAS v HTC | WES v HAR |
 | 15 | Wed 22 / Thu 23 Apr | OLY v NBR | RDM v PIN (Thu 23 Apr) | EAS v STV | CDR v WES | HTC v HAR |
 | 16 | Sat 25 / Sun 26 Apr | CDR v OLY | PIN v EAS (Sun 26 Apr) | NBR v WES | HAR v RDM | HTC v STV |
@@ -85,10 +85,10 @@ The unwritten **W** results are placeholder wins used to give the title race coh
 | ----- | ---------- | ----------- | --- | -------------- | ------ | ----------------------------------------------------------------------------------------------------------- |
 | 1     | Sat 24 Jan | Helios Tech | H   | W 2-1          | 3      | **F** - Final Ch15; Taiga unused. Date reconstructed from the January sequence.                             |
 | 2     | Sat 31 Jan | Northbridge | A   | W score open   | 6      | **W** - Background fixture during the short-sequence stretch.                                               |
-| 3     | Wed 4 Feb  | St. Vincent | H   | W score open   | 9      | **W** - First midweek round; home game fits after morning classes.                                          |
+| 3     | Wed 4 Feb  | Redmont     | H   | W score open   | 9      | **W** - First midweek round; home game fits after morning classes.                                          |
 | 4     | Sat 7 Feb  | Hartwell    | A   | W score open   | 12     | **W** - Background fixture.                                                                                 |
-| 5     | Sat 14 Feb | Redmont     | H   | W score open   | 15     | **W** - Background fixture.                                                                                 |
-| 6     | Sat 21 Feb | Cedar Ridge | H   | L 0-1          | 15     | **D** - Current Ch16 draft: first conference defeat; Taiga unused.                                          |
+| 5     | Sat 14 Feb | St. Vincent | H   | L 0-1          | 12     | **D** - First conference defeat after Leo's bad practice; Taiga unused. Current Ch16 draft.                 |
+| 6     | Sat 21 Feb | Cedar Ridge | H   | W score open   | 15     | **D/W** - Brief recovery win in Ch16 before the Pinetree trip; score open.                                  |
 | 7     | Sun 1 Mar  | Pinetree    | A   | L 1-2          | 15     | **D** - Pinetree Sunday match. Keep the loss after Saturday's rupture.                                      |
 | 8     | Sat 7 Mar  | Easton      | A   | W score open   | 18     | **W** - Football continues during the post-trip repair / section transition.                                |
 | 9     | Sat 14 Mar | Westlake    | H   | D 1-1          | 19     | **D** - Old Act III Ch22: second-half appearance, cross for the equalizer.                                  |
@@ -102,7 +102,7 @@ The unwritten **W** results are placeholder wins used to give the title race coh
 | 17    | Tue 28 Apr | Westlake    | A   | L 1-2          | 38     | **D** - Old Ch36: full match; turnover before the winner; Leo's ankle injury.                               |
 | 18    | Sat 2 May  | St. Vincent | A   | W 1-0          | 41     | **D** - Old Ch37: Taiga's 84' winner; championship and first-kiss day.                                      |
 
-With this allocation, Olympus enter the final four on **11 wins, 1 draw, 2 defeats: 34 points**. They finish on **13 wins, 2 draws, 3 defeats: 41 points**. Cedar Ridge remains their first conference defeat; the Pinetree defeat follows it.
+With this allocation, Olympus enter the final four on **11 wins, 1 draw, 2 defeats: 34 points**. They finish on **13 wins, 2 draws, 3 defeats: 41 points**. St. Vincent are their first conference defeat on 14 February. The Cedar Ridge win on 21 February separates that loss from the Pinetree defeat.
 
 ## Pinetree and the title race
 
@@ -120,7 +120,7 @@ The working replacement is:
 | After round 17 is complete | 38 | 40 | 37 | Olympus trail by two. Westlake can reach at most 40. |
 | After the final round | **41** | **40** | **38** | Olympus win by a point. Westlake's final draw is a working allocation. |
 
-Pinetree's working pre-break record is **11 wins, 2 draws, 1 defeat = 35 points**. A valid allocation is draws against Cedar Ridge on 14 February and Westlake on 7 March, with their defeat at Olympus on 1 April; the other eleven games are wins. These background outcomes remain adjustable with the point totals.
+Pinetree's working pre-break record is **11 wins, 2 draws, 1 defeat = 35 points**. A valid allocation is draws against Cedar Ridge on 4 February and Westlake on 7 March, with their defeat at Olympus on 1 April; the other eleven games are wins. These background outcomes remain adjustable with the point totals.
 
 | Round | Date | Pinetree fixture | Result | Pinetree points | Story use |
 | --- | --- | --- | --- | --- | --- |
@@ -139,8 +139,10 @@ Westlake's working record before the run is **9 wins, 3 draws, 2 defeats = 30 po
 
 - **24 January:** Helios opener remains a 2-1 home win. Taiga does not play.
 - **30 January:** workable date for Mercer's early Pinetree announcement and the Friday volleyball outing. There is an ordinary away fixture at Northbridge the next day; keep the outing compatible with Saturday match preparation.
-- **31 January-14 February:** background wins fill the weeks between Helios and Cedar Ridge. A short result or recovery reference can acknowledge them; the chapter does not need to narrate each match.
-- **21 February:** Cedar Ridge win 1-0 at Olympus. This is the bad game following Leo's bad practice, and the emotional scene afterward stays on Olympus's campus.
+- **31 January-7 February:** background wins against Northbridge, Redmont and Hartwell. Redmont's home fixture is now the 4 February midweek round.
+- **11 February:** Leo's bad practice begins the frustration carried into the next match.
+- **14 February:** St. Vincent win 1-0 at Olympus. This is the first defeat; Taiga stays with Leo afterward. The campus setting is preserved.
+- **21 February:** Olympus beat Cedar Ridge at home. Keep this as a brief recovery win before Pinetree, rather than a second substantial match scene.
 - **26 February-1 March:** Thursday travel, Friday/Saturday joint training, Sunday conference match and return. Other clubs play round 7 on Saturday 28 February.
 - **7 March:** an Easton away fixture keeps football running through the post-Pinetree / reconciliation period. Placement within the rewritten chapter numbers remains flexible.
 
@@ -155,14 +157,23 @@ Westlake's working record before the run is **9 wins, 3 draws, 2 defeats = 30 po
 
 ### Later draft adaptations to remember
 
-1. **Cedar Ridge's late return is away.** The new Ch16 already places the first leg at Olympus. Old Ch35 currently calls the second match home too; change that staging when rewriting it. Preserve the 1-1 result, first conference start and 86 minutes.
+1. **Cedar Ridge's late return is away.** The new Ch16 places the recovery win at Olympus on 21 February. Old Ch35 currently calls the second match home too; change that staging when rewriting it. Preserve the 1-1 result, first conference start and 86 minutes.
 2. **Pinetree's 26 April win is against Easton.** Old Ch35 calls this opponent Hartwell, but also keeps Hartwell for the final day. Using Easton here spaces both Hartwell legs across the season instead of playing them twice in the final week. Keep the Sunday timing, 2-1 result and change of leader.
 3. **Update all later table displays and spoken totals.** Preserve the one-point / two-point gaps with the new numbers. Old references to Westlake's rank also need checking against whichever remaining background results are chosen.
 4. **Do not add the old unnamed pre-Pinetree 3-1 as another fixture.** If that old Ch18 match survives, fold it into one of the working pre-trip wins. Its player contributions are not automatically part of the rewrite.
 5. **Autumn meetings do not use up spring legs.** Act I Westlake, Northbridge and other friendly opponents may recur here without creating a third conference meeting.
+
+## February revision
+
+The complete 4 February and 14 February rounds have exchanged opponents. Olympus now host Redmont on 4 February and St. Vincent on 14 February. Three background pairings, Hartwell-Cedar Ridge, Easton-Northbridge and Hartwell-Northbridge, have had both home/away legs reversed to preserve the three-game maximum home or away run. Every pairing still occurs once at each ground.
+
+The 0-1 defeat moves from Cedar Ridge to St. Vincent; Cedar Ridge becomes a recovery win. Olympus have 12 points after 14 February and 15 after 21 February. The pre-break and final title totals remain 34 and 41. Pinetree's Cedar Ridge draw moves to 4 February; their pre-break total stays 35.
+
+The Ch16 opening remains on 30 January with Northbridge the next day, matching the chosen 14 February defeat date. Keep the film-room announcement, Daniel Hale, academy campus accommodation and altitude details from the author's current opening.
 
 ## Source basis and checks
 
 Built against Final Ch15, the current `Draft.md` for new Ch16, the Section II chapter map, every chapter of the completed Act III draft, the football passages of old Act II Ch18/20 and Act IV Ch33-38, both Master Calendars, and the old Olympus Match Ledger.
 
 Checked mechanically: ten distinct clubs; eighteen rounds of five games; one appearance per club per round and no duplicate playing dates; each pair meets exactly twice with venues reversed; nine home and nine away games per club; no Spring Break fixtures; all retained results fit; the revised title arithmetic has a valid completion across all ten teams. Unwritten background scores remain open.
+
