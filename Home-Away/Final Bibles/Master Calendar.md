@@ -6,6 +6,8 @@
 
 Authoritative working calendar for the current novel through Acts I–IV.
 
+The complete spring conference schedule is in [[Conference Match Calendar]]. For fixtures, venues and points, its newer entries supersede the older football notes below. Final prose and explicit author decisions take priority over working dates.
+
 Use this file as the first continuity reference for:
 - exact dates and weekdays;
 - semester progression;
