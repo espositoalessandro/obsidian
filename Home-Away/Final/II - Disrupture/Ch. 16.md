@@ -30,4 +30,32 @@ Enzo looked horrified.
 
 He pointed at the magnetic board behind him.
 
-"Pinetree is almost a month away. St. Vincent is tomorrow. "
+"Pinetree is almost a month away. Northbridge is tomorrow. Stay focused."
+
+Outside the film room, conversation immediately went back to Pinetree.
+
+"I heard Pinetree's campus is, like, made entirely of wooden cabins and lodges." Leo said.
+
+Evan shrugged. "I wouldn't be surprised."
+
+Enzo turned towards him. "You've done exchanges before?"
+
+"Nope. That's a first for me as well."
+
+"Great."
+
+Aaron was weirdly silent.
+
+"You don't like this?" Taiga asked.
+
+"No, it's-"
+
+He made a face.
+
+"Dunno, I barely manage to do something here. Now we have to train with another team, in their campus, in high altitude and with another coach?"
+
+Taiga nodded. "Yeah."
+
+"Well," Evan exhaled. "Guess we'll deal with it when it comes."
+
+

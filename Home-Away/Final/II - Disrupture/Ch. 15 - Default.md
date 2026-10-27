@@ -821,19 +821,16 @@ They were sitting in the cafeteria in the University Center when Apollo's group 
 **Aaron:** Since when do you care about volleyball?
 
 **Enzo:** since yuuto invited me
-
 **Enzo:** he said bring people
 
 **Gav:** What time?
 
 **Enzo:** 7:30 volleyball arena
-
-**Enzo:** we'll meet with his roommate there
+**Enzo:** we'll meet with his roommate there after film
 
 "Oh, that's cool!" Leo said.
 
 **Leo:** i'm in
-
 **Leo:** i know almost nothing about volleyball but i have lungs and enthusiasm
 
 Taiga wasn't entirely convinced. Volleyball plus new people? Meh.
@@ -916,7 +913,6 @@ Taiga went with Caleb instead.
 Later in the afternoon, his phone buzzed while he was in his room.
 
 **Leo:** emergency
-
 **Leo:** enzo's making a sign
 
 **Taiga:** what does it say?
@@ -926,7 +922,6 @@ Later in the afternoon, his phone buzzed while he was in his room.
 **Taiga:** concerning
 
 **Leo:** exactly
-
 **Leo:** we should inspect it before he enters a public building
 
 **Taiga:** good luck
