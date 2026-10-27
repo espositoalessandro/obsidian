@@ -30,4 +30,4 @@ Enzo looked horrified.
 
 He pointed at the magnetic board behind him.
 
-"Pinetree is almost a month away. "
+"Pinetree is almost a month away. Northbridge is tomorrow. "

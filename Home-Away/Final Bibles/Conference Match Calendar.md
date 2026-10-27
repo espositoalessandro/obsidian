@@ -81,26 +81,26 @@ Results in this table are **from Olympus's perspective**, including away games. 
 
 The unwritten **W** results are placeholder wins used to give the title race coherent arithmetic. Their exact scores remain open. They do not require nine extra match scenes, and they can be redistributed if later writing calls for more draws or defeats. Recalculate the title track if that happens.
 
-| Round | Date | Opponent | H/A | Olympus result | Points | Source / story use |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1 | Sat 24 Jan | Helios Tech | H | W 2-1 | 3 | **F** - Final Ch15; Taiga unused. Date reconstructed from the January sequence. |
-| 2 | Sat 31 Jan | Northbridge | A | W score open | 6 | **W** - Background fixture during the short-sequence stretch. |
-| 3 | Wed 4 Feb | St. Vincent | H | W score open | 9 | **W** - First midweek round; home game fits after morning classes. |
-| 4 | Sat 7 Feb | Hartwell | A | W score open | 12 | **W** - Background fixture. |
-| 5 | Sat 14 Feb | Redmont | H | W score open | 15 | **W** - Background fixture. |
-| 6 | Sat 21 Feb | Cedar Ridge | H | L 0-1 | 15 | **D** - Current Ch16 draft: first conference defeat; Taiga unused. |
-| 7 | Sun 1 Mar | Pinetree | A | L 1-2 | 15 | **D** - Pinetree Sunday match. Keep the loss after Saturday's rupture. |
-| 8 | Sat 7 Mar | Easton | A | W score open | 18 | **W** - Football continues during the post-trip repair / section transition. |
-| 9 | Sat 14 Mar | Westlake | H | D 1-1 | 19 | **D** - Old Act III Ch22: second-half appearance, cross for the equalizer. |
-| 10 | Sat 21 Mar | Helios Tech | A | W 2-0 | 22 | **D/W** - Old Act III Ch23 keeps its 2-0 win and Taiga's 28 minutes. Helios is the new opponent assignment. |
-| 11 | Wed 25 Mar | Hartwell | H | W score open | 25 | **W** - Home midweek fixture. Ordinary training must adjust around it. |
-| 12 | Sat 28 Mar | Easton | H | W score open | 28 | **W** - Early home kickoff leaves the evening free for the Apollo film gathering if retained. |
-| 13 | Wed 1 Apr | Pinetree | H | W score open | 31 | **W** - Pinetree return. A placeholder win, not an extra exchange weekend. |
-| 14 | Sat 4 Apr | Redmont | A | W score open | 34 | **W** - Last fixture before Spring Break. |
-| 15 | Wed 22 Apr | Northbridge | H | W 2-1 | 37 | **D** - Old Ch34: Taiga enters at 57'; his cutback sets up Leo's winner. |
-| 16 | Sat 25 Apr | Cedar Ridge | A | D 1-1 | 38 | **D/W** - Old Ch35: first conference start, 86 minutes, 1-1. Venue moves to Cedar Ridge. |
-| 17 | Tue 28 Apr | Westlake | A | L 1-2 | 38 | **D** - Old Ch36: full match; turnover before the winner; Leo's ankle injury. |
-| 18 | Sat 2 May | St. Vincent | A | W 1-0 | 41 | **D** - Old Ch37: Taiga's 84' winner; championship and first-kiss day. |
+| Round | Date       | Opponent    | H/A | Olympus result | Points | Source / story use                                                                                          |
+| ----- | ---------- | ----------- | --- | -------------- | ------ | ----------------------------------------------------------------------------------------------------------- |
+| 1     | Sat 24 Jan | Helios Tech | H   | W 2-1          | 3      | **F** - Final Ch15; Taiga unused. Date reconstructed from the January sequence.                             |
+| 2     | Sat 31 Jan | Northbridge | A   | W score open   | 6      | **W** - Background fixture during the short-sequence stretch.                                               |
+| 3     | Wed 4 Feb  | St. Vincent | H   | W score open   | 9      | **W** - First midweek round; home game fits after morning classes.                                          |
+| 4     | Sat 7 Feb  | Hartwell    | A   | W score open   | 12     | **W** - Background fixture.                                                                                 |
+| 5     | Sat 14 Feb | Redmont     | H   | W score open   | 15     | **W** - Background fixture.                                                                                 |
+| 6     | Sat 21 Feb | Cedar Ridge | H   | L 0-1          | 15     | **D** - Current Ch16 draft: first conference defeat; Taiga unused.                                          |
+| 7     | Sun 1 Mar  | Pinetree    | A   | L 1-2          | 15     | **D** - Pinetree Sunday match. Keep the loss after Saturday's rupture.                                      |
+| 8     | Sat 7 Mar  | Easton      | A   | W score open   | 18     | **W** - Football continues during the post-trip repair / section transition.                                |
+| 9     | Sat 14 Mar | Westlake    | H   | D 1-1          | 19     | **D** - Old Act III Ch22: second-half appearance, cross for the equalizer.                                  |
+| 10    | Sat 21 Mar | Helios Tech | A   | W 2-0          | 22     | **D/W** - Old Act III Ch23 keeps its 2-0 win and Taiga's 28 minutes. Helios is the new opponent assignment. |
+| 11    | Wed 25 Mar | Hartwell    | H   | W score open   | 25     | **W** - Home midweek fixture. Ordinary training must adjust around it.                                      |
+| 12    | Sat 28 Mar | Easton      | H   | W score open   | 28     | **W** - Early home kickoff leaves the evening free for the Apollo film gathering if retained.               |
+| 13    | Wed 1 Apr  | Pinetree    | H   | W score open   | 31     | **W** - Pinetree return. A placeholder win, not an extra exchange weekend.                                  |
+| 14    | Sat 4 Apr  | Redmont     | A   | W score open   | 34     | **W** - Last fixture before Spring Break.                                                                   |
+| 15    | Wed 22 Apr | Northbridge | H   | W 2-1          | 37     | **D** - Old Ch34: Taiga enters at 57'; his cutback sets up Leo's winner.                                    |
+| 16    | Sat 25 Apr | Cedar Ridge | A   | D 1-1          | 38     | **D/W** - Old Ch35: first conference start, 86 minutes, 1-1. Venue moves to Cedar Ridge.                    |
+| 17    | Tue 28 Apr | Westlake    | A   | L 1-2          | 38     | **D** - Old Ch36: full match; turnover before the winner; Leo's ankle injury.                               |
+| 18    | Sat 2 May  | St. Vincent | A   | W 1-0          | 41     | **D** - Old Ch37: Taiga's 84' winner; championship and first-kiss day.                                      |
 
 With this allocation, Olympus enter the final four on **11 wins, 1 draw, 2 defeats: 34 points**. They finish on **13 wins, 2 draws, 3 defeats: 41 points**. Cedar Ridge remains their first conference defeat; the Pinetree defeat follows it.
 
