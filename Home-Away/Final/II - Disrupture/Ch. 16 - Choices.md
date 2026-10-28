@@ -300,4 +300,64 @@ Why the hell was he recording every accidental contact now? Yet, Leo's leg remai
 By the second week of February, Olympus was on a roll. Four wins out of four matches. 
 Match after match, the air in the locker before the starting whistle was getting lighter and lighter, until it became almost routine.
 
+Then St. Vincent match came, and a cold shower of reality hit the whole team.
+
+St. Vincent scored in the first half from a corner.
+Taiga saw the header, saw Scott get a hand to it, and saw the ball cross the line anyway. For a moment he thought there had to be somebody on the post who could still clear it.
+
+There wasn't.
+
+After that, St. Vincent kept coming at them. Every pass backward brought another white shirt running. Olympus got through a few times, found space and then wasted it before the defenders could recover.
+
+From the bench, Taiga could see the space behind them. Reaching it was apparently the difficult part. Evan made a run; the pass went backward. Enzo received wide; two players closed him down. Leo came deeper to get the ball, then looked up to find the space he'd left occupied by somebody from St. Vincent.
+
+Mercer shouted at him to stay higher and he did. Gav found him there. Leo turned, put Jordan through, and the goalkeeper saved the shot with his leg.
+
+Taiga was halfway up before he sat down again. 
+The second half, though, was worse to sit through.
+
+Taiga warmed up twice. Both times he came back to the bench still wearing his bib. Mercer used Lucas when Carter's calf tightened and made another change in midfield. Evan stayed on the left.
+
+He knew that he probably wouldn't have changed the situation. Yet, sitting there while his team was clearly struggling made everything worse.
+
+And apparently, on the pitch the situation wasn't better.
+On Olympus's next attack, Aaron played a safe pass backward. Then another. Evan turned and asked him to come outside.
+
+"I'm fucking waiting," Aaron shouted.
+
+Taiga heard that from the bench.
+
+With ten minutes left, Leo tried to slide a pass through three pairs of legs. It hit the first. He got it back, went around one player and lost it to the next.
+
+Taiga saw him burrowing his face in his hands.
+
+The whistle went while Scott was telling everyone to get up for one more ball.
+Taiga stayed on his feet. Beside him, someone swore and kicked an empty bottle under the bench.
+
+On the pitch, Leo stood with his hands on his hips. Aaron had already started walking toward the tunnel. Evan was patting Enzo's shoulder.
+
+***
+
+The atmosphere in the locker room changed dramatically. 
+People still spoke. They asked for tape, moved bags and told someone to get out of the doorway. Enzo's boots hit the floor hard enough to make Taiga look over.
+
+Mercer waited until everyone was inside.
+
+"We'll look at it Monday. They pressed well. We rushed when we had time and waited when we needed to move it. Recover tomorrow. I want you ready to work."
+
+He left them to change.
+Aaron was still talking to Evan.
+
+"You asked me to wait. Then you asked me to go."
+
+"At different points in the game," Evan said.
+
+"I know they were different points."
+
+Evan sat down to unlace his boots. "Then we'll look at the clips."
+
+Aaron opened his mouth, stopped and pulled his shirt over his head.
+On the other side of Taiga, Leo was taking the tape off one ankle in small, unnecessary pieces.
+
+Taiga showered, dressed and put his things away. By the time he zipped his bag, Leo had already gone.
 
