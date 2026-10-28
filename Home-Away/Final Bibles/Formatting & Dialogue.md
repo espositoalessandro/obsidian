@@ -207,13 +207,23 @@ Italics may be used for established emphasis, titles, quoted written material, o
 
 # 7. Text Messages
 
-Use the established format:
+Use the established format, repeating the bold sender label on every message line.
+
+- Consecutive messages from the same person use a single line break, with no blank line between them.
+- Use a blank line when the sender changes.
+- Keep narration separate from the messages with a blank line. A new message after intervening narration begins a new paragraph, even if it is from the same sender.
 
 ```
-**Taiga:** where the fuck are you
+**Taiga:** you done?
 
-**Leo:** on my way
+**Leo:** almost
+**Leo:** i hope
+**Leo:** don't leave
+
+Taiga looked over.
 ```
+
+Do not split consecutive messages from the same sender into separate paragraphs during formatting cleanup.
 
 Character-specific texting capitalization, punctuation and spelling may remain non-standard when intentional.
 
@@ -260,6 +270,7 @@ Before freezing a chapter, verify:
 - `***` scene separators;
 - heading format is consistent;
 - no trailing spaces;
+- consecutive text messages from the same sender use single line breaks; sender changes and intervening narration use blank lines;
 - no accidental extra blank lines;
 - no broken Markdown.
 
