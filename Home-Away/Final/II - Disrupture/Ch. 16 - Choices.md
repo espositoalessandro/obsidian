@@ -354,10 +354,132 @@ Aaron was still talking to Evan.
 
 "I know they were different points."
 
-Evan sat down to unlace his boots. "Then we'll look at the clips."
+"Guys," Scott said, gloves still on. "Cut it. This doesn't help. We lost and it's nobody's fault. It's gonna happen again, so learn to deal with it."
 
 Aaron opened his mouth, stopped and pulled his shirt over his head.
-On the other side of Taiga, Leo was taking the tape off one ankle in small, unnecessary pieces.
 
-Taiga showered, dressed and put his things away. By the time he zipped his bag, Leo had already gone.
+On the other side of Taiga, Leo was taking the tape off one ankle in small, unnecessary steps.
+He caught Taiga looking and gave him an uncertain smile.
+Very unconvincing.
+
+After the shower, Leo was already gone by the time Taiga zipped his bag.
+He found him sitting on a bench outside the stadium, with an unopened bottle of water resting between his hands and his bag laying on the ground.
+
+Taiga stopped in front of him.
+
+"Hey."
+
+Leo looked up.
+
+"Oh, hey. Sorry I ran off, I needed some water."
+
+He held out the bottle of water.
+
+"Right. Mind if I sit?"
+
+"Not at all."
+
+Leo shifted to make space.
+
+People passed on their way toward the campus paths. A maintenance cart reversed near the gate, beeping at nobody.
+
+For a while, neither said anything.
+Then Leo turned the bottle in his hands.
+
+"Welp, that was one shitty game."
+
+"Yeah."
+
+"Anyway. First loss out of the way." He gave a small shrug. "Had to happen eventually."
+
+"I guess."
+
+"How do you feel about that?"
+
+Taiga looked at the pathway.
+
+"I didn't even play."
+
+"Nope, but you can still feel bad about it."
+
+"Yeah, and what about you?"
+
+"Like I said, it had to happen. No big deal."
+
+"Leo."
+
+"What?"
+
+Taiga looked at him.
+
+Leo tried a smile. "What? It's a game. Just one game."
+
+"That's what you keep saying."
+
+"Because it is. There's no reason to dramatize over a loss."
+
+"I know, then why-"
+
+"Taiga, I'm fine. Alright?"
+
+Taiga stopped with his mouth half open.
+The tone caught him off-guard. Sharper than usual, even though he still had that weird half-smile on his face.
+
+"Alright."
+
+Leo's face changed instantly. Worry washed away the fake smile.
+
+"Shit- sorry! I didn't mean to say it like that."
+
+"You're good."
+
+Leo looked away and opened his bottle.
+
+"...I'm not. I'm pissed."
+
+Taiga snorted lightly. "Yeah, no shit."
+
+"It's just..." Leo took a deep breath. "It's frustrating. We lost because of one stupid corner. We chased all the time, tried every space and they won for a stupid freaking corner."
+
+He shook his head.
+
+"And every time I got it, I thought, okay, this time. I'll get past him. I'll put Jordan through. Something. Then I've lost it again, and now everybody has to run back because I couldn't just make the easy pass."
+
+"You're making it sound like the whole match depended on you."
+
+"Yeah, I know that we all somehow fucked up. I just..."
+
+He twitched his mouth.
+
+"I wish I had done more. I know I could've done more and I feel stupid because I didn't."
+
+Leo took a drink and wiped his mouth with the back of his hand. He went silent again.
+Taiga didn't really know what to say. He understood that feeling enough to know that words couldn't really soften it.
+
+"Sorry, I started blathering nonsense."
+
+"You always do it. Why apologize now?"
+
+Leo bumped his shoulder into Taiga's. 
+
+"Fuck off"
+
+Taiga smiled. "I'm hungry. Food?"
+
+Leo hesitated. "I don't know, I mean... I may not be of much company right now and-"
+
+Taiga rolled his eyes and stood up, grabbing both his and Leo's bags.
+
+"Hey!"
+
+He had already started towards the University Center.
+
+***
+
+
+
+
+
+
+
 
