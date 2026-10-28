@@ -600,8 +600,6 @@ Owen started explaining the assignment. Taiga opened the starter repository.
 Taiga shifted the laptop back to the middle.
 Leo looked at him, then at the screen. His smile widened.
 
-“Okay. Requirements.”
+“Okay. Let's go.”
 
 Thirty seconds later, they were arguing about a helper function.
-
-That was more like it.
