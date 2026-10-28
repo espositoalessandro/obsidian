@@ -2,27 +2,27 @@
 
 "Okay. Before dismissing you, there's another thing."
 
-They were in the film room, after Friday's afternoon practice.
+They were in the film room, after Friday afternoon practice.
 
-"We've confirmed the exchange with the Pinetree Academy. We're leaving Thursday the twenty-sixth of February through Sunday."
+"We've confirmed the exchange with the Pinetree Academy. We leave Thursday, February twenty-sixth, and come back Sunday."
 
 "Exchange?" Aaron asked.
 
 "Yeah. Joint training. Match on Sunday."
 
-"Their coach is Daniel Hale," Mercer continued. "He does things differently from me, but he is a valid instructor. You will refer to him during the training."
+"Their coach is Daniel Hale," Mercer continued. "He does things differently from me, but he's a good coach. You'll follow his instructions during the joint sessions."
 
-Gav raised his hand. "How about our classes, thought?"
+Gav raised his hand. "How about our classes, though?"
 
 "This is why you're hearing about it now. Talk to your professors and let me know as soon as possible if there is any problem."
 
-"Are we staying in their campus?" Enzo asked.
+"Are we staying on their campus?" Enzo asked.
 
-"Yes. Pinetree is a bit different from regular colleges. Their campus is pretty high up. Pack heavy clothes and be ready to adjust your breathing."
+"Yes. Pinetree is a bit different from regular colleges. Their campus is pretty high up. Pack warm clothes and be ready to adjust your pace."
 
 "High up like... on a mountain?"
 
-"Unless they found a way to make it float, then yes Reyes. Which is the whole point of the exchange."
+"Unless they found a way to make it float, then yes, Reyes. Which is the whole point of the exchange."
 
 Enzo looked horrified.
 
@@ -34,7 +34,7 @@ He pointed at the magnetic board behind him.
 
 Outside the film room, conversation immediately went back to Pinetree.
 
-"I heard Pinetree's campus is, like, made entirely of wooden cabins and lodges." Leo said.
+"I heard Pinetree's campus is, like, made entirely of wooden cabins and lodges," Leo said.
 
 Evan shrugged. "I wouldn't be surprised."
 
@@ -48,17 +48,17 @@ Aaron was weirdly silent.
 
 "You don't like this?" Taiga asked.
 
-"No, it's-"
+"No, it's—"
 
 He made a face.
 
-"Dunno, I barely manage to do something here. Now we have to train with another team, in their campus, in high altitude and with another coach?"
+"Dunno, I'm only just getting used to how Mercer wants us to play. Now we have to train with another team, on their campus, at high altitude and with another coach?"
 
 Taiga nodded. "Yeah."
 
-"Well," Evan exhaled. "Guess we'll deal with it when it comes."
+"Well..." Evan exhaled. "Guess we'll deal with it when it comes."
 
-Taiga adjusted his strap, and followed the other at the volleyball arena.
+Taiga adjusted his strap and followed the others to the volleyball arena.
 
 ***
 
@@ -66,7 +66,7 @@ Enzo had his sign rolled up in his bag. He still refused to reveal the content, 
 
 "You got the skin of a killer," Leo said, giggling.
 
-"Ugh, they won't go away," He answered, rubbing his face.
+"Ugh, it won't come off," he answered, rubbing his face.
 
 "So, who are we meeting?" Evan asked.
 
@@ -76,7 +76,7 @@ Enzo pulled out his phone and began typing. A couple of minutes later, he said:
 
 "Okay, Yuuto is coming out."
 
-Shortly after, a guy in a open padded coat emerged from the athletes entrance of the arena. White dyed hair, bare knees and volleyball shorts.
+Shortly after, a guy in an open padded coat emerged from the athletes' entrance of the arena. White dyed hair, bare knees and volleyball shorts.
 
 "Enzo! My dude, you actually brought everybody!"
 
@@ -100,31 +100,31 @@ The voice settled it.
 
 "Yes. I'm the president."
 
-Right. The speech. The one Taiga failed to listen.
+Right. The speech. The one Taiga hadn't listened to.
 
 "Woah, no shit. You're the president's roommate? That's extremely cool!" Leo said.
 
-"I-It's no big deal. I'm just a regular student as you are," Avan said. 
+"I-It's no big deal. I'm just a regular student like you," Avan said.
 
 "Yyyyeah." Yuuto patted his shoulder. "He's a bit stiff at first, but don't worry he eventually loosens up."
 
 "That's not true. Both things."
 
-"Yeah, yeah. Just like at the film club with Ace! Don't you remember when you-"
+"Yeah, yeah. Just like at the film club with Ace! Don't you remember when you—"
 
-Avan glared at him. "Yuuto." 
+Avan glared at him. "Yuuto."
 
-Yuuto put both hands on his mouth.
+Yuuto put both hands over his mouth.
 
 Someone called him from inside. He looked over his shoulder.
 
 "Ah, sashimi. Okay, I gotta go! Avan knows where to sit. Thanks for coming, guys! Be loud!"
 
-Avan looked at him disappear in the corridor. Then he turned.
+Avan watched him disappear in the corridor. Then he turned.
 
 "Ehm. Sorry about that. Follow me inside, please."
 
-Leo leaned over Taiga. "Pffft, not stiff at all."
+Leo leaned toward Taiga. "Pffft, not stiff at all."
 
 Taiga snorted silently and followed Avan inside.
 
@@ -134,7 +134,7 @@ Enzo finally pulled out his sign.
 
 **YUUTO DO THE VOLLEYBALL GOOD!**
 
-That made the whole group groan and hide their face behind their hands.
+That made the whole group groan and hide their faces behind their hands.
 
 Avan looked resigned. "He's definitely gonna want that in our room."
 
@@ -156,7 +156,7 @@ Leo leaned back toward Taiga. "We should start doing that."
 
 "Yeah, but we could give it a cooler name."
 
-Olympus won the second set, and every time they pulled ahead now, the other team caught up again.
+Olympus won the second set. In the third, every time they pulled ahead, the other team caught up again.
 
 A bad pass sent one of their players diving toward the floor. He got underneath it. Someone else kept it up, and Yuuto was already jumping.
 
@@ -168,10 +168,11 @@ Yuuto dropped the ball behind the block. The defender reached it too late.
 
 Their whole row stood. Enzo's sign blocked half the court, and Leo let go to clap. Taiga pushed the cardboard away with one hand.
 
-"Move that fucking thing!" 
+"Move that fucking thing!"
 
-Enzo moved it into Aaron's face instead. 
-When they sat down again, Taiga glanced at his forearm. It was just a normal exultation. No big deal.
+Enzo moved it into Aaron's face instead.
+
+When they sat down again, Taiga glanced at his forearm. Leo was just celebrating. No big deal.
 
 Olympus took the set, then the fourth. Avan folded his program and applauded with the rest of them. Leo was still arguing about the last point when they started gathering their things.
 
@@ -188,23 +189,23 @@ They fitted around two tables, with Avan checking that the spare chair wasn't bl
 
 "I got the big portion so everybody could. Go on!"
 
-For a while, Taiga ate and listened. Yuuto was explaining a move he called the Phantom Drop and Enzo immediately wanted a special move as well. 
+For a while, Taiga ate and listened. Yuuto was explaining a move he called the Phantom Drop and Enzo immediately wanted a special move as well.
 
 "Apologies. He's a bad influence," Avan said when Taiga sighed.
 
-Taiga shook his head. "Enzo doesn't need bad influence."
+Taiga shook his head. "Enzo doesn't need a bad influence."
 
 Leo chuckled beside him. "So, Avan, Yuuto said you two are in a film club?"
 
-Avan suddenly stopped eating. "It's- Uh... It's not a club. It was just a movie night."
+Avan suddenly stopped eating. "It's—Uh... It's not a club. It was just a movie night."
 
 Taiga raised an eyebrow. "Yuuto said 'club' though."
 
-"Y-Yes, because..." 
+"Y-Yes, because..."
 
-He noticed his face was getting slightly red. 
+Avan was going slightly red.
 
-"Ehm. Because we used to host movies night in our room. He called it that, but it's not a club."
+"Ehm. Because we used to host movie nights in our room. He called it that, but it's not a club."
 
 "Aww, shame," Leo said. "I'd love to join a film club."
 
@@ -214,9 +215,9 @@ He noticed his face was getting slightly red.
 
 He gave him a look.
 
-"...Most of the times." Leo added.
+"...Most of the time," Leo added.
 
-When they parted outside, Yuuto thanked them again and Enzo insisted he took the sign. Then he and Avan headed toward the dorms, already arguing about where it would go.
+When they parted outside, Yuuto thanked them again and Enzo insisted he take the sign. Then he and Avan headed toward the dorms, already arguing about where it would go.
 
 "What are you doing Sunday?" Leo asked as he and Taiga turned onto the path behind the others.
 
@@ -231,4 +232,3 @@ Leo took his phone out to put it in his calendar. Taiga waited while he walked i
 "Ouch."
 
 ***
-
