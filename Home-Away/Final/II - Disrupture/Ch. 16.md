@@ -232,3 +232,66 @@ Leo took his phone out to put it in his calendar. Taiga waited while he walked i
 "Ouch."
 
 ***
+
+Tuesday's lab began with an announcement from Owen.
+
+"For the next two weeks, you'll work with someone different. The assignments are individual submissions, but I want you discussing your implementation with somebody whose habits you haven't already memorized."
+
+Taiga and Leo looked at each other.
+
+"You've memorized my habits?" Taiga asked.
+
+"Unfortunately, yes."
+
+"In a professional environment, you'll not get to choose your working partner. Better get used to it," Owen continued.
+
+The list appeared on the screen. Taiga found his name beside Dylan's. Leo was with Rachel, two rows over.
+
+Dylan arrived while Taiga was unplugging his charger. He had seen him in lectures, usually near the front with headphones around his neck.
+
+"You want to use yours?" Dylan asked.
+
+"Already got it open."
+
+"Works for me."
+
+The task was a small hash table. Insert, search, delete. Taiga read the requirements, Dylan asked which collision method he preferred, and they started.
+
+For the first half hour, it was a bit weird.
+
+Dylan was good, but he didn't really challenged Taiga's implementation. When Taiga proposed a helper function, he accepted without even flinching. 
+It was... too easy, almost.
+
+Across the room, Leo was explaining something with both hands. Rachel interrupted him, pointed at the screen and made him read it again.
+
+Taiga returned to the tests.
+They finished twelve minutes before the end. Dylan submitted, packed and left for work. Taiga pulled out his phone.
+
+**Taiga:** you done?
+
+**Leo:** almost
+**Leo:** i hope 🥲
+**Leo:** don't leave 
+
+He looked over. Leo was staring at his laptop with his chin in one hand. Rachel was typing.
+
+Taiga opened the notes for the follow-up task. 
+When Leo finally arrived, he dropped his bag onto the empty chair.
+
+"We were checking the wrong slot. For eleven minutes."
+
+"Impressive."
+
+"We were very thorough about it."
+
+He leaned over Taiga's laptop to see what he was reading. His leg pressed on Taiga's for a while.
+
+"Oh, don't look at next week yet. I've only just survived this one."
+
+Taiga closed the page.
+
+"Coffee?"
+
+"Please."
+
+***
