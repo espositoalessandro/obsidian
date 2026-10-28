@@ -297,6 +297,109 @@ Why the hell was he recording every accidental contact now? Leo's leg stayed the
 
 ***
 
+On Friday afternoon, Zoe arrived at the library carrying a laptop, a sandwich and a manga volume.
+
+Taiga looked up. "Didn't have time for lunch?"
+
+"Don't let me start about it. By time i finished [something] the mess hall had already closed."
+
+"Sounds terrible," Leo said.
+
+They had been working through Discrete practice questions. Different sections apparently meant getting confused by the same thing on different days.
+
+"What did you get for question four?" Zoe asked.
+
+Taiga turned his notebook around. Zoe put the sandwich on top of her manga and read the proof.
+
+"You haven't shown it for the first value."
+
+"It's obvious."
+
+"That's cool. Gimme the pen."
+
+She took the pen he offered her, tried it, shook it and tried again.
+
+"I think this is dead."
+
+Leo gave her his. She wrote the first case under Taiga's argument and circled the place where he'd started using the assumption.
+
+"This step is fine. It just doesn't do that part for you."
+
+Taiga read it. She was right, annoyingly.
+
+"Fine."
+
+"And yours?" Leo asked.
+
+Zoe pulled up a photograph of a notebook page. Half the calculation was squeezed into the margin beside a drawing of a cat with a sword.
+
+Leo leaned toward him to see the screen. Their knees met under the table.
+Okay, not again. Leo was simply checking the small phone screen.
+
+The proof was correct. Taiga checked it twice. Then he returned the phone and went back to his notebook.
+
+Leo's knee stayed against his.
+Still. Leo was a champion in occupying other people's space. 
+Taiga shook his head. Although, twenty seconds passed and Leo still didn't move his leg. 
+
+What if...
+
+Taiga shifted his foot a little, taking his knee away. Barely a couple of centimeters. He kept looking at the notebook. 
+Nothing happened for a few seconds and Taiga relaxed.
+
+Then Leo adjusted his leg. The side of his knee came back against Taiga's.
+Taiga stopped moving. The familiar uneasiness came back.
+
+"Right?" Zoe asked.
+
+He looked up. "What?"
+
+"Yeah."
+
+Leo turned toward him. "What? It doesn't. We were saying it doesn't."
+
+Fuck.
+
+"Right, sorry."
+
+Taiga went back at his notes and glanced at Leo. He had no helpful expression whatsoever.
+
+Had he moved because Taiga had moved? Or because he'd been leaning forward? His foot could have slipped. People adjusted their legs. Then why was it still there? Didn't he notice it?
+
+"Hey AG," Leo said softly.
+
+Taiga looked at him too quickly.
+
+Leo held out his hand. "Can you pass me my pen?"
+
+It was still beside Taiga's notebook. He passed it over.
+
+"Thanks."
+
+Taiga returned to question four. His ears felt hot.
+
+***
+
+In the second random lab, Taiga ended up beside a guy from the front row who wrote comments before code. Leo disappeared somewhere behind him with another assigned partner.
+
+They started working.
+Later, his phone buzzed under the desk.
+
+**Leo:** this guy uses camelcase for constants
+
+**Taiga:** report him
+
+**Leo:** finally some institutional support
+
+Taiga locked the phone and went back to the assignment.
+After a while, 
+
+**Taiga:** this guy puts the opening curly brace of the function on a new line
+
+**Leo:** he needs therapy
+
+***
+
 By the second week of February, Olympus was on a roll. Four wins out of four matches.
 Match after match, the atmosphere in the locker room before kickoff grew lighter and lighter, until it all felt almost routine.
 
@@ -475,3 +578,30 @@ Taiga rolled his eyes and stood up, grabbing both his and Leo's bags.
 He had already started towards the University Center.
 
 ***
+
+The Tuesday after that, Owen walked in, connected his laptop and looked at the room.
+
+“No random pairs today, experiment's over.”
+
+Leo looked at Taiga, who had already moved his laptop into the space between their seats.
+
+Leo looked down at it, then back at him.
+
+“What?” Taiga said.
+
+“Nothing.”
+
+Owen started explaining the assignment. Taiga opened the starter repository. 
+
+“Requirements first.”
+
+“I know.”
+
+Taiga shifted the laptop back to the middle.
+Leo looked at him, then at the screen. His smile widened.
+
+“Okay. Requirements.”
+
+Thirty seconds later, they were arguing about a helper function.
+
+That was more like it.
