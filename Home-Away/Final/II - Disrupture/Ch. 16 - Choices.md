@@ -1,4 +1,4 @@
-### Chapter 16
+### Chapter 16 - Choices
 
 "Okay. Before dismissing you, there's another thing."
 
@@ -289,9 +289,15 @@ He leaned over Taiga's laptop to see what he was reading. His leg pressed agains
 "Oh, don't look at next week yet. I've only just survived this one."
 
 Taiga closed the page.
+Why the hell was he recording every accidental contact now? Yet, Leo's leg remained there until they stood.
 
 "Coffee?"
 
 "Please."
 
 ***
+
+By the second week of February, Olympus was on a roll. Four wins out of four matches. 
+Match after match, the air in the locker before the starting whistle was getting lighter and lighter, until it became almost routine.
+
+

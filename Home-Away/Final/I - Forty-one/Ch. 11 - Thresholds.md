@@ -162,11 +162,11 @@ Evan laughed and fell into step beside him. They headed toward the main campus. 
 
 Evan shrugged. "Well, you never asked!"
 
-Taiga blinked. Yeah, Caleb-virus was evidently airborne.
+Taiga blinked. Yeah, Caleb-virus was definitely airborne.
 
 "I'm a Modern Languages major. Mostly Spanish and a bit of French here and there."
 
-"Oh. That's pretty cool."
+"Oh. Cool."
 
 "It is! Besides, most people don't know, but Spanish is one of the most widely spoken languages in the world. So I hope it'll serve me well."
 
@@ -444,9 +444,9 @@ Taiga smiled. "I'll be there if you need me."
 
 His smile widened in response, and he turned to his own algorithm.
 
-After a minute, Leo finally lifted his head. He cleared the "bbbb" mess and stared at the code for another couple of minutes.
+After a minute, Leo finally lifted his head. He cleared the "bbbb" mess and stared at the code for a while.
 
-"Fine. Alright, just tell me," he said.
+"Fine. Alright, just tell me," he eventually said.
 
 Taiga leaned over. "It's the partition function."
 
