@@ -171,7 +171,7 @@ Their whole row stood. Enzo's sign blocked half the court, and Leo let go to cla
 "Move that fucking thing!" 
 
 Enzo moved it into Aaron's face instead. 
-When they sat down again, Taiga looked at his forearm. Normal exultation. No big deal.
+When they sat down again, Taiga glanced at his forearm. It was just a normal exultation. No big deal.
 
 Olympus took the set, then the fourth. Avan folded his program and applauded with the rest of them. Leo was still arguing about the last point when they started gathering their things.
 
@@ -185,3 +185,50 @@ They waited for Yuuto near the entrance. He emerged carrying his bag and talking
 
 They got burgers at a restaurant in the University Center.
 They fitted around two tables, with Avan checking that the spare chair wasn't blocking the aisle and Yuuto offering his fries around before he'd tried one himself.
+
+"I got the big portion so everybody could. Go on!"
+
+For a while, Taiga ate and listened. Yuuto was explaining a move he called the Phantom Drop and Enzo immediately wanted a special move as well. 
+
+"Apologies. He's a bad influence," Avan said when Taiga sighed.
+
+Taiga shook his head. "Enzo doesn't need bad influence."
+
+Leo chuckled beside him. "So, Avan, Yuuto said you two are in a film club?"
+
+Avan suddenly stopped eating. "It's- Uh... It's not a club. It was just a movie night."
+
+Taiga raised an eyebrow. "Yuuto said 'club' though."
+
+"Y-Yes, because..." 
+
+He noticed his face was getting slightly red. 
+
+"Ehm. Because we used to host movies night in our room. He called it that, but it's not a club."
+
+"Aww, shame," Leo said. "I'd love to join a film club."
+
+"You already do more than you can manage," Taiga pointed out.
+
+"Hey! That's not true."
+
+He gave him a look.
+
+"...Most of the times." Leo added.
+
+When they parted outside, Yuuto thanked them again and Enzo insisted he took the sign. Then he and Avan headed toward the dorms, already arguing about where it would go.
+
+"What are you doing Sunday?" Leo asked as he and Taiga turned onto the path behind the others.
+
+"The lab write-up."
+
+"Right. We should finish that. Computing lab at two?"
+
+"Fine."
+
+Leo took his phone out to put it in his calendar. Taiga waited while he walked into a bollard.
+
+"Ouch."
+
+***
+
