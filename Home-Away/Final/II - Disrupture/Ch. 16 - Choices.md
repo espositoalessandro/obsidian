@@ -289,7 +289,7 @@ He leaned over Taiga's laptop to see what he was reading. His leg pressed agains
 "Oh, don't look at next week yet. I've only just survived this one."
 
 Taiga closed the page.
-Why the hell was he recording every accidental contact now? Yet, Leo's leg remained there until they stood.
+Why the hell was he recording every accidental contact now? Leo's leg stayed there until they stood.
 
 "Coffee?"
 
@@ -297,10 +297,10 @@ Why the hell was he recording every accidental contact now? Yet, Leo's leg remai
 
 ***
 
-By the second week of February, Olympus was on a roll. Four wins out of four matches. 
-Match after match, the air in the locker before the starting whistle was getting lighter and lighter, until it became almost routine.
+By the second week of February, Olympus was on a roll. Four wins out of four matches.
+Match after match, the atmosphere in the locker room before kickoff grew lighter and lighter, until it all felt almost routine.
 
-Then St. Vincent match came, and a cold shower of reality hit the whole team.
+Then came the St. Vincent match, and a cold shower of reality hit the whole team.
 
 St. Vincent scored in the first half from a corner.
 Taiga saw the header, saw Scott get a hand to it, and saw the ball cross the line anyway. For a moment he thought there had to be somebody on the post who could still clear it.
@@ -313,14 +313,14 @@ From the bench, Taiga could see the space behind them. Reaching it was apparentl
 
 Mercer shouted at him to stay higher and he did. Gav found him there. Leo turned, put Jordan through, and the goalkeeper saved the shot with his leg.
 
-Taiga was halfway up before he sat down again. 
+Taiga was halfway up before he sat down again.
 The second half, though, was worse to sit through.
 
 Taiga warmed up twice. Both times he came back to the bench still wearing his bib. Mercer used Lucas when Carter's calf tightened and made another change in midfield. Evan stayed on the left.
 
 He knew that he probably wouldn't have changed the situation. Yet, sitting there while his team was clearly struggling made everything worse.
 
-And apparently, on the pitch the situation wasn't better.
+And apparently, on the pitch the situation wasn't any better.
 On Olympus's next attack, Aaron played a safe pass backward. Then another. Evan turned and asked him to come outside.
 
 "I'm fucking waiting," Aaron shouted.
@@ -329,7 +329,7 @@ Taiga heard that from the bench.
 
 With ten minutes left, Leo tried to slide a pass through three pairs of legs. It hit the first. He got it back, went around one player and lost it to the next.
 
-Taiga saw him burrowing his face in his hands.
+Taiga saw him burying his face in his hands.
 
 The whistle went while Scott was telling everyone to get up for one more ball.
 Taiga stayed on his feet. Beside him, someone swore and kicked an empty bottle under the bench.
@@ -338,7 +338,7 @@ On the pitch, Leo stood with his hands on his hips. Aaron had already started wa
 
 ***
 
-The atmosphere in the locker room changed dramatically. 
+The atmosphere in the locker room changed dramatically.
 People still spoke. They asked for tape, moved bags and told someone to get out of the doorway. Enzo's boots hit the floor hard enough to make Taiga look over.
 
 Mercer waited until everyone was inside.
@@ -358,12 +358,12 @@ Aaron was still talking to Evan.
 
 Aaron opened his mouth, stopped and pulled his shirt over his head.
 
-On the other side of Taiga, Leo was taking the tape off one ankle in small, unnecessary steps.
+On the other side of Taiga, Leo was peeling the tape off one ankle a little at a time.
 He caught Taiga looking and gave him an uncertain smile.
 Very unconvincing.
 
 After the shower, Leo was already gone by the time Taiga zipped his bag.
-He found him sitting on a bench outside the stadium, with an unopened bottle of water resting between his hands and his bag laying on the ground.
+He found him sitting on a bench outside the stadium, with an unopened bottle of water resting between his hands and his bag lying on the ground.
 
 Taiga stopped in front of him.
 
@@ -416,9 +416,9 @@ Leo tried a smile. "What? It's a game. Just one game."
 
 "That's what you keep saying."
 
-"Because it is. There's no reason to dramatize over a loss."
+"Because it is. There's no reason to make a big deal out of a loss."
 
-"I know, then why-"
+"I know. Then why—"
 
 "Taiga, I'm fine. Alright?"
 
@@ -429,7 +429,7 @@ The tone caught him off-guard. Sharper than usual, even though he still had that
 
 Leo's face changed instantly. Worry washed away the fake smile.
 
-"Shit- sorry! I didn't mean to say it like that."
+"Shit—sorry! I didn't mean to say it like that."
 
 "You're good."
 
@@ -439,7 +439,7 @@ Leo looked away and opened his bottle.
 
 Taiga snorted lightly. "Yeah, no shit."
 
-"It's just..." Leo took a deep breath. "It's frustrating. We lost because of one stupid corner. We chased all the time, tried every space and they won for a stupid freaking corner."
+"It's just..." Leo took a deep breath. "It's frustrating. We lost because of one stupid corner. We chased them all game, tried every opening and they got the winner from one stupid freaking corner."
 
 He shook his head.
 
@@ -449,7 +449,7 @@ He shook his head.
 
 "Yeah, I know that we all somehow fucked up. I just..."
 
-He twitched his mouth.
+His mouth twitched.
 
 "I wish I had done more. I know I could've done more and I feel stupid because I didn't."
 
@@ -458,15 +458,15 @@ Taiga didn't really know what to say. He understood that feeling enough to know 
 
 "Sorry, I started blathering nonsense."
 
-"You always do it. Why apologize now?"
+"You always do. Why apologize now?"
 
-Leo bumped his shoulder into Taiga's. 
+Leo bumped his shoulder into Taiga's.
 
-"Fuck off"
+"Fuck off."
 
 Taiga smiled. "I'm hungry. Food?"
 
-Leo hesitated. "I don't know, I mean... I may not be of much company right now and-"
+Leo hesitated. "I don't know, I mean... I might not be very good company right now and—"
 
 Taiga rolled his eyes and stood up, grabbing both his and Leo's bags.
 
@@ -475,11 +475,3 @@ Taiga rolled his eyes and stood up, grabbing both his and Leo's bags.
 He had already started towards the University Center.
 
 ***
-
-
-
-
-
-
-
-
