@@ -243,7 +243,7 @@ Taiga and Leo looked at each other.
 
 "Unfortunately, yes."
 
-"In a professional environment, you'll not get to choose your working partner. Better get used to it," Owen continued.
+"In a professional environment, you won't always get to choose who you work with. Better get used to it," Owen continued.
 
 The list appeared on the screen. Taiga found his name beside Dylan's. Leo was with Rachel, two rows over.
 
@@ -259,7 +259,7 @@ The task was a small hash table. Insert, search, delete. Taiga read the requirem
 
 For the first half hour, it was a bit weird.
 
-Dylan was good, but he didn't really challenged Taiga's implementation. When Taiga proposed a helper function, he accepted without even flinching. 
+Dylan was good, but he didn't really challenge Taiga's implementation. When Taiga proposed a helper function, he agreed straightaway.
 It was... too easy, almost.
 
 Across the room, Leo was explaining something with both hands. Rachel interrupted him, pointed at the screen and made him read it again.
@@ -271,11 +271,11 @@ They finished twelve minutes before the end. Dylan submitted, packed and left fo
 
 **Leo:** almost
 **Leo:** i hope 🥲
-**Leo:** don't leave 
+**Leo:** don't leave
 
 He looked over. Leo was staring at his laptop with his chin in one hand. Rachel was typing.
 
-Taiga opened the notes for the follow-up task. 
+Taiga opened the notes for the follow-up task.
 When Leo finally arrived, he dropped his bag onto the empty chair.
 
 "We were checking the wrong slot. For eleven minutes."
@@ -284,7 +284,7 @@ When Leo finally arrived, he dropped his bag onto the empty chair.
 
 "We were very thorough about it."
 
-He leaned over Taiga's laptop to see what he was reading. His leg pressed on Taiga's for a while.
+He leaned over Taiga's laptop to see what he was reading. His leg pressed against Taiga's as he leaned closer.
 
 "Oh, don't look at next week yet. I've only just survived this one."
 
