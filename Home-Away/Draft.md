@@ -266,7 +266,7 @@ He watched the trees.
 
 "You haven't got off the bus yet."
 
-"I can make preliminary judgments."
+"Hey, I can like it from here."
 
 "You're going to complain immediately."
 
@@ -294,85 +294,61 @@ Leo raised one finger. "Separate issue."
 
 The cold was sharper here. Taiga breathed through his nose and went to get his bag.
 
-Three guys in dark green jackets were waiting beneath the lodge porch. The tallest came down the steps to meet Mercer. Brown hair, broad shoulders, a folder held beneath one arm.
+Mercer was shaking hands with a man in a dark green tracksuit. Gray at the temples, sleeves pushed up despite the weather.
 
-"Coach Mercer? Welcome! I'm Masaru Nakahara, Pinetree's captain. Coach Hale's just finishing downstairs. He'll be with you in a minute."
+"Daniel Hale," the man said when the last few players came around the bus. "Welcome to Pinetree. We'll get you inside in a moment."
 
-He offered his hand, then looked past Mercer at the squad.
+He gave Mercer an envelope and pointed out the entrance.
 
-"Did you have a good trip?"
+"Room list and keys. Your equipment can go in the storage room on the ground floor. Lunch is open until one; the dining room's through the glass corridor."
 
-A few people answered. Enzo came around the bus with his pillow.
+Enzo emerged holding his pillow in both arms.
 
-Masaru paused.
+Hale looked at it, then continued.
 
-"Oh. We do have bedding."
+"We'll meet at the training building at two. Today is mostly a chance to get the journey out of your legs and find your way around. Tomorrow we work."
 
-"Not like this."
+A guy beside him stepped forward. Tall, broad through the shoulders, with green hair showing beneath his hood. He wore the same Pinetree jacket as Hale, over a loose sweatshirt.
 
-"Ah." He smiled uncertainly. "Well, I'm sure we can find somewhere for it."
+"I'm Dennis Warrington. Captain. You'll probably see me around more than you want to."
 
-"Please don't encourage him," Gav said.
+Scott shifted beside Gav.
 
-The red-haired guy on the porch laughed, then came down to help unload.
+"Uh... Scott. Stirling."
 
-"Are these all going inside?"
+Dennis offered his hand. "Good to meet you, Scott."
 
-"Those stay with us," Mercer said, pointing at the kit bags. "Personal bags upstairs."
+Scott shook it.
 
-"Got it!"
+"If you need anything football-related, come find me. If it's about the heating, the woman at the front desk knows more than any of us."
 
-He took one of the duffels and waited while Taiga checked the tag.
+"Is there a problem with the heating?" Enzo asked.
 
-"This yours?"
+"Depends which room you get."
 
-"Yeah."
+Enzo looked toward the lodge.
 
-"I'm Toshu. Toshu Kanada."
+Dennis smiled. "It's warm. Just noisy."
 
-"Taiga."
+Mercer handed Gav the room list.
 
-"Nice to meet you!"
+"Pairs are as agreed. Check your room, take your key. Don't block the entrance."
 
-The blond behind him leaned against the porch post, hands in his pockets.
+Taiga found his name beside Enzo's and took the key to 214. Leo was still reading over Gav's shoulder when he went back to the luggage compartment.
 
-"Tofu, you missed one."
+By the time he'd pulled out his duffel, everyone had begun moving. Equipment bags went through the side door; personal bags went up the steps. Dennis held the main door while Scott asked him something Taiga couldn't hear over the wheels rattling across the porch.
 
-Toshu turned. "It's Toshu. And you can carry that yourself."
+Inside, Enzo had stopped beneath a stuffed deer head.
 
-"I thought you were helping our guests."
+Taiga nudged him out of the way with his bag.
 
-"That's your bag."
+"Move."
 
-The blond grinned and picked it up.
+"It has an expression."
 
-He came down the last step, looked at Taiga and then at the two bags Toshu was carrying.
+"Yeah. Dead."
 
-"Ichiru Yanai. If he offers to show you around, bring your phone."
-
-Toshu groaned. "I got lost once."
-
-"Twice."
-
-"One of those times you told me the wrong building!"
-
-"Oh, yeah."
-
-Masaru was trying to hand room keys to Mercer while also explaining where lunch would be. Scott approached, stopped beside him and waited for a pause.
-
-"Uh... Scott. Stirling. I'm the, um..."
-
-"Captain?" Masaru asked.
-
-Scott nodded.
-
-"It's great to meet you." Masaru shook his hand with both of his. "I'll show you where everything is. If anyone needs anything, just tell me."
-
-"Thanks."
-
-Masaru smiled, and Scott managed a smaller one back.
-
-Taiga followed Toshu inside before anyone could offer him another introduction.
+Leo laughed behind them. Enzo looked at the deer one last time and followed them upstairs.
 
 ***
 
@@ -470,169 +446,177 @@ Leo laughed when Taiga showed him.
 
 "You can see how he'd be concerned."
 
-Toshu appeared at the door with two more players behind him, pointing them toward the next room.
+Out in the corridor, Gav called Leo's name.
 
-"Lunch is ready downstairs whenever you are!"
+"Lunch?"
+
+Leo turned toward the door. "Oh, definitely."
 
 Enzo abandoned his drawers.
 
 ***
 
-The dining room had windows along one side and a glass corridor connecting it to the lodge. Most of the tables were empty when they entered. A few Pinetree players sat at the far end with laptops and half-finished drinks.
+The dining room had windows along one side and a glass corridor connecting it to the lodge. A few Pinetree players sat at the far end with laptops and half-finished drinks.
 
-Ichiru had already taken a tray.
-
-He waved Enzo over with his fork.
-
-"Pillow! Here!"
-
-Enzo stopped.
-
-Taiga almost felt sorry for him.
-
-"My name is Enzo."
-
-"Enzo Pillow."
-
-"Don't let him start," Toshu said.
-
-He was standing behind Ichiru with his own tray, waiting for him to move his jacket off the chair.
-
-"I thought we were learning names," Ichiru said.
-
-"Then learn mine."
-
-"I know yours, Tofu."
-
-Toshu gave up and moved the jacket himself.
-
-Leo took the chair beside him. Taiga sat opposite, between Aaron and Evan. There were still plenty of places, but Enzo pulled another table closer anyway and called Gav over.
+They got food and pushed two tables together near the windows. Taiga sat between Aaron and Evan, with Leo opposite him.
 
 The food was good. Hot rice, chicken, vegetables that hadn't been boiled into surrender. Enzo tried a mouthful and visibly relaxed.
 
-Masaru joined them carrying a jug of water.
+"Hey! You guys from Olympus?"
 
-"There's more if you want seconds. They said to tell you."
+A guy had stopped beside Leo, tray in hand. His short hair was white and sky blue, and he had a pale jacket hanging open over his training shirt.
 
-"You've made him very happy," Leo said.
+Leo nodded. "Yeah."
 
-"I can see that."
+"Awesome! Mind if I join you? I'm Miles. Miles King."
 
-Masaru sat and finally started eating. For a while, conversation stayed with the journey and the weather. Other players came in, left bags beneath tables and joined whichever conversation they could hear.
+He was already smiling at the others while Gav moved his bag off a chair.
 
-Toshu asked Evan whether he was the number eleven from Olympus.
+"Miles, is Hale still over there?" Dennis asked from the doorway.
 
-"That's me."
+"Uh... he was a second ago! I think he went to the kitchen."
 
-"Oh! I thought so. We watched some of your matches."
+Dennis thanked him and kept walking. Miles put his tray down.
 
-Evan put his fork down. "Good ones, I hope."
+"So, how was the drive? Did you come up the east road? The view's really good from that side!"
 
-Ichiru shook his head. "Only the embarrassing parts."
+Leo started telling him about the ridge. They had apparently photographed the same bend. Miles took his phone out to compare, discovered that Leo's picture included the stream and immediately wanted to see it more closely.
 
-"Ignore him," Masaru said. "He complains about film even when he's in it."
+Taiga ate.
 
-"Especially when I'm in it."
+A second Pinetree player pulled out the chair at the end of the table. Brown skin, cropped black hair, small black earrings. A yellow hood lay over the collar of his black jacket.
 
-"What do you play?" Toshu asked Taiga.
+Miles looked up.
 
-"Left wing. Same as him."
+"Oh, hey! Skylar, check this out."
 
-Evan pointed his fork at Taiga. "He wants my job."
+Skylar glanced at the screen.
+
+"Road."
+
+"The mountain behind it, dude."
+
+"Seen it."
+
+Miles turned the phone back toward Leo. "He gets like this when he's hungry."
+
+"I'm like this all the time."
+
+"Yeah, but usually you're eating."
+
+Skylar reached for the water jug. Aaron moved it closer.
+
+"Skylar what?"
+
+"Pascual."
+
+"Aaron."
+
+They exchanged a nod. Miles was already going around the table asking names, repeating them back without any sign that the number bothered him.
+
+When he reached Evan, he paused.
+
+"Oh! You're eleven, right? Left wing?"
+
+Evan put down his fork. "Depends what footage you've been watching."
+
+"The Hartwell match! That cutback in the second half was so good. I kept expecting you to shoot."
+
+"So did their keeper."
+
+Taiga remembered that one. He'd been expecting the shot too.
+
+"What about you?" Miles asked him.
+
+"Taiga. Same position."
+
+"Nice! I'm usually on the right. We might get put together tomorrow."
+
+"Or in goal," Skylar said.
+
+Miles looked at him. "Don't even joke about that."
+
+"Hale put me at left-back last week."
+
+"Yeah, and you spent the whole game trying to get back up front!"
+
+"I got there."
+
+Dennis arrived with his own tray.
+
+"You left a considerable amount of pitch behind you."
+
+Skylar shifted his chair to let him through.
+
+"Handled it, didn't you?"
 
 "Eventually."
 
-"See? No respect for the elderly."
+Dennis sat beside Scott. Miles went back to asking Leo about Olympus's stadium, then wanted to know whether the volleyball arena was as big as it looked in photographs.
 
-Toshu laughed. "I'm usually on the right. Maybe we'll get put together tomorrow."
+Enzo had a photograph for that.
 
-"You won't be on the right," Ichiru said.
+Several, actually.
 
-"You don't know that."
+While he explained the sign, Taiga asked Skylar whether he normally played striker.
 
-"Last week Hale put me in defense."
+"Yeah."
 
-Aaron looked up. "How did that go?"
+Skylar looked past him at Evan. "Waiting for him to graduate?"
 
-"He kept telling me to stop following the ball."
+"Something like that."
 
-"Did you?"
+"Don't rush me," Evan said.
 
-"I got it off him, didn't I, Captain?"
+"I haven't done anything."
 
-"Then you lost it and left me with two people."
+"Yet."
 
-"Details."
+Skylar's mouth twitched. He went back to eating.
 
-Masaru said it without much force, but Ichiru grinned at him and went back to his food.
+Conversation spread along the tables. Dennis and Scott were talking about the pitches; Aaron asked which Pinetree players were in their year. Miles wanted to know how far away Olympus's dorms were from everything else.
 
-Aaron leaned back in his chair.
+"Here, look," he said when Leo asked about their campus. "It's easier if I show you. The map makes it look flat, but it absolutely isn't."
 
-"Fullback's easy. Just run up and down until somebody complains you're in the wrong place."
+He opened it on his phone and pointed out the training building, the library and a road running above the residences.
 
-"That's your version," Evan said.
+Leo turned the screen toward Taiga.
 
-"Mine looks good."
+Several trails continued beyond the buildings. One ended at an overlook.
 
-Across the table, Leo was asking Toshu about the buildings farther up the slope. Toshu started explaining the campus, stopped to correct which building he'd pointed at, then took his phone out to show him a map.
+"How far's that?" Taiga asked.
 
-Taiga ate and listened.
+"From here? Twenty minutes, maybe. Depends how fast you walk."
 
-When Leo turned the screen toward him, he leaned forward to look. The campus extended farther behind the lodge than he'd expected. There was a road at the top, a cluster of residences and several trails marked beyond them.
+Skylar glanced over. "Longer if he comes."
 
-One led to an overlook.
+"Hey, I like stopping for pictures! That's allowed."
 
-He checked where it started before Leo handed the phone back.
+Taiga checked where the trail began before passing the phone back.
 
 ***
 
-Daniel Hale met them after lunch.
+At two, they met Hale in the entrance hall of the training building.
 
-He was waiting in the entrance hall of the training building, speaking to Mercer. Taller, gray at the temples, wearing a dark green tracksuit with the sleeves pushed up. He finished what he was saying before turning to them.
+He finished speaking to Mercer, then waved them through to the changing rooms.
 
-"Welcome to Pinetree. I hope you've had time to settle in."
-
-Behind Taiga, Enzo made a quiet noise.
-
-Gav elbowed him.
-
-"We'll keep today light. A little mobility work after the bus, then I'll show you the facilities. Tomorrow we start at eight-thirty."
-
-He looked around the group.
-
-"Mercer has sent me your usual positions. During the joint sessions, you'll spend some time somewhere else. Some of you will enjoy it. Some of you won't."
-
-"Can we request somewhere?" Aaron asked.
-
-"You can."
-
-"Will you listen?"
-
-Hale smiled faintly. "We'll see."
-
-They left their coats in a changing room and followed him into the gym.
+"Coats and bags in here. We'll do some mobility work first."
 
 For twenty minutes, Taiga concentrated on getting the stiffness out of his legs. The bus had done something unpleasant to one hip. Evan was stretching beside him, complaining under his breath about being treated like an old man until Mercer told him to stop proving the point.
 
-Pinetree players joined them in small groups. Toshu sat on the mat opposite Leo and immediately bent farther forward than Taiga considered necessary.
+Pinetree players joined them in small groups. Miles took a mat near Leo and continued a conversation they'd apparently started on the way down. Something about games. Taiga caught the name of a console, then a noise of disbelief from Miles.
 
-"How?"
+"Wait, seriously? All of you in the same room? That's gotta get so loud!"
 
-Toshu looked up. "What?"
+"You have no idea," Leo said.
 
-Leo pointed at his feet. "That."
+"Are you two stretching?" Hale asked.
 
-"Oh. I do this a lot."
+They both bent forward.
 
-"Apparently."
+Skylar sat on the other side of the aisle and pulled one knee toward his chest. Dennis passed him a resistance band without interrupting whatever Scott was saying.
 
-Ichiru was lying on his back two mats over.
-
-"Tofu can fold up. We put him in the kit bag for away games."
-
-Toshu threw his rolled towel at him.
-
-Hale let them finish, then took them through the building.
+When they finished, Hale took them through the building.
 
 The weight room was smaller than Olympus's, but the indoor hall opened onto a long window overlooking the pitches. Outside, the green surface had been cleared. Snow lay along the fences and piled behind the goals.
 
@@ -640,7 +624,7 @@ Taiga stopped at the glass.
 
 From up here, he could see the edge of the terrace beyond the far touchline. Pines continued down the slope behind it. There were low stands on one side, a scoreboard and a narrow road connecting the field to the buildings above.
 
-He could imagine the Sunday match here already.
+He could imagine Sunday's match here already.
 
 Leo stopped beside him.
 
@@ -654,13 +638,19 @@ Taiga glanced toward the path they had used coming down. It looked considerably 
 
 "Don't lose. Then you'll have a reason to hurry."
 
-Leo laughed. "Excellent incentive."
-
-Mercer called them along.
+Leo laughed and stayed beside him until Mercer called them along.
 
 Hale showed them the meeting rooms, pointed out where the treatment staff would be and brought them to a whiteboard near the equipment store.
 
-"Tomorrow's first block is mixed groups. We'll change roles after each game."
+"Tomorrow's first block is mixed groups. Mercer has sent me your usual positions. You'll spend some time somewhere else."
+
+"Can we request somewhere?" Aaron asked.
+
+"You can."
+
+"Will you listen?"
+
+Hale smiled faintly. "We'll see."
 
 Gav asked about the numbers. Hale answered, then drew a short line between two magnets.
 
@@ -682,17 +672,39 @@ Leo's smile returned immediately.
 
 Fine. Fair.
 
+Someone behind them asked whether they would use the full pitch. While Hale answered, Aaron leaned toward Skylar.
+
+"How was left-back?"
+
+"Shit."
+
+"Good. That's reassuring."
+
+"Try staying there all afternoon," Dennis said.
+
+Aaron looked at him. "That's my actual position."
+
+"I know."
+
+Aaron laughed.
+
 By the time they came back outside, the cloud had thinned enough to show a strip of blue above the ridge.
 
 They had the rest of the afternoon free.
 
 ***
 
-Toshu took them back by a different path, past the library and a residence building with ski poles propped inside the entrance.
+Miles took the way back past the library. Leo wanted to see where it was; Gav had heard there was a natural-history display in the entrance.
+
+There was.
+
+They lost him for ten minutes.
+
+Outside a residence building, ski poles stood in a rack beside the door.
 
 "People just go skiing?" Leo asked.
 
-"When there's time. There's a shuttle on weekends."
+"When there's time! There's a shuttle on weekends."
 
 Enzo looked at Gav. "We picked the wrong school."
 
@@ -700,13 +712,13 @@ Enzo looked at Gav. "We picked the wrong school."
 
 "I could hate it recreationally."
 
-They came out behind the lodge. The path opened onto a wide lawn with a few benches along the edge. Snow covered most of it, broken by footprints between the back doors and a small shed.
+They came out behind the lodge. The path opened onto a wide lawn with benches along the edge. Snow covered most of it, broken by footprints between the back doors and a small shed.
 
 Taiga stopped near the railing and looked toward the ridge.
 
 The wind had dropped. He could hear people farther down by the training building, but nothing from the road. Snow slipped from a branch somewhere behind him.
 
-He pulled his phone out and took another photograph.
+He pulled his phone out.
 
 This one needed no bus window.
 
@@ -722,55 +734,49 @@ Leo came up beside him, raising his own phone.
 
 Leo took a step sideways. Taiga caught the edge of his scarf in the photograph anyway.
 
-Behind them, Ichiru said, "Hey, Tofu."
+Behind them, Miles made an indignant noise.
+
+Taiga turned.
+
+Skylar was brushing the remaining snow off his glove. Miles had one hand inside the neck of his jacket.
+
+"Dude!"
 
 "What?"
 
-A snowball hit Toshu's shoulder.
+"That went down my back!"
 
-He stopped and looked down at the white smear on his coat.
+"Did it?"
 
-"Ichiru."
+Miles bent to scoop up snow. Skylar waited until his arm came forward, then stepped aside.
 
-"What?"
-
-"Why?"
-
-Ichiru was already making another one.
-
-Toshu crouched.
-
-"Don't," Masaru said.
-
-The snowball Toshu threw missed Ichiru by at least a meter and struck Enzo squarely in the back.
-
-Enzo went still.
-
-"Oh! Sorry!" Toshu said. "I was trying to hit him!"
-
-Slowly, Enzo turned.
+The snowball hit Enzo.
 
 Taiga put his phone away.
 
-"Well," Enzo said. "Now you've involved me."
+Enzo looked down at his coat.
 
-Ichiru laughed and ducked behind Toshu as Enzo scooped snow from beside the path.
+For a moment, nobody moved.
 
-"Wait, wait, he's behind—"
+"Oh, shit." Miles straightened. "Sorry! That was for him!"
 
-Enzo threw. Toshu jumped aside. The snowball burst against the railing.
+Skylar pointed at Miles without looking remotely sorry about anything.
 
-Leo had started laughing.
+Enzo set his bag on the porch.
 
-"Terrible aim!"
+"Good. We've established responsibility."
 
-Enzo looked at him.
+He scooped a handful from the bank beside the steps.
 
-Leo stopped.
+Miles backed away, laughing. "Wait, wait! I said sorry!"
 
-"Oh, shit."
+"An excellent start."
 
-He barely had time to turn before the next one caught him across the back of his coat.
+The snowball caught Miles in the chest. Leo laughed, which drew Enzo's attention to him.
+
+"Oh, no."
+
+Leo barely turned before the next one broke across the back of his coat.
 
 Taiga laughed.
 
@@ -784,41 +790,35 @@ Aaron put his bag down.
 
 "Finally. Something interesting."
 
-"No faces," Masaru said, looking from one side of the lawn to the other. "And stay off the path. It's slippery."
+"No ice," Dennis said. "Stay off the steps."
 
-Ichiru hit him in the sleeve.
+He set his mug on the railing. Skylar was already making another snowball.
 
-For a second, Masaru simply looked at the snow.
-
-Then he set the folder he was carrying on the porch.
-
-Toshu backed away from him.
-
-"Captain, I didn't—"
-
-"I saw."
-
-Masaru bent down.
-
-Taiga stepped off the path as the first proper exchange went past him. Leo and Ichiru had taken the bench nearest the trees. Enzo was retreating toward a low wall with Gav, who kept insisting that he hadn't agreed to anything while helping himself to snow.
-
-Aaron came up on Taiga's left.
+Taiga moved off the path. Aaron came up on his left and nodded toward him.
 
 "That one?"
-
-He meant Ichiru.
 
 "Yeah."
 
 They threw together.
 
-Ichiru dropped behind the bench. Leo took Aaron's snowball on the upper arm and immediately tried to claim he had only been passing through.
+Skylar ducked. Leo, coming around the end of the bench, took Aaron's snowball on the upper arm.
 
-"Then keep going," Aaron called.
+"Hey! I wasn't even involved!"
 
-Taiga scooped up another handful.
+"You are now," Aaron called.
 
-The surface had softened in the sun, but beneath it the snow was cold and loose. He pressed it between his gloves and watched Leo peek over the back of the bench.
+Miles joined Leo behind the bench. Enzo retreated toward a low wall with Gav, who was still holding a leaflet from the library.
+
+"Put that away," Enzo told him.
+
+"I wasn't planning to—"
+
+Snow hit the wall beside them.
+
+Gav put it away.
+
+Taiga scooped up another handful. The surface had softened in the sun, but beneath it the snow was cold and loose. He pressed it between his gloves and watched Leo peek over the back of the bench.
 
 Leo saw him looking.
 
@@ -840,61 +840,59 @@ Taiga laughed again.
 
 "You're already losing from there."
 
-Leo made a fresh snowball, muttering something to Ichiru. Taiga couldn't hear it, but Ichiru's grin widened.
+Leo bent toward Miles and said something Taiga couldn't hear. Miles nodded enthusiastically.
 
-Aaron moved toward the left to get around their cover.
+That seemed bad.
+
+Aaron moved left to get around their cover.
 
 "Watch him," Taiga said.
 
 "I see him."
 
-He did not see Toshu, who had circled behind the benches and hit him between the shoulder blades.
+Miles came out with both hands raised.
 
-Aaron turned.
+"Hold on! We gotta decide who's on which—"
 
-Toshu was already running.
+Leo's snowball hit Taiga across the chest.
 
-"Oh, you're dead."
+Miles immediately dropped back behind the bench.
 
-Taiga watched them go, then turned back just in time to see Leo's arm move.
+Taiga stared at the front of his coat.
 
-Snow burst across his chest.
-
-For a second, he stared at the front of his coat.
-
-Leo stood beside the bench with both hands raised.
+Leo was standing with both hands empty now, laughing.
 
 "Predictable!"
 
 "Fuck you."
 
-Leo was laughing too hard to get out of the way of the next one.
+Taiga's next throw caught him before he could get back down.
 
 After that, keeping track of sides became pointless.
 
-Evan joined Enzo behind the wall and immediately betrayed him when Masaru came around the other side. Gav got hit while trying to explain that snowballs shouldn't count if they broke up before impact. Scott stayed under the porch until Ichiru threw one that landed near his shoes.
+Skylar threw at anyone who turned away from him. Dennis intercepted one meant for Scott, looked down at his sleeve and spent a few seconds making a snowball considerably larger than the others.
 
-He looked down, then up.
+Skylar started backing away.
 
-Ichiru had already hidden.
+"Don't."
 
-Taiga saw Scott quietly collect a handful from the railing. He waited.
+Dennis advanced.
 
-When Ichiru emerged again, Scott's throw caught him cleanly in the chest.
+"That'll kill someone."
 
-The porch erupted.
+"You'll manage."
 
-Scott retreated through the doorway before anyone could congratulate him.
+Skylar ran. Dennis's throw hit him between the shoulders.
 
-Masaru was laughing now. He had snow caught in his hair and one glove had disappeared into his sleeve. Toshu found it for him, handed it back and got hit in the side by Enzo while doing it.
+Miles cheered from behind the bench, then got hit by Aaron while he was standing up.
 
-"Sorry!" Enzo shouted.
+Taiga's next handful fell apart before he could throw it. He took more, packed it harder and looked for Leo.
 
-"You don't mean that!"
+Gone.
 
-"No, but you seem to like saying it!"
+He moved around the end of the bench.
 
-Taiga moved around the end of the bench. Leo was crouching behind it with a small pile of snowballs laid out beside his knee.
+Leo was crouching there with a small pile of snowballs laid out beside his knee.
 
 He looked up.
 
@@ -908,11 +906,11 @@ Leo grabbed at Taiga's coat. Taiga twisted out of his reach and backed away, lau
 
 A snowball broke against Taiga's sleeve. Another went past his ear and landed somewhere behind him.
 
-"Masaru said no faces!"
+"Watch the fucking aim!"
 
 "I missed!"
 
-"That's not better!"
+"That's the problem!"
 
 Leo scooped snow while still moving. Half of it fell out of his hand. Taiga stopped running long enough to hit him low in the coat.
 
@@ -960,9 +958,49 @@ Taiga gathered a handful.
 
 Leo took off before Taiga finished packing it.
 
-By the time Masaru called a stop, Taiga's gloves were wet and there was snow inside one of his boots.
+By the time Taiga got back to the lawn, Miles was calling across it.
 
-Enzo was trying to empty a sleeve. Ichiru had somehow got the back of his hair wet. Toshu had fallen on his ass once and was insisting it hadn't hurt while checking the seat of his trousers.
+"Skylar! Hey! Truce?"
+
+Skylar looked over the wall he'd taken from Enzo.
+
+Miles was carrying a snowball in each hand. He dropped one, held the other up and dropped that too.
+
+"See? Done."
+
+Skylar watched him approach.
+
+Dennis stepped out from behind the porch post.
+
+"Oh, fuck."
+
+Skylar got as far as the bench before Dennis caught his hood and tipped a handful down the back of his jacket.
+
+Miles practically folded in half.
+
+"That's for earlier!"
+
+"That's twice for earlier!"
+
+Dennis let go before Skylar could turn on him.
+
+"Should've stayed for the second one, then."
+
+Scott was standing near the door, shoulders shaking. When Skylar looked up at him, Scott abruptly became interested in his phone.
+
+The fight resumed for another few minutes. Evan abandoned Enzo's wall. Gav claimed that throwing from the porch gave people an unfair height advantage, then went up there himself.
+
+Eventually Dennis called a stop.
+
+"Alright. Enough. Some of us still have to play football tomorrow."
+
+Miles, already winding up another throw, slowly lowered his arm.
+
+Skylar watched him.
+
+Miles dropped the snowball.
+
+"Good choice," Dennis said.
 
 Aaron came over with his coat open.
 
@@ -986,31 +1024,25 @@ Aaron laughed and held up his hands.
 
 He brushed snow off Taiga's shoulder before heading inside with Evan.
 
-Leo was standing near the railing again, breathing hard. His cheeks were red, and loose strands of hair had stuck to the damp edge of his scarf.
+Leo was near the railing again, breathing hard. His cheeks were red, and loose strands of hair had stuck to the damp edge of his scarf.
 
 Taiga went to stand beside him.
 
-For a while, they watched Toshu attempt to shake snow from Ichiru's hood. Every time he got hold of it, Ichiru moved.
+Leo looked at the collar of his coat and started laughing again.
 
-"Hold still!"
+"Don't."
 
-"I am!"
+"I'm trying."
 
-"You're turning!"
+"Try harder."
 
-Leo laughed, quieter this time.
-
-Taiga looked over.
-
-"What?"
-
-"Nothing. Your face when Aaron got you."
+Leo pressed his lips together. It didn't help much.
 
 Taiga shoved his shoulder.
 
-Leo rocked sideways, still smiling.
+For a while, they watched Miles retrieve his gloves from the lawn. Skylar stood on the porch pulling his shirt away from his back, while Dennis answered a question from Gav as though he hadn't done anything.
 
-"You turned around so fast."
+"Your face when Aaron got you," Leo said.
 
 "He called me."
 
@@ -1018,7 +1050,23 @@ Leo rocked sideways, still smiling.
 
 Taiga shook his head. His face hurt a little from laughing. He hadn't noticed how cold his nose had got until they stopped running.
 
-Leo rubbed both gloved hands over his arms.
+Leo was still looking at him.
+
+"What?"
+
+Leo's smile widened.
+
+"Nothing. That was fun."
+
+"You're soaked."
+
+"So are you."
+
+Taiga looked down. The front of his coat was covered in white smears, and one trouser leg was wet almost to the knee.
+
+"Yeah."
+
+Leo rubbed his hands over his arms. His gloves made a faint, unpleasant squelching noise.
 
 "Okay. Now I'm cold."
 
@@ -1026,17 +1074,9 @@ Leo rubbed both gloved hands over his arms.
 
 "I got distracted."
 
-Taiga looked back toward the lawn. There were trenches where they'd run, the broken remains of snowballs across the benches and a deep mark where Toshu had gone down.
+Taiga laughed. Leo smiled at him for another second before looking back toward the lawn.
 
-Leo followed his gaze.
-
-"We made a mess."
-
-"Snow."
-
-"Still."
-
-He took a photograph, then stepped back to get more of the lawn into it.
+There were trenches where they'd run and broken snowballs across the benches. Leo took a photograph, then stepped backward to get more of the damage into it.
 
 Taiga waited.
 
@@ -1060,13 +1100,11 @@ Enzo was already in dry clothes, inspecting a small red mark on his wrist.
 
 Enzo looked at the gloves.
 
-"Can't put those right on top. Masaru said."
+"Don't put those right on top. There are instructions."
 
-"I know."
+He pointed at a little notice above the valve.
 
-"Just checking."
-
-Taiga hung the wet shirt over the back of his chair and sat on the bed.
+Taiga moved them onto the chair.
 
 His phone had filled with replies to the photographs.
 
@@ -1080,7 +1118,7 @@ Enzo stood in the middle of the ruined lawn, both arms spread, snow all over the
 
 Keitaro replied with a laughing face.
 
-Taiga opened the group photograph Toshu had sent afterward. Someone had taken it from the porch near the end of the fight. Aaron was pointing at something out of frame. Taiga stood a few steps behind him, head turned toward Leo.
+There were more photographs in the chat now. Miles had sent them to Leo, including one someone had taken from the porch during the fight. Aaron was pointing at something out of frame. Taiga stood a few steps behind him, head turned toward Leo.
 
 He looked at his own face for a second.
 
@@ -1096,41 +1134,57 @@ Across the room, Enzo dropped onto his bed.
 
 ***
 
-At dinner, Masaru apologized for the snow.
+At dinner, Miles had his phone out between mouthfuls.
 
-"I was going to show you the rest of the campus."
+"Wait, there's another one. Look at Dennis."
 
-"You did," Enzo said. "Very thoroughly."
+He turned the screen toward them.
 
-"Well, most of it. The academic buildings are farther up."
+Dennis stood halfway across the lawn, one arm still extended after a throw. Behind him, Skylar was trying to run and get snow out of his collar at the same time.
 
-"That's alright," Gav said. "We found the pitches."
+"Send me that," Aaron said.
 
-"And the food," Leo added.
+"Already did! Leo's got all of them."
 
-Ichiru reached across Toshu for the bread basket.
+"Delete it," Skylar said.
 
-"Stop apologizing. They had fun."
-
-"I know, but—"
-
-"I had fun," Toshu said.
-
-Masaru looked at him, then laughed.
-
-"Okay. Good."
+Miles smiled and put his phone safely on the other side of his plate.
 
 The dining room was busier now. Players had spread between the tables instead of keeping to their own teams. Someone near the windows was showing Scott a save on his phone. He leaned closer, hair falling across his face, then pointed at something on the screen.
 
-Aaron was talking to Ichiru about Sunday.
+"You graduating this year too?" Dennis asked Evan.
 
-"Striker?"
+They started comparing what they still had left to finish. Miles wanted to know whether there was snow where Leo came from.
 
-"Most of the time."
+"Nope. Santo Domingo."
 
-"You any good?"
+"Oh, wow! So this is still new for you?"
 
-Ichiru looked delighted. "Come find out."
+"New enough that I keep forgetting it goes inside your clothes."
+
+Taiga looked at him.
+
+Leo started smiling again.
+
+Skylar reached for the bread basket.
+
+"My cousins in Cebu keep asking me for snow pictures. Should send them that."
+
+"The one of you?" Miles asked.
+
+"Of him."
+
+He pointed at Taiga.
+
+"Don't," Taiga said.
+
+Skylar grinned.
+
+Miles was still looking through the photographs when Aaron asked Skylar about Sunday.
+
+"You any good up front?"
+
+"Come find out."
 
 "I'm a fullback."
 
@@ -1138,11 +1192,11 @@ Ichiru looked delighted. "Come find out."
 
 Aaron laughed. "Alright. I'll make a special trip."
 
-Toshu shook his head and went back to eating.
+Beside Taiga, Leo yawned.
 
-Leo yawned beside him.
+He'd moved around the table when someone left, bringing his plate and the rest of Miles's conversation with him.
 
-Taiga looked over. "You going to survive?"
+"You going to survive?" Taiga asked.
 
 "Probably."
 
@@ -1151,8 +1205,6 @@ Taiga looked over. "You going to survive?"
 "For about twenty minutes. Then someone started discussing his sandwich."
 
 Enzo raised a finger. "Legitimate concerns."
-
-Leo yawned again before he could answer.
 
 "What time did you go to bed?" Evan asked.
 
@@ -1166,17 +1218,17 @@ Taiga gave him a look.
 
 "Thank you. I worked hard."
 
-After dinner, Toshu asked if anyone wanted to see the common room. Enzo had already heard there were cards.
+After dinner, Miles asked who was coming to the common room. Enzo had already heard there were cards.
 
 Most of them followed.
 
 ***
 
-The room occupied the back corner of the lodge. Low couches faced a broad stone fireplace, with two long tables farther from the heat. There was an upright piano beneath a cover near the windows and a shelf of board games with several boxes held shut by elastic bands.
+The room occupied the back corner of the lodge. Low couches faced a broad stone fireplace, with two long tables farther from the heat. A shelf of board games stood beneath the windows, several boxes held shut by elastic bands.
 
 Someone had already lit the fire.
 
-Taiga took the end of a couch and stretched his feet toward it. The warmth reached his socks almost immediately. He hadn't realized how much he still wanted that.
+Taiga took the right-hand end of a couch and stretched his feet toward it. The warmth reached his socks almost immediately. He hadn't realized how much he still wanted that.
 
 Leo sat beside him.
 
@@ -1184,33 +1236,29 @@ Leo sat beside him.
 
 "Yeah."
 
-Across the room, Ichiru was opening a deck of cards. Toshu pulled a low table between the couch and two armchairs. Enzo moved a bowl of pretzels onto the end table beside Taiga.
+Skylar found a deck of cards on the shelf. Miles pulled a low table between the couch and two armchairs, while Enzo set a bowl of pretzels on the end table beyond Taiga's elbow.
 
-"What are we playing?"
+"What are we playing?" Leo asked.
 
-"Cheat," Ichiru said.
+"Bullshit," Skylar said.
 
 Gav sat in an armchair. "Which rules?"
 
-"The normal ones."
+Skylar looked at him.
 
-"That doesn't help."
+"Ascending ranks? Can you pass? Some people let you skip a rank if—"
 
-They spent several minutes establishing whose version counted as normal. Evan joined them halfway through, listened to the argument and asked whether they could start before breakfast.
+"No skipping," Dennis said, taking the other chair. "Jokers out."
 
-Toshu dealt.
+Miles started dealing.
 
-"You put them down face down," he explained to Leo, "and say what you've played. If someone thinks you're lying, they call you. Then we turn them over."
+"I like how that's the only rule everyone agrees on."
 
-"And whoever's wrong takes the pile," Leo said.
+"We haven't agreed yet," Gav said.
 
-"Yeah!"
+Evan joined them halfway through the discussion, listened for a minute and asked whether they could start before breakfast.
 
-"So this is a game about making your friends distrust you."
-
-Ichiru leaned forward. "Exactly."
-
-Taiga picked up his cards.
+They settled it.
 
 For the first few turns, everyone behaved reasonably. Then Enzo put down three cards and announced a pair.
 
@@ -1226,13 +1274,13 @@ Enzo waited.
 
 "Fine. Three."
 
-"Cheat."
+"Bullshit."
 
 Enzo turned them over and started laughing.
 
-Toshu covered his face.
+Miles leaned forward to look.
 
-"You're supposed to keep a straight face!"
+"Dude! None of those are right!"
 
 "I was correcting the paperwork."
 
@@ -1244,59 +1292,47 @@ Leo leaned against the back of the couch, laughing. The fire had put a little co
 
 Taiga returned to his cards.
 
-Ichiru was much harder to catch. He talked through most of his turns, commenting on people's hands, offering advice nobody had asked for and occasionally putting down cards before the previous player had finished.
+Skylar played quickly. Barely glanced at his hand, put something down and looked straight at whoever seemed most likely to challenge him.
 
-Toshu called him on almost everything.
+Miles called him twice.
 
-Sometimes he was right.
+Wrong both times.
 
-Most of the time, Ichiru just smiled and handed him the pile.
+"The grin," Miles said, collecting the second pile. "I thought you were trying not to laugh!"
 
-"You're doing that on purpose," Toshu complained.
+"I was."
 
-"Playing?"
+"Oh, you're such an ass."
 
-"Being annoying."
+He sorted his cards, still smiling.
 
-"You keep believing me!"
+Dennis was harder to read. He kept talking to Evan through his turns, putting cards down without breaking off the conversation. Taiga called him once and immediately regretted it.
 
-"I don't believe you!"
+"Two eights," Dennis said.
 
-"Then stop being wrong."
+"I can see that."
 
-Toshu looked at the cards he'd just picked up.
+"Just checking."
 
-Taiga could see him trying to work out whether that made sense.
+Skylar glanced at Taiga's growing hand.
 
-Masaru came over carrying tea. Toshu shifted to make room for him in the other armchair.
+Taiga turned the cards away before he could say anything.
 
-"How's it going?"
+Across the table, Gav had started counting under his breath. Miles watched him for a few seconds, then looked down at his own cards.
 
-"Badly," Toshu said.
+"Oh."
 
-Ichiru pointed at the cards in Toshu's hands.
+"Don't help him," Skylar said.
 
-"He's winning."
+"I wasn't!"
 
-Masaru laughed and set the mugs down.
+"You made a noise."
 
-"Do you want me to take over for a bit?"
+"I'm allowed to think!"
 
-"No! I can do it."
+Taiga put down his last cards. Enzo called him.
 
-He put down two cards.
-
-Ichiru immediately leaned forward.
-
-Toshu froze.
-
-Taiga looked from one to the other. "You haven't even said what they are."
-
-"Oh. Right."
-
-They got through most of a game before Taiga put down his last cards. Enzo called him.
-
-Taiga turned them over.
+He turned them over.
 
 Enzo groaned.
 
@@ -1310,7 +1346,7 @@ Enzo groaned.
 
 Taiga smiled at him.
 
-Leo shifted beside him and leaned across to reach the pretzels. His left palm came down on Taiga's thigh, just above the knee.
+Leo set his cards on the cushion and leaned across him to reach the pretzels. His left palm came down on Taiga's thigh, just above the knee.
 
 Taiga went still.
 
@@ -1326,55 +1362,79 @@ Taiga looked down.
 
 Then at Leo.
 
-Leo was holding the pretzel bowl out toward him.
+Leo held the bowl toward him.
 
 For a second, neither said anything.
 
-Taiga took one.
+Taiga took a pretzel.
 
 "Thanks."
 
 Leo smiled a little and put the bowl on the table.
 
-He kept his other hand where it was while Toshu made an increasingly unconvincing argument about his next turn. When Ichiru called him, Leo laughed, fingers moving briefly against Taiga's thigh.
+Miles was explaining why he hadn't called Dennis on the previous turn. Skylar pointed at the pile.
 
-Taiga watched Toshu turn over his cards.
+"Still your go."
 
-All wrong.
+"Oh, right!"
 
-The room erupted. Toshu dropped his head back against the chair.
+He put down two cards.
 
-"Why do I keep doing that?"
+Taiga watched him instead of looking at the hand on his thigh again.
 
-"Because you announce it with your whole face," Aaron said from behind him.
+"Bullshit," Enzo said.
+
+Miles turned them over.
+
+Both wrong.
+
+He dropped his head back against the chair.
+
+"Aww, come on! I thought I had that one!"
+
+"You announce it with your whole face," Aaron said from behind him.
 
 "I do not!"
 
-Aaron imitated him. Badly, but recognizably enough that Toshu started laughing too.
+Aaron imitated him. Badly, but recognizably enough that Miles started laughing too.
 
-Leo finally lifted his hand to catch a card Enzo tossed at him.
+When Leo's turn came, he lifted his hand to pick up his cards.
 
 Taiga let out a slow breath through his nose and reached for another pretzel.
 
-They started again.
+They played on.
 
-This time, Masaru took Evan's place. He said sorry when he made someone pick up the pile and looked so apologetic about it that Taiga believed him on the next turn.
+Miles got quieter as his hand grew smaller. Taiga watched him rearrange the same few cards, glance at the pile and decide against saying anything.
 
-Mistake.
+Dennis put down two cards.
 
-"Huh," Taiga said, looking at the cards.
+"Queens."
 
-Masaru gave him an awkward smile.
+Miles looked up.
 
-Ichiru slapped the arm of his chair.
+"Bullshit!"
 
-"See? Captain's the worst one here!"
+Dennis paused.
 
-"I'm playing properly!"
+Miles spread three queens on the table.
 
-"That's what's scary."
+For a second, everyone just looked at them.
 
-The second game was louder. People came over to watch, stayed for a few turns and moved on again. Scott settled near Gav without joining in. Somewhere behind them, a board-game argument had reached the instructions.
+Then Enzo started laughing.
+
+Dennis turned over a four and a nine.
+
+"Fair enough."
+
+"Oh, I got you!" Miles pushed the pile toward him. "I finally got you!"
+
+"You did."
+
+Skylar leaned back and laughed while Dennis collected the cards. Miles remained delighted through the next three turns, including the one where Skylar made him pick up half of them again.
+
+The second game was louder.
+
+People came over to watch, stayed for a few turns and moved on. Scott settled near Gav without joining in. Somewhere behind them, a board-game argument had reached the instructions.
 
 Leo played more slowly now. Once, Taiga had to point at the table before he realized it was his turn.
 
@@ -1410,27 +1470,23 @@ He moved toward the other end of the couch while Aaron pulled up a chair. Taiga 
 
 Taiga sat at the vacated end and picked up his new hand.
 
-Toshu finally won a round.
+Across from him, Dennis was listening to Gav explain why counting cards only got you so far when everyone could lie. Skylar put down his last three cards during the explanation.
 
-Nobody believed his last play. That was what made it work. Ichiru called him with complete confidence, turned over the cards and stared.
+"You're out?" Miles asked.
 
-Toshu sat up.
+Skylar nodded.
 
-"Ha!"
+"No, hold on. What were they?"
 
-Ichiru looked at him.
+"Too late."
 
-"HA!"
-
-"Alright! You won!"
-
-Toshu got up and went around the table to show Masaru, who had watched the entire thing.
+Miles appealed to Dennis, who had been watching the whole thing and refused to help.
 
 Taiga turned toward Leo.
 
 His eyes were closed.
 
-He waited for him to laugh at Toshu's victory, but Leo didn't move. One hand lay beside his face. The other had slipped between the cushions. His mouth was slightly open.
+He waited for him to laugh at the argument, but Leo didn't move. One hand lay beside his face. The other had slipped between the cushions. His mouth was slightly open.
 
 Already?
 
@@ -1440,17 +1496,17 @@ A strand of hair moved when he breathed out. With his cheek against his sleeve, 
 
 Taiga smiled.
 
-Then he looked at the bare armrest beneath Leo's head.
+Then he looked at the way Leo had folded his arm beneath his head.
 
 There was a spare cushion in the chair beside the fireplace. He got up, took it and went back to the couch.
 
-Leo stirred when Taiga slid it beneath his head. His eyes opened a little.
+Leo stirred when Taiga eased it beneath his head. His eyes opened a little.
 
 "Here."
 
 "Mhm."
 
-He shifted onto the cushion and went still again.
+He pulled his arm free, settled onto the cushion and went still again.
 
 Taiga left his mug on the end table and sat down.
 
@@ -1458,47 +1514,25 @@ Aaron was dealing another hand.
 
 The games broke up gradually.
 
-Gav left to speak to one of Pinetree's midfielders. Ichiru tried to persuade Toshu to play something else after Toshu beat him again, then claimed that the entire evening had been practice. Enzo went to the kitchen with a stack of mugs and returned carrying biscuits.
+Skylar went to the kitchen with Enzo and returned eating biscuits. Miles joined a game at the other table, pulled up a chair for Evan and immediately began explaining what he'd missed.
 
-Taiga stayed where he was.
+Dennis stayed with Scott and Gav. Taiga heard something about the wind on the lower pitch, then Scott asking whether it changed much during matches.
 
-He was warm. His legs had stopped aching from the bus. There was nowhere he needed to be for the next hour.
-
-Near the window, Toshu lifted the cover from the piano.
-
-"Captain, can you play something?"
-
-Masaru looked up from collecting cards.
-
-"Oh, I don't know. People are talking."
-
-"They can still talk."
-
-"You play?" Evan asked.
-
-"A bit."
-
-"He's really good," Toshu said.
-
-Masaru went a little red.
-
-"That's not—I've just been doing it a long time."
-
-Ichiru dropped the cards back into their box.
-
-"Then go do it."
-
-Masaru looked around, apparently checking whether anyone minded, then went over. He sat, tried a few keys and adjusted the stool.
-
-The tune was familiar enough that Taiga thought he should know it. He couldn't remember the name.
-
-Toshu sat nearby and listened. Ichiru interrupted after a minute to request something faster. Masaru kept playing, smiling down at the keys.
-
-Conversation continued around the room.
-
-Enzo and Evan argued quietly about whether the biscuits were homemade. Someone from Pinetree put another log on the fire. Taiga checked the time, then put his phone away without opening anything.
+Taiga listened for a while.
 
 Leo slept through all of it.
+
+The fire settled lower. Someone added another log, sending sparks up behind the screen. Near the windows, Miles laughed at something Evan had said.
+
+Taiga checked the time.
+
+He could go upstairs. Unpack properly, charge his phone, do the reading he'd downloaded before they left.
+
+He put the phone away.
+
+His feet were warm. There was still tea in his mug.
+
+He stayed.
 
 ***
 
@@ -1536,7 +1570,9 @@ Gav took the mug from the table. "Come on."
 
 Leo stood and stretched, wincing when his back straightened. He looked down at the cushion, then put it against the armrest.
 
-Taiga got his phone and followed them to the stairs.
+Miles called good night from the other table. Skylar lifted a hand without looking up from the cards he was putting away. Dennis was checking under a chair for someone's missing room key.
+
+Taiga got his phone and followed Gav and Leo to the stairs.
 
 At the landing, Leo turned toward him.
 
@@ -1562,21 +1598,18 @@ Outside the window, the path lights lit a narrow strip of snow beneath the trees
 
 His phone buzzed.
 
-**Leo:** toshu says he won???
+**Leo:** miles says i missed everything
 
-Taiga laughed.
+Taiga smiled.
 
-**Taiga:** twice
+**Taiga:** accurate
 
-**Leo:** damn
-**Leo:** i missed character development
+**Leo:** apparently dennis is worse than skylar
 
-**Taiga:** you missed everything
+**Taiga:** correct
 
-**Leo:** unfair
+**Leo:** okay
 **Leo:** rematch tomorrow
-
-He smiled.
 
 **Taiga:** go to sleep first
 
