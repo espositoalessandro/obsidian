@@ -76,7 +76,7 @@ Enzo pulled out his phone and began typing. A couple of minutes later, he said:
 
 "Okay, Yuuto is coming out."
 
-Shortly after, a guy in an open padded coat emerged from the athletes' entrance of the arena. White dyed hair, bare knees and volleyball shorts.
+Shortly after, a guy in an open padded coat emerged from the athletes' entrance of the arena. Hair dyed white, bare knees and volleyball shorts.
 
 "Enzo! My dude, you actually brought everybody!"
 
@@ -96,7 +96,7 @@ A guy emerged from behind Yuuto. Dark hair, glasses and a pale blue jacket zippe
 
 The voice settled it.
 
-"Aren't you in the student council?" Taiga asked.
+"Aren't you on the student council?" Taiga asked.
 
 "Yes. I'm the president."
 
@@ -106,7 +106,7 @@ Right. The speech. The one Taiga hadn't listened to.
 
 "I-It's no big deal. I'm just a regular student like you," Avan said.
 
-"Yyyyeah." Yuuto patted his shoulder. "He's a bit stiff at first, but don't worry he eventually loosens up."
+"Yyyyeah." Yuuto patted his shoulder. "He's a bit stiff at first, but don't worry, he eventually loosens up."
 
 "That's not true. Both things."
 
@@ -299,7 +299,7 @@ On Friday afternoon, Zoe arrived at the library carrying a laptop, a sandwich an
 
 Taiga looked up. "Didn't have time for lunch?"
 
-"Don't let me start about it. By time i finished [something] the mess hall had already closed."
+"Don't get me started. By the time I got there, the mess hall had already closed."
 
 "Sounds terrible," Leo said.
 
@@ -327,7 +327,7 @@ Taiga read it. She was right, annoyingly.
 
 "Fine."
 
-"And yours?
+"And yours?"
 
 Zoe pulled up a photograph of a notebook page. Half the calculation was squeezed into the margin beside a drawing of a cat with a sword.
 
@@ -337,12 +337,12 @@ Okay, not again. Leo was simply checking the small phone screen.
 The proof was correct. Taiga checked it twice. Then he returned the phone and went back to his notebook.
 
 Leo's knee stayed against his.
-Still. Leo was a champion in occupying other people's space. 
-Taiga shook his head. Although, twenty seconds passed and he still hadn't moved his leg. 
+Still. Leo was a champion at taking up other people's space.
+Taiga shook his head. But twenty seconds passed, and he still hadn't moved his leg.
 
 What if...
 
-Taiga shifted his foot a little, taking his knee away. Barely a couple of centimeters. He kept looking at the notebook. 
+Taiga shifted his foot a little, taking his knee away. Barely a couple of centimeters. He kept looking at the notebook.
 Nothing happened for a few seconds and Taiga relaxed.
 
 Then Leo adjusted his leg. The side of his knee came back against Taiga's.
@@ -362,11 +362,11 @@ Fuck.
 
 "Right, sorry."
 
-Taiga went back at his notes and glanced at Leo. He had no helpful expression whatsoever.
+Taiga went back to his notes and glanced at Leo. He had no helpful expression whatsoever.
 
 Had he moved because Taiga had moved? Or because he'd been leaning forward? His foot could have slipped. People adjusted their legs. Then why was it still there? Didn't he notice it?
 
-"Hey AG," Leo said softly.
+"Hey, AG," Leo said softly.
 
 Taiga looked at him too quickly.
 
@@ -378,15 +378,15 @@ It was still beside Taiga's notebook. He passed it over.
 
 Taiga returned to question four. His ears felt hot.
 
-Minutes passed, and an uncomfortable question began crawling in his mind: what if Leo was doing that on purpose?
+Minutes passed, and an uncomfortable question began creeping into his mind: what if Leo was doing that on purpose?
 Every answer he tried made his stomach tighten more and more.
 
 Then, doubt kicked in: what if Leo wasn't? What if he was just reading too much into it?
 
-This was getting out of hand. 
-But then, why didn't Taiga just move the leg himself? He had space. He could retract from contact anytime.
+This was getting out of hand.
+But then, why didn't Taiga just move his own leg away? He had space. He could pull away whenever he wanted.
 
-Instead, he glanced from his notes at him as he pressed his knee lightly against Leo’s. 
+Instead, he glanced up from his notes at Leo as he pressed his knee lightly against Leo's.
 For a second Leo stopped writing.
 
 Oh, fuck.
@@ -585,7 +585,7 @@ Leo tried a smile. "What? It's a game. Just one game."
 "Taiga, I'm fine. Alright?"
 
 Taiga stopped with his mouth half open.
-The tone caught him off-guard. Sharper than usual, even though he still had that weird half-smile on his face.
+The tone caught him off guard. Sharper than usual, even though he still had that weird half-smile on his face.
 
 "Alright."
 
@@ -595,7 +595,7 @@ Leo's face changed instantly. Worry washed away the fake smile.
 
 "You're good."
 
-Leo looked away. After a while, he said "...I'm not. I'm pissed."
+Leo looked away. After a while, he said, "...I'm not. I'm pissed."
 
 Taiga snorted lightly. "Yeah, no shit."
 
@@ -638,23 +638,23 @@ He had already started towards the University Center.
 
 The Tuesday after that, Owen walked in, connected his laptop and looked at the room.
 
-“No random pairs today, experiment's over.”
+"No random pairs today, experiment's over."
 
 Leo looked at Taiga, who had already moved his laptop into the space between their seats.
 
-“What?” Taiga said.
+"What?" Taiga said.
 
-He smiled. “Nothing.”
+Leo smiled. "Nothing."
 
-Owen started explaining the assignment. Taiga opened the starter repository. 
+Owen started explaining the assignment. Taiga opened the starter repository.
 
-“Requirements first.”
+"Requirements first."
 
-“I know.”
+"I know."
 
 Taiga shifted the laptop back to the middle.
 Leo looked at him, then at the screen. His smile widened.
 
-“Okay. Let's go.”
+"Okay. Let's go."
 
 Thirty seconds later, they were arguing about a helper function.
