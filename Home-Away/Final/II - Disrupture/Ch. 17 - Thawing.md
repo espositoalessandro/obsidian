@@ -135,3 +135,6 @@ Leo sat back. "Now I get why you like this."
 "I can still appreciate it from a safe distance."
 
 Taiga shook his head and snapped a photo of the view.
+
+***
+
