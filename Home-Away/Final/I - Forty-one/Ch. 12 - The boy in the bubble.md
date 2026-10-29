@@ -459,6 +459,7 @@ Taiga, on the other hand, hadn't reached the part where he learned how to stop.
 "SHIT—"
 
 He went straight into Leo.
+
 Leo's arms came around him before either of them could fall. Taiga grabbed the front of his jacket.
 
 "Woah."
@@ -576,7 +577,7 @@ Taiga smiled. Now that he'd heard Leo speaking his native language, the contrast
 
 "How come I've never heard you speak Spanish with Enzo?"
 
-"We try not to when we're with others. Sometimes it's tempting, especially when I'm tired. But I don't really like excluding others."
+"We try not to when we're with people. Sometimes it's tempting, especially when I'm tired. But I don't really like excluding others."
 
 "Fair enough. Did you go to a bilingual school or something?"
 
@@ -612,46 +613,30 @@ Leo nodded. "You said you stayed a whole year there before Olympus, right?"
 
 "Pretty much."
 
-"What were you actually doing all year?"
+"Why? Isn't that a summer camp?"
 
-"I volunteered. Last year camp was pretty much broke. Somehow we managed to get a sponsor and we started fixing and expanding the place."
+"I volunteered to help. Last year camp was pretty much broke. Somehow we managed to get a sponsor and we started fixing and expanding the place."
 
-"How did you get a sponsor?"
+He told Leo about Felix's dad, the fundraising and how Keitaro managed to get his journal published.
 
-"He was the father of one of our scout friends. It was mainly Keitaro who convinced him, though."
-
-"How...?"
-
-"He had been writing a journal for the whole term. The guy, Clermont, saw it and decided it was worth publishing."
-
-"Wait. Clermont? Like, are you talking about William Clermont?"
-
-"Yeah. You know him?"
-
-"No fucking way. I've read a couple of his books, they're dope."
-
-"Well, he published a book from Keitaro's journal. That helped as well, since Keitaro donated all his royalties to the camp."
-
-"That's insane. I mean, getting published by Clermont? And he donated everything to the camp?"
+"That's insane. I mean, getting published by Clermont? And he donated everything to the camp?" Leo said.
 
 "Yeah, he's pretty intense. It was a shame that I—"
 
 He stopped. Nope, definitely not.
 
-Taiga cleared his throat. "Anyway, long story short, I stayed with Yoichi after the term to help with the renovations."
+Taiga cleared his throat. "Anyway, long story short, I stayed after the term to help with the renovations."
 
-"If you don't mind me asking, why did you stay?"
+Leo nodded. "Mind if I ask you why? I mean, it must've been a cool place, but... deciding to volunteer for a whole year?"
 
 Taiga turned to look at the people on the rink.
 
-"I..." He exhaled through his nose. "Let's just say that during last year's term I wasn't exactly in a good place mentally. I fucked up a thing or two and the camp helped me through it. I felt like I wanted to stay there and do something in return."
+"I..." He exhaled through his nose. "Let's just say that during last year's term I wasn't exactly in a good place, mentally. I fucked up a thing or two and the camp helped me through it. I felt like I wanted to stay there and do something in return."
 
 Snow landed on the edge of Leo's scarf and disappeared into the fabric.
 Taiga watched it melt.
 
-"So... why leave?"
-
-"Because I realized that I wasn't staying there because I wanted to. Well, I actually wanted to, but mostly because of guilt. This summer, I saw everyone coming back after a whole year at college. They went on with their lives, while I was still stuck."
+"Then I realized that I wasn't staying there because I wanted to. Well, I actually wanted to, but mostly because of guilt. This summer, I saw everyone coming back after a whole year at college. They went on with their lives, while I was still stuck."
 
 Taiga took a drink from his chocolate.
 
@@ -688,7 +673,6 @@ Leo had snorted at that. "That feels familiar."
 "Yeah. You're both dangerous with open flames, apparently."
 
 The conversation wandered for a while.
-
 At some point Taiga checked his phone: it was after eight.
 
 "Damn."
@@ -718,7 +702,7 @@ Leo nodded.
 
 "You?"
 
-"I was considering the 4th or the 5th, depending on the flights. But it could just as well be the 3rd or the 6th."
+"I was considering the 4th or the 5th, depending on the flights."
 
 "Right."
 
@@ -740,11 +724,11 @@ They went silent for a moment. For some reason, Taiga could feel the same uneasi
 
 "Text me when you get to camp. I want to see pics."
 
-"Tch. Sure."
+"Don't count on that."
 
 "I'll make sure to remind you."
 
-"And there you go."
+"Of course."
 
 Leo chuckled. He put his hands in his pockets.
 

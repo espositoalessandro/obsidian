@@ -4,7 +4,7 @@ Monday morning was pale and humid. Rain was definitely in the air.
 October finally managed to wash away what was left of the heat of the summer.
 
 Taiga breathed in the cold air as he walked towards the Lecture Hall. Finally, that walk didn't require his body to release coolant.
-Nora was already in their usual row when Taiga reached Political Institutions. She had his seat beside her empty and a paper cup balanced on top of her notebook.
+Nora was already in their usual row when Taiga reached Political Institutions. She'd left his seat beside her empty and had a paper cup balanced on top of her notebook.
 
 "You're late."
 
@@ -127,7 +127,7 @@ She smiled.
 "Oh, right. Uhm, what was his name... Ah, Leo, right?"
 
 An image flashed without warning in his mind.
-Showers. Heat. A door opening.
+Showers. Heat. The door opening.
 
 Taiga briefly closed his eyes. Not now.
 
@@ -140,8 +140,7 @@ Leo sat beside her with his laptop open and looked up as well, raising one arm.
 
 "Hey, Taiga!"
 
-He used the same volume he used during soccer.
-Zoe grabbed his sleeve and pulled his arm down.
+He used the same volume he used during soccer. Zoe grabbed his sleeve and pulled his arm down.
 
 Nora glanced at Taiga.
 
@@ -161,25 +160,13 @@ Zoe then held out her hand.
 
 "Nora."
 
-Zoe pointed at the two of them.
-
-"Are you...?"
-
-Taiga and Nora immediately answered together.
-
-"Classmates."
-
-Zoe giggled.
-
-"Alright."
-
 "So, what's the damage?" asked Taiga.
 
 Zoe pushed her laptop toward him.
 
 "Please tell me this is fixable."
 
-Nora leaned.
+Nora leaned closer.
 
 "What are you helping with?"
 
@@ -189,7 +176,7 @@ Nora frowned.
 
 "Who's Git?"
 
-Taiga elaborated for a second.
+Taiga considered that for a second.
 
 "Basically, it keeps track of changes to files. Makes it easier for multiple people to work on the same project without overwriting each other."
 
@@ -199,7 +186,7 @@ Taiga elaborated for a second.
 
 "How do you know it?"
 
-"I've tinkered with it over the summer."
+"Another scout taught me this summer."
 
 Nora raised an eyebrow.
 
@@ -210,7 +197,7 @@ Taiga looked at the Git history and stopped.
 
 "What did you do?"
 
-"That tone is unnecessary."
+"That tone is unnecessary," Zoe said.
 
 "You have branches called `final`, `final-new`, `final-real`, `final-fixed` and `final-fixed-2`."
 
@@ -220,13 +207,7 @@ Nora looked at the screen.
 
 "Absolutely not," Taiga answered.
 
-"Then why?"
-
-Zoe looked at her.
-
-"Why what?"
-
-"Why are they all called final?"
+"Then why are they all called final?"
 
 "They were final when I made them."
 
@@ -260,7 +241,7 @@ Leo rolled his chair closer.
 "That is actually impressive."
 
 Taiga took a deep breath, then started working on it.
-It took almost an hour, several searches on Stack Overflow and a couple of swears.
+It took almost an hour, several searches on StackOverflow and a couple of swears.
 Eventually, he reset one branch, preserved the useful commits and rebuilt the clean line.
 Zoe ran the project and it worked.
 
@@ -297,6 +278,7 @@ Okay. Leo was objectively attractive. So what?
 ...Fine, hot.
 
 Still, irrelevant. Plenty of hot guys out there. Leo was simply the easiest option his brain could provide when it needed one.
+
 End of story.
 
 His phone buzzed on the table. Taiga stared at the screen without picking it up.
@@ -310,7 +292,7 @@ Taiga froze and his heart dropped several meters.
 He slowly picked it up and opened it.
 
 *Dear Mr. Akatora,
-your final six-week developmental review is scheduled for Thursday at 17:30.
+Your final six-week developmental review is scheduled for Thursday at 17:30.
 Best regards,
 Olympus Soccer Office*
 
@@ -328,13 +310,13 @@ Someone tapped his shoulder. Nora had her head tilted and was looking at him.
 
 She raised an eyebrow. Leo and Zoe looked concerned as well.
 
-"I got the Apollo evaluation this Thursday."
+"I have the Apollo evaluation this Thursday."
 
 Nora frowned.
 
 "The thing where they decide if you stay?"
 
-"Basically."
+"I guess."
 
 Leo made a small face.
 
@@ -356,7 +338,7 @@ Taiga looked at him.
 
 "Why?"
 
-"Well, mostly because Mercer isn't correcting him much lately."
+"Well, mostly because coach isn't correcting him much lately."
 
 "He screamed at him last session."
 
@@ -385,7 +367,7 @@ That made him careful in the worst possible way.
 He checked every instruction at least three times before adding even a single drop and compared the result twice with the calculations.
 One of the guys overshot the first endpoint and Taiga almost swore. He managed to contain himself and let him reset the flask.
 
-While he waited, he turned to look at table three. Leo had carefully cuffed his sleeves and Professor Seth was holding a flask with a very bright purple liquid inside. Zoe was insisting that it was Leo's fault because "one drop more just to be sure" wasn't a correct approach in chemistry.
+While he waited, he turned to look at table three. Leo had carefully cuffed his sleeves and Seth was holding a flask with a very bright purple liquid inside. Zoe was insisting that it was Leo's fault because "one drop more just to be sure" wasn't a correct approach in chemistry.
 
 Luckily, nobody at his table fucked up badly enough to affect the overall result. But the whole class left Taiga exhausted: he kept checking everything, even the results that the others had already verified.
 
@@ -469,7 +451,7 @@ Taiga shrugged.
 
 "His alarm system counts as a daily murder attempt."
 
-"I reduced it on your request."
+"I reduced it at your request."
 
 "Yeah. To four. It went from absurdly insane to insane."
 
@@ -573,7 +555,7 @@ Maya, on the other hand, kept eating, glancing at him from time to time.
 
 Taiga looked again at the weekly schedule. His eyes landed on "Practice" before the circled 5:30 slot.
 
-Practice had become as routine as classes. Delete every "Practice" from the schedule, and half his life at Olympus disappeared with it.
+Practice had become as routine as classes. Delete every "Practice" from the schedule, and half his life at Olympus would disappear with it.
 
 He exhaled.
 
@@ -612,7 +594,7 @@ Taiga laughed and went back to his food.
 Eventually, Thursday arrived. Way too quickly.
 
 During Foundations of Computer Science lab, he barely spoke. He mostly listened and tried writing code that ended up making no sense at all.
-Every time he ran it, his eyes went to the clock. With every minute passing, his stomach felt heavier.
+Every time he ran it, his eyes went to the clock. With every passing minute, his stomach felt heavier.
 
 At 4:30, Professor Rao dismissed the class. Taiga slowly packed his laptop and started walking towards the administrative buildings.
 
@@ -629,7 +611,7 @@ For a brief moment, he wished Eduard was there to smack some sense into him agai
 
 Taiga looked at the time: 5:07. He took a deep breath and began walking towards the administrative buildings.
 
-At 5:24, he was sitting outside Mercer's office. A developmental player was already inside, while the one Leo said was probably being kicked was sitting a couple of chairs away from him.
+At 5:24, he was sitting outside Mercer's office. Number forty was already inside, while forty-three was sitting a couple of chairs away from him.
 He seemed extremely relaxed: legs crossed, scrolling his phone, chewing gum.
 
 Taiga couldn't tell if he simply didn't care or if he was actually confident.
@@ -638,7 +620,7 @@ At 5:28, the guy came out of Mercer's office and called for Taiga.
 
 "Taiga? Mercer said to go in."
 
-The world reduced to that single door. He slowly stood and walked towards it. The guy who'd just come out was smiling.
+The world narrowed to that single door. He slowly stood and walked towards it. The guy who'd just come out was smiling.
 
 "It's easier than it sounds. Relax."
 
@@ -674,6 +656,8 @@ The tension left Taiga so quickly it almost made him dizzy.
 Mercer picked up the sheet.
 
 "You've improved faster than I expected. Especially since the provisional review. You actually used the information I gave you."
+
+A brief pause followed.
 
 "I recommended that you stay. The Soccer Office approved it."
 
@@ -795,7 +779,7 @@ Friday afternoon, Enzo was waiting beside Taiga's locker with the expression of 
 
 Taiga stopped. Enzo folded his arms.
 
-"As a newly welcomed member of Apollo, you are now required to undergo the traditional initiation rite."
+"As a newly welcomed member of Apollo Soccer Team, you are now required to undergo the traditional initiation rite."
 
 Taiga stared at him.
 
@@ -931,9 +915,9 @@ Right. That.
 Taiga looked at the field. The sun was setting behind the bleachers, covering everything in an orange light.
 
 He thought about his locker keys. Apparently, a group chat he couldn't escape. His name on the official Apollo roster, with another training session already sitting on next week's schedule.
-
 Then he looked down at the shirt.
-His shirt. His number. Not borrowed anymore.
+
+His shirt. His number.
 
 "Yeah, I'll think about it."
 
