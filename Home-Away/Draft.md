@@ -1042,37 +1042,69 @@ Taiga smiled and went back to finding his clean socks.
 
 ***
 
-The second random lab had given Taiga Chloe, who liked writing tests before touching the implementation. The third gave him a guy who put comments on almost every line.
+In the second random lab, Taiga ended up beside a guy from the front row who wrote comments before code. Leo disappeared somewhere behind him with another assigned partner.
 
-Neither arrangement caused any real problems.
+His partner had already written out the cases they needed to handle.
 
-On the third Tuesday, Leo laughed from the other side of the room. Taiga looked over before remembering he had no way of knowing what was funny.
+"Do we need all that?" Taiga asked.
 
-His partner asked him to check something. He turned back to the screen.
+"It helps me keep track. You can start if you want."
 
-Later, his phone lit up under the desk.
+Taiga read through the list. Empty queue, one item, several items. Fine. At least they wouldn't have to keep scrolling back to the requirements.
 
-**Leo:** this guy uses camelCase for constants
+They started working. Later, his phone buzzed under the desk.
+
+**Leo:** this guy uses camelcase for constants
 
 **Taiga:** report him
 
 **Leo:** finally some institutional support
 
-Taiga locked the phone and returned to the assignment.
+Taiga locked the phone and went back to the assignment.
 
-Ten minutes later, he sent:
+His partner pointed at the screen. "If you take the last one out, what happens when you add another?"
 
-**Taiga:** mine comments closing braces
+They tried it. The new item went into the queue. Getting it back out took another six minutes and a correction Taiga should have spotted earlier.
 
-**Leo:** what do they say
+He left the comments alone.
 
-**Taiga:** end if
+After a while, he reached for his phone.
 
-**Leo:** thank god. i was worried it continued forever
+**Taiga:** this guy puts the opening curly brace of the function on a new line
 
-Taiga covered his mouth. His partner looked over.
+**Leo:** he needs therapy
 
-"Nothing. Keep going."
+Taiga chuckled.
+
+"You found it?" his partner asked.
+
+"No. Sorry. Someone being an idiot."
+
+He put the phone face down and turned back to the screen.
+
+They finished with enough time to run the tests again. While his partner uploaded his submission, Taiga checked his messages.
+
+**Leo:** coffee after?
+
+**Taiga:** yes
+
+**Leo:** good because i need to complain out loud
+
+By the time Taiga had packed, Leo was coming down the aisle with his bag hanging open.
+
+"The comments guy?" he asked quietly.
+
+"Useful, actually."
+
+"So you're keeping him?"
+
+Taiga reached past him and pulled the zip shut before his notebook fell out.
+
+"Apparently Owen's making that decision."
+
+"Right. Horrible system. Come on."
+
+They headed out while Leo explained why naming conventions mattered more than his partner seemed to think.
 
 ***
 
