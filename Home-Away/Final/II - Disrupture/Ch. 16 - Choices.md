@@ -8,7 +8,7 @@ They were in the film room, after Friday afternoon practice.
 
 "Exchange?" Aaron asked.
 
-"Yeah. Joint training. Match on Sunday."
+"Yes. Joint training before the match on Sunday."
 
 "Their coach is Daniel Hale," Mercer continued. "He does things differently from me, but he's a good coach. You'll follow his instructions during the joint sessions."
 
@@ -170,8 +170,6 @@ Their whole row stood. Enzo's sign blocked half the court, and Leo let go to cla
 
 "Move that fucking thing!"
 
-Enzo moved it into Aaron's face instead.
-
 When they sat down again, Taiga glanced at his forearm. Leo was just celebrating. No big deal.
 
 Olympus took the set, then the fourth. Avan folded his program and applauded with the rest of them. Leo was still arguing about the last point when they started gathering their things.
@@ -329,18 +327,18 @@ Taiga read it. She was right, annoyingly.
 
 "Fine."
 
-"And yours?" Leo asked.
+"And yours?
 
 Zoe pulled up a photograph of a notebook page. Half the calculation was squeezed into the margin beside a drawing of a cat with a sword.
 
-Leo leaned toward him to see the screen. Their knees met under the table.
+Leo leaned toward him to see the screen. Their knees met once more under the table.
 Okay, not again. Leo was simply checking the small phone screen.
 
 The proof was correct. Taiga checked it twice. Then he returned the phone and went back to his notebook.
 
 Leo's knee stayed against his.
 Still. Leo was a champion in occupying other people's space. 
-Taiga shook his head. Although, twenty seconds passed and Leo still didn't move his leg. 
+Taiga shook his head. Although, twenty seconds passed and he still hadn't moved his leg. 
 
 What if...
 
@@ -353,6 +351,8 @@ Taiga stopped moving. The familiar uneasiness came back.
 "Right?" Zoe asked.
 
 He looked up. "What?"
+
+"That gives you a counterexample."
 
 "Yeah."
 
@@ -378,6 +378,19 @@ It was still beside Taiga's notebook. He passed it over.
 
 Taiga returned to question four. His ears felt hot.
 
+Minutes passed, and an uncomfortable question began crawling in his mind: what if Leo was doing that on purpose?
+Every answer he tried made his stomach tighten more and more.
+
+Then, doubt kicked in: what if Leo wasn't? What if Taiga was just reading too much into it?
+
+This was getting out of hand. 
+But then, why didn't he just move the leg himself? Taiga had space. He could retract from contact anytime.
+
+Instead, he glanced from his notes at Leo as he slightly pressed his leg as well. 
+For a second Leo stopped writing.
+
+Oh, fuck.
+
 ***
 
 In the second random lab, Taiga ended up beside a guy from the front row who wrote comments before code. Leo disappeared somewhere behind him with another assigned partner.
@@ -397,6 +410,8 @@ After a while,
 **Taiga:** this guy puts the opening curly brace of the function on a new line
 
 **Leo:** he needs therapy
+
+He chuckled and went back to the code.
 
 ***
 
