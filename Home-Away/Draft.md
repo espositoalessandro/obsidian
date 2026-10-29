@@ -1,1237 +1,1585 @@
-### Chapter 16
+### Chapter 17 - Thin Air
 
-"Okay. Before dismissing you, there's another thing."
+Caleb watched Taiga take the third sweatshirt out of his bag.
 
-They were in the film room, after Friday's afternoon practice.
+"You can leave it in."
 
-"We've confirmed the exchange with the Pinetree Academy. We're leaving Thursday the twenty-sixth of February through Sunday."
+"It won't close."
 
-"Exchange?" Aaron asked.
+"You haven't tried."
 
-"Yeah. Joint training. Match on Sunday."
+Taiga pulled the zip. It went halfway, caught on a sleeve and stopped.
 
-"Their coach is Daniel Hale," Mercer continued. "He does things differently from me, but he is a valid instructor. You will refer to him during the training."
+Caleb looked back at his laptop.
 
-Gav raised his hand. "How about our classes, thought?"
-
-"This is why you're hearing about it now. Talk to your professors and let me know as soon as possible if there is any problem."
-
-"Are we staying in their campus?" Enzo asked.
-
-"Yes. Pinetree is a bit different from regular colleges. Their campus is pretty high up. Pack heavy clothes and be ready to adjust your breathing."
-
-"High up like... on a mountain?"
-
-"Unless they found a way to make it float, then yes Reyes. Which is the whole point of the exchange."
-
-Enzo looked horrified.
-
-"You'll receive the itinerary and the athletics letter tonight. That'll answer any question about logistics. Now."
-
-He pointed at the magnetic board behind him.
-
-"Pinetree is almost a month away. Northbridge is tomorrow. "
-
-The first clip was a throw-in. Northbridge sent it into the box, somebody got a head to it and Scott made a small noise of disgust beside Taiga.
-
-Mercer let the sequence finish.
-
-"First ball, second ball. Don't stop because somebody else got there first."
-
-He moved on to a winger receiving near the sideline. Two Northbridge players closed him down. The pass went backward; one of them chased it immediately.
-
-"Give him somewhere to play before they arrive. Not after."
-
-They spent the next twenty minutes on Northbridge. By the time Mercer dismissed them, Taiga had written down three numbers and underlined one twice.
-
-Outside the film room, the conversation returned to Pinetree. Enzo wanted to know whether altitude could affect his hair. Gav told him to worry about running first.
-
-Leo was looking at his phone.
-
-"Thursday and Friday," he said. "That takes out my Discrete quiz."
-
-"Ask about making it up."
-
-"Yeah. I just need the date before I accidentally agree to something else."
-
-He put a reminder into his calendar. Taiga did the same for Chemistry.
-
-Then Enzo asked whether anybody had seen his sign.
-
-***
-
-Enzo's sign said:
-
-**YUUTO PLEASE DO THE VOLLEYBALL GOOD**
-
-Most of the glitter was on his sleeve.
-
-"You've got it on your neck," Leo told him.
-
-Enzo rubbed the wrong side. Aaron watched without helping.
-
-They reached the arena with enough time before the match for Enzo to send three messages asking where Yuuto was. On the third, the doors opened and a guy in a padded coat and volleyball shorts came out waving.
-
-White-and-pink hair. Bare knees. Apparently cold worked differently for some people.
-
-"Enzo! My dude, you actually brought everybody!"
-
-Yuuto came down the steps, spotted the sign and stopped.
-
-"Oh, that's going up in my room."
-
-"I made it reusable," Enzo said. "For all your volleyball needs."
-
-"You made it shed," said the guy coming out behind him.
-
-He had dark hair, glasses and a pale blue jacket zipped to his chin. Taiga recognized his face before remembering where he'd seen it.
-
-"Oh! This is Avan, my roommate." Yuuto caught his sleeve and pulled him into the group. "Avan, this is Enzo from class, and all his soccer buddies. I said bring people, and he brought a whole party!"
-
-"Six people," Avan said. "We should still be able to sit together."
-
-Enzo introduced them. Avan shook Leo's hand, then Taiga's.
-
-The voice settled it.
-
-"Student council?" Taiga asked.
-
-"Yes. Orientation?"
-
-"You gave a speech."
-
-"I did."
-
-Taiga remembered the suit, the posture and a sentence about Olympus's highest standards. Then he'd stopped listening.
-
-Avan glanced at the sign Yuuto was holding against his chest.
-
-"I hope this makes a less formal impression."
-
-Yuuto turned it around to admire it again. "It's beautiful. Can you hold it while I play?"
-
-Enzo accepted the cardboard with considerable dignity.
-
-Someone called Yuuto from inside. He looked over his shoulder.
-
-"Ah, sashimi. Okay, I gotta go! Avan knows where to sit. Thanks for coming, guys! Be loud!"
-
-He ran back up the steps. Avan held the door for him, then led them inside.
-
-The arena was warm and already noisy. Taiga took his coat off while they found seats. Avan sat at the end of the group; Scott and Gav settled beside him. Leo dropped into the seat next to Taiga and immediately had to get up again to let Aaron pass.
-
-"I'm excellent at planning," he said when he sat back down.
-
-On court, Yuuto had taken his coat off. Number four. He looked up, found the sign and waved until a teammate caught him by the shoulder and turned him toward the net.
-
-Olympus lost the first set.
-
-Taiga understood most of what had happened. Mostly. At one point the ball had come off Yuuto's hands and gone out, and somehow that had been a point for Olympus.
-
-"They touched it," Avan explained when Leo asked. "The blockers. Yuuto hit it off their hands."
-
-"Oh. That's allowed?"
-
-"That's the point."
-
-Leo leaned back toward Taiga. "We should start doing that."
-
-"We have corners."
-
-"Yeah, but we could give it a cooler name."
-
-Enzo turned around immediately.
-
-"Do not involve him," Taiga said.
-
-By the third set, Leo had stopped proposing improvements to the sport. He was too busy telling the ball where to go. Olympus had won the second, and every time they pulled ahead now, the other team caught up again.
-
-A bad pass sent one of their players diving toward the floor. He got underneath it. Someone else kept it up, and Yuuto was already jumping.
-
-Leo caught Taiga's forearm.
-
-"Come on, come on—"
-
-Yuuto dropped the ball behind the block. The defender reached it too late.
-
-Their whole row stood. Enzo's sign blocked half the court, and Leo let go to clap. Taiga pushed the cardboard away with one hand.
-
-"Move that fucking thing!"
-
-Enzo moved it into Aaron's face instead.
-
-Olympus took the set, then the fourth. Avan folded his program and applauded with the rest of them. Leo was still arguing about the last point when they started gathering their things.
-
-Taiga pulled his coat sleeve straight. Leo had grabbed him through his shirt, just below the elbow. He could still place the fingers exactly.
-
-"You're missing the best bit," Leo said.
-
-Taiga looked up. Enzo had glitter on both hands now and was trying to put his gloves on without touching them.
-
-"How did you even manage that?"
-
-"Craftsmanship," Enzo said.
-
-***
-
-They waited for Yuuto near the entrance. He emerged carrying his bag and talking before he'd reached them.
-
-"Holy cali-maki, you guys were loud! I could hear you from the back! Did you see when I almost ate the advertising board?"
-
-"We saw," Avan said.
-
-"My life flashed before my eyes. Mostly lunch. Speaking of! Are we getting food?"
-
-They got burgers. Yuuto spent the walk retelling the save to Enzo, complete with a demonstration that made Aaron step off the path. At the crossing, he stopped and waited for Scott and Gav to catch up.
-
-The restaurant was crowded. They fitted around two tables, with Avan checking that the spare chair wasn't blocking the aisle and Yuuto offering his fries around before he'd tried one himself.
-
-"I got the big portion so everybody could. Go on!"
-
-Taiga took one. Garlic. Good.
-
-Leo sat beside him and stole a second while listening to Yuuto explain a move he called the Phantom Drop. Enzo immediately wanted a name for one of his goals. Aaron disputed which goal deserved one.
-
-For a while, Taiga ate and listened. Yuuto asked Scott something about goalkeeping, Avan corrected Enzo's recollection of the match, and Gav began explaining why the cardboard sign would never fit into an ordinary backpack.
-
-Leo turned toward Taiga, smiling around a mouthful of burger.
-
-"Worth coming?"
-
-"You nearly broke my arm."
-
-Leo glanced at it. "During that point? Sorry, I got excited."
-
-"I noticed."
-
-"You were standing too."
-
-"I wanted to see past the fucking sign."
-
-Leo laughed and went back to his food.
-
-When they parted outside, Yuuto thanked them again and insisted Enzo let him carry the sign. Avan made him zip his bag first. Then they headed toward the dorms, already arguing about where the sign would go.
-
-"What are you doing Sunday?" Leo asked as he and Taiga turned onto the path behind the others.
-
-"The lab write-up."
-
-"Right. We should finish that. Computing lab at two?"
-
-"Fine."
-
-Leo took his phone out to put it in his calendar. Taiga waited while he nearly walked into a bollard.
-
-***
-
-Olympus won at Northbridge on Saturday. By Sunday, Leo had stopped complaining about their long throws.
-
-Two became two-oh-nine because Leo arrived with coffee and an apology.
-
-"Rachel found something wrong with the example we were using. Then we had to find out whether it was actually wrong or whether we'd both misunderstood it."
-
-"Which was it?"
-
-"It was wrong. Very vindicating. Sorry I'm late."
-
-He put a cup beside Taiga's laptop. Black. No sugar.
-
-They worked for almost an hour. Leo wrote the first part of the explanation, Taiga added enough detail to make him complain, and they reached something Owen would probably tolerate.
-
-Once, they both reached for the trackpad. Leo's fingers brushed his. Taiga moved his hand to the edge and pointed instead.
-
-"There. You haven't explained what happens if it's empty."
-
-"Because I was hoping we'd all forgotten that."
-
-"The test hasn't."
-
-Leo added the sentence. Taiga watched his hand return to the keyboard, then checked the explanation again.
-
-They submitted at three-oh-six.
-
-Neither got up. Leo opened a video Enzo had sent him, watched six seconds and turned his phone toward Taiga.
-
-"I need somebody else to confirm this is real."
-
-It was a man trying to get a sofa up a spiral staircase.
-
-"That's not fitting."
-
-"Keep watching."
-
-It didn't fit. A second man appeared with a saw.
-
-"Oh, no," Taiga said.
-
-Ten minutes later, his coffee was cold and they were looking up whether the building's windows opened wide enough for the sofa to have gone through one.
-
-Caleb sent a message asking whether Taiga wanted anything from the shop.
-
-**Taiga:** milk
-
-**Caleb:** Which size?
-
-"Biggest one," Leo suggested over his shoulder.
-
-"You don't live there."
-
-"Milk keeps."
-
-Taiga turned toward him. Leo reconsidered.
-
-"Some milk keeps. I withdraw my contribution."
-
-Taiga answered Caleb, then stayed until they had established that the window would not have helped either.
-
-***
-
-Owen began Tuesday's lab by changing their partners.
-
-"For the next three sessions, you'll work with someone different. The assignments are individual submissions, but I want you discussing your implementation with somebody whose habits you haven't already memorized."
-
-Leo looked at Taiga.
-
-"That's a hostile policy."
-
-"You've memorized my habits?"
-
-"Unfortunately, yes."
-
-The list appeared on the screen. Taiga found his name beside Dylan's. Leo was with Sophie, two rows over.
-
-"Do I know Sophie?"
-
-"You're about to."
-
-Owen looked toward them. Leo picked up his laptop.
-
-"Love the policy. Very educational."
-
-"Then go learn something, Mr. Mendez."
-
-Dylan arrived while Taiga was unplugging his charger. He had seen him in lectures, usually near the front with headphones around his neck.
-
-"You want to use yours?" Dylan asked.
-
-"Already got it open."
-
-"Works for me."
-
-The task was a small hash table. Insert, search, delete. Taiga read the requirements, Dylan asked which collision method he preferred, and they started.
-
-For the first half hour, it was extremely efficient.
-
-Dylan read before making changes. He asked useful questions. When Taiga extracted the repeated search into a helper, Dylan checked what it returned and said that was fine.
-
-Taiga waited a moment.
-
-"What?" Dylan asked.
-
-"Nothing."
-
-They went back to work.
-
-Across the room, Leo was explaining something with both hands. Sophie interrupted him, pointed at the screen and made him read it again.
-
-Taiga returned to the tests. Dylan had found an input they hadn't covered.
-
-They finished twelve minutes before the end. Dylan submitted, packed and left for work. Taiga opened the notes for the follow-up task.
-
-Five minutes later, his phone buzzed.
-
-**Leo:** do not leave
-
-Taiga looked over. Leo was staring at his laptop with his chin in one hand. Sophie was typing.
-
-**Taiga:** wasn't planning to
-
-**Leo:** good
-
-Taiga read another page. He got through it much faster without Leo beside him.
-
-When Leo finally arrived, he dropped his bag onto the empty chair.
-
-"We were checking the wrong slot. For eleven minutes."
-
-"Impressive."
-
-"We were very thorough about it."
-
-He leaned over Taiga's laptop to see what he was reading. His sleeve brushed Taiga's shoulder, and for a moment his hand rested on the back of the chair.
-
-"Oh, don't look at next week yet. I've only just survived this one."
-
-Taiga closed the page.
-
-"Coffee?"
-
-"Please."
-
-They went to find somewhere without a queue before training.
-
-***
-
-The midweek game against Redmont brought another win. Hartwell were next, away on Saturday.
-
-Friday's coffee came with an email from Owen that Leo considered personally hostile.
-
-"He wrote 'refer to the specification' three times. I did refer to it. That's why I sent the question."
-
-Taiga took his phone and read the exchange.
-
-"The answer's in the specification."
-
-"Yes, I know that now."
-
-The cafeteria was crowded. They had found a small table against the wall, with Leo's bag underneath and Taiga's caught between his chair and the one behind it.
-
-Leo shifted to reach the sugar. His knee touched Taiga's.
-
-"Why did you ask him whether the table needed to grow?" Taiga asked. "It says fixed capacity."
-
-"Because the next paragraph says we should assume an unknown number of inputs. That sounded like a trap."
-
-"It means you have to handle it being full."
-
-"Yeah, well. He could've used those words."
-
-He emptied the sugar into his drink, stirred and kept talking. His knee stayed against Taiga's.
-
-Taiga read the email again. Leo had asked an actual reasonable question further down. Owen's answer to that was less helpful.
-
-"This bit is vague."
-
-"Thank you! That's what I mean. He answered the easy part and ignored the bit I needed."
-
-Taiga started explaining how he would interpret the condition. Leo put his cup down and listened, occasionally interrupting to ask something that made Taiga reconsider.
-
-Their legs were still touching.
-
-Leo had finished getting sugar some time ago. There was room for his foot on the other side of the table leg. He hadn't used it.
-
-He handed the phone back. Leo began typing a reply to Owen.
-
-Maybe he simply hadn't noticed. The table was tiny, and Leo managed to occupy more space than his body should require.
-
-Taiga drank his coffee. Eventually Leo pulled his legs back to let someone squeeze past their chairs.
-
-They left when Taiga's phone reminded him he was meeting Nora. Leo went toward the library with him until their paths split.
-
-"Tell her I said hi."
-
-"Tell her yourself."
-
-"I'm not seeing her. You're seeing her. That's how messages work."
-
-Taiga raised a hand and kept walking.
-
-***
-
-The win at Hartwell took Olympus to four wins from four. By the second week of February, the Pinetree itinerary had become a permanent attachment in the Apollo chat.
-
-People kept asking questions it answered. Gav kept sending the same page back.
-
-Taiga arranged to make up his Chemistry lab. Leo's Discrete instructor gave him a different quiz date. Enzo announced that he had solved his entire academic situation, then discovered a presentation he'd forgotten.
-
-At training on Monday, Mercer paired Taiga with Aaron for a wide-channel drill. Receive, draw the defender, use the runner outside. It was simple until Aaron started running before Taiga had the ball.
-
-"Wait," Taiga said.
-
-Aaron checked his run. The defender stepped closer. Taiga held him for another touch, then slipped the ball outside.
-
-Aaron reached it near the line and cut it back. Evan put it past the small goal.
-
-"You can score those, you know," Enzo called from the other group.
-
-"Come demonstrate," Evan said.
-
-Enzo stayed where he was.
-
-They reset. Aaron went too early again. Mercer stopped them.
-
-"Bennett, let Akatora bring his man in. You're taking the space away before he can use it."
-
-"I know."
-
-"Then wait."
-
-Aaron waited on the next repetition. The pass reached him cleanly and he delivered the ball exactly where Evan wanted it.
-
-"That," Mercer said.
-
-Aaron lifted a hand. On the way back, he muttered, "I was trying to give you an option."
-
-"You did. Too early."
-
-"Yeah, I fucking heard him."
-
-Taiga looked at him. Aaron jogged ahead to collect another ball.
-
-Later, Evan stopped Taiga after he'd tried to beat the same defender twice and lost the second attempt.
-
-"What did he do the first time?"
-
-"Stepped inside."
-
-"And the second?"
-
-Taiga looked back toward the cones. "Waited."
-
-"So try giving him a different problem."
-
-They ran it again. This time Taiga played the pass earlier and went after the return. He reached it. His shot was awful, but he reached it.
-
-Evan sent him back for another.
-
-***
-
-On Wednesday, Leo couldn't seem to keep a ball.
-
-The first few mistakes were ordinary. A pass behind Gav, a touch that escaped him, an attempt to turn Evan that ended with Evan taking the ball away.
-
-"Thank you," Evan said.
-
-"Enjoy it. I'm being charitable."
-
-Then Leo tried a pass through a gap that had already closed.
-
-Mercer blew the whistle.
-
-"Take your touch, Mendez. You have time."
-
-Leo lifted a hand. They reset.
-
-Taiga had his own work to do. By the time he rotated into Leo's group, though, the pattern was difficult to miss. Leo kept trying to do the useful thing immediately. If the first pass failed, the next one became even more ambitious.
-
-He lost it twice in the same minute.
-
-"Bro, does the ball owe you money?" Enzo asked.
-
-"Not now."
-
-Enzo's grin went. Leo closed his eyes briefly.
-
-"Sorry. That came out shitty."
-
-"Alright." Enzo rolled the ball back to him. "Here. Again."
-
-In the scrimmage, Leo dropped toward Gav to get involved. Then he tried to turn through a player who was already behind him.
-
-Taiga took the loose ball and ran. He got as far as Carter before losing it himself.
-
-Mercer pulled Leo out for two minutes.
-
-Leo stood beside the spare balls with his hands on his hips. When he went back in, he played three uncomplicated passes in succession. The fourth was good too. Taiga nearly reached it before Walsh closed him down.
-
-At the end, Leo stayed to take a few more shots. The first went wide. The second hit the post.
-
-Enzo waited near the touchline until he came over.
-
-In the locker room, Leo talked about a project with Gav and complained about the water pressure. He laughed when Enzo dropped a sock into a puddle.
-
-Then he put his clean shirt on inside out and swore at it for longer than the problem deserved.
-
-Taiga waited while he fixed it.
-
-"You eating with us?"
-
-"Yeah. Just let me put clothes on in the right order."
-
-Taiga handed him the bag he'd left under the bench. They went out with Enzo.
-
-***
-
-Thursday, Leo sent a photograph of the Pinetree packing list while Taiga was waiting for a Chemistry result.
-
-**Leo:** actual question
-
-**Leo:** waterproof or water resistant
-
-**Taiga:** waterproof
-
-**Leo:** my jacket says resistant
-
-**Taiga:** then don't stand under a waterfall
-
-**Leo:** i need actionable advice
-
-Taiga told him to bring another layer and check whether the seams were sealed. Leo sent three photographs of labels and one of Enzo wearing the jacket backward.
-
-**Leo:** field testing
-
-**Taiga:** equipment failure
-
-Leo reacted with a skull. Taiga put his phone away when Seth came to check their table.
-
-***
-
-Zoe arrived at the library on Friday carrying a laptop, a manga volume and a banana that had suffered structural damage.
-
-"Nobody comment on the banana."
-
-Leo moved his bag off the chair beside Taiga. "I had questions."
-
-"Keep them. What did you get for question four?"
-
-They had been working through Discrete practice questions. Different sections apparently meant getting confused by the same thing on different days.
-
-Taiga turned his notebook around. Zoe put the banana on top of her manga and read the proof.
-
-"You haven't shown it for the first value."
-
-"It's obvious."
-
-"That's cool. Put it on the page."
-
-She took the pen he offered her, tried it, shook it and tried again.
-
-"Dead."
-
-"Press harder."
-
-"I am not engraving it."
-
-Leo gave her his. She wrote the first case under Taiga's argument and circled the place where he'd started using the assumption.
-
-"This step is fine. It just doesn't do that part for you."
-
-Taiga read it. She was right, annoyingly.
-
-"Fine."
-
-"Beautiful. A complete proof."
-
-"Yours?" Leo asked.
-
-Zoe pulled up a photograph of a notebook page. Half the calculation was squeezed into the margin beside a drawing of a cat with a sword.
-
-The proof was correct. Taiga checked it twice.
-
-Leo leaned toward him to see the screen. Their knees met under the table.
-
-Again.
-
-Zoe began explaining the next question. Taiga listened, then looked down at his own notes. Leo's knee stayed against his.
-
-The memory of the cafeteria table returned with irritating precision.
-
-He could check one thing.
-
-Taiga shifted his foot a little, taking his knee away. Barely an inch. He kept looking at the notebook.
-
-For a few seconds, nothing happened.
-
-Then Leo adjusted his leg. The side of his knee came back against Taiga's.
-
-Taiga stopped moving.
-
-"Right?" Zoe asked.
-
-He looked up. "What?"
-
-"That gives you a counterexample."
-
-"Yeah."
-
-Leo turned toward him. "No, it doesn't. We were saying it doesn't."
-
-Fuck.
-
-"Then say that."
-
-"We did," Zoe said. She slid the sheet closer. "Start here."
-
-Taiga read the line she indicated. Leo looked back at the page too, with no helpful expression whatsoever.
-
-Had he moved because Taiga had moved? Or because he'd been leaning forward? His foot could have slipped. People adjusted their legs. That was an actual thing people did.
-
-"Forty-one," Leo whispered.
-
-Taiga looked at him too quickly.
-
-Leo held out his hand. "Pen?"
-
-It was still beside Taiga's notebook. He passed it over.
-
-"Thanks."
-
-Taiga returned to question four. His ears felt hot.
-
-When Zoe's phone vibrated, she checked it and began packing with alarming speed.
-
-"I forgot I'm meeting somebody. Send me the last one if you get stuck."
-
-She retrieved the banana, took two steps and came back for the manga.
-
-Leo watched her go, then looked at the practice sheet.
-
-"I'm not sure she needs us."
-
-Taiga had found the missing step now. He pointed at it. They finished the question before leaving.
-
-***
-
-At Friday training, Mercer made them play out with an extra man pressing the ball.
-
-"St. Vincent won't wait for you to decide," he said. "Look before it arrives. If the pass goes backward, give him another option."
-
-Leo lost it once, swore and got into position for the next ball. Taiga watched him get the next two right.
-
-At the end, Aaron asked about going outside Evan.
-
-"When we've got the ball secure," Mercer said. "Not because you've decided it's your turn."
-
-Aaron nodded. On the way in, he asked Evan the same question in different words.
-
-***
-
-St. Vincent scored in the first half from a corner.
-
-Taiga saw the header, saw Scott get a hand to it, and saw the ball cross the line anyway. For a moment he thought there had to be somebody on the post who could still clear it.
-
-There wasn't.
-
-After that, St. Vincent kept coming at them. Every pass backward brought another white shirt running. Olympus got through a few times, found space and then wasted it before the defenders could recover.
-
-From the bench, Taiga could see the space behind them. Reaching it was apparently the difficult part. Evan made a run; the pass went backward. Enzo received wide; two players closed him down. Leo came deeper to get the ball, then looked up to find the space he'd left occupied by somebody from St. Vincent.
-
-Mercer told him to stay higher.
-
-He did. Gav found him there. Leo turned, put Jordan through, and the goalkeeper saved the shot with his leg.
-
-Taiga was halfway up before he sat down again.
-
-At halftime, Mercer moved two magnets and told them to stop waiting for the pressure to arrive before choosing a pass. Aaron pointed at the board and asked about the space outside Evan.
-
-"Use it when it's there," Mercer said. "Don't make the run before we've got the ball secure."
-
-Aaron nodded. Taiga watched him press his thumbnail into a loose edge of tape.
-
-The second half was worse to sit through.
-
-Taiga warmed up twice. Both times he came back to the bench still wearing his bib. Mercer used Lucas when Carter's calf tightened and made another change in midfield. Evan stayed on the left.
-
-Taiga understood. Evan was getting past his man. That didn't make sitting down any easier.
-
-Aaron tried to carry the ball past two players and lost it. He got back in time to block the cross that followed. Scott shouted at him before the ball had even gone out.
-
-On Olympus's next attack, Aaron played a safe pass backward. Then another. Evan turned and asked him to come outside.
-
-"I'm fucking waiting," Aaron shouted.
-
-Taiga heard that from the bench.
-
-With ten minutes left, Leo tried to slide a pass through three pairs of legs. It hit the first. He got it back, went around one player and lost it to the next.
-
-Then, in stoppage time, he found the pass. Evan reached it. The shot went across the face of goal, close enough that Jordan threw himself after it.
-
-He missed by inches.
-
-The whistle went while Scott was telling everyone to get up for one more ball.
-
-One-nil.
-
-Taiga stayed on his feet. Beside him, someone swore and kicked an empty bottle under the bench.
-
-On the pitch, Leo stood with his hands on his hips. Aaron had already started walking toward the tunnel.
-
-***
-
-The locker room was quieter than it had been after Helios.
-
-People still spoke. They asked for tape, moved bags and told someone to get out of the doorway. Enzo's boots hit the floor hard enough to make Taiga look over.
-
-Mercer waited until everyone was inside.
-
-"We'll look at it Monday. They pressed well. We rushed when we had time and waited when we needed to move it. Recover tomorrow. I want you ready to work."
-
-He left them to change.
-
-Aaron was still talking to Evan.
-
-"You asked me to wait. Then you asked me to go."
-
-"At different points in the game," Evan said.
-
-"I know they were different points."
-
-Evan sat down to unlace his boots. "Then we'll look at the clips."
-
-Aaron opened his mouth, stopped and pulled his shirt over his head.
-
-On the other side of Taiga, Leo was taking the tape off one ankle in small, unnecessary pieces. Gav said something to him about Monday. Leo nodded.
-
-"Yeah. Alright."
-
-Taiga showered, dressed and put his things away. By the time he zipped his bag, Leo had gone.
-
-He found him outside the stadium, sitting on the low wall beside the vending machines. An unopened bottle of water rested between his hands.
-
-Taiga stopped in front of him.
-
-"You waiting for someone?"
-
-Leo looked up. "No."
-
-"Can I sit?"
-
-"Yeah."
-
-Taiga sat. The concrete was fucking cold. He pulled his coat farther down and put his bag between his feet.
-
-People passed on their way toward the campus paths. A maintenance cart reversed near the gate, beeping at nobody.
-
-For a while, neither said anything.
-
-Then Leo turned the bottle in his hands.
-
-"Anyway. First loss out of the way." He gave a small shrug. "Had to happen eventually. Better now than at Pinetree, right?"
-
-Taiga looked at him.
-
-"You don't believe that."
-
-Leo tried a smile. "It's one game. I'm fine."
-
-"You're not."
-
-"I'm fine."
-
-"You're not."
-
-"I said I'm fucking fine."
-
-Leo had turned to face him. Taiga stopped with his mouth half open.
-
-"Alright."
-
-Leo looked away first.
-
-Taiga pushed his hands into his coat pockets. He hadn't expected that. He watched the maintenance cart go past, a stack of folded chairs rattling in the back.
-
-Two people were trying to fold a banner beside the gate. A corner kept slipping out of the bag. They pulled the whole thing out and started again.
-
-Leo opened his bottle and drank. Taiga could hear the vending machines humming behind them. He kept his eyes on the gate.
-
-One of the people with the banner went inside. The other stayed with the bag at his feet, checking his phone.
-
-"One fucking corner."
-
-Taiga looked over. Leo was staring at the stadium.
-
-"What?"
-
-"All that fucking chasing, and they win from a corner. Every time we got past them there was room. We just had to use it."
-
-He shook his head.
-
-"And every time I got it, I thought, okay, this time. I'll get past him. I'll put Jordan through. Something. Then I've lost it again, and now everybody has to run back because I couldn't just make the easy pass."
-
-"You weren't the only one losing it."
-
-"I know. I'm talking about me."
-
-Taiga nodded. Leo set the bottle on his knee, the cap still in his other hand.
-
-"It's that fucking practice again. I spend two days getting past that, and then I go out there and do it for ninety minutes."
-
-"Jordan's running behind them. Enzo's got space on the other side. I can't get it past the first guy. So I come back for it, and Mercer tells me I'm too deep."
-
-"You were."
-
-"I know!" Leo stopped, then rubbed his forehead. "I know. That's the fucking thing. I can see it afterward. I can tell you exactly what I should've done. Why couldn't I just do it?"
-
-Taiga didn't have an answer to that.
-
-Leo took a drink and wiped his mouth with the back of his hand.
-
-"I hate being bad at something I know I'm good at. I've been playing forever. I should be able to make a fucking pass."
-
-"You put Jordan through."
-
-"Once."
-
-"And Evan at the end."
-
-Leo watched a group cross the path.
-
-"We didn't score."
-
-"I know."
-
-Leo looked away. After a moment, he shook his head.
-
-"Sorry I snapped at you."
-
-"I was being annoying."
-
-"Yeah, but..." Leo rubbed his face. "Still. Sorry."
-
-Taiga nodded.
-
-The people with the banner finally drove away. Taiga's toes were getting cold. He pushed his hands deeper into his pockets.
-
-"I spent the last half hour wanting to go on," he said. "Evan was doing better than I would've done. I still wanted Mercer to take him off."
-
-Leo turned toward him.
-
-"You could've helped."
-
-"Maybe. Or I could've run straight into the first guy because I was pissed off before I even got the ball."
-
-"You do enjoy that."
-
-"Apparently I'm not alone."
-
-Leo scrubbed a hand over his face.
-
-"Fuck. We could've won that."
-
-"Yeah."
-
-Taiga shifted his feet. His toes were going numb.
-
-Eventually, Leo screwed the cap back on.
-
-"You got somewhere to be?"
-
-"Dinner."
-
-"Right. Sorry, you should go."
-
-Taiga stood and pulled his bag onto his shoulder.
-
-"You can eat while being annoyed."
-
-Leo looked up. "I don't think I'm going to be very good company."
-
-"You were talking about hash tables for forty minutes the other day. I'll survive."
-
-"That was a very interesting conversation."
-
-"For one of us. Come on. It's freezing."
-
-Leo got up, taking the bottle with him. They walked toward the University Center. He stayed quiet for most of the way.
-
-At the counter, Taiga asked whether he wanted his usual. Leo nodded, then changed his mind and ordered something else.
-
-They found a table near the back. Taiga took his coat off and hung it over the chair.
-
-Taiga opened his drink. Leo picked up his fork, then put it down again.
-
-"That keeper. The one on Jordan. I thought that was in."
-
-"So did I."
-
-"His fucking leg. He didn't even have to move it that far."
-
-Taiga took a bite. Leo was still looking at his plate.
-
-"I'm going to have to watch that again on Monday."
-
-"Probably more than once."
-
-"Don't."
-
-They ate. Leo complained about the corner too. After a while, he asked how Taiga's lab with Chloe had gone.
-
-Taiga told him. He didn't improve the story to make it funnier.
-
-Leo laughed anyway.
-
-***
-
-Sunday evening, Maya ordered too much food.
-
-Caleb's message said that she considered this intentional. Taiga showed Leo the screen when they came out of the computing lab.
-
-"Is that an invitation?" Leo asked.
-
-Taiga checked.
-
-**Taiga:** enough for another person?
-
-**Caleb:** Yes.
-
-"Apparently."
-
-Room 317 smelled of basil and chili. Maya sat on Caleb's bed while he cleared space on his desk for the containers.
-
-"Hi!" She put her plate down. "You must be Leo."
-
-"And you must be the person making very good decisions about dinner."
+"Move the sleeve."
 
 "Thank you."
 
-"There are four mains," Caleb said.
+"You're welcome."
 
-"And four people. Look at that."
+Wednesday evening. The bag had been open on Taiga's bed since dinner, and he had somehow spent twenty minutes packing for three nights. His boots and training kit were already in the team equipment bags. That should have made this easier.
 
-Leo greeted Caleb and took the plate he offered him. Maya began opening containers while Caleb checked whether anyone needed cutlery.
+On the desk, his phone kept vibrating.
 
-Taiga got the spare plates.
+**Enzo:** pillow is coming
 
-There were two desk chairs. Caleb took his, Taiga took the other, and Leo sat on the edge of Taiga's bed with a container balanced on his knees.
+**Gav:** We established that yesterday.
 
-"Red curry's hot," Maya told him.
+**Enzo:** mercer has not responded to my email
 
-"Good. I miss food that tries."
+**Aaron:** You emailed him about the pillow?
 
-He took some. Twenty seconds later he reached for his drink.
+**Enzo:** courtesy
 
-Maya watched him. "Still good?"
+Taiga put the sweatshirt back in the drawer.
 
-"Excellent. Give me a minute."
+After the St. Vincent loss, the following week had been unpleasant enough without everyone also worrying about Pinetree. Beating Cedar Ridge on Saturday had helped. People were talking normally again. Aaron had spent the walk out of the stadium explaining a tackle to Evan, who had been present for it.
 
-They talked about Maya's field course. She had spent Saturday taking measurements beside a stream and was still annoyed about a path somebody had cut straight down the bank. Caleb asked whether the drainage channel above it had made the erosion worse. She put her fork down and found a photograph.
+Now the whole team was discussing a pillow.
 
-Leo leaned over to look. Taiga kept eating while Maya explained why the muddy patch was bigger than it looked.
+Caleb stood, took a small packet from beside the kettle and put it on Taiga's bag.
 
-His phone buzzed with another Pinetree message. Aaron wanted to know whether everyone had received the same training schedule.
+"Hand warmers."
 
-"They going to work you hard?" Maya asked.
+"I have gloves."
 
-"That's the general idea," Taiga said.
+"One pair has a hole."
 
-"It's in the mountains," Leo added. "He'll be fine. He likes being cold and inconvenienced outdoors."
+"The other pair doesn't."
 
-"I like being away from you."
+"Then you have a spare."
 
-"Then bad news about the bus."
+Taiga left the packet where it was.
 
-Caleb asked which road they were taking. Leo opened the itinerary and passed him the phone. This turned into a discussion about the bus journey that Taiga abandoned halfway through in favor of the spring rolls.
+His phone buzzed again. Leo, privately this time.
 
-By the time they finished, Maya had moved onto Caleb's chair. He stood behind her, showing her a train fare for their own weekend plans.
+**Leo:** window or aisle?
 
-Leo gathered the empty containers from Taiga's desk. Taiga held the bag open while he put them in.
+**Taiga:** window
 
-"Next time we should get this one again," Leo said, pointing at the curry.
+**Leo:** perfect
+**Leo:** i'll take aisle
 
-"You needed two drinks."
+Taiga looked at the exchange. Apparently that was settled.
 
-"I said next time. I'll prepare."
+**Taiga:** don't be late
 
-Maya promised to send him the restaurant's name. He thanked her, said goodbye to Caleb and went out with Taiga to find the recycling bins.
-
-They argued in the corridor about which container could actually be recycled. Leo turned one over to check the symbol. Taiga took the bag while he did it.
-
-***
-
-Monday's film was unpleasant but useful.
-
-Mercer stopped the footage when Leo came back toward Gav and left the space ahead of him empty. He stopped it again when Aaron's early run took him beyond a pass he couldn't receive.
-
-Neither argued. Aaron asked to see his sequence once more. Leo made a note on his phone.
-
-After training, Taiga found a message waiting.
-
-**Leo:** if i'm bad at pinetree you are legally required to lie to me
-
-**Taiga:** no
-
-**Leo:** harsh conditions
-
-**Taiga:** play simple
-
-**Leo:** wow
-
-**Leo:** coach mercer has your phone
-
-Taiga smiled and went back to finding his clean socks.
+**Leo:** hey
+**Leo:** i'm excellent at important mornings
 
 ***
 
-In the second random lab, Taiga ended up beside a guy from the front row who wrote comments before code. Leo disappeared somewhere behind him with another assigned partner.
+At six-forty-eight, Leo arrived carrying a coffee, a paper bag and a scarf that hung almost to his knees.
 
-His partner had already written out the cases they needed to handle.
+Taiga was standing beside the bus with his backpack over one shoulder. Behind him, bags thumped into the luggage compartment. The practice fields were still dark beyond the parking lot.
 
-"Do we need all that?" Taiga asked.
+Leo stopped in front of him.
 
-"It helps me keep track. You can start if you want."
+"Morn'n."
 
-Taiga read through the list. Empty queue, one item, several items. Fine. At least they wouldn't have to keep scrolling back to the requirements.
-
-They started working. Later, his phone buzzed under the desk.
-
-**Leo:** this guy uses camelcase for constants
-
-**Taiga:** report him
-
-**Leo:** finally some institutional support
-
-Taiga locked the phone and went back to the assignment.
-
-His partner pointed at the screen. "If you take the last one out, what happens when you add another?"
-
-They tried it. The new item went into the queue. Getting it back out took another six minutes and a correction Taiga should have spotted earlier.
-
-He left the comments alone.
-
-After a while, he reached for his phone.
-
-**Taiga:** this guy puts the opening curly brace of the function on a new line
-
-**Leo:** he needs therapy
-
-Taiga chuckled.
-
-"You found it?" his partner asked.
-
-"No. Sorry. Someone being an idiot."
-
-He put the phone face down and turned back to the screen.
-
-They finished with enough time to run the tests again. While his partner uploaded his submission, Taiga checked his messages.
-
-**Leo:** coffee after?
-
-**Taiga:** yes
-
-**Leo:** good because i need to complain out loud
-
-By the time Taiga had packed, Leo was coming down the aisle with his bag hanging open.
-
-"The comments guy?" he asked quietly.
-
-"Useful, actually."
-
-"So you're keeping him?"
-
-Taiga reached past him and pulled the zip shut before his notebook fell out.
-
-"Apparently Owen's making that decision."
-
-"Right. Horrible system. Come on."
-
-They headed out while Leo explained why naming conventions mattered more than his partner seemed to think.
-
-***
-
-Wednesday training went well enough that Taiga left the pitch annoyed about only one thing instead of several.
-
-Evan had beaten him three times with the same change of direction. Taiga was still asking how when they reached the lockers.
-
-"You're moving before I am," Evan said.
-
-"You're going to go that way."
-
-"Eventually."
-
-That was unhelpfully true.
-
-Across the aisle, Leo had pulled his shirt off and was reaching into his locker. Taiga's eyes went from his shoulder to the line of his back, then lower.
-
-Leo turned.
-
-Their eyes met.
-
-Shit.
-
-Taiga looked up properly. Had he—
-
-"Can you pass the tape? Behind you."
-
-It was on the shelf. Taiga grabbed it and held it out.
-
-Leo took it. "Thanks."
-
-Then he turned back to Aaron, who was complaining about a drill. Taiga sat down and began untying his boots.
-
-He'd looked directly at him. That didn't mean he'd noticed where Taiga had been looking. People looked at each other. They had just spent two hours doing it on a pitch.
-
-"You want to try that again Friday?" Evan said beside him.
+Taiga looked at him.
 
 "What?"
 
-"The turn. I can stay after."
+Leo lifted the cup. "S'coffee."
+
+"I can see that."
+
+"Want some?"
+
+The words had run together badly enough that Taiga needed a second to separate them. Leo's eyes were half closed. His hair had escaped the tie on one side and stuck out against the yellow scarf.
+
+Then Taiga remembered.
+
+"Your vowels."
+
+Leo blinked.
+
+"What?"
+
+"The twenty percent."
+
+For a moment, Leo just stared at him. Then his mouth curved.
+
+"Oh. Right."
+
+"You weren't kidding."
+
+"Told you."
+
+He attempted something else. Taiga caught the word breakfast and very little around it.
+
+"Try again."
+
+Leo held the paper bag out.
+
+Two pastries.
+
+"One's yours," he said, much more slowly.
+
+"Ah. Thanks."
+
+Behind Leo, Enzo emerged from the other side of the bus hugging a pillow almost as wide as his body.
+
+"He gets worse if you ask questions."
+
+Leo turned toward him. "Cállate."
+
+"See? That one I understood," Taiga said.
+
+Leo gave him the finger and went up the steps.
+
+Mercer stopped Enzo at the door.
+
+"Keep the aisle clear."
+
+"Of course, Coach."
+
+"And it stays in your seat."
+
+Enzo adjusted his grip. "Absolutely."
+
+Taiga followed him onto the bus and found Leo already standing beside their row.
+
+He waited for Taiga to take the window seat, then sat and put the coffee between his knees while he untangled his headphones. Taiga held out a hand.
+
+Leo passed him the cup without asking.
+
+"You're gonna spill it."
+
+"Mm."
+
+Leo freed one earbud, discovered the other had gone through a knot in the scarf, and stopped.
+
+Taiga watched him for several seconds.
+
+"Excellent at important mornings."
+
+"Still here."
+
+"Technically."
+
+Leo finally got the scarf off. Taiga gave the cup back.
+
+Around them, the squad was settling. Scott sat near the front with his headphones already on. Aaron came down the aisle holding his phone to his ear, telling Sofia that yes, he'd brought the charger. Gav was trying to fit his backpack beneath the seat while Enzo explained why the pillow could not possibly be made smaller.
+
+"It compresses," Gav said.
+
+"It needs room."
+
+"So do I."
+
+Mercer counted them, checked with the driver and sat down. The bus pulled out at seven.
+
+Taiga ate his pastry while the Sports Zone slipped past the window. Leo got through half of his before putting the rest back in the bag.
+
+"You finished?"
+
+"Saving it."
+
+"For when?"
+
+Leo leaned his head against the seat and closed his eyes.
+
+Fair enough.
+
+Taiga put the bag in the pocket in front of them. For a while, he watched the familiar roads give way to warehouses and wet fields. He had left Caleb asleep in Room 317. By now he would be getting up, checking the kettle, probably moving the mug Taiga had left beside the sink.
+
+He took his phone out.
+
+**Taiga:** don't throw my mug away
+
+Caleb's reply arrived a few minutes later.
+
+**Caleb:** Then wash it when you get back.
+
+Leo made a small sound beside him. Taiga glanced over.
+
+Still asleep. Head tipped toward the aisle, mouth slightly open, one hand tucked beneath his other arm.
+
+He turned back to the window.
+
+The service stop restored most of Leo's vocabulary.
+
+By the time they returned to the bus, he had coffee, a bottle of water and a strong opinion about the sandwich prices. Enzo had bought one anyway and was eating it while agreeing with him.
+
+"That's why they keep charging that much," Gav said.
+
+"I was hungry."
+
+"You brought food."
+
+"That's for later."
+
+Taiga climbed past them before the argument expanded.
+
+Leo followed him down the aisle.
+
+"Enzo packed noodles."
+
+"Of course he did."
+
+"Four packets. He says mountain portions are untested."
+
+"You've known him longer than I have. Why are you surprised?"
+
+"I'm not surprised. I'm concerned for Gav."
+
+Leo sat and retrieved the pastry from the seat pocket. He looked at it for a second, apparently pleased to remember it existed.
+
+The road began climbing not long afterward.
+
+At first there were only strips of snow beneath the hedges. Then the fields turned white, the trees thickened and the bus slowed for bends that took them farther up the slope.
+
+Taiga put his phone away.
+
+Beyond the pines, a ridge appeared through the low cloud. There were houses along the lower road, smoke coming from a few chimneys, a narrow stream running black between snow-covered banks.
+
+Leo leaned forward.
+
+"Oh, wow."
+
+He was looking past Taiga. Taiga moved his shoulder back to give him a better view.
+
+"See that?"
 
 "Yeah."
 
-Taiga pulled the knot out too hard and had to start again.
+"That's so much snow."
+
+"You were standing in snow last week."
+
+"That was dirty campus snow. This is proper snow."
+
+Taiga looked out again. Most of the branches still held it.
+
+"Don't tell Enzo. He'll try to bring some home."
+
+Leo laughed.
+
+He stayed leaning toward the window while the bus rounded the next bend. His sleeve rested against Taiga's upper arm. Taiga could feel the pressure whenever Leo shifted to look at something farther uphill.
+
+He watched the trees.
+
+"Okay," Leo said eventually. "I get why you like this."
+
+"You haven't got off the bus yet."
+
+"I can make preliminary judgments."
+
+"You're going to complain immediately."
+
+"That's a separate issue."
+
+He sat back, still looking outside.
+
+Taiga checked the photograph he'd just taken. There was a reflection of the overhead lights across most of the mountain. Useless. He waited until the bus turned and tried again.
+
+This one was better.
+
+He sent it to the Camp Buddy group.
 
 ***
 
-By Friday, the trip was less than a week away.
+Pinetree had apparently built the entire campus out of wood and uphill.
 
-Taiga had two submissions to finish before leaving and a lab to make up afterward. Leo's quiz had moved to Tuesday. The Apollo chat alternated between bus arrangements, the rooms and Enzo asking whether three nights justified bringing his own pillow.
+The bus stopped outside a long lodge with a stone ground floor and balconies facing the trees. Other buildings climbed behind it, connected by paths with the snow cleared into uneven banks. Below the road, Taiga could see the training fields on a wide, level terrace.
 
-Mercer kept training short. At the end, he reminded them about Saturday's game against Cedar Ridge.
+Leo stepped off the bus and immediately pulled his scarf over his mouth.
 
-"They'll let you have the ball where it doesn't hurt them. Don't mistake that for giving you space. Move it, move yourselves, and be patient."
+Taiga looked at him.
 
-Aaron rolled a ball under his foot while he listened. Leo stood with his arms folded against the cold.
+Leo raised one finger. "Separate issue."
 
-"We'll review tomorrow," Mercer said. "Trip questions can wait until Monday. You have a match first."
+The cold was sharper here. Taiga breathed through his nose and went to get his bag.
 
-On the way inside, Leo showed Taiga a message from his instructor confirming Tuesday's quiz time.
+Three guys in dark green jackets were waiting beneath the lodge porch. The tallest came down the steps to meet Mercer. Brown hair, broad shoulders, a folder held beneath one arm.
 
-"Nine. Again."
+"Coach Mercer? Welcome! I'm Masaru Nakahara, Pinetree's captain. Coach Hale's just finishing downstairs. He'll be with you in a minute."
 
-"You'll survive."
+He offered his hand, then looked past Mercer at the squad.
 
-"You keep predicting that."
+"Did you have a good trip?"
 
-He put the phone away and went to find his bag.
+A few people answered. Enzo came around the bus with his pillow.
+
+Masaru paused.
+
+"Oh. We do have bedding."
+
+"Not like this."
+
+"Ah." He smiled uncertainly. "Well, I'm sure we can find somewhere for it."
+
+"Please don't encourage him," Gav said.
+
+The red-haired guy on the porch laughed, then came down to help unload.
+
+"Are these all going inside?"
+
+"Those stay with us," Mercer said, pointing at the kit bags. "Personal bags upstairs."
+
+"Got it!"
+
+He took one of the duffels and waited while Taiga checked the tag.
+
+"This yours?"
+
+"Yeah."
+
+"I'm Toshu. Toshu Kanada."
+
+"Taiga."
+
+"Nice to meet you!"
+
+The blond behind him leaned against the porch post, hands in his pockets.
+
+"Tofu, you missed one."
+
+Toshu turned. "It's Toshu. And you can carry that yourself."
+
+"I thought you were helping our guests."
+
+"That's your bag."
+
+The blond grinned and picked it up.
+
+He came down the last step, looked at Taiga and then at the two bags Toshu was carrying.
+
+"Ichiru Yanai. If he offers to show you around, bring your phone."
+
+Toshu groaned. "I got lost once."
+
+"Twice."
+
+"One of those times you told me the wrong building!"
+
+"Oh, yeah."
+
+Masaru was trying to hand room keys to Mercer while also explaining where lunch would be. Scott approached, stopped beside him and waited for a pause.
+
+"Uh... Scott. Stirling. I'm the, um..."
+
+"Captain?" Masaru asked.
+
+Scott nodded.
+
+"It's great to meet you." Masaru shook his hand with both of his. "I'll show you where everything is. If anyone needs anything, just tell me."
+
+"Thanks."
+
+Masaru smiled, and Scott managed a smaller one back.
+
+Taiga followed Toshu inside before anyone could offer him another introduction.
 
 ***
 
-Olympus beat Cedar Ridge on Saturday.
+Room 214 had two beds, two desks and a radiator that knocked loudly when Enzo turned the valve.
 
-It took most of the afternoon. Cedar Ridge let them pass around the middle, crowded the box and made every throw-in last as long as possible. The winner came from a low ball across goal that Jordan reached before his marker.
+He took his hand off it.
 
-Leo still put one pass straight out of play. He swore, waved an apology and offered for the next one.
+"Was that bad?"
 
-Afterward, Enzo spent the walk out describing the goal as a victory for patience. Gav asked how he would know.
+"Try hitting it."
 
-Taiga listened to them argue while Leo checked the bus itinerary on his phone.
+"I'd rather not antagonize the heating."
+
+Taiga put his duffel on the bed nearest the door. The window faced a bank of pines, their lower branches buried in snow.
+
+Enzo dropped the pillow on the other bed and unzipped his bag.
+
+A packet of noodles fell out.
+
+Taiga picked it up.
+
+"Emergency," Enzo said.
+
+"They're feeding us."
+
+"We haven't seen the food."
+
+A knock came from the open doorway. Leo leaned in.
+
+"Gav's unpacking."
+
+"Terrible," Taiga said.
+
+"He's taking everything out of his bag. We arrived four minutes ago."
+
+"That's what unpacking means."
+
+Leo looked at the noodles in Taiga's hand.
+
+"See? I told you."
+
+Enzo took them back.
+
+"I don't appreciate this level of surveillance."
+
+"Four packets," Leo told Taiga.
+
+"Go unpack," Enzo said.
+
+Leo came in instead and went to the window.
+
+"Oh, you can see the trees from here."
+
+Taiga joined him. Beyond the nearest trunks, a narrow path curved out of sight. Someone had cleared it as far as a smaller building.
+
+Leo leaned toward the glass.
+
+"Is that a squirrel?"
+
+"No."
+
+"Then what's moving?"
+
+"A branch."
+
+They watched it for another second.
+
+"Right."
+
+Enzo opened a drawer, found nothing in it and immediately opened the one beneath it.
+
+Taiga checked his phone. Hiro had replied to the mountain photograph with six messages and a demand for another one when he got there. He took a picture through the window.
+
+Leo stepped out of the reflection.
+
+"For camp?"
+
+"Yeah."
+
+"Tell Hiro I said hi."
+
+"Tell him yourself."
+
+Taiga opened their chat and held out the phone. Leo took it, typed something and handed it back.
+
+**Taiga:** leo says hi and that this place has aggressive weather
+
+Hiro replied almost immediately.
+
+**Hiro:** Tell mummy guy to put a coat on!!
+
+Leo laughed when Taiga showed him.
+
+"I have one!"
+
+"You can see how he'd be concerned."
+
+Toshu appeared at the door with two more players behind him, pointing them toward the next room.
+
+"Lunch is ready downstairs whenever you are!"
+
+Enzo abandoned his drawers.
 
 ***
 
-Tuesday's lab began with Owen giving them their partners back.
+The dining room had windows along one side and a glass corridor connecting it to the lodge. Most of the tables were empty when they entered. A few Pinetree players sat at the far end with laptops and half-finished drinks.
 
-"Three weeks are up. Work with whoever you want today. Read the requirements before moving your chairs."
+Ichiru had already taken a tray.
 
-Chairs moved immediately.
+He waved Enzo over with his fork.
 
-Leo looked at Taiga, who had already pulled his laptop into the space between them.
+"Pillow! Here!"
 
-"You could at least pretend to consider the options," Leo said.
+Enzo stopped.
 
-"Dylan's got headphones on."
+Taiga almost felt sorry for him.
 
-"Devastating. I'm the consolation prize."
+"My name is Enzo."
 
-He sat beside Taiga and put his notebook down. On the facing page, above a list of unfinished work, he'd written the Pinetree departure time and underlined it twice.
+"Enzo Pillow."
 
-"Seven," Taiga said.
+"Don't let him start," Toshu said.
+
+He was standing behind Ichiru with his own tray, waiting for him to move his jacket off the chair.
+
+"I thought we were learning names," Ichiru said.
+
+"Then learn mine."
+
+"I know yours, Tofu."
+
+Toshu gave up and moved the jacket himself.
+
+Leo took the chair beside him. Taiga sat opposite, between Aaron and Evan. There were still plenty of places, but Enzo pulled another table closer anyway and called Gav over.
+
+The food was good. Hot rice, chicken, vegetables that hadn't been boiled into surrender. Enzo tried a mouthful and visibly relaxed.
+
+Masaru joined them carrying a jug of water.
+
+"There's more if you want seconds. They said to tell you."
+
+"You've made him very happy," Leo said.
+
+"I can see that."
+
+Masaru sat and finally started eating. For a while, conversation stayed with the journey and the weather. Other players came in, left bags beneath tables and joined whichever conversation they could hear.
+
+Toshu asked Evan whether he was the number eleven from Olympus.
+
+"That's me."
+
+"Oh! I thought so. We watched some of your matches."
+
+Evan put his fork down. "Good ones, I hope."
+
+Ichiru shook his head. "Only the embarrassing parts."
+
+"Ignore him," Masaru said. "He complains about film even when he's in it."
+
+"Especially when I'm in it."
+
+"What do you play?" Toshu asked Taiga.
+
+"Left wing. Same as him."
+
+Evan pointed his fork at Taiga. "He wants my job."
+
+"Eventually."
+
+"See? No respect for the elderly."
+
+Toshu laughed. "I'm usually on the right. Maybe we'll get put together tomorrow."
+
+"You won't be on the right," Ichiru said.
+
+"You don't know that."
+
+"Last week Hale put me in defense."
+
+Aaron looked up. "How did that go?"
+
+"He kept telling me to stop following the ball."
+
+"Did you?"
+
+"I got it off him, didn't I, Captain?"
+
+"Then you lost it and left me with two people."
+
+"Details."
+
+Masaru said it without much force, but Ichiru grinned at him and went back to his food.
+
+Aaron leaned back in his chair.
+
+"Fullback's easy. Just run up and down until somebody complains you're in the wrong place."
+
+"That's your version," Evan said.
+
+"Mine looks good."
+
+Across the table, Leo was asking Toshu about the buildings farther up the slope. Toshu started explaining the campus, stopped to correct which building he'd pointed at, then took his phone out to show him a map.
+
+Taiga ate and listened.
+
+When Leo turned the screen toward him, he leaned forward to look. The campus extended farther behind the lodge than he'd expected. There was a road at the top, a cluster of residences and several trails marked beyond them.
+
+One led to an overlook.
+
+He checked where it started before Leo handed the phone back.
+
+***
+
+Daniel Hale met them after lunch.
+
+He was waiting in the entrance hall of the training building, speaking to Mercer. Taller, gray at the temples, wearing a dark green tracksuit with the sleeves pushed up. He finished what he was saying before turning to them.
+
+"Welcome to Pinetree. I hope you've had time to settle in."
+
+Behind Taiga, Enzo made a quiet noise.
+
+Gav elbowed him.
+
+"We'll keep today light. A little mobility work after the bus, then I'll show you the facilities. Tomorrow we start at eight-thirty."
+
+He looked around the group.
+
+"Mercer has sent me your usual positions. During the joint sessions, you'll spend some time somewhere else. Some of you will enjoy it. Some of you won't."
+
+"Can we request somewhere?" Aaron asked.
+
+"You can."
+
+"Will you listen?"
+
+Hale smiled faintly. "We'll see."
+
+They left their coats in a changing room and followed him into the gym.
+
+For twenty minutes, Taiga concentrated on getting the stiffness out of his legs. The bus had done something unpleasant to one hip. Evan was stretching beside him, complaining under his breath about being treated like an old man until Mercer told him to stop proving the point.
+
+Pinetree players joined them in small groups. Toshu sat on the mat opposite Leo and immediately bent farther forward than Taiga considered necessary.
+
+"How?"
+
+Toshu looked up. "What?"
+
+Leo pointed at his feet. "That."
+
+"Oh. I do this a lot."
+
+"Apparently."
+
+Ichiru was lying on his back two mats over.
+
+"Tofu can fold up. We put him in the kit bag for away games."
+
+Toshu threw his rolled towel at him.
+
+Hale let them finish, then took them through the building.
+
+The weight room was smaller than Olympus's, but the indoor hall opened onto a long window overlooking the pitches. Outside, the green surface had been cleared. Snow lay along the fences and piled behind the goals.
+
+Taiga stopped at the glass.
+
+From up here, he could see the edge of the terrace beyond the far touchline. Pines continued down the slope behind it. There were low stands on one side, a scoreboard and a narrow road connecting the field to the buildings above.
+
+He could imagine the Sunday match here already.
+
+Leo stopped beside him.
+
+"That's a cool pitch."
+
+"Yeah."
+
+"Running back up afterward might kill me."
+
+Taiga glanced toward the path they had used coming down. It looked considerably steeper from here.
+
+"Don't lose. Then you'll have a reason to hurry."
+
+Leo laughed. "Excellent incentive."
+
+Mercer called them along.
+
+Hale showed them the meeting rooms, pointed out where the treatment staff would be and brought them to a whiteboard near the equipment store.
+
+"Tomorrow's first block is mixed groups. We'll change roles after each game."
+
+Gav asked about the numbers. Hale answered, then drew a short line between two magnets.
+
+"If you spend a session receiving here, I want you to come away knowing what information your teammate needs when you give him the ball there."
+
+Taiga followed the line. Central, back to pressure. Leo's usual problem.
+
+He looked over.
+
+Leo caught him and narrowed his eyes.
+
+Taiga smiled.
+
+Hale moved one of the magnets wide.
+
+"And if you're used to having the touchline help you, we'll find out what happens when you don't."
+
+Leo's smile returned immediately.
+
+Fine. Fair.
+
+By the time they came back outside, the cloud had thinned enough to show a strip of blue above the ridge.
+
+They had the rest of the afternoon free.
+
+***
+
+Toshu took them back by a different path, past the library and a residence building with ski poles propped inside the entrance.
+
+"People just go skiing?" Leo asked.
+
+"When there's time. There's a shuttle on weekends."
+
+Enzo looked at Gav. "We picked the wrong school."
+
+"You hate the cold."
+
+"I could hate it recreationally."
+
+They came out behind the lodge. The path opened onto a wide lawn with a few benches along the edge. Snow covered most of it, broken by footprints between the back doors and a small shed.
+
+Taiga stopped near the railing and looked toward the ridge.
+
+The wind had dropped. He could hear people farther down by the training building, but nothing from the road. Snow slipped from a branch somewhere behind him.
+
+He pulled his phone out and took another photograph.
+
+This one needed no bus window.
+
+Leo came up beside him, raising his own phone.
+
+"You're blocking half the mountain."
+
+"Move."
+
+"I'm finding an angle."
+
+"Try a different one."
+
+Leo took a step sideways. Taiga caught the edge of his scarf in the photograph anyway.
+
+Behind them, Ichiru said, "Hey, Tofu."
+
+"What?"
+
+A snowball hit Toshu's shoulder.
+
+He stopped and looked down at the white smear on his coat.
+
+"Ichiru."
+
+"What?"
+
+"Why?"
+
+Ichiru was already making another one.
+
+Toshu crouched.
+
+"Don't," Masaru said.
+
+The snowball Toshu threw missed Ichiru by at least a meter and struck Enzo squarely in the back.
+
+Enzo went still.
+
+"Oh! Sorry!" Toshu said. "I was trying to hit him!"
+
+Slowly, Enzo turned.
+
+Taiga put his phone away.
+
+"Well," Enzo said. "Now you've involved me."
+
+Ichiru laughed and ducked behind Toshu as Enzo scooped snow from beside the path.
+
+"Wait, wait, he's behind—"
+
+Enzo threw. Toshu jumped aside. The snowball burst against the railing.
+
+Leo had started laughing.
+
+"Terrible aim!"
+
+Enzo looked at him.
+
+Leo stopped.
+
+"Oh, shit."
+
+He barely had time to turn before the next one caught him across the back of his coat.
+
+Taiga laughed.
+
+Leo looked over his shoulder.
+
+"Okay."
+
+He crouched beside the nearest bench.
+
+Aaron put his bag down.
+
+"Finally. Something interesting."
+
+"No faces," Masaru said, looking from one side of the lawn to the other. "And stay off the path. It's slippery."
+
+Ichiru hit him in the sleeve.
+
+For a second, Masaru simply looked at the snow.
+
+Then he set the folder he was carrying on the porch.
+
+Toshu backed away from him.
+
+"Captain, I didn't—"
+
+"I saw."
+
+Masaru bent down.
+
+Taiga stepped off the path as the first proper exchange went past him. Leo and Ichiru had taken the bench nearest the trees. Enzo was retreating toward a low wall with Gav, who kept insisting that he hadn't agreed to anything while helping himself to snow.
+
+Aaron came up on Taiga's left.
+
+"That one?"
+
+He meant Ichiru.
+
+"Yeah."
+
+They threw together.
+
+Ichiru dropped behind the bench. Leo took Aaron's snowball on the upper arm and immediately tried to claim he had only been passing through.
+
+"Then keep going," Aaron called.
+
+Taiga scooped up another handful.
+
+The surface had softened in the sun, but beneath it the snow was cold and loose. He pressed it between his gloves and watched Leo peek over the back of the bench.
+
+Leo saw him looking.
+
+Taiga waited.
+
+Leo ducked.
+
+He threw at the other end.
+
+The snowball caught Leo's shoulder as he came around it.
+
+"Fuck!"
+
+Taiga laughed again.
+
+"Predictable."
+
+"Come here and say that!"
+
+"You're already losing from there."
+
+Leo made a fresh snowball, muttering something to Ichiru. Taiga couldn't hear it, but Ichiru's grin widened.
+
+Aaron moved toward the left to get around their cover.
+
+"Watch him," Taiga said.
+
+"I see him."
+
+He did not see Toshu, who had circled behind the benches and hit him between the shoulder blades.
+
+Aaron turned.
+
+Toshu was already running.
+
+"Oh, you're dead."
+
+Taiga watched them go, then turned back just in time to see Leo's arm move.
+
+Snow burst across his chest.
+
+For a second, he stared at the front of his coat.
+
+Leo stood beside the bench with both hands raised.
+
+"Predictable!"
+
+"Fuck you."
+
+Leo was laughing too hard to get out of the way of the next one.
+
+After that, keeping track of sides became pointless.
+
+Evan joined Enzo behind the wall and immediately betrayed him when Masaru came around the other side. Gav got hit while trying to explain that snowballs shouldn't count if they broke up before impact. Scott stayed under the porch until Ichiru threw one that landed near his shoes.
+
+He looked down, then up.
+
+Ichiru had already hidden.
+
+Taiga saw Scott quietly collect a handful from the railing. He waited.
+
+When Ichiru emerged again, Scott's throw caught him cleanly in the chest.
+
+The porch erupted.
+
+Scott retreated through the doorway before anyone could congratulate him.
+
+Masaru was laughing now. He had snow caught in his hair and one glove had disappeared into his sleeve. Toshu found it for him, handed it back and got hit in the side by Enzo while doing it.
+
+"Sorry!" Enzo shouted.
+
+"You don't mean that!"
+
+"No, but you seem to like saying it!"
+
+Taiga moved around the end of the bench. Leo was crouching behind it with a small pile of snowballs laid out beside his knee.
+
+He looked up.
+
+"Oh, no."
+
+Taiga kicked loose snow over his ammunition.
+
+"HEY!"
+
+Leo grabbed at Taiga's coat. Taiga twisted out of his reach and backed away, laughing as Leo scrambled after him.
+
+A snowball broke against Taiga's sleeve. Another went past his ear and landed somewhere behind him.
+
+"Masaru said no faces!"
+
+"I missed!"
+
+"That's not better!"
+
+Leo scooped snow while still moving. Half of it fell out of his hand. Taiga stopped running long enough to hit him low in the coat.
+
+Leo folded forward, laughing and swearing.
+
+Taiga was trying to make another when Aaron called from behind him.
+
+"Forty-one!"
+
+He turned.
+
+Bad decision.
+
+Aaron's snowball caught him directly beneath the collar. Most of it stayed outside. Enough went in.
+
+"YOU FUCKING—"
+
+Taiga bent forward and pulled the neck of his coat away from his skin.
+
+Leo saw what had happened and lost it.
+
+He had one hand braced on the back of the bench, the other pressed against his stomach. Taiga could hear him trying to breathe between laughs.
+
+Aaron was already retreating toward the porch.
+
+"That was perfect!"
+
+"I'm killing you!"
+
+"You have to catch me!"
+
+Taiga got most of the snow out. The rest had become cold water against the back of his shirt.
+
+He looked at Leo.
+
+Still laughing.
+
+"You're enjoying that."
+
+Leo nodded helplessly.
+
+Taiga gathered a handful.
+
+"No, wait—"
+
+Leo took off before Taiga finished packing it.
+
+By the time Masaru called a stop, Taiga's gloves were wet and there was snow inside one of his boots.
+
+Enzo was trying to empty a sleeve. Ichiru had somehow got the back of his hair wet. Toshu had fallen on his ass once and was insisting it hadn't hurt while checking the seat of his trousers.
+
+Aaron came over with his coat open.
+
+"Truce?"
+
+Taiga looked at him.
+
+Aaron started smiling.
+
+"You have to admit—"
+
+"No."
+
+"Come on."
+
+Taiga pulled the last bit of wet fabric away from his neck.
+
+Aaron laughed and held up his hands.
+
+"Alright. My bad."
+
+He brushed snow off Taiga's shoulder before heading inside with Evan.
+
+Leo was standing near the railing again, breathing hard. His cheeks were red, and loose strands of hair had stuck to the damp edge of his scarf.
+
+Taiga went to stand beside him.
+
+For a while, they watched Toshu attempt to shake snow from Ichiru's hood. Every time he got hold of it, Ichiru moved.
+
+"Hold still!"
+
+"I am!"
+
+"You're turning!"
+
+Leo laughed, quieter this time.
+
+Taiga looked over.
+
+"What?"
+
+"Nothing. Your face when Aaron got you."
+
+Taiga shoved his shoulder.
+
+Leo rocked sideways, still smiling.
+
+"You turned around so fast."
+
+"He called me."
+
+"Yeah, that was the clever part."
+
+Taiga shook his head. His face hurt a little from laughing. He hadn't noticed how cold his nose had got until they stopped running.
+
+Leo rubbed both gloved hands over his arms.
+
+"Okay. Now I'm cold."
+
+"You were cold before."
+
+"I got distracted."
+
+Taiga looked back toward the lawn. There were trenches where they'd run, the broken remains of snowballs across the benches and a deep mark where Toshu had gone down.
+
+Leo followed his gaze.
+
+"We made a mess."
+
+"Snow."
+
+"Still."
+
+He took a photograph, then stepped back to get more of the lawn into it.
+
+Taiga waited.
+
+"Come on," Leo said, putting the phone away. "I need something hot."
+
+They went inside together.
+
+***
+
+Taiga changed his shirt and left his gloves near the radiator.
+
+Enzo was already in dry clothes, inspecting a small red mark on his wrist.
+
+"Someone put a stone in that one."
+
+"No, they didn't."
+
+"Then they have very dense snow."
+
+"You're fine."
+
+Enzo looked at the gloves.
+
+"Can't put those right on top. Masaru said."
 
 "I know."
 
-"You've written six-fifty underneath."
+"Just checking."
 
-"That's when I have to be there to be there at seven."
+Taiga hung the wet shirt over the back of his chair and sat on the bed.
 
-Taiga considered that and decided it was fair.
+His phone had filled with replies to the photographs.
 
-Owen put the task on the screen. They read it. Leo opened the starter project while Taiga checked the tests.
+Hiro wanted to know whether there were bears. Yoichi had sent a picture of Yuki asleep across a doorway, with a complaint about people who went on vacation. Keitaro had asked whether they were training that afternoon.
 
-"Oh, and I found a waterproof jacket," Leo whispered.
+Taiga sent him a photograph Leo had just posted in the Apollo chat.
+
+Enzo stood in the middle of the ruined lawn, both arms spread, snow all over the front of his coat. Gav was walking away behind him.
+
+**Taiga:** apparently
+
+Keitaro replied with a laughing face.
+
+Taiga opened the group photograph Toshu had sent afterward. Someone had taken it from the porch near the end of the fight. Aaron was pointing at something out of frame. Taiga stood a few steps behind him, head turned toward Leo.
+
+He looked at his own face for a second.
+
+Then he saved the picture.
+
+Across the room, Enzo dropped onto his bed.
+
+"I'm never going outside again."
+
+"Dinner's downstairs."
+
+"I can do downstairs."
+
+***
+
+At dinner, Masaru apologized for the snow.
+
+"I was going to show you the rest of the campus."
+
+"You did," Enzo said. "Very thoroughly."
+
+"Well, most of it. The academic buildings are farther up."
+
+"That's alright," Gav said. "We found the pitches."
+
+"And the food," Leo added.
+
+Ichiru reached across Toshu for the bread basket.
+
+"Stop apologizing. They had fun."
+
+"I know, but—"
+
+"I had fun," Toshu said.
+
+Masaru looked at him, then laughed.
+
+"Okay. Good."
+
+The dining room was busier now. Players had spread between the tables instead of keeping to their own teams. Someone near the windows was showing Scott a save on his phone. He leaned closer, hair falling across his face, then pointed at something on the screen.
+
+Aaron was talking to Ichiru about Sunday.
+
+"Striker?"
+
+"Most of the time."
+
+"You any good?"
+
+Ichiru looked delighted. "Come find out."
+
+"I'm a fullback."
+
+"So run across."
+
+Aaron laughed. "Alright. I'll make a special trip."
+
+Toshu shook his head and went back to eating.
+
+Leo yawned beside him.
+
+Taiga looked over. "You going to survive?"
+
+"Probably."
+
+"You slept on the bus."
+
+"For about twenty minutes. Then someone started discussing his sandwich."
+
+Enzo raised a finger. "Legitimate concerns."
+
+Leo yawned again before he could answer.
+
+"What time did you go to bed?" Evan asked.
+
+"Late. I had to finish something before we left."
+
+Taiga gave him a look.
+
+"It's finished," Leo said.
 
 "Congratulations."
 
-"Enzo says it makes me look like a park employee."
+"Thank you. I worked hard."
 
-"Even better. They'll give you work."
+After dinner, Toshu asked if anyone wanted to see the common room. Enzo had already heard there were cards.
 
-Leo nudged his shoe under the desk. Taiga looked at the screen and took a moment before answering.
+Most of them followed.
 
-"Requirements first."
+***
 
-"I read them."
+The room occupied the back corner of the lodge. Low couches faced a broad stone fireplace, with two long tables farther from the heat. There was an upright piano beneath a cover near the windows and a shelf of board games with several boxes held shut by elastic bands.
 
-"Then why are you doing that?"
+Someone had already lit the fire.
 
-Leo leaned over to see the line he was pointing at.
+Taiga took the end of a couch and stretched his feet toward it. The warmth reached his socks almost immediately. He hadn't realized how much he still wanted that.
 
-Thirty seconds later, they were arguing about a helper function.
+Leo sat beside him.
+
+"Okay. This is nice."
+
+"Yeah."
+
+Across the room, Ichiru was opening a deck of cards. Toshu pulled a low table between the couch and two armchairs. Enzo moved a bowl of pretzels onto the end table beside Taiga.
+
+"What are we playing?"
+
+"Cheat," Ichiru said.
+
+Gav sat in an armchair. "Which rules?"
+
+"The normal ones."
+
+"That doesn't help."
+
+They spent several minutes establishing whose version counted as normal. Evan joined them halfway through, listened to the argument and asked whether they could start before breakfast.
+
+Toshu dealt.
+
+"You put them down face down," he explained to Leo, "and say what you've played. If someone thinks you're lying, they call you. Then we turn them over."
+
+"And whoever's wrong takes the pile," Leo said.
+
+"Yeah!"
+
+"So this is a game about making your friends distrust you."
+
+Ichiru leaned forward. "Exactly."
+
+Taiga picked up his cards.
+
+For the first few turns, everyone behaved reasonably. Then Enzo put down three cards and announced a pair.
+
+Gav looked at the little pile.
+
+Enzo waited.
+
+"That's three," Gav said.
+
+"Is it?"
+
+"Enzo."
+
+"Fine. Three."
+
+"Cheat."
+
+Enzo turned them over and started laughing.
+
+Toshu covered his face.
+
+"You're supposed to keep a straight face!"
+
+"I was correcting the paperwork."
+
+Taiga pushed the pile toward him.
+
+"Take your shit."
+
+Leo leaned against the back of the couch, laughing. The fire had put a little color back into his face. He'd taken his hair down, and every time he leaned forward a strand fell against his cheek.
+
+Taiga returned to his cards.
+
+Ichiru was much harder to catch. He talked through most of his turns, commenting on people's hands, offering advice nobody had asked for and occasionally putting down cards before the previous player had finished.
+
+Toshu called him on almost everything.
+
+Sometimes he was right.
+
+Most of the time, Ichiru just smiled and handed him the pile.
+
+"You're doing that on purpose," Toshu complained.
+
+"Playing?"
+
+"Being annoying."
+
+"You keep believing me!"
+
+"I don't believe you!"
+
+"Then stop being wrong."
+
+Toshu looked at the cards he'd just picked up.
+
+Taiga could see him trying to work out whether that made sense.
+
+Masaru came over carrying tea. Toshu shifted to make room for him in the other armchair.
+
+"How's it going?"
+
+"Badly," Toshu said.
+
+Ichiru pointed at the cards in Toshu's hands.
+
+"He's winning."
+
+Masaru laughed and set the mugs down.
+
+"Do you want me to take over for a bit?"
+
+"No! I can do it."
+
+He put down two cards.
+
+Ichiru immediately leaned forward.
+
+Toshu froze.
+
+Taiga looked from one to the other. "You haven't even said what they are."
+
+"Oh. Right."
+
+They got through most of a game before Taiga put down his last cards. Enzo called him.
+
+Taiga turned them over.
+
+Enzo groaned.
+
+"Out."
+
+"You've been lying the whole time."
+
+"Yeah. That's the game."
+
+"Except now."
+
+Taiga smiled at him.
+
+Leo shifted beside him and leaned across to reach the pretzels. His left palm came down on Taiga's thigh, just above the knee.
+
+Taiga went still.
+
+Leo took the bowl with his other hand and sat back.
+
+The hand stayed.
+
+Across the table, Gav was counting the cards Enzo had just picked up. Taiga heard him say something about probability and watched Enzo deliberately turn his cards away.
+
+Leo's palm was warm through the fabric of his trousers. His fingers rested loosely against the side of Taiga's leg.
+
+Taiga looked down.
+
+Then at Leo.
+
+Leo was holding the pretzel bowl out toward him.
+
+For a second, neither said anything.
+
+Taiga took one.
+
+"Thanks."
+
+Leo smiled a little and put the bowl on the table.
+
+He kept his other hand where it was while Toshu made an increasingly unconvincing argument about his next turn. When Ichiru called him, Leo laughed, fingers moving briefly against Taiga's thigh.
+
+Taiga watched Toshu turn over his cards.
+
+All wrong.
+
+The room erupted. Toshu dropped his head back against the chair.
+
+"Why do I keep doing that?"
+
+"Because you announce it with your whole face," Aaron said from behind him.
+
+"I do not!"
+
+Aaron imitated him. Badly, but recognizably enough that Toshu started laughing too.
+
+Leo finally lifted his hand to catch a card Enzo tossed at him.
+
+Taiga let out a slow breath through his nose and reached for another pretzel.
+
+They started again.
+
+This time, Masaru took Evan's place. He said sorry when he made someone pick up the pile and looked so apologetic about it that Taiga believed him on the next turn.
+
+Mistake.
+
+"Huh," Taiga said, looking at the cards.
+
+Masaru gave him an awkward smile.
+
+Ichiru slapped the arm of his chair.
+
+"See? Captain's the worst one here!"
+
+"I'm playing properly!"
+
+"That's what's scary."
+
+The second game was louder. People came over to watch, stayed for a few turns and moved on again. Scott settled near Gav without joining in. Somewhere behind them, a board-game argument had reached the instructions.
+
+Leo played more slowly now. Once, Taiga had to point at the table before he realized it was his turn.
+
+"Sorry. Thinking."
+
+"About your cards?"
+
+"Among other things."
+
+He put down one card, got called and took the pile.
+
+Taiga laughed.
+
+Leo bumped his elbow.
+
+"Don't enjoy it so much."
+
+"Then stop doing it."
+
+After that round, Leo handed his cards to Aaron.
+
+"I'm taking a break."
+
+"Already?"
+
+"I need to reassess my friends."
+
+He moved toward the other end of the couch while Aaron pulled up a chair. Taiga stood to stretch his legs. When he returned from refilling his mug, Leo had tucked his feet up and was watching the game with his cheek resting on his bent arm.
+
+"Comfortable?"
+
+"Very."
+
+Taiga sat at the vacated end and picked up his new hand.
+
+Toshu finally won a round.
+
+Nobody believed his last play. That was what made it work. Ichiru called him with complete confidence, turned over the cards and stared.
+
+Toshu sat up.
+
+"Ha!"
+
+Ichiru looked at him.
+
+"HA!"
+
+"Alright! You won!"
+
+Toshu got up and went around the table to show Masaru, who had watched the entire thing.
+
+Taiga turned toward Leo.
+
+His eyes were closed.
+
+He waited for him to laugh at Toshu's victory, but Leo didn't move. One hand lay beside his face. The other had slipped between the cushions. His mouth was slightly open.
+
+Already?
+
+Taiga watched him for a few seconds.
+
+A strand of hair moved when he breathed out. With his cheek against his sleeve, he looked almost like he had on the bus that morning.
+
+Taiga smiled.
+
+Then he looked at the bare armrest beneath Leo's head.
+
+There was a spare cushion in the chair beside the fireplace. He got up, took it and went back to the couch.
+
+Leo stirred when Taiga slid it beneath his head. His eyes opened a little.
+
+"Here."
+
+"Mhm."
+
+He shifted onto the cushion and went still again.
+
+Taiga left his mug on the end table and sat down.
+
+Aaron was dealing another hand.
+
+The games broke up gradually.
+
+Gav left to speak to one of Pinetree's midfielders. Ichiru tried to persuade Toshu to play something else after Toshu beat him again, then claimed that the entire evening had been practice. Enzo went to the kitchen with a stack of mugs and returned carrying biscuits.
+
+Taiga stayed where he was.
+
+He was warm. His legs had stopped aching from the bus. There was nowhere he needed to be for the next hour.
+
+Near the window, Toshu lifted the cover from the piano.
+
+"Captain, can you play something?"
+
+Masaru looked up from collecting cards.
+
+"Oh, I don't know. People are talking."
+
+"They can still talk."
+
+"You play?" Evan asked.
+
+"A bit."
+
+"He's really good," Toshu said.
+
+Masaru went a little red.
+
+"That's not—I've just been doing it a long time."
+
+Ichiru dropped the cards back into their box.
+
+"Then go do it."
+
+Masaru looked around, apparently checking whether anyone minded, then went over. He sat, tried a few keys and adjusted the stool.
+
+The tune was familiar enough that Taiga thought he should know it. He couldn't remember the name.
+
+Toshu sat nearby and listened. Ichiru interrupted after a minute to request something faster. Masaru kept playing, smiling down at the keys.
+
+Conversation continued around the room.
+
+Enzo and Evan argued quietly about whether the biscuits were homemade. Someone from Pinetree put another log on the fire. Taiga checked the time, then put his phone away without opening anything.
+
+Leo slept through all of it.
+
+***
+
+At ten-thirty, Mercer appeared in the doorway.
+
+"Breakfast seven. First session eight-thirty. Get some sleep."
+
+People started gathering cards, cups and jackets.
+
+Gav came back and stopped at the couch.
+
+"Leo."
+
+Nothing.
+
+"Mendez."
+
+Leo opened his eyes.
+
+For a second he looked completely lost. Then he pushed himself upright, hair flattened on one side.
+
+"What time is it?"
+
+"Bedtime," Gav said.
+
+"I wasn't—"
+
+Taiga looked at him.
+
+Leo stopped.
+
+"Okay. Maybe a little."
+
+Gav took the mug from the table. "Come on."
+
+Leo stood and stretched, wincing when his back straightened. He looked down at the cushion, then put it against the armrest.
+
+Taiga got his phone and followed them to the stairs.
+
+At the landing, Leo turned toward him.
+
+"Night, AG."
+
+"Night."
+
+Leo smiled sleepily and followed Gav down the corridor.
+
+Enzo was already opening Room 214.
+
+"Finally. My legs."
+
+"You spent the last two hours sitting."
+
+"And now I'd like to lie down."
+
+He went inside and immediately claimed the bathroom.
+
+Taiga checked his gloves. Still damp at the fingertips. He spread them out, moved his phone charger closer to the bed and took his clothes from the bag.
+
+Outside the window, the path lights lit a narrow strip of snow beneath the trees. Beyond that, the mountain had disappeared into the dark.
+
+His phone buzzed.
+
+**Leo:** toshu says he won???
+
+Taiga laughed.
+
+**Taiga:** twice
+
+**Leo:** damn
+**Leo:** i missed character development
+
+**Taiga:** you missed everything
+
+**Leo:** unfair
+**Leo:** rematch tomorrow
+
+He smiled.
+
+**Taiga:** go to sleep first
+
+Leo reacted with a thumbs-up.
+
+Taiga put the phone on the desk and went to brush his teeth.
