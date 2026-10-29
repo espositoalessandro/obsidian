@@ -1,5 +1,3 @@
-### Chapter 17 - Thin Air
-
 Caleb watched Taiga take the third sweatshirt out of his bag.
 
 "You can leave it in."
