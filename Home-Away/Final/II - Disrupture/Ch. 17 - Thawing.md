@@ -53,7 +53,7 @@ He wasn't.
 
 Taiga was standing beside the bus with his backpack over one shoulder. Behind him, bags thumped into the luggage compartment. The practice fields were still dark beyond the parking lot.
 
-Leo stopped in front of him.
+Leo passed beside him and threw his bag in the bus.
 
 "Morn'n."
 
@@ -65,7 +65,7 @@ Taiga looked at him.
 
 Taiga blinked. "Are you actually awake?"
 
-"I dunno... prob'ly no."
+"I dunno... prob'ly not."
 
 Behind Leo, Enzo emerged from the other side of the bus hugging a pillow almost as wide as his body.
 
@@ -132,5 +132,6 @@ Leo sat back. "Now I get why you like this."
 
 "You're gonna complain immediately anyways."
 
-"I can still like it from a safe distance."
+"I can still appreciate it from a safe distance."
 
+Taiga shook his head and snapped a photo of the view.
