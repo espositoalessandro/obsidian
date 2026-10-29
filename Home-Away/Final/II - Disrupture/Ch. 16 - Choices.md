@@ -551,9 +551,7 @@ Leo's face changed instantly. Worry washed away the fake smile.
 
 "You're good."
 
-Leo looked away and opened his bottle.
-
-"...I'm not. I'm pissed."
+Leo looked away. After a while, he said "...I'm not. I'm pissed."
 
 Taiga snorted lightly. "Yeah, no shit."
 
