@@ -395,8 +395,15 @@ Oh, fuck.
 
 In the second random lab, Taiga ended up beside a guy from the front row who wrote comments before code. Leo disappeared somewhere behind him with another assigned partner.
 
-They started working.
-Later, his phone buzzed under the desk.
+His partner had already written out the cases they needed to handle.
+
+"Do we need all that?" Taiga asked.
+
+"It helps me keep track. You can start if you want."
+
+Taiga read through the list. Empty queue, one item, several items. Fine. At least they wouldn't have to keep scrolling back to the requirements.
+
+They started working. Later, his phone buzzed under the desk.
 
 **Leo:** this guy uses camelcase for constants
 
@@ -405,13 +412,50 @@ Later, his phone buzzed under the desk.
 **Leo:** finally some institutional support
 
 Taiga locked the phone and went back to the assignment.
-After a while, 
+
+His partner pointed at the screen. "If you take the last one out, what happens when you add another?"
+
+They tried it. The new item went into the queue. Getting it back out took another six minutes and a correction Taiga should have spotted earlier.
+
+He left the comments alone.
+
+After a while, he reached for his phone.
 
 **Taiga:** this guy puts the opening curly brace of the function on a new line
 
 **Leo:** he needs therapy
 
-He chuckled and went back to the code.
+Taiga chuckled.
+
+"You found it?" his partner asked.
+
+"No. Sorry. Someone being an idiot."
+
+He put the phone face down and turned back to the screen.
+
+They finished with enough time to run the tests again. While his partner uploaded his submission, Taiga checked his messages.
+
+**Leo:** coffee after?
+
+**Taiga:** yes
+
+**Leo:** good because i need to complain out loud
+
+By the time Taiga had packed, Leo was coming down the aisle with his bag hanging open.
+
+"The comments guy?" he asked quietly.
+
+"Useful, actually."
+
+"So you're keeping him?"
+
+Taiga reached past him and pulled the zip shut before his notebook fell out.
+
+"Apparently Owen's making that decision."
+
+"Right. Horrible system. Come on."
+
+They headed out while Leo explained why naming conventions mattered more than his partner seemed to think.
 
 ***
 
