@@ -381,12 +381,12 @@ Taiga returned to question four. His ears felt hot.
 Minutes passed, and an uncomfortable question began crawling in his mind: what if Leo was doing that on purpose?
 Every answer he tried made his stomach tighten more and more.
 
-Then, doubt kicked in: what if Leo wasn't? What if Taiga was just reading too much into it?
+Then, doubt kicked in: what if Leo wasn't? What if he was just reading too much into it?
 
 This was getting out of hand. 
-But then, why didn't he just move the leg himself? Taiga had space. He could retract from contact anytime.
+But then, why didn't Taiga just move the leg himself? He had space. He could retract from contact anytime.
 
-Instead, he glanced from his notes at Leo as he slightly pressed his leg as well. 
+Instead, he glanced from his notes at him as he pressed his knee lightly against Leo’s. 
 For a second Leo stopped writing.
 
 Oh, fuck.
