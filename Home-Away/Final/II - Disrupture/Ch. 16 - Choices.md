@@ -642,11 +642,9 @@ The Tuesday after that, Owen walked in, connected his laptop and looked at the r
 
 Leo looked at Taiga, who had already moved his laptop into the space between their seats.
 
-Leo looked down at it, then back at him.
-
 “What?” Taiga said.
 
-“Nothing.”
+He smiled. “Nothing.”
 
 Owen started explaining the assignment. Taiga opened the starter repository. 
 
