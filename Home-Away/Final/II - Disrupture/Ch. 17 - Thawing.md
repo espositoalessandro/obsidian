@@ -380,8 +380,30 @@ Miles stuck his tongue out at him. Then he turned to the rest.
 
 "We can take you there tomorrow, if you want. Sadly, we've still got classes today."
 
-Leo grinned. "Sounds nice!"
+Leo grinned. "Yeah!"
 
-Miles smiled back. "Ookay, deal!"
+Miles smiled back. "Ookay, deal! Now I think..."
+
+He checked the clock.
+
+"Yeah, we gotta skedaddle. We finish at four. If you guys wanna meet up, we can show you around before it gets dark."
+
+"That'd be really nice of you, thanks," Evan said.
+
+"At the library?" Gav asked.
+
+"Yeah, perfect! There's a coffee stall right inside, too" Miles answered.
+
+"That's all you had to say," Leo said.
+
+Miles took out his phone. He and Leo exchanged numbers, and a moment later the Apollo chat had a photograph of the library entrance.
+
+Skylar handed Miles the backpack he'd left on the bench.
+
+"Come on."
+
+"Right! See you guys later!"
+
+They left through the other door, Miles still talking as he hurried to catch up.
 
 ***
