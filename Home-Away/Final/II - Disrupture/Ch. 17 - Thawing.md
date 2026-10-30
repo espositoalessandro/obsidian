@@ -277,7 +277,7 @@ The food was good. Hot rice, chicken, vegetables that hadn't been boiled into su
 
 A guy had stopped beside Leo, tray in hand. His short hair was white, with sky blue underneath, and he had a pale jacket hanging open over his shirt.
 
-Leo nodded. "Yeah."
+Leo nodded. "Yep."
 
 "Awesome! Mind if I join you? I'm Miles. Miles King."
 
@@ -309,12 +309,12 @@ They talked about Olympus and showed him some photos.
 
 Miles was holding Leo's phone, looking at a photo of the stadium. Another guy walked past him with a tray. Miles glanced up.
 
-"Hey, Skylar, check this out."
+"Hey, Skip, check this out!"
 
 Brown skin, cropped black hair, small black earrings. A yellow hood lay over the collar of his black jacket.
 When Taiga looked at him, something about his face looked familiar.
 
-Skylar glanced at the screen.
+He glanced at the screen.
 
 "That your campus?"
 
@@ -326,9 +326,11 @@ Skylar glanced at the screen.
 
 Miles's eyes were sparkling. "Ohh, I can't wait to see it! I bet playing away at Olympus gets pretty intimidating."
 
-"Hey, Skylar, right? Want to join us?" Leo said.
+"It's gonna take some time for the away match," the guy said.
 
-The guy put his tray on the table and sat next to Miles. "Yes. Skylar Pascual. Nice to meet you."
+Miles waved him in. "Come on, sit with us!"
+
+The guy put his tray on the table and sat next to Miles. "Skylar Pascual. Nice to meet you."
 
 "That's a freaking cool name," Aaron said.
 
@@ -340,7 +342,7 @@ Skylar had kicked him under the table. "Shut up."
 
 "What position do you guys play?" Evan asked.
 
-"I'm usually the right winger. Skylar is our beloved striker. You should've already met our captain. He's our center-back," Miles answered.
+"I'm usually the right winger. Skylar is our beloved striker. You should've already met our captain, Dennis. He's our center-back," Miles answered.
 
 Aaron frowned. "Usually?"
 
@@ -386,7 +388,7 @@ Miles smiled back. "Ookay, deal! Now I think..."
 
 He checked the clock.
 
-"Yeah, we gotta skedaddle. We finish at four. If you guys wanna meet up, we can show you around before it gets dark."
+"Yeah, we gotta skedaddle. We finish at four. If you guys wanna meet up, we can show you around before it gets dark!"
 
 "That'd be really nice of you, thanks," Evan said.
 
@@ -677,3 +679,57 @@ They walked to the common lodge together. The entrance was warm, with a rack of 
 
 ***
 
+At dinner, Miles had his phone out between mouthfuls.
+
+"Wait, there's another one. Look at Aaron."
+
+He turned the screen toward them.
+
+Aaron stood halfway across the lawn, one arm still extended after a throw. Behind him, Skylar was trying to run and get snow out of his collar at the same time.
+
+"Send me that," Aaron said.
+
+"Already did! Leo's got all of them."
+
+"Delete it," Skylar said.
+
+Miles smiled and put his phone safely on the other side of his plate.
+
+The dining hall was busier now. Players had spread between the tables instead of keeping to their own teams. Someone near the windows was showing Scott a save on his phone. He leaned closer, hair falling across his face, then pointed at something on the screen.
+
+"You graduating this year too?" Dennis, their captain, asked Evan.
+
+They started comparing what they still had left to finish.
+Miles wanted to know whether there was snow where Leo came from.
+
+"Nope. Santo Domingo."
+
+"Oh, wow! So this is still new for you?"
+
+"New enough that I keep forgetting it goes inside your clothes."
+
+Skylar reached for the bread basket.
+
+"My cousins in Cebu keep asking me for snow pictures. Should send them that."
+
+"The one of you?" Miles asked.
+
+"Of him."
+
+He pointed at Taiga.
+
+"Don't," Taiga said.
+
+Skylar grinned.
+
+"Oh, so you're a tropical guy too!" Enzo said.
+
+"Yeah, I'm from Bacolod, in the Philippines."
+
+"How did you end up on a mountain?" Leo asked.
+
+"My parents transferred here for work when I was a child."
+
+They went on a conversation about their islands, comparing habits, climate and food.
+
+After dinner, they went to the common room.
