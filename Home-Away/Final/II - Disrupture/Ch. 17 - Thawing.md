@@ -312,7 +312,7 @@ Miles was holding Leo's phone with a photo of the stadium. Another guy passed be
 "Hey Skylar, check this out."
 
 Brown skin, cropped black hair, small black earrings. A yellow hood lay over the collar of his black jacket.
-When Taiga looked at him, he felt strangely familiar.
+When Taiga looked at him, something about his face looked familiar.
 
 Skylar glanced at the screen.
 
