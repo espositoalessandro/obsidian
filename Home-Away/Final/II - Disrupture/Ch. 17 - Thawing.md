@@ -413,7 +413,7 @@ From here, they could see the main lodge below them and the sports terrace farth
 
 Leo spotted the coffee stall first, just on the left of the entrance door.
 
-Leo was overwhelmed. "This is so cool! Why don't we have a proper cafeteria in the library as well?"
+"This is so cool! Why don't we have a proper cafeteria in the library as well?"
 
 "Yeah," Gav said. "The coffee from the vending machines is hideous."
 
