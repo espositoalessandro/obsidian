@@ -1,24 +1,8 @@
 ### Chapter 17 - Thawing
 
-Mercer caught them on the way out of the dining hall.
+Miles checked the time as they started gathering their trays.
 
-"Change of plan. We'll leave the facilities until tomorrow. No meeting this afternoon."
-
-Aaron stopped pulling on his coat.
-
-"So we're free?"
-
-"Until dinner. Six-thirty, here. Stay on campus."
-
-Enzo looked toward the windows.
-
-"Coach, I wasn't going to get very far."
-
-Mercer ignored him and went back to Hale.
-
-Miles was trying to put his jacket on without taking his backpack off. He got one arm through, stopped and handed the bag to Skylar.
-
-"Oh! We finish at four. Wanna meet up then? We can show you around before it gets dark."
+"We finish at four. If you guys wanna meet up, we can show you around before it gets dark."
 
 "At the library?" Gav asked.
 
@@ -28,7 +12,7 @@ Miles was trying to put his jacket on without taking his backpack off. He got on
 
 Miles took out his phone. He and Leo exchanged numbers, and a moment later the Apollo chat had a photograph of the library entrance.
 
-Skylar handed the backpack back.
+Skylar handed Miles the backpack he'd left on the bench.
 
 "Come on."
 
@@ -38,43 +22,212 @@ They left through the other door, Miles still talking as he hurried to catch up.
 
 ***
 
-Back in Room 214, Scott put his headphones on and lay down with his phone.
+Taiga had just plugged his phone in when it buzzed.
 
-Taiga finished unpacking. Three nights' worth of clothes fitted into one drawer with enough space left that Caleb would probably have had something to say about the bag.
+**Leo:** there's a pool table in the common lodge
+**Leo:** you and scott coming?
 
-He took his laptop out.
+He looked across the room.
 
-There was reading for Discrete and a set of practice questions. He opened the reading first.
+"Pool?"
 
-Outside the window, people walked past in coats, carrying bags and cups. A small maintenance vehicle came slowly up the path, scattering grit behind it. Taiga watched until it disappeared around the corner.
+Scott glanced up from his bag.
 
-On the other bed, Scott had fallen asleep with one earpiece pushed back.
+"Oh. Yeah, sure."
 
-Taiga turned his laptop volume down.
+They found Leo and Enzo in a room off the main lounge. A pool table occupied most of it, with a rack of cues on the wall and a battered leather couch beneath the window. Someone had left a triangular frame and a box of chalk on the cloth.
 
-He got through most of the reading, answered two questions and stopped when his phone buzzed.
+Enzo was inspecting a cue.
 
-**Leo:** you coming at four right?
+"We should have one of these."
 
-**Taiga:** yes
+"Where?" Taiga asked.
 
-**Leo:** good
-**Leo:** enzo's trying to convince me to bring him coffee instead
+"Our room."
 
-**Taiga:** tell him to move his ass
+"You'd have to get rid of the pillow," Leo said.
 
-**Leo:** that's what i said
-**Leo:** in more languages
+Enzo put the cue down and chose another.
 
-Taiga smiled and closed the document.
+Scott took his coat off. He checked the tips of two cues before picking one, then went around the table to collect the balls.
 
-Scott stirred when he got his coat.
+"You play?" Leo asked.
 
-"What time is it?"
+"A bit."
 
-"Quarter to."
+"Good. Me too. Taiga?"
 
-Scott sat up, rubbed his face and looked for his shoes.
+"Enough."
+
+Enzo looked between them.
+
+"Excellent. I'm relying entirely on confidence."
+
+They played in pairs. Leo and Enzo took one end of the table while Scott arranged the balls at the other.
+
+Taiga chalked his cue.
+
+"Want to break?" Scott asked.
+
+"Go on."
+
+The balls scattered with a crack. One went down, another stopped just short of a pocket.
+
+Leo leaned over the cushion to look.
+
+"Oh, that was nearly two."
+
+Scott set the triangle on the shelf and came to stand beside Taiga.
+
+A few turns later, Enzo tried to get past the ball blocking his next shot. The white clipped it, rolled into another and sent that one across the table.
+
+For a second, everyone watched.
+
+It dropped into the corner pocket.
+
+Enzo straightened.
+
+"Exactly."
+
+"Which one were you aiming at?" Leo asked.
+
+"The one that went in."
+
+"Right."
+
+Taiga laughed and moved around the table.
+
+He had a stripe near the middle pocket. Straight enough. He bent, lined it up and hit it.
+
+Too hard.
+
+The ball struck the edge of the pocket, bounced away and stopped near Leo.
+
+"Thanks," Leo said.
+
+"Fuck off."
+
+Scott leaned toward him.
+
+"Softer."
+
+"I noticed."
+
+"Okay."
+
+He stepped back without adding anything.
+
+Leo potted his next ball, then missed the one after it. Taiga took considerably more care when his turn came around.
+
+The stripe dropped.
+
+Scott nodded, already looking at the next shot.
+
+They won the first game. Scott had left himself an awkward angle on the black, spent a while looking at it and sent it cleanly into the corner.
+
+Enzo looked at him.
+
+"'A bit'?"
+
+Scott smiled and put the cue down.
+
+Leo was collecting the balls.
+
+"Again."
+
+"Thought you were tired," Taiga said.
+
+"I'm awake now."
+
+They switched ends. Evan and Aaron appeared halfway through the next game, followed by Gav, who immediately wanted to know what rules they were using.
+
+"The ones we agreed on," Enzo said.
+
+"You agreed on rules?"
+
+Leo looked up from the table.
+
+"We probably should have."
+
+They settled the question while Scott went to get water. Aaron took the couch and began commenting on every shot.
+
+"Try getting one in this time."
+
+Taiga looked at him.
+
+"You want the cue?"
+
+"After you miss."
+
+Evan laughed beside him.
+
+Leo stood at the far end, turning his cue slowly between his hands. There were two of his balls left. He crouched to look along the table, changed his mind and moved to the other side.
+
+Taiga watched him line up.
+
+"You taking all day?"
+
+Leo glanced up.
+
+"You're very distracting."
+
+"Excuses."
+
+Leo returned to the shot. The ball went down.
+
+He stood and smiled at Taiga.
+
+Taiga rolled his eyes.
+
+By the time Leo potted the black, Enzo had become quite vocal about their contribution to the result.
+
+"We adjusted."
+
+"You missed your last three," Taiga said.
+
+"And gave him the opportunity."
+
+Leo laughed and started setting up another game.
+
+Scott came back with a bottle of water and passed it to Taiga before taking his cue again.
+
+"Want me to break?" Taiga asked.
+
+"Yeah."
+
+This time, nothing went in.
+
+Scott watched the balls stop.
+
+Then he looked at Taiga.
+
+"A bit," Taiga said.
+
+Leo laughed from the other end.
+
+***
+
+They stayed until other students began coming back from class.
+
+Aaron took Enzo's place for a game. Gav watched Scott play a shot, asked him about it and ended up trying it himself while Evan held the spare cue out of his way.
+
+Taiga sat on the arm of the couch and drank the last of his water. Leo was beside the window, showing Enzo something on his phone.
+
+Outside, the path had become busy again. Someone went past carrying a stack of folders against their chest; two others stopped beneath the porch and argued over a screen.
+
+Leo checked the time.
+
+"We should go."
+
+Aaron looked up from the table. "What, now?"
+
+"Quarter to four."
+
+He put his phone away and found his coat. Taiga got off the couch.
+
+Scott returned their cues to the rack while Gav went to fetch his bag. Enzo tried one last shot, missed and announced that the table wasn't level.
+
+Nobody waited for the explanation.
 
 ***
 
@@ -710,9 +863,9 @@ Most of them went together. By the time they reached the residential road, Leo h
 
 They left their boots on the rack by the entrance and hung their coats on the hooks above it.
 
-The common room took up most of the lodge's ground floor. Low couches faced a broad stone fireplace, with two long tables farther from the heat. A shelf of board games stood beneath the windows, several boxes held shut by elastic bands.
+The common room was busier now. People had spread between the low couches facing the stone fireplace and the two long tables farther from the heat. Someone had taken a stack of board games off the shelf and left them on a chair.
 
-Someone had already lit the fire. Miles went to put the kettle on, and Taiga left his mug on the end table when he came back from the kitchen.
+The fire was lit. Miles went to put the kettle on, and Taiga left his mug on the end table when he came back from the kitchen.
 
 Taiga took the right-hand end of a couch and stretched his feet toward it. The warmth reached his socks almost immediately. He hadn't realized how much he still wanted that.
 
