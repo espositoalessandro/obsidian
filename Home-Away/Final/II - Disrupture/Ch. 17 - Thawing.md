@@ -160,7 +160,7 @@ He gave Mercer an envelope and pointed out the entrance.
 
 He pointed to a smaller lodge attached to the side of the main one.
 
-"—is that one. We'll meet at the training building at two. Today is mostly a chance to get the journey out of your legs and find your way around. Tomorrow we start training properly."
+"—is that one. We'll meet at the training building at four. Today is mostly a chance to get the journey out of your legs and find your way around. Tomorrow we start training properly."
 
 A guy beside him stepped forward. Tall, broad through the shoulders, with green hair showing beneath his hood. He wore the same Pinetree jacket as Hale, over a loose sweatshirt.
 
@@ -214,5 +214,174 @@ Pinetree had three lodges for male students, three for female students and one l
 "Of course."
 
 "I'm sold."
+
+***
+
+Dennis took them into the nearest of the men's lodges and up to the second floor. The rooms in this wing were kept for visiting teams. Most of the doors stood open, showing beds already made and empty desks beneath the windows.
+
+Room 214 had two beds, two desks and a radiator that knocked when Scott turned the valve. Almost everything was made of lumber, giving the room an extremely "mountain house" vibe. Taiga like it immediately.
+
+"Can I take this one?" Scott asked.
+
+"Yeah."
+
+Taiga put his duffel on the other bed. The window faced a bank of pines, their lower branches buried in snow.
+
+For a while, the only noise came from the corridor. Someone was trying a key in the wrong door. Enzo was explaining something about his pillow.
+
+Scott glanced toward the sound, then went back to unpacking.
+
+Taiga took his phone out. He still had the photograph from the bus open. He sent it to the Camp Buddy group, followed by another through the bedroom window.
+
+A knock came at the open door a few minutes later.
+
+Leo leaned in. "Oh, here you are. We're two doors down."
+
+"Congrats. Did Enzo's pillow fit in the room?" Taiga said.
+
+"Barely. It takes half of his bed."
+
+"How did he even bring it from home?"
+
+"He didn't, he bought the exact same one online the very first day we arrived at Olympus."
+
+Taiga blinked.
+
+"That's disturbing."
+
+"Can't he sleep without it?" Scott asked.
+
+Leo shrugged. "Apparently."
+
+He came over to look through the window. Beyond the nearest trunks, a narrow path curved out of sight toward the common lodge.
+
+"You got a better view then us, we only see trees."
+
+"We see a path. Very interesting view."
+
+"Still better than trees only. Anyway, you two ready to go?"
+
+Taiga glanced at Scott, who simply nodded.
+
+"Yeah."
+
+***
+
+They walked back down to the main lodge and through the corridor to the dining hall. Windows ran along one side, looking over the lower campus. Two rows of tables with fixed benches ran through the hall. A few Pinetree players sat at the far end with laptops and half-finished drinks.
+
+They got food and took a table near the windows. Taiga sat between Aaron and Evan, with Leo opposite him.
+
+The food was good. Hot rice, chicken, vegetables that hadn't been boiled into surrender. Enzo tried a mouthful and visibly relaxed.
+
+"Hey! You guys from Olympus?"
+
+A guy had stopped beside Leo, tray in hand. His short hair was white and sky blue underneath, and he had a pale jacket hanging open over his training shirt.
+
+Leo nodded. "Yeah."
+
+"Awesome! Mind if I join you? I'm Miles. Miles King."
+
+"Yeah, sure!" Leo said, shifting toward the window.
+
+Miles put his tray down.
+
+"So, how was the drive? Did it take long to come here?"
+
+"Pretty much, around four hours," Aaron said.
+
+"Dang. How you like it so far?"
+
+"It's... very extreme. I've never seen a campus on a mountain."
+
+"I know, right? It's pretty cool. Except during storms, you really don't want to wander outside."
+
+"And what do you do around here?" Leo asked.
+
+Miles shrugged lightly. "Mostly hang around the campus, there are sick hiking trails. In the evening, pretty much everyone goes to the common lodge. There are buses that go to the city, if you want something different. "
+
+Leo turned to Taiga. "Sounds like your paradise."
+
+Taiga kicked him under the table.
+
+"What about Olympus though?" Miles asked.
+
+They talked about Olympus and showed him some photos.
+
+Miles was holding Leo's phone with a photo of the stadium. Another guy passed beside him with a tray. Miles glanced up.
+
+"Hey Skylar, check this out."
+
+Brown skin, cropped black hair, small black earrings. A yellow hood lay over the collar of his black jacket.
+When Taiga looked at him, he felt strangely familiar.
+
+Skylar glanced at the screen.
+
+"That your campus?"
+
+"Yeah," Evan said. "It gets a bit extreme sometimes when it comes to sports."
+
+"Do you host the world championship in there? It's fucking huge."
+
+"Eheh, I know."
+
+Miles eyes were sparking. "Ohh, I can't wait to see it! I bet that away matches at Olympus get pretty intimidating."
+
+"Hey, Skylar right? Want to join us?" Leo said.
+
+The guy put his tray on the table and sat next to Miles. "Yes. Skylar Pascual, nice to meet you."
+
+"That's a freaking cool name," Aaron said.
+
+Skylar blinked. "Uh- Thanks?"
+
+Miles giggled. "That's not how we call him though-OUCH."
+
+Skylar had kicked him under the table. "Shut up."
+
+"What position do you guys play?" Evan asked.
+
+"I'm the right winger, usually, Ski- ehm, Skylar is our beloved striker. You should've already met our captain, he's our center-back," Miles answered.
+
+Aaron frowned. "Usually?"
+
+"Well, our coach loves versatility. He makes us play in other roles, from time to time."
+
+"Hale put me at left-back last week," Skylar said.
+
+"Yeah, and you spent the whole game trying to get back up front!"
+
+"You were the striker and suddenly we found you against the fullback."
+
+"What can I say? We are natural enemies."
+
+That Taiga could agree on.
+
+Conversation spread along the tables. Skylar and Evan were talking about the pitches; Aaron asked which Pinetree players were in their year. Miles wanted to know how far away Olympus's dorms were from everything else.
+
+"Here, look," he said when Leo asked about their campus. "It's easier if I show you. The map makes it look flat, but it absolutely isn't."
+
+He opened it on his phone and pointed out the training building, the library and a road running above the residences.
+
+"Woah, look at this!" Leo turned the screen toward Taiga.
+
+Several trails continued beyond the buildings. One ended at an overlook.
+
+"How far's that?" Taiga asked.
+
+"From here? Twenty minutes, maybe. Depends how fast you walk."
+
+Skylar glanced over. "Longer if he comes."
+
+"Hey, I like stopping for pictures! That's allowed."
+
+"Still, longer."
+
+Miles stuck his tongue out at him. Then he turned to the rest.
+
+"We can take you there tomorrow, if you want. Sadly, we still got classes today before training."
+
+Leo grinned. "Sounds nice!"
+
+Miles smiled back. "Ookay, deal!"
 
 ***
