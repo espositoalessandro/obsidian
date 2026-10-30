@@ -160,7 +160,7 @@ He gave Mercer an envelope and pointed out the entrance.
 
 He pointed to a smaller lodge attached to the side of the main one.
 
-"—is that one. We'll meet at the training building at four. Today is mostly a chance to get the journey out of your legs and find your way around. Tomorrow we start training properly."
+"—is that one. Now, settle in. Today is mostly a chance to get the journey out of your legs and find your way around. Tomorrow we start training properly."
 
 A guy beside him stepped forward. Tall, broad through the shoulders, with green hair showing beneath his hood. He wore the same Pinetree jacket as Hale, over a loose sweatshirt.
 
@@ -175,7 +175,7 @@ Dennis offered his hand. "Good to meet you, Scott."
 Scott shook it.
 Mercer handed Gav the room list.
 
-"Choose your rooms and roommates. Settle in. We'll meet at noon in the dining hall."
+"Choose your rooms and roommates, then go register at the reception."
 
 Pairs formed. Evan grabbed Aaron before he could protest. Gav was already walking with Jordan, while Enzo took a key and nudged Leo.
 
@@ -275,7 +275,7 @@ The food was good. Hot rice, chicken, vegetables that hadn't been boiled into su
 
 "Hey! You guys from Olympus?"
 
-A guy had stopped beside Leo, tray in hand. His short hair was white, with sky blue underneath, and he had a pale jacket hanging open over his training shirt.
+A guy had stopped beside Leo, tray in hand. His short hair was white, with sky blue underneath, and he had a pale jacket hanging open over his shirt.
 
 Leo nodded. "Yeah."
 
@@ -378,7 +378,7 @@ Skylar glanced over. "Longer if he comes."
 
 Miles stuck his tongue out at him. Then he turned to the rest.
 
-"We can take you there tomorrow, if you want. Sadly, we've still got classes today before training."
+"We can take you there tomorrow, if you want. Sadly, we've still got classes today."
 
 Leo grinned. "Sounds nice!"
 
