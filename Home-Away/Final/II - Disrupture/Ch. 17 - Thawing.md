@@ -465,6 +465,216 @@ Leo puts covered his mouth with his hands. "I'm transferring here."
 
 "Sometimes weather can be pretty rough here," Skylar said. "If there's an oncoming storm, they don't allow people outside until it's passed."
 
-"Ugh, yeah, once I got stuck in the dining hall for like two hours."
+Miles made a face. "Ugh, yeah, once I got stuck in the dining hall for like two hours."
 
+"Okay," Leo said. "Transfer withdrawn."
+
+Taiga snorted. "That was quick." 
+
+"Well anyways," Miles continued, "if you keep going uphill following the road, the path for the overlook starts right after the last building."
+
+Leo nodded. "Noted."
+
+They took another path around the library to go back. Enzo discovered that walking on the snow on a path going downwards with sneakers wasn't a very good idea.
+
+"Ouch."
+
+Evan gave him a hand.
+
+"I hope you got better shoes," Skylar said.
+
+"Ugh, I hope as well."
+
+They reached a wide lawn that opened beside the library, standing on a terrace a couple of meters higher than the main lodge.
+
+The lawn was a big circle, surrounded by a low stone wall, with benches all around.
+
+"And this is our park, we usually hold events here in summer. On Christmas, we even had a few markets."
+
+Taiga looked around. Here in Pinetree, there were way less people wandering around or sitting on benches. 
+It was definitely less loud.
+The lawn was mostly empty, with just a few people looking at the sun setting behind the pitches.
+He pulled out the phone to take a few pictures of the valley below.
+
+"...Oh and you should have seen our Halloween party, here we- SHIT."
+
+Behind them, Miles made an indignant noise.
+Taiga turned and saw Skylar brushing the remaining snow off his gloves.
+Miles had one hand inside the neck of his jacket.
+
+"Dude!"
+
+"What?"
+
+"That went down my back!"
+
+"Did it?"
+
+Miles bent to scoop up snow. Skylar waited until his arm came forward, then stepped aside.
+
+The snowball hit Enzo, who was still holding his coffee.
+He stopped for a second and looked down at his coat.
+
+Taiga put his phone away. He smelled trouble.
+
+"Oh, shit." Miles straightened. "Sorry! That was for him!"
+
+Enzo brushed off the snow from the coat. Then he finished his coffee, and dumped the cup in the trashcan beside him.
+
+"Alright."
+
+He bent and scooped a handful of snow.
+
+Miles backed away, laughing. "Wait, wait! I said sorry!"
+
+"And I accept your apologies."
+
+The snowball caught Miles in the chest. Leo laughed, which drew Enzo's attention to him.
+
+"Oh, come on-"
+
+Leo barely turned before the next one broke across the back of his coat.
+
+"Okay, you'll regret that," he said.
+
+Aaron pulled his gloves on.
+
+"Finally. Something interesting."
+
+Taiga sat on the wall, enjoying the warfare. Enzo hit Leo straight on back of the head. He immediately put both his hands in the neck of his puffer.
+
+"SHIT IT'S COLD!"
+
+Taiga laughed hard. Until something hit him on the shoulder. He turned and saw Aaron grinning.
+
+"Fine."
+
+And so it began. 
+
+At first, Taiga teamed up with Enzo and Skylar. Aaron joined Miles and Leo behind a bench.
+
+"COWARDS!" Enzo shouted.
+
+"We're exploiting the environment!"
+
+Gav, Evan and Scott joined a minute later as a separate team. Taiga's eyes were still on those cowards behind the bench.
+
+"I'll bait them," Taiga said. 
+
+Skylar nodded and bent to prepare ammunition.
+Taiga made two snowballs and ran on their flank. When his line of sight was clear, he hit Leo on the side.
+
+Leo and Miles immediately stood up to shoot back, but that was a big mistake. At least three shots hit them on the back.
+
+Leo was laughing. "YOU BASTARD!"
+
+Taiga chuckled and flipped him off as he ran back to his allies. 
+Aaron hit him on his way back. Fair enough.
+
+Teams lasted less than then minutes, before they all got parted. At that point, it became pure carnage.
+
+Skylar threw at anyone who turned away from him. Evan intercepted one meant for Scott, looked down at his sleeve and spent a few seconds making a snowball considerably larger than the others.
+
+Skylar started backing away.
+
+"Don't."
+
+Evan advanced.
+
+"That'll kill someone."
+
+"You'll manage."
+
+Skylar ran. Gav's throw hit him between the shoulders and nearly knocked him on the ground.
+
+Miles cheered from behind the bench, then got hit by Aaron while he was standing up.
+
+Taiga's next handful fell apart before he could throw it. He took more, packed it harder and looked for Leo.
+
+Gone.
+
+He moved around the end of the bench.
+
+Leo was crouching there with a small pile of snowballs laid out beside his knee.
+
+He looked up.
+
+"No, no, don't-"
+
+Taiga kicked loose snow over his ammunition.
+
+"HEY!"
+
+Taiga was still laughing when Leo jumped straight on him, grabbing him around his waist and knocking him down.
+
+They fell over the soft snow and immediately began wrestling trying to put snow in each other's jacket. 
+Taiga managed to pin Leo down, holding both his hands on the ground while standing on top of him.
+
+"Yield!"
+
+Leo was still chuckling while trying to wriggle free, but Taiga held him tight.
+Then he settled.
+
+"Alright, alright."
+
+For a couple of seconds, they stood like that, catching their breath. Both still smiling. Leo's cheeks were red from the cold, his hair mostly wet.
+
+Then something hit Taiga directly beneath the collar. He stood immediately, bent forward and pulled the neck of his coat away from his skin.
+
+Not far away, Aaron was brushing off snow from his gloves.
+
+"You were such an easy target."
+
+Leo was rolling on the snow with both hands on his stomach. Taiga could hear him trying to breathe between laughs.
+
+"You're so dead."
+
+"That was perfect!"
+
+"I'm killing you!"
+
+"You have to catch me!"
+
+Taiga got most of the snow out. The rest had become cold water against the back of his shirt.
+
+Then he heard Miles shouting, "Alright guys, it's getting dark. Truce?"
+
+The sun had sunk behind the mountains and the lights had gone on around the campus.
+
+Aaron came over with his coat open.
+
+"Truce?"
+
+Taiga looked at him.
+
+"Watch your back."
+
+"Alright, fair enough."  
+
+He brushed snow off Taiga's shoulder before heading inside with Evan.
+
+Leo stood up, still breathing hard. Taiga realized his face hurt from the laughing.
+
+"Oh my god," Leo said between breaths, "That was so fucking fun."
+
+Taiga glanced at him. "You're soaked."
+
+"So are you."
+
+Taiga looked down. The front of his coat was covered in white smears, and one leg was wet almost to the knee.
+Slowly, cold started creeping in.
+
+"Okay, now I'm starting to freeze," Leo said.
+
+"Yeah. Let's go dry up."
+
+"Hold on."
+
+He pulled out his phone and framed the lawn. There were trenches where they'd run and broken snowballs across the benches. Leo took a photograph, then stepped backward to get more of the damage into it.
+
+"Come on," He said, putting the phone away. "I need something hot."
+
+They went into the common lodge together. The entrance was warm, with a rack of wet boots beside the door. Miles pointed out the kitchen, and they got hot tea before heading back to their rooms to change.
+
+***
 
