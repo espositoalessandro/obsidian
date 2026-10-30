@@ -221,7 +221,7 @@ Dennis took them into the nearest of the men's lodges and up to the second floor
 
 Room 214 had two beds, two desks and a radiator that knocked when Scott turned the valve. Almost everything was made of lumber, giving the room an extremely "mountain house" vibe. Taiga like it immediately.
 
-"Can I take this one?" Scott asked.
+"Can I take this one?" Scott asked, pointing at the bed farther from the window.
 
 "Yeah."
 
@@ -340,7 +340,7 @@ Skylar had kicked him under the table. "Shut up."
 
 "What position do you guys play?" Evan asked.
 
-"I'm the right winger, usually, Ski- ehm, Skylar is our beloved striker. You should've already met our captain, he's our center-back," Miles answered.
+"I'm the right winger, usually, Skylar is our beloved striker. You should've already met our captain, he's our center-back," Miles answered.
 
 Aaron frowned. "Usually?"
 
@@ -350,7 +350,7 @@ Aaron frowned. "Usually?"
 
 "Yeah, and you spent the whole game trying to get back up front!"
 
-"You were the striker and suddenly we found you against the fullback."
+"You were assigned striker and suddenly we found you against the fullback."
 
 "What can I say? We are natural enemies."
 
