@@ -407,3 +407,64 @@ Skylar handed Miles the backpack he'd left on the bench.
 They left through the other door, Miles still talking as he hurried to catch up.
 
 ***
+
+The library was in the same buildings of classes, on the ground floor. It was warm inside, with plenty of people sitting with laptops, books and notebooks. All around, long windows covered the majority of the walls.
+From here, they could see the main lodge below them and the sports terrace farther down. Snow lay against the fences and behind the goals, but the green surface was clear.
+
+Leo spotted the coffee stall first, just on the left of the entrance door.
+
+Leo was overwhelmed. "This is so cool! Why don't we have a proper cafeteria in the library as well?"
+
+"Yeah," Gav said. "The coffee from the vending machines is hideous."
+
+Taiga approached the stall. "One black coffee, please."
+
+The other followed. They sat at a table near the windows, discussing whether the sweat would freeze on their faces during the training.
+
+Shortly after, Miles and Skylar entered.
+
+"Hey guys! I see you've already settled, that's great. Come on, let's go before it gets too dark."
+
+Outside, the light had turned pale gold on the upper roofs. The road beyond the library climbed toward another group of buildings, while a narrower path curved between two lecture halls.
+
+Miles took the path.
+
+"This way's quicker, when it's not frozen. Unless you want to see the administration building, which... I don't know why you would."
+
+"You're really selling it," Evan said.
+
+"I've only been in there when something's gone wrong."
+
+Skylar put his phone away. "That's every week."
+
+"It was one stupid form!"
+
+Leo laughed beside Taiga. He asked which office, then somehow they were comparing the registration systems at both colleges.
+
+They reached the road again. Miles pointed at the biggest building.
+
+"That's our common lodge! It has, like, 3 rooms with a fireplace at the center and couches all around. It's hygge as hell."
+
+Aaron frowned. "Hygge?"
+
+"It's a danish word for 'cozy'," Skylar said. "This campus is pretty much inspired by their architecture style."
+
+"What do you usually do there?" Leo asked.
+
+"Well, there's a pool room with like 3 or 4 tables, a few tennis table and other stuff like darts and so on."
+
+"No fucking way, you have pool in here?"
+
+"Yup! We're gonna have lots of time to play, don't worry."
+
+Leo puts covered his mouth with his hands. "I'm transferring here."
+
+"You'll last, like, three days," Taiga said.
+
+"But those would be three glorious days."
+
+"Sometimes weather can be pretty rough here," Skylar said. "If there's an oncoming storm, they don't allow people outside until it's passed."
+
+"Ugh, yeah, once I got stuck in the dining hall for like two hours."
+
+
