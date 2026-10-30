@@ -1,78 +1,59 @@
-Caleb watched Taiga take the third sweatshirt out of his bag.
+### Chapter 17 - Thawing
 
-"You can leave it in."
+"You are forgetting your gloves."
 
-"It won't close."
+Taiga glanced at his desk.
 
-"You haven't tried."
+"Right, thanks."
 
-Taiga pulled the zip. It went halfway, caught on a sleeve and stopped.
+"Is it gonna be that cold?" Caleb asked.
 
-Caleb looked back at his laptop.
+"It's like 1,400 meters up. In February. What do you think?"
 
-"Move the sleeve."
+"Fair enough."
 
-"Thank you."
+Wednesday evening, the day before Pinetree.
+The bag had been open on Taiga's bed since dinner, and he had somehow spent twenty minutes packing for three nights. His boots and training kit were already in the team equipment bags.
 
-"You're welcome."
+His phone buzzed.
 
-Wednesday evening. The bag had been open on Taiga's bed since dinner, and he had somehow spent twenty minutes packing for three nights. His boots and training kit were already in the team equipment bags. That should have made this easier.
+**Leo:** how many thermal shirts have you packed?
 
-On the desk, his phone kept vibrating.
+**Taiga:** three
 
-**Enzo:** pillow is coming
+**Leo:** shit
+**Leo:** i only got two
 
-**Gav:** We established that yesterday.
+**Taiga:** let's hope they have a laundry room then
 
-**Enzo:** mercer has not responded to my email
+**Leo:** dunno
+**Leo:** have washing machines made it to the mountains?
 
-**Aaron:** You emailed him about the pillow?
+**Taiga:** no, you must scrub clothes with snow
 
-**Enzo:** courtesy
+**Leo:** thrilling
+**Leo:** you want window or aisle?
 
-Taiga put the sweatshirt back in the drawer.
+**Taiga:** what?
 
-After the St. Vincent loss, the following week had been unpleasant enough without everyone also worrying about Pinetree. Beating Cedar Ridge on Saturday had helped. People were talking normally again. Aaron had spent the walk out of the stadium explaining a tackle to Evan, who had been present for it.
+**Leo:** on the bus
 
-Now the whole team was discussing a pillow.
-
-Caleb stood, took a small packet from beside the kettle and put it on Taiga's bag.
-
-"Hand warmers."
-
-"I have gloves."
-
-"One pair has a hole."
-
-"The other pair doesn't."
-
-"Then you have a spare."
-
-Taiga left the packet where it was.
-
-His phone buzzed again. Leo, privately this time.
-
-**Leo:** window or aisle?
+Taiga thought about it way too much.
 
 **Taiga:** window
 
-**Leo:** perfect
-**Leo:** i'll take aisle
-
-Taiga looked at the exchange. Apparently that was settled.
+**Leo:** alrighty
 
 **Taiga:** don't be late
 
 **Leo:** hey
 **Leo:** i'm excellent at important mornings
 
-***
-
-At six-forty-eight, Leo arrived carrying a coffee, a paper bag and a scarf that hung almost to his knees.
+He wasn't.
 
 Taiga was standing beside the bus with his backpack over one shoulder. Behind him, bags thumped into the luggage compartment. The practice fields were still dark beyond the parking lot.
 
-Leo stopped in front of him.
+Leo walked past him and tossed his bag into the luggage compartment.
 
 "Morn'n."
 
@@ -80,43 +61,11 @@ Taiga looked at him.
 
 "What?"
 
-Leo lifted the cup. "S'coffee."
+"Morning."
 
-"I can see that."
+Taiga blinked. "Are you actually awake?"
 
-"Want some?"
-
-The words had run together badly enough that Taiga needed a second to separate them. Leo's eyes were half closed. His hair had escaped the tie on one side and stuck out against the yellow scarf.
-
-Then Taiga remembered.
-
-"Your vowels."
-
-Leo blinked.
-
-"What?"
-
-"The twenty percent."
-
-For a moment, Leo just stared at him. Then his mouth curved.
-
-"Oh. Right."
-
-"You weren't kidding."
-
-"Told you."
-
-He attempted something else. Taiga caught the word breakfast and very little around it.
-
-"Try again."
-
-Leo held the paper bag out.
-
-Two pastries.
-
-"One's yours," he said, much more slowly.
-
-"Ah. Thanks."
+"I dunno... prob'ly not."
 
 Behind Leo, Enzo emerged from the other side of the bus hugging a pillow almost as wide as his body.
 
@@ -124,114 +73,39 @@ Behind Leo, Enzo emerged from the other side of the bus hugging a pillow almost 
 
 Leo turned toward him. "Cállate."
 
-"See? That one I understood," Taiga said.
+Taiga chuckled. "Yeah, I can see that."
 
-Leo gave him the finger and went up the steps.
+Leo gave him the finger, climbed the steps and stopped beside a row of seats. He waited for Taiga to take the window seat, then sat and tried untangling his headphones from his scarf.
 
-Mercer stopped Enzo at the door.
+"Really excellent at important mornings," Taiga said.
 
-"Keep the aisle clear."
+"Fuck off, I'm here."
 
-"Of course, Coach."
+"Barely."
 
-"And it stays in your seat."
-
-Enzo adjusted his grip. "Absolutely."
-
-Taiga followed him onto the bus and found Leo already standing beside their row.
-
-He waited for Taiga to take the window seat, then sat and put the coffee between his knees while he untangled his headphones. Taiga held out a hand.
-
-Leo passed him the cup without asking.
-
-"You're gonna spill it."
-
-"Mm."
-
-Leo freed one earbud, discovered the other had gone through a knot in the scarf, and stopped.
-
-Taiga watched him for several seconds.
-
-"Excellent at important mornings."
-
-"Still here."
-
-"Technically."
-
-Leo finally got the scarf off. Taiga gave the cup back.
+Leo finally got the scarf off.
 
 Around them, the squad was settling. Scott sat near the front with his headphones already on. Aaron came down the aisle holding his phone to his ear, telling Sofia that yes, he'd brought the charger. Gav was trying to fit his backpack beneath the seat while Enzo explained why the pillow could not possibly be made smaller.
 
-"It compresses," Gav said.
+"Just squash it," Gav said.
 
 "It needs room."
 
 "So do I."
 
 Mercer counted them, checked with the driver and sat down. The bus pulled out at seven.
+Taiga watched the Sports Zone slipping past the window.
+Beside him, Leo had already collapsed against the seat with his eyes closed.
 
-Taiga ate his pastry while the Sports Zone slipped past the window. Leo got through half of his before putting the rest back in the bag.
+The bus was silent for the first hour of the trip. Most of the team was sleeping, while others had their headphones on. Nobody was in the mood to talk.
 
-"You finished?"
-
-"Saving it."
-
-"For when?"
-
-Leo leaned his head against the seat and closed his eyes.
-
-Fair enough.
-
-Taiga put the bag in the pocket in front of them. For a while, he watched the familiar roads give way to warehouses and wet fields. He had left Caleb asleep in Room 317. By now he would be getting up, checking the kettle, probably moving the mug Taiga had left beside the sink.
-
-He took his phone out.
-
-**Taiga:** don't throw my mug away
-
-Caleb's reply arrived a few minutes later.
-
-**Caleb:** Then wash it when you get back.
-
-Leo made a small sound beside him. Taiga glanced over.
-
-Still asleep. Head tipped toward the aisle, mouth slightly open, one hand tucked beneath his other arm.
-
-He turned back to the window.
-
-The service stop restored most of Leo's vocabulary.
-
-By the time they returned to the bus, he had coffee, a bottle of water and a strong opinion about the sandwich prices. Enzo had bought one anyway and was eating it while agreeing with him.
+The service stop restored most of Leo's vocabulary. He and Taiga bought tremendously overpriced coffee at the shop and spent most of the stop complaining about it.
 
 "That's why they keep charging that much," Gav said.
 
-"I was hungry."
+"Coffee is survival," Leo answered.
 
-"You brought food."
-
-"That's for later."
-
-Taiga climbed past them before the argument expanded.
-
-Leo followed him down the aisle.
-
-"Enzo packed noodles."
-
-"Of course he did."
-
-"Four packets. He says mountain portions are untested."
-
-"You've known him longer than I have. Why are you surprised?"
-
-"I'm not surprised. I'm concerned for Gav."
-
-Leo sat and retrieved the pastry from the seat pocket. He looked at it for a second, apparently pleased to remember it existed.
-
-The road began climbing not long afterward.
-
-At first there were only strips of snow beneath the hedges. Then the fields turned white, the trees thickened and the bus slowed for bends that took them farther up the slope.
-
-Taiga put his phone away.
-
+The road began climbing not long afterward. At first there were only strips of snow beneath the hedges. Then the fields turned white, the trees thickened and the bus slowed for bends that took them farther up the slope.
 Beyond the pines, a ridge appeared through the low cloud. There were houses along the lower road, smoke coming from a few chimneys, a narrow stream running black between snow-covered banks.
 
 Leo leaned forward.
@@ -239,10 +113,6 @@ Leo leaned forward.
 "Oh, wow."
 
 He was looking past Taiga. Taiga moved his shoulder back to give him a better view.
-
-"See that?"
-
-"Yeah."
 
 "That's so much snow."
 
@@ -252,63 +122,49 @@ He was looking past Taiga. Taiga moved his shoulder back to give him a better vi
 
 Taiga looked out again. Most of the branches still held it.
 
-"Don't tell Enzo. He'll try to bring some home."
+"Yeah, it's pretty cool."
 
-Leo laughed.
+"Does your camp get like this in winter?"
 
-He stayed leaning toward the window while the bus rounded the next bend. His sleeve rested against Taiga's upper arm. Taiga could feel the pressure whenever Leo shifted to look at something farther uphill.
+"Pretty much, yeah."
 
-He watched the trees.
+Leo sat back. "Now I get why you like this."
 
-"Okay," Leo said eventually. "I get why you like this."
+"You're gonna complain immediately anyway."
 
-"You haven't got off the bus yet."
+"I can still appreciate it from a safe distance."
 
-"Hey, I can like it from here."
-
-"You're going to complain immediately."
-
-"That's a separate issue."
-
-He sat back, still looking outside.
-
-Taiga checked the photograph he'd just taken. There was a reflection of the overhead lights across most of the mountain. Useless. He waited until the bus turned and tried again.
-
-This one was better.
-
-He sent it to the Camp Buddy group.
+Taiga shook his head and snapped a photo of the view.
 
 ***
 
-Pinetree had apparently built the entire campus out of wood and uphill.
+Pinetree Academy was built on a slope near the top of a mountain.
+The buildings were mostly timber, with large windows covering much of the walls.
 
-The bus stopped outside a long lodge with a stone ground floor and balconies facing the trees. Other buildings climbed behind it, connected by paths with the snow cleared into uneven banks. Below the road, Taiga could see the training fields on a wide, level terrace.
+The bus stopped outside a long lodge with a stone ground floor and balconies facing the trees. Other buildings climbed behind it, connected by paths with the snow cleared into uneven banks.
+Below the road, Taiga could see the training fields on a wide, level terrace.
 
 Leo stepped off the bus and immediately pulled his scarf over his mouth.
 
-Taiga looked at him.
+"Holy fuck."
 
-Leo raised one finger. "Separate issue."
-
-The cold was sharper here. Taiga breathed through his nose and went to get his bag.
+Taiga followed, stepping into a familiar cold breeze. He couldn't help but smile at the view.
 
 Mercer was shaking hands with a man in a dark green tracksuit. Gray at the temples, sleeves pushed up despite the weather.
 
-"Daniel Hale," the man said when the last few players came around the bus. "Welcome to Pinetree. We'll get you inside in a moment."
+"Daniel Hale," the man said when the last few players came around the bus. "Welcome to Pinetree Academy! We'll get you inside in a moment."
 
 He gave Mercer an envelope and pointed out the entrance.
 
-"Room list and keys. Your equipment can go in the storage room on the ground floor. Lunch is open until one; the dining room's through the glass corridor."
+"Room list and keys. Your equipment can go in the storage room on the ground floor. Lunch is open until one. The dining hall—"
 
-Enzo emerged holding his pillow in both arms.
+He pointed to a smaller lodge attached to the side of the main one.
 
-Hale looked at it, then continued.
-
-"We'll meet at the training building at two. Today is mostly a chance to get the journey out of your legs and find your way around. Tomorrow we work."
+"—is that one. We'll meet at the training building at two. Today is mostly a chance to get the journey out of your legs and find your way around. Tomorrow we start training properly."
 
 A guy beside him stepped forward. Tall, broad through the shoulders, with green hair showing beneath his hood. He wore the same Pinetree jacket as Hale, over a loose sweatshirt.
 
-"I'm Dennis Warrington. Captain. You'll probably see me around more than you want to."
+"Hi, guys. I'm Dennis Warrington. Captain. You'll probably see me around more than you want to."
 
 Scott shifted beside Gav.
 
@@ -317,110 +173,91 @@ Scott shifted beside Gav.
 Dennis offered his hand. "Good to meet you, Scott."
 
 Scott shook it.
-
-"If you need anything football-related, come find me. If it's about the heating, the woman at the front desk knows more than any of us."
-
-"Is there a problem with the heating?" Enzo asked.
-
-"Depends which room you get."
-
-Enzo looked toward the lodge.
-
-Dennis smiled. "It's warm. Just noisy."
-
 Mercer handed Gav the room list.
 
-"Pairs are as agreed. Check your room, take your key. Don't block the entrance."
+"Choose your rooms and roommates. Settle in. We'll meet at noon in the dining hall."
 
-Taiga found his name beside Enzo's and took the key to 214. Leo was still reading over Gav's shoulder when he went back to the luggage compartment.
+Pairs formed. Evan grabbed Aaron before he could protest. Gav was already walking with Jordan, while Enzo took a key and nudged Leo.
 
-By the time he'd pulled out his duffel, everyone had begun moving. Equipment bags went through the side door; personal bags went up the steps. Dennis held the main door while Scott asked him something Taiga couldn't hear over the wheels rattling across the porch.
+"Come on, I'm freezing my ass off."
 
-Inside, Enzo had stopped beneath a stuffed deer head.
+Leo turned for half a second toward Taiga, giving him a hesitant look. Then he followed Enzo.
 
-Taiga nudged him out of the way with his bag.
+"Yeah, coming."
 
-"Move."
+Taiga's stomach sank a little.
 
-"It has an expression."
+He shook his head. Whatever.
 
-"Yeah. Dead."
+He looked around and found Scott holding a key and looking slightly terrified.
 
-Leo laughed behind them. Enzo looked at the deer one last time and followed them upstairs.
+Taiga approached him. "Hey. Want to share with me?"
+
+Scott's shoulders relaxed a bit. "Oh, yeah, s-sure!"
+
+They followed the others into the main lodge, where they told the receptionist their rooms and their names.
+
+"Okay, perfect," Hale said. "Go settle in. See you in the dining hall, then. Dennis, can you guide them to the dorms?"
+
+"No problem."
+
+Dennis guided them out of the main lodge and up the road toward the residential area.
+There were several smaller buildings placed along the road.
+Pinetree had three lodges for male students, three for female students and one large lodge with a common room.
+
+"That's where we usually spend the evenings," Dennis said, pointing at the common lodge.
+
+"Not much to do outside in the evening, especially in winter. So most of us gather here."
+
+"Does it have a fireplace?" Gav asked.
+
+"Of course."
+
+"I'm sold."
 
 ***
 
-Room 214 had two beds, two desks and a radiator that knocked loudly when Enzo turned the valve.
+Dennis took them into the nearest of the men's lodges and up to the second floor. The rooms in this wing were kept for visiting teams. Most of the doors stood open, showing beds already made and empty desks beneath the windows.
 
-He took his hand off it.
+Room 214 had two beds, two desks and a radiator that knocked when Scott turned the valve.
 
-"Was that bad?"
+He took his hand off it and waited.
 
-"Try hitting it."
-
-"I'd rather not antagonize the heating."
+The knocking stopped.
 
 Taiga put his duffel on the bed nearest the door. The window faced a bank of pines, their lower branches buried in snow.
 
-Enzo dropped the pillow on the other bed and unzipped his bag.
+"Can I take this one?" Scott asked.
 
-A packet of noodles fell out.
+"Yeah."
 
-Taiga picked it up.
+Scott left his bag on the other bed. He unpacked his clothes, put his headphones on the desk and checked the time on his phone.
 
-"Emergency," Enzo said.
+Taiga hung his coat on the back of a chair.
 
-"They're feeding us."
+For a while, the only noise came from the corridor. Someone was trying a key in the wrong door. Enzo was explaining something about his pillow.
 
-"We haven't seen the food."
+Scott glanced toward the sound, then went back to unpacking.
 
-A knock came from the open doorway. Leo leaned in.
+Taiga took his phone out. He still had the photograph from the bus open. He sent it to the Camp Buddy group, followed by another through the bedroom window.
 
-"Gav's unpacking."
+A knock came at the open door.
 
-"Terrible," Taiga said.
+Leo leaned in. "Oh, here you are. We're two doors down."
 
-"He's taking everything out of his bag. We arrived four minutes ago."
+"Congratulations."
 
-"That's what unpacking means."
+"Thanks. Enzo's already found somewhere for his pillow. It's taking up most of the bed."
 
-Leo looked at the noodles in Taiga's hand.
+"It came all this way."
 
-"See? I told you."
+"Exactly what he said."
 
-Enzo took them back.
+Leo came over to look through the window. Beyond the nearest trunks, a narrow path curved out of sight toward the common lodge.
 
-"I don't appreciate this level of surveillance."
+Taiga's phone buzzed. Hiro had sent six messages about the photographs.
 
-"Four packets," Leo told Taiga.
-
-"Go unpack," Enzo said.
-
-Leo came in instead and went to the window.
-
-"Oh, you can see the trees from here."
-
-Taiga joined him. Beyond the nearest trunks, a narrow path curved out of sight. Someone had cleared it as far as a smaller building.
-
-Leo leaned toward the glass.
-
-"Is that a squirrel?"
-
-"No."
-
-"Then what's moving?"
-
-"A branch."
-
-They watched it for another second.
-
-"Right."
-
-Enzo opened a drawer, found nothing in it and immediately opened the one beneath it.
-
-Taiga checked his phone. Hiro had replied to the mountain photograph with six messages and a demand for another one when he got there. He took a picture through the window.
-
-Leo stepped out of the reflection.
+Leo looked at the screen.
 
 "For camp?"
 
@@ -430,7 +267,7 @@ Leo stepped out of the reflection.
 
 "Tell him yourself."
 
-Taiga opened their chat and held out the phone. Leo took it, typed something and handed it back.
+Taiga held out the phone. Leo took it, typed something and handed it back.
 
 **Taiga:** leo says hi and that this place has aggressive weather
 
@@ -444,17 +281,17 @@ Leo laughed when Taiga showed him.
 
 "You can see how he'd be concerned."
 
-Out in the corridor, Gav called Leo's name.
+Scott zipped his bag shut.
 
-"Lunch?"
+"Is everyone going down?"
 
-Leo turned toward the door. "Oh, definitely."
+From the corridor, Enzo said, "Yes. Before they change their minds about feeding us."
 
-Enzo abandoned his drawers.
+Leo stepped back to let Scott pass. Taiga put his phone away and picked up his coat.
 
 ***
 
-The dining room had windows along one side and a glass corridor connecting it to the lodge. A few Pinetree players sat at the far end with laptops and half-finished drinks.
+They walked back down to the main lodge and through the corridor to the dining hall. Windows ran along one side, looking over the lower campus. A few Pinetree players sat at the far end with laptops and half-finished drinks.
 
 They got food and pushed two tables together near the windows. Taiga sat between Aaron and Evan, with Leo opposite him.
 
@@ -478,7 +315,13 @@ Dennis thanked him and kept walking. Miles put his tray down.
 
 "So, how was the drive? Did you come up the east road? The view's really good from that side!"
 
-Leo started telling him about the ridge. They had apparently photographed the same bend. Miles took his phone out to compare, discovered that Leo's picture included the stream and immediately wanted to see it more closely.
+Leo started telling him about the ridge. Miles took his phone out to show them a photograph from the same road.
+
+"That's the one," Leo said. "AG, show him yours."
+
+Taiga found the picture he'd taken from the bus. Miles leaned closer to see the stream beneath the trees.
+
+"Oh, you got that in too! Mine's mostly the window frame."
 
 Taiga ate.
 
@@ -620,7 +463,7 @@ The weight room was smaller than Olympus's, but the indoor hall opened onto a lo
 
 Taiga stopped at the glass.
 
-From up here, he could see the edge of the terrace beyond the far touchline. Pines continued down the slope behind it. There were low stands on one side, a scoreboard and a narrow road connecting the field to the buildings above.
+From up here, he could see the edge of the terrace beyond the far touchline. Pines continued down the slope behind it. There was a low stand on one side, covered by a roof and enclosed at the back and both ends. The seats faced the pitch through the open front. Beyond it, a scoreboard stood near the fence, and a narrow road connected the field to the buildings above.
 
 He could imagine Sunday's match here already.
 
@@ -710,7 +553,7 @@ Enzo looked at Gav. "We picked the wrong school."
 
 "I could hate it recreationally."
 
-They came out behind the lodge. The path opened onto a wide lawn with benches along the edge. Snow covered most of it, broken by footprints between the back doors and a small shed.
+They came out behind the common lodge Dennis had shown them that morning. The path opened onto a wide lawn with benches along the edge. Snow covered most of it, broken by footprints between the back doors and a small shed.
 
 Taiga stopped near the railing and looked toward the ridge.
 
@@ -1080,29 +923,17 @@ Taiga waited.
 
 "Come on," Leo said, putting the phone away. "I need something hot."
 
-They went inside together.
+They went into the common lodge together. The entrance was warm, with a rack of wet boots beside the door. Miles pointed out the kitchen, and they got something hot to drink before heading back to their rooms to change.
 
 ***
 
+Scott was already back in Room 214 when Taiga arrived. His coat hung over the chair, and he was drying his hair with a towel.
+
 Taiga changed his shirt and left his gloves near the radiator.
 
-Enzo was already in dry clothes, inspecting a small red mark on his wrist.
+"There's a rail in the bathroom," Scott said.
 
-"Someone put a stone in that one."
-
-"No, they didn't."
-
-"Then they have very dense snow."
-
-"You're fine."
-
-Enzo looked at the gloves.
-
-"Don't put those right on top. There are instructions."
-
-He pointed at a little notice above the valve.
-
-Taiga moved them onto the chair.
+Taiga looked at the little notice above the valve, then took the gloves through.
 
 His phone had filled with replies to the photographs.
 
@@ -1122,13 +953,13 @@ He looked at his own face for a second.
 
 Then he saved the picture.
 
-Across the room, Enzo dropped onto his bed.
+Scott sat on the edge of his bed and checked his phone.
 
-"I'm never going outside again."
+"Mercer says six-thirty for dinner."
 
-"Dinner's downstairs."
+Taiga looked at the time. Still a while.
 
-"I can do downstairs."
+He plugged his phone in and took his notes out of his bag.
 
 ***
 
@@ -1148,7 +979,7 @@ Dennis stood halfway across the lawn, one arm still extended after a throw. Behi
 
 Miles smiled and put his phone safely on the other side of his plate.
 
-The dining room was busier now. Players had spread between the tables instead of keeping to their own teams. Someone near the windows was showing Scott a save on his phone. He leaned closer, hair falling across his face, then pointed at something on the screen.
+The dining hall was busier now. Players had spread between the tables instead of keeping to their own teams. Someone near the windows was showing Scott a save on his phone. He leaned closer, hair falling across his face, then pointed at something on the screen.
 
 "You graduating this year too?" Dennis asked Evan.
 
@@ -1200,9 +1031,11 @@ He'd moved around the table when someone left, bringing his plate and the rest o
 
 "You slept on the bus."
 
-"For about twenty minutes. Then someone started discussing his sandwich."
+"For about an hour. Then we all got out for coffee."
 
-Enzo raised a finger. "Legitimate concerns."
+"Which you said was survival," Gav pointed out.
+
+"It was. I need more surviving."
 
 "What time did you go to bed?" Evan asked.
 
@@ -1216,13 +1049,15 @@ Taiga gave him a look.
 
 "Thank you. I worked hard."
 
-After dinner, Miles asked who was coming to the common room. Enzo had already heard there were cards.
+After dinner, Miles asked who was heading up to the common lodge. Enzo had already heard there were cards.
 
-Most of them followed.
+Most of them went together. By the time they reached the residential road, Leo had his scarf over his mouth again.
 
 ***
 
-The room occupied the back corner of the lodge. Low couches faced a broad stone fireplace, with two long tables farther from the heat. A shelf of board games stood beneath the windows, several boxes held shut by elastic bands.
+They left their boots on the rack by the entrance and hung their coats on the hooks above it.
+
+The common room took up most of the lodge's ground floor. Low couches faced a broad stone fireplace, with two long tables farther from the heat. A shelf of board games stood beneath the windows, several boxes held shut by elastic bands.
 
 Someone had already lit the fire.
 
@@ -1524,7 +1359,7 @@ The fire settled lower. Someone added another log, sending sparks up behind the 
 
 Taiga checked the time.
 
-He could go upstairs. Unpack properly, charge his phone, do the reading he'd downloaded before they left.
+He could head back to his room. Finish the reading he'd abandoned before dinner, get things ready for training.
 
 He put the phone away.
 
@@ -1540,7 +1375,7 @@ At ten-thirty, Mercer appeared in the doorway.
 
 People started gathering cards, cups and jackets.
 
-Gav came back and stopped at the couch.
+Enzo came back and stopped at the couch.
 
 "Leo."
 
@@ -1554,7 +1389,7 @@ For a second he looked completely lost. Then he pushed himself upright, hair fla
 
 "What time is it?"
 
-"Bedtime," Gav said.
+"Bedtime," Enzo said.
 
 "I wasn't—"
 
@@ -1564,33 +1399,31 @@ Leo stopped.
 
 "Okay. Maybe a little."
 
-Gav took the mug from the table. "Come on."
+Enzo handed him his scarf. "Come on. I'm not carrying you."
 
 Leo stood and stretched, wincing when his back straightened. He looked down at the cushion, then put it against the armrest.
 
 Miles called good night from the other table. Skylar lifted a hand without looking up from the cards he was putting away. Dennis was checking under a chair for someone's missing room key.
 
-Taiga got his phone and followed Gav and Leo to the stairs.
+Taiga found his coat. Scott was waiting by the door.
 
-At the landing, Leo turned toward him.
+Outside, the cold woke Leo enough to complain about it. The group spread out along the cleared path, people calling good night as they turned toward the other residential buildings.
+
+Their lodge was only a short walk away.
+
+Upstairs, Enzo went ahead to open his room while Scott searched his pocket for their key.
+
+Leo stopped beside Taiga.
 
 "Night, AG."
 
 "Night."
 
-Leo smiled sleepily and followed Gav down the corridor.
+Leo smiled sleepily and followed Enzo down the corridor.
 
-Enzo was already opening Room 214.
+Scott got the door open.
 
-"Finally. My legs."
-
-"You spent the last two hours sitting."
-
-"And now I'd like to lie down."
-
-He went inside and immediately claimed the bathroom.
-
-Taiga checked his gloves. Still damp at the fingertips. He spread them out, moved his phone charger closer to the bed and took his clothes from the bag.
+Inside, Taiga checked his gloves. Still damp at the fingertips. He spread them out on the bathroom rail and plugged in his phone while Scott took his turn brushing his teeth.
 
 Outside the window, the path lights lit a narrow strip of snow beneath the trees. Beyond that, the mountain had disappeared into the dark.
 
@@ -1613,4 +1446,4 @@ Taiga smiled.
 
 Leo reacted with a thumbs-up.
 
-Taiga put the phone on the desk and went to brush his teeth.
+Taiga put the phone on the desk. When Scott came out, he took his toothbrush and went into the bathroom.
