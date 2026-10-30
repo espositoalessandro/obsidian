@@ -498,7 +498,6 @@ He pulled out the phone to take a few pictures of the valley below.
 
 "...Oh and you should have seen our Halloween party, here we- SHIT."
 
-Behind them, Miles made an indignant noise.
 Taiga turned and saw Skylar brushing the remaining snow off his gloves.
 Miles had one hand inside the neck of his jacket.
 
@@ -585,7 +584,7 @@ Evan advanced.
 
 "You'll manage."
 
-Skylar ran. Gav's throw hit him between the shoulders and nearly knocked him on the ground.
+Skylar ran. Evan's throw hit him between the shoulders and nearly knocked him on the ground.
 
 Miles cheered from behind the bench, then got hit by Aaron while he was standing up.
 
@@ -608,7 +607,7 @@ Taiga kicked loose snow over his ammunition.
 Taiga was still laughing when Leo jumped straight on him, grabbing him around his waist and knocking him down.
 
 They fell over the soft snow and immediately began wrestling trying to put snow in each other's jacket. 
-Taiga managed to pin Leo down, holding both his hands on the ground while standing on top of him.
+Taiga managed to pin Leo down, holding both his hands on the ground while kneeling on top of him.
 
 "Yield!"
 
@@ -617,9 +616,11 @@ Then he settled.
 
 "Alright, alright."
 
-For a couple of seconds, they stood like that, catching their breath. Both still smiling. Leo's cheeks were red from the cold, his hair mostly wet.
+For a couple of seconds, they stayed like that, catching their breath. Both still smiling. Leo's cheeks were red from the cold, his hair mostly wet.
 
 Then something hit Taiga directly beneath the collar. He stood immediately, bent forward and pulled the neck of his coat away from his skin.
+
+"HOLY FUCKING-"
 
 Not far away, Aaron was brushing off snow from his gloves.
 
@@ -651,7 +652,7 @@ Taiga looked at him.
 
 "Alright, fair enough."  
 
-He brushed snow off Taiga's shoulder before heading inside with Evan.
+He brushed snow off Taiga's shoulder before heading with Evan.
 
 Leo stood up, still breathing hard. Taiga realized his face hurt from the laughing.
 
@@ -674,7 +675,7 @@ He pulled out his phone and framed the lawn. There were trenches where they'd ru
 
 "Come on," He said, putting the phone away. "I need something hot."
 
-They went into the common lodge together. The entrance was warm, with a rack of wet boots beside the door. Miles pointed out the kitchen, and they got hot tea before heading back to their rooms to change.
+They walked to the common lodge together. The entrance was warm, with a rack of wet boots beside the door. Miles pointed out the kitchen, and they got hot tea before heading back to their rooms to change.
 
 ***
 
