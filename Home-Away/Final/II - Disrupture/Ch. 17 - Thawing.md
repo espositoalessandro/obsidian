@@ -624,7 +624,7 @@ Not far away, Aaron was brushing snow off his gloves.
 
 "You were such an easy target."
 
-Leo was rolling in the snow with both hands on his stomach. Taiga could hear him trying to breathe between laughs.
+Leo was rolling in the snow with both hands on his stomach. Taiga could hear him trying to breathe between laughs. He turned to Aaron.
 
 "You're so dead."
 
