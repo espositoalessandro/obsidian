@@ -138,3 +138,81 @@ Taiga shook his head and snapped a photo of the view.
 
 ***
 
+Pinetree Academy was built uphill near the top of a mountain. 
+All the buildings were entirely made of wood with big windows that covered the majority of the walls. 
+
+The bus stopped outside a long lodge with a stone ground floor and balconies facing the trees. Other buildings climbed behind it, connected by paths with the snow cleared into uneven banks. 
+Below the road, Taiga could see the training fields on a wide, level terrace.
+
+Leo stepped off the bus and immediately pulled his scarf over his mouth.
+
+"Holy fuck."
+
+Taiga followed and was welcomed by a familiar cold breeze. He couldn't help but smile at the view.
+
+Mercer was shaking hands with a man in a dark green tracksuit. Gray at the temples, sleeves pushed up despite the weather.
+
+"Daniel Hale," the man said when the last few players came around the bus. "Welcome to Pinetree Academy! We'll get you inside in a moment."
+
+He gave Mercer an envelope and pointed out the entrance.
+
+"Room list and keys. Your equipment can go in the storage room on the ground floor. Lunch is open until one. The dining hall-"
+
+He pointed a smaller lodge attached to the side of the main one. 
+
+"Is that one. We'll meet at the training building at two. Today is mostly a chance to get the journey out of your legs and find your way around. Tomorrow we start with the real training."
+
+A guy beside him stepped forward. Tall, broad through the shoulders, with green hair showing beneath his hood. He wore the same Pinetree jacket as Hale, over a loose sweatshirt.
+
+"Hi guys, I'm Dennis Warrington. Captain. You'll probably see me around more than you want to."
+
+Scott shifted beside Gav.
+
+"Uh... Scott. Stirling."
+
+Dennis offered his hand. "Good to meet you, Scott."
+
+Scott shook it.
+Mercer handed Gav the room list.
+
+"Choose your rooms and roommates. Settle in, we'll meet at 12:00 in the dining room."
+
+Pairs formed. Evan grabbed Aaron before he could protest, Gav was already walking with Jordan, while Enzo took a key and nudged Leo.
+
+"Come on, I'm freezing my ass."
+
+Leo turned for half a second toward Taiga, giving him an hesitant look. Then he followed Enzo.
+
+"Yeah, coming."
+
+For some reason, that made Taiga's stomach move a little in an unpleasant way.
+
+He shook his head. Whatever.
+
+He looked around and found Scott holding a key and being slightly terrified.
+
+Taiga approached him. "Hey. Want to share with me?"
+
+Scott's shoulders relaxed a bit. "Oh, yeah s-sure!"
+
+They followed the others in the main lodge, where they told the receptionist their rooms and their names.
+
+"Okay, perfect," Hale said. "Go settle in, see you in the dining hall then. Dennis, can you guide them to the dorms?"
+
+"No problem."
+
+Dennis guided them outside the main lodge, on the road uphill for the residential area.
+There were several smaller buildings placed along the road. 
+Pinetree had three lodges for male dorms, three for females and one big lodge with a common room.
+
+"That's where we usually spend the evenings," Dennis said pointing at the common lodge.
+
+"Not much to do outside in the evening, especially in winter. So most of us gather here."
+
+"Does it have a fireplace?" Gav asked.
+
+"Of course."
+
+"I'm sold."
+
+***
