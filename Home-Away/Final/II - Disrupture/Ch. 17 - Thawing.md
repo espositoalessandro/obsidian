@@ -616,9 +616,7 @@ Then he settled.
 
 "Alright, alright."
 
-For a couple of seconds, they stayed like that, catching their breath. Both still smiling. Leo's cheeks were red from the cold, his hair mostly wet.
-
-Then something hit Taiga directly beneath the collar. He got up immediately, bent forward and pulled the neck of his coat away from his skin.
+Taiga let go of his hands. They were both still smiling, catching their breath, when something hit Taiga directly beneath the collar.
 
 "HOLY FUCKING—"
 
