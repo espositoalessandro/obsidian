@@ -751,3 +751,17 @@ Skylar shrugged. "Usually once per year during summer break."
 They kept talking for a while about their homelands. Skylar, Leo and Enzo started comparing their islands and their customs, which were surprisingly different even though they were both tropical places. Milo talked about how actually cold his place could get, which made Pinetree look like a tropical resort.
 
 After dinner, they went to the common room.
+They left their boots on the rack by the entrance and hung their coats on the hooks above it.
+
+The common room was busier now. People had spread between the low couches facing the stone fireplace and the two long tables farther from the heat. Someone had taken a stack of board games off the shelf and left them on a chair.
+
+The fire was lit. 
+Taiga took the right-hand end of a couch and stretched his feet toward it. The warmth reached his socks almost immediately. He hadn't realized how much he still wanted that.
+
+Leo sat beside him.
+
+"Okay. This is nice."
+
+"Yeah."
+
+Skylar found a deck of cards on the shelf. Milo pulled a low table between the couch and two armchairs, while Enzo set a bowl of pretzels on the end table beyond Taiga's elbow.
