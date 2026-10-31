@@ -728,7 +728,7 @@ Skylar grinned.
 
 "How did you end up on a mountain?" Leo asked.
 
-"My parents transferred here for work when I was a child."
+"My mum's from here and they had transferred here for work when I was a child."
 
 "You go back often?"
 
