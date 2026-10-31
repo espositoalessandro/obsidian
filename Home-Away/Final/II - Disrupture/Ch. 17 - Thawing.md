@@ -783,6 +783,7 @@ Milo smiled. "That's the trick. You can lie and someone can call your bullshit. 
 
 "No skipping," Dennis said, taking the other chair. "And Jokers out."
 
+They all sat down on the floor over cushions. Taiga leaned his back against the couch.
 Milo started dealing.
 
 "I like how that's the only rule everyone agrees on."
@@ -845,8 +846,107 @@ Scott lowered his head and turned his card. A three.
 
 "You need to work on your bluff skill."
 
-Leo set his cards on the cushion and leaned across him to reach the pretzels. His left palm came down on Taiga's thigh, just above the knee.
+Leo set his cards on the cushion and leaned across him to reach the pretzels. Their knees touched and his left palm came down on Taiga's thigh, just above the knee.
 
 Taiga went still.
 
-Leo took the bowl with his other hand and sat back.
+Leo took the bowl with his other hand and sat back. He shifted the hand back on his thigh, but half of it stayed loosely on Taiga's leg.
+
+Taiga glanced down. Then at Leo, who simply held the bowl toward him.
+
+For a second, neither said anything.
+
+Taiga took a pretzel.
+
+"Thanks."
+
+Leo smiled a little and put the bowl on the table.
+
+"Bullshit," Enzo said.
+
+Milo turned them over: both wrong.
+He dropped his head back against the chair.
+
+"Aww, come on! I thought I had that one!"
+
+"You announce it with your whole face," Aaron said from behind him.
+
+"I do not!"
+
+Aaron imitated him. Badly, but recognizably enough that Milo started laughing too.
+
+Taiga's stomach dropped a little when he felt Leo's little finger moving slightly on his thigh. He tried very hard not to look down.
+
+When Leo's turn came, he lifted his hand to pick up his cards.
+
+Taiga let out a slow breath through his nose and reached for another pretzel.
+He could still feel the warmth of Leo's hand on his leg.
+
+Milo got quieter as his hand grew smaller. 
+Dennis put down two cards.
+
+"Queens."
+
+Milo looked up.
+
+"Bullshit!"
+
+Dennis paused. Milo fanned out three queens for everyone to see.
+For a second, everyone just looked at them.
+
+Dennis turned over a four and a nine.
+
+"Fair enough."
+
+"Oh, I got you!" Milo pushed the pile toward him. "I finally got you!"
+
+Skylar leaned back and laughed while Dennis collected the cards. Milo remained delighted through the next three turns, including the one where Skylar made him pick up half of them again.
+
+Leo played more slowly during the second game. Once, Taiga had to point at the table before he realized it was his turn.
+
+"Mh? Yeah, sorry, I was thinking."
+
+"Think faster."
+
+He put down one card, got called and took the pile. Taiga laughed.
+
+Leo bumped his elbow. "Don't enjoy it so much."
+
+After that round, Leo handed his cards to Aaron.
+
+"I need a break."
+
+"Already?" Aaron said.
+
+"Yeah, I need to reassess my friends."
+
+He laid on the couch behind Taiga, tucking his feet up and watched the game with his cheek resting on his bent arm.
+
+The game continued.
+
+Scott looked at his hand for too long.
+
+"Uh... Three q-queens."
+
+Enzo made a face. "Bullshiiiit."
+
+Scott turned his cards. Three queens. 
+Enzo's smile disappeared.
+
+Evan burst out laughing. "Eat your shit!"
+
+"You little fucker."
+
+Scott giggled behind his cards.
+
+Taiga laughed as well. Then he turned to Leo.
+
+"Even Scott can do better than y-"
+
+His eyes were closed. One hand lay beside his face. The other had slipped between the cushions. His mouth was slightly open.
+
+Taiga watched him for a few seconds and smiled, shaking his head.
+He picked up a spare cushion on the couch and eased it beneath his head. Leo moved just a little and muttered something, but he went still immediately again.
+
+Taiga turned back to his hand. Smile still on his face.
+
