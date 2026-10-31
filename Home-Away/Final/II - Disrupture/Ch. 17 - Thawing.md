@@ -495,7 +495,6 @@ The lawn was circular, surrounded by a low stone wall, with benches all around.
 
 Taiga looked around. Here at Pinetree, there were far fewer people wandering around or sitting on benches.
 It was definitely quieter.
-The lawn was mostly empty, with just a few people watching the sun set behind the pitches.
 He pulled out his phone to take a few pictures of the valley below.
 
 "...Oh, and you should have seen our Halloween party! Here we—SHIT!"
