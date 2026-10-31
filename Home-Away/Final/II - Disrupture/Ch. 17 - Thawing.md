@@ -279,11 +279,11 @@ A guy had stopped beside Leo, tray in hand. His short hair was white, with sky b
 
 Leo nodded. "Yep."
 
-"Awesome! Mind if I join you? I'm Miles. Miles King."
+"Awesome! Mind if I join you? I'm Milo. Milo Kristensen."
 
 "Yeah, sure!" Leo said, shifting toward the window.
 
-Miles put his tray down.
+Milo put his tray down.
 
 "So, how was the drive? Did it take long to get here?"
 
@@ -297,17 +297,17 @@ Miles put his tray down.
 
 "And what do you do around here?" Leo asked.
 
-Miles shrugged lightly. "Mostly hang around campus. There are some sick hiking trails. In the evening, pretty much everyone goes to the common lodge. There are buses to the city if you want something different."
+Milo shrugged lightly. "Mostly hang around campus. There are some sick hiking trails. In the evening, pretty much everyone goes to the common lodge. There are buses to the city if you want something different."
 
 Leo turned to Taiga. "Sounds like your paradise."
 
 Taiga kicked him under the table.
 
-"What about Olympus, though?" Miles asked.
+"What about Olympus, though?" Milo asked.
 
 They talked about Olympus and showed him some photos.
 
-Miles was holding Leo's phone, looking at a photo of the stadium. Another guy walked past him with a tray. Miles glanced up.
+Milo was holding Leo's phone, looking at a photo of the stadium. Another guy walked past him with a tray. Milo glanced up.
 
 "Hey, Skip! Check this out!"
 
@@ -324,25 +324,25 @@ He glanced at the screen.
 
 "Heh, I know."
 
-Miles's eyes were sparkling. "Ohh, I can't wait to see it! I bet playing away at Olympus gets pretty intimidating."
+Milo's eyes were sparkling. "Ohh, I can't wait to see it! I bet playing away at Olympus gets pretty intimidating."
 
 "It's gonna take some time for the away match," the guy said.
 
-Miles waved him in. "Come on, sit with us!"
+Milo waved him in. "Come on, sit with us!"
 
-The guy put his tray on the table and sat next to Miles. "Skylar Pascual. Nice to meet you."
+The guy put his tray on the table and sat next to Milo. "Skylar Pascual. Nice to meet you."
 
 "That's a freaking cool name," Aaron said.
 
 Skylar blinked. "Uh... thanks?"
 
-Miles giggled. "That's not what we call him, though—OUCH!"
+Milo giggled. "That's not what we call him, though—OUCH!"
 
 Skylar had kicked him under the table. "Shut up."
 
 "What position do you guys play?" Evan asked.
 
-"I'm usually the right winger. Skylar is our beloved striker. You should've already met our captain, Dennis. He's our center-back," Miles answered.
+"I'm usually the right winger. Skylar is our beloved striker. You should've already met our captain, Dennis. He's our center-back," Milo answered.
 
 Aaron frowned. "Usually?"
 
@@ -358,7 +358,7 @@ Aaron frowned. "Usually?"
 
 That, Taiga could agree with.
 
-Conversation spread along the tables. Skylar and Evan were talking about the pitches; Aaron asked which Pinetree players were in their year. Miles wanted to know how far away Olympus's dorms were from everything else.
+Conversation spread along the tables. Skylar and Evan were talking about the pitches; Aaron asked which Pinetree players were in their year. Milo wanted to know how far away Olympus's dorms were from everything else.
 
 "Here, look," he said when Leo asked about their campus. "It's easier if I show you. The map makes it look flat, but it absolutely isn't."
 
@@ -378,13 +378,13 @@ Skylar glanced over. "Longer if he comes."
 
 "Still, longer."
 
-Miles stuck his tongue out at him. Then he turned to the rest.
+Milo stuck his tongue out at him. Then he turned to the rest.
 
 "We can take you there tomorrow, if you want. Sadly, we've still got classes today."
 
 Leo grinned. "Yeah!"
 
-Miles smiled back. "Ookay, deal! Now I think..."
+Milo smiled back. "Ookay, deal! Now I think..."
 
 He checked the clock.
 
@@ -394,19 +394,19 @@ He checked the clock.
 
 "At the library?" Gav asked.
 
-"Yeah, perfect! There's a coffee stall right inside, too" Miles answered.
+"Yeah, perfect! There's a coffee stall right inside, too" Milo answered.
 
 "That's all you had to say," Leo said.
 
-Miles took out his phone. He and Leo exchanged numbers, and a moment later the Apollo chat had a photograph of the library entrance.
+Milo took out his phone. He and Leo exchanged numbers, and a moment later the Apollo chat had a photograph of the library entrance.
 
-Skylar handed Miles the backpack he'd left on the bench.
+Skylar handed Milo the backpack he'd left on the bench.
 
 "Come on."
 
 "Right! See you guys later!"
 
-They left through the other door, Miles still talking as he hurried to catch up.
+They left through the other door, Milo still talking as he hurried to catch up.
 
 ***
 
@@ -423,13 +423,13 @@ Taiga approached the stall. "One black coffee, please."
 
 The others followed. They sat at a table near the windows, discussing whether sweat would freeze on their faces during training.
 
-Shortly after, Miles and Skylar entered.
+Shortly after, Milo and Skylar entered.
 
 "Hey, guys! I see you've already settled in. That's great. Come on, let's go before it gets too dark."
 
 Outside, the light had turned pale gold on the upper roofs. The road beyond the library climbed toward another group of buildings, while a narrower path curved between two lecture halls.
 
-Miles took the path.
+Milo took the path.
 
 "This way's quicker when it's not frozen. Unless you want to see the administration building, which... I don't know why you would."
 
@@ -443,7 +443,7 @@ Skylar put his phone away. "That's every week."
 
 Leo laughed beside Taiga. He asked which office, then somehow they were comparing the registration systems at both colleges.
 
-They reached the road again. Miles pointed at the biggest building.
+They reached the road again. Milo pointed at the biggest building.
 
 "That's our common lodge! It has, like, three rooms with a fireplace in the center and couches all around. It's hygge as hell!"
 
@@ -467,13 +467,13 @@ Leo covered his mouth with his hands. "I'm transferring here."
 
 "Sometimes the weather can be pretty rough here," Skylar said. "If there's an oncoming storm, they don't allow people outside until it's passed."
 
-Miles made a face. "Ugh, yeah. Once I got stuck in the dining hall for like two hours."
+Milo made a face. "Ugh, yeah. Once I got stuck in the dining hall for like two hours."
 
 "Okay," Leo said. "Transfer withdrawn."
 
 Taiga snorted. "That was quick."
 
-"Well, anyway," Miles continued, "if you keep following the road uphill, the trail to the overlook starts just beyond the last building."
+"Well, anyway," Milo continued, "if you keep following the road uphill, the trail to the overlook starts just beyond the last building."
 
 Leo nodded. "Noted."
 
@@ -501,7 +501,7 @@ He pulled out his phone to take a few pictures of the valley below.
 "...Oh, and you should have seen our Halloween party! Here we—SHIT!"
 
 Taiga turned and saw Skylar brushing the remaining snow off his gloves.
-Miles had one hand inside the neck of his jacket.
+Milo had one hand inside the neck of his jacket.
 
 "Dude!"
 
@@ -511,14 +511,14 @@ Miles had one hand inside the neck of his jacket.
 
 "Did it?"
 
-Miles bent to scoop up snow. Skylar waited until his arm came forward, then stepped aside.
+Milo bent to scoop up snow. Skylar waited until his arm came forward, then stepped aside.
 
 The snowball hit Enzo, who was still holding his coffee.
 He stopped for a second and looked down at his coat.
 
 Taiga put his phone away. He smelled trouble.
 
-"Oh, shit." Miles straightened. "Sorry! That was for him!"
+"Oh, shit." Milo straightened. "Sorry! That was for him!"
 
 Enzo brushed the snow off his coat. Then he finished his coffee and dumped the cup in the trash can beside him.
 
@@ -526,11 +526,11 @@ Enzo brushed the snow off his coat. Then he finished his coffee and dumped the c
 
 He bent and scooped a handful of snow.
 
-Miles backed away, laughing. "Wait, wait! I said sorry!"
+Milo backed away, laughing. "Wait, wait! I said sorry!"
 
 "And I accept your apologies."
 
-The snowball caught Miles in the chest. Leo laughed, which drew Enzo's attention to him.
+The snowball caught Milo in the chest. Leo laughed, which drew Enzo's attention to him.
 
 "Oh, come on—"
 
@@ -552,7 +552,7 @@ Taiga laughed hard. Until something hit him on the shoulder. He turned and saw A
 
 And so it began.
 
-At first, Taiga teamed up with Enzo and Skylar. Aaron joined Miles and Leo behind a bench.
+At first, Taiga teamed up with Enzo and Skylar. Aaron joined Milo and Leo behind a bench.
 
 "COWARDS!" Enzo shouted.
 
@@ -565,7 +565,7 @@ Gav, Evan and Scott joined a minute later as a separate team. Taiga's eyes were 
 Skylar nodded and bent to prepare ammunition.
 Taiga made two snowballs and ran around to their flank. When his line of sight was clear, he hit Leo on the side.
 
-Leo and Miles immediately stood up to shoot back, but that was a big mistake. At least three snowballs hit them in the back.
+Leo and Milo immediately stood up to shoot back, but that was a big mistake. At least three snowballs hit them in the back.
 
 Leo was laughing. "YOU BASTARD!"
 
@@ -588,7 +588,7 @@ Evan advanced.
 
 Skylar ran. Evan's throw hit him between the shoulders and nearly knocked him to the ground.
 
-Miles cheered from behind the bench, then got hit by Aaron while he was standing up.
+Milo cheered from behind the bench, then got hit by Aaron while he was standing up.
 
 Taiga's next handful fell apart before he could throw it. He took more, packed it harder and looked for Leo.
 
@@ -638,7 +638,7 @@ Leo was rolling in the snow with both hands on his stomach. Taiga could hear him
 
 Taiga got most of the snow out. The rest had become cold water against the back of his shirt.
 
-Then he heard Miles shouting, "Alright, guys, it's getting dark. Truce?"
+Then he heard Milo shouting, "Alright, guys, it's getting dark. Truce?"
 
 The sun had sunk behind the mountains and the lights had gone on around the campus.
 
@@ -675,11 +675,11 @@ He pulled out his phone and framed the lawn. There were trenches where they'd ru
 
 "Come on," he said, putting the phone away. "I need something hot."
 
-They walked to the common lodge together. The entrance was warm, with a rack of wet boots beside the door. Miles pointed out the kitchen, and they got hot tea before heading back to their rooms to change.
+They walked to the common lodge together. The entrance was warm, with a rack of wet boots beside the door. Milo pointed out the kitchen, and they got hot tea before heading back to their rooms to change.
 
 ***
 
-At dinner, Miles had his phone out between mouthfuls.
+At dinner, Milo had his phone out between mouthfuls.
 
 "Wait, there's another one. Look at Aaron."
 
@@ -693,14 +693,14 @@ Aaron stood halfway across the lawn, one arm still extended after a throw. Behin
 
 "Delete it," Skylar said.
 
-Miles smiled and put his phone safely on the other side of his plate.
+Milo smiled and put his phone safely on the other side of his plate.
 
 The dining hall was busier now. Players had spread between the tables instead of keeping to their own teams. Someone near the windows was showing Scott a save on his phone. He leaned closer, hair falling across his face, then pointed at something on the screen.
 
 "You graduating this year too?" Dennis, their captain, asked Evan.
 
 They started comparing what they still had left to finish.
-Miles wanted to know whether there was snow where Leo came from.
+Milo wanted to know whether there was snow where Leo came from.
 
 "Nope. Santo Domingo."
 
@@ -712,7 +712,7 @@ Skylar reached for the bread basket.
 
 "My cousins in Cebu keep asking me for snow pictures. Should send them that."
 
-"The one of you?" Miles asked.
+"The one of you?" Milo asked.
 
 "Of him."
 
@@ -734,7 +734,7 @@ Skylar grinned.
 
 Skylar shrugged. "Usually once per year during summer break."
 
-"And you, Miles?" Taiga asked.
+"And you, Milo?" Taiga asked.
 
 "Me? Denmark in Europe! Came here last year."
 
@@ -748,6 +748,6 @@ Skylar shrugged. "Usually once per year during summer break."
 
 "They can both work."
 
-They kept talking for a while about their homelands. Skylar, Leo and Enzo started comparing their islands and their customs, which were surprisingly different even though they were both tropical places. Miles talked about how actually cold his place could get, which made Pinetree look like a tropical resort.
+They kept talking for a while about their homelands. Skylar, Leo and Enzo started comparing their islands and their customs, which were surprisingly different even though they were both tropical places. Milo talked about how actually cold his place could get, which made Pinetree look like a tropical resort.
 
 After dinner, they went to the common room.
