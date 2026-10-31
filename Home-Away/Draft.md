@@ -1,6 +1,6 @@
 ### Chapter 17 - Thawing
 
-Miles checked the time as they started gathering their trays.
+Milo checked the time as they started gathering their trays.
 
 "We finish at four. If you guys wanna meet up, we can show you around before it gets dark."
 
@@ -10,15 +10,15 @@ Miles checked the time as they started gathering their trays.
 
 "That's all you had to say," Leo said.
 
-Miles took out his phone. He and Leo exchanged numbers, and a moment later the Apollo chat had a photograph of the library entrance.
+Milo took out his phone. He and Leo exchanged numbers, and a moment later the Apollo chat had a photograph of the library entrance.
 
-Skylar handed Miles the backpack he'd left on the bench.
+Skylar handed Milo the backpack he'd left on the bench.
 
 "Come on."
 
 "Right! See you guys later!"
 
-They left through the other door, Miles still talking as he hurried to catch up.
+They left through the other door, Milo still talking as he hurried to catch up.
 
 ***
 
@@ -231,7 +231,7 @@ Nobody waited for the explanation.
 
 ***
 
-Miles was waiting just inside the library with his bag between his feet. Skylar stood beside the noticeboard, finishing something on his phone.
+Milo was waiting just inside the library with his bag between his feet. Skylar stood beside the noticeboard, finishing something on his phone.
 
 "Hey! You found it!"
 
@@ -243,7 +243,7 @@ Enzo went straight to the coffee machine.
 
 The library was warm, with low ceilings and long windows looking over the campus. A display case near the stairs held feathers, skulls and several small birds on branches. Gav stopped in front of it.
 
-Miles followed his gaze.
+Milo followed his gaze.
 
 "Oh, that's from the ecology department. They change it every few weeks."
 
@@ -253,13 +253,13 @@ Enzo checked the price on the machine, then looked back at them.
 
 "These people understand coffee."
 
-Taiga bought one while Miles explained where the other entrance came out. By the time everyone had a drink, Gav had reached the far end of the case.
+Taiga bought one while Milo explained where the other entrance came out. By the time everyone had a drink, Gav had reached the far end of the case.
 
 They waited for him.
 
 Outside, the light had turned pale gold on the upper roofs. The road beyond the library climbed toward another group of buildings, while a narrower path curved between two lecture halls.
 
-Miles took the path.
+Milo took the path.
 
 "This way's quicker. Unless you want to see the administration building, which... I don't know why you would."
 
@@ -271,7 +271,7 @@ Skylar put his phone away. "That's every week."
 
 "It was one form!"
 
-Miles started explaining. Something had been submitted twice, then neither copy had apparently counted. Skylar interrupted once to supply a date, which made Miles turn around and point at him.
+Milo started explaining. Something had been submitted twice, then neither copy had apparently counted. Skylar interrupted once to supply a date, which made Milo turn around and point at him.
 
 "You were there! You know it wasn't my fault!"
 
@@ -295,7 +295,7 @@ Leo stopped beside him.
 
 "Yeah."
 
-Miles came back a few steps.
+Milo came back a few steps.
 
 "That's where we play Sunday. The other one's mostly for training."
 
@@ -325,7 +325,7 @@ Leo stayed until Taiga put his phone away.
 
 Taiga sent it while they walked.
 
-Farther along, Miles pointed out a small shop tucked into the ground floor of a residence building. Enzo immediately wanted to know when it closed.
+Farther along, Milo pointed out a small shop tucked into the ground floor of a residence building. Enzo immediately wanted to know when it closed.
 
 Outside the next entrance, ski poles stood in a rack.
 
@@ -345,7 +345,7 @@ They came out behind the common lodge.
 
 A wide lawn stretched beyond the rear porch, with benches along the edge and a low stone wall beneath the trees. Snow covered most of it, broken by footprints between the doors and a small shed.
 
-Miles pointed toward a path leading away between the pines.
+Milo pointed toward a path leading away between the pines.
 
 "That's the start of the trail from the map."
 
@@ -373,11 +373,11 @@ Leo came up beside him, raising his own.
 
 Leo took a step sideways. Taiga caught the edge of his scarf in the photograph anyway.
 
-Behind them, Miles made an indignant noise.
+Behind them, Milo made an indignant noise.
 
 Taiga turned.
 
-Skylar was brushing the remaining snow off his glove. Miles had one hand inside the neck of his jacket.
+Skylar was brushing the remaining snow off his glove. Milo had one hand inside the neck of his jacket.
 
 "Dude!"
 
@@ -387,7 +387,7 @@ Skylar was brushing the remaining snow off his glove. Miles had one hand inside 
 
 "Did it?"
 
-Miles bent to scoop up snow. Skylar waited until his arm came forward, then stepped aside.
+Milo bent to scoop up snow. Skylar waited until his arm came forward, then stepped aside.
 
 The snowball hit Enzo.
 
@@ -397,9 +397,9 @@ Enzo looked down at his coat.
 
 For a moment, nobody moved.
 
-"Oh, shit." Miles straightened. "Sorry! That was for him!"
+"Oh, shit." Milo straightened. "Sorry! That was for him!"
 
-Skylar pointed at Miles without looking remotely sorry about anything.
+Skylar pointed at Milo without looking remotely sorry about anything.
 
 Enzo stepped off the path.
 
@@ -407,11 +407,11 @@ Enzo stepped off the path.
 
 He scooped a handful from the bank beside the steps.
 
-Miles backed away, laughing. "Wait, wait! I said sorry!"
+Milo backed away, laughing. "Wait, wait! I said sorry!"
 
 "An excellent start."
 
-The snowball caught Miles in the chest. Leo laughed, which drew Enzo's attention to him.
+The snowball caught Milo in the chest. Leo laughed, which drew Enzo's attention to him.
 
 "Oh, no."
 
@@ -431,9 +431,9 @@ Aaron pulled his gloves on.
 
 Dennis appeared in the doorway holding a mug.
 
-He watched Enzo duck behind the wall, then looked at Miles.
+He watched Enzo duck behind the wall, then looked at Milo.
 
-Miles pointed at Skylar.
+Milo pointed at Skylar.
 
 "Of course," Dennis said. "No ice. Stay off the steps."
 
@@ -453,7 +453,7 @@ Skylar ducked. Leo, coming around the end of the bench, took Aaron's snowball on
 
 "You are now," Aaron called.
 
-Miles joined Leo behind the bench. Enzo retreated toward a low wall with Gav, who was still holding a leaflet from the library.
+Milo joined Leo behind the bench. Enzo retreated toward a low wall with Gav, who was still holding a leaflet from the library.
 
 "Put that away," Enzo told him.
 
@@ -485,7 +485,7 @@ Taiga laughed again.
 
 "You're already losing from there."
 
-Leo bent toward Miles and said something Taiga couldn't hear. Miles nodded enthusiastically.
+Leo bent toward Milo and said something Taiga couldn't hear. Milo nodded enthusiastically.
 
 That seemed bad.
 
@@ -495,13 +495,13 @@ Aaron moved left to get around their cover.
 
 "I see him."
 
-Miles stood up with both hands raised.
+Milo stood up with both hands raised.
 
 "Hold on! We gotta decide who's on which—"
 
 Leo's snowball hit Taiga across the chest.
 
-Miles immediately dropped back behind the bench.
+Milo immediately dropped back behind the bench.
 
 Taiga stared at the front of his coat.
 
@@ -529,7 +529,7 @@ Dennis advanced.
 
 Skylar ran. Dennis's throw hit him between the shoulders.
 
-Miles cheered from behind the bench, then got hit by Aaron while he was standing up.
+Milo cheered from behind the bench, then got hit by Aaron while he was standing up.
 
 Taiga's next handful fell apart before he could throw it. He took more, packed it harder and looked for Leo.
 
@@ -603,13 +603,13 @@ Taiga gathered a handful.
 
 Leo took off before Taiga finished packing it.
 
-By the time Taiga got back to the lawn, Miles was calling across it.
+By the time Taiga got back to the lawn, Milo was calling across it.
 
 "Skylar! Hey! Truce?"
 
 Skylar looked over the wall he'd taken from Enzo.
 
-Miles was carrying a snowball in each hand. He dropped one, held the other up and dropped that too.
+Milo was carrying a snowball in each hand. He dropped one, held the other up and dropped that too.
 
 "See? Done."
 
@@ -621,7 +621,7 @@ Dennis stepped out from behind the porch post.
 
 Skylar got as far as the bench before Dennis caught his hood and tipped a handful down the back of his jacket.
 
-Miles practically folded in half.
+Milo practically folded in half.
 
 "That's for earlier!"
 
@@ -641,11 +641,11 @@ Eventually Dennis called a stop.
 
 "Alright. Enough. Some of us still have to play football tomorrow."
 
-Miles, already winding up another throw, slowly lowered his arm.
+Milo, already winding up another throw, slowly lowered his arm.
 
 Skylar watched him.
 
-Miles dropped the snowball.
+Milo dropped the snowball.
 
 "Good choice," Dennis said.
 
@@ -687,7 +687,7 @@ Leo pressed his lips together. It didn't help much.
 
 Taiga shoved his shoulder.
 
-For a while, they watched Miles retrieve his gloves from the lawn. Skylar stood on the porch pulling his shirt away from his back, while Dennis answered a question from Gav as though he hadn't done anything.
+For a while, they watched Milo retrieve his gloves from the lawn. Skylar stood on the porch pulling his shirt away from his back, while Dennis answered a question from Gav as though he hadn't done anything.
 
 "Your face when Aaron got you," Leo said.
 
@@ -729,7 +729,7 @@ Taiga waited.
 
 "Come on," Leo said, putting the phone away. "I need something hot."
 
-They went into the common lodge together. The entrance was warm, with a rack of wet boots beside the door. Miles pointed out the kitchen, and they got something hot to drink before heading back to their rooms to change.
+They went into the common lodge together. The entrance was warm, with a rack of wet boots beside the door. Milo pointed out the kitchen, and they got something hot to drink before heading back to their rooms to change.
 
 ***
 
@@ -753,7 +753,7 @@ Enzo stood in the middle of the ruined lawn, both arms spread, snow all over the
 
 Keitaro replied with a laughing face.
 
-There were more photographs in the chat now. Miles had sent them to Leo, including one someone had taken from the porch during the fight. Aaron was pointing at something out of frame. Taiga stood a few steps behind him, head turned toward Leo.
+There were more photographs in the chat now. Milo had sent them to Leo, including one someone had taken from the porch during the fight. Aaron was pointing at something out of frame. Taiga stood a few steps behind him, head turned toward Leo.
 
 He looked at his own face for a second.
 
@@ -769,7 +769,7 @@ He plugged his phone in and took his notes out of his bag.
 
 ***
 
-At dinner, Miles had his phone out between mouthfuls.
+At dinner, Milo had his phone out between mouthfuls.
 
 "Wait, there's another one. Look at Dennis."
 
@@ -783,13 +783,13 @@ Dennis stood halfway across the lawn, one arm still extended after a throw. Behi
 
 "Delete it," Skylar said.
 
-Miles smiled and put his phone safely on the other side of his plate.
+Milo smiled and put his phone safely on the other side of his plate.
 
 The dining hall was busier now. Players had spread between the tables instead of keeping to their own teams. Someone near the windows was showing Scott a save on his phone. He leaned closer, hair falling across his face, then pointed at something on the screen.
 
 "You graduating this year too?" Dennis asked Evan.
 
-They started comparing what they still had left to finish. Miles wanted to know whether there was snow where Leo came from.
+They started comparing what they still had left to finish. Milo wanted to know whether there was snow where Leo came from.
 
 "Nope. Santo Domingo."
 
@@ -805,7 +805,7 @@ Skylar reached for the bread basket.
 
 "My cousins in Cebu keep asking me for snow pictures. Should send them that."
 
-"The one of you?" Miles asked.
+"The one of you?" Milo asked.
 
 "Of him."
 
@@ -815,7 +815,7 @@ He pointed at Taiga.
 
 Skylar grinned.
 
-Miles was still looking through the photographs when Aaron asked Skylar about Sunday.
+Milo was still looking through the photographs when Aaron asked Skylar about Sunday.
 
 "You any good up front?"
 
@@ -829,7 +829,7 @@ Aaron laughed. "Alright. I'll make a special trip."
 
 Beside Taiga, Leo yawned.
 
-He'd moved around the table when someone left, bringing his plate and the rest of Miles's conversation with him.
+He'd moved around the table when someone left, bringing his plate and the rest of Milo's conversation with him.
 
 "You going to survive?" Taiga asked.
 
@@ -855,7 +855,7 @@ Taiga gave him a look.
 
 "Thank you. I worked hard."
 
-After dinner, Miles asked who was heading up to the common lodge. Enzo had already heard there were cards.
+After dinner, Milo asked who was heading up to the common lodge. Enzo had already heard there were cards.
 
 Most of them went together. By the time they reached the residential road, Leo had his scarf over his mouth again.
 
@@ -865,7 +865,7 @@ They left their boots on the rack by the entrance and hung their coats on the ho
 
 The common room was busier now. People had spread between the low couches facing the stone fireplace and the two long tables farther from the heat. Someone had taken a stack of board games off the shelf and left them on a chair.
 
-The fire was lit. Miles went to put the kettle on, and Taiga left his mug on the end table when he came back from the kitchen.
+The fire was lit. Milo went to put the kettle on, and Taiga left his mug on the end table when he came back from the kitchen.
 
 Taiga took the right-hand end of a couch and stretched his feet toward it. The warmth reached his socks almost immediately. He hadn't realized how much he still wanted that.
 
@@ -875,7 +875,7 @@ Leo sat beside him.
 
 "Yeah."
 
-Skylar found a deck of cards on the shelf. Miles pulled a low table between the couch and two armchairs, while Enzo set a bowl of pretzels on the end table beyond Taiga's elbow.
+Skylar found a deck of cards on the shelf. Milo pulled a low table between the couch and two armchairs, while Enzo set a bowl of pretzels on the end table beyond Taiga's elbow.
 
 "What are we playing?" Leo asked.
 
@@ -889,7 +889,7 @@ Skylar looked at him.
 
 "No skipping," Dennis said, taking the other chair. "Jokers out."
 
-Miles started dealing.
+Milo started dealing.
 
 "I like how that's the only rule everyone agrees on."
 
@@ -917,7 +917,7 @@ Enzo waited.
 
 Enzo turned them over and started laughing.
 
-Miles leaned forward to look.
+Milo leaned forward to look.
 
 "Dude! None of those are right!"
 
@@ -933,11 +933,11 @@ Taiga returned to his cards.
 
 Skylar played quickly. Barely glanced at his hand, put something down and looked straight at whoever seemed most likely to challenge him.
 
-Miles called him twice.
+Milo called him twice.
 
 Wrong both times.
 
-"The grin," Miles said, collecting the second pile. "I thought you were trying not to laugh!"
+"The grin," Milo said, collecting the second pile. "I thought you were trying not to laugh!"
 
 "I was."
 
@@ -957,7 +957,7 @@ Skylar glanced at Taiga's growing hand.
 
 Taiga turned the cards away before he could say anything.
 
-Across the table, Gav had started counting under his breath. Miles watched him for a few seconds, then looked down at his own cards.
+Across the table, Gav had started counting under his breath. Milo watched him for a few seconds, then looked down at his own cards.
 
 "Oh."
 
@@ -1011,7 +1011,7 @@ Taiga took a pretzel.
 
 Leo smiled a little and put the bowl on the table.
 
-Miles was explaining why he hadn't called Dennis on the previous turn. Skylar pointed at the pile.
+Milo was explaining why he hadn't called Dennis on the previous turn. Skylar pointed at the pile.
 
 "Still your go."
 
@@ -1023,7 +1023,7 @@ Taiga watched him instead of looking at the hand on his thigh again.
 
 "Bullshit," Enzo said.
 
-Miles turned them over.
+Milo turned them over.
 
 Both wrong.
 
@@ -1035,7 +1035,7 @@ He dropped his head back against the chair.
 
 "I do not!"
 
-Aaron imitated him. Badly, but recognizably enough that Miles started laughing too.
+Aaron imitated him. Badly, but recognizably enough that Milo started laughing too.
 
 When Leo's turn came, he lifted his hand to pick up his cards.
 
@@ -1043,19 +1043,19 @@ Taiga let out a slow breath through his nose and reached for another pretzel.
 
 They played on.
 
-Miles got quieter as his hand grew smaller. Taiga watched him rearrange the same few cards, glance at the pile and decide against saying anything.
+Milo got quieter as his hand grew smaller. Taiga watched him rearrange the same few cards, glance at the pile and decide against saying anything.
 
 Dennis put down two cards.
 
 "Queens."
 
-Miles looked up.
+Milo looked up.
 
 "Bullshit!"
 
 Dennis paused.
 
-Miles fanned out three queens for everyone to see.
+Milo fanned out three queens for everyone to see.
 
 For a second, everyone just looked at them.
 
@@ -1065,11 +1065,11 @@ Dennis turned over a four and a nine.
 
 "Fair enough."
 
-"Oh, I got you!" Miles pushed the pile toward him. "I finally got you!"
+"Oh, I got you!" Milo pushed the pile toward him. "I finally got you!"
 
 "You did."
 
-Skylar leaned back and laughed while Dennis collected the cards. Miles remained delighted through the next three turns, including the one where Skylar made him pick up half of them again.
+Skylar leaned back and laughed while Dennis collected the cards. Milo remained delighted through the next three turns, including the one where Skylar made him pick up half of them again.
 
 The second game was louder.
 
@@ -1111,7 +1111,7 @@ Taiga sat at the vacated end and picked up his new hand.
 
 Across from him, Dennis was listening to Gav explain why counting cards only got you so far when everyone could lie. Skylar put down his last three cards during the explanation.
 
-"You're out?" Miles asked.
+"You're out?" Milo asked.
 
 Skylar nodded.
 
@@ -1119,7 +1119,7 @@ Skylar nodded.
 
 "Too late."
 
-Miles appealed to Dennis, who had been watching the whole thing and refused to help.
+Milo appealed to Dennis, who had been watching the whole thing and refused to help.
 
 Taiga turned toward Leo.
 
@@ -1153,7 +1153,7 @@ Aaron was dealing another hand.
 
 The games broke up gradually.
 
-Skylar went to the kitchen with Enzo and returned eating biscuits. Miles joined a game at the other table, pulled up a chair for Evan and immediately began explaining what he'd missed.
+Skylar went to the kitchen with Enzo and returned eating biscuits. Milo joined a game at the other table, pulled up a chair for Evan and immediately began explaining what he'd missed.
 
 Dennis stayed with Scott and Gav. Taiga heard something about the wind on the lower pitch, then Scott asking whether it changed much during matches.
 
@@ -1161,7 +1161,7 @@ Taiga listened for a while.
 
 Leo slept through all of it.
 
-The fire settled lower. Someone added another log, sending sparks up behind the screen. Near the windows, Miles laughed at something Evan had said.
+The fire settled lower. Someone added another log, sending sparks up behind the screen. Near the windows, Milo laughed at something Evan had said.
 
 Taiga checked the time. He still had reading to finish, and his things for training were somewhere at the bottom of his bag.
 
@@ -1207,7 +1207,7 @@ Enzo handed him his scarf. "Come on. I'm not carrying you."
 
 Leo stood and stretched, wincing when his back straightened. He looked down at the cushion, then put it against the armrest.
 
-Miles called good night from the other table. Skylar lifted a hand without looking up from the cards he was putting away. Dennis was checking under a chair for someone's missing room key.
+Milo called good night from the other table. Skylar lifted a hand without looking up from the cards he was putting away. Dennis was checking under a chair for someone's missing room key.
 
 Taiga found his coat. Scott was waiting by the door.
 
