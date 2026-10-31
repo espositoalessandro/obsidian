@@ -309,7 +309,7 @@ They talked about Olympus and showed him some photos.
 
 Miles was holding Leo's phone, looking at a photo of the stadium. Another guy walked past him with a tray. Miles glanced up.
 
-"Hey, Skip, check this out!"
+"Hey, Skip! Check this out!"
 
 Brown skin, cropped black hair, small black earrings. A yellow hood lay over the collar of his black jacket.
 When Taiga looked at him, something about his face looked familiar.
@@ -445,7 +445,7 @@ Leo laughed beside Taiga. He asked which office, then somehow they were comparin
 
 They reached the road again. Miles pointed at the biggest building.
 
-"That's our common lodge! It has, like, three rooms with a fireplace in the center and couches all around. It's hygge as hell."
+"That's our common lodge! It has, like, three rooms with a fireplace in the center and couches all around. It's hygge as hell!"
 
 Aaron frowned. "Hygge?"
 
@@ -730,6 +730,24 @@ Skylar grinned.
 
 "My parents transferred here for work when I was a child."
 
-They went on a conversation about their islands, comparing habits, climate and food.
+"You go back often?"
+
+Skylar shrugged. "Usually once per year during summer break."
+
+"And you, Miles?" Taiga asked.
+
+"Me? Denmark in Europe! Came here last year."
+
+"You got snow in there?" Leo asked.
+
+"Oh, you have no idea. We barely get any sun in winter. Not that I tan much anyway." He pushed up his sleeve. "Look at this!"
+
+"That's why we call him Milk," Skylar added.
+
+"Oh, fuck off. Plus, didn't you say it was because of my hair?"
+
+"They can both work."
+
+They kept talking for a while about their homelands. Skylar, Leo and Enzo started comparing their islands and their customs, which were surprisingly different even though they were both tropical places. Miles talked about how actually cold his place could get, which made Pinetree look like a tropical resort.
 
 After dinner, they went to the common room.
