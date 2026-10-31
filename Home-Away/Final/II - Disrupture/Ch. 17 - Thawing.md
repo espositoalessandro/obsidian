@@ -755,7 +755,7 @@ They left their boots on the rack by the entrance and hung their coats on the ho
 
 The common room was busier now. People had spread between the low couches facing the stone fireplace and the two long tables farther from the heat. Someone had taken a stack of board games off the shelf and left them on a chair.
 
-The fire was lit. 
+The fire was lit.
 Taiga took the right-hand end of a couch and stretched his feet toward it. The warmth reached his socks almost immediately. He hadn't realized how much he still wanted that.
 
 Leo sat beside him.
@@ -833,7 +833,7 @@ Across the table, Gav had started counting under his breath. Obviously.
 
 Scott suddenly froze on his turn.
 
-"I- Uh..."
+"I—uh..."
 
 They waited.
 
@@ -841,7 +841,7 @@ They waited.
 
 Taiga raised an eyebrow. "Bullshit."
 
-Scott lowered his head and turned his card. A three. 
+Scott lowered his head and turned his card. A three.
 
 "I-I had no eights..."
 
@@ -883,7 +883,7 @@ When Leo's turn came, he lifted his hand to pick up his cards.
 Taiga let out a slow breath through his nose and reached for another pretzel.
 He could still feel the warmth of Leo's hand on his leg.
 
-Milo got quieter as his hand grew smaller. 
+Milo got quieter as his hand grew smaller.
 Dennis put down two cards.
 
 "Queens."
@@ -931,7 +931,7 @@ Scott looked at his hand for too long.
 
 Enzo made a face. "Bullshiiiit."
 
-Scott turned his cards. Three queens. 
+Scott turned his cards. Three queens.
 Enzo's smile disappeared.
 
 Evan burst out laughing. "Eat your shit!"
@@ -942,13 +942,12 @@ Scott giggled behind his cards.
 
 Taiga laughed as well. Then he turned to Leo.
 
-"Even Scott can do better than y-"
+"Even Scott can do better than y—"
 
 His eyes were closed. One hand lay beside his face. The other had slipped between the cushions. His mouth was slightly open.
 
 Taiga watched him for a few seconds and smiled, shaking his head.
 He reached for a spare cushion farther along the couch and eased it beneath Leo's head. Leo stirred and muttered something, then settled again.
 
-Taiga turned back to his hand. 
+Taiga turned back to his hand.
 His smile slowly faded, but he still felt warm inside.
-
