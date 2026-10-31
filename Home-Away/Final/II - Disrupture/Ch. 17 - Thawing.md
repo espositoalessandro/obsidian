@@ -805,7 +805,7 @@ Taiga blinked. "That's three cards."
 
 "Bullshit," Evan called.
 
-Enzo turned them over and started laughing. Milo leaned forward to look. Queen, ace and a seven.
+Enzo turned them over and started laughing. Milo leaned forward to look. Queen, ace and seven.
 
 "Dude! None of those are right!"
 
@@ -865,7 +865,7 @@ Leo smiled a little and put the bowl on the table.
 
 "Bullshit," Enzo said.
 
-Milo turned them over: both wrong.
+Milo turned his cards over: both wrong.
 He tipped his head back.
 
 "Aww, come on! I thought I had that one!"
