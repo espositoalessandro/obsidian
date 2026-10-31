@@ -949,5 +949,6 @@ His eyes were closed. One hand lay beside his face. The other had slipped betwee
 Taiga watched him for a few seconds and smiled, shaking his head.
 He reached for a spare cushion farther along the couch and eased it beneath Leo's head. Leo stirred and muttered something, then settled again.
 
-Taiga turned back to his hand.
+Taiga turned back to his hand. 
+His smile slowly faded, but he still felt warm inside.
 
