@@ -156,7 +156,7 @@ Mercer was shaking hands with a man in a dark green tracksuit. Gray at the templ
 
 He gave Mercer an envelope and pointed out the entrance.
 
-"Room list and keys. Your equipment can go in the storage room on the ground floor. Lunch is open until one. The dining hall—"
+"Room list and keys. Your equipment can go in the storage room on the ground floor. Lunch is served until one. The dining hall—"
 
 He pointed to a smaller lodge attached to the side of the main one.
 
@@ -326,7 +326,7 @@ He glanced at the screen.
 
 Milo's eyes were sparkling. "Ohh, I can't wait to see it! I bet playing away at Olympus gets pretty intimidating."
 
-"It's gonna take some time for the away match," the guy said.
+"It'll be a while before the away match," the guy said.
 
 Milo waved him in. "Come on, sit with us!"
 
@@ -394,7 +394,7 @@ He checked the clock.
 
 "At the library?" Gav asked.
 
-"Yeah, perfect! There's a coffee stall right inside, too" Milo answered.
+"Yeah, perfect! There's a coffee stall right inside, too," Milo answered.
 
 "That's all you had to say," Leo said.
 
@@ -728,7 +728,7 @@ Skylar grinned.
 
 "How did you end up on a mountain?" Leo asked.
 
-"My mum's from here and they had transferred here for work when I was a child."
+"My mom's American. My parents moved here for work when I was a kid."
 
 "You go back often?"
 
@@ -738,7 +738,7 @@ Skylar shrugged. "Usually once per year during summer break."
 
 "Me? Denmark in Europe! Came here last year."
 
-"You got snow in there?" Leo asked.
+"You get snow there?" Leo asked.
 
 "Oh, you have no idea. We barely get any sun in winter. Not that I tan much anyway." He pushed up his sleeve. "Look at this!"
 
@@ -748,7 +748,7 @@ Skylar shrugged. "Usually once per year during summer break."
 
 "They can both work."
 
-They kept talking for a while about their homelands. Skylar, Leo and Enzo started comparing their islands and their customs, which were surprisingly different even though they were both tropical places. Milo talked about how actually cold his place could get, which made Pinetree look like a tropical resort.
+They kept talking for a while about their homelands. Skylar, Leo and Enzo started comparing their islands and their customs, which were surprisingly different even though they were both tropical places. Milo talked about how cold it actually got back home, which made Pinetree look like a tropical resort.
 
 After dinner, they went to the common room.
 They left their boots on the rack by the entrance and hung their coats on the hooks above it.
@@ -773,15 +773,15 @@ Scott sat beside Enzo.
 
 Gav sat in an armchair. "What's that?"
 
-"You need to put down all your cards to win," Milo said. "The card rank you can put down increases from ace to king for each turn we take. On your turn, you can put down as many card as you like, face down, provided they are the same rank."
+"You need to put down all your cards to win," Milo said. "The card rank you can put down increases from ace to king for each turn we take. On your turn, you can put down as many cards as you like, face down, provided they are the same rank."
 
-Gav frowned. "If they are faced down, how can you tell they are the same rank?"
+Gav frowned. "If they're face down, how can you tell they are the same rank?"
 
 Milo smiled. "That's the trick. You can lie and someone can call your bullshit. If they are right and you lied, you take the whole central pile. Otherwise, they take it."
 
 "Skipping allowed?" Leo asked.
 
-"No skipping," Dennis said, taking the other chair. "And Jokers out."
+"No skipping," Dennis said, taking the other chair. "And jokers out."
 
 They pulled cushions onto the rug and settled around the low table. Taiga slid off the couch and sat with his back against it, stretching his legs beneath the table. Leo settled beside him.
 
@@ -825,7 +825,7 @@ Wrong both times.
 
 "Oh, you're such an ass."
 
-"That's called bluff, dummy."
+"That's called bluffing, dummy."
 
 Dennis was harder to read. He kept talking to Evan through his turns, putting cards down without breaking off the conversation. Taiga called him once and immediately regretted it.
 
@@ -845,13 +845,13 @@ Scott lowered his head and turned his card. A three.
 
 "I-I had no eights..."
 
-"You need to work on your bluff skill."
+"You need to work on your bluffing skills."
 
 Leo set his cards on the cushion and leaned across him to reach the pretzels. Their knees touched and his left palm came down on Taiga's thigh, just above the knee.
 
 Taiga went still.
 
-Leo took the bowl with his other hand and sat back. He shifted the hand back on his thigh, but half of it stayed loosely on Taiga's leg.
+Leo took the bowl with his other hand and sat back. He shifted his hand back toward his own thigh, but half of it stayed loosely on Taiga's leg.
 
 Taiga glanced down. Then at Leo, who simply held the bowl toward him.
 
