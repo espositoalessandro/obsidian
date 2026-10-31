@@ -765,3 +765,88 @@ Leo sat beside him.
 "Yeah."
 
 Skylar found a deck of cards on the shelf. Milo pulled a low table between the couch and two armchairs, while Enzo set a bowl of pretzels on the end table beyond Taiga's elbow.
+Scott sat beside Enzo.
+
+"What are we playing?" Leo asked.
+
+"Bullshit?" Skylar said.
+
+Gav sat in an armchair. "What's that?"
+
+"You need to put down all your cards to win," Milo said. "The card rank you can put down increases from ace to king for each turn we take. On your turn, you can put down as many card as you like, face down, provided they are the same rank."
+
+Gav frowned. "If they are faced down, how can you tell they are the same rank?"
+
+Milo smiled. "That's the trick. You can lie and someone can call your bullshit. If they are right and you lied, you take the whole central pile. Otherwise, they take it."
+
+"Skipping allowed?" Leo asked.
+
+"No skipping," Dennis said, taking the other chair. "And Jokers out."
+
+Milo started dealing.
+
+"I like how that's the only rule everyone agrees on."
+
+"We haven't agreed yet," Skylar said.
+
+Evan joined them halfway through the discussion, listened for a minute and asked whether they could start before breakfast.
+
+They settled it.
+
+For the first few turns, everyone behaved reasonably. Then Enzo put down three cards.
+
+"Two fours."
+
+Taiga blinked. "That's three cards."
+
+"Right. Three fours!"
+
+"Bullshit," Evan called.
+
+Enzo turned them over and started laughing. Milo leaned forward to look. Queen, ace and a seven.
+
+"Dude! None of those are right!"
+
+Taiga pushed the pile toward him.
+
+"Take your shit."
+
+Skylar played quickly. Barely glanced at his hand, put something down and looked straight at whoever seemed most likely to challenge him.
+
+Milo called him twice.
+
+Wrong both times.
+
+"The grin," Milo said, collecting the second pile. "I thought you were trying not to laugh!"
+
+"I was."
+
+"Oh, you're such an ass."
+
+"That's called bluff, dummy."
+
+Dennis was harder to read. He kept talking to Evan through his turns, putting cards down without breaking off the conversation. Taiga called him once and immediately regretted it.
+
+Across the table, Gav had started counting under his breath. Obviously.
+
+Scott suddenly froze on his turn.
+
+"I- Uh..."
+
+They waited.
+
+"O-One eight."
+
+Taiga raised an eyebrow. "Bullshit."
+
+Scott lowered his head and turned his card. A three. 
+
+"I-I had no eights..."
+
+"You need to work on your bluff skill."
+
+Leo set his cards on the cushion and leaned across him to reach the pretzels. His left palm came down on Taiga's thigh, just above the knee.
+
+Taiga went still.
+
+Leo took the bowl with his other hand and sat back.
