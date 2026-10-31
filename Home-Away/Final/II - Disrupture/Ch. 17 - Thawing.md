@@ -783,7 +783,8 @@ Milo smiled. "That's the trick. You can lie and someone can call your bullshit. 
 
 "No skipping," Dennis said, taking the other chair. "And Jokers out."
 
-They all sat down on the floor over cushions. Taiga leaned his back against the couch.
+They pulled cushions onto the rug and settled around the low table. Taiga slid off the couch and sat with his back against it, stretching his legs beneath the table. Leo settled beside him.
+
 Milo started dealing.
 
 "I like how that's the only rule everyone agrees on."
@@ -865,7 +866,7 @@ Leo smiled a little and put the bowl on the table.
 "Bullshit," Enzo said.
 
 Milo turned them over: both wrong.
-He dropped his head back against the chair.
+He tipped his head back.
 
 "Aww, come on! I thought I had that one!"
 
@@ -920,7 +921,7 @@ After that round, Leo handed his cards to Aaron.
 
 "Yeah, I need to reassess my friends."
 
-He laid on the couch behind Taiga, tucking his feet up and watched the game with his cheek resting on his bent arm.
+He climbed onto the couch behind Taiga and lay on his side, tucking his feet up. His cheek rested on his bent arm, his face just above Taiga's shoulder.
 
 The game continued.
 
@@ -946,8 +947,7 @@ Taiga laughed as well. Then he turned to Leo.
 His eyes were closed. One hand lay beside his face. The other had slipped between the cushions. His mouth was slightly open.
 
 Taiga watched him for a few seconds and smiled, shaking his head.
-He picked up a spare cushion on the couch and eased it beneath his head. Leo moved just a little and muttered something, but he went still immediately again.
+He reached for a spare cushion farther along the couch and eased it beneath Leo's head. Leo stirred and muttered something, then settled again.
 
 Taiga turned back to his hand.
-Smile slowly faded from his face, but he could feel something warm bubbling inside.
 
