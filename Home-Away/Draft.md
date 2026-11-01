@@ -1002,19 +1002,25 @@ Taiga reached for his sweatshirt.
 
 "I should get changed too."
 
-He stood, pulled it on and went toward the door.
+He stood and pulled it on, then tugged the hem lower. His hand stayed there.
+
+Leo's eyes followed the movement, then came back to his face.
+
+Taiga turned toward the door.
 
 "Taiga?"
 
 He stopped.
 
-Leo had put the clean trousers on the bed. When Taiga turned, he was looking at him with a small, uncertain smile.
+Leo set the clean trousers on the bed. When Taiga turned back, he was looking at him with a small, uncertain smile.
 
-Taiga tried to meet his eyes and keep them there.
+Taiga let go of the hem.
 
-Leo came closer.
+For a moment, he couldn't work out where to put his hand.
 
-For a moment, neither of them spoke. Taiga could hear the faint music still coming from the laptop.
+Leo took a step closer, then paused. Taiga tried to meet his eyes and keep them there.
+
+Neither of them spoke. The music from the laptop was still playing.
 
 Leo reached toward him.
 
