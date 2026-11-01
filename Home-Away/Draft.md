@@ -976,27 +976,19 @@ He went over to his bag and took out a clean pair of trousers. Taiga sat forward
 
 "Because you've seen it now. That's different."
 
-Leo stepped out of his sweatpants, still talking.
-
-Taiga looked up.
-
-A jockstrap.
-
-His reply disappeared.
-
-Leo bent to retrieve the sweatpants and draped them over the back of the chair. Taiga turned toward the laptop again, much too late.
+Leo stepped out of his sweatpants and draped them over the back of the chair. He was wearing a jockstrap underneath. Taiga glanced up, then back at the laptop, trying to pick up the sentence he'd stopped following.
 
 "...unless you wanna watch the trailer, but honestly, I'd just go straight into it."
 
 "Yeah."
 
-Leo paused.
+Leo glanced over.
 
 "Yeah to which one?"
 
 "The... second thing."
 
-A brief silence.
+When Taiga looked up again, Leo was watching him, the clean trousers still in his hand. Their eyes met, and Leo smiled.
 
 Taiga reached for his sweatshirt.
 
