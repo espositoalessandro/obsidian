@@ -950,11 +950,7 @@ Taiga lifted a hand as Gav closed the door.
 
 "Oh, I know you would've."
 
-Taiga laughed. He stretched his legs along the bed while Leo leaned forward to collect the empty biscuit packet.
-
-The room had gone quiet enough that he could hear somebody's shower through the wall.
-
-Leo put the packet on the desk, lowered the laptop volume and came back.
+Taiga laughed and stretched his legs along the bed while Leo collected the empty biscuit packet.
 
 "I should show you the next one sometime."
 
@@ -966,261 +962,141 @@ Leo put the packet on the desk, lowered the laptop volume and came back.
 
 "Dude, we are so watching them."
 
-He sat down beside Taiga again, turning toward him with one knee on the mattress.
+Leo put the packet on the desk and checked the time.
 
-Taiga glanced at the laptop. The credits were still moving.
+"Oh, I should get changed."
 
-"You've seen all of these?"
+He went over to his bag and took out a clean pair of trousers. Taiga sat forward, still watching the credits.
 
-"Not all of them. Most."
+"So what happens in the next one?"
 
-"How many times?"
+"I'm not telling you!"
 
-"Depends which one."
+"You just spent ten minutes explaining the ending of this one."
 
-Taiga gave him a look.
+"Because you've seen it now. That's different."
 
-Leo started laughing.
-
-"Don't do that! You know how many times you've watched the same goal?"
-
-"That's different."
-
-"Yeah, because you pause it and complain about somebody's positioning."
-
-Taiga nudged his knee with his own.
-
-Leo nudged back.
-
-They were both smiling when Leo rested a hand on his leg.
-
-Taiga looked down at it.
-
-Leo's fingers lay just above his knee. He could have been about to get up again, except he stayed where he was, his other hand resting on the mattress between them.
-
-Taiga put his hand over Leo's.
-
-The smile on Leo's face changed.
-
-For a few seconds, Taiga watched his thumb move against the side of Leo's hand. He'd started doing it without deciding to. Now that he'd noticed, he kept going.
-
-Leo turned his hand beneath his.
-
-Their fingers caught together.
+Leo stepped out of his sweatpants, still talking.
 
 Taiga looked up.
 
-Leo was watching him.
+A jockstrap.
 
-The familiar nervousness tightened low in Taiga's stomach. He shifted closer anyway, bringing his free hand up to push a loose strand of hair back from Leo's face.
+His reply disappeared.
 
-His fingers stayed beside Leo's ear.
+Leo bent to retrieve the sweatpants and draped them over the back of the chair. Taiga turned toward the laptop again, much too late.
 
-Leo went very still.
+"...unless you wanna watch the trailer, but honestly, I'd just go straight into it."
 
-Taiga felt the movement when he swallowed.
+"Yeah."
 
-Then Leo leaned into his hand.
+Leo paused.
 
-Taiga's breath caught. He slid his fingers into the hair at the back of Leo's neck and drew him closer.
+"Yeah to which one?"
 
-Leo came willingly, one hand finding Taiga's waist as he shifted on the mattress.
+"The... second thing."
 
-They stopped close enough that Taiga could feel his breath against his cheek.
+A brief silence.
 
-Nobody laughed.
+Taiga reached for his sweatshirt.
 
-Leo's hand moved slowly along his side. Taiga tightened his grip at Leo's nape, then loosened it when Leo's fingers slipped beneath the edge of his T-shirt.
+"I should get changed too."
 
-He let them stay.
+He stood, pulled it on and went toward the door.
 
-His other hand found Leo's shoulder and moved down his back. Leo leaned closer, and Taiga felt the warmth of him through his clothes.
+"Taiga?"
 
-He wanted him closer still.
+He stopped.
 
-Taiga pulled gently at the fabric of Leo's shirt. His fingers found bare skin beneath it, and Leo drew in a quick breath.
+Leo had put the clean trousers on the bed. When Taiga turned, he was looking at him with a small, uncertain smile.
 
-That sound made Taiga lift his head.
+Taiga tried to meet his eyes and keep them there.
 
-Leo's face was flushed. His hand tightened at Taiga's side, holding him there.
+Leo came closer.
 
-Taiga moved toward him again.
+For a moment, neither of them spoke. Taiga could hear the faint music still coming from the laptop.
 
-This time Leo drew him in, and Taiga followed, bracing a hand on the mattress as their balance shifted. His heart was beating hard enough to make his breathing uneven.
+Leo reached toward him.
 
-Leo's fingers caught the hem of his T-shirt.
+Taiga caught his wrist gently.
 
-Taiga lifted one arm to help.
-
-The fabric began sliding up his side.
-
-He stopped breathing.
-
-"Wait—"
-
-Leo's hands stopped immediately.
-
-Taiga pulled back a little. His arm came down between them.
-
-"Shit. Sorry, I—"
-
-Leo started moving away. Taiga caught his sleeve.
-
-"No, that's not—"
+"Wait."
 
 Leo stopped.
 
-"I wasn't saying..."
+"Shit. Sorry."
 
-Fuck.
+He started to step back.
 
-Taiga swallowed. The words were there somewhere, but every time he reached for one, it seemed to mean something else.
+"No, that's not—"
 
-"You didn't do anything. I just—"
+Taiga caught his sleeve before he could move any farther.
 
-His fingers were still tight around Leo's sleeve.
+Leo looked down at his hand.
 
-"Just give me a second."
+"I wasn't..."
 
-"Yeah. Okay."
+Fuck. He'd made it look as though Leo had imagined the whole thing.
 
-Leo sat back, staying within reach. His shirt had caught beneath Taiga's hand. He straightened it carefully, then looked at him again.
+He hadn't.
 
-Taiga tried to breathe normally.
+Taiga loosened his grip but didn't let go.
 
-He'd put his hands there. He'd pulled Leo closer. A few seconds ago, he'd been helping.
+"It's just—"
 
-Now Leo was sitting in front of him, waiting, and Taiga couldn't get a useful sentence out.
+Leo waited. Taiga couldn't make himself explain why Leo hadn't imagined it.
 
-"I was..." He rubbed a hand over his face. "Fuck."
+"You didn't do anything."
 
 "Hey."
 
-Leo touched his shoulder.
+Leo's voice was quieter now.
 
-Taiga looked up.
+"It's alright."
 
-"It's okay."
+Taiga nodded too quickly.
 
-He nodded, although it took a moment.
+He was still holding the sleeve.
 
-Leo's hand stayed light against his shoulder. Taiga could still feel his fingers moving under his shirt, even though they weren't there anymore.
+When he noticed, he let go.
 
-He loosened his grip on the sleeve.
+Leo stayed where he was for another second, then glanced toward the bed.
 
-There were creases where he'd been holding it.
-
-"Sorry."
-
-Leo glanced down, then back at him.
-
-"You're okay."
-
-Taiga shook his head.
-
-He needed Leo to understand that he hadn't been sitting there tolerating him. He'd wanted his hands there. He still wanted them there, which made the sudden panic even harder to explain.
-
-"I just..."
-
-Leo waited.
-
-Taiga looked at the place beside him instead.
-
-"Can we just sit for a bit?"
+"I'm gonna put these on."
 
 "Yeah."
 
-Leo moved around and settled against the wall, leaving a little space between them.
+Taiga stepped aside. Leo picked up the trousers, pulled them on and fastened them, giving Taiga something to look at besides his face.
 
-Taiga closed it.
+Taiga sat on the edge of the desk chair. He still needed to leave, get changed, find his room key. Ordinary things. He could manage those.
 
-Their shoulders touched. Leo turned his head, and Taiga managed to look at him.
+Leo put his discarded clothes into his bag and took out a clean sweatshirt.
 
-He was still flushed.
+Taiga rubbed his palms against his knees.
 
-Taiga had done that.
+He should say something.
 
-He looked down at his own hands before the thought could go any further.
+Leo pulled the sweatshirt over his head. When his face reappeared, Taiga managed to meet his eyes.
 
-For a while they listened to the shower next door. Someone in the corridor knocked on a door and called a name. Footsteps went away again.
+The smile he got was small, but familiar.
 
-Leo reached for his water bottle from beside the bed and offered it.
+He stood.
 
-Taiga took it, drank and handed it back.
-
-The laptop had gone dark.
-
-"What were you going to say?" Leo asked.
-
-Taiga's stomach tightened.
-
-"About the film," Leo added, a little quickly. "Before Gav left."
-
-"Oh."
-
-"You said he wouldn't remember them."
-
-"Yeah."
-
-Leo turned the bottle cap between his fingers.
-
-"I guess that would be pretty weird."
-
-Taiga let out a small breath that almost became a laugh.
-
-"Now you agree."
-
-"Only with that part."
-
-"Fine."
-
-He leaned his head back against the wall. Leo's shoulder was warm against his.
-
-They talked for a few minutes about the ending, then about whether Gav had been waiting through the entire film to bring it up. Leo said he probably had notes. Taiga said Scott would confiscate them.
-
-Leo laughed softly.
-
-Taiga looked toward him.
-
-For a second, the next movement seemed terribly easy. His hand was resting beside Leo's. He could turn it over, touch him again, bring him closer.
-
-He kept it where it was.
-
-He still hadn't found the words.
-
-When Leo checked his phone, it was quarter past six.
-
-"Oh, crap."
-
-Taiga sat forward.
-
-"Dinner?"
-
-"Yeah. I should probably put on something that hasn't been up a mountain."
-
-Taiga looked down at his own clothes.
-
-"Same."
-
-Neither moved immediately.
-
-Then Leo swung his feet off the mattress, and Taiga followed.
-
-At the door, Taiga turned back.
-
-Leo looked up from his phone.
+Leo moved the chair out of his way.
 
 "I'll come get you?"
 
-Taiga nodded.
+Taiga managed to look at him.
 
 "Yeah."
 
-He touched Leo's arm before leaving. Briefly, through the sleeve he'd been holding.
+Leo gave him a small smile.
 
-Leo smiled.
+"Okay. See you in a bit."
 
-In the corridor, Taiga stopped outside his own room and took a breath before going in.
+Taiga nodded and went out.
+
+In the corridor, he stopped outside his own room and took a breath before going in.
 
 Scott was sitting on his bed, pulling on a clean pair of socks.
 
@@ -1308,9 +1184,9 @@ Leo's arm brushed his when he reached across the table.
 
 Taiga went quiet for half a second.
 
-Leo glanced at him. There was a small hesitation before he smiled.
+Leo glanced at him, then went back to what he was saying.
 
-Taiga smiled back.
+Taiga made himself listen.
 
 Across from them, Aaron was moving the salt shaker to dispute Gav's version of the shot. Nobody had looked over.
 
