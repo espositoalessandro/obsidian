@@ -1,1253 +1,1317 @@
-### Chapter 17 - Thawing
+### Chapter 18 - Thin Air
 
-Milo checked the time as they started gathering their trays.
+The walk down to the training terrace took seven minutes. Enzo spent the last two looking back up.
 
-"We finish at four. If you guys wanna meet up, we can show you around before it gets dark."
+"We have to climb that afterward?"
 
-"At the library?" Gav asked.
+Evan kept walking. "You'll be warm by then."
 
-"Yeah, perfect! There's a coffee machine right inside, too."
+"I'm warm now. From concern."
 
-"That's all you had to say," Leo said.
+Taiga passed them at the gate. The pitches looked different from down here. Beyond the fence, the ground dropped into pines, leaving the far goal outlined against the valley. A thin ridge of snow ran along the bottom of the boards. Someone was clearing it away from the equipment shed with a wide shovel.
 
-Milo took out his phone. He and Leo exchanged numbers, and a moment later the Apollo chat had a photograph of the library entrance.
+Leo stopped beside him and tightened his hair tie.
 
-Skylar handed Milo the backpack he'd left on the bench.
+"Okay. I still like it."
 
-"Come on."
+"Ask me after the stairs," Enzo said.
 
-"Right! See you guys later!"
+Hale was already on the training pitch, laying out the last few cones. Mercer stood near the bench with one of Pinetree's assistants. Dennis had a net of balls over his shoulder.
 
-They left through the other door, Milo still talking as he hurried to catch up.
+"Morning," Hale said. "Bags over there. Keep your coats handy."
 
-***
+Taiga set his bag down and changed into his boots. Scott was halfway through checking his gloves when Milo arrived, carrying two sets of bibs.
 
-Taiga had just plugged his phone in when it buzzed.
+"Hey, guys! Who's ready?"
 
-**Leo:** there's a pool table in the common lodge
-**Leo:** you and scott coming?
+Enzo looked up from his laces.
 
-He looked across the room.
+Milo smiled. "Yeah, okay. Stupid question."
 
-"Pool?"
+They warmed up together. The first jog took them around the pitch and back through a line of cones, then into pairs for mobility work. By the time balls came out, Taiga had stopped noticing the cold on his face.
 
-Scott glanced up from his bag.
+The air still caught differently when he ran.
 
-"Oh. Yeah, sure."
+He finished a short acceleration and took an extra breath before walking back. Beside him, Leo pulled his sleeves over his hands.
 
-They found Leo and Enzo in a room off the main lounge. A pool table occupied most of it, with a rack of cues on the wall and a battered leather couch beneath the window. Someone had left a triangular frame and a box of chalk on the cloth.
-
-Enzo was inspecting a cue.
-
-"We should have one of these."
-
-"Where?" Taiga asked.
-
-"Our room."
-
-"You'd have to get rid of the pillow," Leo said.
-
-Enzo put the cue down and chose another.
-
-Scott took his coat off. He checked the tips of two cues before picking one, then went around the table to collect the balls.
-
-"You play?" Leo asked.
+"Feeling it?"
 
 "A bit."
 
-"Good. Me too. Taiga?"
+"Yeah. Me too."
 
-"Enough."
+Hale called them in before they could start another run.
 
-Enzo looked between them.
+"We'll work in mixed groups. Passing first, then possession, then games. I want you learning names as well as positions."
 
-"Excellent. I'm relying entirely on confidence."
+He waited while a ball rolled past his foot. Skylar collected it.
 
-They played in pairs. Leo and Enzo took one end of the table while Scott arranged the balls at the other.
+"And for today, the positions won't necessarily be yours."
 
-Taiga chalked his cue.
+A few players exchanged looks.
 
-"Want to break?" Scott asked.
+"That's deliberate. You all know what you want from a teammate. Spend some time seeing what they're looking at when you ask for it."
 
-"Go on."
+Enzo raised a hand.
 
-The balls scattered with a crack. One went down, another stopped just short of a pocket.
+"Yes?"
 
-Leo leaned over the cushion to look.
+"How far from our positions?"
 
-"Oh, that was nearly two."
+"We'll find out."
 
-Scott set the triangle on the shelf and came to stand beside Taiga.
+Behind Taiga, Aaron exhaled through his nose.
 
-A few turns later, Enzo tried to get past the ball blocking his next shot. The white clipped it, rolled into another and sent that one across the table.
+Their first group had six players. Taiga and Leo, Milo and Dennis, Gav and one of Pinetree's midfielders. Two touches, follow the pass, change direction when the assistant called it.
 
-For a second, everyone watched.
+Simple enough.
 
-It dropped into the corner pocket.
+Milo passed hard and moved immediately. Dennis usually had his head turned before the ball reached him. Leo took one touch to bring it across his body and sent it on, already calling the next name.
 
-Enzo straightened.
+Taiga got through the first sequence cleanly.
 
-"Exactly."
+Then the assistant changed the direction while he was moving.
 
-"Which one were you aiming at?" Leo asked.
+He received on the wrong side, adjusted and found Dennis much closer than he'd expected.
 
-"The one that went in."
+The ball went off Taiga's boot and beyond the cones.
 
-"Right."
-
-Taiga laughed and moved around the table.
-
-He had a stripe near the middle pocket. Straight enough. He bent, lined it up and hit it.
-
-Too hard.
-
-The ball struck the edge of the pocket, bounced away and stopped near Leo.
-
-"Thanks," Leo said.
+"Good morning," Dennis said.
 
 "Fuck off."
 
-Scott leaned toward him.
+Dennis retrieved it, smiling.
 
-"Softer."
+After a few minutes, two players went inside the square to press. Taiga spent most of his first turn chasing a ball that seemed to leave just before he reached it. Gav kept offering himself at angles that made him irritatingly difficult to close down.
 
-"I noticed."
+Leo received near a corner.
 
-"Okay."
+Finally.
 
-He stepped back without adding anything.
+Taiga went at him. Leo waited until he was close, then slipped the ball between his feet.
 
-Leo potted his next ball, then missed the one after it. Taiga took considerably more care when his turn came around.
+Milo made a noise that was far too pleased.
 
-The stripe dropped.
+Taiga turned sharply enough to catch the return pass with the outside of his boot.
 
-Scott nodded, already looking at the next shot.
+"Oh, come on!" Leo said.
 
-They won the first game. Scott had left himself an awkward angle on the black, spent a while looking at it and sent it cleanly into the corner.
+"Move faster."
 
-Enzo looked at him.
+They changed over. Leo came inside, still complaining, and Taiga took his place on the edge.
 
-"'A bit'?"
+The next time Milo tried the same pass, Leo intercepted it.
 
-Scott smiled and put the cue down.
+"There! See? That's how you do it."
 
-Leo was collecting the balls.
+Dennis took the ball off him before he'd finished.
 
-"Again."
-
-"Thought you were tired," Taiga said.
-
-"I'm awake now."
-
-They switched ends. Evan and Aaron appeared halfway through the next game, followed by Gav, who immediately wanted to know what rules they were using.
-
-"The ones we agreed on," Enzo said.
-
-"You agreed on rules?"
-
-Leo looked up from the table.
-
-"We probably should have."
-
-They settled the question while Scott went to get water. Aaron took the couch and began commenting on every shot.
-
-"Try getting one in this time."
-
-Taiga looked at him.
-
-"You want the cue?"
-
-"After you miss."
-
-Evan laughed beside him.
-
-Leo stood at the far end, turning his cue slowly between his hands. There were two of his balls left. He crouched to look along the table, changed his mind and moved to the other side.
-
-Taiga watched him line up.
-
-"You taking all day?"
-
-Leo glanced up.
-
-"You're very distracting."
-
-"Excuses."
-
-Leo returned to the shot. The ball went down.
-
-He stood and smiled at Taiga.
-
-Taiga rolled his eyes.
-
-By the time Leo potted the black, Enzo had become quite vocal about their contribution to the result.
-
-"We adjusted."
-
-"You missed your last three," Taiga said.
-
-"And gave him the opportunity."
-
-Leo laughed and started setting up another game.
-
-Scott came back with a bottle of water and passed it to Taiga before taking his cue again.
-
-"Want me to break?" Taiga asked.
-
-"Yeah."
-
-This time, nothing went in.
-
-Scott watched the balls stop.
-
-Then he looked at Taiga.
-
-"A bit," Taiga said.
-
-Leo laughed from the other end.
+Taiga laughed so hard he missed the restart.
 
 ***
 
-They stayed until other students began coming back from class.
+Hale put Taiga behind the striker.
 
-Aaron took Enzo's place for a game. Gav watched Scott play a shot, asked him about it and ended up trying it himself while Evan held the spare cue out of his way.
+He checked the arrangement twice, then looked at Evan, who had been sent up front.
 
-Taiga sat on the arm of the couch and drank the last of his water. Leo was beside the window, showing Enzo something on his phone.
+Evan was already testing how much space Pinetree's center-back would let him have.
 
-Outside, the path had become busy again. Someone went past carrying a stack of folders against their chest; two others stopped beneath the porch and argued over a screen.
+Apparently not much.
 
-Leo checked the time.
+"Something wrong?" Hale asked.
 
-"We should go."
+Taiga turned. "No."
 
-Aaron looked up from the table. "What, now?"
+"Good. Start there."
 
-"Quarter to four."
+He pointed to the strip of grass between the opposing midfield and defense.
 
-He put his phone away and found his coat. Taiga got off the couch.
+Leo had gone to right-back. Gav was alongside one of the center-backs, with Scott in goal. Aaron stood a few meters to Taiga's left, looking down at the position Hale had indicated.
 
-Scott returned their cues to the rack while Gav went to fetch his bag. Enzo tried one last shot, missed and announced that the table wasn't level.
+Central midfield.
 
-Nobody waited for the explanation.
+Across from them, Skylar waited near the penalty area while Milo bounced on his toes out wide.
 
-***
+The ball started with Scott.
 
-Milo was waiting just inside the library with his bag between his feet. Skylar stood beside the noticeboard, finishing something on his phone.
+Gav came short, received and sent it into Aaron. Taiga moved left automatically. There was room there, and he could see the pass.
 
-"Hey! You found it!"
+Aaron played it.
 
-"You sent a picture," Leo said.
+Taiga took it forward, beat the first player and found himself near the touchline with Evan facing two defenders in the middle.
 
-"Yeah, but I didn't know which way you were coming from. The other entrance looks completely different."
+He tried the cross anyway.
 
-Enzo went straight to the coffee machine.
+Dennis headed it clear.
 
-The library was warm, with low ceilings and long windows looking over the campus. A display case near the stairs held feathers, skulls and several small birds on branches. Gav stopped in front of it.
+Hale blew the whistle.
 
-Milo followed his gaze.
+"Akatora. Where did you start?"
 
-"Oh, that's from the ecology department. They change it every few weeks."
+Taiga pointed.
 
-Gav leaned closer to read a card.
+"And where did you go?"
 
-Enzo checked the price on the machine, then looked back at them.
+He looked down the line.
 
-"These people understand coffee."
+"Wide."
 
-Taiga bought one while Milo explained where the other entrance came out. By the time everyone had a drink, Gav had reached the far end of the case.
+"Why?"
 
-They waited for him.
+"There was space."
 
-Outside, the light had turned pale gold on the upper roofs. The road beyond the library climbed toward another group of buildings, while a narrower path curved between two lecture halls.
+"There usually is. I want you to find some in here."
 
-Milo took the path.
+Hale walked into the middle, several meters from the position Taiga had abandoned.
 
-"This way's quicker. Unless you want to see the administration building, which... I don't know why you would."
+Taiga jogged back.
 
-"You're really selling it," Evan said.
+From here, people were everywhere. Somebody behind him, somebody between him and the goal, another player close enough on his left to close the pass if he took too long.
 
-"I've only been in there when something's gone wrong."
+Scott rolled the ball out again.
 
-Skylar put his phone away. "That's every week."
+Taiga checked over one shoulder and moved toward Gav. The pass arrived hard. He tried to turn with it.
 
-"It was one form!"
+A boot came around his ankle and took the ball cleanly.
 
-Milo started explaining. Something had been submitted twice, then neither copy had apparently counted. Skylar interrupted once to supply a date, which made Milo turn around and point at him.
+Dennis.
 
-"You were there! You know it wasn't my fault!"
+Of course.
 
-"I know you kept talking to the wrong office."
+Milo ran onto the next pass. Leo went with him, got drawn toward the line and had to turn when Milo cut back inside. Skylar finished before Scott could get across.
 
-"Because they told me to!"
+"Sorry!" Leo called.
 
-Leo was laughing beside Taiga. He asked which office, then somehow they were comparing the registration systems at both colleges.
+"Show him out!" Scott shouted back. "Gav, cover inside!"
 
-Taiga let them.
+Hale let them reset.
 
-The path widened beyond the lecture halls. From here, he could see the main lodge below them and the sports terrace farther down. The pitches were empty. Snow lay against the fences and behind the goals, but the green surface was clear.
+Taiga walked toward Dennis.
 
-He stopped at the railing.
+"You've got a lot of free time."
 
-There was a low stand along one side of the match pitch, with a roof and solid panels closing off the back and both ends. The front opened toward the field. A scoreboard stood near the fence, and a narrow road curved down past the training building.
+"You keep giving me the ball."
 
-Leo stopped beside him.
+"Enjoy it while it lasts."
 
-"Okay, that's a cool pitch."
+Dennis handed it to Scott.
 
-"Yeah."
+On the next attempt, Taiga checked behind him before Gav passed. Dennis was there again. Taiga could feel him closing, but this time he knew which side.
 
-Milo came back a few steps.
+He set the ball back to Aaron and moved around him.
 
-"That's where we play Sunday. The other one's mostly for training."
+Aaron returned it.
 
-"What's the building above it?" Aaron asked.
+For half a second, the whole pitch opened.
 
-"Gym, changing rooms, all that. You'll see it tomorrow."
+Evan came toward him, taking the center-back along. Leo was moving up the right, and the space between them looked large enough to use.
 
-Enzo looked down the slope.
+Taiga played it early.
 
-"And then we walk back up?"
+Leo reached the ball in stride and sent it across the goal. Evan got a foot to it.
 
-"Yep!"
+The finish hit the post.
 
-He drank his coffee with a deeply unhappy expression.
+"Ah, fuck!"
 
-Taiga looked past the far goal. Pines continued down the slope beyond the terrace, with the valley visible through gaps in the trees. He took his phone out and framed a photograph without the railing in it.
+Leo put both hands on his head.
 
-The others started moving again.
+Evan jogged back, looking deeply offended by the goal.
 
-Leo stayed until Taiga put his phone away.
+Taiga was still catching his breath when Hale came alongside him.
 
-"You get it?"
+"What changed?"
 
-"Yeah."
+"I knew he was behind me."
 
-"Send me that one."
-
-Taiga sent it while they walked.
-
-Farther along, Milo pointed out a small shop tucked into the ground floor of a residence building. Enzo immediately wanted to know when it closed.
-
-Outside the next entrance, ski poles stood in a rack.
-
-"People just go skiing?" Leo asked.
-
-"When there's time! There's a shuttle on weekends."
-
-Enzo looked at Gav. "We picked the wrong school."
-
-"You hate the cold."
-
-"I could hate it recreationally."
-
-The path curved back toward their lodges. Taiga recognized the side of his building, then the narrow stretch he'd seen through the bedroom window.
-
-They came out behind the common lodge.
-
-A wide lawn stretched beyond the rear porch, with benches along the edge and a low stone wall beneath the trees. Snow covered most of it, broken by footprints between the doors and a small shed.
-
-Milo pointed toward a path leading away between the pines.
-
-"That's the start of the trail from the map."
-
-"The overlook?" Leo asked.
-
-"Yeah! We should have time tomorrow."
-
-Taiga checked the sign at the fork. They'd be able to find it again easily enough.
-
-The wind had dropped. He could hear voices from the open door behind him, but nothing from the road. Snow slipped from a branch somewhere to his left.
-
-Leo finished his coffee. Taiga handed him his empty cup, and Leo dropped both into the bin beside the porch before joining him at the railing.
-
-Taiga took his phone out again.
-
-Leo came up beside him, raising his own.
-
-"You're blocking half the mountain."
-
-"Move."
-
-"I'm finding an angle."
-
-"Try a different one."
-
-Leo took a step sideways. Taiga caught the edge of his scarf in the photograph anyway.
-
-Behind them, Milo made an indignant noise.
-
-Taiga turned.
-
-Skylar was brushing the remaining snow off his glove. Milo had one hand inside the neck of his jacket.
-
-"Dude!"
-
-"What?"
-
-"That went down my back!"
-
-"Did it?"
-
-Milo bent to scoop up snow. Skylar waited until his arm came forward, then stepped aside.
-
-The snowball hit Enzo.
-
-Taiga put his phone away.
-
-Enzo looked down at his coat.
-
-For a moment, nobody moved.
-
-"Oh, shit." Milo straightened. "Sorry! That was for him!"
-
-Skylar pointed at Milo without looking remotely sorry about anything.
-
-Enzo stepped off the path.
-
-"Good. We've established responsibility."
-
-He scooped a handful from the bank beside the steps.
-
-Milo backed away, laughing. "Wait, wait! I said sorry!"
-
-"An excellent start."
-
-The snowball caught Milo in the chest. Leo laughed, which drew Enzo's attention to him.
-
-"Oh, no."
-
-Leo barely turned before the next one broke across the back of his coat.
-
-Taiga laughed.
-
-Leo looked over his shoulder.
-
-"Okay."
-
-He crouched beside the nearest bench.
-
-Aaron pulled his gloves on.
-
-"Finally. Something interesting."
-
-Dennis appeared in the doorway holding a mug.
-
-He watched Enzo duck behind the wall, then looked at Milo.
-
-Milo pointed at Skylar.
-
-"Of course," Dennis said. "No ice. Stay off the steps."
-
-He set his mug on the railing. Skylar was already making another snowball.
-
-Taiga moved off the path. Aaron came up on his left and nodded toward him.
-
-"That one?"
-
-"Yeah."
-
-They threw together.
-
-Skylar ducked. Leo, coming around the end of the bench, took Aaron's snowball on the upper arm.
-
-"Hey! I wasn't even involved!"
-
-"You are now," Aaron called.
-
-Milo joined Leo behind the bench. Enzo retreated toward a low wall with Gav, who was still holding a leaflet from the library.
-
-"Put that away," Enzo told him.
-
-"I wasn't planning to—"
-
-Snow hit the wall beside them.
-
-Gav put it away.
-
-Taiga scooped up another handful. The top layer broke beneath his glove. Under it, the snow was cold and loose. He pressed it between his gloves and watched Leo peek over the back of the bench.
-
-Leo saw him looking.
-
-Taiga waited.
-
-Leo ducked.
-
-He threw at the other end.
-
-The snowball caught Leo's shoulder as he came around it.
-
-"Fuck!"
-
-Taiga laughed again.
-
-"Predictable."
-
-"Come here and say that!"
-
-"You're already losing from there."
-
-Leo bent toward Milo and said something Taiga couldn't hear. Milo nodded enthusiastically.
-
-That seemed bad.
-
-Aaron moved left to get around their cover.
-
-"Watch him," Taiga said.
-
-"I see him."
-
-Milo stood up with both hands raised.
-
-"Hold on! We gotta decide who's on which—"
-
-Leo's snowball hit Taiga across the chest.
-
-Milo immediately dropped back behind the bench.
-
-Taiga stared at the front of his coat.
-
-Leo was standing with both hands empty now, laughing.
-
-"Predictable!"
-
-"Fuck you."
-
-Taiga's next throw caught him before he could get back down.
-
-After that, keeping track of sides became pointless.
-
-Skylar threw at anyone who turned away from him. Dennis intercepted one meant for Scott, looked down at his sleeve and spent a few seconds making a snowball considerably larger than the others.
-
-Skylar started backing away.
-
-"Don't."
-
-Dennis advanced.
-
-"That'll kill someone."
-
-"You'll manage."
-
-Skylar ran. Dennis's throw hit him between the shoulders.
-
-Milo cheered from behind the bench, then got hit by Aaron while he was standing up.
-
-Taiga's next handful fell apart before he could throw it. He took more, packed it harder and looked for Leo.
-
-Gone.
-
-He moved around the end of the bench.
-
-Leo was crouching there with a small pile of snowballs laid out beside his knee.
-
-He looked up.
-
-"Oh, no."
-
-Taiga kicked loose snow over his ammunition.
-
-"HEY!"
-
-Leo grabbed at Taiga's coat. Taiga twisted out of his reach and backed away, laughing as Leo scrambled after him.
-
-A snowball broke against Taiga's sleeve. Another went past his ear and landed somewhere behind him.
-
-"Watch the fucking aim!"
-
-"I missed!"
-
-"That's the problem!"
-
-Leo scooped snow while still moving. Half of it fell out of his hand. Taiga stopped running long enough to hit him low in the coat.
-
-Leo folded forward, laughing and swearing.
-
-Taiga was trying to make another when Aaron called from behind him.
-
-"Forty-one!"
-
-He turned.
-
-Bad decision.
-
-Aaron's snowball caught him directly beneath the collar. Most of it stayed outside. Enough went in.
-
-"YOU FUCKING—"
-
-Taiga bent forward and pulled the neck of his coat away from his skin.
-
-Leo saw what had happened and lost it.
-
-He had one hand braced on the back of the bench, the other pressed against his stomach. Taiga could hear him trying to breathe between laughs.
-
-Aaron was already retreating toward the porch.
-
-"That was perfect!"
-
-"I'm killing you!"
-
-"You have to catch me!"
-
-Taiga got most of the snow out. The rest had become cold water against the back of his shirt.
-
-He looked at Leo.
-
-Still laughing.
-
-"You're enjoying that."
-
-Leo nodded helplessly.
-
-Taiga gathered a handful.
-
-"No, wait—"
-
-Leo took off before Taiga finished packing it.
-
-By the time Taiga got back to the lawn, Milo was calling across it.
-
-"Skylar! Hey! Truce?"
-
-Skylar looked over the wall he'd taken from Enzo.
-
-Milo was carrying a snowball in each hand. He dropped one, held the other up and dropped that too.
-
-"See? Done."
-
-Skylar watched him approach.
-
-Dennis stepped out from behind the porch post.
-
-"Oh, fuck."
-
-Skylar got as far as the bench before Dennis caught his hood and tipped a handful down the back of his jacket.
-
-Milo practically folded in half.
-
-"That's for earlier!"
-
-"That's twice for earlier!"
-
-Dennis let go before Skylar could turn on him.
-
-"Should've stayed for the second one, then."
-
-Scott was standing near the door, shoulders shaking. When Skylar looked up at him, Scott abruptly became interested in his phone.
-
-The fight resumed for another few minutes. Evan abandoned Enzo's wall. Gav claimed that throwing from the porch gave people an unfair height advantage, then went up there himself.
-
-The last sunlight had left the lawn. Above the lodge, the windows of the residences were beginning to glow.
-
-Eventually Dennis called a stop.
-
-"Alright. Enough. Some of us still have to play football tomorrow."
-
-Milo, already winding up another throw, slowly lowered his arm.
-
-Skylar watched him.
-
-Milo dropped the snowball.
-
-"Good choice," Dennis said.
-
-Aaron came over with his coat open.
-
-"Truce?"
-
-Taiga looked at him.
-
-Aaron started smiling.
-
-"You have to admit—"
+"So you didn't need to turn into him."
 
 "No."
 
-"Come on."
+"Good. Do it again."
 
-Taiga pulled the last bit of wet fabric away from his neck.
+Hale moved away.
 
-Aaron laughed and held up his hands.
+Leo passed Taiga on his way back to his position and held out a hand. Taiga slapped it.
 
-"Alright. My bad."
+"Nice ball."
 
-He brushed snow off Taiga's shoulder before heading inside with Evan.
+"Shame about the ending."
 
-Leo was near the railing again, breathing hard. His cheeks were red, and loose strands of hair had stuck to the damp edge of his scarf.
+"I heard that," Evan said.
 
-Taiga went to stand beside him.
+"You were meant to."
 
-Leo looked at the collar of his coat and started laughing again.
+The next one didn't work. Taiga checked too early, Dennis moved after he'd looked, and he lost it before getting his second touch.
 
-"Don't."
+He chased back, swearing.
 
-"I'm trying."
+Dennis was laughing now.
 
-"Try harder."
+By the water break, Taiga wanted another attempt more than he wanted his own position back.
 
-Leo pressed his lips together. It didn't help much.
+Aaron came over while Taiga was drinking.
 
-Taiga shoved his shoulder.
+"Enjoying midfield?"
 
-For a while, they watched Milo retrieve his gloves from the lawn. Skylar stood on the porch pulling his shirt away from his back, while Dennis answered a question from Gav as though he hadn't done anything.
+"Ask Dennis."
 
-"Your face when Aaron got you," Leo said.
+"He seems to be."
 
-"He called me."
+Taiga wiped his mouth with his sleeve. Aaron had already finished his water and was watching the assistant move the cones.
 
-"Yeah, that was the clever part."
+"What did Hale tell you?" he asked.
 
-Taiga shook his head. His face hurt a little from laughing. He hadn't noticed how cold his nose had got until they stopped running.
+"Look before I get it."
 
-Leo was still looking at him.
+"Right."
+
+Aaron turned his bottle slowly between his hands, then put it down.
+
+They changed teams for the next game. Evan went back out wide. Skylar came into midfield, and Aaron moved into the space behind Taiga.
+
+For the first few minutes, Aaron did well. He checked before receiving, got the ball moving quickly and found Taiga twice between defenders.
+
+Then Skylar started waiting for the return pass.
+
+Aaron received from Gav, sent it straight back and watched Skylar cut across to intercept.
+
+Scott stopped the shot with his foot.
+
+"Again," Hale called. "Same positions."
+
+Gav collected the ball.
+
+This time Aaron checked both shoulders so obviously that Skylar grinned at him.
+
+"Seen enough?"
+
+Aaron ignored him.
+
+The pass came in. Skylar stayed off, and Aaron sent it back to Gav again.
+
+"Bennett."
+
+Aaron looked over.
+
+Hale pointed at the space ahead of him.
+
+"What did you have?"
+
+Aaron glanced back. "The turn."
+
+"So take it."
+
+They restarted.
+
+Taiga moved toward the right channel, watching Aaron receive. There was time. Aaron turned, brought the ball forward and drew Skylar toward him.
+
+Good.
+
+Taiga started his run.
+
+Aaron took another touch.
+
+The gap closed.
+
+"Here!" Taiga called.
+
+Aaron tried to force the pass through anyway. It hit a leg and went out.
+
+Hale stopped them.
+
+"Good turn. The pass was there before your last touch."
+
+"I saw it."
+
+"I know. You tried to play it. What delayed you?"
+
+Aaron looked at Taiga, then back at Hale.
+
+"I was waiting for him to go."
+
+"I was going," Taiga said.
+
+"Yeah, I know."
+
+Hale walked a few steps closer.
+
+"You made room for the pass with the turn. Once he's moving, use it. You won't always get a cleaner picture."
+
+Aaron nodded.
+
+They played on. Two possessions later, he got the same ball and released it immediately.
+
+Taiga wasn't ready.
+
+It ran beyond him and over the line.
+
+"Oh, for fuck's sake."
+
+Aaron's voice carried farther than it needed to.
+
+Taiga turned. "Too early."
+
+"You just said—"
+
+"That time. I wasn't moving this time."
+
+Aaron opened his mouth, shut it and jogged away.
+
+Hale called for a change.
+
+At the edge of the pitch, Taiga pulled his bib off and watched Aaron take his place in the next group. He bounced on his toes while the others got organized.
+
+Mercer hadn't moved from beside the bench.
+
+Aaron looked toward him once.
+
+Then the ball came in, and he almost missed it.
+
+***
+
+The final games were shorter. Hale put most of them back into familiar positions, and for a while Taiga stopped having to account for three people behind him every time he received.
+
+Aaron was on his side again.
+
+They got through once with a clean overlap. Taiga held the defender, waited for Aaron to pass his shoulder and put the ball into his path.
+
+The cross went low and hard.
+
+Jordan finished.
+
+Aaron pointed at Taiga on the way back.
+
+"There. That one."
+
+"Yeah."
+
+Taiga held out his hand. Aaron hit it harder than necessary, but he was smiling.
+
+They won that game. Lost the next. In the last one, Leo found a pass Taiga hadn't seen coming until it was already traveling toward him.
+
+He got there.
+
+Dennis got there too.
+
+Taiga landed on his side, rolled and heard the whistle before he'd decided whether to complain.
+
+"Ball," Dennis said, offering a hand.
+
+"Your entire fucking leg was involved."
+
+"Attached to the foot."
+
+Taiga took the hand.
+
+Hale ended the session a little before noon. They gathered around him with coats over their shoulders and boots leaving dark patches on the cleared path.
+
+"Good work. Tomorrow we'll use some of the same situations with fewer stops. Morning and afternoon, with a proper break between."
+
+Enzo raised his head.
+
+"Today?"
+
+"You're finished for today. Eat, recover. Walk around if you want. Save the climbing competitions."
+
+Taiga felt Leo's elbow touch his.
+
+He looked over.
+
+Leo was already mouthing overlook.
+
+"I remember," Taiga said.
+
+Leo laughed and reached for his bag.
+
+On the way back up, Aaron stayed with Evan. Taiga could hear them behind him.
+
+"It's easier from the side," Aaron was saying.
+
+"That's why he's putting you in the middle."
+
+"I get why."
+
+"Okay."
+
+There was no answer after that.
+
+***
+
+They showered in the training building before going up to lunch. By the time Taiga had food, he could feel the morning in his thighs.
+
+Leo sat opposite him and immediately stole one of Enzo's fries.
+
+Enzo watched him eat it.
+
+"That was my best one."
+
+"You've got, like, thirty."
+
+"And now I'll never know."
+
+Gav reached across for the salt. "It was a potato."
+
+"Exactly. Potential."
+
+Milo came over with Skylar while they were still eating.
+
+"Hey! Still up for the trail?"
+
+Leo nodded through a mouthful.
+
+"Cool. Two-fifteen? Up on the road, past your lodge."
+
+"How long are we going to be out?" Evan asked.
+
+"Depends how often he stops," Skylar said.
+
+Milo turned toward him. "You took pictures yesterday too!"
+
+"Of you getting hit."
+
+"Those were important historical documents."
+
+Across the table, Aaron was checking the schedule on his phone.
+
+Taiga nodded at it. "Changed?"
+
+"No."
+
+Aaron locked the screen and put it away.
+
+Leo asked him whether he was coming.
+
+"Yeah, probably."
+
+"You'll like it," Milo said. "It's a good view."
+
+Aaron gave him a brief smile. "Yeah. Sounds good."
+
+They stayed at the table after finishing, talking about the morning. Skylar insisted Evan had fouled him twice. Evan insisted Skylar had run into him twice. Scott got drawn into it when they asked for a goalkeeper's opinion.
+
+He looked between them.
+
+"Uh... Which time?"
+
+"Thank you," Skylar said.
+
+Taiga laughed and leaned back against the bench. His leg ached when he straightened it. Across from him, Leo was trying to show Milo the move that had put him past Taiga during the passing exercise.
+
+With a fork and two pieces of bread.
+
+Taiga moved the fork.
+
+"Then I took it off you."
+
+Leo put it back.
+
+"Eventually."
+
+***
+
+Enzo had found his boots.
+
+He was standing outside the lodge at two-fifteen, stamping one heel into the snow while Evan tried to work out whether he'd tied the laces together.
+
+"Stop moving."
+
+"They're uneven."
+
+"Because you keep pulling that one."
+
+Taiga passed them with Scott. Leo was already up on the road, talking to Milo and holding a packet of biscuits he'd bought from the campus shop.
+
+He offered it as soon as Taiga reached him.
+
+"We just ate."
+
+"That was ages ago."
+
+"An hour."
+
+"Exactly."
+
+Taiga took one.
+
+The road ended beyond the last residence, where the cleared surface narrowed into a path between the pines. A wooden sign pointed uphill. Footprints had packed the snow down through the middle, with deeper banks along the edges.
+
+Milo went first. Skylar stayed near the back, waiting while Enzo finished whatever battle he was having with his footwear.
+
+"Keep to the path," Milo called. "The bit near the top can be slippery."
+
+Gav had his phone out before they'd reached the first bend.
+
+Taiga expected a photograph.
+
+Instead, Gav stopped and listened.
 
 "What?"
 
-Leo's smile widened.
+"Woodpecker."
 
-"Nothing. That was fun."
+Taiga waited. Somewhere beyond the path, a few quick knocks came from a tree.
 
-"You're soaked."
+Gav pointed.
 
-"So are you."
+"There."
 
-Taiga looked down. The front of his coat was covered in white smears, and one trouser leg was wet almost to the knee.
+"I can hear it."
 
-"Yeah."
+"No, up there. See where the trunk splits?"
 
-Leo rubbed his hands over his arms. His gloves made a faint, unpleasant squelching noise.
-
-"Okay. Now I'm cold."
-
-"You were cold before."
-
-"I got distracted."
-
-Taiga laughed. Leo smiled at him for another second before looking back toward the lawn.
-
-There were trenches where they'd run and broken snowballs across the benches. Leo took a photograph, then stepped backward to get more of the damage into it.
-
-Taiga waited.
-
-"Come on," Leo said, putting the phone away. "I need something hot."
-
-They went into the common lodge together. The entrance was warm, with a rack of wet boots beside the door. Milo pointed out the kitchen, and they got something hot to drink before heading back to their rooms to change.
-
-***
-
-Scott was already back in Room 214 when Taiga arrived. His coat hung over the chair, and he was drying his hair with a towel.
-
-Taiga changed his shirt and left his gloves near the radiator.
-
-"There's a rail in the bathroom," Scott said.
-
-Taiga looked at the little notice above the valve, then took the gloves through.
-
-His phone had filled with replies to the photographs.
-
-Hiro wanted to know whether there were bears. Yoichi had sent a picture of Yuki asleep across a doorway, with a complaint about people who went on vacation. Keitaro had asked how the first afternoon was going.
-
-Taiga sent him a photograph Leo had just posted in the Apollo chat.
-
-Enzo stood in the middle of the ruined lawn, both arms spread, snow all over the front of his coat. Gav was walking away behind him.
-
-**Taiga:** making friends
-
-Keitaro replied with a laughing face.
-
-There were more photographs in the chat now. Milo had sent them to Leo, including one someone had taken from the porch during the fight. Aaron was pointing at something out of frame. Taiga stood a few steps behind him, head turned toward Leo.
-
-He looked at his own face for a second.
-
-Then he saved the picture.
-
-Scott sat on the edge of his bed and checked his phone.
-
-"Mercer says six-thirty for dinner."
-
-Taiga looked at the time. Still a while.
-
-He plugged his phone in and took his notes out of his bag.
-
-***
-
-At dinner, Milo had his phone out between mouthfuls.
-
-"Wait, there's another one. Look at Dennis."
-
-He turned the screen toward them.
-
-Dennis stood halfway across the lawn, one arm still extended after a throw. Behind him, Skylar was trying to run and get snow out of his collar at the same time.
-
-"Send me that," Aaron said.
-
-"Already did! Leo's got all of them."
-
-"Delete it," Skylar said.
-
-Milo smiled and put his phone safely on the other side of his plate.
-
-The dining hall was busier now. Players had spread between the tables instead of keeping to their own teams. Someone near the windows was showing Scott a save on his phone. He leaned closer, hair falling across his face, then pointed at something on the screen.
-
-"You graduating this year too?" Dennis asked Evan.
-
-They started comparing what they still had left to finish. Milo wanted to know whether there was snow where Leo came from.
-
-"Nope. Santo Domingo."
-
-"Oh, wow! So this is still new for you?"
-
-"New enough that I keep forgetting it goes inside your clothes."
-
-Taiga looked at him.
-
-Leo started smiling again.
-
-Skylar reached for the bread basket.
-
-"My cousins in Cebu keep asking me for snow pictures. Should send them that."
-
-"The one of you?" Milo asked.
-
-"Of him."
-
-He pointed at Taiga.
-
-"Don't," Taiga said.
-
-Skylar grinned.
-
-Milo was still looking through the photographs when Aaron asked Skylar about Sunday.
-
-"You any good up front?"
-
-"Come find out."
-
-"I'm a fullback."
-
-"So run across."
-
-Aaron laughed. "Alright. I'll make a special trip."
-
-Beside Taiga, Leo yawned.
-
-He'd moved around the table when someone left, bringing his plate and the rest of Milo's conversation with him.
-
-"You going to survive?" Taiga asked.
-
-"Probably."
-
-"You slept on the bus."
-
-"For about an hour. Then we all got out for coffee."
-
-"Which you said was survival," Gav pointed out.
-
-"It was. I need more surviving."
-
-"What time did you go to bed?" Evan asked.
-
-"Late. I had to finish something before we left."
-
-Taiga gave him a look.
-
-"It's finished," Leo said.
-
-"Congratulations."
-
-"Thank you. I worked hard."
-
-After dinner, Milo asked who was heading up to the common lodge. Enzo had already heard there were cards.
-
-Most of them went together. By the time they reached the residential road, Leo had his scarf over his mouth again.
-
-***
-
-They left their boots on the rack by the entrance and hung their coats on the hooks above it.
-
-The common room was busier now. People had spread between the low couches facing the stone fireplace and the two long tables farther from the heat. Someone had taken a stack of board games off the shelf and left them on a chair.
-
-The fire was lit. Milo went to put the kettle on, and Taiga left his mug on the end table when he came back from the kitchen.
-
-Taiga took the right-hand end of a couch and stretched his feet toward it. The warmth reached his socks almost immediately. He hadn't realized how much he still wanted that.
-
-Leo sat beside him.
-
-"Okay. This is nice."
-
-"Yeah."
-
-Skylar found a deck of cards on the shelf. Milo pulled a low table between the couch and two armchairs, while Enzo set a bowl of pretzels on the end table beyond Taiga's elbow.
-
-"What are we playing?" Leo asked.
-
-"Bullshit," Skylar said.
-
-Gav sat in an armchair. "Which rules?"
-
-Skylar looked at him.
-
-"Ascending ranks? Can you pass? Some people let you skip a rank if—"
-
-"No skipping," Dennis said, taking the other chair. "Jokers out."
-
-Milo started dealing.
-
-"I like how that's the only rule everyone agrees on."
-
-"We haven't agreed yet," Gav said.
-
-Evan joined them halfway through the discussion, listened for a minute and asked whether they could start before breakfast.
-
-They settled it.
-
-For the first few turns, everyone behaved reasonably. Then Enzo put down three cards and announced a pair.
-
-Gav looked at the little pile.
-
-Enzo waited.
-
-"That's three," Gav said.
-
-"Is it?"
-
-"Enzo."
-
-"Fine. Three."
-
-"Bullshit."
-
-Enzo turned them over and started laughing.
-
-Milo leaned forward to look.
-
-"Dude! None of those are right!"
-
-"I was correcting the paperwork."
-
-Taiga pushed the pile toward him.
-
-"Take your shit."
-
-Leo leaned against the back of the couch, laughing. The fire had put a little color back into his face. He'd taken his hair down, and every time he leaned forward a strand fell against his cheek.
-
-Taiga returned to his cards.
-
-Skylar played quickly. Barely glanced at his hand, put something down and looked straight at whoever seemed most likely to challenge him.
-
-Milo called him twice.
-
-Wrong both times.
-
-"The grin," Milo said, collecting the second pile. "I thought you were trying not to laugh!"
-
-"I was."
-
-"Oh, you're such an ass."
-
-He sorted his cards, still smiling.
-
-Dennis was harder to read. He kept talking to Evan through his turns, putting cards down without breaking off the conversation. Taiga called him once and immediately regretted it.
-
-"Two eights," Dennis said.
-
-"I can see that."
-
-"Just checking."
-
-Skylar glanced at Taiga's growing hand.
-
-Taiga turned the cards away before he could say anything.
-
-Across the table, Gav had started counting under his breath. Milo watched him for a few seconds, then looked down at his own cards.
+Scott moved beside him and followed his finger. After a moment, he nodded.
 
 "Oh."
 
-"Don't help him," Skylar said.
+Enzo came up behind them. "Are we watching the tree?"
 
-"I wasn't!"
+"The bird."
 
-"You made a noise."
+"Right. Of course."
 
-"I'm allowed to think!"
+They started again when the bird moved out of sight. Gav caught up with Scott and showed him something on his phone, talking much more freely now.
 
-Taiga put down his last cards. Enzo called him.
+Taiga let them go ahead.
 
-He turned them over.
+The path climbed gradually. Snow softened the low growth beside it, and the branches overhead blocked most of the wind. Through occasional gaps he could see pieces of the campus below: a roof, the upper road, the dark edge of the classroom building.
 
-Enzo groaned.
+Leo walked beside him.
 
-"Out."
+For a while they listened to Milo explaining where a different trail went in summer. He stopped to show them the junction, then took a photograph of the sign.
 
-"You've been lying the whole time."
+Skylar sighed.
 
-"Yeah. That's the game."
+"You know where it goes."
 
-"Except now."
+"I like the snow on it."
 
-Taiga smiled at him.
+"It's a sign."
 
-Leo set his cards on the cushion and leaned across him to reach the pretzels. His left palm came down on Taiga's thigh, just above the knee.
+"It can be both!"
 
-Taiga went still.
+Leo leaned toward Taiga.
 
-Leo took the bowl with his other hand and sat back.
+"He's right."
 
-The hand stayed.
+"About the sign?"
 
-Across the table, Gav was counting the cards Enzo had just picked up. Taiga heard him say something about probability and watched Enzo deliberately turn his cards away.
+"About taking pictures."
 
-Leo's palm was warm through the fabric of his trousers. His fingers rested loosely against the side of Taiga's leg.
+"You've taken six of the same tree."
 
-Taiga looked down.
+"Different angles."
 
-Then at Leo.
+Taiga held out his hand for the biscuits. Leo passed the packet over without breaking off his defense of the photographs.
 
-Leo held the bowl toward him.
+Farther up, the trees thinned. The wind reached them again, cold enough to make Taiga pull his collar higher.
 
-For a second, neither said anything.
+Leo was breathing through his mouth.
 
-Taiga took a pretzel.
+"You okay?"
 
-"Thanks."
+"Yeah. Just regretting how enthusiastically I ran this morning."
 
-Leo smiled a little and put the bowl on the table.
+They slowed a little before the next bend. Nobody was moving especially quickly now. Even Enzo had stopped offering commentary and was concentrating on where to put his feet.
 
-Milo was explaining why he hadn't called Dennis on the previous turn. Skylar pointed at the pile.
+At the top, Milo stepped aside.
 
-"Still your go."
+"Okay! Here we are."
 
-"Oh, right!"
+The path opened onto a broad wooden platform with a railing along the outer edge. The valley spread below it, the lower roads appearing and disappearing between patches of forest. Beyond the opposite ridge, clouds lay in long strips over the mountains.
 
-He put down two cards.
+Taiga went straight to the railing.
 
-Taiga watched him instead of looking at the hand on his thigh again.
+From here, Pinetree's roofs looked close together. He could follow the road past the residences and down toward the main lodge, then pick out both pitches on their terrace.
 
-"Bullshit," Enzo said.
+Leo stopped beside him.
 
-Milo turned them over.
+"Oh, wow."
 
-Both wrong.
+Taiga took his phone out.
 
-He dropped his head back against the chair.
+Milo was already offering to take pictures for people. Evan handed his over, and Enzo immediately joined him at the rail.
 
-"Aww, come on! I thought I had that one!"
+"Both of us," he said. "For scale."
 
-"You announce it with your whole face," Aaron said from behind him.
+"You'll block the campus."
 
-"I do not!"
+"An improvement."
 
-Aaron imitated him. Badly, but recognizably enough that Milo started laughing too.
+Taiga framed the valley, adjusted the exposure and took a photograph. When he lowered the phone, Leo was trying to get the same view without the sun bleaching half of it.
 
-When Leo's turn came, he lifted his hand to pick up his cards.
+"Tap there."
 
-Taiga let out a slow breath through his nose and reached for another pretzel.
+Leo did.
 
-They played on.
+"Oh. That's better."
 
-Milo got quieter as his hand grew smaller. Taiga watched him rearrange the same few cards, glance at the pile and decide against saying anything.
+He took another, then turned the screen toward Taiga.
 
-Dennis put down two cards.
+"Like that?"
 
-"Queens."
+"Yeah."
 
-Milo looked up.
+Their gloves bumped as Taiga pointed out the darker strip of road near the bottom. Leo followed it with his eyes.
 
-"Bullshit!"
+"That's where we came up?"
 
-Dennis paused.
+"Think so."
 
-Milo fanned out three queens for everyone to see.
+"It didn't look this far down from the bus."
 
-For a second, everyone just looked at them.
+Behind them, Enzo was trying to convince Aaron to pose as though he were holding the mountain.
 
-Then Enzo started laughing.
+Aaron refused twice.
 
-Dennis turned over a four and a nine.
+On the third attempt, he put his hand out and told Milo to hurry up.
 
-"Fair enough."
+Taiga laughed. Aaron heard him and gave him the finger without dropping the pose.
 
-"Oh, I got you!" Milo pushed the pile toward him. "I finally got you!"
+They stayed longer than the walk had taken. Gav and Scott found a stretch of railing sheltered from the wind. Evan asked Skylar about one of the roads below them, and Milo kept moving between people with different phones.
 
-"You did."
+Leo took one picture with Taiga in it before Taiga noticed.
 
-Skylar leaned back and laughed while Dennis collected the cards. Milo remained delighted through the next three turns, including the one where Skylar made him pick up half of them again.
+"Delete that."
 
-The second game was louder.
+"Nope. You look good."
 
-People came over to watch, stayed for a few turns and moved on. Scott settled near Gav without joining in. Somewhere behind them, a board-game argument had reached the instructions.
+Taiga reached for the phone.
 
-Leo played more slowly now. Once, Taiga had to point at the table before he realized it was his turn.
-
-"Sorry. Thinking."
-
-"About your cards?"
-
-"Among other things."
-
-He put down one card, got called and took the pile.
-
-Taiga laughed.
-
-Leo bumped his elbow.
-
-"Don't enjoy it so much."
-
-"Then stop doing it."
-
-After that round, Leo handed his cards to Aaron.
-
-"I'm taking a break."
-
-"Already?"
-
-"I need to reassess my friends."
-
-He moved toward the other end of the couch while Aaron pulled up a chair. Taiga stood to stretch his legs. When he returned from refilling his mug, Leo had tucked his feet up and was watching the game with his cheek resting on his bent arm.
-
-"Comfortable?"
-
-"Very."
-
-Taiga sat at the vacated end and picked up his new hand.
-
-Across from him, Dennis was listening to Gav explain why counting cards only got you so far when everyone could lie. Skylar put down his last three cards during the explanation.
-
-"You're out?" Milo asked.
-
-Skylar nodded.
-
-"No, hold on. What were they?"
+Leo put it in his pocket.
 
 "Too late."
 
-Milo appealed to Dennis, who had been watching the whole thing and refused to help.
+"That's not how that works."
 
-Taiga turned toward Leo.
+"It is now."
 
-His eyes were closed.
+Milo called them over for a group photograph. They crowded near the rail while he set his phone against his backpack. The first attempt caught Skylar still walking into place. In the second, Enzo had his eyes closed.
 
-He waited for him to laugh at the argument, but Leo didn't move. One hand lay beside his face. The other had slipped between the cushions. His mouth was slightly open.
+The third was apparently acceptable to everyone except Enzo, who wanted to know why Aaron had put a hand behind his head.
 
-Already?
+"Perspective," Aaron said.
 
-Taiga watched him for a few seconds.
+Taiga nearly stepped backward into Leo while laughing.
 
-A strand of hair moved when he breathed out. With his cheek against his sleeve, he looked almost like he had on the bus that morning.
+Leo caught his elbow, steadied him and let go.
 
-Taiga smiled.
-
-Then he looked at the way Leo had folded his arm beneath his head.
-
-There was a spare cushion in the chair beside the fireplace. He got up, took it and went back to the couch.
-
-Leo stirred when Taiga eased it beneath his head. His eyes opened a little.
-
-"Here."
-
-"Mhm."
-
-He pulled his arm free, settled onto the cushion and went still again.
-
-Taiga left his mug on the end table and sat down.
-
-Aaron was dealing another hand.
-
-The games broke up gradually.
-
-Skylar went to the kitchen with Enzo and returned eating biscuits. Milo joined a game at the other table, pulled up a chair for Evan and immediately began explaining what he'd missed.
-
-Dennis stayed with Scott and Gav. Taiga heard something about the wind on the lower pitch, then Scott asking whether it changed much during matches.
-
-Taiga listened for a while.
-
-Leo slept through all of it.
-
-The fire settled lower. Someone added another log, sending sparks up behind the screen. Near the windows, Milo laughed at something Evan had said.
-
-Taiga checked the time. He still had reading to finish, and his things for training were somewhere at the bottom of his bag.
-
-Aaron pushed the deck toward him.
-
-"Your deal."
-
-Taiga put his phone away and picked up the cards.
+By the time they started down, Taiga's fingers were getting cold inside his gloves. He put the phone away and kept his hands in his pockets, listening to Leo and Gav argue about which photograph had come out best.
 
 ***
 
-At ten-thirty, Mercer appeared in the doorway.
+The common lodge was warmer than Taiga remembered.
 
-"Breakfast seven. First session eight-thirty. Get some sleep."
+It was also considerably louder.
 
-People started gathering cards, cups and jackets.
+Two pool games were going on in the next room. Someone was calling scores over the sound of a table-tennis ball, and a group near the fireplace had reached the noisy part of a board game.
 
-Enzo came back and stopped at the couch.
+Enzo stopped at the doorway to the pool room.
 
-"Leo."
+"Yes."
 
-Nothing.
+Evan looked over his shoulder. "You any good?"
 
-"Mendez."
+"Let's find out."
 
-Leo opened his eyes.
+Skylar followed them in. Milo went over to a group by the windows and started showing them the pictures.
 
-For a second he looked completely lost. Then he pushed himself upright, hair flattened on one side.
+Aaron had his phone to his ear before he'd taken his coat off.
 
-"What time is it?"
+"Hey. Yeah, we just got back."
 
-"Bedtime," Enzo said.
+He moved toward the quieter end of the corridor.
 
-"I wasn't—"
+Leo stood beside Taiga, peeling one glove off with his teeth.
 
-Taiga looked at him.
+"What time's dinner again?"
+
+"Six-thirty," Scott said.
+
+"Oh, we've got ages."
+
+Gav looked toward the pool room. The opening break made several people shout at once.
+
+Leo winced.
+
+"I kinda wanna watch something."
+
+"What?" Gav asked.
+
+"A movie. I've got a bunch on my laptop."
+
+Enzo looked back from the pool table.
+
+"If it's three hours, I'm declaring myself dead."
+
+"It doesn't have to be three hours!"
+
+"I'm still busy."
+
+Evan had picked up a cue. "Same."
+
+Leo turned to the others.
+
+"Movie in my room?"
+
+Scott glanced at Gav, then nodded.
+
+"Yeah. Okay."
+
+"Depends what you've got," Gav said.
+
+"Lots. Come look."
+
+Taiga followed them back outside. Leo was explaining a film to Gav before they'd reached the road, occasionally losing the title and trying to recover it through increasingly unhelpful details.
+
+"The guy! With the coat!"
+
+"That doesn't narrow it down," Taiga said.
+
+"You know who I mean!"
+
+Scott opened the lodge door for them.
+
+***
+
+Leo put his laptop on the desk and turned it toward the beds. Gav and Scott brought the two chairs around while Taiga sat on the edge of Leo's mattress.
+
+Enzo's pillow occupied most of the other bed.
+
+Gav considered it, then kept his chair.
+
+Leo sat beside Taiga with the laptop briefly on his knees, scrolling through folders.
+
+They were sorted by year.
+
+Of course they were.
+
+"How many have you got?" Gav asked.
+
+"On here? Uh..."
+
+Leo checked one folder, then another.
+
+"A lot."
+
+Scott leaned forward a little.
+
+"Back to the Future?"
+
+Leo stopped scrolling.
+
+"Oh! Yeah, absolutely."
+
+"I haven't seen it in years," Gav said.
+
+Taiga looked at the title.
+
+"I don't think I've seen it."
+
+Leo turned toward him so quickly his knee hit Taiga's.
+
+"Seriously?"
+
+"Apparently."
+
+"Oh, dude. Okay. We're watching this."
+
+He got up to put the laptop back on the desk. Taiga moved farther onto the bed, sitting against the wall while Leo adjusted the angle of the screen.
+
+"Can everyone see?"
+
+Gav nodded. Scott shifted his chair a few centimeters.
+
+Leo returned to the bed.
+
+The film started.
+
+For the first few minutes, Taiga could still hear footsteps in the corridor. Then the music rose, and Gav reached over to turn the laptop up.
+
+Leo pulled his feet onto the mattress and settled beside him.
+
+Taiga had expected to spend the first part waiting for it to get interesting.
+
+Instead, he missed something Gav said because the car had just disappeared.
+
+Scott laughed at his face.
+
+"Keep watching," Leo said.
+
+"I am."
+
+"Your face says you've got questions."
+
+"This guy's testing it in a parking lot."
+
+"Where would you test it?"
+
+"Somewhere without a teenager standing in front of it."
+
+Gav leaned back in his chair, smiling. On the screen, the experiment continued.
+
+For a while, nobody spoke.
+
+The room grew warmer. Taiga took his sweatshirt off and folded it beside him, leaving his T-shirt on. Leo shifted closer to the wall so he could stretch one leg out. Their shoulders touched briefly, then separated as they settled.
+
+Gav started a sentence about time travel and stopped himself when Scott turned toward him.
+
+"After," he said.
+
+Scott nodded gratefully.
+
+Halfway through, Leo passed around the remaining biscuits from the walk. Taiga took the broken ones at the bottom of the packet and brushed the crumbs into his palm.
+
+"You missed one," Leo whispered.
+
+"Where?"
+
+Leo pointed at his shirt.
+
+Taiga found it and flicked it at him.
+
+Scott made a small, irritated sound.
+
+They behaved after that.
+
+Mostly.
+
+By the last stretch, Taiga was sitting forward with his elbows on his knees. The clock on the screen appeared to be moving much faster than it had any right to.
+
+"Oh, come on."
+
+Beside him, Leo had gone quiet too.
+
+Taiga looked over once.
+
+Leo caught him and smiled without taking his eyes off the laptop.
+
+Then the car started moving again, and Taiga forgot about him.
+
+***
+
+Gav waited until the credits before beginning his argument.
+
+"The thing is, you can't change that much and still expect the same people to exist."
+
+Leo turned toward him.
+
+"That's the part you're worried about?"
+
+"It's a pretty big problem."
+
+Taiga leaned back against the wall. "His family wouldn't even be the same."
+
+"They are the same people!"
+
+"They've had different lives."
+
+"Better lives."
+
+"That doesn't mean he remembers them."
+
+Scott was looking down at his phone.
+
+"Oh. I need to get changed."
+
+Gav checked the time too, then stood and pushed his chair back toward the other desk.
+
+"Yeah. Me too."
+
+Leo was still facing Taiga.
+
+"But that's the whole point. He comes back and sees what happened."
+
+"Yeah, and everyone else remembers thirty years he doesn't."
+
+Gav paused at the door.
+
+"Exactly."
+
+"You're making it worse," Leo told him.
+
+Scott had already gone into the corridor. Gav followed, still smiling.
+
+"See you at dinner."
+
+Taiga lifted a hand as Gav closed the door.
+
+"Okay, but did you like it?"
+
+"Yeah."
+
+"Thank you!"
+
+"I can like it and think that part's weird."
+
+"I know! I'm just checking you didn't spend the last two hours suffering."
+
+"I would've told you."
+
+"Oh, I know you would've."
+
+Taiga laughed. He stretched his legs along the bed while Leo leaned forward to collect the empty biscuit packet.
+
+The room had gone quiet enough that he could hear somebody's shower through the wall.
+
+Leo put the packet on the desk, lowered the laptop volume and came back.
+
+"I should show you the next one sometime."
+
+"There's more?"
+
+"Two more!"
+
+"Of course there are."
+
+"Dude, we are so watching them."
+
+He sat down beside Taiga again, turning toward him with one knee on the mattress.
+
+Taiga glanced at the laptop. The credits were still moving.
+
+"You've seen all of these?"
+
+"Not all of them. Most."
+
+"How many times?"
+
+"Depends which one."
+
+Taiga gave him a look.
+
+Leo started laughing.
+
+"Don't do that! You know how many times you've watched the same goal?"
+
+"That's different."
+
+"Yeah, because you pause it and complain about somebody's positioning."
+
+Taiga nudged his knee with his own.
+
+Leo nudged back.
+
+They were both smiling when Leo rested a hand on his leg.
+
+Taiga looked down at it.
+
+Leo's fingers lay just above his knee. He could have been about to get up again, except he stayed where he was, his other hand resting on the mattress between them.
+
+Taiga put his hand over Leo's.
+
+The smile on Leo's face changed.
+
+For a few seconds, Taiga watched his thumb move against the side of Leo's hand. He'd started doing it without deciding to. Now that he'd noticed, he kept going.
+
+Leo turned his hand beneath his.
+
+Their fingers caught together.
+
+Taiga looked up.
+
+Leo was watching him.
+
+The familiar nervousness tightened low in Taiga's stomach. He shifted closer anyway, bringing his free hand up to push a loose strand of hair back from Leo's face.
+
+His fingers stayed beside Leo's ear.
+
+Leo went very still.
+
+Taiga felt the movement when he swallowed.
+
+Then Leo leaned into his hand.
+
+Taiga's breath caught. He slid his fingers into the hair at the back of Leo's neck and drew him closer.
+
+Leo came willingly, one hand finding Taiga's waist as he shifted on the mattress.
+
+They stopped close enough that Taiga could feel his breath against his cheek.
+
+Nobody laughed.
+
+Leo's hand moved slowly along his side. Taiga tightened his grip at Leo's nape, then loosened it when Leo's fingers slipped beneath the edge of his T-shirt.
+
+He let them stay.
+
+His other hand found Leo's shoulder and moved down his back. Leo leaned closer, and Taiga felt the warmth of him through his clothes.
+
+He wanted him closer still.
+
+Taiga pulled gently at the fabric of Leo's shirt. His fingers found bare skin beneath it, and Leo drew in a quick breath.
+
+That sound made Taiga lift his head.
+
+Leo's face was flushed. His hand tightened at Taiga's side, holding him there.
+
+Taiga moved toward him again.
+
+This time Leo drew him in, and Taiga followed, bracing a hand on the mattress as their balance shifted. His heart was beating hard enough to make his breathing uneven.
+
+Leo's fingers caught the hem of his T-shirt.
+
+Taiga lifted one arm to help.
+
+The fabric began sliding up his side.
+
+He stopped breathing.
+
+"Wait—"
+
+Leo's hands stopped immediately.
+
+Taiga pulled back a little. His arm came down between them.
+
+"Shit. Sorry, I—"
+
+Leo started moving away. Taiga caught his sleeve.
+
+"No, that's not—"
 
 Leo stopped.
 
-"Okay. Maybe a little."
+"I wasn't saying..."
 
-Enzo handed him his scarf. "Come on. I'm not carrying you."
+Fuck.
 
-Leo stood and stretched, wincing when his back straightened. He looked down at the cushion, then put it against the armrest.
+Taiga swallowed. The words were there somewhere, but every time he reached for one, it seemed to mean something else.
 
-Milo called good night from the other table. Skylar lifted a hand without looking up from the cards he was putting away. Dennis was checking under a chair for someone's missing room key.
+"You didn't do anything. I just—"
 
-Taiga found his coat. Scott was waiting by the door.
+His fingers were still tight around Leo's sleeve.
 
-Outside, the cold woke Leo enough to complain about it. The group spread out along the cleared path, people calling good night as they turned toward the other residential buildings.
+"Just give me a second."
 
-Their lodge was only a short walk away.
+"Yeah. Okay."
 
-Upstairs, Enzo went ahead to open his room while Scott searched his pocket for their key.
+Leo sat back, staying within reach. His shirt had caught beneath Taiga's hand. He straightened it carefully, then looked at him again.
 
-Leo stopped beside Taiga.
+Taiga tried to breathe normally.
 
-"Night, AG."
+He'd put his hands there. He'd pulled Leo closer. A few seconds ago, he'd been helping.
 
-"Night."
+Now Leo was sitting in front of him, waiting, and Taiga couldn't get a useful sentence out.
 
-Leo smiled sleepily and followed Enzo down the corridor.
+"I was..." He rubbed a hand over his face. "Fuck."
 
-Scott got the door open.
+"Hey."
 
-Inside, Taiga checked his gloves. Still damp at the fingertips. He spread them out on the bathroom rail and plugged in his phone while Scott took his turn brushing his teeth.
+Leo touched his shoulder.
 
-Outside the window, the path lights lit a narrow strip of snow beneath the trees. Beyond that, the mountain had disappeared into the dark.
+Taiga looked up.
 
-His phone buzzed.
+"It's okay."
 
-**Leo:** miles says i missed everything
+He nodded, although it took a moment.
 
-Taiga smiled.
+Leo's hand stayed light against his shoulder. Taiga could still feel his fingers moving under his shirt, even though they weren't there anymore.
 
-**Taiga:** accurate
+He loosened his grip on the sleeve.
 
-**Leo:** apparently dennis is worse than skylar
+There were creases where he'd been holding it.
 
-**Taiga:** correct
+"Sorry."
 
-**Leo:** okay
-**Leo:** rematch tomorrow
+Leo glanced down, then back at him.
 
-**Taiga:** go to sleep first
+"You're okay."
 
-Leo reacted with a thumbs-up.
+Taiga shook his head.
 
-Taiga put the phone on the desk. When Scott came out, he took his toothbrush and went into the bathroom.
+He needed Leo to understand that he hadn't been sitting there tolerating him. He'd wanted his hands there. He still wanted them there, which made the sudden panic even harder to explain.
+
+"I just..."
+
+Leo waited.
+
+Taiga looked at the place beside him instead.
+
+"Can we just sit for a bit?"
+
+"Yeah."
+
+Leo moved around and settled against the wall, leaving a little space between them.
+
+Taiga closed it.
+
+Their shoulders touched. Leo turned his head, and Taiga managed to look at him.
+
+He was still flushed.
+
+Taiga had done that.
+
+He looked down at his own hands before the thought could go any further.
+
+For a while they listened to the shower next door. Someone in the corridor knocked on a door and called a name. Footsteps went away again.
+
+Leo reached for his water bottle from beside the bed and offered it.
+
+Taiga took it, drank and handed it back.
+
+The laptop had gone dark.
+
+"What were you going to say?" Leo asked.
+
+Taiga's stomach tightened.
+
+"About the film," Leo added, a little quickly. "Before Gav left."
+
+"Oh."
+
+"You said he wouldn't remember them."
+
+"Yeah."
+
+Leo turned the bottle cap between his fingers.
+
+"I guess that would be pretty weird."
+
+Taiga let out a small breath that almost became a laugh.
+
+"Now you agree."
+
+"Only with that part."
+
+"Fine."
+
+He leaned his head back against the wall. Leo's shoulder was warm against his.
+
+They talked for a few minutes about the ending, then about whether Gav had been waiting through the entire film to bring it up. Leo said he probably had notes. Taiga said Scott would confiscate them.
+
+Leo laughed softly.
+
+Taiga looked toward him.
+
+For a second, the next movement seemed terribly easy. His hand was resting beside Leo's. He could turn it over, touch him again, bring him closer.
+
+He kept it where it was.
+
+He still hadn't found the words.
+
+When Leo checked his phone, it was quarter past six.
+
+"Oh, crap."
+
+Taiga sat forward.
+
+"Dinner?"
+
+"Yeah. I should probably put on something that hasn't been up a mountain."
+
+Taiga looked down at his own clothes.
+
+"Same."
+
+Neither moved immediately.
+
+Then Leo swung his feet off the mattress, and Taiga followed.
+
+At the door, Taiga turned back.
+
+Leo looked up from his phone.
+
+"I'll come get you?"
+
+Taiga nodded.
+
+"Yeah."
+
+He touched Leo's arm before leaving. Briefly, through the sleeve he'd been holding.
+
+Leo smiled.
+
+In the corridor, Taiga stopped outside his own room and took a breath before going in.
+
+Scott was sitting on his bed, pulling on a clean pair of socks.
+
+"Did you like it?"
+
+Taiga looked at him.
+
+"The movie."
+
+"Yeah. It was good."
+
+Scott nodded.
+
+"I forgot how much happens in it."
+
+He bent to find his other shoe.
+
+Taiga went to his bag and took out a clean shirt. Somebody laughed in the corridor, and a door closed farther along.
+
+He changed with his back to the room.
+
+***
+
+Leo knocked while Taiga was looking for his phone.
+
+Scott was already by the door. He opened it and stepped out, leaving Leo in the doorway.
+
+"You ready?"
+
+"Yeah."
+
+Taiga found the phone beneath his sweatshirt and put it in his pocket.
+
+They went down together.
+
+Outside, the path lights had come on. The cold reached the skin at the back of Taiga's neck, and he tucked his chin into his collar.
+
+Leo walked beside him, explaining that Gav had sent him a message about the film before he'd even reached his room.
+
+"I told you he had notes."
+
+"He's got questions."
+
+"Same thing."
+
+At the dining hall, Enzo was already telling Evan why the last pool game shouldn't count.
+
+"It went in."
+
+"The wrong pocket."
+
+"It was a pocket."
+
+Evan pointed his fork at the empty seat beside him.
+
+"Sit down before he starts again."
+
+Scott took it.
+
+Taiga went around the table with Leo. For a moment, he hesitated beside the remaining places.
+
+Then Leo put his tray down and moved his glass out of the way for him.
+
+Taiga sat beside him.
+
+Milo was halfway through a story about Skylar getting locked out of the equipment shed. Skylar corrected almost every detail without denying that he'd been locked out.
+
+Aaron sat opposite them. He looked up from his plate when Leo asked how he'd spent the afternoon.
+
+"Talking to Sofia. Watching Enzo lose."
+
+"I won two."
+
+"After I stopped watching."
+
+Enzo appealed to Evan, who kept eating.
+
+Aaron smiled and reached for the bread.
+
+A few minutes later, Dennis asked Scott about a save from the morning. Scott set his fork down to answer. Gav joined in, and soon three people were trying to show the angle with glasses and a salt shaker.
+
+Taiga listened.
+
+Leo's arm brushed his when he reached across the table.
+
+Taiga went quiet for half a second.
+
+Leo glanced at him. There was a small hesitation before he smiled.
+
+Taiga smiled back.
+
+Across from them, Aaron was moving the salt shaker to dispute Gav's version of the shot. Nobody had looked over.
+
+Taiga picked up his fork. He was still aware of Leo's sleeve against his arm while the conversation moved on.
