@@ -17,14 +17,14 @@ Taiga already knew what he was signing for, yet he didn't expect the effects to 
 
 "Okay, 5 minutes break. Catch your breath."
 
-He rested his hands over his knees. Barely twenty-five minutes of training and he was already out of breath.
+He rested his hands over his knees. Barely twenty-five minutes of training and his breath was struggling to come back during breaks.
 He slowly walked towards the benches and took his bottle. The water was almost ice-cold, which didn't exactly help. He put his coat around his shoulders.
 
 Enzo dropped on a bench. "I think I've seen God at least three times."
 
 Leo laughed, but even he didn't want to waste oxygen to reply.
 
-Hale had divided them into small groups: one group passes the ball around while the other tries to take it away.
+Hale had divided them into small groups: one group passed the ball around while the other tried to take it away.
 Pinetree players were passing, while Olympus chased. 
 
 Hale clapped once. "Okay, everyone gather here please."
@@ -67,7 +67,7 @@ Taiga saw Scott visibly relaxing his shoulders.
 
 Mercer gave Hale a list with Olympus player and their position. Hale called them one by one and assigned to their opponent's role.
 
-He took his position behind Aaron, who was now playing as a right wing. Leo stepped awkwardly in the midfield.
+He took his position behind Aaron, who was now playing as a right wing. Leo stepped awkwardly farther back in the midfield.
 
 
 
