@@ -10,7 +10,7 @@ They were in the film room, after Friday afternoon practice.
 
 "Yes. Joint training before the match on Sunday."
 
-"Their coach is Daniel Hale," Mercer continued. "He does things differently from me, but he's a good coach. You'll follow his instructions during the joint sessions."
+"Their coach is Liam Hale," Mercer continued. "He does things differently from me, but he's a good coach. You'll follow his instructions during the joint sessions."
 
 Gav raised his hand. "How about our classes, though?"
 
