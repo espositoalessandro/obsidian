@@ -158,7 +158,7 @@ Enzo lowered his hand. “That’s better.”
 
 “That’s worse.”
 
-Mercer ignored him. “Their coach is Daniel Hale. His sessions won’t look like ours. You are going there because different coaches see different things. If Hale puts you somewhere you don’t normally play, you play there. If he tells you something I wouldn’t tell you, listen anyway.”
+Mercer ignored him. “Their coach is Liam Hale. His sessions won’t look like ours. You are going there because different coaches see different things. If Hale puts you somewhere you don’t normally play, you play there. If he tells you something I wouldn’t tell you, listen anyway.”
 
 Evan raised his hand halfway. “Can we tell you afterward that he’s better?”
 
@@ -987,7 +987,7 @@ At one-fifteen, Mercer stood near the exit.
 
 The room emptied.
 
-Daniel Hale met them outside.
+Liam Hale met them outside.
 
 He was taller than Mercer, grayer and quieter. No whistle around his neck. No clipboard.
 
