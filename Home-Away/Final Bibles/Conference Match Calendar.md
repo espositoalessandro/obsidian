@@ -38,7 +38,7 @@ Codes below keep the complete fixture table readable. Team identities summarize 
 | Code | Squad | Existing match identity / reference |
 | --- | --- | --- |
 | OLY | Olympus | Apollo. Possession and combinations; 4-2-3-1, dropping into 4-4-1-1 without the ball. |
-| PIN | Pinetree Academy | Structured, adaptable, comfortable changing roles. Residential campus at altitude; Daniel Hale runs the exchange. |
+| PIN | Pinetree Academy | Structured, adaptable, comfortable changing roles. Residential campus at altitude; Liam Hale runs the exchange. |
 | HTC | Helios Tech | Fast wingers, early crosses, an aerial threat through the middle. |
 | NBR | Northbridge | Physical and direct; long throws and defenders who step hard into duels. |
 | STV | St. Vincent | Aggressive pressure and forward runs; space can open behind them. |
@@ -169,7 +169,7 @@ The complete 4 February and 14 February rounds have exchanged opponents. Olympus
 
 The 0-1 defeat moves from Cedar Ridge to St. Vincent; Cedar Ridge becomes a recovery win. Olympus have 12 points after 14 February and 15 after 21 February. The pre-break and final title totals remain 34 and 41. Pinetree's Cedar Ridge draw moves to 4 February; their pre-break total stays 35.
 
-The Ch16 opening remains on 30 January with Northbridge the next day, matching the chosen 14 February defeat date. Keep the film-room announcement, Daniel Hale, academy campus accommodation and altitude details from the author's current opening.
+The Ch16 opening remains on 30 January with Northbridge the next day, matching the chosen 14 February defeat date. Keep the film-room announcement, Liam Hale, academy campus accommodation and altitude details from the author's current opening.
 
 ## Source basis and checks
 
