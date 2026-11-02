@@ -1367,7 +1367,7 @@ No name required unless she appears directly later.
 
 ---
 
-# 36. Coach Daniel Hale
+# 36. Coach Liam Hale
 
 ## Current role
 - Pinetree coach.
@@ -1486,7 +1486,7 @@ Keep him as the more provocative Pinetree voice, contrasting Micah's analytical 
 No expansion needed.
 
 ### Naming collision
-This character shares the surname **Hale** with Pinetree coach Daniel Hale. Renaming the art professor would reduce confusion.
+This character shares the surname **Hale** with Pinetree coach Liam Hale. Renaming the art professor would reduce confusion.
 
 ---
 
@@ -1626,7 +1626,7 @@ Two separate Leahs exist:
 The narration notices this as a joke, so it is technically intentional, but it creates unnecessary cast noise. Rename one unless the joke is worth keeping.
 
 ## Hale
-- Daniel Hale, Pinetree coach.
+- Liam Hale, Pinetree coach.
 - Professor Hale, Hunter's art professor.
 
 Rename the art professor.
