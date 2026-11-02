@@ -68,3 +68,9 @@ Taiga saw Scott visibly relaxing his shoulders.
 Mercer gave Hale a list of the Olympus players and their positions. Hale called them one by one and assigned them their opponents' roles.
 
 Taiga took his position behind Aaron, who was now playing as a right winger. Leo stepped awkwardly into a position farther back in midfield.
+
+Milo was in the other team, playing as a left fullback. "Looks like we're still against each other!"
+
+Aaron smiled nervously. "Yeah, apparently."
+
+
