@@ -152,7 +152,7 @@ Taiga followed, stepping into a familiar cold breeze. He couldn't help but smile
 
 Mercer was shaking hands with a man in a dark green tracksuit. Gray at the temples, sleeves pushed up despite the weather.
 
-"Daniel Hale," the man said when the last few players came around the bus. "Welcome to Pinetree Academy! We'll get you inside in a moment."
+"Liam Hale," the man said when the last few players came around the bus. "Welcome to Pinetree Academy! We'll get you inside in a moment."
 
 He gave Mercer an envelope and pointed out the entrance.
 
