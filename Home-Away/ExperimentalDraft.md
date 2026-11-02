@@ -2,107 +2,107 @@
 
 ## Scene 1 - Friday morning training
 
-This is an action breakdown for writing the prose. Actions are chronological. The football sequences specify who has the ball, where the other players are and why each move succeeds or fails.
+### The running is harder than expected
 
-### Starting situation
+1. Open with training already underway, around nine in the morning. Both teams are on the lower pitches. They have left their coats and bottles beside the benches.
 
-- Training begins around nine on the lower sports terrace. The pitches are clear; snow remains beyond the fences. Coats and water bottles are beside the benches.
-- Both squads train together. Hale leads; Mercer watches and helps organize rotations.
-- Friday is the more physically demanding session. Saturday will be shorter and more technical.
-- Begin during the demanding work rather than with waking, breakfast or the full warm-up.
+2. Hale has divided them into small groups. One group passes the ball around while another tries to take it away. Taiga runs toward whoever has it, but they pass before he reaches them, making him turn and chase someone else.
 
-### 1. Repeated efforts begin to catch up with Olympus
+3. They take short breaks between rounds. At first Taiga feels fine. After a few rounds, though, he is still breathing hard when he has to start again. The running itself is familiar; the strange part is how slowly he catches his breath afterward.
 
-1. The players work in small groups on a marked section of the pitch. One group keeps possession; the other presses. After a short work interval, the groups rotate and walk during their recovery.
-2. Taiga's first efforts feel normal. He accelerates to close down the player with the ball, changes direction when it is passed and runs again to close the next receiver.
-3. After several rounds, he reaches the recovery period breathing harder than expected. He walks, expecting his breathing to settle at its usual rate.
-4. The next interval begins while he still feels short of breath. He can make the runs, but recovering between them has become noticeably harder.
-5. Enzo is also struggling. He bends forward after his interval; Mercer tells him to keep walking.
-6. Leo passes Taiga during the recovery walk and makes a brief comment about how flushed he looks. Taiga answers, but neither has breath for a long conversation.
-7. Taiga notices that Pinetree players are working hard too. They are not effortlessly immune to the exercise; they simply seem more ready to go again.
-8. Hale stops the block for water. He acknowledges the difference from Olympus and allows a proper recovery before the next activity.
-9. Aaron watches Milo already chatting while he puts his jacket on. Aaron asks how long adjusting to the altitude takes.
-10. Hale gives a practical, qualified answer: it varies, and they should pace themselves rather than expect their usual recovery immediately. He confirms that tomorrow will involve less running.
+4. Enzo bends over with his hands on his legs. Mercer tells him to keep walking. Leo passes Taiga during the break and jokes about how red his face is. Taiga answers, but neither has enough breath to keep talking.
 
-**Emotional position:** Everyone has found the work difficult. Aaron's question is ordinary and reasonable. His attention to how the hosts are coping is the first small seed of comparison.
+5. Taiga looks at the Pinetree players. They are sweating and breathing hard too, but they seem ready to start again sooner.
 
-### 2. Hale assigns the unfamiliar positions
+6. Hale calls a water break. He reminds Olympus that they are higher up than at home and may need longer to recover. Aaron notices Milo already talking to Skylar and asks how long getting used to it takes. Hale says it varies. He gives them time to rest and says tomorrow will involve less running.
 
-11. After the recovery, Hale organizes mixed teams for short games. Players from both colleges are on each side.
-12. He puts Taiga at right-back and Aaron at right wing on the same team. Normally they work together on the left, with Aaron behind Taiga; now their supporting relationship is reversed.
-13. Milo plays left-back for the opposing side, directly facing Aaron. Skylar plays center-back behind him. Dennis plays striker for that opposing team.
-14. Leo plays a deeper midfield role for Taiga's team, offering passes in front of the center-backs. Gav gets an attacking midfield role. The goalkeepers keep their usual jobs.
-15. A player asks whether joint training will reveal too much before Sunday's match.
-16. Hale explains that the teams are mixed and their jobs are different. They are not practicing their normal match setups. Mercer confirms that Olympus's match preparation remains separate.
-17. Hale explains the exercise's main purpose: understand what the player in the opposite role sees and needs. Tactical secrecy is a secondary benefit.
-18. Players take their places. Keep these teams and roles stable for the following sequences so the reader can follow them.
+### They swap jobs
 
-### 3. Taiga goes forward too soon and has to recover
+7. Hale divides them into mixed teams, with players from both colleges on each side. He gives them jobs they do not normally have.
 
-19. Taiga receives the ball on the right and passes ahead to Aaron.
-20. Aaron attacks Milo. Taiga runs up behind Aaron to offer a return pass, moving before he knows whether Aaron will retain possession.
-21. Milo wins the ball and passes inward to a teammate.
-22. That teammate sends it toward the opposite wing, away from Taiga's side.
-23. Dennis immediately runs toward the space Taiga has left on the right of his defense. Taiga is still ahead of the ball when he recognizes the danger.
-24. Scott sees Dennis's run and calls Taiga back and inward, toward the space between Dennis and the goal.
-25. Taiga turns and sprints back. He has to watch both Dennis and the player preparing the cross on the far side.
-26. The cross arrives before Taiga recovers his position. Dennis reaches it first and gets a shot away. Scott can save it; the important failure is allowing the chance.
-27. Hale stops play briefly. He explains that Taiga committed forward before possession was secure. On losing the ball, his first recovery needs to protect the route to goal.
-28. Taiga accepts the correction, irritated with his mistake. This is a job he understands in principle but has not yet learned to time from this position.
+8. Taiga normally plays farther forward, trying to help score. Today he has to stay farther back on the right and help protect Scott's goal. Aaron normally plays behind Taiga; now Aaron is the one farther forward on that side, trying to get past defenders and send the ball toward the goal.
 
-### 4. Taiga and Aaron misread each other
+9. Milo is on the other team, trying to stop Aaron. Skylar is farther back, protecting their goal. Dennis is trying to score against Scott. Leo plays behind most of Taiga's teammates, where he can receive the ball when they need someone to pass back to. Gav gets to play farther forward. The goalkeepers keep their usual jobs.
 
-29. On another attack, Taiga receives the ball deeper on the right. Aaron starts a run up the touchline.
-30. Taiga prepares to pass into the space ahead of him.
-31. Aaron checks his run and comes short instead, trying to receive at his feet.
-32. Taiga releases the pass before adjusting to that change. The ball goes beyond Aaron.
-33. Milo sees the mismatch and intercepts.
-34. Aaron asks for the ball to his feet. Taiga points out that Aaron had been running forward. Aaron answers that he stopped.
-35. Neither is entirely unreasonable: Taiga read the first movement; Aaron expected him to notice the second.
-36. They exchange a brief, familiar complaint and reset. This is not yet a serious argument.
+10. Someone asks whether training together will let the teams learn too much about each other before Sunday. Hale explains that neither team is playing the way it normally would: the players are mixed together and doing unfamiliar jobs. Mercer will handle Olympus's preparation for the actual match separately.
 
-### 5. Taiga has one useful success
+11. Hale wants them to experience the other player's difficulties. Taiga gets to find out what it is like trying to stop someone who plays the way he usually does. Aaron gets to find out what the player ahead of him needs.
 
-37. During a later attack against them, Taiga checks over his shoulder before following the ball. He sees the run that would otherwise have escaped him.
-38. He stays between the runner and the goal rather than chasing the initial receiver.
-39. When the pass comes toward the runner, Taiga steps across and intercepts.
-40. His first impulse is to drive forward with it. He carries the ball a little too far while looking for a route up the wing.
-41. Leo moves into a supporting position behind and inside him and calls for the return.
-42. Taiga gives him the ball rather than forcing his way through.
-43. Leo switches play toward the other side. Taiga holds his position while the attack continues elsewhere.
-44. Their team eventually gets a shot or a goal. Taiga's contribution is keeping possession and letting someone else progress it, not producing a spectacular attacking run.
+### Taiga runs forward and leaves someone unguarded
 
-**Purpose:** Taiga also struggles and needs help. He manages one adjustment. Avoid making him instantly excellent at defending or presenting Aaron as the only player who cannot learn.
+12. The game starts. Taiga gets the ball and passes it to Aaron, who is farther ahead on the right.
 
-### 6. Aaron succeeds individually, then meets another correction
+13. Aaron tries to get past Milo. Taiga runs forward behind him so Aaron can pass back if he gets stuck.
 
-45. Aaron receives wide on the right with room to face Milo.
-46. He uses a confident body feint to beat him and carries the ball toward the byline. This briefly looks like familiar Aaron: quick, technically capable and pleased to take someone on.
-47. There is an early opportunity to cross while Skylar is still turning toward his own goal.
-48. Aaron takes another touch to improve his position. Skylar recovers and gets between him and the goalmouth.
-49. Aaron crosses. Skylar blocks it.
-50. Hale explains that the first crossing opportunity was better. Aaron says he was trying to get farther past the defender.
-51. Hale clarifies the tradeoff: the extra touch also gave the defense time to recover.
-52. Aaron resets. On the next suitable attack he crosses earlier.
-53. A defender clears the ball. Aaron has followed the advice without getting an immediate reward.
-54. Let the game continue. Aaron swears or looks frustrated, but he remains involved. He can still make a joke or play a useful pass afterward.
+14. Milo takes the ball from Aaron. Taiga is still running forward when Milo passes it to a teammate. The ball is quickly sent across to the other side of the field.
 
-**Emotional position:** Aaron is beginning to work harder for proof that he is doing things correctly. Friday should still leave room for him to recover socially and seek reassurance on the hike.
+15. Dennis runs toward Scott's goal through the area Taiga has left empty. Scott sees him and shouts for Taiga to come back.
 
-### 7. The session winds down
+16. Taiga turns and sprints after Dennis. At the same time, someone on the opposite side kicks the ball across toward them.
 
-55. Hale ends the more demanding games before the players are exhausted. They finish with slower passing and a walking cooldown.
-56. Coats go back on during the quieter work or immediately afterward. Players collect bottles and change out of their boots in the training building.
-57. Taiga notices the accumulated heaviness in his legs when he sits and has to stand again.
-58. Leo passes him the coat he has picked up beside their things. They exchange a brief joke about whether Taiga still likes the mountains.
-59. They head uphill toward lunch with the others.
-60. End with ordinary tired companionship. Their afternoon remains free, including the promised walk with Milo and Skylar.
+17. Dennis gets there before Taiga and shoots. Scott saves it, but Dennis should not have been allowed that much room.
 
-### What this scene leaves for the next one
+18. Hale stops them briefly. He explains that Taiga went forward too soon. Once Aaron lost the ball, Taiga needed to get back between Dennis and the goal instead of leaving Dennis a clear run.
 
-- Everyone has genuinely found the training hard, giving them something honest to complain about together on the hike.
-- Taiga and Aaron have both struggled in unfamiliar positions.
-- Aaron has shown skill as well as difficulty. His frustration has not yet become hostility toward the group.
-- Aaron is paying attention to whether others are struggling as much as he is.
-- Leo and Taiga are comfortable together. Their relationship has not become explicitly defined.
-- Taiga remains at fullback and Aaron at winger for Saturday's technical session. Their usual roles are saved for Sunday.
+19. Taiga is annoyed with himself. He understands the explanation, but remembering to do it while everyone is moving is harder.
+
+### Taiga and Aaron expect different things
+
+20. Later, Taiga has the ball again. Aaron starts running farther ahead along the right side. Taiga prepares to kick the ball into the space Aaron is heading toward.
+
+21. Just before Taiga passes, Aaron stops and comes closer instead. He wants Taiga to send the ball straight to him.
+
+22. Taiga has already started the kick. The ball goes past Aaron, and Milo reaches it first.
+
+23. Aaron complains that he wanted the ball where he was standing. Taiga points out that he had been running. Aaron says he stopped.
+
+24. They complain at each other for a moment, then get back into place. This is still ordinary frustration between teammates. Neither is seriously angry.
+
+### Taiga gets something right
+
+25. During another attack against them, Taiga remembers to look behind him. He sees an opponent trying to run past while he is watching the ball.
+
+26. This time, Taiga follows the runner instead of rushing toward the person holding the ball. When that person passes, Taiga is close enough to step in and take it.
+
+27. He immediately starts running forward with the ball. For a moment, he gets carried away looking for a way through the other team.
+
+28. Leo moves into a clear space a little behind him and calls for the ball.
+
+29. Taiga passes back to Leo instead of trying to get past everyone himself. Leo sends it across to another teammate. Taiga stays back while the others continue toward the goal.
+
+30. His team gets a shot away. Taiga has helped by winning the ball and giving it to someone who could use it, even though he was not the one running toward the goal.
+
+### Aaron does something well, but it still goes wrong
+
+31. Aaron gets the ball with Milo standing in front of him. He moves as if he is going one way, then goes the other, getting past Milo.
+
+32. For a moment, Aaron looks confident again. He runs down the side of the field with the ball. A teammate is waiting near the goal for him to send it across.
+
+33. Aaron could pass now, while Skylar is still turning around. Instead, he runs a little farther, trying to get into a better position.
+
+34. That gives Skylar enough time to catch up. When Aaron finally kicks the ball toward his teammate, Skylar gets in the way and blocks it.
+
+35. Hale tells Aaron he had a better chance to pass a moment earlier. Aaron explains that he was trying to get farther past Skylar. Hale points out that taking longer also gave Skylar time to get in his way.
+
+36. Aaron tries again. On his next chance, he sends the ball across earlier, as Hale asked. This time another defender reaches it and knocks it away.
+
+37. Aaron swears. He has done what the coach asked, but the move still has not worked. The game carries on. He is frustrated, but can still make a joke or do something useful afterward.
+
+### They finish and head for lunch
+
+38. Hale ends the harder games. They do some slower passing, then walk around to cool down.
+
+39. The boys collect their coats and bottles and go inside to change their shoes. Taiga notices how heavy his legs feel when he sits down and then has to stand again.
+
+40. Leo hands him his coat and asks whether he still likes the mountains. Taiga tells him to ask after lunch.
+
+41. They head back uphill with the others. The afternoon is free, and Milo and Skylar are still taking them to the overlook.
+
+### Where everyone stands at the end
+
+- The training has genuinely been hard for everyone. They can complain about it together during the walk.
+- Taiga has made mistakes and needed help too.
+- Aaron has shown that he is talented, but has also found the unfamiliar job frustrating. He is beginning to compare himself with the hosts and wonder whether everyone else struggled as much as he did.
+- Aaron is still good company. The sharpness toward other people develops on Saturday.
+- Leo and Taiga are relaxed and comfortable together.
+- They will keep these unfamiliar jobs for Saturday's lighter session and return to their normal positions on Sunday.
