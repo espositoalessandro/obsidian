@@ -20,9 +20,9 @@ Leo shook his head and took a mouthful of coffee.
 
 By nine, they were on the pitch again.
 
-Hale kept the same mixed teams and unfamiliar positions, but there was no repeat of yesterday's running. They worked through short games, stopping to change players or try a move again.
+Hale mixed the teams again but kept everyone in yesterday's unfamiliar positions. There was no repeat of the running. They worked through short games, stopping to change players or try a move again.
 
-Taiga went back to right-back. Aaron was ahead of him, with Milo waiting on the other side.
+Taiga went back to right-back. Skylar, in the same bib as him, stood beside Jordan in the middle of their defense. Aaron was ahead of Taiga. Across from them, Milo pulled his bib straight while Gav and Jonah argued about where to stand.
 
 Scott rolled the first ball to Jordan.
 
@@ -44,9 +44,9 @@ Aaron reached it and crossed. Theo got a foot to it, but the shot went wide.
 
 He stopped beside the goal, looking at the mark his boot had left.
 
-"That was there," Aaron called.
+"Thought that was going in," Aaron called.
 
-"I know."
+"So did I."
 
 Taiga jogged back. At least he wasn't the only one discovering new ways to miss something obvious.
 
@@ -70,7 +70,9 @@ Gav came over to ask about the run Dennis had made. By the time Hale sent them b
 
 Taiga pulled his sleeves over his wrists and waited for the next ball.
 
-The passing was cleaner than yesterday. He still had to think about where to stand, but sometimes he got there before Scott needed to shout. Once, he saw Jonah start running behind him and moved across early enough to take the pass himself.
+The passing was cleaner than yesterday. Skylar called Taiga's name and sent him the ball. When Jonah came toward him, Taiga gave it back. Skylar passed to Leo and moved again, making himself available while Leo turned.
+
+Taiga still had to think about where to stand, but sometimes he got there before Scott needed to shout. Once, he saw Jonah start running behind him and moved across early enough to take the pass himself.
 
 Then he tried to send it straight across to Enzo.
 
@@ -92,9 +94,9 @@ From beside the goal, Gav called for another ball. Apparently one attempt had on
 
 They changed a few players and started again.
 
-Aaron got past Milo with a quick change of direction. Skylar came across to meet him, and Aaron tried to push the ball between his feet.
+Aaron got past Milo with a quick change of direction. Gav came across to meet him, and Aaron tried to push the ball between his feet.
 
-Skylar closed his legs and took it.
+Gav closed his legs, took the ball and passed it toward Jonah.
 
 "Help me out!" Aaron called.
 
@@ -122,7 +124,7 @@ Enzo raised both arms from the other end.
 
 "You're welcome!"
 
-They stopped for water after the next game. Aaron stood beside Taiga, watching Milo and Skylar exchange their bibs for dry ones.
+They stopped for water after the next game. Aaron stood beside Taiga, watching Milo and Dennis collect dry bibs.
 
 "Do they do this every day?"
 
@@ -152,7 +154,7 @@ Milo paused.
 
 Taiga glanced over. Milo had already gone back to his place.
 
-The next game moved away from them. Skylar lost the ball trying to turn, Theo went straight toward goal, and Nate saved his shot. Gav kept asking for it through the middle until Dennis finally gave him a pass he could reach.
+The next game started with Skylar losing the ball as he tried to turn. Jonah took it and went straight toward Scott, who blocked his shot. Skylar reached the loose ball first and sent it out toward Enzo. Gav kept asking for it through the middle until Dennis finally gave him a pass he could reach.
 
 He shot without stopping it first.
 
