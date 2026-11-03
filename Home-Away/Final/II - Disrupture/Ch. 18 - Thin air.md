@@ -295,32 +295,32 @@ Taiga laughed once. "I can totally agree with that."
 
 ***
 
-On their way back to the common lodge, Leo stopped at his room to bring the laptop.
+On their way back to the common lodge, Leo stopped at his room to get his laptop.
 
-"Someone up for a movie?" He asked. 
+"Anyone up for a movie?" he asked.
 
-They had nothing better to do and they would have spent the whole evening in the common lodge anyways, so Taiga agreed.
+They had nothing better to do and would have spent the whole evening in the common lodge anyway, so Taiga agreed.
 
 "Nah, I want to destroy Aaron's ass at pool again," Enzo said.
 
 Aaron made a face. "I bet that sounded better in your head. Anyway, last time we drew."
 
-"Cool. So this is gonna be the defining match."
+"Cool. So this is gonna be the deciding match."
 
 Gav and Scott agreed to the movie as well.
 
-They suddenly realized that watching a movie in the common room proved basically impossible. People were talking everywhere, someone turned a TV on and the players at the nearest pool table began disputing a shot.
+They suddenly realized that watching a movie in the common room was basically impossible. People were talking everywhere, someone turned a TV on, and the players at the nearest pool table began disputing a shot.
 
 Leo closed the laptop.
 
 "Okay. My room. This is impossible."
 
-They argued about which movie to watch all the way back to the dorm. Gav kept proposing intricate movies, while Taiga wanted something easy, Leo tried proposing a musical and Gav immediately ruled the category out. 
-Leo picked up his phone and browsed through his watchlist. 
+They argued about which movie to watch all the way back to the dorm. Gav kept proposing intricate movies, while Taiga wanted something easy. Leo tried proposing a musical, and Gav immediately ruled the category out.
+Leo picked up his phone and browsed through his watchlist.
 
 "Horror?"
 
-"P-Please no," Scott said.
+"P-Please, no," Scott said.
 
 "Uhh... a comedy?"
 
@@ -330,29 +330,29 @@ Taiga rolled his eyes. "Come on."
 
 Leo considered. "I don't think I'm in the mood for Ghibli right now."
 
-He kept scrolling. 
+He kept scrolling.
 
-"Oh! I know one! How do you feel about a post apocalyptic world with crazy cars, tons of guns and a very nice plot?"
+"Oh! I know one! How do you feel about a post-apocalyptic world with crazy cars, tons of guns and a very nice plot?"
 
 Taiga squinted his eyes. "Continue."
 
-"Well, I haven't seen it yet so I don't know much. There's a desert and uh- cars?"
+"Well, I haven't seen it yet, so I don't know much. There's a desert and uh- cars?"
 
 "You already said that," Gav said. "Anyway, I like the premise."
 
-They agreed right before entering the room. 
+They agreed right before entering the room.
 
-Enzo's pillow occupied most of the bed, with a sweatshirt thrown across it. Leo took a chair and moved in front of his bed, putting the laptop on it. 
-They say with their backs against the wall on the bed. Leo plugged the charger and started the movie, then he climbed up beside Taiga.
+Enzo's pillow occupied most of the bed, with a sweatshirt thrown across it. Leo took a chair and moved it in front of his bed, putting the laptop on it.
+They sat on the bed with their backs against the wall. Leo plugged the charger in and started the movie, then climbed up beside Taiga.
 
 *My name is Max. My world is fire and blood.*
 
 "I already like this," Taiga said.
 
 Leo snorted.
-Shortly after he picked up the biscuits left from the walk and passed them around before putting them between him and Taiga.
+Shortly after, he picked up the biscuits left from the walk and passed them around before putting them between himself and Taiga.
 
-Later on, Gav opened his hands. "What in the name of...?"
+Later on, Gav spread his hands. "What in the name of...?"
 
 Leo's mouth was open. "That's sick. Insanely sick."
 
@@ -362,10 +362,10 @@ Leo's mouth was open. "That's sick. Insanely sick."
 
 Taiga chuckled. "At this point, why not?"
 
-Without looking he reached into the packet between them and found Leo's hand already there. 
-He looked down and pulled his hand automatically. Leo slightly arched his mouth and pushed the last whole biscuit toward Taiga and took the broke pieces for himself. 
+Without looking, he reached into the packet between them and found Leo's hand already there.
+He looked down and automatically pulled his hand back. Leo smiled slightly and pushed the last whole biscuit toward Taiga, taking the broken pieces for himself.
 
-Taiga held the biscuit for a couple of seconds while still looking at him. 
+Taiga held the biscuit for a couple of seconds while still looking at him.
 Again. He felt that strange, warm sensation that somehow put a stupid smile on his face.
 
 "Thanks," he whispered.
@@ -373,22 +373,22 @@ Again. He felt that strange, warm sensation that somehow put a stupid smile on h
 Leo just winked in response. He leaned over the other side of the bed to bin the empty packet and sat back cross-legged.
 
 Taiga glanced at Leo's hand, resting on his thigh merely centimeters away from his own.
-With his heart beating hard, he shifted his hand a centimeters towards Leo's.
-For a moment, the world reduced at the distance between his little finger and Leo's index. 
-Ten centimeters, top. He moved it another bit. Then another. Did Leo just moved his own as well? Taiga moved his hand closer. His heart was beating so hard that Taiga feared Leo could hear it.
-He moved it again. Now he could feel the heat irradiating from Leo's own hand.
+With his heart beating hard, he shifted his hand a centimeter towards Leo's.
+For a moment, the world narrowed to the gap between his little finger and Leo's index finger.
+Ten centimeters, tops. He moved it another bit. Then another. Did Leo just move his own as well? Taiga moved his hand closer. His heart was beating so hard that Taiga feared Leo could hear it.
+He moved it again. Now he could feel the heat radiating from Leo's own hand.
 
 "NO FUCKING WAY!" Gav shouted.
 
 Taiga snapped out of it. Leo was laughing at the movie. He turned toward the screen.
-His heart was still rushing, to the point where he almost had short breath. He pulled his hands back curled his fingers against his thighs.
+His heart was still racing, to the point that he was almost short of breath. He pulled his hands back and curled his fingers against his thighs.
 
 What had gotten into him?
 
 Now the movie was showing porcupine-like cars with steel spikes all around them attacking the convoy.
 Taiga had missed the transition.
 
-Gav stretched in the bed as the credits started. 
+Gav stretched on the bed as the credits started.
 
 "That was insane."
 
@@ -398,27 +398,27 @@ Gav stretched in the bed as the credits started.
 
 Leo nodded. "Totally agree."
 
-Taiga rubbed his eyes. 
+Taiga rubbed his eyes.
 
 "Did you like it?" Leo asked.
 
-"Mh? Yeah. By the premise, I didn't expect it to be that good."
+"Mh? Yeah. Based on the premise, I didn't expect it to be that good."
 
-Gav stood. "We'd better get going though, we're already late for dinner."
+Gav stood. "We'd better get going, though. We're already late for dinner."
 
-Leo looked at the clock. "Shit- right. Go ahead, I'll just tidy up a little and meet you downstairs."
+Leo looked at the clock. "Shit—right. Go ahead, I'll just tidy up a little and meet you downstairs."
 
 Taiga raised an eyebrow. "Can't you do that later?"
 
-"There's crumbs all over my bed!"
+"There are crumbs all over my bed!"
 
 Fair. "Okay. I'll help you, or you'll miss the entire evening."
 
-"Ah-ah."
+"Ha-ha."
 
-"Okay, then we'll wait you downstairs," Gav said before closing the door behind him.
+"Okay, then we'll wait for you downstairs," Gav said before closing the door behind him.
 
-Taiga helped Leo removing all the crumbs from the bed and fix the sheets.
+Taiga helped Leo remove all the crumbs from the bed and straighten the sheets.
 
 "You good?" Leo suddenly asked.
 
@@ -428,9 +428,9 @@ Taiga helped Leo removing all the crumbs from the bed and fix the sheets.
 
 "I was... watching the movie?"
 
-"No I mean- well, nevermind."
+"No, I mean—well, never mind."
 
-Then he closed his laptop and put it in the desk while Taiga put on his coat.
+Then he closed his laptop and put it on the desk while Taiga put on his coat.
 He was halfway through the doorway when Leo called him.
 
 "Taiga, wait."
@@ -448,5 +448,3 @@ He scratched the back of his head.
 Taiga frowned, but said nothing and followed along.
 
 ***
-
-
