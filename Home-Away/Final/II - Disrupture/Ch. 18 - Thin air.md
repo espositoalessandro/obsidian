@@ -294,3 +294,159 @@ Leo stayed beside him. "Oh no, Enzo made it his profile picture."
 Taiga laughed once. "I can totally agree with that."
 
 ***
+
+On their way back to the common lodge, Leo stopped at his room to bring the laptop.
+
+"Someone up for a movie?" He asked. 
+
+They had nothing better to do and they would have spent the whole evening in the common lodge anyways, so Taiga agreed.
+
+"Nah, I want to destroy Aaron's ass at pool again," Enzo said.
+
+Aaron made a face. "I bet that sounded better in your head. Anyway, last time we drew."
+
+"Cool. So this is gonna be the defining match."
+
+Gav, Scott and Evan agreed to the movie as well.
+
+They suddenly realized that watching a movie in the common room proved basically impossible. People were talking everywhere, someone turned a TV on and the players at the nearest pool table began disputing a shot.
+
+Leo closed the laptop.
+
+"Okay. My room. This is impossible."
+
+They argued about which movie to watch all the way back to the dorm. Gav kept proposing intricate movies, while Taiga wanted something easy, Leo tried proposing a musical and Gav immediately ruled the category out. 
+Leo picked up his phone and browsed through his watchlist. 
+
+"Horror?"
+
+"P-Please no," Scott said.
+
+"Uhh... a comedy?"
+
+Taiga rolled his eyes. "Come on."
+
+"How about an anime? Something from Ghibli?" Gav proposed.
+
+Leo considered. "I don't think I'm in the mood for Ghibli right now."
+
+He kept scrolling. 
+
+"Oh! I know one! How do you feel about a post apocalyptic world with crazy cars, tons of guns and a very nice plot?"
+
+Taiga squinted his eyes. "Continue."
+
+"Well, I haven't seen it yet so I don't know much. There's a desert and uh- cars?"
+
+"You already said that," Gav said. "Anyway, I like the premise."
+
+They agreed right before entering the room. 
+
+Enzo's pillow occupied most of the bed, with a sweatshirt thrown across it. Leo took a chair and moved in front of his bed, putting the laptop on it. 
+They say with their backs against the wall on the bed. Leo plugged the charger and started the movie, then he climbed up beside Taiga.
+
+*My name is Max. My world is fire and blood.*
+
+"I already like this," Taiga said.
+
+Leo snorted.
+Shortly after he picked up the biscuits left from the walk and passed them around before putting them between him and Taiga.
+
+Later on, Gav opened his hands. "What in the name of...?"
+
+Leo's mouth was open. "That's sick. Insanely sick."
+
+"Why would they bring a g-guitarist with them?" Scott asked.
+
+"And why does it spit fire?" Gav said.
+
+Taiga chuckled. "At this point, why not?"
+
+Without looking he reached into the packet between them and found Leo's hand already there. 
+He looked down and pulled his hand automatically. Leo slightly arched his mouth and pushed the last whole biscuit toward Taiga and took the broke pieces for himself. 
+
+Taiga held the biscuit for a couple of seconds while still looking at him. 
+Again. He felt that strange, warm sensation that somehow put a stupid smile on his face.
+
+"Thanks," he whispered.
+
+Leo just winked in response. He leaned over the other side of the bed to bin the empty packet and sat back cross-legged.
+
+Taiga glanced at Leo's hand, resting on his thigh merely centimeters away from his own.
+With his heart beating hard, he shifted his hand a centimeters towards Leo's.
+For a moment, the world reduced at the distance between his little finger and Leo's index. 
+Ten centimeters, top. He moved it another bit. Nine. Eight. Did Leo just moved his own as well? Five. Four. His heart was beating so hard that Taiga feared Leo could hear it.
+He moved it again. Now he could feel the heat irradiating from Leo's leg.
+
+"NO FUCKING WAY!" Gav shouted.
+
+Taiga snapped out of it. Leo was laughing at the movie. He turned toward the screen.
+His heart was still rushing, to the point where he almost had short breath. He pulled his hands back curled his fingers against his thighs.
+
+What the heck was he thinking? What had gotten into him?
+
+Now the movie was showing porcupine-like cars with steel spikes all around them attacking the convoy.
+Taiga had missed the transition.
+
+Gav stretched in the bed as the credits started. 
+
+"That was insane."
+
+"B-but it was actually good. D-despite the trash," Scott said.
+
+"I'd say it was good *because* of the trash. It was good trash."
+
+Leo nodded. "Totally agree."
+
+Taiga rubbed his eyes. 
+
+"Did you like it?" Leo asked.
+
+"Mh? Yeah. By the premise, I didn't expect it to be that good."
+
+Gav stood. "We'd better get going though, we're already late for dinner."
+
+Leo looked at the clock. "Shit- right. Go ahead, I'll just tidy up a little and meet you downstairs."
+
+Taiga raised an eyebrow. "Can't you do that later?"
+
+"There's crumbs all over my bed!"
+
+Fair. "Okay. I'll help you, or you'll miss the entire evening."
+
+"Ah-ah."
+
+"Okay, then we'll wait you downstairs," Gav said before closing the door behind him.
+
+Taiga helped Leo removing all the crumbs from the bed and fix the sheets.
+
+"You good?" Leo suddenly asked.
+
+"Me? Yeah, why?"
+
+"Dunno. You were weirdly silent."
+
+"I was... watching the movie?"
+
+"No I mean- well, nevermind."
+
+Then he closed his laptop and put it in the desk while Taiga put on his coat.
+He was halfway through the doorway when Leo called him.
+
+"Taiga, wait."
+
+He turned. "What?"
+
+Leo was still standing in the middle of the room. He looked hesitant.
+
+"I- uh..."
+
+He scratched the back of his head.
+
+"No, nothing. Let's go before we miss the entire dinner."
+
+Taiga frowned, but said nothing and followed along.
+
+***
+
+
