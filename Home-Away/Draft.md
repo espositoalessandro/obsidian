@@ -1,14 +1,54 @@
 ### Chapter 18 - Fault Line
 
-Scott caught Leo's cue before he could take another shot.
+They settled on a game of pool after dinner.
 
-"Your hand's moving."
+One of the tables in the common lodge was free. Leo went to get the cues while Enzo collected the balls, leaving Taiga to work out how the triangle came off without disturbing everything inside it.
 
-Leo looked down. "Which one?"
+"Who's first?" Enzo asked.
 
-"The one on the table. Here."
+Scott glanced around. "I can."
 
-They'd come to the common lodge after dinner. Enzo and Evan occupied the nearest couch, Aaron was choosing a cue, and Taiga had already missed a ball sitting close enough to the pocket that he could have blown it in.
+Enzo broke. Nothing went in.
+
+Scott took his time choosing a shot. He bent over, shifted his hand a little and sent a solid into the corner pocket.
+
+Then another into the side.
+
+Taiga watched him walk around the table. The white had stopped close to his next ball, leaving him a shot that looked almost embarrassingly easy.
+
+That went in too.
+
+Leo lowered the spare cue he'd been turning in his hands.
+
+"Wait. You're actually good."
+
+Scott looked up, then down at the table.
+
+"I've played before."
+
+Enzo leaned against the wall. "Yeah, that's becoming clear."
+
+He got a few turns, enough to put three stripes away. Scott left himself awkwardly stretched across the table once and missed, but the next time Enzo let him back in, he finished the game.
+
+When the black dropped, Taiga looked at the stripes still on the cloth.
+
+Scott straightened and pushed his hair back.
+
+Leo was already stepping forward.
+
+"Okay, show me how you're holding that. Mine keeps going sideways."
+
+He put a ball near the side pocket and tried the shot himself. It missed by considerably more than Taiga had expected.
+
+Scott nodded toward his hand.
+
+"That one's moving. Keep it still."
+
+"The whole hand?"
+
+"Here. I'll show you."
+
+Enzo joined Evan on the nearest couch. Aaron was still choosing a cue.
 
 Scott put his own cue down and spread his hand on the cloth.
 
@@ -39,24 +79,6 @@ Scott reached for a spare cue and showed him. Taiga loosened his grip.
 He hit the white. It struck the blue ball, which rolled toward the side pocket and dropped.
 
 Oh.
-
-Leo straightened immediately. "Wait, I want another try."
-
-"You've been trying."
-
-"Yeah, and now I know what I'm doing."
-
-Scott retrieved the blue and put it back. Leo leaned over, took his time and missed.
-
-Enzo covered his mouth, badly hiding a smile.
-
-"Shut up. I'm learning."
-
-"I can see that."
-
-Taiga took the cue Leo held out to him. He tried the same shot again and missed too.
-
-This time Enzo actually laughed.
 
 They practiced until Scott suggested starting a game. He gathered the balls into the triangle while Leo chalked his cue with considerably more attention than he'd given it before.
 
@@ -89,12 +111,6 @@ Leo nodded solemnly, then missed the next one.
 Taiga's first solid went in. The second hit the edge of the pocket and stopped there.
 
 "Fuck."
-
-"That's good for later," Scott said.
-
-Taiga glanced at him. "It was supposed to be good now."
-
-Scott's mouth twitched.
 
 Aaron and Evan took over the neighboring table when it became free. Enzo carried his drink across to watch them, leaving Gav in his place on the couch.
 
