@@ -375,15 +375,15 @@ Leo just winked in response. He leaned over the other side of the bed to bin the
 Taiga glanced at Leo's hand, resting on his thigh merely centimeters away from his own.
 With his heart beating hard, he shifted his hand a centimeters towards Leo's.
 For a moment, the world reduced at the distance between his little finger and Leo's index. 
-Ten centimeters, top. He moved it another bit. Nine. Eight. Did Leo just moved his own as well? Five. Four. His heart was beating so hard that Taiga feared Leo could hear it.
-He moved it again. Now he could feel the heat irradiating from Leo's leg.
+Ten centimeters, top. He moved it another bit. Then another. Did Leo just moved his own as well? Taiga moved his hand closer. His heart was beating so hard that Taiga feared Leo could hear it.
+He moved it again. Now he could feel the heat irradiating from Leo's own hand.
 
 "NO FUCKING WAY!" Gav shouted.
 
 Taiga snapped out of it. Leo was laughing at the movie. He turned toward the screen.
 His heart was still rushing, to the point where he almost had short breath. He pulled his hands back curled his fingers against his thighs.
 
-What the heck was he thinking? What had gotten into him?
+What had gotten into him?
 
 Now the movie was showing porcupine-like cars with steel spikes all around them attacking the convoy.
 Taiga had missed the transition.
