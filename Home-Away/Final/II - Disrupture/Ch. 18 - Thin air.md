@@ -139,3 +139,158 @@ Taiga took it.
 "Ask me after lunch."
 
 ***
+
+They met Milo and Skylar on the upper road after eating. Luckily Enzo had actually brought proper boots this time. 
+He still complained.
+
+"Are there many stairs?" he asked.
+
+"It's a trail," Skylar said.
+
+"That doesn't answer the question."
+
+Milo turned around, walking backward for a few steps.
+
+"It's easy! Twenty minutes, maybe a little more."
+
+"Take your time," Evan said. "We're not doing the morning again."
+
+Aaron made a noise at that.
+
+"Was that actually hard for everyone, or does the mountain hate me personally?"
+
+"Both can be true," Enzo said.
+
+"Fuck you."
+
+"I thought I was gonna die."
+
+Leo laughed. "I kept thinking the next break would fix it. Then we'd start again and, nope, still dying."
+
+Taiga stepped around a patch of ice.
+
+"The first few were fine."
+
+"Exactly!" Aaron pointed at him. "Then suddenly I couldn't get enough air. Same fucking run."
+
+"Yep," Evan said. "Had to slow down."
+
+Aaron tugged his gloves on properly.
+
+"And the positions?"
+
+"Oh, that was terrible," Leo said cheerfully. "I kept following people too far. Hale had to come and put me back where I belonged like... four times I think?"
+
+"Heh... G-Gav nearly scored twice," Scott said.
+
+Gav glanced over. "Nearly. You got in my way."
+
+"You looked extremely happy about it," Enzo said.
+
+"I was!"
+
+Taiga could believe that. Gav had been demanding the ball with an enthusiasm he usually reserved for explaining things nobody had asked about.
+
+Aaron walked beside them for a little while, boots crunching through the packed snow.
+
+"I kept looking for someone behind me. Like I'd forgotten where I'd left myself."
+
+Taiga laughed. "I was there."
+
+"Well, that explains why I couldn't find you."
+
+"You spent half the time running away."
+
+"I'm supposed to! I'm a winger now."
+
+"Is that what it looks like from where you usually are?"
+
+Aaron considered. "Pretty much, yeah."
+
+Taiga laughed and shoved him from behind. "Fuck off."
+
+That got Leo started on the space people left when they moved. He tried to explain one passage of play with both hands, then had to stop when the path narrowed.
+
+Aaron listened. "So you found that confusing too?"
+
+"Yeah! It was like... you know when you take the same road for years, then one day you take it backward and it doesn't look like the same road anymore? That!"
+
+"Yeah... I still don't see the point of that, though."
+
+"I guess it's too early," Evan said. "I believe tomorrow will be easier once we have enough time to digest today."
+
+"...I hope."
+
+Aaron's shoulders had come down a little.
+
+Shortly after, another slope appeared in front of them.
+
+Enzo groaned. "No fucking way..."
+
+"Want me to carry you?" Aaron said.
+
+"Bridal style only," Enzo specified.
+
+"Changed my mind."
+
+The conversation stretched out along the trail. Gav stopped at a junction to ask Milo about the longer route marked on the sign. Skylar claimed that Milo had photographed every sign on campus and still couldn't give directions.
+
+"I know where things are!"
+
+"You called me from behind the gym."
+
+"Because the door was locked!"
+
+They caught up with Evan and Scott at the next bend. The trees opened ahead of them, and a wooden railing appeared beyond the last trunks.
+
+The valley lay below in long strips of white and dark green. He could pick out their lodge, the library roof, the two pitches on the lower terrace. A car moved along the road so slowly that he watched it until it disappeared behind the trees.
+
+"Okay," Enzo said behind him. "Worth it."
+
+"Could you put that in writing?" Milo said.
+
+"No, if you ask me later at campus I'll deny everything."
+
+For a while, everyone took pictures. Taiga sent one of the valley to the Camp Buddy chat. Leo came to stand beside him and held his phone over the railing.
+
+The wind caught his hair. He gave up trying to get it out of his face and turned toward Taiga.
+
+"Could you take one of me?"
+
+Taiga took his phone and went backward. Leo leaned against the railing, still trying to fix his hair, and laughed when it blew loose again.
+
+"God, it's hopeless isn't th-"
+
+Taiga took the picture then.
+
+"Hey, wait! I wasn't ready."
+
+"That makes it better."
+
+Leo came to check. He looked pretty natural, smiling and adjusting his hair without looking at the camera.
+
+"Woah I look dope in here! Did Keitaro taught you that?"
+
+"Maybe."
+
+"Okay, now step in. Come on!"
+
+Taiga made a face and went beside him near the rail. Leo held out his own phone, and Taiga leaned in far enough to fit. The photograph caught Enzo directly behind them, looking into the camera with his mouth half open.
+
+Leo checked the screen and started laughing.
+
+Enzo came over. "Send me that immediately."
+
+They took a proper group one before leaving. Milo set the timer and hurried back, squeezing between Skylar and Gav at the last second.
+
+On the way down, Aaron walked ahead with Evan. Taiga could hear them arguing about whether the first exercise or the last game had been worse.
+
+Leo stayed beside him. "Oh no, Enzo made it his profile picture."
+
+"Of course he did."
+
+"It captured my essence" Enzo said from behind them.
+
+Taiga laughed once. "On that, I could totally agree."
+
+***
