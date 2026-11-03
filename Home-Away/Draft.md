@@ -1,34 +1,10 @@
 ### Chapter 18 - Fault Line
 
-Taiga put away a solid on his first try, then spent the next few turns wishing he'd left the white somewhere else.
+"You and me, then," Aaron said to Taiga. He nodded toward Leo and Scott. "They've got stripes."
 
-Leo wasn't doing much better. Once, he bent so far across the table that Taiga had to catch his sleeve before it brushed a striped ball.
+Leo glanced at Scott. "Take turns each time it comes back to our team?"
 
-"Your shirt."
-
-"Oh. Thanks."
-
-He pulled it up and tried again. The ball went in.
-
-Leo looked over his shoulder at him, grinning. Taiga let go.
-
-Their game took long enough that Enzo and Evan finished theirs before either of them reached the black. Scott stayed nearby, answering when they asked him something. Aaron waited with his cue resting against his shoulder.
-
-Eventually, Leo won. He needed two attempts at the black, but Taiga had needed three and still hadn't got it in.
-
-"Again later," Leo said immediately.
-
-Taiga handed his cue to Aaron. "Yeah."
-
-Aaron turned toward Scott.
-
-"You and me?"
-
-Scott nodded and began collecting the balls.
-
-Leo joined Taiga on the couch. From there they could watch both tables, although Enzo was making it difficult to hear anything happening at theirs.
-
-Scott broke without putting anything in.
+Scott nodded. "You keep going if you pot one."
 
 Aaron walked around the table, bent down and sent a solid into the corner. He moved straight to the next one.
 
@@ -36,15 +12,39 @@ It caught the edge of the side pocket and rolled away.
 
 "Tch. Almost."
 
-He stepped back. Scott put away a stripe, then missed a longer shot near the cushion.
+He stepped back. Scott put away two stripes before missing a longer shot near the cushion.
+
+Taiga took over from Aaron. His first solid went in, but the white kept rolling until it stopped against the far cushion.
+
+Fuck. Now he could barely reach it.
+
+He tried anyway. The next solid went nowhere near the pocket.
+
+Leo came around beside him, looking at the awkward position he'd left himself in.
+
+"Want me to move the table closer?"
+
+Taiga straightened. "Play."
+
+Leo laughed and bent over. His sleeve slid toward a ball, and Taiga caught it before it touched.
+
+"Your shirt."
+
+"Oh. Thanks."
+
+He pulled it up and tried again. The stripe went in.
+
+Leo looked over his shoulder at him, grinning. Taiga let go.
+
+He missed the next one.
 
 Aaron's next solid was practically in front of him. He potted it cleanly.
 
 "Thank you," he said, watching it drop.
 
-The next shot needed more of an angle. Aaron crouched to look along the table, stood up and chalked his cue.
+The following shot needed more of an angle. Aaron crouched to look along the table, stood up and chalked his cue.
 
-He hit it hard enough that Taiga heard the crack over Enzo's voice.
+He hit it hard enough that Taiga heard the crack over Enzo's voice at the neighboring table.
 
 The solid struck the cushion beside the pocket and came back.
 
@@ -52,35 +52,41 @@ Aaron stayed bent over, following it with his eyes.
 
 "How the fuck did that not go in?"
 
-Leo leaned forward to check where it had stopped. Taiga shifted his knee out of the way, then let it rest against Leo's when he sat back.
+He straightened and walked to the other end to look at it again.
 
-Scott took his turn. The first stripe went in. So did the second. Before the third, he paused and walked around to check from the other side.
+Scott waited until he'd moved aside.
+
+His first stripe dropped into the corner. He sent the next into the side pocket, then paused to look at their last one, near the far cushion.
 
 Aaron tapped the bottom of his cue against the floor.
 
-Scott missed that one. The stripe stopped near the middle pocket, leaving the white close to one of Aaron's solids.
+Scott missed. The stripe stopped beside the pocket instead.
 
-Aaron came forward before Scott had quite moved out of the way.
+Taiga stepped forward for their turn. One of the solids lay almost straight in front of him. He took his time, loosened his grip the way Scott had shown him and potted it.
 
-He lined up, shifted his feet and drew the cue back.
+Leo watched from the other side.
 
-The solid skimmed past the pocket.
+"Okay, that's getting worrying."
 
-"Fuck."
+Taiga smiled down at the table.
 
-He straightened abruptly and turned to look at it from the other end.
+The next one was harder. He missed, but at least the white went where he'd wanted it to.
 
-There had been a fairly clear gap between it and the pocket. Taiga could see it from the couch. Aaron bent to inspect the cushion anyway, running his thumb along the edge.
+Leo approached their last stripe, checked the angle and bent down. It looked simple enough from where Taiga was standing.
 
-Scott waited.
+He hit it into the edge of the pocket.
 
-Aaron came back around the table, rubbing the tip of his cue with the chalk. Some blue dust fell onto the cloth.
+"Oh, you bastard."
 
-Scott potted another stripe. This time he left himself tucked behind one of the solids and couldn't get his next shot in.
+It rolled away and left the white close to one of Aaron's solids.
 
-Aaron put the chalk down.
+Aaron came forward before Leo had quite moved out of the way.
 
-He took longer setting himself up now. Twice he started to lower the cue, then stood and looked at the pocket again.
+He lined up, shifted his feet and lowered the cue. Then he stood again to check from the other side.
+
+Taiga waited beside the wall. There was a fairly clear path to the pocket. Aaron bent to inspect the cushion anyway, running his thumb along the edge.
+
+He came back around the table and chalked his cue. Some blue dust fell onto the cloth.
 
 When he finally hit the white, he was already lifting his head to watch.
 
@@ -106,19 +112,33 @@ Aaron looked down at the ball.
 
 Scott moved toward the table. Aaron stepped aside and stayed there, gripping his cue with both hands.
 
-Taiga rubbed his thumb against the seam of the couch. For a moment, he considered saying something. Then Leo shifted beside him and asked quietly whether he wanted a drink.
+Taiga rubbed his thumb along his own cue. For a moment, he considered saying something. Then Scott bent over the table, and he looked back at the game.
 
-"Yeah. Whatever you're having."
+The last stripe went in.
 
-Leo got up.
+Scott took his time with the black. Leo watched from the other end, both hands clasped around the top of his cue.
 
-Scott finished the game a few turns later. Aaron still had three solids left.
+The black dropped.
+
+Leo let out a breath and held his palm up. Scott looked at it for a second, then gave him a slightly awkward high five.
+
+They'd left Taiga and Aaron with three solids.
 
 "Good game," Scott said.
 
 Aaron nodded without looking at him. He put his cue back on the rack and took out his phone.
 
-By the time Leo returned with their drinks, Aaron was heading toward the entrance.
+Taiga returned his own cue.
+
+"Rematch later," Leo said as he came around the table.
+
+"Yeah."
+
+"Want a drink?"
+
+"Whatever you're having."
+
+Leo went to get them. Aaron was already heading toward the entrance.
 
 Milo and Skylar arrived shortly afterward. Skylar looked at the cleared table, then at Scott.
 
