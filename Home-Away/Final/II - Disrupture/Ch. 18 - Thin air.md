@@ -69,16 +69,16 @@ Mercer gave Hale a list of the Olympus players and their positions. Hale called 
 
 Taiga took his position behind Aaron, who was now playing as a right winger. Leo stepped awkwardly into a position farther back in midfield.
 
-Milo was in the other team, playing as a left fullback. "Looks like we're still against each other!"
+Milo was on the other team, playing as a left fullback. "Looks like we're still against each other!"
 
 Aaron smiled nervously. "Yeah, apparently."
 
-When the game started, Taiga felt the same as when he was first starting in organized soccer. Positions were making sense, until suddenly they didn't anymore.
+When the game started, Taiga felt the same as when he first started playing organized soccer. Positions made sense until suddenly they didn't anymore.
 
-Taiga received and passed to Aaron and immediately ran toward him so he could bass back. 
+Taiga received the ball, passed it to Aaron and immediately ran toward him so Aaron could pass back.
 Instead, Aaron tried to beat Milo but failed.
 
-Scott shouted "TAIGA, INSIDE!"
+Scott shouted, "TAIGA, INSIDE!"
 
 Taiga turned and sprinted back. Fuck, too late. Milo had already passed to Dennis, who was running into the space Taiga had left behind.
 
@@ -86,13 +86,13 @@ Taiga chased him toward the goal, but Dennis shot before he could catch up. Luck
 
 Hale whistled. "Akatora, your goal is behind you. Before trying to support Bennett here, make sure you don't leave empty spaces."
 
-Taiga exhaled. "Right." And he jogged back into position. 
+Taiga exhaled. "Right." And he jogged back into position.
 
 "Okay, again."
 
 Shortly after, he had the ball again. He looked up and saw Aaron running farther ahead along the right side, so he prepared to kick the ball into that space.
 
-Right before he made the pass, he saw Aaron stopping and coming closer instead. Too late. He sent the ball ahead of him and got intercepted by Milo.
+Right before he made the pass, he saw Aaron stopping and coming closer instead. Too late. He sent the ball ahead of Aaron, and Milo intercepted it.
 
 Aaron pointed at his feet with both hands. "Why?"
 
@@ -104,15 +104,15 @@ Taiga spread his hands. "You changed direction at the last second."
 
 "Then look up first!"
 
-He was about to answer when Hale called for reset again.
-For the rest of the game, Taiga kept catching himself watching the ball while someone moved behind him. Scott's voice followed him everywhere. 
+He was about to answer when Hale called for another reset.
+For the rest of the game, Taiga kept catching himself watching the ball while someone moved behind him. Scott's voice followed him everywhere.
 Once, he managed to steal it cleanly and immediately started forward. Then he checked himself and looked for someone to pass to. Leo was raising his hand a little behind him.
 
 "Back," Leo called.
 
 Taiga gave it to him. Leo sent the ball toward the other side, and they managed to score shortly after.
 
-Recover between resets took longer than it used to at Olympus. Often, Taiga was still panting heavily when they restarted.
+Recovering between plays took longer than it used to at Olympus. Often, Taiga was still panting heavily when they restarted.
 
 Aaron did better when he had room to run. He beat Milo once with a feint Taiga recognized from training at home, then drove a cross straight into Skylar's legs.
 
@@ -128,7 +128,7 @@ The next cross came early. Dennis had come back to help defend and cleared it wi
 
 Aaron swore.
 
-They finished before noon with a slower passing exercise and a walk around the pitch. When Hale dismissed them, he sat on the bench and drank some water before heading in the locker room.
+They finished before noon with a slower passing exercise and a walk around the pitch. When Hale dismissed them, Taiga sat on the bench and drank some water before heading to the locker room.
 
 Leo stood beside him, holding his coat out.
 
