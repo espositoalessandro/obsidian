@@ -213,345 +213,209 @@ Aaron opened the door for them, then caught up with Evan.
 Taiga went inside behind Leo, who was trying to explain to Scott where Gav should have aimed.
 ***
 
-Scott put the cue down before Leo could take another shot.
+Scott caught Leo's cue before he could take another shot.
 
 "Your hand's moving."
 
-"Most of me is moving. I'm playing pool."
+Leo looked down. "Which one?"
 
-"No, I mean... here."
+"The one on the table. Here."
 
-He indicated the hand Leo had planted on the cloth.
+They'd come to the common lodge after lunch. Enzo and Evan occupied the nearest couch, Aaron was choosing a cue, and Taiga had already missed a ball sitting close enough to the pocket that he could have blown it in.
 
-They'd come to the common lodge after lunch. Now Enzo and Evan occupied the nearest couch, Aaron stood beside the scoreboard, and Taiga had discovered that knowing where a ball needed to go didn't necessarily help him send it there.
+Scott put his own cue down and spread his hand on the cloth.
 
-Scott, unfortunately, could.
+"Keep this flat. Then lift your thumb a little."
 
-He stood on the other side of the table and showed Leo how to make a bridge with his hand. His fingers stayed still while the cue moved through them.
+Leo copied him. Scott showed him where the cue should rest, then stepped aside.
 
-"Let that guide it. You don't have to push with both hands."
+"Try moving it without hitting anything."
 
-Leo tried.
+"Oh. Okay, that's much better."
 
-The ball rolled past the pocket.
+Taiga watched the cue slide back and forth. He'd been gripping his own so tightly that his fingers were starting to hurt.
 
-"Closer," Scott said.
+Scott came around to him next.
 
-"See? Improvement!"
+"Can I see?"
 
-Taiga waited until he moved, then lined up his own shot.
+Taiga bent over the table.
 
-"You're hitting it too hard too," Scott told him.
+"Relax this hand a bit."
 
-"I haven't hit it yet."
+"If I relax it any more, I'll drop it."
 
-"You did last time."
+Scott reached for a spare cue and showed him. Taiga loosened his grip.
 
-Evan laughed from the couch.
+"Like that. Just keep it straight."
 
-Taiga adjusted, drew the cue back and sent the ball into the side pocket.
+He hit the white. It struck the blue ball, which rolled toward the side pocket and dropped.
 
 Oh.
 
-"Again," Leo said immediately.
+Leo straightened immediately. "Wait, I want another try."
 
-"Wait for your turn."
+"You've been trying."
 
-"I meant you. Do it again."
+"Yeah, and now I know what I'm doing."
 
-Taiga missed.
+Scott retrieved the blue and put it back. Leo leaned over, took his time and missed.
 
-Leo enjoyed that considerably.
+Enzo covered his mouth, badly hiding a smile.
 
-Once Scott had reminded them which balls belonged to whom and why the black had to wait, they played a proper game. He answered questions without looking as though he wanted to disappear. Sometimes he walked around the table to check an angle, then came back and showed them what he'd seen.
+"Shut up. I'm learning."
 
-Leo asked him to demonstrate one shot.
+"I can see that."
 
-Scott potted the ball.
+Taiga took the cue Leo held out to him. He tried the same shot again and missed too.
 
-"Okay, that's annoying."
+This time Enzo actually laughed.
 
-"S-sorry."
+They practiced until Scott suggested starting a game. He gathered the balls into the triangle while Leo chalked his cue with considerably more attention than he'd given it before.
 
-"No, good annoying! Do it again."
+"Solids or stripes," Scott explained. "Once you've got yours in, you go for the black. Leave that alone until then."
 
-Aaron played next against Evan. He got his first two balls down, celebrated the second with a little bow, then missed one near the corner.
+"And if the white goes in?" Taiga asked.
 
-"Same thing," Evan said. "Keep that hand—"
+"That's a foul. Your opponent gets to put it where they want."
 
-"I know how to hold a stick."
+Leo looked at the table. "Anywhere?"
 
-Evan stopped with his drink halfway to his mouth.
+"Anywhere on the table."
 
-"Alright."
+"That's evil. Okay."
 
-Aaron reset the ball for practice and missed again.
+Taiga broke. Nothing went in.
 
-"Bit less force," Scott offered.
+Leo walked around the table twice before choosing a shot. He bent down, stood up again and checked from the other side.
+
+"Are you playing?" Taiga asked.
+
+"I'm deciding. There's a difference."
+
+He finally potted a striped ball and looked so pleased that Taiga almost laughed.
+
+"Stripes, then," Scott said.
+
+Leo nodded solemnly, then missed the next one.
+
+Taiga's first solid went in. The second hit the edge of the pocket and stopped there.
+
+"Fuck."
+
+"That's good for later," Scott said.
+
+Taiga glanced at him. "It was supposed to be good now."
+
+Scott's mouth twitched.
+
+Aaron and Evan took over the neighboring table when it became free. Enzo carried his drink across to watch them, leaving Gav in his place on the couch.
+
+Their own game took considerably longer than Taiga had expected. He could see the shot he wanted, but the white kept ending up somewhere useless afterward. Scott came over once and pointed out where it would probably stop.
+
+Taiga followed the line with his eyes.
+
+"So I need to hit it less hard."
+
+"For that one, yeah."
+
+He tried. The ball went in, and the white stayed close enough to his next solid that he didn't have to stretch across the table.
+
+Leo leaned against his cue.
+
+"Can I borrow you when it's my turn?"
+
+Scott looked between them. "I can help both of you."
+
+"No, you're helping him now," Taiga said.
+
+Leo laughed. "Listen to you! Two balls in and suddenly we have transfer negotiations."
+
+At the other table, Aaron potted his second ball and gave Enzo a little bow.
+
+Then he missed one near the corner.
+
+Scott glanced across.
+
+"You're lifting up before you—"
 
 "Can I take one fucking shot without somebody teaching me?"
 
-Scott stepped back.
+Scott stopped.
 
-Taiga turned toward Aaron.
+Aaron stayed bent over the table for a moment, looking at the ball he'd missed. Then he straightened.
 
-"He was helping."
+Evan picked up his cue. "My turn."
 
-"Didn't ask."
+Taiga looked across. Enzo had put his drink down and was watching Aaron, who moved aside without answering.
 
-"Okay," Evan said, putting his glass down. "My turn."
+Beside Taiga, Leo lowered his voice.
 
-The game continued. Taiga leaned his cue against the wall and sat beside Leo, who had started drawing a diagram of a shot on a napkin.
+"Is that one mine?"
 
-It was extremely bad.
+He pointed at the striped ball near the cushion.
 
-"That's not where the pocket is."
+Taiga turned back. "Yeah."
 
-"I know where the pocket is."
+"Right. Almost forgot what I was doing."
 
-"Doesn't look like it."
+Scott stayed to watch. When Leo asked how to reach it without knocking another ball, he came around and showed him where to stand.
 
-Leo added another line, considered the result and folded the napkin over.
+By the time they reached the black, Taiga's lower back hurt from bending over. Leo still had one stripe left. Taiga lined up the black, changed his mind, tried from the other side and missed.
 
-"Rematch later."
+Leo sucked in a breath.
 
-Taiga took the pen from him and drew the table properly.
+"Okay. Okay, I can do this."
+
+He potted the stripe.
+
+Gav sat forward on the couch.
+
+Leo walked around to the black, bent down and paused.
+
+"That corner," he said, pointing.
+
+He hit it.
+
+The black dropped. The white kept rolling toward another pocket.
+
+Leo's mouth fell open.
+
+It caught the edge, rattled and stayed out.
+
+For a second, neither of them moved.
+
+Then Leo raised both arms.
+
+"YES! Holy shit, did you see that?"
+
+Taiga stared at the white.
+
+"That was luck."
+
+"Some of it! The important bit was skill."
+
+Scott was laughing behind his hand.
+
+Leo came around the table and held his palm up. Taiga slapped it harder than necessary.
+
+"Rematch."
+
+"Absolutely."
+
+They were still arguing about the last shot when Milo and Skylar arrived to find out whether anyone wanted coffee.
 
 ***
 
-Gav caught them after dinner with a folder under his arm.
+After dinner, they went back to the lodge. Scott played Skylar while Taiga and Leo watched from the couch, knees touching whenever one of them shifted. Gav came over halfway through and stayed for the finish.
 
-"Are you doing anything tonight?"
+Scott won with a shot off the cushion that Taiga wouldn't even have considered trying.
 
-Leo leaned toward it.
+Skylar put his cue away and opened the back door a crack.
 
-"What've you got?"
+"Anyone coming out? They've got the fire going."
 
-"A short adventure. I've run it before. I printed the characters this afternoon."
-
-Taiga recognized enough of the sheet at the front to become suspicious.
-
-"No."
-
-"You haven't heard what it is."
-
-"D&D."
-
-Gav smiled.
-
-"Then you know enough."
-
-Milo arrived while Gav was explaining that they wouldn't have to make characters from scratch. Skylar came to find him and stayed to inspect the dice. Leo wanted to know whether he could use magic.
-
-"Yes."
-
-"I'm in."
-
-Aaron had stopped beside Evan near the doorway. Gav turned toward him.
-
-"You too? We've got room."
-
-"Not really my thing."
-
-"You could try it. It's only a couple of hours, and you don't have to know—"
-
-"I said no, Gav. What part wasn't clear?"
-
-Gav's folder lowered a little.
-
-"Okay."
-
-Aaron took out his phone and walked toward the entrance.
-
-Taiga almost called him back. It was a fucking invitation.
-
-Then Leo touched the edge of the sheet Gav had given him.
-
-"Wait. Can I actually do this?"
-
-Gav immediately started explaining.
-
-Taiga stayed.
-
-They took a table in a quieter side room, leaving the door open to the rest of the lodge. Gav put four characters in the middle. Taiga chose the one with a sword because he could understand what most of the words meant.
-
-Milo took the ranger. Skylar chose the rogue, then began reading the equipment list with interest.
-
-Leo had a wizard.
-
-"Can I set things on fire?"
-
-"Yes. Look, here. And this one works differently, so you could—"
-
-"Awesome."
-
-Gav came around to show him. Taiga went back to his own sheet while Leo asked whether he could do both at once.
-
-Eventually, Gav opened his notes.
-
-They had been hired to recover an innkeeper's money. The thieves were using an abandoned mill outside the village. There were two men on watch, a dog near the entrance and, according to Milo's first successful roll, another way in through an upstairs window.
-
-Skylar immediately volunteered.
-
-Three minutes later, his character was hanging from the window ledge.
-
-"How?"
-
-"You slipped," Gav said.
-
-"I got to the window."
-
-"Then you slipped."
-
-Milo laughed so hard he had to put his sheet down.
-
-Taiga leaned forward.
-
-"Can I get underneath him?"
-
-"You can."
-
-"Then I do that."
-
-"To catch him?"
-
-"To stop him making a fucking noise."
-
-Leo pushed a die toward him.
-
-"Here. This one."
-
-Taiga rolled.
-
-Gav checked something.
-
-"You catch him. But the dog heard you."
-
-"Great," Skylar said, straightening his sheet.
-
-Milo had rations. He wanted to offer the dog some.
-
-Gav asked him to roll, then began describing how the dog approached.
-
-"Does it take the food?" Milo asked.
-
-"Yes."
-
-"Cool. I give it more."
-
-"You've got a limited amount."
-
-"Oh, come on. Look at him."
-
-"He's imaginary," Skylar said.
-
-"Still hungry!"
-
-They got around to the front. Leo could make a noise somewhere he wasn't, which led to five minutes of increasingly unhelpful suggestions.
-
-Taiga put his finger on the rough map Gav had drawn.
-
-"Make someone shout from over there."
-
-"What?"
-
-"Anything. Get them away from the door."
-
-Leo considered that.
-
-Then he turned to Gav and, in a voice so pompous Taiga barely recognized it, announced that the mill was being inspected for unpaid taxes.
-
-Milo folded over the table.
-
-Skylar covered his face.
-
-Gav, after a brief struggle with his own mouth, answered as one of the men.
-
-The inspection became an argument about who owned the building. While Leo improvised increasingly implausible paperwork, Taiga and Skylar got inside.
-
-The locked chest was upstairs.
-
-Skylar tried the lock.
-
-This time he rolled well. He looked delighted until Gav reminded him that the chest still had to leave the building.
-
-"It's not that big," Taiga said.
-
-"It's full of coins."
-
-"Then help me."
-
-They got halfway down the stairs before one of the thieves returned.
-
-Leo's wizard was outside. Milo was still negotiating with the dog.
-
-Taiga checked his sheet, found nothing useful and asked whether there were sacks in the mill.
-
-"Yes."
-
-"Flour?"
-
-Gav paused.
-
-"It's an old mill."
-
-"So?"
-
-"Some flour."
-
-Taiga grinned.
-
-He dropped his sword, picked up a sack and threw it at the man coming up the stairs.
-
-The roll was good enough for Gav to describe a white cloud filling the stairwell. Skylar stole the man's keys while he was coughing.
-
-"Why?" Leo asked.
-
-"In case we need his house."
-
-"Focus," Taiga said.
-
-They escaped out the back, cracking a corner of the chest as they hauled it over the low wall. Leo's wizard joined them after using another spell, and Milo arrived with the dog.
-
-Gav looked at him.
-
-"You brought it?"
-
-"It followed."
-
-"You kept feeding it."
-
-"Yeah. It followed."
-
-By then they'd been playing for nearly two hours. There had been a fight, a disastrous attempt to lie to the innkeeper about the broken chest, and a long discussion about who was responsible for buying dog food.
-
-Taiga had barely noticed the people moving past the open door.
-
-When Gav closed his notes, Leo turned toward him, still smiling.
-
-"The flour."
-
-"You were taking too long."
-
-"I was doing the taxes!"
-
-Taiga laughed. Leo bumped his shoulder against him.
-
-Across the table, Skylar was already asking what else his rogue could steal.
-
-Gav pulled the folder back toward himself.
-
-"Next time."
-
-Milo started collecting the dice. Taiga helped him find one under a chair, then took Leo's empty cup when he went to return his own.
-
-The main room felt hot after sitting still for so long. Beyond the back windows, someone had lit the firepit.
-
-Skylar nodded toward it.
-
-"Coming?"
-
-***
+Taiga reached for his coat.
 
 Cold air reached Taiga's face as soon as they opened the back door.
 
@@ -559,69 +423,75 @@ The terrace was quieter than the lodge. A few chairs and a low bench stood aroun
 
 Taiga sat beside Gav on the bench. Leo pulled a chair closer on his other side. Once the heat reached him, Taiga took his coat off and draped it over the back.
 
-"That was actually fun," Taiga told Gav.
+Milo held his hands toward the flames. Skylar was still complaining about the game.
 
-Gav sat up.
+"I left you nothing. There was no shot."
 
-"Yeah?"
+Scott sat down opposite him.
 
-"Yeah."
+"There was off the side."
 
-He started explaining how they could keep their characters for a longer adventure. There was a ruined fortress in that one. Taiga listened while Milo sat opposite them and held his hands toward the fire.
+"Yeah, I noticed."
+
+Taiga looked at Scott. "How did you know where to hit it?"
+
+Scott leaned forward a little. He pointed toward the lodge, where the table was just visible through the windows.
+
+"Same as a straight shot. You work backward from the pocket. It's just harder to see."
+
+Gav nodded. "I was trying to work it out when you were lining up. I thought you were going for the other corner."
+
+"So did I," Leo said.
 
 Aaron was near the far corner of the terrace, phone against his ear. Taiga caught a few words when the wind shifted, then Aaron said goodnight and put it away.
 
 He came over and took the empty chair beside Skylar.
 
-"Did you win?"
+"Who won?"
 
-"Mostly," Leo said.
+"Scott," Skylar said.
 
-"Mostly?"
+Aaron smiled a little. "Should've warned you."
 
-"The money came back," Taiga said.
+"Could've used that before I played him."
 
-"And the dog," Milo added.
+Someone passed Aaron a cup. Enzo began recounting his own game against Evan, who disagreed with almost every detail. Taiga listened, smiling into his drink while Enzo insisted that a ball had moved by itself.
 
-Aaron smiled a little.
+Later, Gav came back to Scott's last shot.
 
-Someone passed him a cup. The conversation moved between the game and the film, then back to Skylar's attempt at climbing through the window. Leo tried to demonstrate how Taiga had caught him, reached across the gap and put a hand on Taiga's shoulder.
+"Wait, I think I get it."
 
-"Just standing underneath, looking furious."
+He set his cup down and used the space between it and Taiga's boot to show them where the balls had been.
 
-"I was holding him."
+Leo leaned across Taiga to look, resting a hand on his shoulder.
 
-"You told him to stop breathing!"
+"Wasn't the white farther over?"
 
-"He was laughing!"
+"A little," Scott said. "Nearer the side."
 
-Leo was laughing now too. His hand stayed there while Skylar disputed the description.
+Gav moved his finger.
 
-Taiga leaned forward to hear him over the fire.
+"Right. So if you imagine the pocket on the other side of the cushion—"
 
-Gav began explaining what would have happened if they'd gone through the front door. There was another man upstairs, apparently, who might have been persuaded to help.
+Aaron exhaled.
 
-Aaron put his cup between his feet.
+"Are we still doing this?"
 
-"Good thing nobody did, then."
+Gav looked up. "What?"
 
-"They could have," Gav said. "That's what I like about running it. Different groups find different—"
+"The fucking pool lesson."
 
-"Yeah, alright. I get it."
+"I was asking Scott."
 
-Gav stopped.
+"Great. We can all get coached on something else."
 
-Milo started to say something about the dog again.
+Skylar turned toward him. "You don't have to listen."
 
-Aaron rubbed his face.
+"Bit difficult sitting right here."
 
-"Are we going to do the whole thing?"
+Gav sat back. "I was just trying to understand the shot."
 
-Skylar turned toward him.
-
-"You asked."
-
-"I asked if you'd finished. Didn't realize I'd get the fucking replay."
+"It went in. I think we all got that."
 
 Taiga set his cup down.
 
@@ -637,7 +507,7 @@ Leo's hand left his shoulder.
 
 Aaron sat back.
 
-"Because I don't want to hear about your game?"
+"Because I don't want another fucking lesson?"
 
 "Because you keep snapping at people for talking to you."
 
@@ -653,13 +523,13 @@ Gav moved beside Taiga.
 
 Taiga felt his jaw tighten.
 
-"You had a go at Milo this morning. Scott was trying to help you with one shot. Gav asked you to play something. Nobody's doing anything to you."
+"You had a go at Milo this morning. Scott was trying to help you with one shot. Now Gav can't even ask him a question. Nobody's doing anything to you."
 
 "Did they ask you to speak for them?"
 
 "No. I was there."
 
-"Then you heard me say I wasn't interested."
+"Then you heard me say I didn't want help."
 
 "That's not the fucking problem."
 
