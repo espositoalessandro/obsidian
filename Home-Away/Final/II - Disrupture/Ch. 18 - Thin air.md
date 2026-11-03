@@ -257,7 +257,7 @@ The wind caught his hair. He gave up trying to get it out of his face and turned
 
 "Could you take one of me?"
 
-Taiga took his phone and went backward. Leo leaned against the railing, still trying to fix his hair, and laughed when it blew loose again.
+Taiga took Leo's phone and went backward. Leo leaned against the railing, still trying to fix his hair, and laughed when it blew loose again.
 
 "God, it's hopeless isn't th-"
 
@@ -267,7 +267,7 @@ Taiga took the picture then.
 
 "That makes it better."
 
-Leo came to check. He looked pretty natural, smiling and adjusting his hair without looking at the camera.
+Leo came to check. He came out looking pretty natural, smiling and adjusting his hair without looking at the camera.
 
 "Woah I look dope in here! Did Keitaro taught you that?"
 
