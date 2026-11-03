@@ -221,7 +221,7 @@ Leo looked down. "Which one?"
 
 "The one on the table. Here."
 
-They'd come to the common lodge after lunch. Enzo and Evan occupied the nearest couch, Aaron was choosing a cue, and Taiga had already missed a ball sitting close enough to the pocket that he could have blown it in.
+They'd come to the common lodge after dinner. Enzo and Evan occupied the nearest couch, Aaron was choosing a cue, and Taiga had already missed a ball sitting close enough to the pocket that he could have blown it in.
 
 Scott put his own cue down and spread his hand on the cloth.
 
@@ -405,9 +405,7 @@ Leo came around the table and held his palm up. Taiga slapped it harder than nec
 
 They were still arguing about the last shot when Milo and Skylar arrived to find out whether anyone wanted coffee.
 
-***
-
-After dinner, they went back to the lodge. Scott played Skylar while Taiga and Leo watched from the couch, knees touching whenever one of them shifted. Gav came over halfway through and stayed for the finish.
+Scott took the next game against Skylar while Taiga and Leo watched from the couch, knees touching whenever one of them shifted. Gav left the couch halfway through and came over to watch the finish.
 
 Scott won with a shot off the cushion that Taiga wouldn't even have considered trying.
 
