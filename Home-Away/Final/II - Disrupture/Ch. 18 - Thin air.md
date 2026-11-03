@@ -80,8 +80,9 @@ Instead, Aaron tried to beat Milo but failed.
 
 Scott shouted "TAIGA, INSIDE!"
 
-Fuck it. Milo had already passed it to Dennis, who were running in the space Taiga had left behind him.
-Luckily, his finish was easy enough for Scott to block it.
+Taiga turned and sprinted back. Fuck, too late. Milo had already passed to Dennis, who was running into the space Taiga had left behind.
+
+Taiga chased him toward the goal, but Dennis shot before he could catch up. Luckily, Scott blocked it.
 
 Hale whistled. "Akatora, your goal is behind you. Before trying to support Bennett here, make sure you don't leave empty spaces."
 
@@ -105,25 +106,25 @@ Taiga spread his hands. "You changed direction at the last second."
 
 He was about to answer when Hale called for reset again.
 For the rest of the game, Taiga kept catching himself watching the ball while someone moved behind him. Scott's voice followed him everywhere. 
-Once he got to steal it cleanly, then he drove forward automatically and was about to start running. He stopped himself at the last second and saw Leo raising his hand.
+Once, he managed to steal it cleanly and immediately started forward. Then he checked himself and looked for someone to pass to. Leo was raising his hand a little behind him.
 
-"Back," Leo called, offering himself.
+"Back," Leo called.
 
-Taiga gave it to him. Leo turned the play toward the other side. They managed to score shortly after.
+Taiga gave it to him. Leo sent the ball toward the other side, and they managed to score shortly after.
 
 Recover between resets took longer than it used to at Olympus. Often, Taiga was still panting heavily when they restarted.
 
 Aaron did better when he had room to run. He beat Milo once with a feint Taiga recognized from training at home, then drove a cross straight into Skylar's legs.
 
-"Earlier," Hale said. "He was still turning when you got past."
+"Earlier," Hale said. "Skylar was still turning when you got past Milo."
 
-"I was trying to get beyond him."
+"I wanted a better angle."
 
-"That's what he had time to stop."
+"But that extra touch gave him time to get in your way."
 
 Aaron pulled his bib away from his chest and reset.
 
-The next cross came early. Dennis, playing for the other side now, had come back to defend it. He cleared it with his head.
+The next cross came early. Dennis had come back to help defend and cleared it with his head.
 
 Aaron swore.
 
