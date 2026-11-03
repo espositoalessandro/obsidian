@@ -437,7 +437,7 @@ He was halfway through the doorway when Leo called him.
 
 He turned. "What?"
 
-Leo was still standing in the middle of the room. He looked hesitant.
+Leo was still standing in the middle of the room, holding his coat. He looked hesitant.
 
 "I- uh..."
 
