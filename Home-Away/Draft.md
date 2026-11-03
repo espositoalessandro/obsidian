@@ -20,79 +20,81 @@ Leo shook his head and took a mouthful of coffee.
 
 By nine, they were on the pitch again.
 
-There were fewer cones this time, and Hale told them at the start that they wouldn't be doing yesterday's running.
+Hale kept the same mixed teams and unfamiliar positions, but there was no repeat of yesterday's running. They worked through short games, stopping to change players or try a move again.
 
-"We'll stay with the same positions. Work through the decisions while you've got time to see them."
+Taiga went back to right-back. Aaron was ahead of him, with Milo waiting on the other side.
 
-Taiga went back to right-back. Aaron stood ahead of him, looking toward the far side, where Milo had already put a bib on.
+Scott rolled the first ball to Jordan.
 
-They began with short passages of play, stopping and restarting from the same places. At first Taiga liked having the extra time. He could see when Aaron needed the ball at his feet and when he needed it beyond the defender. Once he got both right in succession.
+Jordan took it forward, saw Dennis coming toward him and tried to turn past him. Dennis stuck a foot in. The ball ran loose, and Scott reached it before either of them.
 
-Aaron reached the second pass and crossed.
+"Price. You've got a pass either side."
 
-Skylar cleared it.
+Jordan glanced at Taiga, then across at Enzo.
 
-"Better," Hale said. "Again."
+"Right."
 
-Aaron jogged back.
+The next time, he gave it to Taiga immediately.
 
-The next time, Taiga passed to his feet. Aaron had started moving before it arrived. The ball ran behind him and out.
+Taiga wanted to send Aaron running, but Milo was already standing where the pass needed to go. Leo came closer and called. Taiga gave it to him, watched Aaron move and got the ball back from a different angle.
 
-"Played it where you were," Taiga said.
+This time the pass went through.
 
-"Yeah. I moved."
+Aaron reached it and crossed. Theo got a foot to it, but the shot went wide.
 
-"I saw that."
+He stopped beside the goal, looking at the mark his boot had left.
 
-Aaron went to get the ball.
-
-On the other side, Enzo had stopped asking questions and started shouting for passes. Pinetree's players made their changes almost without looking. Dennis came short, laid the ball off and moved again while Hale was still pointing out the space.
-
-Aaron watched.
-
-"Do they do this every day?"
-
-"Some version," Gav said.
-
-"Must be nice."
-
-They restarted.
-
-Milo waited until Aaron committed, then passed around him. Aaron turned too late to follow the return.
-
-"Inside first," Hale called. "Close that before you go to him."
-
-Aaron nodded.
-
-On the next one, he stayed inside so long that Milo carried the ball past him.
-
-The whistle went.
-
-"Now you can go," Hale said. "Watch his touch."
-
-"I was closing the pass."
-
-"You did. Then the situation changed."
-
-Aaron rubbed the back of his neck.
-
-Milo came over while they reset.
-
-"If you stand a little more this way, you've got both—"
+"That was there," Aaron called.
 
 "I know."
 
-Milo stopped.
+Taiga jogged back. At least he wasn't the only one discovering new ways to miss something obvious.
 
-"Okay. Just thought—"
+On the next attack against them, Gav received in front of Leo. He turned, took another touch and looked toward Dennis.
 
-"I heard him."
+Leo followed him.
 
-Taiga pulled his sleeve down. Milo went back to his place without finishing.
+Dennis went the other way.
 
-The next game had fewer stops. Taiga was beginning to get used to checking the space behind him before following the ball. He intercepted one pass and found Leo, who kept it moving with a touch.
+Scott shouted, and Jordan got between Dennis and the ball. It struck his shin and went out.
 
-Aaron tried to beat Skylar near the line. Skylar took the ball and gave it to Milo.
+Hale called Leo over while someone retrieved it.
+
+"You don't have to follow Foster all the way out there. Look what opens behind you."
+
+Leo looked back toward Jordan.
+
+"Oh. Yeah."
+
+Gav came over to ask about the run Dennis had made. By the time Hale sent them back, they were both pointing at different parts of the pitch.
+
+Taiga pulled his sleeves over his wrists and waited for the next ball.
+
+The passing was cleaner than yesterday. He still had to think about where to stand, but sometimes he got there before Scott needed to shout. Once, he saw Jonah start running behind him and moved across early enough to take the pass himself.
+
+Then he tried to send it straight across to Enzo.
+
+Too soft.
+
+Gav reached it first and shot.
+
+Scott tipped it around the post.
+
+Taiga stopped with his hands on his hips.
+
+"Sorry."
+
+Scott pointed toward the other side.
+
+"Make sure it gets there."
+
+From beside the goal, Gav called for another ball. Apparently one attempt had only encouraged him.
+
+They changed a few players and started again.
+
+Aaron got past Milo with a quick change of direction. Skylar came across to meet him, and Aaron tried to push the ball between his feet.
+
+Skylar closed his legs and took it.
 
 "Help me out!" Aaron called.
 
@@ -104,63 +106,99 @@ Taiga had been moving up behind him.
 
 "I did."
 
-"Earlier!"
+"GET BACK!" Scott shouted.
 
-Scott's voice cut across them.
+Taiga turned. Jonah was already coming down his side.
 
-"GET BACK!"
+They recovered the ball near the corner. When Taiga looked across, Enzo was standing much farther back than usual, one hand out, demanding the pass. Taiga sent it to him.
 
-They ran.
+Enzo waited for someone to approach, knocked the ball past him and ran onto it. A few seconds later, he sent it up the field to Aaron.
 
-A few minutes later, Aaron arrived late trying to win a ball he'd just lost. Skylar stumbled, caught himself and stopped with one hand raised.
+Aaron brought it down cleanly and found Theo.
 
-"Easy."
+This time Theo scored.
 
-"Sorry."
+Enzo raised both arms from the other end.
 
-Hale sent Aaron out for the next rotation and brought Lucas on. He'd been changing people all morning, but Aaron stood beside the bench until he was told to put his coat on.
+"You're welcome!"
 
-At water, Taiga went over.
+They stopped for water after the next game. Aaron stood beside Taiga, watching Milo and Skylar exchange their bibs for dry ones.
+
+"Do they do this every day?"
+
+"Some version," Gav said, coming past for his bottle.
+
+Aaron took a drink.
+
+"Must be nice."
+
+They resumed with the ball on Milo's side. Hale had Aaron try closing him down from different places. On one attempt, Milo passed around him. On another, Aaron stopped the pass but gave Milo enough room to run past instead.
+
+"Watch his touch," Hale said. "When it gets away from him, go."
+
+Aaron nodded.
+
+Milo rolled the ball back to the starting point.
+
+"If you come a little more this way, you've got both—"
+
+"I know."
+
+Milo paused.
+
+"Okay."
+
+"I heard him."
+
+Taiga glanced over. Milo had already gone back to his place.
+
+The next game moved away from them. Skylar lost the ball trying to turn, Theo went straight toward goal, and Nate saved his shot. Gav kept asking for it through the middle until Dennis finally gave him a pass he could reach.
+
+He shot without stopping it first.
+
+Over.
+
+Gav put both hands on his head. Leo was laughing as he went to retrieve the ball.
+
+After another rotation, Taiga sat on the bench with Aaron and Jordan. Jordan pulled his coat on and asked Scott about the run Dennis had made earlier. Scott stood in front of them, moving his hands to show where he'd wanted him.
+
+Aaron kept turning the cap on his bottle.
+
+Taiga leaned toward him.
 
 "You good?"
 
 "Are you asking or grading me?"
 
-Taiga lowered his bottle.
+Taiga sat back.
 
 "What?"
 
 "I'm fine."
 
-"You don't sound fine."
-
-Aaron twisted his cap on.
-
-"What do you want me to say?"
-
-"Nothing. I was asking."
+"Okay. I was asking."
 
 "Well, you asked."
 
-Taiga let him go.
+Jordan was still listening to Scott. Taiga put his bottle away and left it there.
 
-At the next restart, Aaron got the pass he wanted. He turned, beat Milo and found Dennis. For a moment he looked like himself again, pointing toward the run he'd made.
+In the last game, Aaron got past Milo twice. The first pass reached Theo; the second was blocked. When Hale brought them in, Aaron went over to ask him about the difference.
 
-Then Hale corrected where he'd started from.
-
-Aaron spent the rest of the break explaining why he'd been there.
+Taiga only caught the start of the answer. Enzo was beside him, trying to work out how he'd ended up with someone else's gloves.
 
 They finished before lunch. Mercer called them together while Hale's assistants collected the balls.
 
 "Tomorrow, usual positions. Briefing at eight. Until then, eat, rest and keep yourselves available."
 
-Aaron's hand went up.
+Aaron looked up.
 
 "So we're done for today?"
 
 "Yes."
 
-They headed toward the changing rooms. Aaron caught up with Evan.
+On the walk to the changing rooms, Gav was still talking about the shot he'd missed. Jordan wanted another go up front tomorrow. Enzo wanted to know whether there was time to shower before lunch.
+
+Aaron opened the door for them, then caught up with Evan.
 
 "They look like they could do that in their sleep."
 
@@ -168,10 +206,7 @@ They headed toward the changing rooms. Aaron caught up with Evan.
 
 "Yeah, I got that."
 
-Evan glanced at him.
-
-Aaron opened the door and went in ahead of them.
-
+Taiga went inside behind Leo, who was trying to explain to Scott where Gav should have aimed.
 ***
 
 Scott put the cue down before Leo could take another shot.
