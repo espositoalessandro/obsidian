@@ -140,7 +140,7 @@ Taiga took it.
 
 ***
 
-They met Milo and Skylar on the upper road after eating. Luckily Enzo had actually brought proper boots this time. 
+They met Milo and Skylar on the upper road after eating. Luckily, Enzo had actually brought proper boots this time.
 He still complained.
 
 "Are there many stairs?" he asked.
@@ -179,7 +179,7 @@ Aaron tugged his gloves on properly.
 
 "And the positions?"
 
-"Oh, that was terrible," Leo said cheerfully. "I kept following people too far. Hale had to come and put me back where I belonged like... four times I think?"
+"Oh, that was terrible," Leo said cheerfully. "I kept following people too far. Hale had to come and put me back where I belonged like... four times, I think?"
 
 "Heh... G-Gav nearly scored twice," Scott said.
 
@@ -213,11 +213,11 @@ That got Leo started on the space people left when they moved. He tried to expla
 
 Aaron listened. "So you found that confusing too?"
 
-"Yeah! It was like... you know when you take the same road for years, then one day you take it backward and it doesn't look like the same road anymore? That!"
+"Yeah! It was like... you know when you take the same road for years, then one day you take it in the opposite direction and it doesn't look like the same road anymore? That!"
 
 "Yeah... I still don't see the point of that, though."
 
-"I guess it's too early," Evan said. "I believe tomorrow will be easier once we have enough time to digest today."
+"I guess it's too early," Evan said. "I believe tomorrow will be easier once we've had time to digest everything."
 
 "...I hope."
 
@@ -249,7 +249,7 @@ The valley lay below in long strips of white and dark green. He could pick out t
 
 "Could you put that in writing?" Milo said.
 
-"No, if you ask me later at campus I'll deny everything."
+"No. If you ask me later back on campus, I'll deny everything."
 
 For a while, everyone took pictures. Taiga sent one of the valley to the Camp Buddy chat. Leo came to stand beside him and held his phone over the railing.
 
@@ -257,9 +257,9 @@ The wind caught his hair. He gave up trying to get it out of his face and turned
 
 "Could you take one of me?"
 
-Taiga took Leo's phone and went backward. Leo leaned against the railing, still trying to fix his hair, and laughed when it blew loose again.
+Taiga took Leo's phone and stepped back. Leo leaned against the railing, still trying to fix his hair, and laughed when it blew loose again.
 
-"God, it's hopeless isn't th-"
+"God, it's hopeless, isn't i—"
 
 Taiga took the picture then.
 
@@ -269,13 +269,13 @@ Taiga took the picture then.
 
 Leo came to check. He came out looking pretty natural, smiling and adjusting his hair without looking at the camera.
 
-"Woah I look dope in here! Did Keitaro taught you that?"
+"Woah, I look dope here! Did Keitaro teach you that?"
 
 "Maybe."
 
 "Okay, now step in. Come on!"
 
-Taiga made a face and went beside him near the rail. Leo held out his own phone, and Taiga leaned in far enough to fit. The photograph caught Enzo directly behind them, looking into the camera with his mouth half open.
+Taiga made a face and stood beside him by the railing. Leo held out his own phone, and Taiga leaned in far enough to fit. The photograph caught Enzo directly behind them, looking into the camera with his mouth half open.
 
 Leo checked the screen and started laughing.
 
@@ -289,8 +289,8 @@ Leo stayed beside him. "Oh no, Enzo made it his profile picture."
 
 "Of course he did."
 
-"It captured my essence" Enzo said from behind them.
+"It captured my essence," Enzo said from behind them.
 
-Taiga laughed once. "On that, I could totally agree."
+Taiga laughed once. "I can totally agree with that."
 
 ***
