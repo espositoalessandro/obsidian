@@ -469,7 +469,7 @@ Leo shook his head and took a sip of coffee.
 
 By nine, they were on the pitch again.
 
-Hale kept the same mixed teams and unfamiliar positions, but there was no repeat of yesterday's running. They worked through short games, stopping to change players or try a move again.
+Hale kept the same mixed teams and unfamiliar positions exercise, but there was no repeat of yesterday's running. They worked through short games, stopping to change players or try a move again.
 
 Taiga went back to right-back. Skylar, in the same bib as him, stood beside Jordan in the middle of their defense. Aaron was ahead of Taiga. Across from them, Milo pulled his bib straight while Gav and Jonah argued about where to stand.
 
@@ -596,7 +596,7 @@ Milo approached him. "Is he alright?"
 
 "Clearly not. And I don't care, honestly."
 
-"Come on, Taiga. I know it's hard and frustrating, but you're still teammates."
+"Maybe he's just frustrated? It's a pretty damn hard exercise afterall."
 
 Taiga took a deep breath.
 He was right. There was no reason to escalate over something that stupid. Aaron was just tired and frustrated. He'd do the same.
@@ -624,7 +624,7 @@ When Hale corrected him, he often took his advice too literally: Hale told him t
 
 "I'm still here!"
 
-"Hale told me so!"
+"Last time I held it, that was wrong too!"
 
 "Yeah, but he didn't mean like, *every time*."
 
