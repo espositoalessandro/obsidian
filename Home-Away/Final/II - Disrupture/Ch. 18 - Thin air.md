@@ -53,7 +53,7 @@ A couple of Pinetree players sighed and groaned, as if they already knew what aw
 
 "If you're an attacker, you will now play as your direct opponent in defense. So, Mr. Akatora, for example, what's your usual position?"
 
-"Uh- left wing."
+"Uh—left wing."
 
 "Then you'll play as a right fullback."
 
@@ -336,7 +336,7 @@ He kept scrolling.
 
 Taiga squinted his eyes. "Continue."
 
-"Well, I haven't seen it yet, so I don't know much. There's a desert and uh- cars?"
+"Well, I haven't seen it yet, so I don't know much. There's a desert and, uh—cars?"
 
 "You already said that," Gav said. "Anyway, I like the premise."
 
@@ -439,7 +439,7 @@ He turned. "What?"
 
 Leo was still standing in the middle of the room, holding his coat. He looked hesitant.
 
-"I- uh..."
+"I—uh..."
 
 He scratched the back of his head.
 
@@ -469,7 +469,7 @@ Leo shook his head and took a sip of coffee.
 
 By nine, they were on the pitch again.
 
-Hale kept the same mixed teams and unfamiliar positions exercise, but there was no repeat of yesterday's running. They worked through short games, stopping to change players or try a move again.
+Hale kept the same exercise with mixed teams and unfamiliar positions, but there was no repeat of yesterday's running. They worked through short games, stopping to change players or try a move again.
 
 Taiga went back to right-back. Skylar, in the same bib as him, stood beside Jordan in the middle of their defense. Aaron was ahead of Taiga. Across from them, Milo pulled his bib straight while Gav and Jonah argued about where to stand.
 
@@ -490,13 +490,13 @@ This time the pass went through.
 
 Aaron reached it and crossed. Theo got a foot to it, but the shot went wide.
 
-"Fuck, come on that was in!" Aaron said.
+"Fuck, come on, that was in!" Aaron said.
 
 Theo Walsh spread his arms.
 
 On the next attack against them, Gav received in front of Leo. He turned, took another touch and looked toward Dennis.
 
-Leo followed Gav, but Dennis went the other way. That made him earn a shout from Scott.
+Leo followed Gav, but Dennis went the other way. That earned him a shout from Scott.
 Luckily, Jordan got between Dennis and the ball.
 
 "You don't have to follow Foster all the way out there. Look what opens behind you," Hale said.
@@ -507,9 +507,9 @@ Leo put his hands on his hips and looked back toward Jordan.
 
 Taiga pulled his sleeves over his wrists and waited for the next ball.
 
-Things were getting a little bit easier than yesterday. Taiga was beginning to understand how player moved from his new position. He still had to think about where to stand, but sometimes he got there before Scott needed to shout.
+Things were getting a little bit easier than yesterday. Taiga was beginning to understand how players moved from his new position. He still had to think about where to stand, but sometimes he got there before Scott needed to shout.
 
-Although, he still managed to put the ball right in Gav's foot and giving him another free shot.
+Still, he managed to put the ball right at Gav's feet, giving him another free shot.
 
 "Fuck. Sorry."
 
@@ -521,7 +521,7 @@ Aaron got past Milo with a quick change of direction. Gav came across to meet hi
 
 Gav closed his legs, took the ball and passed it toward Jonah.
 
-"Holy fuck Taiga, help me out!" Aaron called.
+"Holy fuck, Taiga, help me out!" Aaron called.
 
 Taiga had been moving up behind him.
 
@@ -529,9 +529,9 @@ Taiga had been moving up behind him.
 
 "Then say something!"
 
-"Wha- I did! Check your back maybe?"
+"Wha—I did! Check behind you, maybe?"
 
-Aaron frowned. "How can I check if-"
+Aaron frowned. "How can I check if—"
 
 "GET BACK!" Scott shouted.
 
@@ -576,9 +576,9 @@ Gav put both hands on his head. Leo was laughing as he went to retrieve the ball
 
 "You're enjoying this too much," he said.
 
-Gav grinned. "Who knows, maybe I was actually born attacker!"
+Gav grinned. "Who knows, maybe I was actually born an attacker!"
 
-After another rotation, Taiga saw Aaron on a bench beside Jordan. People were talking around him, he was looking down, keeping turning the cap on his bottle.
+After another rotation, Taiga saw Aaron on a bench beside Jordan. People were talking around him. He was looking down, turning the cap on his bottle.
 
 Taiga approached. "You good?"
 
@@ -588,7 +588,7 @@ Taiga approached. "You good?"
 
 Aaron looked up. "Then why do you ask if you already know the answer?"
 
-Taiga felt the heat coming up and sensed the danger. 
+Taiga felt the heat rising and sensed the danger.
 
 "Suit yourself," he said, going back to the pitch.
 
@@ -596,14 +596,14 @@ Milo approached him. "Is he alright?"
 
 "Clearly not. And I don't care, honestly."
 
-"Maybe he's just frustrated? It's a pretty damn hard exercise afterall."
+"Maybe he's just frustrated? It's a pretty damn hard exercise, after all."
 
 Taiga took a deep breath.
 He was right. There was no reason to escalate over something that stupid. Aaron was just tired and frustrated. He'd do the same.
 
 "Yeah, sorry, you're right. He just gets on my nerves sometimes."
 
-Milo smiled. "I've lost the count of how many times Skylar shouted at me."
+Milo smiled. "I've lost count of how many times Skylar has shouted at me."
 
 Taiga smiled back. "That I can believe."
 
@@ -611,29 +611,29 @@ He shoved Taiga's shoulder lightly. "Fuck off, you fjols."
 
 In the next few repetitions, things went better. Taiga started focusing on what he would've expected from the fullback as a winger, plus the defense started making more sense.
 
-Even the rest of the team, they didn't loose as many balls as before, which made Gav pretty sad because he didn't got much occasions to shoot.
+The rest of the team wasn't losing as many balls either, which made Gav pretty sad because he didn't get as many chances to shoot.
 
-Aaron, though, didn't improve much. He kept fighting Milo, even if Taiga was right behind him,
+Aaron, though, didn't improve much. He kept fighting Milo, even when Taiga was right behind him.
 Once, he dropped back almost beside Taiga to ask for the ball when Skylar had it.
 
-"Dude, you're too low" Taiga said.
+"Dude, you're too low," Taiga said.
 
-Aaron looked around him and then at Taiga. "Whatever." And ran back into his position.
+Aaron looked around him and then at Taiga. "Whatever." Then he ran back into position.
 
-When Hale corrected him, he often took his advice too literally: Hale told him to release the ball sooner and, next time, Aaron immediately sends it toward goal. Even if Theo hadn’t started moving yet. 
+When Hale corrected him, he often took his advice too literally: Hale told him to release the ball sooner, and the next time, Aaron immediately sent it toward goal, even though Theo hadn't started moving yet.
 
 "I'm still here!"
 
 "Last time I held it, that was wrong too!"
 
-"Yeah, but he didn't mean like, *every time*."
+"Yeah, but he didn't mean, like, *every time*."
 
-"Why don't you coach then?"
+"Why don't you coach, then?"
 
-Scott shouted immediately "AARON! GET IN POSITION."
+Scott shouted immediately, "AARON! GET IN POSITION."
 
-When Hale finally told them to go in the locker room, Aaron had gone silent.
-Taiga thought it was best to let him steam off.
+When Hale finally told them to go to the locker room, Aaron had gone silent.
+Taiga thought it was best to let him cool off.
 
 ***
 
