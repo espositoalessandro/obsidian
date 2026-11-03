@@ -633,7 +633,93 @@ When Hale corrected him, he often took his advice too literally: Hale told him t
 Scott shouted immediately, "AARON! GET IN POSITION."
 
 When Hale finally told them to go to the locker room, Aaron had gone silent.
+
 Taiga thought it was best to let him cool off.
 
 ***
+
+After dinner, they settled on a game of pool.
+
+Evan and Enzo took a table, while Scott, Leo, Aaron and Taiga picked another.
+
+"Who's first?" Aaron asked.
+
+Scott glanced around. "I c-can?"
+
+Leo broke. Nothing went in.
+
+Scott took his time choosing a shot. He bent over, shifted his hand a little and sent a solid into the corner pocket.
+Then another into the side.
+
+Leo lowered the spare cue he'd been turning in his hands.
+
+"Wait. You're actually good."
+
+"N-not at all. My school used to have a pool, so I learned there."
+
+"Clearly," Taiga said, watching him pocketing another one.
+
+Leo stepped next to Scott.
+
+"Okay, show me how you're holding that. Mine keeps going sideways."
+
+Scott put his own cue down and spread his hand on the cloth.
+
+"Keep this flat. Then lift your thumb a little."
+
+Leo copied him. Scott showed him where the cue should rest, then stepped aside.
+
+"T-Try moving it without hitting anything."
+
+"Oh. Okay, that's much better!"
+
+Taiga stepped forward, "Let me try too."
+
+"Relax this hand a bit."
+
+"If I relax it any more, I'll drop it."
+
+Scott reached for a spare cue and showed him. Taiga loosened his grip.
+
+"Like that. Just keep it straight."
+
+He hit the white. It struck the blue ball, which rolled toward the side pocket and dropped.
+
+"Shit. That worked."
+
+Scott looked up at Aaron. "Do you want-"
+
+"I'm fine, thanks."
+
+"Oh, o-okay."
+
+They practiced for a while, until Scott suggested starting an actual game.
+He gathered the balls into the triangle while Leo chalked his cue with considerably more attention than he'd given it before.
+
+"Solids or stripes," Scott explained. "Once you've got yours in, you go for the black. Leave that alone until then."
+
+"And if the white goes in?" Taiga asked.
+
+"That's a foul. Your opponent gets to put it where they want."
+
+Leo looked at the table. "Anywhere?"
+
+"Anywhere on the table."
+
+"That's evil. Okay."
+
+Taiga broke without putting anything in.
+Leo walked around the table twice before choosing a shot. He bent down, stood up again and checked from the other side.
+
+"Are you playing before we go back to Olympus?" Taiga asked.
+
+"Shush. I'm focusing."
+
+"I can see."
+
+He finally potted a striped ball and looked so pleased that Taiga almost laughed.
+
+"Stripes, then," Scott said.
+
+Leo nodded solemnly, then missed the next one.
 
