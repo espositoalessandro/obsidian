@@ -154,7 +154,9 @@ Milo paused.
 
 Taiga glanced over. Milo had already gone back to his place.
 
-The next game started with Skylar losing the ball as he tried to turn. Jonah took it and went straight toward Scott, who blocked his shot. Skylar reached the loose ball first and sent it out toward Enzo. Gav kept asking for it through the middle until Dennis finally gave him a pass he could reach.
+The next game started with Skylar losing the ball as he tried to turn. Jonah took it and went straight toward Scott, who blocked his shot. Skylar reached the loose ball first and sent it out toward Enzo.
+
+On another attack, Gav kept asking for it through the middle until Dennis finally gave him a pass he could reach.
 
 He shot without stopping it first.
 
