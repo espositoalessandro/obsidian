@@ -307,7 +307,7 @@ Aaron made a face. "I bet that sounded better in your head. Anyway, last time we
 
 "Cool. So this is gonna be the defining match."
 
-Gav, Scott and Evan agreed to the movie as well.
+Gav and Scott agreed to the movie as well.
 
 They suddenly realized that watching a movie in the common room proved basically impossible. People were talking everywhere, someone turned a TV on and the players at the nearest pool table began disputing a shot.
 
