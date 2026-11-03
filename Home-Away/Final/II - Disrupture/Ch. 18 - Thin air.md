@@ -776,13 +776,13 @@ Leo watched from the other side.
 
 "Okay, that's getting worrying."
 
-Taiga smiled down at the table. The next one was harder, but at least he managed to put the white in a difficult position for Leo.
+Taiga smiled down at the table. He missed the next one, but at least he left the white in a difficult position for Leo.
 
-Somehow, he hit it into the edge of the pocket. Taiga's smile faded.
+Somehow, Leo’s last stripe caught the edge of the pocket and dropped in anyway. Taiga’s smile faded.
 
-"Try not to cry," Leo said as he passed him.
+“Try not to cry,” Leo said as he passed him.
 
-Taiga lightly kicked his butt. To his satisfaction, Leo missed the next one.
+Taiga lightly kicked his butt. To his satisfaction, Leo missed the black.
 
 Aaron came forward before Leo had quite moved out of the way.
 He lined up, shifted his feet and lowered the cue. Then he stood again to check from the other side.
@@ -809,10 +809,10 @@ Scott stopped. Aaron looked down at the ball.
 
 Scott moved toward the table. Aaron stepped aside and stayed there, gripping his cue with both hands.
 
-Taiga rubbed his thumb along his own cue. For a moment, he considered saying something. Then Scott bent over the table, and he looked back at the game.
+Taiga rubbed his thumb along his own cue. For a moment, he considered saying something. 
 
-The last stripe went in.
-Scott took his time with the black. Leo watched from the other end, both hands clasped around the top of his cue.
+Then Scott bent over the table, and he looked back at the game.
+He took his time with the black. Leo watched from the other end, both hands clasped around the top of his cue.
 
 The black dropped.
 
