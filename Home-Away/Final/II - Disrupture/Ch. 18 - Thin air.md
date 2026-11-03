@@ -655,9 +655,9 @@ Leo lowered the spare cue he'd been turning in his hands.
 
 "Wait. You're actually good."
 
-"N-not at all. My school used to have a pool, so I learned there."
+"N-not at all. My school used to have a pool table, so I learned there."
 
-"Clearly," Taiga said, watching him pocketing another one.
+"Clearly," Taiga said, watching him pocket another one.
 
 Leo stepped next to Scott.
 
@@ -673,7 +673,7 @@ Leo copied him. Scott showed him where the cue should rest, then stepped aside.
 
 "Oh. Okay, that's much better!"
 
-Taiga stepped forward, "Let me try too."
+Taiga stepped forward. "Let me try too."
 
 "Relax this hand a bit."
 
@@ -687,17 +687,17 @@ He hit the white. It struck the blue ball, which rolled toward the side pocket a
 
 "Shit. That worked."
 
-Scott looked up at Aaron. "Do you want-"
+Scott looked up at Aaron. "Do you want—"
 
 "I'm fine, thanks."
 
 "Oh, o-okay."
 
-They practiced for a while, until Scott suggested starting an actual game.
+They practiced for a while until Scott suggested starting an actual game.
 
 "Okay, m-me with Leo and Taiga with Aaron?"
 
-"Good for me," Taiga said.
+"Works for me," Taiga said.
 
 Aaron nodded.
 
@@ -748,13 +748,13 @@ He tried anyway. The next solid went nowhere near the pocket.
 
 Leo giggled and came around beside him. Taiga caught his sleeve before his shirt brushed a ball.
 
-"Next time, I'll consider it fault."
+"Next time, I'll call that a foul."
 
 "Oopsie! Thanks."
 
 He pulled it up and tried again. The stripe went in. Leo looked over his shoulder at him, grinning. Taiga rolled his eyes.
 
-Leo missed the next one, placing the white right in front an easy solid. 
+Leo missed the next one, placing the white right in front of an easy solid.
 
 "Thank you," Aaron said, watching it drop.
 
@@ -780,7 +780,7 @@ Taiga smiled down at the table. The next one was harder, but at least he managed
 
 Somehow, he hit it into the edge of the pocket. Taiga's smile faded.
 
-"Try not to cry," Leo said passing beside him.
+"Try not to cry," Leo said as he passed him.
 
 Taiga lightly kicked his butt. To his satisfaction, Leo missed the next one.
 
@@ -811,7 +811,7 @@ Scott moved toward the table. Aaron stepped aside and stayed there, gripping his
 
 Taiga rubbed his thumb along his own cue. For a moment, he considered saying something. Then Scott bent over the table, and he looked back at the game.
 
-The last stripe went in. 
+The last stripe went in.
 Scott took his time with the black. Leo watched from the other end, both hands clasped around the top of his cue.
 
 The black dropped.
@@ -826,7 +826,7 @@ Aaron nodded without looking at him. He put his cue back on the rack and took ou
 
 "Yeah, but I'm taking Scott."
 
-"Pfff. You're a sore looser. Want a drink?"
+"Pfff. You're a sore loser. Want a drink?"
 
 "Whatever you're having."
 
@@ -835,7 +835,7 @@ Leo went to get them while Aaron was already heading toward the entrance, holdin
 Milo and Skylar arrived shortly afterward. They stayed for a couple of games.
 Then Milo opened the back door a crack.
 
-"Hey guys," he said. "Anyone coming out on the terrace? They've got the fire going!"
+"Hey, guys," he said. "Anyone coming out on the terrace? They've got the fire going!"
 
 "There's a firepit back there?" Taiga asked.
 
