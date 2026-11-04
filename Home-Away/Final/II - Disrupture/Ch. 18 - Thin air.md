@@ -1118,7 +1118,7 @@ Leo took a few steps toward him.
 
 Taiga could not answer. Leo slowly shook his head. Now his voice was trembling.
 
-"I see... I guess maybe I was wrong about you."
+"You were fine with me before he said that. I thought... I thought you wanted me around."
 
 Taiga looked down, unable to hold his gaze any longer. 
 
@@ -1131,6 +1131,6 @@ Taiga looked at him and felt like throwing up. One tear was slowly dripping on L
 
 "...I'll leave you alone."
 
-He brushed the tear off and turned toward the lodge.
+He rubbed his face and turned toward the lodge.
 
 Taiga watched him leaving. Hot tears ran down his cheeks.
