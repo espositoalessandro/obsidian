@@ -177,21 +177,23 @@ and still occasionally need a few minutes alone.
 
 This does **not** make him secretly introverted or socially performative.
 
-The more important boundary appears at Pinetree.
+Pinetree exposes how strongly Leo wants his care and presence to be welcome.
 
-When Taiga pushes Leo away and then calls him back, Leo refuses the push-pull dynamic.
+In frozen Final Chapter 18, he follows Taiga because he is worried and keeps trying to talk after being asked to go. His instinct is to stay, reassure and make things better. Repeated rejection makes him defensive and hurt.
 
-His refusal matters because it proves that Leo already understands boundaries when another person is violating one:
+His central admission is:
 
-> *I'm done following people who don't want me.*
+> "You were fine with me before he said that! I thought... I thought you wanted me around."
 
-This distinction should remain important later.
+He leaves after concluding that he misread Taiga's welcome. "Fine, I get it. I was wrong" is a painful misunderstanding, not an accurate diagnosis of Taiga or a composed statement of personal boundaries.
 
-Act V is not about Leo discovering boundaries as a concept.
+People pleasing does not remove Leo's anger, disappointment or capacity to leave. Let him become overwhelmed, interrupt, assume he understands and withdraw when trying again hurts too much.
 
-It is about applying them when **he is the person being asked for something**.
+Do not restore the discarded ex / damaging-past-relationship backstory or explain Pinetree through lessons he supposedly learned from it. This does not establish a new rule about his sexual experience.
 
-His earlier relationship history reinforces this boundary without needing to be explained during Pinetree. Leo has already learned that constantly chasing, fixing and reassuring another person can become destructive.
+The older speech "I'm done following people who don't want me" is superseded. Later callbacks and reconciliation must inherit the Final exchange.
+
+His longer arc remains automatic availability toward chosen reliability. Pinetree makes the cost of feeling unwanted visible without making him fully self-aware about that pattern.
 
 ---
 
