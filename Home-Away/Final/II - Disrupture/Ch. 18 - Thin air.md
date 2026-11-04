@@ -1023,4 +1023,116 @@ He picked up his coat and left without looking at anyone.
 
 ***
 
+Taiga walked towards nowhere in particular. He kept going uphill, away from the lights.
 
+He could imagine Leo beside the chair.
+Everybody looking, waiting for something to happen. For someone to laugh, or explain, or say that of course it wasn't like that.
+
+He arrived at the edge of the campus. Beside the road, there was the path that lead to the overlook. Taiga kept going forward until the road stopped into a snow bank. Around him he could barely make out the shape of the trees. A few, feeble lights from the valley underneath were visible through the branches. 
+
+He stopped there in the middle of the road.
+Why the fuck did it have to happen again?
+All this time, trying to build a new life outside the camp and now the same thing was about to happen again.
+
+Ugly memories came back unrequested. Taiga laughing with his teammates on the sports ground. They had won the first match, with Taiga winning the hurdle race. Everyone was cheering on him.
+
+Then silence fell. Someone with bruises and blood all over his face showed up. His finger pointed at Taiga.
+
+The same people who were cheering for him moments before, now were looking at Taiga with disgust.
+
+Then *his* face. Smiling with satisfaction. 
+
+"TAIGA!"
+
+Taiga closed his eyes. He could hear Leo's heavy breath behind him.
+
+"Holy- why did you come all the way up there?" He said between breaths.
+
+Taiga still couldn't dare to turn. 
+
+"Go back. Please."
+
+"Wait a sec. C-Can we talk?"
+
+He didn't answer.
+
+"Please?"
+
+Taiga slowly shook his head. "There's nothing to talk about."
+
+"What? Listen, Aaron was a total jerk."
+
+"Yeah, I noticed. Why did you come all the way up here?"
+
+"Why did- what do you mean why? Do I even need to say the reason?"
+
+Taiga's stomach flipped.
+
+"No, don't. Just... please, go back."
+
+Leo stopped. "I'm not leaving you upset here all alone."
+
+Taiga took a deep breath. Finally, he turned.
+Leo was there, panting heavily. His coat still in his hands. He must've run all the way up there.
+
+"Look," Leo said, "I don't give a shit about what Aaron said, if he-"
+
+"You don't?"
+
+"I..." Leo blinked. "I don't mean like that."
+
+"Yeah, because I do. And probably everyone else does as well."
+
+"What... What do you mean?"
+
+"Look, just go back. You're just making it worse."
+
+"Worse? How could I be making things worse?"
+
+"Because," Taiga said, his voice rose a bit. "He says that shit in front of everyone and the very next thing you do is running at me."
+
+Leo stopped. His face changed. Worry turned into disbelief.
+
+"Is that what you're worried about?"
+
+Taiga didn't answer. Leo stared at him for several seconds.
+
+"Okay, then."
+
+He turned. Something in Taiga’s chest pulled tight.
+
+"Why then? Why do you always do that?"
+
+Leo turned back. "Do what, exactly?"
+
+Taiga spread his hands. "This. Follow me around every fucking time."
+
+Leo made a face. "Take a wild guess."
+
+That made Taiga's stomach drop. He could feel his lips trembling.
+He went silent for a while.
+
+"Just... just go."
+
+Leo's face now turned into disappointment. He took a few steps toward him.
+
+"Is that what you do then? You push people away the very moment someone mention something uncomfortable? So how does this work, you're good until no one talks about it?"
+
+Taiga could not answer. Leo slowly shook his head. Now his voice was trembling.
+
+"I... really thought you were different."
+
+Taiga looked down, unable to hold his gaze any longer. 
+
+"If... if being close to you means being shoved away whenever it's convenient, then sorry-"
+
+His voice broke towards the end.
+Taiga looked at him and felt like throwing up. One tear was slowly dripping on Leo's cheek.
+
+"...but I don't want to do it."
+
+He brushed the tear off and turned toward the lodge.
+
+Taiga watched him leaving. He could feel hot tears running down his cheeks.
+
+The whole world suddenly turned black.
