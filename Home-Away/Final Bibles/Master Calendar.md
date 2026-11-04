@@ -44,7 +44,7 @@ The novel takes place across the **2025–2026 academic year**.
 | Fri Jan 2–Sat Jan 3, 2026 | Camp Buddy winter reunion winds down; Taiga returns toward Olympus | WORKING |
 | By Sun Jan 4, 2026 | Caleb has already returned to Olympus | LOCKED |
 | Mon Jan 12 | Spring teaching term begins | WORKING |
-| Fri Feb 27–Sun Mar 1 | Pinetree exchange weekend | WORKING |
+| Thu Feb 26–Sun Mar 1 | Pinetree exchange trip | FINAL MANUSCRIPT |
 | Fri Apr 10–Sun Apr 19 | Spring Break / Camp Buddy preseason trip | **LOCKED REVISED CANON** |
 | Tue Apr 21–Sat May 2 | Compressed final conference run | **LOCKED REVISED CANON** |
 | Wed May 6–Thu May 7 | Main finals shown on-page | **LOCKED REVISED CANON** |
@@ -285,30 +285,22 @@ The old Draft chapter **Unscheduled** has been absorbed into Final Chapter 12. I
 - The chapter deliberately spans multiple Tuesdays.
 - Their emotional default becomes more visible before Pinetree.
 
-## Pinetree buildup
-### Thu Feb 19 – Thu Feb 26
-**Chapter 18 — Thin Air**
+## Pinetree buildup and trip
+### Thu Feb 26 – Sun Mar 1
 
-- Mercer announces the upcoming Pinetree exchange.
-- **Fri Feb 27** is departure day.
-- The intervening week contains ordinary classes, training and trip preparation.
+Final Chapters 16–18 supersede the old departure day and daily chapter allocation.
 
-## Pinetree weekend
-### Fri Feb 27 – Sun Mar 1
-**Chapters 18–20 — Thin Air / Fault Line / Fallout**
+- **Thu Feb 26 — Final Chapter 17, Thawing:** bus departure at 07:00, arrival, settling in, tour, snowball fight and evening cards. No Thursday training.
+- **Fri Feb 27 — Final Chapter 18, Thin air:** first joint training, overlook hike and movie.
+- **Sat Feb 28 — Final Chapter 18:** lighter technical training, pool after dinner, terrace confrontation and private rupture. Leo leaves hurt, believing Taiga does not want him around.
+- **Later Saturday night — Chapter 19 opening:** Scott speaks to Taiga in their shared room as captain, after speaking to Aaron.
+- **Sun Mar 1 — Chapter 19 / continuing rewrite:** conference match and return to Olympus. Pinetree's working result remains 2–1. Further chapter boundaries remain provisional.
 
-- **Fri Feb 27** — Olympus bus leaves at 07:00; joint training begins at Pinetree.
-- **Sat Feb 28** — second day of training; firepit confrontation.
-  - Aaron's comment exposes Taiga/Leo's visible closeness.
-  - Taiga pushes Leo away.
-  - Leo establishes his boundary.
-- **Sun Mar 1** — Olympus vs Pinetree.
-  - Pinetree win 2–1.
-  - Olympus returns to campus Sunday evening.
+Roommates and other logistics follow the frozen Final manuscript. There is no Friday sexual encounter and no D&D scene in Chapter 18.
 
 ## Immediate repair
 ### Mon Mar 2 – Thu Mar 5
-**Chapter 21 — What remains**
+**Post-Pinetree recognition and repair — chapter allocation provisional**
 
 - **Mon Mar 2** — aftermath of Pinetree.
 - Taiga and Aaron address their conflict.
