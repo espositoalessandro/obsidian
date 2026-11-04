@@ -1015,11 +1015,11 @@ Taiga's gaze was locked into Aaron's.
 The impulse passed, and he relaxed his fingers.
 
 Suddenly he became aware that everyone had heard what Aaron just said. 
-Leo was right behind him, but didn't have the courage to look at him.
+Leo was right behind him, but Taiga didn't have the courage to look at him.
 
 "I'm fucking done with you."
 
-He picked up his coat and left the common lodge, without looking at anyone.
+He picked up his coat and left, without looking at anyone.
 
 ***
 
