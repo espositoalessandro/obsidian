@@ -1097,39 +1097,39 @@ Leo stopped. His face changed. Worry turned into disbelief.
 
 Taiga didn't answer. Leo stared at him for several seconds.
 
-"Okay, then."
+"Taiga, please! Talk to m-"
 
-He turned. Something in Taiga’s chest pulled tight.
+"Why? Why do you always do that?"
 
-"Why then? Why do you always do that?"
-
-Leo turned back. "Do what, exactly?"
+Leo widened his eyes. "Do what, exactly?"
 
 Taiga spread his hands. "This. Follow me around every fucking time."
 
-Leo made a face. "Take a wild guess."
+He made a face. "Take a wild guess."
 
 That made Taiga's stomach drop. He could feel his lips trembling.
 He went silent for a while.
 
 "Just... just go."
 
-Leo's face now turned into disappointment. He took a few steps toward him.
+Leo took a few steps toward him.
 
-"Is that what you do then? You push people away the very moment someone mention something uncomfortable? So how does this work, you're good until no one talks about it?"
+"Why? Because of what Aaron said?"
 
 Taiga could not answer. Leo slowly shook his head. Now his voice was trembling.
 
-"I... really thought you were different."
+"I see... I guess maybe I was wrong about you."
 
 Taiga looked down, unable to hold his gaze any longer. 
 
-"If... if being close to you means being shoved away whenever it's convenient, then sorry-"
+"Please, Leo."
+
+"Fine, I get it."
 
 His voice broke towards the end.
 Taiga looked at him and felt like throwing up. One tear was slowly dripping on Leo's cheek.
 
-"...but I don't want to do it."
+"...I'll leave you alone."
 
 He brushed the tear off and turned toward the lodge.
 
