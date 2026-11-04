@@ -715,7 +715,7 @@ Taiga tries to restore the old category by creating distance.
 
 That choice hurts Leo and exposes the cost of using rejection as self-protection.
 
-Leo's boundary remains essential: Taiga may be afraid or confused, but he cannot turn Leo's care into something shameful and then expect Leo to keep absorbing the push / pull.
+In frozen Final Chapter 18, Leo keeps trying to help before leaving hurt and believing his presence is unwanted. His departure grows from rejection and misunderstanding; it does not establish a practiced boundary learned from an ex. Taiga's fear remains understandable while the hurt he directs at Leo remains real. The closing admission that he wanted Leo around does not yet complete his romantic recognition.
 
 ### Repair and realization
 
