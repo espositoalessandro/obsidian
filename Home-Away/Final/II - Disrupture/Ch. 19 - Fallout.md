@@ -57,7 +57,15 @@ Because that was comfortable. Because he didn't have to deal with it if he didn'
 
 He tilted his head backward until he hit the wall. He stayed like that, staring at the ceiling.
 
-What a fucking mess he was.
+Thinking about it, it was pretty obvious what Leo was up to. And Taiga had been playing along all the fucking time.
+Because he enjoyed that. The closeness. The laughs. The contacts. Even just a freaking knee touching his own was enough to make his stomach turn.
+
+Then, when the comfortable grey area got exposed, he chose to flee. Like the freaking the coward he was. He didn't even had the courage to tell Leo the truth. He made it sound like it was his fault.
+
+*you're making it worse*
+
+God, what a fucking mess he was.
+
 
 ***
 
