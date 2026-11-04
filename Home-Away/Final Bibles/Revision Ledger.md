@@ -173,7 +173,7 @@ First, the old 13-chapter Section I spread too little dramatic material across:
 - a low-conflict "new baseline" chapter;
 - a rink / romantic-disruption chapter.
 
-Second, the old romance roadmap delayed **Taiga's actual realization** too far. It allowed Act II to end on vague "I still don't know what this is" language and assigned recognition to Act III, even though Taiga and Leo are twenty, both have prior relationship experience, and Act II already contains months of nervousness, preference, longing, visible closeness, rupture and repair.
+Second, the old romance roadmap delayed **Taiga's actual realization** too far. It allowed Act II to end on vague "I still don't know what this is" language and assigned recognition to Act III, even though they are college-age, Taiga has prior relationship experience, and Act II already contains months of nervousness, preference, longing, visible closeness, rupture and repair.
 
 ### Final rule or intended fix
 
@@ -265,3 +265,36 @@ remains superseded.
 
 The old Draft Chapter 13 rink material is source material only. Final Chapter 12 owns the romantic-awareness turn.
 
+
+---
+
+## Pinetree rewrite: carry frozen Chapters 17–18 forward
+
+**First discovered:** Final Chapter 18 closing audit  
+**Scope:** Structure / character / romance / continuity  
+**Affected chapters:** Next Chapter 19; old Draft Chapters 20–22 and later callbacks  
+**Status:** In progress
+
+### Issue
+
+The completed Draft and earlier plan assume a separate chapter for each Pinetree day, a Friday sexual encounter, Leo's ex-informed boundary speech and older lodging details. Frozen Final Chapters 17–18 supersede those assumptions.
+
+### Final rule or intended fix
+
+- Chapter 17 covers Thursday. Chapter 18 merges Friday and Saturday and ends with the private rupture.
+- Chapter 19 opens later Saturday night with Scott's captaincy conversation, before Sunday fallout.
+- Leo leaves after feeling rejected and concluding that he misread Taiga's welcome. Do not restore the discarded ex backstory or polished boundary speech.
+- Rewrite old reconciliation / Keitaro callbacks to "I thought you wanted me around." The older "I thought you were different" and "I'm done following people who don't want me" lines were removed.
+- Preserve Scott as Taiga's roommate and Thursday as the arrival day.
+- The overlook portrait is on Leo's phone. Establish sharing if it is later viewed on Taiga's phone.
+- Match Scott's account of the public argument to Final Chapter 18; do not invent interventions from the superseded Draft.
+- The old post-Pinetree numbering remains provisional.
+
+### Cross-novel checks
+
+- [x] Chapter 18 closing audit completed; Final English and formatting verified
+- [x] Character Voices, Prose & Voice, Section II Chapter Map and Master Calendar aligned
+- [ ] Chapter 19 opening rewritten from the frozen Final situation
+- [ ] Sunday aftermath inherits current roommates, arrival day, messages and photos
+- [ ] Reconciliation and Keitaro callbacks updated during their rewrites
+- [ ] Later references to Leo's discarded backstory audited
