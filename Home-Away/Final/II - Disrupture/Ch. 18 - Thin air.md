@@ -375,7 +375,7 @@ Leo just winked in response. He leaned over the other side of the bed to bin the
 Taiga glanced at Leo's hand, resting on his thigh merely centimeters away from his own.
 With his heart beating hard, he shifted his hand a centimeter towards Leo's.
 For a moment, the world narrowed to the gap between his little finger and Leo's index finger.
-Ten centimeters, tops. He moved it another bit. Then another. Did Leo just move his own as well? Taiga moved his hand closer. His heart was beating so hard that Taiga feared Leo could hear it.
+Ten centimeters, tops. He moved it another bit. Then another. Did Leo just move his own as well? Taiga moved his hand closer. His heart was now beating so hard that Taiga feared Leo could hear it.
 He moved it again. Now he could feel the heat radiating from Leo's own hand.
 
 "NO FUCKING WAY!" Gav shouted.
@@ -1028,7 +1028,7 @@ Taiga walked towards nowhere in particular. He kept going uphill, away from the 
 He could imagine Leo beside the chair.
 Everybody looking, waiting for something to happen. For someone to laugh, or explain, or say that of course it wasn't like that.
 
-He arrived at the edge of the campus. Beside the road, there was the path that lead to the overlook. Taiga kept going forward until the road stopped into a snow bank. Around him he could barely make out the shape of the trees. A few, feeble lights from the valley underneath were visible through the branches. 
+He arrived at the edge of the campus. Beside the road, there was the path that lead to the overlook. Taiga kept going forward until the road stopped into a snow bank. Around him, the last lamp barely lit the surroundings. A few, feeble lights from the valley underneath were visible through the branches. 
 
 He stopped there in the middle of the road.
 Why the fuck did it have to happen again?
