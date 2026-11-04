@@ -849,28 +849,28 @@ The terrace was quieter than the lodge. There were fewer people outside, sitting
 
 "That's nice!" Leo said, taking a chair.
 
-Taiga just smiled and dropped on a bench beside him. Yeah, that was definitely more like it. 
-For a split-second he had the impression that anytime now, Aiden or Hiro would be coming from inside bringing hot chocolate and marshmallows. He arched his mouth a bit and looked at the fire.
+Taiga just smiled and dropped onto a bench beside him. Yeah, that was definitely more like it.
+For a split second, he had the impression that Aiden or Hiro might come out at any moment, bringing hot chocolate and marshmallows. His mouth curved a little and he looked at the fire.
 
 "I know that smile."
 
-Taiga turned, Leo was leaning toward him.
+Taiga turned. Leo was leaning toward him.
 
 "What?"
 
 "It's the nostalgic smile."
 
-"It's not- how exactly is a nostalgic smile different?"
+"It's not—how exactly is a nostalgic smile different?"
 
 "Your normal smile is like this."
 
-He mimed Taiga's smile good enough to make Taiga wanting to disappear. 
+He mimed Taiga's smile well enough to make Taiga want to disappear.
 
 "Fuck you, I don't smile like that."
 
-"Yes you do! And that's your nostalgic smile."
+"Yes, you do! And that's your nostalgic smile."
 
-He did a different one. More subtle with a dreamy look in the eyes.
+He did a different one. More subtle, with a dreamy look in his eyes.
 
 "I'm throwing you into the fire."
 
@@ -882,9 +882,9 @@ Taiga groaned. "Why is everyone cataloging my face?"
 
 "Fuck off. Both of you."
 
-Milo came out from the lodge with paper cups and a big thermos. 
+Milo came out of the lodge with paper cups and a big thermos.
 
-"Anyone in for hot chocolate?"
+"Anyone up for hot chocolate?"
 
 Leo immediately raised both hands. "You're my new favorite person."
 
@@ -892,13 +892,13 @@ Taiga raised an eyebrow. "You're the most easily corruptible person I know."
 
 "Do you know how hard it is to enjoy hot chocolate back at home?" Leo said, holding a cup while Milo poured.
 
-"That's the same excuse Skip uses." Milo said.
+"That's the same excuse Skip uses," Milo said.
 
-From the other side of the fire, Skylar shouted "Fuck you. Bring that chocolate over here."
+From the other side of the fire, Skylar shouted, "Fuck you. Bring that chocolate over here."
 
 "See? Pure gluttony."
 
-Aaron put out the phone and joined them shortly after.
+Aaron put his phone away and joined them shortly after.
 
 "So, who won?"
 
@@ -910,21 +910,21 @@ Aaron smiled a little. "Should've warned you."
 
 Someone passed Aaron a cup. Enzo began recounting his own game against Evan, who disagreed with almost every detail. Taiga listened, smiling into his drink while Enzo insisted that a ball had moved by itself.
 
-They stayed there for a while, talking about all sorts of stuff and sharing their campus experiences. 
-Taiga was warm near the fire, with the familiar smell filling up the air. Hot chocolate in his hands. Leo saying stupid things and laughing from beside him. 
+They stayed there for a while, talking about all sorts of stuff and sharing their campus experiences.
+Taiga was warm near the fire, with the familiar smell filling up the air. Hot chocolate in his hands. Leo saying stupid things and laughing beside him.
 
-People slowly went back inside one after another. Skylar sat beside Aaron and Darren joined them shortly after.
-Conversation then moved to the morning practice. Everyone started complaining.
+People slowly went back inside one after another. Skylar sat beside Aaron and Dennis joined them shortly after.
+The conversation then moved to the morning practice. Everyone started complaining.
 
-"You should've seen Skylar the first time Hale put him in defense," Darren said. "He spent half of his breath allowance running back from the attacking position."
+"You should've seen Skylar the first time Hale put him in defense," Dennis said. "He spent half of his breath allowance running back from the attacking position."
 
 "Shut it, Dew. It was because your finishes were shit."
 
-Darren laughed. "Yeah, gotta admit it."
+Dennis laughed. "Yeah, gotta admit it."
 
-"I enjoyed that!" Gav said, "It was kinda fun."
+"I enjoyed that!" Gav said. "It was kinda fun."
 
-"Yeah, w-we could see that." Scoot pointed out.
+"Yeah, w-we could see that," Scott pointed out.
 
 Aaron shook his head. "I think you were the only one enjoying that shit."
 
@@ -938,13 +938,13 @@ Gav patted his shoulder. "Come on, you weren't that bad."
 
 "Who said I was?"
 
-Gav stopped and lifted his hands. "Uh- no one, I was just saying."
+Gav stopped and lifted his hands. "Uh—no one. I was just saying."
 
 "Well, don't. Besides, half of Hale's complaints were directed at me."
 
 "Those were corrections, not complaints. That's what coaches usually do," Taiga said. And he regretted it immediately.
 
-"Thank you coach, I didn't fucking notice that."
+"Thank you, Coach. I didn't fucking notice that."
 
 Everyone went silent for a second. Something in Taiga finally gave in.
 
@@ -956,13 +956,13 @@ Aaron glanced at him. "What problem?"
 
 "Here we go. The supreme judge is here."
 
-"I'm not judging shit. You've been snapping at everyone stupid enough to ask you a simple question. Milo this morning, earlier Scott who was simply trying to help. Now Gav."
+"I'm not judging shit. You've been snapping at everyone stupid enough to ask you a simple question. Milo this morning. Scott earlier, when he was simply trying to help. Now Gav."
 
 "It was no big deal, Taiga," Gav said hesitantly.
 
-Aaron's mouth twisted awfully. "Well, apparently it is, since he's been keeping track."
+Aaron's mouth twisted into an ugly grimace. "Well, apparently it is, since he's been keeping track."
 
-Taiga felt his jaw tighten. "Yeah, it is. Just because you sucked at practice now you're making everyone else pay for it."
+Taiga felt his jaw tighten. "Yeah, it is. Just because you sucked at practice, now you're making everyone else pay for it."
 
 "There we go. You were shit as well, but instead of minding your fucking business, you have to tell me about my mistakes."
 
@@ -974,21 +974,21 @@ Aaron's mouth tightened.
 
 "Am I?"
 
-"Yes. You sit there correcting everybody, and the second somebody points at you, suddenly they're the problem. Why don't you talk about every time *you* were in my space, huh?"
+"Yes. You sit there correcting everybody, and the second somebody calls you out, suddenly they're the problem. Why don't you talk about every time *you* were in my space, huh?"
 
-"What the fuck does that have to do with it? Yeah, I fucked a couple of times as well, so what? At least I tried to do what Hale told me without blaming the others for my stupidity."
+"What the fuck does that have to do with it? Yeah, I fucked up a couple of times as well, so what? At least I tried to do what Hale told me without blaming the others for my stupidity."
 
-"And you think I didn't do as well? Hale told told me something like fifty different things."
+"And you think I didn't try too? Hale told me something like fifty different things."
 
 "Then fucking use them! He can't come and hold your hand every time!"
 
-Taiga could now feel blood pumping in his head. 
+Taiga could now feel blood pumping in his head.
 
 Aaron stared at him for a couple of seconds. "You're such a fucking arrogant prick."
 
-Leo stood up. "Okay, Aaron. That's enough, we all-"
+Leo stood up. "Okay, Aaron. That's enough, we all—"
 
-"Yeah, here you go. Now I can't even argue with him with you tagging along?"
+"Yeah, here we go. Now I can't even argue with him with you tagging along?"
 
 Leo froze. "What? I'm just saying that this is getting ugly for no reason."
 
@@ -1002,24 +1002,24 @@ Taiga stood between them, facing Aaron. "Leave him out of this."
 
 "I'm trying, but your stupid boyfriend can't stop sucking your dick for one fucking second."
 
-Taiga stopped. 
+Taiga stopped.
 The world stopped.
 
 There was only Aaron's ugly face in front of him. Taiga was already clenching his fists.
-The scar over his nose seemed to hurt again for a split-second.
-He took small, deep breaths from his nose.
+The scar over his nose seemed to hurt again for a split second.
+He took small, deep breaths through his nose.
 
-Evan stepped in. "Okay, that's enough guys. Cut it."
+Evan stepped in. "Okay, that's enough, guys. Cut it."
 
-Taiga's gaze was locked into Aaron's. 
+Taiga's gaze was locked on Aaron's.
 The impulse passed, and he relaxed his fingers.
 
-Suddenly he became aware that everyone had heard what Aaron just said. 
+Suddenly, he became aware that everyone had heard what Aaron had just said.
 Leo was right behind him, but Taiga didn't have the courage to look at him.
 
 "I'm fucking done with you."
 
-He picked up his coat and left, without looking at anyone.
+He picked up his coat and left without looking at anyone.
 
 ***
 
