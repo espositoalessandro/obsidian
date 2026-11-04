@@ -46,7 +46,7 @@ His throat was burning from the acid. He welcomed the pain, though. Afterall, al
 He sat on the floor, resting his back to the cold wall. 
 
 Yeah. He brought this on himself. He let Leo get too close, when Taiga himself didn't know what he was doing.
-The very moment he got exposed, he kicked him out. Instantly. No hesitation.
+The very moment he got exposed, he kicked him out.
 
 He leaned his head onto his hand, resting his elbow on the knee.
 
