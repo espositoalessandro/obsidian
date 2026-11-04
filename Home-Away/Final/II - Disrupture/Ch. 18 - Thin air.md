@@ -1133,6 +1133,6 @@ Taiga looked at him and felt like throwing up. One tear was slowly dripping on L
 
 He brushed the tear off and turned toward the lodge.
 
-Taiga watched him leaving. He could feel hot tears running down his cheeks.
+Taiga watched him leaving. Hot tears ran down his cheeks.
 
-The whole world suddenly turned black.
+The whole world had turned black.
