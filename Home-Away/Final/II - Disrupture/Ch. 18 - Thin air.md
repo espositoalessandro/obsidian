@@ -1097,7 +1097,7 @@ Leo stopped. His face changed. Worry turned into disbelief.
 
 Taiga didn't answer. Leo stared at him for several seconds.
 
-"Taiga, please! Talk to m-"
+"I was just worried! You ran away upset, what was I supposed to-"
 
 "Why? Why do you always do that?"
 
@@ -1122,7 +1122,7 @@ Taiga could not answer. Leo slowly shook his head. Now his voice was trembling.
 
 Taiga looked down, unable to hold his gaze any longer. 
 
-"Please, Leo."
+"Please, Leo. It's not-"
 
 "Fine, I get it."
 
