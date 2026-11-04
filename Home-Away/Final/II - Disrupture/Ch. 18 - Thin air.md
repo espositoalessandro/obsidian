@@ -1118,15 +1118,15 @@ Leo took a few steps toward him.
 
 Taiga could not answer. Leo slowly shook his head. Now his voice was trembling.
 
-"You were fine with me before he said that. I thought... I thought you wanted me around."
+"You were fine with me before he said that! I thought... I thought you wanted me around."
 
 Taiga looked down, unable to hold his gaze any longer. 
 
 "Please, Leo. It's not-"
 
-"Fine, I get it."
+"Fine, I get it. I was wrong."
 
-His voice broke towards the end.
+His voice broke.
 Taiga looked at him and felt like throwing up. One tear was slowly dripping on Leo's cheek.
 
 "...I'll leave you alone."
