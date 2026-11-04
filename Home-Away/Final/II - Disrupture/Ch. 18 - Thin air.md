@@ -1133,4 +1133,13 @@ Taiga looked at him and felt like throwing up. One tear was slowly dripping on L
 
 He rubbed his face and turned toward the lodge.
 
-Taiga watched him leaving. Hot tears ran down his cheeks.
+Taiga watched him leaving. 
+
+*I thought you wanted me around.*
+
+He did. Fuck, he did.
+
+Leo was still close enough to hear him. He could say his name. Ask him to stay.
+Taiga drew a breath, but all that came out was a small, broken sound.
+
+Hot tears ran down his cheeks as he stood there, until the only sound left was the wind gently moving the branches.
