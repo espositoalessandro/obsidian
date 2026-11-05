@@ -2,14 +2,14 @@
 
 Taiga stood out there for what felt like an eternity. When his fingers began to hurt from the cold, he started towards his room.
 
-The corridor was silent. Most people were probably still in the common lodge. 
+The corridor was silent. Most people were probably still in the common lodge.
 
-Taiga reached Leo's room door. He stopped with his hand raised mid air when he heard a sniff coming from inside. He felt sick.
-He clenched his fist hard and stood there for a while, yet he didn't manage to bring himself to knock.
+Taiga reached the door to Leo's room. He stopped with his hand raised in midair when he heard a sniff coming from inside. He felt sick.
+He clenched his fist hard and stood there for a while, but he couldn't bring himself to knock.
 
 He turned and went inside his room instead.
 
-Scott hadn't returned either.
+Scott hadn't returned yet.
 Taiga sat on his bed in the empty room. Now the only noise was the heater clicking from a distance.
 
 Just an hour earlier, he'd been enjoying his hot chocolate with Leo and everyone else. Now that seemed like it was someone else's life.
@@ -80,7 +80,7 @@ He heard Scott's voice in the room. Right, enough sulking. Time to face the worl
 
 "Yeah."
 
-He stood up, flushed the toilet and washed his mouth a bit. Then he took a deep breath before going out.
+He stood up, flushed the toilet and rinsed his mouth out. Then he took a deep breath before going out.
 
 Scott was sitting on his bed, untying his shoes. He looked up.
 
@@ -96,21 +96,21 @@ Taiga nodded.
 
 His tone suddenly shifted to his soccer voice. He straightened up.
 
-"I know you're upset but can we please talk a second?"
+"I know you're upset, but can we please talk for a second?"
 
 Taiga exhaled and sat on his bed. Scott continued.
 
-"Look. There's no way around this. Aaron was a dick and you pushed it farther."
+"Look. There's no way around this. Aaron was a dick and you pushed it further."
 
-Taiga's jaw tightened but he didn't answer.
+Taiga's jaw tightened, but he didn't answer.
 
-"I'm not trying to say who was worse, but I cannot let it destroy team's morale, especially for tomorrow. Half of our teammates saw you two arguing."
+"I'm not trying to say who was worse, but I can't let this destroy the team's morale, especially with a match tomorrow. Half of our teammates saw you two arguing."
 
-"If you're trying to suggest that I go talking to him..."
+"If you're trying to suggest that I go and talk to him..."
 
-"No. You don’t have to make up tonight. But tomorrow, you still have to play together. Everyone else is still counting on you two."
+"No. You don't have to make up tonight. But tomorrow, you still have to play together. Everyone else is still counting on you two."
 
-"You don't have to tell me. I'm not even playing-"
+"You don't have to tell me. I'm not even playing—"
 
 "Taiga."
 
@@ -119,14 +119,14 @@ He looked up. Scott was staring right into his eyes.
 "This is about the team. Not about you."
 
 That hit with extreme precision.
-Now something heavy dropped into his stomach. Suddenly he realized that his bullshit might have done more damage than he accounted for. It was not just his relationship with Leo.
-He tried very hard to repress another retch.
+Now something heavy dropped into his stomach. Suddenly he realized that his bullshit might have done more damage than he'd realized. It was not just his relationship with Leo.
+He tried very hard to suppress another retch.
 
 After a while, Taiga nodded.
 
 "Alright. Sorry, you're right."
 
-Scott smiled. "Good. I'm really sorry too for what happened. I should have stepped in sooner but I didn't expect things to escalate that badly."
+Scott smiled. "Good. I'm really sorry about what happened too. I should have stepped in sooner, but I didn't expect things to escalate that badly."
 
 "It's not your fault."
 
@@ -136,8 +136,8 @@ Right. Scott too. How in the world had he been able to fuck up so many people in
 
 "About the rest... I can help you as a friend, but I can't fix it. That's up to you two."
 
-Taiga thought about confronting Aaron again. Right now, it seemed the worst idea in the world. He barely managed not to punch him a couple of hours ago. 
-And right now, just imagining his face made his blood pump again.
+Taiga thought about confronting Aaron again. Right now, it seemed like the worst idea in the world. He'd barely managed not to punch him a couple of hours earlier.
+And right now, just imagining his face made his pulse race again.
 
 "Last time I saw him, I was about to punch him. I don't..."
 
@@ -145,23 +145,21 @@ He took a deep breath.
 
 "...I'm gonna need time."
 
-Scott nodded. "I'm glad you didn't. By the way, do you know where Leo is? Last time I saw him he was running to you."
+Scott nodded. "I'm glad you didn't. By the way, do you know where Leo is? Last time I saw him, he was running after you."
 
-Taiga looked away, trying hard to hold his tears. "Don't know. Probably his room."
+Taiga looked away, trying hard to hold back his tears. "Don't know. Probably his room."
 
 Scott stayed silent for a couple of seconds. "Okay."
 
-He picked up his pajama and went to the bathroom.
+He picked up his pajamas and went to the bathroom.
 
 Taiga exhaled and got changed as well. He was already in bed when Scott came out.
-He shut the lights and tucked under his sheets.
+Scott switched off the lights and tucked himself under his sheets.
 
 "Night."
 
 "'Night," Taiga muttered.
 
-When the last light was out, finally he let go of the tears.
+When the last light was out, he finally let the tears fall.
 
 ***
-
-
