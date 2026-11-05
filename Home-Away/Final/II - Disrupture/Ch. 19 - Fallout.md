@@ -305,7 +305,7 @@ Scott pointed at the door.
 
 He pointed a finger to his chest.
 
-"-we are one big entity. Out there, one's problems are everyone's problems. So, we leave as much of it as it's humanly possible in here. Because we don't want to burden any of our teammate."
+"-one's problems becomes everyone's problems. And I don't want any unnecessary bullshit on the pitch."
 
 His eyes went to everyone, he didn't linger on Taiga, nor Aaron. Taiga appreciated that.
 
