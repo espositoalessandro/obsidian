@@ -381,4 +381,59 @@ Scott collected the ball and threw it toward halfway.
 
 "NEXT ONE! COME ON!"
 
+***
+
+At halftime, Taiga followed the others into the changing room.
+
+Mercer shut the door.
+
+"What's this?"
+
+Nobody answered.
+
+"Zero communication. You are all hesitating. How many times did we talk about the space behind their fullbacks?"
+
+He looked at Enzo.
+
+"Yeah, It's there."
+
+"Yes. It is. So why do we keep waiting until they've covered it?"
+
+Evan took a drink. Leo was looking at the floor.
+
+Mercer pointed toward the door.
+
+"They want you standing still by the line with the ball. We knew that before kickoff. Yet we keep giving them time to put us there."
+
+Gav nodded. "We need the next pass sooner."
+
+"And someone asking for it. Bennett, when Cole comes short, you can go past him. You don't need to wait until he's got the ball to start."
+
+Aaron straightened.
+
+"Okay."
+
+"Mendez. You had Reyes running twice. Play him."
+
+"Yeah."
+
+"Ellis, keep going when Reyes comes inside. Foster will cover."
+
+Gav nodded again.
+
+Mercer looked around the room.
+
+"You're all waiting for somebody else. Call. Move. If the pass is wrong, we'll deal with it. We can't do anything with a pass you never make. Also."
+
+He paused a second, looking at them.
+
+"You have forty-five minutes to behave like adults again."
+
+Mercer checked the time.
+
+"Same eleven. Get back out."
+
+***
+
+
 
