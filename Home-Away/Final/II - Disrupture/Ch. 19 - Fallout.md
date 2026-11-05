@@ -171,24 +171,24 @@ He still managed to drag himself downstairs with Scott. The cold morning air hit
 Taiga felt better. Slightly.
 
 They walked silently to the dining lodge. The corridor from the main lodge already smelled like coffee.
-Normally, he would have loved that. Now, his stomach was clenched by the anticipation of what was waiting beyond.
+Normally, he would have loved that. Now, his stomach tightened at the thought of what was waiting beyond.
 
-Olympus was split in three big tables near the windows. Not everyone had already arrived. The hall was almost empty, saved for Pinetree's players.
+Olympus was spread across three big tables near the windows. Not everyone had arrived yet. The rest of the hall was almost empty, save for Pinetree's players.
 
-He spotted Aaron, sitting next to Jordan. 
+He spotted Aaron sitting next to Jordan.
 Taiga exhaled and went to pick up a tray. He took more food than he actually wanted, repeating to himself that he needed fuel for the match.
 
-He took place beside at another table between Scott and the window, with his shoulder to the entrance. 
+He took a seat at another table, between Scott and the window, with his shoulder toward the entrance.
 
-Five minutes later, he heard Enzo's voice coming from behind.
+Five minutes later, he heard Enzo's voice coming from behind him.
 He stared at his plate, stopping with the fork halfway to his mouth. His stomach suddenly refused to accept anything else.
 
-Enzo and Leo passed next to his table going to the food counter. He refused to look up.
-Enzo was complaining about something involving waking up early on Sunday. Taiga just noticed that he didn't hear Leo's voice much. Which was unusual.
+Enzo and Leo passed his table on their way to the food counter. He refused to look up.
+Enzo was complaining about something involving waking up early on Sunday. Taiga noticed that he could barely hear Leo's voice. Which was unusual.
 
-He glanced up. They were in line, Enzo was still talking while Leo was just holding his tray, looking down.
+He glanced up. They were in line. Enzo was still talking while Leo stood holding his tray, looking down.
 
-He couldn't even manage to look at him, how was he supposed to survive an entire match?
+He couldn't even manage to look at him. How was he supposed to survive an entire match?
 
 Ten minutes later, they were coming back with their trays. Enzo stopped at their table and sat beside Evan on the bench opposite Taiga. Taiga looked up automatically and saw Leo still standing, looking hesitantly at him.
 
@@ -202,17 +202,17 @@ Taiga couldn't eat anything else.
 
 Pinetree gave Olympus a small meeting room in the training center beside the pitch.
 
-Mercer arrived and the briefing began.
+Mercer arrived, and the briefing began.
 
-"First of all, I see you all made lots of progress in your new positions. Remember what you learned. Now, regarding the match."
+"First of all, I can see you've all made lots of progress in your new positions. Remember what you learned. Now, regarding the match."
 
 He pointed at his magnetic board.
 
-"As you've seen for yourself, Pinetree players are extremely versatile. They will use that to move people where you don't expect them. So, don't assume their fullback will always be where you expect him to be."
+"As you've seen for yourselves, Pinetree players are extremely versatile. They will use that to move people where you don't expect them. So, don't assume their fullback will always be where you expect him to be."
 
-Pinetree tags on the board showed a 4-3-3 formation.
+Pinetree's tags on the board showed a 4-3-3 formation.
 
-"They organize around the midfield, don't expect much chasing near our goal. They will encourage you to play around the touchlines, before closing you down. Don't give them what they want."
+"They organize around midfield. Don't expect much chasing near our goal. They will encourage you to play along the touchlines before closing you down. Don't give them what they want."
 
 "Cole. Reyes. Mendez. Their fullbacks will run, and they will be dangerous. But they'll leave space behind them often. Use it."
 
@@ -232,7 +232,7 @@ Taiga pulled his training top over his head and put it in his bag. Across the ch
 
 He looked away before Leo could look up.
 
-Communication is key. Right. 
+Communication is key. Right.
 For the first time since joining Apollo, Taiga was glad he was on the bench.
 Outside, the sun had reached the pitch, but the benches were still in shadow. Snow lay in dirty banks beyond the fence. A few people had gathered along the opposite touchline, hands buried in their pockets.
 
@@ -258,11 +258,11 @@ Scott was already shouting from the other end of the pitch. Carter had left some
 
 Taiga tried to listen to that instead.
 
-People began filling up the bleachers. He noticed that Pinetree's main pitch bleachers were enclosed in wooden walls, with heaters spread all around. That looked cozy. They had something like one tenth of the capacity of Olympus' stadium. 
+People began filling up the bleachers. He noticed that the bleachers beside Pinetree's main pitch were enclosed by wooden walls, with heaters spaced throughout. That looked cozy. They had about a tenth of the capacity of Olympus's stadium.
 
-Hale and Mercer then whistled and both teams started towards the lockers. 
+Hale and Mercer then whistled, and both teams started toward the locker rooms.
 
-On his way to the touchline, Milo approached Taiga.
+Milo approached Taiga as they reached the touchline.
 
 "Hey."
 
@@ -276,48 +276,45 @@ Milo smiled uncertainly. "I'm really sorry for what happened yesterday."
 
 "Thanks..."
 
-"Well, for what it's worth, I'll try to kick his ass the best way I can!"
+"Well, for what it's worth, I'll do my best to kick his ass!"
 
-Taiga laughed once from his nose. "I'm sure you will."
+Taiga snorted a laugh. "I'm sure you will."
 
-Milo smiled properly. "Good luck you guys."
+Milo smiled properly. "Good luck, you guys."
 
 "You too."
 
 ***
 
-Fifteen minutes before kickoff, they were in their lockers, waiting for Mercer to call them out.
+Fifteen minutes before kickoff, they were in the locker room, waiting for Mercer to call them out.
 
-They were all sitting on their benches, waiting and without talking much.
+They were all sitting on their benches, waiting without talking much.
 
 Scott stood up.
 
 "Alright, guys."
 
-He approached the middle of the room. Silence fell.
+He stepped into the middle of the room. Silence fell.
 
 "There's no point in pretending nothing happened."
 
-Taiga gulped. Aaron was tying his boot and stopped.
+Taiga gulped. Aaron stopped tying his boot.
 Scott pointed at the door.
 
-"When we go out of this locker room, we leave whatever shit we're carrying in here, along with our belongings. When we put our shirts on-"
+"When we go out of this locker room, we leave whatever shit we're carrying in here, along with our belongings. When we put our shirts on—"
 
-He pointed a finger to his chest.
+He pointed a finger at his chest.
 
-"-one's problems becomes everyone's problems. And I don't want any unnecessary bullshit on the pitch."
+"—one's problems become everyone's problems. And I don't want any unnecessary bullshit on the pitch."
 
-His eyes went to everyone, he didn't linger on Taiga, nor Aaron. Taiga appreciated that.
+He looked around the room without lingering on either Taiga or Aaron. Taiga appreciated that.
 
- "Is that fucking clear?"
+"Is that fucking clear?"
 
-Everyone muttered "yes".
+Everyone muttered, "Yes."
 
 Mercer opened the door. "Come out."
 
 Scott turned to his team. "Now let's go show them what Apollo is really capable of."
 
 ***
-
-
-
