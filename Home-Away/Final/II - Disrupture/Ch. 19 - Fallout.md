@@ -628,3 +628,176 @@ Taiga looked down and sat two rows back on the opposite side, in the window seat
 The bus pulled away.
 
 ***
+
+By the time the city returned, it was dark. Mercer stood when they entered campus. 
+
+“Tomorrow recovery at four. Film after. Now get some sleep.”
+
+The bus stopped outside the athletic complex. Everyone stood. Bags, jackets, the aisle clogged.
+
+Enzo wrestled the giant pillow from overhead.
+
+“Why did I bring this?” Enzo asked.
+
+Gav, behind Leo, said, “Apparently, you had very specific needs.”
+
+“Past me was selfish.”
+
+By the time Taiga reached the door, he saw Leo had already picked up his bag and was walking toward the dorms.
+
+He picked up his duffel and started toward his room as well. Five minutes later, someone called him from behind.
+
+"Taiga!"
+
+He turned. Aaron was running toward him.
+
+"What do you want?"
+
+"Can- Can we talk?" He said between breaths.
+
+Taiga stopped. His fingers clenched around the shoulder strap. He opened his mouth automatically, ready to tell him he could fuck off. Then closed it. 
+
+Aaron was standing there, anxiously waiting for an answer. He looked extremely vulnerable right now. Taiga could make him taste his own medicine. It looked so simple.
+
+And yet. He knew that look. It was the same face he had made when he asked Keitaro to stay with him on the pier. The same desperate face of someone who had brutally fucked up.
+Somehow, piety crawled in.
+
+Taiga exhaled and turned toward him.
+
+"Look, I'm... I'm sorry."
+
+Good start. Taiga didn't answer yet.
+
+"I felt like shit, like, five minutes after you left. I got caught so much in my insecurities that I lashed out on you. And Leo."
+
+"And everyone else."
+
+Aaron looked down and nodded. "Yeah, them too. I just wrote to Milo and Skylar, but it didn't feel right to talk to anyone on the team before I managed to talk to you."
+
+Taiga raised an eyebrow.
+
+"Indulge me on this," Aaron continued. "Look, I really don't really know what to say, besides that I regret basically every fucking word I said yesterday."
+
+There was a pause. The anger hadn't disappeared yet, but he believed him.
+
+"Why... Why did you say that thing? About me and Leo?"
+
+Aaron bit his lip. "Because... Oh, fuck. Because I felt cornered. I tried to dismiss Leo by treating him just as an appendix of yours."
+
+"He is not-"
+
+"Of course he isn't, Taiga. I know that. And I already knew yesterday. I knew you are just good friends, and I know I hurt him as well. I saw him today."
+
+Yeah, except it had nothing to do with Aaron.
+
+"I still don't get what your problem was. With everyone of us."
+
+"I sucked. And I hate sucking in front of other people I don't know. Then I saw you guys getting better at it while I was still stuck there. And I got so fucking jealous to the point that I started hating you all. Especially you, Taiga."
+
+"Me?"
+
+"Yeah. Sometimes you're arrogant, sometimes it really looks like you think others are stupid. But since you've arrived, you've done nothing else but improving."
+
+He looked away and took a deep breath.
+
+"Every fucking day, you got better and better. I saw you running straight at Leo at tryouts like an idiot, then today I saw you assisting him on a goal no one else had managed to do for seventy fucking minutes. And you did it in less than twenty. While me-"
+
+Aaron clenched his hands around the straps of his bag.
+
+"I haven't improved much at all in all this fucking time. And I kept blaming others for my shortcomings."
+
+Taiga didn't answer for a while. His anger was still fighting to resurface, but there was nowhere to hold.
+Because again, he had already been there. Looking at Keitaro making friends while he was stuck with his stupid jealousy.
+
+And Keitaro somehow had decided to forgive him anyway.
+
+"Fine," he finally said.
+
+Aaron looked up. "Fine?"
+
+"I understand why you did that. And I see you've understood it too."
+
+Aaron's face relaxed immediately.
+
+"I won't lie. I'm still fucking mad at you."
+
+"Fair enough."
+
+"But... yeah, fine. We're good. Besides, I owe you an apology as well. Yesterday I crossed the line too."
+
+Aaron exhaled a laugh in relief. 
+
+"That's on me. I got you pretty worked up."
+
+"Yeah."
+
+"Speaking of which... You can tell me to fuck off and mind my business but-"
+
+"What?"
+
+"Did something happen after? I know Leo is mad at me but... I noticed that you two barely talked today as well." 
+
+He paused a second, scratching the back of his head.
+
+"I can't help but think that I might have done more damage than I initially thought. I don't want you two to fight because of me."
+
+Taiga felt the nausea come back.
+
+"It wasn't you," he said. Then, after a pause, "I fucked everything up."
+
+"Was that because of what I said?"
+
+"That triggered it. Yeah. But..."
+
+He looked away, unable to say more.
+
+Aaron spoke very carefully. "Taiga... do you actually like him?"
+
+Hearing that question out loud made it ten times worse.
+He wanted to tell Aaron to fuck off, to mind his business. That he was wrong, it was nothing like that.
+
+What was the point, though? 
+
+Aaron hadn't been jealous of them. He didn't want to make fun of whatever they were. Perhaps, he wasn't even thinking there was something between them when he called them *boyfriends*.
+
+So, he nodded. Slowly.
+
+Aaron widened his eyes in realization. "That's why you ran away."
+
+"Yeah."
+
+He took another deep breath.
+
+"You said it out loud and I panicked."
+
+"Shit. I'm sorry, I didn't know-"
+
+"That's not the point. When Leo followed me, I pushed him away. Because... I wasn't ready to face the truth."
+
+"Meaning, he likes you too?"
+
+Now he felt heat on his face. "I dunno, I-... I guess."
+
+"Then why are you both suffering on your own? You said you weren't ready. Is that still true?"
+
+"I don't know. But that doesn't matter. He's better off without someone like me."
+
+Aaron frowned. "Why?"
+
+"Because just like you, I let my insecurities hurt him out of the blue. It has already happened before. It has also happened with you. And it will happen again."
+
+There was a long, uncomfortable pause. 
+
+"You forgave me, though," Aaron eventually said.
+
+Taiga looked at him.
+
+"So what?"
+
+"Maybe he'll forgive you too."
+
+
+
+
+
+
