@@ -204,7 +204,7 @@ Pinetree gave Olympus a small meeting room in the training center beside the pit
 
 Mercer arrived and the briefing began.
 
-"First of all, I see you all made lots of progress in your new positions. Make use of that now. Now, regarding the match."
+"First of all, I see you all made lots of progress in your new positions. Remember what you learned. Now, regarding the match."
 
 He pointed at his magnetic board.
 
