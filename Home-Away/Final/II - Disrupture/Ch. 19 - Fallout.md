@@ -473,7 +473,7 @@ Four minutes later, Mercer called him back.
 
 Taiga nodded, pulling his bib off.
 
-The fourth assistant lifted the board.
+The fourth official lifted the board.
 
 **11 OUT**
 **41 IN**
@@ -553,7 +553,7 @@ They looked up.
 
 "Thanks coach," they muttered together.
 
-"Now, shower and go eat. Bus leaves at five. We'll talk about this tomorrow."
+"Now, shower and go eat. Bus leaves at four. We'll talk about this tomorrow."
 
 Mercer left. Players started undressing and chatter slowly filled the room.
 
@@ -609,13 +609,13 @@ Milo pulled back and grinned.
 
 Taiga nodded. "Yeah. Next time we will kick your asses."
 
-"I'm sure you'll try! Just stay out of drama on the very eve of the match, will you?"
+"I'm sure you'll try."
 
 "Fuck off."
 
-"Bye Taiga!"
+Milo laughed. "Bye Taiga!"
 
-"Yeah. See ya."
+"See ya."
 
 Taiga climbed aboard behind Enzo. 
 
