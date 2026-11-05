@@ -104,17 +104,17 @@ Taiga exhaled and sat on his bed. Scott continued.
 
 Taiga's jaw tightened but he didn't answer.
 
-"I'm not trying to address responsibilities, but I cannot let it destroy team's morale, especially for tomorrow. Half of our teammates saw you two arguing."
+"I'm not trying to say who was worse, but I cannot let it destroy team's morale, especially for tomorrow. Half of our teammates saw you two arguing."
 
 "If you're trying to suggest that I go talking to him..."
 
-"No. I know you both can't do that right now. What I want is that for two hours tomorrow morning you forget this happened. Just for two hours. Because the team cannot pay the consequences of your bickering."
+"No. You don’t have to make up tonight. But tomorrow, you still have to play together. Everyone else is still counting on you two."
 
 "You don't have to tell me. I'm not even playing-"
 
 "Taiga."
 
-He looked up. Scott was staring right into his eyes with a seriousness Taiga had never saw from him.
+He looked up. Scott was staring right into his eyes.
 
 "This is about the team. Not about you."
 
@@ -126,7 +126,7 @@ After a while, Taiga nodded.
 
 "Alright. Sorry, you're right."
 
-Scott smiled. "Good. I'm really sorry too for what happened. I should have stepped in sooner, I didn't expect things to escalate that badly."
+Scott smiled. "Good. I'm really sorry too for what happened. I should have stepped in sooner but I didn't expect things to escalate that badly."
 
 "It's not your fault."
 
@@ -134,7 +134,7 @@ Scott smiled. "Good. I'm really sorry too for what happened. I should have stepp
 
 Right. Scott too. How in the world had he been able to fuck up so many people in ten fucking minutes?
 
-"Although, my duties end with the team. I can help you as a friend, but I won't fix it. That's up to you two."
+"About the rest... I can help you as a friend, but I can't fix it. That's up to you two."
 
 Taiga thought about confronting Aaron again. Right now, it seemed the worst idea in the world. He barely managed not to punch him a couple of hours ago. 
 And right now, just imagining his face made his blood pump again.
@@ -147,7 +147,7 @@ He took a deep breath.
 
 Scott nodded. "I'm glad you didn't. By the way, do you know where Leo is? Last time I saw him he was running to you."
 
-Taiga looked away, trying hard to hold his tears. He shook his head.
+Taiga looked away, trying hard to hold his tears. "Don't know. Probably his room."
 
 Scott stayed silent for a couple of seconds. "Okay."
 
