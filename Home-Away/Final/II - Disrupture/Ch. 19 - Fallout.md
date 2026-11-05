@@ -774,15 +774,23 @@ He took another deep breath.
 
 "That's not the point. When Leo followed me, I pushed him away. Because... I wasn't ready to face the truth."
 
-"Meaning, he likes you too?"
+"And Leo? Does he...?"
 
 Now he felt heat on his face. "I dunno, I-... I guess."
 
-"Then why are you both suffering on your own? You said you weren't ready. Is that still true?"
+"Right."
 
-"I don't know. But that doesn't matter. He's better off without someone like me."
+For a moment, Aaron looked as though he wanted to ask something else. Then he shut his mouth.
 
-Aaron frowned. "Why?"
+"So... are you going to talk to him?"
+
+Taiga looked away. "I don't know."
+
+Aaron shifted his bag higher on his shoulder. "Right."
+
+"I thinks he'd be better off without someone like me."
+
+Aaron frowned. "What? Why?"
 
 "Because just like you, I let my insecurities hurt him out of the blue. It has already happened before. It has also happened with you. And it will happen again."
 
@@ -794,8 +802,7 @@ Taiga looked at him.
 
 "So what?"
 
-"Maybe he'll forgive you too."
-
+Aaron shrugged.
 
 
 
