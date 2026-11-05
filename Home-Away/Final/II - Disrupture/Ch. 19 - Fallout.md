@@ -163,3 +163,41 @@ Scott switched off the lights and tucked himself under his sheets.
 When the last light was out, he finally let the tears fall.
 
 ***
+
+Next morning, Taiga seriously considered skipping breakfast.
+Not because his stomach was still upset.
+
+He still managed to drag himself downstairs with Scott. The cold morning air hit him all at once when they opened the lodge door.
+Taiga felt better. Slightly.
+
+They walked silently to the dining lodge. The corridor from the main lodge already smelled like coffee.
+Normally, he would have loved that. Now, his stomach was clenched by the anticipation of what was waiting beyond.
+
+Olympus was split in three big tables near the windows. Not everyone had already arrived. The hall was almost empty, saved for Pinetree's players.
+
+He spotted Aaron, sitting next to Jordan. 
+Taiga exhaled and went to pick up a tray. He took more food than he actually wanted, repeating to himself that he needed fuel for the match.
+
+He took place beside at another table between Scott and the window, with his shoulder to the entrance. 
+
+Five minutes later, he heard Enzo's voice coming from behind.
+He stared at his plate, stopping with the fork halfway to his mouth. His stomach suddenly refused to accept anything else.
+
+Enzo and Leo passed next to his table going to the food counter. He refused to look up.
+Enzo was complaining about something involving waking up early on Sunday. Taiga just noticed that he didn't hear Leo's voice much. Which was unusual.
+
+He glanced up. They were in line, Enzo was still talking while Leo was just holding his tray, looking down.
+
+He couldn't even manage to look at him, how was he supposed to survive an entire match?
+
+Ten minutes later, they were coming back with their trays. Enzo stopped at their table and sat beside Evan, on the bench across Taiga's. He looked up automatically and saw Leo standing, looking hesitantly at him. 
+Their gaze met for a second. Enough for Taiga to feel sick again. He looked down at his plate again, fork still in his hand.
+Leo took place beside Enzo, on the opposite end.
+
+Taiga couldn't eat anything else.
+
+***
+
+
+
+
