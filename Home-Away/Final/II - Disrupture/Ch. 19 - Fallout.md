@@ -228,6 +228,96 @@ Someone nodded. Mercer frowned.
 
 ***
 
+Taiga pulled his training top over his head and put it in his bag. Across the changing room, Leo was sitting beside Enzo, winding tape around his ankle.
+
+He looked away before Leo could look up.
+
+Communication is key. Right. 
+For the first time since joining Apollo, Taiga was glad he was on the bench.
+Outside, the sun had reached the pitch, but the benches were still in shadow. Snow lay in dirty banks beyond the fence. A few people had gathered along the opposite touchline, hands buried in their pockets.
+
+They warmed up with the ball first.
+
+Gav passed to Taiga and moved around the cone. Taiga gave it to Leo.
+
+"Back," Leo said.
+
+He returned it immediately. Taiga passed to Gav.
+
+Again.
+
+On the next turn, Taiga put too much into the pass. Leo stretched a foot out, stopped it and brought it back without saying anything.
+
+"Easy, Akatora," Mercer called.
+
+"Yeah."
+
+Taiga adjusted his sleeves and waited for the ball to come around.
+
+Scott was already shouting from the other end of the pitch. Carter had left somebody unmarked in the practice box, and apparently everyone in the valley needed to know.
+
+Taiga tried to listen to that instead.
+
+People began filling up the bleachers. He noticed that Pinetree's main pitch bleachers were enclosed in wooden walls, with heaters spread all around. That looked cozy. They had something like one tenth of the capacity of Olympus' stadium. 
+
+Hale and Mercer then whistled and both teams started towards the lockers. 
+
+On his way to the touchline, Milo approached Taiga.
+
+"Hey."
+
+Taiga looked up. "Hey."
+
+"You... alright?"
+
+"I'm trying."
+
+Milo smiled uncertainly. "I'm really sorry for what happened yesterday."
+
+"Thanks..."
+
+"Well, for what it's worth, I'll try to kick his ass the best way I can!"
+
+Taiga laughed once from his nose. "I'm sure you will."
+
+Milo smiled properly. "Good luck you guys."
+
+"You too."
+
+***
+
+Fifteen minutes before kickoff, they were in their lockers, waiting for Mercer to call them out.
+
+They were all sitting on their benches, waiting and without talking much.
+
+Scott stood up.
+
+"Alright, guys."
+
+He approached the middle of the room. Silence fell.
+
+"There's no point in pretending nothing happened."
+
+Taiga gulped. Aaron was tying his boot and stopped.
+Scott pointed at the door.
+
+"When we go out of this locker room, we leave whatever shit we're carrying in here, along with our belongings. When we put our shirts on-"
+
+He pointed a finger to his chest.
+
+"-we are one big entity. Out there, one's problems are everyone's problems. So, we leave as much of it as it's humanly possible in here. Because we don't want to burden any of our teammate."
+
+His eyes went to everyone, he didn't linger on Taiga, nor Aaron. Taiga appreciated that.
+
+ "Is that fucking clear?"
+
+Everyone muttered "yes".
+
+Mercer opened the door. "Come out."
+
+Scott turned to his team. "Now let's go show them what Apollo is really capable of."
+
+***
 
 
 
