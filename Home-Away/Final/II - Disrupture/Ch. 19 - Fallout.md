@@ -200,6 +200,34 @@ Taiga couldn't eat anything else.
 
 ***
 
+Pinetree gave Olympus a small meeting room in the training center beside the pitch.
+
+Mercer arrived and the briefing began.
+
+"First of all, I see you all made lots of progress in your new positions. Make use of that now. Now, regarding the match."
+
+He pointed at his magnetic board.
+
+"As you've seen for yourself, Pinetree players are extremely versatile. They will use that to move people where you don't expect them. So, don't assume their fullback will always be where you expect him to be."
+
+Pinetree tags on the board showed a 4-3-3 formation.
+
+"They organize around the midfield, don't expect much chasing near our goal. They will encourage you to play around the touchlines, before closing you down. Don't give them what they want."
+
+"Cole. Reyes. Mendez. Their fullbacks will run, and they will be dangerous. But they'll leave space behind them often. Use it."
+
+They nodded. Nobody talked, though.
+
+Mercer looked at all of them and narrowed his eyes for a second.
+
+"Communication will be key," he continued. "Talk to each other."
+
+Someone nodded. Mercer frowned.
+
+"That's all."
+
+***
+
 
 
 
