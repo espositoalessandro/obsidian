@@ -37,7 +37,8 @@ He deleted it and locked the phone.
 
 What would he even tell him after that? No words would ever erase what he'd said. The hurt he'd seen on Leo's face.
 
-Keitaro's face overlapped with Leo's for a moment. Nausea hit him. He ran to the toilet and threw up.
+Keitaro's face overlapped with Leo's for a moment. Nausea hit him.
+He ran to the toilet and threw up.
 
 Keitaro's face when Taiga had burned his journal. Then Leo's face right before he turned.
 The same disappointment. The same hurt.
