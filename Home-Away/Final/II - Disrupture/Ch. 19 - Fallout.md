@@ -543,19 +543,89 @@ Pinetree won the match for two-one.
 
 ***
 
+Back in the locker room, the air was slightly more relaxed. 
 
+"The second half was better," Mercer said. "Communication improved and you had more occasion to score. Mendez. Akatora."
 
+They looked up.
 
+"Good job. The exchange was almost flawless."
 
+"Thanks coach," they muttered together.
 
+"Now, shower and go eat. Bus leaves at five. We'll talk about this tomorrow."
 
+Mercer left. Players started undressing and chatter slowly filled the room.
 
+Evan sat beside Taiga and put an arm around his shoulder.
+Taiga looked at him. He was smiling brightly.
 
+"That's what I'm talking about."
 
+"Yeah that was cool as fuck!" Enzo said from across the room.
 
+Taiga forced a smile. "Thanks guys."
 
+"And Leo's sniper shot? Sick!" Gav added.
 
+"Yeah, fuck! I can't wait to see that again in the movie tomorrow," Jordan said.
 
+Taiga heard Leo laughing, but he didn't look up.
 
+***
 
+At lunch, he shared the table with Gav, Enzo, Leo, Skylar and Milo.
+
+They discussed the match and congratulated each other. No one mentioned Aaron or what had happened yesterday. 
+
+Milo and Skylar exchanged their number with everyone before leaving.
+
+They packed their thing after and by 4:30, Olympus was outside the main lodge.
+
+Coach Hale gathered both squads before the bus loaded. Short speech: thank you, good work, see you later in the semester.
+Photos happened. Olympus. Pinetree. Then mixed.
+
+"Aw, I can't believe you guys are already leaving," Milo said.
+
+"Yeah," Skylar added. "It was fun hanging with you."
+
+Taiga smiled. "Pretty sure we'll be seeing each other again soon enough."
+
+"Yeah," Enzo said. "It'll be our turn to show you our campus!"
+
+Gav grinned. "I really hope you guys are ready for the city."
+
+Milo made a face. "I hope as well! Well, have a safe trip back! Text us when you make to Olympus!"
+
+Then hugs followed. Milo squeezed Taiga before he could react.
+
+"You were on fire this morning! Your goal should have counted for two."
+
+"T-Thanks. You weren't half bad as well. A real pain in the ass."
+
+Milo pulled back and grinned.
+
+"Eheh, thankies! So, see you guys at your place then!"
+
+Taiga nodded. "Yeah. Next time we will kick your asses."
+
+"I'm sure you'll try! Just stay out of drama on the very eve of the match, will you?"
+
+"Fuck off."
+
+"Bye Taiga!"
+
+"Yeah. See ya."
+
+Taiga climbed aboard behind Enzo. 
+
+Halfway back, Leo was already sitting in the same row as Thursday, on the aisle seat.
+
+Before Taiga could think of anything, Enzo approached and sat beside him. Leo glanced at Taiga with hesitation for a split second, before standing up to let Enzo in.
+
+Taiga looked down and sat two rows back on the opposite side, on the window seat. Scott sat beside him shortly after.
+
+The buss pulled away shortly after.
+
+***
 
