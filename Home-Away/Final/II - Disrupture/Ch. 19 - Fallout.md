@@ -2,9 +2,15 @@
 
 Taiga stood out there for what felt like an eternity. When his fingers began to hurt from the cold, he started towards his room.
 
-The corridor was silent. Most people were probably still in the common lodge. Scott hadn't returned either.
+The corridor was silent. Most people were probably still in the common lodge. 
 
-He sat on his bed in the empty room. Now the only noise was the heater clicking from a distance.
+Taiga reached Leo's room door. He stopped with his hand raised mid air when he heard a sniff coming from inside. He felt sick.
+He clenched his fist hard and stood there for a while, yet he didn't manage to bring himself to knock.
+
+He turned and went inside his room instead.
+
+Scott hadn't returned either.
+Taiga sat on his bed in the empty room. Now the only noise was the heater clicking from a distance.
 
 Just an hour earlier, he'd been enjoying his hot chocolate with Leo and everyone else. Now that seemed like it was someone else's life.
 
@@ -67,3 +73,76 @@ Then, when the comfortable grey area got exposed, he chose to flee. Like the fre
 God, what a fucking mess he was.
 
 ***
+
+"Taiga?"
+
+He heard Scott's voice in the room. Right, enough sulking. Time to face the world.
+
+"Yeah."
+
+He stood up, flushed the toilet and washed his mouth a bit. Then he took a deep breath before going out.
+
+Scott was sitting on his bed, untying his shoes. He looked up.
+
+"Are you... feeling alright?"
+
+Taiga nodded.
+
+"You a-are extremely pale."
+
+"I'm good."
+
+"Okay... Anyway."
+
+His tone suddenly shifted to his soccer voice. He straightened up.
+
+"I know you're upset but can we please talk a second?"
+
+Taiga exhaled and sat on his bed. Scott continued.
+
+"Look. There's no way around this. Aaron was a dick and you pushed it farther."
+
+Taiga's jaw tightened but he didn't answer.
+
+"I'm not trying to address responsibilities, but I cannot let it destroy team's morale, especially for tomorrow. Half of our teammates saw you two arguing."
+
+"If you're trying to suggest that I go talking to him..."
+
+"No. I know you both can't do that right now. What I want is that for two hours tomorrow morning you forget this happened. Just for two hours. Because the team cannot pay the consequences of your bickering."
+
+"You don't have to tell me. I'm not even playing-"
+
+"Taiga."
+
+He looked up. Scott was staring right into his eyes with a seriousness Taiga had never saw from him.
+
+"This is about the team. Not about you."
+
+That hit with extreme precision.
+Now something heavy dropped into his stomach. Suddenly he realized that his bullshit might have done more damage than he accounted for. It was not just his relationship with Leo.
+He tried very hard to repress another retch.
+
+After a while, Taiga nodded.
+
+"Alright. Sorry, you're right."
+
+Scott smiled. "Good. I'm really sorry too for what happened. I should have stepped in sooner, I didn't expect things to escalate that badly."
+
+"It's not your fault."
+
+"I'm the captain, Taiga. And that comes with responsibilities."
+
+Right. Scott too. How in the world had he been able to fuck up so many people in ten fucking minutes?
+
+"Although, my duties end with the team. I can help you as a friend, but I won't fix it. That's up to you two."
+
+Taiga thought about confronting Aaron again. Right now, it seemed the worst idea in the world. He barely managed not to punch him a couple of hours ago. 
+And right now, just imagining his face made his blood pump again.
+
+"Last time I saw him, I was about to punch him. I don't..."
+
+He took a deep breath.
+
+"...I'm gonna need time."
+
+Scott nodded. "I'm glad you didn't. For what is worth, "
