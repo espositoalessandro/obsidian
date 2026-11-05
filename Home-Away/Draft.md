@@ -56,43 +56,27 @@ He jogged into the box, already breathing hard.
 
 For a while, the running occupied him. He could follow someone, chase a ball, get into a space.
 
-Then Leo received facing him.
+At seventy-four, Aaron found Taiga near the touchline.
 
-Taiga saw the gap behind the fullback and started forward.
+The fullback stepped toward him. Taiga knocked the ball inside to Leo and immediately ran behind his man.
 
-"Leo!"
+"Back!"
 
-He checked his run when Leo didn't immediately pass. Leo looked up, took another touch and lost the ball trying to go inside.
+Leo returned it first time.
 
-They both chased back.
+Taiga reached it before Dennis could come across. He took another touch toward the byline and drove the ball low across the box.
 
-At the next stoppage, Leo turned toward him.
+Jordan stretched for it but couldn't reach. Enzo collected it on the far side and pulled it back toward the penalty spot.
 
-"I thought you were coming short."
+Leo was still coming.
 
-"I was going."
-
-"You stopped."
-
-Taiga wiped his mouth.
-
-"Yeah."
-
-"Call earlier."
-
-Leo went back into position.
-
-***
-
-Olympus scored at seventy-four.
-
-Aaron won the ball and found Gav. Leo received the next pass and immediately sent it across to Enzo, who knocked it beyond the fullback and sprinted.
-
-Taiga ran toward the far post. Jordan reached Enzo's low cross first and turned it in.
+He hit it first time. The goalkeeper turned, but the ball was already in.
 
 Two-one.
 
-Jordan retrieved the ball. Taiga jogged back while Mercer shouted for them to hurry.
+Taiga turned toward Leo. Leo was already going into the goal to collect the ball.
+
+Mercer shouted for them to hurry. Taiga jogged back.
 
 Leo passed a few meters away without looking at him.
 
