@@ -523,7 +523,7 @@ Taiga blinked. Two-one.
 
 Someone patted him on the shoulder, while Leo was being jumped on by half the team.
 
-He just stood there. The realization that he had actually just made an assist came a few seconds later.
+He just stood there. The realization that he had actually just made an assist came a few seconds later. Joy didn't follow, though.
 
 Taiga bit his lip as Leo emerged from the crowd, laughing. 
 
@@ -533,11 +533,11 @@ Leo's smile faded slowly. Taiga briefly arched his mouth, hesitantly.
 
 "Nice pass," Leo just said.
 
-There was no warmth in his voice. Taiga lowered his head and nodded. When he looked up again, Leo's expression had changed. Sadness now was all Taiga could see in his eyes.
+There was no warmth in his voice. Taiga lowered his head and nodded. When he looked up again, Leo's expression had changed. Sadness was now all Taiga could see in his eyes.
 
 "N-Nice shot," he manged to say.
 
-Leo nodded back, then looked away and jogged back into position.
+Leo nodded back, then jogged back into position.
 
 Pinetree won the match for two-one.
 
