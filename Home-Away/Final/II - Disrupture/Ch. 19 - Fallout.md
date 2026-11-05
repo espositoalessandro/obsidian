@@ -119,7 +119,7 @@ He looked up. Scott was staring right into his eyes.
 "This is about the team. Not about you."
 
 That hit with extreme precision.
-Now something heavy dropped into his stomach. Suddenly he realized that his bullshit might have done more damage than he'd realized. It was not just his relationship with Leo.
+Now something heavy dropped into his stomach. Suddenly he realized that his bullshit might have done more damage than he'd thought. It was not just his relationship with Leo.
 He tried very hard to suppress another retch.
 
 After a while, Taiga nodded.
