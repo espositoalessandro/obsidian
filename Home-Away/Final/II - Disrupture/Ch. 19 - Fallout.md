@@ -319,3 +319,66 @@ Mercer opened the door. "Come out."
 Scott turned to his team. "Now let's go show them what Apollo is really capable of."
 
 ***
+
+The referee whistled and the game started.
+
+For the first few minutes, Pinetree let Olympus have the ball near their own goal. Dennis stood well back, pointing people into position. Skylar moved between Carter and Walsh without chasing either of them.
+
+Then Aaron received by the left touchline.
+
+Milo came toward him from the inside, cutting off the pass to Gav. Aaron looked up. Evan had already started forward, but Pinetree's right-back was close enough to follow him.
+
+"Back!" Carter called.
+
+Aaron took another touch.
+
+Milo got closer. One of the midfielders came across behind him.
+
+Aaron finally played backward, hard enough that Carter had to turn and run after it.
+
+Mercer stepped to the edge of his area.
+
+"Earlier, Bennett!"
+
+Aaron lifted a hand.
+
+A couple of minutes later, the same thing happened on the other side. Enzo received, Jonah came forward to help, and suddenly both had a Pinetree player in front of them. Enzo tried to squeeze the ball between two pairs of legs.
+Throw-in.
+
+Taiga rubbed his hands together beneath his coat.
+
+From here, he could see where they wanted Olympus to go. Every time the ball reached the side, green shirts moved toward it.
+The space appeared somewhere else, too far away for the player with the ball to use without help.
+
+Gav kept turning and pointing. Leo came short, then stopped when Isaac received instead. Nobody seemed sure who was supposed to move first.
+
+"Turn!" Taiga muttered with his teeth clenched when Leo got the next pass. He had room.
+
+Leo checked over his shoulder, took the ball across his body and looked for Jordan. By the time he played it, Dennis had stepped in front.
+
+On seventeen minutes, Milo moved away from the touchline toward Gav.
+
+Aaron followed him a few steps, then checked when Pinetree's right-back ran outside.
+Evan was coming back, pointing toward the runner. 
+Aaron turned. Milo went the other way.
+
+For a second, both of them moved toward him.
+Milo passed outside.
+
+"BACK POST!" Scott shouted.
+
+The fullback reached the ball before Evan and crossed low. Skylar got across Carter. Scott went down, but the ball was already past him.
+
+The people on the opposite side of the pitch cheered.
+
+Taiga stared at the goal while Skylar ran toward the corner, Milo catching him by the shoulders.
+
+One-nil.
+
+Aaron stood with his hands on his hips. Evan said something to him, pointing back toward where the move had started. Aaron nodded without looking up.
+
+Scott collected the ball and threw it toward halfway.
+
+"NEXT ONE! COME ON!"
+
+
