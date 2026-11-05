@@ -580,7 +580,7 @@ They discussed the match and congratulated each other. No one mentioned Aaron or
 
 Milo and Skylar exchanged their number with everyone before leaving.
 
-They packed their thing after and by 4:30, Olympus was outside the main lodge.
+They packed their thing after and by 3:30, Olympus was outside the main lodge.
 
 Coach Hale gathered both squads before the bus loaded. Short speech: thank you, good work, see you later in the semester.
 Photos happened. Olympus. Pinetree. Then mixed.
