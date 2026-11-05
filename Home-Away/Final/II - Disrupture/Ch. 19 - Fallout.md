@@ -190,9 +190,11 @@ He glanced up. They were in line, Enzo was still talking while Leo was just hold
 
 He couldn't even manage to look at him, how was he supposed to survive an entire match?
 
-Ten minutes later, they were coming back with their trays. Enzo stopped at their table and sat beside Evan, on the bench across Taiga's. He looked up automatically and saw Leo standing, looking hesitantly at him. 
-Their gaze met for a second. Enough for Taiga to feel sick again. He looked down at his plate again, fork still in his hand.
-Leo took place beside Enzo, on the opposite end.
+Ten minutes later, they were coming back with their trays. Enzo stopped at their table and sat beside Evan on the bench opposite Taiga. Taiga looked up automatically and saw Leo still standing, looking hesitantly at him.
+
+Their eyes met for a second. Enough for Taiga to feel sick again. He looked down at his plate, fork still in his hand.
+
+Leo sat beside Enzo, at the far end of the opposite bench.
 
 Taiga couldn't eat anything else.
 
