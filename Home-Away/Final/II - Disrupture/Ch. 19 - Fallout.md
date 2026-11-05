@@ -320,7 +320,7 @@ Scott turned to his team. "Now let's go show them what Apollo is really capable 
 
 ***
 
-The referee whistled and the game started.
+The referee whistled, and the game started.
 
 For the first few minutes, Pinetree let Olympus have the ball near their own goal. Dennis stood well back, pointing people into position. Skylar moved between Carter and Walsh without chasing either of them.
 
@@ -352,14 +352,14 @@ The space appeared somewhere else, too far away for the player with the ball to 
 
 Gav kept turning and pointing. Leo came short, then stopped when Isaac received instead. Nobody seemed sure who was supposed to move first.
 
-"Turn!" Taiga muttered with his teeth clenched when Leo got the next pass. He had room.
+"Turn!" Taiga muttered through clenched teeth when Leo got the next pass. He had room.
 
 Leo checked over his shoulder, took the ball across his body and looked for Jordan. By the time he played it, Dennis had stepped in front.
 
 On seventeen minutes, Milo moved away from the touchline toward Gav.
 
 Aaron followed him a few steps, then checked when Pinetree's right-back ran outside.
-Evan was coming back, pointing toward the runner. 
+Evan was coming back, pointing toward the runner.
 Aaron turned. Milo went the other way.
 
 For a second, both of them moved toward him.
@@ -395,7 +395,7 @@ Nobody answered.
 
 He looked at Enzo.
 
-"Yeah, It's there."
+"Yeah, it's there."
 
 "Yes. It is. So why do we keep waiting until they've covered it?"
 
@@ -425,7 +425,7 @@ Mercer looked around the room.
 
 "You're all waiting for somebody else. Call. Move. If the pass is wrong, we'll deal with it. We can't do anything with a pass you never make. Also."
 
-He paused a second, looking at them.
+He paused for a second, looking at them.
 
 "You have forty-five minutes to behave like adults."
 
@@ -465,7 +465,7 @@ He opened his eyes. Mercer was looking at him.
 
 "Now."
 
-Something heavy fell through his stomach. He stood anyway and began jogging near the touchlines.
+Something heavy fell through his stomach. He stood anyway and began jogging along the touchline.
 
 Four minutes later, Mercer called him back.
 
@@ -486,15 +486,15 @@ Evan came toward the touchline, breathing heavily.
 
 Their hands met, and the referee waved Taiga on.
 
-He felt Leo's gaze on him as he jogged across the field. Taiga didn't look back. 
-Instead, he stared at Aaron for a second. 
+He felt Leo's gaze on him as he jogged across the field. Taiga didn't look back.
+Instead, he stared at Aaron for a second.
 
-His's face looked scared for whatever sick reason. Taiga still wanted to punch it.
+His face looked scared for whatever sick reason. Taiga still wanted to punch it.
 Instead, he took a deep breath and nodded briefly.
 
 Aaron relaxed visibly and nodded back.
 
-That could work for now. 
+That could work for now.
 
 He turned towards Pinetree's side. Milo was smiling at him. Taiga cracked his knuckles in response, putting on a challenging smile.
 
@@ -513,62 +513,62 @@ The fullback stepped toward him. Taiga knocked the ball inside to Leo and immedi
 
 Leo returned it first time.
 
-Taiga reached it before Dennis could come across. He took another touch toward the byline and saw Leo still running to the penalty area.
+Taiga reached it before Dennis could come across. He took another touch toward the byline and saw Leo still running toward the penalty area.
 
-Taiga drove the ball low to the penalty arc, finding Leo who hit it first time.
+Taiga drove the ball low back toward the penalty arc, finding Leo, who hit it first time.
 
-He saw the goalkeeper jumping, trying to reach it but the ball ended up in the upper left corner.
+He saw the goalkeeper leap for it, but the ball flew into the upper left corner.
 
 Taiga blinked. Two-one.
 
-Someone patted him on the shoulder, while Leo was being jumped on by half the team.
+Someone patted him on the shoulder while half the team piled onto Leo.
 
-He just stood there. The realization that he had actually just made an assist came a few seconds later. Joy didn't follow, though.
+He just stood there. The realization that he'd just provided an assist came a few seconds later. Joy didn't follow, though.
 
-Taiga bit his lip as Leo emerged from the crowd, laughing. 
+Taiga bit his lip as Leo emerged from the crowd, laughing.
 
-Their gaze finally met. 
+Their eyes finally met.
 
-Leo's smile faded slowly. Taiga briefly arched his mouth, hesitantly.
+Leo's smile faded slowly. Taiga's mouth curved into a brief, hesitant smile.
 
-"Nice pass," Leo just said.
+"Nice pass," Leo said.
 
 There was no warmth in his voice. Taiga lowered his head and nodded. When he looked up again, Leo's expression had changed. Sadness was now all Taiga could see in his eyes.
 
-"N-Nice shot," he manged to say.
+"N-Nice shot," he managed to say.
 
 Leo nodded back, then jogged back into position.
 
-Pinetree won the match for two-one.
+Pinetree won the match two-one.
 
 ***
 
-Back in the locker room, the air was slightly more relaxed. 
+Back in the locker room, the atmosphere was slightly more relaxed.
 
-"The second half was better," Mercer said. "Communication improved and you had more occasion to score. Mendez. Akatora."
+"The second half was better," Mercer said. "Communication improved, and you had more chances to score. Mendez. Akatora."
 
 They looked up.
 
 "Good job. The exchange was almost flawless."
 
-"Thanks coach," they muttered together.
+"Thanks, Coach," they muttered together.
 
 "Now, shower and go eat. Bus leaves at four. We'll talk about this tomorrow."
 
-Mercer left. Players started undressing and chatter slowly filled the room.
+Mercer left. Players started undressing, and chatter slowly filled the room.
 
 Evan sat beside Taiga and put an arm around his shoulder.
 Taiga looked at him. He was smiling brightly.
 
 "That's what I'm talking about."
 
-"Yeah that was cool as fuck!" Enzo said from across the room.
+"Yeah, that was cool as fuck!" Enzo said from across the room.
 
-Taiga forced a smile. "Thanks guys."
+Taiga forced a smile. "Thanks, guys."
 
 "And Leo's sniper shot? Sick!" Gav added.
 
-"Yeah, fuck! I can't wait to see that again in the movie tomorrow," Jordan said.
+"Yeah, fuck! I can't wait to see that again in film tomorrow," Jordan said.
 
 Taiga heard Leo laughing, but he didn't look up.
 
@@ -576,13 +576,13 @@ Taiga heard Leo laughing, but he didn't look up.
 
 At lunch, he shared the table with Gav, Enzo, Leo, Skylar and Milo.
 
-They discussed the match and congratulated each other. No one mentioned Aaron or what had happened yesterday. 
+They discussed the match and congratulated each other. No one mentioned Aaron or what had happened yesterday.
 
-Milo and Skylar exchanged their number with everyone before leaving.
+Milo and Skylar exchanged numbers with everyone before leaving.
 
-They packed their thing after and by 4:30, Olympus was outside the main lodge.
+They packed their things afterward, and by 4:30, Olympus was outside the main lodge.
 
-Coach Hale gathered both squads before the bus loaded. Short speech: thank you, good work, see you later in the semester.
+Coach Hale gathered both squads before the bus was loaded. Short speech: thank you, good work, see you later in the semester.
 Photos happened. Olympus. Pinetree. Then mixed.
 
 "Aw, I can't believe you guys are already leaving," Milo said.
@@ -595,13 +595,13 @@ Taiga smiled. "Pretty sure we'll be seeing each other again soon enough."
 
 Gav grinned. "I really hope you guys are ready for the city."
 
-Milo made a face. "I hope as well! Well, have a safe trip back! Text us when you make to Olympus!"
+Milo made a face. "I hope so too! Well, have a safe trip back! Text us when you make it back to Olympus!"
 
 Then hugs followed. Milo squeezed Taiga before he could react.
 
 "You were on fire this morning! Your goal should have counted for two."
 
-"T-Thanks. You weren't half bad as well. A real pain in the ass."
+"T-Thanks. You weren't half bad either. A real pain in the ass."
 
 Milo pulled back and grinned.
 
@@ -613,19 +613,18 @@ Taiga nodded. "Yeah. Next time we will kick your asses."
 
 "Fuck off."
 
-Milo laughed. "Bye Taiga!"
+Milo laughed. "Bye, Taiga!"
 
 "See ya."
 
-Taiga climbed aboard behind Enzo. 
+Taiga climbed aboard behind Enzo.
 
-Halfway back, Leo was already sitting in the same row as Thursday, on the aisle seat.
+Halfway back, Leo was already sitting in the same row as on Thursday, in the aisle seat.
 
-Before Taiga could think of anything, Enzo approached and sat beside him. Leo glanced at Taiga with hesitation for a split second, before standing up to let Enzo in.
+Before Taiga could think of anything, Enzo approached to sit beside Leo. Leo cast a brief, hesitant glance at Taiga before standing up to let Enzo in.
 
-Taiga looked down and sat two rows back on the opposite side, on the window seat. Scott sat beside him shortly after.
+Taiga looked down and sat two rows back on the opposite side, in the window seat. Scott sat beside him shortly after.
 
-The buss pulled away shortly after.
+The bus pulled away.
 
 ***
-
