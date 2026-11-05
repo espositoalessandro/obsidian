@@ -145,4 +145,23 @@ He took a deep breath.
 
 "...I'm gonna need time."
 
-Scott nodded. "I'm glad you didn't. For what is worth, "
+Scott nodded. "I'm glad you didn't. By the way, do you know where Leo is? Last time I saw him he was running to you."
+
+Taiga looked away, trying hard to hold his tears. He shook his head.
+
+Scott stayed silent for a couple of seconds. "Okay."
+
+He picked up his pajama and went to the bathroom.
+
+Taiga exhaled and got changed as well. He was already in bed when Scott came out.
+He shut the lights and tucked under his sheets.
+
+"Night."
+
+"'Night," Taiga muttered.
+
+When the last light was out, finally he let go of the tears.
+
+***
+
+
