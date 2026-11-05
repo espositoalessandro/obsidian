@@ -427,13 +427,135 @@ Mercer looked around the room.
 
 He paused a second, looking at them.
 
-"You have forty-five minutes to behave like adults again."
+"You have forty-five minutes to behave like adults."
 
 Mercer checked the time.
 
-"Same eleven. Get back out."
+"Get back out."
 
 ***
+
+For a few minutes, Olympus moved faster.
+
+Aaron went past Evan before the ball reached him. Leo found Enzo running behind the fullback. Jordan's header went over, but at least they were getting somewhere.
+
+Taiga leaned forward, elbows on his knees.
+
+Then the passes started coming late again.
+
+"Go," he muttered when Evan received. "Fucking go."
+
+Evan turned back. Taiga's heel struck the ground, over and over.
+
+He stood when Leo broke through the middle, then watched him lose the ball while looking for a pass. Taiga sat down and immediately leaned forward again.
+
+Near the hour mark, Milo won a corner.
+
+Dennis came up from defense. Walsh stayed with him, but Dennis reached the cross first and headed it down. Carter's clearance struck another player. The loose ball rolled toward a Pinetree midfielder, who drove it through the crowd.
+
+Scott went down too late.
+
+Two-nil.
+
+Taiga closed his eyes and leaned back.
+
+"Akatora. Warm up."
+
+He opened his eyes. Mercer was looking at him.
+
+"Now."
+
+Something heavy fell through his stomach. He stood anyway and began jogging near the touchlines.
+
+Four minutes later, Mercer called him back.
+
+"Their right-back's still going inside. Stay wide and run behind him. Give Bennett a pass when he needs one."
+
+Taiga nodded, pulling his bib off.
+
+The fourth assistant lifted the board.
+
+**11 OUT**
+**41 IN**
+
+Taiga gulped. His first conference appearance. He'd spent weeks waiting for this.
+
+Evan came toward the touchline, breathing heavily.
+
+"Go show them, tiger," he said.
+
+Their hands met, and the referee waved Taiga on.
+
+He felt Leo's gaze on him as he jogged across the field. Taiga didn't look back. 
+Instead, he stared at Aaron for a second. 
+
+His's face looked scared for whatever sick reason. Taiga still wanted to punch it.
+Instead, he took a deep breath and nodded briefly.
+
+Aaron relaxed visibly and nodded back.
+
+That could work for now. 
+
+He turned towards Pinetree's side. Milo was smiling at him. Taiga cracked his knuckles in response, putting on a challenging smile.
+
+Two minutes later, Aaron gave him his first pass. Taiga returned it and ran forward. The next time, he turned, beat the fullback to the ball and had his cross blocked by Dennis.
+Corner.
+
+He jogged into the box, already breathing hard.
+
+For a while, the running occupied him. He could follow someone, chase a ball, get into a space.
+
+At seventy-four, Aaron found Taiga near the touchline.
+
+The fullback stepped toward him. Taiga knocked the ball inside to Leo and immediately ran behind his man.
+
+"Leo! Back!"
+
+Leo returned it first time.
+
+Taiga reached it before Dennis could come across. He took another touch toward the byline and saw Leo still running to the penalty area.
+
+Taiga drove the ball low to the penalty arc, finding Leo who hit it first time.
+
+He saw the goalkeeper jumping, trying to reach it but the ball ended up in the upper left corner.
+
+Taiga blinked. Two-one.
+
+Someone patted him on the shoulder, while Leo was being jumped on by half the team.
+
+He just stood there. The realization that he had actually just made an assist came a few seconds later.
+
+Taiga bit his lip as Leo emerged from the crowd, laughing. 
+
+Their gaze finally met. 
+
+Leo's smile faded slowly. Taiga briefly arched his mouth, hesitantly.
+
+"Nice pass," he just said.
+
+There was no warmth in his voice. Taiga lowered his head and nodded. When he looked up again, Leo's expression had changed. Sadness now was all Taiga could see in his eyes.
+
+"N-Nice shot," he manged to say.
+
+Leo nodded back, then looked away and jogged back into position.
+
+Pinetree won the match for two-one.
+
+***
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
