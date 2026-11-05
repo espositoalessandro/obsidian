@@ -531,7 +531,7 @@ Their gaze finally met.
 
 Leo's smile faded slowly. Taiga briefly arched his mouth, hesitantly.
 
-"Nice pass," he just said.
+"Nice pass," Leo just said.
 
 There was no warmth in his voice. Taiga lowered his head and nodded. When he looked up again, Leo's expression had changed. Sadness now was all Taiga could see in his eyes.
 
