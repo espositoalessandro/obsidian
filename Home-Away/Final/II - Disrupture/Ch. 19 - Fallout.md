@@ -660,13 +660,13 @@ Taiga stopped. His fingers clenched around the shoulder strap. He opened his mou
 Aaron was standing there, anxiously waiting for an answer. He looked extremely vulnerable right now. Taiga could make him taste his own medicine. It looked so simple.
 
 And yet. He knew that look. It was the same face he had made when he asked Keitaro to stay with him on the pier. The same desperate face of someone who had brutally fucked up.
-Somehow, piety crawled in.
+Somehow, sympathy crawled in.
 
 Taiga exhaled and turned toward him.
 
-"Look, I'm... I'm sorry."
+"Look, I'm... I'm sorry," Aaron said.
 
-Good start. Taiga didn't answer yet.
+Wow. Good start. Taiga didn't answer yet.
 
 "I felt like shit, like, five minutes after you left. I got caught so much in my insecurities that I lashed out on you. And Leo."
 
@@ -686,13 +686,13 @@ Aaron bit his lip. "Because... Oh, fuck. Because I felt cornered. I tried to dis
 
 "He is not-"
 
-"Of course he isn't, Taiga. I know that. And I already knew yesterday. I knew you are just good friends, and I know I hurt him as well. I saw him today."
+"Of course he isn't, Taiga. I know that. And I already knew yesterday. I knew you are good friends, and I know I hurt him as well. I saw him today."
 
 Yeah, except it had nothing to do with Aaron.
 
 "I still don't get what your problem was. With everyone of us."
 
-"I sucked. And I hate sucking in front of other people I don't know. Then I saw you guys getting better at it while I was still stuck there. And I got so fucking jealous to the point that I started hating you all. Especially you, Taiga."
+"I sucked. At training, the whole time. And I hate sucking in front of other people I don't know. Then I saw you guys getting better at it while I was still stuck there. I got so fucking jealous to the point that I started hating you all. Especially you, Taiga."
 
 "Me?"
 
@@ -715,11 +715,11 @@ And Keitaro somehow had decided to forgive him anyway.
 
 Aaron looked up. "Fine?"
 
-"I understand why you did that. And I see you've understood it too."
+"Yeah. Fine. I understand why you did that."
 
 Aaron's face relaxed immediately.
 
-"I won't lie. I'm still fucking mad at you."
+"I won't lie. I'm still fucking mad at you," Taiga continued.
 
 "Fair enough."
 
@@ -727,25 +727,55 @@ Aaron's face relaxed immediately.
 
 Aaron exhaled a laugh in relief. 
 
-"That's on me. I got you pretty worked up."
+"Don't mention it. I got you pretty worked up."
 
-"Yeah."
+"Yeah. Still, I shouldn't have said that."
+
+"You're good."
+
+Another pause followed. Aaron was smiling awkwardly at the ground, hands in his pockets.
+
+"So. First official minutes."
+
+"Oh, God," Taiga said, rolling his eyes.
+
+"And first official assist."
+
+"Fuck you."
+
+Aaron laughed. "There you go. That was really a hell of a start, though."
+
+"Are you trying to butter me up?"
+
+"Hey. I'm trying to be nice here. For once."
+
+"Doesn't suit you."
+
+"Oh, fuck off."
+
+Taiga smiled despite himself. "That's more like it."
+
+"Seriously, though. I'm still replaying Leo's finish. God that was *so* good. One touch straight to the upper corner. Bam!"
+
+Taiga's smile slowly faded. "Yeah. He was good."
+
+Aaron looked at him for a second.
 
 "Speaking of which... You can tell me to fuck off and mind my business but-"
 
 "What?"
 
-"Did something happen after? I know Leo is mad at me but... I noticed that you two barely talked today as well." 
+"Did something happen after? I know Leo is mad at me but... I noticed you two barely talked today as well." 
 
 He paused a second, scratching the back of his head.
 
-"I can't help but think that I might have done more damage than I initially thought. I don't want you two to fight because of me."
+"I can't help but think that was because of me. Of the shit I said to you both."
 
-Taiga felt the nausea come back.
+Taiga felt the nausea coming back.
 
 "It wasn't you," he said. Then, after a pause, "I fucked everything up."
 
-"Was that because of what I said?"
+"But... was that related to what I said?"
 
 "That triggered it. Yeah. But..."
 
@@ -754,11 +784,11 @@ He looked away, unable to say more.
 Aaron spoke very carefully. "Taiga... do you actually like him?"
 
 Hearing that question out loud made it ten times worse.
-He wanted to tell Aaron to fuck off, to mind his business. That he was wrong, it was nothing like that.
+He immediately wanted to tell Aaron to fuck off, to mind his business. That he was wrong, it was nothing like that.
 
 What was the point, though? 
 
-Aaron hadn't been jealous of them. He didn't want to make fun of whatever they were. Perhaps, he wasn't even thinking there was something between them when he called them *boyfriends*.
+Aaron hadn't been jealous or whatever. He didn't want to make fun of them. Perhaps, he wasn't even thinking there actually was something between them, when he called them *boyfriends*.
 
 So, he nodded. Slowly.
 
@@ -772,39 +802,41 @@ He took another deep breath.
 
 "Shit. I'm sorry, I didn't know-"
 
-"That's not the point. When Leo followed me, I pushed him away. Because... I wasn't ready to face the truth."
+"That's not the point. When Leo followed me, I pushed him. Badly. Because... I didn't want to face it."
 
-"And Leo? Does he...?"
+"Wh- but Leo? Does he...?"
 
 Now he felt heat on his face. "I dunno, I-... I guess."
 
-"Right."
+"I see."
 
-For a moment, Aaron looked as though he wanted to ask something else. Then he shut his mouth.
+"Yeah."
 
-"So... are you going to talk to him?"
+"Damn, I didn't think someone could do worse than me with Sofia."
+
+"Okay. Now you can go fuck yourself," Taiga said as he turned and started toward the dorms.
+
+Aaron caught behind him, laughing. "Come on, I was joking."
+
+For a moment, he looked as though he wanted to ask something else. Then he shut his mouth for a while.
+Eventually, they stopped right outside the residential building.
+
+"So... are you going to talk to him?" Aaron asked.
 
 Taiga looked away. "I don't know."
 
-Aaron shifted his bag higher on his shoulder. "Right."
+Aaron shifted his bag higher on his shoulder. "Mind if I ask you why?"
 
 "I thinks he'd be better off without someone like me."
 
-Aaron frowned. "What? Why?"
+He frowned. "What?"
 
-"Because just like you, I let my insecurities hurt him out of the blue. It has already happened before. It has also happened with you. And it will happen again."
+"I really hurt him, Aaron. Out of the blue. Just because I got caught off guard."
 
 There was a long, uncomfortable pause. 
 
-"You forgave me, though," Aaron eventually said.
+"I think I get you. I wasn't sure either if I had any right to say sorry to you."
 
-Taiga looked at him.
+"It's not the same."
 
-"So what?"
-
-Aaron shrugged.
-
-
-
-
-
+"No but... just like you, I believe he deserves at least an explanation. I didn't talk to you because I expected forgiveness, I just thought you had to know why. The rest was up to you."
