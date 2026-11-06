@@ -121,7 +121,6 @@ He looked up. Scott was staring right into his eyes.
 
 "This is about the team. Not about you."
 
-That hit with extreme precision.
 Now something heavy dropped into his stomach. Suddenly he realized that his bullshit might have done more damage than he'd thought. It was not just his relationship with Leo.
 He tried very hard to suppress another retch.
 
@@ -140,7 +139,7 @@ Right. Scott too. How in the world had he been able to fuck up so many people in
 "About the rest... I can help you as a friend, but I can't fix it. That's up to you two."
 
 Taiga thought about confronting Aaron again. Right now, it seemed like the worst idea in the world. He'd barely managed not to punch him a couple of hours earlier.
-And right now, just imagining his face made his pulse race again.
+And just imagining his face made his pulse race again.
 
 "Last time I saw him, I was about to punch him. I don't..."
 
@@ -493,7 +492,7 @@ He felt Leo's gaze on him as he jogged across the field. Taiga didn't look back.
 Instead, he stared at Aaron for a second.
 
 His face looked scared for whatever sick reason. Taiga still wanted to punch it.
-Instead, he took a deep breath and nodded briefly.
+He took a deep breath and nodded briefly.
 
 Aaron relaxed visibly and nodded back.
 
@@ -506,7 +505,7 @@ Corner.
 
 He jogged into the box, already breathing hard.
 
-For a while, the running occupied him. He could follow someone, chase a ball, get into a space. Fifteen minutes passed without much happening. 
+For a while, the running occupied him. He could follow someone, chase a ball, get into a space. The first fifteen minutes passed without much happening. 
 
 At seventy-nine, Aaron found Taiga again near the touchline.
 
