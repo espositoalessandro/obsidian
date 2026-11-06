@@ -1,97 +1,43 @@
-For a few minutes, Olympus moved faster.
+Mercer paused the footage just before Pinetree's first goal.
 
-Aaron went past Evan before the ball reached him. Leo found Enzo running behind the fullback. Jordan's header went over, but at least they were getting somewhere.
+On the screen, Aaron and Evan were both moving toward Milo. The fullback was already outside them.
 
-Taiga leaned forward, elbows on his knees.
+"Who's going with him?"
 
-Then the passes started coming late again.
+"I should've stayed with the run," Evan said.
 
-"Go," he muttered when Evan received. "Fucking go."
+"And called it." Mercer let the clip play. The cross came in low. Skylar got across Carter, and the ball went past Scott. "Call the runner. Before he's gone."
 
-Evan turned back. Taiga's heel struck the ground, over and over.
+Taiga wrote that down.
 
-He stood when Leo broke through the middle, then watched him lose the ball while looking for a pass. Taiga sat down and immediately leaned forward again.
+They worked through the rest of the match. Mercer kept stopping the footage a second before someone passed, showing them the space they'd already lost.
 
-Near the hour mark, Milo won a corner.
+At seventy-nine minutes, Aaron's pass went out to the left.
 
-Dennis came up from defense. Walsh stayed with him, but Dennis reached the cross first and headed it down. Carter's clearance struck another player. The loose ball rolled toward a Pinetree midfielder, who drove it through the crowd.
+Taiga stopped writing.
 
-Scott went down too late.
+On screen, he gave the ball to Leo and ran behind the fullback. The return came straight back. One touch toward the byline, then the cutback.
 
-Taiga was on his feet again.
+Leo met it at the edge of the box.
 
-Two-nil.
+"Jesus," Jordan muttered as the ball flew into the upper corner.
 
-"Akatora. Warm up."
+Mercer rewound to Aaron's pass.
 
-Mercer was looking at him.
+"Better. Bennett releases it early. Akatora keeps moving after the pass, and Mendez follows instead of standing there watching."
 
-"Now."
+He played it again.
 
-***
+The goalkeeper stretched. Same result.
 
-Four minutes later, Mercer called him back.
+"One more?" Jordan asked.
 
-"Cole's coming off. Their right-back's still going inside. Stay wide and run behind him. Give Bennett a pass when he needs one."
+"You can watch it on your own time."
 
-Taiga nodded, pulling his bib off.
+A few people laughed. Mercer closed the video and turned the lights on.
 
-Evan came toward the touchline, breathing heavily. Their hands met, and the referee waved Taiga on.
+"That's all."
 
-His first conference appearance. He'd spent weeks waiting for this.
+Chairs scraped behind Taiga. Enzo was already arguing with Jordan about whether the keeper could've reached it.
 
-"TAIGA! SHOULDER!"
-
-He turned. The fullback was already moving behind him.
-
-Fuck.
-
-***
-
-Aaron gave him his first pass. Taiga returned it and ran forward. The next time, he turned, beat the fullback to the ball and had his cross blocked by Dennis.
-
-Corner.
-
-He jogged into the box, already breathing hard.
-
-For a while, the running occupied him. He could follow someone, chase a ball, get into a space.
-
-At seventy-four, Aaron found Taiga near the touchline.
-
-The fullback stepped toward him. Taiga knocked the ball inside to Leo and immediately ran behind his man.
-
-"Back!"
-
-Leo returned it first time.
-
-Taiga reached it before Dennis could come across. He took another touch toward the byline and drove the ball low across the box.
-
-Jordan stretched for it but couldn't reach. Enzo collected it on the far side and pulled it back toward the penalty spot.
-
-Leo was still coming.
-
-He hit it first time. The goalkeeper turned, but the ball was already in.
-
-Two-one.
-
-Taiga turned toward Leo. Leo was already going into the goal to collect the ball.
-
-Mercer shouted for them to hurry. Taiga jogged back.
-
-Leo passed a few meters away without looking at him.
-
-Pinetree dropped deeper. Taiga kept running, but now Dennis was waiting behind the fullback. Once, Taiga gave the ball to Leo and went past his man. The return came too late. Offside.
-
-Aaron shouted for him to come short. He did.
-
-They could still pass to each other.
-
-The equalizer never came.
-
-At the whistle, Taiga bent over, hands on his knees. He shook the offered hands, collected his coat and sat beside Evan.
-
-Twenty-six minutes, plus stoppage time.
-
-His first official match.
-
-Leo was packing his bag a few steps away. Taiga pulled his coat closed and looked down at his boots.
+Taiga put his notebook away, picked up his bag and went over to Leo.
