@@ -917,10 +917,10 @@ Caleb turned toward his laptop.
 Taiga crossed the room and leaned over the screen.
 
 **Akatora, Taiga - 41**
-*Apollo Soccer Club - Olympus Academy*
+*Apollo Soccer Club - Olympus University*
 
 **Most played role:** left wing
-**Minutes played:** 19
+**Minutes played:** 26
 **Goal:** 0
 **Assist:** 1
 
@@ -928,7 +928,7 @@ He stared at it for a while. There was an actual freaking page of him. Even with
 
 "That's cringe as hell."
 
-"One assist in nineteen minutes. Congratulations."
+"One assist in twenty-six minutes. Congratulations."
 
 "Yeah."
 
