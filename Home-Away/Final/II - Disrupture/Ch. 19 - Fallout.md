@@ -4,7 +4,8 @@ Taiga stood out there for what felt like an eternity. When his fingers began to 
 
 The corridor was silent. Most people were probably still in the common lodge.
 
-Taiga reached the door to Leo's room. He stopped with his hand raised in midair when he heard a sniff coming from inside. He felt sick.
+Taiga reached the door to Leo's room. He stopped with his hand raised in midair when he heard a sniff coming from inside. 
+He felt sick.
 He clenched his fist hard and stood there for a while, but he couldn't bring himself to knock.
 
 He turned and went inside his room instead.
@@ -37,7 +38,8 @@ He deleted it and locked the phone.
 
 What would he even tell him after that? No words would ever erase what he'd said. The hurt he'd seen on Leo's face.
 
-Keitaro's face overlapped with Leo's for a moment. Nausea hit him.
+Keitaro's face overlapped with Leo's for a moment. Nausea hit him all at once.
+
 He ran to the toilet and threw up.
 
 Keitaro's face when Taiga had burned his journal. Then Leo's face right before he turned.
@@ -65,9 +67,9 @@ Because that was comfortable. Because he didn't have to deal with it if he didn'
 He tilted his head backward until he hit the wall. He stayed like that, staring at the ceiling.
 
 Thinking about it, it was pretty obvious what Leo was up to. And Taiga had been playing along the whole fucking time.
-Because he'd enjoyed it. The closeness. The laughs. The touches. Even just a freaking knee touching his own was enough to make his stomach turn.
+And he enjoyed it. The closeness. The laughs. The touches. Even just a freaking knee touching was enough to make his stomach turn.
 
-Then, when the comfortable grey area got exposed, he chose to flee. Like the freaking coward he was. He didn't even have the courage to tell Leo the truth. He'd made it sound like it was Leo's fault.
+Then, when the comfortable grey area got exposed, he chose to flee. Like the freaking coward he was. He didn't even have the courage to tell Leo the truth. Instead, he made it sound like it was Leo's fault.
 
 *you're making it worse*
 
@@ -235,6 +237,7 @@ He looked away before Leo could look up.
 
 Communication is key. Right.
 For the first time since joining Apollo, Taiga was glad he was on the bench.
+
 Outside, the sun had reached the pitch, but the benches were still in shadow. Snow lay in dirty banks beyond the fence. A few people had gathered along the opposite touchline, hands buried in their pockets.
 
 They warmed up with the ball first.
@@ -259,7 +262,7 @@ Scott was already shouting from the other end of the pitch. Carter had left some
 
 Taiga tried to listen to that instead.
 
-People began filling up the bleachers. He noticed that the bleachers beside Pinetree's main pitch were enclosed by wooden walls, with heaters spaced throughout. That looked cozy. They had about a tenth of the capacity of Olympus's stadium.
+People began arriving. He noticed that the bleachers beside Pinetree's main pitch were enclosed by wooden walls, with heaters spaced throughout. That looked cozy. They had about a tenth of the capacity of Olympus's stadium.
 
 Hale and Mercer then whistled, and both teams started toward the locker rooms.
 
@@ -503,9 +506,9 @@ Corner.
 
 He jogged into the box, already breathing hard.
 
-For a while, the running occupied him. He could follow someone, chase a ball, get into a space.
+For a while, the running occupied him. He could follow someone, chase a ball, get into a space. Fifteen minutes passed without much happening. 
 
-At seventy-four, Aaron found Taiga near the touchline.
+At seventy-nine, Aaron found Taiga again near the touchline.
 
 The fullback stepped toward him. Taiga knocked the ball inside to Leo and immediately ran behind his man.
 
@@ -533,7 +536,7 @@ Leo's smile faded slowly. Taiga's mouth curved into a brief, hesitant smile.
 
 "Nice pass," Leo said.
 
-There was no warmth in his voice. Taiga lowered his head and nodded. When he looked up again, Leo's expression had changed. Sadness was now all Taiga could see in his eyes.
+There was almost no warmth in his voice. Taiga lowered his head and nodded. When he looked up again, Leo's expression had changed. Sadness was now all Taiga could see in his eyes.
 
 "N-Nice shot," he managed to say.
 
@@ -549,7 +552,7 @@ Back in the locker room, the atmosphere was slightly more relaxed.
 
 They looked up.
 
-"Good job. The exchange was almost flawless."
+"Good job."
 
 "Thanks, Coach," they muttered together.
 
@@ -595,13 +598,13 @@ Taiga smiled. "Pretty sure we'll be seeing each other again soon enough."
 
 Gav grinned. "I really hope you guys are ready for the city."
 
-Milo made a face. "I hope so too! Well, have a safe trip back! Text us when you make it back to Olympus!"
+Milo made a face. "I hope so too! Well, have a safe trip back! Text us when you make it to Olympus!"
 
 Then hugs followed. Milo squeezed Taiga before he could react.
 
 "You were on fire this morning! Your goal should have counted for two."
 
-"T-Thanks. You weren't half bad either. A real pain in the ass."
+"Thanks. You weren't half bad either. A real pain in the ass."
 
 Milo pulled back and grinned.
 
