@@ -59,11 +59,11 @@ Then he slightly furrowed his eyebrows.
 
 "Yeah, right. Uh- later? After movie?"
 
-Leo bit his lip for a second. Then he finally nodded. 
+Leo stared at him for a second. Then he finally nodded. 
 
 "Fine."
 
-Relief hit Taiga so fast that he felt dizzy for a second.
+Relief hit Taiga so fast that he felt dizzy.
 
 "Okay. Great. Then... later."
 
