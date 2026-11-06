@@ -242,3 +242,264 @@ Zoe picked up her cup and leaned back in her chair.
 "Welcome back, Taiga."
 
 ***
+
+Mercer paused the footage just before Pinetree's first goal.
+
+On the screen, Aaron and Evan were both moving toward Milo. The fullback was already outside them.
+
+"Who's going with him?"
+
+"I should've stayed with the run," Evan said.
+
+"And called it."
+
+Mercer let the clip play. The cross came in low. Skylar got across Carter, and the ball went past Scott.
+
+"Call the runner. Before he's gone."
+
+Taiga wrote that down.
+
+They worked through the rest of the match. Mercer kept stopping the footage a second before someone passed, showing them the space they'd already lost.
+
+At seventy-nine minutes, Aaron's pass went out to the left.
+
+On screen, he gave the ball to Leo and ran behind the fullback. The return came straight back. One touch toward the byline, then the cutback.
+
+Leo met it at the edge of the box.
+
+"Jesus," Jordan muttered as the ball flew into the upper corner.
+
+Mercer rewound to Aaron's pass.
+
+"Better. Bennett releases it early. Akatora keeps moving after the pass, and Mendez follows instead of standing there watching."
+
+He played it again.
+
+The goalkeeper stretched. Same result.
+
+"One more?" Enzo asked.
+
+"You can watch it on your own time."
+
+A few people laughed. Mercer closed the video and turned the lights on.
+
+"That's all."
+
+Chairs scraped behind Taiga.
+
+Taiga closed his notebook and looked up. Leo was sitting two rows in front of him, arguing with Enzo and Jordan whether the keeper could've reached it.
+
+Come on. No chickening out now.
+
+Easier said than done. Leo stood, still smiling while arguing with the others. 
+Taiga gulped, even though his mouth stayed dry. 
+
+He stood. Jordan patted Leo on his shoulder, then he and Enzo started toward the staircase.
+
+Taiga felt his legs shaking when Leo approached him.
+
+"Central Park?" He asked.
+
+"Yeah. Sure."
+
+They went outside.
+
+***
+
+They didn't talk throughout all the walk to the park.
+The air was still biting, although the snow around the campus was barely surviving in dirty banks along the paths.
+
+Taiga tried to rehearse what he wanted to say, but the closer they get to Central Park, the harder it became to remember it.
+
+By the time they found a bench and sat, his mind was totally blank.
+
+For a minute, neither said anything. Campus moved around them: bikes on the path, somebody laughing near the central fountain, the mess hall doors opening and closing behind a stream of students.
+
+Taiga had spent most of the day wanting this conversation. Now that it existed, every possible opening sounded wrong.
+Leo did not help him. He just waited in silence.
+
+Finally he took a deep breath.
+
+Then: “I’m... sorry.”
+
+Leo looked at him. Taiga swallowed.
+
+“For Saturday.”
+
+Leo’s face stayed careful.
+Taiga opened his mouth. Nothing came out. Fantastic.
+Leo waited. 
+
+Taiga stared at his hands. Then he closed his eyes. There was no way around it.
+
+"You weren't wrong. About me wanting you around."
+
+Still nothing. God.
+
+"I know I said otherwise. I was fucked up. Angry. Mostly scared."
+
+"Scared?"
+
+Taiga opened his eyes and looked at him for a second. Leo was frowning.
+
+"I grew comfortable in staying around you without... you know, naming anything."
+
+He stared at his fingers.
+
+"I've been a coward. And when Aaron said that, I felt so exposed I had to run away."
+
+"I thought it was because you were about to punch him."
+
+Taiga laughed once from his nose. 
+
+"That, also."
+
+Leo didn't add anything else.
+
+"I wanted to come back to you. The same night. I was about to knock at your door. When I heard-"
+
+His throat closed up and his eyes started to water.
+
+"Shit. I-I thought you were better off without me. I hurt you so fucking bad when you did nothing to deserve it."
+
+A tear ran down his cheek. Taiga looked away from him.
+He must be looking so pathetic right now.
+
+He took a couple of deep breaths, trying to calm himself down.
+
+"I u-understand if you d-don't want to see me anymore. I j-just-"
+
+His voice broke and Taiga couldn't say anything else. He looked down and put a hand over his eyes as he silently cried.
+For a second, he considered running off. Hide in a bush or something. He just wanted to disappear from the world right now.
+
+"I don't," Leo said.
+
+Taiga looked up. There was a tear on his face as well now.
+
+"I don't want you to go away."
+
+It took a couple of seconds for Taiga to realize what Leo had just said. Now he had no idea how to answer.
+
+"But I don't want to pretend this didn't happen either," Leo continued
+
+"Right."
+
+"No, I mean..."
+
+Leo took a deep breath.
+
+“What Aaron said. About us.”
+
+Taiga gulped.
+
+“I don’t want it to change... wherever we were going.”
+
+His's heart started beating hard.
+
+"Do you?" Leo asked.
+
+And here came the question Taiga had feared the most.
+He wiped tears from his face and exhaled. 
+
+"...No."
+
+Leo relaxed visibly and smiled.
+
+"Can I ask one thing though?" He said.
+
+"Mh?"
+
+"Why did you react that way? I mean- why are so scared about..."
+
+He gestured.
+
+"This?"
+
+"It's kind of a long story. But..."
+
+Yeah. He deserved it.
+
+"I think I owe you an explanation."
+
+Taiga paused for a second, recollecting his thoughts.
+
+"When I first went to camp, two years ago, I didn't go there alone. My ex came with me."
+
+Leo's face remained still.
+
+"Back then I was... different. I liked hanging out with lots people, talking, opening up and stuff."
+
+"Hard to imagine."
+
+"Yeah, I know. I found a place there pretty fast. Friends. Lots of it. People who actually liked having me around."
+
+Taiga rubbed his hands together.
+
+“My ex had come because he wanted more time with me. Instead, I started spending time with everyone else too. He got jealous and we fought about it. A lot. We were both stupid and no one was willing to acknowledge his own mistakes.”
+
+Taiga took another breath.
+
+“Then scoutmaster organized a SportsFest. At some point, a guy from the other team showed up beaten up, covered in bruises and blood, and said I did it.”
+
+Leo’s expression now changed. "The fuck...?"
+
+“I didn’t. But everybody believed him. Things blew up, and suddenly everyone turned against me. The same people that were cheering for me two minutes before, now accused me of sabotage.”
+
+He kicked a stone on the pavement.
+
+“After that, camp stopped feeling like mine. People avoided me. Some of them started fucking with me because they knew nobody would believe me. They started ambushing me in bathrooms and bullying me around.”
+
+Leo was quiet for a moment.
+
+“What about your boyfriend?”
+
+Taiga looked down.
+
+“He was the one who set me up.”
+
+Leo went still.
+
+“The guy beaten up confessed to me after seeing what he had caused. So I confronted my ex and I totally lost it. I shoved him. He punched me.”
+
+Taiga pointed to the scar running across his nose.
+
+“That’s where this came from.”
+
+"Fuck."
+
+“I broke up with him. He left the next day while I stayed. Even though it was hell for me.”
+
+"Wh- didn't you speak to your scoutmaster?"
+
+Taiga shook his head. “What was the point? Even if I told everyone the truth, it wouldn’t undo anything. Plus...”
+
+"You wanted to cover for him."
+
+"Yeah. Guess love makes you do stupid things."
+
+Taiga went silent. A minute passed, then Leo said,
+
+“So, when you told me to go away because of what Aaron said...”
+
+“It felt like the same shape. Something between me and someone else suddenly becoming everybody’s business. Me losing my shit. Somebody close enough to get hurt by it.”
+
+Understanding moved across Leo’s face.
+
+"Shit, Taiga... "
+
+"Then last year, when I met Keitaro and the others... I had came back to camp looking for some sort of redemption. A new start. Then I saw Keitaro making tons of friends in just a few days, while I was still struggling because of my reputation."
+
+A pause followed. 
+
+"I spent half of the term trying to make him miserable, setting him up. Trying everything to prove that if you fuck up once, then everyone who loves you suddenly turns against you."
+
+"So when you said that last year you weren't in a good place, that's what you meant."
+
+"Pretty much. I did horrible things to Keitaro, to the point where I burned down his journal. Just to make him hate me. Hit me. Something. Instead... he forgave me."
+
+Taiga shook his head.
+
+"Any other sane person would have thrown me into the lake."
+
+""
+
