@@ -634,7 +634,6 @@ By the time the city returned, it was dark. Mercer stood when they entered campu
 "Tomorrow recovery at four. Film after. Now get some sleep."
 
 The bus stopped outside the athletic complex. Everyone stood. Bags, jackets, the aisle clogged.
-
 Enzo wrestled the giant pillow from overhead.
 
 "Why did I bring this?" Enzo asked.
@@ -868,3 +867,89 @@ Taiga nodded. "You too."
 "Yeah."
 
 ***
+
+He found Caleb sitting at his desk in room 317.
+
+"Hey."
+
+"Hey."
+
+Caleb glanced at Taiga.
+
+"You look exhausted."
+
+"Nice to see you as well."
+
+"That's not an answer."
+
+"Well, yours wasn't really a question."
+
+They stared at each other for a couple of seconds, before they both snorted. Taiga could feel some of the tension releasing.
+
+He dropped his duffel beside the bed and took off his coat.
+
+"Did the exchange went well? Or did you end up murdering each other?"
+
+Taiga looked at him. "You've been rehearsing this question, didn't you?"
+
+Caleb smiled. "I might have considered a couple of alternatives."
+
+"It was good. Mostly. Pinetree is cold," Taiga said while sitting on his bed and untying his shoes.
+
+"That much we already established before you left."
+
+"Well, I'm confirming it."
+
+"And the match?"
+
+Taiga took a second to answer. "We lost. But I played and managed an assist."
+
+"On your first official appearance? That's good."
+
+"Yeah, pretty much."
+
+Caleb turned toward his laptop. 
+
+"They already updated the portal."
+
+"What?"
+
+Taiga crossed the room and leaned over the screen.
+
+**Akatora, Taiga - 41**
+*Apollo Soccer Club - Olympus Academy*
+
+**Most played role:** left wing
+**Minutes played:** 19
+**Goal:** 0
+**Assist:** 1
+
+He stared at it for a while. There was an actual freaking page of him. Even with a ridiculous picture.
+
+"That's cringe as hell."
+
+"One assist in nineteen minutes. Congratulations."
+
+"Yeah."
+
+Taiga looked at the page for another second. Images from that moment were replying in his head. His one-two with Leo, when he called his name. The goal after. Leo stopping smiling the moment he saw him.
+
+Yeah, hell of a start indeed.
+
+"I'm taking a shower," he just said.
+
+"Okay."
+
+Hot water helped as always. Somehow, talking with Aaron had eased the knot on his stomach. Thinking of Leo still made him feel like shit, but...
+
+*he deserves an explanation*
+
+Yeah. That much was true. Problem was, what the fuck could he say to explain what he did?
+
+He scrubbed his face and inhaled deeply.
+
+There was no easy way out of this. Not anymore.
+
+
+
+
