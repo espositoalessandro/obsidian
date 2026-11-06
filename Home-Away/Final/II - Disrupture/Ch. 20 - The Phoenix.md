@@ -241,6 +241,4 @@ Zoe picked up her cup and leaned back on the chair.
 
 "Welcome back, Taiga."
 
-Shortly after, food arrived.
-
 ***
