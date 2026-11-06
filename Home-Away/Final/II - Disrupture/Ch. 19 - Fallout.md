@@ -4,7 +4,7 @@ Taiga stood out there for what felt like an eternity. When his fingers began to 
 
 The corridor was silent. Most people were probably still in the common lodge.
 
-Taiga reached the door to Leo's room. He stopped with his hand raised in midair when he heard a sniff coming from inside. 
+Taiga reached the door to Leo's room. He stopped with his hand raised in midair when he heard a sniff coming from inside.
 He felt sick.
 He clenched his fist hard and stood there for a while, but he couldn't bring himself to knock.
 
@@ -67,7 +67,7 @@ Because that was comfortable. Because he didn't have to deal with it if he didn'
 He tilted his head backward until he hit the wall. He stayed like that, staring at the ceiling.
 
 Thinking about it, it was pretty obvious what Leo was up to. And Taiga had been playing along the whole fucking time.
-And he enjoyed it. The closeness. The laughs. The touches. Even just a freaking knee touching was enough to make his stomach turn.
+And he enjoyed it. The closeness. The laughs. The touches. Even just their knees touching was enough to make his stomach turn.
 
 Then, when the comfortable grey area got exposed, he chose to flee. Like the freaking coward he was. He didn't even have the courage to tell Leo the truth. Instead, he made it sound like it was Leo's fault.
 
@@ -505,7 +505,7 @@ Corner.
 
 He jogged into the box, already breathing hard.
 
-For a while, the running occupied him. He could follow someone, chase a ball, get into a space. The first fifteen minutes passed without much happening. 
+For a while, the running occupied him. He could follow someone, chase a ball, get into a space. The first fifteen minutes passed without much happening.
 
 At seventy-nine, Aaron found Taiga again near the touchline.
 
