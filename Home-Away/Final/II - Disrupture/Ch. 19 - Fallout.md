@@ -868,7 +868,7 @@ Taiga nodded. "You too."
 
 ***
 
-He found Caleb sitting at his desk in room 317.
+He found Caleb sitting at his desk in Room 317.
 
 "Hey."
 
@@ -884,17 +884,17 @@ Caleb glanced at Taiga.
 
 "Well, yours wasn't really a question."
 
-They stared at each other for a couple of seconds, before they both snorted. Taiga could feel some of the tension releasing.
+They stared at each other for a couple of seconds before they both snorted. Taiga could feel some of the tension easing.
 
 He dropped his duffel beside the bed and took off his coat.
 
-"Did the exchange went well? Or did you end up murdering each other?"
+"Did the exchange go well? Or did you end up murdering each other?"
 
-Taiga looked at him. "You've been rehearsing this question, didn't you?"
+Taiga looked at him. "You've been rehearsing this question, haven't you?"
 
 Caleb smiled. "I might have considered a couple of alternatives."
 
-"It was good. Mostly. Pinetree is cold," Taiga said while sitting on his bed and untying his shoes.
+"It was good. Mostly. Pinetree is cold," Taiga said, sitting on his bed and untying his shoes.
 
 "That much we already established before you left."
 
@@ -908,7 +908,7 @@ Taiga took a second to answer. "We lost. But I played and managed an assist."
 
 "Yeah, pretty much."
 
-Caleb turned toward his laptop. 
+Caleb turned toward his laptop.
 
 "They already updated the portal."
 
@@ -919,12 +919,12 @@ Taiga crossed the room and leaned over the screen.
 **Akatora, Taiga - 41**
 *Apollo Soccer Club - Olympus University*
 
-**Most played role:** left wing
+**Most-played role:** left wing
 **Minutes played:** 26
-**Goal:** 0
-**Assist:** 1
+**Goals:** 0
+**Assists:** 1
 
-He stared at it for a while. There was an actual freaking page of him. Even with a ridiculous picture.
+He stared at it for a while. There was an actual freaking page about him. With a ridiculous picture, too.
 
 "That's cringe as hell."
 
@@ -932,24 +932,20 @@ He stared at it for a while. There was an actual freaking page of him. Even with
 
 "Yeah."
 
-Taiga looked at the page for another second. Images from that moment were replying in his head. His one-two with Leo, when he called his name. The goal after. Leo stopping smiling the moment he saw him.
+Taiga looked at the page for another second. Images from that moment were replaying in his head. His one-two with Leo, when he called his name. The goal afterward. Leo's smile fading the moment he saw him.
 
 Yeah, hell of a start indeed.
 
-"I'm taking a shower," he just said.
+"I'm taking a shower," he said.
 
 "Okay."
 
-Hot water helped as always. Somehow, talking with Aaron had eased the knot on his stomach. Thinking of Leo still made him feel like shit, but...
+Hot water helped, as always. Somehow, talking with Aaron had eased the knot in his stomach. Thinking of Leo still made him feel like shit, but...
 
 *he deserves an explanation*
 
-Yeah. That much was true. Problem was, what the fuck could he say to explain what he did?
+Yeah. That much was true. Problem was, what the fuck could he say to explain what he'd done?
 
 He scrubbed his face and inhaled deeply.
 
 There was no easy way out of this. Not anymore.
-
-
-
-
