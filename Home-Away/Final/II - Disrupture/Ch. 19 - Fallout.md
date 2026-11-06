@@ -802,7 +802,7 @@ He took another deep breath.
 
 "Shit. I'm sorry, I didn't know-"
 
-"That's not the point. When Leo followed me, I pushed him. Badly. Because... I didn't want to face it."
+"That's not the point. When Leo followed me, I pushed him away. Badly. Because... I didn't want to face it."
 
 "Wh- but Leo? Does he...?"
 
@@ -839,4 +839,34 @@ There was a long, uncomfortable pause.
 
 "It's not the same."
 
-"No but... just like you, I believe he deserves at least an explanation. I didn't talk to you because I expected forgiveness, I just thought you had to know why. The rest was up to you."
+"No but... I believe he deserves at least an explanation. Just like you did. I didn't talk to you because I expected forgiveness, I just thought you had to know why. The rest was up to you."
+
+Taiga looked at him.
+
+"Did you came up with this?"
+
+Aaron chuckled. "Soph."
+
+"Yeah, figured."
+
+"Anyway, the others are going to the mess hall and I'm starving as well."
+
+Taiga considered it for a second.
+
+"No, right now I don't feel like it. I'll stay in my room."
+
+"Fair enough, cool off. Make sure you eat something, alright?"
+
+"I'll try."
+
+"Good. And..." Aaron bit his lip nervously. "Thanks, Taiga. I mean it."
+
+Taiga nodded. "You too."
+
+"See you tomorrow then."
+
+"Yeah."
+
+***
+
+
