@@ -2,7 +2,7 @@
 
 Monday arrived and life continued at Olympus.
 
-Taiga's legs felt heavy when he crossed the campus heading to the Lecture Hall for his Data Structure lecture.
+Taiga's legs felt heavy when he crossed the campus heading to the Lecture Hall for his Data Structures lecture.
 
 He stepped through the doorway with his heart beating fast and spotted Leo almost immediately. Mostly because he was sitting in the same row, only two chairs farther over than usual.
 
@@ -14,14 +14,14 @@ Then Leo nodded once. "Hi."
 
 Taiga took his usual seat, leaving two empty chairs between them. Leo returned to his laptop.
 
-Professor arrived and the lesson started. He spoke, Taiga wrote notes, Leo did too. 
+The professor arrived and the lesson started. He spoke, Taiga wrote notes, Leo did too. 
 
 There were no jokes. No glances. No smiles.
 Usually, Leo was pretty distracting for him, yet now he barely managed to understand what was the topic.
 
 He was, like, three meters away. It felt like there was an entire pitch in between them.
 
-Lecture eventually ended. Taiga packed his thing and stood up. His heart was heavy. 
+Lecture eventually ended. Taiga packed his things and stood up. His heart was heavy. 
 Should he try and say something now? But what could he possibly-
 
 "Taiga."
@@ -40,7 +40,7 @@ Fuck it.
 
 He turned.
 
-Taiga opened his mouth a couple of times, without being able to emit a single fucking sound. 
+Taiga opened his mouth a couple of times, without being able to get a single fucking word out. 
 
 "...Yes?"
 
@@ -57,7 +57,7 @@ Then he slightly furrowed his eyebrows.
 
 "Don't you have Calculus now?"
 
-"Yeah, right. Uh- later? After movie?"
+"Yeah, right. Uh- later? After film?"
 
 Leo stared at him for a second. Then he finally nodded. 
 
