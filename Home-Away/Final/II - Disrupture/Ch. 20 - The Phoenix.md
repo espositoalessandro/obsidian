@@ -149,6 +149,8 @@ Nora widened her eyes. "What? Did they fight?"
 
 Zoe shrugged. "I dunno. Leo didn't want to say anything! He kept saying he was *just tired*. As if he was capable of something like that."
 
+A waiter arrived and they ordered their food. Zoe asked for a coffee instead.
+
 Nora turned toward him. "So?"
 
 His pulse began to rise. 
@@ -227,14 +229,18 @@ That word sent shivers through his spine.
 
 "W-What?"
 
-Zoe smiled. "You think we're stupid? Gosh, I was expecting you two to kiss anytime, now. I'd be reeeeeally surprised if you ended up not wanting him."
+Zoe smiled. "You think we're stupid? Gosh, I was expecting you two to kiss anytime, now."
 
-"And him not wanting you," Nora added with a smirk.
+"Yeah, they way you look at each other? Dead giveaway." Nora added with a smirk.
+
+Now Taiga's face was on fire.
 
 "Okay. Fuck you. Both of you."
 
 Zoe picked up her cup and leaned back on the chair.
 
 "Welcome back, Taiga."
+
+Shortly after, food arrived.
 
 ***
