@@ -309,32 +309,31 @@ They went outside.
 They didn't talk throughout all the walk to the park.
 The air was still biting, although the snow around the campus was barely surviving in dirty banks along the paths.
 
-Taiga tried to rehearse what he wanted to say, but the closer they get to Central Park, the harder it became to remember it.
+Taiga tried to rehearse what he wanted to say, but the closer they get to Central Park, the harder it became to remember any it.
 
-By the time they found a bench and sat, his mind was totally blank.
+By the time they found a bench and sat, his mind had gone totally blank.
 
 For a minute, neither said anything. Campus moved around them: bikes on the path, somebody laughing near the central fountain, the mess hall doors opening and closing behind a stream of students.
 
-Taiga had spent most of the day wanting this conversation. Now that it existed, every possible opening sounded wrong.
+Taiga had spent most of the day wanting this conversation. Now, every possible opening sounded wrong.
 Leo did not help him. He just waited in silence.
 
 Finally he took a deep breath.
 
-Then: “I’m... sorry.”
+“I’m... sorry.”
 
-Leo looked at him. Taiga swallowed.
+Taiga swallowed.
 
 “For Saturday.”
 
 Leo’s face stayed careful.
 Taiga opened his mouth. Nothing came out. Fantastic.
-Leo waited. 
 
-Taiga stared at his hands. Then he closed his eyes. There was no way around it.
+He stared at his hands. Then he closed his eyes. There was no way around it.
 
 "You weren't wrong. About me wanting you around."
 
-Still nothing. God.
+Still nothing from Leo. God.
 
 "I know I said otherwise. I was fucked up. Angry. Mostly scared."
 
@@ -358,23 +357,23 @@ Leo didn't add anything else.
 
 "I wanted to come back to you. The same night. I was about to knock at your door. When I heard-"
 
-His throat closed up and his eyes started to water.
+His throat closed up.
 
 "Shit. I-I thought you were better off without me. I hurt you so fucking bad when you did nothing to deserve it."
 
-A tear ran down his cheek. Taiga looked away from him.
-He must be looking so pathetic right now.
+His eyes were watering. Fuck, he wasn't going to cry now.
+Taiga looked away from him. He must be looking so pathetic right now.
 
 He took a couple of deep breaths, trying to calm himself down.
 
-"I u-understand if you d-don't want to see me anymore. I j-just-"
+"I understand if you don't want to see me anymore. I j-just-"
 
-His voice broke and Taiga couldn't say anything else. He looked down and put a hand over his eyes as he silently cried.
+His voice broke and Taiga couldn't say anything else.
 For a second, he considered running off. Hide in a bush or something. He just wanted to disappear from the world right now.
 
 "I don't," Leo said.
 
-Taiga looked up. There was a tear on his face as well now.
+Taiga looked up.
 
 "I don't want you to go away."
 
@@ -405,13 +404,29 @@ He wiped tears from his face and exhaled.
 
 Leo relaxed visibly and smiled.
 
-"Can I ask one thing though?" He said.
+"I gotta say, I was really confused. I've spent all Sunday thinking I said something I shouldn't have. Then I started realizing that maybe I had been reading it wrong all along."
 
-"Mh?"
+He took a breath.
+
+"I really believed that you pushed me away because... you know... the others might think you were into me or something."
+
+"...and it wasn't true," he added shortly after.
+
+Taiga could still see the hurt on his face. Guilt still clawed his chest.
+
+"It was actually the other way around," Taiga said.
+
+Leo looked down and smiled "Yeah, I see it now."
+
+They stood awkwardly in silence for a minute.
+
+"I still don't get one thing, though," Leo said.
+
+"What?"
 
 "Why did you react that way? I mean- why are so scared about..."
 
-He gestured.
+Leo gestured.
 
 "This?"
 
@@ -421,11 +436,11 @@ Yeah. He deserved it.
 
 "I think I owe you an explanation."
 
-Taiga paused for a second, recollecting his thoughts.
+Taiga paused, recollecting his thoughts.
 
-"When I first went to camp, two years ago, I didn't go there alone. My ex came with me."
+"When I first went to camp, two years ago, I didn't go there alone. My boyfriend... well, ex-boyfriend, came with me."
 
-Leo's face remained still.
+He hesitated for a second.
 
 "Back then I was... different. I liked hanging out with lots people, talking, opening up and stuff."
 
@@ -543,8 +558,23 @@ They stayed like that for a while. Holding hands, without muttering a single wor
 
 Leo smiled. "You owe me an emotional breakdown."
 
+"You already got yours after the match."
 
+"Come on, that wasn't even comparable."
 
+"You didn't specify."
 
+They laughed for a moment. Then Leo said, "Thanks for telling me."
 
+Taiga looked down at their hands, still locked together. He felt the same weird warmth inside he had felt at Pinetree.
+
+"Yeah."
+
+"I don't know about you, but I'm freezing my ass over here and I'm kinda starving. Food?"
+
+Taiga realized his stomach was working again now, complaining for the lack of sustenance of the last few days.
+
+"Yeah, let's go."
+
+***
 
