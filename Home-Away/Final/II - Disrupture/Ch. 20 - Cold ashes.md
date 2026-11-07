@@ -418,7 +418,7 @@ Taiga could still see the hurt on his face. Guilt still clawed his chest.
 
 Leo looked down and smiled "Yeah, I see it now."
 
-They silence fell awkwardly for a minute.
+They sat in awkward silence for a minute.
 
 "I still don't get one thing, though," Leo said.
 
