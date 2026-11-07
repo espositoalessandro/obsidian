@@ -418,7 +418,7 @@ Taiga could still see the hurt on his face. Guilt still clawed his chest.
 
 Leo looked down and smiled "Yeah, I see it now."
 
-They stood awkwardly in silence for a minute.
+They silence fell awkwardly for a minute.
 
 "I still don't get one thing, though," Leo said.
 
@@ -572,7 +572,7 @@ Taiga looked down at their hands, still locked together. He felt the same weird 
 
 "I don't know about you, but I'm freezing my ass over here and I'm kinda starving. Food?"
 
-Taiga realized his stomach was working again now, complaining for the lack of sustenance of the last few days.
+For once, food actually sounded good.
 
 "Yeah, let's go."
 
