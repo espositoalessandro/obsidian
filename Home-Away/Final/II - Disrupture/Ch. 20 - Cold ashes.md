@@ -1,4 +1,4 @@
-### Chapter 20 - The Phoenix
+### Chapter 20 - Cold ashes
 
 Monday arrived and life continued at Olympus.
 
@@ -485,21 +485,66 @@ Taiga went silent. A minute passed, then Leo said,
 
 Understanding moved across Leo’s face.
 
-"Shit, Taiga... "
+"Taiga... "
 
-"Then last year, when I met Keitaro and the others... I had came back to camp looking for some sort of redemption. A new start. Then I saw Keitaro making tons of friends in just a few days, while I was still struggling because of my reputation."
+"Last year, when I met Keitaro and the others... I had came back to camp looking for a new start. I wanted to turn page. Then I saw Keitaro making tons of friends in just a few days, while I was still struggling because of my reputation."
 
 A pause followed. 
 
-"I spent half of the term trying to make him miserable, setting him up. Trying everything to prove that if you fuck up once, then everyone who loves you suddenly turns against you."
+"I spent half of the term hating him while trying to make him miserable. Trying everything to prove that if you fuck up once, then everyone who loves you suddenly turns against you."
 
-"So when you said that last year you weren't in a good place, that's what you meant."
+"Back at the rink... you said that last year you weren't in a good place."
 
-"Pretty much. I did horrible things to Keitaro, to the point where I burned down his journal. Just to make him hate me. Hit me. Something. Instead... he forgave me."
+"Yeah, I did horrible things to him, to the point where I burned down his journal. Just to make him hate me. Hit me. Anything. Instead... he forgave me."
 
-Taiga shook his head.
+Taiga shook his head. He laid back, resting his hands on the bench, looking up in the sky.
 
-"Any other sane person would have thrown me into the lake."
+"I've been trying, times and times again, to get on with my past. And every time, it always comes back. Every fucking time, for whatever reason. I always end up hurting people next to me. And I have only myself to blame."
 
-""
+The stone bench was cold under his palm. He slightly curled his fingers.
+
+"That's why I didn't came back to you."
+
+He stopped.
+A huge weight seemed to be lifting from his stomach. Yet, as he looked at the stars, he felt extremely alone.
+A small point in an endless universe, burning too hot for anyone to get close.
+
+Now he also felt incredibly selfish for having asked Leo to stay with him. He probably had no idea what Taiga was actually capable of. 
+The explanation was all he needed, he had better moving on witho-
+
+Taiga froze. He felt something warm touching his hand.
+When he looked down, Leo had put his hand over the back of Taiga's. 
+
+His heart started to rush against his ribs. Then he looked up: Leo was staring at him with a warm, compassionate smile.
+
+His brain started screaming. Remove it. Now. Too dangerous.
+
+As if Leo could read his mind, he squeezed tighter, brushing his thumb against Taiga's knuckles.
+
+"That's not up to you to decide, Taiga," he said.
+
+Taiga didn't say anything. Leo continued.
+
+"Whatever mistake you think you make, I don't want you to choose whether it's too much for me."
+
+He slightly moved his hand, interlocking his fingers with Taiga's.
+
+"Can you promise me that?"
+
+Taiga looked away. Jesus, Leo was offering him everything he could be hoping for. Why the heck was he being so stubborn anyways?
+
+For once, he decided to ignore himself.
+
+He gently clenched his fingers around Leo's and nodded.
+
+They stayed like that for a while. Holding hands, without muttering a single word. Eventually, Taiga looked at him again.
+
+"Thank you."
+
+Leo smiled. "You owe me an emotional breakdown."
+
+
+
+
+
 
