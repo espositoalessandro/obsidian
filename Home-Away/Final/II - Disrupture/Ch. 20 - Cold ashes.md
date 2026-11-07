@@ -591,6 +591,3 @@ Yet there they were. Walking step by step on uncharted paths, one beside the oth
 
 No turning back now. Only the way forward remained.
 
-
-***
-
