@@ -570,11 +570,27 @@ Taiga looked down at their hands, still locked together. He felt the same weird 
 
 "Yeah."
 
+Leo shook his shoulders.
+
 "I don't know about you, but I'm freezing my ass over here and I'm kinda starving. Food?"
 
 For once, food actually sounded good.
 
-"Yeah, let's go."
+"Sure."
+
+Their hands separated as they picked up their bags and started toward the mess hall.
+
+An uneasy air still lingered between them. Longer pauses than usual, awkward smiles, uncertain looks.
+
+Taiga could feel the void inside slowly filling up again, yet somehow Leo's presence was slightly unfamiliar now.
+As if a piece of their old engine had broken down and instead of being fixed, it had been replaced by something else.
+
+He had no idea where this would lead them and the uncertainty felt scary as fuck.
+
+Yet there they were. Walking step by step on uncharted paths, one beside the other. No signs, no clue about the destination.
+
+No turning back now. Only the way forward remained.
+
 
 ***
 
