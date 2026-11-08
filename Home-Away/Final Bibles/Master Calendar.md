@@ -95,25 +95,25 @@ The timetable below is the Final-rewrite continuity reference for ordinary teach
 
 ### Taiga
 
-| Day                 | Academic schedule                                                                                       | Stable continuity notes                                                                                |
-| ------------------- | ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
-| **Monday**          | 10:00–10:50 Data Structures; 11:00–11:50 Calculus II                                                    | Data Structures is shared with Leo.                                                                    |
+| Day                 | Academic schedule                                                                                       | Stable continuity notes                                                                        |
+| ------------------- | ------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| **Monday**          | 10:00–10:50 Data Structures; 11:00–11:50 Calculus II                                                    | Data Structures is shared with Leo.                                                            |
 | **Tuesday**         | 09:30–10:45 Discrete Structures; 11:00–12:15 General Chemistry II; 14:00–15:50 Data Structures lab      | Deliberately crowded day. Discrete is shared with Leo; Data Structures lab is shared with Leo. |
-| **Wednesday**       | 10:00–10:50 Data Structures; 11:00–11:50 Calculus II                                                    | Comparatively light academic day.                                                                      |
-| **Thursday**        | 09:30–10:45 Discrete Structures; 11:00–12:15 General Chemistry II; 14:00–17:00 General Chemistry II lab | Chemistry lab consumes most of the afternoon.                                                          |
-| **Friday**          | 10:00–10:50 Data Structures; 11:00–11:50 Calculus II                                                    | Friday is morning-only academically.                                                                   |
-| **Saturday–Sunday** | No regular classes                                                                                      | Fixtures, recovery and personal plans vary.                                                            |
+| **Wednesday**       | 10:00–10:50 Data Structures; 11:00–11:50 Calculus II                                                    | Comparatively light academic day.                                                              |
+| **Thursday**        | 09:30–10:45 Discrete Structures; 11:00–12:15 General Chemistry II; 14:00–17:00 General Chemistry II lab | Chemistry lab consumes most of the afternoon.                                                  |
+| **Friday**          | 10:00–10:50 Data Structures; 11:00–11:50 Calculus II                                                    | Friday is morning-only academically.                                                           |
+| **Saturday–Sunday** | No regular classes                                                                                      | Fixtures, recovery and personal plans vary.                                                    |
 
 ### Leo
 
-| Day                 | Academic schedule                                                                                   | Stable continuity notes                                                          |
-| ------------------- | --------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
-| **Monday**          | 09:00–09:50 Calculus II; 10:00–10:50 Data Structures                                                | Calculus section is shared with Zoe; Data Structures is shared with Taiga.       |
-| **Tuesday**         | 09:30–10:45 Discrete Structures; 12:30–13:45 Computer Organization; 14:00–15:50 Data Structures lab | Discrete is shared with Taiga; Data Structures lab is shared with Taiga. |
-| **Wednesday**       | 09:00–09:50 Calculus II; 10:00–10:50 Data Structures                                                | Calculus with Zoe; Data Structures with Taiga.                                   |
-| **Thursday**        | 09:30–10:45 Discrete Structures; 12:30–13:45 Computer Organization                                  | No Chemistry sequence.                                                           |
-| **Friday**          | 09:00–09:50 Calculus II; 10:00–10:50 Data Structures                                                | Morning-only academically.                                                       |
-| **Saturday–Sunday** | No regular classes                                                                                  | Fixtures, recovery and personal plans vary.                                      |
+| Day                 | Academic schedule                                                                                   | Stable continuity notes                                                    |
+| ------------------- | --------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| **Monday**          | 09:00–09:50 Calculus II; 10:00–10:50 Data Structures                                                | Calculus section is shared with Zoe; Data Structures is shared with Taiga. |
+| **Tuesday**         | 09:30–10:45 Discrete Structures; 12:30–13:45 Computer Organization; 14:00–15:50 Data Structures lab | Discrete is shared with Taiga; Data Structures lab is shared with Taiga.   |
+| **Wednesday**       | 09:00–09:50 Calculus II; 10:00–10:50 Data Structures                                                | Calculus with Zoe; Data Structures with Taiga.                             |
+| **Thursday**        | 09:30–10:45 Discrete Structures; 12:30–13:45 Computer Organization                                  | No Chemistry sequence.                                                     |
+| **Friday**          | 09:00–09:50 Calculus II; 10:00–10:50 Data Structures                                                | Morning-only academically.                                                 |
+| **Saturday–Sunday** | No regular classes                                                                                  | Fixtures, recovery and personal plans vary.                                |
 
 ### Zoe — relevant overlap only
 
