@@ -580,14 +580,11 @@ For once, food actually sounded good.
 
 Their hands separated as they picked up their bags and started toward the mess hall.
 
-An uneasy air still lingered between them. Longer pauses than usual, awkward smiles, uncertain looks.
+An uneasy air still lingered between them. Longer pauses, awkward smiles, uncertain looks.
 
-Taiga could feel the void inside slowly filling up again, yet somehow Leo's presence was slightly unfamiliar now.
-As if a piece of their old engine had broken down and instead of being fixed, it had been replaced by something else.
+Taiga could feel the emptiness Leo had left slowly filling up again, yet somehow his presence was slightly unfamiliar now.
+As if a piece of their old engine had broken down and, instead of being fixed, it had been replaced by something else.
 
-He had no idea where this would lead them and the uncertainty felt scary as fuck.
+He couldn't place exactly what, but... it didn't feel wrong.
 
-Yet there they were. Walking step by step on uncharted paths, one beside the other. No signs, no clue about the destination.
-
-No turning back now. Only the way forward remained.
 
