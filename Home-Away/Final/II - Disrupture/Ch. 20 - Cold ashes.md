@@ -263,7 +263,7 @@ They worked through the rest of the match. Mercer kept stopping the footage a se
 
 At seventy-nine minutes, Aaron's pass went out to the left.
 
-On screen, he gave the ball to Leo and ran behind the fullback. The return came straight back. One touch toward the byline, then the cutback.
+On screen, Taiga gave the ball to Leo and ran behind the fullback. The return came straight back. One touch toward the byline, then the cutback.
 
 Leo met it at the edge of the box.
 
@@ -471,11 +471,11 @@ Leo’s expression now changed. "The fuck...?"
 
 He kicked a stone on the pavement.
 
-"Things fell apart. Scoutmasters did their best, but the situation got off hand. Voices spread and camp's reputation took a big hit. They were so busy containing the damage that me and everyone involved were never actually punished for that."
+"Things escalated in a brawl. Scoutmasters did their best, but the situation got off hand. Then it got even worse. Voices spread and camp's reputation took a big hit. They were so busy containing the damage that me and everyone involved were never actually punished for that."
 
 The vivid image of that day was still incredibly clear in his mind. The worst day of his life.
 
-“After that, camp stopped feeling like mine. People avoided me. Some of them started fucking with me because they knew nobody would believe me. They started ambushing me in bathrooms and bullying me around, because they didn't know the truth.”
+“After that, things fell apart for me. People avoided me. Some of them started fucking with me because they knew nobody would believe me. They started ambushing me in bathrooms and bullying me around, because they didn't know the truth.”
 
 Leo was quiet for a moment.
 
