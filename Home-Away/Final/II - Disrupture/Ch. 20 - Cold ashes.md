@@ -502,7 +502,7 @@ Understanding moved across Leo’s face.
 
 "Taiga... "
 
-"Last year, when I met Keitaro and the others... I had came back to camp looking for a new start. I wanted to turn page. Then I saw Keitaro making tons of friends in just a few days, while I was still struggling because of my reputation."
+"Last year, when I met Keitaro and the others... I had come back to camp looking for a new start. I wanted to turn page. Then I saw Keitaro making tons of friends in just a few days, while I was still struggling because of my reputation."
 
 A pause followed. 
 
@@ -512,13 +512,13 @@ A pause followed.
 
 "Yeah, I did horrible things to him, to the point where I burned down his journal. Just to make him hate me. Hit me. Anything. Instead... he forgave me."
 
-Taiga shook his head. He laid back, resting his hands on the bench, looking up in the sky.
+Taiga shook his head. He leaned back, resting his hands on the bench, looking up at the sky.
 
-"I've been trying, times and times again, to get on with my past. And every time, it always comes back. Every fucking time, for whatever reason. I always end up hurting people next to me. And I have only myself to blame."
+"I've been trying, time and time again, to move on from my past. And every time, it always comes back. Every fucking time, for whatever reason. I always end up hurting people next to me. And I have only myself to blame."
 
 The stone bench was cold under his palm. He slightly curled his fingers.
 
-"That's why I didn't came back to you."
+"That's why I didn't come back to you."
 
 He stopped.
 A huge weight seemed to be lifting from his stomach. Yet, as he looked at the stars, he felt extremely alone.
