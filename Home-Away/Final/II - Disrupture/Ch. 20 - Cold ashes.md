@@ -430,6 +430,8 @@ Leo gestured.
 
 "This?"
 
+Taiga had expected that question.
+
 "It's kind of a long story. But..."
 
 Yeah. He deserved it.
