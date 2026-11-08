@@ -398,7 +398,7 @@ His heart started beating hard.
 "And I definitely don't want us to behave differently just because there are other people around."
 
 There was a pause.
-Taiga tried metabolizing his request. Leo had all the rights to ask that, he knew that. Yet, he still couldn't bring himself to properly answer.
+Taiga tried metabolizing his request. Leo had all the rights to ask that, he knew that. Yet, he still couldn't bring himself to answer properly.
 Taiga wiped a tear from his face and simply nodded.
 
 Leo's face softened up. Slightly.
