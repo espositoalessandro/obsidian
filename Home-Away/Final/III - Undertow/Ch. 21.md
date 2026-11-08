@@ -39,7 +39,7 @@ The professor turned on the projector and the lecture started. Leo stopped talki
 That was stupid. It's just coffee. 
 Taiga picked up his cup and took a sip before starting taking notes.
 
-When class was over, they started packing. Taiga had been mostly silent all the time. Leo had occasionally swore about something he didn't get from the missed lecture last Thursday, when they went to Pinetree. But apart from that, they had stayed focused on their notes.
+When class was over, they started packing. Leo had occasionally swore about something he didn't get from the missed lecture last Thursday, when they went to Pinetree. But apart from that, they had stayed focused on their notes.
 
 "Going for Chemistry?" Leo asked.
 
