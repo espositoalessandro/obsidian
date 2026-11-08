@@ -207,7 +207,7 @@ Zoe took a sip from her cup. "Well, what you say mostly depends on what you want
 
 "But I think you should give him an explanation. He deserves that, at the very least," Nora said.
 
-"Yeah, that much I figured. About what I want... that's another story. I liked what we had. I don't want that to go."
+"Yeah, that much I figured. About what I want... that's another story. I liked what we had. I don't want to lose that."
 
 Zoe spread her hands. "Then tell him! If that's the truth, what's wrong with that?"
 
@@ -287,18 +287,18 @@ A few people laughed. Mercer closed the video and turned the lights on.
 
 Chairs scraped behind Taiga.
 
-Taiga closed his notebook and looked up. Leo was sitting two rows in front of him, arguing with Enzo and Jordan whether the keeper could've reached it.
+Taiga closed his notebook and looked up. Leo was sitting two rows in front of him, arguing with Enzo and Jordan about whether the keeper could've reached it.
 
 Come on. No chickening out now.
 
-Easier said than done. Leo stood, still smiling while arguing with the others. 
-Taiga gulped, even though his mouth stayed dry. 
+Easier said than done. Leo stood, still smiling while arguing with the others.
+Taiga gulped, even though his mouth stayed dry.
 
-He stood. Jordan patted Leo on his shoulder, then he and Enzo started toward the staircase.
+He stood. Jordan patted Leo on the shoulder, then he and Enzo started toward the staircase.
 
 Taiga felt his legs shaking when Leo approached him.
 
-"Central Park?" He asked.
+"Central Park?" he asked.
 
 "Yeah. Sure."
 
@@ -306,10 +306,10 @@ They went outside.
 
 ***
 
-They didn't talk throughout all the walk to the park.
+They didn't talk on the walk to the park.
 The air was still biting, although the snow around the campus was barely surviving in dirty banks along the paths.
 
-Taiga tried to rehearse what he wanted to say, but the closer they get to Central Park, the harder it became to remember any it.
+Taiga tried to rehearse what he wanted to say, but the closer they got to Central Park, the harder it became to remember any of it.
 
 By the time they found a bench and sat, his mind had gone totally blank.
 
@@ -320,13 +320,13 @@ Leo did not help him. He just waited in silence.
 
 Finally he took a deep breath.
 
-“I’m... sorry.”
+"I'm... sorry."
 
 Taiga swallowed.
 
-“For Saturday.”
+"For Saturday."
 
-Leo’s face stayed careful.
+Leo's expression stayed guarded.
 Taiga opened his mouth. Nothing came out. Fantastic.
 
 He stared at his hands. Then he closed his eyes. There was no way around it.
@@ -341,7 +341,7 @@ Still nothing from Leo. Jesus.
 
 Taiga opened his eyes and looked at him for a second. Leo was frowning.
 
-"I grew comfortable in staying around you without... you know, naming anything."
+"I got comfortable being around you without... you know, naming anything."
 
 He stared at his fingers.
 
@@ -349,13 +349,13 @@ He stared at his fingers.
 
 "I thought it was because you were about to punch him."
 
-Taiga laughed once from his nose. 
+Taiga huffed a laugh.
 
-"That, also."
+"That too."
 
 Leo didn't add anything else.
 
-"I wanted to come back to you. The same night. I was about to knock at your door. When I heard-"
+"I wanted to come back to you. The same night. I was about to knock at your door. When I heard—"
 
 His throat closed up.
 
@@ -366,7 +366,7 @@ Taiga looked away from him. He must be looking so pathetic right now.
 
 He took a couple of deep breaths, trying to calm himself down.
 
-"I understand if you don't want to see me anymore. I j-just... wanted you to know. That I'm so fucking s-sorry-"
+"I understand if you don't want to see me anymore. I j-just... wanted you to know. That I'm so fucking s-sorry—"
 
 His voice broke and Taiga couldn't say anything else.
 For a second, he considered running off. Hide in a bush or something. He just wanted to disappear from the world right now.
@@ -379,7 +379,7 @@ Taiga looked up.
 
 It took a couple of seconds for him to realize what Leo had just said. His mind went blank.
 
-"But I don't want to pretend this didn't happen either," Leo continued
+"But I don't want to pretend this didn't happen either," Leo continued.
 
 "...Right."
 
@@ -387,23 +387,23 @@ It took a couple of seconds for him to realize what Leo had just said. His mind 
 
 Leo took a deep breath.
 
-“What Aaron said. About... us.”
+"What Aaron said. About... us."
 
 Taiga gulped.
 
-“I don’t want it to change... wherever we were going.”
+"I don't want it to change... wherever we were going."
 
 His heart started beating hard.
 
 "And I definitely don't want us to behave differently just because there are other people around."
 
 There was a pause.
-Taiga tried metabolizing his request. Leo had all the rights to ask that, he knew that. Yet, he still couldn't bring himself to answer properly.
+Taiga tried to take in the request. He knew Leo had every right to ask that. Yet, he still couldn't bring himself to answer properly.
 Taiga wiped a tear from his face and simply nodded.
 
-Leo's face softened up. Slightly.
+Leo's face softened. Slightly.
 
-"I was... really confused, Taiga. I've spent all Sunday thinking I said something I shouldn't have. Then I started realizing that maybe I had been reading it wrong all along."
+"I was... really confused, Taiga. I spent all Sunday thinking I said something I shouldn't have. Then I started wondering whether I'd been reading it wrong all along."
 
 He took a breath.
 
@@ -413,7 +413,7 @@ He took a breath.
 
 Taiga could see the hurt on his face. Guilt still clawed his chest.
 
-"It was actually the other way around," He finally said.
+"It was actually the other way around," he finally said.
 
 "I ran off and pushed you away because I didn't want to see it. What I really..."
 
@@ -421,7 +421,7 @@ He bit his lip. Come on.
 
 "...felt."
 
-Leo looked down and smiled "Yeah, I get it now."
+Leo looked down and smiled. "Yeah, I get it now."
 
 They sat in awkward silence for a minute.
 
@@ -429,7 +429,7 @@ They sat in awkward silence for a minute.
 
 "What?"
 
-"Why did you react that way? I mean- why are so scared about..."
+"Why did you react that way? I mean—why are you so scared about..."
 
 Leo gestured.
 
@@ -443,79 +443,79 @@ Yeah. He deserved it.
 
 "I think I owe you an explanation."
 
-Taiga paused, recollecting his thoughts.
+Taiga paused, collecting his thoughts.
 
 "When I first went to camp, I didn't go there alone. My boyfriend... well, ex-boyfriend, came with me."
 
 He hesitated for a second.
 
-"Back then I was... different. I liked hanging out with lots people, talking, opening up and stuff."
+"Back then I was... different. I liked hanging out with lots of people, talking, opening up and stuff."
 
 "Hard to imagine," Leo said, raising an eyebrow.
 
-Taiga smiled faintly. "Yeah, I know. I found a place there pretty fast. Friends. Lots of it. People who actually liked having me around."
+Taiga smiled faintly. "Yeah, I know. I found a place there pretty fast. Friends. Lots of them. People who actually liked having me around."
 
 He rubbed his hands together.
 
-“My ex had come because he wanted more time with me. Instead, I started spending time with everyone else more and more. He got jealous, obviously, and we fought about it. A lot.”
+"My ex had come because he wanted more time with me. Instead, I started spending time with everyone else more and more. He got jealous, obviously, and we fought about it. A lot."
 
 Taiga took another breath.
 
-"I thought he was being selfish. That he wanted me all by himself, while he accused me of simply forgetting we were even boyfriend in the first place. We were both stupid, and kept pointing fingers at each others, instead of trying to fix things up."
+"I thought he was being selfish. That he wanted me all to himself, while he accused me of simply forgetting we were even boyfriends in the first place. We were both stupid and kept pointing fingers at each other instead of trying to work things out."
 
-“Then scoutmaster organized a SportsFest, and I decided not to team up with him. At some point, a guy from his team showed up covered in bruises and blood, and said I did it. That I've been threatening him not to participate, so we could win.”
+"Then the scoutmaster organized a SportsFest, and I decided not to team up with him. At some point, a guy from his team showed up covered in bruises and blood, and said I did it. That I'd been threatening him not to participate, so we could win."
 
-Leo’s expression now changed. "The fuck...?"
+Leo's expression now changed. "The fuck...?"
 
-“I didn’t, obviously. But everybody believed him. Things blew up, and suddenly everyone turned against me. The same people that were cheering for me two minutes before, now accused me of sabotage.”
+"I didn't, obviously. But everybody believed him. Things blew up, and suddenly everyone turned against me. The same people who were cheering for me two minutes before were now accusing me of sabotage."
 
 He kicked a stone on the pavement.
 
-"Things escalated in a brawl. Scoutmasters did their best, but the situation got off hand. Then it got even worse. Voices spread and camp's reputation took a big hit. They were so busy containing the damage that me and everyone involved were never actually punished for that."
+"Things escalated into a brawl. The scoutmasters did their best, but the situation got out of hand. Then it got even worse. Word spread and the camp's reputation took a big hit. They were so busy containing the damage that none of us were ever actually punished for it."
 
 The vivid image of that day was still incredibly clear in his mind. The worst day of his life.
 
-“After that, things fell apart for me. People avoided me. Some of them started fucking with me because they knew nobody would believe me. They started ambushing me in bathrooms and bullying me around, because they didn't know the truth.”
+"After that, things fell apart for me. People avoided me. Some of them started fucking with me because they knew nobody would believe me. They started ambushing me in bathrooms and bullying me because they didn't know the truth."
 
 Leo was quiet for a moment.
 
-"Now I understand why you wanted to stay as volunteer."
+"Now I understand why you wanted to stay as a volunteer."
 
 "Yeah."
 
-“What about your boyfriend?”
+"What about your boyfriend?"
 
 Taiga looked down.
 
-“He was the one who set me up.”
+"He was the one who set me up."
 
 Leo went still.
 
-“We stayed in a grey area until the guy who first accused me confessed to me after seeing what he had caused. So I confronted my ex and we totally lost it. We... got in a fight and things escalated quickly. I shoved him and he ended up punching me.”
+"We stayed in a grey area until the guy who first accused me confessed to me after seeing what he'd caused. So I confronted my ex and we totally lost it. We... got in a fight and things escalated quickly. I shoved him and he ended up punching me."
 
 Taiga pointed to the scar running across his nose.
 
-“That’s where this came from.”
+"That's where this came from."
 
 Leo looked horrified. "Fuck..."
 
-“I broke up with him. He left the next day while I stayed. Even though it was hell for me. I haven't seen or heard from him ever since.”
+"I broke up with him. He left the next day while I stayed. Even though it was hell for me. I haven't seen or heard from him ever since."
 
-"Wh- didn't you speak to your scoutmaster?"
+"Wh—didn't you speak to your scoutmaster?"
 
-Taiga shook his head. “What was the point? Even if I told everyone the truth, it wouldn’t undo anything. Plus...”
+Taiga shook his head. "What was the point? Even if I told everyone the truth, it wouldn't undo anything. Plus..."
 
 "You wanted to cover for him."
 
-"Yeah. I didn't want him to live through the same hell like I did."
+"Yeah. I didn't want him to live through the same hell as I did."
 
-Taiga went silent. A minute passed, then Leo said,
+Taiga went silent. A minute passed before Leo said,
 
-“So, when you told me to go away because of what Aaron said...”
+"So, when you told me to go away because of what Aaron said..."
 
-“It felt like the same shape. I managed to get friends here, despite my shitty temper. And seeing Aaron using that against me... against us... I feared that the same thing might happen again.”
+"It felt like the same shape. I managed to make friends here, despite my shitty temper. And seeing Aaron using that against me... against us... I feared that the same thing might happen again."
 
-Understanding moved across Leo’s face.
+Understanding moved across Leo's face.
 
 "But... why? I mean, that happened years ago and you told me that camp had become your family by now."
 
@@ -523,27 +523,27 @@ Taiga took a deep breath. Time for the uncomfortable part.
 
 "The second summer, when I met Keitaro and the others... I had come back to camp looking for a new start. To fix things. Make friends again. Then I saw Keitaro winning over everyone in just a few days, while I was still struggling because of my reputation."
 
-A pause followed. 
+A pause followed.
 
 "I spent almost all of the term hating him and making his life miserable there. Trying everything to prove that if you fuck up once, then everyone who loves you suddenly turns against you."
 
-Just thinking about it gave him the nausea.
+Just thinking about it made him feel sick.
 
-"So... when you said that last year you weren't in your best place mentally...?"
+"So... when you said you hadn't been in a good place mentally...?"
 
-"Yeah, I did horrible things to him. I set him up with a stupid compromising photo and when I got discovered, camp president was about to expel me for good. Instead... Keitaro asked him to let me stay. If his friends hadn't find out the truth, he would have probably ended up expelled. And still, he begged scoutmasters to give me another chance. And you know what I did after?"
+"Yeah, I did horrible things to him. I set him up with a stupid compromising photo and when I got caught, the camp president was about to expel me for good. Instead... Keitaro asked him to let me stay. If his friends hadn't found out the truth, he would probably have been expelled. And still, he begged the scoutmasters to give me another chance. And you know what I did after?"
 
-"Uh- I'd say you two became friends but-"
+"Uh—I'd say you two became friends but—"
 
-"I burned down his journal. The thing he cared the most because he had put all his memories and photos in there. I burned it down, in front of him."
+"I burned his journal. The thing he cared about most because he had put all his memories and photos in there. I burned it in front of him."
 
 Leo was taken aback. "What? Why?"
 
-"I had been... secretly reading it. Because of some sick form of jealousy. I wanted to see what the others found in him. I believed... no, I wanted to believe he was just pretending to be nice. When I got caught, I panicked. And I burned it."
+"I had been... secretly reading it. Because of some sick form of jealousy. I wanted to see what the others saw in him. I believed... no, I wanted to believe he was just pretending to be nice. When I got caught, I panicked. And I burned it."
 
-He made a humorless laugh.
+He let out a humorless laugh.
 
-"After that, Eduard literally slapped some sense in me and I had no other choice but to face the truth. And when I told Keitaro everything.... he fucking forgave me again."
+"After that, Eduard literally slapped some sense into me and I had no other choice but to face the truth. And when I told Keitaro everything... he fucking forgave me again."
 
 Taiga shook his head. He leaned back, resting his hands on the bench, looking up at the sky.
 
@@ -551,7 +551,7 @@ Taiga shook his head. He leaned back, resting his hands on the bench, looking up
 
 He took a long, deep breath.
 
-"I've been trying. Time and time again, to move on from my past. And every time, it always comes back. Every fucking time, for whatever reason. I always end up hurting people next to me. And I have only myself to blame."
+"I've been trying. Time and time again, to move on from my past. And every time, it always comes back. Every fucking time, for whatever reason. I always end up hurting the people close to me. And I have only myself to blame."
 
 The stone bench was cold under his palm. He slightly curled his fingers.
 
@@ -561,13 +561,13 @@ He stopped.
 A huge weight seemed to be lifting from his stomach. Yet, as he looked at the stars, he felt extremely alone.
 A small point in an endless universe, burning too hot for anyone to get close.
 
-Now he also felt incredibly selfish for having kept Leo around. He probably still had no idea what Taiga was actually capable of. 
-The explanation was all he needed, he had better moving-
+Now he also felt incredibly selfish for having kept Leo around. He probably still had no idea what Taiga was actually capable of.
+The explanation was all Leo needed. He'd be better off moving—
 
-He froze. Something warm touched his hand.
-When he looked down, Leo had put his hand over the back of Taiga's. 
+Taiga froze. Something warm touched his hand.
+When he looked down, Leo had put his hand over the back of Taiga's.
 
-His heart started to rush against his ribs. Then he looked up: Leo was staring at him with a warm, compassionate smile.
+His heart started to pound against his ribs. Then he looked up: Leo was staring at him with a warm, compassionate smile.
 
 His brain started screaming. Remove it. Now.
 As if Leo could read his mind, he squeezed tighter, brushing his thumb against Taiga's knuckles.
@@ -576,23 +576,23 @@ As if Leo could read his mind, he squeezed tighter, brushing his thumb against T
 
 Taiga didn't say anything. Leo continued.
 
-"Whatever mistake you think you make, I don't want you to choose whether it's too much for me."
+"Whatever mistake you think you might make, I don't want you to choose whether it's too much for me."
 
 He slightly moved his hand, interlocking his fingers with Taiga's.
 
 "Can you promise me that?"
 
-Taiga looked away. Jesus, Leo was offering him everything he could be hoping for. Why the heck was he being so stubborn anyways?
+Taiga looked away. Jesus, Leo was offering him everything he could hope for. Why the heck was he being so stubborn anyways?
 
 "I don't want to hurt you again. Not like that," he said.
 
 "Then don't leave me out of it. Right now, the thing that'd hurt me the most would be letting you face all of this on your own."
 
-There was no hesitation in Leo's words. The same stupid conviction that Keitaro had showed all the time along. 
+There was no hesitation in Leo's words. The same stupid conviction that Keitaro had shown all along.
 Maybe... it was about damn time he opened up to let someone in.
 
 He gently clenched his fingers around Leo's and nodded.
-They stayed like that for a while. Holding hands, without muttering a single word. 
+They stayed like that for a while. Holding hands, without saying a single word.
 
 Eventually, Taiga looked at him again. "Thank you."
 
@@ -610,9 +610,9 @@ Taiga looked down at their hands, still locked together. He felt the same weird 
 
 "Yeah."
 
-After a while, Leo shook his shoulders.
+After a while, Leo shivered.
 
-"Welp. I don't know about you, but I'm freezing my ass over here and I'm kinda starving. Food?"
+"Welp. I don't know about you, but I'm freezing my ass off over here and I'm kinda starving. Food?"
 
 For once, food actually sounded good.
 
