@@ -584,12 +584,10 @@ Taiga looked away. Jesus, Leo was offering him everything he could be hoping for
 
 "Then don't leave me out of it. Right now, the thing that'd hurt me the most would be letting you face all of this on your own."
 
-There was no hesitation in Leo's words. The same stupid conviction that Keitaro had showed all the time along.
-
+There was no hesitation in Leo's words. The same stupid conviction that Keitaro had showed all the time along. 
 Maybe... it was about damn time he opened up to let someone in.
 
 He gently clenched his fingers around Leo's and nodded.
-
 They stayed like that for a while. Holding hands, without muttering a single word. 
 
 Eventually, Taiga looked at him again. "Thank you."
@@ -610,7 +608,7 @@ Taiga looked down at their hands, still locked together. He felt the same weird 
 
 After a while, Leo shook his shoulders.
 
-"I don't know about you, but I'm freezing my ass over here and I'm kinda starving. Food?"
+"Welp. I don't know about you, but I'm freezing my ass over here and I'm kinda starving. Food?"
 
 For once, food actually sounded good.
 
