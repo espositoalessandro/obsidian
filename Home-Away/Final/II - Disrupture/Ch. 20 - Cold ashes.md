@@ -479,6 +479,10 @@ The vivid image of that day was still incredibly clear in his mind. The worst da
 
 Leo was quiet for a moment.
 
+"Now I understand why you wanted to stay as volunteer."
+
+"Yeah."
+
 “What about your boyfriend?”
 
 Taiga looked down.
