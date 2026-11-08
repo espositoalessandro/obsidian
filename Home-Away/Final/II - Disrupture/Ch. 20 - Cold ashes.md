@@ -487,13 +487,13 @@ Taiga looked down.
 
 Leo went still.
 
-“We stayed in a grey area until the guy who first accused me confessed to me after seeing what he had caused. So I confronted my ex and we totally lost it. We... got in a fight. He ended up punching me.”
+“We stayed in a grey area until the guy who first accused me confessed to me after seeing what he had caused. So I confronted my ex and we totally lost it. We... got in a fight and things escalated quickly. I shoved him and he ended up punching me.”
 
 Taiga pointed to the scar running across his nose.
 
 “That’s where this came from.”
 
-"Fuck."
+Leo looked horrified. "Fuck..."
 
 “I broke up with him. He left the next day while I stayed. Even though it was hell for me. I haven't seen or heard from him ever since.”
 
@@ -551,7 +551,7 @@ He took a long, deep breath.
 
 The stone bench was cold under his palm. He slightly curled his fingers.
 
-"At this point, maybe the whole fucking world would be better off without me."
+"That's why... I still think you'd be better off without me."
 
 He stopped.
 A huge weight seemed to be lifting from his stomach. Yet, as he looked at the stars, he felt extremely alone.
