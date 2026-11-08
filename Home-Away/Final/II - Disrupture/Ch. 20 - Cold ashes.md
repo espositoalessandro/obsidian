@@ -513,11 +513,11 @@ Taiga went silent. A minute passed, then Leo said,
 
 Understanding moved across Leo’s face.
 
-"But... why? I mean, that happened two years ago and you told me that camp had become your family by now."
+"But... why? I mean, that happened years ago and you told me that camp had become your family by now."
 
 Taiga took a deep breath. Time for the uncomfortable part.
 
-"Last year, when I met Keitaro and the others... I had come back to camp looking for a new start. To fix things. Make friends again. Then I saw Keitaro winning over everyone in just a few days, while I was still struggling because of my reputation."
+"The second summer, when I met Keitaro and the others... I had come back to camp looking for a new start. To fix things. Make friends again. Then I saw Keitaro winning over everyone in just a few days, while I was still struggling because of my reputation."
 
 A pause followed. 
 
