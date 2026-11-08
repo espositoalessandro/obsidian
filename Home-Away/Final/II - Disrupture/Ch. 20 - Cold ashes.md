@@ -32,7 +32,7 @@ Leo held out a pen. "You dropped this."
 
 Taiga took it. "Thanks."
 
-Leo turned without answering. Taiga stood there, holding his pen with his heart still beating fast, watching him pack up and head toward the other end of the row.
+Leo turned without answering. Taiga stood there, holding his pen with his heart still beating fast, watching him packing up and heading toward the other end of the row.
 
 Fuck it.
 
@@ -445,7 +445,7 @@ Yeah. He deserved it.
 
 Taiga paused, recollecting his thoughts.
 
-"When I first went to camp, two years ago, I didn't go there alone. My boyfriend... well, ex-boyfriend, came with me."
+"When I first went to camp, I didn't go there alone. My boyfriend... well, ex-boyfriend, came with me."
 
 He hesitated for a second.
 
