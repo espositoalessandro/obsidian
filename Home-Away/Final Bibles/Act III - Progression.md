@@ -1,6 +1,8 @@
-# Home/Away - Act III Progression Bible
+# Home/Away - Act III: Undertow - Progression Bible
 
 **Discussion consolidated:** 8 November 2026.
+
+**Chosen act title:** *Undertow*. The older draft title, *Moving On*, is retained only in legacy paths and references.
 
 **Status:** Development plan following the completed Final Act II. The act's purpose and constraints are agreed. The pre-camp progression has a working shape. The Camp Buddy chapter ladder remains to be developed.
 
@@ -236,10 +238,46 @@ The goal is an observable change from careful continuation to wanted inclusion, 
 | Original chapter | Existing events and function | Implication for the rewrite |
 | --- | --- | --- |
 | 22 - Blind Spot | Ordinary university life resumes; Taiga becomes physically distracted by Leo, tries avoidance routines, contributes in a match, and struggles to manage sexual desire. | Much of the body awareness and avoidance now overlaps with Act II. Soccer, group integration, and ordinary life have independent functions to assess. |
-| 23 - Static | Contact becomes increasingly ambiguous and deliberate; Leo enters Room 317 and meets Caleb and Maya properly; Zayne flirts with both boys and exposes Taiga's jealousy. | Knee testing, hand-contact analysis, and the popcorn beat cannot carry the same discovery again. Room 317 and the wider university cast remain useful candidates. Zayne needs a current function if retained. |
+| 23 - Static | Contact becomes increasingly ambiguous and deliberate; Leo enters Room 317 and meets Caleb and Maya properly; Zayne flirts with both boys and exposes Taiga's jealousy. | Knee testing, hand-contact analysis, and the popcorn beat cannot carry the same discovery again. Room 317 and the wider university cast remain useful candidates. Zayne is retained as a recurring cameo with a brief jealousy beat and a foreshadowing function, as specified below. |
 | 24 - Preseason | Taiga arranges the camp visit, invites Leo, exchanges packing messages, and travels north with him. | The invitation remains valuable, but the revised preceding weeks must earn Taiga's readiness. Logistics and anticipation can consolidate the choice. |
 
 This assessment does not order every scene to be kept or cut. Retain a scene because its current job is useful, not merely because it exists in the completed draft.
+
+### Zayne: recurring cameo and jealousy foreshadowing
+
+**Agreed direction:** Retain Zayne across **at least two chapters** in the university section. His main romantic function is to provoke a small, comic reaction in Taiga when he teases or flirts with Leo. He does not need a separate jealousy subplot.
+
+Zayne's academic role and ordinary campus presence can make the encounters feel natural. Keep his confidence, competence, and casual flirting. He is behaving like himself rather than deliberately manipulating the boys or testing their relationship.
+
+An earlier appearance can establish familiarity and easy banter; a later appearance can carry the clearer reaction. This distribution is an option, not a fixed scene order. Two chapters are a minimum, not a maximum, and each appearance need not repeat the same jealousy beat.
+
+#### The scale of Taiga's reaction
+
+The preferred example discussed is Zayne teasing Leo in the library or another natural university setting. Taiga hurries them along because they have training, despite still having enough time.
+
+Training is a real obligation. Taiga creates unnecessary urgency around it. Packing early, cutting an exchange short, or getting Leo moving slightly sooner can carry the reaction.
+
+A clock or an already-established departure time can let the reader recognize the disproportion. Keep the beat brief. It needs no prolonged self-inquiry, confrontation, relationship-definition discussion, or explanation of the motive from Leo, Zayne, or the narration.
+
+This is not another discovery that Taiga likes Leo. Avoid rebuilding the old extended sequence of competitive coffees, comparisons of attraction, or escalating territorial behavior around Zayne.
+
+#### Cameo intent
+
+The author intends the Leo/Zayne exchange as a nod to their pairing and interplay in the *Jock Studio* demo. Consult the relevant voicelines when writing their interaction. Readers who recognize the reference get an additional payoff; the exchange should also work as ordinary character comedy.
+
+No specific voiceline or exact exchange has been selected here.
+
+#### Foreshadowing Undertow's main arc
+
+The cameo introduces jealousy through Taiga before the camp arc puts him on the receiving end of Leo's jealousy.
+
+- With Zayne, Taiga briefly dislikes someone else occupying Leo's attention and uses a practical reason to redirect the situation.
+- At camp, Taiga's involvement with Kieran can leave Leo feeling peripheral. That reaction intersects with history, expectations, and a concrete failure of consideration.
+- A comfortable explanation may cover the uncomfortable feeling: training for Taiga; tiredness or competitiveness are possibilities for Leo, with exact behavior still to be developed.
+
+The emotional pattern recurs while circumstances and consequences change. Zayne's teasing remains a harmless, comic encounter. Kieran carries the sustained history and relationship pressure.
+
+The connection can remain with the reader. Taiga does not need to remember Zayne explicitly, diagnose the parallel, or explain the act's theme.
 
 ## 15. Camp Buddy: general purpose only
 
@@ -436,11 +474,11 @@ Do not treat these as instructions to add ten beats. They are planning checks.
 
 ## 26. Open decisions for the next planning stage
 
-- Final act title; the old draft uses *Moving On*.
 - New chapter numbering, count, titles, and boundaries.
 - Exact calendar dates within the approximately one-month pre-camp interval.
 - The specific first-week situations through which ease returns.
-- Whether and how Room 317, Zayne, academic work, and soccer material are retained.
+- Whether and how Room 317, academic work, and soccer material are retained.
+- Zayne's specific chapter placements and scene staging; his recurring cameo and small jealousy function are agreed.
 - The moment Taiga becomes ready to ask and the timing of travel preparation.
 - The Camp Buddy chapter ladder, duration in scenes, and event sequence.
 - Kieran's entry mechanism and the mixture of feelings his presence provokes.
