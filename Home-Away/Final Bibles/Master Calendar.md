@@ -98,7 +98,7 @@ The timetable below is the Final-rewrite continuity reference for ordinary teach
 | Day                 | Academic schedule                                                                                       | Stable continuity notes                                                                                |
 | ------------------- | ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
 | **Monday**          | 10:00–10:50 Data Structures; 11:00–11:50 Calculus II                                                    | Data Structures is shared with Leo.                                                                    |
-| **Tuesday**         | 09:30–10:45 Discrete Structures; 11:00–12:15 General Chemistry II; 14:00–15:50 Data Structures lab      | Deliberately crowded day. Discrete is shared with Leo and Zoe; Data Structures lab is shared with Leo. |
+| **Tuesday**         | 09:30–10:45 Discrete Structures; 11:00–12:15 General Chemistry II; 14:00–15:50 Data Structures lab      | Deliberately crowded day. Discrete is shared with Leo; Data Structures lab is shared with Leo. |
 | **Wednesday**       | 10:00–10:50 Data Structures; 11:00–11:50 Calculus II                                                    | Comparatively light academic day.                                                                      |
 | **Thursday**        | 09:30–10:45 Discrete Structures; 11:00–12:15 General Chemistry II; 14:00–17:00 General Chemistry II lab | Chemistry lab consumes most of the afternoon.                                                          |
 | **Friday**          | 10:00–10:50 Data Structures; 11:00–11:50 Calculus II                                                    | Friday is morning-only academically.                                                                   |
@@ -109,7 +109,7 @@ The timetable below is the Final-rewrite continuity reference for ordinary teach
 | Day                 | Academic schedule                                                                                   | Stable continuity notes                                                          |
 | ------------------- | --------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
 | **Monday**          | 09:00–09:50 Calculus II; 10:00–10:50 Data Structures                                                | Calculus section is shared with Zoe; Data Structures is shared with Taiga.       |
-| **Tuesday**         | 09:30–10:45 Discrete Structures; 12:30–13:45 Computer Organization; 14:00–15:50 Data Structures lab | Discrete is shared with Taiga and Zoe; Data Structures lab is shared with Taiga. |
+| **Tuesday**         | 09:30–10:45 Discrete Structures; 12:30–13:45 Computer Organization; 14:00–15:50 Data Structures lab | Discrete is shared with Taiga; Data Structures lab is shared with Taiga. |
 | **Wednesday**       | 09:00–09:50 Calculus II; 10:00–10:50 Data Structures                                                | Calculus with Zoe; Data Structures with Taiga.                                   |
 | **Thursday**        | 09:30–10:45 Discrete Structures; 12:30–13:45 Computer Organization                                  | No Chemistry sequence.                                                           |
 | **Friday**          | 09:00–09:50 Calculus II; 10:00–10:50 Data Structures                                                | Morning-only academically.                                                       |
@@ -119,12 +119,14 @@ The timetable below is the Final-rewrite continuity reference for ordinary teach
 
 Zoe's complete spring timetable remains undefined until the story needs it.
 
-Locked overlaps:
+Established course relationships:
 
 | Course | Section |
 | --- | --- |
 | **Calculus II** | Monday / Wednesday / Friday, 09:00–09:50 — same section as Leo |
-| **Discrete Structures** | Tuesday / Thursday, 09:30–10:45 — same section as Taiga and Leo |
+| **Discrete Structures** | Different section from Taiga and Leo, as established in Final Chapter 16. Her own days and times remain unspecified. |
+
+Zoe does not attend Taiga and Leo's Tuesday-morning Discrete Structures section. Do not infer her own Discrete schedule from theirs.
 
 Do not place Zoe in Taiga and Leo's Data Structures lecture or lab unless this calendar is deliberately revised.
 
@@ -133,7 +135,7 @@ Do not place Zoe in Taiga and Leo's Data Structures lecture or lab unless this c
 - **Taiga + Leo:** Data Structures lecture, Data Structures lab, Discrete Structures.
 - **Taiga + Leo:** both take Calculus II, but in **different sections**.
 - **Leo + Zoe:** same Calculus II section.
-- **Taiga + Leo + Zoe:** same Discrete Structures section.
+- **Zoe:** takes Discrete Structures in a different section from Taiga and Leo. They may study together outside class.
 - **Taiga only:** General Chemistry II + lab.
 - **Leo only:** Computer Organization.
 - Taiga and Leo therefore have scheduled academic contact every weekday, but voluntary time outside class — coffee, studying, walking together, messaging — remains distinct from timetable overlap.
