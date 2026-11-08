@@ -463,7 +463,7 @@ Taiga took another breath.
 
 "I thought he was being selfish. That he wanted me all by himself, while he accused me of simply forgetting we were even boyfriend in the first place. We were both stupid, and kept pointing fingers at each others, instead of trying to fix things up."
 
-“Then scoutmaster organized a SportsFest, and I decided not to team up with him. At some point, a guy from his team showed up beaten up, covered in bruises and blood, and said I did it, that I've been threatening him not to participate, so we could win.”
+“Then scoutmaster organized a SportsFest, and I decided not to team up with him. At some point, a guy from his team showed up covered in bruises and blood, and said I did it. That I've been threatening him not to participate, so we could win.”
 
 Leo’s expression now changed. "The fuck...?"
 
