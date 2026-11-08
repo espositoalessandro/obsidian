@@ -533,7 +533,7 @@ Just thinking about it gave him the nausea.
 
 "Yeah, I did horrible things to him. I set him up with a stupid compromising photo and when I got discovered, camp president was about to expel me for good. Instead... Keitaro asked him to let me stay. If his friends hadn't find out the truth, he would have probably ended up expelled. And still, he begged scoutmasters to give me another chance. And you know what I did after?"
 
-"Uh- I'd say you learned from your mistake but-"
+"Uh- I'd say you two became friends but-"
 
 "I burned down his journal. The thing he cared the most because he had put all his memories and photos in there. I burned it down, in front of him."
 
@@ -564,7 +564,7 @@ A small point in an endless universe, burning too hot for anyone to get close.
 Now he also felt incredibly selfish for having kept Leo around. He probably still had no idea what Taiga was actually capable of. 
 The explanation was all he needed, he had better moving-
 
-Taiga froze. Something warm touched his hand.
+He froze. Something warm touched his hand.
 When he looked down, Leo had put his hand over the back of Taiga's. 
 
 His heart started to rush against his ribs. Then he looked up: Leo was staring at him with a warm, compassionate smile.
