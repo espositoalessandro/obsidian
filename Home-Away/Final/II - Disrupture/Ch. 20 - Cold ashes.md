@@ -570,7 +570,7 @@ Taiga looked down at their hands, still locked together. He felt the same weird 
 
 "Yeah."
 
-Leo shook his shoulders.
+After a while, Leo shook his shoulders.
 
 "I don't know about you, but I'm freezing my ass over here and I'm kinda starving. Food?"
 
