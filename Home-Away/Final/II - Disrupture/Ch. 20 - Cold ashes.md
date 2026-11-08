@@ -535,7 +535,7 @@ Just thinking about it gave him the nausea.
 
 Leo was taken aback. "What? Why?"
 
-"I had been... secretly reading it. Because of some sick form of jealousy. I wanted to see what the other find in him. I thought he was just pretending to be nice. When I got caught I... panicked. And I burned it."
+"I had been... secretly reading it. Because of some sick form of jealousy. I wanted to see what the others found in him. I believed... no, I wanted to believe he was just pretending to be nice. When I got caught, I panicked. And I burned it."
 
 He made a humorless laugh.
 
@@ -543,26 +543,29 @@ He made a humorless laugh.
 
 Taiga shook his head. He leaned back, resting his hands on the bench, looking up at the sky.
 
-"I've been trying, time and time again, to move on from my past. And every time, it always comes back. Every fucking time, for whatever reason. I always end up hurting people next to me. And I have only myself to blame."
+"He was one of the few who actually saw beyond my past. And I nearly got him expelled."
+
+He took a long, deep breath.
+
+"I've been trying. Time and time again, to move on from my past. And every time, it always comes back. Every fucking time, for whatever reason. I always end up hurting people next to me. And I have only myself to blame."
 
 The stone bench was cold under his palm. He slightly curled his fingers.
 
-"That's why I didn't come back to you."
+"At this point, maybe the whole fucking world would be better off without me."
 
 He stopped.
 A huge weight seemed to be lifting from his stomach. Yet, as he looked at the stars, he felt extremely alone.
 A small point in an endless universe, burning too hot for anyone to get close.
 
-Now he also felt incredibly selfish for having asked Leo to stay with him. He probably had no idea what Taiga was actually capable of. 
-The explanation was all he needed, he had better moving on witho-
+Now he also felt incredibly selfish for having kept Leo around. He probably still had no idea what Taiga was actually capable of. 
+The explanation was all he needed, he had better moving-
 
-Taiga froze. He felt something warm touching his hand.
+Taiga froze. Something warm touched his hand.
 When he looked down, Leo had put his hand over the back of Taiga's. 
 
 His heart started to rush against his ribs. Then he looked up: Leo was staring at him with a warm, compassionate smile.
 
-His brain started screaming. Remove it. Now. Too dangerous.
-
+His brain started screaming. Remove it. Now.
 As if Leo could read his mind, he squeezed tighter, brushing his thumb against Taiga's knuckles.
 
 "That's not up to you to decide, Taiga," he said.
@@ -577,13 +580,19 @@ He slightly moved his hand, interlocking his fingers with Taiga's.
 
 Taiga looked away. Jesus, Leo was offering him everything he could be hoping for. Why the heck was he being so stubborn anyways?
 
-For once, he decided to ignore himself.
+"I don't want to hurt you again. Not like that," he said.
+
+"Then don't leave me out of it. Right now, the thing that'd hurt me the most would be letting you face all of this on your own."
+
+There was no hesitation in Leo's words. The same stupid conviction that Keitaro had showed all the time along.
+
+Maybe... it was about damn time he opened up to let someone in.
 
 He gently clenched his fingers around Leo's and nodded.
 
-They stayed like that for a while. Holding hands, without muttering a single word. Eventually, Taiga looked at him again.
+They stayed like that for a while. Holding hands, without muttering a single word. 
 
-"Thank you."
+Eventually, Taiga looked at him again. "Thank you."
 
 Leo smiled. "You owe me an emotional breakdown."
 
@@ -591,11 +600,11 @@ Leo smiled. "You owe me an emotional breakdown."
 
 "Come on, that wasn't even comparable."
 
-"You didn't specify."
+"Fuck off. You didn't specify."
 
-They laughed for a moment. Then Leo said, "Thanks for telling me."
+They chuckled for a moment. Then Leo said, "Thanks. For telling me."
 
-Taiga looked down at their hands, still locked together. He felt the same weird warmth inside he had felt at Pinetree.
+Taiga looked down at their hands, still locked together. He felt the same weird warmth inside he had felt at Pinetree. His thumb brushed the side of Leo's finger.
 
 "Yeah."
 
@@ -611,9 +620,6 @@ Their hands separated as they picked up their bags and started toward the mess h
 
 An uneasy air still lingered between them. Longer pauses, awkward smiles, uncertain looks.
 
-Taiga could feel the emptiness Leo had left slowly filling up again, yet somehow his presence was slightly unfamiliar now.
-As if a piece of their old engine had broken down and, instead of being fixed, it had been replaced by something else.
+Taiga could feel the emptiness Leo had left slowly filling up again. Yet, somehow, his presence was now slightly unfamiliar. As if a piece of their old engine had broken down and, instead of being fixed, it had been replaced by something else.
 
 He couldn't place exactly what, but... it didn't feel wrong.
-
-
