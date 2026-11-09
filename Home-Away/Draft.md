@@ -1,56 +1,14 @@
 ### Chapter 21 - Uncharted paths
 
-Leo and Enzo were at a table near the windows. Leo raised a hand when he spotted Taiga, then reached for his bag on the chair beside him.
+"Heading to Chemistry?" Leo asked.
 
-"...and I'm not paying for another hour," Enzo was saying as Taiga reached them. "At that point, I might as well buy new clothes."
+"Unfortunately."
 
-"You put two loads in one dryer."
+Leo zipped his bag and stood. "See you in the lab, then."
 
-"It all fit."
+"Yeah. Later."
 
-"Yeah, because you pushed it in with your knee." Leo turned toward Taiga. "He's got half his wardrobe hanging around our room now. I had to move a pair of jeans to get into my bed."
-
-Taiga set his tray down. The strap of Leo's bag had caught around a chair leg; Taiga waited while Leo tugged it free, then took the seat beside him.
-
-"Open a window."
-
-"I did," Leo said. "He closed it."
-
-"It's March. I'm not freezing to death for a pair of jeans."
-
-Enzo carried on explaining how much laundry should reasonably cost. Taiga unwrapped his cutlery and started eating. There was still a damp sleeve, apparently, hanging from the back of Leo's desk chair. Leo wanted it gone before he got back that evening.
-
-"Put it on his bed," Taiga said.
-
-Leo glanced at him, then smiled down at his plate.
-
-"I might."
-
-"You won't," Enzo said.
-
-Leo immediately began listing things he had moved onto Enzo's bed before. When he got to the shoes, Taiga asked whether there was any floor left. Enzo blamed the lack of storage. Leo disagreed with him for most of the next few minutes.
-
-It was easy enough to listen. Taiga ate, occasionally adding something when one of them dragged him into the argument. When Enzo finally stopped to finish his food, Leo asked whether Chemistry had been any better than Discrete.
-
-"About the same."
-
-"Great. I was hoping somebody was having a better morning."
-
-"I'll send you my notes."
-
-"Oh. Thanks."
-
-Before he was halfway through his lunch, Leo checked his phone and swore.
-
-"I've got to go. Computer Organization." He gathered his things, leaving the rest of his bread on the tray. "I'll see you in the lab, okay?"
-
-"Yeah."
-
-Leo slipped his bag over his shoulder and left. Enzo took the abandoned bread, broke it in half and offered a piece across the table. Taiga shook his head.
-
-"Anyway," Enzo said, "you've seen the size of those dryers. It's a scam."
-
-Taiga kept eating while Enzo explained it again.
+Taiga picked up his coffee cup and followed him out. They separated at the stairs.
 
 ***
 
