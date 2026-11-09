@@ -253,3 +253,37 @@ Table 3:
 
 Assigned mentor: **Zayne Alexander**
 
+He sighed and approached table 3. A blond guy with bright blue eyes was already putting his bag down. When Taiga arrived, he looked up and smiled.
+
+"Hey! Nice to meet you, I'm Connor."
+
+"Taiga. Nice to meet you."
+
+"H-Hey, guys."
+
+Another guy approached hesitantly.
+
+"Oh, hi there!" Connor said, "You must be Ace then, right? I'm Connor."
+
+"Ah, yes that's me. Nice to meet you."
+
+Ace sat down and put his lab coat on. Taiga and Connor were doing the same, when the tall junior Taiga had noticed appeared beside Ace.
+
+"Well, well, well. Looks like I'll be your mentor for this assignment. Lucky me."
+
+Taiga noticed that Ace looked like he was deliberately avoiding looking at the guy.
+
+"Would you believe such a coincidence, Ace? I'd say it's fate."
+
+Ace's face became instantly red. "C-Come on, Zayne."
+
+Zayne smiled, then turned to Connor and Taiga. "Zayne Alexander, nice to meet you all."
+
+"OH! I know you!" Connor said pointing his finger at him. "You're play basketball! I saw your match last week."
+
+"Oh, my. I'm flattered. And thanks for coming to the game! Hope I'll see you at the next one too."
+
+"Eheh, well, I'm not really a fan. I mainly accompanied a friend of mine that had to substitute the usual speaker for that match, because they were ill."
+
+"That's too bad. Well, I hope you had fun."
+
