@@ -109,13 +109,93 @@ Taiga looked at it and hesitated.
 
 Leo noticed Taiga had stopped. 
 
-"You up for a coffee before training?" Taiga asked.
+"You... up for a coffee before training?" Taiga asked.
 
 "...Oh. I mean, yeah, sure."
 
 Why was his stupid heart beating so fast?
 
 ***
+
+Nora had claimed a table near the mess hall windows on Wednesday. By the time Taiga reached it, she had spread a notebook, two articles and the remains of her lunch across most of the available space.
+
+"I need an opinion," she said, moving an article off the empty chair. "On one sentence."
+
+"You've never asked for an opinion on one sentence in your life."
+
+She turned the notebook toward him. The sentence ran over four lines.
+Taiga put his tray down and read it, then went back to the beginning.
+
+"Who does 'they' refer to?"
+
+"The committee."
+
+"You mentioned the students more recently."
+
+"Yes, but the students can't approve the proposal."
+
+"Then why make me work it out?"
+
+Nora took the notebook back, frowning at the page. She crossed something out while he started eating, rewrote it, then held the pen still.
+
+"Would you still object if the context made it clear?"
+
+"Depends on the context."
+
+"Because the paragraph before this explains—"
+
+"There it is."
+
+She smiled and pushed the notebook aside. It came back twice during lunch. Taiga disagreed with the essay's argument once he had heard it, and Nora spent several minutes defending it before asking him which part he actually objected to.
+
+Eventually she closed the notebook.
+
+"What are you doing for spring break?"
+
+"Probably camp."
+
+"Cool, your friends coming?"
+
+"I don't think so. Plus, once winter's over, preseason starts. So it's gonna be mostly work."
+
+"Do scout camps have preseason?"
+
+Taiga shrugged. "Dunno. This one has."
+
+"Okay, I'm still missing what that is."
+
+"Basically restoration works before summer arrives. Fix winter's damage, organizing stuff, cleaning things and so on."
+
+"So five star hotel for you."
+
+"You're welcome to try."
+
+Nora giggled. "No thanks. I'm going home for a few days. My sister wants us to go away for a weekend, but every hotel she's sent me costs more for one night than my train tickets."
+
+"Send her somewhere cheaper."
+
+"I did. Apparently it lacked *atmosphere*."
+
+"What does that mean?"
+
+"I asked. She sent me a photograph of a bathtub."
+
+Taiga laughed. Nora began gathering the articles, still explaining the price of the room with the bathtub. Her sister had apparently included a second photograph after Nora failed to appreciate the first.
+
+"I need to book the train before she decides we're going somewhere by boat."
+
+"Why a boat?"
+
+"Because I said that sounded nice once. Now she thinks I'm interested."
+
+She checked the time and swore softly. Taiga finished the last of his food while she packed, then went outside with her. They parted at the path toward the library, still disagreeing about whether a bathtub could justify a hotel.
+
+He had Calculus work waiting in his room and an unread Chemistry brief in his inbox. He opened the brief on the walk back.
+
+Three weeks. Group project.
+
+Fantastic.
+
 
 
 
