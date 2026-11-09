@@ -1,26 +1,60 @@
-### Chapter 21
+### Chapter 21 - Uncharted paths
 
-By Tuesday afternoon, Taiga had managed to say good morning to Leo, ask whether he had finished the Discrete assignment, and spend the rest of their conversation talking about the assignment.
+Leo and Enzo were at a table near the windows. Leo raised a hand when he spotted Taiga, then reached for his bag on the chair beside him.
 
-He was doing brilliantly.
+"...and I'm not paying for another hour," Enzo was saying as Taiga reached them. "At that point, I might as well buy new clothes."
 
-Leo was already in the lab when he arrived. He moved his bag off the neighboring chair, said hi, and went back to untangling his charger while Taiga sat down.
+"You put two loads in one dryer."
 
-"You need the other socket?"
+"It all fit."
 
-"I'm at eighty percent."
+"Yeah, because you pushed it in with your knee." Leo turned toward Taiga. "He's got half his wardrobe hanging around our room now. I had to move a pair of jeans to get into my bed."
 
-"Right. Okay."
+Taiga set his tray down. The strap of Leo's bag had caught around a chair leg; Taiga waited while Leo tugged it free, then took the seat beside him.
 
-There had never been this much ceremony involved in a fucking power outlet.
+"Open a window."
 
-Taiga opened his laptop. They had eaten together after the park, and he could remember most of that conversation too: Leo complaining about the soup, asking whether he wanted bread, stopping halfway through a story to check something on his phone. Then the dorm entrance, where neither of them had seemed to know how to say good night.
+"I did," Leo said. "He closed it."
 
-He had lain awake afterward, remembering considerably less ordinary parts of the evening.
+"It's March. I'm not freezing to death for a pair of jeans."
 
-Now Leo knew about the scar. Keitaro. The journal.
+Enzo carried on explaining how much laundry should reasonably cost. Taiga unwrapped his cutlery and started eating. There was still a damp sleeve, apparently, hanging from the back of Leo's desk chair. Leo wanted it gone before he got back that evening.
 
-Taiga clicked into the starter repository.
+"Put it on his bed," Taiga said.
+
+Leo glanced at him, then smiled down at his plate.
+
+"I might."
+
+"You won't," Enzo said.
+
+Leo immediately began listing things he had moved onto Enzo's bed before. When he got to the shoes, Taiga asked whether there was any floor left. Enzo blamed the lack of storage. Leo disagreed with him for most of the next few minutes.
+
+It was easy enough to listen. Taiga ate, occasionally adding something when one of them dragged him into the argument. When Enzo finally stopped to finish his food, Leo asked whether Chemistry had been any better than Discrete.
+
+"About the same."
+
+"Great. I was hoping somebody was having a better morning."
+
+"I'll send you my notes."
+
+"Oh. Thanks."
+
+Before he was halfway through his lunch, Leo checked his phone and swore.
+
+"I've got to go. Computer Organization." He gathered his things, leaving the rest of his bread on the tray. "I'll see you in the lab, okay?"
+
+"Yeah."
+
+Leo slipped his bag over his shoulder and left. Enzo took the abandoned bread, broke it in half and offered a piece across the table. Taiga shook his head.
+
+"Anyway," Enzo said, "you've seen the size of those dryers. It's a scam."
+
+Taiga kept eating while Enzo explained it again.
+
+***
+
+At two, Owen was drawing a tree on the board. Leo was already at their usual desk, frowning at his screen. He looked up as Taiga put his bag down.
 
 "Did you look at this already?"
 
@@ -94,9 +128,21 @@ Beside him, Leo very carefully folded his hands.
 
 "Fuck off."
 
-Leo laughed and ducked his head when Owen glanced their way. Taiga fixed the line, ran the tests again and returned to the written questions. By the time they reached the last one, Leo had covered most of the notebook page in arrows and was objecting to the word always in Taiga's explanation.
+Leo laughed and ducked his head when Owen glanced their way. Taiga fixed the line, ran the tests again and returned to the written questions. By the time they reached the last one, Leo had covered most of the notebook page in arrows and was objecting to the word *always* in Taiga's explanation.
 
 He was right about that too. Annoyingly.
+
+Taiga took the notebook and drew a tree with every node on the same side. Leo watched him add another branch, then another.
+
+"Okay, I get it. You've made a stick."
+
+"That's still a tree."
+
+"Fine. A very sad tree. Can I have my pen back?"
+
+Taiga looked down. He'd taken that too.
+
+He handed it over and went back to his own screen. Leo added something to the drawing before copying the answer into his document.
 
 When Owen dismissed them, Leo closed his laptop but stayed seated. Taiga put his things away, aware that he was taking longer than necessary with the charger.
 
