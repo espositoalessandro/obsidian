@@ -49,22 +49,74 @@ When class was over, they started packing. Leo had occasionally sworn about some
 
 "Unfortunately."
 
-Taiga hesitated for a second, then added, "See you at lunch?"
-
-Leo brightened a little. "Oh. Sure."
-
-"Right, uh... later, then."
+He zipped his bag and stood. "See you in the lab, then."
 
 "Yeah. Later."
 
 ***
 
-**Taiga:** done
-**Taiga:** mess hall is okay?
+That afternoon, Taiga was opening the assignment when Leo came in with Rachel.
 
-**Leo:** yep
-**Leo:** see you there
+"—because if one elevator breaks, everybody just stands in front of the other one. There were stairs right there."
 
-**Taiga:** cool
+"Did you take them?" Rachel said.
 
-Taiga locked his phone and started toward the mess hall. 
+"Jesus, of course not! My room is at fourth floor. The others should've!"
+
+Rachel laughed and went to her desk. Leo stopped beside Taiga. "Hey. Is this...?"
+
+Taiga moved his bag off the empty chair.
+
+Leo took out his laptop and plugged in the charger. Taiga went back to the assignment while Owen brought up the handout.
+
+"Rotations today. The diagrams are on the second page. Please look at them before you start moving things around."
+
+"Wow. Owen has chosen dictatorship today."
+
+"He knows who he's dealing with."
+
+"That sounds.... targeted."
+
+Taiga shrugged. "I said nothing."
+
+"Of course."
+
+For a while, there was only typing beside Taiga, interrupted once by a quiet swear. He had reached the second exercise when Leo leaned back.
+
+"I miss arrays so bad."
+
+"You said hated arrays."
+
+"Past me was blissfully ignorant. You could at least draw the boxes. Look at this." Leo pushed his notebook toward him. Three trees crowded the bottom of the page, their branches running into each other.
+
+"How do you even understand what's going on here?"
+
+"Tch. I wonder if yours looks any better."
+
+Taiga closed his notebook an pushed it out of Leo's reach.
+For a moment, he expected Leo to lean over him and try to reach it. Instead, he just narrowed his eyes.
+
+"Coward."
+
+Taiga smiled and went back to his exercise.
+
+When class ended, they picked up their bags and went outside.
+Leo was still complaining about the last exercise, when they passed in front of the Lecture Hall's cafeteria.
+
+Taiga looked at it and hesitated.
+
+"-and why on Earth should one decide to merge two trees when-"
+
+Leo noticed Taiga had stopped. 
+
+"You up for a coffee before training?" Taiga asked.
+
+"...Oh. I mean, yeah, sure."
+
+Why was his stupid heart beating so fast?
+
+***
+
+
+
+
