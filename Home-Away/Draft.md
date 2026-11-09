@@ -12,113 +12,167 @@ Taiga picked up his coffee cup and followed him out. They separated at the stair
 
 ***
 
-At two, Owen was drawing a tree on the board. Leo was already at their usual desk, frowning at his screen. He looked up as Taiga put his bag down.
+That afternoon, Taiga was opening the assignment when Leo came in with Rachel.
 
-"Did you look at this already?"
+"—because if one elevator breaks, everybody just stands in front of the other one. There were stairs right there."
 
-"A little. The deletion bit's annoying." Leo turned his screen slightly. "Two children. Mine keeps deleting more tree than I asked for."
+"You were waiting too," Rachel said.
 
-Taiga's mouth twitched. Before he could answer, Owen called for attention.
+"For a minute. I thought the doors were about to open."
 
-The assignment was an ordinary binary search tree. Insert, search, remove. Owen wanted the structure intact afterward, which apparently needed specifying.
+Rachel laughed and went to her desk. Leo stopped beside Taiga. "Hey. Is this...?"
 
-"You can discuss it with whoever you're sitting with. Individual submissions, please. And don't just test the example I gave you. I also know how to copy an example."
+Taiga moved his bag off the empty chair. "Yeah. Sit."
 
-As he returned to his desk, Leo ran his code again. A red line appeared at the bottom of the screen.
+Leo took out his laptop and plugged in the charger. Taiga went back to the assignment while Owen brought up the handout.
 
-"Still doing it."
+"Rotations today. The diagrams are on the second page. Please look at them before you start moving things around."
 
-"Show me."
+For a while, there was only typing beside Taiga, interrupted once by a quiet swear. He had reached the second exercise when Leo leaned back.
 
-Taiga leaned over the laptop, then stopped with his fingers beside the trackpad.
+"I miss arrays."
 
-"Can I?"
+"You hated arrays."
 
-"Yeah. Of course."
+"I complained about one assignment. That's different. You could at least draw the boxes. Look at this." Leo pushed his notebook toward him. Three trees crowded the bottom of the page, their branches running into each other.
 
-He scrolled through the function. Leo followed for a few seconds before pulling a notebook out from beneath his laptop.
+"Use another page."
 
-"Wait. Before you change anything. I think I know where."
+"Then I can't see the first one. I keep having to go back and check where everything started. And then I turn the page again and I've forgotten which one I was looking at." Leo rubbed his forehead. "Is yours any better?"
 
-"I wasn't changing anything."
+Taiga turned his notebook around. Leo leaned over it, following one of the arrows with his finger. He stopped where Taiga had crossed it out and drawn another over the top.
 
-"Okay, but let me draw it. Because I keep looking at the code and thinking it's fine, and then half the tree disappears."
+"Where's that going? You crossed it out, right?"
 
-Taiga let go of the trackpad. Leo drew a small tree, crossed out the top node and followed the arrows with his pen. He had put the numbers too close together and was now trying to squeeze another one between two branches. Normally, Taiga would have said something about that.
+"Yeah. Follow the other one."
 
-"There." Leo tapped the paper. "The replacement has a child too. I'm moving the value, then treating the old node like it's empty."
+"I am. It takes me back to where I started."
 
-He changed two lines and ran the tests. The red line disappeared. Taiga read the function again.
+"That one." Taiga reached over and tapped the page.
 
-"You could have done that without the extra search."
+Leo lifted his hand. "Okay. Can you see how I might not have worked that out?"
 
-"I could also have spent another twenty minutes writing it wrong. Can I enjoy the green bit for a second?"
+Taiga took the notebook back. The crossing arrows were a fucking mess. There had been plenty of room when he'd started.
 
-"Look. You've already got the reference here."
+"Fine. I'll draw it again."
 
-Leo leaned toward Taiga's screen. "Okay, but then the parent has to—oh. Wait."
+Leo settled back in his chair while Taiga turned the page.
 
-He took the notebook back and drew another line across the page. Taiga followed it with his finger, pointing out where the reference needed to change. Leo argued with him twice, then tried it.
+"You don't have to look so pleased."
 
-"That is uglier."
+"A little, yeah."
 
-"It's shorter."
+Taiga snorted and started again on the clean page. When Leo asked to look a second time, he slid the notebook over without stopping his typing.
 
-"Both things can be true."
+By the time Owen called for them to start checking the last exercise, Leo had one test left to pass. He ran it twice, changed something, then ran it again.
 
-Taiga snorted. Leo smiled and turned back to the screen, talking through the change while he typed.
+Taiga leaned over. "Base case."
 
-A few minutes later, Taiga's last test failed.
+Leo stopped scrolling.
 
-"What happened to your beautiful solution?"
+"No."
 
-"Shut up."
+"You forgot null."
 
-"I'm asking professionally." Leo leaned across to read the input. "Oh, you're testing the empty one. You're reading the root before you check whether it exists."
+"No, I checked—"
 
-Taiga stopped scrolling.
+Taiga pointed.
 
-Beside him, Leo very carefully folded his hands.
+Leo stared at the line.
 
-"Go on," Taiga said.
+"...Fuck."
 
-"No, no. I think we should respect the deceased."
+Taiga smiled. Leo caught it, then looked back at his screen. "Coffee after?"
 
-"Fuck off."
+"Yeah."
 
-Leo laughed and ducked his head when Owen glanced their way. Taiga fixed the line, ran the tests again and returned to the written questions. By the time they reached the last one, Leo had covered most of the notebook page in arrows and was objecting to the word *always* in Taiga's explanation.
+"Okay. Give me a minute. I need to make sure I haven't done that everywhere."
 
-He was right about that too. Annoyingly.
+Taiga sat back and finished his own submission. Leo was still checking when he shut his laptop, so he took out his phone and waited.
 
-Taiga took the notebook and drew a tree with every node on the same side. Leo watched him add another branch, then another.
+***
 
-"Okay, I get it. You've made a stick."
+The tables around the kiosk were full. They stood beside the low wall with their bags at their feet. Leo passed Taiga his phone while he tried to get the lid onto his cup.
 
-"That's still a tree."
+"Why are these always such a pain in the ass?" He pressed around the edge, inspected it and finally took a sip. "Thanks."
 
-"Fine. A very sad tree. Can I have my pen back?"
+Taiga handed the phone back. "You're bending it."
 
-Taiga looked down. He'd taken that too.
+"I'm putting it on the cup, Taiga. That's what it's for."
 
-He handed it over and went back to his own screen. Leo added something to the drawing before copying the answer into his document.
+Taiga drank his coffee.
 
-When Owen dismissed them, Leo closed his laptop but stayed seated. Taiga put his things away, aware that he was taking longer than necessary with the charger.
+Leo's phone buzzed. He looked down and started laughing.
 
-"We've got time for coffee before training."
+"What?"
 
-Leo lifted his head. "Yeah?"
+"Rachel." He turned the screen around. A pigeon stood on top of a parking meter with one foot tucked up and its feathers puffed out around its neck.
 
-"Unless you've got something else."
+**Rachel:** taiga-coded
 
-"No. Coffee sounds good."
+Taiga looked at it. "Fuck her."
 
-They left together. At the stairs, both stepped aside to let the other go first, stopped, and tried the same thing again.
+Leo laughed harder. "Look at his face."
 
-Leo gave a small, helpless laugh.
+"It's a pigeon."
 
-"Okay, you go. We'll die here otherwise."
+"I know, but—look. He's even got your posture."
 
-Taiga went.
+Taiga straightened away from the wall. Leo made a small, delighted noise.
+
+"Oh, come on. You did that on purpose."
+
+"Give me that."
+
+Leo held the phone out of reach. "It's in the group. You've got it."
+
+Taiga took out his own phone and opened the picture. Then he forwarded it to Leo.
+
+**Taiga:** you
+
+Leo's phone buzzed in his hand. "Oh, that's weak. I didn't even take the photo."
+
+"You're the one laughing."
+
+"Because it's you!"
+
+Taiga put his phone away. Leo looked between the picture and him again, still grinning.
+
+"Since when do you like pigeons?" Taiga asked. "You were scared of them in January."
+
+"There were forty of them. We've been through this. One pigeon on a parking meter is different from a whole fucking army outside Apollo."
+
+Leo took another sip. A little coffee escaped beneath the lid and ran over his thumb.
+
+"Fuck."
+
+Taiga handed him the napkin tucked beneath his cup sleeve. "I told you."
+
+"Yes, thank you. I'm aware." Leo wiped his hand, then held the cup away from his bag. "Don't. I know exactly what you're going to say."
+
+Taiga tried to drink while smiling and had to lower his cup.
+
+Leo watched him for a second. Then he looked down at the picture again. "I'm sending this to Gav."
+
+"Why?"
+
+"I want to know what it's doing. Why's it standing like that?"
+
+"It's cold."
+
+"So am I. You don't see me putting one leg away."
+
+"Ask him at training."
+
+Leo had already opened the other chat. Taiga picked up his bag. "Come on."
+
+"Yeah. Coming."
+
+Leo came alongside him with the cup in one hand, still typing with the other.
+
+"Watch the lid."
+
+"I swear to God, Taiga."
 
 ***
 
