@@ -1,4 +1,8 @@
-### Chapter 21
+# III - Undertow
+
+***
+
+### Chapter 21 - Uncharted paths
 
 Tuesday morning, the day after their talk, Taiga stood for a second in the classroom doorway.
 Then he shook his head and continued.
@@ -54,3 +58,13 @@ Leo brightened a little. "Oh. Sure."
 "Yeah. Later."
 
 ***
+
+**Taiga:** done
+**Taiga:** mess hall is okay?
+
+**Leo:** yep
+**Leo:** see you there
+
+**Taiga:** cool
+
+Taiga locked his phone and started toward the mess hall. 
