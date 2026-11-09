@@ -254,91 +254,99 @@ After lunch, Taiga found Priya, Marcus and Daniel at their usual lab bench. Dani
 
 "Excellent start."
 
-Their mentor arrived a few minutes later. Taiga recognized Zayne Alexander immediately: purple hair tied back, gold at his ears, nearly a head taller than everyone clustered around the bench. He set his bag on an empty stool and apologized for running late.
+"Hey, everyone! Sorry, have I kept you waiting?"
 
-"You're ours?" Priya asked.
+Taiga looked up. Zayne Alexander had stopped beside the bench, his long purple hair tied back above the collar of his lab coat. Even without the gold at his ears, he would have been difficult to miss. The man had to duck to see beneath the shelf over their bench.
 
-"That's the plan."
+Marcus straightened. "You're our mentor?"
 
-Marcus grinned. "We're getting celebrity supervision."
+"That's me. Zayne." He smiled around the group. "And you guys are...?"
 
-"Only on Thursdays. The other days cost extra."
+They introduced themselves. Marcus shook his hand, then added, "I saw you play last week. Didn't know you did this too."
 
-Zayne took the spare copy of the brief Daniel offered him and asked which reaction they were considering. Priya showed him the system she'd marked. Taiga had chosen the same one: a purple solution that lost its color as the reaction progressed, leaving them with changes they could measure rather than guess at.
+"What, you thought I was just a pretty face?"
 
-They talked through the first week's work. Marcus wanted to know whether they really needed so many repeats. Daniel checked how long they could book the instrument while Taiga opened the example data.
+"No, I just—"
 
-"If we divide the runs between us, we can get the measurements done faster."
+Zayne laughed and squeezed his shoulder. "I'm kidding, dude. And thanks for coming to the game! Hope I'll see you at the next one too."
 
-"Using the same setup?" Zayne asked.
+He turned toward Taiga.
 
-"Same instrument."
+"You're with Apollo, right?"
 
-"But not necessarily the same preparation."
+"Yeah. How do you know?"
 
-Priya tapped the procedure. "That's what I was saying."
+"I've seen you around the athletic complex. You're pretty hard to miss."
 
-Taiga checked how much time they had. Preparing the solutions together would eat into their first session, but there was enough room in the booking afterward.
+"The hair?"
 
-"Fine. We do the first ones together."
+"Well, that helps. The rest of you's cute too."
 
-"Good. Then you can complain about each other's technique with evidence."
+Marcus looked down at the brief with a smile. Taiga pulled the spare copy out from under his hand and offered it to Zayne.
 
-Marcus pulled the schedule toward him. They found a slot, argued about the backup slot, and eventually agreed on a plan that required nobody to skip a class.
+"The project."
 
-Zayne checked the reservation on his phone.
+"Haha, alright. Work first." Zayne accepted it. "What have you picked?"
 
-"Send me the first set of results before you start deciding which graph you want to believe."
+Priya showed him the reaction she'd marked. Taiga had chosen the same one: a purple solution that lost its color as the reaction progressed. He already had the example data open.
 
-"Do people do that?" Daniel asked.
+Zayne pulled the empty stool closer and sat down.
 
-"Constantly."
+"Okay, talk me through what you want to do."
 
-Taiga closed the example plot. Zayne was still beside him.
+Priya started explaining the first session. Marcus interrupted when she got to preparing the solutions.
 
-"Computer Science?"
+"Do we all have to be here for that? Couldn't we split the runs between us? Finding a time for four people is already going great."
 
-"Yeah."
+"We need to agree on the preparation," Priya said.
 
-"Thought so."
+"It's written down."
 
-"Because of the laptop?"
+"Which is why I'd like everyone to read it."
 
-"Because you looked offended when we couldn't split the experiment into four identical jobs."
+Zayne held out his hand for the procedure. "Here, let me have a look."
 
-Marcus laughed. Taiga put the laptop away.
+He read it while Daniel opened the booking calendar on his phone. Taiga turned the laptop so Zayne could see the example plots.
 
-"It would have been faster."
+"You can split the later runs," Zayne said. "But I'd do the first one together. Make sure you're all doing the same thing before you go off on your own. Otherwise you'll spend next week trying to work out why your results don't agree."
 
-"If the jobs were identical."
+"Thank you," Priya said.
 
-"Yeah, I got that."
+"You're welcome." He smiled at Marcus. "Sorry, man. I'm with her on this one. How long can you get the instrument for?"
 
-Zayne smiled, quite untroubled by his tone.
+Daniel showed him the available slots. They found one that worked, then argued over a backup while Taiga checked his timetable. Zayne waited until Daniel had finished making the reservation before asking to see it.
 
-"Good. We'll get along."
+"Perfect. Send me that, and your first results when you've got them. Even if they look terrible, okay? Don't spend three days trying to fix something before you let me see it."
 
-Two students stopped to speak to him from the next bench while he was packing. He remembered one name immediately and needed prompting for the other. Taiga moved his bag off the work surface and was putting the printed procedure somewhere dry when Zayne turned back.
+"So you can tell us what went wrong?" Daniel asked.
 
-"Taiga, right? You're with Apollo."
+"So we can have a look. I might need you to show me what you did." Zayne handed the phone back. "No promises of miracles, I'm afraid."
 
-"How do you know?"
+Marcus exhaled and sat on the next stool.
 
-"I pay attention."
+"Okay. That sounds doable."
 
-Marcus made a small sound behind him. Taiga ignored it.
+"Yeah, you'll be fine. You've already got a plan and somebody keeping track of it." Zayne smiled at Priya. "Just keep me posted, alright?"
 
-"So do a lot of people."
+Taiga snorted. Zayne glanced at him, smiling, then stood as a student from the next bench called his name.
 
-"Fair. The red hair helps." Zayne lifted his bag onto his shoulder. "Send me the plan when you've written it up, handsome."
+He spoke to her for a moment while Priya passed her phone around to set up their group chat. When Taiga handed it back, Zayne was looking at the example plot again.
 
-"Is that part of the supervision?"
+"You did this?"
 
-"No, that's complimentary."
+"It came with the brief."
 
-He left before Taiga decided whether the answer deserved a response. Priya held out her phone so they could join the group chat, then went to collect the equipment.
+"Oh! Here I was about to be impressed."
 
-They still had almost three hours of lab ahead of them.
+Taiga closed it. "Try again next week."
+
+Zayne laughed.
+
+"Alright, I'll hold you to that. It was nice meeting you guys. Message me if you get stuck, and I'll see you next Thursday."
+
+He picked up his bag and headed for the door. Priya checked the reservation once more, then went to collect the equipment.
+
+Taiga opened a blank document for their plan. They still had almost three hours of lab ahead of them.
 
 ***
 
