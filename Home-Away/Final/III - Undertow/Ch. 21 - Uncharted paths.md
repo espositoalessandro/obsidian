@@ -180,23 +180,76 @@ Nora giggled. "No thanks. I'm going home for a few days. My sister wants us to g
 
 "I asked. She sent me a photograph of a bathtub."
 
-Taiga laughed. Nora began gathering the articles, still explaining the price of the room with the bathtub. Her sister had apparently included a second photograph after Nora failed to appreciate the first.
+Taiga laughed. Nora began gathering the articles, still explaining the price of the room with the bathtub.
 
-"I need to book the train before she decides we're going somewhere by boat."
+"So," she said after taking a sip from her drink. "You never told me how it went with Leo. Because you talked, right?"
 
-"Why a boat?"
+"Yeah."
 
-"Because I said that sounded nice once. Now she thinks I'm interested."
+"Yeah what?"
 
-She checked the time and swore softly. Taiga finished the last of his food while she packed, then went outside with her. They parted at the path toward the library, still disagreeing about whether a bathtub could justify a hotel.
+"We talked."
 
-He had Calculus work waiting in his room and an unread Chemistry brief in his inbox. He opened the brief on the walk back.
+Taiga scratched the back of his head until she made an impatient face.
 
-Three weeks. Group project.
+"...And?"
 
-Fantastic.
+"And nothing. We're good."
 
+"You're good."
 
+"Yes, we're good."
 
+"Jesus Christ, Taiga."
 
+"Oh, for fuck's sake. We cleared things up and now we're talking again."
+
+"Did you... tell him?"
+
+"What?"
+
+Nora made an exasperated sigh. "That you like him?" 
+
+Taiga's face went red almost instantly. He immediately looked away.
+
+"...Kinda? I said he wasn't wrong, like... about me wanting him around."
+
+She blinked.
+
+"Look, I didn't say those *exact* words. But neither did he. We just agreed to carry on with... whatever we were doing."
+
+Nora didn't look convinced. Not even a little.
+
+"So now what are you doing? Like, are you dating or...?"
+
+"No," he answered, way too quickly.
+
+She stared for a couple of seconds.
+
+"I guess... we'll just see what happens?"
+
+"Alright. As long as you two are fine."
+
+Taiga didn't answer.
+
+***
+
+On Thursday, Professor Hassan entered the lab followed by a dozen juniors. A few students in the lab put hands on their mouth when one of them appeared. Tall, brown skin and long, purple hair. Good looking, that was for sure.
+
+Hassan began the lesson with an announcement: another group project.
+
+"But since you'll be hassling with more advanced stuff this time, you will be mentored. These are junior and senior majoring in chemistry that volunteered for it."
+
+A couple of them waved.
+
+"Well, these are your groups and the assigned mentor. The assignments details are on the portal. Go on."
+
+Taiga looked for his name on the projected list.
+
+Table 3:
+**Taiga Akatora**
+**Connor Bluefin**
+**Ace Anderson**
+
+Assigned mentor: **Zayne Alexander**
 
