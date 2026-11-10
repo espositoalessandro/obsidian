@@ -18,7 +18,7 @@ Taiga smiled automatically. "Morning."
 
 Leo hesitated for a split second, then he took the chair beside him and put both cups on the desk.
 
-"Hey, I uh... brought coffee. Black, obviously."
+"Hey, I, uh... brought coffee. Black, obviously."
 
 He pushed one cup toward him.
 
@@ -61,7 +61,7 @@ That afternoon, Taiga was opening the assignment when Leo came in with Rachel.
 
 "Did you take them?" Rachel said.
 
-"Jesus, of course not! My room is at fourth floor. The others should've!"
+"Jesus, of course not! My room is on the fourth floor. The others should've!"
 
 Rachel laughed and went to her desk. Leo stopped beside Taiga. "Hey. Is this...?"
 
@@ -75,7 +75,7 @@ Leo took out his laptop and plugged in the charger. Taiga went back to the assig
 
 "He knows who he's dealing with."
 
-"That sounds.... targeted."
+"That sounds... targeted."
 
 Taiga shrugged. "I said nothing."
 
@@ -85,7 +85,7 @@ For a while, there was only typing beside Taiga, interrupted once by a quiet swe
 
 "I miss arrays so bad."
 
-"You said hated arrays."
+"You said you hated arrays."
 
 "Past me was blissfully ignorant. You could at least draw the boxes. Look at this." Leo pushed his notebook toward him. Three trees crowded the bottom of the page, their branches running into each other.
 
@@ -93,21 +93,21 @@ For a while, there was only typing beside Taiga, interrupted once by a quiet swe
 
 "Tch. I wonder if yours looks any better."
 
-Taiga closed his notebook an pushed it out of Leo's reach.
-For a moment, he expected Leo to lean over him and try to reach it. Instead, he just narrowed his eyes.
+Taiga closed his notebook and pushed it out of Leo's reach.
+For a moment, he expected Leo to lean over him and try to reach it. Instead, Leo just narrowed his eyes.
 
 "Coward."
 
 Taiga smiled and went back to his exercise.
 
 When class ended, they picked up their bags and went outside.
-Leo was still complaining about the last exercise, when they passed in front of the Lecture Hall's cafeteria.
+Leo was still complaining about the last exercise when they passed in front of the Lecture Hall's cafeteria.
 
 Taiga looked at it and hesitated.
 
-"-and why on Earth should one decide to merge two trees when-"
+"—and why on earth should one decide to merge two trees when—"
 
-Leo noticed Taiga had stopped. 
+Leo noticed Taiga had stopped.
 
 "You... up for a coffee before training?" Taiga asked.
 
@@ -160,13 +160,13 @@ Eventually she closed the notebook.
 
 "Do scout camps have preseason?"
 
-Taiga shrugged. "Dunno. This one has."
+Taiga shrugged. "Dunno. This one does."
 
-"Okay, I'm still missing what that is."
+"Okay, I still don't know what that is."
 
-"Basically restoration works before summer arrives. Fix winter's damage, organizing stuff, cleaning things and so on."
+"Basically, maintenance work before summer arrives. Fixing winter damage, organizing stuff, cleaning things and so on."
 
-"So five star hotel for you."
+"So, a five-star hotel for you."
 
 "You're welcome to try."
 
@@ -182,7 +182,7 @@ Nora giggled. "No thanks. I'm going home for a few days. My sister wants us to g
 
 Taiga laughed. Nora began gathering the articles, still explaining the price of the room with the bathtub.
 
-"So," she said after taking a sip from her drink. "You never told me how it went with Leo. Because you talked, right?"
+"So," she said after taking a sip of her drink. "You never told me how it went with Leo. Because you talked, right?"
 
 "Yeah."
 
@@ -190,7 +190,7 @@ Taiga laughed. Nora began gathering the articles, still explaining the price of 
 
 "We talked."
 
-Taiga scratched the back of his head until she made an impatient face.
+Taiga scratched the back of his head until she gave him an impatient look.
 
 "...And?"
 
@@ -208,7 +208,7 @@ Taiga scratched the back of his head until she made an impatient face.
 
 "What?"
 
-Nora made an exasperated sigh. "That you like him?" 
+Nora let out an exasperated sigh. "That you like him?"
 
 Taiga's face went red almost instantly. He immediately looked away.
 
@@ -234,15 +234,15 @@ Taiga didn't answer.
 
 ***
 
-Leo came out of the kitchen with his phone on his ear.
+Leo came out of the kitchen with his phone to his ear.
 
-"Uh- tell me again guys, how many pizzas?"
+"Uh—tell me again, guys, how many pizzas?"
 
-Taiga, Zoe and others raised their hands. Leo counted with his finger, then raised a thumb up and disappeared back into the kitchen.
+Taiga, Zoe and several others raised their hands. Leo counted them off, then gave a thumbs-up and disappeared back into the kitchen.
 
-"Third is the charme," Zoe said.
+"Third time's the charm," Zoe said.
 
-Taiga snorted. "I bet he's still going to have it wrong."
+Taiga snorted. "I bet he'll still get it wrong."
 
 Friday evening, after training, they were in Apollo's common room.
 
@@ -250,7 +250,7 @@ Leo came back after a minute. "Okay, they said about forty minutes."
 
 Enzo groaned. "Oh my God. I'll scavenge the kitchen for snacks before I bite someone."
 
-"Heh, good luck. Freezer's pretty empty last time I checked."
+"Heh, good luck. Freezer was pretty empty last time I checked."
 
 "Shut up and help me."
 
@@ -260,21 +260,21 @@ Leo grimaced. "You're useless, you know?" And he followed him inside.
 
 "Apparently."
 
-She smiled. "I'm happy for both you. Seriously."
+She smiled. "I'm happy for both of you. Seriously."
 
 Taiga was already regretting involving Nora and Zoe.
 
 "Yeah, whatever."
 
-"You know what? We should hang out sometimes. The four of us. Me, you, Leo and Nora."
+"You know what? We should hang out sometime. The four of us. Me, you, Leo and Nora."
 
 "What? Why just the four of us and... why Nora?"
 
 "Because I'm sick of being the only pussy in the room."
 
-"You chose CS. You knew what you were signing for."
+"You chose CS. You knew what you were signing up for."
 
-"Yeah and I also happened to become friend with a soccer player. Come on!"
+"Yeah, and I also happened to become friends with a soccer player. Come on!"
 
 Taiga frowned. "Look, I don't need you or anyone else to... I don't know, set up stuff or anything."
 
@@ -288,15 +288,15 @@ He exhaled while giving her a dirty look. "Fine."
 
 "Great! Leave the rest to me."
 
-Taiga smelled trouble incoming.
+Taiga could smell trouble coming.
 
-Leo came out a few minutes later, with Enzo carrying a dispensable aluminum container filled with fries.
+Leo came out a few minutes later, with Enzo carrying a disposable aluminum tray filled with fries.
 
-Gav turned. "Where did those came from?"
+Gav turned. "Where did those come from?"
 
 "Some forgotten corner of the fridge," Leo said.
 
-Enzo smirked. "I told you I remember we still had something!"
+Enzo smirked. "I told you I remembered we still had something!"
 
 "Enzo, these are ancient."
 
@@ -304,19 +304,19 @@ Enzo smirked. "I told you I remember we still had something!"
 
 Gav grimaced. "That's not really how food safety works..."
 
-Enzo ignored him and put them on a table. Leo put a hand over his face and went sitting beside Taiga on the couch.
+Enzo ignored him and put them on a table. Leo put a hand over his face and sat down beside Taiga on the couch.
 
 Zoe leaned over. "Leo. What are you doing on Sunday?"
 
-Leo turned. "Mh? Uh... nothing that comes to my mind I think. Hold on-"
+Leo turned. "Hm? Uh... nothing comes to mind, I think. Hold on—"
 
 He pulled out his phone and checked his calendar.
 
 Taiga giggled. "You're learning."
 
-"Ah ah ah. Funny. Anyway, nothing scheduled. Besides the freaking Rao assignment."
+"Ha ha ha. Funny. Anyway, nothing scheduled. Besides the freaking Rao assignment."
 
-When Zoe asked the same to Taiga, he stopped laughing immediately.
+When Zoe asked Taiga the same question, he stopped laughing immediately.
 
 "I'm busy."
 
@@ -324,22 +324,22 @@ When Zoe asked the same to Taiga, he stopped laughing immediately.
 
 "You may not."
 
-"I've wanted to see Acropolis for a while now, how about it?"
+"I've wanted to see Acropolis for a while now. How about it?"
 
-"Oh! Me too, I've only seen the Christmas markets!" Leo said.
+"Oh! Me too. I've only seen the Christmas markets!" Leo said.
 
-"Good. Then, it's a deal! Taiga, you tell Nora."
+"Good. Then it's a deal! Taiga, you tell Nora."
 
-"Wh- I didn't say yes."
+"Wh—I didn't say yes."
 
 Leo nudged his shoulder. "Aw, come on, I bet it'll be fun!"
 
-Taiga looked at him with a betrayed face.
+Taiga gave him a betrayed look.
 
-He put on a pleading smile. "Please?"
+Leo put on a pleading smile. "Please?"
 
 Fuck it. How was he able to make a face like that?
-Taiga sighed. There was no way he could turn it down.
+Taiga sighed. There was no way he could say no to that.
 
 He pulled out his phone.
 
@@ -360,9 +360,9 @@ He pulled out his phone.
 
 **Nora:** Sounds nice! Are we visiting the ruins?
 
-Right. Nora mentioned the ruins almost a lifetime ago.
+Right. Nora had mentioned the ruins almost a lifetime ago.
 
-"She wants to se the ruin."
+"She wants to see the ruins."
 
 "Sounds good to me," Zoe said.
 
