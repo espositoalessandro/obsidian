@@ -266,12 +266,6 @@ Taiga was already regretting involving Nora and Zoe.
 
 "Yeah, whatever."
 
-"So, are you now dating or...?"
-
-Again. "No. We're not... anything."
-
-Zoe narrowed her eyes. Her smile didn't disappear, it just became evil.
-
 "You know what? We should hang out sometimes. The four of us. Me, you, Leo and Nora."
 
 "What? Why just the four of us and... why Nora?"
@@ -280,9 +274,9 @@ Zoe narrowed her eyes. Her smile didn't disappear, it just became evil.
 
 "You chose CS. You knew what you were signing for."
 
-"Yeah and I also happened to become friend with a soccer player. Come on, I bet It'll be fun!"
+"Yeah and I also happened to become friend with a soccer player. Come on!"
 
-Taiga frowned. "Look, I don't need you or anyone else to... I don't know, set up stuff or something."
+Taiga frowned. "Look, I don't need you or anyone else to... I don't know, set up stuff or anything."
 
 "Okay, then how about this: I want to hang out with Nora because I don't have many female friends and I don't want to be surrounded by soccer players. Does that sound better?"
 
@@ -326,9 +320,9 @@ When Zoe asked the same to Taiga, he stopped laughing immediately.
 
 "I'm busy."
 
-"Of course you are. Doing what, if I might?"
+"Of course you are. Doing what, if I may?"
 
-"You don't might."
+"You may not."
 
 "I've wanted to see Acropolis for a while now, how about it?"
 
@@ -347,11 +341,7 @@ He put on a pleading smile. "Please?"
 Fuck it. How was he able to make a face like that?
 Taiga sighed. There was no way he could turn it down.
 
-"Fine."
-
-"Yay!"
-
-Then he pulled out his phone.
+He pulled out his phone.
 
 **Taiga:** you free on sunday?
 
