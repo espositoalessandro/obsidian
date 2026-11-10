@@ -326,7 +326,7 @@ When Zoe asked the same to Taiga, he stopped laughing immediately.
 
 "I've wanted to see Acropolis for a while now, how about it?"
 
-"Oh! Me too, I've never actually been there!" Leo said.
+"Oh! Me too, I've only seen the Christmas markets!" Leo said.
 
 "Good. Then, it's a deal! Taiga, you tell Nora."
 
