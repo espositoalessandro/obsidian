@@ -234,3 +234,158 @@ Taiga didn't answer.
 
 ***
 
+Leo came out of the kitchen with his phone on his ear.
+
+"Uh- tell me again guys, how many pizzas?"
+
+Taiga, Zoe and others raised their hands. Leo counted with his finger, then raised a thumb up and disappeared back into the kitchen.
+
+"Third is the charme," Zoe said.
+
+Taiga snorted. "I bet he's still going to have it wrong."
+
+Friday evening, after training, they were in Apollo's common room.
+
+Leo came back after a minute. "Okay, they said about forty minutes."
+
+Enzo groaned. "Oh my God. I'll scavenge the kitchen for snacks before I bite someone."
+
+"Heh, good luck. Freezer's pretty empty last time I checked."
+
+"Shut up and help me."
+
+Leo grimaced. "You're useless, you know?" And he followed him inside.
+
+"So," said Zoe, leaning closer to Taiga. "I see you two are talking again."
+
+"Apparently."
+
+She smiled. "I'm happy for both you. Seriously."
+
+Taiga was already regretting involving Nora and Zoe.
+
+"Yeah, whatever."
+
+"So, are you now dating or...?"
+
+Again. "No. We're not... anything."
+
+Zoe narrowed her eyes. Her smile didn't disappear, it just became evil.
+
+"You know what? We should hang out sometimes. The four of us. Me, you, Leo and Nora."
+
+"What? Why just the four of us and... why Nora?"
+
+"Because I'm sick of being the only pussy in the room."
+
+"You chose CS. You knew what you were signing for."
+
+"Yeah and I also happened to become friend with a soccer player. Come on, I bet It'll be fun!"
+
+Taiga frowned. "Look, I don't need you or anyone else to... I don't know, set up stuff or something."
+
+"Okay, then how about this: I want to hang out with Nora because I don't have many female friends and I don't want to be surrounded by soccer players. Does that sound better?"
+
+"Just ask her, then."
+
+"Taiga."
+
+He exhaled while giving her a dirty look. "Fine."
+
+"Great! Leave the rest to me."
+
+Taiga smelled trouble incoming.
+
+Leo came out a few minutes later, with Enzo carrying a dispensable aluminum container filled with fries.
+
+Gav turned. "Where did those came from?"
+
+"Some forgotten corner of the fridge," Leo said.
+
+Enzo smirked. "I told you I remember we still had something!"
+
+"Enzo, these are ancient."
+
+"Nothing that an oven can't fix."
+
+Gav grimaced. "That's not really how food safety works..."
+
+Enzo ignored him and put them on a table. Leo put a hand over his face and went sitting beside Taiga on the couch.
+
+Zoe leaned over. "Leo. What are you doing on Sunday?"
+
+Leo turned. "Mh? Uh... nothing that comes to my mind I think. Hold on-"
+
+He pulled out his phone and checked his calendar.
+
+Taiga giggled. "You're learning."
+
+"Ah ah ah. Funny. Anyway, nothing scheduled. Besides the freaking Rao assignment."
+
+When Zoe asked the same to Taiga, he stopped laughing immediately.
+
+"I'm busy."
+
+"Of course you are. Doing what, if I might?"
+
+"You don't might."
+
+"I've wanted to see Acropolis for a while now, how about it?"
+
+"Oh! Me too, I've never actually been there!" Leo said.
+
+"Good. Then, it's a deal! Taiga, you tell Nora."
+
+"Wh- I didn't say yes."
+
+Leo nudged his shoulder. "Aw, come on, I bet it'll be fun!"
+
+Taiga looked at him with a betrayed face.
+
+He put on a pleading smile. "Please?"
+
+Fuck it. How was he able to make a face like that?
+Taiga sighed. There was no way he could turn it down.
+
+"Fine."
+
+"Yay!"
+
+Then he pulled out his phone.
+
+**Taiga:** you free on sunday?
+
+**Nora:** What happened?
+
+**Taiga:** nothing
+
+**Nora:** Then I'm even more worried
+
+**Taiga:** just answer already
+
+**Nora:** Yeah, I am. Why?
+
+**Taiga:** zoe wanted to see acropolis
+**Taiga:** leo's coming too
+
+**Nora:** Sounds nice! Are we visiting the ruins?
+
+Right. Nora mentioned the ruins almost a lifetime ago.
+
+"She wants to se the ruin."
+
+"Sounds good to me," Zoe said.
+
+"Yep, same."
+
+**Taiga:** apparently now yes
+
+**Nora:** Then I'm in 😁
+
+Leo leaned over and looked at the screen.
+
+"So it's a deal!"
+
+Taiga sighed and put the phone back.
+
+***
