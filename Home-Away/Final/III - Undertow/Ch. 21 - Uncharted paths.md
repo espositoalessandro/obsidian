@@ -263,7 +263,7 @@ He sighed and approached table 3. A blond guy with bright blue eyes was already 
 
 Another guy approached hesitantly.
 
-"Oh, hi there!" Connor said, "You must be Ace then, right? I'm Connor."
+"Oh, hi there!" Connor said, "You must be Ace then, right?"
 
 "Ah, yes that's me. Nice to meet you."
 
