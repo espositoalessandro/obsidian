@@ -262,9 +262,7 @@ Leo grimaced. "You're useless, you know?" And he followed him inside.
 
 She smiled. "I'm happy for both of you. Seriously."
 
-Taiga was already regretting involving Nora and Zoe.
-
-"Yeah, whatever."
+Taiga was already regretting involving Nora and Zoe. He looked away.
 
 "You know what? We should hang out sometime. The four of us. Me, you, Leo and Nora."
 
@@ -280,15 +278,7 @@ Taiga frowned. "Look, I don't need you or anyone else to... I don't know, set up
 
 "Okay, then how about this: I want to hang out with Nora because I don't have many female friends and I don't want to be surrounded by soccer players. Does that sound better?"
 
-"Just ask her, then."
-
-"Taiga."
-
-He exhaled while giving her a dirty look. "Fine."
-
-"Great! Leave the rest to me."
-
-Taiga could smell trouble coming.
+He shrugged. "Whatever."
 
 Leo came out a few minutes later, with Enzo carrying a disposable aluminum tray filled with fries.
 
@@ -379,3 +369,4 @@ Leo leaned over and looked at the screen.
 Taiga sighed and put the phone back.
 
 ***
+
