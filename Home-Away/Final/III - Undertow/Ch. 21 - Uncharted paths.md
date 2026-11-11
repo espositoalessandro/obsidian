@@ -370,3 +370,33 @@ Taiga sighed and put the phone back.
 
 ***
 
+Sunday morning, Taiga met Leo in the common hall of the Residential Building. They waved at each other and waited for the girls on a couch. For a minute, neither of them talked.
+
+"So..." Leo began, "slept well?"
+
+Taiga fidgeted with his thumbs. "Alright. Uh- you?"
+
+"Oh, super. Good, I mean, I slept well."
+
+"Good."
+
+"Yeah..."
+
+They looked at each other for a second until they both snorted.
+
+"That's still a bit weird," Leo said.
+
+"Yeah, a bit," admitted Taiga.
+
+At least he wasn't the only one.
+
+Nora and Zoe arrived two minutes later and they started towards the station.
+
+
+
+
+
+
+
+
+
