@@ -396,9 +396,13 @@ Nora and Zoe arrived two minutes later and they started towards the station. On 
 
 "Yeah, maybe it's less crowded in the morning. I don't think it'll take long, I bet we'll be done by lunch," Nora answered.
 
+"You've already been there?"
 
+"Yes. Once, with my sister."
 
+"Oh, cool!"
 
+Leo was watching the window, apparently lost in his thoughts.
 
 
 
