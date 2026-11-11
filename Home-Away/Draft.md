@@ -1,464 +1,301 @@
-Taiga followed his gaze. Beyond the glass, the buildings had begun giving way to trees.
+"Were there this many trees when we came for the market?" Leo asked.
 
-"How much walking are we doing?" Leo asked.
+Taiga looked out. "It was dark."
 
-"Scared?" Taiga said.
+"Yeah, but you'd think I'd have noticed a forest."
 
-"No. Planning my complaints. I like to have them ready before I need them."
+"You were busy noticing the food," Zoe said.
 
-"You've never needed preparation."
+"That's also part of the environment."
 
-Leo turned toward him, smiling. "See? You understand me."
+Nora laughed, and Leo turned from the window to explain that he'd been perfectly capable of appreciating both. By the time they reached their stop, Zoe was asking him to name a single tree he'd appreciated.
 
-Zoe leaned across the aisle with her phone. "This is the path, right?"
+The park looked different without the market stalls. Taiga recognized the fountain first, then the space where the rink had been. Leo glanced at him as they passed it.
 
-Nora shifted closer to look. They were still discussing which entrance to use when the train pulled into the station.
+"Much safer now."
 
-The broad path into the park was busier than Taiga remembered. He recognized the fountain, though, and the paved space beyond it where the rink had been. Leo slowed beside him.
+"You're the one who stopped in front of me."
 
-"Looks smaller."
+"Because you told me to!"
 
-"There's no ice."
+Nora looked between them. "You went skating?"
 
-"Yeah, I noticed." He glanced at Taiga. "Much safer for everyone."
+"One of us did," Leo said.
 
-Taiga bumped him with his shoulder. Leo laughed and bumped back, then caught up with the girls before Taiga could do it again.
+Taiga pushed his arm. Leo caught his sleeve, grinning, then let go when Zoe asked which one had needed the railing.
 
-They followed the path uphill. Once they were past the families gathering around the fountain, there was room to walk four abreast. Zoe took off her scarf and stuffed it into a coat pocket, leaving most of it hanging out.
+They all ended up answering.
 
-"You're going to lose that," Nora said.
+The path to the ruins narrowed after the fountain. Nora went first, with Zoe behind her; Taiga and Leo had to stop arguing long enough to let a family coming the other way get past.
 
-"I'll feel it."
+When they caught up, Nora was standing beside an information board. Beyond it, low walls divided a stretch of grass into uneven squares. Leo went to the railing and looked down.
 
-"You didn't feel it dragging on the platform."
+"Those are rooms?"
 
-Zoe looked down, then pulled the scarf out to inspect the end.
+"The walls would've been higher," Zoe said.
 
-"Oh. Shit."
+"Thank you, I got that part."
 
-Nora held out her hand. "I've got space."
+Taiga joined him. One of the spaces was barely wider than the bed in Room 317.
 
-Zoe hesitated, then passed it over. Nora folded it into her bag while Zoe was still checking for dirt.
+"Still bigger than your room."
 
-"Thanks. I brought the wrong coat. This one's only got pretend pockets."
+"Mine's fine. It's just full."
 
-"Then why wear it?"
+"Of what?"
 
-"It looks good."
+"Things I need."
 
-Nora considered her for a moment. "Fair."
+Zoe snorted. "Half the stuff in your room belongs to Enzo."
 
-Taiga looked ahead before Zoe could catch him smiling.
+"He knows I have it."
 
-The first stretch of broken walls appeared beyond a bend. Nora stopped at the information board while Leo went closer to the stones, looking between the low foundations and the drawing of the buildings as they might once have stood.
+"Does he?"
 
-"This was all one house?"
+"Mostly."
 
-"Several," Nora said. "The lines between them are difficult to see from here."
+Nora left the board and came to look. "That's probably a storeroom."
 
-Zoe came to look over her shoulder. "Which one's this bit?"
+"Probably?" Taiga asked.
 
-Nora pointed to the drawing, then to a doorway Taiga could just make out among the walls. Zoe followed her finger.
+"The sign doesn't say."
 
-"Oh. Okay, now I get it. I was looking at it from the other side."
+"So you made it up."
 
-They moved along the marked path. Taiga stopped where a gap in the trees opened onto the city below. He could hear Leo behind him trying to establish whether a particularly narrow space had really been somewhere people were expected to sleep.
+"It's a reasonable guess. There's no entrance from the passage."
 
-"It might have been storage," Nora said.
+Zoe leaned over the railing. "There is on the other side."
 
-"Good. Because I was going to complain on their behalf."
+Nora followed her finger. For a moment, all four of them studied the gap in the stones.
 
-"You'd have complained about the kitchen first," Taiga said.
+"Fine," Nora said. "It could be a bedroom."
 
-"Was it bad?"
+Leo spread his hands. "Thank you."
 
-"There isn't one anymore."
+"That doesn't make it bigger."
 
-Leo gave him a look. Zoe laughed, then crouched beside the next section of wall to take a photograph through a gap.
+He dropped them again. Taiga started laughing.
 
-"Hang on. I want to try something."
+They followed the path around the foundations. At the next board, Zoe stopped to compare the reconstruction with the walls.
 
-She took another picture, checked it and held the phone toward Nora. With the path cropped out, the remaining walls looked taller. Nora leaned down to see.
+"I wish they'd put one room back together. Just one. I'd like to stand in it."
 
-"That's much better than mine."
+"Then you'd be standing in something somebody built now," Nora said.
 
-"Get lower. The railing stops being in everything."
+"I know. I'd still get to see how small Leo's room is."
 
-Nora tried it. Zoe moved aside, then reached over to tilt the phone a little.
+Leo leaned over to inspect the drawing. "See, they've got furniture in there. I'm vindicated."
 
-"There. You've got the opening in the middle now."
+"Furniture's not the issue," Taiga said.
 
-Nora took the picture and showed her. Zoe nodded.
+Nora was still looking at Zoe. "They'd have to decide things they don't actually know, though."
 
-"Yeah, that's it."
+"So tell us which bits they guessed."
 
-"My sister will appreciate that. Most of the pictures I sent her last time were apparently evidence of a crime."
+"People don't always read the signs."
 
-"What crime?"
+"We've got you."
 
-"She never specified. She just kept asking why I'd cut things in half."
+Nora gave her a look. Zoe smiled and moved aside so an older couple could reach the board.
 
-Zoe laughed. "Send her both. Show improvement."
+Taiga stayed to examine the drawing. There were benches along the inside of one wall, a table in the middle. Without them, he'd taken that space for another passage.
 
-Nora began typing while they walked. Zoe stayed beside her, examining the next stretch of wall through her camera.
+"She's got a point," he said.
 
-A little farther on, Leo stopped Taiga beside a doorway.
+Nora turned to him.
 
-"Stand there a second."
+"Zoe. I'd have walked straight past this."
 
-"Why?"
+"Thank you," Zoe said.
 
-"Picture."
+Nora looked from the drawing to the foundations again. "I'd want to know what they based it on."
 
-Taiga looked at the broken wall, then at him. "Of what?"
+"Okay. You get a whole extra sign."
 
-"You. Move back a little."
+"That isn't what I—"
 
-He went back half a step. Leo lifted his phone, frowned at the screen and moved sideways.
+"I'll read it. Promise."
 
-"Okay, look this way."
+Nora shook her head, but she was smiling when she moved on.
 
-Taiga did.
+At the far end of the path, Leo stopped by a shallow flight of steps and lowered himself onto the bottom one. Zoe immediately sat beside him.
 
-"No, at me."
+"Are we done?" she asked.
 
-"I am looking at you."
+"There's another section," Nora said.
 
-"You're looking at me like I asked you to help move a body."
+"Okay. Are we hungry?"
 
-"Didn't you?"
+"Those are separate questions."
 
-Leo laughed. Taiga almost did too, then caught him lifting the phone again.
+"Yes to both," Taiga said.
 
-"Have you taken it?"
+Leo looked up at him. "We've only been here an hour."
 
-Leo lowered the phone. "Yes."
+"You sat down first."
 
-"Then stop giving instructions."
+"I was waiting for you."
 
-He came over to show him. Taiga took the phone, swiped to the next photograph and found a second picture of himself caught halfway through answering.
+"Get up, then."
 
-"Delete that."
+Leo held out his hand. Taiga took it and pulled him to his feet, nearly colliding with him when Leo came up too fast.
 
-"No, I like that one."
+"Jesus. I meant help me, not launch me."
 
-"Leo."
+"Walk, then."
 
-"Fine. Pick one, then. But you have to leave me one."
+Zoe was already heading toward the exit. Nora called her back, pointing to the part they hadn't seen yet. Leo's shoulder brushed Taiga's as they turned to follow her.
 
-Taiga went back to the first. It was actually a decent picture. Behind him, the trees framed the city, and Leo had managed to keep the other visitors out of it.
+They made it through the last section before lunch. When they reached Ambrosia, Zoe took one look at the menu outside and kept walking.
 
-He enlarged it, then swiped back.
+"Nope."
 
-Leo leaned over his shoulder. "That's the one you just told me to delete."
+Nora glanced at it too. "Oh."
 
-"I know."
+"What's wrong?" Leo asked.
 
-He turned the phone away. Leo reached across him, one hand landing on his shoulder as he tried to see.
+"Nothing," Taiga said. "If you're paying."
 
-"Oh, now you're keeping secrets?"
+Leo caught up with Zoe.
 
-"Your photography's confidential."
+They bought sandwiches from a stand near the fountain instead. Nora carried the drinks while Taiga and Zoe found an empty picnic table. Leo arrived last with the food, trying to remember who'd ordered what.
 
-"Give it back."
+"Chicken," Nora said.
 
-Taiga held it farther away. Leo caught his wrist, laughing, and Taiga let him have the phone before he knocked into the railing.
+"Right. And Zoe's—"
 
-"There. Was that difficult?"
+"The other chicken."
 
-"Send me the first one."
+He looked down at the bags.
 
-Leo looked up from the screen.
+"That helps."
 
-"Yeah. Sure."
+Taiga took them from him and handed them out. Leo sat beside him, opening the one that remained.
 
-A few steps ahead, Nora was looking at Zoe's phone.
+For a few minutes, the conversation gave way to wrappers and the business of eating. Then Zoe pulled a strip of lettuce out of her sandwich and set it aside.
 
-"Did you make that?"
+Nora watched her. "You don't want it?"
 
-"Me and a friend. Ages ago."
+"I wanted some. They gave me a lawn."
 
-Taiga glanced at the screen as they caught up. Zoe was showing her a house in some building game. It had a crooked roof and a garden that seemed to occupy most of the available space.
+"Give it here."
 
-"The garden's mine," Zoe said. "The house got more complicated every time I left her alone with it."
+Zoe passed it across. Nora tucked it into her own sandwich without breaking off her question to Leo about the market.
 
-Nora took the phone when Zoe offered it.
+He began describing the food, which set Zoe off again. Nora listened to both of them, then asked whether the stalls stayed open late.
 
-"Can you go inside?"
+"Late enough," Leo said. "We went skating first."
 
-"Yeah. Other way. You're looking at the sky."
+"Never again," Taiga said.
 
-Nora lowered the camera and found the door. Taiga watched them work their way around the ground floor, with Nora turning toward rooms Zoe wanted her to ignore.
+"Oh, come on. You got better."
 
-"Wait. Where do those stairs go?"
+"I got cold."
 
-"Up."
+"You were doing fine by the end."
 
-"Yes, Zoe."
+Nora took a drink. "We could try it next winter."
 
-Zoe started laughing. "I don't know! She added another floor after I went to bed. Look, go outside again. I can show you the bit I actually finished."
+"Why are you including me in this?"
 
-Nora let her take the phone back, but stayed close enough to follow what she was doing.
+"Because I think it would be fun."
 
-They were still looking at the garden when Leo's stomach growled.
+"I could barely stand up."
 
-Taiga turned toward him.
+"Then you'll have company," Zoe said.
 
-"Don't," Leo said.
+Leo was smiling into his sandwich. Taiga nudged him with his elbow.
 
-"I didn't say anything."
+"Help."
 
-"You were going to."
+"No, I want to go again."
 
-"How would you know?"
+"Traitor."
 
-"Because I understand you too."
+"You could learn to stop next time."
 
-***
+"I stopped."
 
-Ambrosia had tables outside under a broad awning. Nora stopped at the menu beside the entrance. Zoe came alongside her, read it and made a small sound.
+"Against me."
 
-"Oh."
+Nora laughed. Taiga threw a balled-up corner of his wrapper at her. She caught it against her coat and put it in the empty bag.
 
-Leo looked over their shoulders. "Is that for one person?"
+A gust swept across the table. Zoe caught the bag before it went over the edge; Leo's napkin escaped anyway. Taiga trapped it beneath his shoe.
 
-"Unless we're sharing a main four ways," Nora said.
+"Got it," he said, bending to retrieve it.
 
-Taiga glanced at the prices. "Keep walking."
+When he straightened, Leo had a hand over Taiga's cup.
 
-Neither girl argued.
+"Almost lost this too."
 
-They found sandwiches farther down, near the busier part of the park, and took them to a picnic table. Leo put his bag on the bench and immediately had to move it when Taiga sat beside him. Across from them, Zoe began opening her coat pockets.
+Taiga took it from under his palm. "Thanks."
 
-Nora took the scarf out of her bag and passed it over.
+Leo nodded and went back to eating.
 
-"I forgot you had that. Thanks."
+They stayed after the food was gone. Leo wanted to know whether Nora's sister had liked the ruins, and Nora admitted she'd mostly complained about the shoes she'd chosen.
 
-"Check it before you go home. I'll forget next time."
+"That was me last time I went to a convention," Zoe said. "Great boots. Couldn't feel my feet by eleven."
 
-Zoe wrapped it around her neck. Then she held a hand out toward Nora.
+"Did you change?"
 
-"Your phone?"
+"No. The rest of the outfit would've looked stupid."
 
-Nora unlocked it and passed it across. Zoe found the game she'd been showing her and opened its page.
+Nora considered that. "My sister would understand you."
 
-"You don't have to buy it. Just have a look. There's a lot of stuff you can do with the houses."
+Zoe asked what shoes her sister had been wearing, and somehow Leo had an opinion too.
 
-"I'm interested in your garden."
+He shifted along the bench to face them properly. His knee pressed against Taiga's under the table and stayed there. Taiga reached around him for the last unopened drink, then settled back to listen.
 
-"That's in there too."
+By the time they cleared the table, Zoe had convinced Nora that being indoors didn't make an event less exhausting. Nora was still disputing whether that made comfortable shoes more or less important as they headed for the station.
 
-"You showed me three different kinds of tree. I'd like to know how many there are."
+While they waited on the platform, Leo brought up the campus party before spring break.
 
-Zoe paused, then grinned. "Oh, you're going to lose so much time."
+"Enzo's trying to get everyone to go. You should come."
 
-"She'll be fine," Taiga said. "She'll spend the first week reading the instructions."
+"Everyone?" Nora asked.
 
-Nora looked at him over her sandwich. "And then I might know where the stairs go."
+"He started with the team. I think he's moved on to people he passes in corridors."
 
-Leo laughed into his food. Zoe pointed at Nora.
+"I've been asked three times," Zoe said.
 
-"Fine. You're invited."
+"See? You're important."
 
-Nora smiled and took her phone. She scrolled for a few seconds before putting it beside her sandwich.
+"Or he keeps forgetting."
 
-"Do you still play with that friend?"
+Nora asked where it was, and Leo began explaining. Taiga listened until the train arrived. When Leo paused to ask if he was coming too, he nodded and stepped aboard.
 
-"Sometimes. It's harder now. She's at a different university, and every time we're both free, one of us has promised to do something else." Zoe picked a piece of lettuce off her sleeve. "We used to have these really stupid Friday nights. We'd say we were going to play something properly, and then spend the whole evening making one room."
+On the train back, they sat wherever there was room. Zoe ended up next to Leo, still explaining the boots, while Nora took the seat opposite Taiga.
 
-"That sounds quite nice."
+"Your friends are exhausting," she told him.
 
-"It was. We still get on a call sometimes. Half the time she just watches me fix something for class and tells me I should've started earlier."
+"You wanted to come."
 
-"Sounds familiar," Leo said.
+"Yes, I did."
 
-Zoe pointed at him. "I helped you on Tuesday."
+She glanced across the aisle when Zoe called her name and leaned forward to hear.
 
-"I know! I meant I'm the one who should start earlier."
+Taiga's phone buzzed in his pocket.
 
-Taiga looked at Nora. She had picked up her phone again.
+**Caleb:** Maya's coming over tonight. We're getting Thai. Want anything?
 
-"Does it work on a normal laptop?"
+He looked over at Leo, who was laughing at something Zoe had said.
 
-Zoe leaned across to check. This time, Nora moved the phone between them before she asked.
-
-Leo nudged Taiga's knee under the table.
-
-"Do you want the rest of this?"
-
-Taiga looked at the sandwich in his hand. "Why?"
-
-"Because I want that."
-
-A pastry sat beside Leo's drink.
-
-"You bought both."
-
-"Yeah. I was hungry. I still am, just differently."
-
-Taiga shook his head, but took the sandwich when Leo offered it. Across from them, Nora had found the game's garden pictures.
-
-"You could have told me there was a greenhouse."
-
-"I was getting to it!"
-
-"You showed me a bathroom with no windows."
-
-"Because you kept trying to go upstairs!"
-
-Taiga started laughing. Leo leaned against him as he reached for his drink.
-
-"You're being unfair," Nora said. "You gave me control of the camera."
-
-"And I have learned from that."
-
-Zoe took her phone out and began looking for another picture. Nora finished the last of her food while she waited, then gathered both their wrappers when Zoe held the screen out.
-
-"We could try it sometime," Nora said. "If you're free."
-
-Zoe looked up. "Yeah?"
-
-"Unless the stairs are a sensitive subject."
-
-"No, we can build something else. Without her adding rooms while we're gone."
-
-Nora held out her phone so Zoe could add her.
-
-Leo split the pastry and set half on Taiga's wrapper. Taiga finished the sandwich first, listening while the girls disagreed over whether a greenhouse counted as another room.
-
-By the time Nora checked the train times, Zoe was describing the house they could build. Taiga looked toward the hill.
-
-"There's a viewpoint farther up."
-
-"How far?" Zoe asked.
-
-"Not much. You can see the whole city from there."
-
-Leo followed his gaze, then stood, brushing crumbs off his coat.
-
-"Show us, then."
-
-They took the path behind the ruins. A few minutes into the climb, Taiga looked back to find Zoe holding her phone at arm's length, Nora bending her knees to fit beside her on the screen.
-
-"Wait, my hair—"
-
-"Too late."
-
-Nora reached for the phone. Zoe let her take it, and they fell behind again, arguing about which picture to keep.
-
-Leo held out his phone.
-
-"Yours."
-
-Taiga took it. There were three pictures this time.
-
-"I said the first one."
-
-"Keep all of them. Nobody's making you post them."
-
-He sent them to himself, then opened the third.
-
-"You were smiling in that one."
-
-"I saw."
-
-"Just checking."
-
-Taiga shook his head and gave it back. Leo put the phone away, still smiling.
-
-At the viewpoint, Taiga went straight to the section of wall where he'd stood with Caleb and Maya. The city lay beyond the trees. He could pick out the university, then the pale stretch of the coast farther away.
-
-Leo came beside him.
-
-"Okay. Worth it."
-
-"Obviously."
-
-"Don't sound so pleased. You didn't build the hill."
-
-Taiga laughed. Leo leaned his elbows on the wall, looking out, while Nora and Zoe found room beside them.
-
-For a while, nobody spoke.
-
-Then Nora held her phone out toward Zoe.
-
-"Can you send me the one you took of us?"
-
-"Yeah. Which one?"
-
-"The one where I'm looking at you. The other one looks like a passport photo."
-
-Zoe found it and sent it over. Nora looked at the screen, smiled, then put the phone away.
-
-On the way down, Leo started talking about the party before spring break. Enzo had apparently found the announcement and sent it to every chat he belonged to.
-
-"Yes, I've seen it," Zoe said. "Four times."
-
-"He thinks repetition makes people more interested."
-
-"Are you going?" Nora asked her.
-
-"Probably. You?"
-
-"I'd like to."
-
-"Then come with us," Leo said.
-
-Taiga turned toward him. "Who's us?"
-
-"Me. Enzo. Whoever else says yes." Leo looked at him. "You?"
-
-"Yeah."
-
-Leo waited a second.
-
-"What?"
-
-"Nothing. Good."
-
-Zoe was asking Nora something about the music. Taiga put his hands in his pockets and kept walking beside Leo.
-
-***
-
-They were still discussing the house when they reached the Residential Building.
-
-"Do you want to come over?" Nora asked Zoe. "We could see if my laptop will run it."
-
-"Yeah, sure. I've got time."
-
-Nora started toward the path to her building, then stopped to say goodbye. Zoe waved at the boys and followed her.
-
-Taiga went inside with Leo.
-
-His phone buzzed while they waited for the lift.
-
-**Caleb:** Maya's ordering Thai food. Are you back for dinner?
-
-Taiga opened the conversation.
-
-**Taiga:** yeah
 **Taiga:** enough for four?
 
-**Caleb:** I'll ask.
+**Caleb:** Sure. Seven?
 
-Leo was looking up at the floor numbers.
+Taiga put his phone away and caught Leo's eye.
 
-"You want to eat with us?"
+"Caleb and Maya are getting food tonight. You want to come?"
 
-He turned. "Us?"
+Leo nodded. "Yeah. What time?"
 
-"Caleb and Maya."
+"Seven."
 
-"Oh." Leo looked at him, then at the lift. "Yeah. I'd like that."
+"Good. I'll get Rao's assignment out of the way first."
 
-Taiga's phone buzzed again.
+"You said that yesterday," Zoe said.
 
-**Caleb:** Yes.
+"I meant it yesterday too."
 
-The doors opened. Taiga held one while Leo went in.
-
-"Third floor."
-
-"I know," Leo said.
-
-Taiga followed him inside.
+Nora turned to ask what was left to do. Leo began explaining, and Taiga leaned forward to correct him before Zoe could.
