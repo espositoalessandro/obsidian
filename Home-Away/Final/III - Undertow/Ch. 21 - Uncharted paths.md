@@ -111,7 +111,7 @@ Leo noticed Taiga had stopped.
 
 "You... up for a coffee before training?" Taiga asked.
 
-"...Oh. I mean, yeah, sure."
+"...Oh. Yeah, sure."
 
 Why was his stupid heart beating so fast?
 
@@ -390,7 +390,11 @@ They looked at each other for a second until they both snorted.
 
 At least he wasn't the only one.
 
-Nora and Zoe arrived two minutes later and they started towards the station.
+Nora and Zoe arrived two minutes later and they started towards the station. On the train, Zoe asked:
+
+"So, we head straight to the ruins?"
+
+"Yeah, maybe it's less crowded in the morning. I don't think it'll take long, I bet we'll be done by lunch," Nora answered.
 
 
 
