@@ -7,8 +7,8 @@
 Tuesday morning, the day after their talk, Taiga stood for a second in the classroom doorway.
 Then he shook his head and continued.
 
-He looked at their usual row and their seats were empty. Looking around, he didn't see Leo anywhere else. So, he took his usual seat and opened his Discrete Structures notes.
-One minute before the lesson started, someone arrived panting.
+He looked at their usual row and saw that their seats were empty. Looking around, he didn't see Leo anywhere else. So, he took his usual seat and opened his Discrete Structures notes.
+One minute before class started, someone arrived panting.
 
 "Holy shit, I made it just in time."
 
@@ -26,24 +26,24 @@ Taiga stared at it. Why did he do that? Leo had never brought him coffee to clas
 
 "What for?"
 
-When he saw the surprise on Leo's face, he suddenly realized that there was the tiny possibility he had reacted like a dick.
+When he saw the surprise on Leo's face, he suddenly realized that there was a tiny possibility he had reacted like a dick.
 
 "Sorry, I mean... thanks."
 
-Leo smiled uncertainly. "No problem. The line was infinite, though. Don't people have classes in the morning? Ugh."
+Leo smiled uncertainly. "No problem. The line was endless, though. Don't people have classes in the morning? Ugh."
 
-He took out his laptop and put the bag on the ground. At the same time, the professor arrived.
+He took out his laptop and put his bag on the floor. At the same time, the professor arrived.
 
 "Great, I don't even have time to prepare psychologically."
 
-Taiga was still staring at the cup standing on the desk. Did he do it because of what they said yesterday...?
+Taiga was still staring at the cup on the desk. Did he do it because of what they said yesterday...?
 
 The professor turned on the projector and the lecture started. Leo stopped talking and opened his notes.
 
 That was stupid. It's just coffee.
 Taiga picked up his cup and took a sip before starting to take notes.
 
-When class was over, they started packing. Leo had occasionally sworn about something he didn't understand from the lecture they'd missed last Thursday because of Pinetree. But apart from that, they had stayed focused on their notes.
+When class was over, they started packing. Leo had occasionally sworn at something he didn't understand from the lecture they'd missed last Thursday because of Pinetree. But apart from that, they had stayed focused on their notes.
 
 "Heading to Chemistry?" Leo asked.
 
@@ -101,7 +101,7 @@ For a moment, he expected Leo to lean over him and try to reach it. Instead, Leo
 Taiga smiled and went back to his exercise.
 
 When class ended, they picked up their bags and went outside.
-Leo was still complaining about the last exercise when they passed in front of the Lecture Hall's cafeteria.
+Leo was still complaining about the last exercise when they passed the Lecture Hall's cafeteria.
 
 Taiga looked at it and hesitated.
 
@@ -123,7 +123,7 @@ Nora had claimed a table near the mess hall windows on Wednesday. By the time Ta
 
 "You've never asked for an opinion on one sentence in your life."
 
-She turned the notebook toward him. The sentence ran over four lines.
+She turned the notebook toward him. The sentence ran for four lines.
 Taiga put his tray down and read it, then went back to the beginning.
 
 "Who does 'they' refer to?"
@@ -374,7 +374,7 @@ Sunday morning, Taiga met Leo in the common hall of the Residential Building. Th
 
 "So..." Leo began, "slept well?"
 
-Taiga fidgeted with his thumbs. "Alright. Uh- you?"
+Taiga fidgeted with his thumbs. "Alright. Uh—you?"
 
 "Oh, super. Good, I mean, I slept well."
 
@@ -390,11 +390,9 @@ They looked at each other for a second until they both snorted.
 
 At least he wasn't the only one.
 
-Nora and Zoe arrived two minutes later and they started towards the station. On the train, Zoe asked:
+Nora and Zoe arrived two minutes later and they started towards the station. On the train, Zoe asked, "So, we head straight to the ruins?"
 
-"So, we head straight to the ruins?"
-
-"Yeah, maybe it's less crowded in the morning. I don't think it'll take long, I bet we'll be done by lunch," Nora answered.
+"Yeah, maybe it's less crowded in the morning. I don't think it'll take long. I bet we'll be done by lunch," Nora answered.
 
 "You've already been there?"
 
@@ -402,7 +400,7 @@ Nora and Zoe arrived two minutes later and they started towards the station. On 
 
 "Oh, cool!"
 
-Leo was watching the window, apparently lost in his thoughts. Taiga just followed his gaze.
+Leo was looking out the window, apparently lost in his thoughts. Taiga just followed his gaze.
 
 The park looked different without the market stalls. He recognized the fountain first, then the space where the rink had been. Leo glanced at him as they passed it.
 
@@ -416,7 +414,7 @@ Nora looked between them. "You went skating?"
 
 "One of us did," Leo said.
 
-Taiga pushed his arm. Leo caught his sleeve, grinning. 
+Taiga pushed his arm. Leo caught his sleeve, grinning.
 
 "You're a bad teacher."
 
@@ -463,7 +461,7 @@ They followed the path around the foundations. At the next board, Zoe stopped to
 
 Nora shook her head, but she was smiling when she moved on.
 
-They continued wandering in the ruins for a while.
+They continued wandering among the ruins for a while.
 
 At the far end of the path, Leo stopped by a shallow flight of steps and lowered himself onto the bottom one. Zoe immediately sat beside him.
 Nora saw a board with a map and approached it.
@@ -474,7 +472,7 @@ Nora saw a board with a map and approached it.
 
 Zoe shook her head. "So much for an athlete."
 
-"I train to walk on grass, not stone slabs."
+"I train on grass, not stone slabs."
 
 "I don't see Taiga complaining."
 
@@ -484,9 +482,9 @@ Leo glanced at him.
 
 "Would that make you feel better?" Taiga said.
 
- "Hey, I'm wasted on cross-country. We short people are natural sprinters, very dangerous over short distances."
+"Hey, I'm wasted on cross-country. We short people are natural sprinters, very dangerous over short distances."
 
-Zoe snorted. Taiga chuckled as well, then he held out his hand to Leo.
+Zoe snorted. Taiga chuckled as well, then held out his hand to Leo.
 
 "Come on, time for second breakfast."
 
