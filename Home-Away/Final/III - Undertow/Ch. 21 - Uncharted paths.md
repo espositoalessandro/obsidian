@@ -490,6 +490,6 @@ Leo glanced at him.
 
 Zoe snorted. Taiga chuckled as well, then he held out his hand to Leo.
 
-"Come on little hobbit, time for second breakfast."
+"Come on, time for second breakfast."
 
 ***
