@@ -453,8 +453,6 @@ Nora followed her finger. For a moment, all four of them studied the gap in the 
 
 "Fine," Nora said. "It could be a bedroom."
 
-Leo spread his hands. "Thank you."
-
 They followed the path around the foundations. At the next board, Zoe stopped to compare the reconstruction with the walls.
 
 "I wish they'd put one room back together. Just one. I'd like to stand in it."
