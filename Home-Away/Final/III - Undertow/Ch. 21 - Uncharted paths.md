@@ -150,38 +150,6 @@ She smiled and pushed the notebook aside. It came back twice during lunch. Taiga
 
 Eventually she closed the notebook.
 
-"What are you doing for spring break?"
-
-"Probably camp."
-
-"Cool, your friends coming?"
-
-"I don't think so. Plus, once winter's over, preseason starts. So it's gonna be mostly work."
-
-"Do scout camps have preseason?"
-
-Taiga shrugged. "Dunno. This one does."
-
-"Okay, I still don't know what that is."
-
-"Basically, maintenance work before summer arrives. Fixing winter damage, organizing stuff, cleaning things and so on."
-
-"So, a five-star hotel for you."
-
-"You're welcome to try."
-
-Nora giggled. "No thanks. I'm going home for a few days. My sister wants us to go away for a weekend, but every hotel she's sent me costs more for one night than my train tickets."
-
-"Send her somewhere cheaper."
-
-"I did. Apparently it lacked *atmosphere*."
-
-"What does that mean?"
-
-"I asked. She sent me a photograph of a bathtub."
-
-Taiga laughed. Nora began gathering the articles, still explaining the price of the room with the bathtub.
-
 "So," she said after taking a sip of her drink. "You never told me how it went with Leo. Because you talked, right?"
 
 "Yeah."
@@ -489,3 +457,81 @@ Zoe snorted. Taiga chuckled as well, then held out his hand to Leo.
 "Come on, time for second breakfast."
 
 ***
+
+They bought sandwiches from a stand near the fountain instead. Nora carried the drinks while Taiga and Zoe found an empty picnic table. Leo arrived last with the food, trying to remember who'd ordered what.
+
+"Chicken," Nora said.
+
+"Right. And Zoe's—"
+
+"The other chicken."
+
+He looked down at the bags.
+
+"That helps."
+
+Taiga took them from him and handed them out. Leo sat beside him, opening the one that remained.
+
+For a few minutes, the conversation gave way to wrappers and the business of eating.
+
+"So," Zoe said, "you guys already know what you'll do during spring break?"
+
+Nora shrugged. "I'm going home for a few days. My sister wants us to go away for a weekend, but every hotel she's sent me costs more for one night than my train tickets."
+
+"Can't she settle for something cheaper?"
+
+"I tried a couple of options. Apparently they lacked *atmosphere*."
+
+"What does that mean?"
+
+"I asked. She sent me a photograph of a bathtub."
+
+Taiga laughed. Nora began gathering the articles, still explaining the price of the room with the bathtub.
+
+"How about you?" She asked, eventually.
+
+"Dunno, I'm considering staying at Olympus if my friends remain as well," Zoe answered.
+
+"Yeah, me too," Leo added. "I don't feel like spending four days traveling for ten days worth of break. Enzo was trying to arrange something with the team, though. Like some kind of mini-vacation nearby."
+
+"Chances of success?"
+
+Leo made a face. "Meh."
+
+Nora turned toward Taiga. "And you?"
+
+"I think I'll go back to camp."
+
+"Right, with your friends?"
+
+"I don't think so. Plus, once winter's over, preseason starts. So it's gonna be mostly work."
+
+Zoe raised an eyebrow. "Do scout camps have preseason?"
+
+Taiga shrugged. "Dunno. This one does."
+
+"Okay, I still don't get what that is," Nora said.
+
+"Basically, maintenance work before summer arrives. Fixing winter damage, organizing stuff, cleaning things and so on."
+
+"So, a five-star hotel for you."
+
+"You're welcome to try."
+
+Nora giggled. "No, thanks. I prefer the hotel with a bathtub."
+
+Leo put his hands behind his head. "Well, it's still better than staying at Olympus alone for ten days."
+
+"Aren't you going on a vacation?"
+
+"If they manage to agree on somewhere. Which I sincerely doubt."
+
+For a split second, a wild thought crossed Taiga's mind. 
+
+What if...
+
+No. It's stupid to even think about it. Why would any sane person agree to that?
+
+He took a sip from his drink and let conversations move on.
+
+
