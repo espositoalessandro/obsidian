@@ -402,9 +402,94 @@ Nora and Zoe arrived two minutes later and they started towards the station. On 
 
 "Oh, cool!"
 
-Leo was watching the window, apparently lost in his thoughts.
+Leo was watching the window, apparently lost in his thoughts. Taiga just followed his gaze.
 
+The park looked different without the market stalls. He recognized the fountain first, then the space where the rink had been. Leo glanced at him as they passed it.
 
+"Looks much safer now."
 
+"You're the one who stopped in front of me."
 
+"Because you told me to!"
 
+Nora looked between them. "You went skating?"
+
+"One of us did," Leo said.
+
+Taiga pushed his arm. Leo caught his sleeve, grinning. 
+
+"You're a bad teacher."
+
+"Hey, I got you away from the railing, didn't I?"
+
+"And you nearly died because you had to skate backwards."
+
+"Did he crash into someone?" Zoe asked.
+
+"Yeah. Me."
+
+The path to the ruins narrowed after the fountain. Nora went first, with Zoe behind her; Taiga and Leo had to stop arguing long enough to let a family coming the other way get past.
+When they caught up, Nora was standing beside an information board. Beyond it, low walls divided a stretch of grass into uneven squares. Leo went to the railing and looked down.
+
+"Those are rooms?"
+
+"The walls would've been higher," Zoe said.
+
+"Thank you, I got that part."
+
+Nora left the board and came to look. "That's probably a storeroom."
+
+"Probably?" Taiga asked.
+
+"The sign doesn't say."
+
+"So you made it up."
+
+"It's a reasonable guess. There's no entrance from the passage."
+
+Zoe leaned over the railing. "There is on the other side."
+
+Nora followed her finger. For a moment, all four of them studied the gap in the stones.
+
+"Fine," Nora said. "It could be a bedroom."
+
+Leo spread his hands. "Thank you."
+
+They followed the path around the foundations. At the next board, Zoe stopped to compare the reconstruction with the walls.
+
+"I wish they'd put one room back together. Just one. I'd like to stand in it."
+
+"Then you'd be standing in something somebody built now," Nora said.
+
+"Yeah, but it would have the vibes!"
+
+Nora shook her head, but she was smiling when she moved on.
+
+They continued wandering in the ruins for a while.
+
+At the far end of the path, Leo stopped by a shallow flight of steps and lowered himself onto the bottom one. Zoe immediately sat beside him.
+Nora saw a board with a map and approached it.
+
+"I think we've seen almost everything."
+
+"My feet say hurrah," Leo said.
+
+Zoe shook her head. "So much for an athlete."
+
+"I train to walk on grass, not stone slabs."
+
+"I don't see Taiga complaining."
+
+Leo glanced at him.
+
+"He is. He just won't admit it."
+
+"Would that make you feel better?" Taiga said.
+
+ "Hey, I'm wasted on cross-country. We short people are natural sprinters, very dangerous over short distances."
+
+Zoe snorted. Taiga chuckled as well, then he held out his hand to Leo.
+
+"Come on little hobbit, time for second breakfast."
+
+***
