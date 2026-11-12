@@ -534,4 +534,46 @@ No. It's stupid to even think about it. Why would any sane person agree to that?
 
 He took a sip of his drink and let the conversation move on.
 
+***
+
+They spent the rest of the afternoon wandering around Acropolis' shopping area until they found an arcade. It ended up taking almost the whole afternoon.
+On the way back, Taiga's phone buzzed in the train.
+
+**Caleb:** Maya ordered too much food for tonight. 
+**Caleb:** It's Thai.
+
+**Taiga:** i'm guessing you need help
+
+Three dots kept appearing and disappearing. Taiga could almost see the thoughts forming and disappearing in Caleb's mind, figuring what "help" meant.
+
+**Caleb:** Yes.
+
+**Taiga:** alright
+
+Shortly after, from the seat across his, Leo asked, "You, uh... up for a coffee after?"
+
+Taiga looked up from his phone. "It's six-thirty."
+
+Leo looked at his phone. "Shit. I didn't think it was already this late. Right. Food then?"
+
+"Caleb told me that Maya ordered thai for tonight."
+
+He nodded and looked outside the window.
+Taiga bit his lip and went back to Caleb's chat.
+
+**Taiga:** is there enough for another?
+
+**Caleb:** Yes.
+
+"Wanna come?"
+
+Leo turned. "Mh?"
+
+"Caleb told me there's enough for five, Maya ordered too much."
+
+He blinked. "You mean... in your room?"
+
+"Uh... Yes?"
+
+Leo processed for a second. Then a smile appeared. "Right. Sure."
 
