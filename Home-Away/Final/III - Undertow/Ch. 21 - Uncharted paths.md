@@ -605,7 +605,67 @@ Maya stood up and hugged both of them.
 
 Taiga closed the door behind him while Maya was still crunching Leo.
 
+"I really hope you like thai because I might have underestimated portions," she said, pulling out.
 
+"Yep, I do," Leo said.
 
+“Good. I ordered for six people.”
 
+Caleb looked at her.
 
+“You ordered three mains, two sides, spring rolls and two portions of rice.”
+
+“That sounds like six people.”
+
+“It did not when there were two of us.”
+
+“And now there are four.”
+
+“That is retroactive justification.”
+
+“It is still justification.”
+
+Taiga sighed and threw a couple of decorative pillows from his bed onto the floor.
+
+"I'm not making a mess on the bed."
+
+"Fair enough," Leo said.
+
+Taiga sat on a pillow. "You can take the chair if you want."
+
+Leo dropped onto the other, beside him. "Nah."
+
+"That's actually a reasonable idea," Maya said, before doing the same. 
+
+Caleb stayed at his desk, of course, and handed Leo a plate.
+
+“The green curry is medium. The red one was marked hot.”
+
+Maya pointed her fork.
+
+“Marked hot. It is not actually hot.”
+
+“It is hotter than the green one.”
+
+“That isn't the same thing.”
+
+“It is literally comparative temperature.”
+
+“Spice isn't temperature.”
+
+“Capsaicin activates heat receptors.”
+
+Maya stared at him. Leo was evidently trying really hard not to laugh.
+
+Taiga took a container of pad see ew. “This has been happening since September.”
+
+Caleb looked at him.
+
+“That is inaccurate. We did not discuss capsaicin in September.”
+
+Leo nearly dropped his plate. Taiga closed his eyes.
+
+“See?”
+
+Maya was laughing into her curry.
+ 
