@@ -579,37 +579,11 @@ Leo processed for a second. Then a smile appeared. "Right. Sure."
 
 They separated from the girls near the mess hall. They went inside, while Leo and Taiga proceeded into the Residential Building.
 
-"You're strangely silent," Taiga said when the elevator doors closed.
+"You're strangely silent," Taiga said as he pressed the elevator button.
 
-"I'm not, just conserving words and social energy."
+"I'm briefly in power-saving mode."
 
-"If you're tired-"
+He snorted. They stepped in and the door closed behind them.
 
-"No, no. I'm good. I'm... you know."
-
-Taiga frowned. "You're... what?"
-
-"N-nothing just... you know, a bit nervous?"
-
-"Wha-why? You already met Caleb and Maya."
-
-Leo rolled up his eyes. "Ugh. Not for *them*."
-
-The elevator doors opened and they stepped into the corridor.
-
-"I'm not following."
-
-"Come on, Taiga. Your room? First time? I'm allowed a bit of nervousness."
-
-Realization hit Taiga. He regretted having figured it out almost instantly. His face started feeling slightly warm.
-
-"Right."
-
-"Yeah."
-
-They walked the rest of the corridor in silence, until they reached room 317.
-
-
-
-
+***
 
