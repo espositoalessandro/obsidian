@@ -184,9 +184,9 @@ Taiga's face went red almost instantly. He immediately looked away.
 
 She blinked.
 
-"Look, I didn't say those *exact* words. But neither did he. We just agreed to carry on with... whatever we were doing."
+"Look, I didn't say those *exact* words. But neither did he. We just agreed on carrying on with... whatever this is."
 
-Nora didn't look convinced. Not even a little.
+Nora didn't look convinced.
 
 "So now what are you doing? Like, are you dating or...?"
 
@@ -194,11 +194,11 @@ Nora didn't look convinced. Not even a little.
 
 She stared for a couple of seconds.
 
-"I guess... we'll just see what happens?"
+"I guess... we'll just see what happens?" Taiga continued.
 
 "Alright. As long as you two are fine."
 
-Taiga didn't answer.
+He didn't answer that.
 
 ***
 
@@ -244,7 +244,7 @@ Taiga was already regretting involving Nora and Zoe. He looked away.
 
 Taiga frowned. "Look, I don't need you or anyone else to... I don't know, set up stuff or anything."
 
-"Okay, then how about this: I want to hang out with Nora because I don't have many female friends and I don't want to be surrounded by soccer players. Does that sound better?"
+"Okay, then how about this: I like hanging out with you two, plus I want to hang out with Nora because I don't have many female friends and I don't want to be surrounded by soccer players. Does that sound better?"
 
 He shrugged. "Whatever."
 
