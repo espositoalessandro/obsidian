@@ -587,3 +587,25 @@ He snorted. They stepped in and the door closed behind them.
 
 ***
 
+Room 317 smelled like basil, chili and something fried before Taiga even opened the door.
+
+Maya was sitting cross-legged on Caleb's bed with a takeout container in her lap. Caleb had arranged the rest of the food across his desk in two precise rows.
+
+Taiga stepped in first. "Hey."
+
+"Hey, Taiga! Oh, is that..."
+
+Leo appeared from his back. "Hi-yo."
+
+"Leo! Hi!"
+
+Maya stood up and hugged both of them.
+
+"Oh, long time no see."
+
+Taiga closed the door behind him while Maya was still crunching Leo.
+
+
+
+
+
