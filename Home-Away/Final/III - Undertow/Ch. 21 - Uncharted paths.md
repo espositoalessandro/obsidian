@@ -765,7 +765,7 @@ Caleb shrugged. "Because that's about it."
 
 "If you don't mind me asking," he added.
 
-"I don't mind. I joined the therapy group because my dad suggested it. He had been told by someone at work. The group was focused on sharing experiences between orphans, so it made sense to me."
+"I don't mind. I joined the therapy group because my dad suggested it. He had been told by someone at work. The group was focused on sharing experiences families difficulties, so it made sense to me."
 
 That was the most Caleb explanation he could find. 
 
@@ -783,7 +783,7 @@ Taiga smiled before he could help himself.
 
 "Yeah, I've got a taste of his noticing abilities," Taiga said, still smiling.
 
-Maya giggled. "Yep, he does that. But from then, I started see more in him. Like, I've grown up being pretty much independent and assertive. Most people I know told me I was too blunt or direct. I lost plenty of friends because they took things personally. With him..."
+Maya giggled. "Yep, he does that. But from then, I started see more in him. Like, I've grown up being pretty much independent. Most people told me I was too blunt or direct and I lost plenty of friends because they took things personally. With him..."
 
 She turned at Caleb.
 
@@ -791,7 +791,7 @@ She turned at Caleb.
 
 "I like when people say things and I don't have to guess," Caleb said.
 
-Yeah, Caleb once told him that. *Maya tells things.* Now the two of them made way more sense.
+Yeah, Caleb once told him that. *Maya says things.* Now the two of them made way more sense.
 
 Leo had a warm smile as well. "I'm so happy you two found each other. You really do make a nice couple."
 
