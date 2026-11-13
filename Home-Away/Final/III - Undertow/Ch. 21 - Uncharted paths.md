@@ -667,7 +667,7 @@ Leo nearly dropped his plate. Taiga closed his eyes.
 
 “See?”
 
-Maya was laughing into her curry. Then she leaned over him and kissed him on the cheek.
+Maya was laughing into her curry. Then she leaned over Caleb and kissed him on the cheek.
 
 Caleb still looked confused.
 
@@ -763,7 +763,7 @@ Caleb shrugged. "Because that's about it."
 
 "How... did you end up meeting Maya? I mean... in the therapy group."
 
-"If you don't mind me asking," he added.
+"If you don't mind me asking," Taiga added.
 
 "I don't mind. I joined the therapy group because my dad suggested it. He had been told by someone at work. The group was focused on sharing experiences families difficulties, so it made sense to me."
 
