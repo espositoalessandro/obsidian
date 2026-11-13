@@ -541,9 +541,11 @@ On the way back, Taiga's phone buzzed in the train.
 
 **Taiga:** i'm guessing you need help
 
-Three dots kept appearing and disappearing. Taiga could almost see the thoughts forming and disappearing in Caleb's mind, figuring what "help" meant.
+Three dots appeared, disappeared, then appeared again. Taiga started typing *'with eating it*'.
 
 **Caleb:** Yes.
+
+Impressive. He deleted what he'd written.
 
 **Taiga:** alright
 
