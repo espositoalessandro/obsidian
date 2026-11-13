@@ -862,7 +862,7 @@ He smiled, properly this time. "Goodnight, Taiga."
 
 "Night, Leo."
 
-Taiga watched as Leo disappeared in the elevator. Then he went back inside.
+He watched as Leo disappeared in the elevator. Then he went back inside.
 
 "Your face is more red," Caleb pointed out immediately.
 
