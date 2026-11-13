@@ -614,17 +614,9 @@ Caleb looked at her.
 
 “You ordered three mains, two sides, spring rolls and two portions of rice.”
 
-“That sounds like six people.”
+Maya shrugged. "I underestimated their portions."
 
-“It did not when there were two of us.”
-
-“And now there are four.”
-
-“That is retroactive justification.”
-
-“It is still justification.”
-
-Taiga sighed and threw a couple of decorative pillows from his bed onto the floor.
+Taiga threw a couple of decorative pillows from his bed onto the floor.
 
 "I'm not making a mess on the bed."
 
