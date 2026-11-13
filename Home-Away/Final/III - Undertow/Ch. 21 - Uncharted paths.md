@@ -667,5 +667,95 @@ Leo nearly dropped his plate. Taiga closed his eyes.
 
 “See?”
 
-Maya was laughing into her curry.
- 
+Maya was laughing into her curry. Then she leaned over him and kissed him on the cheek.
+
+Caleb still looked confused.
+
+"So, how did you guys met?" Leo asked.
+
+Maya looked at Caleb. "Well... it's a bit uh... complicated."
+
+"Oh, sorry! It's okay if you don't wanna tell."
+
+"We met at a group therapy session in a clinic in Philadelphia's periphery," Caleb said, with a perfectly straight face.
+
+Taiga blinked. He never asked, but he didn't expect that.
+
+Leo widened his eyes. "Oh. Alright."
+
+Maya grimaced. "Yeah, long story short, my mum passed away when she gave birth to me. And dad... never really got over it. He's lovely, but he's been struggling with alcohol ever since."
+
+"He never hurt me or anything," she added immediately when she saw Leo and Taiga's face, "but yeah, you can imagine that he wasn't the ideal father either. Mostly because of his constant absence."
+
+"Yeah, no shit."
+
+Maya shrugged and smiled. "Well, let's not dwell into this depressing shit now. How's your home Leo? Taiga said you're from the Caribbean! Must be nice there."
+
+Leo turned to Taiga. "Oh, now you talk about me?"
+
+"No, Maya asked."
+
+"Taiga talks more than he wants to admit. But yeah, Caleb noticed your accent at Halloween, so I got curious."
+
+"Aw, dang. You noticed?"
+
+"It's Caleb," Taiga said.
+
+"Yes. It's subtle, though. And I noticed it got more evident throughout the evening."
+
+Leo grimaced. "Welp, yeah it does that. Anyway, yep I'm from Santo Domingo. Well, not *exactly* in the city though. I live in a pretty distant neighbor."
+
+"Distant like, in the middle of the forest or half an hour by bus?" Maya asked.
+
+"It's... uh... about half an hour by car and an hour or so by bus, but it depends on the traffic. It can get really intense there. But where I live, doesn't look anything like the city. It's waaay quieter. That is, until you enter my house."
+
+Taiga snorted. "I can imagine."
+
+"Oh trust me, you can't. So, my family has this property which is basically... uh, how do I put it... I'll just show you."
+
+Leo pulled out his phone and scrolled through his gallery. He found an old photo of a teen Leo and a teen Enzo playing with a soccer ball in a big patio, surrounded by a concrete wall and a compound in the background. 
+
+"See that?", he said pointing at the compound. "There are three houses in that."
+
+Taiga blinked.
+
+"How?"
+
+"It's a bit complicated. My house is on the first floor, see the stairs?"
+
+He pointed at a concrete staircase on the side of the building.
+
+"Then on the ground floor lives my grandma. And here, on the... uh... middle floor? There's my aunts house."
+
+There was another staircase on the other side, but much shorter. It lead to another part of the building that had a noticeable lower roof.
+
+Caleb frowned. "What is a middle floor?"
+
+"A floor... between two floors?"
+
+Maya looked over. "First, you are adorable in this photo. How old were you?"
+
+"Uhm... maybe fifteen or something. That's not much time ago, though."
+
+"You grew up so much!"
+
+"Puberty makes the physical growth of those years more pronounced than in adulthood," Caleb pointed out.
+
+"Thanks Caleb. Anyway, I like it. It's a bit chaotic, but you can't deny the character!"
+
+Leo smiled. "Yeah, I kinda like it too. From what I know, both my family and my aunt built around my grandma's house in different times."
+
+It definitely showed, Taiga thought. But he chose silence.
+
+"So, you basically live with two other families?"
+
+"Yeah, pretty much. Abuela- sorry, my grandma lives on her own, my aunt has a little child and I got a sister. We always eat together, though."
+
+"Every meal is almost a party, then," Taiga said.
+
+"Oh, you should see breakfast. Pure chaos."
+
+"I can imagine."
+
+Leo kept talking about his family, how other members lived nearby and every day at least one of them visited. Taiga listened to every word and found himself wanting to know more about his past and his environment.
+
