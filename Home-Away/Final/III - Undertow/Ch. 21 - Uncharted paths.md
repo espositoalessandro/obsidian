@@ -636,9 +636,7 @@ Leo dropped onto the other, beside him. "Nah."
 
 "That's actually a reasonable idea," Maya said, before doing the same. 
 
-Caleb stayed at his desk, of course, and handed Leo a plate.
-
-“The green curry is medium. The red one was marked hot.”
+Caleb handed Leo a plate. “The green curry is medium. The red one was marked hot.”
 
 Maya pointed her fork.
 
