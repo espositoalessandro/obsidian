@@ -415,7 +415,7 @@ Nora left the board and came to look. "That's probably a storeroom."
 
 Zoe leaned over the railing. "There is on the other side."
 
-Nora followed her finger. For a moment, all four of them studied the gap in the stones.
+Nora followed her finger. Taiga leaned sideways to see past the nearer wall. He'd missed the gap too.
 
 "Fine," Nora said. "It could be a bedroom."
 
@@ -427,9 +427,7 @@ They followed the path around the foundations. At the next board, Zoe stopped to
 
 "Yeah, but it would have the vibes!"
 
-Nora shook her head, but she was smiling when she moved on.
-
-They continued wandering among the ruins for a while.
+Taiga waited for Nora to explain why the vibes were wrong. Instead, she shook her head, smiling, and moved on with Zoe.
 
 At the far end of the path, Leo stopped by a shallow flight of steps and lowered himself onto the bottom one. Zoe immediately sat beside him.
 Nora saw a board with a map and approached it.
@@ -536,7 +534,6 @@ He took a sip of his drink and let the conversation move on.
 
 ***
 
-They spent the rest of the afternoon wandering around Acropolis' shopping area until they found an arcade. It ended up taking almost the whole afternoon.
 On the way back, Taiga's phone buzzed in the train.
 
 **Caleb:** Maya ordered too much food for tonight. 
