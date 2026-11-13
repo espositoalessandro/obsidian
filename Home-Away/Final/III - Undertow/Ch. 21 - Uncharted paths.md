@@ -687,7 +687,7 @@ Maya grimaced. "Yeah, long story short, my mum passed away when she gave birth t
 
 "He never hurt me or anything," she added immediately when she saw Leo and Taiga's face, "but yeah, you can imagine that he wasn't the ideal father either. Mostly because of his constant absence."
 
-"Yeah, no shit."
+"Shit, I'm... sorry to hear that, Maya," Leo said.
 
 Maya shrugged and smiled. "Well, let's not dwell into this depressing shit now. How's your home Leo? Taiga said you're from the Caribbean! Must be nice there."
 
@@ -737,11 +737,7 @@ Maya looked over. "First, you are adorable in this photo. How old were you?"
 
 "Uhm... maybe fifteen or something. That's not much time ago, though."
 
-"You grew up so much!"
-
-"Puberty makes the physical growth of those years more pronounced than in adulthood," Caleb pointed out.
-
-"Thanks Caleb. Anyway, I like it. It's a bit chaotic, but you can't deny the character!"
+"Anyway, I like it. It's a bit chaotic, but you can't deny the character!"
 
 Leo smiled. "Yeah, I kinda like it too. From what I know, both my family and my aunt built around my grandma's house in different times."
 
@@ -757,5 +753,47 @@ It definitely showed, Taiga thought. But he chose silence.
 
 "I can imagine."
 
-Leo kept talking about his family, how other members lived nearby and every day at least one of them visited. Taiga listened to every word and found himself wanting to know more about his past and his environment.
+Leo kept talking about his family, how other members lived nearby and every day at least one of them visited. Taiga listened through all the conversation, finding himself wanting to know more. Then Leo asked about Caleb.
+
+"I live not so far away from Maya. Normal house, normal parents, except mine are divorced and I mainly live with my dad."
+
+"That's... pretty concise," Taiga observed.
+
+Caleb shrugged. "Because that's about it."
+
+"How... did you end up meeting Maya? I mean... in the therapy group."
+
+"If you don't mind me asking," he added.
+
+"I don't mind. I joined the therapy group because my dad suggested it. He had been told by someone at work. The group was focused on sharing experiences between orphans, so it made sense to me."
+
+That was the most Caleb explanation he could find. 
+
+"Right, makes sense."
+
+"You should have seen him," Maya said smiling. "when the therapist asked him 'Hi Caleb, why are you here?' he just put on a straight face and told them 'Because my parents divorced' and stopped there." 
+
+"I had answered."
+
+She caressed his leg. "Of course you had."
+
+Taiga smiled before he could help himself.
+
+"You know, at first I laughed at him, I gotta be honest," she continued. "Then, one day I was feeling pretty bad. He was the only one in the room who had noticed. He told me 'you look upset' like he was describing the color of my hair, like it was obvious for him."
+
+"Yeah, I've got a taste of his noticing abilities," Taiga said, still smiling.
+
+Maya giggled. "Yep, he does that. But from then, I started see more in him. Like, I've grown up being pretty much independent and assertive. Most people I know told me I was too blunt or direct. I lost plenty of friends because they took things personally. With him..."
+
+She turned at Caleb.
+
+"I don't have to repress that. I know he takes it without concern. I can be brutally honest with him. In fact, he actually prefers it."
+
+"I like when people say things and I don't have to guess," Caleb said.
+
+Yeah, Caleb once told him that. *Maya tells things.* Now the two of them made way more sense.
+
+Leo had a warm smile as well. "I'm so happy you two found each other. You really do make a nice couple."
+
+Maya turned. "Well, we still had to work our asses off to make things work properly, but... yeah. We work, somehow. Meanwhile, we also learned a bit how to behave in public."
 
