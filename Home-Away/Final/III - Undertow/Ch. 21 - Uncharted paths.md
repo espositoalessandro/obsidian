@@ -427,7 +427,7 @@ They followed the path around the foundations. At the next board, Zoe stopped to
 
 "Yeah, but it would have the vibes!"
 
-Taiga waited for Nora to explain why the vibes were wrong. Instead, she shook her head, smiling, and moved on with Zoe.
+Taiga waited for Nora to explain why the vibes were wrong. Instead, she shook her head, smiling, and moved on with Zoe. Disappointing.
 
 At the far end of the path, Leo stopped by a shallow flight of steps and lowered himself onto the bottom one. Zoe immediately sat beside him.
 Nora saw a board with a map and approached it.
