@@ -844,13 +844,13 @@ Before Leo could take one step, he grabbed his sleeve.
 
 "W-Wait, uh..."
 
-Leo turned and looked at him in surprise, while his heart was apparently trying to escape by smashing his ribs.
+Leo turned and looked at him in surprise, while Taiga's heart was apparently trying to escape by smashing his ribs.
 
 Oh, fuck it.
 
 Taiga put his arms around Leo and hugged him tight. Leo stiffened up for a split second, before returning the hug with a "Oh!"
 
-Suddenly, Leo's warmth and scent hit him all at once, making his heart beating even faster.
+Suddenly, Leo's warmth and scent hit him all at once.
 
 "Thanks for today," he said, with his voice muffled by Leo's hoodie.
 
@@ -858,7 +858,7 @@ Leo tightened his arms around his chest in response, until Taiga could feel Leo'
 
 He could not tell how much they stayed like this. He only knew that Leo was of a different shade of pink when they separated.
 
-He smiled, properly this time. "Goodnight, Taiga."
+Leo smiled, properly this time. "Goodnight, Taiga."
 
 "Night, Leo."
 
