@@ -797,3 +797,74 @@ Leo had a warm smile as well. "I'm so happy you two found each other. You really
 
 Maya turned. "Well, we still had to work our asses off to make things work properly, but... yeah. We work, somehow. Meanwhile, we also learned a bit how to behave in public."
 
+"It shows! I don't see bluntness at all, you're actually nice."
+
+"And I still remember Caleb actually making a joke," Taiga added.
+
+Caleb looked at him. "This is the part where you usually would have said 'fuck off'".
+
+They all laughed.
+
+Eventually, they collected plates and boxes and tidied things up. Maya ran off because train usually took more than an hour to get to her campus.
+Leo stayed a bit more, then eventually he stood and stretched his limbs.
+
+"Well, I better go. Got Calculus early on tomorrow. Ugh."
+
+Taiga stood up as well. "Right."
+
+"See you, Caleb! Goodnight!"
+
+Caleb waved at him, "Goodnight."
+
+Taiga accompanied him outside, closing the door behind him.
+
+"Those two really are something," Leo said.
+
+"Yeah, no risk of getting bored."
+
+"Eheh, indeed."
+
+There was a small pause. Then Leo said, "Hey, uh... thanks for inviting me. I appreciated that, really."
+
+Taiga put his hands in his pockets and looked down. "...It was nothing."
+
+"It was a nice evening, though."
+
+"Yeah."
+
+Leo fiddled with the coat he was still holding as they stood there awkwardly for a couple of seconds.
+
+"Well," he said, eventually, "Goodnight, then."
+
+Taiga nodded. "Goodnight."
+
+Leo arched his mouth a little and turned. Taiga bit the inside of his cheek, cursing himself. What kind of goodnight was that? Jesus.
+
+Before Leo could take one step, he grabbed his sleeve.
+
+"W-Wait, uh..."
+
+Leo turned and looked at him in surprise, while his heart was apparently trying to escape by smashing his ribs.
+
+Oh, fuck it.
+
+Taiga put his arms around Leo and hugged him tight. Leo stiffened up for a split second, before returning the hug with a "Oh!"
+
+Suddenly, Leo's warmth and scent hit him all at once, making his heart beating even faster.
+
+"Thanks for today," he said, with his voice muffled by Leo's hoodie.
+
+Leo tightened his arms around his chest in response, until Taiga could feel Leo's heart beating fast as well.
+
+He could not tell how much they stayed like this. He only knew that Leo was of a different shade of pink when they separated.
+
+He smiled, properly this time. "Goodnight, Taiga."
+
+"Night, Leo."
+
+Taiga watched as Leo disappeared in the elevator. Then he went back inside.
+
+"Your face is more red," Caleb pointed out immediately.
+
+Taiga grabbed his pillow and threw it at him.
+
