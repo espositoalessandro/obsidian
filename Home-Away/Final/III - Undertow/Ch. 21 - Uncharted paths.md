@@ -184,7 +184,7 @@ Taiga's face went red almost instantly. He immediately looked away.
 
 She blinked.
 
-"Look, I didn't say those *exact* words. But neither did he. We just agreed on carrying on with... whatever this is."
+"Look, I didn't say those *exact* words. But neither did he. We just agreed to carry on with... whatever this is."
 
 Nora didn't look convinced.
 
@@ -534,14 +534,14 @@ He took a sip of his drink and let the conversation move on.
 
 ***
 
-On the way back, Taiga's phone buzzed in the train.
+On the way back, Taiga's phone buzzed on the train.
 
-**Caleb:** Maya ordered too much food for tonight. 
+**Caleb:** Maya ordered too much food for tonight.
 **Caleb:** It's Thai.
 
 **Taiga:** i'm guessing you need help
 
-Three dots appeared, disappeared, then appeared again. Taiga started typing *'with eating it*'.
+Three dots appeared, disappeared, then appeared again. Taiga started typing *with eating it*.
 
 **Caleb:** Yes.
 
@@ -549,13 +549,13 @@ Impressive. He deleted what he'd written.
 
 **Taiga:** alright
 
-Shortly after, from the seat across his, Leo asked, "You, uh... up for a coffee after?"
+Shortly after, from the seat across from his, Leo asked, "You, uh... up for a coffee after?"
 
 Taiga looked up from his phone. "It's six-thirty."
 
-Leo looked at his phone. "Shit. I didn't think it was already this late. Right. Food then?"
+Leo looked at his phone. "Shit. I didn't realize it was already this late. Right. Food then?"
 
-"Caleb told me that Maya ordered thai for tonight."
+"Caleb told me that Maya ordered Thai for tonight."
 
 He nodded and looked outside the window.
 Taiga bit his lip and went back to Caleb's chat.
@@ -568,15 +568,15 @@ Taiga bit his lip and went back to Caleb's chat.
 
 Leo turned. "Mh?"
 
-"Caleb told me there's enough for five, Maya ordered too much."
+"Caleb told me there's enough for five. Maya ordered too much."
 
 He blinked. "You mean... in your room?"
 
-"Uh... Yes?"
+"Uh... yes?"
 
-Leo processed for a second. Then a smile appeared. "Right. Sure."
+Leo took a second to process that. Then a smile appeared. "Right. Sure."
 
-They separated from the girls near the mess hall. They went inside, while Leo and Taiga proceeded into the Residential Building.
+They separated from the girls near the mess hall. Nora and Zoe went inside while Leo and Taiga continued to the Residential Building.
 
 "You're strangely silent," Taiga said as he pressed the elevator button.
 
@@ -594,7 +594,7 @@ Taiga stepped in first. "Hey."
 
 "Hey, Taiga! Oh, is that..."
 
-Leo appeared from his back. "Hi-yo."
+Leo stepped in behind him. "Hi-yo."
 
 "Leo! Hi!"
 
@@ -602,17 +602,17 @@ Maya stood up and hugged both of them.
 
 "Oh, long time no see."
 
-Taiga closed the door behind him while Maya was still crunching Leo.
+Taiga closed the door behind him while Maya was still squeezing Leo.
 
-"I really hope you like thai because I might have underestimated portions," she said, pulling out.
+"I really hope you like Thai because I might have underestimated the portions," she said, pulling back.
 
 "Yep, I do," Leo said.
 
-“Good. I ordered for six people.”
+"Good. I ordered for six people."
 
 Caleb looked at her.
 
-“You ordered three mains, two sides, spring rolls and two portions of rice.”
+"You ordered three mains, two sides, spring rolls and two portions of rice."
 
 Maya shrugged. "I underestimated their portions."
 
@@ -626,59 +626,59 @@ Taiga sat on a pillow. "You can take the chair if you want."
 
 Leo dropped onto the other, beside him. "Nah."
 
-"That's actually a reasonable idea," Maya said, before doing the same. 
+"That's actually a reasonable idea," Maya said before doing the same.
 
-Caleb handed Leo a plate. “The green curry is medium. The red one was marked hot.”
+Caleb handed Leo a plate. "The green curry is medium. The red one was marked hot."
 
-Maya pointed her fork.
+Maya pointed with her fork.
 
-“Marked hot. It is not actually hot.”
+"Marked hot. It is not actually hot."
 
-“It is hotter than the green one.”
+"It is hotter than the green one."
 
-“That isn't the same thing.”
+"That isn't the same thing."
 
-“It is literally comparative temperature.”
+"It is literally comparative temperature."
 
-“Spice isn't temperature.”
+"Spice isn't temperature."
 
-“Capsaicin activates heat receptors.”
+"Capsaicin activates heat receptors."
 
 Maya stared at him. Leo was evidently trying really hard not to laugh.
 
-Taiga took a container of pad see ew. “This has been happening since September.”
+Taiga took a container of pad see ew. "This has been happening since September."
 
 Caleb looked at him.
 
-“That is inaccurate. We did not discuss capsaicin in September.”
+"That is inaccurate. We did not discuss capsaicin in September."
 
 Leo nearly dropped his plate. Taiga closed his eyes.
 
-“See?”
+"See?"
 
 Maya was laughing into her curry. Then she leaned over Caleb and kissed him on the cheek.
 
 Caleb still looked confused.
 
-"So, how did you guys met?" Leo asked.
+"So, how did you guys meet?" Leo asked.
 
-Maya looked at Caleb. "Well... it's a bit uh... complicated."
+Maya looked at Caleb. "Well... it's a bit, uh... complicated."
 
 "Oh, sorry! It's okay if you don't wanna tell."
 
-"We met at a group therapy session in a clinic in Philadelphia's periphery," Caleb said, with a perfectly straight face.
+"We met at a group therapy session in a clinic on the outskirts of Philadelphia," Caleb said with a perfectly straight face.
 
-Taiga blinked. He never asked, but he didn't expect that.
+Taiga blinked. He'd never asked, but he hadn't expected that.
 
 Leo widened his eyes. "Oh. Alright."
 
-Maya grimaced. "Yeah, long story short, my mum passed away when she gave birth to me. And dad... never really got over it. He's lovely, but he's been struggling with alcohol ever since."
+Maya grimaced. "Yeah, long story short, my mum passed away when she gave birth to me. And Dad... never really got over it. He's lovely, but he's been struggling with alcohol ever since."
 
-"He never hurt me or anything," she added immediately when she saw Leo and Taiga's face, "but yeah, you can imagine that he wasn't the ideal father either. Mostly because of his constant absence."
+"He never hurt me or anything," she added immediately when she saw their faces, "but yeah, you can imagine that he wasn't the ideal father either. Mostly because of his constant absence."
 
 "Shit, I'm... sorry to hear that, Maya," Leo said.
 
-Maya shrugged and smiled. "Well, let's not dwell into this depressing shit now. How's your home Leo? Taiga said you're from the Caribbean! Must be nice there."
+Maya shrugged and smiled. "Well, let's not dwell on this depressing shit now. What's home like, Leo? Taiga said you're from the Caribbean! Must be nice there."
 
 Leo turned to Taiga. "Oh, now you talk about me?"
 
@@ -690,33 +690,33 @@ Leo turned to Taiga. "Oh, now you talk about me?"
 
 "It's Caleb," Taiga said.
 
-"Yes. It's subtle, though. And I noticed it got more evident throughout the evening."
+"Yes. It's subtle, though. And I noticed it became more pronounced as the evening went on."
 
-Leo grimaced. "Welp, yeah it does that. Anyway, yep I'm from Santo Domingo. Well, not *exactly* in the city though. I live in a pretty distant neighbor."
+Leo grimaced. "Welp, yeah, it does that. Anyway, yep, I'm from Santo Domingo. Well, not *exactly* in the city, though. I live in a neighborhood pretty far from the city center."
 
-"Distant like, in the middle of the forest or half an hour by bus?" Maya asked.
+"Far as in the middle of the forest, or half an hour by bus?" Maya asked.
 
-"It's... uh... about half an hour by car and an hour or so by bus, but it depends on the traffic. It can get really intense there. But where I live, doesn't look anything like the city. It's waaay quieter. That is, until you enter my house."
+"It's... uh... about half an hour by car and an hour or so by bus, but it depends on the traffic. It can get really intense there. But where I live doesn't look anything like the city. It's waaay quieter. That is, until you enter my house."
 
 Taiga snorted. "I can imagine."
 
-"Oh trust me, you can't. So, my family has this property which is basically... uh, how do I put it... I'll just show you."
+"Oh, trust me, you can't. So, my family has this property which is basically... uh, how do I put it... I'll just show you."
 
-Leo pulled out his phone and scrolled through his gallery. He found an old photo of a teen Leo and a teen Enzo playing with a soccer ball in a big patio, surrounded by a concrete wall and a compound in the background. 
+Leo pulled out his phone and scrolled through his gallery. He found an old photo of Leo and Enzo as teenagers, playing with a soccer ball in a big courtyard surrounded by a concrete wall, with the compound in the background.
 
-"See that?", he said pointing at the compound. "There are three houses in that."
+"See that?" he said, pointing at the compound. "There are three houses in there."
 
 Taiga blinked.
 
 "How?"
 
-"It's a bit complicated. My house is on the first floor, see the stairs?"
+"It's a bit complicated. My house is on the first floor. See the stairs?"
 
 He pointed at a concrete staircase on the side of the building.
 
-"Then on the ground floor lives my grandma. And here, on the... uh... middle floor? There's my aunts house."
+"Then my grandma lives on the ground floor. And here, on the... uh... middle floor? There's my aunt's house."
 
-There was another staircase on the other side, but much shorter. It lead to another part of the building that had a noticeable lower roof.
+There was another staircase on the other side, but much shorter. It led to another part of the building that had a noticeably lower roof.
 
 Caleb frowned. "What is a middle floor?"
 
@@ -724,17 +724,17 @@ Caleb frowned. "What is a middle floor?"
 
 Maya looked over. "First, you are adorable in this photo. How old were you?"
 
-"Uhm... maybe fifteen or something. That's not much time ago, though."
+"Uhm... maybe fifteen or something. That wasn't that long ago, though."
 
 "Anyway, I like it. It's a bit chaotic, but you can't deny the character!"
 
-Leo smiled. "Yeah, I kinda like it too. From what I know, both my family and my aunt built around my grandma's house in different times."
+Leo smiled. "Yeah, I kinda like it too. From what I know, both my family and my aunt built around my grandma's house at different times."
 
 It definitely showed, Taiga thought. But he chose silence.
 
 "So, you basically live with two other families?"
 
-"Yeah, pretty much. Abuela- sorry, my grandma lives on her own, my aunt has a little child and I got a sister. We always eat together, though."
+"Yeah, pretty much. Abuela—sorry, my grandma lives on her own, my aunt has a little child and I got a sister. We always eat together, though."
 
 "Every meal is almost a party, then," Taiga said.
 
@@ -742,9 +742,9 @@ It definitely showed, Taiga thought. But he chose silence.
 
 "I can imagine."
 
-Leo kept talking about his family, how other members lived nearby and every day at least one of them visited. Taiga listened through all the conversation, finding himself wanting to know more. Then Leo asked about Caleb.
+Leo kept talking about his family: how other members lived nearby and at least one of them visited every day. Taiga listened to the whole conversation, finding himself wanting to know more. Then Leo asked about Caleb.
 
-"I live not so far away from Maya. Normal house, normal parents, except mine are divorced and I mainly live with my dad."
+"I don't live far from Maya. Normal house, normal parents, except mine are divorced and I mainly live with my dad."
 
 "That's... pretty concise," Taiga observed.
 
@@ -754,13 +754,13 @@ Caleb shrugged. "Because that's about it."
 
 "If you don't mind me asking," Taiga added.
 
-"I don't mind. I joined the therapy group because my dad suggested it. He had been told by someone at work. The group was focused on sharing experiences families difficulties, so it made sense to me."
+"I don't mind. I joined the therapy group because my dad suggested it. Someone at work had told him about it. The group was focused on sharing experiences of family difficulties, so it made sense to me."
 
-That was the most Caleb explanation he could find. 
+That was the most Caleb explanation he'd ever heard.
 
 "Right, makes sense."
 
-"You should have seen him," Maya said smiling. "when the therapist asked him 'Hi Caleb, why are you here?' he just put on a straight face and told them 'Because my parents divorced' and stopped there." 
+"You should have seen him," Maya said, smiling. "When the therapist asked him, 'Hi, Caleb. Why are you here?' he just put on a straight face and told them, 'Because my parents got divorced,' and stopped there."
 
 "I had answered."
 
@@ -768,42 +768,42 @@ She caressed his leg. "Of course you had."
 
 Taiga smiled before he could help himself.
 
-"You know, at first I laughed at him, I gotta be honest," she continued. "Then, one day I was feeling pretty bad. He was the only one in the room who had noticed. He told me 'you look upset' like he was describing the color of my hair, like it was obvious for him."
+"You know, at first I laughed at him, I gotta be honest," she continued. "Then, one day I was feeling pretty bad. He was the only one in the room who had noticed. He told me, 'You look upset,' like he was describing the color of my hair, like it was obvious to him."
 
-"Yeah, I've got a taste of his noticing abilities," Taiga said, still smiling.
+"Yeah, I've had a taste of his noticing abilities," Taiga said, still smiling.
 
-Maya giggled. "Yep, he does that. But from then, I started see more in him. Like, I've grown up being pretty much independent. Most people told me I was too blunt or direct and I lost plenty of friends because they took things personally. With him..."
+Maya giggled. "Yep, he does that. But after that, I started to see more in him. Like, I grew up being pretty independent. Most people told me I was too blunt or direct, and I lost plenty of friends because they took things personally. With him..."
 
-She turned at Caleb.
+She turned toward Caleb.
 
-"I don't have to repress that. I know he takes it without concern. I can be brutally honest with him. In fact, he actually prefers it."
+"I don't have to repress that. I know he doesn't take it personally. I can be brutally honest with him. In fact, he actually prefers it."
 
-"I like when people say things and I don't have to guess," Caleb said.
+"I like it when people say things and I don't have to guess," Caleb said.
 
-Yeah, Caleb once told him that. *Maya says things.* Now the two of them made way more sense.
+Yeah, Caleb had once told him that. *Maya says things.* Now the two of them made way more sense.
 
 Leo had a warm smile as well. "I'm so happy you two found each other. You really do make a nice couple."
 
-Maya turned. "Well, we still had to work our asses off to make things work properly, but... yeah. We work, somehow. Meanwhile, we also learned a bit how to behave in public."
+Maya turned. "Well, we still had to work our asses off to make things work properly, but... yeah. We work, somehow. Meanwhile, we also learned a bit about how to behave in public."
 
-"It shows! I don't see bluntness at all, you're actually nice."
+"It shows! I don't see bluntness at all. You're actually nice."
 
 "And I still remember Caleb actually making a joke," Taiga added.
 
-Caleb looked at him. "This is the part where you usually would have said 'fuck off'".
+Caleb looked at him. "This is the part where you'd usually say 'fuck off.'"
 
 They all laughed.
 
-Eventually, they collected plates and boxes and tidied things up. Maya ran off because train usually took more than an hour to get to her campus.
-Leo stayed a bit more, then eventually he stood and stretched his limbs.
+Eventually, they collected plates and boxes and tidied things up. Maya ran off because the train journey to her campus usually took more than an hour.
+Leo stayed a little longer, then stood and stretched.
 
-"Well, I better go. Got Calculus early on tomorrow. Ugh."
+"Well, I better go. Got Calculus early tomorrow. Ugh."
 
 Taiga stood up as well. "Right."
 
 "See you, Caleb! Goodnight!"
 
-Caleb waved at him, "Goodnight."
+Caleb waved at him. "Goodnight."
 
 Taiga accompanied him outside, closing the door behind him.
 
@@ -823,37 +823,36 @@ Taiga put his hands in his pockets and looked down. "...It was nothing."
 
 Leo fiddled with the coat he was still holding as they stood there awkwardly for a couple of seconds.
 
-"Well," he said, eventually, "Goodnight, then."
+"Well," he said eventually, "goodnight, then."
 
 Taiga nodded. "Goodnight."
 
-Leo arched his mouth a little and turned. Taiga bit the inside of his cheek, cursing himself. What kind of goodnight was that? Jesus.
+Leo gave a small smile and turned. Taiga bit the inside of his cheek, cursing himself. What kind of goodnight was that? Jesus.
 
-Before Leo could take one step, he grabbed his sleeve.
+Before Leo could take one step, Taiga grabbed his sleeve.
 
 "W-Wait, uh..."
 
-Leo turned and looked at him in surprise, while Taiga's heart was apparently trying to escape by smashing his ribs.
+Leo turned and looked at him in surprise while Taiga's heart was apparently trying to escape by smashing his ribs.
 
 Oh, fuck it.
 
-Taiga put his arms around Leo and hugged him tight. Leo stiffened up for a split second, before returning the hug with a "Oh!"
+Taiga put his arms around Leo and hugged him tight. Leo stiffened up for a split second before returning the hug with an "Oh!"
 
 Suddenly, Leo's warmth and scent hit him all at once.
 
-"Thanks for today," he said, with his voice muffled by Leo's hoodie.
+"Thanks for today," he said, his voice muffled by Leo's hoodie.
 
-Leo tightened his arms around his chest in response, until Taiga could feel Leo's heart beating fast as well.
+Leo tightened his hold in response until Taiga could feel Leo's heart beating fast as well.
 
-He could not tell how much they stayed like this. He only knew that Leo was of a different shade of pink when they separated.
+He could not tell how long they stayed like this. He only knew that Leo was a different shade of pink when they separated.
 
 Leo smiled, properly this time. "Goodnight, Taiga."
 
 "Night, Leo."
 
-He watched as Leo disappeared in the elevator. Then he went back inside.
+He watched as Leo disappeared into the elevator. Then he went back inside.
 
-"Your face is more red," Caleb pointed out immediately.
+"Your face is redder," Caleb pointed out immediately.
 
 Taiga grabbed his pillow and threw it at him.
-
