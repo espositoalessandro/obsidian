@@ -843,7 +843,7 @@ Suddenly, Leo's warmth and scent hit him all at once.
 
 "Thanks for today," he said, his voice muffled by Leo's hoodie.
 
-Leo tightened his hold in response until Taiga could feel Leo's heart beating fast as well.
+Leo tightened his hold in response until Taiga could feel Leo's heart beating fast as well against his chest.
 
 He could not tell how long they stayed like this. He only knew that Leo was a different shade of pink when they separated.
 
