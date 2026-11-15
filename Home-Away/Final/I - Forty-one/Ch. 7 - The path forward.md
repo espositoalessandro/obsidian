@@ -170,7 +170,7 @@ Taiga thought for a second.
 
 Taiga gulped. She'd narrowed the routes down way too fast.
 
-"I also imagine that Calculus was a safe choice to keep as many doors open, right?"
+"I also imagine that Calculus was a safe choice to keep your options open, right?"
 
 "Yeah."
 
@@ -287,7 +287,7 @@ Nora was happily sipping from her cup of something made almost entirely of sugar
 
 "I'm not answering that."
 
-She smiled from her cup.
+She smiled over the rim of her cup.
 
 "So, how's this week treating you?"
 
@@ -650,7 +650,7 @@ After ten minutes, they resumed. The connector was exactly where Taiga said it w
 "I complain when *you* don't."
 
 Maya snorted. 
-The trail leveled near some old stone foundations half swallowed by roots and lichens. Caleb read every information sign, while Maya photographed all the plants growing in the ruins. 
+The trail leveled near some old stone foundations half swallowed by roots and lichens. Caleb read every information sign, while Maya photographed all the plants growing between the stones. 
 Taiga wandered to a low wall overlooking the slope and rested one hand against the cold stone.
 
 For a while there was nothing to do except look at the trees and the city below.
