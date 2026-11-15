@@ -7,7 +7,6 @@ He was halfway through breakfast at the mess hall when the phone vibrated beside
 **ACADEMIC ADVISING OPPORTUNITY**
 
 Great. 
-He opened it.
 
 *Your first-year program planning appointment is today at 14:30 with Dr. Elena Park. Please review your current academic pathway and intended course selections before attendance.*
 
@@ -31,9 +30,7 @@ The grid with his classes looked weirdly accusatory.
 
 Taiga took a breath. Too early in the morning for that.
 
-Caleb ate another spoonful of oatmeal.
-
-"Why are you annoyed?"
+Caleb ate another spoonful of oatmeal. "Why are you annoyed?"
 
 "Because they're going to ask what I want to major in."
 
@@ -41,9 +38,7 @@ Caleb ate another spoonful of oatmeal.
 
 "That doesn't make the question less stupid."
 
-Caleb looked at him.
-
-"Why is it stupid?"
+Caleb looked at him. "Why is it stupid?"
 
 "Because I've been here eight weeks."
 
@@ -113,8 +108,6 @@ Taiga's attention snagged.
 Park's mouth twitched.
 
 "I might have paraphrased that one."
-
-"Okay."
 
 She turned the screen slightly. Rao's note was visible.
 
@@ -211,7 +204,7 @@ Taiga looked at the *Declare Program* button at the bottom of the page.
 
 "Then you change it."
 
-"That simple?"
+"...That simple?"
 
 "Administratively? Usually. Academically? That depends how long you wait and what you change to."
 
@@ -219,9 +212,7 @@ There. Actual answer. Taiga nodded.
 
 Park continued, "You don't need to decide what you want to do for the rest of your life. You only need to decide what direction you want to explore more seriously next." 
 
-Taiga frowned.
-
-"That still sounds like advisor propaganda."
+Taiga frowned. "That sounds like advisor propaganda."
 
 "It is literally my job," she said, smiling.
 
@@ -317,9 +308,7 @@ Her face lit up. "Oh!"
 
 "You haven't really been off campus, have you?"
 
-Taiga shrugged.
-
-"Never had a reason to."
+Taiga shrugged. "Never had a reason to."
 
 "You're missing out then. There's a lot to see out there."
 
@@ -329,9 +318,7 @@ Taiga shrugged.
 
 "Why is everyone obsessed with making me do stuff?"
 
-Nora rolled her eyes.
-
-"That's a strange way to phrase 'people keep inviting me to places.'"
+Nora rolled her eyes. "That's a strange way to phrase 'people keep inviting me to places.'"
 
 Taiga froze for half a second.
 
@@ -417,7 +404,7 @@ Gav smiled faintly. "Welcome to organized soccer."
 
 Leo turned halfway around. "He says that to everyone."
 
-"Because all of you keep being surprised football has other players."
+"Because all of you keep being surprised soccer has other players."
 
 Enzo leaned back. "I personally resent the other players."
 
@@ -438,7 +425,7 @@ His voice was so low that Taiga barely heard him.
 
 "I didn't bring food."
 
-"There should be enough in the kitchen."
+"There should be enough in the k-kitchen."
 
 Taiga shrugged. Why not.
 He dropped his bag and followed the group to the kitchen.
@@ -462,9 +449,7 @@ Conversation drifted through classes, training and Enzo's increasingly aggressiv
 
 Eventually Evan asked, "Hey Taiga, you do anything outside soccer?"
 
-Taiga looked at him.
-
-"Yes."
+Taiga looked at him. "Yes."
 
 "Why did it sound offended?" said Enzo.
 
@@ -521,9 +506,7 @@ Gav pulled out a chessboard and challenged Taiga. Obviously, he accepted.
 
 Taiga smiled with satisfaction. Gav had to choose whether to sacrifice a bishop or his other knight.
 
-Gav looked up at him.
-
-"Sorry, man."
+Gav looked up at him. "Sorry, man."
 
 And sniped Taiga's queen with his bishop.
 
@@ -540,9 +523,8 @@ Taiga blinked.
 "Birdwatching?"
 
 He regretted asking almost immediately when Gav launched into a rundown of all the bird species around Olympus City.
-At some point, Gav stopped moving pieces entirely.
 
-Eventually, Taiga left. When he checked the time on his way out, it was 9:20.
+At some point, Gav stopped moving pieces entirely.
 
 ***
 
@@ -562,7 +544,7 @@ Caleb had packed like they were crossing a continent: water, food, rain shell, b
 
 "Redundancy."
 
-"Of course."
+"Right. Of course."
 
 They met Maya at the Olympus station. She took one look at Caleb's pack.
 
@@ -605,9 +587,9 @@ Caleb stared at his route app. "This isn't on the map."
 
 "The left trail reconnects, but it adds distance."
 
-Taiga studied the physical map. "Take the left for about a kilometer. There's a marked connector before the steep section."
+Taiga studied the physical map. "We could take the left for about a kilometer. There's a marked connector before the steep section."
 
-The detour was quieter. Suddenly, they were alone in the woods. That was familiar enough to make Taiga smile. 
+The detour was quieter. Suddenly, they were alone in the woods. That was familiar enough to make Taiga smile.
 
 They stopped beside a low stone wall. Through the trees, Acropolis Park spread below them, campus reduced to a small patch of buildings.
 
@@ -619,7 +601,7 @@ Maya sat beside Taiga. "Looks like you're in your element."
 
 "No, more mountains, more forest. Also, a big lake."
 
-"Are you a scout counselor?"
+"Are you, like, a scout counselor?"
 
 "No, just a scout. And they're called scoutmasters."
 
@@ -734,9 +716,7 @@ Taiga and Maya stopped. They looked at each other.
 
 "Was that a joke?" answered Maya in disbelief.
 
-Caleb blinked.
-
-"No. It was a fact."
+Caleb blinked. "No. It was a fact."
 
 Another second passed. Then Taiga and Maya burst out laughing.
 
@@ -780,7 +760,7 @@ He expected worse.
 
 "Yeah."
 
-Upstairs, Caleb immediately unpacked his wet things. Taiga dropped his bag by the bed.
+Back in their room, Caleb immediately unpacked his wet things. Taiga dropped his bag by the bed.
 
 "You should remove the wet shirt," Caleb said.
 
@@ -793,7 +773,6 @@ Upstairs, Caleb immediately unpacked his wet things. Taiga dropped his bag by th
 "All right."
 
 Taiga sat on the edge of his bed and opened a notification from Maya. She had taken a photo without warning: Caleb looking toward the city, Taiga half turned toward her, neither of them posing. 
-
 He smiled and saved it.
 
 While he was browsing his photos, a notification appeared at the top of the screen.
@@ -839,6 +818,8 @@ Taiga was about to lock his phone when three dots appeared again.
 
 **Unknown:** so how was the hike?
 
+He paused for a second.
+
 **Taiga:** nice but crowded
 
 **Unknown:** ouch
@@ -859,11 +840,11 @@ Taiga was about to lock his phone when three dots appeared again.
 
 **Unknown:** 💀💀
 
-Leo didn't send anything else. Before putting the phone away, he saved his number. 
+Leo didn't send anything else. He saved his number before putting the phone away.
 
 Taiga finally got up from his bed and went to shower. Hot water after a long hike like that was always a blessing. 
 That made him think about the showers in his cabin after a day of activities, back at camp.
-He smiled. 
+He wondered who was making sure Yoichi was getting a proper bath, now that Taiga had gone.
 
 Then he came back into the room and opened his laptop. Sadly, university still existed and Professor Hall assigned them 37 pages of reading. Which was borderline criminal, since it was due for Monday.
 
