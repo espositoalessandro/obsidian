@@ -70,9 +70,7 @@ He glanced at Caleb's empty chair. "...Yeah, a few."
 
 "Here, I mean. At camp. If you want to bring a friend for the break, we got plenty of space. Tell me before Sunday, so we can prepare accommodations."
 
-For some stupid reason, his heartbeat suddenly increased.
-
-"R-right. No, I think I'll come on my own."
+"...Right. No, I think I'll come on my own."
 
 "As you wish. For now, I'll account just for you until you tell me otherwise."
 
