@@ -82,23 +82,23 @@ He glanced at Caleb's empty chair. "...Yeah, a few."
 
 ***
 
-Somebody had brought a gaming console at Apollo. Taiga found Gav and Enzo locked on the TV when he arrived on Wednesday evening, with Leo, Evan and Scott cheering from behind the couch.
+Somebody had brought a gaming console to Apollo. Taiga found Gav and Enzo glued to the TV when he arrived on Wednesday evening, with Leo, Evan and Scott cheering from behind the couch.
 
 "Hi, guys."
 
 Evan and Scott waved from a distance. Leo turned, smiling. "Hey!"
 
-Gav and Enzo didn't even flinch. He hung his coat and approached them. 
+Gav and Enzo didn't even flinch. He hung up his coat and approached them.
 
 "Hey," Taiga said more softly, gently patting Leo's lower back as he stood beside him. "Who's winning?"
 
-"It's a tie for now. This is the last match, they bet a pizza on this."
+"It's a tie for now. This is the last match. They've bet a pizza on it."
 
 "My bet's on Enzo," Evan said.
 
 "I-I think Gav's got this," Scott replied.
 
-Taiga looked at them playing. Gav looked like he knew was he was doing. Enzo, though, was unpredictable enough to make all his tactics useless.
+Taiga watched them play. Gav looked like he knew what he was doing. Enzo, though, was unpredictable enough to make all his tactics useless.
 
 Leo bumped his shoulder. "Wanna bet a pizza as well?"
 
@@ -107,22 +107,21 @@ Leo bumped his shoulder. "Wanna bet a pizza as well?"
 "All I hear are excuses."
 
 "You wouldn't be so cocky if this was a fair challenge."
- 
+
 Leo shrugged. "You can always chicken out."
 
 "Fuck off. It's not gonna work this time."
 
-"Alright, alright. And here I thought you were one that was up for any challenge."
+"Alright, alright. And here I thought you were always up for a challenge."
 
 Taiga looked at the bastard. "The fuck does that mean?"
 
-"Maybe... I should think that you only accept the easy ones?"
+"Maybe... you only take the easy ones?"
 
-A vein started pulsing against his temple. He narrowed his eyes, which only made Leo's grin grow wider.
+A vein started pulsing at his temple. He narrowed his eyes, which only made Leo's grin grow wider.
 
-"Five matches," Taiga said. "First two to let me learn the game. Then, best out of three."
+"Five matches," Taiga said. "First two so I can learn the game. Then, best of three."
 
 Leo put on a smug face and held out his hand. "Deal."
 
-Taiga shook it, staring right at him. 
-
+Taiga shook it, staring right at him.
