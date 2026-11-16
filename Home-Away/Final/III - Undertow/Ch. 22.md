@@ -79,3 +79,29 @@ He glanced at Caleb's empty chair. "...Yeah, a few."
 "So, see you on Sunday, then!"
 
 "Yeah, see you."
+
+***
+
+Somebody had brought a gaming console at Apollo. Taiga found Gav and Enzo locked on the TV when he arrived on Wednesday evening, with Leo, Evan and Scott cheering from behind the couch.
+
+"Hi, guys."
+
+Leo turned, smiling. "Hey!"
+
+Gav and Enzo didn't even flinch. He hung his coat and approached them. 
+
+"Hey," Taiga said more softly, gently patting Leo's lower back as he stood beside him. "Who's winning?"
+
+"It's a tie for now. This is the last match, they bet a pizza on this."
+
+"I like that."
+
+Leo raised an eyebrow. "Wanna bet a pizza as well?"
+
+"You wish. Isn't that *your* console? I have never played the game."
+
+"Eheh, fair enough. Buuut, you might get beginner's luck!"
+
+ 
+
+
