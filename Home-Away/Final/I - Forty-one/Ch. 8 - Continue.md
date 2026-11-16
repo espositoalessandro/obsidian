@@ -4,10 +4,9 @@
 
 Taiga covered his mouth to hide his laugh. Scott wasn't exactly happy.
 
-Aaron raised a hand towards the goal, face red.
-Enzo grinned.
+Aaron raised a hand towards the goal, face red. 
 
-"Thanks for the donation!"
+Enzo grinned. "Thanks for the donation!"
 
 Aaron turned. "Fuck you."
 
@@ -86,7 +85,6 @@ Yeah, he was good.
 
 If only he didn't spend half of his oxygen allowance on talking.
 
-
 ***
 
 Taiga had just pulled a clean shirt over his head when Enzo climbed onto the bench between two rows of lockers.
@@ -102,9 +100,7 @@ Most of the others ignored him.
 
 "Friday. We invade Arcadia."
 
-Aaron looked interested.
-
-"Arcadia is nice."
+Aaron looked interested. "Arcadia is nice."
 
 Enzo pointed and smiled. "One in."
 
@@ -204,20 +200,15 @@ Nora was walking beside him on the way to the library.
 
 "Yes."
 
-Nora narrowed her eyes.
-"Okay, I set that up too easily, my bad."
+Nora narrowed her eyes. "Okay, I set that up too easily, my bad."
 
-Taiga smiled.
-
-"I'm considering going full STEM next semester."
+Taiga smiled. "I'm considering going full STEM next semester."
 
 "I'm not surprised."
 
 "Why?"
 
-She shrugged.
-
-"Instinct."
+She shrugged. "Instinct."
 
 "That's bullshit."
 
@@ -236,15 +227,11 @@ Nora looked at it for a couple of seconds.
 
 "Not yet."
 
-She exhaled.
-
-"You don't need me to tell you that this is basically a CS major, right?"
+She exhaled. "You don't need me to tell you that this is basically a CS major, right?"
 
 "Right, I don't."
 
-Nora chuckled.
-
-"Okay. Anyway, it's a good program."
+Nora chuckled. "Okay. Anyway, it's a good program."
 
 "And you?"
 
@@ -324,7 +311,7 @@ She laughed. "Fuck you."
 
 Taiga reached the station at 6:13. Scott was already there, sitting on a bench.
 
-"So you came?"
+"So, you came?"
 "H-Hey, you came."
 
 They stopped for a second. Both of them had spoken at the same time.
@@ -354,8 +341,7 @@ He ran towards him with his arms open. Taiga remained seated and raised a leg to
 
 "Eheh, alright. But I'm happy you're here!"
 
-It seemed he'd already forgotten about Evan.
-Leo was smiling as well and waved at him.
+It seemed he'd already forgotten about Evan. Leo was smiling as well and waved at him.
 
 "Hey AG. Good to see you!"
 
@@ -580,6 +566,7 @@ Enzo looked around.
 
 Excellent matchmaking logic.
 They started. The game was pretty stupid, but also fun. Targets appeared, moved, then disappeared. They simply had to shoot, reload, or take cover.
+
 Thirty seconds later, they were locked in.
 
 "Left."
@@ -720,8 +707,7 @@ Leo lifted both arms. "SAME AS MINE!"
 "You won't!"
 
 Unfortunately, he was right. His schedule barely fit now.
-They started talking about the Halloween party. Obviously.
-Most of them were fairly hyped for it. Leo was by far the most excited.
+They started talking about the Halloween party. Obviously. Most of them were fairly hyped for it, with Leo being by far the most excited.
 They discussed what costumes they would wear and whether Olympus would shift the quiet hours just for that night.
 
 Then Aaron changed the subject by asking whether anyone already had plans for the break after finals. Sofia was going home, so were Gav and Scott. Being only a couple of hours away by car definitely made the decision easier. Zoe had already booked a vacation in the mountains with her parents.
@@ -753,7 +739,7 @@ Taiga glanced between them.
 
 "So you both decided to come here together?"
 
-"No," Leo said. "We both applied. He found out he got in first, and when my acceptance came through he sent me about fifty messages."
+"Kinda," Leo said. "We both applied. He found out he got in first, and when my acceptance came through he sent me about fifty messages."
 
 "Forty-two," Enzo said.
 
@@ -872,7 +858,7 @@ Taiga locked the phone and put it in his pocket. "I can't walk half naked at the
 
 "Oh, that's cool. What kind of art does he do?"
 
-"I have no fucking idea. I only saw him covered in charcoal."
+"I have no idea. I only saw him covered in charcoal."
 
 They kept talking about camp. Leo asked lots of stuff about activities and his friends.
 Taiga told him he'd spent three summers at Camp Buddy. He avoided most of the details about his second term and just said that camp was in bad shape by then; afterward, he and Yoichi stayed through the off-season to help rebuild the place, and by the third summer the camp was bigger and full again.
@@ -907,7 +893,7 @@ Leo looked over.
 
 Taiga stared.
 
-"I know. Completely unrealistic."
+Leo raised both hands. "I know. Completely unrealistic."
 
 "What happened?"
 
@@ -935,7 +921,7 @@ For a second, the smile settled. Then Leo looked back out the window.
 
 "I know, right? He can be even more extreme than me. But he knows when to say the right things. Or to shut up."
 
-Taiga smiled, but didn't add anything. The campus stop announcement played overhead, and they stood.
+Taiga smiled, but didn't add anything. The Olympus stop announcement played overhead, and they stood.
 
 ***
 
@@ -1019,7 +1005,7 @@ Taiga made a face. "Barely survivable."
 
 Leo chuckled and pressed the button for his elevator.
 
-"Which means fun in Taiga."
+"Which means *fun* in Taiga."
 
 "It's not a language."
 
