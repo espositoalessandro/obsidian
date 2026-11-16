@@ -86,7 +86,7 @@ Somebody had brought a gaming console at Apollo. Taiga found Gav and Enzo locked
 
 "Hi, guys."
 
-Leo turned, smiling. "Hey!"
+Evan and Scott waved from a distance. Leo turned, smiling. "Hey!"
 
 Gav and Enzo didn't even flinch. He hung his coat and approached them. 
 
@@ -94,14 +94,35 @@ Gav and Enzo didn't even flinch. He hung his coat and approached them.
 
 "It's a tie for now. This is the last match, they bet a pizza on this."
 
-"I like that."
+"My bet's on Enzo," Evan said.
 
-Leo raised an eyebrow. "Wanna bet a pizza as well?"
+"I-I think Gav's got this," Scott replied.
 
-"You wish. Isn't that *your* console? I have never played the game."
+Taiga looked at them playing. Gav looked like he knew was he was doing. Enzo, though, was unpredictable enough to make all his tactics useless.
 
-"Eheh, fair enough. Buuut, you might get beginner's luck!"
+Leo bumped his shoulder. "Wanna bet a pizza as well?"
 
+"You wish. Isn't that *your* console? Plus, I have never played this game."
+
+"All I hear are excuses."
+
+"You wouldn't be so cocky if this was a fair challenge."
  
+Leo shrugged. "You can always chicken out."
 
+"Fuck off. It's not gonna work this time."
+
+"Alright, alright. And here I thought you were one that was up for any challenge."
+
+Taiga looked at the bastard. "The fuck does that mean?"
+
+"Maybe... I should think that you only accept the easy ones?"
+
+A vein started pulsing against his temple. He narrowed his eyes, which only made Leo's grin grow wider.
+
+"Five matches," Taiga said. "First two to let me learn the game. Then, best out of three."
+
+Leo put on a smug face and held out his hand. "Deal."
+
+Taiga shook it, staring right at him. 
 
