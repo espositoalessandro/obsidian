@@ -20,9 +20,65 @@ Taiga leaned on the back of his chair. The first golden lights of the sunset wer
 
 "Uh... is next Sunday alright?"
 
-"Of course. Will you be coming alone?"
+"Of course. Anyway, I don't expect this preseason to be too much laborious. The new scoutmasters will arrive for the summer term, but everything's in a good shape here."
 
-"W-What you mean?"
+"Winter didn't break anything?"
 
-"Well, I figured that by now you must have plenty of friends there. If you want to bring someone, feel free to do so. Just tell me before, so we can prepare accommodations."
+"Luckily, not so much. I saw a bit of leakage in some cabins, and all the storage sheds obviously need inventory. We still haven't assessed everything, but I don't expect major problems like the past year."
+
+"Heh, Yoichi's gonna be happy."
+
+"I expect so, even though I doubt that more work would make much of a difference for him."
+
+"Tch. Lazy dog."
+
+"Anyway, how are things on your end?"
+
+"Not bad. New classes are a bit more interesting than the first semester. Soccer is going well, coach is letting me play sometimes in official matches."
+
+"I know, Keitaro sent me some footages of your matches. I'm really impressed, Taiga. I understand nothing about soccer, but seeing you going from zero to playing official matches... I cannot help but feel really proud of you."
+
+Taiga smiled, despite himself. "Yeah, thanks."
+
+"And Hyunjin tells me you are getting pretty involved with Computer Science, am I right?"
+
+"It's... alright. I mean, it's nothing like the stuff Jin showed me this summer. But I don't hate it."
+
+"Ahah, I can imagine. University has a way of making things more... interesting than they look initially."
+
+"Yeah, you can say that."
+
+"Aiden tells me Hiro has the same complain. Sometimes, he liked it better when he cooked here, he said. But I'm assuming that's part of the process of actually learning things."
+
+"Pfft. Hiro complained even in camp's kitchen."
+
+"Well, who knows, maybe next time he'll complain less. By the way, I'm assuming you'll be coming on your own since I haven't heard from the rest."
+
+"Yeah, our spring breaks are scheduled differently. Keitaro told me he was considering coming, but his break is in three weeks or something."
+
+"I see. Oh, speaking of which, how are your classmate and teammates? I never actually heard from you about them."
+
+"Some of them are annoying. Most of them. Others borderline insufferable. A few are..." Taiga paused and gulped. "...Alright." 
+
+Yoshinori laughed. "Looks like you've made lots of friends there."
+
+He glanced at Caleb's empty chair. "...Yeah, a few."
+
+"I'm so glad to hear that. Well, if you want to bring someone with you, just tell me."
+
+"W-what?"
+
+"Here, I mean. At camp. If you want to bring a friend for the break, we got plenty of space. Tell me before Sunday, so we can prepare accommodations."
+
+For some stupid reason, his heartbeat suddenly increased.
+
+"R-right. No, I think I'll come on my own."
+
+"As you wish. For now, I'll account just for you until you tell me otherwise."
+
+"Alright."
+
+"So, see you on Sunday, then!"
+
+"Yeah, see you."
 
