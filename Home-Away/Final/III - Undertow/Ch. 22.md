@@ -182,7 +182,7 @@ Enzo shrugged. "Apparently. Maybe we can spend a day at Santomarino, but I dunno
 
 "It's official then," Leo said.
 
-"Yeah. I called them yesterday."
+"Yeah. I called them on Sunday."
 
 Enzo leaned back on his chair. "Ugh, I almost envy you. At least you can get out of there."
 
