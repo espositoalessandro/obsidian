@@ -194,9 +194,9 @@ Taiga smiled. "Figured."
 
 "Oh, I dunno," Leo said, "I'd still consider it better than campus, honestly."
 
-Taiga looked at him. Did he really mean it? No, he probably didn't know what he was talking about. Or, he said that just because he was let down by the busted vacation.
+Taiga looked at him but Gav replied before he could answer.
 
-Gav took a sip from his glass. "Well, at least' there's still the Symposion. You guys coming, right?"
+"Well, at least' there's still the Symposion. You guys coming, right?"
 
 "When is that again?" Evan asked.
 
