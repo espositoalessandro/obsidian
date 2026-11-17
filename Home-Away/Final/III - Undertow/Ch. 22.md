@@ -125,3 +125,98 @@ A vein started pulsing at his temple. He narrowed his eyes, which only made Leo'
 Leo put on a smug face and held out his hand. "Deal."
 
 Taiga shook it, staring right at him.
+
+"So, what's the goal?"
+
+Leo pointed at the screen. "You either kick your opponent out of the platform or beat him enough to knock him out. Three lives each."
+
+"Looks simple enough."
+
+Taiga quickly learned that it was easier said than done. Leo let him basically do whatever he wanted for the first two games. Near the end of the second one, Taiga asked for a 'real world demonstration of an actual fight', but Leo had evidently restrained himself.
+
+He showed no mercy when the first actual game started. The rest of the guys tried cheering for him, but Taiga got knocked out two times before making Leo's damage reach 50%. He managed to recover a bit toward the end, but he still lost the game while Leo still had two stocks.
+
+Unsurprisingly, he ended up owing Leo a pizza. Second game was better, but definitely not enough.
+
+When the game ended, Taiga dropped his joycon on the couch and looked at Leo in resignation. 
+
+"Fine. But this doesn't end here."
+
+"I'm up for a rematch whenever you want."
+
+"Later, now I'm hungry."
+
+"Alrighty. A pizza would be nice right now, wouldn't it?"
+
+Taiga squinted his eyes. "Just you wait for it."
+
+***
+
+The pizza guy arrived half an hour later. Taiga and Enzo sighed as they payed double the price, while Gav and Leo fist-bumped behind them with a grin.
+
+"I swear," Gav said, "free pizza tastes different."
+
+Leo answered with a mouthful. "Totally agreed."
+
+Enzo glared at them but, incredibly, he said nothing. Instead, he turned to Evan.
+
+"So, have you figured out if you're in? Break starts in four days and we still haven't book a thing!"
+
+Evan scratched his head. "I don't think, dude. Finals are just a bit more than a month away and I got too much work to do. I can't slack off for the entire break, graduation is not free."
+
+Enzo made a disappointed face. "That leaves the three of us basically."
+
+"At that point, honestly I'd save those money to do something in summer. Maybe there'll be more of us," Gav said.
+
+Leo nodded. "Yeah, I agree."
+
+"So you're just staying here?" Taiga asked.
+
+Enzo shrugged. "Apparently. Maybe we can spend a day at Santomarino, but I dunno how worth that is in spring."
+
+"It's not bad," Evan said, "But yeah, it's way better in summer. Worth a day out, that's for sure."
+
+"And you, Taiga?" Gav asked.
+
+"I'll leave Sunday for camp."
+
+"It's official then," Leo said.
+
+"Yeah. I called them yesterday."
+
+Enzo leaned back on his chair. "Ugh, I almost envy you. At least you can get out of there."
+
+"It's gonna be mostly work, you know. We need to fix what broke in winter."
+
+"I take that back. I don't envy you anymore."
+
+Taiga smiled. "Figured."
+
+"Oh, I dunno," Leo said, "I'd still consider it better than campus, honestly."
+
+Taiga looked at him. Did he really mean it? No, he probably didn't know what he was talking about. Or, he said that just because he was let down by the busted vacation.
+
+Gav took a sip from his glass. "Well, at least' there's still the Symposion. You guys coming, right?"
+
+"When is that again?" Evan asked.
+
+"This Friday."
+
+"Shit, already? Of course, though. Symposions are sick, you'll see."
+
+"Will the really supply us the uniforms?" Leo asked.
+
+"Yep. Everyone can choose theirs, obviously, but athletes are required to wear the color of their House. I believe Mercer will deliver them after Friday's training."
+
+Taiga frowned. "Uniforms?"
+
+"Yes, it's a themed party. Everyone will be wearing a toga."
+
+"Of course."
+
+Evan smiled. "It's one of the oldest Olympus tradition, from what I've heard. Even professors attend, although they have their own section."
+
+Taiga imagined Mercer in a toga dancing with Rao. He felt a mixture of horror and amuse.
+
+
+
