@@ -228,5 +228,7 @@ Ten minutes and lots of impressions later, Taiga's cheeks were hurting from the 
 
 ***
 
+Rao turned off the projector and closed his laptop.
 
+"Okay, that's all everyone. Have a fun break and come back ready for the finals."
 
