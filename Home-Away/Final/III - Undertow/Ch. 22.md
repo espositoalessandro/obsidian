@@ -218,5 +218,15 @@ Evan smiled. "It's one of the oldest Olympus tradition, from what I've heard. Ev
 
 Taiga imagined Mercer in a toga dancing with Rao. He felt a mixture of horror and amuse.
 
+As if Leo had read his mind, he said, "How do you imagine Mercer when he's drunk?"
+
+"Either he hugs everyone or he corrects everyone's position on the dance floor," Enzo answered without hesitation.
+
+Everyone laughed and Gav said imitating his voice, "Professor! You're not scanning properly!"
+
+Ten minutes and lots of impressions later, Taiga's cheeks were hurting from the laughing.
+
+***
+
 
 
