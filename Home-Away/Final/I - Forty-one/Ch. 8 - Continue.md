@@ -293,7 +293,7 @@ There was a hint of mockery in her tone.
 
 "That sounded threatening."
 
-She simply shrugged. "I want to see them too."
+She simply shrugged. "I want to see them again."
 
 "This doesn't justify the military tone."
 
@@ -664,8 +664,6 @@ Taiga tried to avoid getting pulled in, but inevitably Zoe asked him.
 
 Taiga shrugged. "You never asked."
 
-Again. Fucking Caleb-virus.
-
 "Fair, so?"
 
 "Political Institutions, Calculus and Foundations of Computer Science."
@@ -765,7 +763,7 @@ Leo laughed. "She has never said that."
 
 Taiga kept looking at them. He had never really thought about how far Leo and Enzo had come to be here.
 
-He went back to eat. For a while, he and Leo got trapped listening to Gav explain why openings were both useless and important in chess. Even Leo barely contributed.  
+He went back to eating. For a while, he and Leo got trapped listening to Gav explain why openings were both useless and important in chess. Even Leo barely contributed.  
 Then Leo stood, announcing he needed the bathroom.
 
 Taiga registered the escape tactic, even if Gav barely noticed that one of them went missing.
@@ -955,7 +953,7 @@ They had arrived at the dorms. The others had already entered, but they stayed o
 
 "You kept shooting at his feet," said Taiga.
 
-"I thought he'd lost his balance. Modern games do that!"
+“I thought that would knock him over. Modern games do that!”
 
 "Except it was an arcade."
 
