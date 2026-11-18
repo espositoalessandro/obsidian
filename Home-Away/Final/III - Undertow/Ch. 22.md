@@ -18,7 +18,7 @@ Taiga leaned back in his chair. The golden light of sunset shone through the win
 
 "When are you coming?"
 
-"Uh... is next Sunday alright?"
+"Uh... is Saturday alright?"
 
 "Of course. Anyway, I don't expect this preseason to be too laborious. The new scoutmasters will arrive for the summer term, but everything's in good shape here."
 
@@ -68,7 +68,7 @@ He glanced at Caleb's empty chair. "...Yeah, a few."
 
 "W-what?"
 
-"Here, I mean. At camp. If you want to bring a friend for the break, we've got plenty of space. Tell me before Sunday, so we can prepare accommodations."
+"Here, I mean. At camp. If you want to bring a friend for the break, we've got plenty of space. Tell me before Saturday, so we can prepare accommodations."
 
 "...Right. No, I think I'll come on my own."
 
@@ -76,7 +76,7 @@ He glanced at Caleb's empty chair. "...Yeah, a few."
 
 "Alright."
 
-"So, see you on Sunday, then!"
+"So, see you on Saturday, then!"
 
 "Yeah, see you."
 
@@ -178,7 +178,7 @@ Enzo shrugged. "Apparently. Maybe we can spend a day at Santomarino, but I dunno
 
 "And you, Taiga?" Gav asked.
 
-"I'll leave Sunday for camp."
+"I'll leave Saturday for camp."
 
 "It's official then," Leo said.
 
@@ -228,7 +228,204 @@ Ten minutes and lots of impressions later, Taiga's cheeks were hurting from the 
 
 ***
 
-Rao turned off the projector and closed his laptop.
+Friday morning, Rao turned off the projector and closed his laptop.
 
-"Okay, that's all everyone. Have a fun break and come back ready for the finals."
+"Okay, that's all everyone. Have a fun break, relax and... come back ready for the finals."
+
+The last phrase caused lots of groaning in the classroom. 
+
+"He didn't need to ruin it," Leo complained.
+
+Taiga closed his laptop and put it in his bag. "That's professors specialty."
+
+"Well, there's not much to ruin for me anyway."
+
+"Why don't you just go home?"
+
+Leo grabbed his bag and they started toward the exit. "I thought about it, but... would that really make sense? I mean, I'd spend three to four days traveling and spend a ton of money for what? Six or seven days at home?"
+
+"Right."
+
+"Welp, see you later at the cafeteria?"
+
+"Yeah, sure."
+
+Taiga watched Leo putting on his headphones and disappearing downstairs. He adjusted the strap on his shoulder and went to the Calculus classroom.
+
+***
+
+"...so I tried telling her, but she just wouldn't listen. I swear, Zoe is such an airhead sometimes."
+
+Taiga took a sip from his cup. "She'll get it, eventually. Maybe she just needs to face it herself."
+
+Leo stared at his empty cup for a couple of seconds. "I wonder why people cannot see what's happening until it happens."
+
+"Can you?"
+
+"Probably not, I guess. But for fuck's sake, could you at least trust a friend? I mean, he's so obviously into her and she keeps repeating *we're just friends bla bla*."
+
+"Well, if he is, their friendship is already ruined anyway."
+
+"But at least he won't be given any false hope."
+
+"And you say she's not even remotely interested in him? What if she keeps him around because..."
+
+"I don't think so, honestly. But I've never seen Zoe interested in someone anyway, so I probably wouldn't be able to recognize it."
+
+"Right."
+
+"Anyway," Leo said after a pause. "You're leaving tomorrow, right? What time?"
+
+"Train's at ten. It takes almost three hours to get there, so I took the first one available at a sensible time."
+
+"Right, leaving at six after a party doesn't seem like a good idea."
+
+"Yeah."
+
+Taiga fiddled with his cup for a second. His heart was now doing something stupid enough that he almost got angry at it
+
+"I was thinking... Would you like to... uh..."
+
+Leo looked up. "...What?"
+
+Come on, stupid brain. 
+
+"You could come... if you want."
+
+Leo blinked. "Where- wait, you mean... with you? At Camp Buddy?"
+
+Taiga gulped and nodded.
+
+Leo stared at his cup for a moment. "You're... serious?"
+
+“Why wouldn't I be?”
+
+“I don't know? Because it's your place.”
+
+The words made Taiga pause.
+
+Leo immediately expanded. “I mean, your people. Your whole—” He gestured. “—thing?”
+
+Taiga chuckled. “Very articulate.”
+
+“I'm still processing.”
+
+“Yeah, clearly.”
+
+Leo looked at him. Taiga could almost see the question multiplying.
+
+“But as I said, it's preseason,” he added.
+
+Leo ignored him. “You're... actually asking me to come for the week?”
+
+For a moment, the instinct of softening it almost took over. Camp always needed volunteers, afterall.
+
+“...Yeah.”
+
+Leo went quiet, not long, just enough that Taiga felt it. Then:
+
+“Yeah. Okay.”
+
+Taiga frowned. “Okay?”
+
+“Yes.”
+
+“That was fast.”
+
+Leo laughed. “No, it wasn't. I just—yeah. I want to.”
+
+The answer was simple enough to make something warm move under Taiga's ribs.
+
+"There will be work, though."
+
+“You keep saying that like you're trying to make it less appealing.”
+
+"It is. You're gonna carry lumber in a forest."
+
+Leo flexed his arms. "I got arms!"
+
+"Debatable."
+
+"Hey, I am an athlete!"
+
+"You play soccer."
+
+“Exactly. My arms are ornamental, but serviceable.”
+
+Taiga snorted. "You're... really sure?"
+
+Leo pulled out his phone. "Definitely. So, which train?"
+
+"Wait, hold on, let me first call them."
+
+He found Yoshi's contact and called him.
+
+"Hello, Taiga!"
+
+"Hey Yoshi, uh- is it okay if a friend comes with me tomorrow?"
+
+"But of course! I'm glad. Will you share the cabin?"
+
+"I-I suppose."
+
+"Good, will they help as well?"
+
+"Yeah."
+
+"Then just send me the full name, birthplace and birth date and I'll register them."
+
+"Right. Thanks Yoshi."
+
+"No problem. Just..."
+
+Taiga heard a sigh.
+
+"Aiden pressed me to say that he knew it."
+
+"Tell him to fuck off."
+
+Leo snorted. 
+
+"Ahah. I can't promise to deliver those exact words, but I'll tell the message. See you two tomorrow then!"
+
+"Yeah. See you."
+
+He hung. "Okay, done it."
+
+"Great!"
+
+Five minutes later, Taiga was still processing what just happened, but Leo had his train ticket.
+
+"So, your friends will be there too?"
+
+"No, just Yoichi. He lives there."
+
+"Right. The big one with the dog?"
+
+"Him."
+
+"Okay. I'm gonna need a packing list."
+
+“You need a packing list?”
+
+“Yes, because if I pack wrong, you're going to spend nine days being smug.”
+
+"I will be smug anyway when you'll complain about work."
+
+“I would never.”
+
+“You absolutely will.”
+
+“Okay, but I'll complain with dignity.”
+
+"Yoichi is gonna insult you even more, then."
+
+"I'll consider that a cultural immersion."
+
+Taiga lightly kicked him under the table and smiled. 
+
+"Come on, let's go eat."
+
+***
+
 
