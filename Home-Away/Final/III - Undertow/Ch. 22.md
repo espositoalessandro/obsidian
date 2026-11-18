@@ -428,4 +428,3 @@ Taiga lightly kicked him under the table and smiled.
 
 ***
 
-
