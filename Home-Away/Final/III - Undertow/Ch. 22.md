@@ -380,13 +380,13 @@ He found Yoshi's contact and called him.
 
 Taiga heard a sigh.
 
-"Aiden pressed me to say that he knew it."
+"Aiden requested me to say that he called it."
 
 "Tell him to fuck off."
 
 Leo snorted. 
 
-"Ahah. I can't promise to deliver those exact words, but I'll tell the message. See you two tomorrow then!"
+"Ahah. I can't promise to deliver those exact words, but I'll report the intention. See you two tomorrow then!"
 
 "Yeah. See you."
 
