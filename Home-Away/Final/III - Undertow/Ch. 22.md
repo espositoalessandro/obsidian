@@ -264,7 +264,7 @@ Leo stared at his empty cup for a couple of seconds. "I wonder why people cannot
 
 "Probably not, I guess. But for fuck's sake, could you at least trust a friend? I mean, he's so obviously into her and she keeps repeating *we're just friends bla bla*."
 
-"Well, if he is, their friendship is already ruined anyway."
+"Well, if he is, their friendship is already gone anyway."
 
 "But at least he won't be given any false hope."
 
