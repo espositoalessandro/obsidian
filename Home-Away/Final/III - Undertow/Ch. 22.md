@@ -434,7 +434,7 @@ Taiga lightly kicked him under the table and smiled.
 **Taiga:** how tf did you tie these fkin sandals
 
 **Leo:** badly probably
-**Leo:** laces should go all the way up
+**Leo:** laces should go all the way up to your shin
 
 He sent a reference photo he had used.
 Taiga looked at it, then down at his feet. Not even close.
@@ -449,9 +449,9 @@ They were all wearing the same toga as him: a yellow cloak with a white tunic th
 
 "Oh, there he is. You made it!" Leo said.
 
-He had looked himself into the mirror, but it was only when he saw Leo that he realized how much skin exposed the toga left. He forced his eyes up.
+He had looked himself into the mirror, but it was only when he saw Leo that he realized how much skin the toga had left exposed. He forced his eyes up.
 
-"Yeah. Enzo and Aaron?"
+"Enzo and Aaron?"
 
 "Aaron already left with Sofia," Evan said. "Enzo should be on his way."
 
