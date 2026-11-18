@@ -428,3 +428,33 @@ Taiga lightly kicked him under the table and smiled.
 
 ***
 
+**Leo:** you ready?
+
+**Taiga:** no
+**Taiga:** how tf did you tie these fkin sandals
+
+**Leo:** badly probably
+**Leo:** laces should go all the way up
+
+He sent a reference photo he had used.
+Taiga looked at it, then down at his feet. Not even close.
+
+**Taiga:** i'm wearing my sneakers
+
+**Leo:** 😂 fair but unadvised unless you want to be pointed at
+
+Ten minutes later, he managed to achieve something that resembled the photo.
+When he went downstairs, he found Leo, Gav and Scott sitting on a couch in the common room. 
+They were all wearing the same toga as him: a yellow cloak with a white tunic that came down to mid-thigh and a ridiculous gold sun on the belt. The edge of Taiga's buckle had dug into his stomach the whole walk over. 
+
+"Oh, there he is. You made it!" Leo said.
+
+He had looked himself into the mirror, but it was only when he saw Leo that he realized how much skin exposed the toga left. He forced his eyes up.
+
+"Yeah. Enzo and Aaron?"
+
+"Aaron already left with Sofia," Evan said. "Enzo should be on his way."
+
+
+
+
