@@ -553,3 +553,125 @@ Gav nodded. "The ginger one is unsettling"
 
 Taiga stared at him narrowing his eyes. He smiled and bumped his shoulder into Taiga's, but didn't say anything. 
 
+[they meet with nora and zoe. After eating, they head towards the dance floor. They start dancing until they eventually got separated from the rest of the team. They regroup with Nora and Zoe at the bar, and take a few drinks.]
+
+Zoe raised her cup. "Cheers!" 
+
+Taiga took a sip. Why does anyone put so much sugar in drinks? It was more enjoyable than whatever shit Enzo tried to make at Apollo, anyway.
+They chatted a bit while resting on a low wall at the edge of the entrance area, far enough from the speakers to be able to talk without shouting.
+
+"...and when he saw me, he asked me for a dance. I was, like, alright? I mean, it sounded normal. Then two minutes later he suddenly tried to kiss me! Me!"
+
+Leo lowered his cup and gulped. "I don't want to say I told you but..."
+
+"Yeah, then don't say it. Gosh, now I feel like an idiot! How long has this been going on? Ugh."
+
+"Well... to be honest, from what you said it doesn't seem like you gave him any explicit signal, right?" Nora asked.
+
+"I don't think... but maybe I could have been clearer? Like, more direct? GOD! Looking back, now all the things he did make sense."
+
+"What did you tell him?" Taiga asked.
+
+"I panicked and I just pushed him away. Then he looks at me and just say *I'm sorry* before running off..."
+
+"Welp. That sucks," Leo admitted.
+
+"Thank you, Leo."
+
+"Look, it's not like you're responsible for his heartbreak. You could not avoid that."
+
+Zoe sighed and emptied his cup in a big sip. "Fuck it. You're right, I'm just sorry that he probably got the party ruined."
+
+Taiga noticed her eyes were shinier than usual. He couldn't tell if it was for the drink.
+Nora looked at her for a second, then emptied her cup as well and grabbed Zoe's sleeve.
+
+"Come on, let's dance. Nothing you can do about that now."
+
+Zoe didn't complain and followed her back on the dance floor.
+
+"Like you said," Leo said, looking at them going, "she had to face herself."
+
+Taiga took a drink. "Unfortunately."
+
+His eyes kept falling on Leo's exposed shoulder, before he forced them back in the cup. He blamed the drink.
+
+Leo was fiddling with the cup in his hand. "Anyway."
+
+"Mh?"
+
+"I... still can't believe we're really going to Camp Buddy tomorrow."
+
+Taiga smiled. "You're so happy to do manual labour?"
+
+"Dumbass. You know what I mean."
+
+He looked down at his drink. "Yeah."
+
+Actually, Taiga had been looking forward for tomorrow all day as well. Although the thought of spending more than a week with Leo at camp excited him... he couldn't help but wonder how it would turn out. And that had made him a bit anxious as well.
+
+"Speaking of which. Do I need actual working pants?"
+
+"What are fake work pants?"
+
+"Jeans I'm willing to sacrifice?"
+
+Taiga snorted. "Yeah, that'll do."
+
+"Great, so tribute jeans it is."
+
+"Oh, and also."
+
+"What."
+
+"Does camp have WiFi?"
+
+Taiga shoved him on his shoulder. "Stay home."
+
+Leo laughed hard. "NO! I ACCEPT THE WILDERNESS!"
+
+"You'll be found dead in the woods on the second day."
+
+"Wh- Are there, like, wolves or bears?"
+
+Taiga blinked. "What if I say yes?"
+
+"I might have to reconsider what I tell my mother."
+
+"We'll send her whatever remains of you."
+
+"That's dark."
+
+Taiga shrugged. "You wanted wilderness."
+
+"Ugh, I can't pass away before I even got laid."
+
+It took Leo a couple of seconds of awkward silence from Taiga to realize.
+
+"GAH- I d-don't know why I even said that. Forget it."
+
+"Y-you mean you never...?"
+
+It was dark, but Leo's face had become red enough for Taiga to notice.
+
+"W-well... I might have... you know... fooled around a bit, but... no. I never did... *it*."
+
+Then he buried his face in his cup.
+
+Taiga looked down. He had never thought about it. About Leo's previous private life or experiences. For some reason though he felt... relieved? 
+
+He took a breath and forced a normal voice. "I see."
+
+They stood in silence for a while, until their cups emptied.
+
+Leo took a last sip. "Well, I hope Nora was able to cheer Zoe up a bit."
+
+Taiga looked up at the dance floor and his eyes widened. "I think... she was."
+
+"What- Oh."
+
+The girls were standing at the edge of the crowded floor, passionately making up. Like, really passionately.
+
+They both took a sip, even though their cups were empty.
+
+
+
