@@ -455,6 +455,101 @@ He had looked himself into the mirror, but it was only when he saw Leo that he r
 
 "Aaron already left with Sofia," Evan said. "Enzo should be on his way."
 
+Enzo arrived five minutes later. "Apologies! Okay let's go, I'm starving."
 
+"It's six," Gav pointed out.
 
+"Snack time! Come on, I can smell fries from the food stalls from here."
+
+Central park was surrounded by small stalls selling all kinds of food. Most of them were run by members of clubs to raise funds. 
+
+[filler scene]
+
+Suddenly a familiar voice shouted from behind. "ENZO!!"
+
+They turned and saw Yuuto waving with both hands a few meters behind. He approached immediately. A pink cape and a House Artemis buckle on the belt made his toga slightly different from theirs.
+
+"Yo, my man! How are you doing?"
+
+"Oh, hey Yuuto!" Enzo answered, "I'm great, you?"
+
+"Same same! This party is sick, man, I love it!"
+
+"I know, right? It's freaking cool. Although I'm kinda having trouble in finding people. We all look the same, ahahah!"
+
+"Oh don't tell me. I figured it was you because suddenly there's a bunch of dudes in yell-"
+
+"Hey, perv. Are you done wastin' time there? You said you knew where the beer stall was."
+
+A big, muscular ginger guy appeared beside Yuuto, in an orange cape and a Dionysus emblem.
+
+"Yeah, I do! I just found a couple of friends of mine! Guys, this is Bryce. He's from the wrestling team!"
+
+Bryce glanced quickly at them before returning to Yuuto. "Yeah, great. Now can we go?"
+
+"There's no reason to rush, Bryce. The beers are not going anywhere."
+
+Another big guy appeared behind him. Even bigger than Bryce, if possible, with red hair and a red cape from House Ares.
+
+"Tch. I hate wasting time."
+
+The red guy ignored him. "Hello, I'm Derek. Don't mind this hothead here, I apologize for his rudeness. I assume you are from the Apollo Soccer Team?"
+
+"That's us!" Evan said.
+
+"Yeah and this one is the friend of mine I told you about." Yuuto said, pointing at Enzo.
+
+"Then it's a pleasure to make your acquaintance. I hope Yuuto didn't bring you much trouble."
+
+"Eheh, it's alright. I got used to him by now."
+
+A tall guy with brown skin, sharp eyes and purple hair put a hand over Yuuto shoulder.
+
+"Oh, my. Yuuto, why didn't you mention you were hiding such a group of cuties?"
+
+"C-Cuties?" Leo said.
+
+The guy stared at him for a second in a way that Taiga didn't like.
+
+"Yeah, definitely. And a little sunshine as you fits almost perfectly in the description, I'd say~"
+
+Now something uncomfortable shifted inside Taiga. He definitely didn't like him.
+
+Before he could think, he said, "Sorry... who the heck are you?"
+
+"Oh, right, where are my manners. My name is Zayne, it's an incredible pleasure to meet you all."
+
+Then he not so subtly winked at Leo. Okay, now he was doing that on purpose. When he saw that Leo was slightly red, a vein started pulsing on his temple. Who the fuck did this guy think he was?
+
+Mercifully for Zayne, Derek intervened before Taiga could answer. 
+
+"Come on, Zayne. Don't fluster people like that. Besides, I don't see Ace. Where is he?"
+
+"I-I'm here!" Said the guy named Ace, appearing from behind him. Much smaller than the rest of them, he had a generic cloak with Olympus' colors.
+
+"Bet you were perving on someone, weren'tcha?" Bryce grunted. 
+
+"W-What? No! I swear! I was just talking to Matt before I noticed you guys were gone."
+
+Zayne put a hand on his cheek. "Aw, poor little Ace. Don't worry, we would never leave you."
+
+Suddenly Ace's face was redder then Taiga's hair and he appeared to have lost his ability to speak. 
+
+"By the way," Enzo asked Yuuto, "Where's Avan?"
+
+"Avan? Oh, he's doing his boring president-y things around campus. Bet you'll find him giving speeches here and there. Anyway, these are my pals!"
+
+Yuuto pointed at the group that just appeared.
+
+"Now before Bryce kills me, we'll to to the beer stall! See you around then, guys!"
+
+Enzo waved him off. "Yeah, later!"
+
+Taiga could not contain himself anymore. "What the fuck is wrong with these people?"
+
+Gav nodded. "The ginger one is unsettling"
+
+"They're... intense," Leo added.
+
+Taiga stared at him narrowing his eyes. He smiled and bumped his shoulder into Taiga's, but didn't say anything. 
 
