@@ -222,7 +222,7 @@ Then Natsumi, Lee and Eduard arrived.
 
 ...Never mind.
 
-Natsumi had gone with a proper suit, even a freaking bow tie. Lee also had a simple shirt, but he went heavy with the gel on his hair.
+Natsumi had gone with a proper suit, even a freaking bow tie. Lee also had a simple shirt, but he went heavy on the hair gel.
 
 Then there was Eduard.
 He appeared from the platform dressed like he'd misunderstood *student art exhibition* as *fashion week*.
@@ -385,7 +385,7 @@ Hiro scratched his head. "I totally get him. When my professors taste what I coo
 
 "Because you're a fucking drama queen, Torch-Head."
 
-"And you have the sensibility of a cat, with the brain of a dog."
+"And you have the sensitivity of a cat, with the brain of a dog."
 
 Natsumi stepped between them. "Okay, don't start you two."
 
