@@ -665,13 +665,11 @@ They stood in silence for a while, until their cups emptied.
 
 Leo took a last sip. "Well, I hope Nora was able to cheer Zoe up a bit."
 
-Taiga looked up at the dance floor and his eyes widened. "I think... she was."
+Taiga looked up at the dance floor and his eyes widened. "I think... she did."
 
 "What- Oh."
 
-The girls were standing at the edge of the crowded floor, passionately making up. Like, really passionately.
+The girls were standing at the edge of the crowded floor, passionately making out.
+Like, really passionately.
 
-They both took a sip, even though their cups were empty.
-
-
-
+They stared for a couple of seconds, then both took a sip from their already empty cups.
