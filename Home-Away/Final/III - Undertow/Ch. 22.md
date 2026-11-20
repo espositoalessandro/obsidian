@@ -551,7 +551,39 @@ Gav nodded. "The ginger one is unsettling"
 
 Taiga stared at him narrowing his eyes. He smiled and bumped his shoulder into Taiga's, but didn't say anything. 
 
-[they meet with nora and zoe. After eating, they head towards the dance floor. They start dancing until they eventually got separated from the rest of the team. They regroup with Nora and Zoe at the bar, and take a few drinks.]
+Nora and Zoe found them halfway down the row of food stalls, just as Enzo was trying to convince Scott that buying two trays of fries counted as sharing.
+
+“Hey,” Zoe said, reaching between them for a fry.
+
+Enzo pulled the tray back. “You just got here.”
+
+“And you already have two.”
+
+“One's for Scott.”
+
+Scott held out his hand. Enzo looked down at it, sighed, and gave him the tray.
+
+Nora had found a spot on the grass where they could eat without getting in anybody's way. By the time they finished, the music from the entrance plaza was loud enough that Leo recognized the song from across the park. He sang half a line before Zoe joined in. Neither of them sounded particularly good.
+
+“It's worse when there are two of you,” Taiga told him.
+
+Leo grinned and sang the next line louder.
+
+They made it onto the dance floor together. For the first song, Taiga could still see most of them. Gav was trying to get Scott to do something with his arms, and Enzo kept getting halfway through a move before bumping into somebody. Then a bunch of people came through between them, and by the time Taiga got a clear view again, the yellow cloak he'd been keeping track of belonged to a guy he'd never seen before.
+
+He turned to Leo. “Where the fuck did everyone go?”
+
+Leo leaned closer. “What?”
+
+Taiga pointed at the stranger in yellow. Leo looked around, laughed, and pointed past him. Zoe was waving at them from the bar, with Nora already halfway to the counter.
+
+They squeezed their way out to join them. By the time they got there, Zoe had found the only gap at the counter wide enough for one person and was making the most of it.
+
+“What are we drinking?” she called back.
+
+“Whatever's fastest,” Taiga said.
+
+“Perfect. Four of those, please.”
 
 Zoe raised her cup. "Cheers!" 
 
