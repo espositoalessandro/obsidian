@@ -331,7 +331,7 @@ Taiga opened his mouth. Nothing came out. Fantastic.
 
 He stared at his hands. Then he closed his eyes. There was no way around it.
 
-"You weren't wrong. About me wanting you around."
+"You weren't wrong. About me... wanting you around."
 
 Still nothing from Leo. Jesus.
 
@@ -475,13 +475,9 @@ He kicked a stone on the pavement.
 
 The vivid image of that day was still incredibly clear in his mind. The worst day of his life.
 
-"After that, things fell apart for me. People avoided me. Some of them started fucking with me because they knew nobody would believe me. They started ambushing me in bathrooms and bullying me because they didn't know the truth."
+"After that, things fell apart for me. People avoided me. Some of them started fucking with me because they knew nobody would believe whatever I'd said. They started ambushing me in bathrooms and bullying me because they didn't know the truth."
 
 Leo was quiet for a moment.
-
-"Now I understand why you wanted to stay as a volunteer."
-
-"Yeah."
 
 "What about your boyfriend?"
 
