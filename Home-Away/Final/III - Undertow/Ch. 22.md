@@ -282,25 +282,27 @@ Leo stared at his empty cup for a couple of seconds. "I wonder why people cannot
 
 "Yeah."
 
+He leaned with his back to the chair. "Well, send me photos. It's gonna be pretty boring around here."
+
 Taiga fiddled with his cup for a second. His heart was now doing something stupid enough that he almost got angry at it
 
-"I was thinking... Would you like to... uh..."
+"W-Well, you could... uh..."
 
 Leo looked up. "...What?"
 
-Come on, stupid brain. 
+Come on, stupid brain. He cleared his voice and tried again.
 
 "You could come... if you want."
 
-Leo blinked. "Where- wait, you mean... with you? At Camp Buddy?"
+"Where- wait, you mean... with you? At Camp Buddy?"
 
 Taiga gulped and nodded.
 
-Leo stared at his cup for a moment. "You're... serious?"
+Leo froze for a moment. "You're... serious?"
 
 “Why wouldn't I be?”
 
-“I don't know? Because it's your place.”
+“I-I don't know? Because it's your place.”
 
 The words made Taiga pause.
 
@@ -312,7 +314,7 @@ Taiga chuckled. “Very articulate.”
 
 “Yeah, clearly.”
 
-Leo looked at him. Taiga could almost see the question multiplying.
+Taiga could almost see the questions multiplying in Leo's very confused face.
 
 “But as I said, it's preseason,” he added.
 
@@ -336,7 +338,7 @@ Leo laughed. “No, it wasn't. I just—yeah. I want to.”
 
 The answer was simple enough to make something warm move under Taiga's ribs.
 
-"There will be work, though."
+"There will be work, though," he repeated.
 
 “You keep saying that like you're trying to make it less appealing.”
 
@@ -366,7 +368,7 @@ He found Yoshi's contact and called him.
 
 "But of course! I'm glad. Will you share the cabin?"
 
-"I-I suppose."
+"Uh... I-I suppose?"
 
 "Good, will they help as well?"
 
@@ -380,7 +382,7 @@ He found Yoshi's contact and called him.
 
 Taiga heard a sigh.
 
-"Aiden requested me to say that he called it."
+"Aiden had requested me to say that he called it."
 
 "Tell him to fuck off."
 
@@ -444,7 +446,7 @@ Taiga looked at it, then down at his feet. Not even close.
 **Leo:** 😂 fair but unadvised unless you want to be pointed at
 
 Ten minutes later, he managed to achieve something that resembled the photo.
-When he went downstairs, he found Leo, Gav and Scott sitting on a couch in the common room. 
+When he went downstairs, he found Evan, Leo, Gav and Scott sitting on a couch in the common room. 
 They were all wearing the same toga as him: a yellow cloak with a white tunic that came down to mid-thigh and a ridiculous gold sun on the belt. The edge of Taiga's buckle had dug into his stomach the whole walk over. 
 
 "Oh, there he is. You made it!" Leo said.
@@ -454,6 +456,12 @@ He had looked himself into the mirror, but it was only when he saw Leo that he r
 "Enzo and Aaron?"
 
 "Aaron already left with Sofia," Evan said. "Enzo should be on his way."
+
+"Where's Caleb?" Leo asked.
+
+"Not coming," Taiga said. "He already left for the break with Maya."
+
+"Aw, that's a shame!"
 
 Enzo arrived five minutes later. "Apologies! Okay let's go, I'm starving."
 
@@ -477,21 +485,21 @@ They turned and saw Yuuto waving with both hands a few meters behind. He approac
 
 "Oh don't tell me. I figured it was you because suddenly there's a bunch of dudes in yell-"
 
-"Hey, perv. Are you done wastin' time there? You said you knew where the beer stall was."
+"HEY, DUMBASS. Are you done wastin' time there? You said you knew where the beer stall was."
 
 A big, muscular ginger guy appeared beside Yuuto, in an orange cape and a Dionysus emblem.
 
-"Yeah, I do! I just found a couple of friends of mine! Guys, this is Bryce. He's from the wrestling team!"
+"I just found a couple of friends of mine! Guys, this is Bryce. He's from the wrestling team!"
 
 Bryce glanced quickly at them before returning to Yuuto. "Yeah, great. Now can we go?"
 
 "There's no reason to rush, Bryce. The beers are not going anywhere."
 
-Another big guy appeared behind him. Even bigger than Bryce, if possible, with red hair and a red cape from House Ares.
+Another big guy appeared beside him. Even bigger than Bryce, if possible, with red hair and a red cape from House Ares.
 
-"Tch. I hate wasting time."
+"Tch. I hate wasting time," Bryce spurted.
 
-The red guy ignored him. "Hello, I'm Derek. Don't mind this hothead here, I apologize for his rudeness. I assume you are from the Apollo Soccer Team?"
+The red guy ignored him. "Hello, I'm Derek. Don't mind this hothead here, I apologize for his rudeness. I assume you guys are from the Apollo Soccer Team?"
 
 "That's us!" Evan said.
 
@@ -517,11 +525,11 @@ Before he could think, he said, "Sorry... who the heck are you?"
 
 "Oh, right, where are my manners. My name is Zayne, it's an incredible pleasure to meet you all."
 
-Then he not so subtly winked at Leo. Okay, now he was doing that on purpose. When he saw that Leo was slightly red, a vein started pulsing on his temple. Who the fuck did this guy think he was?
+Then he not so subtly winked at Leo. Okay, now he was doing that on purpose. When Taiga saw that Leo was slightly red, a vein started pulsing on his temple. Who the fuck did this guy think he was?
 
 Mercifully for Zayne, Derek intervened before Taiga could answer. 
 
-"Come on, Zayne. Don't fluster people like that. Besides, I don't see Ace. Where is he?"
+"Come on, Zayne, cut it. Besides, I don't see Ace. Where is he?"
 
 "I-I'm here!" Said the guy named Ace, appearing from behind him. Much smaller than the rest of them, he had a generic cloak with Olympus' colors.
 
@@ -535,7 +543,7 @@ Suddenly Ace's face was redder then Taiga's hair and he appeared to have lost hi
 
 "By the way," Enzo asked Yuuto, "Where's Avan?"
 
-"Avan? Oh, he's doing his boring president-y things around campus. Bet you'll find him giving speeches here and there. Anyway, these are my pals!"
+"Avan? Oh, he's doing his boring president-y things around campus. Bet you'll find him giving speeches here and there. Anyway, these are my... pals!"
 
 Yuuto pointed at the group that just appeared.
 
@@ -549,7 +557,7 @@ Gav nodded. "The ginger one is unsettling"
 
 "They're... intense," Leo added.
 
-Taiga stared at him narrowing his eyes. He smiled and bumped his shoulder into Taiga's, but didn't say anything. 
+Taiga stared at him narrowing his eyes. Leo smiled and bumped his shoulder into Taiga's, but didn't say anything. 
 
 Nora and Zoe found them halfway down the row of food stalls, just as Enzo was trying to convince Scott that buying two trays of fries counted as sharing.
 
@@ -652,7 +660,7 @@ Leo was fiddling with the cup in his hand. "Anyway."
 
 Taiga smiled. "You're so happy to do manual labour?"
 
-"Dumbass. You know what I mean."
+"Come on, idiot. You know what I mean."
 
 He looked down at his drink. "Yeah."
 
@@ -660,19 +668,17 @@ Actually, Taiga had been looking forward for tomorrow all day as well. Although 
 
 "Speaking of which. Do I need actual working pants?"
 
-"What are fake work pants?"
+"...What are fake work pants?"
 
 "Jeans I'm willing to sacrifice?"
 
 Taiga snorted. "Yeah, that'll do."
 
-"Great, so tribute jeans it is."
-
-"Oh, and also."
+"Great, so tribute jeans it is. Oh, and also..."
 
 "What."
 
-"Does camp have WiFi?"
+"...Does camp have WiFi?"
 
 Taiga shoved him on his shoulder. "Stay home."
 
@@ -696,7 +702,7 @@ Taiga shrugged. "You wanted wilderness."
 
 It took Leo a couple of seconds of awkward silence from Taiga to realize.
 
-"GAH- I d-don't know why I even said that. Forget it."
+"GAH! I didn't mean- I d-don't know why I even said that. Forget it."
 
 "Y-you mean you never...?"
 
@@ -716,9 +722,15 @@ Leo took a last sip. "Well, I hope Nora was able to cheer Zoe up a bit."
 
 Taiga looked up at the dance floor and his eyes widened. "I think... she did."
 
-"What- Oh."
+"What- OH."
 
-The girls were standing at the edge of the crowded floor, passionately making out.
-Like, really passionately.
+The girls were standing at the edge of the crowded floor, not far from them, passionately making out.
+Like, really passionately. With hands going everywhere. Heck, they were almost eating each other.
 
 They stared for a couple of seconds, then both took a sip from their already empty cups.
+
+"Uh... maybe it's time to go?" Leo said.
+
+Taiga nodded vigorously. "Definitely."
+
+
