@@ -1,4 +1,4 @@
-### Chapter 10 - Away
+### Chapter 10 - Home at away
 
 Saturday evening, Olympus had turned Central Park into a fire hazard.
 Strings of orange lights ran between trees. Paper lanterns floated above the main paths. Student groups had stalls around the lawn. Music came from a temporary stage near the fountain. At least fifty actual glowing pumpkins were placed all around the park.

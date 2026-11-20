@@ -1,4 +1,4 @@
-### Chapter 9 - Home
+### Chapter 9 - Away at home
 
 Mercer finally blew his whistle.
 
