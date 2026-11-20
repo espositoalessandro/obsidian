@@ -1,10 +1,10 @@
 # Home/Away - Act III: Undertow - Progression Bible
 
-**Discussion consolidated:** 10 November 2026.
+**Discussion consolidated:** 21 November 2026.
 
 **Chosen act title:** *Undertow*. The older draft title, *Moving On*, is retained only in legacy paths and references.
 
-**Status:** Development plan following the completed Final Act II. The act's purpose and constraints are agreed. The opening three chapters now have agreed event anchors: D&D; Acropolis and dinner with Caleb and Maya; the campus-wide party. The party is the mid-act climax. Detailed scene ladders and the Camp Buddy chapter sequence remain to be developed.
+**Status:** Final Chapters 21 and 22 establish the Olympus opening. The Camp Buddy rewrite follows the working chapter ladder for Chapters 23-29, from Saturday arrival to Sunday departure the following weekend. The detailed staging of individual scenes is still in development.
 
 **Companion reference:** [Taiga Psychology](<Taiga Psychology.md>).
 
@@ -16,8 +16,7 @@ This document records the narrative progression discussed while replanning Act I
 - The revised Act II ending takes precedence over the original draft's relationship timetable.
 - This bible governs the new Act III direction. It does not mean any proposed scene has already been written or approved for Final.
 - The psychology bible contains the fuller character formulation. This file records how that model affects progression, pacing, and the boundary between acts.
-- Original draft chapter numbers are reference identifiers only. The revised opening covers overall Chapters 21-23, also called Act III Chapters 1-3 below. Do not confuse those with original Draft Chapters 22-24.
-- Camp Buddy is recorded here at the level of purpose, relationships, and structural principles. No new daily schedule or chapter-by-chapter camp sequence has been decided.
+- Chapters 21-22 cover the current Olympus opening. Chapters 23-29 are the working Camp Buddy sequence. References explicitly marked Original Draft use the old numbering.
 - Existing manuscripts, other bibles, and calendar files are not silently revised by this document.
 
 ## 2. Why Act III needs a different purpose
@@ -77,7 +76,7 @@ The intended gains are:
 
 These gains can be partial and uneven. The act does not need to erase shame, make all trust effortless, or prevent later setbacks.
 
-By the end, Leo should understand more clearly what Taiga is choosing to pursue with him. The exact agreement remains open. Their first kiss is reserved for Act IV.
+On the last Saturday, Taiga and Leo establish the foundations of their romantic relationship. The substance of that conversation is a shared choice about what comes next. Its exact wording and any label remain open. Their first kiss on the lips belongs to Act IV.
 
 ## 6. What remains for Act IV
 
@@ -110,171 +109,52 @@ Later difficulty must contain evidence of Act III's progress. Asking for space a
 
 Do not make Act III solve the need for perfection so completely that Act IV has no meaningful pressure left. Equally, do not erase Act III's gains to create the later problem.
 
-**Firm milestone boundary:** Taiga and Leo do not have their first kiss in Act III. It belongs to Act IV. This means their first kiss, not merely their first public kiss. The party's interrupted sexual escalation must respect that boundary.
+**Firm milestone boundary:** Taiga and Leo's first kiss on the lips belongs to Act IV. Leo's cheek kiss at the party is already in Final Chapter 22. Sections 15 and 23 record the planned camp intimacy. Exact labels, exclusivity, and the staging of those scenes remain open.
 
-Other physical thresholds, labels, and exclusivity remain to be decided. Do not borrow a later major test just to fill the pre-camp interval. Respecting Leo's Chapter 20 request about their behavior around other people must already begin in Act III; it does not depend on kissing.
+## 8. The interval before camp
 
-## 8. The main pacing constraint: approximately one month before camp
+The rewrite was planned around roughly a month between the post-Pinetree conversation and the spring-break trip. Follow the elapsed time established in Final Chapters 21 and 22 when placing individual scenes.
 
-Approximately a month passes between the post-Pinetree conversation and the Camp Buddy trip. Exact dates and calendar reconciliation remain open; do not import the original draft's dates automatically.
+Taiga begins the act still adjusting to having acknowledged his feelings for Leo. Shared time at Olympus gives him the confidence to ask Leo to spend spring break in a place that matters to him.
 
-**Crucial starting state:** Taiga is not ready to invite Leo to camp immediately after the conversation. He becomes ready over the following weeks. The invitation must result from that progression.
+The Olympus section covers two chapters. Chapter 21 combines the Acropolis outing and the dinner with Caleb and Maya. Chapter 22 covers camp arrangements, the invitation, and the Friday night party. They leave on Saturday morning.
 
-Act II already spent substantial time letting the reader experience the relationship evolving through ordinary routines. Act III can inherit that texture, but the opening should confine renewed awkwardness and everyday adjustment to a couple of selected scenes rather than make them the substance of three more chapters.
+## 9. The Olympus opening in Final
 
-The month needs external events with value of their own. The agreed sequence is D&D, Acropolis and dinner, then a campus-wide party. These provide occasions for the relationship to change through participation, enjoyment, and choices.
+| Chapter | Main events | Relationship movement |
+| --- | --- | --- |
+| 21 - Uncharted paths | Post-Pinetree adjustment, lunch with Nora, Acropolis with Nora and Zoe, and Thai dinner with Caleb and Maya. | The outing and dinner bring back ease and give Taiga a reason to invite Leo into his own space. He ends the day by initiating a hug. |
+| 22 - The invitation | Taiga arranges his camp visit, invites Leo on Friday before the campus-wide party, and attends the party with him that night. | They have a trip to look forward to together. They dance close, Leo kisses Taiga on the cheek, and the night ends with both of them seeing Nora and Zoe kiss. |
 
-The party takes place **three or four days before departure for spring break**. It is the opening section's major payoff and the act's mid-act climax. Taiga invites Leo to camp during the party's aftermath. The remaining days allow practical preparation and anticipation before travel.
+The old three-chapter outline placed D&D first and the party in Chapter 23. The completed opening folds the Acropolis outing and dinner into Chapter 21 and gives Chapter 22 the party and invitation. Camp begins in Chapter 23.
 
-The invitation brings Leo into Taiga's emotional home and old relationships for an extended visit. It is a larger step than sitting beside him in class, and the preceding chapters must earn that readiness.
+## 10. Chapter 21: the return of ease
 
-## 9. Agreed opening chapter progression
+The opening inherits the warmth and awkwardness of Chapter 20. Familiar affection now carries acknowledged meaning. Coffee and the first encounters after the talk let their carefulness register while ordinary university life resumes.
 
-The event anchors below are agreed. Titles, exact dates, internal scene order, and lengths remain open.
+The Wednesday lunch with Nora gives her room for her own interests. The Sunday outing with Nora, Zoe, and Leo pays off the Act I Acropolis thread and lets Taiga spend time with Leo away from their usual routine.
 
-| Revised chapter | Main events | Relationship movement | Ensemble function |
-| --- | --- | --- | --- |
-| Act III 1 / overall 21 | D&D session, with a small amount of post-Pinetree adjustment around it. | Careful interaction can give way to spontaneous enjoyment while they are absorbed in something outside the relationship. Taiga begins choosing Leo's company again with less self-monitoring. | Give Gav room as DM and Zoe agency as an experienced player; use the group's actual personalities. |
-| Act III 2 / overall 22 | Acropolis ruins outing with Nora, Zoe, Leo, and Taiga; dinner with Caleb and Maya. | Taiga increasingly welcomes Leo into shared plans and his own space. Enjoyment becomes wanted inclusion rather than something arranged only by their schedules. | Deepen Nora and Zoe through the outing; bring Caleb and Maya back into focus through a more personal dinner. |
-| Act III 3 / overall 23 | Campus-wide pre-spring-break party; Nora and Zoe kiss; slight interrupted sexual escalation between Taiga and Leo; Taiga invites Leo to Camp Buddy afterward. | Taiga acts on known desire and makes a concrete future choice. They enter the camp section carrying a positive development they have chosen together. | Give the larger university world room, and allow Nora and Zoe's kiss to belong to them as well as affecting Taiga. |
+The earlier D&D session with Gav as DM remains optional source material for another occasion.
 
-The three chapters build toward the party. D&D and Acropolis must still be satisfying events rather than waiting rooms for Chapter 23.
+## 11. Chapter 21: Acropolis and dinner in Room 317
 
-The broad movement remains **rediscovering ease -> actively making room -> extending the invitation**. These functions overlap; they are now carried by external events rather than three chapters of routine romantic observation.
+Nora, Zoe, Leo, and Taiga visit Acropolis. Taiga and Nora already know the ruins from Act I. This outing pays off the earlier Acropolis thread with different company and gives Nora and Zoe more time to be themselves around Leo and Taiga.
 
-Packing and departure may bridge into the following chapter. The party chapter does not have to contain the entire journey to camp.
+Spring break comes up during the outing. Nora and Zoe have space to interact normally ahead of their surprise kiss in Chapter 22.
 
-## 10. Chapter 21: D&D and the return of spontaneous enjoyment
+Caleb texts that Maya ordered too much Thai food. Taiga invites Leo to join them, and the dinner gives Caleb and Maya space for their humor and more personal history. Taiga initiates a hug before Leo leaves. This is a small choice with a visible consequence: Leo has spent part of the day in a space Taiga chose to share with him.
 
-The opening inherits the warmth and awkwardness of Chapter 20. Familiar affection now carries acknowledged meaning, and both boys remember the hurt that preceded the conversation.
+## 12. Chapter 22: the invitation and the campus-wide party
 
-Taiga may monitor himself because Leo knows vulnerable things and because he fears hurting him again. Leo may give more room than he wants to, uncertain how much is useful. Neither needs to doubt that the other's feelings exist.
+Taiga calls Yoshinori on Sunday to arrange preseason volunteering and confirms he can arrive Saturday. Yoshinori says there is room for a guest. By Wednesday, the Apollo group's spring-break plans are falling apart. On Friday, Leo mentions how quiet campus will be and asks for photos. Taiga asks him to come for the week. Leo's surprise that Taiga wants to bring him to his place and his people is part of the invitation's payoff.
 
-A couple of selected ordinary scenes can establish this adjustment. Then let an external activity occupy them.
+The campus-wide party follows that Friday night, the evening before departure. While the boys are dancing, Taiga draws back when they come close to kissing. Leo reassures him with a kiss on the cheek, and Taiga hugs him. They later see Nora and Zoe kissing by the dance floor. This is the social and romantic high point of the Olympus opening.
 
-### D&D session
-
-The working group is Gav as DM, with Taiga, Leo, Zoe, and Scott playing. Zoe is an experienced player. Enzo can pass through or remain in the background if useful; he does not need a principal player slot.
-
-Gav's recruitment and the session already drafted are useful foundations. The session should reveal interests, humor, preferences, and ways of interacting, with room for Zoe to contribute rather than merely explain rules or help Taiga.
-
-Absorption in the game gives Taiga and Leo something to enjoy and react to together. A laugh, an impulsive exchange, or ordinary disagreement can interrupt their carefulness without becoming a therapeutic exercise. Do not make every game choice a coded statement about the romance or a rehearsal of the later conflict.
-
-The gain is that their actual personalities return to the foreground. They can enjoy each other after acknowledgment without continuously evaluating what the encounter means.
-
-### Connection to the coming weeks
-
-Nora's ordinary lunch conversation about spring-break plans can remain as an early holiday seed. Taiga's own camp plans should become established before the party.
-
-The upcoming campus party can enter the social background here: a mention, an invitation, or other ordinary evidence that students are looking forward to it. The exact device remains open. This should create anticipation without taking over the D&D chapter.
-
-## 11. Chapter 22: Acropolis, Nora and Zoe, and dinner in Room 317
-
-**The setting is Acropolis, not Agora.** The outing includes Nora, Zoe, Leo, and Taiga.
-
-### Pay off the Act I thread
-
-Nora's Acropolis invitation is an existing Act I thread. In Final Chapter 7, she has visited the ruins before, mentions her sister's interest, and invites Taiga to socialize with her Sociology friends. Taiga's earlier Acropolis visit with Caleb and Maya and the exchange of photographs with Nora also belong to the established background.
-
-The new outing pays off that possibility with different company. It is not Taiga's or Nora's first discovery of the ruins, and it does not require reconstructing the original proposed group exactly.
-
-The location gives the four characters an activity, surroundings, and conversations to respond to. Avoid building a new competition, campus initiative, or academic scheme merely to justify their spending time together.
-
-### Depth for Nora and Zoe
-
-The priority is greater exposure and depth, not inventing a problem each woman must overcome.
-
-Nora already has presence and personal texture. Zoe has had less space to show what she is like beyond class and practical help. Let the outing reveal preferences, history, humor, differing opinions, and how each chooses to engage with the others. Specific personal material remains to be selected.
-
-Neither needs to become a therapist for Taiga and Leo. Zoe should have agency beyond being the useful academic friend, and Nora should have interests beyond facilitating the boys' relationship.
-
-### Their romance can arrive as a surprise
-
-Nora and Zoe's kiss at the party may be the first clear indication of romantic involvement for both Taiga and the reader. **No early romantic hints are required.** Their ordinary rapport does not need coded longing, a trail of clues, or a second slow burn.
-
-They can have a life and a developing connection outside Taiga's attention. The Acropolis outing should make them more present as people, rather than make every interaction preparation for the reveal. The kiss does not require a newly invented personal obstacle or a completed development arc.
-
-### Dinner with Caleb and Maya is now part of the plan
-
-The Room 317 dinner is an agreed Chapter 22 event, no longer merely a candidate. The existing Thai-food scene provides useful material.
-
-Its relationship action is modest but meaningful: Taiga wants Leo there and makes room for him. Leo gets to spend time with Caleb and Maya and occupy Taiga's space comfortably.
-
-Keep the comedy and familiar group texture, but use the conversation to explore Caleb and Maya more personally. Their spring-break plans, including time with Maya's parents, are useful source material. The scene should offer more than a succession of spice and alarm jokes.
-
-Leo has already encountered Caleb in the door/key incidents. This is a first substantial conversation, not their literal first meeting. His proper introduction to Maya can still occur here.
-
-Returning from Acropolis can replace the old post-match lead-in. Exact transitions and dinner staging remain open.
-
-### Where the relationship stands by the end
-
-Shared schedules are no longer doing all the work. Taiga has actively included Leo and enjoyed the result. Plans to attend the party can become concrete here; by Chapter 23, going together should feel mutually wanted.
-
-Leo still has Enzo, other friends, projects, and obligations. Taiga still has coursework, soccer, Caleb, Nora, and plans of his own. Chosen inclusion should expand their lives rather than isolate them from the ensemble.
-
-## 12. Chapter 23: the campus-wide party as a mid-act climax
-
-**Agreed scale:** a proper student party drawing people from across campus, with a dance floor, DJ or equivalent music, and a much broader crowd than the Apollo common-room gathering. Venue and exact organization remain open.
-
-This is not another intimate frat-house evening built around party games and a private balcony conversation. Original Draft 15's Apollo material has already been adapted into Final Chapter 14.
-
-The event takes place **three or four days before spring-break departure**.
-
-### Build toward the event across the opening
-
-The first three chapters should accumulate both anticipation of the party and Taiga's willingness to take part with Leo.
-
-- **Chapter 21:** spontaneous enjoyment returns during D&D; the party enters the social horizon.
-- **Chapter 22:** the outing and dinner make chosen inclusion more natural; attending the party together becomes a concrete, wanted plan.
-- **Chapter 23:** they experience the anticipated event, act on desire, and leave with a meaningful future plan.
-
-These are connective functions, not requirements for a particular announcement or repeated planning conversation. The party must have enough substance to feel like the promised major event.
-
-By then, Leo should not have to repeat an old pattern of persuading Taiga out of his room. Taiga has his own reasons to look forward to going, including being there with Leo.
-
-### Nora and Zoe's kiss
-
-Nora and Zoe kiss at the party. It can come unexpectedly, without a preceding romance subplot or explicit hints.
-
-Give the moment its own space. They are choosing each other, not staging a demonstration for Taiga, and the group does not need an announcement that explains their relationship.
-
-Seeing the kiss affects Taiga especially because Leo is beside him. It makes a possibility immediately present rather than teaching him that he is attracted to Leo. He already knows that.
-
-The exact reaction, who notices what, and what the girls do afterward remain open.
-
-### Slight sexual escalation between Taiga and Leo
-
-The party can host a revised version of the interrupted escalation removed from Act II.
-
-The intended scale is a slight, mutual increase in physical intimacy. Taiga initiates or unmistakably encourages it. He is acting on acknowledged attraction, not conducting another test of whether Leo likes him.
-
-They find some privacy; an ordinary external interruption stops the moment. Neither boy rejects the other. The specific contact, degree of privacy, interruption, and aftermath remain to be written.
-
-**There is no first kiss here. There is no Taiga/Leo first kiss anywhere in Act III. That milestone belongs to Act IV.**
-
-The scene should follow their enjoyment and choices at the party. Do not make the interruption a complete withdrawal of the chapter's payoff: their clear mutual participation matters, and the invitation supplies a completed consequential choice afterward.
-
-### The camp invitation
-
-In a quieter moment after the party or while leaving, Taiga invites Leo to Camp Buddy for spring break.
-
-His own visit should already be arranged or established in the preceding chapters. The Yoshinori call from Draft 24 can provide that practical foundation. Adults, available beds, and maintenance work create the possibility; Taiga makes the personal invitation.
-
-His wish to include Leo grows across the weeks. The party catalyzes asking. It should not create the entire desire in one instant, and camp should not become merely a plan to resume interrupted sexual activity.
-
-Taiga is inviting Leo specifically into a place that matters to him. The old invitation's emotional core can survive with new staging and without the original uncertainty about mutual attraction.
-
-Readiness for this invitation does not mean readiness for every relationship step, nor does it prepare him for everything Kieran's return will stir up.
-
-### What the climax completes
-
-The chapter moves from anticipated participation to mutual action and then to a shared future choice. It gives the pre-camp progression a substantial positive payoff.
-
-The party is the act's mid-act climax; it does not settle Taiga's relationship with his past. Camp will put the gains under different pressure. Its conflict does not need to outdo the party in spectacle or reproduce Act II's enormous rupture and comprehensive repair.
+The planned first sexual escalation now takes place at camp on Sunday. The party ends with mutual desire already clear and the trip already agreed.
 
 ## 13. Covering the month and allocating ensemble space
 
-Use selective scenes, transitions, and time jumps between the agreed events. The three chapters need not cover equal spans or document every meeting.
+Use selective scenes, transitions, and time jumps between the agreed events. The two opening chapters use selected encounters and time jumps to cover the interval.
 
 Keep a couple of scenes that let the post-Pinetree awkwardness and returning ease register. Classes, coffee, training, and matches can anchor the passing weeks, but they should not restore the old physical-discovery plot.
 
@@ -285,9 +165,9 @@ The month does not require a new psychological problem every week, repeated conf
 | Character | Current allocation and purpose |
 | --- | --- |
 | Nora | A priority for the opening: bring her back through the Acropolis payoff and show more of her life and preferences. A forced development problem is unnecessary. |
-| Zoe | A priority for the opening: give her agency and personal depth through D&D and Acropolis, beyond academic assistance. |
+| Zoe | The Acropolis outing and party give her personal depth beyond academic assistance. |
 | Caleb and Maya | Restore their presence after limited Act II space. Their dinner can explore more personal material as well as familiar humor. |
-| Gav | D&D gives him room and can reveal depth naturally. He does not need a separate problem-solving arc simply to justify his presence. |
+| Gav | The Apollo evening gives him ensemble space. D&D remains available if a later chapter has room for it. |
 | Scott | Continue small, steady exposure and personal texture. |
 | Enzo | Already has substantial exposure. His larger depth opportunity belongs to Act V, including his own history and home context alongside Leo's. |
 | Aaron | Already has substantial exposure, depth, and development. No new opening subplot is required for balance. |
@@ -300,57 +180,52 @@ Depth means letting a person become more particular. It does not require giving 
 
 **Remove the chemistry-lab mentorship structure from the new opening.** Do not replace it with another unnecessary academic ensemble or a chain of new cameos. Nora and Zoe supply the chosen focus.
 
-The previous plan to reserve Zayne appearances across at least two chapters no longer governs this structure. There are no required Zayne slots in Chapters 21-23.
+The previous plan to reserve Zayne appearances across at least two chapters no longer governs this structure. Final Chapters 21 and 22 use the established ensemble.
 
 If a brief independent cameo is deliberately retained later, the earlier small comic possibility remains available: Zayne teases Leo, and Taiga hurries them toward training despite having time. This could lightly anticipate the later jealousy pattern. It should not require rebuilding mentorship, introducing a new subplot, or restoring the extended flirtation from the old draft.
 
 The nod to Leo/Zayne's *Jock Studio* interplay is optional source flavor, not a reason to displace the ensemble priorities above.
 
-## 14. Reusable draft material and new writing
+## 14. Original draft material for the rewrite
 
-Reuse material for the job it can do in the revised progression, not merely because it is already written.
+| Original draft | Material available for the current plan |
+| --- | --- |
+| 23 - Static | The Thai dinner in Room 317 supplies the basis of the dinner in Final Chapter 21. |
+| 24 - Preseason | The camp call and invitation inform Final Chapter 22. Station and travel material feed Chapter 23. |
+| 25 - Home Ground | Arrival and introductions can inform Saturday in Chapter 23. The old Saturday workday is a likely basis for Monday in Chapter 24. |
+| 26 - Easy | The old rainy Sunday workday feeds Tuesday. The supermarket encounter crosses the new Chapter 24-25 boundary. Kieran's return as a volunteer moves to Wednesday. |
+| 27 - Old Ground | The first day working apart, following Kieran's arrival, feeds Wednesday in Chapter 25. |
+| 28 - Old Language | Old familiarity surfacing through shared work, jokes, and play can feed Thursday in Chapter 26. |
+| 29 - No Reason | The ex disclosure and cabin confrontation are source material for Friday in Chapter 27. Give Leo a concrete reason to feel left out before the reveal. |
+| 30 - What It Meant | The Kieran conversations and the pier reconciliation can inform Chapter 28. They need to fit a day off and the relationship state established in Final. |
+| 31 - Closer | The farewell bonfire and subsequent intimacy can feed the end of Chapter 28. |
+| 32 - The Way Back | The goodbye, train conversation, and Olympus return are the basis of Chapter 29. Update chronology and the meaning of the trip in light of the revised relationship. |
 
-| Source | Material available | Revised use or limit |
+Preserve the source material's distinct voices, useful camp details, and group chemistry. Use familiar characters' game dialogue and established Final scenes as voice references. Yoichi's connection with Leo can grow out of banter and shared downtime as well as chores.
+
+## 15. Camp Buddy: revised chapter and day ladder
+
+The trip runs from Saturday arrival through Sunday departure the following weekend. The first Sunday and the final Saturday are days off. Monday through Friday cover the camp's preseason work and Kieran's return.
+
+| Revised chapter | Day | Working sequence |
 | --- | --- | --- |
-| Current working Draft.md for Chapter 21 | Gav's recruitment, the D&D session, Nora's lunch and holiday conversation, ordinary university transitions. | D&D is the first chapter's anchor. Keep only selected routine relationship adjustment and useful holiday seeds. Remove the chemistry mentorship sequence. |
-| Original Draft 22 - Blind Spot | Coursework, training, team life, a match, Caleb/Maya banter, physical distraction and avoidance. | Some university and soccer texture can survive in compressed form. Retire bodily discovery and shower-avoidance routines as the main progression; Act II has already done that work. |
-| Original Draft 23 - Static | Thai dinner in Room 317, Leo spending time with Caleb and Maya, ambiguous touch and jealousy material. | The dinner is the main reusable block for Chapter 22. Change its lead-in and deepen its personal conversation. Retire knee tests, accidental hand-contact analysis, extended film-night ambiguity, and Zayne pseudo-courtship as chapter engines. |
-| Original Draft 24 - Preseason | Caleb and Maya's holiday plans, Yoshinori's call, arranging Taiga's own camp stay, inviting Leo, packing texts, headcount, and departure/travel. | Move useful personal material into the dinner and establish camp plans before the party. Reuse the invitation's emotional core after the party with new staging. Preparation and travel can bridge into the next chapter. |
-| Original Draft 15 / Final Chapter 14 | Apollo gathering, charades, and balcony conversation already adapted into Final. | This is not an untouched party scene to import. The new campus-wide event needs its own scale, activity, and atmosphere. |
+| 23 | First Saturday and Sunday | Saturday begins at the train station and covers travel, arrival, and getting settled. Sunday is free. Taiga shows Leo around camp and takes him to **Buddy Falls**, the picnic spot with the pond and waterfall. They have a good day together. The first sexual escalation happens on Sunday. Its setting and trigger remain open. |
+| 24 | Monday and Tuesday | Work begins Monday. The original draft's Saturday work is a likely source, and the old Sunday work can inform Tuesday. At the supermarket Tuesday evening, Kieran spots Taiga. End the chapter on the recognition. |
+| 25 | Tuesday evening and Wednesday | Open with the supermarket conversation. On Wednesday Kieran turns up to volunteer, and he and Taiga work separately. The interrupted shower beat fits here if Wednesday is chosen. |
+| 26 | Thursday | Taiga and Kieran start getting along. Shared activity brings back familiar habits and gives Taiga a reason to hope they can put some of their history right. Thursday is also available for the shower beat. |
+| 27 | Friday | Leo feels left out and gets jealous. Kieran reveals to Leo that he was Taiga's boyfriend. Leo confronts Taiga, and the disagreement carries into the next day. |
+| 28 | Final Saturday | Day off. Kieran asks to talk in the morning and Taiga refuses. Taiga stays in a bad mood until early afternoon, when he goes back to confront Kieran. They talk, and Kieran leaves. Later, Taiga and Leo talk and establish the foundations of their romantic relationship, the birth of **"us."** The farewell bonfire and further intimacy close the chapter. |
+| 29 | Final Sunday | Follow Original Draft 32's broad departure sequence: packing, time around camp, goodbyes, the train conversation, and the return to Olympus. Adjust callbacks to the revised week. |
 
-### Material that needs new construction
+### Buddy Falls
 
-- The Acropolis outing with Nora, Zoe, Leo, and Taiga.
-- Nora and Zoe's individual texture in that group, without mandatory romantic foreshadowing.
-- The larger campus party and its anticipation across the opening.
-- Nora and Zoe's surprise kiss.
-- The slight interrupted sexual escalation, adapted as an idea from the discarded Act II possibility rather than treated as a finished passage available to transplant.
-- The party-to-invitation sequence.
+Buddy Falls is close enough for a Sunday outing. In Taiga's Camp Buddy route epilogue, he takes Keitaro back there for a picnic, brings food from Aiden, and explains why their earlier visit mattered to him. Other dialogue describes the pond at the foot of the waterfall. Use the location as a callback for readers who recognize it and as a part of camp Taiga chooses to share with Leo.
 
-Preserve the draft's useful humor, logistical credibility, and pleasure in company where they fit. Rewrite assumptions that depend on unacknowledged attraction or the old milestone timetable.
+Taiga quietly arranging a packed lunch is one possible detail. The first escalation can happen at the falls, back at the cabin, or elsewhere that day. The picnic itself is part of Sunday's plan.
 
-## 15. Camp Buddy: general purpose only
+### Camp as a community
 
-**The Camp Buddy chapter sequence remains to be laid out.**
-
-Its general purpose is to bring Taiga's past and present into contact, allow him to make decisions about Kieran, and give the developing relationship with Leo a meaningful experience of difference from the old pattern.
-
-The boys arrive after the positive choice made at the party. Camp therefore tests a relationship that is already moving forward; it does not need to manufacture the first meaningful romantic progress of the act.
-
-Camp is already an emotional home and a place where Taiga has rebuilt trust. It should also remain a functioning community whose people have work, friendships, habits, and concerns beyond his relationship.
-
-Useful existing foundations include:
-
-- reopening and maintenance work;
-- Taiga being capable and comfortable in familiar surroundings;
-- Leo meeting people and finding his own place among them;
-- shared work and ordinary proximity;
-- Taiga enjoying bringing someone into this part of his life;
-- friendships, food, jokes, free time, and periods of uncomplicated pleasure.
-
-The current camp is financially stable. The visit's practical work is not another emergency rescue of Camp Buddy.
-
-These are foundations and continuity principles, not a new daily itinerary.
+The camp gives Taiga a familiar environment and Leo room to find his own connections. Preserve the reopening and maintenance work, meals, old friendships, jokes, and downtime. The camp is financially stable. The practical work is preseason preparation.
 
 ## 16. Kieran's return: encounter with unresolved history
 
@@ -373,7 +248,7 @@ Kieran should retain his own agency and reasons for returning. Remorse, reconnec
 
 He should not exist solely as a device to provoke jealousy, become a villain to simplify the choice, or act as the interpreter who explains Leo to Taiga.
 
-The old supermarket encounter and volunteer arrival are source material. They are not fixed as the new entry mechanism merely because they are already written.
+The supermarket encounter now starts Tuesday evening across Chapters 24-25. Kieran arrives as a volunteer on Wednesday. The details of his reasons, how Taiga receives him, and what each wants from their first conversation can be worked out in the scenes.
 
 ## 17. The repeated relationship dynamic
 
@@ -381,13 +256,13 @@ The proposed connection to Taiga's first relationship is important:
 
 Taiga becomes absorbed in something meaningful to him. The person beside him feels increasingly peripheral.
 
-In the first camp term, that involvement was new friendship and belonging. In the proposed present arc, it may be resolving his history with Kieran.
+In the first camp term, that involvement was new friendship and belonging. This time, Taiga becomes absorbed in resolving his history with Kieran.
 
 Leo can sincerely support the reconciliation and still become hurt by how much room he is giving it. Taiga may assume that Leo is fine because he seems capable, sociable, and understanding.
 
 For the new version, Leo needs some concrete basis for feeling neglected. Historical familiarity alone produces a different conflict.
 
-Possible forms discussed include a shared plan being overlooked, a conversation running beyond what Taiga intended, or repeated attention to Kieran's comfort while Leo's is assumed. No incident has been selected.
+A shared plan Taiga overlooks, a conversation that runs longer than intended, or repeated attention to Kieran's comfort while taking Leo's for granted could supply the Friday incident. The specific action remains open. Leo feels the exclusion before Kieran tells him they dated.
 
 Leo's jealousy can reach Taiga as something familiar and threatening. Taiga then has to distinguish the actual complaint from the old sequence he fears.
 
@@ -408,7 +283,7 @@ The general principles for the camp arc are:
 
 The old draft has Taiga say that forgiveness happened earlier. Whether that remains the timing is open.
 
-The intended closure is a present decision that no longer requires a perfect ending to the old relationship. It need not require forgetting, indifference, or absolute emotional comfort.
+The final Saturday gives Taiga a chance to make that decision himself. He initially refuses to talk, then chooses to go back to Kieran in the afternoon. Kieran leaves after their conversation. The exact terms of their future contact remain open.
 
 ## 19. Conflict must have a limited job
 
@@ -418,11 +293,7 @@ Avoid reproducing Act II's shape of mounting pressure, rupture, comprehensive di
 
 The fight can expose or address a specific problem between Taiga and Leo. It should not also be responsible for settling all of Taiga's self-understanding, Kieran's future, Leo's expectations, and the romance.
 
-A strong working proposal is to place the fight early enough in the camp material that substantial life and follow-through remain afterward. This is not a locked placement.
-
-Its intensity and content remain open. It does not need to exceed Pinetree to matter.
-
-The party already provides a mid-act climax built around enjoyment, desire, and initiative. The camp fight must not become the single destination that makes all preceding chapters worthwhile.
+The confrontation is now set for Friday in Chapter 27. Its intensity and specific accusations remain open. Saturday gives the Kieran conversation and the repair with Leo separate moments, and the bonfire and departure show how the boys spend time together afterward.
 
 ## 20. Distribute change across the arc
 
@@ -439,7 +310,7 @@ General structural principles discussed:
 - Kieran's resolution follows momentum already present in his own relationship with Taiga.
 - A positive choice toward Leo arises from wanting him, rather than only compensating for a mistake.
 
-These are principles for distributing causality, not an ordered camp scene ladder.
+The chapter ladder in Section 15 puts these changes across separate encounters. Wednesday's separate assignments and Thursday's returning ease give the Kieran story time before Friday's fight.
 
 Taiga might acknowledge a failure of consideration before understanding every reason behind it. Leo might admit jealousy before he can express every expectation. They can regain some ease without producing a definitive account of themselves.
 
@@ -460,9 +331,9 @@ Two changes are therefore necessary at the level of purpose:
 1. Mutual acknowledgment cannot be the new discovery because Act II already established it.
 2. The new arc should distribute its meaningful decisions rather than depend on one concentrated resolution.
 
-Earlier disclosure of Kieran's identity was proposed as a way to explore difficulty even when Leo knows the truth. It remains an option, not a decision.
+The current plan keeps Kieran's disclosure on Friday. Make Leo's sense of exclusion legible before that disclosure so the history changes how he reads a day that already hurt.
 
-The ordinary-life and departure material in the old draft offers useful examples of consolidating change through enjoyment, small choices, and continuity. Exact physical milestones and exit logistics are not fixed by that observation.
+The old departure sequence remains the basis of Chapter 29. Saturday's conversation now defines what Taiga and Leo choose to pursue together, following the acknowledgment already made at Olympus.
 
 ## 22. Leo's own progression
 
@@ -484,21 +355,17 @@ He must have relationships at camp that are not mediated entirely through Taiga.
 
 Taiga should also contribute pleasure, help, attention, and support to Leo's life. The relationship cannot become a sequence of Taiga's problems and Leo's perfect responses.
 
-## 23. Romance and the act's ending
+## 23. Intimacy, the birth of "us," and departure
 
-Act III needs a satisfying romantic consequence to its emotional movement.
+By the time Taiga and Leo get to camp, mutual desire is established. Their first sexual escalation is planned for the first Sunday in Chapter 23. It can start with a small spark after an easy day together. The planned handjob gives them space to explore a desire they already share. Let the Sunday moment run its course. The exact location, setup, and initiator remain open.
 
-By the end, Taiga should be doing something with his acknowledged feelings: initiating, making room, expressing a preference, agreeing on a direction, or another concrete choice that clarifies what he wants to pursue.
+A smaller escalation in the shower follows on Wednesday or Thursday. Wednesday at the end of Chapter 25 is the working preference discussed. It would give them a moment of ease together after Kieran's arrival, before Thursday gives Taiga and Kieran space to reconnect. Yoichi barges into the cabin and interrupts them. Exact timing, his reason for dropping by, and the response remain open.
 
-Starting to date remains a possibility rather than a locked ending. Labels, exclusivity, and the extent of sexual intimacy are still open.
+On the final Saturday, Taiga and Leo talk after the Kieran conversation and departure. This is the **birth of "us."** They already know what they feel. Now they begin to decide what they want from each other and how they intend to be together. Give the two conversations some space within the chapter. The bonfire lets them spend time together with the camp crew, and the later escalation follows from the new ease between them. Its exact physical threshold is open.
 
-**Taiga and Leo's first kiss belongs to Act IV.** The party escalation and the camp material must preserve this decision. The original draft's milestone sequence does not override it.
+Taiga and Leo's first kiss on the lips belongs to Act IV. Labels and exclusivity are open.
 
-The intended ending can carry pleasure, initiative, and ordinary confidence. It need not be an emotional postmortem after a final fight.
-
-If the act ends with departure or a return to Olympus, that transition can demonstrate that the change belongs to their lives beyond the camp setting. The exact ending event remains open.
-
-The change should be visible in behavior that would have been harder at the beginning. Do not require a closing speech that explains the act's lesson.
+Chapter 29 follows the original farewell and return to Olympus. The train conversation can acknowledge the previous night and the possibility of coming back together. By then Leo has his own reasons to want to return, and the boys have begun to make choices as a pair.
 
 ## 24. Intended end state and preserved uncertainty
 
@@ -506,7 +373,7 @@ The change should be visible in behavior that would have been harder at the begi
 | --- | --- | --- |
 | Taiga and his past | He has made a present choice about Kieran and loosened the demand to repair the old relationship perfectly. | Memories, discomfort, and self-criticism can remain. |
 | Taiga in conflict | He has experience of hearing a need, taking specific responsibility, and participating in repair. | He may still become defensive or overwhelmed under different pressure. |
-| Taiga toward Leo | His involvement includes active romantic choices and wanted inclusion, with the camp invitation already made before departure. | The exact label and further physical thresholds remain open; their first kiss is reserved for Act IV. |
+| Taiga toward Leo | He invites Leo in, initiates time together, and participates in deciding what they want from the relationship. | The exact label remains open. Their first kiss on the lips belongs to Act IV. |
 | Leo | He can admit hurt or jealousy and ask for consideration with imperfect but meaningful honesty. | He does not become consistently assertive or perfectly self-aware. |
 | Together | Their relationship has a clearer chosen direction and a lived example of conflict unfolding differently. | They have no guarantee against later mistakes or hurt. |
 | Camp Buddy | It can become a shared part of their lives, with Leo's own connections. | It does not become exclusively a romance setting or a place that exists to heal Taiga. |
@@ -530,43 +397,28 @@ Do not treat these as instructions to add ten beats. They are planning checks.
 
 ## 26. Open decisions for the next planning stage
 
-### Opening chapters
-
-- Titles, lengths, and internal scene boundaries for Chapters 21-23. Their event anchors and order are agreed.
-- Exact calendar dates within the approximately one-month pre-camp interval. The party's placement three or four days before departure is agreed.
-- Which couple of routine scenes best carry the initial awkwardness and returning ease.
-- How the upcoming party is introduced and how attending together becomes a wanted plan.
-- Personal material for Nora and Zoe at Acropolis and for Caleb and Maya at dinner. No early Nora/Zoe romantic hints are required.
-- The campus-wide party's venue, atmosphere, crowd, and activity.
-- Staging of Nora and Zoe's kiss and Taiga's reaction with Leo beside him.
-- The exact degree of Taiga/Leo sexual escalation, privacy, external interruption, and aftermath. Their first kiss is excluded and reserved for Act IV.
-- The quieter moment when Taiga asks Leo to camp after the party, and the division of packing and travel material between chapters.
-- Whether a brief independent Zayne cameo is worth retaining anywhere. The chemistry mentorship and the old two-chapter minimum are superseded.
-
-### Camp Buddy and the act's end
-
-- The Camp Buddy chapter ladder, duration in scenes, and event sequence.
-- Kieran's entry mechanism and the mixture of feelings his presence provokes.
-- The timing of forgiveness and disclosure of his former relationship with Taiga.
-- The concrete failure of consideration or expectation behind the fight.
-- The fight's placement, intensity, and degree of immediate repair.
-- Which independent Kieran decisions occur before and after that conflict.
-- The exact romantic agreement and other physical thresholds by the act's end, within the firm first-kiss boundary.
-- The final scene and the transition toward Act IV.
-
-The Camp Buddy material remains at the level of general purpose. Do not treat the agreed pre-camp structure as approval of an unwritten camp sequence.
+- The exact camp tasks and how much of the original work material to reuse on Monday and Tuesday.
+- The Sunday picnic details and the location and staging of the first escalation. The Buddy Falls visit and its Sunday placement are part of the plan.
+- Wednesday or Thursday for the shower beat, and what brings Yoichi into the cabin.
+- The specific shared activity that lets Taiga and Kieran reconnect on Thursday.
+- The concrete incident that leaves Leo feeling sidelined on Friday, the circumstances of Kieran's disclosure, and the wording and intensity of the fight.
+- What Kieran asks for on Saturday, what makes Taiga return to the conversation, and how they leave things between them.
+- What Taiga and Leo agree to in the "us" conversation, the pacing of the bonfire and later intimacy, and any labels or expectations they use.
+- The specific callbacks and final beats to keep from Original Draft 32 when writing Chapter 29.
 
 ## 27. Reference material
 
 - [Taiga Psychology](<Taiga Psychology.md>): the detailed character model, trigger map, existing progress, and interpretation boundaries.
 - Final Act I, especially Chapter 7: Nora's Acropolis invitation, alongside the earlier ruins visit and photo exchange. Final prose governs the details when writing the return.
-- `Draft.md`: the current Chapter 21 working material, including D&D and the Nora lunch; its chemistry mentorship no longer belongs to the plan.
+- `Final/III - Undertow/Ch. 21 - Uncharted paths.md` and `Ch. 22 - The invitation.md`: the completed Olympus opening.
+- `Draft.md`: the current Chapter 23 working material, starting at the train station. Use the revised ladder to place its arrival and work material.
 - `Final/II - Disrupture/Ch. 18 - Thin air.md`: the rupture the new act must inherit.
 - `Final/II - Disrupture/Ch. 19 - Fallout.md`: the immediate aftermath and Taiga's self-condemnation.
 - `Final/II - Disrupture/Ch. 20 - Cold ashes.md`: the actual relationship state and requests at Act III's starting point.
 - `Final Bibles/Section II - Chapter Map.md`: supporting continuity; Final prose remains authoritative.
-- `Draft/Act 3 - Moving On/`: the completed draft assessed as source material, especially Chapters 22-24 for pre-camp functions.
+- `Draft/Act 3 - Moving On/`: the original draft, especially Chapters 24-32 for the travel and Camp Buddy sequence.
+- `Bibles/CampBuddyScript.csv`: dialogue for Buddy Falls, including the pond close to camp (around lines 87149-87151) and Taiga's picnic in the route epilogue (around lines 118049-118111).
 - `Draft/Act 4 - New Threshold/`: later dependencies and material that should not be consumed merely to fill the pre-camp month.
 - `Bibles/Romance progression.md`: legacy development reference whose postponed acknowledgment and original milestone placements do not govern the revised act.
 
-This bible preserves the decisions and options discussed. It does not replace the still-unwritten Camp Buddy outline.
+Use Section 15 as the working chapter ladder for the camp rewrite and Final Chapters 21 and 22 as the source for its opening conditions.
