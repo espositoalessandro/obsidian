@@ -1,4 +1,4 @@
-### Chapter 22
+### Chapter 22 - The invitation
 
 "Hey, Yoshi."
 
@@ -732,5 +732,3 @@ They stared for a couple of seconds, then both took a sip from their already emp
 "Uh... maybe it's time to go?" Leo said.
 
 Taiga nodded vigorously. "Definitely."
-
-
