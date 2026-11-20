@@ -587,13 +587,32 @@ Nora looked at her for a second, then emptied her cup as well and grabbed Zoe's 
 
 "Come on, let's dance. Nothing you can do about that now."
 
-Zoe didn't complain and followed her back on the dance floor.
+They left their cups on the wall and went back to the dancing floor, where the music was too loud to even think straight.
+There was no way Taiga would have danced on his own, but the mix of loud music, the drink and Leo dragging him around made him loosen up a bit.
+Taiga was no dance expert, but he could tell that Leo was terrible. He didn't seem to care much though. People around them weren't any better either, at lest the few of them who were actually trying, because most of them were basically just shifting their weight from a leg to another.
 
-"Like you said," Leo said, looking at them going, "she had to face herself."
+Zoe and Nora joined them a few minutes after and they made a sort of circle, dancing while facing with each other. Leo seemed to know almost every song, while Taiga barely recognized a few.
+He lost track of time. His eyes kept bouncing from Leo's face and his exposed chest and shoulder. A few times- well, actually, lots of times, their gaze met for a second or two, most of which ended with a smile.
 
-Taiga took a drink. "Unfortunately."
+Eventually the group separated. Zoe wanted another drink and Nora went with her. Taiga and Leo stayed there, dancing together. At some point, Leo grabbed Taiga's hands and shouted something that resembled a "follow me". He tried, but Leo didn't seem to know what he was doing, and they ended up doing something goofy enough to make them burst in laughing.
 
-His eyes kept falling on Leo's exposed shoulder, before he forced them back in the cup. He blamed the drink.
+When they recovered, their hands didn't leave. Leo raised his head, looking at him. He was close, really close. His laugh had settled into a warm smile.
+For a while, Taiga just lost himself into his eyes. He left Leo's hands and gently grabbed his waist, with hand finding warm, bare skin. 
+Leo didn't flinch, and put his arms around his neck. They stayed like this for a while, slowly moving along the music.
+
+He could feel Leo's hand over his bare shoulder, caressing his skin. His face was even closer now. Taiga's glanced at his mouth, which was the most compelling thing in the universe while also being the scariest right now.
+His heart rushed hard and his breath started to become irregular. He instinctively retracted by a tiny bit and froze.
+Leo blinked for a second, then his smile came back. He leaned over his ear. 
+
+"It's okay," he whispered, before giving him a gentle kiss on the cheek.
+
+Taiga took a deep breath, then he close his arms around his waist and hugged him tightly. His cheek was still burning as if Leo had left some kind of hot mark.
+
+They stood there a bit more, then Taiga pulled out and grabbed his hand, nodding toward outside the dancing floor. Leo followed. 
+
+God. He could finally hear his voice again. He could also hear his ears whistling. They went back to the wall they were sitting before and recovered their drinks.
+
+They sat in silence for a moment.
 
 Leo was fiddling with the cup in his hand. "Anyway."
 
