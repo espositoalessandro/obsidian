@@ -128,7 +128,7 @@ Taiga shook it, staring right at him.
 
 "So, what's the goal?"
 
-Leo pointed at the screen. "You either kick your opponent out of the platform or beat him enough to knock him out. Three lives each."
+Leo pointed at the screen. "The more damage they take, the farther they fly when you hit them. Knock them far enough off the stage and they lose a life. Three each."
 
 "Looks simple enough."
 
@@ -314,11 +314,7 @@ Taiga chuckled. “Very articulate.”
 
 “Yeah, clearly.”
 
-Taiga could almost see the questions multiplying in Leo's very confused face.
-
-“But as I said, it's preseason,” he added.
-
-Leo ignored him. “You're... actually asking me to come for the week?”
+Leo bit his lip for a second. “You're... actually asking me to come for the week?”
 
 For a moment, the instinct of softening it almost took over. Camp always needed volunteers, afterall.
 
@@ -519,13 +515,12 @@ The guy stared at him for a second in a way that Taiga didn't like.
 
 "Yeah, definitely. And a little sunshine as you fits almost perfectly in the description, I'd say~"
 
-Now something uncomfortable shifted inside Taiga. He definitely didn't like him.
-
-Before he could think, he said, "Sorry... who the heck are you?"
+What the... 
+Before he could think, Taiga said, "Sorry... who the heck are you?"
 
 "Oh, right, where are my manners. My name is Zayne, it's an incredible pleasure to meet you all."
 
-Then he not so subtly winked at Leo. Okay, now he was doing that on purpose. When Taiga saw that Leo was slightly red, a vein started pulsing on his temple. Who the fuck did this guy think he was?
+Then he not so subtly winked at Leo. Okay, now he was doing that on purpose. When Taiga saw that Leo was slightly red, his pulse increased. Who the fuck did this guy think he was?
 
 Mercifully for Zayne, Derek intervened before Taiga could answer. 
 
@@ -606,7 +601,7 @@ Leo lowered his cup and gulped. "I don't want to say I told you but..."
 
 "You said yes to a dance, Zoe," Nora said.
 
-"I don't think... but maybe I could have been clearer? Like, more direct? GOD! Looking back, now all the things he did make sense."
+"Maybe I could’ve been clearer, though. Like, more direct? GOD! Looking back, now all the things he did make sense."
 
 "What did you tell him?" Taiga asked.
 
