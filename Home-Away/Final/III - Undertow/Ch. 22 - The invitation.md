@@ -571,7 +571,7 @@ Enzo pulled the tray back. “You just got here.”
 
 Scott held out his hand. Enzo looked down at it, sighed, and gave him the tray.
 
-Nora had found a spot on the grass where they could eat without getting in anybody's way. By the time they finished, the music from the entrance plaza was loud enough that Leo recognized the song from across the park. He sang half a line before Zoe joined in. Neither of them sounded particularly good.
+Nora had found a spot on the grass where they could eat without getting in anybody's way. By the time they finished eating, Taiga could hear the music from the entrance plaza. Leo sang half a line before Zoe joined in. Neither of them sounded particularly good.
 
 “It's worse when there are two of you,” Taiga told him.
 
@@ -604,7 +604,7 @@ Leo lowered his cup and gulped. "I don't want to say I told you but..."
 
 "Yeah, then don't say it. Gosh, now I feel like an idiot! How long has this been going on? Ugh."
 
-"Well... to be honest, from what you said it doesn't seem like you gave him any explicit signal, right?" Nora asked.
+"You said yes to a dance, Zoe," Nora said.
 
 "I don't think... but maybe I could have been clearer? Like, more direct? GOD! Looking back, now all the things he did make sense."
 
@@ -700,9 +700,9 @@ Taiga shrugged. "You wanted wilderness."
 
 "Ugh, I can't pass away before I even got laid."
 
-It took Leo a couple of seconds of awkward silence from Taiga to realize.
+Taiga said nothing. A second later, Leo's eyes widened.
 
-"GAH! I didn't mean- I d-don't know why I even said that. Forget it."
+"GAH! I didn't mean—I d-don't know why I even said that. Forget it."
 
 "Y-you mean you never...?"
 
