@@ -625,7 +625,7 @@ Nora looked at her for a second, then emptied her cup as well and grabbed Zoe's 
 
 "Come on, let's dance. Nothing you can do about that now."
 
-They left their cups on the wall and went back to the dancing floor, where the music was too loud to even think straight.
+Nora led Zoe back onto the dance floor. A minute later, Leo tugged Taiga to his feet. They dropped their cups in a bin on the way over.
 There was no way Taiga would have danced on his own, but the mix of loud music, the drink and Leo dragging him around made him loosen up a bit.
 Taiga was no dance expert, but he could tell that Leo was terrible. He didn't seem to care much though. People around them weren't any better either, at lest the few of them who were actually trying, because most of them were basically just shifting their weight from a leg to another.
 
@@ -635,8 +635,7 @@ He lost track of time. His eyes kept bouncing from Leo's face and his exposed ch
 Eventually the group separated. Zoe wanted another drink and Nora went with her. Taiga and Leo stayed there, dancing together. At some point, Leo grabbed Taiga's hands and shouted something that resembled a "follow me". He tried, but Leo didn't seem to know what he was doing, and they ended up doing something goofy enough to make them burst in laughing.
 
 When they recovered, their hands didn't leave. Leo raised his head, looking at him. He was close, really close. His laugh had settled into a warm smile.
-For a while, Taiga just lost himself into his eyes. He left Leo's hands and gently grabbed his waist, with hand finding warm, bare skin. 
-Leo didn't flinch, and put his arms around his neck. They stayed like this for a while, slowly moving along the music.
+For a while, Taiga just lost himself into his eyes. Taiga let go of Leo's hands and rested his own on Leo's waist, his fingers brushing warm, bare skin. Leo looped his arms around Taiga's neck. They swayed like that for a while.
 
 He could feel Leo's hand over his bare shoulder, caressing his skin. His face was even closer now. Taiga's glanced at his mouth, which was the most compelling thing in the universe while also being the scariest right now.
 His heart rushed hard and his breath started to become irregular. He instinctively retracted by a tiny bit and froze.
@@ -648,7 +647,7 @@ Taiga took a deep breath, then he close his arms around his waist and hugged him
 
 They stood there a bit more, then Taiga pulled out and grabbed his hand, nodding toward outside the dancing floor. Leo followed. 
 
-God. He could finally hear his voice again. He could also hear his ears whistling. They went back to the wall they were sitting before and recovered their drinks.
+God. He could finally hear his voice again. He could also hear his ears whistling. They grabbed two cups of water at the bar and went back to the wall.
 
 They sat in silence for a moment.
 
@@ -716,9 +715,9 @@ Taiga looked down. He had never thought about it. About Leo's previous private l
 
 He took a breath and forced a normal voice. "I see."
 
-They stood in silence for a while, until their cups emptied.
+They sat quietly for a while. Taiga finished his water.
 
-Leo took a last sip. "Well, I hope Nora was able to cheer Zoe up a bit."
+Leo drained his cup. "Well, I hope Nora was able to cheer Zoe up a bit."
 
 Taiga looked up at the dance floor and his eyes widened. "I think... she did."
 
@@ -727,7 +726,7 @@ Taiga looked up at the dance floor and his eyes widened. "I think... she did."
 The girls were standing at the edge of the crowded floor, not far from them, passionately making out.
 Like, really passionately. With hands going everywhere. Heck, they were almost eating each other.
 
-They stared for a couple of seconds, then both took a sip from their already empty cups.
+They stared for a couple of seconds, then both tried to take a sip from their empty cups.
 
 "Uh... maybe it's time to go?" Leo said.
 
