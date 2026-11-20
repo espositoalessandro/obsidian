@@ -541,7 +541,7 @@ Suddenly Ace's face was redder then Taiga's hair and he appeared to have lost hi
 
 Yuuto pointed at the group that just appeared.
 
-"Now before Bryce kills me, we'll to to the beer stall! See you around then, guys!"
+"Now before Bryce kills me, we'll head to the beer stall! See you around then, guys!"
 
 Enzo waved him off. "Yeah, later!"
 
