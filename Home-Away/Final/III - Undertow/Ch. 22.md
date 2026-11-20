@@ -463,8 +463,6 @@ Enzo arrived five minutes later. "Apologies! Okay let's go, I'm starving."
 
 Central park was surrounded by small stalls selling all kinds of food. Most of them were run by members of clubs to raise funds. 
 
-[filler scene]
-
 Suddenly a familiar voice shouted from behind. "ENZO!!"
 
 They turned and saw Yuuto waving with both hands a few meters behind. He approached immediately. A pink cape and a House Artemis buckle on the belt made his toga slightly different from theirs.
