@@ -1,245 +1,117 @@
-The line for food ran halfway along the front of the stadium, which was handy. Taiga could follow it to the Apollo guys without having to read any of Enzo's increasingly useless directions.
+### Chapter 23 - Northbound
 
-**Enzo:** by the fries
-**Enzo:** the GOOD fries
-**Enzo:** if you can see people eating pizza you've gone too far
+Taiga had typed *you awake?* when Leo came through the station doors. The clock over the ticket machines said 9:38. He deleted the text.
 
-There were people eating pizza in the line for the good fries.
+Leo had a duffel over one shoulder, a backpack over the other and the yellow scarf wound so high that only half his face showed. He spotted Taiga and raised an arm. The duffel slid down and hit him in the elbow.
 
-He found Evan first. The cloak was easier to pick out than the hair. Mercer had given them each the same yellow one, with a white tunic that came down to mid-thigh and a ridiculous gold sun on the belt. The edge of Taiga's buckle had dug into his stomach the whole walk over. He'd loosened it a notch and promptly stepped on the back of his cloak.
+"Ow. Hey!"
 
-Evan lifted a paper tray in greeting. Leo stood beside him with a leaf from his wreath sticking straight up. He was listening to Scott, who was apparently the only one of them who'd thought to check what the costume looked like with a jacket before leaving his room.
+"You're early."
 
-"Hey," Leo said when he saw him. "There he is."
+"Yeah, well, I woke up at seven and couldn't get back to sleep." Leo wrestled the strap back onto his shoulder. "Is that for me?"
 
-"I've been here for ten minutes. Has Enzo considered using landmarks?"
+Taiga handed him the coffee with milk. "Figured the line would be bad."
 
-"Enzo's in line again." Evan offered Taiga the tray. "You can have some of these. He's decided they're inferior."
+It was now. The station café had been all but empty when he'd gone in. Leo took a sip and made a little noise of approval.
 
-Taiga took one. It was hot enough that he had to finish chewing with his mouth open.
+"Aw, you got it right."
 
-"Well?" Evan asked.
+"You put an obscene amount of milk in it. It isn't hard to remember."
 
-"Fuck him. These are good."
+Leo smiled at him over the cup. Taiga had almost got through the morning without thinking about that stupid kiss on the cheek. Which was a lie. He'd thought about it getting dressed, on the walk here and again while the woman at the café asked if he wanted a lid.
 
-"You have to tell him that yourself."
+"Come on," he said. "Platform seven."
 
-Scott laughed. He had the ties on his sandals laced all the way up his calves. Leo had done the same. It looked a damn sight better on him than it had on Taiga, who'd given up after the second knot and shoved the ends down the sides. As Leo reached across Evan for a fry, the white fabric pulled against the clasp on his shoulder. Taiga had been wearing the exact same thing for twenty minutes. Somehow he'd missed how much skin it left bare.
+At the stairs, Leo reached for Taiga's canvas bag. Taiga opened his mouth to object, then gave him the handle. His duffel was heavy enough, and Leo had already tucked his coffee into the outside pocket of his backpack so he could take it.
 
-He looked down and took another fry.
+"What have you got in here?" Leo asked.
 
-The stage stood at the far end of the plaza, where the road curved around the stadium. From here, Taiga could see people dancing on the stairs and under the trees, well past where the lights reached. There were more on the upper concourse, leaning over the railing in their togas. At Halloween he could at least follow the costumes through the crowd. At the Symposion, half the people he took for teammates turned out to be total strangers in yellow.
+"Food. There's a rain jacket for you on top."
 
-A man up on the concourse lifted a hand. Evan waved back.
+"I have one."
 
-"Is that Mercer?" Taiga asked.
+"You sent me a picture. That thing has holes under the arms."
 
-It was. His coach wore his toga over a dark shirt, with the wreath sitting much too low on his forehead. Next to him, Rao was halfway through a slice of pizza.
+"Those are vents."
 
-Leo leaned in to look past Taiga. "Think we should go ask him about finals?"
+"I could see your desk through them."
 
-"Go ahead. I'll hold your fries."
+"Okay, but was your first thought really that I'd get cold?"
 
-Leo took the last one from the tray and ate it. A couple of people in red capes passed so close that Taiga had to put a hand on his belt to stop one of them snagging on it.
+Taiga started up the stairs. "My first thought was that I'd have to listen to you complain about getting cold."
 
-Enzo showed up with two trays balanced along one arm and Gav following him with a fistful of napkins.
+"Yeah. You'd probably have to do that either way."
 
-"Okay," Enzo said. "Everybody who actually cares about food, try these."
+The wind ran straight along the platform. They waited beneath the canopy, among families and a few people Taiga recognized from the mess hall. A woman was trying to get her kid to say goodbye to Olympus through a video call. The kid waved at a pigeon.
 
-"They came out of the same fryer," Gav said.
+Leo shifted his bag to the other shoulder. "Do you usually go up on your own?"
 
-"Yeah, just now. That's the point."
+"Since I started here, yeah. The others came in from all over at New Year. We met at camp."
 
-Enzo held out a tray to Scott first. By the time he got to Evan, there were about six fries left. He stared at them for a second, then handed him the whole thing.
+"Huh." Leo pushed his scarf down with his chin. "I keep thinking about how for you this is just the train home, and I don't even know what direction we're going."
 
-The music stopped. A few people clapped, thinking the song was over, before the beat came back loud enough to feel through the soles of Taiga's sandals. Enzo looked up at the stage.
+"North." Taiga took a drink. "You can have the window."
 
-"Oh, I haven't heard this in forever."
+***
 
-"What is it?" Taiga asked.
+They got their duffels up onto the rack and pushed the smaller bags under the seats in front. Leo sat by the window. The train had barely cleared the platform when he pulled out his phone to take a picture.
 
-Enzo was already disappearing between two women in silver wreaths. He got three steps before he turned and walked backward, waving them over.
+"Of what?" Taiga asked. They were passing a wall with a drainpipe every ten feet.
 
-Leo took the empty tray from Evan and wedged it into the nearest bin. "Coming?"
+"My mom asked me to let her know when we'd left."
 
-Taiga followed him.
+"You could tell her in words."
 
-They caught up to Enzo at the edge of the crowd, where there was still enough space to move his feet without checking where everybody else's were. Taiga lasted about half a song trying to follow what Enzo was doing. Every time he thought he'd got it, Enzo changed direction. It took him another chorus to realize Enzo had no idea what he was doing either.
+"Yeah, but then how's she gonna know I got the window?"
 
-Gav had been holding his drink out of everybody's way until Scott got him to finish it and put the cup down. When Taiga looked over again, both of them were singing along. He could barely hear Gav over the music. He could hear Scott just fine.
+Leo took another one when the wall gave way to the backs of houses. This time he leaned back so he could get Taiga in it. Taiga saw himself on the screen just in time to frown.
 
-There was a break in the song where the whole crowd seemed to know what to shout. Taiga missed it the first time. The second time he came in a fraction too early and heard Leo laugh right beside his ear. He jabbed an elbow back, caught nothing, and turned to find Leo grinning at him from his other side.
+"Perfect. You wanna see?"
 
-The next song started halfway through the applause. This one he knew.
+He did, actually. The window was bright behind Leo, and the bottom of the frame cut off half of Taiga's chin. Somehow it was still obvious which one of them had been caught off guard.
 
-By the time Taiga went for water, he'd lost sight of Evan and could feel the strap of his left sandal sliding down toward his ankle. He stopped near the end of the tables and crouched to fix it.
+Leo lowered his phone a little. "You mind if I send that one?"
 
-"Is yours coming apart too?"
+Taiga took another look. "You want your mom to think I always look like that?"
 
-He looked up. Nora held two cups of water. A narrow red scarf ran around her waist over her toga, and someone had stuck a little square of silver tape to the strap of her sandal.
+"She already knows you always look like that."
 
-"It keeps coming loose," he said.
+"What the fuck have you been telling her?"
 
-"Here. Hold these a minute."
+Leo laughed. "Mostly that I beat you and you had to buy me a pizza."
 
-She set both cups in his hands and crouched beside him. She peeled a spare strip of tape off the back of her hand and folded one end over to make a tab.
+"Send it, then."
 
-"Where'd you get that?"
+Leo did. A little while later, when a reply made him laugh, he told Taiga his mom wanted them to bring their jackets when they went out. Even if it looked sunny. Especially if it looked sunny.
 
-"Zoe talked someone at the sound desk into giving her a length of it. Apparently she needed to tell him what she thought of the speakers anyway."
+"Two rain jackets," Taiga said. "We're doing great."
 
-"And what did she think of them?"
+"See? I knew this would work out."
 
-"I didn't stay to find out. He made the mistake of asking her what she meant."
+Leo put his phone away and leaned against the glass. They'd been going for almost an hour. The houses were farther apart now, with fields between them and bare trees along the fence lines. Taiga could see the next stretch of track when they went around a curve. Usually by then he'd have his headphones on and his jacket bunched up against the window.
 
-Nora pressed the tape neatly over his knot. It would probably take half the hair on his leg with it when he peeled it off. He flexed his ankle. At least the damn thing would stay where it belonged.
+"Hey, when we get there," Leo said, "can you show me where you took that photo? The one you sent at New Year, with the lake."
 
-"Thanks."
+Taiga knew the one. He'd taken it from the shore, with everybody standing on the pier. He could remember the cold getting through his gloves while he tried to keep the phone still.
 
-Nora stood and took one of the cups. "You can keep that. I got fed up waiting for Zoe to come back for it."
+"Yeah. It's just down from the cabins."
 
-"Do you know where she went?"
+Leo nodded and looked out again.
 
-Nora pointed over his shoulder. Zoe was working her way along the tables with a plate held above her head. Her toga had a purple sash and a gold clasp fixed to her shoulder. She'd tucked one end of her sash into her belt to keep it out of the food.
+Taiga had been trying to work out how to get Leo from the car to their cabin without Yuri getting to him first. He'd forgotten he could take him down to the water whenever he wanted. He could show him the rest of the place, too. Christ, he could show him the kitchen door that wouldn't shut until he and Yoichi had finally taken the whole damn thing off its hinges. Leo would probably want to know why they'd taken so long.
 
-"They found more of those little spinach things," she said when she reached them. She lowered the plate in front of Nora. "I tried one. They're definitely the same ones."
+He rested his arm on the armrest. After a minute, Leo's sleeve came up against his. Taiga turned his hand over on his knee. Leo took it without turning away from the window.
 
-"How many did you have to try to be sure?" Nora asked.
+***
 
-Zoe looked down at the plate. "I saved you four."
+They ate lunch between the train and the bus. By the time the road narrowed and the pines started coming right up to the shoulder, there were only four passengers left. Leo had his feet in the aisle and his backpack on the empty seat across from them.
 
-Nora took one. She ate it in two bites and went back for a second almost immediately. Taiga drank most of his water and finally felt how hot his face had gotten. The air outside the crush was cold enough to raise goose bumps on his arms.
+Taiga leaned past Leo to look out. A row of mailboxes went by, then the bend where the road dipped sharply enough that his stomach always went with it. He reached across and pressed the stop button.
 
-Leo came up beside him, pushing his wreath back into place. "I thought you were coming right back."
+"Already?" Leo pulled his feet in.
 
-"I was. I had to get my shoe fixed."
+"Yeah. Someone's picking us up here. It's another fifteen minutes by car."
 
-Leo looked down. "Oh. Can you do mine next?"
+Leo twisted round to get his backpack off the seat. Taiga usually had his bag on his lap well before the bend. He let the bus go on for a few more seconds before he reached for it.
 
-"I'll get you some tape," Nora said. "I'm done touching feet."
-
-Leo pulled up a chair and sat down to work on the laces. Taiga held his water while he did it. Somebody nearby was trying to get six people into a picture without getting the trash can behind them. After several attempts, a guy in a bedsheet gave up and moved the trash can himself.
-
-The DJ put on a slower song. Zoe turned her head toward the stage, then set her plate down.
-
-"Oh, I like this one. Will you come back with me?"
-
-Nora still had a piece of spinach pastry in her hand. "Hang on. Let me finish this."
-
-Zoe waited beside the table. Nora brushed the flakes off her fingers and said something Taiga couldn't hear. Zoe bent her head to catch it. When she straightened, Nora touched her elbow and kissed her.
-
-Taiga looked up properly a second too late to pretend he hadn't seen. Zoe had set her hand on Nora's waist, right over the red scarf. They stayed like that for a little while. Then Nora backed up just enough to look at her. Zoe said something close to her face that made Nora laugh. She took Zoe's hand and led her between the tables.
-
-It took Taiga a second to remember whose water he was holding.
-
-Leo was sitting with one foot still propped on his knee. He looked up at Taiga. His ears were pink.
-
-"Did you know?" Taiga asked.
-
-Leo shook his head. Neither of them said anything else until Taiga handed him his cup. Their fingers brushed, and Leo nearly missed the cup altogether.
-
-"Your shoe," Taiga said.
-
-"Oh. Right."
-
-Leo finished tying it. They watched the crowd while they drank. Somewhere near the front, Zoe raised an arm to keep her wreath on as Nora turned beneath it. Then someone taller moved across Taiga's view.
-
-They went back when they heard Enzo shouting for Gav from somewhere near the stage. Nobody seemed to need rescuing. Gav had simply come back with another cup and was refusing to leave it with Enzo, who'd lost his own.
-
-They stayed for a few more songs. At some point Taiga stopped trying to keep track of what the others were doing. Somebody near him knew every word and sang the wrong one so loudly that Taiga lost his place too. Leo caught him laughing and leaned over to ask what he'd missed. Taiga tried twice to tell him. On the third attempt Leo put a hand on his shoulder and yelled, "Do you wanna get out of the speakers?"
-
-"Yes. Jesus."
-
-They came out on the stadium side, where the tables thinned and a low brick wall divided the plaza from the service lane. Taiga could hear people talking over there. He could also hear his own footsteps again. He walked past the first gap in the wall to a place where the path curved behind it. From there he could still see the tops of the lights over the brick.
-
-Leo leaned beside him and took the wreath off. A few strands of hair stayed flattened across his forehead. He ran a hand through them. They sprang up in four different directions.
-
-"Better?" Leo asked.
-
-"Much. I can hear you being loud at a normal volume."
-
-Leo laughed, quieter now that he could. He pulled a bent leaf flat against the band with his thumb. Taiga watched him do it twice before realizing he could just look at him.
-
-The light from the plaza reached one side of Leo's face. He had a faint red line above his eyebrow from the wreath. Taiga touched it with the tip of his finger.
-
-"Those things leave a mark."
-
-"Do they?" Leo tipped his face toward him. "You've got one too."
-
-Taiga took his wreath off. He set it and Leo's on the wall, then turned back to him. Leo was still close enough that Taiga could feel the edge of his cloak against his shin.
-
-He put his hand at Leo's waist. It was where he'd put it any number of times to get past him or get his attention. This time he let it stay. Leo glanced down. Taiga could feel him breathing through the fabric, right under his thumb.
-
-"Can I?" Taiga asked.
-
-Leo looked at his hand, then back at him. "Yeah."
-
-Taiga slid his fingers beneath the loose fold at Leo's side. His skin was warm from dancing. Leo went very still for a second. Then his hand found Taiga's waist in turn, and his thumb slipped past the edge of the cloth. Taiga's breath caught. He'd thought about Leo touching him there before. In none of those versions had he been stupid enough to forget what to do with his other hand.
-
-He put it on Leo's shoulder. Leo moved closer. Taiga felt his laugh before he heard it.
-
-"What?" he asked.
-
-"Your belt's digging into me."
-
-Taiga shifted it with his wrist, and Leo helped him, turning the buckle slightly to one side. Then Leo's hand went straight back to where it had been. Taiga's fingers tightened against his waist.
-
-A wheel bumped hard over the curb.
-
-"Hang on, I'm losing the top one."
-
-Taiga took a step back. Leo caught one of the wreaths as Taiga's elbow sent it sliding along the wall. A cart rolled around the bend stacked with two gray bins and a milk crate. The guy pushing it had a yellow vest over his toga. Another student walked backward in front of him, holding the lid on the top bin with both hands.
-
-"Sorry, guys. Can we get past?"
-
-"Yeah, of course." Leo pressed back against the wall.
-
-Taiga moved beside him. The cart took the turn in three goes. For the last one, Taiga held the gate open while the guy in the vest pulled the cart through. By the time the latch fell back into place, he could see two more carts waiting on the other side.
-
-Leo held out Taiga's wreath. The bent leaf was on this one now. Or maybe he'd had it all along.
-
-"You okay?" Leo asked.
-
-"Yeah." Taiga put the wreath back on. "Are you?"
-
-"Yeah."
-
-Leo's face was still flushed. He reached up and turned the wreath a little so it sat straight. Taiga stood still and let him.
-
-They got back in time to catch Scott and Gav collecting everyone's stuff from the chairs. Evan had produced a packet of cookies from somewhere and was passing it around. Nora and Zoe had pulled two chairs together so they could share the plate on their knees. There were a few crumbs left. Zoe dragged a finger through them, and Nora turned the plate so she could get the ones on her side too.
-
-"You going?" Evan asked when he saw Taiga looking toward the stairs.
-
-"In a bit. Ten o'clock train tomorrow."
-
-"Oh, shit. That's right." He held out the cookies to Leo. "You coming down to see him off?"
-
-"I'm getting on it."
-
-Evan looked from one to the other. "Wait. You're going to camp?"
-
-"Yeah," Leo said. He picked a cookie out of the packet. "Apparently I'm gonna carry lumber."
-
-"If you show up on time," Taiga said.
-
-Leo broke the cookie in half and handed him a piece. "I can show up on time."
-
-"You can show up five minutes late holding coffee."
-
-"Would you like coffee?"
-
-"...Yeah."
-
-"Well, there you go."
-
-They stayed until they'd finished the cookies. On the way out, Taiga stopped at the bottom of the stairs to get his cloak out from under his heel. Leo took the loose end and held it out of the way until he'd got his foot free. He kept hold of it as they went up, walking close enough for their arms to touch.
-
-Past the stairs the crowd fanned out toward the residences. Taiga could hear the music from there, but he could finally feel the cold where Leo's hand had been.
-
-"Text me when you're up," he said.
-
-"I will."
-
-At the fork in the path, Leo reached up to keep his wreath on and turned toward his building. Taiga could still see him smiling as he went.
-
-Taiga got back with the wreath still on his head. He took it off and set it on the desk, beside the packing list he'd started for Leo. There were four things on it. He'd written *warm socks* twice. He crossed out the second one and pulled his own bag out from under the bed.
+"You can see the lake from the road after this," he said. "I'll tell you when to look."
