@@ -28,6 +28,8 @@ Around 990–1000, England was already a kingdom ruled by Æthelred II. His cour
 
 **Book two brings the politics and the growing war into the school story.** The kingdoms start asking things of Hogwarts, and the students have ties on both sides. Merlin and Arthur could reach their closest point, with room for a romance and some happiness together before their choices start pulling them apart. By the end, they are drifting apart. The decision that makes the break real is still open.
 
+The fall of the four founders could be a major thread in Book Two. Salazar and Godric's quarrel could come to a fight as the partnership that built Hogwarts breaks apart. The book could also cover a robbery involving Helga and the affair of Helena Ravenclaw and the Bloody Baron, including the theft of Rowena's diadem and Helena's murder. The details of Helga's robbery are open. Merlin and Arthur could watch the founders' friendships unravel just as their own loyalties begin to pull them apart.
+
 **Book three brings open war.** Merlin and Arthur become enemies, Morgana is defeated, and the truth about the recurring prophecy emerges. Give the story room after Morgana's defeat to see what Arthur does with the victory and how his pursuit of vengeance could carry on without her. Merlin's recovered memories let him recognise the pattern he is living through and eventually face the choice of whether to begin again. What makes this life different enough for him to stop is open.
 
 The three books can span several school years. Their boundaries can follow the major changes in the war and in Merlin and Arthur's lives.
