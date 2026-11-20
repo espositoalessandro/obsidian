@@ -495,7 +495,7 @@ Another big guy appeared beside him. Even bigger than Bryce, if possible, with r
 
 "Tch. I hate wasting time," Bryce spurted.
 
-The red guy ignored him. "Hello, I'm Derek. Don't mind this hothead here, I apologize for his rudeness. I assume you guys are from the Apollo Soccer Team?"
+The bigger guy ignored him. "Hello, I'm Derek. Don't mind this hothead here, I apologize for his rudeness. I assume you guys are from the Apollo Soccer Team?"
 
 "That's us!" Evan said.
 
