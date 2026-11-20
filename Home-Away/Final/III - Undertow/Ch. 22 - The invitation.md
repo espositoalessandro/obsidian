@@ -160,7 +160,7 @@ Leo answered with a mouthful. "Totally agreed."
 
 Enzo glared at them but, incredibly, he said nothing. Instead, he turned to Evan.
 
-"So, have you figured out if you're in? Break starts in four days and we still haven't book a thing!"
+"So, have you figured out if you're in? Break's this weekend and we still haven't book a thing!"
 
 Evan scratched his head. "I don't think, dude. Finals are just a bit more than a month away and I got too much work to do. I can't slack off for the entire break, graduation is not free."
 
