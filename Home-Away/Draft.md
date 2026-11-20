@@ -200,11 +200,11 @@ She whined and put both paws on his leg. There was already mud on his jeans and 
 
 "Tch. Look what crawled back."
 
-Yoichi was coming around the maintenance shed with a coil of rope. Taiga rubbed both sides of Yuki's head and waited for her to get down.
+Yoichi was leaning against the maintenance shed with his hands in his pockets. Taiga rubbed both sides of Yuki's head and waited for her to get down.
 
 "Missed you too, dog."
 
-"Didn't say that." Yoichi hung the rope on a hook by the door and came closer anyway.
+"Didn't say that." He pushed himself off the wall and came closer anyway.
 
 Leo came around the back of the car with Taiga's canvas bag in one hand. Yoichi gave him a slow look. "Who's this?"
 
@@ -344,7 +344,7 @@ That was worse. Taiga took the basket off the step and followed Yoichi, who was 
 
 ***
 
-Cabin Two smelled of cold wood and whatever Yoichi had used to clean the floor. Leo left his boots on the mat without being asked. Taiga gave him the lower bunk by the window and put his own duffel down across from it.
+Cabin Two smelled of cold wood and floor cleaner. Leo left his boots on the mat without being asked. Taiga gave him the lower bunk by the window and put his own duffel down across from it.
 
 "Did you ever sleep here?" Leo asked.
 
@@ -568,7 +568,7 @@ Taiga picked up his bowl and Leo's, but Aiden met him halfway to the kitchen and
 
 "Nope. You two traveled all afternoon. Go."
 
-"That's not a rule," Yoichi said from the sink.
+"That's not a rule," Yoichi said. He left his bowl by the sink and took a step toward the door.
 
 "It is tonight."
 
@@ -696,9 +696,17 @@ Goro looked up. "We had stew last night."
 
 "Yoichi, the tree's still across the lower trail?" Yoshinori asked.
 
-"Yeah. I had a look yesterday."
+"Yeah. Saw it when I took Yuki out yesterday."
 
-"Then let me know what you need before you start. Darius, take Taiga and Leo through cabins six to ten. Window seals, moisture check, mattresses, shutters. If you finish early, report to Yuri for equipment inventory."
+"And then?"
+
+"Then I took her the other way."
+
+Yoshinori waited.
+
+"What? She wanted to keep walking."
+
+"Please clear it before lunch. Come find me if you need a hand. Darius, take Taiga and Leo through cabins six to ten. Window seals, moisture check, mattresses, shutters. If you finish early, report to Yuri for equipment inventory."
 
 "Got it," Darius said.
 
@@ -792,7 +800,7 @@ Taiga snorted. Yuki leaned harder into Leo's leg. He slid down a step so she cou
 
 Taiga closed his eyes. There it was.
 
-Yoichi came up the path with his sleeves shoved up and a streak of sawdust across one arm. He looked at them on the step. Then at Yuki.
+Yoichi came up the path with a bow saw in one hand. He looked at them on the step. Then at Yuki.
 
 "Lazy assholes."
 
@@ -804,9 +812,17 @@ Yoichi came up the path with his sleeves shoved up and a streak of sawdust acros
 
 "No shit. I'd fire you."
 
-Leo looked at the rope over Yoichi's shoulder. "What's that for?"
+Leo looked down at the saw. "What's that for?"
 
 "Tree came down over the drainage cut. Need another set of hands."
+
+"How much have you done?" Taiga asked.
+
+"I got the saw out."
+
+"Very demanding work."
+
+"Yeah. I nearly had to take my jacket off."
 
 "You told Yoshinori?" Taiga asked.
 
@@ -836,7 +852,17 @@ Leo scrambled back for his gloves. Taiga stood there with Yuki long enough for h
 
 ***
 
-The lower trail was still wet from the thaw. They found the pine across the drainage channel where it widened below the cabins, its smaller branches piled on one side. Yoichi put Leo to work beside him. Leo asked him to point out exactly which branch he meant before he touched anything.
+The lower trail was still wet from the thaw. The pine lay across the drainage channel with all its branches still on it. Yoichi handed Leo the saw.
+
+"Hang on. Which one do you want me to start with?" Leo asked.
+
+"That one over the ditch." Yoichi pointed. He stayed right where he was until Taiga dropped the first armful of loose brush at his feet.
+
+"What?"
+
+"You can start carrying these up while he cuts."
+
+"Psh. All right, Dynamite. I heard you."
 
 "Psh. At least Sunball knows how to listen," Yoichi said.
 
@@ -848,7 +874,7 @@ The lower trail was still wet from the thaw. They found the pine across the drai
 
 A little later Taiga heard them arguing about what counted as a small branch. They'd apparently got as far as measuring one with their hands.
 
-Taiga spent most of the next hour hauling brush up to the path. By the time Lloyd came down to look at the ditch, there was room for water to run underneath what was left of the trunk. Then Yoichi put one foot on the bank to come up, slipped and sent a fan of dirty water up the back of Leo's jeans.
+Taiga hauled brush up to the path while Leo dealt with the branches. Yoichi carried two loads up, then found a dry spot to sit until Leo called him over to help shift a branch that was stuck down in the ditch. By the time Lloyd came down to look at the ditch, there was room for water to run underneath what was left of the trunk. Then Yoichi put one foot on the bank to come up, slipped and sent a fan of dirty water up the back of Leo's jeans.
 
 Leo looked down at himself. "You did that while I was helping you."
 
@@ -860,7 +886,7 @@ Yoichi planted his other foot and hauled himself up. "You gonna tell your jeans?
 
 "Dude. Thanks."
 
-Yoichi snorted. He handed Leo his bottle from the dry side of the ditch. Leo tucked it under his arm and took the second saw when Yoichi held it out, and they walked back ahead of Taiga, still arguing about the size of the branch.
+Yoichi snorted. He handed Leo his bottle from the dry side of the ditch and took the saw back. They walked up the path ahead of Taiga, still arguing about the size of the branch.
 
 Lunch was sandwiches. Aiden had started the soup, but it needed a few more hours and he wouldn't let anybody take a spoon to it. Leo ate two sandwiches and went back for another. Aiden intercepted him at the counter with a whole plate to take to the table.
 
