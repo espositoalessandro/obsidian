@@ -118,15 +118,13 @@ Leo twisted round to get his backpack off the seat. Taiga usually had his bag on
 
 The bus left them beside a gas station with two pumps and a bait shop with plywood over the windows. Taiga put his bags down by the bench. The last time he'd been there, the snow had reached the seat.
 
-Leo turned to watch the bus go. "We're really out here, huh?"
+Leo looked back at Taiga. "This is it?"
 
-"There's a guy inside if you want to buy something."
+"No."
 
-"What would I buy?"
+"Good, because I was about to have questions."
 
-Taiga glanced at the pumps. "Gas?"
-
-Leo laughed and sat down. He'd just got his phone out when a gray utility vehicle came around the bend, rattling a little over the broken asphalt. Taiga recognized the camp sticker on the windshield.
+He turned to watch the bus go, then sat down. He'd just got his phone out when a gray utility vehicle came around the bend, rattling a little over the broken asphalt. Taiga recognized the camp sticker on the windshield.
 
 "Oh, good," he said. "It's Aiden."
 
@@ -142,27 +140,41 @@ Taiga caught Leo smiling. Jesus, he'd been here for about thirty seconds.
 
 "Aiden, this is Leo." He hooked his thumb toward him. "Leo, Aiden."
 
-"Hi!" Leo stood and held out his hand. "Thanks for coming to get us."
+"Yeah. Hi, I'm Leo."
 
-"Of course. Here, give me that bag. That's a long trip to make your first time out here."
+"Aiden Flynn. Yoshinori sent me before he decided the schedule needed another clipboard."
 
-"It's been fun so far. I got the window."
+Taiga snorted. "That sounds like him."
 
-"You want it in the car too?" Aiden lifted Leo's duffel into the back. "Hop in wherever you like."
+Aiden shook Leo's hand. "Thanks for coming all the way out here, buddy."
+
+"I was promised manual labor."
+
+Aiden's smile widened. "Oh, you'll get plenty of that."
+
+He lifted Leo's duffel into the back. "Hop in wherever you like."
 
 They put the rest of the bags in the back, and Taiga got in up front out of habit. There was a pile of cut branches where the plow had pushed the snow against a fence. From the back seat came the occasional rustle of Leo's jacket as he leaned from one window toward the other. After a while Taiga reached up to tap the glass beside him.
 
 "Here. Through the trees."
 
-Leo was quiet long enough that Taiga turned in his seat. Then the road came out along the water, and Leo went, "Oh," so softly Taiga almost missed it.
+Leo was quiet long enough that Taiga turned in his seat. Then the road came out along the water, and Leo went, "Oh," so softly Taiga almost missed it. Taiga remembered that sound from the overlook at Pinetree.
 
 The lake was gray and wider than it usually looked in Taiga's photos. There was a pale strip on the far shore where the trees thinned. Taiga had been looking forward to seeing it all week. Now that it was in front of him, he kept turning to see how much of it Leo could make out from the back.
 
-"You ever been up this way before?" Aiden asked.
+"First time this far out?" Aiden asked.
 
-"First time," Leo said. "We go to the coast a lot back home. I don't think I've seen a lake this big."
+"More of a sea boy."
 
-"Wait till you get down by the water. Gets even bigger from there."
+"Ahh. That explains the face."
+
+"What face?"
+
+"The lake face."
+
+"That is not a thing."
+
+"It absolutely is. Wait till you get down by the water. Gets even bigger from there."
 
 The camp sign came up on the next bend. Someone had replaced the bracket on the bottom corner. The shine on the new bolts made the rest of it look a little worse, which was probably why Goro would make somebody paint it before summer. Then the turn opened up and Taiga could see the lodge, the empty path to the mess hall and the newer cabins farther back. Leo leaned forward between the seats.
 
@@ -186,29 +198,51 @@ Taiga opened his door. Yuki hit him from the side before he'd straightened up. H
 
 She whined and put both paws on his leg. There was already mud on his jeans and he hadn't even made it off the gravel.
 
-"Took you long enough, Dynamite."
+"Tch. Look what crawled back."
 
 Yoichi was coming around the maintenance shed with a coil of rope. Taiga rubbed both sides of Yuki's head and waited for her to get down.
 
 "Missed you too, dog."
 
-"Was talking to her." Yoichi hung the rope on a hook by the door. "She's usually quicker when there might be food in the car."
+"Didn't say that." Yoichi hung the rope on a hook by the door and came closer anyway.
 
-"There's food in the car," Leo said. He'd come around the back with Taiga's canvas bag in one hand. "Pretty sure I'd lose a fight for it, though."
+Leo came around the back of the car with Taiga's canvas bag in one hand. Yoichi gave him a slow look. "Who's this?"
 
-Yoichi gave him a slow look. "You're the soccer guy."
+"Leo." He put the bag down and offered his hand. Yoichi glanced at it, then at Leo's hiking boots.
 
-"One of them. Leo." He put the bag down and offered his hand. Yoichi glanced at it. Yuki sniffed it first, which was all the opening Leo needed to squat down and let her come the rest of the way. A moment later she had her chin on his wrist.
+"Those real, or you one of those idiots who buys boots to wear to coffee?"
+
+"I asked the same thing," Taiga said.
+
+Leo looked between them. "This feels coordinated."
+
+"It isn't," Taiga and Yoichi said together.
+
+Leo's smile widened. Yoichi clicked his tongue. "Psh. Great. He's annoying too."
+
+Yuki finally noticed Leo. She lifted her head, and he crouched down with his hand low and waited for her to come to him.
+
+"Hey."
+
+"Don't baby her," Yoichi said.
+
+"I haven't touched her."
+
+"Your voice is annoying."
+
+"That's genetic."
+
+Yuki sniffed his hand, then his jeans. By the time he'd sat back on his heels she had her chin on his wrist.
 
 "Traitor," Yoichi muttered.
 
-Leo looked up at him. "Should I apologize?"
+"Should I apologize?"
 
 "Yeah."
 
 "Sorry."
 
-"To me, dumbass."
+"Fuck you."
 
 Leo started laughing. Yuki immediately tried to climb into his lap. Taiga took the bag from the gravel before she got any ideas about the food inside it.
 
@@ -222,45 +256,91 @@ Yoshinori came out of the lodge with a clipboard under his arm. He smiled when h
 
 "And you must be Julio."
 
-Leo's head swung toward Taiga. "Oh, God. You gave him the full name."
+Leo's head swung toward Taiga. "Why did you do that?"
 
-"He needed it for the form."
+"What? It's your name."
 
-"Yeah, but nobody ever actually *says* it." He straightened up and shook Yoshinori's hand. "It's Leo. Nice to meet you, sir."
+"Only my mom calls me that!" Leo sighed and straightened up to shake Yoshinori's hand. "Yes, sir. Just Leo."
 
-"Likewise. You can call me Yoshinori." He looked at Yuki, who was pawing at Leo's shoe. "Thank you for coming to help. I see you've already been put to work."
+"I'm Scoutmaster Yoshinori. You do not need to call me sir, though."
 
-"Is this work? I'm gonna be great here."
+"Give him twenty minutes," Taiga said.
 
-Yuri pushed the lodge door open with her elbow. She had a basket full of towels and a smear of white paint on her wrist. Taiga tried to judge how much time the basket would buy him.
+Leo ignored him. "Nice to meet you, Yoshinori."
 
-"Taiga!" She set it down on the step and hugged him anyway. "I was beginning to think you'd forgotten us now that you have a soccer team."
+"And you, Leo. Thank you for coming to help."
 
-"I was here at New Year."
+Yuri pushed the lodge door open with her elbow. She had a basket full of towels and a smear of white paint on her wrist.
 
-"Yes, and you can hardly blame me for wanting you back sooner." She turned to Leo. "Someone's got to tell me what he does up there all day. I get three words from him if I'm lucky."
+"KYAAA! You really came! Come here!"
 
-"Yeah, he does that to us too," Leo said.
+Taiga took one step back. "Yuri."
 
-"Crazy Lady, leave Sunball alone till he's had something to eat."
+She set the basket down on the step and hugged him anyway. "Aww~ look at you! You look wonderful! College agrees with you."
 
-Yoichi shut the back of the car. He had both duffels, one in each hand, and was already halfway across the yard by the time Leo said, "Sunball?"
+"It doesn't."
 
-"That's you. Come on."
+"It absolutely does. Your shoulders—"
 
-Leo looked down at his shirt, as if a sun might have appeared on it. Then he picked up his backpack and went after him.
+"No."
 
-"Is that because of Apollo?" he called.
+Leo turned away. Taiga pointed at him from inside the hug. "I can see you."
 
-"Because I can fucking see you through the trees."
+That only made him laugh harder. Yuri finally released Taiga and caught sight of Leo beside the car.
 
-Leo pulled the yellow scarf higher around his neck. "Well, good. I was worried it wasn't doing enough."
+"Oh! You must be Julio!"
 
-Taiga was still laughing when Yoshinori pointed out the path to Cabin Two. The beds were made, dinner was at seven, and if Taiga wanted a look at the maintenance list he could see it in the morning. Taiga had only glanced at the clipboard once.
+Leo glanced at Taiga. "Yeah. Just Leo. Hi."
 
-"All right," he said. "See you at dinner."
+"I'm Yuri," she said, taking his hand with both of hers. "Welcome to Camp Buddy! Yoshinori told us Taiga was bringing a friend from Olympus."
 
-He took the basket off the step when Yuri said she was headed the same way. Ahead of them, Yoichi was telling Leo to keep his boots clear of the puddle by the porch. He'd gone straight through it himself.
+Taiga looked at Yoshinori.
+
+"I had to give everyone an accurate head count," Yoshinori said.
+
+"That doesn't explain her."
+
+"Nothing explains her." Yoichi shut the back of the car and picked up both duffels.
+
+Yuri ignored him. "So you're on the soccer team with Taiga?"
+
+Leo nodded. "And Computer Science."
+
+Her smile sharpened. Taiga knew that look. "I know what that face means."
+
+"What face?"
+
+"The one you make before everybody at the table gets embarrassed."
+
+Leo looked between them. "That sounds promising."
+
+"It isn't."
+
+Yuri laughed. "Oh, I like him."
+
+"Crazy Lady, quit scaring Sunball before dinner."
+
+Yoichi was already halfway across the yard by the time Leo said, "Sunball?"
+
+"Yeah. That's you now."
+
+"Means he likes you," Taiga said.
+
+"I CAN HEAR YOU."
+
+Yuri covered her mouth. "Come on, boys. Aiden's making dinner, Dad is pretending he isn't waiting to inspect the new volunteer, and I promise to behave."
+
+"No one believes you," Taiga said.
+
+"Hihi~"
+
+Yoshinori pointed out the path to Cabin Two. The beds were made, dinner was at seven, and if Taiga wanted a look at the maintenance list he could see it in the morning. Taiga had only glanced at the clipboard once.
+
+"If you say anything, I'm leaving," he told Yoshinori.
+
+"I was only going to say that it is good to see you bring a friend here."
+
+That was worse. Taiga took the basket off the step and followed Yoichi, who was telling Leo to keep his boots clear of the puddle by the porch. He'd gone straight through it himself.
 
 ***
 
@@ -298,85 +378,219 @@ He went back to his bunk and began emptying his backpack onto the mattress. The 
 
 ***
 
-Aiden was ladling stew when they got to the mess hall. Most of the tables were pushed against the walls for the off-season. At the long one nearest the kitchen, Goro had spread a folder out beside his bowl. He closed it when Taiga came over.
+Dinner was stew. Aiden raised his ladle as they came in.
 
-"Welcome back, Taiga."
+"This is preseason food. Hot, filling, and there's enough of it that nobody gets to complain they're hungry later."
 
-"Hey, Goro."
+Yoichi, already eating, looked into his bowl. "It's stew."
 
-"You look well." Goro gave him a little nod, then stood to shake Leo's hand. "Yoshinori tells me you came all the way from Olympus to help us get ready for summer. I appreciate it."
+"Correct. Good job."
 
-"Yeah, of course. Thanks for having me."
+"Psh."
 
-"We'll show you what needs doing in the morning. Please ask if anything is unclear. It saves us a great deal of trouble when people ask."
+"Keep talking and I'll assume you don't want seconds."
 
-"Dad," Yuri said, pulling out a chair. "You can let him have a bowl before you start talking about trouble."
+Yoichi pulled his bowl closer. "Didn't say that."
 
-"I was welcoming him."
+Most of the tables were pushed against the walls for the off-season. At the long one nearest the kitchen, Goro had a folder open beside his bowl. He closed it when Taiga came over.
 
-"You were. Now eat," Aiden told Leo, setting a bowl down in front of him. "We can still save you."
+"Taiga, welcome back. It is good to see you here again."
 
-Leo took a bite while it was hot enough to make Yoichi blow on his spoon from across the table. Taiga saw his eyes go wide just before he reached for his water.
+"Good to see you too," Taiga said.
 
-"Oh, wow."
+Goro gave him a small nod and turned to Leo. "Mendez, I presume."
 
-"Too hot?" Aiden asked.
+Leo stood a little straighter. "Yes, sir."
 
-"Yeah. I went in again anyway. It's really good."
+"Ehem. Yoshinori informed me that you chose to spend your university recess assisting us with preseason preparations. Your help is appreciated. If you intend to help, I expect you to take the work seriously."
 
-Aiden got him another piece of bread. Taiga had forgotten how quickly it happened. At Olympus he had to get seconds himself.
+"Dad," Yuri said, pulling out a chair.
 
-Lloyd and Darius came in while Taiga was wiping stew off his thumb. Lloyd had a roll of drawings under his arm and went right to Taiga's side of the table with it.
+"What? It is a reasonable expectation."
 
-"You're here! Excellent. Remember where we had water coming off the newer cabins? I think I can do something about it before we get another week of rain."
+"It is," Leo said. "I can do serious."
 
-"Say hello first," Darius said.
+Taiga looked at him. Leo caught it. "Sometimes."
 
-"I did. Didn't I?" Lloyd put the roll down and held out a hand to Leo. "Sorry. Lloyd Sirius. I usually come with fewer drawings."
+Aiden set a bowl down in front of Leo. "Eat first. Goro can turn anything into an orientation speech if you give him enough time."
 
-"He doesn't," said Darius. "Darius Najjar. I'll be with you on the cabin row tomorrow."
+"Flynn."
 
-Leo shook both their hands. "Good to meet you guys. Let me know if I'm sitting on anything important."
+"What? I'm helping."
 
-"You're fine. Actually, when's your birthday?" Lloyd asked.
+Yuri sat beside her father. "Dad has been in preseason mode since February."
 
-"May twenty-fourth. Why?"
+"I have been planning since February."
 
-"Gemini." Lloyd sat back with evident satisfaction. "I thought so."
+"That's exactly what I said."
 
-"You see how fast that happens?" Taiga said.
+Leo took a bite, then reached for his water. "Oh, wow. This is really good."
 
-Leo was looking at Lloyd with new interest. "Wait, what did I do that was Gemini?"
+"That's what I like to hear, buddy!" Aiden got him another piece of bread. Taiga had forgotten how quickly it happened. At Olympus he had to get seconds himself.
 
-"Oh, don't ask him to explain," Darius said, sliding the drawings clear of the bowls. "We'll be here all night."
+Lloyd and Darius came in while Taiga was wiping stew off his thumb. Lloyd had a roll of drawings under his arm.
 
-Yuri waited until they'd actually eaten some stew to ask Leo about Apollo. He told her that you could usually find somebody to kick a ball around with and that you would always find somebody in the kitchen, regardless of whether that person knew how to cook. Taiga knew exactly who he meant.
+"TAIGA! There he is! You came back during actual work season. I knew college hadn't ruined you."
 
-"And you and Taiga got into the same House and the same classes?" she asked.
+"Hey, Taiga," Darius said.
 
-"Some of the same classes. We have different roommates," Taiga said.
+"Hey, Dar."
 
-"I assumed you did, sweetheart. Yoshinori had to ask you whether you wanted the same cabin."
+Darius looked him over once. "You still have all your fingers."
 
-Taiga suddenly had a very serious problem with his stew. It had gone down the wrong way. Leo passed him the water without saying anything, although his ears were looking a little red.
+"Barely."
 
-"Dynamite usually makes the whole thing sound like he goes to class and then goes to bed," Yoichi told him. "What the hell do you guys actually do up there?"
+"Good."
 
-Leo took that as a genuine question. He told him about training, some of the bets at Apollo, and a game night in which Taiga had apparently been a worse loser than he remembered. When Taiga tried to correct one detail, both of them told him to wait till the story was over. Fantastic. They'd known each other an hour.
+Taiga nodded toward Leo. "This is Leo."
 
-By the time the bowls were empty, the sun had gone behind the ridge. There was still light out on the water. Taiga got up with his bowl and Leo's, but Aiden met him halfway to the kitchen and took them.
+"Oh! New volunteer." Lloyd put the roll down and shook Leo's hand with enough enthusiasm for both of them. "Lloyd Sirius. Architect, scoutmaster, occasional victim of unrealistic deadlines."
 
-"Go on. You can help tomorrow."
+Darius held out his own hand. "Darius Najjar. Foreman. I build things. I'll be with you on the cabin row tomorrow."
 
-"You made Yoichi stay and do them last time."
+"Nice to meet you," Leo said.
 
-"Yeah, and I'm still here," Yoichi said from the sink. "In case you feel like picking up a fucking towel."
+"Same."
 
-Aiden handed him one. "I've got you covered, buddy."
+Lloyd pointed at Taiga. "We taught this one most of what he knows about construction."
 
-Taiga reached for his jacket. "Come on, Leo. There's still enough light."
+"Some of it," Darius said.
 
-Leo was on his feet before Yuri could say a word.
+"Okay, rude," Taiga said.
+
+Lloyd had already turned back to Leo. "Important question. Birthday?"
+
+Leo blinked. "What?"
+
+"Birthday."
+
+"May twenty-fourth."
+
+"Gemini! I knew it."
+
+"You asked after meeting him," Darius said.
+
+"Confirmation is still a valid scientific method."
+
+Darius slid the drawings clear of the bowls and sat down beside Lloyd. Leo leaned forward to ask what he'd done that was Gemini, and Taiga kept eating while Lloyd told him.
+
+Yuri lasted about three minutes before she began the interrogation she'd promised was innocent.
+
+"So, Leo, what exactly is House Apollo? Taiga's explanations are usually about six words long."
+
+Leo laughed. "That's generous. It's one of the God Houses. A lot of athletes live there, and a bunch of the soccer team ends up there."
+
+"And you?"
+
+"Yeah."
+
+Yuri's eyes moved between them. "So you two train together, study together, and live in the same House?"
+
+Taiga stopped eating. "Not the same room."
+
+"I didn't say the same room."
+
+"You were thinking it."
+
+"I was thinking what a convenient arrangement that is."
+
+"For soccer."
+
+"Of course." Leo's ears had started turning pink. Yuri leaned toward him. "Does he act this defensive at Olympus too?"
+
+Leo glanced at Taiga. "All the time."
+
+"Traitor."
+
+Yuri laughed. "Oh, this is going to be fun."
+
+Goro put down his spoon. "Yuri."
+
+"Yes, Dad?"
+
+"Allow our guest to eat without interrogating him."
+
+"I am getting to know him."
+
+"You are embarrassing Taiga."
+
+"That's part of getting to know him."
+
+Yoichi snorted into his bowl. "Dynamite's gonna fucking explode before dessert."
+
+"Shut up."
+
+"Dessert," Aiden said, as if that were the only important part of the exchange.
+
+Goro asked Leo how he was doing in his classes. While he answered, Yoichi tore his bread into pieces and kept looking over at him as if he were waiting for his turn. As soon as Leo paused, Yoichi pointed his spoon at him.
+
+"So, Sunball. You actually good at soccer, or do you just run around smiling until people give you the ball?"
+
+Leo swallowed. "I guess both?"
+
+"Better answer."
+
+"Better than what?" Taiga asked.
+
+"Your dumbass answer when I asked about Olympus. 'Team's fine.' Psh. You make everything sound lame."
+
+"That was months ago."
+
+"Still lame."
+
+Leo looked between them. "Okay, yes. He absolutely does that. He'll get an assist and describe the match like he went to the post office."
+
+Yoichi slapped the table once. "Exactly!"
+
+"Fuck both of you."
+
+"See?" Yoichi said to Leo. "Now he's emotional."
+
+Taiga reached for his water while Aiden laughed. By the time the bowls were empty, the sun had gone behind the ridge. There was still light out on the water.
+
+"Leo, has Taiga shown you the dock yet?" Yuri asked.
+
+"Not yet."
+
+"You should go before the week is over. Sunset over the lake is beautiful." She smiled. "Very romantic, too."
+
+Leo looked down at his bowl. Taiga looked at Yuri. "Why."
+
+"What? It's true."
+
+"You know what you're doing."
+
+"Yes."
+
+Yoichi snorted. "Dumbass walked straight into that one."
+
+Taiga picked up his bowl and Leo's, but Aiden met him halfway to the kitchen and took them.
+
+"Nope. You two traveled all afternoon. Go."
+
+"That's not a rule," Yoichi said from the sink.
+
+"It is tonight."
+
+"You make shit up constantly, Buttcheeks."
+
+"That's one of the privileges of being a scoutmaster." Aiden tossed him a towel. "Dry."
+
+"Fuck."
+
+"Tomorrow you can work until you regret volunteering," Aiden told Taiga. "Tonight, show Leo around before it gets dark."
+
+Yuri passed with a stack of bowls. "Yes, Taiga. Show Leo somewhere quiet and scenic."
+
+"Yuri."
+
+"What? He came all this way!"
+
+Leo covered his mouth. Taiga hated spring break.
+
+"Come on," he said, reaching for his jacket. "There's still enough light."
+
+Leo stood immediately.
 
 ***
 
@@ -426,13 +640,17 @@ Taiga stayed until he couldn't see the orange tape clearly anymore. When they we
 
 Yoichi banged on the door at six forty-five on Sunday morning. Taiga knew it was him because nobody else would hit a door that hard and then shout through it anyway.
 
+"Wake up, dorks!"
+
+Taiga checked his phone. "It's six forty-five."
+
+"Yeah!"
+
+"Die!"
+
 "Breakfast in fifteen!"
 
-"Fifteen is enough time to go back to sleep," Leo said into his pillow.
-
-"Tell him that."
-
-Leo drew a breath. "I'm dead!"
+Leo drew a breath from under the blanket. "I'm dead!"
 
 "Good! More eggs!"
 
@@ -444,31 +662,77 @@ His footsteps went down the porch. Taiga got up and put both feet on the cold fl
 
 "Oh. Cool. That's so much worse."
 
-They got to breakfast in time for the eggs. Yoshinori waited until Aiden had sat down with his toast before opening the clipboard.
+They got to breakfast in time for the eggs. Leo's hair was still flat on one side and sticking up all over on the other. Yuri saw him before he could sit down.
 
-"The west cabin row needs airing out and inspecting. Darius, I'll have Taiga and Leo start with you. Yoichi, the lower trail's blocked again. Have a look after breakfast and let me know if you need help."
+"Oh my."
 
-"Tree came down across the ditch," Yoichi said. "I had a look yesterday."
+Leo closed his eyes. "I know. They'll start behaving in a couple of hours."
 
-"Good. Then let me know what you need before you start."
+"I love it."
 
-Yoichi took another bite of toast. Yoshinori waited until he looked up.
+"Thank you."
 
-"Yeah, fine."
+Taiga laughed. Yuri turned to him. "Taiga, yours is hardly better."
 
-Lloyd wanted to look at the drainage farther uphill, and Yuri had almost finished setting up for inventory. When she heard she might get the boys after lunch, she took a roll of labels out of one pocket and set it beside her plate.
+Taiga stopped laughing. Leo did not.
 
-"Oh, excellent. I've been finding these all over the laundry."
+Yoshinori waited until Aiden had sat down with his toast before opening the clipboard. "Good morning, everyone."
 
-"How many rolls did you buy?" Goro asked.
+Yoichi groaned into his coffee.
 
-"I don't want to tell you while you're holding the receipts."
+"Today we will focus on the west cabin row and lower trail. The weather should remain dry, so I would like the exterior work completed first."
 
-Goro took one of the labels off the roll. It was blue and had a small yellow star in one corner. He stuck it to the edge of his folder and went on eating. Yuri leaned across the table to try to see what he'd done with it.
+Aiden raised a hand. "Kitchen inventory?"
+
+"After lunch."
+
+"Then I have time to start the soup before lunch."
+
+Goro looked up. "We had stew last night."
+
+"Different soup!"
+
+"That is not my concern."
+
+"Yoichi, the tree's still across the lower trail?" Yoshinori asked.
+
+"Yeah. I had a look yesterday."
+
+"Then let me know what you need before you start. Darius, take Taiga and Leo through cabins six to ten. Window seals, moisture check, mattresses, shutters. If you finish early, report to Yuri for equipment inventory."
+
+"Got it," Darius said.
+
+Lloyd lifted one hand. "I'll finish the expansion-side drainage notes and join the lower trail after that. I want another look at the runoff before the next rain."
+
+"Good," Yoshinori said.
+
+"Perfect," Yuri said. Taiga knew that tone. "You two can have the cabins all to yourselves."
+
+Leo lowered his coffee very carefully.
+
+"For inspections," Taiga said.
+
+"I know."
+
+"Then stop smiling."
+
+"I am allowed to be happy that my volunteers get along." Yuri laughed. "Alright, alright. When you're done, come find me. I have the inventory labels ready."
 
 ***
 
-Darius showed Leo how to use the moisture meter in the first cabin. He left Taiga to open up the windows while Leo tried it out on the wall below one of them. The latch on Taiga's window gave after he pressed the frame in with his thumb. He remembered having to do the same thing last summer. He'd meant to see to it then. He tightened the latch and tried the window again.
+Darius handed Leo a moisture meter in the first cabin. "Green is good. Yellow, write it down. Red, come get one of us."
+
+Leo checked the display. "Simple."
+
+"Usually."
+
+Darius left him to try it on the wall below the window. The latch on Taiga's side gave after he pressed the frame in with his thumb. He remembered having to do the same thing last summer. He'd meant to see to it then. He tightened the latch and tried the window again. Darius checked it on his way out.
+
+"It holds."
+
+"That was praise," Taiga told Leo.
+
+Leo laughed.
 
 By the third cabin they'd got into a rhythm. Leo checked the walls and turned the mattresses while Taiga took care of the windows and shutters. They swapped when Taiga got sick of reaching above his head. For a while there was nothing much to say. He could tell by the sound what Leo was doing on the other side of the room. When the window finally slid shut without sticking, he opened it once more just to hear it go.
 
@@ -486,7 +750,11 @@ Taiga crouched beside him. A hairline gap in the seal ran along the bottom of th
 
 "Should I get the sealant?"
 
-"Flag it first," Darius said from the doorway. He came over and pressed one broad thumb to the frame. "We'll see how much dries with the window open. If that corner still gives tomorrow, it's coming out."
+"Mark it first. Don't seal damp wood." Darius came over and pressed his thumb to the frame.
+
+"Because we'd trap the moisture?" Leo asked.
+
+"Yeah. We'll see how much dries with the window open."
 
 Leo wrote it down, then moved the curtain aside so it wouldn't blow over the wet wood. By then the sun had got across the floor and lit up a trail of dust behind the dresser. Taiga caught the side and pulled it out so he could sweep.
 
@@ -524,25 +792,61 @@ Taiga snorted. Yuki leaned harder into Leo's leg. He slid down a step so she cou
 
 Taiga closed his eyes. There it was.
 
-Yoichi came up the path with his sleeves shoved up and a streak of sawdust across one arm. "Yoshi says I can have you both till lunch if you're done here."
+Yoichi came up the path with his sleeves shoved up and a streak of sawdust across one arm. He looked at them on the step. Then at Yuki.
 
-"With what?"
+"Lazy assholes."
 
-"The tree. I've got most of the small branches off. I need help getting the rest out of the ditch." He nodded once at Leo. "You ever used a bow saw?"
+"What do you want?" Taiga said.
 
-"Yeah. My dad used to make me help in the yard."
+"Break ended."
 
-Yoichi looked dubious. Leo tightened the lid on his bottle and got up.
+"You're not my boss."
 
-"Show me where you want me. If I'm useless, you've still got him."
+"No shit. I'd fire you."
 
-"Fine." Yoichi turned and started off. Then, without slowing down, he added, "Bring your gloves, Sunball."
+Leo looked at the rope over Yoichi's shoulder. "What's that for?"
 
-Leo scrambled back for them. Taiga stood there with Yuki long enough for him to catch up.
+"Tree came down over the drainage cut. Need another set of hands."
+
+"You told Yoshinori?" Taiga asked.
+
+"Yeah, he told me to fetch you."
+
+"So ask normally."
+
+"I did."
+
+"You yelled."
+
+"So what?" Yoichi turned to Leo. "You know how to use a bow saw?"
+
+"Yes."
+
+"Really?"
+
+"My dad has a yard."
+
+"That is not the same."
+
+"Show me."
+
+Yoichi stared for another second. "Fine. Don't cut your fingers off. Crazy Lady hates paperwork."
+
+Leo scrambled back for his gloves. Taiga stood there with Yuki long enough for him to catch up.
 
 ***
 
-The lower trail was still wet from the thaw. They found the pine across the drainage channel where it widened below the cabins, its smaller branches piled on one side. Yoichi put Leo to work beside him. Leo asked him to point out exactly which branch he meant before he touched anything. A little later Taiga heard them arguing about what counted as a small branch. They'd apparently got as far as measuring one with their hands.
+The lower trail was still wet from the thaw. They found the pine across the drainage channel where it widened below the cabins, its smaller branches piled on one side. Yoichi put Leo to work beside him. Leo asked him to point out exactly which branch he meant before he touched anything.
+
+"Psh. At least Sunball knows how to listen," Yoichi said.
+
+"That was actually nice."
+
+"Wasn't nice. Most dumbasses don't."
+
+"I'll still take it."
+
+A little later Taiga heard them arguing about what counted as a small branch. They'd apparently got as far as measuring one with their hands.
 
 Taiga spent most of the next hour hauling brush up to the path. By the time Lloyd came down to look at the ditch, there was room for water to run underneath what was left of the trunk. Then Yoichi put one foot on the bank to come up, slipped and sent a fan of dirty water up the back of Leo's jeans.
 
@@ -560,41 +864,97 @@ Yoichi snorted. He handed Leo his bottle from the dry side of the ditch. Leo tuc
 
 Lunch was sandwiches. Aiden had started the soup, but it needed a few more hours and he wouldn't let anybody take a spoon to it. Leo ate two sandwiches and went back for another. Aiden intercepted him at the counter with a whole plate to take to the table.
 
-"Good, buddy. I was starting to think I'd made too many."
+"There we go. You boys work all morning, you eat."
 
-"You did," Yoichi told him. He took the top one off the plate before Leo sat down.
+Yoichi took the top one off the plate before Leo sat down.
 
-"See?" Aiden said. "This is why I make too many."
+"You're on your third sandwich," Aiden told him.
 
-Leo sat opposite Yoichi and held the plate up out of reach while he picked his own. "You gonna steal my food every time I help you?"
+"Different."
 
-"Depends. You gonna keep helping?"
+"Of course."
 
-"Sure. You made it sound like you had another job after lunch."
+Leo took a bite, then looked toward the kitchen. "So you're the one who does most of the cooking?"
 
-"Yuri gets first pick. I can probably find you something tomorrow, though." Yoichi put what was left of his sandwich down. "You actually do the work."
+"Me and whoever I can drag in to help. During summer, everybody gets involved sooner or later."
 
-Leo dropped his eyes to his plate. Taiga could still see the smile from the other side of the table. He pulled his feet back when Leo stretched one muddy leg under the table.
+"Don't recruit him yet," Taiga said.
+
+"Hey, I wasn't going to."
+
+"You looked at him like free labor."
+
+Aiden laughed. "Well, he *is* free labor."
+
+Leo pointed his sandwich at Taiga. "I was warned."
+
+"Not enough."
+
+"Nothing's enough for Sunball," Yoichi muttered. "He volunteered for this shit."
+
+Leo smiled. "And yet you keep giving me jobs."
+
+"Yeah, because you actually do them."
+
+Leo dropped his eyes to his plate. Taiga could still see the smile from the other side of the table. He pulled his feet back when Leo stretched one muddy leg under it.
+
+Yuri joined them a minute later, with the inventory sheets already under her arm.
 
 ***
 
-Yuri's labels came in three colors. She'd cleared a whole bench in the equipment shed for the blue pile. Leo took his first look at it and asked if there was a system for the shelves as well. Yuri brought out a second sheet.
+Equipment inventory took most of the afternoon. Yuri had cleared a whole bench in the shed and labeled the shelves by color. Leo leaned in to get a better look.
 
-"Why would you ask her that?" Taiga said.
+"Blue means inspected?"
 
-"Well, look. The labels tell you where the lanterns go."
+"Exactly!"
 
-"I always put them wherever they'd fit."
+"Yellow?"
 
-"Yes, I've noticed," Yuri said. She gave Leo the sheet. "You and I are going to get along beautifully."
+"Needs cleaning."
 
-Taiga counted paddles while Leo put batteries in the lanterns and switched them on one by one. Yuri pulled things out of cupboards Taiga wouldn't have thought to check if he'd been given a week. At one point Leo opened a tin and came out with friendship bracelet thread tangled around two fingers. Yuri picked out a red length and a yellow one before he could put it back.
+"Red?"
 
-"Hold still," she told him. "I want to see how these look together."
+"Repair or replace."
 
-"Fine," Taiga said. "But if you tie him to anything, he has to finish counting first."
+Leo looked at the labeled bins. "This is beautiful."
 
-Leo lit the next lantern and turned it on him. It was brighter than either of them expected. Taiga blinked spots out of his eyes while they laughed.
+Taiga groaned. "Do not encourage her."
+
+"Thank you!" Yuri looked personally vindicated. "If I have to stare at storage shelves for three hours, they may as well look nice."
+
+Taiga pointed at Yoshinori's clipboard across the room. "He organizes."
+
+"Boringly."
+
+Yoshinori looked up. "I heard that."
+
+"You were supposed to."
+
+Taiga counted paddles while Leo put batteries in the lanterns and switched them on one by one. Yuri inspected fabrics and pulled things out of cupboards Taiga wouldn't have thought to check if he'd been given a week. At one point Leo opened a tin and lifted a handful of old friendship bracelet thread.
+
+"This feels dangerous."
+
+"Put it back," Taiga said.
+
+Yuri saw the colors in his hand. Her eyes went from Taiga's hair to Leo's. "Ooooh!"
+
+"No."
+
+"I haven't said anything!"
+
+"You don't have to."
+
+Leo looked down at the thread. His ears turned pink. Yuri held a length of yellow and a length of red together. "Come on. You have to admit they'd make a cute pair."
+
+"They're thread."
+
+"Yes. Matching thread."
+
+"Yuri."
+
+She laughed. "Fine! No bracelets."
+
+Leo sat down on an equipment crate, laughing. Yuri put the lengths back in the tin.
 
 By late afternoon, Leo had a streak of dust down his sleeve and one cuff on his tribute jeans was still wet. The last lantern wouldn't turn on. He took it over to Yuri's side of the bench and came back with a red label on his thumb and a cloth to see if cleaning the contacts would help. Taiga waited by the door for him. He'd been expecting to spend some part of the day looking over to see if Leo was bored or wanted a break. Apart from that first minute at breakfast, he'd barely had a chance.
 
@@ -616,15 +976,15 @@ Leo slapped a hand to his thigh. Then he found his phone in his jacket and broug
 
 Back in the cabin they left their boots on the mat and took the two showers with an empty station between them. Taiga was rinsing sawdust out of his hair when Leo called across the partition.
 
-"Why are the hooks all the way out there?"
+"Why are half the hooks outside the wet area?"
 
 "So your clothes stay dry."
 
-The water kept running next door. Then Leo said, "You could've told me you were gonna be right about every single thing this weekend."
+"That makes sense." The water kept running next door. Then Leo said, "I was hoping it was something stranger."
 
-Taiga laughed. "Go put your stuff on the hooks."
+"Sorry to disappoint you."
 
-"Too late."
+"I'll recover."
 
 At dinner Aiden's soup finally made it out of the kitchen. Nobody had much to say for the first few minutes. Taiga went up for more bread and heard Yoichi ask Leo if he'd come out and have a look at Yuki's favorite stick, which Aiden was threatening to move from the steps. Leo took his bowl with him. Through the mess hall window Taiga saw them sit down on either side of the stick, the two of them talking while Yuki tried to get her nose into Leo's soup. He left them to it and took the bread back to the table.
 
@@ -666,7 +1026,11 @@ Taiga threw his pillow at him. Leo caught it against his chest and scrambled up 
 
 "Give it back."
 
-"You threw it very generously."
+"I need emotional support."
+
+"You have your own."
+
+"This one has history."
 
 Taiga got up and took one corner. Leo held the other for as long as it took Taiga to get a knee onto the mattress, then let go without warning. Taiga caught himself with one hand on the bed and the other against Leo's side. Leo had leaned back against the wall. His elbow had slipped into the gap beside the mattress.
 
