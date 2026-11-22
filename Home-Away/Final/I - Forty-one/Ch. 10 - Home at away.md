@@ -300,7 +300,7 @@ Gav tilted his head. "You've known her for months now."
 
 "It still needs preparation. Planning. Something."
 
-"To me, it looks more like *you're* the one who needs preparation, not the situation itself," Maya pointed.
+"To me, it looks more like *you're* the one who needs preparation, not the situation itself," Maya pointed out.
 
 "I- Uh... wait, who are you?"
 
@@ -423,7 +423,7 @@ Leo appeared over Taiga's shoulder.
 
 "Hi Leo! Thank you. Yours is very cute too!"
 
-"Cute? It wasn't supposed to be cute. It's a mummy afterall."
+"Cute? It wasn't supposed to be cute. It's a mummy after all."
 
 Nora chuckled. "Yeah, a mummy that's going to a club."
 
@@ -734,7 +734,7 @@ The girl leaned back.
 
 "I'd say your friend's got a good chance tonight, although his own mind is holding him. But you must be wary of the future. Tonight's success might be tomorrow's battle."
 
-They left the boot a bit preoccupied. They decided not to tell Aaron.
+They left the booth a bit preoccupied. They decided not to tell Aaron.
 
 Then, after walking for a minute, Taiga saw a photo booth. Nothing crazy, just a small set with hay bales and pumpkins as a background. Leo caught his gaze.
 
@@ -795,7 +795,7 @@ Leo looked up at the sky. "Jesus Christ."
 
 "Let's go back."
 
-They found Aaron where they left him. Sofia was talking to another girl no one knew. Apparently, Aaron had waited too much and now the occasion was gone.
+They found Aaron where they left him. Sofia was talking to another girl Taiga didn't recognize. Apparently, Aaron had waited too long and now the occasion was gone.
 
 "You talked about soccer?" Enzo said in disbelief.
 
