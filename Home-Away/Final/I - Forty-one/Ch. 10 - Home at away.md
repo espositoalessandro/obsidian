@@ -29,9 +29,7 @@ Taiga felt a bit of heat crawling up his neck.
 
 "Thanks. You look good too."
 
-Caleb looked him over too.
-
-"You didn't have it yesterday."
+Caleb looked him over too. "You didn't have it yesterday."
 
 "I didn't."
 
@@ -57,7 +55,7 @@ Maya circled half a step around him.
 
 Maya smiled. She stepped back and opened her arms dramatically.
 
-"Well, I'm the Wicked Witch of the West of course."
+"Haven't you heard? I'm the Wicked Witch of the West."
 
 "And apparently I'm some brainless scarecrow," Caleb added.
 
@@ -99,9 +97,7 @@ Caleb paused. "How?"
 
 Taiga shook his head. "Ask them."
 
-Maya raised her drink.
-
-"To the arts!"
+Maya raised her drink. "To the arts!"
 
 He raised his cup.
 A few minutes later, Enzo tagged him in the Apollo group chat.
@@ -145,8 +141,8 @@ Then he turned to his left. "LEO! COME HERE I'VE FOUND HIM."
 Leo appeared beside him a moment later.
 Taiga froze for a second, blinking.
 
-He was almost entirely in white. Loose white cargo pants over white sneakers. Then strips of fabric wrapped around his torso and arms in overlapping layers. There was a deliberate amount of exposed skin around the abdomen.
-Subtle dark makeup around his eyes made them look sharper than usual.
+He was almost entirely in white, with loose white cargo pants over white sneakers. Then strips of fabric wrapped around his torso and arms in overlapping layers. 
+There was a deliberate amount of exposed skin around the abdomen and a dark makeup around his eyes made them look... sharper than usual.
 
 He saw Taiga and covered his mouth with both hands.
 
@@ -180,7 +176,7 @@ Enzo raised an eyebrow. "You cut up a shirt."
 
 "Apparently it earned a compliment from Taiga. I didn't hear him compliment yours," he said with a smug grin.
 
-"You brought the shark," he said to Enzo.
+"You brought the shark," Taiga said to Enzo.
 
 "Of course. Roberto couldn't miss this. Besides, we're coordinated!"
 
@@ -221,8 +217,8 @@ While Leo launched into a conversation with Maya about her costume, Taiga turned
 Enzo shrugged. "They're somewhere around. I haven't seen them yet."
 
 Then he pulled out his phone and started messaging frantically.
-Taiga turned back to the group. Leo and Maya were now discussing songs.
-That was fast. Caleb was glancing back and forth between the two, apparently trying to follow the conversation.
+Taiga turned back to the group. Leo and Maya were now discussing songs. That was fast.
+Caleb was glancing back and forth between the two, apparently trying to follow the conversation.
 He saw Taiga looking and decided to abandon the effort.
 
 "They were discussing a movie a minute ago," Caleb said.
@@ -253,7 +249,7 @@ Leo frowned. "What do you mean?"
 
 "What does that have to do with us?" Taiga asked.
 
-"He asked for our unconditional support. Because apparently he doesn't have the balls to do it on his own."
+"He asked for our unconditional support. Because apparently he doesn't have the guts to do it on his own."
 
 "Okay! I like it, sounds fun," Leo said.
 
@@ -280,7 +276,7 @@ Enzo raised both hands. "Good! Avengers have assembled. Let's meet with the rest
 ***
 
 They met with Aaron and the others right outside the mess hall. He was wearing a full black suit with prominent canines and fake blood dripping from his mouth. Evan had a grim reaper vest, mask and even a plastic scythe.
-Scott was in a black skeleton suit and didn't really look okay with that. Gav, on the other hand, had gone all in with an actual wizard robe, staff and a freaking heavy tome.
+Scott was in a black skeleton suit and didn't really look okay with that. Gav, on the other hand, had gone all in with an actual wizard robe, staff and a freaking heavy looking tome.
 
 While Scott's uneasiness was evident, Aaron was the most nervous by far. He was stiff as a post and kept glancing right and left.
 
@@ -300,7 +296,7 @@ Gav tilted his head. "You've known her for months now."
 
 "It still needs preparation. Planning. Something."
 
-"To me, it looks more like *you're* the one who needs preparation, not the situation itself," Maya pointed out.
+"To me, it looks more like it's *you'* who needs preparation," Maya pointed out.
 
 "I- Uh... wait, who are you?"
 
@@ -318,7 +314,7 @@ Evan lit up. "Oh, I know just the thing. You should *never* ask a girl out with 
 
 Caleb raised his hand. "If I may. I think that asking someone out while being drunk would be counterproductive rather than beneficial."
 
-Taiga leaned over. "I think he means something to loosen him up just a bit."
+Taiga leaned over him. "I think he means something to loosen him up just a bit."
 
 Aaron put his hands in front of him. "N-No, wait. I'd rather be perfectly aware of what I'm doing."
 
@@ -369,7 +365,7 @@ Aaron had become pale. Which actually fit his costume really well.
 Enzo appeared beside him and put an arm around his shoulder. He looked at the whole group.
 Somehow, they all silently waited for whatever bullshit he was about to say.
 
-Enzo smiled.
+Enzo smiled and raised his fist.
 
 "For Frodo!"
 
@@ -518,24 +514,6 @@ Taiga nodded. "Then we split the group."
 
 "So we thin down the whole pack," Evan continued. "Until only Aaron, Sofia and a couple of others remain."
 
-Taiga crossed his arms. "Who?"
-
-"Well, me, Gav and Scott will drag Enzo away. Zoe can find an excuse to leave with Nora. Maya and Caleb are self-sufficient."
-
-Taiga groaned. "No."
-
-"Yes," said Gav. "You study with Leo, you two spend time together, so it's more credible."
-
-"Why can't I just go with Caleb and Maya and Leo goes with you?"
-
-"Because that would make the whole soccer team leave at once. You have a reasonable excuse with Caleb and Maya, Leo doesn't. At that point, it'd be obvious that we left Aaron on his own."
-
-Taiga considered. Unfortunately, that made perfect sense.
-
-"What am I even supposed to tell him?"
-
-Evan smiled. "Leave that part to Leo."
-
 Nora stared at them for a couple of seconds.
 
 "You guys do realize that this is madness, right? I mean, he just needs to tell Sophie something like 'I need to talk to you'."
@@ -551,6 +529,7 @@ Taiga pointed at him. "Don't make this worse."
 "Okay," Evan clapped once. "Gav?"
 
 Gav turned to the others and briefly nodded.
+
 Shortly after, Maya approached them.
 
 "Hey! Uh—" She bit her lip for a second. "Caleb, we need to go to... do that uh- stuff."
@@ -680,7 +659,7 @@ Leo had found a black cat pin.
 Taiga put the keychain in his pocket. Next, they found a booth where another girl was reading tarot cards.
 
 Somehow, Leo convinced Taiga to give it a go.
-Lloyd would be proud of him right now. That thought made things worse.
+Lloyd would be proud of him right now and that thought made it worse.
 
 The girl behind the table shuffled the deck and looked at Taiga.
 
@@ -812,7 +791,7 @@ Enzo smacked his fist into his open palm.
 
 "We need a new plan!"
 
-"I need a drink."
+"...I need a drink."
 
 Everyone turned towards Aaron.
 
@@ -878,10 +857,9 @@ Taiga closed his eyes and exhaled.
 
 Enzo blinked. "Shark guy?"
 
-"I showed them the picture from Arcadia."
+"I showed them the picture from Arcadia," Taiga said.
 
-He recovered almost immediately. "Oh, you mean *him*."
-He raised Roberto into view.
+He recovered almost immediately. "Oh, you mean *him*!" And he raised Roberto into view.
 
 "It's adorable!" said Hiro.
 
@@ -897,21 +875,21 @@ They waved at him and introduced themselves.
 
 Yoichi raised an eyebrow. "That shark looks dumb."
 
-Enzo was profoundly offended. "You just met him and you're already bullying him?"
+Enzo looked profoundly offended. "You just met him and you're already bullying him?"
 
-Hiro laughed. "That's basically standard procedure with Yoichi."
+Hiro laughed. "That's basically standard procedure with him."
 
-"Tch."
+Yoichi rolled his eyes. "Tch."
 
 "What are you guys up to?" Keitaro asked.
 
-"Oh! We're having a secret SWAT operation."
+Enzo's grin reappeared. "Oh! We're having a secret SWAT operation."
 
 "We are not," Taiga cut in.
 
 "Our comrade needs assistance in declaring his love."
 
-Hiro nodded. "I agree. That totally is a military mission. How desperate is he?"
+Hiro nodded. "That totally is a military mission. How desperate is he?"
 
 "He already blundered once. Less than forty minutes left until final extraction."
 
@@ -932,7 +910,7 @@ Leo popped out from behind Taiga's other shoulder.
 
 Hiro narrowed his eyes for a second. Then he jumped with excitement.
 
-"You! You're the blond one! That means you two are the ones from Santo Domingo, right?"
+"You! You're the blond one! That means... you two are the ones from the Caribbean, right?"
 
 "Uh—"
 
@@ -965,8 +943,6 @@ Yoichi paused a second.
 
 "What the fuck, Dynamite?"
 
-Aaaand there he was.
-
 Enzo and Leo turned towards him.
 Then they looked at each other in delight.
 
@@ -980,7 +956,7 @@ Enzo's eyes were sparking. "Oh, absolutely yes."
 
 "I'm not telling you anything."
 
-Hiro finally lost it. "Oh my God, this is gold."
+Hiro lost it. "Oh my God, this is gold."
 
 The others were barely managing to keep a straight face.
 
@@ -1008,11 +984,11 @@ T-minus twenty.
 Aaron still had no idea how to even approach the question. The drink hadn't helped very much. If anything, now he looked more depressed than anxious.
 Enzo, Gav and Evan were still trying to create another occasion for them. At this point, though, it had become hard not to be obvious.
 
-Then, without warning, Sofia suddenly asked Aaron,
+Then, without warning, Sofia suddenly approached Aaron.
 
 "I'm thirsty, wanna come with me to grab a soda?"
 
-Aaron looked taken aback. His mouth moved, but no sound came out. He simply nodded.
+He looked taken aback. His mouth moved, but no sound came out , so he simply nodded.
 
 The others exchanged incredulous looks. Nobody spoke for several seconds.
 Then Enzo raised his hands and shouted.
@@ -1070,11 +1046,11 @@ They both kept looking at Zoe.
 
 Taiga didn't answer.
 
-"How do you do it? How do you manage to be so blunt?"
+"How do you do it? How do you manage to be so... blunt?"
 
 "What the fuck does that even—"
 
-"Just tell me."
+"Come on! Just tell me."
 
 Taiga looked at Zoe going back with the others.
 
@@ -1191,18 +1167,18 @@ Taiga raised an eyebrow. "I didn't know you were able to do this."
 
 They walked away from the party. A minute later, the crowd had already thinned down. There were only a few couples scattered around, one or two groups and a few people already dismantling their booths.
 
-Leo stayed silent for most of the walk to the dorms. Taiga left it alone. He just looked tired.
+Leo stayed silent for most of the walk to the dorms. Taiga left it alone, he just looked tired.
 
 Outside the residential building, Leo looked up.
 
 "Whew. That was a hell of a party."
 
-"It was alright."
+"It was... alright."
 
-"Alright? Are we actually giving proper compliments now?"
+"Alright? Are we actually using proper compliments now?"
 
 Taiga rolled his eyes.
-
+	
 "Go to sleep."
 
 He grinned. For fuck's sake, wasn't he passing out a few moments ago?
