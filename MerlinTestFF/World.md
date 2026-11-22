@@ -2,19 +2,30 @@
 
 ## Time and place
 
-The trilogy takes place in the founding years of Hogwarts, in an early medieval Britain inspired by the late tenth century. The date is a reference for building the setting. The story leaves the year unstated and uses fictional rulers and borders. Familiar names such as York, Wessex, Winchester, and London keep the geography readable. People in the story refer to places and communities by their own names, and the narration uses **the South** and **the North** for the wider regions. *England* and *Scotland* are reserved for the historical frame or a possible epilogue.
+The trilogy takes place in the founding years of Hogwarts, in an early medieval Britain inspired by the late tenth century. The story does not specify an exact year or recreate historical borders. Recognizable place names such as York, Wessex, Winchester, London, Alba, Strathclyde, and Moray give the setting a readable geography; monarchs, territorial ambitions, and many political relationships are fictionalized. *England* and *Scotland* need not be the names people use for the two broad regions during the trilogy; **the South** and **the North** remain useful narrative shorthand. A later epilogue may acknowledge the name *Scotland*.
 
-### The South
+### The South — protection in exchange for control
 
-The South is a recently consolidated, relatively centralized kingdom that is expanding beyond its existing borders. The crown identifies young witches and wizards and can train them for military service. Their families may gain protection, resources, or privileges in exchange for loyalty and service. The same arrangement can give a family a place of safety and give the crown a claim on what their child does with their magic.
+The South is a relatively centralized, recently consolidated, expansionist monarchy with a conventional army, administration, and territorial ambitions of its own. The king seeks to extend his political control northward; **his war is a conflict between rulers and territories, not a crusade against Hogwarts**.
 
-**Morgana leads a coven and advises the southern king.** The king supplies soldiers, resources, and royal protection. Morgana brings magical expertise and people who can serve in his army. Other members of the coven may advise nobles and gather information across several courts. London is a possible base, and *Queen of London* is a possible title among magical people. The king and Morgana each have their own ambitions and reasons to value the alliance. A family driven out by a local lord could genuinely benefit from Morgana's protection and still have to decide whether to accept its terms.
+**Morgana leads a coven and advises the southern king.** Her network supplies magical knowledge, trained people, intelligence, and connections at court; the king supplies soldiers, resources, royal authority, and protection. London remains a possible base, and *Queen of London* a possible name used for Morgana by magical people.
 
-### The North
+The southern crown offers witches and wizards **official tolerance and protection against persecution**, but in exchange expects obedience, supervision, and service. The kingdom may identify magically gifted children and train them for military use. This creates a real alternative for families persecuted elsewhere, rather than a merely fraudulent promise. Morgana can sincerely regard the system as progress even while its coercion is severe. Her interests and those of the king overlap but need not be identical.
 
-The North is a patchwork of villages, clans, regional communities, and possibly one or two small kingdoms. Local leaders govern their own people, with no single authority across the region. Neighbours share some customs and cultural ties and can also feud or compete. A community might resist southern expansion, negotiate, pay tribute, or accept an alliance. The four founders have personal origins and loyalties of their own, still open for development.
+### The North — organized kingdoms, decentralized magical life
 
-Southern pressure could bring some northern communities together over time. A possible epilogue looks across generations to the kingdom eventually called **Scotland** and the persistence of its distinct identity. Some areas may be drawn into the southern kingdom while others forge closer ties with one another. The school and the war are part of the backdrop to that longer history.
+**Revised political structure:** The North is **not** four realms assigned to the four founders, and **not** merely a collection of defenceless villages. It contains organized powers capable of fielding armies and resisting expansion, without a single northern government.
+
+- **Alba:** the major northern kingdom and an important political and military power, with a monarch, regional nobles, armed followings, and the ability to organize campaigns. Its authority is substantial but not absolute everywhere.
+- **Strathclyde:** a smaller, distinct kingdom in the western/southern frontier region, with its own ruling interests and an especially exposed position.
+- **Moray and Highland territories:** regional rulers, clans, settlements, and local powers with varying degrees of autonomy or allegiance to larger kingdoms.
+- **Norse and coastal territories:** separate powers influencing trade, raids, alliances, and maritime routes without needing their own major subplot.
+
+These are broad historical inspirations, **not** a strict map or a requirement to give each realm a royal-court storyline. Alba and Strathclyde can cooperate, compete, or negotiate separately. Resistance to the southern advance is motivated by **preserving political independence, land, and authority**, not by defending Hogwarts. A coalition may form as the South advances, but unified resistance is neither automatic nor predetermined. Terrain, logistics, regional loyalties, and occupying territory complicate southern conquest despite its organized magical units.
+
+**Magical people in the North face variable, often localized persecution.** A village might blame a witch for misfortune while another community shelters a wizard or values a healer. A northern lord might employ practitioners and still fail to protect magical children in his territory. This is not an organized modern-era witch-hunt everywhere, nor is every Muggle hostile. Northern political independence does **not** entail safety for witches and wizards.
+
+The four founders have individual origins and loyalties, still to be developed. They do not represent the four kingdoms or command the northern resistance. The historical development of Alba into what later becomes known as Scotland should not be portrayed as the founding of Scotland out of nothing during this trilogy.
 
 ### Ireland and Scandinavia
 
@@ -22,11 +33,51 @@ Ireland and the Scandinavian territories sit outside the main North–South conf
 
 ## The founding of Hogwarts
 
-**Godric starts the school. Godric, Rowena, Helga, and Salazar found Hogwarts together.** Godric leaves the South after seeing young magical people trained for the crown's wars. He starts a small, independent school in the North where they can learn magic without being pressed into service. He is a formidable fighter and can teach students how to defend themselves. His objection is to conscripting children. The other three join later, each with their own reasons. Their disagreements about admission, ancestry, security, and what the school owes its students and neighbours become harder to resolve as war approaches.
+### Purpose, independence, and secrecy
 
-The school has its own relationship with the surrounding Highland communities. Who helps it settle there, what the founders promise their neighbours, and the reason for the precise site are open. The independence that makes Hogwarts a refuge also leaves it responsible for negotiating its own safety.
+**Godric starts an independent school; Godric, Rowena, Helga, and Salazar together found Hogwarts.** Godric leaves the South after witnessing the militarization of magical children. The founders develop a hidden school dedicated first to **preserving magical lives and knowledge**, and then to transmitting that knowledge through education. Hogwarts protects children who would otherwise be persecuted, coerced into military service, or denied the opportunity to learn.
 
-The founders seek out young people who show signs of magic and can take them on personally. The first cohorts can include students of different ages, with Merlin arriving around thirteen or fourteen. An early house can grow out of a particular founder agreeing to teach a student. The Sorting Hat can be made during the founders' lifetime while they still choose pupils themselves. The Book of Admittance and Quill of Acceptance are in place by the time the castle is complete. The Hogwarts Pensieve predates the school, and the account that the founders found it at the site is an in-world legend. [Sorting Hat](https://www.harrypotter.com/writing-by-jk-rowling/the-sorting-hat) · [Book and Quill](https://www.harrypotter.com/writing-by-jk-rowling/the-quill-of-acceptance-and-the-book-of-admittance) · [Pensieve](https://www.harrypotter.com/writing-by-jk-rowling/pensieve)
+**Established direction: Hogwarts is a genuine secret, not a celebrated northern symbol of resistance.** The location is hidden from both the southern crown and northern political rulers, and the institution itself is unknown to most outsiders. Students, the founders, staff, and a limited circle of trusted parents, guardians, and associates may know it exists; knowing of the school need not mean knowing how to find it. Recruitment must be discreet. The exact enchantments governing disclosure, letters, visits, and travel are **open**.
+
+**Hogwarts is not politically involved in the North–South war.** Its founders do not command rebel forces, provide an official royal military academy, or declare allegiance to Alba. The political war belongs to the kingdoms. Students and their families can nevertheless be affected by persecution, southern recruitment, and conflict outside. Some founders may disagree about the ethics of intervention or what it means to protect the school, creating tensions without changing its established founding purpose. Hogwarts need not become the scene of another climactic siege.
+
+The school is one of the safest places in Britain for magical people because the founders' combined enchantments can be **exceptionally strong from the beginning**. Its secrecy and protections are not simply primitive versions of modern Hogwarts magic. The castle can change and accumulate enchantments over the centuries without needing to begin unprotected.
+
+### Education and early school life
+
+Witches and wizards are a **very small minority** of the population; an exact ratio is **not** fixed. A tentative idea is around one in a thousand, but this is not settled demographic canon for the fic. Crucially, **innate magic does not imply trained competence**. Many magical people, especially without access to tutors, may have only accidental, emotional, poorly controlled, or narrow practical magic. Their power does not automatically make them wealthy, socially respected, or capable of defeating armed groups.
+
+Before Hogwarts, education may come from relatives, isolated masters, local traditions, covens, and royal instruction; access varies substantially. The South's state-backed training supplies more consistently prepared practitioners but demands service. Hogwarts offers a separate path: a protected, multidisciplinary education independent of birth, status, and the crown—although **Salazar increasingly disputes who should be admitted**.
+
+The founders seek out young people who show signs of magic and can take them on personally. Early cohorts can include different ages, with Merlin arriving around thirteen or fourteen. An early House can begin as a founder choosing to teach particular students; the Sorting Hat can exist while founders still choose pupils themselves. The Book of Admittance and Quill of Acceptance are in place by the time the castle is complete. The Hogwarts Pensieve predates the school, and the account that the founders found it at the site is an in-world legend. [Sorting Hat](https://www.harrypotter.com/writing-by-jk-rowling/the-sorting-hat) · [Book and Quill](https://www.harrypotter.com/writing-by-jk-rowling/the-quill-of-acceptance-and-the-book-of-admittance) · [Pensieve](https://www.harrypotter.com/writing-by-jk-rowling/pensieve)
+
+The exact student count, staff structure, location, provisions, access routes, and recruitment practices are **open**. There can be trusted local support without revealing Hogwarts to northern rulers.
+
+### The Chamber of Secrets and Room of Requirement
+
+**The Chamber of Secrets exists and matters to the trilogy.** Salazar uses it for private instruction of chosen pupils in magic the other founders do not approve of. This secret teaching can contribute to the founders' eventual falling-out, though it is **not yet established as the decisive cause**. How the Chamber evolves into the Basilisk's hiding place is open; see [[Characters]].
+
+**The Room of Requirement already exists** as an **unforeseen consequence of the many interlocking enchantments placed on Hogwarts**. The castle's accumulated magic can respond to need in ways even the founders did not explicitly design or fully understand. Whether this amounts to consciousness, and whether the room ever appears in the plot rather than as a subtle reference, are open. The Room should not become unlimited creation of matter or energy; see [[Power system]]. Peeves' possible presence from the founding is an optional parallel, not an established explanation.
+
+### Hogsmeade — a possible sanctuary for adults
+
+**Working direction:** Connect the development of nearby **Hogsmeade** to the same impulse that produced Hogwarts, while retaining its canonical founder, **Hengist of Woodcroft**, a wizard who fled Muggle persecution. Rather than the founders personally creating the village, Hengist and other refugees may settle near the hidden school and gradually form an all-magical community.
+
+**Hogwarts shelters children and preserves magical teaching; Hogsmeade shelters adults and families and allows a magical community to live openly among itself.** Their close location can become meaningful to the story. The precise foundation date, the founders' relationship with Hengist, how the village shares Hogwarts' concealment, and how prominently it appears in the trilogy remain **open**.
+
+### From refuge toward isolation
+
+**Long-term direction:** Hogwarts and Hogsmeade become early examples of **voluntary magical withdrawal** from a society where magical people are frequently treated as threats to destroy or resources to control. The founders are not necessarily founding a worldwide separation policy, and not all Muggles are hostile. Any isolation carries moral costs for mixed families, sympathetic non-magical neighbours, and people who would prefer coexistence.
+
+The trilogy can end with the beginnings of an **isolationist philosophy**, possibly reflected by a growing Hogsmeade, rather than a completed global disappearance. The **International Statute of Wizarding Secrecy belongs to 1689–1692**, centuries after these events. Avoid having Merlin or the founders enact the worldwide Statute in the tenth century.
+
+**No universal memory-erasing spell has been established.** Magical secrecy may develop gradually through concealed settlements, protective charms, selective memory modification, dwindling public knowledge, and much later formal regulation. Whether memory alteration plays any role in our trilogy, and its ethical implications, are **open**. A community-wide retreat is not a single flawless solution to prejudice; it can be both self-preservation and a choice made out of fear.
+
+### War, numbers, and power
+
+Because magical people are rare and many are untrained, individual powerful witches and wizards cannot simply replace ordinary armies. Even trained casters are constrained by effort, stamina, concentration, countermeasures, surprise, and the needs of family and society. **Southern magic is a force multiplier**, supporting intelligence, logistics, protection, healing, and specialized combat; conventional troops still matter for mass operations, occupation, and administration. Northern magical practices are not necessarily weaker, but are less centrally organized. We do **not** need exact army-size calculations yet.
+
+The central political contrasts are: **the North offers varying degrees of independence but not guaranteed safety; the South offers official tolerance tied to obedience; Hogwarts offers protection and learning through secrecy and independence.** None is morally uniform. This framing can generate founders' disagreements and Arthur's later frustration with non-intervention without making Hogwarts a faction in the war.
 
 ## Magic in the world
 
