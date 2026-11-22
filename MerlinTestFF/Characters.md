@@ -49,16 +49,16 @@ The alliance has a genuine appeal. Morgana can offer witches and wizards protect
 ## Present cast — Hogwarts founders
 
 ### Godric Gryffindor
-**Established:** **Godric starts the original independent school** after leaving the South, where he saw young witches and wizards being prepared for compulsory royal service. Rowena, Helga, and Salazar subsequently join him; **all four together found Hogwarts**. Godric is an exceptional fighter and duellist, not a pacifist. He opposes the conscription and instrumentalization of children, not the teaching of defensive magic. His independent school in the North becomes a sanctuary from the southern crown.
+**Established:** **Godric starts the original independent school** after leaving the South, where he saw young witches and wizards being prepared for compulsory royal service. Rowena, Helga, and Salazar subsequently join him; **all four together found Hogwarts**. Godric is an exceptional fighter and duellist, not a pacifist. He opposes the conscription and instrumentalization of children, not the teaching of defensive magic. His original school becomes **a concealed sanctuary from both royal control and local persecution of magical people**. Hogwarts is not a northern military alliance or resistance headquarters; its existence and location remain secret to most northern and southern rulers. **Preservation of magical lives and knowledge** is the institution's first purpose.
 
 Godric values courage, directness, and the defence of others. His House is Arthur's natural place. The famous goblin-made sword belongs to his traditional lore. He was once especially close to Salazar; their friendship and shared project make the eventual split more painful.
 
-**Working direction:** In Book II he and Salazar may quarrel so severely that the conflict becomes physical. They may disagree over which magic ought to be taught, what protection requires, and whose children deserve an education; the war increases pressure on these disputes.
+**Working direction:** In Book II he and Salazar may quarrel so severely that the conflict becomes physical. They may disagree over which magic ought to be taught, what protection requires, and whose children deserve an education; the war increases pressure on these disputes. Godric may feel torn between maintaining the school's secrecy and intervening against suffering outside, without making Hogwarts formally join the war.
 
 **Open:** Birthplace, social standing, early allies, precise location of the original small school, and the incident that finally destroys his friendship with Salazar. He need not symbolize a separate northern kingdom.
 
 ### Salazar Slytherin
-**Established:** Hogwarts co-founder, teacher and selector of Merlin, and the founder most associated with ambition, resourcefulness, and a strong belief in magical ancestry. He must be a **formidable, genuinely compelling teacher**, not a caricature from the beginning. Merlin can learn a great deal from him and understand some of his fears before recognizing the damage of his ideology.
+**Established:** Hogwarts co-founder, teacher and selector of Merlin, and the founder most associated with ambition, resourcefulness, and a strong belief in magical ancestry. He must be a **formidable, genuinely compelling teacher**, not a caricature from the beginning. Merlin can learn a great deal from him and understand some of his fears before recognizing the damage of his ideology. In a world where many Muggles fear magic and Hogwarts must remain hidden, Salazar can point to real dangers of betrayal or exposure, but those fears do not justify denying Muggle-born children protection or education.
 
 **Established for our story:** **The Chamber of Secrets exists and will be used.** It begins, or at least functions, as a secret place where Salazar privately teaches selected pupils magic the other founders would not approve of. This teaching gives the Chamber a real purpose in the story. It can become one element in his eventual fallout with Godric, but **the Chamber alone is not the settled cause** of the rupture.
 
@@ -108,9 +108,16 @@ Her values differ from Salazar's more exclusive approach to admissions. Her will
 **Open:** Individual characters, hierarchy, internal disagreements, powers, and personal loyalties. No member's name or arc has been approved yet.
 
 ### A southern emissary / local antagonist — unnamed
-**Working direction, not yet cast:** Book I may feature an emissary or agent connected to Morgana, whose presence gives the early Hogwarts story a contained conflict. Such a person might genuinely offer northern magical families protection under the southern king, allowing Merlin and Arthur to understand why some people accept the bargain.
+**Working direction, not yet cast:** Book I may feature an emissary or agent connected to Morgana, whose presence gives the story a contained conflict **outside or on the fringes of the secret school**. The agent should not casually know Hogwarts exists or where to find it. This person might genuinely offer northern magical families protection under the southern king, allowing Merlin and Arthur to understand why some people accept the bargain.
 
 **Open:** Identity, allegiance, objectives, whether this is a member of the coven, and whether the character survives or recurs.
+
+### Hengist of Woodcroft — Hogsmeade's founder (appearance undecided)
+**Canonical figure / working worldbuilding direction:** Founder of Hogsmeade, a magical settlement traditionally linked to his flight from Muggle persecution. Our preferred explanation connects Hogsmeade's growth near Hogwarts to the same need for refuge, but **does not** make the four founders replace Hengist as its founder.
+
+**Possible function:** A refugee or organizer who establishes a home for adult witches, wizards, and families near the hidden castle, complementing Hogwarts' mission to preserve and teach magical children. The village may gradually become a significant all-magical community. He does **not** need to become a prominent character, or even to appear directly, if the story works better with the village remaining a background development.
+
+**Open:** His age, personality, whether he meets the founders, when Hogsmeade begins, how the settlement protects its secrecy, and whether Merlin encounters him.
 
 ### Peeves — potential background presence
 **Optional:** Canonical Hogwarts poltergeist. A possibility raised during castle worldbuilding is that he was already present near the school's foundation, emerging from the unruly magical atmosphere of a school full of children. This can parallel the Room of Requirement as an unintended expression of the castle's accumulated enchantments, but **his appearance and origin are not story decisions**.
@@ -181,8 +188,8 @@ These are reference points from earlier brainstorming, **not an approved Hogwart
 - **Rowena ↔ Helga:** Close friendship; a humanizing anchor among the founders.
 - **Rowena ↔ Helena:** Daughter has already disappeared with the diadem in our preferred version; Rowena's grief/secrecy can remain subtle.
 - **Caretaker ↔ Helena:** A past unreciprocated attachment and a relinquished title, treated as background; only the Book III hint is needed.
-- **Morgana ↔ southern king:** Political partners with separate agendas; neither is merely an extension of the other.
+- **Morgana ↔ southern king:** Political partners with separate agendas; neither is merely an extension of the other. Their offer of official protection for a persecuted magical minority comes at the price of obedience, central control, and militarized training.
 - **Morgana ↔ Arthur:** Prophecy drives her to persecute or target him; he eventually defeats her, then must decide what kind of man victory will make him.
-- **Book I:** Merlin's arrival, friendships, teaching, an optional local emissary; Hogwarts and the founders remain the immediate world.
+- **Book I:** Merlin's arrival, friendships, teaching, an optional local emissary acting outside the hidden castle; Hogwarts and the founders remain the immediate world. Hogwarts exists to safeguard rare, often untrained magical children from local persecution and coerced service, **not to direct the northern resistance**.
 - **Book II:** Founder disagreements and war deepen. Merlin and Arthur grow close then begin to separate. Salazar's secret teaching and eventual rupture can feature prominently. **Do not schedule Helena's murder, the caretaker's suicide, or Rowena's death here.**
-- **Book III:** Merlin and Arthur become opponents; Morgana is defeated, the pattern behind prophecy becomes clearer, and the caretaker's former baronial title can be disclosed with one casual remark. The great war's climactic battle need not be a second Battle of Hogwarts.
+- **Book III:** Merlin and Arthur become opponents; Morgana is defeated, the pattern behind prophecy becomes clearer, and the caretaker's former baronial title can be disclosed with one casual remark. The great war's climactic battle need not be a second Battle of Hogwarts. An emerging preference for magical isolation may be expressed through Hogwarts' continued secrecy and Hogsmeade's development; the worldwide Statute of Secrecy belongs centuries later.
