@@ -142,7 +142,7 @@ Leo appeared beside him a moment later.
 Taiga froze for a second, blinking.
 
 He was almost entirely in white, with loose white cargo pants over white sneakers. Then strips of fabric wrapped around his torso and arms in overlapping layers. 
-There was a deliberate amount of exposed skin around the abdomen and a dark makeup around his eyes made them look... sharper than usual.
+There was a deliberate amount of exposed skin around the abdomen. Dark makeup around his eyes made them look... sharper than usual.
 
 He saw Taiga and covered his mouth with both hands.
 
@@ -296,7 +296,7 @@ Gav tilted his head. "You've known her for months now."
 
 "It still needs preparation. Planning. Something."
 
-"To me, it looks more like it's *you'* who needs preparation," Maya pointed out.
+"To me, it looks more like it's *you* who needs to prepare," Maya pointed out.
 
 "I- Uh... wait, who are you?"
 
@@ -510,7 +510,7 @@ Taiga nodded. "Then we split the group."
 
 "How?" Nora asked.
 
-"We divide into subgroups," said Gav. "Each of them will leave in sequence. Enzo's group leaves first, for obvious reasons."
+"We divide into subgroups," said Gav. "Each of them will leave in sequence. Enzo's group leaves, for obvious reasons."
 
 "So we thin down the whole pack," Evan continued. "Until only Aaron, Sofia and a couple of others remain."
 
@@ -988,7 +988,7 @@ Then, without warning, Sofia suddenly approached Aaron.
 
 "I'm thirsty, wanna come with me to grab a soda?"
 
-He looked taken aback. His mouth moved, but no sound came out , so he simply nodded.
+He looked taken aback. His mouth moved, but no sound came out, so he simply nodded.
 
 The others exchanged incredulous looks. Nobody spoke for several seconds.
 Then Enzo raised his hands and shouted.
@@ -1078,7 +1078,7 @@ Aaron frowned, but remained silent. Taiga turned towards him.
 
 "Pretending?"
 
-"Yeah. If I can't pretend, things usually go shit. There was a time—"
+"Yeah. If I can't pretend, things usually go to shit. There was a time—"
 
 He stopped and bit his lip.
 
@@ -1103,7 +1103,7 @@ Taiga thought for a few seconds.
 Aaron crooked his mouth. "That'd be nice."
 
 Ten minutes later, the contest was over. Zoe and Nora came back, visibly disappointed by the result.
-They complained about the winners for a while. Then, they said goodbye to the others and started walking towards the dorm.
+They complained about the winners for a while. Then, they said goodbye to the others and started walking towards the dorm. Sofia joined them on the way out.
 
 Aaron stared at Sofia walking away for several seconds. Then Taiga saw him take a deep breath and suddenly he ran towards her.
 
@@ -1167,7 +1167,7 @@ Taiga raised an eyebrow. "I didn't know you were able to do this."
 
 They walked away from the party. A minute later, the crowd had already thinned down. There were only a few couples scattered around, one or two groups and a few people already dismantling their booths.
 
-Leo stayed silent for most of the walk to the dorms. Taiga left it alone, he just looked tired.
+Leo stayed silent for most of the walk to the dorms. Taiga left it alone. Leo just looked tired.
 
 Outside the residential building, Leo looked up.
 
@@ -1203,6 +1203,6 @@ He raised his hands. "Okay, okay."
 
 Then:
 
-"Night Dynamite."
+"Night, Dynamite."
 
 Taiga shoved him into his elevator.
