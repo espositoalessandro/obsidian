@@ -275,7 +275,7 @@ Evan smiled. "Yeah. But Mercer is a good coach. He knows what he's doing. I had 
 
 Then he put a hand on Taiga's shoulder.
 
-"I would really like if it's you who'll end up wearing my shirt, next year."
+"I'd really like it if *you* were the one wearing my shirt next year."
 
 Taiga felt his stomach tighten. Evan gently patted his shoulder and removed his hand.
 
