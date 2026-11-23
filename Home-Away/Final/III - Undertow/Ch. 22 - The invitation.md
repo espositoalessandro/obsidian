@@ -700,7 +700,7 @@ Taiga said nothing. A second later, Leo's eyes widened.
 
 "Y-you mean you never...?"
 
-It was dark, but Leo's face had become red enough for Taiga to notice.
+It was dark, but Leo's face had become red enough for Taiga to notice anyway.
 
 "W-well... I might have... you know... fooled around a bit, but... no. I never did... *it*."
 
