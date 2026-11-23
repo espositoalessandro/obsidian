@@ -88,7 +88,16 @@ Mercer waited, but nothing useful came out.
 Mercer nodded and left.
 
 Taiga went to the locker room, still metabolizing the thought of him actually starting.
-He lifted his shirt, shoved it into his bag and sat down to untie his boots.
+
+"Aaron! You didn't tell us how it went with Sofia," Enzo asked
+
+Aaron shrugged. "Pretty normal, I'd say?"
+
+"Did you two kiss?" Evan said with a grin.
+
+A very red Aaron turned immediately toward his locker. "That's not your fucking business."
+
+Taiga was barely listening. He lifted his shirt, shoved it into his bag and sat down to untie his boots.
 Starting. Actual fucking starting. Not first team, sure, but... that should mean something. Right?
 
 "You alright?"
