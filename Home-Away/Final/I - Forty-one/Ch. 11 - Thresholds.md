@@ -14,7 +14,7 @@ Taiga started spending more time in the library. When the library got too crowde
 Caleb had developed an entire system involving two timers, a spreadsheet and scheduled breaks. Taiga refused to participate on principle and then slowly started using the breaks anyway.
 
 Life outside classes and training kept happening too.
-He ate with the team after practice sometimes, stayed at House Apollo once after film because Gav had ordered too much food, Nora kept stealing the chair beside him in Political Institutions.
+He ate with the team after practice sometimes and stayed at House Apollo once after film because Gav had ordered too much food. Nora kept stealing the chair beside him in Political Institutions.
 Enzo slowly forgot the whole Dynamite story while Leo did not, obviously. At least he never brought it back in front of Enzo.
 Caleb and Maya dragged him to Starbuffs one Sunday morning and then spent half of breakfast discussing whether a trail near Acropolis would still be usable after the first snow.
 
@@ -89,7 +89,7 @@ Mercer nodded and left.
 
 Taiga went to the locker room, still metabolizing the thought of him actually starting.
 
-"Aaron! You didn't tell us how it went with Sofia," Enzo asked
+"Aaron! You didn't tell us how it went with Sofia," Enzo said.
 
 Aaron shrugged. "Pretty normal, I'd say?"
 
@@ -392,7 +392,7 @@ Taiga snorted.
 
 **Leo:** i'll be invisible
 
-He didn't, obviously. Nora just gave him an annoyed "Hi" when he arrived. Then Leo earned two stares and one "shut up" in about ten minutes because he kept trying to make conversation with her.
+He wasn't, obviously. Nora just gave him an annoyed "Hi" when he arrived. Then Leo earned two stares and one "shut up" in about ten minutes because he kept trying to make conversation with her.
 
 Taiga just gave him an "I told you" look when he turned to him after that. Eventually, he pulled out his laptop.
 
