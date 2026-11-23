@@ -14,8 +14,8 @@ Taiga started spending more time in the library. When the library got too crowde
 Caleb had developed an entire system involving two timers, a spreadsheet and scheduled breaks. Taiga refused to participate on principle and then slowly started using the breaks anyway.
 
 Life outside classes and training kept happening too.
-He ate with the team after practice sometimes. Stayed at House Apollo once after film because Gav had ordered too much food. Nora kept stealing the chair beside him in Political Institutions.
-Enzo slowly forgot the whole Dynamite story. Leo did not, obviously. At least he never brought it back in front of Enzo.
+He ate with the team after practice sometimes, stayed at House Apollo once after film because Gav had ordered too much food, Nora kept stealing the chair beside him in Political Institutions.
+Enzo slowly forgot the whole Dynamite story while Leo did not, obviously. At least he never brought it back in front of Enzo.
 Caleb and Maya dragged him to Starbuffs one Sunday morning and then spent half of breakfast discussing whether a trail near Acropolis would still be usable after the first snow.
 
 For almost three weeks, Olympus simply continued.
@@ -63,7 +63,7 @@ Several people immediately bent over. Enzo dropped onto his back.
 
 Mercer ignored them.
 
-"Saturday. Briarwood. Same time as usual. I'll send the group tonight."
+"Saturday we got Briarwood. Same time as usual. I'll send the group tonight."
 
 Players started toward the bottles. Taiga had barely taken a sip before Mercer called him.
 
@@ -172,15 +172,15 @@ Taiga blinked. Yeah, Caleb-virus was definitely airborne.
 
 "Is it?"
 
-"Just on our team, there are two native Spanish speakers, plus me."
+"Well, if you think about it, just on our team, there are two native Spanish speakers. Plus me."
 
 Taiga frowned. "Who?"
 
-"Who? Leo and Enzo, of course. Didn't you know they were from Santo Domingo?"
+"Who? Leo and Enzo, of course. Didn't you know they were from the Dominican Republic?"
 
 Right. He didn't think about the implications of that.
 
-"Yes, I just didn't think about it. I've only ever heard them speak English, though."
+"Yes, I just didn't think about it. I've only ever heard them speak English, though. And they speak it pretty good."
 
 "Yeah, they must have studied it since they were children. I've never actually asked them."
 
@@ -210,7 +210,7 @@ Evan smiled. They continued for a couple of minutes without speaking. Then Taiga
 
 Taiga stared at him.
 
-"Dunno, I'll probably end up working for some company. Or maybe I'll be a teacher. Or even a tour guide, that'd be nice. Free travel!"
+"Dunno," Evan continued, "I'll probably end up working for some company. Or maybe I'll be a teacher. Or even a tour guide, that'd be nice. Free travel!"
 
 "Wh— Seriously, you don't know?"
 
@@ -230,13 +230,11 @@ Evan turned toward him. "How about you?"
 
 "No, no. I mean, what are *you* doing once I'm out?"
 
-What?
-
-Ah. Right. The team.
+What? ...Ah. Right.
 
 "If you're talking about the team, I don't know. Besides, it's not up to me to decide."
 
-"It kinda is, Taiga," Evan said.
+"Well, it kinda is, Taiga," Evan said.
 
 "What do you mean?"
 
@@ -262,17 +260,17 @@ Taiga didn't answer.
 
 "Look, what I'm trying to say is that I think Mercer is betting on you. He could have picked another winger and kept you in development for the whole year or as a reserve."
 
-Taiga gulped and, after a couple of seconds, said, "That's a risky gamble."
+Taiga gulped and, after a couple of seconds, said, "That's a... risky gamble."
 
-Evan smiled. "Yeah. But Mercer is a good coach. He knows what he's doing. I had my doubts at the beginning, but I'm starting to see why he did that."
+Evan smiled. "Yeah. But Mercer is a good coach. He knows what he's doing. I had my doubts at the beginning, but... I'm starting to see why he did that."
 
 Then he put a hand on Taiga's shoulder.
 
-"And that's why I want you to wear my shirt next year."
+"I would really like if it's you who'll end up wearing my shirt, next year."
 
 Taiga felt his stomach tighten. Evan gently patted his shoulder and removed his hand.
 
-"No pressure, huh?" Taiga said.
+"N-No pressure, huh?" Taiga said.
 
 "Oh no. Pressure. I know it sucks, but I want you to know what's at stake. Just in case you thought you didn't matter that much."
 
@@ -298,7 +296,9 @@ Evan smiled. "Anyway, don't make that face. I'm not donating you my job because 
 
 Taiga laughed. "Go fuck yourself."
 
-"There he is."
+Evan started towards the door. "Eheh, not until May! Good luck, forty-one."
+
+Taiga stood there for a minute, before going back to his room.
 
 ***
 
@@ -383,7 +383,7 @@ Taiga snorted.
 
 **Leo:** i'll be invisible
 
-He didn't. Obviously. Nora just gave him an annoyed "Hi" when he arrived. Then Leo earned two stares and one "shut up" in about ten minutes because he kept trying to make conversation with her.
+He didn't, obviously. Nora just gave him an annoyed "Hi" when he arrived. Then Leo earned two stares and one "shut up" in about ten minutes because he kept trying to make conversation with her.
 
 Taiga just gave him an "I told you" look when he turned to him after that. Eventually, he pulled out his laptop.
 
@@ -413,7 +413,7 @@ He removed his hand. Taiga just shrugged.
 
 Leo turned toward him and raised an eyebrow.
 
-"Okay, that definitely needs some work."
+"Okay, that definitely needs work."
 
 Across the table, Nora snorted. Taiga glared at her.
 
@@ -531,7 +531,8 @@ What was wrong with him?
 Almost everyone he'd talked to was unsure about their future too. Yet, none of them were being such dramatic pussies over a simple major declaration.
 Instead, each time he opened the portal and looked at the *submit* button, he ended up staring at that fucking page for minutes, until eventually deciding he was still not sure enough.
 
-Which was stupid. He had basically already decided to give CS a try.
+...Which was stupid. He had basically already decided to give CS a try.
+
 Just like that idiot Aaron. He had already decided he wanted to ask Sofia, yet every time he chickened out.
 And Aaron asked him for advice? When he couldn't even bring himself to press a button that would change basically nothing?
 
@@ -670,4 +671,3 @@ Enzo pointed at him triumphantly.
 "Same thing!"
 
 Taiga rolled his eyes and followed them out.
-
