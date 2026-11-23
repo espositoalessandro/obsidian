@@ -63,7 +63,7 @@ Several people immediately bent over. Enzo dropped onto his back.
 
 Mercer ignored them.
 
-"Saturday we got Briarwood. Same time as usual. I'll send the group tonight."
+"Saturday we got Briarwood. Same time as usual. I'll post the squad list tonight."
 
 Players started toward the bottles. Taiga had barely taken a sip before Mercer called him.
 
