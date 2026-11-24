@@ -1,4 +1,4 @@
-### Chapter 23
+### Chapter 23 - Northbound
 
 At 9:28, Taiga was nervously waiting in the common room. No one else was there, which felt the whole place feel wrong.
 
