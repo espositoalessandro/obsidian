@@ -1,6 +1,6 @@
 ### Chapter 23 - Northbound
 
-At 9:28, Taiga was nervously waiting in the common room. No one else was there, which felt the whole place feel wrong.
+At 9:28, Taiga was nervously waiting in the common room. No one else was there, which made the whole place feel wrong.
 
 He had already typed *you awake?* in Leo's chat, when the elevator doors opened and a very excited Leo appeared.
 
