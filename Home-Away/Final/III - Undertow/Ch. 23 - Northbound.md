@@ -116,3 +116,84 @@ Leo ignored him. "Nice to meet you, Yoshinori."
 Yoshinori took both their duffels and put them in the back of the pickup.
 
 The drive took less then five minutes. When the car turned and took the gravel path ending with the big Camp Buddy arch, Leo leaned over the window. Taiga saw him smiling.
+
+"That sounds very official," Leo said.
+
+Taiga snorted. "Were you expecting a scam?"
+
+"One never knows."
+
+Yoshinori pulled in in the newly constructed parking lot beside the entrance arch. Taiga opened his door. Yuki hit him from the side before he'd straightened up. He caught himself on the car and got a hand under her collar.
+
+"Hi. Yeah, hi. Hang on, my foot's still in the car."
+
+She whined and put both paws on his leg. There was already mud on his jeans and he hadn't even made it off the gravel.
+
+"Tch. Look what crawled back."
+
+Yoichi was approaching with his hands in his jacket's pocket. Taiga rubbed both sides of Yuki's head and waited for her to get down.
+
+"Missed you too, dog."
+
+"Tch. As if."
+
+Leo came around the back of the car with Taiga's canvas bag in one hand. Yoichi gave him a slow look. "Who's this?"
+
+"Hi! I'm Leo." He put the bag down and offered his hand. 
+
+Yoichi glanced at it, then back at him. "You were the white guy from Halloween. The one in toilet paper."
+
+Leo blinked and lowered his hand. "I- Yes?"
+
+Yuki finally noticed Leo. She lifted her head, and he crouched down with his hand low and waited for her to come to him.
+
+"Hey."
+
+"Don't baby her," Yoichi said.
+
+"I haven't touched her."
+
+"Your voice is annoying."
+
+Yuki sniffed his hand, then his jeans. By the time he'd sat back on his heels she had her chin on his wrist.
+
+"Traitor," Yoichi muttered.
+
+Yuki immediately tried to climb into his lap. Taiga lifted both duffels from the ground and nudged Leo.
+
+"Come, let's go inside."
+
+They had barely crossed the arch, when Yuri pushed the door of one of the lodges open with her elbow, holding a basket of laundry. When she saw Taiga she exploded immediately.
+
+"KYAAA! Taiga! You really came! Come here!"
+
+Taiga took one step back. "Yuri."
+
+She set the basket down on the step and hugged him anyway. "Aww~ look at you! You look wonderful! College agrees with you."
+
+"It doesn't."
+
+"It absolutely does. Look at those shoulders of yours!"
+
+Leo turned away. Taiga pointed at him from inside the hug. "I can see you."
+
+That only made him laugh harder. Yuri finally released Taiga and caught sight of Leo.
+
+"Hello! You must be Taiga's friend!"
+
+"Yep! Hi, Leo."
+
+"I'm Yuri," she said, taking his hand with both of hers. "Welcome to Camp Buddy!"
+
+"Thanks, ma'am! It's a pleasure."
+
+"Just Yuri, please! How was the journey? Did you two already eat something?"
+
+"Just travel snacks," Taiga said.
+
+Yoshinori stepped beside them. "Then you can drop your things in cabin two. Aiden has already prepared lunch, we'll be waiting for you two."
+
+"Right." Then he turned to Leo and nodded towards the cabins. "Come."
+
+As they approached the cabins, Leo's smile became more and more stupid.
+
