@@ -195,5 +195,38 @@ Yoshinori stepped beside them. "Then you can drop your things in cabin two. Aide
 
 "Right." Then he turned to Leo and nodded towards the cabins. "Come."
 
-As they approached the cabins, Leo's smile became more and more stupid.
+As they approached the cabins, Leo's smile became more and more stupid. Outside the cabin, Taiga was about to say something about it, but he let it be. They left their boots outside and stepped in.
 
+Cabin two smelled of cold wood and floor cleaner. Two lower bunks had been set one across the other.
+
+Leo looked around. "This is much bigger than I expected! Did you sleep here?"
+
+Taiga dropped his duffel beside one bed. "Yeah, I've been sleeping in this one since my first term. Last summer, this was my bed."
+
+He put a hand on the post of the bunk above him. The three marks he'd made with his pocketknife were still there. One was longer than the others because he'd slipped.
+
+Leo came over to see what he was looking at. "Those your claw marks?"
+
+"Maybe."
+
+"Did somebody keep stealing your bed?"
+
+"No. It was a rainy day and I was bored."
+
+"Aw, shame. I came up with a whole reason for you."
+
+"One does not exclude the others."
+
+"Heh, fair. Where are the bathrooms?"
+
+"There." Taiga pointed at a door at the back of the cabin.
+
+"Oh. I didn't expect cabins to have bathrooms."
+
+"Why do you sound disappointed?"
+
+Leo stuck his head in the bathroom. "I had a whole speech ready about being brave in an outhouse."
+
+"I can find you one if you're disappointed."
+
+"No, no. I think I can live with the bathroom."
