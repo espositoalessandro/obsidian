@@ -117,7 +117,7 @@ Yoshinori took both their duffels and put them in the back of the pickup.
 
 The drive took less then five minutes. When the car turned and took the gravel path ending with the big Camp Buddy arch, Leo leaned over the window. Taiga saw him smiling.
 
-"That sounds very official," Leo said.
+"That looks very official," Leo said.
 
 Taiga snorted. "Were you expecting a scam?"
 
@@ -181,7 +181,7 @@ That only made him laugh harder. Yuri finally released Taiga and caught sight of
 
 "Hello! You must be Taiga's friend!"
 
-"Yep! Hi, Leo."
+"Yep! I'm Leo."
 
 "I'm Yuri," she said, taking his hand with both of hers. "Welcome to Camp Buddy!"
 
@@ -299,7 +299,7 @@ Lloyd and Darius came in while Taiga was wiping stew off his thumb. Lloyd had a 
 
 "Oh! New volunteer." Lloyd put the roll down and shook Leo's hand with enough enthusiasm for both of them. "Lloyd Sirius. Architect, scoutmaster, occasional victim of unrealistic deadlines."
 
-Darius held out his own hand. "Darius Najjar. Foreman. I build things. I'll be with you on the cabin row tomorrow."
+Darius held out his own hand. "Darius Najjar. Foreman. I build things."
 
 "I'm Leo! Nice to meet you," Leo answered.
 
@@ -398,7 +398,7 @@ Yoichi snorted. "Dumbass walked straight into that one."
 
 Taiga exhaled and picked up his bowl and Leo's, but Aiden met him halfway to the kitchen and took them.
 
-"Nope. You two traveled all afternoon. Go."
+"Nope. You two traveled all morning. Go."
 
 "That's not a rule," Yoichi said. He left his bowl by the sink and took a step toward the door.
 
@@ -410,4 +410,3 @@ Taiga exhaled and picked up his bowl and Leo's, but Aiden met him halfway to the
 
 "UGH."
 
-***
