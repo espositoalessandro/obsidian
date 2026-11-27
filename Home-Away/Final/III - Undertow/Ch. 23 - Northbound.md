@@ -334,7 +334,7 @@ Yoichi barked a laugh, while everyone else silently chuckled. Taiga kicked Leo u
 
 "Pffff. Progress," Yoichi said.
 
-"Fuck off. You're making me sound like a dog running at things.  That's Yoichi's job."
+"Fuck off. You're making me sound like a dog running at things. That's Yoichi's job."
 
 Yoichi flipped him off in response.
 
