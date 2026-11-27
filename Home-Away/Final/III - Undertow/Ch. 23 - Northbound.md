@@ -221,12 +221,193 @@ Leo came over to see what he was looking at. "Those your claw marks?"
 
 "There." Taiga pointed at a door at the back of the cabin.
 
-"Oh. I didn't expect cabins to have bathrooms."
-
-"Why do you sound disappointed?"
-
-Leo stuck his head in the bathroom. "I had a whole speech ready about being brave in an outhouse."
+"Oh. I didn't expect those to be inside the cabins." Leo stuck his head in the bathroom. "I had a whole speech ready about being brave in an outhouse."
 
 "I can find you one if you're disappointed."
 
-"No, no. I think I can live with the bathroom."
+"No, no. I think I can live with a bathroom."
+
+***
+
+"Taiga! Welcome back, buddy!"
+
+"Hey."
+
+Aiden was carrying a big pot when they entered the mess hall. He dropped it on a table where the others were already sitting, and hugged him.
+
+"Look at you! First semester survivor."
+
+"I'm the same one you saw four months ago..."
+
+"You're definitely not!"
+
+He let Taiga go and turned to Leo. "Hey there! I'm Aiden!"
+
+"Hello, I'm Leo! Nice to meet you!"
+
+Aiden shook his hand vigorously.
+
+"Always a pleasure to have friends brought here! This place can become pretty boring and silent during offseason, y'know. Come, I was just about to serve the stew."
+
+Most of the tables were pushed against the walls for the off-season. At the long one nearest the kitchen, Goro had a folder open beside his bowl. He closed it when Taiga came over.
+
+"Taiga, welcome back. It is good to see you here again."
+
+"Good to see you too," Taiga said.
+
+Goro gave him a small nod and turned to Leo. "Mendez, I presume."
+
+Leo stood a little straighter. "Yes, sir."
+
+"Ehem. Yoshinori informed me that you chose to spend your university recess assisting us with preseason preparations. Your help is much appreciated."
+
+"T-Thank you, sir!"
+
+Aiden set a bowl down in front of Leo. "Eat first. Goro can turn anything into an orientation speech if you give him enough time."
+
+Goro looked offended. "It was not supposed to be a speech!"
+
+Yuri sat beside her father. "Dad has been in preseason mode since February."
+
+"I have been *planning* since February."
+
+"That's exactly what I said."
+
+Leo took a bite, then reached for his water. "Oh, wow. This is really good."
+
+"That's what I like to hear, buddy!" Aiden got him another piece of bread. 
+
+"This is preseason food. Hot, filling, and there's enough of it that nobody gets to complain they're hungry later."
+
+Yoichi, already eating, looked into his bowl. "It's stew."
+
+"Correct. Good job."
+
+"Psh."
+
+"Keep talking and I'll assume you don't want seconds."
+
+Yoichi pulled his bowl closer. "Didn't say that."
+
+Lloyd and Darius came in while Taiga was wiping stew off his thumb. Lloyd had a roll of drawings under his arm.
+
+"TAIGA! There he is! You came back during actual work season. I knew college hadn't ruined you."
+
+"Hey, Taiga," Darius said.
+
+"Hey, guys."
+
+"Oh! New volunteer." Lloyd put the roll down and shook Leo's hand with enough enthusiasm for both of them. "Lloyd Sirius. Architect, scoutmaster, occasional victim of unrealistic deadlines."
+
+Darius held out his own hand. "Darius Najjar. Foreman. I build things. I'll be with you on the cabin row tomorrow."
+
+"I'm Leo! Nice to meet you," Leo answered.
+
+Lloyd pointed at Taiga. "We taught this one most of what he knows about construction. By the way, important question. Birthday?"
+
+Leo blinked. "What?"
+
+"Birthday."
+
+"M-May twenty-fourth?"
+
+Lloyd slammed the table as if that explained everything. "Gemini! I knew it."
+
+Darius slid the drawings clear of the bowls and sat down beside Lloyd. Leo leaned toward Taiga to ask what he'd done that was Gemini. Taiga just shook his head as to say *don't think about it*.
+
+Yuri lasted about three minutes before she began the interrogation she'd promised was innocent.
+
+"So, Leo! How's life at Olympus? Taiga's explanations are usually about six words long."
+
+Leo laughed. "Well, it's... busy for sure. Between classes, friends and soccer we usually have our hands full."
+
+"Oh! How's soccer with Taiga? You know, that's something he practically never talks about."
+
+Leo glanced at Taiga, who narrowed his eyes in response.
+He already knew where Yuri was going.
+
+"Uh... I'd say he looks like he's constantly pissed at the ball."
+
+Yoichi barked a laugh, while everyone else silently chuckled. Taiga kicked Leo under the table.
+
+"But in a good way!" Leo immediately added while laughing as well. "Like, he's pretty stubborn. At first, he angrily chased everything that moved in front of him. Now, he angrily chases selected things, but doesn't let go."
+
+"Pffff. Progress," Yoichi said.
+
+"Fuck off. You're making me sound like a dog running at things.  That's Yoichi's job."
+
+Yoichi flipped him in response.
+
+"Hihi~ Yeah, we know our Taiga can be pretty... resolute sometimes," Yuri said.
+
+Leo chuckled. "Yeah, then he can't take a compliment. Like, once we were in the showers and I told him-"
+
+Yuri's eyes widened. "Ohhhh, so you guys shower together? All of the team?"
+
+Leo blinked. "W-Well..."
+
+"Yuri..." Goro said glancing at her.
+
+"What? It's a perfectly legit team bonding activity. We could learn a thing or two from their coach!"
+
+Taiga sighed. "Locker rooms have shower stalls, you know. Unlike our old cabins' bathrooms. And our team has, like, twenty or something players."
+
+That apparently was the wrong thing to say. He caught a dark shine in her eyes.
+
+"Twenty??!? All in the same locker room?!?"
+
+Goro put down his spoon. "Yuri."
+
+"Yes, Dad?"
+
+"Allow our guest to eat without interrogating him."
+
+"I am getting to know him!"
+
+"You are embarrassing Taiga."
+
+"That's part of getting to know him~"
+
+Yoichi snorted into his bowl. "Dynamite's gonna fucking explode before dessert."
+
+Taiga buried his face in his hands. "I hate all of you."
+
+By the time the bowls were empty, the sun had began to descend behind the ridge.
+
+"So, what are the plans for the week?" Taiga asked.
+
+"We'll start on Monday. Most of the work will be clearing paths, inspect cabins and fix eventual damages, sorting equipment and clean the sports ground," Yoshinori said.
+
+"Meanwhile, we'll assess the all camp facilities and report to Mr. Clermont by the end of the week," Lloyd added.
+
+Taiga nodded.
+
+"That means," Yuri continued, "you guys have the weekend all for yourselves! You definitely should show Leo around."
+
+Leo's face brightened up. "Oh, yeah! That'd be amazing!"
+
+"Taiga, dear, why don't you two go to Buddy Falls tomorrow? It's beautiful in spring." 
+
+Taiga considered. "Yeah, that could be a good idea."
+
+"Yesss! It's also incredibly romantic~"
+
+"YURI."
+
+Yoichi snorted. "Dumbass walked straight into that one."
+
+Taiga exhaled and picked up his bowl and Leo's, but Aiden met him halfway to the kitchen and took them.
+
+"Nope. You two traveled all afternoon. Go."
+
+"That's not a rule," Yoichi said. He left his bowl by the sink and took a step toward the door.
+
+"It is tonight," Aiden said grabbing him back by the hoodie.
+
+"You make shit up constantly, Buttcheeks."
+
+"That's one of the privileges of being a scoutmaster." Aiden tossed him a towel. "Come on, you dry."
+
+"UGH."
+
+***
