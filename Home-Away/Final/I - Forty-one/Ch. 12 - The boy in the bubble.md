@@ -12,7 +12,7 @@ In the days before finals, House Apollo's common room had stopped being a soccer
 There were still boots by the door, jackets hanging over chairs and somebody's ball trapped under one of the couches, but every table in the common room was covered with laptops, notes and half-empty cups. Scott had taken the coffee table and was working through flashcards. Gav had three different books open around him. Enzo had somehow built a spreadsheet to calculate one of his grades and was now asking Leo why eleven slash eleven had turned into a date.
 
 Taiga looked at the scene: Leo was desperately trying to make Enzo understand why the spreadsheet kept interpreting eleven slash eleven as a date, while Enzo was deflecting every bit of information trying to reach him.
-That lasted fifteen minutes, before Leo surrendered and just fixed the damn sheet.
+That lasted fifteen minutes before Leo surrendered and just fixed the damn sheet.
 Taiga laughed once and went back to Hall's review.
 
 He had taken the end of the long table near the wall. Political Institutions was Monday morning. Chemistry was Tuesday. Calculus was Thursday. Foundations came last on Friday.
@@ -52,7 +52,7 @@ With Political Institutions over, Nora had already finished all her exams. She h
 
 "Yeah."
 
-She smiled. "You're gonna miss me, won't you?"
+She smiled. "You're gonna miss me, aren't you?"
 
 Taiga just gave her an eloquent look.
 
@@ -209,7 +209,7 @@ Taiga chuckled. "That sounds like punishment."
 
 "Why?"
 
-"Because it's Caribbean."
+"Because it's the Caribbean."
 
 "Huh, right."
 
@@ -569,7 +569,7 @@ He lowered the phone and sighed.
 
 "And that's my mom."
 
-"Still concerned for the flight?"
+"Still worried about the flight?"
 
 "Yeah."
 
@@ -638,7 +638,7 @@ Taiga watched it melt.
 
 "Then I realized that I wasn't staying there because I wanted to. Well, I actually wanted to, but mostly because of guilt. This summer, I saw everyone coming back after a whole year at college. They went on with their lives, while I was still stuck."
 
-Taiga took a drink from his chocolate.
+Taiga took a sip of his hot chocolate.
 
 "Clermont overheard two of my scoutmasters talking about convincing me to go somewhere and suggested that I apply here."
 
@@ -710,7 +710,7 @@ They reached the dorm lobby. It was completely empty.
 
 "Thanks for coming, by the way," Leo said. "I had fun today."
 
-"You almost risked your life."
+"You nearly died."
 
 Leo giggled. "Worth it."
 
