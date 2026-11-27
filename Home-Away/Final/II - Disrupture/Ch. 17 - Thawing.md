@@ -279,7 +279,7 @@ A guy had stopped beside Leo, tray in hand. His short hair was white, with sky b
 
 Leo nodded. "Yep."
 
-"Awesome! Mind if I join you? I'm Milo. Milo Kristensen."
+"Awesome! Mind if I join you? I'm Milo Kristensen, I play in the soccer team!"
 
 "Yeah, sure!" Leo said, shifting toward the window.
 
@@ -335,10 +335,6 @@ The guy put his tray on the table and sat next to Milo. "Skylar Pascual. Nice to
 "That's a freaking cool name," Aaron said.
 
 Skylar blinked. "Uh... thanks?"
-
-Milo giggled. "That's not what we call him, though—OUCH!"
-
-Skylar had kicked him under the table. "Shut up."
 
 "What position do you guys play?" Evan asked.
 
@@ -846,7 +842,7 @@ Scott lowered his head and turned his card. A three.
 
 "You need to work on your bluffing skills."
 
-Leo set his cards on the cushion and leaned across him to reach the pretzels. Their knees touched and his left palm came down on Taiga's thigh, just above the knee.
+Leo set his cards on the cushion and leaned across Taiga to reach the pretzels. Their knees touched and his left palm came down on Taiga's thigh, just above the knee.
 
 Taiga went still.
 
@@ -943,7 +939,7 @@ Taiga laughed as well. Then he turned to Leo.
 
 "Even Scott can do better than y—"
 
-His eyes were closed. One hand lay beside his face. The other had slipped between the cushions. His mouth was slightly open.
+His eyes were closed. One hand lay beside his face, while the other had slipped between the cushions. His mouth was slightly open.
 
 Taiga watched him for a few seconds and smiled, shaking his head.
 He reached for a spare cushion farther along the couch and eased it beneath Leo's head. Leo stirred and muttered something, then settled again.
