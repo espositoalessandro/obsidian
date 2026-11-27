@@ -34,7 +34,7 @@ Leo locked his phone and put it away. "I don't even know where we're heading."
 
 "A couple of hours by train, another by bus."
 
-"Right. By the way, how many scoutmaster are there now?"
+"Right. By the way, how many scoutmasters are there now?"
 
 Taiga counted on his fingers. "Five, plus camp president. Most of them don't stay for the offseason, they prefer to work part-time."
 
@@ -54,7 +54,7 @@ Leo looked down. "Right. Cool. How about Yoichi?"
 
 "No way! He's got his private house now?"
 
-"Yeah. They actually wanted to build me one as well. That's when I started thinking about college. If felt too... I dunno..."
+"Yeah. They actually wanted to build me one as well. That's when I started thinking about college. It felt too... I dunno..."
 
 "Definitive?"
 
@@ -83,11 +83,11 @@ Leo looked back at Taiga. "This is it?"
 
 "Good, because I was about to have questions."
 
-"Someone's should be coming to pick us up."
+"Someone should be coming to pick us up."
 
 Five minutes later, a tan pickup with the camp buddy logo on the front doors came around the bend, rattling a little over the broken asphalt. 
 
-Yoshinori pulled up beside the bench and welcome him with his usual proud, insufferable smile.
+Yoshinori pulled up beside the bench and welcomed him with his usual proud, insufferable smile.
 
 "Hello guys!"
 
@@ -115,7 +115,7 @@ Leo ignored him. "Nice to meet you, Yoshinori."
 
 Yoshinori took both their duffels and put them in the back of the pickup.
 
-The drive took less then five minutes. When the car turned and took the gravel path ending with the big Camp Buddy arch, Leo leaned over the window. Taiga saw him smiling.
+The drive took less than five minutes. When the car turned and took the gravel path ending with the big Camp Buddy arch, Leo leaned over the window. Taiga saw him smiling.
 
 "That sounds very official," Leo said.
 
@@ -123,7 +123,7 @@ Taiga snorted. "Were you expecting a scam?"
 
 "One never knows."
 
-Yoshinori pulled in in the newly constructed parking lot beside the entrance arch. Taiga opened his door. Yuki hit him from the side before he'd straightened up. He caught himself on the car and got a hand under her collar.
+Yoshinori pulled into the newly constructed parking lot beside the entrance arch. Taiga opened his door. Yuki hit him from the side before he'd straightened up. He caught himself on the car and got a hand under her collar.
 
 "Hi. Yeah, hi. Hang on, my foot's still in the car."
 
@@ -131,7 +131,7 @@ She whined and put both paws on his leg. There was already mud on his jeans and 
 
 "Tch. Look what crawled back."
 
-Yoichi was approaching with his hands in his jacket's pocket. Taiga rubbed both sides of Yuki's head and waited for her to get down.
+Yoichi was approaching with his hands in his jacket pockets. Taiga rubbed both sides of Yuki's head and waited for her to get down.
 
 "Missed you too, dog."
 
@@ -197,7 +197,7 @@ Yoshinori stepped beside them. "Then you can drop your things in cabin two. Aide
 
 As they approached the cabins, Leo's smile became more and more stupid. Outside the cabin, Taiga was about to say something about it, but he let it be. They left their boots outside and stepped in.
 
-Cabin two smelled of cold wood and floor cleaner. Two lower bunks had been set one across the other.
+Cabin two smelled of cold wood and floor cleaner. Two lower bunks had been made up across from each other.
 
 Leo looked around. "This is much bigger than I expected! Did you sleep here?"
 
@@ -336,7 +336,7 @@ Yoichi barked a laugh, while everyone else silently chuckled. Taiga kicked Leo u
 
 "Fuck off. You're making me sound like a dog running at things.  That's Yoichi's job."
 
-Yoichi flipped him in response.
+Yoichi flipped him off in response.
 
 "Hihi~ Yeah, we know our Taiga can be pretty... resolute sometimes," Yuri said.
 
@@ -372,11 +372,11 @@ Yoichi snorted into his bowl. "Dynamite's gonna fucking explode before dessert."
 
 Taiga buried his face in his hands. "I hate all of you."
 
-By the time the bowls were empty, the sun had began to descend behind the ridge.
+By the time the bowls were empty, the sun had begun to descend behind the ridge.
 
 "So, what are the plans for the week?" Taiga asked.
 
-"We'll start on Monday. Most of the work will be clearing paths, inspect cabins and fix eventual damages, sorting equipment and clean the sports ground," Yoshinori said.
+"We'll start on Monday. Most of the work will be clearing paths, inspecting cabins and fixing any damage, sorting equipment, and cleaning up the sports ground," Yoshinori said.
 
 "Meanwhile, we'll assess the all camp facilities and report to Mr. Clermont by the end of the week," Lloyd added.
 
