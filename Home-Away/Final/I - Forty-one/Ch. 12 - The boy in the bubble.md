@@ -119,7 +119,7 @@ Around him, there was almost nobody. Just a couple strolling in the distance and
 
 Caleb had left that morning with Maya around nine. When Taiga got back to his room, the silence was different.
 
-Caleb's chair was pushed all the way under the desk. His charger was gone. The glass of water that normally sat beside his laptop had disappeared with everything else.
+Caleb's chair was pushed all the way under the desk. His charger was gone. The mug that normally sat beside his laptop had disappeared with everything else.
 
 Taiga dropped his bag and pulled the suitcase farther out from under the bed.
 
@@ -209,7 +209,7 @@ Taiga chuckled. "That sounds like punishment."
 
 "Why?"
 
-"Because it's the Caribbean."
+"Because Caribbean."
 
 "Huh, right."
 
@@ -241,13 +241,11 @@ Taiga raised an eyebrow.
 
 Taiga nodded. "Yeah, it's pretty cool."
 
-They arrived at the station and took the train to Acropolis Park.
-The carriage was almost empty.
-They took seats across from each other by the window. Snow streaked over the glass while the train pulled away from Olympus.
+They arrived at the station and took the train to Acropolis Park. The carriage was almost empty, so
+they took seats across from each other by the window.
+Snow streaked over the glass while the train pulled away from Olympus.
 
-Leo checked his phone.
-
-"My mother has asked if my flight is still on four times."
+Leo checked his phone. "My mother has asked if my flight is still on four times."
 
 "Why four times?"
 
@@ -281,22 +279,19 @@ Taiga shook his head. Leo had apparently managed to build a full schedule before
 He looked out the window. The snow was beginning to settle on the rooftops.
 
 Acropolis Park had been turned into a winter market.
-Lights wrapped around the trees. Temporary wooden stalls lined both sides of the main path. Somebody had covered the fountain in white and yellow lights, and a large illuminated arch near the entrance announced
+Lights wrapped around the trees. Temporary wooden stalls lined both sides of the main path. Somebody had covered the fountain in white and yellow lights, and a large illuminated arch near the entrance announced:
 
 **WINTER WEEK**.
 
-Leo stopped under it.
-
-"This is nice."
+Leo stopped under it. "This is nice."
 
 "It is crowded."
 
-"Still nice."
+"Eheh, yeah, a bit. Still nice."
 
 Taiga looked around. "We'll see."
 
-The rink had been set up on the broad paved area beyond the fountain.
-They rented skates and sat on one of the benches near the entrance.
+The rink had been set up on the broad paved area beyond the fountain. They rented skates and sat on one of the benches near the entrance.
 Taiga turned one over in his hands.
 
 Leo glanced over. "You've done this before?"
@@ -313,9 +308,9 @@ Taiga groaned. "Good for you."
 
 Leo grinned. "Come, I'll teach you then!"
 
-"I'm good."
+"No, I'm good."
 
-"Eheh, alright. We'll see."
+"Alright. We'll see."
 
 Obviously, he was not. Taiga immediately hated the ice the moment he stepped onto it. The skate moved before he wanted it to. His right foot slid sideways and he caught the barrier with one hand.
 
@@ -336,8 +331,7 @@ Leo was standing there with the face of someone who was trying so hard not to la
 
 Taiga tried.
 His left skate moved. The right did not.
-He ended up grabbing the barrier for dear life again.
-A child passed behind him at a speed Taiga couldn't even imagine reaching.
+He ended up grabbing the barrier for dear life again, while a child passed behind him at a speed Taiga couldn't even imagine reaching.
 Leo moved in front of Taiga and started skating backward.
 
 "Push sideways."
@@ -351,8 +345,7 @@ Leo moved in front of Taiga and started skating backward.
 "That's why you're not moving."
 
 Taiga tried again.
-His left skate slipped too far.
-Leo immediately reached forward and took both of his hands.
+His left skate slipped too far and Leo immediately reached forward and took both of his hands.
 
 "I got you."
 
@@ -361,7 +354,7 @@ Leo immediately reached forward and took both of his hands.
 His right foot drifted again.
 Leo tightened his grip before Taiga could reach for the barrier.
 
-"Looks like you do."
+"Eheh, looks like you do."
 
 Taiga scowled.
 Leo started moving backward, pulling him slowly away from the wall.
@@ -374,7 +367,7 @@ Taiga pushed.
 
 The movement felt wrong, but at least this time he kept going.
 
-"Better."
+"Yeah! That's it."
 
 "Don't sound proud."
 
@@ -383,8 +376,7 @@ The movement felt wrong, but at least this time he kept going.
 "Fuck off."
 
 Leo kept guiding him around the first curve.
-Taiga could barely think about anything except his feet.
-The whole thing felt backwards. On grass, his body knew how to recover before he even thought about it. Here, every correction made the skates slide somewhere else.
+Taiga could barely think about anything except his feet because the whole thing felt backwards. On grass, his body knew how to recover before he even thought about it. Here, every correction made the skates slide somewhere else.
 
 "Stop looking down."
 
@@ -398,22 +390,22 @@ Leo was moving backward in front of him, arms extended between them.
 "Good," Leo said.
 
 Taiga tried another push. Then another.
-Slowly, the panic around every small slide started disappearing.
-He stopped treating each movement like an emergency.
+Slowly, the panic around every small slide started disappearing and he stopped treating each movement like an emergency.
 
 By the time they had gone most of the way around once, he could keep his feet under him without the barrier.
 
 "See? You're getting the hang of it."
 
-Taiga looked at him. Before he answered, he noticed that Leo was still holding his hands. His grip changed slightly whenever Taiga drifted to one side. His thumbs rested over Taiga's knuckles.
-They were kinda warm. His grip was tight, but somehow gentle.
+Taiga looked at him. 
+Before he answered, he noticed that Leo was still holding his hands. His grip changed slightly whenever Taiga drifted to one side. It was tight, but somehow gentle, with his thumbs resting over Taiga's knuckles.
+His hands were kinda... warm.
 
 Why was he looking at that?
 
-He looked up again. Leo was still talking, saying something about turning. Taiga had lost the first half of the sentence.
+He looked up again. Leo was still talking, saying something about turning but Taiga had lost the first half of the sentence.
 
 He looked back down and his stomach tightened a bit.
-He suddenly became too aware of how long they'd been holding hands.
+...How long had they been holding hands?
 
 Taiga cleared his throat. "Right."
 
@@ -428,9 +420,8 @@ Taiga loosened his grip.
 It came out faster than he intended.
 Leo released him immediately.
 
-"Okay."
+"Oh, okay," he said while still skating backward.
 
-He kept skating backward.
 Taiga moved on his own. Push. Glide.
 His balance held.
 
@@ -454,6 +445,7 @@ Taiga looked up at him with a frown. He was about to answer, then he saw another
 
 Leo looked over his shoulder and stopped immediately.
 The guy swerved past without touching him.
+
 Taiga, on the other hand, hadn't reached the part where he learned how to stop.
 
 "SHIT—"
@@ -474,8 +466,8 @@ He also became aware of Leo's arms still around him.
 Heat hit his ears almost immediately.
 
 What the fuck was he doing?
-
 He blinked, then let go of his jacket.
+
 Still breathing hard, he muttered, "Sorry..."
 
 Leo let go and briefly shook his head. "I stopped too fast."
@@ -503,7 +495,7 @@ They found an empty section of a bench near the edge of the market, where the cr
 Snow had thickened enough to collect along the roofs of the stalls.
 Leo took a drink too early and immediately pulled the cup away.
 
-"Fuck."
+"SHIT, it burns!"
 
 Taiga looked at him. "You watched them pour it."
 
@@ -515,7 +507,7 @@ Taiga looked at him. "You watched them pour it."
 
 Taiga shook his head and waited another minute before trying his own.
 For a while they watched people move between the stalls.
-A family passed with two small kids in matching hats. A couple near the rink entrance were trying to take a picture without dropping either of their cups. Somebody farther down the path was playing guitar badly.
+A family passed with two small kids in matching hats. A couple near the rink entrance were trying to take a picture without dropping either of their cups. Somebody farther down the path was playing guitar with a small crowd forming around him.
 
 Then Leo's phone rang. He checked the screen and groaned.
 
@@ -540,34 +532,24 @@ Leo closed his eyes.
 The voice on the other end got louder for a moment.
 Leo looked down at the yellow scarf.
 
-"Sí, tengo la bufanda."
-
-A pause.
-
-"Sí, esa."
+"Sí, tengo la bufanda. Sí, esa."
 
 Taiga smiled into his hot chocolate.
 Leo kicked lightly at the side of his shoe without interrupting the call.
 
 "Sí, comí."
 
-Another pause.
-His expression softened.
+Another pause, then his expression softened.
 
-"Yo también te quiero."
-
-Taiga looked toward the rink again.
-
-"Sí. Chao. Chao, mami."
+"Yo también te quiero. Sí. Chao. Chao, mami"
 
 A second passed.
 
 "Mami."
 
 The call finally ended.
-He lowered the phone and sighed.
 
-"And that's my mom."
+He lowered the phone and sighed. "And that's my mom."
 
 "Still worried about the flight?"
 
@@ -607,25 +589,23 @@ Leo looked toward the lights.
 
 "So, what are you guys gonna do the whole week?"
 
-Taiga shrugged. "Dunno. The usual, I guess. Light treks, maybe help with something. Chill, mostly. Then there's New Year's Eve."
+Taiga shrugged. "Dunno. The usual, I guess. Light treks, maybe help with something. Chill, mostly. Then there's New Year's Eve. They will probably set up a bonfire or something."
 
-Leo nodded. "You said you stayed a whole year there before Olympus, right?"
+Leo nodded. "Can I ask you something? You said you stayed a whole year there before Olympus, right?"
 
 "Pretty much."
 
-"Why? Isn't that a summer camp?"
+"But... why? Isn't that a summer camp?"
 
 "I volunteered to help. Last year camp was pretty much broke. Somehow we managed to get a sponsor and we started fixing and expanding the place."
 
 He told Leo about Felix's dad, the fundraising and how Keitaro managed to get his journal published.
 
-"That's insane. I mean, getting published by Clermont? And he donated everything to the camp?" Leo said.
+"That's insane! I mean, getting published by Clermont? And he donated everything to the camp?" Leo said.
 
 "Yeah, he's pretty intense. It was a shame that I—"
 
-He stopped. Nope, definitely not.
-
-Taiga cleared his throat. "Anyway, long story short, I stayed after the term to help with the renovations."
+He stopped and cleared his throat. "Anyway, long story short, I stayed after the term to help with the renovations."
 
 Leo nodded. "Mind if I ask you why? I mean, it must've been a cool place, but... deciding to volunteer for a whole year?"
 
@@ -636,15 +616,15 @@ Taiga turned to look at the people on the rink.
 Snow landed on the edge of Leo's scarf and disappeared into the fabric.
 Taiga watched it melt.
 
-"Then I realized that I wasn't staying there because I wanted to. Well, I actually wanted to, but mostly because of guilt. This summer, I saw everyone coming back after a whole year at college. They went on with their lives, while I was still stuck."
+"Then I realized that I wasn't staying there because I wanted to. Well, I actually wanted to, but mostly because of guilt. This summer, I saw everyone coming back after a whole year at college. They went on with their lives, while I was still... stuck."
 
 Taiga took a sip of his hot chocolate.
 
-"Clermont overheard two of my scoutmasters talking about convincing me to go somewhere and suggested that I apply here."
+"Mr. Clermont overheard two of my scoutmasters talking about convincing me to go somewhere and suggested that I apply here."
 
 He paused and smiled.
 
-"Yoshinori wrote something like a nine-page reference letter. Clermont signed it as well. Took me something like eleven days and a threat from Keitaro to fill out the application form and send it."
+"Yoshinori, one of them, wrote something like a nine-page reference letter. Mr. Clermont signed it as well. Took me something like eleven days and a threat from Keitaro to fill out the application form and send it."
 
 "That's kind of dramatic."
 
@@ -665,7 +645,7 @@ He then noticed that Leo was looking at him, smiling.
 
 Leo laughed. Then the conversation moved somewhere else.
 
-He talked about how loud his house was, because apparently different parts of his family lived in separate houses around the same property. Then he complained about his sister always embarrassing him in front of people.
+Leo talked about how loud his house was, because apparently different parts of his family lived in separate houses around the same property. Then he complained about his sister always embarrassing him in front of people.
 Taiga told him about some activities they did during the summer term, how Hiro once almost set himself on fire while cooking for Keitaro.
 
 Leo had snorted at that. "That feels familiar."
@@ -681,9 +661,7 @@ Leo looked down at his own screen.
 
 "Oh."
 
-Leo finished the last of his hot chocolate.
-
-"'Kay, let's go back then."
+He finished the last of his hot chocolate. "'Kay, let's go back then."
 
 They stood and went toward the station.
 
@@ -706,7 +684,7 @@ Leo nodded.
 
 "Right."
 
-They reached the dorm lobby. It was completely empty.
+They reached the dorm lobby, which was completely empty.
 
 "Thanks for coming, by the way," Leo said. "I had fun today."
 
@@ -722,7 +700,7 @@ Taiga glanced at him. Leo looked away and fiddled with his fingers.
 
 They went silent for a moment. For some reason, Taiga could feel the same uneasiness from the rink crawling back.
 
-"Text me when you get to camp. I want to see pics."
+"Text me when you get to camp. I want to see pics," Leo eventually said.
 
 "Don't count on that."
 
@@ -740,9 +718,7 @@ Leo chuckled. He put his hands in his pockets.
 
 "Dumbass. Yeah, see you."
 
-Leo hesitated for a second, then turned toward his lift. Taiga watched him go until he disappeared behind the doors.
-
-He went back to his room.
+Leo hesitated for a second, then turned toward his lift. Taiga watched him go until he disappeared behind the doors, then went back to his own room.
 
 Again, he was immediately hit by the missing presence of Caleb. It still felt weird.
 He took a shower, then went back to pack his bag.
