@@ -245,7 +245,7 @@ They arrived at the station and took the train to Acropolis Park. The carriage w
 they took seats across from each other by the window.
 Snow streaked over the glass while the train pulled away from Olympus.
 
-Leo checked his phone. "My mother has asked if my flight is still on four times."
+Leo checked his phone. "My mother's asked four times if my flight is still on."
 
 "Why four times?"
 
@@ -312,7 +312,7 @@ Leo grinned. "Come, I'll teach you then!"
 
 "Alright. We'll see."
 
-Obviously, he was not. Taiga immediately hated the ice the moment he stepped onto it. The skate moved before he wanted it to. His right foot slid sideways and he caught the barrier with one hand.
+Obviously, he was not. Taiga hated the ice the moment he stepped onto it. The skate moved before he wanted it to. His right foot slid sideways and he caught the barrier with one hand.
 
 Leo skated past him with too much confidence for a Caribbean boy.
 
@@ -402,7 +402,7 @@ His hands were kinda... warm.
 
 Why was he looking at that?
 
-He looked up again. Leo was still talking, saying something about turning but Taiga had lost the first half of the sentence.
+He looked up again. Leo was still talking, saying something about turning, but Taiga had lost the first half of the sentence.
 
 He looked back down and his stomach tightened a bit.
 ...How long had they been holding hands?
