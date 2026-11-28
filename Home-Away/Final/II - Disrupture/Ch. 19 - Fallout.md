@@ -601,7 +601,7 @@ Milo made a face. "I hope so too! Well, have a safe trip back! Text us when you 
 
 Then hugs followed. Milo squeezed Taiga before he could react.
 
-"You were on fire this morning! Your goal should have counted for two."
+"You were on fire this morning! That goal should have counted for two."
 
 "Thanks. You weren't half bad either. A real pain in the ass."
 
@@ -687,7 +687,7 @@ Aaron bit his lip. "Because... Oh, fuck. Because I felt cornered. I tried to dis
 
 "He is not—"
 
-"Of course he isn't, Taiga. I know that. And I knew that yesterday too. I knew you were good friends, and I know I hurt him as well. I saw him today."
+"Of course he isn't, Taiga. I know that. And I knew that yesterday too. I knew you are good friends, and I know I hurt him as well. I saw him today."
 
 Yeah, except it had nothing to do with Aaron.
 
